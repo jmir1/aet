@@ -74,18 +74,31 @@ jobs:
           [ ! -f results-*/*.json ] || mv results-*/*.json results/
           rm -df results-*
           echo '[' > results.json.tmp
+          echo '[' > results.table.json
           find results/*.json | while read file; do
             PKGJSON=$(printf '%s\n' "${file#results/results-}")
             PKG=$(printf '%s\n' "${PKGJSON%.json}")
             COUNT=$(jq -cr 'length' $file)
-            PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true) | .passed) | length > 0) | map(select(. == true)) | length' $file)
-            PASSED=$([ COUNT == PASSED_COUNT ] && echo true || echo false)
-            echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED}," >> results.json.tmp
+            PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true)) | length == 0) | map(select(. == true)) | length' $file)
+            PASSED=$([ "$COUNT" == "$PASSED_COUNT" ] && echo true || echo false)
+            PASSEDEMOJI=$([ "$COUNT" == "$PASSED_COUNT" ] && echo ✅ || echo ❌)
+            URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
+            echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> results.json.tmp
+            echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}," >> results.table.json
           done
           sed -i '$ s/.$//' results.json.tmp
+          sed -i '$ s/.$//' results.table.json
           echo ']' >> results.json.tmp
+          echo ']' >> results.table.json
           jq '.' results.json.tmp > results.json
           rm results.json.tmp
+
+      - name: make table
+        run: |
+          npm i -g tablemark-cli
+          printf "## Extension status\n\n" > README.md
+          tablemark results.table.json -a left -a center -a left >> README.md
+          rm results.table.json
 
       - name: commit changes
         run: |
