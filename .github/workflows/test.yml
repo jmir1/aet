@@ -2,7 +2,7 @@ name: test
 
 on:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -69,38 +69,48 @@ jobs:
         uses: actions/download-artifact@v3
 
       - name: check results and make index results file
+        id: check
         run: |
+          set -x
           COUNT_PASSED=0
           COUNT_ALL=0
           mkdir -p results
-          [ ! -f results-*/*.json ] || mv results-*/*.json results/
+          mv results-*/*.json results/
           rm -df results-*
           echo '[' > results.json.tmp
           echo '[' > results.table.json
-          find results/*.json | while read file; do
+          while read file; do
             COUNT_ALL=$((COUNT_ALL+1))
             PKGJSON=$(printf '%s\n' "${file#results/results-}")
             PKG=$(printf '%s\n' "${PKGJSON%.json}")
             COUNT=$(jq -cr 'length' $file)
             PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true)) | length == 0) | map(select(. == true)) | length' $file)
-            COUNT_PASSED=$([ "$COUNT" == "$PASSED_COUNT" ] && echo $((COUNT_PASSED+1)) || echo $COUNT_PASSED)
-            PASSED=$([ "$COUNT" == "$PASSED_COUNT" ] && echo true || echo false)
-            PASSEDEMOJI=$([ "$COUNT" == "$PASSED_COUNT" ] && echo ✅ || echo ❌)
+            if [[ "$COUNT" == "$PASSED_COUNT" ]]
+            then
+              COUNT_PASSED=$((COUNT_PASSED+1))
+              PASSED=true
+              PASSEDEMOJI=✅
+            else
+              PASSED=false
+              PASSEDEMOJI=❌
+            fi
             URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
             echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> results.json.tmp
             echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}," >> results.table.json
-          done
+          done < <(find results/*.json)
           sed -i '$ s/.$//' results.json.tmp
           sed -i '$ s/.$//' results.table.json
           echo ']' >> results.json.tmp
           echo ']' >> results.table.json
           jq '.' results.json.tmp > results.json
           rm results.json.tmp
+          echo "all=$COUNT_ALL" >> $GITHUB_OUTPUT
+          echo "passed=$COUNT_PASSED" >> $GITHUB_OUTPUT
 
       - name: make table
         run: |
           npm i -g tablemark-cli
-          printf "## Extension status\n\n### $COUNT_PASSED/$COUNT_ALL are working\n\n" > README.md
+          printf "## Extension status\n\n### ${{ steps.check.outputs.passed }}/${{ steps.check.outputs.all }} are working\n\n" > README.md
           tablemark results.table.json -a left -a center -a left >> README.md
           rm results.table.json
 
