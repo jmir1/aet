@@ -16,14 +16,16 @@ jobs:
         id: gen-matrix
         run: |
           wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
-          APKS=$(jq -c '{apks:[map(.apk) | _nwise(10)]}' index.min.json)
-          echo "matrix=$APKS" >> $GITHUB_OUTPUT
+          BATCHES=$(jq -cr '{batches:[map(.apk) | _nwise(5)] | to_entries | map({apks:.value, index:.key}) }' index.min.json)
+          echo "matrix=$BATCHES" >> $GITHUB_OUTPUT
 
   test_batches:
     name: test batches of extensions
     needs: prepare
     runs-on: ubuntu-latest
+    continue-on-error: true
     strategy:
+      fail-fast: false
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     steps:
       - name: dl tester
@@ -33,9 +35,12 @@ jobs:
           wget $JAR -O tester.jar
 
       - name: dl apks
+        id: dl-apks
         run: |
-          APKS='${{ toJSON(matrix.apks) }}'
-          jq -cr '.[]' <<< $APKS | while read i; do
+          APKS='${{ toJSON(matrix.batches) }}'
+          INDEX=$(jq -cr '.index' <<< $APKS)
+          echo "index=$INDEX" >> $GITHUB_OUTPUT
+          jq -cr '.apks | .[]' <<< $APKS | while read i; do
             wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$i -P apk/
           done
 
@@ -43,11 +48,34 @@ jobs:
         run: |
           java -jar tester.jar apk -C -D json
 
-      - name: output test results
+      - name: upload results
+        uses: actions/upload-artifact@v3
+        with:
+          name: "results-${{ steps.dl-apks.outputs.index }}"
+          path: "json/"
+          retention-days: 1
+
+  generate_results:
+    name: generate the results
+    needs: test_batches
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          ref: results
+
+      - name: get results
+        uses: actions/download-artifact@v3
+
+      - name: commit changes
         run: |
-          for filename in json/*.json; do
-            cat $filename
-          done
-
-
-
+          mkdir -p results
+          [ ! -f results-*/*.json ] || mv results-*/*.json results/
+          rm -df results-*
+          ls -la results/
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update result files"
+          git push
