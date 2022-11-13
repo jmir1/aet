@@ -40,8 +40,8 @@ jobs:
           APKS='${{ toJSON(matrix.batches) }}'
           INDEX=$(jq -cr '.index' <<< $APKS)
           echo "index=$INDEX" >> $GITHUB_OUTPUT
-          jq -cr '.apks | .[]' <<< $APKS | while read i; do
-            wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$i -P apk/
+          jq -cr '.apks | .[]' <<< $APKS | while read link; do
+            wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$link -P apk/
           done
 
       - name: test apks
@@ -68,12 +68,27 @@ jobs:
       - name: get results
         uses: actions/download-artifact@v3
 
-      - name: commit changes
+      - name: check results and make index results file
         run: |
           mkdir -p results
           [ ! -f results-*/*.json ] || mv results-*/*.json results/
           rm -df results-*
-          ls -la results/
+          echo '[' > results.json.tmp
+          find results/*.json | while read file; do
+            PKGJSON=$(printf '%s\n' "${file#results/results-}")
+            PKG=$(printf '%s\n' "${PKGJSON%.json}")
+            COUNT=$(jq -cr 'length' $file)
+            PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true) | .passed) | length > 0) | map(select(. == true)) | length' $file)
+            PASSED=$([ COUNT == PASSED_COUNT ] && echo true || echo false)
+            echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED}," >> results.json.tmp
+          done
+          sed -i '$ s/.$//' results.json.tmp
+          echo ']' >> results.json.tmp
+          jq '.' results.json.tmp > results.json
+          rm results.json.tmp
+
+      - name: commit changes
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
