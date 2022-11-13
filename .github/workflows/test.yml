@@ -1,0 +1,53 @@
+name: test
+
+on:
+  schedule:
+    - cron:  '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  prepare:
+    name: Prepare job
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.gen-matrix.outputs.matrix }}
+    steps:
+      - name: generate matrix
+        id: gen-matrix
+        run: |
+          wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
+          APKS=$(jq -c '{apks:[map(.apk) | _nwise(10)]}' index.min.json)
+          echo "matrix=$APKS" >> $GITHUB_OUTPUT
+
+  test_batches:
+    name: test batches of extensions
+    needs: prepare
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    steps:
+      - name: dl tester
+        run: |
+          wget 'https://api.github.com/repos/Claudemirovsky/aniyomi-extensions-tester/releases/latest' -O latest.json
+          JAR=$(jq -cr '.assets[0].browser_download_url' latest.json)
+          wget $JAR -O tester.jar
+
+      - name: dl apks
+        run: |
+          APKS='${{ toJSON(matrix.apks) }}'
+          jq -cr '.[]' <<< $APKS | while read i; do
+            wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$i -P apk/
+          done
+
+      - name: test apks
+        run: |
+          java -jar tester.jar apk -C -D json
+
+      - name: output test results
+        run: |
+          for filename in json/*.json; do
+            cat $filename
+          done
+
+
+
