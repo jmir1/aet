@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.gen-matrix.outputs.matrix }}
+      jar: ${{ steps.get-jar.outputs.jar }}
     steps:
       - name: generate matrix
         id: gen-matrix
@@ -18,6 +19,13 @@ jobs:
           wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
           BATCHES=$(jq -cr '{batches:[map(.apk) | _nwise(5)] | to_entries | map({apks:.value, index:.key}) }' index.min.json)
           echo "matrix=$BATCHES" >> $GITHUB_OUTPUT
+
+      - name: get tester jar
+        id: get-jar
+        run: |
+          wget 'https://api.github.com/repos/jmir1/aniyomi-extensions-tester/releases/tags/prerelease' -O latest.json
+          JAR=$(jq -cr '.assets[0].browser_download_url' latest.json)
+          echo "jar=$JAR" >> $GITHUB_OUTPUT
 
   test_batches:
     name: test batches of extensions
@@ -30,8 +38,7 @@ jobs:
     steps:
       - name: dl tester
         run: |
-          wget 'https://api.github.com/repos/jmir1/aniyomi-extensions-tester/releases/tags/prerelease' -O latest.json
-          JAR=$(jq -cr '.assets[0].browser_download_url' latest.json)
+          JAR=${{ needs.prepare.outputs.jar }}
           wget $JAR -O tester.jar
 
       - name: dl apks
