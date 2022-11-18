@@ -23,7 +23,7 @@ jobs:
       - name: get tester jar
         id: get-jar
         run: |
-          wget 'https://api.github.com/repos/jmir1/aniyomi-extensions-tester/releases/tags/prerelease' -O latest.json
+          wget 'https://api.github.com/repos/Claudemirovsky/aniyomi-extensions-tester/releases/latest' -O latest.json
           JAR=$(jq -cr '.assets[0].browser_download_url' latest.json)
           echo "jar=$JAR" >> $GITHUB_OUTPUT
 
