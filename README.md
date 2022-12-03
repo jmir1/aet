@@ -1,6 +1,6 @@
 ## Extension status
 
-### 54/111 are working
+### 51/111 are working
 
 | Extension           | Status | Log                                                                                                                              |
 | :------------------ | :----: | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@
 | de.animebase        |   ❌    | [results-de.animebase.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.animebase.json)               |
 | de.animetoast       |   ❌    | [results-de.animetoast.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.animetoast.json)             |
 | de.aniworld         |   ❌    | [results-de.aniworld.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.aniworld.json)                 |
-| de.cinemathek       |   ✅    | [results-de.cinemathek.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.cinemathek.json)             |
+| de.cinemathek       |   ❌    | [results-de.cinemathek.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.cinemathek.json)             |
 | de.filmpalast       |   ❌    | [results-de.filmpalast.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.filmpalast.json)             |
 | de.fireanime        |   ❌    | [results-de.fireanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.fireanime.json)               |
 | de.kinoking         |   ❌    | [results-de.kinoking.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.kinoking.json)                 |
@@ -52,7 +52,7 @@
 | en.hahomoe          |   ✅    | [results-en.hahomoe.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.hahomoe.json)                   |
 | en.hanime           |   ✅    | [results-en.hanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.hanime.json)                     |
 | en.hentaimama       |   ✅    | [results-en.hentaimama.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.hentaimama.json)             |
-| en.kickassanime     |   ✅    | [results-en.kickassanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.kickassanime.json)         |
+| en.kickassanime     |   ❌    | [results-en.kickassanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.kickassanime.json)         |
 | en.nineanime        |   ❌    | [results-en.nineanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.nineanime.json)               |
 | en.putlocker        |   ❌    | [results-en.putlocker.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.putlocker.json)               |
 | en.rule34video      |   ✅    | [results-en.rule34video.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.rule34video.json)           |
@@ -99,7 +99,7 @@
 | it.hentaisaturn     |   ✅    | [results-it.hentaisaturn.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.hentaisaturn.json)         |
 | pl.desuonline       |   ✅    | [results-pl.desuonline.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pl.desuonline.json)             |
 | pt.animefire        |   ✅    | [results-pt.animefire.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.animefire.json)               |
-| pt.animeshouse      |   ✅    | [results-pt.animeshouse.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.animeshouse.json)           |
+| pt.animeshouse      |   ❌    | [results-pt.animeshouse.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.animeshouse.json)           |
 | pt.animesonlinex    |   ✅    | [results-pt.animesonlinex.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.animesonlinex.json)       |
 | pt.animesup         |   ✅    | [results-pt.animesup.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.animesup.json)                 |
 | pt.animesvision     |   ❌    | [results-pt.animesvision.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.animesvision.json)         |
