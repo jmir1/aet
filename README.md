@@ -1,6 +1,6 @@
 ## Extension status
 
-### 65/137 are working
+### 63/137 are working
 
 | Extension           | Status | Log                                                                                                                              |
 | :------------------ | :----: | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@
 | ar.shahid4u         |   ❌    | [results-ar.shahid4u.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.shahid4u.json)                 |
 | ar.tuktukcinema     |   ❌    | [results-ar.tuktukcinema.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.tuktukcinema.json)         |
 | ar.witanime         |   ❌    | [results-ar.witanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.witanime.json)                 |
-| ar.xsanime          |   ✅    | [results-ar.xsanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsanime.json)                   |
+| ar.xsanime          |   ❌    | [results-ar.xsanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsanime.json)                   |
 | ar.xsmovie          |   ❌    | [results-ar.xsmovie.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsmovie.json)                   |
 | de.aniflix          |   ❌    | [results-de.aniflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.aniflix.json)                   |
 | de.anifreakz        |   ❌    | [results-de.anifreakz.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.anifreakz.json)               |
@@ -106,7 +106,7 @@
 | fr.vostfree         |   ❌    | [results-fr.vostfree.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-fr.vostfree.json)                 |
 | hi.animeWorld       |   ❌    | [results-hi.animeWorld.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-hi.animeWorld.json)             |
 | id.kuramanime       |   ✅    | [results-id.kuramanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.kuramanime.json)             |
-| id.kuronime         |   ✅    | [results-id.kuronime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.kuronime.json)                 |
+| id.kuronime         |   ❌    | [results-id.kuronime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.kuronime.json)                 |
 | id.minioppai        |   ❌    | [results-id.minioppai.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.minioppai.json)               |
 | id.neonime          |   ❌    | [results-id.neonime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.neonime.json)                   |
 | id.oploverz         |   ✅    | [results-id.oploverz.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.oploverz.json)                 |
