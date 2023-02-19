@@ -1,6 +1,6 @@
 ## Extension status
 
-### 72/146 are working
+### 71/146 are working
 
 | Extension           | Status | Log                                                                                                                              |
 | :------------------ | :----: | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@
 | en.animepahe        |   ✅    | [results-en.animepahe.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.animepahe.json)               |
 | en.animerush        |   ❌    | [results-en.animerush.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.animerush.json)               |
 | en.animixplay       |   ❌    | [results-en.animixplay.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.animixplay.json)             |
-| en.asianload        |   ✅    | [results-en.asianload.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.asianload.json)               |
+| en.asianload        |   ❌    | [results-en.asianload.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.asianload.json)               |
 | en.ask4movie        |   ✅    | [results-en.ask4movie.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.ask4movie.json)               |
 | en.bestdubbedanime  |   ✅    | [results-en.bestdubbedanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.bestdubbedanime.json)   |
 | en.dopebox          |   ✅    | [results-en.dopebox.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.dopebox.json)                   |
