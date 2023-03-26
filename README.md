@@ -1,6 +1,6 @@
 ## Extension status
 
-### 66/156 are working
+### 69/157 are working
 
 | Extension           | Status | Log                                                                                                                              |
 | :------------------ | :----: | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,6 +66,7 @@
 | en.hanime           |   ✅    | [results-en.hanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.hanime.json)                     |
 | en.hentaimama       |   ✅    | [results-en.hentaimama.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.hentaimama.json)             |
 | en.hstream          |   ✅    | [results-en.hstream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.hstream.json)                   |
+| en.index1763686211  |   ✅    | [results-en.index1763686211.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.index1763686211.json)   |
 | en.kawaiifu         |   ✅    | [results-en.kawaiifu.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.kawaiifu.json)                 |
 | en.kickassanime     |   ❌    | [results-en.kickassanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.kickassanime.json)         |
 | en.kissanime        |   ✅    | [results-en.kissanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.kissanime.json)               |
@@ -83,7 +84,7 @@
 | en.twistmoe         |   ❌    | [results-en.twistmoe.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.twistmoe.json)                 |
 | en.uhdmovies        |   ❌    | [results-en.uhdmovies.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.uhdmovies.json)               |
 | en.uniquestream     |   ❌    | [results-en.uniquestream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.uniquestream.json)         |
-| en.vidembed         |   ❌    | [results-en.vidembed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.vidembed.json)                 |
+| en.vidembed         |   ✅    | [results-en.vidembed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.vidembed.json)                 |
 | en.wcofun           |   ✅    | [results-en.wcofun.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.wcofun.json)                     |
 | en.wcostream        |   ✅    | [results-en.wcostream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.wcostream.json)               |
 | en.zoro             |   ✅    | [results-en.zoro.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.zoro.json)                         |
@@ -149,7 +150,7 @@
 | pt.cinevision       |   ❌    | [results-pt.cinevision.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.cinevision.json)             |
 | pt.goyabu           |   ❌    | [results-pt.goyabu.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.goyabu.json)                     |
 | pt.hentaiyabu       |   ❌    | [results-pt.hentaiyabu.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.hentaiyabu.json)             |
-| pt.hinatasoul       |   ❌    | [results-pt.hinatasoul.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.hinatasoul.json)             |
+| pt.hinatasoul       |   ✅    | [results-pt.hinatasoul.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.hinatasoul.json)             |
 | pt.meusanimes       |   ✅    | [results-pt.meusanimes.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.meusanimes.json)             |
 | pt.pifansubs        |   ✅    | [results-pt.pifansubs.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.pifansubs.json)               |
 | pt.puraymoe         |   ✅    | [results-pt.puraymoe.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.puraymoe.json)                 |
