@@ -82,12 +82,13 @@ jobs:
           set -x
           COUNT_PASSED=0
           COUNT_ALL=0
+          [[ -e results ]] && rm -rf results
           mkdir -p results
           mv results-*/*.json results/
           rm -df results-*
           echo '[' > results.json.tmp
           echo '[' > results.table.json
-          while read file; do
+          for file in results/*.json; do
             COUNT_ALL=$((COUNT_ALL+1))
             PKGJSON=$(printf '%s\n' "${file#results/results-}")
             PKG=$(printf '%s\n' "${PKGJSON%.json}")
@@ -105,7 +106,7 @@ jobs:
             URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
             echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> results.json.tmp
             echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}," >> results.table.json
-          done < <(find results/*.json)
+          done
           sed -i '$ s/.$//' results.json.tmp
           sed -i '$ s/.$//' results.table.json
           echo ']' >> results.json.tmp
