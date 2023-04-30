@@ -53,7 +53,8 @@ jobs:
 
       - name: test apks
         run: |
-          java -jar tester.jar apk -C -D json
+          # java -jar tester.jar apk -C -D json -P -d
+          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug
 
       - name: upload results
         uses: actions/upload-artifact@v3
