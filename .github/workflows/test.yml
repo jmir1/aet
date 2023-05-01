@@ -50,9 +50,16 @@ jobs:
           jq -cr '.apks | .[]' <<< $APKS | while read link; do
             wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$link -P apk/
           done
+ 
+      - name: Install XVFB to use GUI
+        run: |
+          sudo apt update
+          sudo apt install -y xvfb --no-install-recommends
 
       - name: test apks
         run: |
+          Xvfb -ac :99 -screen 0 1280x1024x16 > /dev/null 2>&1 &
+          export DISPLAY=:99.0
           # java -jar tester.jar apk -C -D json -P -d
           java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug
 
@@ -125,8 +132,8 @@ jobs:
 
       - name: commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Update result files"
           git push
