@@ -1,6 +1,6 @@
 ## Extension status
 
-### 84/179 are working
+### 85/179 are working
 
 | Extension            | Status | Log                                                                                                                                |
 | :------------------- | :----: | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@
 | ar.animerco          |   ❌    | [results-ar.animerco.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.animerco.json)                   |
 | ar.animetitans       |   ✅    | [results-ar.animetitans.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.animetitans.json)             |
 | ar.arabseed          |   ❌    | [results-ar.arabseed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.arabseed.json)                   |
-| ar.asia2tv           |   ❌    | [results-ar.asia2tv.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.asia2tv.json)                     |
+| ar.asia2tv           |   ✅    | [results-ar.asia2tv.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.asia2tv.json)                     |
 | ar.cartons4u         |   ❌    | [results-ar.cartons4u.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.cartons4u.json)                 |
 | ar.faselhd           |   ❌    | [results-ar.faselhd.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.faselhd.json)                     |
 | ar.movies4u          |   ❌    | [results-ar.movies4u.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.movies4u.json)                   |
@@ -43,7 +43,7 @@
 | de.cinemathek        |   ✅    | [results-de.cinemathek.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.cinemathek.json)               |
 | de.filmpalast        |   ❌    | [results-de.filmpalast.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.filmpalast.json)               |
 | de.fireanime         |   ❌    | [results-de.fireanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.fireanime.json)                 |
-| de.hdfilme           |   ✅    | [results-de.hdfilme.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.hdfilme.json)                     |
+| de.hdfilme           |   ❌    | [results-de.hdfilme.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.hdfilme.json)                     |
 | de.kinoking          |   ❌    | [results-de.kinoking.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.kinoking.json)                   |
 | de.kool              |   ✅    | [results-de.kool.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.kool.json)                           |
 | de.movie4k           |   ✅    | [results-de.movie4k.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.movie4k.json)                     |
@@ -84,7 +84,7 @@
 | en.nineanime         |   ✅    | [results-en.nineanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.nineanime.json)                 |
 | en.nollyverse        |   ✅    | [results-en.nollyverse.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.nollyverse.json)               |
 | en.noobsubs          |   ✅    | [results-en.noobsubs.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.noobsubs.json)                   |
-| en.pactedanime       |   ❌    | [results-en.pactedanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.pactedanime.json)             |
+| en.pactedanime       |   ✅    | [results-en.pactedanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.pactedanime.json)             |
 | en.putlocker         |   ❌    | [results-en.putlocker.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.putlocker.json)                 |
 | en.ripcrabbyanime    |   ❌    | [results-en.ripcrabbyanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.ripcrabbyanime.json)       |
 | en.rule34video       |   ✅    | [results-en.rule34video.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.rule34video.json)             |
