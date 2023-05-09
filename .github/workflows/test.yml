@@ -4,6 +4,19 @@ on:
   # schedule:
   #   - cron:  '0 */6 * * *'
   workflow_dispatch:
+    inputs:
+      args:
+        description: "Anitester extra arguments"
+        default: ""
+        required: false
+      lang:
+        description: "Language of extensions to test (like es/en/pt, only one)"
+        default: ""
+        required: false
+      git-repo:
+        description: "Custom tester repo (default: Claudemirovsky/aniyomi-extensions-tester)"
+        default: ""
+        required: false
 
 jobs:
   prepare:
@@ -17,13 +30,19 @@ jobs:
         id: gen-matrix
         run: |
           wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
-          BATCHES=$(jq -cr '{batches:[map(.apk) | _nwise(5)] | to_entries | map({apks:.value, index:.key}) }' index.min.json)
+          BATCHES=$(jq -cr '{batches:[map(select(.lang | test("${{ github.event.inputs.lang }}")) | .apk) | _nwise(5)] | to_entries | map({apks:.value, index:.key}) }' index.min.json)
           echo "matrix=$BATCHES" >> $GITHUB_OUTPUT
 
       - name: get tester jar
         id: get-jar
+        env:
+          TESTER_REPO: Claudemirovsky/aniyomi-extensions-tester
         run: |
-          wget 'https://api.github.com/repos/Claudemirovsky/aniyomi-extensions-tester/releases/latest' -O latest.json
+          if [[ '${{ github.event.inputs.git-repo }}' != '' ]]; then
+             TESTER_REPO='${{ github.event.inputs.git-repo }}'
+          fi
+          API_URL="https://api.github.com/repos/$TESTER_REPO/releases/latest"
+          wget --header='authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' $API_URL -O latest.json
           JAR=$(jq -cr '.assets[0].browser_download_url' latest.json)
           echo "jar=$JAR" >> $GITHUB_OUTPUT
 
@@ -61,7 +80,7 @@ jobs:
           Xvfb -ac :99 -screen 0 1280x1024x16 > /dev/null 2>&1 &
           export DISPLAY=:99.0
           # java -jar tester.jar apk -C -D json -P -d
-          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug
+          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug ${{ github.event.inputs.args }}
 
       - name: upload results
         uses: actions/upload-artifact@v3
