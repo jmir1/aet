@@ -114,7 +114,7 @@ jobs:
                   total_success=$(jq -cr "map(.results | map(select(.passed == true)) | length) | add" $file)
                   PASSEDEMOJI="❌<br>$total_success/$total_tests"
               fi
-              URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
+              URL=https://raw.githubusercontent.com/$GITHUB_REPOSITORY/results/results/results-$PKGJSON
               echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> $TMPFILE
               echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}" >> $TABLEJSON
           done
