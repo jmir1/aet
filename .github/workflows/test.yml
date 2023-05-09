@@ -74,6 +74,12 @@ jobs:
     name: generate the results
     needs: test_batches
     runs-on: ubuntu-latest
+    env:
+      COUNT_PASSED: 0
+      COUNT_ALL: 0
+      TABLEJSON: "results.table.ndjson"
+      TMPFILE: "results.json.tmp"
+
     steps:
       - name: checkout
         uses: actions/checkout@v3
@@ -84,15 +90,10 @@ jobs:
         uses: actions/download-artifact@v3
 
       - name: check results and make index results file
-        id: check
         run: |
           set -x
-          COUNT_PASSED=0
-          COUNT_ALL=0
-          TABLEJSON=results.table.ndjson
-          TMPFILE=results.json.tmp
-          echo '[' > $TMPFILE
 
+          echo '[' > $TMPFILE
           [[ -e results ]] && rm -rf results
           mkdir -p results
           mv results-*/*.json results/
@@ -122,15 +123,16 @@ jobs:
           echo ']' >> $TMPFILE
           jq '.' $TMPFILE > results.json
           rm $TMPFILE
-          echo "all=$COUNT_ALL" >> $GITHUB_OUTPUT
-          echo "passed=$COUNT_PASSED" >> $GITHUB_OUTPUT
+          echo "COUNT_ALL=$COUNT_ALL" >> $GITHUB_ENV
+          echo "COUNT_PASSED=$COUNT_PASSED" >> $GITHUB_ENV
 
+          
       - name: make table
         run: |
           npm i -g tablemark-cli
-          printf "## Extension status\n\n### ${{ steps.check.outputs.passed }}/${{ steps.check.outputs.all }} are working\n\n" > README.md
-          tablemark results.table.json -a left -a center -a left >> README.md
-          rm results.table.json
+          printf "## Extension status\n\n### $COUNT_PASSED/$COUNT_ALL are working\n\n" > README.md
+          tablemark $TABLEJSON -a left -a center -a left >> README.md
+          rm $TABLEJSON
 
       - name: commit changes
         run: |
