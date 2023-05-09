@@ -30,7 +30,16 @@ jobs:
         id: gen-matrix
         run: |
           wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
-          BATCHES=$(jq -cr '{batches:[map(select(.lang | test("${{ github.event.inputs.lang }}")) | .apk) | _nwise(5)] | to_entries | map({apks:.value, index:.key}) }' index.min.json)
+
+          BATCHES=$(jq -cr '
+          {
+              batches: [
+                  map(
+                      select(.lang | test("${{ github.event.inputs.lang }}")) # Filter by language
+                      | .apk # Get apk filename
+                  ) | _nwise(5) # Split in chunks of 5 items each
+              ] | to_entries | map({apks:.value, index:.key}) # [[apk1, apk2..], [apk3, apk4...]] -> [{apks: [apk1, apk2..], index: 0}, ...]
+          }' index.min.json)
           echo "matrix=$BATCHES" >> $GITHUB_OUTPUT
 
       - name: get tester jar
@@ -122,8 +131,15 @@ jobs:
               COUNT_ALL=$((COUNT_ALL+1))
               PKGJSON=$(printf '%s\n' "${file#results/results-}")
               PKG=$(printf '%s\n' "${PKGJSON%.json}")
-              COUNT=$(jq -cr 'length' $file)
-              PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true)) | length == 0) | map(select(. == true)) | length' $file)
+              COUNT=$(jq -cr 'length' $file) # amount of generated sources
+              PASSED_COUNT=$(jq -cr '
+              map(
+                .results 
+                | map(select(.passed != true)) # Select failures
+                | length
+              )
+              | map(select(. == 0)) # Select generated sources without any failure
+              | length' $file)
               if [[ "$COUNT" == "$PASSED_COUNT" ]]; then
                   COUNT_PASSED=$((COUNT_PASSED+1))
                   PASSED=true
