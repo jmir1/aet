@@ -89,37 +89,39 @@ jobs:
           set -x
           COUNT_PASSED=0
           COUNT_ALL=0
+          TABLEJSON=results.table.ndjson
+          TMPFILE=results.json.tmp
+          echo '[' > $TMPFILE
+
           [[ -e results ]] && rm -rf results
           mkdir -p results
           mv results-*/*.json results/
           rm -df results-*
-          echo '[' > results.json.tmp
-          echo '[' > results.table.json
+
           for file in results/*.json; do
-            COUNT_ALL=$((COUNT_ALL+1))
-            PKGJSON=$(printf '%s\n' "${file#results/results-}")
-            PKG=$(printf '%s\n' "${PKGJSON%.json}")
-            COUNT=$(jq -cr 'length' $file)
-            PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true)) | length == 0) | map(select(. == true)) | length' $file)
-            if [[ "$COUNT" == "$PASSED_COUNT" ]]
-            then
-              COUNT_PASSED=$((COUNT_PASSED+1))
-              PASSED=true
-              PASSEDEMOJI=✅
-            else
-              PASSED=false
-              PASSEDEMOJI=❌
-            fi
-            URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
-            echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> results.json.tmp
-            echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}," >> results.table.json
+              COUNT_ALL=$((COUNT_ALL+1))
+              PKGJSON=$(printf '%s\n' "${file#results/results-}")
+              PKG=$(printf '%s\n' "${PKGJSON%.json}")
+              COUNT=$(jq -cr 'length' $file)
+              PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true)) | length == 0) | map(select(. == true)) | length' $file)
+              if [[ "$COUNT" == "$PASSED_COUNT" ]]; then
+                  COUNT_PASSED=$((COUNT_PASSED+1))
+                  PASSED=true
+                  PASSEDEMOJI=✅
+              else
+                  PASSED=false
+                  total_tests=$(jq -cr "map(.results | length) | add" $file)
+                  total_success=$(jq -cr "map(.results | map(select(.passed == true)) | length) | add" $file)
+                  PASSEDEMOJI="❌<br>$total_success/$total_tests"
+              fi
+              URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
+              echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> $TMPFILE
+              echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}" >> $TABLEJSON
           done
-          sed -i '$ s/.$//' results.json.tmp
-          sed -i '$ s/.$//' results.table.json
-          echo ']' >> results.json.tmp
-          echo ']' >> results.table.json
-          jq '.' results.json.tmp > results.json
-          rm results.json.tmp
+          sed -i '$ s/.$//' $TMPFILE
+          echo ']' >> $TMPFILE
+          jq '.' $TMPFILE > results.json
+          rm $TMPFILE
           echo "all=$COUNT_ALL" >> $GITHUB_OUTPUT
           echo "passed=$COUNT_PASSED" >> $GITHUB_OUTPUT
 
