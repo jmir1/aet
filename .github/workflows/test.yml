@@ -4,6 +4,19 @@ on:
   schedule:
     - cron:  '0 */6 * * *'
   workflow_dispatch:
+    inputs:
+      args:
+        description: "Anitester extra arguments"
+        default: ""
+        required: false
+      lang:
+        description: "Language of extensions to test (like es/en/pt, only one)"
+        default: ""
+        required: false
+      git-repo:
+        description: "Custom tester repo (default: Claudemirovsky/aniyomi-extensions-tester)"
+        default: ""
+        required: false
 
 jobs:
   prepare:
@@ -17,13 +30,28 @@ jobs:
         id: gen-matrix
         run: |
           wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
-          BATCHES=$(jq -cr '{batches:[map(.apk) | _nwise(5)] | to_entries | map({apks:.value, index:.key}) }' index.min.json)
+
+          BATCHES=$(jq -cr '
+          {
+              batches: [
+                  map(
+                      select(.lang | test("${{ github.event.inputs.lang }}")) # Filter by language
+                      | .apk # Get apk filename
+                  ) | _nwise(5) # Split in chunks of 5 items each
+              ] | to_entries | map({apks:.value, index:.key}) # [[apk1, apk2..], [apk3, apk4...]] -> [{apks: [apk1, apk2..], index: 0}, ...]
+          }' index.min.json)
           echo "matrix=$BATCHES" >> $GITHUB_OUTPUT
 
       - name: get tester jar
         id: get-jar
+        env:
+          TESTER_REPO: Claudemirovsky/aniyomi-extensions-tester
         run: |
-          wget 'https://api.github.com/repos/Claudemirovsky/aniyomi-extensions-tester/releases/latest' -O latest.json
+          if [[ '${{ github.event.inputs.git-repo }}' != '' ]]; then
+             TESTER_REPO='${{ github.event.inputs.git-repo }}'
+          fi
+          API_URL="https://api.github.com/repos/$TESTER_REPO/releases/latest"
+          wget --header='authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' $API_URL -O latest.json
           JAR=$(jq -cr '.assets[0].browser_download_url' latest.json)
           echo "jar=$JAR" >> $GITHUB_OUTPUT
 
@@ -36,6 +64,12 @@ jobs:
       fail-fast: false
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
     steps:
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          java-version: 17
+          distribution: zulu
+
       - name: dl tester
         run: |
           JAR=${{ needs.prepare.outputs.jar }}
@@ -50,10 +84,18 @@ jobs:
           jq -cr '.apks | .[]' <<< $APKS | while read link; do
             wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$link -P apk/
           done
+ 
+      - name: Install XVFB to use GUI
+        run: |
+          sudo apt update
+          sudo apt install -y xvfb --no-install-recommends
 
       - name: test apks
         run: |
-          java -jar tester.jar apk -C -D json
+          Xvfb -ac :99 -screen 0 1280x1024x16 > /dev/null 2>&1 &
+          export DISPLAY=:99.0
+          # java -jar tester.jar apk -C -D json -P -d
+          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug ${{ github.event.inputs.args }}
 
       - name: upload results
         uses: actions/upload-artifact@v3
@@ -66,6 +108,12 @@ jobs:
     name: generate the results
     needs: test_batches
     runs-on: ubuntu-latest
+    env:
+      COUNT_PASSED: 0
+      COUNT_ALL: 0
+      TABLEJSON: "results.table.ndjson"
+      TMPFILE: "results.json.tmp"
+
     steps:
       - name: checkout
         uses: actions/checkout@v3
@@ -76,55 +124,61 @@ jobs:
         uses: actions/download-artifact@v3
 
       - name: check results and make index results file
-        id: check
         run: |
           set -x
-          COUNT_PASSED=0
-          COUNT_ALL=0
+
+          echo '[' > $TMPFILE
+          [[ -e results ]] && rm -rf results
           mkdir -p results
           mv results-*/*.json results/
           rm -df results-*
-          echo '[' > results.json.tmp
-          echo '[' > results.table.json
-          while read file; do
-            COUNT_ALL=$((COUNT_ALL+1))
-            PKGJSON=$(printf '%s\n' "${file#results/results-}")
-            PKG=$(printf '%s\n' "${PKGJSON%.json}")
-            COUNT=$(jq -cr 'length' $file)
-            PASSED_COUNT=$(jq -cr 'map(.results | map(select(.passed != true)) | length == 0) | map(select(. == true)) | length' $file)
-            if [[ "$COUNT" == "$PASSED_COUNT" ]]
-            then
-              COUNT_PASSED=$((COUNT_PASSED+1))
-              PASSED=true
-              PASSEDEMOJI=✅
-            else
-              PASSED=false
-              PASSEDEMOJI=❌
-            fi
-            URL=https://raw.githubusercontent.com/jmir1/aet/results/results/results-$PKGJSON
-            echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> results.json.tmp
-            echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}," >> results.table.json
-          done < <(find results/*.json)
-          sed -i '$ s/.$//' results.json.tmp
-          sed -i '$ s/.$//' results.table.json
-          echo ']' >> results.json.tmp
-          echo ']' >> results.table.json
-          jq '.' results.json.tmp > results.json
-          rm results.json.tmp
-          echo "all=$COUNT_ALL" >> $GITHUB_OUTPUT
-          echo "passed=$COUNT_PASSED" >> $GITHUB_OUTPUT
 
+          for file in results/*.json; do
+              COUNT_ALL=$((COUNT_ALL+1))
+              PKGJSON=$(printf '%s\n' "${file#results/results-}")
+              PKG=$(printf '%s\n' "${PKGJSON%.json}")
+              COUNT=$(jq -cr 'length' $file) # amount of generated sources
+              PASSED_COUNT=$(jq -cr '
+              map(
+                .results 
+                | map(select(.passed != true)) # Select failures
+                | length
+              )
+              | map(select(. == 0)) # Select generated sources without any failure
+              | length' $file)
+              if [[ "$COUNT" == "$PASSED_COUNT" ]]; then
+                  COUNT_PASSED=$((COUNT_PASSED+1))
+                  PASSED=true
+                  PASSEDEMOJI=✅
+              else
+                  PASSED=false
+                  total_tests=$(jq -cr "map(.results | length) | add" $file)
+                  total_success=$(jq -cr "map(.results | map(select(.passed == true)) | length) | add" $file)
+                  PASSEDEMOJI="❌<br>$total_success/$total_tests"
+              fi
+              URL=https://raw.githubusercontent.com/$GITHUB_REPOSITORY/results/results/results-$PKGJSON
+              echo "{\"pkg\":\"$PKG\",\"passed\":$PASSED,\"log\":\"$URL\"}," >> $TMPFILE
+              echo "{\"Extension\":\"$PKG\",\"Status\":\"$PASSEDEMOJI\",\"Log\":\"[results-$PKGJSON]($URL)\"}" >> $TABLEJSON
+          done
+          sed -i '$ s/.$//' $TMPFILE
+          echo ']' >> $TMPFILE
+          jq '.' $TMPFILE > results.json
+          rm $TMPFILE
+          echo "COUNT_ALL=$COUNT_ALL" >> $GITHUB_ENV
+          echo "COUNT_PASSED=$COUNT_PASSED" >> $GITHUB_ENV
+
+          
       - name: make table
         run: |
           npm i -g tablemark-cli
-          printf "## Extension status\n\n### ${{ steps.check.outputs.passed }}/${{ steps.check.outputs.all }} are working\n\n" > README.md
-          tablemark results.table.json -a left -a center -a left >> README.md
-          rm results.table.json
+          printf "## Extension status\n\n### $COUNT_PASSED/$COUNT_ALL are working\n\n" > README.md
+          tablemark $TABLEJSON -a left -a center -a left >> README.md
+          rm $TABLEJSON
 
       - name: commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Update result files"
           git push
