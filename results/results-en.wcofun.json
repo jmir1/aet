@@ -3,94 +3,8 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/colourblocks",
-                                "title": "Colourblocks",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg"
-                            },
-                            {
-                                "url": "/anime/alices-wonderland-bakery",
-                                "title": "Alice's Wonderland Bakery",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932939.jpg"
-                            },
-                            {
-                                "url": "/anime/chip-n-dale-nutty-tales",
-                                "title": "Chip 'N Dale: Nutty Tales",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932937.jpg"
-                            },
-                            {
-                                "url": "/anime/unicorn-warriors-eternal",
-                                "title": "Unicorn: Warriors Eternal",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932936.jpg"
-                            },
-                            {
-                                "url": "/anime/larva-family",
-                                "title": "Larva Family",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932935.jpg"
-                            },
-                            {
-                                "url": "/anime/mermaze-mermaidz",
-                                "title": "Mermaze Mermaidz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932934.jpg"
-                            },
-                            {
-                                "url": "/anime/sacrificial-princess-and-the-king-of-beasts",
-                                "title": "Sacrificial Princess and the King of Beasts",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932933.jpg"
-                            },
-                            {
-                                "url": "/anime/superbook-cartoon",
-                                "title": "Superbook (Cartoon)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932932.jpg"
-                            },
-                            {
-                                "url": "/anime/digimon-adventure-2020",
-                                "title": "Digimon Adventure (2020)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932931.jpg"
-                            },
-                            {
-                                "url": "/anime/frog-and-toad",
-                                "title": "Frog and Toad",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932929.jpg"
-                            },
-                            {
-                                "url": "/anime/sharkdog",
-                                "title": "Sharkdog",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932928.jpg"
-                            },
-                            {
-                                "url": "/anime/star-wars-young-jedi-adventures",
-                                "title": "Star Wars: Young Jedi Adventures",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932927.jpg"
-                            },
-                            {
-                                "url": "/anime/dead-mount-death-play",
-                                "title": "Dead Mount Death Play",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932926.jpg"
-                            },
-                            {
-                                "url": "/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932925.jpg"
-                            },
-                            {
-                                "url": "/anime/ada-twist-scientist",
-                                "title": "Ada Twist, Scientist",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932924.jpg"
-                            },
-                            {
-                                "url": "/anime/aristocrats-otherworldly-adventure-serving-gods-who-go-too-far",
-                                "title": "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932923.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -604,18 +518,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/colourblocks",
-                    "title": "Colourblocks",
-                    "description": "Each vibrant Colourblock personifies a color, making it memorable and exciting for a child. The Colourblocks discover that they can add colour to the world and, by working together, they can create new colours and make new friends.",
-                    "genre": "Fantasy, Kids, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg",
+                    "url": "/anime/the-world-of-narue",
+                    "title": "The World of Narue",
+                    "description": "Plot Summary: Iizuka Kazuto is a 14 year old boy who meets a somewhat weird but cute and charming girl named Narue Nanase who claims she is an Alien. The show is about the trials and tribulations of the young couple as they get to know each other.",
+                    "genre": "Romantic Comedy, Science Fiction, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/23770.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/the-world-of-narue-episode-12-english-dubbed",
+                        "name": "Episode 12 English Dubbed",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/the-world-of-narue-episode-11-english-dubbed",
+                        "name": "Episode 11 English Dubbed",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRj7HRbxa7HKmEkJ9C7X3m6i4OYQkv_hBgjFk83C-TCW5jrxV189Ru4e_LTZwN8OMGObIrHu78Q6QhnzelS79WDp8bE2X9NNNmOxocszb2y_PAVe_XcULy3HKn2Y6V0I03OxQeLF_LjBNxqnDSaW1RP3ateR91scYr4h3-wqWYzHukS6rR3T78-Qs4T3oOe1sZbsKrNUDiAr-luy7FcehCZtPcsn_YKI8PdDrIzo7mCPk",
+                        "quality": "HD",
+                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77k1PP91L-jM4MXGOl-ThlVIKN1-Lsjux2KlK3VY4oQtJMdkk4QgM_lOmTV-5uDBGRj7HRbxa7HKmEkJ9C7X3m6i4OYQkv_hBgjFk83C-TCW5jrxV189Ru4e_LTZwN8OMGObIrHu78Q6QhnzelS79WDp8bE2X9NNNmOxocszb2y_PAVe_XcULy3HKn2Y6V0I03OxQeLF_LjBNxqnDSaW1RP3ateR91scYr4h3-wqWYzHukS6rR3T78-Qs4T3oOe1sZbsKrNUDiAr-luy7FcehCZtPcsn_YKI8PdDrIzo7mCPk"
+                    },
+                    {
+                        "url": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZqmuisyVY3QhAGQztwHhJB6vuKv69Duun7Mavtb9gcNjHSEXMvsk72M8Zbf6jWik4e62PoixsW4zVtp3-cDtgIyetyTsDQapS4duLCo3s7HYbwGj0iT3W-OxWmnPr70hwf9MHo4TeeMzttlO0o0YAvBFlgouW0eLWbUf3XrJ1vV3PeOxl6-SvE4QEc2OgOJjrm0e-c60fQ7uhbKj5cVuBBWeqaPk2d0segxDBTWsKS3k",
+                        "quality": "SD",
+                        "videoUrl": "https://lb.watchanimesub.net/getvid?evid=Oaoa29ejJbuQx5Uc_Z3hoibJVSPEhh540sDuwny6feb0jDaYtd1voueNMkCSop77G8YCu3pktziLv8cjTPyME6T_F4s29AFR0X6Cw2PSZSEgncAZ7cky5gidGgNsGXLZqmuisyVY3QhAGQztwHhJB6vuKv69Duun7Mavtb9gcNjHSEXMvsk72M8Zbf6jWik4e62PoixsW4zVtp3-cDtgIyetyTsDQapS4duLCo3s7HYbwGj0iT3W-OxWmnPr70hwf9MHo4TeeMzttlO0o0YAvBFlgouW0eLWbUf3XrJ1vV3PeOxl6-SvE4QEc2OgOJjrm0e-c60fQ7uhbKj5cVuBBWeqaPk2d0segxDBTWsKS3k"
+                    }
+                ],
+                "passed": true
             }
         }
     }

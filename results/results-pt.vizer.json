@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/9-1-1",
+                                "title": "9-1-1",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4384.webp"
+                            },
+                            {
                                 "url": "/serie/online/atracao-fatal",
                                 "title": "Atração Fatal",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Succession",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4376.webp"
-                            },
-                            {
-                                "url": "/serie/online/yellowjackets",
-                                "title": "Yellowjackets",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19568.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://mixdrop.to/e/enk4gvx1u97r6z?sub=https://subs.warezcdn.net/131260-PTB.srt&c1_label=Português",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://a-delivery22.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=cz5BGVn8Hkp7y2YU5jwkAQ&e=1683850064&_t=1683836028"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=D4RWd0v9qjskkV7&expires=1683898465&ip=F0qQKRWQEy9XKxR&token=0SKHfxiyCWsj",
+                        "quality": "StreamTape(LEG)",
+                        "videoUrl": "https://streamtape.com/get_video?id=D4RWd0v9qjskkV7&expires=1683898465&ip=F0qQKRWQEy9XKxR&token=0SKHfxiyCWsj"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=G9kvKDPd4Js1rBD&expires=1683898469&ip=F0qQKRWQEy9XKxR&token=70d0YzaPggTz",
+                        "quality": "StreamTape(DUB)",
+                        "videoUrl": "https://streamtape.com/get_video?id=G9kvKDPd4Js1rBD&expires=1683898469&ip=F0qQKRWQEy9XKxR&token=70d0YzaPggTz"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/assassinato-na-cachoeira/online/gratis",
+                                "title": "Assassinato na cachoeira",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39332.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/depois-da-tempestade-2019/online/gratis",
+                                "title": "Depois da Tempestade",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39331.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/sob-suspeita-2018/online/gratis",
+                                "title": "Sob Suspeita",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39330.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/con-los-anos-que-me-quedan/online/gratis",
                                 "title": "Con los años que me quedan",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39329.jpg"
@@ -265,21 +280,6 @@
                                 "url": "/assistir/filme/ghosted-sem-resposta/online/gratis",
                                 "title": "Ghosted: Sem Resposta",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39303.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/cacador-de-tormentas/online/gratis",
-                                "title": "Caçador de Tormentas",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39302.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/casamento-australiano/online/gratis",
-                                "title": "Casamento Australiano",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39301.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/o-palhaco-de-green-bay/online/gratis",
-                                "title": "O Palhaço de Green Bay",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1701,8 +1701,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=VvVBrz90m5GNIU70wCw0rg&e=1683850070&_t=1683829081",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=VvVBrz90m5GNIU70wCw0rg&e=1683850070&_t=1683829081",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=lk-Yc9BraPoUC5BEwOlUJA&e=1683850070&_t=1683836226",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=lk-Yc9BraPoUC5BEwOlUJA&e=1683850070&_t=1683836226",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1683898469&ip=GRIsE0SnDS9X&token=fOE675bqqhvO",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1683898469&ip=GRIsE0SnDS9X&token=fOE675bqqhvO"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1683898471&ip=GRIsE0SnDS9X&token=a9mD8oOWX-qw",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1683898471&ip=GRIsE0SnDS9X&token=a9mD8oOWX-qw"
+                    }
+                ],
+                "passed": true
             }
         }
     }
