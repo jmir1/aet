@@ -291,14 +291,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=GJgAZ2m0LVUlOe&expires=1683855350&ip=GxOsFxqnDS9X&token=3qZb7SFMB4c_",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=GJgAZ2m0LVUlOe&expires=1683855350&ip=GxOsFxqnDS9X&token=3qZb7SFMB4c_"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -581,6 +575,329 @@
                 "result": [
                     {
                         "url": "/pelicula/conjuro-siniestro",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://www-qen37405.ssl0d.com/hls2/tvLRWbpSX8O-G6EUOsPmVw/1683836003/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
+                        "quality": "Streamlare:HSL",
+                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/tvLRWbpSX8O-G6EUOsPmVw/1683836003/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
+                        "headers": {
+                            "authority": "https://www-qen37405.ssl0d.com",
+                            "origin": "https://slwatch.co",
+                            "referer": "https://slwatch.co/e/NGePnbXbPdAzQqrY",
+                            "sec-ch-ua": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Google Chrome\";v=\"108\"",
+                            "sec-ch-ua-mobile": "?0",
+                            "sec-ch-ua-platform": "\"Windows\"",
+                            "sec-fetch-dest": "empty",
+                            "sec-fetch-mode": "cors",
+                            "sec-fetch-site": "cross-site",
+                            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/),108.0.0.0 Safari/537.36",
+                            "Accept-Encoding": "gzip, deflate, br",
+                            "accept": "*/*",
+                            "accept-language": "es-MX,es-419;q=0.9,es;q=0.8,en;q=0.7,zh-TW;q=0.6,zh-CN;q=0.5,zh;q=0.4"
+                        }
+                    }
+                ],
+                "passed": true
+            }
+        }
+    },
+    {
+        "name": "PelisPlusPh",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/air-2/",
+                                "title": "Air",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/air-2.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-popes-exorcist/",
+                                "title": "El exorcista del papa",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-popes-exorcist.jpg"
+                            },
+                            {
+                                "url": "/pelicula/super-mario-bros-la-pelicula/",
+                                "title": "Súper Mario Bros: La película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/super-mario-bros-la-pelicula.jpg"
+                            },
+                            {
+                                "url": "/pelicula/american-raiders-battle-fire/",
+                                "title": "American Raiders Battle Fire",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-raiders-battle-fire.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dungeons-dragons-honor-among-thieves/",
+                                "title": "Dungeons & Dragons: Honor entre ladrones",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dungeons-dragons-honor-among-thieves.jpg"
+                            },
+                            {
+                                "url": "/pelicula/battle-for-saipan/",
+                                "title": "Battle for Saipan",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/battle-for-saipan.jpg"
+                            },
+                            {
+                                "url": "/pelicula/legacy-peak/",
+                                "title": "Legacy Peak",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/legacy-peak.jpg"
+                            },
+                            {
+                                "url": "/pelicula/john-wick-chapter-4/",
+                                "title": "John Wick 4",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/john-wick-chapter-4.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-tirabeque/",
+                                "title": "El tirabeque",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-tirabeque.jpg"
+                            },
+                            {
+                                "url": "/pelicula/love-hurts/",
+                                "title": "Love Hurts",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-hurts.jpg"
+                            },
+                            {
+                                "url": "/pelicula/on-the-count-of-three/",
+                                "title": "On the Count of Three",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/on-the-count-of-three.jpg"
+                            },
+                            {
+                                "url": "/pelicula/supercell/",
+                                "title": "Supercell",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/supercell.jpg"
+                            },
+                            {
+                                "url": "/pelicula/boston-strangler/",
+                                "title": "El estrangulador de Boston",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/boston-strangler.jpg"
+                            },
+                            {
+                                "url": "/pelicula/era-ora/",
+                                "title": "Ya era hora",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/era-ora.jpg"
+                            },
+                            {
+                                "url": "/pelicula/gulltransporten/",
+                                "title": "Gold Run",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/gold-run.jpg"
+                            },
+                            {
+                                "url": "/pelicula/noise/",
+                                "title": "Ruido mental",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ruido-mental.jpg"
+                            },
+                            {
+                                "url": "/pelicula/here-love-lies/",
+                                "title": "Here Love Lies",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/here-love-lies.jpg"
+                            },
+                            {
+                                "url": "/pelicula/le-roi-des-ombres/",
+                                "title": "In His Shadow",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/in-his-shadow.jpg"
+                            },
+                            {
+                                "url": "/pelicula/kompromat/",
+                                "title": "Kompromat: El expediente ruso",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kompromat-el-expediente-ruso.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-old-way/",
+                                "title": "Camino de la venganza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/camino-de-la-venganza.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/war-of-the-worlds-annihilation/",
+                                "title": "War of the Worlds: Annihilation",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds-annihilation.jpg"
+                            },
+                            {
+                                "url": "/pelicula/small-world/",
+                                "title": "Small World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/small-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dinosaur-world/",
+                                "title": "Dinosaur World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dinosaur-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/were-all-going-to-the-worlds-fair/",
+                                "title": "We’re All Going to the World’s Fair",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/we-re-all-going-to-the-world-s-fair.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-wonderful-world-of-disney-magical-holiday-celebration/",
+                                "title": "The Wonderful World of Disney: Magical Holiday Celebration",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-wonderful-world-of-disney-magical-holiday-celebration.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ashita-sekai-ga-owaru-to-shitemo/",
+                                "title": "The Relative Worlds",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-relative-worlds.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ancestral-world/",
+                                "title": "Ancestral World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ancestral-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/cagefighter/",
+                                "title": "Cagefighter: Worlds Collide",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cagefighter-worlds-collide.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-blazing-world/",
+                                "title": "The Blazing World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-blazing-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/justin-bieber-our-world/",
+                                "title": "Justin Bieber: Our World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justin-bieber-our-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-war-of-the-worlds-2021/",
+                                "title": "War of the Worlds",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds.jpg"
+                            },
+                            {
+                                "url": "/pelicula/edge-of-the-world/",
+                                "title": "Edge of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/miraculous-world-shanghai-the-legend-of-ladydragon/",
+                                "title": "Miraculous World Shanghai, la leyenda de Ladydragon",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miraculous-world-shanghai-la-leyenda-de-ladydragon.jpg"
+                            },
+                            {
+                                "url": "/pelicula/justice-society-world-war-ii/",
+                                "title": "Justice Society: World War II",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justice-society-world-war-ii.jpg"
+                            },
+                            {
+                                "url": "/pelicula/shoplifters-of-the-world/",
+                                "title": "Shoplifters of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shoplifters-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/die-adern-der-welt/",
+                                "title": "Veins of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/veins-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/fireball-visitors-from-darker-worlds/",
+                                "title": "Fireball: Visitors From Darker Worlds",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/fireball-visitors-from-darker-worlds.jpg"
+                            },
+                            {
+                                "url": "/pelicula/olumlu-dunya/",
+                                "title": "Mortal World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mortal-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-feral-world/",
+                                "title": "A Feral World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-feral-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/taylor-swift-the-1989-world-tour-live/",
+                                "title": "Taylor Swift: The 1989 World Tour Live",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/taylor-swift-the-1989-world-tour-live.jpg"
+                            },
+                            {
+                                "url": "/pelicula/brave-blue-world/",
+                                "title": "Brave Blue World: Racing to Solve Our Water Crisis",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/brave-blue-world-racing-to-solve-our-water-crisis.jpg"
+                            },
+                            {
+                                "url": "/pelicula/shakira-en-concierto-el-dorado-world-tour/",
+                                "title": "Shakira en Concierto: El Dorado World Tour",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shakira-en-concierto-el-dorado-world-tour.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mad-world/",
+                                "title": "Mad World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mad-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/trolls-2-world-tour/",
+                                "title": "Trolls 2: World Tour",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/trolls-2-world-tour.jpg"
+                            },
+                            {
+                                "url": "/pelicula/goodbye-world/",
+                                "title": "Goodbye World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/goodbye-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/attack-on-titan-part-2/",
+                                "title": "Attack on Titan 2: End of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/attack-on-titan-2-end-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-thinning-new-world-order/",
+                                "title": "The Thinning: New World Order",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-thinning-new-world-order.jpg"
+                            },
+                            {
+                                "url": "/pelicula/marnies-world/",
+                                "title": "Marnie’s World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/marnie-s-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-world-we-make/",
+                                "title": "The World We Make",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-world-we-make.jpg"
+                            },
+                            {
+                                "url": "/pelicula/blue-world-order/",
+                                "title": "Blue World Order",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/blue-world-order.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/pelicula/air-2/",
+                    "title": "Air",
+                    "artist": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/pelicula/air-2/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

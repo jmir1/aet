@@ -598,24 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://mixdrop.to/e/enk4gvx1u97r6z?sub=https://subs.warezcdn.net/131260-PTB.srt&c1_label=Português",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery22.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=UsRDvaWUEzgzsP2RvSDDdw&e=1683806978&_t=1683786717"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=D4RWd0v9qjskkV7&expires=1683855378&ip=F0AsFxOnDS9X&token=SJrM5brrqmzE",
-                        "quality": "StreamTape(LEG)",
-                        "videoUrl": "https://streamtape.com/get_video?id=D4RWd0v9qjskkV7&expires=1683855378&ip=F0AsFxOnDS9X&token=SJrM5brrqmzE"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=G9kvKDPd4Js1rBD&expires=1683855381&ip=F0AsFxOnDS9X&token=guqwF-krILBJ",
-                        "quality": "StreamTape(DUB)",
-                        "videoUrl": "https://streamtape.com/get_video?id=G9kvKDPd4Js1rBD&expires=1683855381&ip=F0AsFxOnDS9X&token=guqwF-krILBJ"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

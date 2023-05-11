@@ -113,6 +113,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/مسلسل-chicago-med-الموسم-الثامن-الحلقة-20",
+                                "title": "مسلسل Chicago Med الموسم الثامن – الحلقة 20",
+                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2022/09/0630973dc2c99c17a602652897428713.webp?resize=400%2C600"
+                            },
+                            {
+                                "url": "/episodes/مسلسل-chicago-p-d-الموسم-العاشر-الحلقة-20",
+                                "title": "مسلسل Chicago P.D. الموسم العاشر – الحلقة 20",
+                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2022/09/0b26c9284caf830066f43f498394eec3.webp?resize=400%2C600"
+                            },
+                            {
+                                "url": "/episodes/مسلسل-true-lies-الموسم-الأول-الحلقة-11",
+                                "title": "مسلسل True Lies الموسم الأول – الحلقة 11",
+                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2023/03/c2e1755cf082eee51c5994fa8d707516-400x600.jpg?resize=400%2C600"
+                            },
+                            {
+                                "url": "/episodes/مسلسل-love-death-الموسم-الأول-الحلقة-5",
+                                "title": "مسلسل Love & Death الموسم الأول – الحلقة 5",
+                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2023/04/bbe863c4650c95072aa00218054490dc-400x600.jpg?resize=400%2C600"
+                            },
+                            {
                                 "url": "/anime-episodes/انمي-oshi-no-ko-الحلقة-5",
                                 "title": "انمي Oshi no Ko – الحلقة 5",
                                 "thumbnail_url": "https://faselhd.one/wp-content/uploads/2023/04/cea1aebeb2ca2323cabfc4b1ccee426a-400x600.jpg?resize=400%2C600"
@@ -211,26 +231,6 @@
                                 "url": "/series/مسلسل-missing-dead-alive-الموسم-الأول",
                                 "title": "مسلسل Missing: Dead or Alive? الموسم الأول",
                                 "thumbnail_url": "https://faselhd.one/wp-content/uploads/2023/05/7362fc8324e002d36b641734c394dbb4-400x600.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/series/مسلسل-dance-brothers-الموسم-الاول",
-                                "title": "مسلسل Dance Brothers الموسم الاول",
-                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2023/05/3223f0adf50067e7d2d6ce9a922bb0ba-400x600.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/episodes/مسلسل-night-court-الموسم-الأول-الحلقة-16",
-                                "title": "مسلسل Night Court الموسم الأول – الحلقة 16",
-                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2023/01/9673e8d8fc79b0c6a8143107cec1e43f.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/episodes/مسلسل-fbi-international-الموسم-الثاني-الحلقة-20",
-                                "title": "مسلسل FBI: International الموسم الثاني – الحلقة 20",
-                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2022/09/d4fe261c2774057e0ca15750b8093847-400x600.jpg?resize=400%2C600"
-                            },
-                            {
-                                "url": "/episodes/مسلسل-fbi-الموسم-الخامس-الحلقة-21",
-                                "title": "مسلسل FBI الموسم الخامس – الحلقة 21",
-                                "thumbnail_url": "https://faselhd.one/wp-content/uploads/2022/09/6fc8b91f0da90f142570a04ee13bc128-400x600.jpg?resize=400%2C600"
                             }
                         ],
                         "hasNextPage": true
@@ -397,17 +397,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "<html> ",
-                        "quality": "t/javascript\" src=\"https://ssl.p.jwpcdn.com/player/v/8.26.1/jwplayer.js\"></script>\n\t\t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\n\t\t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js\"></script>\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\">\n\t\t<title>FaselHD Player</title>\n\t\t<style>\n\t\thtmlp",
-                        "videoUrl": "<html> ",
-                        "headers": {
-                            "Referer": "https://www.faselhd.ac/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: java.net.UnknownHostException: www.faselhd.one: Name or service not known",
+                "passed": false
             }
         }
     }
