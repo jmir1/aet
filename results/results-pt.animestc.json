@@ -413,16 +413,77 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/series/1565",
+                    "title": "Kono Subarashii Sekai ni Bakuen wo!",
+                    "description": "Esta jovem e espevitada maga vai fazer de tudo para dominar o feitiço que lhe salvou a vida: Explosão! Megumin, a Grande Gênia do Clã da Magia Escarlate, escolheu se dedicar aos estudos da poderosa magia ofensiva que seu misterioso benfeitor usou... Até o dia em que sua irmã mais nova encontra um gato negro na floresta que pode ser a chave para o despertar de um Deus das Trevas!\n",
+                    "genre": "Aventura, Comédia, Fantasia",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes?slug=kono-subarashii-sekai-ni-bakuen-wo-episodio-06",
+                        "name": "Kono Subarashii Sekai Ni Bakuen Wo! - Episódio 06",
+                        "date_upload": 1683745135000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episodes?slug=kono-subarashii-sekai-ni-bakuen-wo-episodio-05",
+                        "name": "Kono Subarashii Sekai Ni Bakuen Wo! - Episódio 05",
+                        "date_upload": 1683744779000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn-143.anonfiles.com/T5b44dq3z3/7b9b5cec-1683785953/%5BAnimesTC%5D+Kono+Subarashii+Sekai+ni+Bakuen+o%21+-+06+%28720p%29.mkv",
+                        "quality": "AnonFiles - HD",
+                        "videoUrl": "https://cdn-143.anonfiles.com/T5b44dq3z3/7b9b5cec-1683785953/%5BAnimesTC%5D+Kono+Subarashii+Sekai+ni+Bakuen+o%21+-+06+%28720p%29.mkv"
+                    },
+                    {
+                        "url": "https://cdn-141.anonfiles.com/a18840qdz3/e46daffa-1683785960/%5BAnimesTC%5D+Kono+Subarashii+Sekai+ni+Bakuen+o%21+-+06+%281080p%29.mkv",
+                        "quality": "AnonFiles - FULLHD",
+                        "videoUrl": "https://cdn-141.anonfiles.com/a18840qdz3/e46daffa-1683785960/%5BAnimesTC%5D+Kono+Subarashii+Sekai+ni+Bakuen+o%21+-+06+%281080p%29.mkv"
+                    },
+                    {
+                        "url": "https://cdn-141.anonfiles.com/17zf58qczb/76881f16-1683785952/%5BAnimesTC%5D+Kono+Subarashii+Sekai+ni+Bakuen+o%21+-+06.mp4",
+                        "quality": "AnonFiles - SD",
+                        "videoUrl": "https://cdn-141.anonfiles.com/17zf58qczb/76881f16-1683785952/%5BAnimesTC%5D+Kono+Subarashii+Sekai+ni+Bakuen+o%21+-+06.mp4"
+                    },
+                    {
+                        "url": "https://92162099.sendcdn.com/d/fby234jf6gosj4l4gfyffh5jy2ao6qgsklwsburw6bgmf36cdzjhun77nb3nfcgnbqh7sk3h/video.mkv",
+                        "quality": "Sendcm - HD",
+                        "videoUrl": "https://92162099.sendcdn.com/d/fby234jf6gosj4l4gfyffh5jy2ao6qgsklwsburw6bgmf36cdzjhun77nb3nfcgnbqh7sk3h/video.mkv",
+                        "headers": {
+                            "Referer": "https://send.cm/efztqxgt2kxp"
+                        }
+                    },
+                    {
+                        "url": "https://82416192.sendcdn.com/d/gry7dqbf6gosj4l4gjyfdevu22ld6s3wlt6h75ghtcrpguhkexnefr4xab2he2dotb62b6jo/video.mkv",
+                        "quality": "Sendcm - FULLHD",
+                        "videoUrl": "https://82416192.sendcdn.com/d/gry7dqbf6gosj4l4gjyfdevu22ld6s3wlt6h75ghtcrpguhkexnefr4xab2he2dotb62b6jo/video.mkv",
+                        "headers": {
+                            "Referer": "https://send.cm/fkgdgnnlkw6w"
+                        }
+                    },
+                    {
+                        "url": "https://61436192.sendcdn.com/d/ffyq7qbf6gosj4l4gjyfffnvqqi2jmqaezuosbmgr6qjv2bgkwh5rpg2tib5rtkiipyikvji/video.mp4",
+                        "quality": "Sendcm - SD",
+                        "videoUrl": "https://61436192.sendcdn.com/d/ffyq7qbf6gosj4l4gjyfffnvqqi2jmqaezuosbmgr6qjv2bgkwh5rpg2tib5rtkiipyikvji/video.mp4",
+                        "headers": {
+                            "Referer": "https://send.cm/elf6v0o6n0ce"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
