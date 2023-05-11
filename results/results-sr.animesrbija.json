@@ -1,1 +1,31 @@
-[{"name":"Anime Srbija","results":{"popular":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 404","passed":false},"latest":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 404","passed":false},"search":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 404","passed":false},"details":{"result":{"description":"","genre":"","initialized":true},"passed":true},"videos":{"error":"java.lang.NullPointerException","passed":false}}}]
+[
+    {
+        "name": "Anime Srbija",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "search": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "description": "",
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "videos": {
+                "error": "java.lang.NullPointerException",
+                "passed": false
+            }
+        }
+    }
+]

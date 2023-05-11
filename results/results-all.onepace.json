@@ -1,1 +1,74 @@
-[{"name":"OnePaceESP","results":{"popular":{"error":"kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....a rather interesting approach to file storage infrastructure","passed":false},"search":{"error":"java.lang.Exception: not used","passed":false},"details":{"result":{"title":"OnePace","initialized":true},"passed":true},"videos":{"error":"java.lang.IllegalArgumentException: protocol = https host = null","passed":false}}},{"name":"OnePaceFR","results":{"popular":{"error":"kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....a rather interesting approach to file storage infrastructure","passed":false},"search":{"error":"java.lang.Exception: not used","passed":false},"details":{"result":{"title":"OnePace","initialized":true},"passed":true},"videos":{"error":"java.lang.IllegalArgumentException: protocol = https host = null","passed":false}}},{"name":"OnePaceEN","results":{"popular":{"error":"kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....a rather interesting approach to file storage infrastructure","passed":false},"search":{"error":"java.lang.Exception: not used","passed":false},"details":{"result":{"title":"OnePace","initialized":true},"passed":true},"videos":{"error":"java.lang.IllegalArgumentException: protocol = https host = null","passed":false}}}]
+[
+    {
+        "name": "OnePaceESP",
+        "results": {
+            "popular": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....a rather interesting approach to file storage infrastructure",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.Exception: not used",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "title": "OnePace",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "videos": {
+                "error": "java.io.IOException: Failed to select a proxy",
+                "passed": false
+            }
+        }
+    },
+    {
+        "name": "OnePaceFR",
+        "results": {
+            "popular": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....a rather interesting approach to file storage infrastructure",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.Exception: not used",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "title": "OnePace",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "videos": {
+                "error": "java.io.IOException: Failed to select a proxy",
+                "passed": false
+            }
+        }
+    },
+    {
+        "name": "OnePaceEN",
+        "results": {
+            "popular": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....a rather interesting approach to file storage infrastructure",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.Exception: not used",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "title": "OnePace",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "videos": {
+                "error": "java.io.IOException: Failed to select a proxy",
+                "passed": false
+            }
+        }
+    }
+]

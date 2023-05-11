@@ -1,1 +1,30 @@
-[{"name":"CARTOONS4U","results":{"popular":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 404","passed":false},"search":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 404","passed":false},"details":{"result":{"description":"","genre":"","status":2,"status_name":"COMPLETED","thumbnail_url":"","initialized":true},"passed":true},"videos":{"error":"java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ","passed":false}}}]
+[
+    {
+        "name": "CARTOONS4U",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "search": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
+            },
+            "details": {
+                "result": {
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "videos": {
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
+            }
+        }
+    }
+]

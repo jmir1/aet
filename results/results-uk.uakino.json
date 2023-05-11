@@ -1,1 +1,31 @@
-[{"name":"UAKino","results":{"popular":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 403","passed":false},"latest":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 403","passed":false},"search":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 403","passed":false},"details":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 403","passed":false},"episodes":{"error":"eu.kanade.tachiyomi.network.HttpException: HTTP error 403","passed":false},"videos":{"error":"java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ","passed":false}}}]
+[
+    {
+        "name": "UAKino",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "search": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "details": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
+            }
+        }
+    }
+]

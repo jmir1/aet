@@ -1,1 +1,217 @@
-[{"name":"Ask4Movie","results":{"popular":{"error":"java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-ClWQjj --remote-debugging-pipe --no-startup-window\n<launched> pid=1841\n[pid=1841][err] [1841:1841:0510/121152.077240:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1841][err] [1841:1841:0510/121152.078348:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n============================================================\n  name='Error\n  stack='Error: \n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-ClWQjj --remote-debugging-pipe --no-startup-window\n<launched> pid=1841\n[pid=1841][err] [1841:1841:0510/121152.077240:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1841][err] [1841:1841:0510/121152.078348:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n============================================================\n    at /tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:169:16\n    at new Promise (<anonymous>)\n    at CRSession.send (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:165:12)\n    at CRBrowser.connect (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crBrowser.js:47:35)\n    at Chromium._connectToTransport (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/chromium.js:131:33)\n    at Chromium._innerLaunch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:128:32)\n    at async Chromium._innerLaunchWithRetries (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:86:14)\n    at async ProgressController.run (/tmp/playwright-java-11177909407831730859/package/lib/server/progress.js:92:22)\n    at async Chromium.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:63:21)\n    at async BrowserTypeDispatcher.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/dispatchers/browserTypeDispatcher.js:35:21)\n}","passed":false},"search":{"error":"java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-4Wo2iY --remote-debugging-pipe --no-startup-window\n<launched> pid=1878\n[pid=1878][err] [1878:1878:0510/121152.631614:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1878][err] [1878:1878:0510/121152.632509:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n============================================================\n  name='Error\n  stack='Error: \n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-4Wo2iY --remote-debugging-pipe --no-startup-window\n<launched> pid=1878\n[pid=1878][err] [1878:1878:0510/121152.631614:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1878][err] [1878:1878:0510/121152.632509:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n============================================================\n    at /tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:169:16\n    at new Promise (<anonymous>)\n    at CRSession.send (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:165:12)\n    at CRBrowser.connect (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crBrowser.js:47:35)\n    at Chromium._connectToTransport (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/chromium.js:131:33)\n    at Chromium._innerLaunch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:128:32)\n    at async Chromium._innerLaunchWithRetries (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:86:14)\n    at async ProgressController.run (/tmp/playwright-java-11177909407831730859/package/lib/server/progress.js:92:22)\n    at async Chromium.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:63:21)\n    at async BrowserTypeDispatcher.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/dispatchers/browserTypeDispatcher.js:35:21)\n}","passed":false},"details":{"error":"java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-OzNF1I --remote-debugging-pipe --no-startup-window\n<launched> pid=1916\n[pid=1916][err] [1916:1916:0510/121153.110625:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1916][err] [1916:1916:0510/121153.110680:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n[pid=1916][err] [0510/121153.119503:ERROR:nacl_helper_linux.cc(355)] NaCl helper process running without a sandbox!\n[pid=1916][err] Most likely you need to configure your SUID sandbox correctly\n============================================================\n  name='Error\n  stack='Error: \n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-OzNF1I --remote-debugging-pipe --no-startup-window\n<launched> pid=1916\n[pid=1916][err] [1916:1916:0510/121153.110625:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1916][err] [1916:1916:0510/121153.110680:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n[pid=1916][err] [0510/121153.119503:ERROR:nacl_helper_linux.cc(355)] NaCl helper process running without a sandbox!\n[pid=1916][err] Most likely you need to configure your SUID sandbox correctly\n============================================================\n    at /tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:169:16\n    at new Promise (<anonymous>)\n    at CRSession.send (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:165:12)\n    at CRBrowser.connect (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crBrowser.js:47:35)\n    at Chromium._connectToTransport (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/chromium.js:131:33)\n    at Chromium._innerLaunch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:128:32)\n    at async Chromium._innerLaunchWithRetries (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:86:14)\n    at async ProgressController.run (/tmp/playwright-java-11177909407831730859/package/lib/server/progress.js:92:22)\n    at async Chromium.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:63:21)\n    at async BrowserTypeDispatcher.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/dispatchers/browserTypeDispatcher.js:35:21)\n}","passed":false},"episodes":{"error":"java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='\n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-CCsIop --remote-debugging-pipe --no-startup-window\n<launched> pid=1953\n[pid=1953][err] [1953:1953:0510/121153.597727:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1953][err] [1953:1953:0510/121153.598445:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n============================================================\n  name='Error\n  stack='Error: \n╔════════════════════════════════════════════════════════════════════════════════════════════════╗\n║ Looks like you launched a headed browser without having a XServer running.                     ║\n║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║\n║                                                                                                ║\n║ <3 Playwright Team                                                                             ║\n╚════════════════════════════════════════════════════════════════════════════════════════════════╝\n=========================== logs ===========================\n<launching> /usr/bin/chromium-browser --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --no-sandbox --disable-gpu --no-sandbox --disable-dev-shm-usage --no-first-run --no-service-autorun --no-default-browser-check --password-store=basic --user-data-dir=/tmp/playwright_chromiumdev_profile-CCsIop --remote-debugging-pipe --no-startup-window\n<launched> pid=1953\n[pid=1953][err] [1953:1953:0510/121153.597727:ERROR:ozone_platform_x11.cc(239)] Missing X server or $DISPLAY\n[pid=1953][err] [1953:1953:0510/121153.598445:ERROR:env.cc(255)] The platform failed to initialize.  Exiting.\n============================================================\n    at /tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:169:16\n    at new Promise (<anonymous>)\n    at CRSession.send (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crConnection.js:165:12)\n    at CRBrowser.connect (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/crBrowser.js:47:35)\n    at Chromium._connectToTransport (/tmp/playwright-java-11177909407831730859/package/lib/server/chromium/chromium.js:131:33)\n    at Chromium._innerLaunch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:128:32)\n    at async Chromium._innerLaunchWithRetries (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:86:14)\n    at async ProgressController.run (/tmp/playwright-java-11177909407831730859/package/lib/server/progress.js:92:22)\n    at async Chromium.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/browserType.js:63:21)\n    at async BrowserTypeDispatcher.launch (/tmp/playwright-java-11177909407831730859/package/lib/server/dispatchers/browserTypeDispatcher.js:35:21)\n}","passed":false},"videos":{"error":"java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ","passed":false}}}]
+[
+    {
+        "name": "Ask4Movie",
+        "results": {
+            "popular": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/channel/the-blacklist-2013/",
+                                "title": "The Blacklist (2013 ...",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/11/The-Blacklist-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/citadel-2023/",
+                                "title": "Citadel (2023 – )",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/05/Citadel-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/love-and-death-2023/",
+                                "title": "Love and Death (2023...",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/05/Love-Death-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/gotham-knights-2023/",
+                                "title": "Gotham Knights (2023...",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/05/Gotham-Knights-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-last-of-us-2023/",
+                                "title": "The Last of Us (2023...",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/01/The-Last-of-Us-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/sex-life-2021-10/",
+                                "title": "Sex/Life (2021 – )",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/11/Sex-or-Life-Thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/carnival-row-2019/",
+                                "title": "Carnival Row (2019 – )",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/02/Carnival-Row-thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/you-4/",
+                                "title": "You (2018 – )",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/11/You-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-mandalorian-28-7/",
+                                "title": "The Mandalorian (201...",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/11/The-Mandalorian-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/anne-rices-mayfair-witches-2023/",
+                                "title": "Anne Rice’s Ma...",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/01/Anne-Rices-Mayfair-Witches-thumbnail-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/when-you-finish-saving-the-world-2023/",
+                                "title": "When You Finish Saving The World (2023)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2023/01/When-You-Finish-Saving-The-World-2023-cover.jpg"
+                            },
+                            {
+                                "url": "/the-loneliest-boy-in-the-world-2022-1/",
+                                "title": "The Loneliest Boy In The World (2022)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/11/The-Loneliest-Boy-In-The-World-2022-cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-awakening-2012-1/",
+                                "title": "Underworld: Awakening (2012)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/10/Underworld-Awakening-2012-cover.jpg"
+                            },
+                            {
+                                "url": "/channel/war-of-the-worlds-2019-1/",
+                                "title": "War of the Worlds (2019–2022)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2021/06/War-of-the-Worlds-cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-evolution-2006-1/",
+                                "title": "Underworld: Evolution (2006)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/10/Underworld-Evolution-2006-cover.jpg"
+                            },
+                            {
+                                "url": "/the-lost-world-jurassic-park-1997-1/",
+                                "title": "The Lost World: Jurassic Park (1997)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/09/The-Lost-World-Jurassic-Park-1997-cover.jpg"
+                            },
+                            {
+                                "url": "/war-of-the-worlds-season-4/",
+                                "title": "War of the Worlds (Season 3)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/09/War-of-worlds-Season-3.jpg"
+                            },
+                            {
+                                "url": "/running-with-the-devil-the-wild-world-of-john-mcafee-2022-1/",
+                                "title": "Running with the Devil: The Wild World of John McAfee (2022)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/09/Running-with-the-Devil-The-Wild-World-of-John-McAfee-2022-cover.jpg"
+                            },
+                            {
+                                "url": "/i-dont-feel-at-home-in-this-world-anymore-2017-1/",
+                                "title": "I Don’t Feel at Home in This World Anymore (2017)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/08/I-dont-feel-at-home-cover.jpg"
+                            },
+                            {
+                                "url": "/channel/westworld-4/",
+                                "title": "Westworld (2016 – )",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2019/12/westworld-cover.jpg"
+                            },
+                            {
+                                "url": "/all-the-money-in-the-world-2017-1/",
+                                "title": "All the Money in the World (2017)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/08/all-the-money-in-the-world-cover.jpg"
+                            },
+                            {
+                                "url": "/jurassic-world-camp-cretaceous-season-6/",
+                                "title": "Jurassic World: Camp Cretaceous (Season 5)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/08/Jurassic-World-Camp-Cretaceous-Season-5.jpg"
+                            },
+                            {
+                                "url": "/channel/jurassic-world-camp-cretaceous-2020/",
+                                "title": "Jurassic World: Camp Cretaceous (2020–2022)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2021/12/Jurassic-World-Camp-Cretaceous-cover.jpg"
+                            },
+                            {
+                                "url": "/jurassic-world-dominion-2022-1/",
+                                "title": "Jurassic World Dominion (2022)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/07/Jurassic-World-Dominion-Cover.jpg"
+                            },
+                            {
+                                "url": "/channel/star-trek-strange-new-worlds-2022/",
+                                "title": "Star Trek: Strange New Worlds (2022 – )",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/06/Star-Trek-Strange-New-Worlds-Cover.jpg"
+                            },
+                            {
+                                "url": "/westworld-season-4/",
+                                "title": "Westworld (Season 4)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/06/Westworld-Season-4.jpg"
+                            },
+                            {
+                                "url": "/scott-pilgrim-vs-the-world-2010/",
+                                "title": "Scott Pilgrim vs. the World (2010)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/06/Scott-Pilgrim-vs.-the-World-Cover.jpg"
+                            },
+                            {
+                                "url": "/star-trek-strange-new-worlds-season-1/",
+                                "title": "Star Trek: Strange New Worlds (Season 1)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/06/Star-Trek-Strange-New-Worlds-Season-1.jpg"
+                            },
+                            {
+                                "url": "/katt-williams-world-war-iii-2022/",
+                                "title": "Katt Williams: World War III (2022)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/05/Katt-Williams-World-War-III-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-worst-person-in-the-world-2021-2/",
+                                "title": "The Worst Person in the World (2021)",
+                                "thumbnail_url": "https://ask4movie.mx/wp-content/uploads/2022/01/The-Worst-Person-in-the-world-cover.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
+            },
+            "details": {
+                "result": {
+                    "url": "/channel/the-blacklist-2013/",
+                    "description": "",
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "https://filemoon.in/e/qu2ottyc3g69/The_Blacklist_S10E11_The_Man_in_the_Hat_1080p_AMZN_WEB-DL_DDP5_1_H_264-NTb",
+                        "name": "Season 10 Episode 11",
+                        "episode_number": 1.0
+                    },
+                    {
+                        "url": "https://filemoon.in/e/nhucdatph5l8/The_Blacklist_S10E10_The_Postman_1080p_AMZN_WEB-DL_DDP5_1_H_264-NTb",
+                        "name": "Season 10 Episode 10",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
+            },
+            "videos": {
+                "result": [
+                    {
+                        "url": "https://be7713.rcr82.waw05.visaverde.xyz/hls2/01/03733/q39o0iokj4z5_x/index-v1-a1.m3u8?t=jjd4xyEF4u--iQxSWCE4TUQBdv_sa7i4AK3-DMb0_BY&s=1683765137&e=43200&f=18856609&srv=21&asn=8075&sp=2500&fr=q39o0iokj4z5",
+                        "quality": "Filemoon:1080p ",
+                        "videoUrl": "https://be7713.rcr82.waw05.visaverde.xyz/hls2/01/03733/q39o0iokj4z5_x/index-v1-a1.m3u8?t=jjd4xyEF4u--iQxSWCE4TUQBdv_sa7i4AK3-DMb0_BY&s=1683765137&e=43200&f=18856609&srv=21&asn=8075&sp=2500&fr=q39o0iokj4z5",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://be7713.rcr82.waw05.visaverde.xyz/hls2/01/03733/lang/eng/qu2ottyc3g69_eng/index.m3u8?t=jjd4xyEF4u--iQxSWCE4TUQBdv_sa7i4AK3-DMb0_BY&s=1683765137&e=43200&f=18856609&srv=21&asn=8075&sp=2500&fr=q39o0iokj4z5",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
+            }
+        }
+    }
+]
