@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/juushinki-pandora/",
+                                "title": "Juushinki Pandora",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/juushinki-pandora-lyrics.jpg"
+                            },
+                            {
                                 "url": "/anime/hanebado/",
                                 "title": "Hanebado!",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/93432l.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/tengoku-daimakyou/",
                                 "title": "Tengoku Daimakyou",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/129439l.jpg"
-                            },
-                            {
-                                "url": "/anime/mix-meisei-story-nidome-no-natsu-sora-no-mukou-e/",
-                                "title": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/13465065l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hanebado/",
-                    "title": "Hanebado!",
-                    "description": "القصة تدور حول تاشيبانا كينتارو و هو مدرب كرة ريشة في المدرسة الثانوية و متحمس جدًا لضم أعضاء لفريقه الصغير، ذات يوم يقابل هانيساكي أيانو و هي فتاة لديها المقدرة الجسدية والخبرة اللازمة في رياضة الريشة الطائرة، يحاول كينتارو ضمها للفريق لكنها غير مهتمة، بعد سلسلة من الظروف انضمت أيانو إلى الفريق و قام المدرب بعقد العزم على أن تكون بطلة في هذه الرياضة.",
-                    "genre": "رياضي, سينين",
+                    "url": "/anime/juushinki-pandora/",
+                    "title": "Juushinki Pandora",
+                    "description": "تدور قصة هذا الانمي في عالم في المستقبل القريب حيث الحدود بين الإنسان و AI غامضة. يحدث تطور بيولوجي سريع ، يشبه \"الانفجار الكمبري\" ، بسبب حادث واحد. يتحول هذا الحادث إلى نشأة نزعة جديدة للتفوق ، ويتجاوز تأثير التطور الإطار البيولوجي وينتشر إلى أنواع مختلفة من المواد والتقنيات. إن حقبة التطور الهائل التي تنطوي على كائنات متنوعة ، مثل الإنسان والآلات والتقنيات الحيوية ، قادمة. تحارب الشخصيات حربًا وجوديّة في عالم كهذا. تابعوا الانمي لمعرفة المزيد",
+                    "genre": "ميكا, خيال علمي",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/93432l.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/juushinki-pandora-lyrics.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,21 +388,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/hanebado-الحلقة-13/",
-                        "name": "13",
-                        "episode_number": 13.0
+                        "url": "/episode/juushinki-pandora-الحلقة-26/",
+                        "name": "26",
+                        "episode_number": 26.0
                     },
                     {
-                        "url": "/episode/hanebado-الحلقة-12/",
-                        "name": "12",
-                        "episode_number": 12.0
+                        "url": "/episode/juushinki-pandora-الحلقة-25/",
+                        "name": "25",
+                        "episode_number": 25.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc619.4shared.com/img/DcRReb7lfa/e99a2fb0/dlink__2Fdownload_2FDcRReb7lfa_3Fsbsr_3D6ea04c7f11187d72ef370ea987e46b0aae0_26bip_3DMjAuMTg1LjE1NC4z_26lgfp_3D66_26bip_3DMjAuMTg1LjE1NC4z_26bip_3DMjAuMTg1LjE1NC4z/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc619.4shared.com/img/DcRReb7lfa/e99a2fb0/dlink__2Fdownload_2FDcRReb7lfa_3Fsbsr_3D6ea04c7f11187d72ef370ea987e46b0aae0_26bip_3DMjAuMTg1LjE1NC4z_26lgfp_3D66_26bip_3DMjAuMTg1LjE1NC4z_26bip_3DMjAuMTg1LjE1NC4z/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

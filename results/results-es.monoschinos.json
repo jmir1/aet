@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hula-fulla-dance-sub-espanol",
+                                "title": "Hula Fulla Dance",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/hula-fulla-dance-1683860373.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/bakuten-movie-sub-espanol",
                                 "title": "Bakuten!! Movie",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/bakuten-movie-1683844574.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/the-marginal-service-sub-espanol",
                                 "title": "The Marginal Service",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/the-marginal-service-1681848035.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/jijou-wo-shiranai-tenkousei-ga-guigui-kuru-sub-espanol",
-                                "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/jijou-wo-shiranai-tenkousei-ga-guigui-kuru-1679414446.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,20 +324,56 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bakuten-movie-sub-espanol",
-                    "title": "Bakuten!! Movie",
-                    "description": "Club de gimnasia rítmica masculina de Soshukan Private High School (Ao High). Un club único de inadaptados se une como un equipo, su amor por la gimnasia rítmica masculina forma su vínculo. Dedicando los días de su juventud a un solo objetivo...",
-                    "genre": "Deportes",
+                    "url": "/anime/hula-fulla-dance-sub-espanol",
+                    "title": "Hula Fulla Dance",
+                    "description": "Hiwa Natsunagi es una estudiante de secundaria que vive en la ciudad de Iwaki, prefectura de Fukushima. Preocupada por qué hacer con su vida después de graduarse, ve un cartel de Spa Resort Hawaiians, el \"Hawái de Tohoku\", el lugar donde solía tr...",
+                    "genre": "Música",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/bakuten-movie-1683844574.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/hula-fulla-dance-1683860373.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/ver/hula-fulla-dance-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=3&sig=obOj-XypnYo&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=3&sig=obOj-XypnYo&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=2&sig=B0SeQ_kkFys&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=2&sig=B0SeQ_kkFys&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=1&sig=JQhBEHO5v30&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=1&sig=JQhBEHO5v30&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=0&sig=6oANhdCLfAc&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=0&sig=6oANhdCLfAc&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047"
+                    },
+                    {
+                        "url": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=4&sig=ZlIOsOe8-SI&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd241.mycdn.me/?expires=1683958130096&srcIp=13.88.101.195&pr=10&srcAg=CHROME&ms=45.136.22.49&type=4&sig=ZlIOsOe8-SI&ct=0&urls=45.136.21.69&clientType=0&zs=43&id=4271826406047"
+                    }
+                ],
+                "passed": true
             }
         }
     }
