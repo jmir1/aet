@@ -389,7 +389,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\"",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

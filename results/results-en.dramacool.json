@@ -197,6 +197,21 @@
                     {
                         "animes": [
                             {
+                                "url": "https://dramacool.cy/drama-detail/delivery-knight",
+                                "title": "Black Knight (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/delivery-knight-1683477887.png"
+                            },
+                            {
+                                "url": "https://dramacool.cy/drama-detail/all-that-we-loved",
+                                "title": "All That We Loved (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/all-that-we-loved-1682703055.png"
+                            },
+                            {
+                                "url": "https://dramacool.cy/drama-detail/zenra-meshi-2023",
+                                "title": "Zenra Meshi (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/zenra-meshi-2023-1681444251.png"
+                            },
+                            {
                                 "url": "https://dramacool.cy/drama-detail/host-sozoku-shichaimashita",
                                 "title": "Host Sozoku Shichaimashita (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/host-sozoku-shichaimashita-1681831195.png"
@@ -360,21 +375,6 @@
                                 "url": "https://dramacool.cy/drama-detail/race",
                                 "title": "Race (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/race-1683298323.png"
-                            },
-                            {
-                                "url": "https://dramacool.cy/drama-detail/the-gate-of-renewal",
-                                "title": "The Ingenious One (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/the-gate-of-renewal.png"
-                            },
-                            {
-                                "url": "https://dramacool.cy/drama-detail/back-from-the-brink",
-                                "title": "Back From the Brink (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/back-from-the-brink.png"
-                            },
-                            {
-                                "url": "https://dramacool.cy/drama-detail/goodbye-mr-xiao-2023",
-                                "title": "Goodbye Mr. Xiao (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/goodbye-mr-xiao-2023-1683536780.png"
                             }
                         ],
                         "hasNextPage": true
@@ -499,14 +499,37 @@
                     "author": "Netflix",
                     "description": " Set in the year 2071, where the world has been decimated by toxic air pollution. Only about 1 percent of the population has survived and a strict social class now exists. People rarely leave their homes and, when they do, they wear gas masks due to the air pollution. Citizens rely heavily on parcel delivery service for their needs. Delivery drivers, known as knights, delivers the packages and also protect them from thieves. Knight 5-8 is a legendary knight. He is also highly skilled in physical combat. He happens to meet boy Sa Wol, who is a refugee. Sa Wol dreams of becoming a knight and he admires Knight 5-8. Seol A is an officer in the Defense Intelligence Command. She saved Sa Wol’s life and takes care of Sa Wol like he is part of her family. Knight 5-8 helps Sa Wol become a knight. Based on webcomic \"Taekbaegisa” by Lee Yoon Kyun.  ",
                     "genre": "Action, Adventure, Drama, Miniseries, Sci-fi",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "thumbnail_url": "https://imagecdn.me/cover/delivery-knight-1683477887.png",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/black-knight-2023-episode-4.html",
+                        "name": "SUB: Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/black-knight-2023-episode-3.html",
+                        "name": "SUB: Episode 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Invalid URL host: \"\"",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Oqyw1KQavRt6gk&expires=1683963538&ip=F0qQKRWQE19XKxR&token=riAQzpg-ORG3",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Oqyw1KQavRt6gk&expires=1683963538&ip=F0qQKRWQE19XKxR&token=riAQzpg-ORG3"
+                    }
+                ],
+                "passed": true
             }
         }
     }
