@@ -3,19 +3,15 @@
         "name": "Toonitalia",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
-            },
-            "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {

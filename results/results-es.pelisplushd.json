@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/los-muppets-los-mayhem-dan-la-nota",
+                                "title": "Los Muppets: los Mayhem dan la nota (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/cGUauTfTgvQ5IuCsEqlNfoJ5swH.jpg"
+                            },
+                            {
+                                "url": "/serie/desapariciones-vivos-o-muertos",
+                                "title": "Desapariciones ¿Vivos O Muertos? (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pTSzU9gWSsbosFD9nblTIPG4gur.jpg"
+                            },
+                            {
                                 "url": "/serie/la-reina-cleopatra",
                                 "title": "La reina Cleopatra (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9j0u72TrqdVEFDTj7uG5KOFwbSg.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/citadel",
                                 "title": "Citadel (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/AcrDB32TqpAGwvQFbICALGxSzn3.jpg"
-                            },
-                            {
-                                "url": "/serie/la-enfermera",
-                                "title": "La enfermera (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ortYfKFhwAYk8HpkA9Lwk9vRvPt.jpg"
-                            },
-                            {
-                                "url": "/serie/amor-y-muerte",
-                                "title": "Amor y muerte (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vSpOVS1r86u6a9CfjWoFCExachb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-reina-cleopatra",
-                    "title": "La reina Cleopatra (2023)",
-                    "description": "Como la última faraona de Egipto, Cleopatra lucha para proteger su trono, su familia y su legado en esta docuserie que incluye recreaciones y entrevistas con expertos..",
-                    "genre": "Documental",
+                    "url": "/serie/los-muppets-los-mayhem-dan-la-nota",
+                    "title": "Los Muppets: los Mayhem dan la nota (2023)",
+                    "description": "Después de 45 años tocando rocanrol sin parar, los Electric Mayhem se embarcan en una épica aventura musical para grabar por fin su primer álbum de estudio. Con la ayuda de una joven y motivada representante de artistas de una discográfica, el icónico grupo de muppets roqueros y pasotas —integrado por el Doctor Teeth, el Sargento Floyd Pepper, Janice, Lips, Zoot, y Animal—, deberá ponerse las pilas para lidiar con la locura de la industria musical contemporánea y alcanzar el disco de platino..",
+                    "genre": "Comedia, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9j0u72TrqdVEFDTj7uG5KOFwbSg.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cGUauTfTgvQ5IuCsEqlNfoJ5swH.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-reina-cleopatra/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/los-muppets-los-mayhem-dan-la-nota/temporada/1/capitulo/10",
+                        "name": "T1 - E10: Episodio 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/serie/la-reina-cleopatra/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/los-muppets-los-mayhem-dan-la-nota/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=pkW44erRdRTDLy&expires=1683921555&ip=GxOsEHMnDS9X&token=yto5vH0S9T9W",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=pkW44erRdRTDLy&expires=1683921555&ip=GxOsEHMnDS9X&token=yto5vH0S9T9W"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -584,9 +590,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www-qen37405.ssl0d.com/hls2/cJkj9Sof9qJ63iCo3wGfXw/1683857356/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
+                        "url": "https://www-qen37405.ssl0d.com/hls2/nExFPDJCm1uny-ZDzqRBBA/1683880358/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
                         "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/cJkj9Sof9qJ63iCo3wGfXw/1683857356/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
+                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/nExFPDJCm1uny-ZDzqRBBA/1683880358/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
                         "headers": {
                             "authority": "https://www-qen37405.ssl0d.com",
                             "origin": "https://slwatch.co",

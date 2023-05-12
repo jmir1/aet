@@ -182,35 +182,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://filemoon.in/e/qu2ottyc3g69/The_Blacklist_S10E11_The_Man_in_the_Hat_1080p_AMZN_WEB-DL_DDP5_1_H_264-NTb",
-                        "name": "Season 10 Episode 11",
-                        "episode_number": 1.0
-                    },
-                    {
-                        "url": "https://filemoon.in/e/nhucdatph5l8/The_Blacklist_S10E10_The_Postman_1080p_AMZN_WEB-DL_DDP5_1_H_264-NTb",
-                        "name": "Season 10 Episode 10",
-                        "episode_number": 2.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://be7713.rcr82.waw05.visaverde.xyz/hls2/01/03733/q39o0iokj4z5_x/index-v1-a1.m3u8?t=Rcw7MVqnndIvwi01x92qF7zlMJRCPgyszW0dL2XeAkA&s=1683828511&e=43200&f=18856609&srv=21&asn=8075&sp=2500&fr=q39o0iokj4z5",
-                        "quality": "Filemoon:1080p ",
-                        "videoUrl": "https://be7713.rcr82.waw05.visaverde.xyz/hls2/01/03733/q39o0iokj4z5_x/index-v1-a1.m3u8?t=Rcw7MVqnndIvwi01x92qF7zlMJRCPgyszW0dL2XeAkA&s=1683828511&e=43200&f=18856609&srv=21&asn=8075&sp=2500&fr=q39o0iokj4z5",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://be7713.rcr82.waw05.visaverde.xyz/hls2/01/03733/lang/eng/qu2ottyc3g69_eng/index.m3u8?t=Rcw7MVqnndIvwi01x92qF7zlMJRCPgyszW0dL2XeAkA&s=1683828511&e=43200&f=18856609&srv=21&asn=8075&sp=2500&fr=q39o0iokj4z5",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
