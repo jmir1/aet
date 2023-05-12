@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-turn-kill-sub-indo/",
+                                "title": "Isekai One Turn Kill Neesan",
+                                "thumbnail_url": "https://otakudesu.lol/wp-content/uploads/2023/04/Isekai-One-Turn-Kill-Neesan-Sub-Indo.jpg"
+                            },
+                            {
+                                "url": "/anime/ousama-rank-yuki-tabako-sub-indo/",
+                                "title": "Ousama Ranking: Yuuki no Takarabako",
+                                "thumbnail_url": "https://otakudesu.lol/wp-content/uploads/2023/04/Ousama-Ranking-Yuuki-no-Takarabako-Sub-Indo.jpg"
+                            },
+                            {
                                 "url": "/anime/yuri-job-sub-indo/",
                                 "title": "Watashi no Yuri wa Oshigoto desu!",
                                 "thumbnail_url": "https://otakudesu.lol/wp-content/uploads/2023/04/Watashi-no-Yuri-wa-Oshigoto-desu-Sub-Indo.jpg"
@@ -255,16 +265,6 @@
                                 "url": "/anime/tensei-kamigami-shito-sub-indo/",
                                 "title": "Tensei Kizoku no Isekai Boukenroku",
                                 "thumbnail_url": "https://otakudesu.lol/wp-content/uploads/2023/05/Tensei-Kizoku-no-Isekai-Boukenroku-Sub-indo.jpg"
-                            },
-                            {
-                                "url": "/anime/jijou-ga-kuru-sub-indo/",
-                                "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
-                                "thumbnail_url": "https://otakudesu.lol/wp-content/uploads/2023/04/Jijou-wo-Shiranai-Tenkousei-ga-Guigui-Kuru..jpg"
-                            },
-                            {
-                                "url": "/anime/world-star-sub-indo/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://otakudesu.lol/wp-content/uploads/2023/05/World-Dai-Star-Sub-Indo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -389,7 +389,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }
