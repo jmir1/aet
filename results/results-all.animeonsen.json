@@ -228,8 +228,18 @@
                 "passed": true
             },
             "details": {
-                "error": "kotlinx.serialization.MissingFieldException: Fields [genres, status, studios, synopsis] are required for type with serial name 'eu.kanade.tachiyomi.animeextension.all.animeonsen.dto.MalData', but they were missing at path: $.mal_data at path: $.mal_data",
-                "passed": false
+                "result": {
+                    "url": "hN3meDrdOt7ZgcJu",
+                    "title": "Megami no Café Terrace",
+                    "author": "Tezuka Productions",
+                    "description": "When Hayato's grandmother passed, he planned to sell her rundown café on the shore—not realizing that it was also home to five young women who call themselves her family?! Their desperation to keep the café open convinces Hayato to give it a shot...but even their best intentions might not be enough to make it work! And can he even work with these five unruly women? No matter what, he's got his work cut out for him!\n\n(Source: Kodansha USA)",
+                    "genre": "Comedy, Ecchi, Harem, Romance, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/hN3meDrdOt7ZgcJu",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

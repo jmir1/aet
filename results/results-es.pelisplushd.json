@@ -293,9 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=dkdOGVJewLsk464&expires=1684007880&ip=G0WsD0MRKxSHDN&token=GAdeu-vHNeEl",
+                        "url": "https://streamtape.com/get_video?id=dkdOGVJewLsk464&expires=1684028149&ip=GHOsDHEnDS9X&token=arUuYEM888QP",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=dkdOGVJewLsk464&expires=1684007880&ip=G0WsD0MRKxSHDN&token=GAdeu-vHNeEl"
+                        "videoUrl": "https://streamtape.com/get_video?id=dkdOGVJewLsk464&expires=1684028149&ip=GHOsDHEnDS9X&token=arUuYEM888QP"
                     }
                 ],
                 "passed": true
@@ -590,9 +590,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www-qen37405.ssl0d.com/hls2/bhuMD_WiQCW63Ld-DbA74A/1683966684/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
+                        "url": "https://www-qen37405.ssl0d.com/hls2/hlMnKJxCU8qrWiDGRL88Bw/1683986954/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
                         "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/bhuMD_WiQCW63Ld-DbA74A/1683966684/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
+                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/hlMnKJxCU8qrWiDGRL88Bw/1683986954/WxQxPOXB-cxo_eqwChEScZ-r-v3NlrIGW900hZHPmlY/master.m3u8",
                         "headers": {
                             "authority": "https://www-qen37405.ssl0d.com",
                             "origin": "https://slwatch.co",
@@ -888,8 +888,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/air-2/",
+                    "title": "Air",
+                    "artist": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [

@@ -3,27 +3,158 @@
         "name": "CineVision",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/black-knight/",
+                                "title": "Black Knight",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/48SpcKvilzTdcyuPmzr93TsVxCJ.jpg"
+                            },
+                            {
+                                "url": "/series/zootopia/",
+                                "title": "Zootopia+",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/inzPPPr2BsE92m4rHhQn3sf2yPk.jpg"
+                            },
+                            {
+                                "url": "/series/romantic-killer/",
+                                "title": "Romantic Killer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ceIqjbFfWUzNIBVFLYcG7fGY1Yc.jpg"
+                            },
+                            {
+                                "url": "/series/wolf-pack/",
+                                "title": "Wolf Pack",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rbCANmS1ogweUkIBghP03EHtdHB.jpg"
+                            },
+                            {
+                                "url": "/series/edens-zero/",
+                                "title": "Edens Zero",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/2sJPpcEd83mILobIlDG1Jexu9bj.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KONOSUBA -God’s blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/series/trinity-blood/",
+                                "title": "Trinity Blood",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4AQhO6n901vUvpzXntJAX7if3pp.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/stella-of-the-theater-world-dai-star/",
+                                "title": "Stella of the Theater: World Dai Star",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-acampamento-jurassico/",
+                                "title": "Jurassic World: Acampamento Jurássico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kClnDGBEXkiiXK5IZ1BY0VgoPhK.jpg"
+                            },
+                            {
+                                "url": "/series/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/t8Xq1edhrEeH0pB9jFolLBCj1nr.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-reino-ameacado/",
+                                "title": "Jurassic World: Reino Ameaçado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/b3CuByY3v7qz9aq4rayIMeAMemy.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KONOSUBA -God’s blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-o-mundo-dos-dinossauros/",
+                                "title": "Jurassic World: O Mundo dos Dinossauros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gf3FEmT95ZQ5rBfzsaouIUzxKhy.jpg"
+                            },
+                            {
+                                "url": "/series/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/oz3xb8ZpPC9SEKneBrJVK3ZinG6.jpg"
+                            },
+                            {
+                                "url": "/filmes/um-fascinante-novo-mundo/",
+                                "title": "Um Fascinante Novo Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/as59RjHMv1q92aiLgGYslB3pVJx.jpg"
+                            },
+                            {
+                                "url": "/filmes/como-treinar-o-seu-dragao-3/",
+                                "title": "Como Treinar o Seu Dragão 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg"
+                            },
+                            {
+                                "url": "/filmes/wifi-ralph-quebrando-a-internet/",
+                                "title": "WiFi Ralph: Quebrando a Internet",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg"
+                            },
+                            {
+                                "url": "/filmes/12-herois/",
+                                "title": "12 Heróis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mBgAJeIx1d5kxU8nR748o9qnAUK.jpg"
+                            },
+                            {
+                                "url": "/filmes/anjos-da-noite-guerras-de-sangue/",
+                                "title": "Anjos da Noite: Guerras de Sangue",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg"
+                            },
+                            {
+                                "url": "/filmes/guerra-mundial-z/",
+                                "title": "Guerra Mundial Z",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5HImW2XT2oN001IzZ4aw2IOLC4j.jpg"
+                            },
+                            {
+                                "url": "/filmes/guerra-dos-mundos/",
+                                "title": "Guerra dos Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aU42RNFpLgXsg0Tsgo8g8RPji0N.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/series/black-knight/",
+                    "title": "Black Knight",
+                    "description": "Assistir Black Knight Online, Assistir Black Knight 2023 Todos os Episódios Grátis, Black Knight Série completa, Assistir 택배기사.\n\nTítulo original: 택배기사\nTemporadas: 1\nEpisódios: 6",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/48SpcKvilzTdcyuPmzr93TsVxCJ.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodios/black-knight-1x6/",
+                        "name": "Temporada 1 x 6 - Episódio 6",
+                        "date_upload": 1683849600000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episodios/black-knight-1x5/",
+                        "name": "Temporada 1 x 5 - Episódio 5",
+                        "date_upload": 1683849600000,
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
