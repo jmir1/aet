@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mulligan",
+                                "title": "Mulligan",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg"
+                            },
+                            {
                                 "url": "/anime/colourblocks",
                                 "title": "Colourblocks",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/ada-twist-scientist",
                                 "title": "Ada Twist, Scientist",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932924.jpg"
-                            },
-                            {
-                                "url": "/anime/aristocrats-otherworldly-adventure-serving-gods-who-go-too-far",
-                                "title": "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932923.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,18 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/colourblocks",
-                    "title": "Colourblocks",
-                    "description": "Each vibrant Colourblock personifies a color, making it memorable and exciting for a child. The Colourblocks discover that they can add colour to the world and, by working together, they can create new colours and make new friends.",
-                    "genre": "Fantasy, Kids, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg",
+                    "url": "/anime/mulligan",
+                    "title": "Mulligan",
+                    "description": "In this satirical comedy, when most of Earth is destroyed by aliens, can a few survivors rebuild what’s left of America and form a more perfect union?",
+                    "genre": "Adult Cartoons, Comedy, Satire, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/mulligan-episode-10-the-love-choice",
+                        "name": "Episode 10 The Love Choice",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/mulligan-episode-9-not-my-president",
+                        "name": "Episode 9 Not My President",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUagy4-AqxaF1Za90wbBPixxjZ1MyGOxO4FAmAAgHrTFmCrJIudEZrBZg9rM8E2LHMawjmjE2jXWWmNXh_w_CLrvdNugZnafbS8izjFeDxKCvVOgWhX1YvzJWfHHR0coptVvBolrY5-hnECLTWNr6idn-11n7Z3pw9onDEXcW0db5zMe0ZYGI_lgbPA5kqMtCKfBimRP-BF40hwk4PSgRqPUvAxFsp7u_f-3tMTOauhIB4z0Y6qKbg7spFA0VGW8s29aPiZnnD_4X9Fq7Q5BCqPz1OExItrIIkIcRrf7_fkAE1z8aL1Dwf9rJfSRED3SOZZ2GSfephkFn1xmeCNK6RIxYbwxjGiwpNAp_hQr0IcDp6lZwvxQBzD8BAsIBGKNA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUagy4-AqxaF1Za90wbBPixxjZ1MyGOxO4FAmAAgHrTFmCrJIudEZrBZg9rM8E2LHMawjmjE2jXWWmNXh_w_CLrvdNugZnafbS8izjFeDxKCvVOgWhX1YvzJWfHHR0coptVvBolrY5-hnECLTWNr6idn-11n7Z3pw9onDEXcW0db5zMe0ZYGI_lgbPA5kqMtCKfBimRP-BF40hwk4PSgRqPUvAxFsp7u_f-3tMTOauhIB4z0Y6qKbg7spFA0VGW8s29aPiZnnD_4X9Fq7Q5BCqPz1OExItrIIkIcRrf7_fkAE1z8aL1Dwf9rJfSRED3SOZZ2GSfephkFn1xmeCNK6RIxYbwxjGiwpNAp_hQr0IcDp6lZwvxQBzD8BAsIBGKNA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUagy4-AqxaF1Za90wbBPixxjZ1MyGOxO4FAmAAgHrTFmCrJIudEZrBZg9rM8E2LHMawjmjE2jXWWmNXh_w_CLrA6vfQzw1t4Jlc3uKi4113pUNYAKi4qf9HgcLbT0bvP6va4lemrK4zZ6fIgo2FtAd4IuTTZy1vUSi0VWycGPKZXZsJ11dT3MY7NNSkbBqRzt9YHTEDis-xX285E2vJBd3BOaW8UKcv2ZqCoFB3bRelwekaqG3iADzUlWILqFRRopllsQsFmU3YN9PkvUJjJOqEYzn-UJkHxAmr1itXXNdvHwdBGF9UwSMezqzk4-cJ6aW93fQn_w09kKQ_3_llePFCF4ktYqAH8oYWIjaMgnlLv98Zs1RJgSIFnTMXdjbcQ",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUagy4-AqxaF1Za90wbBPixxjZ1MyGOxO4FAmAAgHrTFmCrJIudEZrBZg9rM8E2LHMawjmjE2jXWWmNXh_w_CLrA6vfQzw1t4Jlc3uKi4113pUNYAKi4qf9HgcLbT0bvP6va4lemrK4zZ6fIgo2FtAd4IuTTZy1vUSi0VWycGPKZXZsJ11dT3MY7NNSkbBqRzt9YHTEDis-xX285E2vJBd3BOaW8UKcv2ZqCoFB3bRelwekaqG3iADzUlWILqFRRopllsQsFmU3YN9PkvUJjJOqEYzn-UJkHxAmr1itXXNdvHwdBGF9UwSMezqzk4-cJ6aW93fQn_w09kKQ_3_llePFCF4ktYqAH8oYWIjaMgnlLv98Zs1RJgSIFnTMXdjbcQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUagy4-AqxaF1Za90wbBPixxjZ1MyGOxO4FAmAAgHrTFmCrJIudEZrBZg9rM8E2LHMawjmjE2jXWWmNXh_w_CLBkst53_gZvNTewbn49l0fUQ6FYz6AMDXX43rBbifU3_7VxyPd59Dhwt_fh1RQOxg65KW-OBBdAub5KEuNg_3SM7npMiyWvU16T96xGsGb04ClgNZmKbK-sf35e__WEnZ5oiRZ-lHtWVyXnQhL43QsRZXKbGjSchAplZ8ZWnRcJnO-goVRO1vmaI03CyNOjDM9PSSZlkOsOx65t51nng76xO0XBB6qq4puGRXs0YwEBH3QZo-ACPcTYGaM-Jqz6dL2kxiMyj535HindJzOBMYTzLI72eJik_7YnXugxDYcGg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiUagy4-AqxaF1Za90wbBPixxjZ1MyGOxO4FAmAAgHrTFmCrJIudEZrBZg9rM8E2LHMawjmjE2jXWWmNXh_w_CLBkst53_gZvNTewbn49l0fUQ6FYz6AMDXX43rBbifU3_7VxyPd59Dhwt_fh1RQOxg65KW-OBBdAub5KEuNg_3SM7npMiyWvU16T96xGsGb04ClgNZmKbK-sf35e__WEnZ5oiRZ-lHtWVyXnQhL43QsRZXKbGjSchAplZ8ZWnRcJnO-goVRO1vmaI03CyNOjDM9PSSZlkOsOx65t51nng76xO0XBB6qq4puGRXs0YwEBH3QZo-ACPcTYGaM-Jqz6dL2kxiMyj535HindJzOBMYTzLI72eJik_7YnXugxDYcGg"
+                    }
+                ],
+                "passed": true
             }
         }
     }
