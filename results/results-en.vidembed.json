@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/the-happy-camper-2023",
+                                "title": "The Happy Camper",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-happy-camper-2023-1684020925.jpg"
+                            },
+                            {
+                                "url": "/videos/dark-lullabies-an-anthology-by-michael-coulombe-2023",
+                                "title": "Dark Lullabies: An Anthology by Michael Coulombe",
+                                "thumbnail_url": "https://images.movembed.cc//cover/dark-lullabies-an-anthology-by-michael-coulombe-2023-1684020925.jpg"
+                            },
+                            {
                                 "url": "/videos/the-pregnancy-promise-2023",
                                 "title": "The Pregnancy Promise",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-pregnancy-promise-2023-1683968728.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/videos/dear-audrey-2023",
                                 "title": "Dear Audrey",
                                 "thumbnail_url": "https://images.movembed.cc//cover/dear-audrey-2021-1683710725.jpg"
-                            },
-                            {
-                                "url": "/videos/how-the-holocaust-began-2023",
-                                "title": "How the Holocaust Began",
-                                "thumbnail_url": "https://images.movembed.cc//cover/how-the-holocaust-began-2023-1683709829.jpg"
-                            },
-                            {
-                                "url": "/videos/good-ol-girl-2023",
-                                "title": "Good Ol Girl",
-                                "thumbnail_url": "https://images.movembed.cc//cover/good-ol-girl-2023-1683709828.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-pregnancy-promise-2023",
-                    "title": "The Pregnancy Promise",
-                    "description": "When Lucy and Skye accidentally get pregnant at the same time, their relationship between their families is severely strained. Skye worries that someone is tampering with her birth control, but there might be something worst going...",
+                    "url": "/videos/the-happy-camper-2023",
+                    "title": "The Happy Camper",
+                    "description": "When Dillon's love life falls apart she returns to her grandfather's farm in Colorado, where she works with Jordan, a handsome hardware store owner, to restore a vintage 1960s travel trailer, and along the way, finds new love.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,25 +334,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/the-pregnancy-promise-2023",
-                        "name": "The Pregnancy Promise",
+                        "url": "/videos/the-happy-camper-2023",
+                        "name": "The Happy Camper",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/XdL8VOw03Ki0BG/?t=1683970476&h=796a17463cdf3e9e4837350bfed87ce8?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F960b60a1f56ab25160b13e3458001104%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/XdL8VOw03Ki0BG/?t=1683970476&h=796a17463cdf3e9e4837350bfed87ce8?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F960b60a1f56ab25160b13e3458001104%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=MzkyNjQ1"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
