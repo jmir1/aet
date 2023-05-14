@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/borderland/",
+                                "title": "Borderland",
+                                "description": "Ambientada en los años 70 en Londres, después de que accidentalmente mataran a tiros a su esposa e...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZkBZlJedVOinDmTbM9Z11tUNcPPr3anSkOIwoNAarInU.webp"
+                            },
+                            {
                                 "url": "/pelicula/royalteen-princess-margrethe/",
                                 "title": "Royalteen: Princess Margrethe",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "Paint",
                                 "description": "El talentoso Carl Nargle ha estado presentando su propio programa de pintura en la televisión públ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/GDB5YOKI1EoPsL30.webp"
-                            },
-                            {
-                                "url": "/pelicula/rome-in-love/",
-                                "title": "Rome in Love",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/awfUvZ8XMDfBtFOsF2Gt1J7soxr3ikYiG422T1PwuVX.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -504,10 +504,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/royalteen-princess-margrethe/",
-                    "title": "Royalteen: Princess Margrethe",
-                    "description": "",
-                    "genre": "Drama, Romance",
+                    "url": "/pelicula/borderland/",
+                    "title": "Borderland",
+                    "description": "Ambientada en los años 70 en Londres, después de que accidentalmente mataran a tiros a su esposa en Irlanda, un miembro del IRA se hace cargo de una Unidad de Servicio Activo en la capital inglesa. La misión es causar caos y destrucción, mientras que su misión es perseguir al asesino de su esposa, un capitán del SAS, que también lo está persiguiendo.",
+                    "genre": "Acción, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -515,7 +515,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/royalteen-princess-margrethe/",
+                        "url": "/pelicula/borderland/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -523,7 +523,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar AWZpTFZWO = \"\"; qrIsZdv.forEach(function Oym(value) { AWZpTFZWO += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar vNxTURmv = \"\"; hJlluINhA.forEach(function Oym(value) { vNxTURmv += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
