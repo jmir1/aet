@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/rally-road-racers-2023",
+                                "title": "Rally Road Racers",
+                                "thumbnail_url": "https://images.movembed.cc//cover/rally-road-racers-2023-1684047029.jpg"
+                            },
+                            {
+                                "url": "/videos/book-club-the-next-chapter-2023",
+                                "title": "Book Club: The Next Chapter",
+                                "thumbnail_url": "https://images.movembed.cc//cover/book-club-the-next-chapter-2023-1684047027.jpg"
+                            },
+                            {
                                 "url": "/videos/mutzenbacher-2023",
                                 "title": "Mutzenbacher",
                                 "thumbnail_url": "https://images.movembed.cc//cover/mutzenbacher-2022-1684026627.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/videos/74-minutes-2023",
                                 "title": "74 Minutes",
                                 "thumbnail_url": "https://images.movembed.cc//cover/74-minutes-2023-1683847229.jpg"
-                            },
-                            {
-                                "url": "/videos/the-best-man-2023",
-                                "title": "The Best Man",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-best-man-2023-1683844526.jpg"
-                            },
-                            {
-                                "url": "/videos/que-viva-mexico-2023",
-                                "title": "¡Que viva México!",
-                                "thumbnail_url": "https://images.movembed.cc//cover/que-viva-mexico-2023-1683844525.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/mutzenbacher-2023",
-                    "title": "Mutzenbacher",
-                    "description": "Setting that permits analysis, emotion, reflection and intimacy in equal measure, opening up insights for us into the cosmos of eroticism and sexuality: both within and beyond the confines of male fantasy.",
+                    "url": "/videos/rally-road-racers-2023",
+                    "title": "Rally Road Racers",
+                    "description": "Racers compete in a high-stakes rally along the famous Silk Road trade route.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,33 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/mutzenbacher-2023",
-                        "name": "Mutzenbacher",
+                        "url": "/videos/rally-road-racers-2023",
+                        "name": "Rally Road Racers",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/vprgv9yVa8FP8l/?t=1684047291&h=c257167db190b353e521f92c309843d5?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F3a28c49d7eb86704ec0f56382c409b29%3F?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/vprgv9yVa8FP8l/?t=1684047291&h=c257167db190b353e521f92c309843d5?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F3a28c49d7eb86704ec0f56382c409b29%3F?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=MzkyNjU2"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/v/vprgv9yVa8FP8l/?t=1684047303&h=5f3ce038813fa53961ea301b8b7b85da?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F3a28c49d7eb86704ec0f56382c409b29%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/vprgv9yVa8FP8l/?t=1684047303&h=5f3ce038813fa53961ea301b8b7b85da?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F3a28c49d7eb86704ec0f56382c409b29%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=MzkyNjU2"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
