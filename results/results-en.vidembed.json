@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/caviar-2023",
+                                "title": "Caviar",
+                                "thumbnail_url": "https://images.movembed.cc//cover/caviar-2023-1684151126.jpg"
+                            },
+                            {
+                                "url": "/videos/stay-out-of-the-basement-2023",
+                                "title": "Stay Out of the Basement",
+                                "thumbnail_url": "https://images.movembed.cc//cover/stay-out-of-the-basement-2023-1684143628.jpg"
+                            },
+                            {
+                                "url": "/videos/war-of-the-worlds-the-attack-2023",
+                                "title": "War of the Worlds: The Attack",
+                                "thumbnail_url": "https://images.movembed.cc//cover/war-of-the-worlds-the-attack-2023-1684141828.jpg"
+                            },
+                            {
                                 "url": "/videos/fools-paradise-2023",
                                 "title": "Fool's Paradise",
                                 "thumbnail_url": "https://images.movembed.cc//cover/fools-paradise-2023-1684106725.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/house-of-inequity-2023",
                                 "title": "House of Inequity",
                                 "thumbnail_url": "https://images.movembed.cc//cover/house-of-inequity-2023-1683847236.jpg"
-                            },
-                            {
-                                "url": "/videos/apple-music-live-ed-sheeran-2023",
-                                "title": "Apple Music Live: Ed Sheeran",
-                                "thumbnail_url": "https://images.movembed.cc//cover/apple-music-live-ed-sheeran-2023-1683847235.jpg"
-                            },
-                            {
-                                "url": "/videos/a-family-sentenced-2023",
-                                "title": "A Family Sentenced",
-                                "thumbnail_url": "https://images.movembed.cc//cover/a-family-sentenced-2023-1683847233.jpg"
-                            },
-                            {
-                                "url": "/videos/jethica-2023",
-                                "title": "Jethica",
-                                "thumbnail_url": "https://images.movembed.cc//cover/jethica-2022-1683847232.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/fools-paradise-2023",
-                    "title": "Fool's Paradise",
-                    "description": "A fool for love becomes an accidental celebrity only to lose it all.",
+                    "url": "/videos/caviar-2023",
+                    "title": "Caviar",
+                    "description": "Antigone Corday is an aspiring social media influencer. She is mourning the recent death of her brother, Jeremiah, a well-known pundit and voice for progressive causes. Soon, she receives a mysterious package in the mail--a pre-re...",
                     "initialized": true
                 },
                 "passed": true
@@ -334,25 +334,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/fools-paradise-2023",
-                        "name": "Fool's Paradise",
+                        "url": "/videos/caviar-2023",
+                        "name": "Caviar",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/yBjwOePkwyt1VaK/?t=1684110744&h=f15d1945a0985fa3a853f3ac8ff9f64e?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F501a2be0d80fa3e3c84ae0f34f6be10e%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/yBjwOePkwyt1VaK/?t=1684110744&h=f15d1945a0985fa3a853f3ac8ff9f64e?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F501a2be0d80fa3e3c84ae0f34f6be10e%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=MzkyNjU5"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
