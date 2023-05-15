@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/that-great-british-documentary-2023",
+                                "title": "That Great British Documentary",
+                                "thumbnail_url": "https://images.movembed.cc//cover/that-great-british-documentary-2023-1684167028.jpg"
+                            },
+                            {
                                 "url": "/videos/caviar-2023",
                                 "title": "Caviar",
                                 "thumbnail_url": "https://images.movembed.cc//cover/caviar-2023-1684151126.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/yellow-bird-2023",
                                 "title": "Yellow Bird",
                                 "thumbnail_url": "https://images.movembed.cc//cover/yellow-bird-2023-1683847237.jpg"
-                            },
-                            {
-                                "url": "/videos/house-of-inequity-2023",
-                                "title": "House of Inequity",
-                                "thumbnail_url": "https://images.movembed.cc//cover/house-of-inequity-2023-1683847236.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/caviar-2023",
-                    "title": "Caviar",
-                    "description": "Antigone Corday is an aspiring social media influencer. She is mourning the recent death of her brother, Jeremiah, a well-known pundit and voice for progressive causes. Soon, she receives a mysterious package in the mail--a pre-re...",
+                    "url": "/videos/that-great-british-documentary-2023",
+                    "title": "That Great British Documentary",
+                    "description": "Shot over ten years and prompted by the death of her father, filmmaker Joan explores Britain's colonial past and the legacy her dual black and white heritage has had on her life.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,33 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/caviar-2023",
-                        "name": "Caviar",
+                        "url": "/videos/that-great-british-documentary-2023",
+                        "name": "That Great British Documentary",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/Dzy4eYQ9ypHB9M/?t=1684168467&h=11d1f2f8ecc8d88644f2834e52361949?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F8d61ea920dd51b9b53a1b5a4b7c9d59b%3F?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/Dzy4eYQ9ypHB9M/?t=1684168467&h=11d1f2f8ecc8d88644f2834e52361949?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F8d61ea920dd51b9b53a1b5a4b7c9d59b%3F?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=MzkyNjYz"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/v/Dzy4eYQ9ypHB9M/?t=1684168474&h=ffba6c0e3571cd9c5101229bfc1e9344?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F8d61ea920dd51b9b53a1b5a4b7c9d59b%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/Dzy4eYQ9ypHB9M/?t=1684168474&h=ffba6c0e3571cd9c5101229bfc1e9344?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F8d61ea920dd51b9b53a1b5a4b7c9d59b%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=MzkyNjYz"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

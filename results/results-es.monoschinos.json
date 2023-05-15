@@ -346,8 +346,43 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www14.mp4upload.com/files/3/om7k2yl0wxxdeo/1bastions.mp4",
+                        "quality": "Mp4Upload",
+                        "videoUrl": "https://www14.mp4upload.com/files/3/om7k2yl0wxxdeo/1bastions.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=LWi4lRKPajU&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=LWi4lRKPajU&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=2&sig=VeZkDmHzcZw&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=2&sig=VeZkDmHzcZw&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=1&sig=F5G73iPn8v4&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=1&sig=F5G73iPn8v4&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=0&sig=hXAzBd1fs28&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=0&sig=hXAzBd1fs28&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=4&sig=rkAB3qBWtrI&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1684260496191&srcIp=13.66.11.147&pr=10&srcAg=CHROME&ms=95.142.206.134&type=4&sig=rkAB3qBWtrI&ct=0&urls=45.136.22.42%3B45.136.21.67&clientType=0&zs=43&id=4295063046815"
+                    }
+                ],
+                "passed": true
             }
         }
     }
