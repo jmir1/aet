@@ -177,6 +177,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/die-teufelsbestie",
+                                "title": "Die Teufelsbestie",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-teufelsbestie.jpg"
+                            },
+                            {
+                                "url": "/stream/katzenmenschen",
+                                "title": "Katzenmenschen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/katzenmenschen.jpg"
+                            },
+                            {
+                                "url": "/stream/frankie-johnny",
+                                "title": "Frankie & Johnny",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/frankie-johnny.jpg"
+                            },
+                            {
+                                "url": "/stream/power-book-ii-ghost-s03e08",
+                                "title": "Power Book II: Ghost S03E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/power-book-ii-ghost-s03e08.jpg"
+                            },
+                            {
+                                "url": "/stream/power-book-ii-ghost-s03e07",
+                                "title": "Power Book II: Ghost S03E07",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/power-book-ii-ghost-s03e07.jpg"
+                            },
+                            {
+                                "url": "/stream/power-book-ii-ghost-s03e06",
+                                "title": "Power Book II: Ghost S03E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/power-book-ii-ghost-s03e06.jpg"
+                            },
+                            {
+                                "url": "/stream/power-book-ii-ghost-s03e05",
+                                "title": "Power Book II: Ghost S03E05",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/power-book-ii-ghost-s03e05.jpg"
+                            },
+                            {
+                                "url": "/stream/headless-horseman-pakt-mit-dem-teufel",
+                                "title": "Headless Horseman - Pakt mit dem Teufel",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/headless-horseman-pakt-mit-dem-teufel.jpg"
+                            },
+                            {
                                 "url": "/stream/anaconda",
                                 "title": "Anaconda",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/anaconda.jpg"
@@ -295,46 +335,6 @@
                                 "url": "/stream/all-about-the-money",
                                 "title": "All About The Money",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/all-about-the-money.jpg"
-                            },
-                            {
-                                "url": "/stream/yellowstone-s05e07",
-                                "title": "Yellowstone S05E07",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/yellowstone-s05e07.jpg"
-                            },
-                            {
-                                "url": "/stream/yellowstone-s05e06",
-                                "title": "Yellowstone S05E06",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/yellowstone-s05e06.jpg"
-                            },
-                            {
-                                "url": "/stream/chernobyl-s01e05",
-                                "title": "Chernobyl S01E05",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/chernobyl-s01e05.jpg"
-                            },
-                            {
-                                "url": "/stream/der-rauber-hotzenplotz-2022",
-                                "title": "Der Räuber Hotzenplotz (2022)",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-rauber-hotzenplotz-2022.jpg"
-                            },
-                            {
-                                "url": "/stream/nightsiren",
-                                "title": "Nightsiren",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/nightsiren.jpg"
-                            },
-                            {
-                                "url": "/stream/royalteen-princess-margrethe",
-                                "title": "Royalteen: Princess Margrethe",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/royalteen-princess-margrethe.jpg"
-                            },
-                            {
-                                "url": "/stream/friday-after-next",
-                                "title": "Friday After Next",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/friday-after-next.jpg"
-                            },
-                            {
-                                "url": "/stream/leprechaun-4-in-space",
-                                "title": "Leprechaun 4 - In Space",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/leprechaun-4-in-space.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,7 +537,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
