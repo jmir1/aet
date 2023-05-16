@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/if-i-cant-2023",
+                                "title": "If I Can't",
+                                "thumbnail_url": "https://images.movembed.cc//cover/if-i-cant-2023-1684226728.jpg"
+                            },
+                            {
                                 "url": "/videos/blackberry-2023",
                                 "title": "BlackBerry",
                                 "thumbnail_url": "https://images.movembed.cc//cover/blackberry-2023-1684191628.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/still-a-michael-j-fox-movie-2023",
                                 "title": "Still: A Michael J. Fox Movie",
                                 "thumbnail_url": "https://images.movembed.cc//cover/still-a-michael-j-fox-movie-2023-1683900029.jpg"
-                            },
-                            {
-                                "url": "/videos/dead-shot-2023",
-                                "title": "Dead Shot",
-                                "thumbnail_url": "https://images.movembed.cc//cover/dead-shot-2023-1683899428.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/blackberry-2023",
-                    "title": "BlackBerry",
-                    "description": "The story of the meteoric rise and catastrophic demise of the world's first smartphone.",
+                    "url": "/videos/if-i-cant-2023",
+                    "title": "If I Can't",
+                    "description": "It tells the story of woman, who's in search for love after a tragedy and finds it in the hands of an abuser.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,25 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/blackberry-2023",
-                        "name": "BlackBerry",
+                        "url": "/videos/if-i-cant-2023",
+                        "name": "If I Can't",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/A2q7wlkRaMSXkXJ/?t=1684228845&h=f0ae739ec585a5a7f55531b9dcb29b22?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F834dc872a571e32061ccd38d5a64fd18%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/A2q7wlkRaMSXkXJ/?t=1684228845&h=f0ae739ec585a5a7f55531b9dcb29b22?sub.info=https%3A%2F%2Ffmovies.to%2Fajax%2Fepisode%2Fsubtitles%2F834dc872a571e32061ccd38d5a64fd18%3F&autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=MzkyNjY5"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
