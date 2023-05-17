@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/natsume-yuujin-cho-s3-latino",
+                                "title": "Natsume Yuujin-cho S3 Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/natsume-yuujin-cho-s3-latino-1684284747.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/besalo-a-el-no-a-mi-castellano",
                                 "title": "Bésalo a él, no a mí Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/besalo-a-el-no-a-mi-castellano-1684280881.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/dr-stone-s1-castellano",
                                 "title": "Dr. Stone S1 Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/dr-stone-s1-castellano-1675724005.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/vinland-saga-s2-latino",
-                                "title": "Vinland Saga S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/vinland-saga-s2-latino-1675119380.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,17 +324,42 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/besalo-a-el-no-a-mi-castellano",
-                    "title": "Bésalo a él, no a mí Castellano",
-                    "description": "Cuenta la historia de una colegiala cuyas fantasías es emparejar a sus compañeros de clase.",
-                    "genre": "Comedia, Escolares, Harem, Romance",
+                    "url": "/anime/natsume-yuujin-cho-s3-latino",
+                    "title": "Natsume Yuujin-cho S3 Latino",
+                    "description": "Takashi Natsume, un chico que puede ver youkai y junto a su guardaespaldas Madara, apodado cariñosamente como Nyanko-sensei, continúan su búsqueda para liberar a los youkai de sus contratos en el \"Libro de los amigos\". Natsume acepta su habilidad de ver a los youkai y deja de pensar en ello como una maldición. A medida que pasa más tiempo con sus amigos humanos y youkai, se da cuenta de cuánto los valora y decide que no tiene que elegir entre uno u otro para ser feliz.",
+                    "genre": "Drama, Recuerdos de la vida, Sobrenatural",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/ver/natsume-yuujin-cho-s3-latino-episodio-1",
+                        "name": "Natsume Yuujin-cho S3 Latino Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd467.mycdn.me/?expires=1684390116016&srcIp=52.190.17.192&pr=10&srcAg=CHROME&ms=185.226.52.81&type=5&sig=gCZR5q2L148&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4331607165599",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://vd467.mycdn.me/?expires=1684390116016&srcIp=52.190.17.192&pr=10&srcAg=CHROME&ms=185.226.52.81&type=5&sig=gCZR5q2L148&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4331607165599"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20230516RQY1hQJ42O2/video.mp4",
+                        "quality": "yourupload - Original",
+                        "videoUrl": "https://vidcache.net:8161/a20230516RQY1hQJ42O2/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
