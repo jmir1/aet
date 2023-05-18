@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/yuusha-ga-shinda-ger-sub/",
+                                "title": "Yuusha ga Shinda! Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/56526.jpg"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-ger-sub/",
+                                "title": "Dr. Stone: New World Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/46054.jpg"
+                            },
+                            {
+                                "url": "/watashi-no-yuri-wa-oshigoto-desu-ger-sub/",
+                                "title": "Watashi no Yuri wa Oshigoto desu! Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/55808.jpg"
+                            },
+                            {
                                 "url": "/kono-subarashii-sekai-ni-bakuen-wo-ger-sub/",
                                 "title": "Kono Subarashii Sekai ni Bakuen wo! Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/56014.jpg"
@@ -172,19 +187,9 @@
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/59013.jpg"
                             },
                             {
-                                "url": "/mix-meisei-story-nidome-no-natsu-sora-no-mukou-e-ger-sub/",
-                                "title": "Mix: Meisei Story – Nidome no Natsu, Sora no Mukou e Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/61240.jpg"
-                            },
-                            {
-                                "url": "/mahou-shoujo-magical-destroyers-ger-sub/",
-                                "title": "Mahou Shoujo Magical Destroyers Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/53204.jpg"
-                            },
-                            {
-                                "url": "/birdie-wing-golf-girls-story-season-2-ger-sub/",
-                                "title": "Birdie Wing: Golf Girls‘ Story Season 2 Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/56795.jpg"
+                                "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-dub/",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/55605.jpg"
                             },
                             {
                                 "url": "/date-a-live-iv-ger-dub/",
@@ -290,11 +295,6 @@
                                 "url": "/5-toubun-no-hanayome-movie-ger-dub/",
                                 "title": "5-toubun no Hanayome Movie Ger Dub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/04/46055.jpg"
-                            },
-                            {
-                                "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-dub/",
-                                "title": "Kaminaki Sekai no Kamisama Katsudou Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/55605.jpg"
                             },
                             {
                                 "url": "/masamune-kun-no-revenge-ger-dub/",
@@ -439,19 +439,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/kono-subarashii-sekai-ni-bakuen-wo-ger-sub/",
-                    "title": "Kono Subarashii Sekai ni Bakuen wo! Ger Sub",
-                    "description": "Die Mitglieder des Crimson Magic Clans, Megumin und Yunyun, gehören zu den Besten ihrer Klasse, aber sie haben noch viel zu lernen. Yunyun hat begonnen, fortgeschrittene Magie zu lernen, aber Megumin hat einen anderen Weg eingeschlagen – den Weg der Explosionsmagie!\n ",
-                    "genre": "Comedy, Fantasy",
+                    "url": "/yuusha-ga-shinda-ger-sub/",
+                    "title": "Yuusha ga Shinda! Ger Sub",
+                    "description": "Vor drei Jahren versiegelte ein Held ein Höllentor. Seitdem wurde das Siegel immer schwächer und ließ nur noch sporadisch Monster durch. Nachdem eine große Gruppe von Monstern durch ein Höllentor in das Land eingedrungen ist, wird der Beruf des Helden wieder gebraucht.\n Ein kleiner Rettichbauer namens Touka Scott ist gezwungen, die Sache selbst in die Hand zu nehmen und die Region vor angreifenden Monstern zu schützen.\n ",
+                    "genre": "Action, Adventure, Comedy, Ecchi, Fantasy, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/56014.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/56526.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/yuusha-ga-shinda-ger-sub/?link=6",
+                        "name": "Ep. 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/yuusha-ga-shinda-ger-sub/?link=5",
+                        "name": "Ep. 6",
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\"",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
