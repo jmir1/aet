@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/ars-no-kyojuu-ger-sub/",
+                                "title": "Ars no Kyojuu Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/58785.jpg"
+                            },
+                            {
+                                "url": "/mou-ippon-ger-sub/",
+                                "title": "Mou Ippon! Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/05/50513.jpg"
+                            },
+                            {
                                 "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-sub/",
                                 "title": "Kaminaki Sekai no Kamisama Katsudou Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/55605.jpg"
@@ -177,14 +187,14 @@
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/60538.jpg"
                             },
                             {
-                                "url": "/rokudou-no-onna-tachi-ger-sub/",
-                                "title": "Rokudou no Onna-tachi Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/60306.jpg"
+                                "url": "/date-a-live-iv-ger-dub/",
+                                "title": "Date A Live IV Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/03/37873.jpg"
                             },
                             {
-                                "url": "/tonikaku-kawaii-2nd-season-ger-sub/",
-                                "title": "Tonikaku Kawaii 2nd Season Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/52925.jpg"
+                                "url": "/toaru-majutsu-no-index-ger-dub/",
+                                "title": "Toaru Majutsu no Index Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/09/83.jpg"
                             },
                             {
                                 "url": "/niehime-to-kemono-no-ou-ger-dub/",
@@ -310,16 +320,6 @@
                                 "url": "/trigun-stampede-ger-dub/",
                                 "title": "Trigun Stampede Ger Dub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/01/56567.jpg"
-                            },
-                            {
-                                "url": "/tonikaku-kawaii-seifuku-ger-dub/",
-                                "title": "Tonikaku Kawaii: Seifuku Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/11/49177.jpg"
-                            },
-                            {
-                                "url": "/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen-ger-dub/",
-                                "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/04/52066.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -439,34 +439,19 @@
             },
             "details": {
                 "result": {
-                    "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-sub/",
-                    "title": "Kaminaki Sekai no Kamisama Katsudou Ger Sub",
-                    "description": "Yukitos Eltern sind die Anführer einer Sekte. Nach seiner Opferung wird er in einer anderen Welt wiedergeboren, in der es keine Religion gibt und Pornobücher wie Kinderkritzeleien sind. Er findet heraus, dass das Land in dieser Welt über Leben und Tod entscheidet.\n Als er sich der Hinrichtung seines Freundes in den Weg stellt, verlieren sie beide ihr Leben. Genau in diesem Moment kommt der Gott seiner Religion in ihre Welt und erweckt sie wieder zum Leben.\n ",
-                    "genre": "Action, Comedy, Ecchi, Fantasy",
+                    "url": "/ars-no-kyojuu-ger-sub/",
+                    "title": "Ars no Kyojuu Ger Sub",
+                    "description": "Die Geschichte spielt in einem Zeitalter der Schwerter, Helden und Mythen. Riesige Bestien erschufen das Land, bevor die Menschen dieses an sich nahmen, was die Bestien so sehr erzürnte, dass diese begannen, die Menschen zu fressen. Um sich zu wehren, kontaktierten die Menschen die Götter.\n Die Kyojuu-Bestien verbreiteten sich auf der ganzen Welt und richteten großen Schaden an, doch die Menschen schlugen zurück, indem sie begannen, die Kyojuu zu jagen …\n ",
+                    "genre": "Action, Adventure, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/55605.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/58785.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
-            "episodes": {
-                "result": [
-                    {
-                        "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-sub/?link=6",
-                        "name": "Ep. 7",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-sub/?link=5",
-                        "name": "Ep. 6",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
-            },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }

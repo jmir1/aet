@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/the-flash/",
+                                "title": "مسلسل The Flash حلقة 12 موسم 9 مترجم",
+                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/مسلسل-The-Flash-الموسم-التاسع-1.jpg"
+                            },
+                            {
                                 "url": "/series/kurulus-osman/",
                                 "title": "المؤسس عثمان (28ح)",
                                 "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/مسلسل-المؤسس-عثمان-الموسم-الرابع-1.jpg"
@@ -160,6 +165,16 @@
                                 "url": "/تحميل-فيلم-john-wick-chapter-4-2023-مترجم/",
                                 "title": "John Wick Chapter 4 2023 (مترجم)(فيلم)",
                                 "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BYzI2YWIxN2EtMjI3Ny00YTZmLTg1NTEtYjA3NjA3YzZkM2M3XkEyXkFqcGdeQXVyMTU2MjY2Mjk3._V1_FMjpg_UX1000_-326997742.jpg_UY1200-326997742.jpg"
+                            },
+                            {
+                                "url": "/تحميل-فيلم-black-rose-2023-مترجم/",
+                                "title": "Black Rose 2023 (مترجم)(فيلم)",
+                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BNTllYTgwMzctMDkzNC00YzFkLWIwMTYtZGJlNTcxYzgwZDMzXkEyXkFqcGdeQXVyMTI0NTM5NzYz._V1_FMjpg_UX1000_-172757902.jpg_UY1200-172757902.jpg"
+                            },
+                            {
+                                "url": "/تحميل-فيلم-8000-ft-up-2022-مترجم/",
+                                "title": "Ft Up 2022 (مترجم)(فيلم)",
+                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BZDEzZDZkMmUtOTcwYi00MmNiLTgxMDAtODEyNDI1NmZjNmE2XkEyXkFqcGdeQXVyMTg4MjQ1NTA@._V1_FMjpg_UX1000_-1634914447.jpg_UY1200-1634914447.jpg"
                             },
                             {
                                 "url": "/series/انمي-majutsushi-orphen-hagure-tabi-seiiki-hen-مترجم/",
@@ -620,21 +635,6 @@
                                 "url": "/series/انمي-tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-مترجم/",
                                 "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito  (انمى)",
                                 "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BNzQyODI0ZmUtOWEwNC00MjNmLWEyZWQtNjExZWVjOWE4ZDdiXkEyXkFqcGdeQXVyMTUwMTkzMTAx._V1_FMjpg_UX1000_-1060020418.jpg_UY1200-1060020418.jpg"
-                            },
-                            {
-                                "url": "/series/one-piece/",
-                                "title": "One Piece  (انمى)",
-                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/One-Piece-2019.jpg"
-                            },
-                            {
-                                "url": "/series/مسلسل-my-home-hero-مترجم/",
-                                "title": "My Home Hero الحلقة 7  (انمى)",
-                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/132959l.jpg"
-                            },
-                            {
-                                "url": "/series/انمي-jijou-o-shiranai-tenkousei-ga-guigui-kuru-مترجم/",
-                                "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.  (انمى)",
-                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BODVkYjVhYzctZDMxMi00MGQ3LTgwN2UtMTRmZDM1YjkyYmJmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_-1366880295.jpg_UY1200-1366880295.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -924,8 +924,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/kurulus-osman/",
-                    "title": "مسلسل المؤسس عثمان",
+                    "url": "/series/the-flash/",
+                    "title": "مسلسل The Flash",
                     "author": "",
                     "description": "",
                     "genre": "",
@@ -936,17 +936,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/مسلسل-المؤسس-عثمان-الحلقة-28-الموسم-4-متر/",
-                        "name": "الموسم 4 مترجم"
-                    },
-                    {
-                        "url": "/مسلسل-المؤسس-عثمان-الحلقة-27-الموسم-4-متر/",
-                        "name": "الموسم 4 مترجم"
-                    }
-                ],
-                "passed": true
+                "error": "java.util.ConcurrentModificationException",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
