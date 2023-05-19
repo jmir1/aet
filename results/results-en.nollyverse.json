@@ -63,12 +63,104 @@
                 "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/black-knight",
+                                "title": "Black Knight",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/black-knight.jpg"
+                            },
+                            {
+                                "url": "/serie/queen-cleopatra",
+                                "title": "Queen Cleopatra",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/queen-cleopatra.jpg"
+                            },
+                            {
+                                "url": "/serie/class-of-09",
+                                "title": "Class of '09",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/class-of-09.jpg"
+                            },
+                            {
+                                "url": "/serie/sanctuary",
+                                "title": "Sanctuary",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/sanctuary.jpg"
+                            },
+                            {
+                                "url": "/serie/queen-charlotte-a-bridgerton-story",
+                                "title": "Queen Charlotte: A Bridgerton Story",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/queen-charlotte-a-bridgerton-story.jpg"
+                            },
+                            {
+                                "url": "/serie/bupkis",
+                                "title": "Bupkis",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/bupkis.jpg"
+                            },
+                            {
+                                "url": "/serie/silo",
+                                "title": "Silo",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/silo.jpg"
+                            },
+                            {
+                                "url": "/serie/star-wars-young-jedi-adventures",
+                                "title": "Star Wars: Young Jedi Adventures",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/star-wars-young-jedi-adventures.jpg"
+                            },
+                            {
+                                "url": "/serie/a-small-light",
+                                "title": "A Small Light",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/a-small-light.jpg"
+                            },
+                            {
+                                "url": "/serie/white-house-plumbers",
+                                "title": "White House Plumbers",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/white-house-plumbers.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/edge-of-the-world",
+                                "title": "Edge of the World (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
+                                "title": "2025 - The World enslaved by a Virus (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
+                            },
+                            {
+                                "url": "/movie/world-s-biggest-bull-shark-",
+                                "title": "World's Biggest Bull Shark? (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
+                            },
+                            {
+                                "url": "/serie/the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond (2020-2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
+                            },
+                            {
+                                "url": "/serie/the-end-of-the-f-ing-world",
+                                "title": "The End of the F***ing World (2017-2019)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
+                            },
+                            {
+                                "url": "/serie/run-the-world",
+                                "title": "Run the World (2021-)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/run-the-world.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {

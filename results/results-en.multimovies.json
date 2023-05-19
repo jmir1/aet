@@ -332,6 +332,21 @@
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/episodes/call-of-the-night-1x13/",
+                        "name": "Season 1 - 13 - Call of the Night",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/episodes/call-of-the-night-1x12/",
+                        "name": "Season 1 - 12 - My Mom’s Out Tonight",
+                        "episode_number": 12.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
