@@ -1,6 +1,6 @@
 ## Extension status
 
-### 84/168 are working
+### 82/168 are working
 
 | Extension            |   Status   | Log                                                                                                                                |
 | :------------------- | :--------: | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@
 | en.asianload         |  ❌<br>4/5  | [results-en.asianload.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.asianload.json)                 |
 | en.ask4movie         |     ✅      | [results-en.ask4movie.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.ask4movie.json)                 |
 | en.bestdubbedanime   |     ✅      | [results-en.bestdubbedanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.bestdubbedanime.json)     |
-| en.dopebox           |     ✅      | [results-en.dopebox.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.dopebox.json)                     |
+| en.dopebox           |  ❌<br>5/6  | [results-en.dopebox.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.dopebox.json)                     |
 | en.dramacool         |  ❌<br>5/6  | [results-en.dramacool.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.dramacool.json)                 |
 | en.edytjedhgmdhm     |     ✅      | [results-en.edytjedhgmdhm.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.edytjedhgmdhm.json)         |
 | en.genoanime         |  ❌<br>5/6  | [results-en.genoanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.genoanime.json)                 |
@@ -84,8 +84,8 @@
 | en.nineanime         |  ❌<br>4/6  | [results-en.nineanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.nineanime.json)                 |
 | en.nollyverse        |     ✅      | [results-en.nollyverse.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.nollyverse.json)               |
 | en.noobsubs          |     ✅      | [results-en.noobsubs.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.noobsubs.json)                   |
-| en.pactedanime       |     ✅      | [results-en.pactedanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.pactedanime.json)             |
-| en.putlocker         |  ❌<br>3/6  | [results-en.putlocker.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.putlocker.json)                 |
+| en.pactedanime       |  ❌<br>3/6  | [results-en.pactedanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.pactedanime.json)             |
+| en.putlocker         |  ❌<br>4/6  | [results-en.putlocker.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.putlocker.json)                 |
 | en.ripcrabbyanime    |  ❌<br>3/5  | [results-en.ripcrabbyanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.ripcrabbyanime.json)       |
 | en.rule34video       |     ✅      | [results-en.rule34video.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.rule34video.json)             |
 | en.sflix             |     ✅      | [results-en.sflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.sflix.json)                         |
@@ -105,7 +105,7 @@
 | es.animeyt           |     ✅      | [results-es.animeyt.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.animeyt.json)                     |
 | es.asialiveaction    |  ❌<br>5/6  | [results-es.asialiveaction.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.asialiveaction.json)       |
 | es.cuevana           |  ❌<br>4/5  | [results-es.cuevana.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.cuevana.json)                     |
-| es.doramasflix       |  ❌<br>5/6  | [results-es.doramasflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.doramasflix.json)             |
+| es.doramasflix       |  ❌<br>4/6  | [results-es.doramasflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.doramasflix.json)             |
 | es.doramasyt         |  ❌<br>5/6  | [results-es.doramasyt.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.doramasyt.json)                 |
 | es.ennovelas         |     ✅      | [results-es.ennovelas.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.ennovelas.json)                 |
 | es.fanpelis          |     ✅      | [results-es.fanpelis.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.fanpelis.json)                   |
@@ -115,7 +115,7 @@
 | es.jkanime           |     ✅      | [results-es.jkanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.jkanime.json)                     |
 | es.jkhentai          |  ❌<br>4/5  | [results-es.jkhentai.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.jkhentai.json)                   |
 | es.latanime          |     ✅      | [results-es.latanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.latanime.json)                   |
-| es.legionanime       |  ❌<br>5/6  | [results-es.legionanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.legionanime.json)             |
+| es.legionanime       |  ❌<br>0/6  | [results-es.legionanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.legionanime.json)             |
 | es.locopelis         |  ❌<br>5/6  | [results-es.locopelis.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.locopelis.json)                 |
 | es.monoschinos       |     ✅      | [results-es.monoschinos.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.monoschinos.json)             |
 | es.mundodonghua      |  ❌<br>4/5  | [results-es.mundodonghua.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.mundodonghua.json)           |

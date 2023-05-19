@@ -11,6 +11,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-other-two-38194/",
+                                "title": "The Other Two - Season 3",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/6213f5707e95b35bf3ed29db571c1658.jpg"
+                            },
+                            {
+                                "url": "/film/see-no-evil-33707/",
+                                "title": "See No Evil - Season 11",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/c2521921d76d2ce44db70338ba72dd99.jpg"
+                            },
+                            {
+                                "url": "/film/masterchef-australia-39139/",
+                                "title": "MasterChef Australia - Season 15",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/ec621118fcb53036d56c02ee471a6198.jpg"
+                            },
+                            {
                                 "url": "/film/love-hip-hop-atlanta-run-it-back-96184/",
                                 "title": "Love & Hip Hop Atlanta: Run It Back - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/9a673ecaf154b59ade228f360862d46d.jpg"
@@ -39,11 +54,6 @@
                                 "url": "/film/the-real-housewives-of-new-jersey-38717/",
                                 "title": "The Real Housewives of New Jersey - Season 13",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/300f3f7f64cb64246ee4d73a25f00a4d.jpg"
-                            },
-                            {
-                                "url": "/film/masterchef-australia-39139/",
-                                "title": "MasterChef Australia - Season 15",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/ec621118fcb53036d56c02ee471a6198.jpg"
                             },
                             {
                                 "url": "/film/north-shore-96832/",
@@ -199,16 +209,6 @@
                                 "url": "/film/state-of-affairs-96712/",
                                 "title": "State of Affairs - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/0fdee12155460b7c77badbcecb2ebe34.jpg"
-                            },
-                            {
-                                "url": "/film/ghost-book-obakezukan-96772/",
-                                "title": "Ghost Book Obakezukan",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/8d984e7b694ed0e24d15a30ccb1dd5e3.jpg"
-                            },
-                            {
-                                "url": "/film/ct-fletcher-my-magnificent-obsession-96790/",
-                                "title": "CT Fletcher: My Magnificent Obsession",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/2d4bbb81c331ed8af98d087de6dd8646.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -428,11 +428,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/love-hip-hop-atlanta-run-it-back-96184/",
-                    "title": "Love & Hip Hop Atlanta: Run It Back",
+                    "url": "/film/the-other-two-38194/",
+                    "title": "The Other Two",
                     "author": "",
-                    "description": "The Love & Hip Hop OGs run it back to Season 1 of Love & Hip Hop Atlanta, offering hilarious and reflective insider commentary on early episodes.\n\nQuality: HD\nRelease: 2023-05-02\nIMDb: n/a",
-                    "genre": "Reality",
+                    "description": "An aspiring actor and his sister Brooke, a former professional dancer, try to find their place in the world while wrestling with their feelings about their 13-year-old brother Chase's sudden rise to internet fame.\n\nQuality: HD\nRelease: 2019-01-24\nIMDb: 7.8",
+                    "genre": "Comedy",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -440,11 +440,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":0,\"ids\":[\"38194_0_1\",\"38194_0_2\",\"38194_0_3\"]}",
+                        "name": "Movie",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
