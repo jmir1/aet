@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/1-gatsu-ni-wa-christmas/",
+                                "title": "1-gatsu ni wa Christmas",
+                                "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2019/08/Ashampoo_Snap_2019.08.21_16h59m51s_001_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/hula-fulla-dance/",
                                 "title": "Hula Fulla Dance",
                                 "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/05/454545.png?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/dead-mount-death-play/",
                                 "title": "Dead Mount Death Play",
                                 "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/03/Ashampoo_Snap_2023.03.29_22h07m11s_021_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/birdie-wing-golf-girls-story-season-2/",
-                                "title": "Birdie Wing: Golf Girls' Story Season 2",
-                                "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/03/Ashampoo_Snap_2023.03.29_21h54m39s_020_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,13 +349,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hula-fulla-dance/",
-                    "title": "Hula Fulla Dance",
-                    "description": "ناتسوناجي هيوا، مبتدئة في رقص الهولا ومع ذلك تتولى وظيفة راقصة في فندق. وتركز القصة حول العلاقات بينها وبين زملائها في الفندق بمدينة ايواكي.",
-                    "genre": "كوميدي, دراما, موسيقي, شريحة من الحياة, رياضي, Movie, مكتمل, خريف 2021",
+                    "url": "/anime/1-gatsu-ni-wa-christmas/",
+                    "title": "1-gatsu ni wa Christmas",
+                    "description": "نوبوماسا هو رجل يعمل في بدوام جزئي في متجر للأحذية حيث يلتقي بصديقته القديمة ميزوكي. ميزوكي فتاة عانت من مشاكل في حياتها حيث أصبحت لا تثق بأحد غير نوبوماسا. في تلك الفترة، ظهرت فتاة وأسمها سيكو والتي أصبحت بدورها تحب نوبوماسا ولكن غير قادرة على إظهار مشاعرها له",
+                    "genre": "دراما, رومانسي, OVA, مكتمل, خريف 1991",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/05/454545.png?fit=449%2C638&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2019/08/Ashampoo_Snap_2019.08.21_16h59m51s_001_.png?fit=248%2C348&ssl=1",
                     "initialized": true
                 },
                 "passed": true
@@ -363,16 +363,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/فيلم-hula-fulla-dance/",
-                        "name": "الفلم 1",
+                        "url": "/episode/اوفا-1-gatsu-ni-wa-n1i31/",
+                        "name": "الأوفا 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.4shared.com/web/embed/file/PuW_nd7Yge/",
+                        "quality": "no 1video",
+                        "videoUrl": "https"
+                    }
+                ],
+                "passed": true
             }
         }
     }
