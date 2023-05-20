@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/mashle-ger-sub/",
+                                "title": "Mashle Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/57011.jpg"
+                            },
+                            {
+                                "url": "/megami-no-cafe-terrace-ger-sub/",
+                                "title": "Megami no Café Terrace Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/60538.jpg"
+                            },
+                            {
+                                "url": "/tonikaku-kawaii-2nd-season-ger-sub/",
+                                "title": "Tonikaku Kawaii 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/52925.jpg"
+                            },
+                            {
+                                "url": "/rokudou-no-onna-tachi-ger-sub/",
+                                "title": "Rokudou no Onna-tachi Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/60306.jpg"
+                            },
+                            {
                                 "url": "/mahou-shoujo-magical-destroyers-ger-sub/",
                                 "title": "Mahou Shoujo Magical Destroyers Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/53204.jpg"
@@ -15,26 +35,6 @@
                                 "url": "/birdie-wing-golf-girls-story-season-2-ger-sub/",
                                 "title": "Birdie Wing: Golf Girls‘ Story Season 2 Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/56795.jpg"
-                            },
-                            {
-                                "url": "/megami-no-cafe-terrace-ger-sub/",
-                                "title": "Megami no Café Terrace Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/60538.jpg"
-                            },
-                            {
-                                "url": "/rokudou-no-onna-tachi-ger-sub/",
-                                "title": "Rokudou no Onna-tachi Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/60306.jpg"
-                            },
-                            {
-                                "url": "/tonikaku-kawaii-2nd-season-ger-sub/",
-                                "title": "Tonikaku Kawaii 2nd Season Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/52925.jpg"
-                            },
-                            {
-                                "url": "/mashle-ger-sub/",
-                                "title": "Mashle Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/57011.jpg"
                             },
                             {
                                 "url": "/isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita-ger-sub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/mahou-shoujo-magical-destroyers-ger-sub/",
-                    "title": "Mahou Shoujo Magical Destroyers Ger Sub",
-                    "description": "Die Geschichte spielt in einer dystopischen nahen Zukunft, in der die Otaku-Kultur in Japan von einer mysteriösen Organisation namens »SSC« ausgelöscht wurde. Sie folgt den Missgeschicken von Otaku Hero – einem jungen Revolutionär, der die Otaku-Kultur liebt – und Anarchy, Blue und Pink, einem Magical-Girl-Trio, die ihn bewundern. Gemeinsam kämpfen sie dafür, »eine Welt zu schaffen, in der man über das, was man mag, so viel sagen kann, wie man mag.«\n ",
-                    "genre": "Action, Fantasy",
+                    "url": "/mashle-ger-sub/",
+                    "title": "Mashle Ger Sub",
+                    "description": "Dies ist eine Welt, in der Magie für alles verwendet wird. Aber tief im Wald gibt es einen jungen Mann, der seine Zeit damit verbringt, zu trainieren und sich aufzuplustern. Er kann keine Magie benutzen, aber er genießt ein friedliches Leben mit seinem Vater. Doch eines Tages gerät sein Leben in Gefahr! Wird sein muskulöser Körper ihn vor den Magiern schützen, die es auf ihn abgesehen haben?\n ",
+                    "genre": "Action, Comedy, Shounen, Supernatural",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/53204.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/57011.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mahou-shoujo-magical-destroyers-ger-sub/?link=6",
-                        "name": "Ep. 7",
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/mahou-shoujo-magical-destroyers-ger-sub/?link=5",
-                        "name": "Ep. 6",
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"Ep.6.5\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }

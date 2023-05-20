@@ -73,74 +73,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/super-sentai-world.html",
-                                "title": "Super Sentai World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-grease.html",
-                                "title": "Build NEW WORLD: Kamen Rider Grease",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
-                            },
-                            {
-                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
-                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
-                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-world-j-zo.html",
-                                "title": "Kamen Rider World ( J & ZO )",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
-                                "title": "Kamen Rider Black RX – Run All Over The World",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
-                            },
-                            {
-                                "url": "/watch/voltes-v-legacy.html",
-                                "title": "Voltes V: Legacy",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/fire-fox-tochionger-seven.html",
-                                "title": "Fire Fox Tochionger Seven",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/fire-fox-tochionger-seven-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-force-season-2.html",
-                                "title": "Super Force – Season 2",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-force-season-2-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-force-season-1.html",
-                                "title": "Super Force – Season 1",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-force-season-1-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -170,54 +104,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hls22-eu.zcdn.stream/c717f31ca30b0a5326aed946d8940a0f/2023-05-15/1080.m3u8?token=0c41a72327a8103ebc205ea2fafcf333&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1684571431&type=edge&node=WyJlZGdlOC56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxOC1ldS56Y2RuLnN0cmVhbSJd",
-                        "quality": "1080p",
-                        "videoUrl": "https://hls22-eu.zcdn.stream/c717f31ca30b0a5326aed946d8940a0f/2023-05-15/1080.m3u8?token=0c41a72327a8103ebc205ea2fafcf333&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1684571431&type=edge&node=WyJlZGdlOC56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxOC1ldS56Y2RuLnN0cmVhbSJd",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    },
-                    {
-                        "url": "https://hls22-eu.zcdn.stream/c717f31ca30b0a5326aed946d8940a0f/2023-05-15/720.m3u8?token=0c41a72327a8103ebc205ea2fafcf333&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1684571431&type=edge&node=WyJlZGdlOC56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxOC1ldS56Y2RuLnN0cmVhbSJd",
-                        "quality": "720p",
-                        "videoUrl": "https://hls22-eu.zcdn.stream/c717f31ca30b0a5326aed946d8940a0f/2023-05-15/720.m3u8?token=0c41a72327a8103ebc205ea2fafcf333&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1684571431&type=edge&node=WyJlZGdlOC56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxOC1ldS56Y2RuLnN0cmVhbSJd",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    },
-                    {
-                        "url": "https://hls22-eu.zcdn.stream/c717f31ca30b0a5326aed946d8940a0f/2023-05-15/360.m3u8?token=0c41a72327a8103ebc205ea2fafcf333&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1684571431&type=edge&node=WyJlZGdlOC56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxOC1ldS56Y2RuLnN0cmVhbSJd",
-                        "quality": "360p",
-                        "videoUrl": "https://hls22-eu.zcdn.stream/c717f31ca30b0a5326aed946d8940a0f/2023-05-15/360.m3u8?token=0c41a72327a8103ebc205ea2fafcf333&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1684571431&type=edge&node=WyJlZGdlOC56Y2RuLnN0cmVhbSIsImVkZ2UxMS1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxMy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxNy1ldS56Y2RuLnN0cmVhbSIsImVkZ2UxOC1ldS56Y2RuLnN0cmVhbSJd",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
