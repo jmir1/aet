@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/vian?id=6469219e13196f5f1bed837b",
+                                "title": "ViAn (ViAn)",
+                                "description": " (🌈BL) Un apuesto chico se ve obligado mudarse a una casa embrujada, debido a problemas económicos. Para su sorpresa en esta casa no habitan fantasmas como le habían advertido, en vez de eso, después de su primera noche encuentra otro tipo de extraña criatura a su lado.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ez2UVcRk01gBGq8jGBV2xh1YtrD.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/xo-kitty?id=64662d3526b347170b3230b6",
                                 "title": "XO, Kitty (Besos, Kitty)",
                                 "description": "La casamentera adolescente Kitty Song Covey cree que sabe todo lo que hay que saber sobre el amor. Pero cuando se muda al otro lado del mundo para reunirse con su novio de larga distancia, pronto se dará cuenta de que las relaciones son mucho más complicadas cuando es tu propio corazón el que está en juego.",
@@ -456,13 +463,6 @@
                                 "description": "Ambientada en el duro e industrial noreste de China, cuenta la historia de un joven oficial de policía que investiga el asesinato de un taxista, solo para descubrir que un amigo de la infancia puede estar involucrado. Para resolver el caso, explora capa por capa, revelando un pasado enterrado hace 12 años.",
                                 "genre": "Drama, Crimen, Misterio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/gAUONxYuk1oO6nUbjCHqm6Nc6Cq.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/family-the-unbreakable-bond?id=6441f3ccee74ca7627661f01",
-                                "title": "Family: The Unbreakable Bond (Familia: el vínculo inquebrantable)",
-                                "description": "Kwon Do Hoon es un francotirador experto y un agente secreto que trabaja para el Servicio Nacional de Inteligencia. Para ocultar su verdadera identidad, vive una doble vida como empleado regular de una empresa comercial, manteniendo en la oscuridad incluso a su esposa Kang Yoo Ra. Aunque está ocupado con su trabajo, Kwon Do Hoon aprecia profundamente a su esposa. Mientras tanto, Kang Yoo Ra, una dedicada ama de casa, esconde un secreto. Su tranquila existencia se convierte en un caos cuando emerge Tae Koo, lo que representa una amenaza para su fachada cuidadosamente diseñada.",
-                                "genre": "Drama, Comedia, Acción, Thriller",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/co8hSEw5TsxQWrq1AYjiXMgSD1V.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -576,17 +576,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
