@@ -215,54 +215,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/polite-society/",
-                    "title": "Polite Society",
-                    "description": "Polite Society Sigue a una colegiala atrevida cuyo mundo se estremece al saber que su hermana mayor renunciará a sus sueños para comprometerse, y cree que debe salvarla de los grilletes del matrimonio realizando un atraco a la boda.",
-                    "genre": "Acción, Aventura, Comedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/wTuEohahpW4nY5dGru1l41XhytO.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/polite-society/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery360.akamai-video-content.com/hls2/01/12727/d2ws784a8ayn_n/index-v1-a2.m3u8?t=KbcV2Np5uKVdo2kI5ysvSmCG8aO5Ah3ri-Rsy5nz6lk&s=1684692482&e=10800&f=63635666&srv=sto205&client=70.37.167.38&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery360.akamai-video-content.com/hls2/01/12727/d2ws784a8ayn_n/index-v1-a2.m3u8?t=KbcV2Np5uKVdo2kI5ysvSmCG8aO5Ah3ri-Rsy5nz6lk&s=1684692482&e=10800&f=63635666&srv=sto205&client=70.37.167.38&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/d2ws784a8ayn.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery360.akamai-video-content.com/hls2/01/12727/d2ws784a8ayn_l/index-v1-a2.m3u8?t=KbcV2Np5uKVdo2kI5ysvSmCG8aO5Ah3ri-Rsy5nz6lk&s=1684692482&e=10800&f=63635666&srv=sto205&client=70.37.167.38&asn=8075",
-                        "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery360.akamai-video-content.com/hls2/01/12727/d2ws784a8ayn_l/index-v1-a2.m3u8?t=KbcV2Np5uKVdo2kI5ysvSmCG8aO5Ah3ri-Rsy5nz6lk&s=1684692482&e=10800&f=63635666&srv=sto205&client=70.37.167.38&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/d2ws784a8ayn.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

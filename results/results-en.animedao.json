@@ -767,6 +767,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-blue-orchestra/",
+                                "title": "Ao no Orchestra",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/the-blue-orchestra.jpg"
+                            },
+                            {
                                 "url": "/anime/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/",
                                 "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc.jpg"
@@ -1495,11 +1500,6 @@
                                 "url": "/anime/skip-and-loafer/",
                                 "title": "Skip to Loafer",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/skip-and-loafer.jpg"
-                            },
-                            {
-                                "url": "/anime/kizuna-no-allele/",
-                                "title": "Kizuna no Allele",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/kizuna-no-allele.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -1698,8 +1698,64 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.1080.m3u8",
+                        "quality": "vstream - 1080p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.1080.m3u8"
+                    },
+                    {
+                        "url": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.720.m3u8",
+                        "quality": "vstream - 720p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.720.m3u8"
+                    },
+                    {
+                        "url": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.480.m3u8",
+                        "quality": "vstream - 480p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.480.m3u8"
+                    },
+                    {
+                        "url": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.360.m3u8",
+                        "quality": "vstream - 360p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www055.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1062.1684636043.360.m3u8"
+                    },
+                    {
+                        "url": "https://mixdrop.to/e/n0qro399bnlomk",
+                        "quality": "mixdrop - MixDrop",
+                        "videoUrl": "https://s-delivery45.mxdcontent.net/v/624a0b7fe65fa4c9ea1637c18d97866c.mp4?s=XyYhGwQZ-buHwQ-E7v33oQ&e=1684737271&_t=1684725073",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=e3AMJ0mA9lTjQp&expires=1684785670&ip=F0AsFxOnDS9X&token=IUl8f4svlgbB",
+                        "quality": "streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=e3AMJ0mA9lTjQp&expires=1684785670&ip=F0AsFxOnDS9X&token=IUl8f4svlgbB"
+                    },
+                    {
+                        "url": "https://delivery150.akamai-video-content.com/hls2/01/12772/5hc80gx5uues_n/index-v1-a1.m3u8?t=vTjq_tMusm961x52F1lTu93Bt94CUqx2yyKDP60JSjM&s=1684715669&e=10800&f=63863887&srv=sto067&client=13.83.44.114&asn=8075",
+                        "quality": "streamsb -  StreamSB:720p ",
+                        "videoUrl": "https://delivery150.akamai-video-content.com/hls2/01/12772/5hc80gx5uues_n/index-v1-a1.m3u8?t=vTjq_tMusm961x52F1lTu93Bt94CUqx2yyKDP60JSjM&s=1684715669&e=10800&f=63863887&srv=sto067&client=13.83.44.114&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://streamsb.space/embed-5hc80gx5uues.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery150.akamai-video-content.com/hls2/01/12772/5hc80gx5uues_l/index-v1-a1.m3u8?t=vTjq_tMusm961x52F1lTu93Bt94CUqx2yyKDP60JSjM&s=1684715669&e=10800&f=63863887&srv=sto067&client=13.83.44.114&asn=8075",
+                        "quality": "streamsb -  StreamSB:480p ",
+                        "videoUrl": "https://delivery150.akamai-video-content.com/hls2/01/12772/5hc80gx5uues_l/index-v1-a1.m3u8?t=vTjq_tMusm961x52F1lTu93Bt94CUqx2yyKDP60JSjM&s=1684715669&e=10800&f=63863887&srv=sto067&client=13.83.44.114&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://streamsb.space/embed-5hc80gx5uues.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

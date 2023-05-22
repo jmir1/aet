@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/yakitori/",
+                                "title": "Yakitori",
+                                "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/05/Ashampoo_Snap_2023.05.21_20h07m25s_002_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/1-gatsu-ni-wa-christmas/",
                                 "title": "1-gatsu ni wa Christmas",
                                 "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2019/08/Ashampoo_Snap_2019.08.21_16h59m51s_001_.png?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai/",
                                 "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
                                 "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/04/134949.jpg?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/dead-mount-death-play/",
-                                "title": "Dead Mount Death Play",
-                                "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/03/Ashampoo_Snap_2023.03.29_22h07m11s_021_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,13 +349,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/1-gatsu-ni-wa-christmas/",
-                    "title": "1-gatsu ni wa Christmas",
-                    "description": "نوبوماسا هو رجل يعمل في بدوام جزئي في متجر للأحذية حيث يلتقي بصديقته القديمة ميزوكي. ميزوكي فتاة عانت من مشاكل في حياتها حيث أصبحت لا تثق بأحد غير نوبوماسا. في تلك الفترة، ظهرت فتاة وأسمها سيكو والتي أصبحت بدورها تحب نوبوماسا ولكن غير قادرة على إظهار مشاعرها له",
-                    "genre": "دراما, رومانسي, OVA, مكتمل, خريف 1991",
+                    "url": "/anime/yakitori/",
+                    "title": "Yakitori",
+                    "description": "بعد تعرّض الأرض للاستعمار من حضارة فضائية متفوقة، لا تعود لدى \"أكيرا\" فرصة لمستقبل أفضل إلا بالانضمام إلى \"ياكيتوري\" كجندي مشاة يمكن التضحية به.",
+                    "genre": "أكشن, خيال علمي, حربي, فضائي, ONA, مكتمل, ربيع 2023",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2019/08/Ashampoo_Snap_2019.08.21_16h59m51s_001_.png?fit=248%2C348&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/w1.anime4up.tv/wp-content/uploads/2023/05/Ashampoo_Snap_2023.05.21_20h07m25s_002_.png?fit=404%2C598&ssl=1",
                     "initialized": true
                 },
                 "passed": true
@@ -363,22 +363,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/اوفا-1-gatsu-ni-wa-n1i31/",
-                        "name": "الأوفا 1",
-                        "episode_number": 1.0
+                        "url": "/episode/yakitori-الحلقة-6-والاخيرة/",
+                        "name": "الحلقة 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/yakitori-الحلقة-5/",
+                        "name": "الحلقة 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.4shared.com/web/embed/file/PuW_nd7Yge/",
-                        "quality": "no 1video",
-                        "videoUrl": "https"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
