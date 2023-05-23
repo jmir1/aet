@@ -32,19 +32,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w780/1uLaiS3jCky1i8axzUogS3uHucT.jpg"
                             },
                             {
-                                "url": "/donghua/those-years-i-opened-a-zoo/",
-                                "title": "Those Years I Opened a Zoo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/yK7WCSEa23KBObKjOpGiFVvya1D.jpg"
+                                "url": "/donghua/cupids-chocolates/",
+                                "title": "Cupid’s Chocolates",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/qqoPq07zUVmT9WFHgMokE3ew4N9.jpg"
                             },
                             {
-                                "url": "/donghua/a-will-eternal-2/",
-                                "title": "A Will Eternal 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/8kjea5G7lMYRit7U9rSOLLZZOUh.jpg"
+                                "url": "/donghua/aiyou-de-mishi/",
+                                "title": "Aiyou de Mishi",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/8TGOIXnupFBFrx0kEtJgLUBiXWT.jpg"
                             },
                             {
-                                "url": "/donghua/quanzhi-fashi-5/",
-                                "title": "Quanzhi Fashi 5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/xhtHgMDNXgipfXrkmUPKXPnOlJY.jpg"
+                                "url": "/donghua/since-i-wasnt-the-heroine/",
+                                "title": "Since I Wasn’t the Heroine",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/a4Yip1lzqA2hW2lekQu3GRz0jC1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -213,8 +213,19 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/donghua/dawn-of-world/",
+                                "title": "Dawn of World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/68r6N1aVtEI1TdGTcSfxeD9Grz6.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -245,17 +256,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www.secvideo1.online/get_file/14/2383d4dae3bd910d7c872fa3d5e2db9eaeb78d3ea1/690000/690607/690607_720p.mp4/",
+                        "url": "https://www.secvideo1.online/get_file/14/2383d4dae3bd910d7c872fa3d5e2db9ec1ec097d96/690000/690607/690607_720p.mp4/",
                         "quality": "AllVideo - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/14/2383d4dae3bd910d7c872fa3d5e2db9eaeb78d3ea1/690000/690607/690607_720p.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/14/2383d4dae3bd910d7c872fa3d5e2db9ec1ec097d96/690000/690607/690607_720p.mp4/",
                         "headers": {
                             "Referer": "https://www.secvideo1.online/"
                         }
                     },
                     {
-                        "url": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_n/index-v1-a1.m3u8?t=mCOgzZOy8eLofkKF33RV5zLOzyX8IGXKDd9gOlkKSbg&s=1684778863&e=10800&f=63699575&srv=sto086&client=172.177.254.86&asn=8075",
+                        "url": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_n/index-v1-a1.m3u8?t=TuQU3ZGsvWyDc2BfMw9jlsRhgiAqSqllfaEk4ybZ8Rk&s=1684801982&e=10800&f=63699575&srv=sto086&client=70.37.167.55&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_n/index-v1-a1.m3u8?t=mCOgzZOy8eLofkKF33RV5zLOzyX8IGXKDd9gOlkKSbg&s=1684778863&e=10800&f=63699575&srv=sto086&client=172.177.254.86&asn=8075",
+                        "videoUrl": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_n/index-v1-a1.m3u8?t=TuQU3ZGsvWyDc2BfMw9jlsRhgiAqSqllfaEk4ybZ8Rk&s=1684801982&e=10800&f=63699575&srv=sto086&client=70.37.167.55&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbrapid.com/e/k96cc83hnyxn.html",
@@ -264,30 +275,99 @@
                         }
                     },
                     {
-                        "url": "https://www.secvideo1.online/get_file/14/145478418bdee3637dc5a1c6e1b52263869df5fa02/690000/690607/690607.mp4/",
+                        "url": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yyyOVmXou6m0RAdfsdvj1XBsoHBmtUG060S7VbCRVkLsyGp7o-6yB8dNp3hiqLk2Lc)/video/684/760/519067486_mp4_h264_aac_hd_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  720p",
+                        "videoUrl": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yyyOVmXou6m0RAdfsdvj1XBsoHBmtUG060S7VbCRVkLsyGp7o-6yB8dNp3hiqLk2Lc)/video/684/760/519067486_mp4_h264_aac_hd_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yyyOVmXou6m0RAdfsdvj1XBsoHBmtUG060S7VbCRVkLsyGp7o-6yB8dNp3hiqLk2Lc)/video/684/760/519067486_mp4_h264_aac_hd_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  720p",
+                        "videoUrl": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yyyOVmXou6m0RAdfsdvj1XBsoHBmtUG060S7VbCRVkLsyGp7o-6yB8dNp3hiqLk2Lc)/video/684/760/519067486_mp4_h264_aac_hd_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://wht.nuplink.net/pool/pub/57/e9/0d/6c98ebc56075e31fcd9505cb1957e90d/250635918?token=ec26e91570529d8f48618bf57bf29d12&ts=1684799230&ht=video/mp4",
+                        "quality": "Internal player - 720p",
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/57/e9/0d/6c98ebc56075e31fcd9505cb1957e90d/250635918?token=ec26e91570529d8f48618bf57bf29d12&ts=1684799230&ht=video/mp4"
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/14/145478418bdee3637dc5a1c6e1b522639b75252575/690000/690607/690607.mp4/",
                         "quality": "AllVideo - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/14/145478418bdee3637dc5a1c6e1b52263869df5fa02/690000/690607/690607.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/14/145478418bdee3637dc5a1c6e1b522639b75252575/690000/690607/690607.mp4/",
                         "headers": {
                             "Referer": "https://www.secvideo1.online/"
                         }
                     },
                     {
-                        "url": "https://www.secvideo1.online/get_file/14/7f2c83924676eb03da5d53a9536a0bf25ac6eb7ea6/690000/690607/690607_360p.mp4/",
+                        "url": "https://www.secvideo1.online/get_file/14/7f2c83924676eb03da5d53a9536a0bf24ed4bc960d/690000/690607/690607_360p.mp4/",
                         "quality": "AllVideo - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/14/7f2c83924676eb03da5d53a9536a0bf25ac6eb7ea6/690000/690607/690607_360p.mp4/",
+                        "videoUrl": "https://www.secvideo1.online/get_file/14/7f2c83924676eb03da5d53a9536a0bf24ed4bc960d/690000/690607/690607_360p.mp4/",
                         "headers": {
                             "Referer": "https://www.secvideo1.online/"
                         }
                     },
                     {
-                        "url": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_l/index-v1-a1.m3u8?t=mCOgzZOy8eLofkKF33RV5zLOzyX8IGXKDd9gOlkKSbg&s=1684778863&e=10800&f=63699575&srv=sto086&client=172.177.254.86&asn=8075",
+                        "url": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_l/index-v1-a1.m3u8?t=TuQU3ZGsvWyDc2BfMw9jlsRhgiAqSqllfaEk4ybZ8Rk&s=1684801982&e=10800&f=63699575&srv=sto086&client=70.37.167.55&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_l/index-v1-a1.m3u8?t=mCOgzZOy8eLofkKF33RV5zLOzyX8IGXKDd9gOlkKSbg&s=1684778863&e=10800&f=63699575&srv=sto086&client=172.177.254.86&asn=8075",
+                        "videoUrl": "https://delivery136.akamai-video-content.com/hls2/01/12739/k96cc83hnyxn_l/index-v1-a1.m3u8?t=TuQU3ZGsvWyDc2BfMw9jlsRhgiAqSqllfaEk4ybZ8Rk&s=1684801982&e=10800&f=63699575&srv=sto086&client=70.37.167.55&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbrapid.com/e/k96cc83hnyxn.html",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yzIvmBkCV__42UStCxztiT3CFth7YOu7Lx-k7xWobv-ux_JEdfno2NbMOvdORELg4g)/video/684/760/519067486_mp4_h264_aac_fhd_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  1080p",
+                        "videoUrl": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yzIvmBkCV__42UStCxztiT3CFth7YOu7Lx-k7xWobv-ux_JEdfno2NbMOvdORELg4g)/video/684/760/519067486_mp4_h264_aac_fhd_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yzIvmBkCV__42UStCxztiT3CFth7YOu7Lx-k7xWobv-ux_JEdfno2NbMOvdORELg4g)/video/684/760/519067486_mp4_h264_aac_fhd_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  1080p",
+                        "videoUrl": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yzIvmBkCV__42UStCxztiT3CFth7YOu7Lx-k7xWobv-ux_JEdfno2NbMOvdORELg4g)/video/684/760/519067486_mp4_h264_aac_fhd_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7ywe8bdGN92A9-K0840MtI6uowb9YxTqp8YmAXu4KyfPtkjHqf92x4tWVKptH1kW_6k)/video/684/760/519067486_mp4_h264_aac_hq_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  480p",
+                        "videoUrl": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7ywe8bdGN92A9-K0840MtI6uowb9YxTqp8YmAXu4KyfPtkjHqf92x4tWVKptH1kW_6k)/video/684/760/519067486_mp4_h264_aac_hq_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7ywe8bdGN92A9-K0840MtI6uowb9YxTqp8YmAXu4KyfPtkjHqf92x4tWVKptH1kW_6k)/video/684/760/519067486_mp4_h264_aac_hq_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  480p",
+                        "videoUrl": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7ywe8bdGN92A9-K0840MtI6uowb9YxTqp8YmAXu4KyfPtkjHqf92x4tWVKptH1kW_6k)/video/684/760/519067486_mp4_h264_aac_hq_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yx4pk9X1K6hBxmszKSNf94iXnnSVCz5FgKC3Jf5HsSoX1lt-Uu1I1PZgoqHRajJWoM)/video/684/760/519067486_mp4_h264_aac_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  288p",
+                        "videoUrl": "https://proxy-18.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yx4pk9X1K6hBxmszKSNf94iXnnSVCz5FgKC3Jf5HsSoX1lt-Uu1I1PZgoqHRajJWoM)/video/684/760/519067486_mp4_h264_aac_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
+                        }
+                    },
+                    {
+                        "url": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yx4pk9X1K6hBxmszKSNf94iXnnSVCz5FgKC3Jf5HsSoX1lt-Uu1I1PZgoqHRajJWoM)/video/684/760/519067486_mp4_h264_aac_2.m3u8#cell=sv4",
+                        "quality": "Dailymotion -  288p",
+                        "videoUrl": "https://proxy-24.sv4.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOZNOeCRTbZJjBsU56GSe7yx4pk9X1K6hBxmszKSNf94iXnnSVCz5FgKC3Jf5HsSoX1lt-Uu1I1PZgoqHRajJWoM)/video/684/760/519067486_mp4_h264_aac_2.m3u8#cell=sv4",
+                        "headers": {
+                            "Referer": "https://www.dailymotion.com/"
                         }
                     },
                     {

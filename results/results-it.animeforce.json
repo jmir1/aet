@@ -97,16 +97,48 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/anime/world-dai-star/",
+                    "title": "World Dai Star",
+                    "description": "La storia è ambientata in un mondo in cui i performer teatrali Dai Star hanno ottenuto una popolarità esplosiva nel ventesimo secolo. La sedicenne Kokona Otori cerca di realizzare il suo sogno di diventare una World Dai Star candidandosi per la troupe teatrale Sirius.\n\nStato: In Corso\nTipologia: TV\nStagione: Primavera 2023",
+                    "genre": "Arti dello Spettacolo",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/World-Dai-Star-300x450.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/world-dai-star-episodio-07/",
+                        "name": "Episodio 007",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/episode/world-dai-star-episodio-06/",
+                        "name": "Episodio 006",
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.animeforce.it/episode/world-dai-star-episodio-07/",
+                        "quality": "Best",
+                        "videoUrl": "https://www.lacumpa.org/DDL/ANIME/WorldDaiStar/WorldDaiStar_Ep_07_SUB_ITA.mp4",
+                        "headers": {
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Accept-Language": "en-US,en;q=0.5",
+                            "Referer": "https://www.animeforce.it/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

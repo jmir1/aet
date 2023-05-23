@@ -137,14 +137,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/kuma-kuma-kuma-bear-punch-c2f6",
+                                "title": "Kuma Kuma Kuma Bear Punch!",
+                                "thumbnail_url": "https://kaas.am/image/poster/kuma-kuma-kuma-bear-punch-c2f6-5304-hq.webp"
+                            },
+                            {
                                 "url": "/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-394d",
                                 "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
                                 "thumbnail_url": "https://kaas.am/image/poster/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-76e8-hq.webp"
-                            },
-                            {
-                                "url": "/hells-paradise-f1c3",
-                                "title": "Jigokuraku",
-                                "thumbnail_url": "https://kaas.am/image/poster/hells-paradise-2ad5-hq.webp"
                             },
                             {
                                 "url": "/vinland-saga-season-2-5c02",
@@ -152,14 +152,24 @@
                                 "thumbnail_url": "https://kaas.am/image/poster/vinland-saga-season-2-5c02-f15d-hq.webp"
                             },
                             {
-                                "url": "/in-another-world-with-my-smartphone-2-0dac",
-                                "title": "Isekai wa Smartphone to Tomo ni. 2",
-                                "thumbnail_url": "https://kaas.am/image/poster/in-another-world-with-my-smartphone-2-0dac-4e94-hq.webp"
-                            },
-                            {
                                 "url": "/dead-mount-death-play-06cd",
                                 "title": "Dead Mount Death Play",
                                 "thumbnail_url": "https://kaas.am/image/poster/dead-mount-death-play-06cd-244e-hq.webp"
+                            },
+                            {
+                                "url": "/kizuna-no-allele-969d",
+                                "title": "Kizuna no Allele",
+                                "thumbnail_url": "https://kaas.am/image/poster/kizuna-no-allele-969d-f4e4-hq.webp"
+                            },
+                            {
+                                "url": "/hells-paradise-f1c3",
+                                "title": "Jigokuraku",
+                                "thumbnail_url": "https://kaas.am/image/poster/hells-paradise-2ad5-hq.webp"
+                            },
+                            {
+                                "url": "/in-another-world-with-my-smartphone-2-0dac",
+                                "title": "Isekai wa Smartphone to Tomo ni. 2",
+                                "thumbnail_url": "https://kaas.am/image/poster/in-another-world-with-my-smartphone-2-0dac-4e94-hq.webp"
                             },
                             {
                                 "url": "/golden-kamuy-season-4-c5b1",
@@ -245,16 +255,6 @@
                                 "url": "/one-piece-0948",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://kaas.am/image/poster/one-piece-0948-1f41-hq.webp"
-                            },
-                            {
-                                "url": "/soaring-sky-pretty-cure-e093",
-                                "title": "Hirogaru Sky! Precure",
-                                "thumbnail_url": "https://kaas.am/image/poster/soaring-sky-pretty-cure-e093-888f-hq.webp"
-                            },
-                            {
-                                "url": "/utawarerumono-mask-of-truth-7cc8",
-                                "title": "Utawarerumono: Futari no Hakuoro",
-                                "thumbnail_url": "https://kaas.am/image/poster/utawarerumono-mask-of-truth-7cc8-4723-hq.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -483,8 +483,158 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IndexOutOfBoundsException: Index: 1, Size: 1",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789883/playlist.m3u8",
+                        "quality": "SapphireDuck - 720p",
+                        "videoUrl": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789883/playlist.m3u8"
+                    },
+                    {
+                        "url": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789871/playlist.m3u8",
+                        "quality": "SapphireDuck - 240p",
+                        "videoUrl": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789871/playlist.m3u8"
+                    },
+                    {
+                        "url": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789875/playlist.m3u8",
+                        "quality": "SapphireDuck - 360p",
+                        "videoUrl": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789875/playlist.m3u8"
+                    },
+                    {
+                        "url": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789879/playlist.m3u8",
+                        "quality": "SapphireDuck - 480p",
+                        "videoUrl": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789879/playlist.m3u8"
+                    },
+                    {
+                        "url": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789887/playlist.m3u8",
+                        "quality": "SapphireDuck - 1080p",
+                        "videoUrl": "https://hls.kaav3.com/manifest/frple128mh7dnf9_1789887/playlist.m3u8"
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=b487e0c7c521f89f4d608a68589264e0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=90a33c559af0abcc3494a43a2147a6e8b03a8bbe7caf02ab764dd2ebb2afb224&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "quality": "PinkBird - 144p - 61.17kbs",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-2f1210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=b487e0c7c521f89f4d608a68589264e0&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=90a33c559af0abcc3494a43a2147a6e8b03a8bbe7caf02ab764dd2ebb2afb224&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=43d2cff4d4122440b4b9e52f63c271b2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=ad9044ca5913f4312ab867224a47993e988abcbdb70d8a71595b8d3bd9de8d5a&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "quality": "PinkBird - 360p - 231.98kbs",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-211210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=43d2cff4d4122440b4b9e52f63c271b2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=ad9044ca5913f4312ab867224a47993e988abcbdb70d8a71595b8d3bd9de8d5a&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=16fb73bbb613c079e4bdddb12991f75d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=2c3e0d88b19c785e0c5cb7c32af3be2298093aa4e0fdcb28232b8c764096414b&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "quality": "PinkBird - 480p - 350.15kbs",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-231210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=16fb73bbb613c079e4bdddb12991f75d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=2c3e0d88b19c785e0c5cb7c32af3be2298093aa4e0fdcb28232b8c764096414b&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-261210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=b75221a6f799e740ed7c35a17dfb0fba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=f5be58750f1491d7e087618e4e3f09f08b6d017292fc7cefca78dc3a81e61c12&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "quality": "PinkBird - 1080p - 2.70Mbs",
+                        "videoUrl": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/0t/jk/n230227a21yyenowp02un11nbhrpjk0t-1-261210110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1684806450&gen=playurlv2&os=akam&oi=1729874767&trid=7f8bf0b9135843ac856063a94630c796i&mid=1040037567&platform=pc&upsig=b75221a6f799e740ed7c35a17dfb0fba&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1684806450~hmac=f5be58750f1491d7e087618e4e3f09f08b6d017292fc7cefca78dc3a81e61c12&bvc=vod&nettype=0&orderid=0,2&logo=00000000",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_zh_hans.vtt",
+                                "lang": "中文（简体） (zh-Hans)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_th.vtt",
+                                "lang": "ภาษาไทย (th)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_ms.vtt",
+                                "lang": "Bahasa Melayu (ms)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_en.vtt",
+                                "lang": "English (en)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_id.vtt",
+                                "lang": "Bahasa Indonesia (id)"
+                            },
+                            {
+                                "url": "https://kaav3.com//pinky-assets/subtitles/cb8712e7_vi.vtt",
+                                "lang": "Tiếng Việt (vi)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

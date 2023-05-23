@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-ultimo-hombre-en-la-tierra",
+                                "title": "El último hombre en la Tierra (20152018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tvXQL6aXYFqRWGzA1dCg9sV5s3l.jpg"
+                            },
+                            {
+                                "url": "/serie/casi-muertos",
+                                "title": "Casi muertos (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pHlCTnVhLOi3FjeDHA3xdabZhdU.jpg"
+                            },
+                            {
+                                "url": "/serie/alaska-daily",
+                                "title": "El Diario de Alaska (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4Y0yAQh1zrMHooTmjsv9sI5IIL0.jpg"
+                            },
+                            {
                                 "url": "/serie/el-silencio",
                                 "title": "El silencio (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jioXDo5kOhhAyB28lWv0zluaCgC.jpg"
@@ -110,21 +125,6 @@
                                 "url": "/serie/queenmaker",
                                 "title": "Queenmaker (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/e69s2ERWwb05ber0WIek1Nhwdsz.jpg"
-                            },
-                            {
-                                "url": "/serie/mascara-contra-caballero",
-                                "title": "Máscara contra Caballero (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2czfKDn5y8TxNrLbjlNE6osEl2x.jpg"
-                            },
-                            {
-                                "url": "/serie/larva-family",
-                                "title": "Larva: La familia (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5WYKClgu17xq0IcHkvYYfa25TTW.jpg"
-                            },
-                            {
-                                "url": "/serie/el-aprendiz-de-sumo",
-                                "title": "El aprendiz de sumo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/s99QEFuN5WwDC5Gygr2oeiJyHxg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/el-silencio",
-                    "title": "El silencio (2023)",
-                    "description": "Thriller psicológico sobre los monstruos que engendran los silencios y las palabras no dichas. La indagación en la personalidad de un joven inexplicablemente violento, el temerario acercamiento de una psicóloga a la mente de un joven cansado de ser observado desde fuera..",
-                    "genre": "Drama, Misterio, Crimen",
+                    "url": "/serie/el-ultimo-hombre-en-la-tierra",
+                    "title": "El último hombre en la Tierra (20152018)",
+                    "description": "Phil Miller era un tío normal que amaba a su familia y odiaba su trabajo en el banco. Ahora, en el año 2022, es la última esperanza de la humanidad. ¿Llegará a encontrar otra persona viva en el planeta? Y esperar que esta persona sea una mujer, ¿será demasiado pedir?.",
+                    "genre": "Drama, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jioXDo5kOhhAyB28lWv0zluaCgC.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tvXQL6aXYFqRWGzA1dCg9sV5s3l.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,49 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/el-silencio/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 7.0
+                        "url": "/serie/el-ultimo-hombre-en-la-tierra/temporada/1/capitulo/10",
+                        "name": "T1 - E10: Episodio 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/serie/el-silencio/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 6.0
+                        "url": "/serie/el-ultimo-hombre-en-la-tierra/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery397.akamai-video-content.com/hls2/01/12794/8nxcxoesfndb_n/index-v1-a1.m3u8?t=KKFXfMZNVtKEUVhwo2CdnCe0jCrVTo5oex17klHuzUE&s=1684802068&e=10800&f=63972360&srv=sto173&client=104.45.205.192&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery397.akamai-video-content.com/hls2/01/12794/8nxcxoesfndb_n/index-v1-a1.m3u8?t=KKFXfMZNVtKEUVhwo2CdnCe0jCrVTo5oex17klHuzUE&s=1684802068&e=10800&f=63972360&srv=sto173&client=104.45.205.192&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/8nxcxoesfndb?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery397.akamai-video-content.com/hls2/01/12794/8nxcxoesfndb_l/index-v1-a1.m3u8?t=KKFXfMZNVtKEUVhwo2CdnCe0jCrVTo5oex17klHuzUE&s=1684802068&e=10800&f=63972360&srv=sto173&client=104.45.205.192&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery397.akamai-video-content.com/hls2/01/12794/8nxcxoesfndb_l/index-v1-a1.m3u8?t=KKFXfMZNVtKEUVhwo2CdnCe0jCrVTo5oex17klHuzUE&s=1684802068&e=10800&f=63972360&srv=sto173&client=104.45.205.192&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/8nxcxoesfndb?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=r9gk2KjoRvFb0xx&expires=1684872069&ip=F0OSKRqOKxSHDN&token=vP9-BZ9sENKG",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=r9gk2KjoRvFb0xx&expires=1684872069&ip=F0OSKRqOKxSHDN&token=vP9-BZ9sENKG"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -584,9 +612,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www-seq40452.ssl0d.com/hls/NJLer2oobP-CRJlq2BOhBQ/1684807693/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "url": "https://www-seq40452.ssl0d.com/hls2/frimgaF6VnwqViNXJSSi1A/1684830872/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-seq40452.ssl0d.com/hls/NJLer2oobP-CRJlq2BOhBQ/1684807693/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "videoUrl": "https://www-seq40452.ssl0d.com/hls2/frimgaF6VnwqViNXJSSi1A/1684830872/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "headers": {
                             "authority": "https://www-seq40452.ssl0d.com",
                             "origin": "https://slwatch.co",
@@ -907,9 +935,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=Zr9q_5K6V7mXQCOkdHF-YDY0BVBrOoply9kwIFNVB9Q&s=1684778905&e=10800&f=60520633&srv=sto122&client=40.77.125.161&asn=8075",
+                        "url": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=hiVr3tufc2ek9cUfPns_UvUoyXEObUGcfSG0f7H88Gk&s=1684802073&e=10800&f=60520633&srv=sto122&client=104.45.205.192&asn=8075",
                         "quality": "[Cast] StreamSB:888p ",
-                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=Zr9q_5K6V7mXQCOkdHF-YDY0BVBrOoply9kwIFNVB9Q&s=1684778905&e=10800&f=60520633&srv=sto122&client=40.77.125.161&asn=8075",
+                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_h/index-v1-a1.m3u8?t=hiVr3tufc2ek9cUfPns_UvUoyXEObUGcfSG0f7H88Gk&s=1684802073&e=10800&f=60520633&srv=sto122&client=104.45.205.192&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
@@ -918,9 +946,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=Zr9q_5K6V7mXQCOkdHF-YDY0BVBrOoply9kwIFNVB9Q&s=1684778905&e=10800&f=60520633&srv=sto122&client=40.77.125.161&asn=8075",
+                        "url": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=hiVr3tufc2ek9cUfPns_UvUoyXEObUGcfSG0f7H88Gk&s=1684802073&e=10800&f=60520633&srv=sto122&client=104.45.205.192&asn=8075",
                         "quality": "[Cast] StreamSB:720p ",
-                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=Zr9q_5K6V7mXQCOkdHF-YDY0BVBrOoply9kwIFNVB9Q&s=1684778905&e=10800&f=60520633&srv=sto122&client=40.77.125.161&asn=8075",
+                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_n/index-v1-a1.m3u8?t=hiVr3tufc2ek9cUfPns_UvUoyXEObUGcfSG0f7H88Gk&s=1684802073&e=10800&f=60520633&srv=sto122&client=104.45.205.192&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
@@ -929,9 +957,9 @@
                         }
                     },
                     {
-                        "url": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=Zr9q_5K6V7mXQCOkdHF-YDY0BVBrOoply9kwIFNVB9Q&s=1684778905&e=10800&f=60520633&srv=sto122&client=40.77.125.161&asn=8075",
+                        "url": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=hiVr3tufc2ek9cUfPns_UvUoyXEObUGcfSG0f7H88Gk&s=1684802073&e=10800&f=60520633&srv=sto122&client=104.45.205.192&asn=8075",
                         "quality": "[Cast] StreamSB:480p ",
-                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=Zr9q_5K6V7mXQCOkdHF-YDY0BVBrOoply9kwIFNVB9Q&s=1684778905&e=10800&f=60520633&srv=sto122&client=40.77.125.161&asn=8075",
+                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/12104/24fa4s9ks9zk_l/index-v1-a1.m3u8?t=hiVr3tufc2ek9cUfPns_UvUoyXEObUGcfSG0f7H88Gk&s=1684802073&e=10800&f=60520633&srv=sto122&client=104.45.205.192&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "referer": "https://sbbrisk.com/embed-24fa4s9ks9zk",
