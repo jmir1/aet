@@ -3,188 +3,25 @@
         "name": "Cinemathek",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/filme/world-of-the-dead-the-zombie-diaries/",
-                                "title": "World of the Dead: The Zombie Diaries",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/z4Td3qhcUpOTObAB2xuiJou1Pjp-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/trolls-world-voll-vertrollt/",
-                                "title": "Trolls World – Voll vertrollt",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/mihTMNVDnnfaIIcCmk5BTweP31S-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/ordinary-world/",
-                                "title": "Ordinary World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/mEJGrkLvo34nJDLjmLGIqb3SvPb-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/goodbye-world/",
-                                "title": "Goodbye World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/1WEzts5eapNbxglUSNUXUrs98CR-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/death-note-l-change-the-world/",
-                                "title": "Death Note – L: Change the World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/hmyyE8bU5KMBMn7lu2B7U81m5e7-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/bram-stoker-dark-world/",
-                                "title": "Bram Stoker: Dark World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/pR3BgTyexRRYv7hvDAm27LTQyIF-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/a-night-at-the-movies-george-lucas-the-world-of-fantasy-cinema/",
-                                "title": "A Night at the Movies: George Lucas & The World of Fantasy Cinema",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/cSZHsqn26v1qdR9zAHgGYv4z18T-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/independents-war-of-the-worlds/",
-                                "title": "Independents – War of the Worlds",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/877hJ0hDJyMJhjqfSpM2nStPcsU-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/cool-world/",
-                                "title": "Cool World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/mqzRUHNtFwmgJCmSnvq3JnX0xgZ-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/spice-world-der-film/",
-                                "title": "Spice World – Der Film",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/vKiAnV1QAGIJP38vatwCZp4dCrH-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/justice-society-world-war-ii/",
-                                "title": "Justice Society: World War II",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/e4REOC6CZW8J6FslA4nRvdQXFXR-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/future-world/",
-                                "title": "Future World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/kMA0IalnEEa0PaHRUzzjpTu5xXQ-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/futureworld-das-land-von-uebermorgen/",
-                                "title": "Futureworld – Das Land von Übermorgen",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/hWBnu5TvJHFoyrNA8TmHPsCqtYy-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/worlds-greatest-dad/",
-                                "title": "World’s Greatest Dad",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/1ESsZLvZPIvbCPCh7CPCSnF4EeH-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/the-new-world/",
-                                "title": "The New World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/vUtwhUfysgHgH1T9dVPazRdBjFg-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/in-a-world/",
-                                "title": "In a World…",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/xbuiPYXOk1aHaNf7o2mAQxeDs7s-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/world-trade-center/",
-                                "title": "World Trade Center",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/hEFM9Gd2wfjYBRrTB9xSM16C6Is-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/perfect-world/",
-                                "title": "Perfect World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/xI35piSTR2Z0WKkPgX841RQqns8-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/waynes-world-2/",
-                                "title": "Wayne’s World 2",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/xRzMaHvSJEBdqEVrscOnfyyCj2Y-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/ghost-world/",
-                                "title": "Ghost World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/uwKqnUPE4dSM0kKuMW0vXpURh2T-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/rim-of-the-world/",
-                                "title": "Rim of the World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/yhzTeZU5OULn3ePGF58Rc5oIocZ-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/westworld/",
-                                "title": "Westworld",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/6tEGSj2ZlN2k2Q3o7kYuwiDQtbH-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/trolls-world-tour/",
-                                "title": "Trolls World Tour",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/9V2Vr13Wupd4batHrD6s6gcraNn-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/world-of-tomorrow-die-vernichtung-hat-begonnen/",
-                                "title": "World of Tomorrow – Die Vernichtung hat begonnen",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/u0I8YwbJO01mVv0cmhT1b5ljEqu-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/sky-captain-and-the-world-of-tomorrow/",
-                                "title": "Sky Captain and the World of Tomorrow",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/j6bR7DWiwX5B7E3PD87o1Oseu5V-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/strange-world/",
-                                "title": "Strange World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/fHMqfsYyl3lskPK2RiFRwhzwuep-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/waynes-world/",
-                                "title": "Wayne’s World",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/nhQtlLVl2z5ywu2uDnXjVqi08On-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/team-america-world-police/",
-                                "title": "Team America: World Police",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/m1Q2VFe1DVVbjfu1LDZe7tlp9yb-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/zombieworld/",
-                                "title": "Zombieworld",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/3K80OoyUb93qhx5jMUsNuKlV3IT-150x150.jpg"
-                            },
-                            {
-                                "url": "/filme/waterworld/",
-                                "title": "Waterworld",
-                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/04/8vxuvRWc6r3R1IizVFEAKyKyaJ4-150x150.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/filme/world-of-the-dead-the-zombie-diaries/",
-                    "title": "World of the Dead: The Zombie Diaries",
-                    "description": "Drei Monate sind seit Ausbruch der Infektion vergangen und 99,9% der Weltbevölkerung wurde durch den Virus in blutgierige Zombies verwandelt. Nur eine Hand voll überlebender Soldaten und Zivilisten konnte sich in eine alte Kaserne retten. Von dort brechen sie auf um einen Militärstützpunkt an der Küste zu erreichen. Eine erbarmungslose Reise durch ein verwüstetes, totes Land…\n\nOriginaltitel: The Zombie Diaries 2",
-                    "genre": "Action, Horror",
-                    "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/z4Td3qhcUpOTObAB2xuiJou1Pjp-200x300.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/filme/world-of-the-dead-the-zombie-diaries/",
+                        "url": "/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
