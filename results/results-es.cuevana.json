@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/67258/john-wick-chapter-4",
+                                "title": "John Wick 4",
+                                "thumbnail_url": "https://w4.cuevana3.ai/wp-content/uploads/2023/03/john-wick-4-67258-poster-200x300.jpg"
+                            },
+                            {
                                 "url": "/67762/fast-x",
                                 "title": "Fast & Furious X",
                                 "thumbnail_url": "https://w4.cuevana3.ai/wp-content/uploads/2023/05/fast-furious-x-67762-poster-200x300.jpg"
@@ -225,11 +230,6 @@
                                 "url": "/67611/tribal-get-out-alive",
                                 "title": "Tribal: Get Out Alive",
                                 "thumbnail_url": "https://w4.cuevana3.ai/wp-content/uploads/2023/04/tribal-get-out-alive-67611-poster-200x300.jpg"
-                            },
-                            {
-                                "url": "/67607/werewolf-castle",
-                                "title": "Werewolf Castle",
-                                "thumbnail_url": "https://w4.cuevana3.ai/wp-content/uploads/2023/04/werewolf-castle-67607-poster-200x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,11 +474,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/67762/fast-x",
-                    "title": "Fast & Furious X",
-                    "description": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser más listos, de tener más valor y de ir más rápido que cualquier enemigo que se cruzara con ellos. Pero ahora tendrán que enfrentarse al oponente más letal que jamás hayan conocido: un terrible peligro que resurge del pasado, que se mueve por una sangrienta sed de venganza y que está dispuesto a destrozar a la familia y destruir para siempre todo lo que a Dom le importa.",
-                    "genre": "Acción, Aventura, Crimen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hc2ymDMfOCZ0JqrsMUBgL1GZXnz.jpg",
+                    "url": "/67258/john-wick-chapter-4",
+                    "title": "John Wick 4",
+                    "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero para poder ganar su libertad, Wick deberá enfrentarse a un nuevo rival con poderosas alianzas en todo el mundo, capaz de convertir a viejos amigos en enemigos.",
+                    "genre": "Acción, Crimen, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -486,7 +486,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/67762/fast-x",
+                        "url": "/67258/john-wick-chapter-4",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -494,31 +494,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery155.akamai-video-content.com/hls2/01/12769/k623xbwtc0i0_n/index-v1-a1.m3u8?t=G-b7UVAnVGy5p058DjFOrcTtwaFQW9PBRYdJMhkn9qo&s=1684865283&e=10800&f=63845871&srv=nvnlgbitjnvgwsehusnh&client=70.37.167.40&asn=8075",
-                        "quality": "[LAT] StreamSB:720p ",
-                        "videoUrl": "https://delivery155.akamai-video-content.com/hls2/01/12769/k623xbwtc0i0_n/index-v1-a1.m3u8?t=G-b7UVAnVGy5p058DjFOrcTtwaFQW9PBRYdJMhkn9qo&s=1684865283&e=10800&f=63845871&srv=nvnlgbitjnvgwsehusnh&client=70.37.167.40&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://sbbrisk.com/embed-k623xbwtc0i0",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery155.akamai-video-content.com/hls2/01/12769/k623xbwtc0i0_l/index-v1-a1.m3u8?t=G-b7UVAnVGy5p058DjFOrcTtwaFQW9PBRYdJMhkn9qo&s=1684865283&e=10800&f=63845871&srv=nvnlgbitjnvgwsehusnh&client=70.37.167.40&asn=8075",
-                        "quality": "[LAT] StreamSB:480p ",
-                        "videoUrl": "https://delivery155.akamai-video-content.com/hls2/01/12769/k623xbwtc0i0_l/index-v1-a1.m3u8?t=G-b7UVAnVGy5p058DjFOrcTtwaFQW9PBRYdJMhkn9qo&s=1684865283&e=10800&f=63845871&srv=nvnlgbitjnvgwsehusnh&client=70.37.167.40&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://sbbrisk.com/embed-k623xbwtc0i0",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

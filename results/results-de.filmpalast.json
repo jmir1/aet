@@ -177,6 +177,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/the-kings-avatar-for-the-glory",
+                                "title": "The Kings Avatar: For the Glory",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-kings-avatar-for-the-glory.jpg"
+                            },
+                            {
+                                "url": "/stream/der-anschlag-112263-s01e08",
+                                "title": "Der Anschlag - 11.22.63 S01E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-anschlag-112263-s01e08.jpg"
+                            },
+                            {
+                                "url": "/stream/the-communion-girl",
+                                "title": "The Communion Girl",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-communion-girl.jpg"
+                            },
+                            {
+                                "url": "/stream/counterattack",
+                                "title": "Counterattack",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/counterattack.jpg"
+                            },
+                            {
+                                "url": "/stream/renfield",
+                                "title": "Renfield",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/renfield.jpg"
+                            },
+                            {
                                 "url": "/stream/shark-shock",
                                 "title": "Shark Shock",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/shark-shock.jpg"
@@ -310,31 +335,6 @@
                                 "url": "/stream/asterix-und-obelix-im-reich-der-mitte",
                                 "title": "Asterix und Obelix im Reich der Mitte",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/asterix-und-obelix-im-reich-der-mitte.jpg"
-                            },
-                            {
-                                "url": "/stream/accident-man-2",
-                                "title": "Accident Man 2",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/accident-man-2.jpg"
-                            },
-                            {
-                                "url": "/stream/on-the-edge-showdown-in-den-bergen",
-                                "title": "On the Edge: Showdown in den Bergen",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/on-the-edge-showdown-in-den-bergen.jpg"
-                            },
-                            {
-                                "url": "/stream/yellowstone-s05e08",
-                                "title": "Yellowstone S05E08",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/yellowstone-s05e08.jpg"
-                            },
-                            {
-                                "url": "/stream/la-maison-haus-der-lust",
-                                "title": "La Maison - Haus der Lust",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/la-maison-haus-der-lust.jpg"
-                            },
-                            {
-                                "url": "/stream/simulant",
-                                "title": "Simulant",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/simulant.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,28 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn009.sh-content.com/hls2/01/00385/,n7241gwa1h15_x,lang/ger/n7241gwa1h15_ger,.urlset/master.m3u8?t=ZR2BHKJNKS-smKowj0DYoIq69OAu1qS_F9S1guTSVw0&s=1684865268&e=129600&f=1928386&srv=xjkgcqlynhrl&i=0.0&sp=500&p1=xjkgcqlynhrl&p2=xjkgcqlynhrl",
-                        "quality": "StreamHide",
-                        "videoUrl": "https://cdn009.sh-content.com/hls2/01/00385/,n7241gwa1h15_x,lang/ger/n7241gwa1h15_ger,.urlset/master.m3u8?t=ZR2BHKJNKS-smKowj0DYoIq69OAu1qS_F9S1guTSVw0&s=1684865268&e=129600&f=1928386&srv=xjkgcqlynhrl&i=0.0&sp=500&p1=xjkgcqlynhrl&p2=xjkgcqlynhrl",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cdn009.sh-content.com/hls2/01/00385/,n7241gwa1h15_x,lang/ger/n7241gwa1h15_ger,.urlset/index-f2.m3u8?t=ZR2BHKJNKS-smKowj0DYoIq69OAu1qS_F9S1guTSVw0&s=1684865268&e=129600&f=1928386&srv=xjkgcqlynhrl&i=0.0&sp=500&p1=xjkgcqlynhrl&p2=xjkgcqlynhrl",
-                                "lang": "Deutsch"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s3.wolfstream.tv/hls2/01/02007/35uoqb2jmv7g_h/master.m3u8?t=wskJcHw6-NoAw5xskQLVpEk1AQktnAnorsEcsn0F5qQ&s=1684865266&e=43200&f=10037553&i=0.0&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s3.wolfstream.tv/hls2/01/02007/35uoqb2jmv7g_h/master.m3u8?t=wskJcHw6-NoAw5xskQLVpEk1AQktnAnorsEcsn0F5qQ&s=1684865266&e=43200&f=10037553&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
