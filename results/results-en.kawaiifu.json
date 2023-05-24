@@ -393,16 +393,44 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/season/spring-2023/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-ova-oregairu-season-3-ova.html",
+                    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru Kan OVA – OreGairu Season 3 OVA",
+                    "description": "My Teen Romantic Comedy SNAFU Climax! OVA 3 is an upcoming Original Video Animation of Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan, to be released alongside the visual novel “Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Kan”. It will adapt selected events from the Shin bonus novels that were released with the Season 3 BDs.\n\nThe service club holds its first official office hours since its reinstatement in Season 3, Episode 12. Yui, Iroha, and Komachi visit a café, where Iroha and Komachi pressure Yui to assert her feelings for Hachiman.",
+                    "genre": "Comedy, romance",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "season/spring-2023/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-ova-oregairu-season-3-ova-episode",
+                        "name": "OVA",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s1.secunduscdn.xyz/prime/OreGaIruSS3/Yahari Ore No Seishun Love Comedy Wa Machigatteiru. Kan - OVA.mp4",
+                        "quality": "720p (Server HLS)",
+                        "videoUrl": "https://s1.secunduscdn.xyz/prime/OreGaIruSS3/Yahari Ore No Seishun Love Comedy Wa Machigatteiru. Kan - OVA.mp4"
+                    },
+                    {
+                        "url": "https://domdom.stream/wp-admin/admin-ajax.php?action=kawaiifu&id=ad3770071ab01ea00a96c1d58ffd2fe036352bc47c89fd0fb3383bceeff00d18MWliZ3ROQ0hqOHY2cFJVSThIenBEcDl3aDg3VmgxejdDd6a261824dca19b75fb37d77011eb77443f4677d8e37733e3b131eadc3ae85f2",
+                        "quality": "720p (Server 62)",
+                        "videoUrl": "https://domdom.stream/wp-admin/admin-ajax.php?action=kawaiifu&id=ad3770071ab01ea00a96c1d58ffd2fe036352bc47c89fd0fb3383bceeff00d18MWliZ3ROQ0hqOHY2cFJVSThIenBEcDl3aDg3VmgxejdDd6a261824dca19b75fb37d77011eb77443f4677d8e37733e3b131eadc3ae85f2"
+                    },
+                    {
+                        "url": "https://domdom.stream/wp-admin/admin-ajax.php?action=kawaiifu&id=2557bc1dcf318fbfe924f2f920ce50ce80c3982905141f03208e967d348ac93dMVNSMmN1LXlSdHdObk50aEhwNFRRUERmbmlPRzNzb20x28fc417e374b759afd946df21d6b153a7c7839c115936e0195d95e0feae9db48",
+                        "quality": "720p (Server 63)",
+                        "videoUrl": "https://domdom.stream/wp-admin/admin-ajax.php?action=kawaiifu&id=2557bc1dcf318fbfe924f2f920ce50ce80c3982905141f03208e967d348ac93dMVNSMmN1LXlSdHdObk50aEhwNFRRUERmbmlPRzNzb20x28fc417e374b759afd946df21d6b153a7c7839c115936e0195d95e0feae9db48"
+                    }
+                ],
+                "passed": true
             }
         }
     }
