@@ -15,6 +15,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serien/westworld/",
+                                "title": "Westworld",
+                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/8MfgyFHf7XEboZJPZXCIDqqiz6e-150x150.jpg"
+                            },
+                            {
+                                "url": "/serien/the-walking-dead-world-beyond/",
+                                "title": "The Walking Dead: World Beyond",
+                                "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/6HanIV2hTLE2w7A5bI1KJb3bTL7-150x150.jpg"
+                            },
+                            {
                                 "url": "/filme/perfect-world/",
                                 "title": "Perfect World",
                                 "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/xI35piSTR2Z0WKkPgX841RQqns8-150x150.jpg"
@@ -42,34 +52,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/filme/perfect-world/",
-                    "title": "Perfect World",
-                    "description": "Die beiden Kriminellen Butch Haynes und Terry Pugh entkommen aus dem Gefängnis in Huntsville. Bei ihrer Flucht durch Texas nehmen sie den kleinen Phillip als Geisel. Als sich Pugh an dem Jungen vergehen will, erschießt ihn Haynes und setzt seine Flucht mit Phillip allein fort. Der Texas Ranger Red Garnett setzt sich auf Haynes‘ Fersen. Dabei wird ihm vom Gouverneur, gegen seinen Willen, die FBI-Mitarbeiterin Sally Gerber zur Seite gestellt. Zwischen Phillip und seinem Entführer entwickelt sich eine Freundschaft. Immer mehr sieht Phillip in Butch einen Vater, da der Vater des Jungen seine Mutter schon lange verlassen hat. Dies ist eine große Gemeinsamkeit zwischen Phillip und Butch, der auch ohne Vater aufwuchs.\n\nOriginaltitel: A Perfect World",
-                    "genre": "Drama, Krimi, Thriller",
-                    "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/xI35piSTR2Z0WKkPgX841RQqns8-200x300.jpg",
+                    "url": "/serien/westworld/",
+                    "title": "Westworld",
+                    "description": "Eine dunkle Odyssee über das Erwachen künstlichen Bewusstseins und die sich ausbreitende Sünde: An der Schnittstelle zwischen naher Zukunft und wiedererweckter Vergangenheit wird eine Welt erforscht, in der jedes menschliche Verlangen erfüllt werden kann, egal wie nobel oder verdorben es ist. Es existieren keine Regeln, keine Gesetze, keine Urteile – ein Leben ohne Grenzen.\n",
+                    "genre": "Sci-Fi & Fantasy, Western",
+                    "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/05/8MfgyFHf7XEboZJPZXCIDqqiz6e-200x300.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/filme/perfect-world/",
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://be4235.rcr32.ams02.visaverde.xyz/hls2/01/03883/mhoztjq1m79w_x/index-v1-a2.m3u8?t=5hWvyKPhBXEkSFCroWrAD9irXB-JfQvy86gUN5o55Lo&s=1685103103&e=43200&f=19418967&srv=22&asn=8075&sp=2500",
-                        "quality": "Filemoon:800p ",
-                        "videoUrl": "https://be4235.rcr32.ams02.visaverde.xyz/hls2/01/03883/mhoztjq1m79w_x/index-v1-a2.m3u8?t=5hWvyKPhBXEkSFCroWrAD9irXB-JfQvy86gUN5o55Lo&s=1685103103&e=43200&f=19418967&srv=22&asn=8075&sp=2500"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

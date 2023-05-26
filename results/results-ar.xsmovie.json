@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/kagami-no-kojou/",
+                                "title": "Kagami no Kojou",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/129158l-223x316.jpg"
+                            },
+                            {
                                 "url": "/movie/bakuten-movie/",
                                 "title": "Bakuten!! Movie",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/Bakuten-Movie-413x559-1-223x302.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-bright-samurai-soul/",
                                 "title": "فيلم Bright: Samurai Soul",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/10/115672l-223x323.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-ryuu-to-sobakasu-no-hime/",
-                                "title": "فيلم Ryuu to Sobakasu no Hime",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/10/115716l-223x316.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/bakuten-movie/",
-                    "title": "Bakuten!! Movie",
-                    "description": "فيلم مكمل لأحداث الموسم الأول من الأنمي.",
+                    "url": "/movie/kagami-no-kojou/",
+                    "title": "Kagami no Kojou",
+                    "description": "وتدور القصة عن كوكورو وهي فتاة لم تعد ترغب بالذهاب للمدرسة بسبب التنمر وفي يوم من الأيام وحينما كانت في غرفتها، قامت المرآة بإصدار ضوء غريب لتدخل كوكورو بعده لعالم غريب تقابل به و 6 مراهقين آخرين ما يجمعهم هو عدم ذهابهم للمدرسة وفتاة صغيرة بقناع ذئب و اللتي تطلب من الجميع مناداتها بـ “أوكامي ساما”. في هذا العالم يجيب عليهم البحث عن مفتاح ومن يجده يمكنه تحقيق أي امنية يرغب بها.",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/Bakuten-Movie-413x559-1.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/129158l.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/bakuten-movie/",
-                        "name": "Bakuten!! Movie"
+                        "url": "/movie/kagami-no-kojou/",
+                        "name": "Kagami no Kojou"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc552.4shared.com/img/1RaVo7_Tjq/8b64b7fe/dlink__2Fdownload_2F1RaVo7_5FTjq_3Fsbsr_3Df321664c0c7368b6c1723d731a5c3154ae2_26bip_3DMTMuODguNjEuMTg2_26lgfp_3D66_26bip_3DMTMuODguNjEuMTg2_26bip_3DMTMuODguNjEuMTg2/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc552.4shared.com/img/1RaVo7_Tjq/8b64b7fe/dlink__2Fdownload_2F1RaVo7_5FTjq_3Fsbsr_3Df321664c0c7368b6c1723d731a5c3154ae2_26bip_3DMTMuODguNjEuMTg2_26lgfp_3D66_26bip_3DMTMuODguNjEuMTg2_26bip_3DMTMuODguNjEuMTg2/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
