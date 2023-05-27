@@ -3,28 +3,361 @@
         "name": "CineVision",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filmes/assistir-guardioes-da-galaxia-volume-3-online-1/",
+                                "title": "Guardiões da Galáxia: Volume 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ttkTwdSx21AB1EDastR6xwMC2PT.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-velozes-e-furiosos-10-online-1/",
+                                "title": "Velozes e Furiosos 10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nxrmpkwVdmiVAiRTqSSC2SateN2.jpg"
+                            },
+                            {
+                                "url": "/series/assistir-com-carinho-kitty-online-2/",
+                                "title": "Com Carinho Kitty",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ed1c8LZns4lFUZNS72OhmqXmYHE.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-homem-formiga-e-a-vespa-quantumania-online/",
+                                "title": "Homem-Formiga e a Vespa: Quantumania",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-super-mario-bros-o-filme-online-1/",
+                                "title": "Super Mario Bros.: O Filme",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-john-wick-4-baba-yaga-online/",
+                                "title": "John Wick 4: Baba Yaga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-panico-6-online/",
+                                "title": "Pânico 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/mar-branco-1x7/",
+                                "title": "Mar Branco 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pBmQzHYoPPKfKbnzIMftc7eJkAj.jpg"
+                            },
+                            {
+                                "url": "/episodios/mar-branco-1x6/",
+                                "title": "Mar Branco 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8jk2xbBlMHisPFccpViuaT4kVxg.jpg"
+                            },
+                            {
+                                "url": "/episodios/mar-branco-1x5/",
+                                "title": "Mar Branco 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pnGqs50209mdlmAJzwKEoktJmO8.jpg"
+                            },
+                            {
+                                "url": "/episodios/mar-branco-1x4/",
+                                "title": "Mar Branco 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/j7t8dDpwXJhLqrr2YZytd9OMn7M.jpg"
+                            },
+                            {
+                                "url": "/episodios/mar-branco-1x3/",
+                                "title": "Mar Branco 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2LJ1cbw64XVYiB7WEwSzkzkn4aR.jpg"
+                            },
+                            {
+                                "url": "/episodios/mar-branco-1x2/",
+                                "title": "Mar Branco 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eGzSUXUYWcTlRXoDuncIUmlr8qR.jpg"
+                            },
+                            {
+                                "url": "/episodios/mar-branco-1x1/",
+                                "title": "Mar Branco 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/urgSxdrdC6LO8HJ7ZgMC2GQ3sld.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x8/",
+                                "title": "FUBAR 1×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4Iox7uqxMy4FS2GBZIj8ZyrYFhm.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x7/",
+                                "title": "FUBAR 1×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4posO0yEJuIF2D2jClRtTAmLCvK.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x6/",
+                                "title": "FUBAR 1×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/huV19z9ozKsmDqhznwrzCVhfwNH.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x5/",
+                                "title": "FUBAR 1×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vOXYd8xt6v7G3d7PjKcjCRTt1Nq.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x4/",
+                                "title": "FUBAR 1×4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vhQdRh9ZhbVIQ4O7hGvDm0JtD1U.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x3/",
+                                "title": "FUBAR 1×3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uFB0JisNqDHYteopbo8SNo44vmJ.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x2/",
+                                "title": "FUBAR 1×2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1IAiiCDxTl0AuSCr1bhIzrhQsH8.jpg"
+                            },
+                            {
+                                "url": "/episodios/fubar-1x1/",
+                                "title": "FUBAR 1×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9siVkL01SX80Ynp3gXCQmbhm8RS.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-3x10/",
+                                "title": "Mayans M.C. 3×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sTakCldL1Vc6TSaXdiq7zIjhwGf.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-4x10/",
+                                "title": "Mayans M.C. 4×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/18dNeOrPWGsRzPxCLwxJlakDuGy.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-3x9/",
+                                "title": "Mayans M.C. 3×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lWaFtdueNTPpvSOz6OmYodXCqu2.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-4x9/",
+                                "title": "Mayans M.C. 4×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nc6sGnrMfh0nmMSrw9awrYzjPpT.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-2x10/",
+                                "title": "Mayans M.C. 2×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pvsBG4kRJkVAJaCQwVCKJvnHB3H.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-3x8/",
+                                "title": "Mayans M.C. 3×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9aKiBYT4cAyYYukl6bcAh9YE9fK.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-4x8/",
+                                "title": "Mayans M.C. 4×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mHzXXeFCNGNndYjWZuRO82ieh2W.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-2x9/",
+                                "title": "Mayans M.C. 2×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9oiwLYPVjsgP0vgAMWqguliycqP.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-3x7/",
+                                "title": "Mayans M.C. 3×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8utKxH8mzydFQRbO92sOBJkktiz.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-1x10/",
+                                "title": "Mayans M.C. 1×10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8xdl46gjjn2kGzQ4cpZ8vfwOEkT.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-4x7/",
+                                "title": "Mayans M.C. 4×7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/Y7SsVgi2O230XaHC7MS2kQq8HD.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-2x8/",
+                                "title": "Mayans M.C. 2×8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bSzqlW8DeFga70D3d5lOoJIZs30.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-3x6/",
+                                "title": "Mayans M.C. 3×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pUVApSAvN3Jhm3mAh23hganjHCb.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-1x9/",
+                                "title": "Mayans M.C. 1×9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/rcfflNhtbo1IqGJtCZ8p6TF99CY.jpg"
+                            },
+                            {
+                                "url": "/episodios/mayans-m-c-4x6/",
+                                "title": "Mayans M.C. 4×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qz71gm2CxNV39aX05k1riXJz34g.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/stella-of-the-theater-world-dai-star/",
+                                "title": "Stella of the Theater: World Dai Star",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-dominio/",
+                                "title": "Jurassic World: Domínio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-acampamento-jurassico/",
+                                "title": "Jurassic World: Acampamento Jurássico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kClnDGBEXkiiXK5IZ1BY0VgoPhK.jpg"
+                            },
+                            {
+                                "url": "/series/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/t8Xq1edhrEeH0pB9jFolLBCj1nr.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-reino-ameacado/",
+                                "title": "Jurassic World: Reino Ameaçado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/b3CuByY3v7qz9aq4rayIMeAMemy.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KONOSUBA -God’s blessing on this wonderful world!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kvXF7ugmNHo2HyNLy7lhQQVbBBa.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-o-mundo-dos-dinossauros/",
+                                "title": "Jurassic World: O Mundo dos Dinossauros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gf3FEmT95ZQ5rBfzsaouIUzxKhy.jpg"
+                            },
+                            {
+                                "url": "/filmes/mundo-estranho/",
+                                "title": "Mundo Estranho",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"
+                            },
+                            {
+                                "url": "/filmes/john-mcafee-genio-polemico-e-fugitivo/",
+                                "title": "John McAfee: Gênio, Polêmico e Fugitivo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg"
+                            },
+                            {
+                                "url": "/series/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/oz3xb8ZpPC9SEKneBrJVK3ZinG6.jpg"
+                            },
+                            {
+                                "url": "/filmes/um-fascinante-novo-mundo/",
+                                "title": "Um Fascinante Novo Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/as59RjHMv1q92aiLgGYslB3pVJx.jpg"
+                            },
+                            {
+                                "url": "/series/assistir-the-walking-dead-um-novo-universo-online/",
+                                "title": "The Walking Dead: Um Novo Universo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iJc0W299BpNyfHVPSVV4goFZ3pq.jpg"
+                            },
+                            {
+                                "url": "/filmes/como-treinar-o-seu-dragao-3/",
+                                "title": "Como Treinar o Seu Dragão 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg"
+                            },
+                            {
+                                "url": "/filmes/wifi-ralph-quebrando-a-internet/",
+                                "title": "WiFi Ralph: Quebrando a Internet",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg"
+                            },
+                            {
+                                "url": "/filmes/12-herois/",
+                                "title": "12 Heróis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mBgAJeIx1d5kxU8nR748o9qnAUK.jpg"
+                            },
+                            {
+                                "url": "/filmes/anjos-da-noite-guerras-de-sangue/",
+                                "title": "Anjos da Noite: Guerras de Sangue",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mM2D6fQFz3BjQaIHwqSniglD4iX.jpg"
+                            },
+                            {
+                                "url": "/filmes/guerra-mundial-z/",
+                                "title": "Guerra Mundial Z",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5HImW2XT2oN001IzZ4aw2IOLC4j.jpg"
+                            },
+                            {
+                                "url": "/filmes/piratas-do-caribe-no-fim-do-mundo/",
+                                "title": "Piratas do Caribe: No Fim do Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/j15lZasREutscon6e61LSSNJoN7.jpg"
+                            },
+                            {
+                                "url": "/filmes/guerra-dos-mundos/",
+                                "title": "Guerra dos Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aU42RNFpLgXsg0Tsgo8g8RPji0N.jpg"
+                            },
+                            {
+                                "url": "/filmes/o-mundo-perdido-jurassic-park/",
+                                "title": "O Mundo Perdido: Jurassic Park",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z6kJSvM2tT542uKcNeRN0TJYsXc.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/filmes/assistir-guardioes-da-galaxia-volume-3-online-1/",
+                    "title": "Guardiões da Galáxia: Volume 3",
+                    "description": "Assistir Guardiões da Galáxia: Volume 3 Online, Guardiões da Galáxia 3 Dublado e Legendado Grátis, Guardiões da Galáxia 2023 Filme Completo.\n\nTítulo original: Guardians of the Galaxy Vol. 3",
+                    "genre": "Ação, Aventura, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/ttkTwdSx21AB1EDastR6xwMC2PT.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/filmes/assistir-guardioes-da-galaxia-volume-3-online-1/",
+                        "name": "Filme",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://st-4px0-26dc.vmrange.lat/hls/xqx2ooz3ojokjiqbtfwcjmizu6n3t7hk2f4dfwa4kuqneji6wy3ly65ehr5a/index-v1-a1.m3u8",
+                        "quality": "Dublado HDCAM - 720p",
+                        "videoUrl": "https://st-4px0-26dc.vmrange.lat/hls/xqx2ooz3ojokjiqbtfwcjmizu6n3t7hk2f4dfwa4kuqneji6wy3ly65ehr5a/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://st-4px0-26dc.vmrange.lat/hls/xqx2ooz3ojokjiqbtfwcjmizu6n3t7hk2f4dfwa4k5cneji6wy3avwwwamta/index-v1-a1.m3u8",
+                        "quality": "Dublado HDCAM - 480p",
+                        "videoUrl": "https://st-4px0-26dc.vmrange.lat/hls/xqx2ooz3ojokjiqbtfwcjmizu6n3t7hk2f4dfwa4k5cneji6wy3avwwwamta/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
