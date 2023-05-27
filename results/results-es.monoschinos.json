@@ -335,9 +335,39 @@
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/ver/since-i-wasnt-the-heroine-episodio-3",
+                        "name": "Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/ver/since-i-wasnt-the-heroine-episodio-2",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www12.mp4upload.com/files/0/cppps6aptuand8/hero_-_03.mp4",
+                        "quality": "Mp4Upload",
+                        "videoUrl": "https://www12.mp4upload.com/files/0/cppps6aptuand8/hero_-_03.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd381.mycdn.me/?expires=1685254101557&srcIp=40.84.171.147&pr=10&srcAg=CHROME&ms=185.226.52.76&type=5&sig=C9Orhz1Aaao&ct=0&urls=45.136.21.53&clientType=0&zs=43&id=4466306452127",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd381.mycdn.me/?expires=1685254101557&srcIp=40.84.171.147&pr=10&srcAg=CHROME&ms=185.226.52.76&type=5&sig=C9Orhz1Aaao&ct=0&urls=45.136.21.53&clientType=0&zs=43&id=4466306452127"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/fubar/",
+                                "title": "FUBAR",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/fubar-34339-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/superman-lois/",
                                 "title": "Superman & Lois",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/superman-lois-34299-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/leverage-redemption/",
                                 "title": "Leverage: Redemption",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/leverage-redemption-29580-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/doom-patrol-2/",
-                                "title": "Doom Patrol",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/doom-patrol-29534-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,13 +882,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/superman-lois/",
-                    "title": "Superman & Lois",
-                    "author": "Greg Berlanti, Todd Helbing",
-                    "description": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
-                    "genre": "Drama, Sci-Fi & Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/fubar/",
+                    "title": "FUBAR",
+                    "author": "Nick Santora",
+                    "description": "When a father and daughter discover they both secretly work for the CIA, an already dicey undercover mission turns into a dysfunctional family affair.",
+                    "genre": "Action & Adventure, Comedy, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -896,21 +896,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/superman-lois-2x15/",
-                        "name": "Season 2x15 : Waiting for Superman",
-                        "episode_number": 15.0
+                        "url": "/episode/fubar-1x8/",
+                        "name": "Season 1x8 : That's It And That's All",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/superman-lois-2x14/",
-                        "name": "Season 2x14 : Worlds War Bizarre",
-                        "episode_number": 14.0
+                        "url": "/episode/fubar-1x7/",
+                        "name": "Season 1x7 : Urine Luck",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v806.streamhub.to/hls/sc6t6oiyxiytnuzvouus57ruvbrpfu7jutuwkeethab56dczmfs7uzmzs2jq/index-v1-a1.m3u8",
+                        "quality": "536p",
+                        "videoUrl": "https://v806.streamhub.to/hls/sc6t6oiyxiytnuzvouus57ruvbrpfu7jutuwkeethab56dczmfs7uzmzs2jq/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
