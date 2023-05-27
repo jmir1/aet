@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=645cdc669c2453edde5d7315",
-                                "title": "Guy Ritchies The Covenant *ENGLISH*",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/b1llNwzB0ym99YuZCs6hCBBhZOk.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=646d2d4a96f2917dc9553955",
                                 "title": "Renfield",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/veWtIVIEIbCBzGONUNXQyhTC2Nu.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=645cdc669c2453edde5d7315",
+                                "title": "Guy Ritchies The Covenant *ENGLISH*",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/b1llNwzB0ym99YuZCs6hCBBhZOk.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=64282081c503f08683e2061c",
@@ -173,8 +173,13 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=646616ec0958c2300f8a02a3",
+                    "title": "Fast & Furious 10",
+                    "description": "Dominic Toretto (Vin Diesel) ahnt nicht, dass seine Taten, die Jahre zurückliegen, tiefe Spuren bei dem mittlerweile mächtigen Dante (Jason Momoa) hinterlassen haben. Dieser sinnt nun auf Rache und will die ganze Toretto-Familie auseinanderbringen. Es entbrennt eine Rachegeschichte, die alle Mitglieder der Original-Crew, aber auch Deckard Shaw (Jason Statham), Bruder Jakob (John Cena) sowie den Neuzugang Tess (Brie Larson) auf den Plan ruft. Diese haben fortan alle Hände zu tun, um sich gegen den Gegenspieler sowie dessen Gefolgschaft samt Cipher (Charlize Theron) und Aimes (Alan Ritchson) zur Wehr setzen zu können. Da Dom nicht jeden aus der großen Familie beschützen kann und der rachsüchtige Rivale vor nichts zurückschreckt, wird er vor die schwierigste Wahl seines Lebens gestellt: Wen wird er retten?\n\nVorletzter Teil der „Fast & Furious”-Reihe, der gemeinsam mit „Fast & Furious 9” und „Fast & Furious 11” das große Finale bilden soll.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -191,82 +196,82 @@
                     {
                         "url": "https://voe.sx/yosy2gyecth6",
                         "quality": "Voe",
-                        "videoUrl": "https://delivery-node-935ayrd3kajkenvf.voe-network.net/engine/hls2-c/01/09056/yccfpvimlzwo_n/master.m3u8?t=EW4IsO0bJSd-HjwuV-PkMgGxeFyTeZfVHiaHkG_mScs&s=1685124557&e=14400&f=45332016&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=172.177&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-sabr.voe-network.net/engine/hls2/01/09056/yccfpvimlzwo_n/master.m3u8?t=WKdMN9FCgOpJ-cH0WUlBRPX2vNcYOV5GcqWWoe3exE8&s=1685147630&e=14400&f=45332016&node=delivery-node-sabr.voe-network.net&i=172.177&sp=3500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ZPPoRzpLLWtqePq&expires=1685194557&ip=F0qQKRWQE19XKxR&token=NG1Xgjj-1knI",
+                        "url": "https://streamtape.com/get_video?id=ZPPoRzpLLWtqePq&expires=1685217630&ip=F0qQKRWQE19XKxR&token=OUq05rcESUIW",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZPPoRzpLLWtqePq&expires=1685194557&ip=F0qQKRWQE19XKxR&token=NG1Xgjj-1knI"
+                        "videoUrl": "https://streamtape.com/get_video?id=ZPPoRzpLLWtqePq&expires=1685217630&ip=F0qQKRWQE19XKxR&token=OUq05rcESUIW"
                     },
                     {
                         "url": "https://voe.sx/noiuhdbliylr",
                         "quality": "Voe",
-                        "videoUrl": "https://delivery-node-935ayrd3kajkenvf.voe-network.net/engine/hls2-c/01/09056/yccfpvimlzwo_n/master.m3u8?t=EW4IsO0bJSd-HjwuV-PkMgGxeFyTeZfVHiaHkG_mScs&s=1685124557&e=14400&f=45322841&node=delivery-node-wfy1ssu9pftrhkpl.voe-network.net&i=172.177&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-quk7chzxqhk5hfao.voe-network.net/engine/hls2-c/01/09056/yccfpvimlzwo_n/master.m3u8?t=dxwpS_4YXpiGHSjdyr4lHoshHn762bSSkLpfEDWcd6Y&s=1685147629&e=14400&f=45322841&node=delivery-node-sabr.voe-network.net&i=172.177&sp=3500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ZroK8pvpQDcq9bg&expires=1685194556&ip=F0qQKRWQE19XKxR&token=UI7jU1Ve1185",
+                        "url": "https://streamtape.com/get_video?id=ZroK8pvpQDcq9bg&expires=1685217629&ip=F0qQKRWQE19XKxR&token=M1IMFpxZwEel",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZroK8pvpQDcq9bg&expires=1685194556&ip=F0qQKRWQE19XKxR&token=UI7jU1Ve1185"
+                        "videoUrl": "https://streamtape.com/get_video?id=ZroK8pvpQDcq9bg&expires=1685217629&ip=F0qQKRWQE19XKxR&token=M1IMFpxZwEel"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685194556&ip=F0qQKRWQE19XKxR&token=pl3_FGkp-GrQ",
+                        "url": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685217628&ip=F0qQKRWQE19XKxR&token=pXIdIXXwEPb9",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685194556&ip=F0qQKRWQE19XKxR&token=pl3_FGkp-GrQ"
+                        "videoUrl": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685217628&ip=F0qQKRWQE19XKxR&token=pXIdIXXwEPb9"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685194556&ip=F0qQKRWQE19XKxR&token=pl3_FGkp-GrQ",
+                        "url": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685217628&ip=F0qQKRWQE19XKxR&token=pXIdIXXwEPb9",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685194556&ip=F0qQKRWQE19XKxR&token=pl3_FGkp-GrQ"
+                        "videoUrl": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685217628&ip=F0qQKRWQE19XKxR&token=pXIdIXXwEPb9"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685194556&ip=F0qQKRWQE19XKxR&token=pl3_FGkp-GrQ",
+                        "url": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685217628&ip=F0qQKRWQE19XKxR&token=pXIdIXXwEPb9",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685194556&ip=F0qQKRWQE19XKxR&token=pl3_FGkp-GrQ"
+                        "videoUrl": "https://streamtape.com/get_video?id=groabJ9OZAUBPY&expires=1685217628&ip=F0qQKRWQE19XKxR&token=pXIdIXXwEPb9"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=QaevDw8K1Ji0OAD&expires=1685194554&ip=F0qQKRWQE19XKxR&token=R9Gw0Jo_wMI0",
+                        "url": "https://streamtape.com/get_video?id=QaevDw8K1Ji0OAD&expires=1685217626&ip=F0qQKRWQE19XKxR&token=kiuJ_LQr8ZrA",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=QaevDw8K1Ji0OAD&expires=1685194554&ip=F0qQKRWQE19XKxR&token=R9Gw0Jo_wMI0"
+                        "videoUrl": "https://streamtape.com/get_video?id=QaevDw8K1Ji0OAD&expires=1685217626&ip=F0qQKRWQE19XKxR&token=kiuJ_LQr8ZrA"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685194554&ip=F0qQKRWQE19XKxR&token=c1OtEbGrFY2w",
+                        "url": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685217626&ip=F0qQKRWQE19XKxR&token=qPDPNsC4hmad",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685194554&ip=F0qQKRWQE19XKxR&token=c1OtEbGrFY2w"
+                        "videoUrl": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685217626&ip=F0qQKRWQE19XKxR&token=qPDPNsC4hmad"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685194554&ip=F0qQKRWQE19XKxR&token=c1OtEbGrFY2w",
+                        "url": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685217626&ip=F0qQKRWQE19XKxR&token=qPDPNsC4hmad",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685194554&ip=F0qQKRWQE19XKxR&token=c1OtEbGrFY2w"
+                        "videoUrl": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685217626&ip=F0qQKRWQE19XKxR&token=qPDPNsC4hmad"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685194554&ip=F0qQKRWQE19XKxR&token=c1OtEbGrFY2w",
+                        "url": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685217626&ip=F0qQKRWQE19XKxR&token=qPDPNsC4hmad",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685194554&ip=F0qQKRWQE19XKxR&token=c1OtEbGrFY2w"
+                        "videoUrl": "https://streamtape.com/get_video?id=A277km3rJyCBkp&expires=1685217626&ip=F0qQKRWQE19XKxR&token=qPDPNsC4hmad"
                     },
                     {
                         "url": "https://voe.sx/e/6j0gqsyzjksr?🎧🇩🇪?1",
                         "quality": "Voe",
-                        "videoUrl": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/09057/jiw7fnhdbczy_n/master.m3u8?t=NfwZfgrR8X4ELGaIB0Ewg2f1yXxLp-XNH35zhRBeulw&s=1685124553&e=14400&f=45285454&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=172.177&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-khimwq6e0foc9jj9.voe-network.net/engine/hls2/01/09057/jiw7fnhdbczy_n/master.m3u8?t=SUFIxlAMAua0acw9vhADjayZpiH-JdZDMZF6HELlUNU&s=1685147625&e=14400&f=45285454&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=172.177&sp=3500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=JYJwwBXjgZCjjzr&expires=1685194552&ip=F0qQKRWQE19XKxR&token=di8BmPqPLvSU",
+                        "url": "https://streamtape.com/get_video?id=JYJwwBXjgZCjjzr&expires=1685217624&ip=F0qQKRWQE19XKxR&token=_jG_nUyzco8A",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=JYJwwBXjgZCjjzr&expires=1685194552&ip=F0qQKRWQE19XKxR&token=di8BmPqPLvSU"
+                        "videoUrl": "https://streamtape.com/get_video?id=JYJwwBXjgZCjjzr&expires=1685217624&ip=F0qQKRWQE19XKxR&token=_jG_nUyzco8A"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=d8prJoVrDoFkvlp&expires=1685194552&ip=F0qQKRWQE19XKxR&token=1yczpAbnKG93",
+                        "url": "https://streamtape.com/get_video?id=d8prJoVrDoFkvlp&expires=1685217624&ip=F0qQKRWQE19XKxR&token=g1VGM8lE_Yq4",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=d8prJoVrDoFkvlp&expires=1685194552&ip=F0qQKRWQE19XKxR&token=1yczpAbnKG93"
+                        "videoUrl": "https://streamtape.com/get_video?id=d8prJoVrDoFkvlp&expires=1685217624&ip=F0qQKRWQE19XKxR&token=g1VGM8lE_Yq4"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=17wyrAXWWGue26z&expires=1685194552&ip=F0qQKRWQE19XKxR&token=2JYeP14BxeKE",
+                        "url": "https://streamtape.com/get_video?id=17wyrAXWWGue26z&expires=1685217624&ip=F0qQKRWQE19XKxR&token=0T4owFdacNfC",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=17wyrAXWWGue26z&expires=1685194552&ip=F0qQKRWQE19XKxR&token=2JYeP14BxeKE"
+                        "videoUrl": "https://streamtape.com/get_video?id=17wyrAXWWGue26z&expires=1685217624&ip=F0qQKRWQE19XKxR&token=0T4owFdacNfC"
                     },
                     {
                         "url": "https://voe.sx/e/llueyez2vyfy?🎧🇩🇪?1",
                         "quality": "Voe",
-                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09050/6fiybenenaue_n/master.m3u8?t=040hG_keF22IAhyVWRaDFazuF6Zcf6Z5QfkapNLZP4g&s=1685124552&e=14400&f=45284107&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=172.177&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09050/6fiybenenaue_n/master.m3u8?t=d0f3rexVOvy-RJVacRDY8c_pjbdXzikv1h4YothvaKM&s=1685147624&e=14400&f=45284107&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=172.177&sp=3500&asn=8075"
                     }
                 ],
                 "passed": true

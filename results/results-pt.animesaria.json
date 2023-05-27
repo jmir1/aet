@@ -3,27 +3,337 @@
         "name": "Animes Aria",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!?",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/2496.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/315/xiao_qian",
+                                "title": "Xiao Qian",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/1558.jpg?v=1685130391"
+                            },
+                            {
+                                "url": "/anime/49596/blue_lock",
+                                "title": "Blue Lock",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/42466.jpg?v=1665316738"
+                            },
+                            {
+                                "url": "/anime/33775/soul_buster",
+                                "title": "Soul Buster",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/11560.jpg?v=1685046026"
+                            },
+                            {
+                                "url": "/anime/49918/boku_no_hero_academia_6th_season",
+                                "title": "Boku no Hero Academia 6th Season",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/42214.jpg?v=1664653275"
+                            },
+                            {
+                                "url": "/anime/20449/watashi_ga_motenai_no_wa_dou_kangaetemo_omaera_ga_warui_motenaishi_nazomeite_miru",
+                                "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/8644.jpg?v=1684968997"
+                            },
+                            {
+                                "url": "/anime/15227/kono_sekai_no_katasumi_ni",
+                                "title": "Kono Sekai no Katasumi ni",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/7761.jpg?v=1684968005"
+                            },
+                            {
+                                "url": "/anime/2298/mobile_suit_gundam_seed_after_phase_between_the_stars",
+                                "title": "Mobile Suit Gundam SEED: After-Phase Between the Stars",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/3116.jpg?v=1684892794"
+                            },
+                            {
+                                "url": "/anime/9348/chibi_maruko_chan_watashi_no_suki_na_uta",
+                                "title": "Chibi Maruko-chan: Watashi no Suki na Uta",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/6510.jpg?v=1684739813"
+                            },
+                            {
+                                "url": "/anime/11359/dragon_ball_kai_mirai_ni_heiwa_wo_goku_no_tamashii_yo_eien_ni",
+                                "title": "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/7234.jpg?v=1684638513"
+                            },
+                            {
+                                "url": "/anime/46431/yahari_ore_no_seishun_love_comedy_wa_machigatteiru_kan_dakara_shishunki_wa_owarazu_ni_seishun_wa_tsuzuiteiku",
+                                "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan: Dakara, Shishunki wa Owarazu ni, Seishun wa Tsuzuiteiku.",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/18832.jpg?v=1684626680"
+                            },
+                            {
+                                "url": "/anime/6033/dragon_ball_kai",
+                                "title": "Dragon Ball Kai",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/5272.jpg?v=1684623748"
+                            },
+                            {
+                                "url": "/anime/10196/baby_princess_3d_paradise_0_love",
+                                "title": "Baby Princess 3D Paradise 0 [Love]",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/6855.jpg?v=1684601462"
+                            },
+                            {
+                                "url": "/anime/5080/quiz_magic_academy_the_original_animation",
+                                "title": "Quiz Magic Academy: The Original Animation",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/4827.jpg?v=1684594392"
+                            },
+                            {
+                                "url": "/anime/1855/jaja_uma_quartet",
+                                "title": "JaJa Uma! Quartet",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/2746.jpg?v=1684593895"
+                            },
+                            {
+                                "url": "/anime/7549/quiz_magic_academy_the_original_animation_2",
+                                "title": "Quiz Magic Academy: The Original Animation 2",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/5868.jpg?v=1684551147"
+                            },
+                            {
+                                "url": "/anime/1562/yamato_nadeshiko_shichihenge",
+                                "title": "Yamato Nadeshiko Shichihenge♥",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/2510.jpg?v=1684537116"
+                            },
+                            {
+                                "url": "/anime/1810/kyoushirou_to_towa_no_sora",
+                                "title": "Kyoushirou to Towa no Sora",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/2713.jpg?v=1684452911"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/52578/boku_no_kokoro_no_yabai_yatsu",
+                                "title": "Boku no Kokoro no Yabai Yatsu Episódio 6",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/42657_background.jpg?v=1680971276"
+                            },
+                            {
+                                "url": "/anime/52973/megami_no_caf_terrace",
+                                "title": "Megami no Café Terrace Episódio 8",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/42658_background.jpg?v=1680974078"
+                            },
+                            {
+                                "url": "/anime/48981/mahou_shoujo_magical_destroyers",
+                                "title": "Mahou Shoujo Magical Destroyers Episódio 8",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/42653_background.jpg?v=1680900595"
+                            },
+                            {
+                                "url": "/anime/52229/birdie_wing_golf_girls_story_season_2",
+                                "title": "Birdie Wing: Golf Girls' Story Season 2 Episódio 8",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/42654_background.jpg?v=1680900827"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 26",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 25",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 24",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 23",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 22",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 21",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 20",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 19",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 18",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 17",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 16",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 15",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 14",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            },
+                            {
+                                "url": "/anime/1546/negima",
+                                "title": "Negima!? Episódio 13",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/2496_background.jpg?v=1685133829"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/11375/hack_the_movie_sekai_no_mukou_ni",
+                                "title": ".hack//The Movie: Sekai no Mukou ni",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/7236.jpg?version=1630975712"
+                            },
+                            {
+                                "url": "/anime/11759/accel_world",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/1235.jpg?version=1596255550"
+                            },
+                            {
+                                "url": "/anime/13939/accel_world_ex",
+                                "title": "Accel World EX",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/1236.jpg?version=1596255550"
+                            },
+                            {
+                                "url": "/anime/13859/accel_world_acchel_world",
+                                "title": "Accel World: Acchel World.",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/7635.jpg?version=1635000965"
+                            },
+                            {
+                                "url": "/anime/31763/accel_world_infinite_burst",
+                                "title": "Accel World: Infinite∞Burst",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/1326.jpg?version=1596255550"
+                            },
+                            {
+                                "url": "/anime/15133/aoi_sekai_no_chuushin_de",
+                                "title": "Aoi Sekai no Chuushin de",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/612.jpg?version=1596255550"
+                            },
+                            {
+                                "url": "/anime/14373/arata_naru_sekai_world_s_start_load_end",
+                                "title": "Arata naru Sekai: World's/Start/Load/End",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/22909.jpg?version=1662339227"
+                            },
+                            {
+                                "url": "/anime/36882/arifureta_shokugyou_de_sekai_saikyou",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/720.jpg?version=1596255550"
+                            },
+                            {
+                                "url": "/anime/40507/arifureta_shokugyou_de_sekai_saikyou_2nd_season",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/15079.jpg?version=1642280109"
+                            },
+                            {
+                                "url": "/anime/40083/arifureta_shokugyou_de_sekai_saikyou_specials",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou Specials",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/14874.jpg?version=1602734472"
+                            },
+                            {
+                                "url": "/anime/51473/arifureta_shokugyou_de_sekai_saikyou_maboroshi_no_bouken_to_kiseki_no_kaigou",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/42493.jpg?version=1667427451"
+                            },
+                            {
+                                "url": "/anime/50854/benriya_saitou_san_isekai_ni_iku",
+                                "title": "Benriya Saitou-san, Isekai ni Iku",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/42555.jpg?version=1673324609"
+                            },
+                            {
+                                "url": "/anime/2607/birth",
+                                "title": "Birth",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/3377.jpg?version=1631324501"
+                            },
+                            {
+                                "url": "/anime/44200/boku_no_hero_academia_the_movie_3_world_heroes_mission",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/16737.jpg?version=1648326131"
+                            },
+                            {
+                                "url": "/anime/1614/captain_tsubasa_road_to_2002",
+                                "title": "Captain Tsubasa: Road to 2002",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/2550.jpg?version=1682381687"
+                            },
+                            {
+                                "url": "/anime/40960/cheat_kusushi_no_slow_life_isekai_ni_tsukurou_drugstore",
+                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/41138.jpg?version=1628036025"
+                            },
+                            {
+                                "url": "/anime/39523/choujin_koukousei_tachi_wa_isekai_demo_yoyuu_de_ikinuku_you_desu",
+                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/1096.jpg?version=1596255413"
+                            },
+                            {
+                                "url": "/anime/34497/death_march_kara_hajimaru_isekai_kyousoukyoku",
+                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/11897.jpg?version=1637630229"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/anime/1546/negima",
+                    "title": "Negima!?",
+                    "description": "Um remake do anime Negima com sua própria história original. Mago Negi Springfield pode ser um menino, mas ele tem um trabalho do tamanho de um homem para fazer! Recém-saído da Academy of Magic, Negi continua seu treinamento como instrutor na Mahora Academy no Japão. Mas antes que ele possa obter seu mestrado em magia, as 31 alunas da classe 3-A vão mantê-lo acordado a noite toda estudando para um exame final de força de vontade. Tentações à parte, Negi tem mais em seu currículo do que flerte e feitiços. A escuridão está se aproximando e Negi vai precisar da ajuda de seus adoráveis corpos estudantis para expulsar os ghouls de sua escola. Essas garotas querem provar que são as melhores da classe, e crédito extra está disponível para as gracinhas que não têm medo de lutar contra fantasmas depois do expediente! (Fonte: caixa do DVD)\n\nTítulos Alternativos: Negima Remake, Negima!? Magister Negi Magi, ネギま!?\nTipo: OVA\nAno: 2006\nMídias: 26\n",
+                    "genre": "Harem, Escolar, Aventura, Comédia, Fantasia, Romance, Sobrenatural, Ecchi, Outono de 2006",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/2496.jpg?v=1685133829",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/1546/negima/episodio/26/legendado",
+                        "name": "Episódio 26",
+                        "episode_number": 26.0,
+                        "scanlator": "legendado"
+                    },
+                    {
+                        "url": "/anime/1546/negima/episodio/25/legendado",
+                        "name": "Episódio 25",
+                        "episode_number": 25.0,
+                        "scanlator": "legendado"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

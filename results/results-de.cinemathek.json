@@ -62,12 +62,31 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episoden/westworld-4x8/",
+                        "name": "Season 4 x 8 - Que Será, Será",
+                        "date_upload": 1660435200000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episoden/westworld-4x7/",
+                        "name": "Season 4 x 7 - Metanoia",
+                        "date_upload": 1659830400000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://moon-100ge-streaming-server.dvsdvsdvsdva.com/hls2/02/03889/9j1qlyf9dosn_x/index-v1-a2.m3u8?t=w1rmL8lSwNsQB4ArEl7CzNeaZB4QDYPOSGphx8SATmE&s=1685147695&e=43200&f=19445470&srv=28&asn=8075&sp=2500&fr=9j1qlyf9dosn",
+                        "quality": "Filemoon:1080p ",
+                        "videoUrl": "https://moon-100ge-streaming-server.dvsdvsdvsdva.com/hls2/02/03889/9j1qlyf9dosn_x/index-v1-a2.m3u8?t=w1rmL8lSwNsQB4ArEl7CzNeaZB4QDYPOSGphx8SATmE&s=1685147695&e=43200&f=19445470&srv=28&asn=8075&sp=2500&fr=9j1qlyf9dosn"
+                    }
+                ],
+                "passed": true
             }
         }
     }
