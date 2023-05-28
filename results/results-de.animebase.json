@@ -11,15 +11,11 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
-            },
-            "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }

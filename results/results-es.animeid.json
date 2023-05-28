@@ -694,12 +694,31 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/chainsaw-man-latino-12",
+                        "name": "Episodio 12.0",
+                        "date_upload": 1683417600000,
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/v/chainsaw-man-latino-11",
+                        "name": "Episodio 11.0",
+                        "date_upload": 1683417600000,
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Ywpmj66dgQtL6q&expires=1685367284&ip=F0qQKRWQEy9XKxR&token=gjX0PeTt6v7I",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Ywpmj66dgQtL6q&expires=1685367284&ip=F0qQKRWQEy9XKxR&token=gjX0PeTt6v7I"
+                    }
+                ],
+                "passed": true
             }
         }
     }
