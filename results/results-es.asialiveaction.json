@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-my-favorite/",
+                                "title": "Be My Favorite (1/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
+                            },
+                            {
                                 "url": "/avatar/",
                                 "title": "Avatar",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xEAhV18F5Ej78qL0EneyPqa2a20.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/the-real-has-come/",
                                 "title": "The Real Has Come! (8/50)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/phV9ZfUD6tQM4bIZ2kqCIDoEU9J.jpg"
-                            },
-                            {
-                                "url": "/ghost-stories-doblaje-en-ingles/",
-                                "title": "Ghost Stories Doblaje en Inglés (7/20)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/tviMZuwHHqFkkdvV1OSap0YAQ2M.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-my-favorite/",
+                                "title": "Be My Favorite (1/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
+                            },
+                            {
                                 "url": "/avatar/",
                                 "title": "Avatar",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xEAhV18F5Ej78qL0EneyPqa2a20.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/the-real-has-come/",
                                 "title": "The Real Has Come! (8/50)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/phV9ZfUD6tQM4bIZ2kqCIDoEU9J.jpg"
-                            },
-                            {
-                                "url": "/ghost-stories-doblaje-en-ingles/",
-                                "title": "Ghost Stories Doblaje en Inglés (7/20)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/tviMZuwHHqFkkdvV1OSap0YAQ2M.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,27 +393,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/avatar/",
-                    "title": "Avatar",
-                    "description": "Michiko perdió a su padre en un accidente automovilístico cuando tenía 10 años. Después del accidente automovilístico, Michiko ha vivido con su madre Kyoko. Michiko, ahora en su segundo año de secundaria, recibe un teléfono celular de su madre como regalo de cumpleaños. Michiko está muy emocionada de tener su primer teléfono celular. Poco después, su compañero de clase y reina del aula, Taeko, la obliga a unirse al sitio de redes sociales «AvaQ».",
-                    "genre": "Drama, Escolar, Horror, Misterio, Psicológico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xEAhV18F5Ej78qL0EneyPqa2a20.jpg",
-                    "initialized": true
-                },
-                "passed": true
-            },
-            "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/0526465/",
-                        "name": "Sub. Español",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

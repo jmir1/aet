@@ -213,42 +213,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/one-piece/",
-                    "title": "One Piece",
-                    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous “One Piece” behind. Whoever claims the “One Piece” will be named the new King of the Pirates.\n\nOriginal title: ワンピース\nFirst air date: Oct. 20, 1999\nLast air date: Apr. 16, 2023\nSeasons: 21\nEpisodes: 1061",
-                    "genre": "Action & Adventure, Animation, Comedy, Top Anime",
-                    "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-200x300.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/one-piece-21x1062/",
-                        "name": "Season 21 x 1062 - The Three-Sword Style of the Supreme King! Zoro vs. King",
-                        "date_upload": 1684627200000,
-                        "episode_number": 1062.0
-                    },
-                    {
-                        "url": "/episodes/one-piece-21x1061/",
-                        "name": "Season 21 x 1061 - The Strike of an Ifrit! Sanji vs. Queen",
-                        "date_upload": 1683417600000,
-                        "episode_number": 1061.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f20768dcc9876d3be_d20230524_m065704_c004_v0402012_t0022_u01684911424867",
-                        "quality": "1080P",
-                        "videoUrl": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f20768dcc9876d3be_d20230524_m065704_c004_v0402012_t0022_u01684911424867"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
