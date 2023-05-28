@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/kyoshinhei-tokyo-ni-arawaru/",
+                                "title": "Kyoshinhei Tokyo ni Arawaru",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
+                            },
+                            {
                                 "url": "/be-my-favorite/",
                                 "title": "Be My Favorite (1/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/have-a-crush-on-you/",
                                 "title": "Have a Crush On You (3/36)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg"
-                            },
-                            {
-                                "url": "/the-real-has-come/",
-                                "title": "The Real Has Come! (8/50)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/phV9ZfUD6tQM4bIZ2kqCIDoEU9J.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/kyoshinhei-tokyo-ni-arawaru/",
+                                "title": "Kyoshinhei Tokyo ni Arawaru",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
+                            },
+                            {
                                 "url": "/be-my-favorite/",
                                 "title": "Be My Favorite (1/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/have-a-crush-on-you/",
                                 "title": "Have a Crush On You (3/36)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg"
-                            },
-                            {
-                                "url": "/the-real-has-come/",
-                                "title": "The Real Has Come! (8/50)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/phV9ZfUD6tQM4bIZ2kqCIDoEU9J.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,8 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/kyoshinhei-tokyo-ni-arawaru/",
+                    "title": "Kyoshinhei Tokyo ni Arawaru",
+                    "description": "A medida que aparecen misteriosas esporas naranjas en Tokio, una residente no identificada de la ciudad recibe una extraña visita de su hermano, quien le dice que la ciudad será destruida mañana y que debe irse de antemano. Debido a su creencia de que es simplemente un rumor en Internet, ella rechaza su advertencia y no informa a sus compañeros residentes de la ciudad del supuesto peligro. Mientras tanto al día siguiente una misteriosa criatura aparece en el cielo… Spin-Off/secuela de la aclamada y considerada «la primer» pelicula de Studio Ghibli: «Nausicaä del Valle del Viento«, cortometraje que cuenta con la dirección de Shinji Higuchi (Gamera), escrito por Hideaki Anno (Evangelion) y co-producido por Studio Ghibli junto a Hayao Miyazaki (Voz y diseñador).",
+                    "genre": "Acción, Ciencia Ficción, Drama, Extraterrestres, Fantasía",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/paste/2926476/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
