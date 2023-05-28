@@ -3,114 +3,8 @@
         "name": "Kinoking",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movies/der-super-mario-bros-film/",
-                                "title": "Der Super Mario Bros. Film",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aMUbRQs7Vj77SVUqFieN72setAH.jpg"
-                            },
-                            {
-                                "url": "/movies/guardians-of-the-galaxy-volume-3/",
-                                "title": "Guardians of the Galaxy: Volume 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/15biW1EuTbbHRO9rrQrO2Qdvb0u.jpg"
-                            },
-                            {
-                                "url": "/movies/fast-furious-10/",
-                                "title": "Fast & Furious 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/t1vPsJUBsh3gkgkZlqDNmCPyy49.jpg"
-                            },
-                            {
-                                "url": "/movies/big-george-foreman/",
-                                "title": "Big George Foreman",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg"
-                            },
-                            {
-                                "url": "/movies/sisu/",
-                                "title": "Sisu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1w9WXOKWT6Cuj2TxAknIUhhvLZt.jpg"
-                            },
-                            {
-                                "url": "/movies/evil-dead-rise/",
-                                "title": "Evil Dead Rise",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/o69AfVK0YXkbyI0QVayindEFC26.jpg"
-                            },
-                            {
-                                "url": "/movies/bandit/",
-                                "title": "Bandit",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/niOMn705nsjN1Mvz5xkmd2l5bI1.jpg"
-                            },
-                            {
-                                "url": "/movies/sakra/",
-                                "title": "Sakra",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lEWeNdbPuJIUON6qUwwvRcYNgSU.jpg"
-                            },
-                            {
-                                "url": "/movies/champions/",
-                                "title": "Champions",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qX7e0VvDJQnb22LcwIqIOprVyUy.jpg"
-                            },
-                            {
-                                "url": "/movies/deaths-roulette/",
-                                "title": "Death’s Roulette",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tP0xZWNqNNM0PEhkURsKriTQT9j.jpg"
-                            },
-                            {
-                                "url": "/movies/resident-evil-welcome-to-raccoon-city/",
-                                "title": "Resident Evil: Welcome to Raccoon City (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bArhvjRHl535XMaSh9VjInF2mSZ.jpg"
-                            },
-                            {
-                                "url": "/movies/hellraiser/",
-                                "title": "Hellraiser",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg"
-                            },
-                            {
-                                "url": "/movies/the-whale/",
-                                "title": "The Whale",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4XfHj6W61y8RdH6R6c8AeOtEkAJ.jpg"
-                            },
-                            {
-                                "url": "/movies/ghosted/",
-                                "title": "Ghosted",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cQaGBBcin0YiavUNWGxnqoUPDFi.jpg"
-                            },
-                            {
-                                "url": "/movies/infinity-pool/",
-                                "title": "Infinity Pool",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/y4V6gcoc03n42MgOmegXFlognXI.jpg"
-                            },
-                            {
-                                "url": "/movies/murder-mystery-2/",
-                                "title": "Murder Mystery 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg"
-                            },
-                            {
-                                "url": "/movies/dungeons-dragons-ehre-unter-dieben/",
-                                "title": "Dungeons & Dragons: Ehre unter Dieben",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/a8zFhZYKtT97upFtzGKqBZQd7qQ.jpg"
-                            },
-                            {
-                                "url": "/movies/creed-iii-rockys-legacy/",
-                                "title": "Creed III: Rocky’s Legacy",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg"
-                            },
-                            {
-                                "url": "/movies/sonne-und-beton/",
-                                "title": "Sonne und Beton",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ddacirup8d3NJqyFvRaBllSFncr.jpg"
-                            },
-                            {
-                                "url": "/movies/john-wick-kapitel-4/",
-                                "title": "John Wick: Kapitel 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lmSuwYGrrMy8p4kVEzCb9GM4waP.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: bruh",
+                "passed": false
             },
             "latest": {
                 "error": "java.lang.Exception: Not used",
@@ -278,14 +172,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/der-super-mario-bros-film/",
-                    "title": "Der Super Mario Bros. Film",
-                    "author": "Michael Jelenic",
-                    "description": "Ein Klempner namens Mario reist mit seinem Bruder Luigi durch ein unterirdisches Labyrinth, um eine gefangene Prinzessin zu retten.",
-                    "genre": "Abenteuer, Animation, Familie, Fantasy, Komödie",
+                    "url": "/tvshows/between-the-world-and-us/",
+                    "title": "Between the World and Us",
+                    "author": "",
+                    "description": "",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/aMUbRQs7Vj77SVUqFieN72setAH.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/kgmfnxNdJy9N4ejrBfrkf6iNSjq.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -293,9 +187,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/der-super-mario-bros-film/",
-                        "name": "Der Super Mario Bros. Film",
-                        "episode_number": 1.0
+                        "url": "/episodes/between-the-world-and-us-1x8/",
+                        "name": "Staffel 1 Folge 8 : Episode 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episodes/between-the-world-and-us-1x7/",
+                        "name": "Staffel 1 Folge 7 : Episode 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
