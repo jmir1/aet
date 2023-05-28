@@ -94,8 +94,17 @@ jobs:
         run: |
           Xvfb -ac :99 -screen 0 1280x1024x16 > /dev/null 2>&1 &
           export DISPLAY=:99.0
+          EXTRA_ARGS=""
+          if [[ -n "${{ secrets.PREFERENCES }}" ]]; then
+              echo -e '${{ secrets.PREFERENCES }}' > preferences.json
+              EXTRA_ARGS+="--prefs preferences.json "
+          fi
+          if [[ -n "${{ secrets.COOKIES }}" ]]; then
+              echo -e '${{ secrets.COOKIES }}' > cookies.txt
+              EXTRA_ARGS+="--cookies cookies.txt "
+          fi
           # java -jar tester.jar apk -C -D json -P -d
-          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug ${{ github.event.inputs.args }}
+          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug $EXTRA_ARGS ${{ github.event.inputs.args }}
 
       - name: upload results
         uses: actions/upload-artifact@v3
