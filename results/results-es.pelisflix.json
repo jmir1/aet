@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/las-aventuras-de-maurice-2022/",
+                                "title": "Las aventuras de Maurice (2022)",
+                                "description": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JTfbIitFf8czYBJIOcofwgVviNyjWDR.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-independent/",
+                                "title": "The Independent",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/NxLlZxeXMLoWbsRoJ1vhXlIRCn.webp"
+                            },
+                            {
+                                "url": "/pelicula/непослушная/",
+                                "title": "Непослушная",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/fkWXWUke7rZWdYCY12JiiGMK9l9zr4bwf.webp"
+                            },
+                            {
+                                "url": "/pelicula/tom-hanks-the-nomad/",
+                                "title": "Tom Hanks: The Nomad",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/OOeB45a1teNVsph2ojZygM0W8hVqPX7tCcVx.webp"
+                            },
+                            {
                                 "url": "/pelicula/tina/",
                                 "title": "TINA",
                                 "description": "Documental sobre la legendaria cantante Tina Turner, icono de la música rock a lo largo de varias d...",
@@ -221,30 +245,6 @@
                                 "title": "In the Heart of the Machine",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/BPnIGEHtnccyy778rC96SqTuKZZeeCSFi6e.webp"
-                            },
-                            {
-                                "url": "/pelicula/nada-que-ver/",
-                                "title": "Nada Que Ver",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/P7TvdkdJeEt8rnmMF4U0QkVFh7sC5GsKDb5Gm9gr.webp"
-                            },
-                            {
-                                "url": "/pelicula/surrogate/",
-                                "title": "Surrogate",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8KYCrz4qeaicf5RVGN.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-arana-negra/",
-                                "title": "La araña negra",
-                                "description": "La joven y valiente comadrona Christine hace un pacto con el diablo para salvar a su pueblo del brut...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/rTSeB48juTni6ZJmXjX7JqXsfMJAlbqDU8Im2Gvn.webp"
-                            },
-                            {
-                                "url": "/pelicula/fast-furious-x/",
-                                "title": "Fast & Furious X (A todo gas)",
-                                "description": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser má...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZEMjIB7oCpeRmisnFf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -504,10 +504,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/tina/",
-                    "title": "TINA",
-                    "description": "Documental sobre la legendaria cantante Tina Turner, icono de la música rock a lo largo de varias décadas. Contada en cinco actos poderosos, esta película es una mirada íntima y reveladora a la vida y carrera de ella.",
-                    "genre": "Documental",
+                    "url": "/pelicula/las-aventuras-de-maurice-2022/",
+                    "title": "Las aventuras de Maurice (2022)",
+                    "description": "Maurice, un gato callejero, tiene el timo perfecto para ganar dinero. Encuentra a un niño que toca la flauta y se hace amigo de su horda de ratas que hablan, así no las ve como si fueran comida. Cuando Maurice y los roedores llegan al pueblo de Bad Blintz, encuentran a Malicia. Su timo no llega a buen puerto por culpa de lo que les espera en el sótano.",
+                    "genre": "Animación, Aventura, Comedia, Familia",
                     "initialized": true
                 },
                 "passed": true
@@ -515,7 +515,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/tina/",
+                        "url": "/pelicula/las-aventuras-de-maurice-2022/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -523,7 +523,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar pUIjUUWn = \"\"; tlEIBGS.forEach(function Oym(value) { pUIjUUWn += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

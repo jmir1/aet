@@ -3,23 +3,49 @@
         "name": "Jkhentai",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/hentai/futa-bu-mix-futanari-world",
+                                "title": "Futa-bu! Mix: Futanari World",
+                                "thumbnail_url": "https://www.jkhentai.net/images/portada/futa-bu-mix-futanari-world.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/hentai/futa-bu-mix-futanari-world",
+                    "title": "Futa-bu! Mix: Futanari World",
+                    "description": "Titulo Original: Futa Club!",
+                    "genre": "Ahegao, Anal, Futanari, Lolicon, Orgia, Yuri, Sinopsis",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.jkhentai.net/images/portada/futa-bu-mix-futanari-world.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/futa-bu-mix-futanari-world-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -142,6 +142,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/royalteen-princesa-margrethe/online/gratis",
+                                "title": "Royalteen: Princesa Margrethe",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39379.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/os-cavaleiros-do-zodiaco-saint-seiya-o-comeco/online/gratis",
                                 "title": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39378.jpg"
@@ -275,11 +280,6 @@
                                 "url": "/assistir/filme/rock-dog-uma-batida-animal/online/gratis",
                                 "title": "Rock Dog: Uma Batida Animal",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39351.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/the-artifice-girl/online/gratis",
-                                "title": "The Artifice Girl",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39350.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1706,8 +1706,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=ufZWLlFJJoMhzALwBEcATA&e=1685405283&_t=1685387324",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=ufZWLlFJJoMhzALwBEcATA&e=1685405283&_t=1685387324",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=jk23eO2Cs_ZMoJsnf62cYA&e=1685405283&_t=1685393365",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=jk23eO2Cs_ZMoJsnf62cYA&e=1685405283&_t=1685393365",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1685453683&ip=F0OSKRqOKxSHDN&token=pHK4iJmQscD5",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1685453683&ip=F0OSKRqOKxSHDN&token=pHK4iJmQscD5"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1685453683&ip=F0OSKRqOKxSHDN&token=LWLss7DkKNmS",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1685453683&ip=F0OSKRqOKxSHDN&token=LWLss7DkKNmS"
+                    }
+                ],
+                "passed": true
             }
         }
     }
