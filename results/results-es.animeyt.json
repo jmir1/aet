@@ -435,8 +435,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s14.fastream.to/hls2/04/00051/y58c66f8ovhk_l/master.m3u8",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s14.fastream.to/hls2/04/00051/y58c66f8ovhk_l/master.m3u8"
+                    },
+                    {
+                        "url": "https://s14.fastream.to/hls2/04/00051/y58c66f8ovhk_n/master.m3u8",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s14.fastream.to/hls2/04/00051/y58c66f8ovhk_n/master.m3u8"
+                    },
+                    {
+                        "url": "https://s14.fastream.to/hls2/04/00051/y58c66f8ovhk_h/master.m3u8",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s14.fastream.to/hls2/04/00051/y58c66f8ovhk_h/master.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
