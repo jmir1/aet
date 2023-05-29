@@ -442,48 +442,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn-149.anonfiles.com/j1Y5e1ubze/426de722-1685341197/%5BAnimesTC%5D+Kimetsu+no+Yaiba+-+Katanakaji+no+Sato-hen+-+08+%28720p%29.mkv",
-                        "quality": "AnonFiles - HD",
-                        "videoUrl": "https://cdn-149.anonfiles.com/j1Y5e1ubze/426de722-1685341197/%5BAnimesTC%5D+Kimetsu+no+Yaiba+-+Katanakaji+no+Sato-hen+-+08+%28720p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-143.anonfiles.com/T8Y7e0udz2/df14bd3c-1685341203/%5BAnimesTC%5D+Kimetsu+no+Yaiba+-+Katanakaji+no+Sato-hen+-+08+%281080p%29.mkv",
-                        "quality": "AnonFiles - FULLHD",
-                        "videoUrl": "https://cdn-143.anonfiles.com/T8Y7e0udz2/df14bd3c-1685341203/%5BAnimesTC%5D+Kimetsu+no+Yaiba+-+Katanakaji+no+Sato-hen+-+08+%281080p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-141.anonfiles.com/bbW5e8ucz6/9ad3dae1-1685341191/%5BAnimesTC%5D+Kimetsu+no+Yaiba+-+Katanakaji+no+Sato-hen+-+08.mp4",
-                        "quality": "AnonFiles - SD",
-                        "videoUrl": "https://cdn-141.anonfiles.com/bbW5e8ucz6/9ad3dae1-1685341191/%5BAnimesTC%5D+Kimetsu+no+Yaiba+-+Katanakaji+no+Sato-hen+-+08.mp4"
-                    },
-                    {
-                        "url": "https://33696192.sendcdn.com/d/fzyspvbm6gosj4l4szyfnf5vzbargejtangfav6scctpkjic2eesbd7zgvoilybcgylssy2x/video.mkv",
-                        "quality": "Sendcm - HD",
-                        "videoUrl": "https://33696192.sendcdn.com/d/fzyspvbm6gosj4l4szyfnf5vzbargejtangfav6scctpkjic2eesbd7zgvoilybcgylssy2x/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/anfz9xrp0y2d"
-                        }
-                    },
-                    {
-                        "url": "https://1524-2099.sendcdn.com/d/cjyqxvbm6gosj4l4szyandvj2qo2qyh3u2ardda7cc2ipmiw46wpb3pxnxa33z63l7wx7h4h/video.mkv",
-                        "quality": "Sendcm - FULLHD",
-                        "videoUrl": "https://1524-2099.sendcdn.com/d/cjyqxvbm6gosj4l4szyandvj2qo2qyh3u2ardda7cc2ipmiw46wpb3pxnxa33z63l7wx7h4h/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/1wzf3o5b7w4i"
-                        }
-                    },
-                    {
-                        "url": "https://92162099.sendcdn.com/d/fby7tvbm6gosj4l4szyf3sv7qeelotiocfs3wxxn436cuzszxfxryvcljhdsbs42obmum2vk/video.mp4",
-                        "quality": "Sendcm - SD",
-                        "videoUrl": "https://92162099.sendcdn.com/d/fby7tvbm6gosj4l4szyf3sv7qeelotiocfs3wxxn436cuzszxfxryvcljhdsbs42obmum2vk/video.mp4",
-                        "headers": {
-                            "Referer": "https://send.cm/j3l3ez7bzzfu"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: anonfiles.com: No address associated with hostname",
+                "passed": false
             }
         }
     }

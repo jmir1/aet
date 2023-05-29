@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/مسلسل-the-blacklist-مترجم/",
+                                "title": "مسلسل The Blacklist حلقة 14 موسم 10 مترجم",
+                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/مسلسل-The-Blacklist-الموسم-العاشر.jpg"
+                            },
+                            {
                                 "url": "/series/انمي-kimetsu-no-yaiba-katanakaji-no-sato-hen-مترجم/",
                                 "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen  (انمى)",
                                 "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/135099l.jpg"
@@ -160,6 +165,16 @@
                                 "url": "/تحميل-فيلم-avatar-the-way-of-water-2022-مترجم/",
                                 "title": "Avatar The Way of Water 2022 (مترجم)(فيلم)",
                                 "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/Avatar-The-Way-of-Water-2022.jpg"
+                            },
+                            {
+                                "url": "/series/مسلسل-somebody-somewhere-مترجم/",
+                                "title": "Somebody Somewhere (7ح)",
+                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BOTJmN2UyMTMtOGEzOC00MDgzLWFjYzMtMDg2OTg3YjNkY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_-525508517.jpg_UY1200-525508517.jpg"
+                            },
+                            {
+                                "url": "/تحميل-فيلم-the-warrant-breakers-law-2023-مترجم/",
+                                "title": "The Warrant Breakers Law 2023 (مترجم)(فيلم)",
+                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/The-Warrant-Breakers-Law-2023.jpg"
                             },
                             {
                                 "url": "/series/barry-season-1/",
@@ -605,11 +620,6 @@
                                 "url": "/series/مسلسل-mayans-m-c-مترجم/",
                                 "title": "Mayans M.C (2ح)",
                                 "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/Mayans-M.C-S05.jpg"
-                            },
-                            {
-                                "url": "/series/مسلسل-grease-rise-of-the-pink-ladies-مترجم/",
-                                "title": "مسلسل Grease: Rise of the Pink Ladies حلقة 9 موسم 1 مترجم",
-                                "thumbnail_url": "https://w2.movizland.icu/wp-content/uploads/MV5BOTY0YjViYmEtZDY1Ny00MDU0LThmMjYtZDBjODM4NDJiNjUyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_-1354772903.jpg_UY1200-1354772903.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -898,21 +908,21 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/series/مسلسل-the-blacklist-مترجم/",
+                    "title": "مسلسل The Blacklist مترجم",
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/انمي-kimetsu-no-yaiba-katanakaji-no-sato-hen-الحلقة-8-مترجمة/",
-                        "name": "حلقة 8"
-                    },
-                    {
-                        "url": "/انمي-kimetsu-no-yaiba-katanakaji-no-sato-hen-الحلقة-7-مترجمة/",
-                        "name": "حلقة 7"
-                    }
-                ],
-                "passed": true
+                "error": "java.util.ConcurrentModificationException",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
