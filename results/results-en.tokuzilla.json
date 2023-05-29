@@ -7,9 +7,9 @@
                     {
                         "animes": [
                             {
-                                "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
-                                "title": "Avataro Sentai Donbrothers vs. Zenkaiger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/avataro-sentai-donbrothers-vs-zenkaiger-thumb.png"
+                                "url": "/watch/ohsama-sentai-king-ohger.html",
+                                "title": "Ohsama Sentai King-Ohger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
                             },
                             {
                                 "url": "/watch/voltes-v-legacy.html",
@@ -17,14 +17,14 @@
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
                             },
                             {
+                                "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
+                                "title": "Avataro Sentai Donbrothers vs. Zenkaiger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/avataro-sentai-donbrothers-vs-zenkaiger-thumb.png"
+                            },
+                            {
                                 "url": "/watch/kamen-rider-geats.html",
                                 "title": "Kamen Rider Geats",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
                             },
                             {
                                 "url": "/watch/dogengers-metropolis.html",
@@ -144,12 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
+                    "url": "/watch/ohsama-sentai-king-ohger.html",
                     "author": "Year 2023",
-                    "description": "Avataro Sentai Donbrothers VS Zenkaiger is an upcoming Japanese superhero crossover film between Avataro Sentai Donbrothers and Kikai Sentai Zenkaiger, and serves as the 29th installment of the VS film series.",
-                    "genre": "Movie",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "description": "Ohsama Sentai King-Ohger (王様戦隊キングオージャー, Ōsama Sentai Kinguōjā, Kingship Squadron King-Ohger) is an upcoming Japanese tokusatsu television drama, the 47th installment in Toei Company’s long-running Super Sentai series and the fourth produced in the Reiwa era. This series is the first in the franchise where all of the main characters have an insect motif.",
+                    "genre": "Series",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -157,16 +157,67 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/avataro-sentai-donbrothers-vs-zenkaiger.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=13#watch",
+                        "name": "Episode 13",
+                        "episode_number": 13.0
+                    },
+                    {
+                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=12#watch",
+                        "name": "Episode 12",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 151: Expected EOF after parsing, but had , instead at path: $\nJSON input: .....d\":\"captions\",\"default\":true},{\"file\":\"https://hls23-eu.zcdn.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls23-eu.zcdn.stream/4ff7e1271061a8371c8d158c8ba32b9c/2023-05-29/1080.m3u8?token=775b946f0b1dcfade1ff8edfb242a5f3&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1685369402&type=edge&node=Fty8b71G4vqoOQikI9oSUlQMPzHzdVRruO_T32E7-5F0sVnA7Oc9H1oONpwWNdxcM4sgZQF0Uf8B1f84b0AfyIcHEk31RxPDrrt6yKWYU6b_nHZULsBYKViGkP-PCbPH23McHdcaClzZX1FZdEO9hULxTd9AihSv4vEwa4iBNh3ty2ukr_dXu-OpA1O-UgWy",
+                        "quality": "1080p",
+                        "videoUrl": "https://hls23-eu.zcdn.stream/4ff7e1271061a8371c8d158c8ba32b9c/2023-05-29/1080.m3u8?token=775b946f0b1dcfade1ff8edfb242a5f3&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1685369402&type=edge&node=Fty8b71G4vqoOQikI9oSUlQMPzHzdVRruO_T32E7-5F0sVnA7Oc9H1oONpwWNdxcM4sgZQF0Uf8B1f84b0AfyIcHEk31RxPDrrt6yKWYU6b_nHZULsBYKViGkP-PCbPH23McHdcaClzZX1FZdEO9hULxTd9AihSv4vEwa4iBNh3ty2ukr_dXu-OpA1O-UgWy",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls23-eu.zcdn.stream/4ff7e1271061a8371c8d158c8ba32b9c/2023-05-29/720.m3u8?token=775b946f0b1dcfade1ff8edfb242a5f3&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1685369402&type=edge&node=Fty8b71G4vqoOQikI9oSUlQMPzHzdVRruO_T32E7-5F0sVnA7Oc9H1oONpwWNdxcM4sgZQF0Uf8B1f84b0AfyIcHEk31RxPDrrt6yKWYU6b_nHZULsBYKViGkP-PCbPH23McHdcaClzZX1FZdEO9hULxTd9AihSv4vEwa4iBNh3ty2ukr_dXu-OpA1O-UgWy",
+                        "quality": "720p",
+                        "videoUrl": "https://hls23-eu.zcdn.stream/4ff7e1271061a8371c8d158c8ba32b9c/2023-05-29/720.m3u8?token=775b946f0b1dcfade1ff8edfb242a5f3&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1685369402&type=edge&node=Fty8b71G4vqoOQikI9oSUlQMPzHzdVRruO_T32E7-5F0sVnA7Oc9H1oONpwWNdxcM4sgZQF0Uf8B1f84b0AfyIcHEk31RxPDrrt6yKWYU6b_nHZULsBYKViGkP-PCbPH23McHdcaClzZX1FZdEO9hULxTd9AihSv4vEwa4iBNh3ty2ukr_dXu-OpA1O-UgWy",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls23-eu.zcdn.stream/4ff7e1271061a8371c8d158c8ba32b9c/2023-05-29/360.m3u8?token=775b946f0b1dcfade1ff8edfb242a5f3&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1685369402&type=edge&node=Fty8b71G4vqoOQikI9oSUlQMPzHzdVRruO_T32E7-5F0sVnA7Oc9H1oONpwWNdxcM4sgZQF0Uf8B1f84b0AfyIcHEk31RxPDrrt6yKWYU6b_nHZULsBYKViGkP-PCbPH23McHdcaClzZX1FZdEO9hULxTd9AihSv4vEwa4iBNh3ty2ukr_dXu-OpA1O-UgWy",
+                        "quality": "360p",
+                        "videoUrl": "https://hls23-eu.zcdn.stream/4ff7e1271061a8371c8d158c8ba32b9c/2023-05-29/360.m3u8?token=775b946f0b1dcfade1ff8edfb242a5f3&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1685369402&type=edge&node=Fty8b71G4vqoOQikI9oSUlQMPzHzdVRruO_T32E7-5F0sVnA7Oc9H1oONpwWNdxcM4sgZQF0Uf8B1f84b0AfyIcHEk31RxPDrrt6yKWYU6b_nHZULsBYKViGkP-PCbPH23McHdcaClzZX1FZdEO9hULxTd9AihSv4vEwa4iBNh3ty2ukr_dXu-OpA1O-UgWy",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
