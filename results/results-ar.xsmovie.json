@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo/",
+                                "title": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/Sword-Art-Online-Progressive-Movie-Kuraki-Yuuyami-no-Scherzo-413x559-1-223x302.jpg"
+                            },
+                            {
                                 "url": "/movie/kagami-no-kojou/",
                                 "title": "Kagami no Kojou",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/129158l-223x316.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-kimi-wa-kanata/",
                                 "title": "فيلم Kimi wa Kanata",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/11/109743l-223x316.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-bright-samurai-soul/",
-                                "title": "فيلم Bright: Samurai Soul",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/10/115672l-223x323.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/kagami-no-kojou/",
-                    "title": "Kagami no Kojou",
-                    "description": "وتدور القصة عن كوكورو وهي فتاة لم تعد ترغب بالذهاب للمدرسة بسبب التنمر وفي يوم من الأيام وحينما كانت في غرفتها، قامت المرآة بإصدار ضوء غريب لتدخل كوكورو بعده لعالم غريب تقابل به و 6 مراهقين آخرين ما يجمعهم هو عدم ذهابهم للمدرسة وفتاة صغيرة بقناع ذئب و اللتي تطلب من الجميع مناداتها بـ “أوكامي ساما”. في هذا العالم يجيب عليهم البحث عن مفتاح ومن يجده يمكنه تحقيق أي امنية يرغب بها.",
+                    "url": "/movie/sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo/",
+                    "title": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo",
+                    "description": "تكملة لأحداث الفيلم الأول Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/129158l.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/Sword-Art-Online-Progressive-Movie-Kuraki-Yuuyami-no-Scherzo-413x559-1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/kagami-no-kojou/",
-                        "name": "Kagami no Kojou"
+                        "url": "/movie/sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo/",
+                        "name": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc720.4shared.com/img/AH8XEK8bku/aca707c9/dlink__2Fdownload_2FAH8XEK8bku_3Fsbsr_3Dbd3a5c032d35be39cd80dcb41f6bfba4ae2_26bip_3DNDAuODQuMjE5LjE0NA_26lgfp_3D66_26bip_3DNDAuODQuMjE5LjE0NA_26bip_3DNDAuODQuMjE5LjE0NA/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc720.4shared.com/img/AH8XEK8bku/aca707c9/dlink__2Fdownload_2FAH8XEK8bku_3Fsbsr_3Dbd3a5c032d35be39cd80dcb41f6bfba4ae2_26bip_3DNDAuODQuMjE5LjE0NA_26lgfp_3D66_26bip_3DNDAuODQuMjE5LjE0NA_26bip_3DNDAuODQuMjE5LjE0NA/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
