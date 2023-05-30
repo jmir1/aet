@@ -1,0 +1,31 @@
+[
+    {
+        "name": "RineCloud",
+        "results": {
+            "popular": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+                "passed": false
+            },
+            "details": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "episodes": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "videos": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            }
+        }
+    }
+]
