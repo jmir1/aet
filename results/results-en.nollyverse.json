@@ -63,64 +63,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/fubar",
-                                "title": "FUBAR",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/fubar.jpg"
-                            },
-                            {
-                                "url": "/serie/the-clearing",
-                                "title": "The Clearing",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-clearing.jpg"
-                            },
-                            {
-                                "url": "/serie/american-born-chinese",
-                                "title": "American Born Chinese",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/american-born-chinese.jpg"
-                            },
-                            {
-                                "url": "/serie/platonic",
-                                "title": "Platonic",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/platonic.jpg"
-                            },
-                            {
-                                "url": "/serie/spy-master",
-                                "title": "Spy/Master",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/spy-master.jpg"
-                            },
-                            {
-                                "url": "/serie/muted",
-                                "title": "Muted",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/muted.jpg"
-                            },
-                            {
-                                "url": "/serie/xo-kitty",
-                                "title": "XO, Kitty",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/xo-kitty.jpg"
-                            },
-                            {
-                                "url": "/serie/high-desert",
-                                "title": "High Desert",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/high-desert.jpg"
-                            },
-                            {
-                                "url": "/serie/the-messenger",
-                                "title": "The Messenger",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-messenger.jpg"
-                            },
-                            {
-                                "url": "/serie/black-knight",
-                                "title": "Black Knight",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/black-knight.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "search": {
                 "result": [
