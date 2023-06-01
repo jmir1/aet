@@ -147,6 +147,26 @@
                     {
                         "animes": [
                             {
+                                "url": "XBqsnwqsNZQkkuhFc<&sep><&sep>n-shen-you-dian-ling",
+                                "title": "Nüshen You Dian Ling",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156107-3YxKQTaiJeUF.png"
+                            },
+                            {
+                                "url": "5wPJnnmr369p4mLhX<&sep><&sep>my-master-is-super-fierce-season-2",
+                                "title": "My Master is Super Fierce Season 2",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/my-master-is-super-fierce-s2.png"
+                            },
+                            {
+                                "url": "GpX3KgQFiMcopZP3c<&sep><&sep>after-signing-in-for-30-days-i-can-annihilate-stars",
+                                "title": "After Signing In For 30 Days, I Can Annihilate Stars",
+                                "thumbnail_url": "https://cdnimg.xyz/cover/after-signing-in-for-30-days-i-can-annihilate-stars.png"
+                            },
+                            {
+                                "url": "39S6axmhgEBxm7MEd<&sep><&sep>shen-yin-wangzuo",
+                                "title": "Shen Yin Wangzuo",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1776/122162.jpg"
+                            },
+                            {
                                 "url": "TLemcKfqyfXtMzTz6<&sep><&sep>the-miracle-doctor",
                                 "title": "The Miracle Doctor",
                                 "thumbnail_url": "https://cdnimg.xyz/cover/the-miracle-doctor.png"
@@ -255,26 +275,6 @@
                                 "url": "mnhqAWHBxW9aDvyNu<&sep><&sep>the-idolm-ster-cinderella-girls-u149",
                                 "title": "The IDOLM@STER Cinderella Girls: U149",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146975-CUs3i5aU8KsU.png"
-                            },
-                            {
-                                "url": "b3u5TprKSKHBPBcor<&sep><&sep>-oshi-no-ko-",
-                                "title": "[Oshi no Ko]",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png"
-                            },
-                            {
-                                "url": "DcnE8PSQYK4Qh7d7t<&sep><&sep>kaminaki-sekai-no-kamisama-katsudou",
-                                "title": "Kaminaki Sekai no Kamisama Katsudou",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148048-IaEk51Wtu07L.jpg"
-                            },
-                            {
-                                "url": "AApBMijwvjkbyjAvo<&sep><&sep>natsu-e-no-tunnel-sayonara-no-deguchi",
-                                "title": "Natsu e no Tunnel, Sayonara no Deguchi",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142769-kNyyqpwC9gGV.jpg"
-                            },
-                            {
-                                "url": "9JDdRBxrQrNe8GLta<&sep><&sep>niehime-to-kemono-no-ou",
-                                "title": "Niehime to Kemono no Ou",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128715-e4WZuZ0ex0Xt.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -438,12 +438,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/allanimeapi?variables={\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1063\"}&query=query(\n        $showId: String!,\n        $translationType: VaildTranslationTypeEnumType!,\n        $episodeString: String!\n    ) {\n    episode(\n        showId: $showId\n        translationType: $translationType\n        episodeString: $episodeString\n    ) {\n        sourceUrls\n    }\n}",
+                        "url": "/allanimeapi?variables={\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1063\"}&query=query(\n    $showId: String!,\n    $translationType: VaildTranslationTypeEnumType!,\n    $episodeString: String!\n) {\n    episode(\n        showId: $showId\n        translationType: $translationType\n        episodeString: $episodeString\n    ) {\n        sourceUrls\n    }\n}",
                         "name": "Episode 1063 (sub)",
                         "episode_number": 1063.0
                     },
                     {
-                        "url": "/allanimeapi?variables={\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1062\"}&query=query(\n        $showId: String!,\n        $translationType: VaildTranslationTypeEnumType!,\n        $episodeString: String!\n    ) {\n    episode(\n        showId: $showId\n        translationType: $translationType\n        episodeString: $episodeString\n    ) {\n        sourceUrls\n    }\n}",
+                        "url": "/allanimeapi?variables={\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1062\"}&query=query(\n    $showId: String!,\n    $translationType: VaildTranslationTypeEnumType!,\n    $episodeString: String!\n) {\n    episode(\n        showId: $showId\n        translationType: $translationType\n        episodeString: $episodeString\n    ) {\n        sourceUrls\n    }\n}",
                         "name": "Episode 1062 (sub)",
                         "episode_number": 1062.0
                     }
@@ -452,6 +452,11 @@
             },
             "videos": {
                 "result": [
+                    {
+                        "url": "https://download.wetransfer.com/eugv/7921bb656b4ad5165c249f054deaee9d20230528025206/0d0341b776682b62f3db5039692ae57f31b95604/ReooPAxPMsHM4KPMY_1063_sub?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE2ODU2MjIxNDEsImlhdCI6MTY4NTYyMTU0MSwiZG93bmxvYWRfaWQiOiJjNThlNTYzYy1mZGEwLTQ4YWItYTZmNS1kOWM1Yjc2MzUwNmQiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.DLo_2jWULbM7XLPcf2npbNEOr5Izq3HM5JqmjFKoc10",
+                        "quality": "Original (internal Kir - HD)",
+                        "videoUrl": "https://download.wetransfer.com/eugv/7921bb656b4ad5165c249f054deaee9d20230528025206/0d0341b776682b62f3db5039692ae57f31b95604/ReooPAxPMsHM4KPMY_1063_sub?cf=y&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImRlZmF1bHQifQ.eyJleHAiOjE2ODU2MjIxNDEsImlhdCI6MTY4NTYyMTU0MSwiZG93bmxvYWRfaWQiOiJjNThlNTYzYy1mZGEwLTQ4YWItYTZmNS1kOWM1Yjc2MzUwNmQiLCJzdG9yYWdlX3NlcnZpY2UiOiJzdG9ybSJ9.DLo_2jWULbM7XLPcf2npbNEOr5Izq3HM5JqmjFKoc10"
+                    },
                     {
                         "url": "https://workfields.backup-server222.lol/7d2473746a243c24296b63626f673129706f62636975295463696956477e564b754e4b324d564b5f297573642937363035242a2475727463676b63744f62243c245f69737273646347686f6b63247b",
                         "quality": "Original (player player)",
@@ -463,14 +468,14 @@
                         "videoUrl": "https://www054.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1063.1685241811.1080.m3u8"
                     },
                     {
-                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e37372837363e36286b35733e242a2476677475634e6a75243c727473637b",
+                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e37372837363e36286b35733e242a2476677475634e6a75243c727473637b",
                         "quality": "1080p (internal Luf-mp4 - Alt)",
-                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e37372837363e36286b35733e242a2476677475634e6a75243c727473637b"
+                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e37372837363e36286b35733e242a2476677475634e6a75243c727473637b"
                     },
                     {
-                        "url": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.1080.m3u8",
+                        "url": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.1080.m3u8",
                         "quality": "1080p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.1080.m3u8"
+                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.1080.m3u8"
                     },
                     {
                         "url": "https://www054.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1063.1685241811.720.m3u8",
@@ -488,39 +493,66 @@
                         "videoUrl": "https://www054.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1063.1685241811.360.m3u8"
                     },
                     {
-                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728313436286b35733e242a2476677475634e6a75243c727473637b",
+                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728313436286b35733e242a2476677475634e6a75243c727473637b",
                         "quality": "720p (internal Luf-mp4 - Alt)",
-                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728313436286b35733e242a2476677475634e6a75243c727473637b"
+                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728313436286b35733e242a2476677475634e6a75243c727473637b"
                     },
                     {
-                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728323e36286b35733e242a2476677475634e6a75243c727473637b",
+                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728323e36286b35733e242a2476677475634e6a75243c727473637b",
                         "quality": "480p (internal Luf-mp4 - Alt)",
-                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728323e36286b35733e242a2476677475634e6a75243c727473637b"
+                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728323e36286b35733e242a2476677475634e6a75243c727473637b"
                     },
                     {
-                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728353036286b35733e242a2476677475634e6a75243c727473637b",
+                        "url": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728353036286b35733e242a2476677475634e6a75243c727473637b",
                         "quality": "360p (internal Luf-mp4 - Alt)",
-                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a7529744f6c6e4c6834502b55774870555630475c4a4143712937303e33303735313f3e29343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728353036286b35733e242a2476677475634e6a75243c727473637b"
+                        "videoUrl": "https://cat.ice-ant-xyz.online/7d2473746a243c246e727276753c29297171713633322867686f60677572656268286f68606929706f62636975296e6a75295e517348515f3170605543696a36425135546c596f712937303e3330353332343529343633363135293664333f32623f36366032316267676465373f323e3232363f34353e323f373229637628373630352837303e333432373e373728353036286b35733e242a2476677475634e6a75243c727473637b"
                     },
                     {
-                        "url": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.720.m3u8",
+                        "url": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.720.m3u8",
                         "quality": "720p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.720.m3u8"
+                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.720.m3u8"
                     },
                     {
-                        "url": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.480.m3u8",
+                        "url": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.480.m3u8",
                         "quality": "480p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.480.m3u8"
+                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.480.m3u8"
                     },
                     {
-                        "url": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.360.m3u8",
+                        "url": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.360.m3u8",
                         "quality": "360p (internal Luf-mp4 - HLS1)",
-                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/rIjhJn2V-SqNvSP6AZLGEw/1685613798/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.360.m3u8"
+                        "videoUrl": "https://www054.anifastcdn.info/videos/hls/XWuNWY7vfSEol0DW3Rj_iw/1685635423/205073/0b594d900f47daabc194844092384914/ep.1063.1685241811.360.m3u8"
                     },
                     {
-                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?docid=083d09aa5a222451bada3cdfb7cb40551&authkey=AWPh_a95P7q8EO_lW5hpCB0&expiration=2023-06-02T06%3a09%3a30.000Z",
+                        "url": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?docid=083d09aa5a222451bada3cdfb7cb40551&authkey=AWPh_a95P7q8EO_lW5hpCB0&expiration=2023-06-02T12%3a12%3a23.000Z",
                         "quality": "Original (internal S-mp4 - Mp4)",
-                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?docid=083d09aa5a222451bada3cdfb7cb40551&authkey=AWPh_a95P7q8EO_lW5hpCB0&expiration=2023-06-02T06%3a09%3a30.000Z"
+                        "videoUrl": "https://myanime.sharepoint.com/sites/chartlousty/_layouts/15/download.aspx?docid=083d09aa5a222451bada3cdfb7cb40551&authkey=AWPh_a95P7q8EO_lW5hpCB0&expiration=2023-06-02T12%3a12%3a23.000Z"
+                    },
+                    {
+                        "url": "https://delivery366.akamai-video-content.com/hls2/01/12860/xu1z5u0x7xyg_n/index-v1-a1.m3u8?t=4G2M8wGnZk3Xh52_yvtX7kdiTedSnu2jWuRZjGRVnPI&s=1685621542&e=10800&f=64301142&srv=sto086&client=40.86.13.186&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery366.akamai-video-content.com/hls2/01/12860/xu1z5u0x7xyg_n/index-v1-a1.m3u8?t=4G2M8wGnZk3Xh52_yvtX7kdiTedSnu2jWuRZjGRVnPI&s=1685621542&e=10800&f=64301142&srv=sto086&client=40.86.13.186&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://streamsb.net/e/xu1z5u0x7xyg.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery366.akamai-video-content.com/hls2/01/12860/xu1z5u0x7xyg_l/index-v1-a1.m3u8?t=4G2M8wGnZk3Xh52_yvtX7kdiTedSnu2jWuRZjGRVnPI&s=1685621542&e=10800&f=64301142&srv=sto086&client=40.86.13.186&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery366.akamai-video-content.com/hls2/01/12860/xu1z5u0x7xyg_l/index-v1-a1.m3u8?t=4G2M8wGnZk3Xh52_yvtX7kdiTedSnu2jWuRZjGRVnPI&s=1685621542&e=10800&f=64301142&srv=sto086&client=40.86.13.186&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://streamsb.net/e/xu1z5u0x7xyg.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://www-bup37673.ssl0d.com/hls/AFrhRqDAdvIIXKmm26fNiA/1685650340/xM27N6VR6g4Pfmx7L_34mphWCmSNCCixfjfqAKt9IMcvhxvtw1JLqYMygeTgmQlkIcnJpd8dTzFM-bCsnEiLyA/<head><title>503 Service Temporarily Unavailable</title></head>\r",
+                        "quality": "/1.21.6</center>\rp (Streamlare)",
+                        "videoUrl": "https://www-bup37673.ssl0d.com/hls/AFrhRqDAdvIIXKmm26fNiA/1685650340/xM27N6VR6g4Pfmx7L_34mphWCmSNCCixfjfqAKt9IMcvhxvtw1JLqYMygeTgmQlkIcnJpd8dTzFM-bCsnEiLyA/<head><title>503 Service Temporarily Unavailable</title></head>\r"
                     }
                 ],
                 "passed": true

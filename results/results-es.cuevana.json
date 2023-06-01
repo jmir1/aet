@@ -494,8 +494,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery364.akamai-video-content.com/hls2/01/12896/tv56azni3vf6_n/index-v1-a1.m3u8?t=6MCjA7xXxFTHbyaVFshdMDGnS-viqzCrg7uXqkSMXv8&s=1685621533&e=10800&f=64480456&srv=ljehvwmcfbvpeyizxosa&client=13.66.11.80&asn=8075",
+                        "quality": "[LAT] StreamSB:720p ",
+                        "videoUrl": "https://delivery364.akamai-video-content.com/hls2/01/12896/tv56azni3vf6_n/index-v1-a1.m3u8?t=6MCjA7xXxFTHbyaVFshdMDGnS-viqzCrg7uXqkSMXv8&s=1685621533&e=10800&f=64480456&srv=ljehvwmcfbvpeyizxosa&client=13.66.11.80&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbbrisk.com/embed-tv56azni3vf6",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery364.akamai-video-content.com/hls2/01/12896/tv56azni3vf6_l/index-v1-a1.m3u8?t=6MCjA7xXxFTHbyaVFshdMDGnS-viqzCrg7uXqkSMXv8&s=1685621533&e=10800&f=64480456&srv=ljehvwmcfbvpeyizxosa&client=13.66.11.80&asn=8075",
+                        "quality": "[LAT] StreamSB:480p ",
+                        "videoUrl": "https://delivery364.akamai-video-content.com/hls2/01/12896/tv56azni3vf6_l/index-v1-a1.m3u8?t=6MCjA7xXxFTHbyaVFshdMDGnS-viqzCrg7uXqkSMXv8&s=1685621533&e=10800&f=64480456&srv=ljehvwmcfbvpeyizxosa&client=13.66.11.80&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbbrisk.com/embed-tv56azni3vf6",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
