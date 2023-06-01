@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/lego-ninjago-dragons-rising",
+                                "title": "LEGO Ninjago: Dragons Rising",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
+                            },
+                            {
                                 "url": "/anime/biao-ren-blades-of-the-guardians",
                                 "title": "Biao Ren: Blades of the Guardians English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/unicorn-warriors-eternal",
                                 "title": "Unicorn: Warriors Eternal",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932936.jpg"
-                            },
-                            {
-                                "url": "/anime/larva-family",
-                                "title": "Larva Family",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932935.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,18 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/biao-ren-blades-of-the-guardians",
-                    "title": "Biao Ren: Blades of the Guardians English Subbed",
-                    "description": "‘Escort’, refers to paid warriors, their targets of protection, are also referred to targets that are wanted by the government. On the eve of civil chaos during the last years of Sui dynasty, with the rise of a reign of terror around the country, various peoples’ feelings of grudge and animosity develop…",
-                    "genre": "Action, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg",
+                    "url": "/anime/lego-ninjago-dragons-rising",
+                    "title": "LEGO Ninjago: Dragons Rising",
+                    "description": "In the series, many legendary realms have suddenly combined into one, but their union is unstable. A Spinjitzu Ninja Master must train a new generation of heroes to help find Elemental Dragons who can save the planet before the forces of evil use the same dragon energy to destroy this new world.",
+                    "genre": "Action, Adventure, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/lego-ninjago-dragons-rising-episode-10-the-battle-of-the-second-monastery",
+                        "name": "Episode 10 The Battle of the Second Monastery",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/lego-ninjago-dragons-rising-episode-9-the-calm-inside",
+                        "name": "Episode 9 The Calm Inside",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpSuoOxeGG1eFJBStTkxj7At_vGsWDSj6uWDhan9OU0rlfGWlweJ6nDE52eBIcvi7BEtkJEIDwSOik12OwndZFRsfpaRpXZeiE-zozUZ512wcvtegw8GYjT4omLmPCt566C4oSoH54heJ1ZjZp_5x9nowBaNXj0yRRGhDUes6n2CgyadDqoQyX_qN1QqmFlDSNLutz9EzMj4KIqK7Sx8TvWViek7jM9rmy5RNqWhkJaVy9e05ACyFtAxJuyvBiMoSOVzhl7oRfVH6ldw6NbB_QR4CYHlbeUx4Crau_vs4N7C5MmIaihNEJjYQrKtqQhAFky5HUF7D5ZBonBACkQ1tU7257YFvKNAZ2rRDUuTqNZUxSze82rCK-zhR9oguUJkSyy3cjcwLJr3PNMfGRUZrCU",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpSuoOxeGG1eFJBStTkxj7At_vGsWDSj6uWDhan9OU0rlfGWlweJ6nDE52eBIcvi7BEtkJEIDwSOik12OwndZFRsfpaRpXZeiE-zozUZ512wcvtegw8GYjT4omLmPCt566C4oSoH54heJ1ZjZp_5x9nowBaNXj0yRRGhDUes6n2CgyadDqoQyX_qN1QqmFlDSNLutz9EzMj4KIqK7Sx8TvWViek7jM9rmy5RNqWhkJaVy9e05ACyFtAxJuyvBiMoSOVzhl7oRfVH6ldw6NbB_QR4CYHlbeUx4Crau_vs4N7C5MmIaihNEJjYQrKtqQhAFky5HUF7D5ZBonBACkQ1tU7257YFvKNAZ2rRDUuTqNZUxSze82rCK-zhR9oguUJkSyy3cjcwLJr3PNMfGRUZrCU"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpSuoOxeGG1eFJBStTkxj7At_vGsWDSj6uWDhan9OU0rlfGWlweJ6nDE52eBIcvi7BEtkJEIDwSOik12OwndZFRsfpaRpXZeiE-zozUZ512wGXjgAkjiPJgN1OGbRptJL4GlT-iXo28rTrfGLqrlhkzwoX8qHZ25IXXdUIh3TWdxh1K-aF7KtnKUOGRU7BagZz9eoAsF0CsfptWp3o7himJote3Z0z0Dtb_g08BZ2l0OI18z6Zy9OrVqfg8o3o1Jp2iuiXynh4snEq30QXK0TneaoLpu_tBmLkaXqcKcXVtqwf6XK0HEBv_c-Si2sVoySSYZWspub84FH2vfp63ezx0v1sxpHHIM-3DZ3IYlGdwN2E3C0aegw6WdLrca2sF2fw6MqUwuV2in6F8bJCDzgyU",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpSuoOxeGG1eFJBStTkxj7At_vGsWDSj6uWDhan9OU0rlfGWlweJ6nDE52eBIcvi7BEtkJEIDwSOik12OwndZFRsfpaRpXZeiE-zozUZ512wGXjgAkjiPJgN1OGbRptJL4GlT-iXo28rTrfGLqrlhkzwoX8qHZ25IXXdUIh3TWdxh1K-aF7KtnKUOGRU7BagZz9eoAsF0CsfptWp3o7himJote3Z0z0Dtb_g08BZ2l0OI18z6Zy9OrVqfg8o3o1Jp2iuiXynh4snEq30QXK0TneaoLpu_tBmLkaXqcKcXVtqwf6XK0HEBv_c-Si2sVoySSYZWspub84FH2vfp63ezx0v1sxpHHIM-3DZ3IYlGdwN2E3C0aegw6WdLrca2sF2fw6MqUwuV2in6F8bJCDzgyU"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpSuoOxeGG1eFJBStTkxj7At_vGsWDSj6uWDhan9OU0rlfGWlweJ6nDE52eBIcvi7BEtkJEIDwSOik12OwndZFRsfpaRpXZeiE-zozUZ512waAkGtsRxVQDt0LVUcJ_aLLLjN9VXfsvd_9tdVatohR5G1vllMkBLwUfzcfNP-ejuiUYt9jCho8WENH552ObYI26mlrQIjk1BqhpfBzTbYY35EmkkSDInnPOUgaGBLVPCkzSxKtOyYCeYY_3lBWJIf0bQmtMlyAZh3mnrsLOzeiA1sTQPK48fRdOoWmc9fmIr9jutKmaX4vOrfR2xmDMWZ-riZN93AUpBmNEPP7QVpA-9ddG4wmHEHnmRKtCk_aY06PA85fJIDkvgs16QGlVExJrVeQ2bUFljaocmlMGM1Fw",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpSuoOxeGG1eFJBStTkxj7At_vGsWDSj6uWDhan9OU0rlfGWlweJ6nDE52eBIcvi7BEtkJEIDwSOik12OwndZFRsfpaRpXZeiE-zozUZ512waAkGtsRxVQDt0LVUcJ_aLLLjN9VXfsvd_9tdVatohR5G1vllMkBLwUfzcfNP-ejuiUYt9jCho8WENH552ObYI26mlrQIjk1BqhpfBzTbYY35EmkkSDInnPOUgaGBLVPCkzSxKtOyYCeYY_3lBWJIf0bQmtMlyAZh3mnrsLOzeiA1sTQPK48fRdOoWmc9fmIr9jutKmaX4vOrfR2xmDMWZ-riZN93AUpBmNEPP7QVpA-9ddG4wmHEHnmRKtCk_aY06PA85fJIDkvgs16QGlVExJrVeQ2bUFljaocmlMGM1Fw"
+                    }
+                ],
+                "passed": true
             }
         }
     }
