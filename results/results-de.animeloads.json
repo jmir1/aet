@@ -81,11 +81,6 @@
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kami-naki-sekai-no-kamisama-katsudou-cover.jpg"
                             },
                             {
-                                "url": "/media/tensei-kizoku-no-isekai-boukenroku",
-                                "title": "Die Parallelwelt-Chroniken des Aristokraten",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tensei-kizoku-no-isekai-boukenroku-cover.jpg"
-                            },
-                            {
                                 "url": "/media/isekai-nonbiri-nouka",
                                 "title": "Farming Life in Another World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-nonbiri-nouka-cover.jpg"
@@ -109,6 +104,11 @@
                                 "url": "/media/ningen-fushin-no-boukensha-tachi-ga-sekai-o-sukuu-you-desu",
                                 "title": "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ningen-fushin-no-boukensha-tachi-ga-sekai-o-sukuu-you-desu-cover-2.jpg"
+                            },
+                            {
+                                "url": "/media/isekai-oji-san",
+                                "title": "Uncle from Another World",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-ojisan-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -146,7 +146,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

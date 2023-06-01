@@ -484,8 +484,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://anime.animearchive.online/video/102694/out_0.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://anime.animearchive.online/video/102694/out_0.m3u8",
+                        "headers": {
+                            "Referer": "https://aniplay.it/"
+                        }
+                    },
+                    {
+                        "url": "https://anime.animearchive.online/video/102694/out_1.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://anime.animearchive.online/video/102694/out_1.m3u8",
+                        "headers": {
+                            "Referer": "https://aniplay.it/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
