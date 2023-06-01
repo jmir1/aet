@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-actriz-asesina",
+                                "title": "La actriz asesina (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/lGCRmarJcQyjizd1la4w8q5UOVN.jpg"
+                            },
+                            {
                                 "url": "/serie/perfil-falso",
                                 "title": "Perfil falso (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/luF32PEmbBaLK86qtW2l9uQPvSd.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/trabajar-eso-que-hacemos-todo-el-dia",
                                 "title": "Trabajar: Eso que hacemos todo el día (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2Zsi0hWQ6SByrKjLyuD7OcjOawI.jpg"
-                            },
-                            {
-                                "url": "/serie/mcgregor-forever",
-                                "title": "McGregor Forever (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jD6A3aIjCzQz6IU0od8BIMkVnwf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/perfil-falso",
-                    "title": "Perfil falso (2023)",
-                    "description": "Camila abre un perfil sexy en una aplicación de citas y encuentra al hombre de sus sueños: el guapísimo hombre llamado Fernando. Pronto descubre que ni es soltero y tampoco es Fernando. Camila cae en una trampa y todo se convierte en una pesadilla. Dispuesta a todo para descubrir quién es realmente el hombre que conoció, la joven se empeña en identificar al infiel y hacerle pagar una a una cada mentira que le dijo y cada promesa que le hizo, sin saber que se está adentrando en un intrincado laberinto de apariencias que engañan, sexo prohibido y poderes que matan..",
-                    "genre": "Drama",
+                    "url": "/serie/la-actriz-asesina",
+                    "title": "La actriz asesina (2023)",
+                    "description": "Yasemin Derin, una famosa actriz de Turquía, lleva años con una vida secreta. La única persona que conoce su identidad secreta es su chófer, Ahmet. Esta segunda vida inesperada de Yasemin la lleva a una aventura llena de secretos..",
+                    "genre": "Drama, Crimen",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/luF32PEmbBaLK86qtW2l9uQPvSd.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lGCRmarJcQyjizd1la4w8q5UOVN.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/perfil-falso/temporada/1/capitulo/10",
-                        "name": "T1 - E10: Episodio 10",
-                        "episode_number": 10.0
+                        "url": "/serie/la-actriz-asesina/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/perfil-falso/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/la-actriz-asesina/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
@@ -584,9 +584,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www-qen37405.ssl0d.com/hls2/-De5Nlx6cRvu1Ud8AFi1Zg/1685609170/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "url": "https://www-qen37405.ssl0d.com/hls2/jMxK2Tn8WAGOwL3x5QdFGw/1685628554/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/-De5Nlx6cRvu1Ud8AFi1Zg/1685609170/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
+                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/jMxK2Tn8WAGOwL3x5QdFGw/1685628554/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
                         "headers": {
                             "authority": "https://www-qen37405.ssl0d.com",
                             "origin": "https://slwatch.co",
