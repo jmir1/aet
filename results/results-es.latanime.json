@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tensei-shitara-slime-datta-ken-s2-castellano",
+                                "title": "Tensei shitara Slime Datta Ken S2 Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/tensei-shitara-slime-datta-ken-s2-castellano-1685660199.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/miraculous-tales-of-ladybug-cat-noir-s5-latino",
                                 "title": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/miraculous-tales-of-ladybug-cat-noir-s5-latino-1685211785.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/tengoku-daimakyou-latino",
                                 "title": "Tengoku Daimakyou Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/tengoku-daimakyou-latino-1680915546.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/tonikaku-kawaii-s2-latino",
-                                "title": "Tonikaku Kawaii S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/tonikaku-kawaii-s2-latino-1680897129.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,51 +324,17 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/miraculous-tales-of-ladybug-cat-noir-s5-latino",
-                    "title": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino",
-                    "description": "Después de robar la Miracle Box, Shadow Moth se convierte en Monarch y usa el Rabbit Miraculous para regresar a un momento vulnerable en el pasado de Ladybug y Cat Noir para capturar sus Miraculous.",
-                    "genre": "Acción, Aventura, Comedia, Romance",
+                    "url": "/anime/tensei-shitara-slime-datta-ken-s2-castellano",
+                    "title": "Tensei shitara Slime Datta Ken S2 Castellano",
+                    "description": "Tomando un descanso de su tiempo como maestro, el poderoso limo Rimuru Tempest regresa a su reino, epónimomente llamado Tempest, justo a tiempo para comenzar las negociaciones con una nación cercana: el Reino de Eurazania. Si bien las negociaciones son cualquier cosa menos pacíficas, terminan con éxito, lo que permite que Rimuru regrese y termine de enseñar. Cuando intenta regresar nuevamente a Tempest, esta vez de forma permanente, Rimuru es detenido por una figura misteriosa que de alguna manera puede restringir las muchas habilidades mágicas que tiene a su disposición. En Tempest, la situación es aún peor. Un grupo de humanos desconocidos ha invadido la tierra y está atacando a sus ciudadanos, tanto influyentes como inocentes. No solo están tratando de causar daño, tienen la intención de matar. ¿Podrá Rimuru vencer a su poderoso y peligroso enemigo y regresar a Tempest antes de que sea demasiado tarde?",
+                    "genre": "Acción, Aventura, Fantasía",
                     "initialized": true
                 },
                 "passed": true
             },
-            "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/miraculous-tales-of-ladybug-cat-noir-s5-latino-episodio-6",
-                        "name": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino Capitulo 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/ver/miraculous-tales-of-ladybug-cat-noir-s5-latino-episodio-5",
-                        "name": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino Capitulo 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
-            },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vidcache.net:8161/a20230601MFJyKbkY2pR/video.mp4",
-                        "quality": "yourupload - Original",
-                        "videoUrl": "https://vidcache.net:8161/a20230601MFJyKbkY2pR/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m70.uqload.co/3rfk5qy7qnw2q4drdjc7xpxqaz7az6fxbzflqgnkeres5zr4dzrodwqnvhjq/v.mp4",
-                        "quality": "uqload - Uqload",
-                        "videoUrl": "https://m70.uqload.co/3rfk5qy7qnw2q4drdjc7xpxqaz7az6fxbzflqgnkeres5zr4dzrodwqnvhjq/v.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://uqload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
