@@ -332,9 +332,29 @@
                 },
                 "passed": true
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/ver/tensei-shitara-slime-datta-ken-s2-castellano-episodio-0",
+                        "name": "Tensei shitara Slime Datta Ken S2 Castellano Capitulo 0",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidcache.net:8161/a20230601owe35471304/video.mp4",
+                        "quality": "yourupload - Original",
+                        "videoUrl": "https://vidcache.net:8161/a20230601owe35471304/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

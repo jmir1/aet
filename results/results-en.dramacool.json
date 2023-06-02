@@ -197,6 +197,11 @@
                     {
                         "animes": [
                             {
+                                "url": "https://dramacool.hr/drama-detail/zenra-meshi-2023",
+                                "title": "Zenra Meshi (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/zenra-meshi-2023-1681444251.png"
+                            },
+                            {
                                 "url": "https://dramacool.hr/drama-detail/back-from-the-brink",
                                 "title": "Back From the Brink (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/back-from-the-brink.png"
@@ -370,11 +375,6 @@
                                 "url": "https://dramacool.hr/drama-detail/please-be-my-family",
                                 "title": "Please Be My Family (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/please-be-my-family-1684774048.png"
-                            },
-                            {
-                                "url": "https://dramacool.hr/drama-detail/hua-rong",
-                                "title": "Beauty of Resilience (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/hua-rong.png"
                             }
                         ],
                         "hasNextPage": true
@@ -503,6 +503,10 @@
                     "initialized": true
                 },
                 "passed": true
+            },
+            "episodes": {
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Invalid URL host: \"\"",
