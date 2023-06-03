@@ -180,7 +180,9 @@ jobs:
       - name: make table
         run: |
           npm i -g tablemark-cli
-          printf "## Extension status\n\n### $COUNT_PASSED/$COUNT_ALL are working\n\n" > README.md
+          count="$COUNT_PASSED/$COUNT_ALL"
+          percent=$(printf "%.0f" $(echo "($count) * 100" | bc -l))
+          printf "## Extension status\n\n### $count($percent%%) are working\n\n" > README.md
           tablemark $TABLEJSON -a left -a center -a left >> README.md
           rm $TABLEJSON
 
