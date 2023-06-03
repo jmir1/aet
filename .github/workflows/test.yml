@@ -84,11 +84,6 @@ jobs:
           jq -cr '.apks | .[]' <<< $APKS | while read link; do
             wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$link -P apk/
           done
- 
-      - name: Install XVFB to use GUI
-        run: |
-          sudo apt update
-          sudo apt install -y xvfb --no-install-recommends
 
       - name: test apks
         run: |
