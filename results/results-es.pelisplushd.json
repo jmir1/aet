@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/mas-alla-de-ti",
+                                "title": "Más Allá de Tí (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hEXtN5Ev0kgWC3bc3iUpya6nbrM.jpg"
+                            },
+                            {
                                 "url": "/serie/dodo",
                                 "title": "Dodo (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/gDhMkFRCVm9ZraVJQbk9ZlwX5oj.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/gremlins-secrets-of-the-mogwai",
                                 "title": "Gremlins: Secrets of the Mogwai (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/btKs7EF6T9zJhOLLw80Wmh7sU3z.jpg"
-                            },
-                            {
-                                "url": "/serie/doctora-cha",
-                                "title": "Doctora Cha (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ocfuJO6MAZMvu54AgrSDnTTmhKN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/dodo",
-                    "title": "Dodo (2021)",
-                    "description": "Sigue las desventuras de Joe Connolly, de 11 años, y sus tres mejores amigos en su primer año en la escuela secundaria O'Malley..",
-                    "genre": "Comedia, Animación",
+                    "url": "/serie/mas-alla-de-ti",
+                    "title": "Más Allá de Tí (2023)",
+                    "description": "Amy (Ariadne Díaz), es una expolicía latina que quiere lo mejor para su hijo y, tras el encarcelamiento de su esposo, se da a la tarea de demostrar que él es inocente. Para lograrlo necesitará la ayuda de un político poderoso llamado David (Sebastián Rulli)..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gDhMkFRCVm9ZraVJQbk9ZlwX5oj.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hEXtN5Ev0kgWC3bc3iUpya6nbrM.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/dodo/temporada/1/capitulo/20",
-                        "name": "T1 - E20: Episodio 20",
-                        "episode_number": 21.0
+                        "url": "/serie/mas-alla-de-ti/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/dodo/temporada/1/capitulo/19",
-                        "name": "T1 - E19: Episodio 19",
-                        "episode_number": 20.0
+                        "url": "/serie/mas-alla-de-ti/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_n/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "url": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_n/index-v1-a1.m3u8?t=iYZPBNmN97l3zDnBH5pdaNLN4FJCddc-DctUscztpmw&s=1685794269&e=10800&f=64693773&srv=sto133&client=13.66.72.39&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_n/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "videoUrl": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_n/index-v1-a1.m3u8?t=iYZPBNmN97l3zDnBH5pdaNLN4FJCddc-DctUscztpmw&s=1685794269&e=10800&f=64693773&srv=sto133&client=13.66.72.39&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8akol8ru47lr?",
+                            "referer": "https://lvturbo.com/e/zmn8arj2m9h7?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_l/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "url": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_l/index-v1-a1.m3u8?t=iYZPBNmN97l3zDnBH5pdaNLN4FJCddc-DctUscztpmw&s=1685794269&e=10800&f=64693773&srv=sto133&client=13.66.72.39&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_l/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "videoUrl": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_l/index-v1-a1.m3u8?t=iYZPBNmN97l3zDnBH5pdaNLN4FJCddc-DctUscztpmw&s=1685794269&e=10800&f=64693773&srv=sto133&client=13.66.72.39&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8akol8ru47lr?",
+                            "referer": "https://lvturbo.com/e/zmn8arj2m9h7?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ajVLr97qdvsbZe&expires=1685842467&ip=GxOsFxqnDS9X&token=gfIqjZe8e1TO",
+                        "url": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_h/index-v1-a1.m3u8?t=iYZPBNmN97l3zDnBH5pdaNLN4FJCddc-DctUscztpmw&s=1685794269&e=10800&f=64693773&srv=sto133&client=13.66.72.39&asn=8075",
+                        "quality": "StreamSB:1080p",
+                        "videoUrl": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_h/index-v1-a1.m3u8?t=iYZPBNmN97l3zDnBH5pdaNLN4FJCddc-DctUscztpmw&s=1685794269&e=10800&f=64693773&srv=sto133&client=13.66.72.39&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/zmn8arj2m9h7?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=9RajrkOOYlcadmZ&expires=1685864270&ip=F0AsERInDS9X&token=63LkMiupkBki",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ajVLr97qdvsbZe&expires=1685842467&ip=GxOsFxqnDS9X&token=gfIqjZe8e1TO"
+                        "videoUrl": "https://streamtape.com/get_video?id=9RajrkOOYlcadmZ&expires=1685864270&ip=F0AsERInDS9X&token=63LkMiupkBki"
                     }
                 ],
                 "passed": true
