@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/dodo",
+                                "title": "Dodo (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gDhMkFRCVm9ZraVJQbk9ZlwX5oj.jpg"
+                            },
+                            {
+                                "url": "/serie/ciudad-en-llamas",
+                                "title": "Ciudad en llamas (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yaLN9VPKa1Z5ozBB8z11hWP99CN.jpg"
+                            },
+                            {
+                                "url": "/serie/high-desert",
+                                "title": "High Desert (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kj4XQzhszyu4YFQ9HgN3iQOCp4A.jpg"
+                            },
+                            {
                                 "url": "/serie/deadloch",
                                 "title": "Deadloch (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fYNBOOgEnaPTwZQdpdVMUGJDcYT.jpg"
@@ -110,21 +125,6 @@
                                 "url": "/serie/doctora-cha",
                                 "title": "Doctora Cha (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ocfuJO6MAZMvu54AgrSDnTTmhKN.jpg"
-                            },
-                            {
-                                "url": "/serie/la-buena-mala-madre",
-                                "title": "La buena mala madre (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/o8h8BJz85BNI6g6ty47jbpEDAiK.jpg"
-                            },
-                            {
-                                "url": "/serie/el-ultimo-hombre-en-la-tierra",
-                                "title": "El último hombre en la Tierra (20152018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tvXQL6aXYFqRWGzA1dCg9sV5s3l.jpg"
-                            },
-                            {
-                                "url": "/serie/casi-muertos",
-                                "title": "Casi muertos (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pHlCTnVhLOi3FjeDHA3xdabZhdU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/deadloch",
-                    "title": "Deadloch (2023)",
-                    "description": "En la ciudad de Deadloch, en Tasmania, durante las preparaciones del festival de invierno aparece un hombre muerto.Dos investigadoras muy diferentes entre si tendran que trabajar juntas para resolver el caso, la veterana sargento local Dulcie Collins y la joven investigadora Eddie Redcliffe recien llegada de Darwin..",
-                    "genre": "Comedia, Crimen",
+                    "url": "/serie/dodo",
+                    "title": "Dodo (2021)",
+                    "description": "Sigue las desventuras de Joe Connolly, de 11 años, y sus tres mejores amigos en su primer año en la escuela secundaria O'Malley..",
+                    "genre": "Comedia, Animación",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fYNBOOgEnaPTwZQdpdVMUGJDcYT.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gDhMkFRCVm9ZraVJQbk9ZlwX5oj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,49 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/deadloch/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/dodo/temporada/1/capitulo/20",
+                        "name": "T1 - E20: Episodio 20",
+                        "episode_number": 21.0
                     },
                     {
-                        "url": "/serie/deadloch/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/dodo/temporada/1/capitulo/19",
+                        "name": "T1 - E19: Episodio 19",
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_n/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_n/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/8akol8ru47lr?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_l/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery492.akamai-video-content.com/hls2/01/12934/8akol8ru47lr_l/index-v1-a1.m3u8?t=yX-g2fO6nRKMxbjtiJ8iSM7a6P6T-tmdUtKf5j-Apbg&s=1685772463&e=10800&f=64672986&srv=sto035&client=40.84.171.1&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/8akol8ru47lr?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ajVLr97qdvsbZe&expires=1685842467&ip=GxOsFxqnDS9X&token=gfIqjZe8e1TO",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ajVLr97qdvsbZe&expires=1685842467&ip=GxOsFxqnDS9X&token=gfIqjZe8e1TO"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -582,29 +610,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www-qen37405.ssl0d.com/hls2/9idfuqd_GEbUS4ifoOKOog/1685781356/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
-                        "quality": "Streamlare:HSL",
-                        "videoUrl": "https://www-qen37405.ssl0d.com/hls2/9idfuqd_GEbUS4ifoOKOog/1685781356/WxQxPOXB-cxo_eqwChESceSdo-ja2Nz1gD38yCCCEFg/master.m3u8",
-                        "headers": {
-                            "authority": "https://www-qen37405.ssl0d.com",
-                            "origin": "https://slwatch.co",
-                            "referer": "https://slwatch.co/e/0rwmD7pX7bJzRaZ8",
-                            "sec-ch-ua": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Google Chrome\";v=\"108\"",
-                            "sec-ch-ua-mobile": "?0",
-                            "sec-ch-ua-platform": "\"Windows\"",
-                            "sec-fetch-dest": "empty",
-                            "sec-fetch-mode": "cors",
-                            "sec-fetch-site": "cross-site",
-                            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/),108.0.0.0 Safari/537.36",
-                            "Accept-Encoding": "gzip, deflate, br",
-                            "accept": "*/*",
-                            "accept-language": "es-MX,es-419;q=0.9,es;q=0.8,en;q=0.7,zh-TW;q=0.6,zh-CN;q=0.5,zh;q=0.4"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     },
