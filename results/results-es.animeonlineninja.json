@@ -509,8 +509,78 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery420.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_n/index-v1-a1.m3u8?t=8i8m44EC8mqN4gnc7X_imM6opx-2b_YVwXroDqvelWs&s=1685858881&e=10800&f=17216130&srv=sto054&client=40.84.170.64&asn=8075",
+                        "quality": "SUB StreamSB:720p ",
+                        "videoUrl": "https://delivery420.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_n/index-v1-a1.m3u8?t=8i8m44EC8mqN4gnc7X_imM6opx-2b_YVwXroDqvelWs&s=1685858881&e=10800&f=17216130&srv=sto054&client=40.84.170.64&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/0xjh3h5uubjm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery30.mxdcontent.net/v/c3e178fcb8f46d5cbf46feca0cba5852.mp4?s=brgP_69JE3ZsnT4eenvxNA&e=1685880486&_t=1685866802",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery30.mxdcontent.net/v/c3e178fcb8f46d5cbf46feca0cba5852.mp4?s=brgP_69JE3ZsnT4eenvxNA&e=1685880486&_t=1685866802",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8OP4ZZGMO1toKgV&expires=1685928885&ip=GxOsFxqnDS9X&token=yovSiI3R16Cc",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=8OP4ZZGMO1toKgV&expires=1685928885&ip=GxOsFxqnDS9X&token=yovSiI3R16Cc"
+                    },
+                    {
+                        "url": "https://s-delivery38.mxdcontent.net/v/bfbef815a56b420bf580cebe147c6909.mp4?s=80fdOuL8PWBbuzbHM_MQBw&e=1685880484&_t=1685861396",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery38.mxdcontent.net/v/bfbef815a56b420bf580cebe147c6909.mp4?s=80fdOuL8PWBbuzbHM_MQBw&e=1685880484&_t=1685861396",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://m40.uqload.co/3rfk2mphj5w2q4drdlypn4nldjithb77d5fx6r2cknnmxfndykt45xpafdjq/v.mp4",
+                        "quality": "SUB Uqload",
+                        "videoUrl": "https://m40.uqload.co/3rfk2mphj5w2q4drdlypn4nldjithb77d5fx6r2cknnmxfndykt45xpafdjq/v.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://www1.animeonline.ninja"
+                        }
+                    },
+                    {
+                        "url": "https://delivery420.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_l/index-v1-a1.m3u8?t=8i8m44EC8mqN4gnc7X_imM6opx-2b_YVwXroDqvelWs&s=1685858881&e=10800&f=17216130&srv=sto054&client=40.84.170.64&asn=8075",
+                        "quality": "SUB StreamSB:360p ",
+                        "videoUrl": "https://delivery420.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_l/index-v1-a1.m3u8?t=8i8m44EC8mqN4gnc7X_imM6opx-2b_YVwXroDqvelWs&s=1685858881&e=10800&f=17216130&srv=sto054&client=40.84.170.64&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/0xjh3h5uubjm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=zb2QQz70bkuYDR2&expires=1685928881&ip=GxOsFxqnDS9X&token=bTdpmzAKE_4a",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zb2QQz70bkuYDR2&expires=1685928881&ip=GxOsFxqnDS9X&token=bTdpmzAKE_4a"
+                    }
+                ],
+                "passed": true
             }
         }
     }
