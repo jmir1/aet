@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/my-heroic-husband-sub-espanol",
+                                "title": "My Heroic Husband",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/my-heroic-husband-1685861710.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/stand-my-heroes-warmth-of-memories-sub-espanol",
                                 "title": "Stand My Heroes: Warmth of Memories",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/stand-my-heroes-warmth-of-memories-1685608792.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/world-dai-star-sub-espanol",
                                 "title": "World Dai Star",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/world-dai-star-1679414702.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/alice-gear-aegis-expansion-sub-espanol",
-                                "title": "Alice Gear Aegis Expansion",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/alice-gear-aegis-expansion-1679414689.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,66 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/stand-my-heroes-warmth-of-memories-sub-espanol",
-                    "title": "Stand My Heroes: Warmth of Memories",
-                    "description": "Adaptación de la historia adicional del mapa de eventos de personajes de Narumi Seo que se lanzó en el juego original en abril de 2018. Como tal, contará con los héroes del Seo Research Lab que no aparecieron en el anime televisivo anterior.",
-                    "genre": "Misterio, Romance",
+                    "url": "/anime/my-heroic-husband-sub-espanol",
+                    "title": "My Heroic Husband",
+                    "description": "Gracias a su excepcional visión empresarial, Yi Ning era considerado un miembro de élite del mundo de los negocios moderno. Pero cuando viaja misteriosamente a la antigua dinastía Wu, decide ocultar sus habilidades para los negocios para dedicarse...",
+                    "genre": "Acción, Comedia",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/stand-my-heroes-warmth-of-memories-1685608792.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/my-heroic-husband-1685861710.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/stand-my-heroes-warmth-of-memories-episodio-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=9C3QZFdEAF0&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=9C3QZFdEAF0&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    },
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=9C3QZFdEAF0&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=3&sig=9C3QZFdEAF0&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    },
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=2&sig=-tR4yYXt__U&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=2&sig=-tR4yYXt__U&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    },
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=1&sig=YyWozU0TYZs&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=1&sig=YyWozU0TYZs&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    },
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=0&sig=E2HAkrCt8bM&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=0&sig=E2HAkrCt8bM&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    },
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=4&sig=S38PtJRVcso&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=4&sig=S38PtJRVcso&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    },
-                    {
-                        "url": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=5&sig=fsKWuWaFUOY&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://ok6-1.vkuser.net/?expires=1685945317019&srcIp=70.37.167.50&pr=10&srcAg=CHROME&ms=95.142.206.128&type=5&sig=fsKWuWaFUOY&ct=0&urls=45.136.22.8%3B45.136.20.27&clientType=0&zs=43&id=4520736983711"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
