@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/platonic/",
+                                "title": "Platonic",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/platonic-34435-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/fubar/",
                                 "title": "FUBAR",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/fubar-34339-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/dcs-stargirl/",
                                 "title": "DC's Stargirl",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/dcs-stargirl-29662-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/leverage-redemption/",
-                                "title": "Leverage: Redemption",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/leverage-redemption-29580-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,13 +882,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/fubar/",
-                    "title": "FUBAR",
-                    "author": "Nick Santora",
-                    "description": "When a father and daughter discover they both secretly work for the CIA, an already dicey undercover mission turns into a dysfunctional family affair.",
-                    "genre": "Action & Adventure, Comedy, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/platonic/",
+                    "title": "Platonic",
+                    "author": "Francesca Delbanco, Nicholas Stoller",
+                    "description": "A platonic pair of former best friends approaching midlife reconnect after a long rift. The duo’s friendship becomes more consuming—and destabilizes their lives in a hilarious way.",
+                    "genre": "Comedy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -896,27 +896,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/fubar-1x8/",
-                        "name": "Season 1x8 : That's It And That's All",
-                        "episode_number": 8.0
+                        "url": "/episode/platonic-1x10/",
+                        "name": "Season 1x10 : When Will Met Sylvia",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/fubar-1x7/",
-                        "name": "Season 1x7 : Urine Luck",
-                        "episode_number": 7.0
+                        "url": "/episode/platonic-1x9/",
+                        "name": "Season 1x9 : Slumber Party",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v806.streamhub.to/hls/sc6t6oiyxiytnuzvouus57ruvbrpfu7jutuwkeethab57ngrhcokogy3a5ca/index-v1-a1.m3u8",
-                        "quality": "536p",
-                        "videoUrl": "https://v806.streamhub.to/hls/sc6t6oiyxiytnuzvouus57ruvbrpfu7jutuwkeethab57ngrhcokogy3a5ca/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
