@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/a-beautiful-life/",
+                                "title": "A Beautiful Life",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/gmg3VQU2xOPcyKuwfxznYZybJpeHuWvA9BuUifN.webp"
+                            },
+                            {
+                                "url": "/pelicula/ranma-½-nihao-mi-concubina/",
+                                "title": "Ranma ½: Nihao mi concubina",
+                                "description": "La historia tiene a todos los personajes como náufragos en una isla después que una tormenta arrui...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/bOjGrJSbLpCvpxQ6DVq1.webp"
+                            },
+                            {
+                                "url": "/pelicula/ranma-½-gran-golpe-en-nekonron-china/",
+                                "title": "Ranma ½: Gran golpe en Nekonron, China",
+                                "description": "Todo comienza con un rutinario día en Nerima (para los que viven ahí persecuciones, robos de ropa ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JO0VaYVSpaJCyf5NHigr.webp"
+                            },
+                            {
                                 "url": "/pelicula/un-ano-inolvidable-verano/",
                                 "title": "Un Año Inolvidable – Verano",
                                 "description": "Para estudiar moda en el tan deseado París, una joven que odia el carnaval viaja a Río de Janeiro ...",
@@ -101,12 +119,6 @@
                                 "title": "Night at the Museum (Una noche en el museo)",
                                 "description": "Un padre divorciado trata de establecerse, impresionar a su hijo y encontrar su destino. Él se pres...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/YcOnEeVZRxhlzOl7DM3v.webp"
-                            },
-                            {
-                                "url": "/pelicula/a-beautiful-life/",
-                                "title": "A Beautiful Life",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/gmg3VQU2xOPcyKuwfxznYZybJpeHuWvA9BuUifN.webp"
                             },
                             {
                                 "url": "/pelicula/a-diente-de-perro/",
@@ -233,18 +245,6 @@
                                 "title": "Sword Art Online Progressive Movie II - Kuraki Yuuyami no Scherzo",
                                 "description": "Han pasado dos meses desde que comenzó el juego mortal, y Kirito y Asuna continúan progresando. Se...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EiqjOqz9TKyj5fNwXbzgjLvwTII7bbLGk2P.webp"
-                            },
-                            {
-                                "url": "/pelicula/gangster-land/",
-                                "title": "Gangster Land",
-                                "description": "\"Gangster Land\" explora la ascensión de Al Capone a través de los ojos de su mano derecha, \"Machin...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0sfFAqizcAdYhyLvf89r.webp"
-                            },
-                            {
-                                "url": "/pelicula/glass-no-hana-to-kowasu-sekai/",
-                                "title": "Glass no Hana to Kowasu Sekai",
-                                "description": "Un espacio flotante sin gravedad donde un número infinito de luces brillan en diferentes colores: l...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/1Bss8R1i9OoSwcu8uB9aRsTIUE1T9gq.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -504,10 +504,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/un-ano-inolvidable-verano/",
-                    "title": "Un Año Inolvidable – Verano",
-                    "description": "Para estudiar moda en el tan deseado París, una joven que odia el carnaval viaja a Río de Janeiro para intentar conseguir el apoyo de la diseñadora más famosa de Brasil. Empeñada en entrar en el equipo de costura de una de las escuelas de samba más grandes, descubrirá que el Carnaval solo dura una semana, pero una historia de amor puede cambiar su vida por completo.",
-                    "genre": "Drama, Romance",
+                    "url": "/pelicula/a-beautiful-life/",
+                    "title": "A Beautiful Life",
+                    "description": "",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -515,7 +515,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/un-ano-inolvidable-verano/",
+                        "url": "/pelicula/a-beautiful-life/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -523,7 +523,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar UQSouBZi = \"\"; zJqCfsCRx.forEach(function Oym(value) { UQSouBZi += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

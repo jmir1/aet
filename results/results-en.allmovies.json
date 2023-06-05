@@ -3,23 +3,913 @@
         "name": "AllMoviesForYou",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/platonic/",
+                                "title": "Platonic",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/platonic-34435-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/fubar/",
+                                "title": "FUBAR",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/fubar-34339-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/superman-lois/",
+                                "title": "Superman & Lois",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/superman-lois-34299-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/silo/",
+                                "title": "Silo",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/silo-34149-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/citadel/",
+                                "title": "Citadel",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/citadel-34124-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/love-death/",
+                                "title": "Love & Death",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/love-death-34086-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/from/",
+                                "title": "From",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/from-34061-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-muppets-mayhem/",
+                                "title": "The Muppets Mayhem",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg"
+                            },
+                            {
+                                "url": "/series/all-american-2/",
+                                "title": "All American",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/all-american-33918-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/sweet-tooth/",
+                                "title": "Sweet Tooth",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/sweet-tooth-33834-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-night-agent/",
+                                "title": "The Night Agent",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xjsx6rGEgHl2tUqkimo6Bz2KzVo.jpg"
+                            },
+                            {
+                                "url": "/series/mrs-davis/",
+                                "title": "Mrs. Davis",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/mrs-davis-33780-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/lucky-hank/",
+                                "title": "Lucky Hank",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/lucky-hank-33764-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/beef/",
+                                "title": "BEEF",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/beef-33623-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/south-park/",
+                                "title": "South Park",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iiCY2QIGSnmtVkIdjkKAfwDs0KF.jpg"
+                            },
+                            {
+                                "url": "/series/the-crossover/",
+                                "title": "The Crossover",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/the-crossover-33412-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/greys-anatomy-2/",
+                                "title": "Grey's Anatomy",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/greys-anatomy-33114-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/star-trek-picard/",
+                                "title": "Star Trek: Picard",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/star-trek-picard-33004-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/rabbit-hole/",
+                                "title": "Rabbit Hole",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/rabbit-hole-32986-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/true-lies/",
+                                "title": "True Lies",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/true-lies-32949-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/up-here/",
+                                "title": "Up Here",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/up-here-32896-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/succession/",
+                                "title": "Succession",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/succession-32865-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/yellowjackets/",
+                                "title": "Yellowjackets",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/yellowjackets-32824-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/daisy-jones-the-six/",
+                                "title": "Daisy Jones & the Six",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/daisy-jones-the-six-32796-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-marvelous-mrs-maisel/",
+                                "title": "The Marvelous Mrs. Maisel",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zS7fQiOZiKCVH2vlYSiIsFWW8hh.jpg"
+                            },
+                            {
+                                "url": "/series/swarm/",
+                                "title": "Swarm",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/swarm-32676-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/shadow-and-bone-2/",
+                                "title": "Shadow and Bone",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/shadow-and-bone-32645-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/bel-air/",
+                                "title": "Bel-Air",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/bel-air-32598-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/ted-lasso/",
+                                "title": "Ted Lasso",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/ted-lasso-32564-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/gotham-knights/",
+                                "title": "Gotham Knights",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/gotham-knights-32556-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-mandalorian/",
+                                "title": "The Mandalorian",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg"
+                            },
+                            {
+                                "url": "/series/the-watchful-eye/",
+                                "title": "The Watchful Eye",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/the-watchful-eye-32498-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/poker-face/",
+                                "title": "Poker Face",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nsOtuGh2psp0aRnUBQgePlLCfM6.jpg"
+                            },
+                            {
+                                "url": "/series/extraordinary/",
+                                "title": "Extraordinary",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/onp2UrYrvkHphkrCq8wKFflmlKl.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-camp-cretaceous/",
+                                "title": "Jurassic World: Camp Cretaceous",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/jurassic-world-camp-cretaceous-31923-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/young-sheldon/",
+                                "title": "Young Sheldon",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/young-sheldon-31638-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/vikings-valhalla/",
+                                "title": "Vikings: Valhalla",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/vikings-valhalla-31588-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/ginny-georgia/",
+                                "title": "Ginny & Georgia",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/ginny-georgia-31559-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-test/",
+                                "title": "The Test",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-test-31483-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-last-of-us/",
+                                "title": "The Last of Us",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-last-of-us-31462-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/kaleidoscope/",
+                                "title": "Kaleidoscope",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/kaleidoscope-31433-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/hunters/",
+                                "title": "Hunters",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/hunters-31396-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/anne-rices-mayfair-witches/",
+                                "title": "Anne Rice's Mayfair Witches",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/anne-rices-mayfair-witches-31376-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/echo-3/",
+                                "title": "Echo 3",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/echo-3-31340-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/quantum-leap/",
+                                "title": "Quantum Leap",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/quantum-leap-31323-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/star-wars-the-bad-batch/",
+                                "title": "Star Wars: The Bad Batch",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/star-wars-the-bad-batch-31294-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/will-trent/",
+                                "title": "Will Trent",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/will-trent-31279-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-inbetweeners/",
+                                "title": "The Inbetweeners",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-inbetweeners-31211-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-boys/",
+                                "title": "The Boys",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-boys-31177-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/koala-man/",
+                                "title": "Koala Man",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/koala-man-31158-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-recruit/",
+                                "title": "The Recruit",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-recruit-31142-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-rig/",
+                                "title": "The Rig",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-rig-31129-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/black-snow/",
+                                "title": "Black Snow",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/black-snow-31068-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/walker/",
+                                "title": "Walker",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/walker-30947-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-head/",
+                                "title": "The Head",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-head-30926-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/slow-horses/",
+                                "title": "Slow Horses",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/slow-horses-30876-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/rosie-molloy-gives-up-everything/",
+                                "title": "Rosie Molloy Gives Up Everything",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/rosie-molloy-gives-up-everything-30863-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/national-treasure-edge-of-history/",
+                                "title": "National Treasure: Edge of History",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/national-treasure-edge-of-history-30851-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/i-hate-suzie/",
+                                "title": "I Hate Suzie",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/i-hate-suzie-30832-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/gossip-girl/",
+                                "title": "Gossip Girl",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/gossip-girl-30806-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/george-tammy/",
+                                "title": "George & Tammy",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/george-tammy-30793-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/bump/",
+                                "title": "Bump",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/bump-30758-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-witcher-blood-origin/",
+                                "title": "The Witcher: Blood Origin",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-witcher-blood-origin-30718-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/treason/",
+                                "title": "Treason",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/treason-30706-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/tom-clancys-jack-ryan/",
+                                "title": "Tom Clancy's Jack Ryan",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/tom-clancys-jack-ryan-30626-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/buffy-the-vampire-slayer/",
+                                "title": "Buffy the Vampire Slayer",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/buffy-the-vampire-slayer-30416-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/emily-in-paris/",
+                                "title": "Emily in Paris",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/emily-in-paris-30369-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/alice-in-borderland-2/",
+                                "title": "Alice in Borderland",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/alice-in-borderland-30340-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/his-dark-materials/",
+                                "title": "His Dark Materials",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/his-dark-materials-30296-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/willow/",
+                                "title": "Willow",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/willow-30282-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/litvinenko/",
+                                "title": "Litvinenko",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/litvinenko-30193-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/1923/",
+                                "title": "1923",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/1923-30179-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/baki/",
+                                "title": "BAKI",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/baki-29986-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/slugterra/",
+                                "title": "Slugterra",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/slugterra-29972-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/firefly/",
+                                "title": "Firefly",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/firefly-29949-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/kindred/",
+                                "title": "Kindred",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/kindred-29901-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/sonic-prime/",
+                                "title": "Sonic Prime",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/sonic-prime-29875-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/three-pines/",
+                                "title": "Three Pines",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/three-pines-29809-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/let-the-right-one-in/",
+                                "title": "Let the Right One In",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/let-the-right-one-in-29792-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/a-spy-among-friends/",
+                                "title": "A Spy Among Friends",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/a-spy-among-friends-29758-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/dragon-age-absolution/",
+                                "title": "Dragon Age: Absolution",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/dragon-age-absolution-29745-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/tulsa-king/",
+                                "title": "Tulsa King",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/tulsa-king-29732-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-white-lotus/",
+                                "title": "The White Lotus",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-white-lotus-29711-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/dcs-stargirl/",
+                                "title": "DC's Stargirl",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/dcs-stargirl-29662-poster-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/jurassic-world-camp-cretaceous/",
+                                "title": "Jurassic World: Camp Cretaceous",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/jurassic-world-camp-cretaceous-31923-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/strange-world/",
+                                "title": "Strange World",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/11/szpzEL2rjXQLzaoZqH1EnBQWtZE-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/the-loneliest-boy-in-the-world/",
+                                "title": "The Loneliest Boy in the World",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/10/cLEYxnzxHlAVhgjtGoO8cQZTQnO-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/jurassic-world-dominion/",
+                                "title": "Jurassic World Dominion",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg"
+                            },
+                            {
+                                "url": "/movies/edge-of-the-world/",
+                                "title": "Edge of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/okLrhor4L4hyiDBQKb6y650Q8hI.jpg"
+                            },
+                            {
+                                "url": "/movies/were-all-going-to-the-worlds-fair/",
+                                "title": "We're All Going to the World's Fair",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg"
+                            },
+                            {
+                                "url": "/series/the-amazing-world-of-gumball/",
+                                "title": "The Amazing World of Gumball",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/VYnnyA2hyxi3VUPgCA71mMtt69.jpg"
+                            },
+                            {
+                                "url": "/movies/in-this-corner-of-the-world/",
+                                "title": "In This Corner of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9Z4H4M2F8OQTB04YC1Opds8MFBb.jpg"
+                            },
+                            {
+                                "url": "/movies/this-world-then-the-fireworks/",
+                                "title": "This World, Then the Fireworks",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vXO9T4rbJFVRF6BbABHe7VKJdj9.jpg"
+                            },
+                            {
+                                "url": "/movies/in-a-world/",
+                                "title": "In a World...",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xbuiPYXOk1aHaNf7o2mAQxeDs7s.jpg"
+                            },
+                            {
+                                "url": "/movies/the-secret-world-of-arrietty/",
+                                "title": "The Secret World of Arrietty",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xGz75oFXt4OmFgvQ7kVjaPboRJr.jpg"
+                            },
+                            {
+                                "url": "/movies/pirates-of-the-caribbean-at-worlds-end/",
+                                "title": "Pirates of the Caribbean: At World's End",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8ORuWcrYPgjwUDyCzr7qsOlCdwn.jpg"
+                            },
+                            {
+                                "url": "/movies/world-war-z-3/",
+                                "title": "World War Z",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg"
+                            },
+                            {
+                                "url": "/movies/jurassic-world-3/",
+                                "title": "Jurassic World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+                            },
+                            {
+                                "url": "/movies/the-war-of-the-worlds/",
+                                "title": "The War of the Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cpfPXIDKMWJEJSU2ji9PqVQm0w2.jpg"
+                            },
+                            {
+                                "url": "/movies/ordinary-world-2/",
+                                "title": "Ordinary World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mEJGrkLvo34nJDLjmLGIqb3SvPb.jpg"
+                            },
+                            {
+                                "url": "/movies/seeking-a-friend-for-the-end-of-the-world/",
+                                "title": "Seeking a Friend for the End of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rBbCwFLyt7Q25yaw2bEOQh7RMG1.jpg"
+                            },
+                            {
+                                "url": "/movies/jurassic-world-fallen-kingdom-2/",
+                                "title": "Jurassic World: Fallen Kingdom",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg"
+                            },
+                            {
+                                "url": "/movies/the-lost-world-jurassic-park-2/",
+                                "title": "The Lost World: Jurassic Park",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7r8adhMO3SyODPHE2lv8kDTX6NK.jpg"
+                            },
+                            {
+                                "url": "/movies/justice-society-world-war-ii/",
+                                "title": "Justice Society: World War II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/e4REOC6CZW8J6FslA4nRvdQXFXR.jpg"
+                            },
+                            {
+                                "url": "/movies/konosuba-gods-blessing-on-this-wonderful-world-legend-of-crimson/",
+                                "title": "KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson Movie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j73LuQcA21KvkVFcroWWMN8tTJv.jpg"
+                            },
+                            {
+                                "url": "/series/konosuba-gods-blessing-on-this-wonderful-world/",
+                                "title": "KonoSuba – God's blessing on this wonderful world!!",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg"
+                            },
+                            {
+                                "url": "/movies/spy-kids-all-the-time-in-the-world/",
+                                "title": "Spy Kids: All the Time in the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9pUVarhiXfCu8amjmyadzJJJITi.jpg"
+                            },
+                            {
+                                "url": "/movies/the-night-eats-the-world/",
+                                "title": "The Night Eats the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wEHEspDIUKByYR09jjk2CWCJVVD.jpg"
+                            },
+                            {
+                                "url": "/movies/cool-world/",
+                                "title": "Cool World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fyL9fLsvagZQREfDtGY6Zieetnm.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-according-to-garp/",
+                                "title": "The World According to Garp",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vSrxhQZPEiPyxgEQ9rYue8TTGkZ.jpg"
+                            },
+                            {
+                                "url": "/movies/shoplifters-of-the-world/",
+                                "title": "Shoplifters of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2ipOamF9JbPbmaIM9zEaektJwUp.jpg"
+                            },
+                            {
+                                "url": "/movies/daisy-quokka-worlds-scariest-animal/",
+                                "title": "Daisy Quokka: World's Scariest Animal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/D4dBi605LUDTTsbSygzU5YGwFr.jpg"
+                            },
+                            {
+                                "url": "/movies/underworld-evolution/",
+                                "title": "Underworld: Evolution",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yT1EDKhCzAumcZeBoAxqm0nY2H8.jpg"
+                            },
+                            {
+                                "url": "/movies/adult-world/",
+                                "title": "Adult World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zbsatYETsqkG7cCUOI6YCRWnS5N.jpg"
+                            },
+                            {
+                                "url": "/movies/thor-the-dark-world/",
+                                "title": "Thor: The Dark World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg"
+                            },
+                            {
+                                "url": "/movies/scott-pilgrim-vs-the-world/",
+                                "title": "Scott Pilgrim vs. the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
+                            },
+                            {
+                                "url": "/movies/leave-the-world-behind/",
+                                "title": "Leave the World Behind",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1A8OijwqAvBdCFJnXN1U8p7cXOi.jpg"
+                            },
+                            {
+                                "url": "/movies/ghost-world/",
+                                "title": "Ghost World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg"
+                            },
+                            {
+                                "url": "/movies/a-world-of-worlds/",
+                                "title": "A World of Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uEYeLVGY7iaVETWtELD6fZtovEZ.jpg"
+                            },
+                            {
+                                "url": "/movies/the-most-assassinated-woman-in-the-world/",
+                                "title": "The Most Assassinated Woman in the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tC4IfhFv84CxC19BXN3678IeNRN.jpg"
+                            },
+                            {
+                                "url": "/movies/news-of-the-world/",
+                                "title": "News of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg"
+                            },
+                            {
+                                "url": "/movies/underworld-awakening/",
+                                "title": "Underworld: Awakening",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jN0uuc8U6M3sTg9zEaliJV60Stf.jpg"
+                            },
+                            {
+                                "url": "/movies/waterworld/",
+                                "title": "Waterworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/f4Q6BKm1lv9u5xoffbIIwrOYf6z.jpg"
+                            },
+                            {
+                                "url": "/movies/ancestral-world/",
+                                "title": "Ancestral World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cm6lzogqd5WqK70QjBF15zS6aSx.jpg"
+                            },
+                            {
+                                "url": "/movies/juice-how-electricity-explains-the-world/",
+                                "title": "Juice: How Electricity Explains The World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5yNpRp71qpsBHTpJJ2cwv06gVpY.jpg"
+                            },
+                            {
+                                "url": "/movies/ladyworld/",
+                                "title": "Ladyworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zF3TesrjJ95LkQvfH1xP835ggj5.jpg"
+                            },
+                            {
+                                "url": "/movies/the-world-made-straight/",
+                                "title": "The World Made Straight",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/AwDOpMAHK69nUe6IYyHtmVjW9GR.jpg"
+                            },
+                            {
+                                "url": "/movies/how-to-train-your-dragon-the-hidden-world/",
+                                "title": "How to Train Your Dragon: The Hidden World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+                            },
+                            {
+                                "url": "/movies/trolls-world-tour/",
+                                "title": "Trolls World Tour",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg"
+                            },
+                            {
+                                "url": "/movies/top-gear-the-worst-car-in-the-history-of-the-world/",
+                                "title": "Top Gear: The Worst Car In the History of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cL0rqwiKsMw3ZdQexRTONtsrkOg.jpg"
+                            },
+                            {
+                                "url": "/movies/the-little-mermaid/",
+                                "title": "The Little Mermaid",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/ym1dxyOk4jFcSl4Q2zmRrA5BEEN-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/the-super-mario-bros-movie/",
+                                "title": "The Super Mario Bros. Movie",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/qNBAXBIQlnOThrVvA6mA2B5ggV6-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/air/",
+                                "title": "Air",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg"
+                            },
+                            {
+                                "url": "/series/all-american-2/",
+                                "title": "All American",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/05/all-american-33918-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/sweet-tooth/",
+                                "title": "Sweet Tooth",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/sweet-tooth-33834-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/peter-pan-wendy/",
+                                "title": "Peter Pan & Wendy",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/56DDDUPbz5n0AX5OrJqq3FW0coL-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/ghosted/",
+                                "title": "Ghosted",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/liLN69YgoovHVgmlHJ876PKi5Yi-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/shazam-fury-of-the-gods/",
+                                "title": "Shazam! Fury of the Gods",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/zpCCTtuQMHiHycpsrWnW2eCrBql-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/evan-almighty/",
+                                "title": "Evan Almighty",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/04/5vjH8oQFZXJ0gTOPsJKWidVsWmg-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/tetris/",
+                                "title": "Tetris",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/4F2QwCOYHJJjecSvdOjStuVLkpu-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/creed-iii/",
+                                "title": "Creed III",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/cvsXj3I9Q2iyyIo95AecSd1tad7-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/rabbit-hole/",
+                                "title": "Rabbit Hole",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/rabbit-hole-32986-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/true-lies/",
+                                "title": "True Lies",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/true-lies-32949-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/daisy-jones-the-six/",
+                                "title": "Daisy Jones & the Six",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/daisy-jones-the-six-32796-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/shadow-and-bone-2/",
+                                "title": "Shadow and Bone",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/shadow-and-bone-32645-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/the-devil-conspiracy/",
+                                "title": "The Devil Conspiracy",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/03/1AWcMtUZjpkq4h52yDnNIp9FwEO-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/muppets-most-wanted/",
+                                "title": "Muppets Most Wanted",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/02/3NaHGIsgyIIbf9EuediU75QnJye-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/knock-at-the-cabin/",
+                                "title": "Knock at the Cabin",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/02/vNK62gIXk1BNTbijIcO7RcU0qwW-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/black-panther-wakanda-forever/",
+                                "title": "Black Panther: Wakanda Forever",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/11/sv1xJUazXeYqALzczSZ3O6nkH75-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/extraordinary/",
+                                "title": "Extraordinary",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/onp2UrYrvkHphkrCq8wKFflmlKl.jpg"
+                            },
+                            {
+                                "url": "/series/the-test/",
+                                "title": "The Test",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-test-31483-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-inbetweeners/",
+                                "title": "The Inbetweeners",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-inbetweeners-31211-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-rig/",
+                                "title": "The Rig",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-rig-31129-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/a-man-called-otto/",
+                                "title": "A Man Called Otto",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/d7uLLwLsRwwQlTigSBnPj4CU2sP-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/slow-horses/",
+                                "title": "Slow Horses",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/slow-horses-30876-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-witcher-blood-origin/",
+                                "title": "The Witcher: Blood Origin",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-witcher-blood-origin-30718-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/buffy-the-vampire-slayer/",
+                                "title": "Buffy the Vampire Slayer",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/buffy-the-vampire-slayer-30416-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/his-dark-materials/",
+                                "title": "His Dark Materials",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/his-dark-materials-30296-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/willow/",
+                                "title": "Willow",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/willow-30282-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/the-amazing-maurice/",
+                                "title": "The Amazing Maurice",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/7gOwJe4aFmat7Tyg4XeS6bNibkQ-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/lifemark/",
+                                "title": "Lifemark",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/8UttX9BqDre5nHmoffhEE93HnUn-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/the-fabelmans-2/",
+                                "title": "The Fabelmans",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/d2IywyOPS78vEnJvwVqkVRTiNC1-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/slugterra/",
+                                "title": "Slugterra",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/slugterra-29972-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/sonic-prime/",
+                                "title": "Sonic Prime",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/sonic-prime-29875-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/the-winchesters/",
+                                "title": "The Winchesters",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-winchesters-29440-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/reginald-the-vampire/",
+                                "title": "Reginald the Vampire",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/reginald-the-vampire-29380-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/possession/",
+                                "title": "Possession",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/d0As8PxiKHtXfenwuwB9Wj3mh5v-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/warriors-of-future/",
+                                "title": "Warriors of Future",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/2l9LbxBSkJseoxYcIJjclnmxyq-150x150.jpg"
+                            },
+                            {
+                                "thumbnail_url": "https:"
+                            },
+                            {
+                                "thumbnail_url": "https:"
+                            },
+                            {
+                                "thumbnail_url": "https:"
+                            },
+                            {
+                                "thumbnail_url": "https:"
+                            },
+                            {
+                                "thumbnail_url": "https:"
+                            },
+                            {
+                                "thumbnail_url": "https:"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/series/platonic/",
+                    "title": "Platonic",
+                    "author": "Francesca Delbanco, Nicholas Stoller",
+                    "description": "A platonic pair of former best friends approaching midlife reconnect after a long rift. The duo’s friendship becomes more consuming—and destabilizes their lives in a hilarious way.",
+                    "genre": "Comedy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/platonic-1x10/",
+                        "name": "Season 1x10 : When Will Met Sylvia",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/episode/platonic-1x9/",
+                        "name": "Season 1x9 : Slumber Party",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

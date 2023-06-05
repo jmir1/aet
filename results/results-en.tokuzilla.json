@@ -170,8 +170,54 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/53630b9d746d18da65e5992a2bb23f56/2023-06-05/1080.m3u8?token=d5c079cf14efe5f13ed0969733b99947&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686017290&type=edge&node=vDRNgvJul7KjNN8pHGtQNpoWt9QFzq-QYARwCkdFaC8tiuczHbc7fdBmDKW4VyGmbUoOgcQTnmjPUANsFSpqt_EtUJevb2b362yn9By2Bj3RYhCJins6Q8C9sE60gY1AT8llYGizka78TY8jBRiLog8VTwkonMer4bKfQvbFssbF_1Xqbc8Lnql9bUlsFJoqaXQHJNWckESGnqVTvl-mHA10nb5_u04Aw8Sbnze_y91NirtC4byk0vNbi6UWqkErY68OFAIFTocTHUxhWzLaIh_AXS5jMSdrAr6tYhhkCEt2N_G6kjKGO3yAkomoPX5AjhuHOYz1hWTgesQGO2XR7w",
+                        "quality": "1080p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/53630b9d746d18da65e5992a2bb23f56/2023-06-05/1080.m3u8?token=d5c079cf14efe5f13ed0969733b99947&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686017290&type=edge&node=vDRNgvJul7KjNN8pHGtQNpoWt9QFzq-QYARwCkdFaC8tiuczHbc7fdBmDKW4VyGmbUoOgcQTnmjPUANsFSpqt_EtUJevb2b362yn9By2Bj3RYhCJins6Q8C9sE60gY1AT8llYGizka78TY8jBRiLog8VTwkonMer4bKfQvbFssbF_1Xqbc8Lnql9bUlsFJoqaXQHJNWckESGnqVTvl-mHA10nb5_u04Aw8Sbnze_y91NirtC4byk0vNbi6UWqkErY68OFAIFTocTHUxhWzLaIh_AXS5jMSdrAr6tYhhkCEt2N_G6kjKGO3yAkomoPX5AjhuHOYz1hWTgesQGO2XR7w",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/53630b9d746d18da65e5992a2bb23f56/2023-06-05/720.m3u8?token=d5c079cf14efe5f13ed0969733b99947&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686017290&type=edge&node=vDRNgvJul7KjNN8pHGtQNpoWt9QFzq-QYARwCkdFaC8tiuczHbc7fdBmDKW4VyGmbUoOgcQTnmjPUANsFSpqt_EtUJevb2b362yn9By2Bj3RYhCJins6Q8C9sE60gY1AT8llYGizka78TY8jBRiLog8VTwkonMer4bKfQvbFssbF_1Xqbc8Lnql9bUlsFJoqaXQHJNWckESGnqVTvl-mHA10nb5_u04Aw8Sbnze_y91NirtC4byk0vNbi6UWqkErY68OFAIFTocTHUxhWzLaIh_AXS5jMSdrAr6tYhhkCEt2N_G6kjKGO3yAkomoPX5AjhuHOYz1hWTgesQGO2XR7w",
+                        "quality": "720p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/53630b9d746d18da65e5992a2bb23f56/2023-06-05/720.m3u8?token=d5c079cf14efe5f13ed0969733b99947&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686017290&type=edge&node=vDRNgvJul7KjNN8pHGtQNpoWt9QFzq-QYARwCkdFaC8tiuczHbc7fdBmDKW4VyGmbUoOgcQTnmjPUANsFSpqt_EtUJevb2b362yn9By2Bj3RYhCJins6Q8C9sE60gY1AT8llYGizka78TY8jBRiLog8VTwkonMer4bKfQvbFssbF_1Xqbc8Lnql9bUlsFJoqaXQHJNWckESGnqVTvl-mHA10nb5_u04Aw8Sbnze_y91NirtC4byk0vNbi6UWqkErY68OFAIFTocTHUxhWzLaIh_AXS5jMSdrAr6tYhhkCEt2N_G6kjKGO3yAkomoPX5AjhuHOYz1hWTgesQGO2XR7w",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/53630b9d746d18da65e5992a2bb23f56/2023-06-05/360.m3u8?token=d5c079cf14efe5f13ed0969733b99947&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686017290&type=edge&node=vDRNgvJul7KjNN8pHGtQNpoWt9QFzq-QYARwCkdFaC8tiuczHbc7fdBmDKW4VyGmbUoOgcQTnmjPUANsFSpqt_EtUJevb2b362yn9By2Bj3RYhCJins6Q8C9sE60gY1AT8llYGizka78TY8jBRiLog8VTwkonMer4bKfQvbFssbF_1Xqbc8Lnql9bUlsFJoqaXQHJNWckESGnqVTvl-mHA10nb5_u04Aw8Sbnze_y91NirtC4byk0vNbi6UWqkErY68OFAIFTocTHUxhWzLaIh_AXS5jMSdrAr6tYhhkCEt2N_G6kjKGO3yAkomoPX5AjhuHOYz1hWTgesQGO2XR7w",
+                        "quality": "360p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/53630b9d746d18da65e5992a2bb23f56/2023-06-05/360.m3u8?token=d5c079cf14efe5f13ed0969733b99947&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686017290&type=edge&node=vDRNgvJul7KjNN8pHGtQNpoWt9QFzq-QYARwCkdFaC8tiuczHbc7fdBmDKW4VyGmbUoOgcQTnmjPUANsFSpqt_EtUJevb2b362yn9By2Bj3RYhCJins6Q8C9sE60gY1AT8llYGizka78TY8jBRiLog8VTwkonMer4bKfQvbFssbF_1Xqbc8Lnql9bUlsFJoqaXQHJNWckESGnqVTvl-mHA10nb5_u04Aw8Sbnze_y91NirtC4byk0vNbi6UWqkErY68OFAIFTocTHUxhWzLaIh_AXS5jMSdrAr6tYhhkCEt2N_G6kjKGO3yAkomoPX5AjhuHOYz1hWTgesQGO2XR7w",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
