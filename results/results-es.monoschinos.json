@@ -336,12 +336,38 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/my-heroic-husband-episodio-7",
+                        "name": "Episodio 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/ver/my-heroic-husband-episodio-6",
+                        "name": "Episodio 6",
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www12.mp4upload.com/files/4/a28hc1be2g98li/Esposo_-_07.mp4",
+                        "quality": "Mp4Upload",
+                        "videoUrl": "https://www12.mp4upload.com/files/4/a28hc1be2g98li/Esposo_-_07.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd468.mycdn.me/?expires=1686011856069&srcIp=172.176.196.113&pr=10&srcAg=CHROME&ms=185.226.52.82&type=5&sig=UxbpmVSGtWw&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=4552735525535",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd468.mycdn.me/?expires=1686011856069&srcIp=172.176.196.113&pr=10&srcAg=CHROME&ms=185.226.52.82&type=5&sig=UxbpmVSGtWw&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=4552735525535"
+                    }
+                ],
+                "passed": true
             }
         }
     }

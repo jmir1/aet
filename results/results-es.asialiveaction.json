@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-my-favorite/",
+                                "title": "Be My Favorite (2/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
+                            },
+                            {
                                 "url": "/segodon-sub-espanol/",
                                 "title": "Segodon (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg"
@@ -35,11 +40,6 @@
                                 "url": "/kyoshinhei-tokyo-ni-arawaru/",
                                 "title": "Kyoshinhei Tokyo ni Arawaru",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
-                            },
-                            {
-                                "url": "/be-my-favorite/",
-                                "title": "Be My Favorite (1/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
                             },
                             {
                                 "url": "/avatar/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-my-favorite/",
+                                "title": "Be My Favorite (2/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
+                            },
+                            {
                                 "url": "/segodon-sub-espanol/",
                                 "title": "Segodon (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg"
@@ -165,11 +170,6 @@
                                 "url": "/kyoshinhei-tokyo-ni-arawaru/",
                                 "title": "Kyoshinhei Tokyo ni Arawaru",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
-                            },
-                            {
-                                "url": "/be-my-favorite/",
-                                "title": "Be My Favorite (1/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
                             },
                             {
                                 "url": "/avatar/",
@@ -393,32 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/segodon-sub-espanol/",
-                    "title": "Segodon (Completo)",
-                    "description": "La serie dramática sigue la vida de la figura histórica Saigo Takamori, el héroe de la Restauración Meiji, nació de una familia de samuráis pobres y de bajo rango en el dominio Satsuma (actual prefectura de Kagoshima). Su honestidad sencilla llamó la atención de su carismático señor feudal de Satsuma, Shimazu Nariakira. La afirmación de Nariakira de que el amor de las personas es lo que enriquecerá y fortalecerá a la nación cautivó a Saigo, quien asumió la misión secreta de Nariakira y eventualmente se convirtió en una persona clave para Satsuma. Ningún retrato de él sobrevive hoy y gran parte de su vida es un misterio. Es un hombre que estuvo dos veces exiliado y tres veces casado. Derribó al Tokugawa Shogunate con excepcional valentía y acción. A pesar de que logró la restauración, perdió la vida en una pelea con el nuevo gobierno Meiji.",
-                    "genre": "Histórico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/1226539/",
-                        "name": "Episodio 47 FINAL",
-                        "episode_number": 47.0
-                    },
-                    {
-                        "url": "/paste/5426538/",
-                        "name": "Episodio 46",
-                        "episode_number": 46.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
