@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/sket-dance-cap-32/",
+                                "title": "Sket Dance Cap 32",
+                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2022/12/yVLADVU7YnDK9bcJPKAEEOB6Hrk-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/my-home-hero-cap-7/",
                                 "title": "My Home Hero Cap 7",
                                 "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/05/ql8MfFujMbtUcvNMlJAvjkqGVVw-300x170.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/episodio/megami-no-cafe-terrace-cap-6/",
                                 "title": "Megami no Café Terrace Cap 6",
                                 "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/05/qLHIivZyXL8OmVLMR38tBYjLW4A-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/edomae-elf-otaku-elf-cap-9/",
-                                "title": "Edomae Elf (Otaku Elf) Cap 9",
-                                "thumbnail_url": "https://ww2.animeonline.ninja/wp-content/uploads/2023/06/sSh0uwSxvppBaINmj7flzdtU53J-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -509,8 +509,78 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_n/index-v1-a1.m3u8?t=MuKiS525TbqaJgnzY5YkABkQBU_j1FtjdKtS6fTK540&s=1685945422&e=10800&f=17216130&srv=sto054&client=13.87.244.145&asn=8075",
+                        "quality": "SUB StreamSB:720p ",
+                        "videoUrl": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_n/index-v1-a1.m3u8?t=MuKiS525TbqaJgnzY5YkABkQBU_j1FtjdKtS6fTK540&s=1685945422&e=10800&f=17216130&srv=sto054&client=13.87.244.145&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/0xjh3h5uubjm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery30.mxdcontent.net/v/c3e178fcb8f46d5cbf46feca0cba5852.mp4?s=yQzwk4aQXvIXHJXm9wa7aQ&e=1685967028&_t=1685946677",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery30.mxdcontent.net/v/c3e178fcb8f46d5cbf46feca0cba5852.mp4?s=yQzwk4aQXvIXHJXm9wa7aQ&e=1685967028&_t=1685946677",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8OP4ZZGMO1toKgV&expires=1686015428&ip=F0AsFxEnDS9X&token=feNESOdJbN45",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=8OP4ZZGMO1toKgV&expires=1686015428&ip=F0AsFxEnDS9X&token=feNESOdJbN45"
+                    },
+                    {
+                        "url": "https://s-delivery38.mxdcontent.net/v/bfbef815a56b420bf580cebe147c6909.mp4?s=sRJaTDa-hIFkPThDFh0Olw&e=1685967025&_t=1685951026",
+                        "quality": "MixDrop(SUB)",
+                        "videoUrl": "https://s-delivery38.mxdcontent.net/v/bfbef815a56b420bf580cebe147c6909.mp4?s=sRJaTDa-hIFkPThDFh0Olw&e=1685967025&_t=1685951026",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://m40.uqload.co/3rfk2mphj5w2q4drdlypn4nldjithb77d5fx6r2cknnmxmfatr3omxkzlela/v.mp4",
+                        "quality": "SUB Uqload",
+                        "videoUrl": "https://m40.uqload.co/3rfk2mphj5w2q4drdlypn4nldjithb77d5fx6r2cknnmxmfatr3omxkzlela/v.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://www1.animeonline.ninja"
+                        }
+                    },
+                    {
+                        "url": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_l/index-v1-a1.m3u8?t=MuKiS525TbqaJgnzY5YkABkQBU_j1FtjdKtS6fTK540&s=1685945422&e=10800&f=17216130&srv=sto054&client=13.87.244.145&asn=8075",
+                        "quality": "SUB StreamSB:360p ",
+                        "videoUrl": "https://delivery500.akamai-video-content.com/hls2/01/03443/0xjh3h5uubjm_l/index-v1-a1.m3u8?t=MuKiS525TbqaJgnzY5YkABkQBU_j1FtjdKtS6fTK540&s=1685945422&e=10800&f=17216130&srv=sto054&client=13.87.244.145&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/0xjh3h5uubjm.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=zb2QQz70bkuYDR2&expires=1686015421&ip=F0AsFxEnDS9X&token=Cgj63Hi3nQnZ",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zb2QQz70bkuYDR2&expires=1686015421&ip=F0AsFxEnDS9X&token=Cgj63Hi3nQnZ"
+                    }
+                ],
+                "passed": true
             }
         }
     }
