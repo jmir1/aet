@@ -3,124 +3,12 @@
         "name": "NollyVerse",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movie/renfield",
-                                "title": "Renfield",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/renfield.jpg"
-                            },
-                            {
-                                "url": "/movie/john-wick-chapter-4",
-                                "title": "John Wick:Chapter 4",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/john-wick-chapter-4.jpg"
-                            },
-                            {
-                                "url": "/movie/shazam-fury-of-the-gods",
-                                "title": "Shazam! Fury of the Gods",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/shazam-fury-of-the-gods.jpg"
-                            },
-                            {
-                                "url": "/movie/65",
-                                "title": "65",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/65.jpg"
-                            },
-                            {
-                                "url": "/movie/you-people",
-                                "title": "You People",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/you-people.jpg"
-                            },
-                            {
-                                "url": "/movie/m3gan",
-                                "title": "M3GAN",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/m3gan.jpg"
-                            },
-                            {
-                                "url": "/movie/avatar-the-way-of-water",
-                                "title": "Avatar:The Way of Water",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/avatar-the-way-of-water.jpeg"
-                            },
-                            {
-                                "url": "/movie/the-guardians-of-the-galaxy-holiday-special",
-                                "title": "The Guardians of the Galaxy Holiday Special",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/the-guardians-of-the-galaxy-holiday-special.jpg"
-                            },
-                            {
-                                "url": "/movie/black-panther-wakanda-forever",
-                                "title": "Black Panther:Wakanda Forever",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/black-panther-wakanda-forever.jpg"
-                            },
-                            {
-                                "url": "/movie/enola-holmes-2",
-                                "title": "Enola Holmes 2",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/enola-holmes-2.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/the-days",
-                                "title": "THE DAYS",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-days.jpg"
-                            },
-                            {
-                                "url": "/serie/deadloch",
-                                "title": "Deadloch",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/deadloch.jpg"
-                            },
-                            {
-                                "url": "/serie/little-bird",
-                                "title": "Little Bird",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/little-bird.jpg"
-                            },
-                            {
-                                "url": "/serie/fubar",
-                                "title": "FUBAR",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/fubar.jpg"
-                            },
-                            {
-                                "url": "/serie/the-clearing",
-                                "title": "The Clearing",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-clearing.jpg"
-                            },
-                            {
-                                "url": "/serie/american-born-chinese",
-                                "title": "American Born Chinese",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/american-born-chinese.jpg"
-                            },
-                            {
-                                "url": "/serie/platonic",
-                                "title": "Platonic",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/platonic.jpg"
-                            },
-                            {
-                                "url": "/serie/ghosts-of-beirut",
-                                "title": "Ghosts of Beirut",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/ghosts-of-beirut.jpg"
-                            },
-                            {
-                                "url": "/serie/spy-master",
-                                "title": "Spy/Master",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/spy-master.jpg"
-                            },
-                            {
-                                "url": "/serie/muted",
-                                "title": "Muted",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/muted.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -164,10 +52,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/renfield",
-                    "title": "Renfield",
-                    "description": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life and maybe even redemption when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
-                    "genre": "Comedy, Fantasy, Horror",
+                    "url": "/movie/edge-of-the-world",
+                    "title": "Edge of the World",
+                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
+                    "genre": "Adventure, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -175,7 +63,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/renfield/download/",
+                        "url": "/movie/edge-of-the-world/download/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -183,34 +71,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_720p_WEB-DL_YIFY.mkv",
-                        "quality": "720p",
-                        "videoUrl": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_720p_WEB-DL_YIFY.mkv"
-                    },
-                    {
-                        "url": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_10bit_720p_x265_WEB-DL_6CH_PSA.mkv",
-                        "quality": "720p.x265",
-                        "videoUrl": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_10bit_720p_x265_WEB-DL_6CH_PSA.mkv"
-                    },
-                    {
-                        "url": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_1080p_WEB-DL_YIFY.mkv",
-                        "quality": "1080p",
-                        "videoUrl": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_1080p_WEB-DL_YIFY.mkv"
-                    },
-                    {
-                        "url": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_10bit_DV_HDR_2160p_x265_WEB-DL_Dolby_Atmos_CMRG.mkv",
-                        "quality": "2160p",
-                        "videoUrl": "https://dl11.uploding.fun/Movies4/2023/Renfield_2023/Renfield_2023_10bit_DV_HDR_2160p_x265_WEB-DL_Dolby_Atmos_CMRG.mkv"
-                    },
-                    {
-                        "url": "https://streamtape.com/v/qOB4RzG4R6szbJX/",
-                        "quality": "Failover",
-                        "videoUrl": "https://streamtape.com/v/qOB4RzG4R6szbJX/"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             }
         }
     }
