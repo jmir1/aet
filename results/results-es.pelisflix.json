@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/showing-up/",
+                                "title": "Showing Up",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uJ0qi8s6T7Oii6EvKtGkllZFSJF4OVZ8uQpCOHyyFcH.webp"
+                            },
+                            {
+                                "url": "/pelicula/ride-on/",
+                                "title": "Ride On",
+                                "description": "Lao Luo (Jackie Chan) está muy apegado a su amado caballo. Cuando parece que le pueden quitar el eq...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Y3QOb1CcHyA2svuKSRjlGh.webp"
+                            },
+                            {
+                                "url": "/pelicula/fast-furious-x/",
+                                "title": "Fast & Furious X (A todo gas)",
+                                "description": "Durante numerosas misiones más que imposibles, Dom Toretto y su familia han sido capaces de ser má...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZEMjIB7oCpeRmisnFf.webp"
+                            },
+                            {
+                                "url": "/pelicula/renfield-asistente-de-vampiro/",
+                                "title": "Renfield: Asistente de vampiro",
+                                "description": "En este moderno y monstruoso relato sobre el fiel ayudante de Drácula, Renfield se ve obligado a pr...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/gloKtNfS6hH86qSutP2slLUyLC67x66DildBZjkVrRTn8.webp"
+                            },
+                            {
                                 "url": "/pelicula/a-beautiful-life/",
                                 "title": "A Beautiful Life",
                                 "description": "",
@@ -221,30 +245,6 @@
                                 "title": "Jiang Ziya: Legend of Deification",
                                 "description": "En lo alto de las ruinas de la guerra, el comandante superior Jiang Ziya tiene la tarea de desterrar...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/oyS6Fz9YYeo1YdYl5qn.webp"
-                            },
-                            {
-                                "url": "/pelicula/reality-2/",
-                                "title": "Reality",
-                                "description": "Una antigua especialista de inteligencia estadounidense recibe la sentencia más larga por la divulg...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ApU46XGMUUXbWgfYMr8h.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-black-demon/",
-                                "title": "The Black Demon",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8Yo2NDIo7qaPVwa.webp"
-                            },
-                            {
-                                "url": "/pelicula/book-club-ahora-italia/",
-                                "title": "Book Club - Ahora Italia",
-                                "description": "El grupo de cuatro amigas viaja a Italia con su club de lectura para disfrutar del viaje de chicas q...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/LiBWCFsedLHnX9k0d04OZq7u.webp"
-                            },
-                            {
-                                "url": "/pelicula/sword-art-online-progressive-movie-ii-kuraki-yuuyami-no-scherzo/",
-                                "title": "Sword Art Online Progressive Movie II - Kuraki Yuuyami no Scherzo",
-                                "description": "Han pasado dos meses desde que comenzó el juego mortal, y Kirito y Asuna continúan progresando. Se...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EiqjOqz9TKyj5fNwXbzgjLvwTII7bbLGk2P.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -504,10 +504,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/a-beautiful-life/",
-                    "title": "A Beautiful Life",
+                    "url": "/pelicula/showing-up/",
+                    "title": "Showing Up",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -515,7 +515,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/a-beautiful-life/",
+                        "url": "/pelicula/showing-up/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -523,7 +523,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar nYpzyfUt = \"\"; pWtXRwRP.forEach(function Oym(value) { nYpzyfUt += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

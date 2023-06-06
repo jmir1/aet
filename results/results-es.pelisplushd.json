@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/the-idol",
+                                "title": "The Idol (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg"
+                            },
+                            {
                                 "url": "/serie/mas-alla-de-ti",
                                 "title": "Más Allá de Tí (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hEXtN5Ev0kgWC3bc3iUpya6nbrM.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/clone-high",
                                 "title": "Clone High (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/vw4IXzVhFJWyupZCpJWPSWbctzN.jpg"
-                            },
-                            {
-                                "url": "/serie/gremlins-secrets-of-the-mogwai",
-                                "title": "Gremlins: Secrets of the Mogwai (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/btKs7EF6T9zJhOLLw80Wmh7sU3z.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/mas-alla-de-ti",
-                    "title": "Más Allá de Tí (2023)",
-                    "description": "Amy (Ariadne Díaz), es una expolicía latina que quiere lo mejor para su hijo y, tras el encarcelamiento de su esposo, se da a la tarea de demostrar que él es inocente. Para lograrlo necesitará la ayuda de un político poderoso llamado David (Sebastián Rulli)..",
+                    "url": "/serie/the-idol",
+                    "title": "The Idol (2023)",
+                    "description": "La superestrella pop Jocelyn comienza una relación con el enigmático empresario de la noche Tedros, alguien cargado de secretos..",
                     "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hEXtN5Ev0kgWC3bc3iUpya6nbrM.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,60 +278,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/mas-alla-de-ti/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/serie/mas-alla-de-ti/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/the-idol/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_n/index-v1-a1.m3u8?t=dgmxxPEsc38_gMREPalBON5T0hAabfn5F6-5WN9R_kI&s=1686031724&e=10800&f=64693773&srv=sto133&client=13.83.45.145&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_n/index-v1-a1.m3u8?t=dgmxxPEsc38_gMREPalBON5T0hAabfn5F6-5WN9R_kI&s=1686031724&e=10800&f=64693773&srv=sto133&client=13.83.45.145&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/zmn8arj2m9h7?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_l/index-v1-a1.m3u8?t=dgmxxPEsc38_gMREPalBON5T0hAabfn5F6-5WN9R_kI&s=1686031724&e=10800&f=64693773&srv=sto133&client=13.83.45.145&asn=8075",
-                        "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_l/index-v1-a1.m3u8?t=dgmxxPEsc38_gMREPalBON5T0hAabfn5F6-5WN9R_kI&s=1686031724&e=10800&f=64693773&srv=sto133&client=13.83.45.145&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/zmn8arj2m9h7?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_h/index-v1-a1.m3u8?t=dgmxxPEsc38_gMREPalBON5T0hAabfn5F6-5WN9R_kI&s=1686031724&e=10800&f=64693773&srv=sto133&client=13.83.45.145&asn=8075",
-                        "quality": "StreamSB:1080p",
-                        "videoUrl": "https://delivery613.akamai-video-content.com/hls2/01/12938/zmn8arj2m9h7_h/index-v1-a1.m3u8?t=dgmxxPEsc38_gMREPalBON5T0hAabfn5F6-5WN9R_kI&s=1686031724&e=10800&f=64693773&srv=sto133&client=13.83.45.145&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/zmn8arj2m9h7?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=9RajrkOOYlcadmZ&expires=1686101726&ip=F0AsFxOnDS9X&token=PuGrYXfy3pxT",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=9RajrkOOYlcadmZ&expires=1686101726&ip=F0AsFxOnDS9X&token=PuGrYXfy3pxT"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -621,7 +577,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to slwatch.co/34.232.246.44:443",
+                "error": "java.net.ConnectException: Failed to connect to slwatch.co/34.197.187.88:443",
                 "passed": false
             }
         }
