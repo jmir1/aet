@@ -172,8 +172,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://drive.google.com/uc?id=1c59Vpn_fNbiiYC4VDzrtQG-L-pLgzN8S&confirm=t&uuid=bd39cb04-09d5-44ca-a6ab-60b1865cb4de",
+                        "quality": "Gdrive (26G) ",
+                        "videoUrl": "https://drive.google.com/uc?id=1c59Vpn_fNbiiYC4VDzrtQG-L-pLgzN8S&confirm=t&uuid=bd39cb04-09d5-44ca-a6ab-60b1865cb4de"
+                    },
+                    {
+                        "url": "https://royal-mode-286a.vexowi6210.workers.dev/52456bdc339380ca1d05daca6cbd3533/drivebot.fun/The.Pursuit.of.Happyness.(2006).1080p.BluRay.REMUX.x264.AVC.[Org.Hindi-Tamil-Telugu.DD.2.0.~.192Kbps.+.English.DTS-HDMA.5.1].ESub.~.FraMeSToR.mkv",
+                        "quality": "DriveBot",
+                        "videoUrl": "https://royal-mode-286a.vexowi6210.workers.dev/52456bdc339380ca1d05daca6cbd3533/drivebot.fun/The.Pursuit.of.Happyness.(2006).1080p.BluRay.REMUX.x264.AVC.[Org.Hindi-Tamil-Telugu.DD.2.0.~.192Kbps.+.English.DTS-HDMA.5.1].ESub.~.FraMeSToR.mkv",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Host": "royal-mode-286a.vexowi6210.workers.dev",
+                            "Referer": "https://drivebot.fun/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
