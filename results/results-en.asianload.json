@@ -325,17 +325,29 @@
             "details": {
                 "result": {
                     "url": "/videos/black-knight-2023-episode-6",
-                    "description": "",
+                    "title": "Black Knight (2023)",
+                    "description": "Set in the year 2071, where the world has been decimated by toxic air pollution. Only about 1 percent of the population has survived and a strict social class now exists. People rarely leave their homes and, when they do, they wear gas masks due to the air pollution. Citizens rely heavily on parcel delivery service for their needs. Delivery drivers, known as knights, delivers the packages and also protect them from thieves. Knight 5-8 is a legendary knight. He is also highly skilled in physical combat. He happens to meet boy Sa Wol, who is a refugee. Sa Wol dreams of becoming a knight and he admires Knight 5-8. Seol A is an officer in the Defense Intelligence Command. She saved Sa Wol’s life and takes care of Sa Wol like he is part of her family. Knight 5-8 helps Sa Wol become a knight. Based on webcomic \"Taekbaegisa” by Lee Yoon Kyun.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/black-knight-2023-episode-6",
+                        "name": "SUB Episode: Black Knight (2023) Episode 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/videos/black-knight-2023-episode-5",
+                        "name": "SUB Episode: Black Knight (2023) Episode 5",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Invalid URL host: \"\"",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

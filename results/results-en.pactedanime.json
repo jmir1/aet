@@ -213,16 +213,42 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/one-piece/",
+                    "title": "One Piece",
+                    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous “One Piece” behind. Whoever claims the “One Piece” will be named the new King of the Pirates.\n\nOriginal title: ワンピース\nFirst air date: Oct. 20, 1999\nLast air date: Apr. 16, 2023\nSeasons: 21\nEpisodes: 1061",
+                    "genre": "Action & Adventure, Animation, Comedy, Top Anime",
+                    "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-200x300.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes/one-piece-21x1064/",
+                        "name": "Season 21 x 1064 - Drunken Dragon Bagua! The Lawless Dragon Closing in on Luffy",
+                        "date_upload": 1685836800000,
+                        "episode_number": 1064.0
+                    },
+                    {
+                        "url": "/episodes/one-piece-21x1063/",
+                        "name": "Season 21 x 1063 - Luffy Is on the Move! A Turning Point to a New Era!",
+                        "date_upload": 1685232000000,
+                        "episode_number": 1063.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f211d577b554b3615_d20230604_m231540_c004_v0402003_t0034_u01685920540720",
+                        "quality": "1080P",
+                        "videoUrl": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f211d577b554b3615_d20230604_m231540_c004_v0402003_t0034_u01685920540720"
+                    }
+                ],
+                "passed": true
             }
         }
     }
