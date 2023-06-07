@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/love-tractor?id=6480a0bc47ddeaf6ff5e5426",
+                                "title": "Love Tractor (Un tractor lleno de amor)",
+                                "description": " Debido a que se siente perdido en la vida, Hyeon Yul, un hombre de ciudad sin capacidad para sobrevivir en el campo, llega a la casa rural de su abuelo. Frente a él aparece Ye Chan, un joven apasionado al que le encanta la agricultura. Mientras aprende sobre la vida rural y ayuda con las tareas agrícolas, Hyeon Yul gradualmente se siente atraído por la naturaleza cálida y directa de Ye Chan. Entre estos dos individuos, cada uno cargado con sus propias preocupaciones, se desarrolla un romance curativo rural juvenil y vivo, ¡lleno de altibajos!",
+                                "genre": "Comedia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/4YLb5vYSMEI4mwQz9lM2LvFRqwg.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/the-villain-of-romance?id=648009d247ddeaf6ff5e1309",
                                 "title": "The Villain of Romance (El villano del romance)",
                                 "description": "Una historia sobre la mayoría de edad y un romance realista sobre jóvenes \"villanos\" universitarios que todavía están aprendiendo sobre el amor.\n\nKang Hee Jae quiere desesperadamente parecer genial para los demás, pero en secreto se siente más pequeño que el plancton por dentro. Mientras lucha por perdonar a su novia Yoo Jin por su comportamiento \"salvaje\", termina transformándose gradualmente en un monstruo obsesivo. Mientras tanto, Ban Yoo Jin es un estudiante mayor muy inteligente en la universidad de Kang Hee Jae. Debido a que Yoo Jin parece que nunca puede mantener una relación por más de 100 días, comienza a preocuparse de que terminará viviendo una vida solitaria sola. Entonces, cuando el estudiante más joven, Hee Jae, dispara audazmente, ella decide someterlo a un \"entrenamiento\" intenso mientras salen.",
@@ -456,13 +463,6 @@
                                 "description": "El hábil médico-cirujano Teacher Kim regresa con su equipo en el Hospital Doldam para una tercera temporada del popular drama médico Dr. Romántic. Centrado en el Hospital Doldam, un hospital de emergencia situado en las afueras de la ciudad, el Dr. Kim y su hábil equipo de médicos terminan lidiando con casos de crisis y deliberan entre seguir las reglas y el código de conducta de un médico y salvar la vida de las personas sin pensar en el dinero.",
                                 "genre": "Drama, Romance",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/uwkpwFt30pryaOnfVS620oXvHlq.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/the-good-bad-mother?id=644c2f5a959d72f76b35b5f8",
-                                "title": "The Good Bad Mother (La buena mala madre)",
-                                "description": "Young Soon es madre soltera y dirige una granja de cerdos. Ella crió sola a su hijo Kang Ho. Young Soon se convirtió en una mala madre y fue estricta con Kang Ho porque no quería que él se volviera como ella.Ahora, Kang Ho ha crecido y trabaja como fiscal y tiene una personalidad fría. Mientras seguía su carrera y guardaba su propio secreto, rechazó a su madre Young Soon. Un día, Kang Ho tiene un accidente inesperado y se vuelve como un niño. Regresa a su ciudad natal y comienza una nueva vida con su mala madre Young Soon. Mientras tanto, Mi Joo es la amiga de la infancia de Kang Ho. Tiene un corazón cálido y es el tipo de persona que no puede alejarse de la injusticia. Se encuentra de nuevo con Kang Ho, que se ha vuelto como un niño, y su vida cambia.",
-                                "genre": "Drama, Comedia, Familia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/vtDLhvpTk1xcaBCKubSH0if575G.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
