@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/barry/",
+                                "title": "Barry",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/barry-34463-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/platonic/",
                                 "title": "Platonic",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/platonic-34435-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/the-white-lotus/",
                                 "title": "The White Lotus",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-white-lotus-29711-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/dcs-stargirl/",
-                                "title": "DC's Stargirl",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/dcs-stargirl-29662-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,13 +882,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/platonic/",
-                    "title": "Platonic",
-                    "author": "Francesca Delbanco, Nicholas Stoller",
-                    "description": "A platonic pair of former best friends approaching midlife reconnect after a long rift. The duo’s friendship becomes more consuming—and destabilizes their lives in a hilarious way.",
-                    "genre": "Comedy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/barry/",
+                    "title": "Barry",
+                    "author": "Alec Berg, Bill Hader",
+                    "description": "A hit man from the Midwest moves to Los Angeles and gets caught up in the city's theatre arts scene.",
+                    "genre": "Comedy, Crime, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -896,21 +896,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/platonic-1x10/",
-                        "name": "Season 1x10 : When Will Met Sylvia",
-                        "episode_number": 10.0
+                        "url": "/episode/barry-4x8/",
+                        "name": "Season 4x8 : wow",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/platonic-1x9/",
-                        "name": "Season 1x9 : Slumber Party",
-                        "episode_number": 9.0
+                        "url": "/episode/barry-4x7/",
+                        "name": "Season 4x7 : a nice meal",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v908.streamhub.gg/hls/sc6t6jtjxmytnuzvouqc5ndzx4tdxjfg27r4ckikliautjfov65gw4h5mgha/index-v1-a1.m3u8",
+                        "quality": "720p",
+                        "videoUrl": "https://v908.streamhub.gg/hls/sc6t6jtjxmytnuzvouqc5ndzx4tdxjfg27r4ckikliautjfov65gw4h5mgha/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
