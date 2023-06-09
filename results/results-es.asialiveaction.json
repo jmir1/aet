@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/16995/",
+                                "title": "Tenshi no iru Toshokan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg"
+                            },
+                            {
                                 "url": "/blue-birthday-2023/",
                                 "title": "Blue Birthday (2023) (2/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/the-secret-romantic-guesthouse/",
                                 "title": "The Secret Romantic Guesthouse (6/18)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wffSoGbGnHf6Qf1TFQP0Np2bB01.jpg"
-                            },
-                            {
-                                "url": "/love-syndrome-the-series/",
-                                "title": "Love Syndrome The Series (7/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kmb4iUlt8hjHW7fkqL42oUumTqD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/16995/",
+                                "title": "Tenshi no iru Toshokan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg"
+                            },
+                            {
                                 "url": "/blue-birthday-2023/",
                                 "title": "Blue Birthday (2023) (2/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/the-secret-romantic-guesthouse/",
                                 "title": "The Secret Romantic Guesthouse (6/18)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wffSoGbGnHf6Qf1TFQP0Np2bB01.jpg"
-                            },
-                            {
-                                "url": "/love-syndrome-the-series/",
-                                "title": "Love Syndrome The Series (7/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kmb4iUlt8hjHW7fkqL42oUumTqD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/16995/",
+                    "title": "Tenshi no iru Toshokan",
+                    "description": "Sakura, quien acaba de graduarse de la universidad, comienza a trabajar en una biblioteca en Katsuragi, Prefectura de Nara. Está nerviosa con su nuevo trabajo y el entorno desconocido. Un día, una anciana llamada Reiko visita la biblioteca y le muestra a Sakura una foto antigua de un hombre y una mujer. Sakura la lleva al lugar donde se tomó la foto. Reiko a veces trae otras fotos y Sakura la lleva al lugar donde se tomaron las fotos. Mientras hace esto, Sakura aprende sobre la historia y la cultura de Katsuragi. También habla con los residentes y crece como persona.",
+                    "genre": "Drama, Misterio",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/5126561/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

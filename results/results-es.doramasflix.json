@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/bloodhounds?id=64836323b4856cb4f41d215c",
+                                "title": "Bloodhounds (Sabuesos)",
+                                "description": "Un drama de acción noir sobre tres hombres que se enredan en deudas pero intentan escapar de ellas de cualquier manera que puedan. Dos jóvenes boxeadores unen fuerzas con un benévolo prestamista para destruir a un despiadado usurero que se aprovecha de los más vulnerables.",
+                                "genre": "Aventura, Drama, Crimen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/romance-by-romance?id=6480fa75bd5e13ebaf36766e",
                                 "title": "Romance by Romance (Romance a romance)",
                                 "description": "Ha Yoon, quien nunca ha tenido una relación duradera, esperaba que su novio actual, Nam Tae Ryeon (Cha Hun), cambiara eso. Pero cuando él le dice que quiere terminar con ella antes de cumplir 100 días de relación, Ha Yoon se niega a aceptar su destino sin luchar.\n\nDecidida a lograr que esta relación dure, Ha Yoon sugiere un \"plazo de transición para la ruptura\" de un mes en el que ella y Tae Ryeon puedan pasar todo el tiempo que quieran separados, pero sin terminar del todo. Aceptando sus condiciones, Tae Ryeon y Ha Yoon redactan un contrato en el que se establecen claramente los términos de su plazo de transición. Mientras Tae Ryeon sigue con su vida, Ha Yoon firma un contrato completamente diferente con su mejor amigo y compañero de universidad, Kang Jin.",
@@ -456,13 +463,6 @@
                                 "description": "Una elección acalorada está en el horizonte. Un equipo de personal de campaña debe enfrentar decisiones difíciles mientras navega por un panorama político despiadado.",
                                 "genre": "Drama, Política",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/3SyIuLEDFwZEt65pKeFui01oZb4.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/la-pluie?id=644da6e2959d72f76b35bdb9",
-                                "title": "La Pluie (La Pluie)",
-                                "description": "(BL) Sigue la historia de un hombre al que no le gustan los extraños ni hablar con la gente innecesariamente. También sufre una pérdida de audición neurosensorial cuando llueve. Sin embargo, como decide el destino, sólo puede oír una voz cuando llueve.",
-                                "genre": "Drama, Romance",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/1YE21FAmBE9Qfq8v8UZyUKMbdIa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
