@@ -157,21 +157,67 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/voltes-v-legacy.html?ep=25#watch",
+                        "name": "Episode 25",
+                        "episode_number": 25.0
+                    },
+                    {
                         "url": "/watch/voltes-v-legacy.html?ep=24#watch",
                         "name": "Episode 24",
                         "episode_number": 24.0
-                    },
-                    {
-                        "url": "/watch/voltes-v-legacy.html?ep=23#watch",
-                        "name": "Episode 23",
-                        "episode_number": 23.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 151: Expected EOF after parsing, but had , instead at path: $\nJSON input: .....d\":\"captions\",\"default\":true},{\"file\":\"https://hls24-eu.zcdn.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls1-eu.zcdn.stream/7e68bf0d588777d39633e54c73f3d00c/2023-06-10/1080.m3u8?token=a68bdeb5a0f4fbe7696c7234f1a02665&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686406079&type=edge&node=H1PIMSzW8Y9m1WyARlY5BeR2fuMI8MQbSdl7y-5cQe2GVJNabUn2BcFe0mZIBsYd-rdxzAkk5GoVVhjholrgDwETjASwGdV1l_hq41aIiQ9mmC7RmSOvW9XfgGSPPjT3jlJC3_tNzaN-3B045jWoAdAkj-h_kcmrHdg9hJTlm77YV0REIF3Pzl9g5MmXGc2jRwd80jOtFHkEnkhzAXdSBXl-uz5K3j5pZgA0KbTNcRGwFdnZqy7Ju0cmjFGUQbmPGladn6g_HhI175MsGsfBtN97HL7Rk73SOEJEJtLubJPM6E0SMxDgCNpy8mezoALDrG7IYOd9zDikinMgO3RMig",
+                        "quality": "1080p",
+                        "videoUrl": "https://hls1-eu.zcdn.stream/7e68bf0d588777d39633e54c73f3d00c/2023-06-10/1080.m3u8?token=a68bdeb5a0f4fbe7696c7234f1a02665&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686406079&type=edge&node=H1PIMSzW8Y9m1WyARlY5BeR2fuMI8MQbSdl7y-5cQe2GVJNabUn2BcFe0mZIBsYd-rdxzAkk5GoVVhjholrgDwETjASwGdV1l_hq41aIiQ9mmC7RmSOvW9XfgGSPPjT3jlJC3_tNzaN-3B045jWoAdAkj-h_kcmrHdg9hJTlm77YV0REIF3Pzl9g5MmXGc2jRwd80jOtFHkEnkhzAXdSBXl-uz5K3j5pZgA0KbTNcRGwFdnZqy7Ju0cmjFGUQbmPGladn6g_HhI175MsGsfBtN97HL7Rk73SOEJEJtLubJPM6E0SMxDgCNpy8mezoALDrG7IYOd9zDikinMgO3RMig",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls1-eu.zcdn.stream/7e68bf0d588777d39633e54c73f3d00c/2023-06-10/720.m3u8?token=a68bdeb5a0f4fbe7696c7234f1a02665&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686406079&type=edge&node=H1PIMSzW8Y9m1WyARlY5BeR2fuMI8MQbSdl7y-5cQe2GVJNabUn2BcFe0mZIBsYd-rdxzAkk5GoVVhjholrgDwETjASwGdV1l_hq41aIiQ9mmC7RmSOvW9XfgGSPPjT3jlJC3_tNzaN-3B045jWoAdAkj-h_kcmrHdg9hJTlm77YV0REIF3Pzl9g5MmXGc2jRwd80jOtFHkEnkhzAXdSBXl-uz5K3j5pZgA0KbTNcRGwFdnZqy7Ju0cmjFGUQbmPGladn6g_HhI175MsGsfBtN97HL7Rk73SOEJEJtLubJPM6E0SMxDgCNpy8mezoALDrG7IYOd9zDikinMgO3RMig",
+                        "quality": "720p",
+                        "videoUrl": "https://hls1-eu.zcdn.stream/7e68bf0d588777d39633e54c73f3d00c/2023-06-10/720.m3u8?token=a68bdeb5a0f4fbe7696c7234f1a02665&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686406079&type=edge&node=H1PIMSzW8Y9m1WyARlY5BeR2fuMI8MQbSdl7y-5cQe2GVJNabUn2BcFe0mZIBsYd-rdxzAkk5GoVVhjholrgDwETjASwGdV1l_hq41aIiQ9mmC7RmSOvW9XfgGSPPjT3jlJC3_tNzaN-3B045jWoAdAkj-h_kcmrHdg9hJTlm77YV0REIF3Pzl9g5MmXGc2jRwd80jOtFHkEnkhzAXdSBXl-uz5K3j5pZgA0KbTNcRGwFdnZqy7Ju0cmjFGUQbmPGladn6g_HhI175MsGsfBtN97HL7Rk73SOEJEJtLubJPM6E0SMxDgCNpy8mezoALDrG7IYOd9zDikinMgO3RMig",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls1-eu.zcdn.stream/7e68bf0d588777d39633e54c73f3d00c/2023-06-10/360.m3u8?token=a68bdeb5a0f4fbe7696c7234f1a02665&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686406079&type=edge&node=H1PIMSzW8Y9m1WyARlY5BeR2fuMI8MQbSdl7y-5cQe2GVJNabUn2BcFe0mZIBsYd-rdxzAkk5GoVVhjholrgDwETjASwGdV1l_hq41aIiQ9mmC7RmSOvW9XfgGSPPjT3jlJC3_tNzaN-3B045jWoAdAkj-h_kcmrHdg9hJTlm77YV0REIF3Pzl9g5MmXGc2jRwd80jOtFHkEnkhzAXdSBXl-uz5K3j5pZgA0KbTNcRGwFdnZqy7Ju0cmjFGUQbmPGladn6g_HhI175MsGsfBtN97HL7Rk73SOEJEJtLubJPM6E0SMxDgCNpy8mezoALDrG7IYOd9zDikinMgO3RMig",
+                        "quality": "360p",
+                        "videoUrl": "https://hls1-eu.zcdn.stream/7e68bf0d588777d39633e54c73f3d00c/2023-06-10/360.m3u8?token=a68bdeb5a0f4fbe7696c7234f1a02665&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1686406079&type=edge&node=H1PIMSzW8Y9m1WyARlY5BeR2fuMI8MQbSdl7y-5cQe2GVJNabUn2BcFe0mZIBsYd-rdxzAkk5GoVVhjholrgDwETjASwGdV1l_hq41aIiQ9mmC7RmSOvW9XfgGSPPjT3jlJC3_tNzaN-3B045jWoAdAkj-h_kcmrHdg9hJTlm77YV0REIF3Pzl9g5MmXGc2jRwd80jOtFHkEnkhzAXdSBXl-uz5K3j5pZgA0KbTNcRGwFdnZqy7Ju0cmjFGUQbmPGladn6g_HhI175MsGsfBtN97HL7Rk73SOEJEJtLubJPM6E0SMxDgCNpy8mezoALDrG7IYOd9zDikinMgO3RMig",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
