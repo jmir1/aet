@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-my-favorite/",
+                                "title": "Be My Favorite (3/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
+                            },
+                            {
+                                "url": "/blue-birthday-2023/",
+                                "title": "Blue Birthday (2023) (3/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
+                            },
+                            {
                                 "url": "/one-day-you-will-reach-the-sea/",
                                 "title": "One Day You Will Reach The Sea",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg"
@@ -15,16 +25,6 @@
                                 "url": "/16995/",
                                 "title": "Tenshi no iru Toshokan",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg"
-                            },
-                            {
-                                "url": "/blue-birthday-2023/",
-                                "title": "Blue Birthday (2023) (2/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
-                            },
-                            {
-                                "url": "/be-my-favorite/",
-                                "title": "Be My Favorite (2/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
                             },
                             {
                                 "url": "/segodon-sub-espanol/",
@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-my-favorite/",
+                                "title": "Be My Favorite (3/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
+                            },
+                            {
+                                "url": "/blue-birthday-2023/",
+                                "title": "Blue Birthday (2023) (3/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
+                            },
+                            {
                                 "url": "/one-day-you-will-reach-the-sea/",
                                 "title": "One Day You Will Reach The Sea",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/16995/",
                                 "title": "Tenshi no iru Toshokan",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg"
-                            },
-                            {
-                                "url": "/blue-birthday-2023/",
-                                "title": "Blue Birthday (2023) (2/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
-                            },
-                            {
-                                "url": "/be-my-favorite/",
-                                "title": "Be My Favorite (2/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
                             },
                             {
                                 "url": "/segodon-sub-espanol/",
@@ -393,27 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/one-day-you-will-reach-the-sea/",
-                    "title": "One Day You Will Reach The Sea",
-                    "description": "Mana Kotani fue amiga de Sumire Utsuki durante años. Admiraba las costumbres desenfadadas y el misterioso encanto de Sumire, pero ésta rompió su relación con ella. Esta es la historia del duelo de 12 años de Mana, una mujer que no puede aceptar la muerte de su mejor amiga, mirándola mientras intenta dar un paso adelante mientras tiene un profundo dolor.",
-                    "genre": "Drama, Psicológico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/4526565/",
-                        "name": "Sub. Español",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
