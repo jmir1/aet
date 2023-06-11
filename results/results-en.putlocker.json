@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/fear-the-walking-dead-39491/",
+                                "title": "Fear the Walking Dead - Season 8",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/4b9badc8daba8cc72ea5f456b28a40f1.jpg"
+                            },
+                            {
                                 "url": "/film/the-secret-kingdom-97438/",
                                 "title": "The Secret Kingdom",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/5720154a6131712004af623f5f83d8fa.jpg"
@@ -204,11 +209,6 @@
                                 "url": "/film/silo-96262/",
                                 "title": "Silo - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/d647891fbe0106f96a358ee8b463d622.jpg"
-                            },
-                            {
-                                "url": "/film/cold-case-killers-77845/",
-                                "title": "Cold Case Killers - Season 2",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/307a185ccd45cd725e70065d0e72b798.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -428,11 +428,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/the-secret-kingdom-97438/",
-                    "title": "The Secret Kingdom",
+                    "url": "/film/fear-the-walking-dead-39491/",
+                    "title": "Fear the Walking Dead",
                     "author": "",
-                    "description": "Verity and Peter’s trip to the old family mansion takes a turn when the floor of their room suddenly gives way and they fall into an underground chamber where they are met by a civilization of creatures. The leader tells them that Peter's arrival was foretold as he’s the one who can use Great Clock of the Citadel to restart time and destroy the Shroud, a malevolent creature who feeds on fear itself...\n\nQuality: HD\nRelease: 2023-04-27\nIMDb: n/a",
-                    "genre": "Family, Fantasy, Adventure",
+                    "description": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.\n\nQuality: HD\nRelease: 2015-08-23\nIMDb: 6.8",
+                    "genre": "Drama, Horror, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -440,11 +440,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":8,\"ids\":[\"39491_8_1\",\"39491_8_2\",\"39491_8_3\"]}",
+                        "name": "Episode 8: ",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "{\"ep_num\":7,\"ids\":[\"39491_7_1\",\"39491_7_2\",\"39491_7_3\"]}",
+                        "name": "Episode 7: ",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
