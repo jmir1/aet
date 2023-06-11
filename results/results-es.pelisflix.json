@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/inseparables/",
+                                "title": "Inseparables",
+                                "description": "Felipe un empresario adinerado que ha quedado tetrapléjico, debido a un accidente, está buscando a...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/dIwF55Hh8JOs7IWlo2fYC8gUnVgVOqyRYV.webp"
+                            },
+                            {
                                 "url": "/pelicula/en-temporada-baja/",
                                 "title": "En temporada baja",
                                 "description": "",
@@ -37,7 +43,7 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Z9vjhqsEFk5X2CrSAZ.webp"
                             },
                             {
-                                "url": "/pelicula/el-triangulo-de-la-tristeza-zxqp/",
+                                "url": "/pelicula/el-triangulo-de-la-tristeza-zhun/",
                                 "title": "El triángulo de la tristeza",
                                 "description": "Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son invitados a un yate en ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/dHoCMYZ0a1tBGBJNE1DEl1C9EAmxDFfGdu9Pi.webp"
@@ -151,7 +157,7 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/K1kFsoH2lytvt9WrCxIvtjRVDTlMyty9kJEDXcv.webp"
                             },
                             {
-                                "url": "/pelicula/culpa-mia/",
+                                "url": "/pelicula/culpa-mia-zbfk/",
                                 "title": "Culpa mía",
                                 "description": "Noah debe dejar su ciudad, novio y amigos para mudarse a la mansión de William Leister, el flamante...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/S6v9MldtYcSGln0QmLAYTE4RnfI11SMJO8JrjM.webp"
@@ -217,7 +223,7 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/krwbtAAfzRtiziOLjDfHZi7RExbbXvL8.webp"
                             },
                             {
-                                "url": "/pelicula/las-ocho-montanas/",
+                                "url": "/pelicula/las-ocho-montanas-zpux/",
                                 "title": "Las ocho montañas",
                                 "description": "Pietro es un chico de ciudad, Bruno es el último niño de una localidad de montaña olvidada. Con e...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xZEMDC6EWmFQDBWtBw2lh.webp"
@@ -239,12 +245,6 @@
                                 "title": "Biggie: I Got a Story to Tell",
                                 "description": "Christopher Wallace, también conocido como The Notorious B.I.G., sigue siendo uno de los iconos del...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Yu0VYAmhfd8fAwiha2uFCgnoaMDBKazyupkiPwqUzo00.webp"
-                            },
-                            {
-                                "url": "/pelicula/神探大戰/",
-                                "title": "神探大戰",
-                                "description": "Cuando Hong Kong se ve sacudido por múltiples asesinatos espantosos, la policía forma un grupo de ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/GYQtmX5A5zq7O3ZB9ByhRYBZ5g.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/en-temporada-baja/",
-                    "title": "En temporada baja",
-                    "description": "",
-                    "genre": "Uncategorized",
+                    "url": "/pelicula/inseparables/",
+                    "title": "Inseparables",
+                    "description": "Felipe un empresario adinerado que ha quedado tetrapléjico, debido a un accidente, está buscando a un asistente terapéutico. Se presentan varios muy calificados, pero él decide tomar al ayudante de su jardinero, Tito que ha decidido renunciar. Tito no reúne ni por cerca las condiciones requeridas para tal empleo, cosa que notan inmediatamente las personas más cercanas a Felipe: Verónica e Ivonne su ama de llaves, pero Felipe mantiene firme su decisión. Tito es la única persona, en mucho tiempo, que no lo trata con compasión. Remake del film francés 'Intouchables' (2011).",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/en-temporada-baja/",
+                        "url": "/pelicula/inseparables/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar wdOgQMbr = \"\"; GNjBjLAR.forEach(function Oym(value) { wdOgQMbr += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
