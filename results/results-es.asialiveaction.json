@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/mirai-san/",
+                                "title": "Mirai-san Temporada Completa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg"
+                            },
+                            {
                                 "url": "/be-my-favorite/",
                                 "title": "Be My Favorite (3/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/bora-deborah/",
                                 "title": "Bora! Deborah (3/14)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oP1SuucuhDSimnAaZIG6zRz5IQ.jpg"
-                            },
-                            {
-                                "url": "/cutie-pie-2-you/",
-                                "title": "Cutie Pie 2 You (2/4)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yAmpFSUU9CnqLC4Psb4WkX30U8i.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/mirai-san/",
+                                "title": "Mirai-san Temporada Completa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg"
+                            },
+                            {
                                 "url": "/be-my-favorite/",
                                 "title": "Be My Favorite (3/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/bora-deborah/",
                                 "title": "Bora! Deborah (3/14)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oP1SuucuhDSimnAaZIG6zRz5IQ.jpg"
-                            },
-                            {
-                                "url": "/cutie-pie-2-you/",
-                                "title": "Cutie Pie 2 You (2/4)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yAmpFSUU9CnqLC4Psb4WkX30U8i.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,32 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/mirai-san/",
+                    "title": "Mirai-san Temporada Completa",
+                    "description": "Muestra la modesta vida cotidiana de una familia japonesa del futuro. Mirai Konno es una joven que no hace nada más que jugar juegos todos los días. Limpia pero indulgente consigo misma y dice que no se atreverá a trabajar «para un futuro sin que los seres humanos trabajen». Debido a que se niega a trabajar, Mirai tiene peleas constantes con su padre, Furukichi. Imako, su madre, regaña suavemente a su familia y tienen un robot mascota llamado Kotaro. El hermano mayor, Morou, que apoya a su hermana, es un investigador que desarrolla herramientas futuras. A pesar de que desarrolla varias herramientas para Mirai, Mirai las usa para hacer bromas. ¿Qué tipo de estilo de vida tiene la familia del futuro? Es una historia familiar brillante, una historia futura brillante.",
+                    "genre": "Aventura, Ciencia Ficción, Comedia, Drama, Fantasía",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/2126575/",
+                        "name": "Episodio 05 FINAL",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/paste/5026574/",
+                        "name": "Episodio 04",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
