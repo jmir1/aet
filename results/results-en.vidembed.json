@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/daliland-2023",
+                                "title": "Daliland",
+                                "thumbnail_url": "https://images.movembed.cc//cover/daliland-2023-1686561632.jpg"
+                            },
+                            {
+                                "url": "/videos/an-unforgettable-year-autumn-2023",
+                                "title": "An Unforgettable Year: Autumn",
+                                "thumbnail_url": "https://images.movembed.cc//cover/an-unforgettable-year-autumn-2023-1686561629.jpg"
+                            },
+                            {
+                                "url": "/videos/love-honor-and-obey-2001",
+                                "title": "Love, Honor and Obey",
+                                "thumbnail_url": "https://images.movembed.cc//cover/love-honor-and-obey-2001-1686559528.jpg"
+                            },
+                            {
                                 "url": "/videos/real-love-2023",
                                 "title": "Real Love",
                                 "thumbnail_url": "https://images.movembed.cc//cover/real-love-2023-1686546028.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/flamin-hot-2023",
                                 "title": "Flamin' Hot",
                                 "thumbnail_url": "https://images.movembed.cc//cover/flamin-hot-2023-1686313228.jpg"
-                            },
-                            {
-                                "url": "/videos/you-do-you-2023",
-                                "title": "You Do You",
-                                "thumbnail_url": "https://images.movembed.cc//cover/you-do-you-2023-1686313227.jpg"
-                            },
-                            {
-                                "url": "/videos/the-wonder-weeks-2023",
-                                "title": "The Wonder Weeks",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-wonder-weeks-2023-1686313227.jpg"
-                            },
-                            {
-                                "url": "/videos/97-minutes-2023",
-                                "title": "97 Minutes",
-                                "thumbnail_url": "https://images.movembed.cc//cover/97-minutes-2023-1686313226.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/real-love-2023",
-                    "title": "Real Love",
-                    "description": "It follows Kendra as she goes to an HBCU in North Carolina. Kendra is determined to focus on school while balancing work study and keeping things professional with her photo class partner.",
+                    "url": "/videos/daliland-2023",
+                    "title": "Daliland",
+                    "description": "In 1973, a young gallery assistant goes on a wild adventure behind the scenes as he helps the aging genius Salvador Dali prepare for a big show in New York.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,223 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/real-love-2023",
-                        "name": "Real Love",
+                        "url": "/videos/daliland-2023",
+                        "name": "Daliland",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeta4fk7oj6cdabkcvhahfqcgchf3k4xkbgkvtm5kl5upqmmmcbafuiza/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeta4fk7oj6cdabkcvhahfqcgchf3k4xkbgkvtm5kl5upqmmmcbafuiza/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/q2j4odp7acog?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeta4fk7oj6cdabkcvhahfqcgchf3k4xkbgkvtd7kp5upqmmg77qt4w3a/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeta4fk7oj6cdabkcvhahfqcgchf3k4xkbgkvtd7kp5upqmmg77qt4w3a/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/q2j4odp7acog?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfqaxfk7oj6cdabkcvhahfqv3lz2okq5s7vupboc5k67qgj72hdqnhmva/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfqaxfk7oj6cdabkcvhahfqv3lz2okq5s7vupboc5k67qgj72hdqnhmva/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/36ov4w91up6m?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfqaxfk7oj6cdabkcvhahfqv3lz2okq5s7vupbba5o67qgj7445qdrvoq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfqaxfk7oj6cdabkcvhahfqv3lz2okq5s7vupbba5o67qgj7445qdrvoq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/36ov4w91up6m?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxf2yyfk7oj6cdabkcvhahfreylvevceaawr5tsrso4ocpe5nsvhbxaema/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxf2yyfk7oj6cdabkcvhahfreylvevceaawr5tsrso4ocpe5nsvhbxaema/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/mwxmcmhhmy21?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxf2yyfk7oj6cdabkcvhahfreylvevceaawr5ts6qoyocpe5nwhswitgsq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxf2yyfk7oj6cdabkcvhahfreylvevceaawr5ts6qoyocpe5nwhswitgsq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/mwxmcmhhmy21?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxffyzfk7oj6cdabkcvhahfr7xrwjukvgibcd3qemjkm5alouqtt4fxmjq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxffyzfk7oj6cdabkcvhahfr7xrwjukvgibcd3qemjkm5alouqtt4fxmjq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/3cu5srf41kyb?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxffyzfk7oj6cdabkcvhahfr7xrwjukvgibcd3qlojom5alouxredboy3q/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxffyzfk7oj6cdabkcvhahfr7xrwjukvgibcd3qlojom5alouxredboy3q/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/3cu5srf41kyb?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfyizfk7oj6cdabkcvhahftnz4fty3r4b5a3igpkh4ralapdvyyoqyhha/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfyizfk7oj6cdabkcvhahftnz4fty3r4b5a3igpkh4ralapdvyyoqyhha/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/q8outlpj0mrr?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfyizfk7oj6cdabkcvhahftnz4fty3r4b5a3igaihyralapd563skvawa/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfyizfk7oj6cdabkcvhahftnz4fty3r4b5a3igaihyralapd563skvawa/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/q8outlpj0mrr?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeri6fk7oj6cdabkcvhahfq5eejs3j75nkohg2efmkorajcxifkfoiscq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeri6fk7oj6cdabkcvhahfq5eejs3j75nkohg2efmkorajcxifkfoiscq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/tljujbi7e5rx?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeri6fk7oj6cdabkcvhahfq5eejs3j75nkohg2lhmoorajcxayzy6zsza/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeri6fk7oj6cdabkcvhahfq5eejs3j75nkohg2lhmoorajcxayzy6zsza/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/tljujbi7e5rx?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfgi6fk7oj6cdabkcvhahfs2vaton2ffyxrmpyp6oi5vhfkpmwr7vsw4q/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfgi6fk7oj6cdabkcvhahfs2vaton2ffyxrmpyp6oi5vhfkpmwr7vsw4q/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/a7f597q5potv?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfgi6fk7oj6cdabkcvhahfs2vaton2ffyxrmpya4om5vhfkpnsnacfecq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfgi6fk7oj6cdabkcvhahfs2vaton2ffyxrmpya4om5vhfkpnsnacfecq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/a7f597q5potv?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeka7fk7oj6cdabkcvhahfqwj7fkp2xjgjy4xafldtyg3w2kxcbynyhhq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeka7fk7oj6cdabkcvhahfqwj7fkp2xjgjy4xafldtyg3w2kxcbynyhhq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/hapu7qke775j?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeka7fk7oj6cdabkcvhahfqwj7fkp2xjgjy4xakjdxyg3w2k7evwjthgq/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxeka7fk7oj6cdabkcvhahfqwj7fkp2xjgjy4xakjdxyg3w2k7evwjthgq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/hapu7qke775j?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfja4fk7oj6cdabkcvhahfs7pxqlhwfy2n3oianppgkh623ai2hhqhqra/index-v1-a1.m3u8",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfja4fk7oj6cdabkcvhahfs7pxqlhwfy2n3oianppgkh623ai2hhqhqra/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/d6fa2gn0d9kh?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfja4fk7oj6cdabkcvhahfs7pxqlhwfy2n3oiacnpckh623adu4qav32a/index-v1-a1.m3u8",
+                        "quality": "StreamSB:1040p",
+                        "videoUrl": "https://ivwwm3xbkqa1qivq.akamai-video-content.com/hls/tysxfja4fk7oj6cdabkcvhahfs7pxqlhwfy2n3oiacnpckh623adu4qav32a/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/d6fa2gn0d9kh?caption_1=https://sub.membed.net/sub&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/v/JvoqvKYq0PSj1OW/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/JvoqvKYq0PSj1OW/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NDU3"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
