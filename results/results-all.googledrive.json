@@ -3,11 +3,11 @@
         "name": "Google Drive",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: Enter drive path(s) in extension settings.",
+                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.Exception: Enter drive path(s) in extension settings.",
+                "error": "java.lang.IllegalArgumentException: Search is disabled. Use search in webview and add it as a single folder in filters.",
                 "passed": false
             },
             "details": {

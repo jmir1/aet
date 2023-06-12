@@ -7,64 +7,8 @@
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/skeleton-knight-in-another-world/",
-                                "title": "Skeleton Knight in Another World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/kztE76NfhDw1LFVyOHVp2a48czQ.jpg"
-                            },
-                            {
-                                "url": "/arifureta-from-commonplace-to-worlds-strongest-3/",
-                                "title": "Arifureta: From Commonplace to World’s Strongest",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg"
-                            },
-                            {
-                                "url": "/drug-store-in-another-world-the-slow-life-of-a-cheat-pharmacist/",
-                                "title": "Drug Store in Another World – The Slow Life of a Cheat Pharmacist",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/7vyK57Er6hG2YBlMzEXAfNIR9P0.jpg"
-                            },
-                            {
-                                "url": "/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat/",
-                                "title": "The World’s Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ouXd86v2v3malAgMiFlUa0dYqr9.jpg"
-                            },
-                            {
-                                "url": "/one-piece-strong-world/",
-                                "title": "One Piece: Strong World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
-                            },
-                            {
-                                "url": "/accel-world-infinite-burst/",
-                                "title": "Accel World: Infinite Burst",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/iajz3MryH5xDq3VP5gBAWwWzaQe.jpg"
-                            },
-                            {
-                                "url": "/the-rising-of-the-shield-hero/",
-                                "title": "The Rising of the Shield Hero",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg"
-                            },
-                            {
-                                "url": "/mortal-kombat-legends-scorpions-revenge/",
-                                "title": "Mortal Kombat Legends: Scorpion’s Revenge",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/mo5Zsj4twtixhyeYZshBOM62lcN.jpg"
-                            },
-                            {
-                                "url": "/akira/",
-                                "title": "Akira",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/fDRZmPUPUHTxULsuSjPIqPHKjuE.jpg"
-                            },
-                            {
-                                "url": "/hack-g-u-trilogy/",
-                                "title": "hack G.U. Trilogy",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/2abvE3y4etR2hBtPfFzRVtwNVzG.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
                 "error": "java.lang.Exception: bruh",
@@ -75,7 +19,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }

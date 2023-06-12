@@ -3,228 +3,24 @@
         "name": "AnimeForce",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-episodio-10/",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen--300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/world-dai-star-episodio-10/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/World-Dai-Star-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/my-home-hero-episodio-11/",
-                                "title": "My Home Hero",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/My-Home-Hero-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/jijou-wo-shiranai-tenkousei-ga-guigui-kuru-episodio-11/",
-                                "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Jijou-wo-Shiranai-Tenkousei-ga-Guigui-Kuru.-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-episodio-11/",
-                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Tensei-Kizoku-no-Isekai-Boukenroku-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/mobile-suit-gundam-the-witch-from-mercury-2-episodio-09/",
-                                "title": "Mobile Suit Gundam: The Witch from Mercury 2",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Mobile-Suit-Gundam-The-Witch-from-Mercury-2-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/one-piece-episodio-1065/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/1999/09/OnePiece-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/isekai-shoukan-wa-nidome-desu-episodio-10/",
-                                "title": "Isekai Shoukan wa Nidome desu",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Isekai-Shoukan-wa-Nidome-desu-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/boku-no-kokoro-no-yabai-yatsu-episodio-11/",
-                                "title": "Boku no Kokoro no Yabai Yatsu",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Boku-no-Kokoro-no-Yabai-Yatsu-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/otonari-ni-ginga-episodio-10/",
-                                "title": "Otonari ni Ginga",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Otonari-ni-Ginga-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/yamada-kun-to-lv999-no-koi-wo-suru-episodio-11/",
-                                "title": "Yamada-kun to Lv999 no Koi wo Suru",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Yamada-kun-to-Lv999-no-Koi-wo-Suru-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/jigokuraku-episodio-10/",
-                                "title": "Jigokuraku",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Jigokuraku-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/pocket-monsters-2023-episodio-10/",
-                                "title": "Pocket Monsters (2023)",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Pocket-Monsters-2023-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/tengoku-daimakyou-episodio-11/",
-                                "title": "Tengoku Daimakyou",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Tengoku-Daimakyou-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/mix-meisei-story-2-episodio-11/",
-                                "title": "Mix: Meisei Story 2",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Mix-2-aspect-ratio-640x960-300x450.jpg"
-                            },
-                            {
-                                "url": "/episode/edomae-elf-episodio-10/",
-                                "title": "Edomae Elf",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Edomae-Elf-300x450.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/world-dai-star/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/World-Dai-Star-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/dr-stone-new-world/",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Dr.-Stone-3-aspect-ratio-640x960-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/shin-tennis-no-ouji-sama-u-17-world-cup/",
-                                "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2022/06/Shin-Tennis-no-Ouji-sama-U-17-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-3/",
-                                "title": "World Trigger 3",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2021/09/World-Trigger-3-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-hero-academia-the-movie-3-world-heroes-mission/",
-                                "title": "Boku no Hero Academia the Movie 3: World Heroes’ Mission",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2021/08/MHA-Movie-3-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/hetalia-world★stars/",
-                                "title": "Hetalia World★Stars",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2021/03/Hetalia-World★Stars-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/world-witches-hasshin-shimasu/",
-                                "title": "World Witches Hasshin Shimasu!",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2021/01/World-Witches-Hasshin-Shimasu-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-2/",
-                                "title": "World Trigger 2",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2021/01/World-Trigger-2-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/sword-art-online-alicization-war-of-underworld-2/",
-                                "title": "Sword Art Online: Alicization – War of Underworld 2",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2020/03/Sword-Art-Online-Alicization-War-of-Underworld-2-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/sword-art-online-alicization-war-of-underworld/",
-                                "title": "Sword Art Online: Alicization – War of Underworld",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2019/08/SwordArtOnlineAlicizationPart2-300x450.png"
-                            },
-                            {
-                                "url": "/anime/kino-no-tabi-the-beautiful-world-the-animated-series/",
-                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2017/09/KinoNoTabiTheBeautifulWorldTheAnimatedSeries-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/accel-world-infinite-burst/",
-                                "title": "Accel World: Infinite Burst",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2020/01/AccelWorldInfiniteBurstCV-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/musaigen-no-phantom-world/",
-                                "title": "Musaigen no Phantom World",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2020/04/Musaigen-no-Phantom-World-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/seiken-tsukai-no-world-break/",
-                                "title": "Seiken Tsukai no World Break",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2022/03/Seiken-Tsukai-no-World-Break-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger/",
-                                "title": "World Trigger",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2020/12/World-Trigger-300x450.jpg"
-                            },
-                            {
-                                "url": "/anime/accel-world/",
-                                "title": "Accel World",
-                                "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2020/01/AccelWorldCV-300x450.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-episodio-10/",
-                    "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                    "description": "Seguito di \"\". Per la prima volta dopo centotredici anni, un demone delle Lune Crescenti è venuto a mancare e, in preda all’ira, Muzan impartisce dei nuovi ordini a tutti quelli rimasti! Nel frattempo, Haganezuka dà in escandescenze perché la katana di Tanjiro si è scheggiata durante la battaglia contro Gyutaro. Il ragazzo farà visita personalmente al villaggio dei forgiatori di spade dove risiede per chiedergliene una nuova...\n\nStato: In Corso\nTipologia: TV\nStagione: Primavera 2023",
-                    "genre": "Azione, Demoni, Fantasy, Shounen, Storico",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animeforce.it/wp-content/uploads/2023/03/Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen--300x450.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-episodio-10/",
-                        "name": "Episodio 010",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-episodio-09/",
-                        "name": "Episodio 009",
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.animeforce.it/episode/kimetsu-no-yaiba-katanakaji-no-sato-hen-episodio-10/",
-                        "quality": "Best",
-                        "videoUrl": "https://www.littlebigproject.org/DDL/ANIME/KimetsuNoYaibaKatanakajiNoSato-hen/KimetsuNoYaibaKatanakajiNoSato-hen_Ep_10_SUB_ITA.mp4",
-                        "headers": {
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Accept-Language": "en-US,en;q=0.5",
-                            "Referer": "https://www.animeforce.it/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }
