@@ -3,15 +3,15 @@
         "name": "LegionAnime",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             },
             "details": {
