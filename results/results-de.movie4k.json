@@ -67,14 +67,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=647c80837c5a45f937cafa05",
-                                "title": "13 Exorcisms",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8LpnMIqpRiwxpbGR33ALCmVl7gj.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=648245036fe5005aa710f8aa",
                                 "title": "Culpa Mia - Meine Schuld",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/slzaPwGjl1eejJQYDVykq3UWK9M.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=647c80837c5a45f937cafa05",
+                                "title": "13 Exorcisms",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8LpnMIqpRiwxpbGR33ALCmVl7gj.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=6470163e1076d2b303a49e8f",
@@ -92,13 +92,8 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=647c80847c5a45f937cafa08",
-                    "title": "Spider-Man: Across the Spider-Verse",
-                    "description": "Brooklyns freundliche Spinne aus der Nachbarschaft ist zurück! Nachdem sich Miles Morales (Stimme im Original: Shameik Moore) aka Spider-Man gerade erst an seine Rolle gewöhnt hat, wird er bereits in sein nächstes Abenteuer und quer durch das neu entdeckte Multiversum geschleudert. Um dessen Existenz zu schützen, muss sich Spider-Man zusammen mit Gwen Stacy (Hailee Steinfeld) und einem neuen Spider-Team (u.a. Oscar Isaac, Daniel Kaluuya, Karan Soni) einem Bösewicht stellen, der mächtiger ist als alles, was ihnen bisher begegnet ist. Nur mit vereinten Kräften ist es ihnen vielleicht möglich, die Welt zu retten. Doch welche ist die richtige Vorgehensweise, um der Bedrohung zu begegnen? Als die vielen Helden der Spider-People über diese Frage aneinandergeraten, muss Miles seine eigene Rolle als Held neu definieren, um die Menschen zu retten, die er liebt.\n\nSequel zu „Spider-Man: A New Universe“ um Miles Morales.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -115,67 +110,67 @@
                     {
                         "url": "https://voe.sx/uqwtryvhmixi",
                         "quality": "Voe",
-                        "videoUrl": "https://delivery-node-kasim.voe-network.net/engine/hls2/01/09056/yccfpvimlzwo_n/master.m3u8?t=v9MAFFYMglbzbEsKJ9AzOCGm75uNvkU9k6-863vcYeE&s=1686636543&e=14400&f=45551525&node=delivery-node-kasim.voe-network.net&i=40.84&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-n5pskzpdwfihlhnd.voe-network.net/engine/hls2-c/01/09056/yccfpvimlzwo_n/master.m3u8?t=JLadLKfzJYlvzml_xptURiGQLvAM-Vm93n9rJrj0uiM&s=1686658360&e=14400&f=45551525&node=delivery-node-kasim.voe-network.net&i=13.83&sp=3500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=kPXeOrdalmtOxym&expires=1686706543&ip=GxOsFxqnDS9X&token=o5btM0g6BlyO",
+                        "url": "https://streamtape.com/get_video?id=kPXeOrdalmtOxym&expires=1686728359&ip=F0AsFxOnDS9X&token=aGaTZpX6am4_",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kPXeOrdalmtOxym&expires=1686706543&ip=GxOsFxqnDS9X&token=o5btM0g6BlyO"
+                        "videoUrl": "https://streamtape.com/get_video?id=kPXeOrdalmtOxym&expires=1686728359&ip=F0AsFxOnDS9X&token=aGaTZpX6am4_"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=6KzAa7PJ3zcZlw&expires=1686706543&ip=GxOsFxqnDS9X&token=KJFTqzitOS6X",
+                        "url": "https://streamtape.com/get_video?id=6KzAa7PJ3zcZlw&expires=1686728359&ip=F0AsFxOnDS9X&token=1ctuS-Ha3aTo",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6KzAa7PJ3zcZlw&expires=1686706543&ip=GxOsFxqnDS9X&token=KJFTqzitOS6X"
+                        "videoUrl": "https://streamtape.com/get_video?id=6KzAa7PJ3zcZlw&expires=1686728359&ip=F0AsFxOnDS9X&token=1ctuS-Ha3aTo"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686706542&ip=GxOsFxqnDS9X&token=myWeRcl6HWak",
+                        "url": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686728359&ip=F0AsFxOnDS9X&token=ol2tP9KAOKUl",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686706542&ip=GxOsFxqnDS9X&token=myWeRcl6HWak"
+                        "videoUrl": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686728359&ip=F0AsFxOnDS9X&token=ol2tP9KAOKUl"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686706542&ip=GxOsFxqnDS9X&token=myWeRcl6HWak",
+                        "url": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686728359&ip=F0AsFxOnDS9X&token=ol2tP9KAOKUl",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686706542&ip=GxOsFxqnDS9X&token=myWeRcl6HWak"
+                        "videoUrl": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686728359&ip=F0AsFxOnDS9X&token=ol2tP9KAOKUl"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686706542&ip=GxOsFxqnDS9X&token=myWeRcl6HWak",
+                        "url": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686728358&ip=F0AsFxOnDS9X&token=_cuVFjWTTOSH",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686706542&ip=GxOsFxqnDS9X&token=myWeRcl6HWak"
+                        "videoUrl": "https://streamtape.com/get_video?id=Vzx16oKkWbUKDGe&expires=1686728358&ip=F0AsFxOnDS9X&token=_cuVFjWTTOSH"
                     },
                     {
                         "url": "https://voe.sx/e/wzng87bbsdgy?🎧🇩🇪?1",
                         "quality": "Voe",
-                        "videoUrl": "https://delivery-node-aram.voe-network.net/engine/hls2/01/09094/6n71ezhbl9ik_n/master.m3u8?t=wyLtjkJ8ai4yA7w3mNXRzKrDK9kzLt2hxFMEG4uXKRc&s=1686636542&e=14400&f=45531098&node=delivery-node-aram.voe-network.net&i=40.84&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-aram.voe-network.net/engine/hls2/01/09094/6n71ezhbl9ik_n/master.m3u8?t=bkWvqg7yO8SG40Ku8kbH2sLmYGtOe43MDgzRD0-EM_o&s=1686658358&e=14400&f=45531098&node=delivery-node-aram.voe-network.net&i=13.83&sp=3500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=k01O2100OYHOMoD&expires=1686706540&ip=GxOsFxqnDS9X&token=HVTctIcQXDbF",
+                        "url": "https://streamtape.com/get_video?id=k01O2100OYHOMoD&expires=1686728357&ip=F0AsFxOnDS9X&token=ThmMvjG1XsZG",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=k01O2100OYHOMoD&expires=1686706540&ip=GxOsFxqnDS9X&token=HVTctIcQXDbF"
+                        "videoUrl": "https://streamtape.com/get_video?id=k01O2100OYHOMoD&expires=1686728357&ip=F0AsFxOnDS9X&token=ThmMvjG1XsZG"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=XbqoVeoQK0FPvD&expires=1686706540&ip=GxOsFxqnDS9X&token=bpol9glBkd9y",
+                        "url": "https://streamtape.com/get_video?id=XbqoVeoQK0FPvD&expires=1686728356&ip=F0AsFxOnDS9X&token=EaVxr2Wc0TGJ",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XbqoVeoQK0FPvD&expires=1686706540&ip=GxOsFxqnDS9X&token=bpol9glBkd9y"
+                        "videoUrl": "https://streamtape.com/get_video?id=XbqoVeoQK0FPvD&expires=1686728356&ip=F0AsFxOnDS9X&token=EaVxr2Wc0TGJ"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=6e3dL3RzGks9MxL&expires=1686706540&ip=GxOsFxqnDS9X&token=FI1MyfShqa9l",
+                        "url": "https://streamtape.com/get_video?id=6e3dL3RzGks9MxL&expires=1686728356&ip=F0AsFxOnDS9X&token=flgXN4ILpAF7",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6e3dL3RzGks9MxL&expires=1686706540&ip=GxOsFxqnDS9X&token=FI1MyfShqa9l"
+                        "videoUrl": "https://streamtape.com/get_video?id=6e3dL3RzGks9MxL&expires=1686728356&ip=F0AsFxOnDS9X&token=flgXN4ILpAF7"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686706539&ip=GxOsFxqnDS9X&token=WtpaY4L-XaId",
+                        "url": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686728356&ip=F0AsFxOnDS9X&token=PzM4HKSyvUi0",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686706539&ip=GxOsFxqnDS9X&token=WtpaY4L-XaId"
+                        "videoUrl": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686728356&ip=F0AsFxOnDS9X&token=PzM4HKSyvUi0"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686706539&ip=GxOsFxqnDS9X&token=WtpaY4L-XaId",
+                        "url": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686728356&ip=F0AsFxOnDS9X&token=PzM4HKSyvUi0",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686706539&ip=GxOsFxqnDS9X&token=WtpaY4L-XaId"
+                        "videoUrl": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686728356&ip=F0AsFxOnDS9X&token=PzM4HKSyvUi0"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686706539&ip=GxOsFxqnDS9X&token=WtpaY4L-XaId",
+                        "url": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686728356&ip=F0AsFxOnDS9X&token=PzM4HKSyvUi0",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686706539&ip=GxOsFxqnDS9X&token=WtpaY4L-XaId"
+                        "videoUrl": "https://streamtape.com/get_video?id=jaGlg7aGGOTzk9L&expires=1686728356&ip=F0AsFxOnDS9X&token=PzM4HKSyvUi0"
                     }
                 ],
                 "passed": true
