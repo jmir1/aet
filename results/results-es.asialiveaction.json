@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/high-low-the-worst-x-2022/",
+                                "title": "High & Low The Worst X (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kRlMWoqx0pq0K78f4seWOWtaTkF.jpg"
+                            },
+                            {
                                 "url": "/mirai-san/",
                                 "title": "Mirai-san Temporada Completa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/the-warp-effect/",
                                 "title": "The Warp Effect (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kIcpJhj4aeMrnyEAqUHLezvH01L.jpg"
-                            },
-                            {
-                                "url": "/bora-deborah/",
-                                "title": "Bora! Deborah (3/14)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oP1SuucuhDSimnAaZIG6zRz5IQ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/high-low-the-worst-x-2022/",
+                                "title": "High & Low The Worst X (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kRlMWoqx0pq0K78f4seWOWtaTkF.jpg"
+                            },
+                            {
                                 "url": "/mirai-san/",
                                 "title": "Mirai-san Temporada Completa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/the-warp-effect/",
                                 "title": "The Warp Effect (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kIcpJhj4aeMrnyEAqUHLezvH01L.jpg"
-                            },
-                            {
-                                "url": "/bora-deborah/",
-                                "title": "Bora! Deborah (3/14)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oP1SuucuhDSimnAaZIG6zRz5IQ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,31 +394,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/mirai-san/",
-                    "title": "Mirai-san Temporada Completa",
-                    "description": "Muestra la modesta vida cotidiana de una familia japonesa del futuro. Mirai Konno es una joven que no hace nada más que jugar juegos todos los días. Limpia pero indulgente consigo misma y dice que no se atreverá a trabajar «para un futuro sin que los seres humanos trabajen». Debido a que se niega a trabajar, Mirai tiene peleas constantes con su padre, Furukichi. Imako, su madre, regaña suavemente a su familia y tienen un robot mascota llamado Kotaro. El hermano mayor, Morou, que apoya a su hermana, es un investigador que desarrolla herramientas futuras. A pesar de que desarrolla varias herramientas para Mirai, Mirai las usa para hacer bromas. ¿Qué tipo de estilo de vida tiene la familia del futuro? Es una historia familiar brillante, una historia futura brillante.",
-                    "genre": "Aventura, Ciencia Ficción, Comedia, Drama, Fantasía",
+                    "url": "/high-low-the-worst-x-2022/",
+                    "title": "High & Low The Worst X (2022)",
+                    "description": "La historia gira en torno a una nueva batalla entre escuelas secundarias. Esta vez la Oya High School en el área de SWORD se enfrenta a una alianza de tres escuelas. El lider de la escuela Senomon Technical High School, Kohei Amagai, construye una «alianza» con la escuela Kamasaka High School y la escuela Ebara Commercial High School, y expande así su poder con el objetivo de someter a la escuela Oya High School. Los alumnos de Oya High de repente son atrapados y atacados. ¿Podrá Fujio protegerlos con su propio puño?",
+                    "genre": "Acción",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kRlMWoqx0pq0K78f4seWOWtaTkF.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/2126575/",
-                        "name": "Episodio 05 FINAL",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/paste/5026574/",
-                        "name": "Episodio 04",
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
