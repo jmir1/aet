@@ -3,11 +3,11 @@
         "name": "GoogleDriveIndex",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: Enter drive path(s) in extension settings.",
+                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.Exception: Enter drive path(s) in extension settings.",
+                "error": "java.lang.IllegalArgumentException: Enter drive path(s) in extension settings.",
                 "passed": false
             },
             "details": {

@@ -32,19 +32,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w780/ultVhSglNH3mxzsZMoURQ323d9I.jpg"
                             },
                             {
-                                "url": "/donghua/apotheosis/",
-                                "title": "Apotheosis",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/afVIJViCX8SE1k5E9U2FYKYDQea.jpg"
+                                "url": "/donghua/shrouding-the-heavens/",
+                                "title": "Shrouding the Heavens",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/ultVhSglNH3mxzsZMoURQ323d9I.jpg"
                             },
                             {
-                                "url": "/donghua/war-god-system-im-counting-on-you/",
-                                "title": "War God System! I’m Counting On You!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/pZmCq8RcMGaBWYyqJGTStaC69GB.jpg"
+                                "url": "/donghua/eudemon-quest/",
+                                "title": "Eudemon Quest",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/g8gUDa5HE6PE480t0rDcHTLdVmG.jpg"
                             },
                             {
-                                "url": "/donghua/stellar-transformation-3/",
-                                "title": "Stellar Transformation 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/sXNvNC7Hy4THRcnseE1CVk7ZWdI.jpg"
+                                "url": "/donghua/a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized/",
+                                "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w780/6Fr7nT3E7cqafLgI5JARzYCiXt7.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -254,43 +254,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www.secvideo1.online/get_file/14/403bacf4508e8a2e5ab724baccc917437c33c6de51/695000/695195/695195_720p.mp4/",
-                        "quality": "AllVideo - 720p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/14/403bacf4508e8a2e5ab724baccc917437c33c6de51/695000/695195/695195_720p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/"
-                        }
-                    },
-                    {
-                        "url": "https://wht.nuplink.net/pool/pub/9b/75/04/daa3f728b933717c84d182e3b19b7504/367865260?token=89b197a233f8a6aaae989a9b81c737ba&ts=1686679781&ht=video/mp4",
-                        "quality": "Internal player - 720p",
-                        "videoUrl": "https://wht.nuplink.net/pool/pub/9b/75/04/daa3f728b933717c84d182e3b19b7504/367865260?token=89b197a233f8a6aaae989a9b81c737ba&ts=1686679781&ht=video/mp4"
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/14/c7856a7234d9169d5edb30973b3077419cdbc58e02/695000/695195/695195.mp4/",
-                        "quality": "AllVideo - 1080p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/14/c7856a7234d9169d5edb30973b3077419cdbc58e02/695000/695195/695195.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/"
-                        }
-                    },
-                    {
-                        "url": "https://www.secvideo1.online/get_file/14/af412414cb0a35d557cdc621cf13c8d9de51b381e7/695000/695195/695195_360p.mp4/",
-                        "quality": "AllVideo - 360p",
-                        "videoUrl": "https://www.secvideo1.online/get_file/14/af412414cb0a35d557cdc621cf13c8d9de51b381e7/695000/695195/695195_360p.mp4/",
-                        "headers": {
-                            "Referer": "https://www.secvideo1.online/"
-                        }
-                    },
-                    {
-                        "url": "https://pixeldrain.com/api/file/B67MCJzu",
-                        "quality": "Internal Video - pixeldrain.com",
-                        "videoUrl": "https://pixeldrain.com/api/file/B67MCJzu"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             }
         }
     }
