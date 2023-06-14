@@ -509,54 +509,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery492.akamai-video-content.com/hls2/01/11612/vp8v2to5p6cj_n/index-v1-a1.m3u8?t=rLgI8Aw_ALqm4hZwPLIpdoKqzT4gL0ckVfNVshTYPdU&s=1686722953&e=10800&f=58064488&srv=sto256&client=23.98.136.41&asn=8075",
-                        "quality": "SUB StreamSB:720p ",
-                        "videoUrl": "https://delivery492.akamai-video-content.com/hls2/01/11612/vp8v2to5p6cj_n/index-v1-a1.m3u8?t=rLgI8Aw_ALqm4hZwPLIpdoKqzT4gL0ckVfNVshTYPdU&s=1686722953&e=10800&f=58064488&srv=sto256&client=23.98.136.41&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://streamsb.top/e/vp8v2to5p6cj.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://m160.uqload.co/3rfku3kaxjw2q4drdkppjkfqdmn2ldfbwbbaarfsm2kvcm3cyyuyznz42boq/v.mp4",
-                        "quality": "SUB Uqload",
-                        "videoUrl": "https://m160.uqload.co/3rfku3kaxjw2q4drdkppjkfqdmn2ldfbwbbaarfsm2kvcm3cyyuyznz42boq/v.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "Referer": "https://www1.animeonline.ninja"
-                        }
-                    },
-                    {
-                        "url": "https://delivery492.akamai-video-content.com/hls2/01/11612/vp8v2to5p6cj_l/index-v1-a1.m3u8?t=rLgI8Aw_ALqm4hZwPLIpdoKqzT4gL0ckVfNVshTYPdU&s=1686722953&e=10800&f=58064488&srv=sto256&client=23.98.136.41&asn=8075",
-                        "quality": "SUB StreamSB:480p ",
-                        "videoUrl": "https://delivery492.akamai-video-content.com/hls2/01/11612/vp8v2to5p6cj_l/index-v1-a1.m3u8?t=rLgI8Aw_ALqm4hZwPLIpdoKqzT4gL0ckVfNVshTYPdU&s=1686722953&e=10800&f=58064488&srv=sto256&client=23.98.136.41&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "referer": "https://streamsb.top/e/vp8v2to5p6cj.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kz8M7MmzPWHOAzj&expires=1686792952&ip=FRAsF0gnDS9X&token=LqJJCUB4oyTa",
-                        "quality": "SUB StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kz8M7MmzPWHOAzj&expires=1686792952&ip=FRAsF0gnDS9X&token=LqJJCUB4oyTa"
-                    },
-                    {
-                        "url": "https://s4.wolfstream.tv/hls2/01/02010/1dy0ltlxvl5b_h/master.m3u8?t=47ZI8_mg88OyZi6ii8Z4tXyRCIa3OmOn9m8LgxS8OBg&s=1686722951&e=43200&f=10051444&i=0.0&sp=0",
-                        "quality": "SUB WolfStream",
-                        "videoUrl": "https://s4.wolfstream.tv/hls2/01/02010/1dy0ltlxvl5b_h/master.m3u8?t=47ZI8_mg88OyZi6ii8Z4tXyRCIa3OmOn9m8LgxS8OBg&s=1686722951&e=43200&f=10051444&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
-                            "Referer": "https://www1.animeonline.ninja"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

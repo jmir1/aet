@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/bad-ronald-1974",
+                                "title": "Bad Ronald",
+                                "thumbnail_url": "https://images.movembed.cc//cover/bad-ronald-1974-1686725727.jpg"
+                            },
+                            {
                                 "url": "/videos/missing-in-brooks-county-2021",
                                 "title": "Missing in Brooks County",
                                 "thumbnail_url": "https://images.movembed.cc//cover/missing-in-brooks-county-2021-1686720028.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/zara-hatke-zara-bachke-2023",
                                 "title": "Zara Hatke Zara Bachke",
                                 "thumbnail_url": "https://images.movembed.cc//cover/zara-hatke-zara-bachke-2023-1686503428.jpg"
-                            },
-                            {
-                                "url": "/videos/harmony-in-paradise-2022",
-                                "title": "Harmony in Paradise",
-                                "thumbnail_url": "https://images.movembed.cc//cover/harmony-in-paradise-2022-1686503428.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,25 +324,19 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/missing-in-brooks-county-2021",
-                    "title": "Missing in Brooks County",
-                    "description": "Thousands of miles from the political \"experts\" in Washington, D.C., there is a place where people are dying. Welcome to Brooks County, Texas, population 4,981, where the practical consequences of America's national debate over immigration policy are felt every day. Located 70 miles north of the Mexican border, it is the site of an estimated 300-600 deaths per year as migrants try to circumvent the state's busiest interior immigration checkpoint,... [more] Thousands of miles from the political \"experts\" in Washington, D.C., there is a place where people are dying. Welcome to Brooks County, Texas, population 4,981, where the practical consequences of America's national debate over immigration policy are felt every day. Located 70 miles north of the Mexican border, it is the site of an estimated 300-600 deaths per year as migrants try to circumvent the state's busiest interior immigration checkpoint, only to find themselves lost among vast ranch lands where they die of dehydration and exposure. Four out of five reported missing are never found. More than a gripping documentary mystery, \"Missing in Brooks County\" is a deeply humane portrait of the law enforcement agents, human rights workers, activists, local residents and migrants who come face to face with death amid a broken system. [less]",
+                    "url": "/videos/bad-ronald-1974",
+                    "title": "Bad Ronald",
+                    "description": "When a nerdy high-school youth accidentally kills a neighbor's young daughter, his panicking mother, fearing the police, will not believe that it was an accident. She moves her son into a bathroom that she turned into a secret hiding place. After her death, a new family moves in. In the meantime, Ronald has gotten lost in a fantasy world created in his own head from being hidden away for so long.... [more] When a nerdy high-school youth accidentally kills a neighbor's young daughter, his panicking mother, fearing the police, will not believe that it was an accident. She moves her son into a bathroom that she turned into a secret hiding place. After her death, a new family moves in. In the meantime, Ronald has gotten lost in a fantasy world created in his own head from being hidden away for so long. [less]",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/missing-in-brooks-county-2021",
-                        "name": "Missing in Brooks County",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
