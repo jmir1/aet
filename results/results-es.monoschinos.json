@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/meng-qi-shi-shen-sub-espanol",
+                                "title": "Cinderella Chef S1",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/meng-qi-shi-shen-1686714218.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/eien-no-831-sub-espanol",
                                 "title": "Eien no 831",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/eien-no-831-1686009661.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/tousouchuu-great-mission-sub-espanol",
                                 "title": "Tousouchuu: Great Mission",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/tousouchuu-great-mission-1679414781.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/majutsushi-orphen-hagure-tabi-seiiki-hen-sub-espanol",
-                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/majutsushi-orphen-hagure-tabi-seiiki-hen-1679414751.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,61 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/eien-no-831-sub-espanol",
-                    "title": "Eien no 831",
-                    "description": "Hoy, el mundo está en crisis debido a una \"catástrofe sin precedentes.\" Suzushirou, un joven que vive como estudiante de becas de un periódico en Tokio, tenía un secreto que nadie podía contar. Un incidente que ocurrió en el verano de mi te...",
-                    "genre": "Ciencia Ficción, Drama",
+                    "url": "/anime/meng-qi-shi-shen-sub-espanol",
+                    "title": "Cinderella Chef S1",
+                    "description": "Ye Jiayao es un cocinero joven y talentoso que sueña con convertirse algún día en un chef de renombre. Por suerte, es transportada mágicamente en el tiempo a la China imperial y en el cuerpo de una niña extremadamente inútil. Ye Jiayao es secue...",
+                    "genre": "Comedia, Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/eien-no-831-1686009661.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/meng-qi-shi-shen-1686714218.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/eien-no-831-episodio-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=3&sig=Vf-JaiCiCXc&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=3&sig=Vf-JaiCiCXc&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487"
-                    },
-                    {
-                        "url": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=2&sig=sCBafcZFTWQ&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=2&sig=sCBafcZFTWQ&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487"
-                    },
-                    {
-                        "url": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=1&sig=-2newa2_u0s&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=1&sig=-2newa2_u0s&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487"
-                    },
-                    {
-                        "url": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=0&sig=zA7yMwy0Zq8&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=0&sig=zA7yMwy0Zq8&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487"
-                    },
-                    {
-                        "url": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=4&sig=rDMh-nzbiCQ&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=4&sig=rDMh-nzbiCQ&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487"
-                    },
-                    {
-                        "url": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=5&sig=rn7zX-waWSw&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd377.mycdn.me/?expires=1686789658307&srcIp=40.84.171.123&pr=10&srcAg=CHROME&ms=185.226.52.72&type=5&sig=rn7zX-waWSw&ct=0&urls=45.136.22.18&clientType=0&zs=43&id=4566749219487"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
