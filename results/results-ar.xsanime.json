@@ -388,21 +388,27 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/the-idolmster-cinderella-girls-u149-حلقة-10/",
+                        "name": "10",
+                        "episode_number": 10.0
+                    },
+                    {
                         "url": "/episode/the-idolmster-cinderella-girls-u149-حلقة-9/",
                         "name": "9",
                         "episode_number": 9.0
-                    },
-                    {
-                        "url": "/episode/the-idolmster-cinderella-girls-u149-حلقة-8/",
-                        "name": "8",
-                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc774.4shared.com/img/O6JH7sIOge/84b9a224/dlink__2Fdownload_2FO6JH7sIOge_3Fsbsr_3D68bd9a08a7688d8e0d8a864bb3458697ae5_26bip_3DNDAuODYuMjkuODA_26lgfp_3D66_26bip_3DNDAuODYuMjkuODA_26bip_3DNDAuODYuMjkuODA/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc774.4shared.com/img/O6JH7sIOge/84b9a224/dlink__2Fdownload_2FO6JH7sIOge_3Fsbsr_3D68bd9a08a7688d8e0d8a864bb3458697ae5_26bip_3DNDAuODYuMjkuODA_26lgfp_3D66_26bip_3DNDAuODYuMjkuODA_26bip_3DNDAuODYuMjkuODA/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

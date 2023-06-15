@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/eradication-2022",
+                                "title": "Eradication",
+                                "thumbnail_url": "https://images.movembed.cc//cover/eradication-2022-1686835228.jpg"
+                            },
+                            {
                                 "url": "/videos/space-pups-2023",
                                 "title": "Space Pups",
                                 "thumbnail_url": "https://images.movembed.cc//cover/space-pups-2023-1686819927.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/mending-the-line-2023",
                                 "title": "Mending the Line",
                                 "thumbnail_url": "https://images.movembed.cc//cover/mending-the-line-2023-1686621027.jpg"
-                            },
-                            {
-                                "url": "/videos/daliland-2023",
-                                "title": "Daliland",
-                                "thumbnail_url": "https://images.movembed.cc//cover/daliland-2023-1686561632.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/space-pups-2023",
-                    "title": "Space Pups",
-                    "description": "Two young children and their parents help a trio of aliens transformed as friendly dogs to escape the clutches of a local UFO hunter as they repair their spaceship.",
+                    "url": "/videos/eradication-2022",
+                    "title": "Eradication",
+                    "description": "When an unknown disease wipes out most of the world's population, a man with unique blood is isolated for study. Fearing for his wife's safety, he breaks his quarantine - into a world overrun by monstrous Infected and a shadowy agency hunting them down.... [more] When an unknown disease wipes out most of the world's population, a man with unique blood is isolated for study. Fearing for his wife's safety, he breaks his quarantine - into a world overrun by monstrous Infected and a shadowy agency hunting them down. [less]",
                     "initialized": true
                 },
                 "passed": true
@@ -334,16 +334,25 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/space-pups-2023",
-                        "name": "Space Pups",
+                        "url": "/videos/eradication-2022",
+                        "name": "Eradication",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/Q2d7Bg2vo9t0O0Y/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/Q2d7Bg2vo9t0O0Y/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NDg3"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
