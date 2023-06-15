@@ -114,12 +114,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pupstruction-episode-8-builders-to-bakers-fire-truck-frenzy",
+                        "name": "Episode 8 Builders to Bakers / Fire Truck Frenzy",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/pupstruction-episode-7-home-stinky-home-dump-truck-dilemma",
+                        "name": "Episode 7 Home Stinky Home / Dump Truck Dilemma",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSUyJHTeRKUOHHLXJdFDkIfFf8tzf_s2cnth3YuBWCt7O1umaKWfcfsSKiZFw5pk1QGpqRuf7lvQXqX8edimO8bwSz0ymoTiYC6HHG_D-pWG7JxSBKsMsMQz8Fto_Do2OFXjA6lmS6H0raRdiUTE6z5d_KyUmbxl8pX3Z4jp1TaslPCxVRXkLdC10SKtiihFDMbfQbSNqMV5clEirt250fOYlao9eMfMdD_48jkiU-s-Nm-kc-ZNs42ZksmchEwjh5zJQy2KbMRAzNmeU2Faf-yBZc9u-1adSWAD69LF5oHIY",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSUyJHTeRKUOHHLXJdFDkIfFf8tzf_s2cnth3YuBWCt7O1umaKWfcfsSKiZFw5pk1QGpqRuf7lvQXqX8edimO8bwSz0ymoTiYC6HHG_D-pWG7JxSBKsMsMQz8Fto_Do2OFXjA6lmS6H0raRdiUTE6z5d_KyUmbxl8pX3Z4jp1TaslPCxVRXkLdC10SKtiihFDMbfQbSNqMV5clEirt250fOYlao9eMfMdD_48jkiU-s-Nm-kc-ZNs42ZksmchEwjh5zJQy2KbMRAzNmeU2Faf-yBZc9u-1adSWAD69LF5oHIY"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSQt91Bv-Tieo1REQp3OEaCVJIaJMThrNjRLULpq3AWdLIMhriTUm4rfoj-XMAoALxjV6_DF2CiGND6NgTjHQ-4Ic1o3jEuna7Tzx_xP9Ec9Br7h7y3aTMUmaSm7vdCzjqIAmeUCK-AUDD5bSyTo5CGLibE64dKgGILqZfDCBxZHHbHb96vrQeZCL5SAwlvgW-SbYWuW4amjPN1ekmPiDILDE-DwHIGvZ-2XpvfHOwm4GHlf2ZgGxhTMP0u1k--uswvYhnUoS_zVXKb8T8WhyjEblu4GZSJkeSmsVU5tW6tCQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn03Tab2c_RCG7TEK4nfLmP7R15jumsyUBKiq6vS-mPSQt91Bv-Tieo1REQp3OEaCVJIaJMThrNjRLULpq3AWdLIMhriTUm4rfoj-XMAoALxjV6_DF2CiGND6NgTjHQ-4Ic1o3jEuna7Tzx_xP9Ec9Br7h7y3aTMUmaSm7vdCzjqIAmeUCK-AUDD5bSyTo5CGLibE64dKgGILqZfDCBxZHHbHb96vrQeZCL5SAwlvgW-SbYWuW4amjPN1ekmPiDILDE-DwHIGvZ-2XpvfHOwm4GHlf2ZgGxhTMP0u1k--uswvYhnUoS_zVXKb8T8WhyjEblu4GZSJkeSmsVU5tW6tCQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }
