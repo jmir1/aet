@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-hijo-zurdo",
+                                "title": "El hijo zurdo (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dCz8UlZEz8aVU1aglrcVrqU43wd.jpg"
+                            },
+                            {
+                                "url": "/serie/full-monty",
+                                "title": "Full Monty (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/nfODBociNK6sU94mRo1lOz8LPcj.jpg"
+                            },
+                            {
                                 "url": "/serie/18-otra-vez",
                                 "title": "18 Otra Vez (2020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/djWxHGEz6RCGf68mmJxf4igj4n6.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/deadloch",
                                 "title": "Deadloch (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fYNBOOgEnaPTwZQdpdVMUGJDcYT.jpg"
-                            },
-                            {
-                                "url": "/serie/companias-peligrosas",
-                                "title": "Compañías peligrosas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pqup6UNgvMbfr2c0V2Cl3IEwFPb.jpg"
-                            },
-                            {
-                                "url": "/serie/platonico",
-                                "title": "Platónico (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/64DZGqNTL3EoyH94sDXsil31cz8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/18-otra-vez",
-                    "title": "18 Otra Vez (2020)",
-                    "description": "En un momento difícil de su matrimonio y su carrera, un hombre de mediana edad tiene la oportunidad de volver a hacerlo cuando se transforma de nuevo en su cuerpo de 18 años..",
-                    "genre": "Drama, Comedia, Sci-Fi & Fantasy",
+                    "url": "/serie/el-hijo-zurdo",
+                    "title": "El hijo zurdo (2023)",
+                    "description": "Lola es zurda. Su hijo Lorenzo también. Tenemos la manía de decir que nuestros hijos tienen que parecerse a alguien. Como si quisiéramos negar el descomunal acto de libertad que es nacer. Impidiéndoles que rompan el cordón. ¿A quién se parece el hijo zurdo que pega a los hijos de otras madres?.",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/djWxHGEz6RCGf68mmJxf4igj4n6.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dCz8UlZEz8aVU1aglrcVrqU43wd.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/18-otra-vez/temporada/1/capitulo/16",
-                        "name": "T1 - E16: Episodio 16",
-                        "episode_number": 16.0
+                        "url": "/serie/el-hijo-zurdo/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/18-otra-vez/temporada/1/capitulo/15",
-                        "name": "T1 - E15: Episodio 15",
-                        "episode_number": 15.0
+                        "url": "/serie/el-hijo-zurdo/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -293,42 +293,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery143.akamai-video-content.com/hls2/01/13117/8ycbwfdaxzww_h/index-v1-a1.m3u8?t=8AIQcU-OycwlxwDQyV2ybjjcr9lnShGiHqQJsmUqDzs&s=1686809362&e=10800&f=65585322&srv=sto267&client=40.84.170.38&asn=8075",
-                        "quality": "StreamSB:960p",
-                        "videoUrl": "https://delivery143.akamai-video-content.com/hls2/01/13117/8ycbwfdaxzww_h/index-v1-a1.m3u8?t=8AIQcU-OycwlxwDQyV2ybjjcr9lnShGiHqQJsmUqDzs&s=1686809362&e=10800&f=65585322&srv=sto267&client=40.84.170.38&asn=8075",
+                        "url": "https://delivery608.akamai-video-content.com/hls2/01/13120/v9454cfctjd3_n/index-v1-a1.m3u8?t=GXiQMUnBUlfo_BqcGy2aOUHVHPt7mVZfe7Y99k-nnDw&s=1686831107&e=10800&f=65602356&srv=sto269&client=104.210.138.121&asn=8075",
+                        "quality": "StreamSB:640p",
+                        "videoUrl": "https://delivery608.akamai-video-content.com/hls2/01/13120/v9454cfctjd3_n/index-v1-a1.m3u8?t=GXiQMUnBUlfo_BqcGy2aOUHVHPt7mVZfe7Y99k-nnDw&s=1686831107&e=10800&f=65602356&srv=sto269&client=104.210.138.121&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8ycbwfdaxzww?",
+                            "referer": "https://lvturbo.com/e/v9454cfctjd3?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery143.akamai-video-content.com/hls2/01/13117/8ycbwfdaxzww_n/index-v1-a1.m3u8?t=8AIQcU-OycwlxwDQyV2ybjjcr9lnShGiHqQJsmUqDzs&s=1686809362&e=10800&f=65585322&srv=sto267&client=40.84.170.38&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery143.akamai-video-content.com/hls2/01/13117/8ycbwfdaxzww_n/index-v1-a1.m3u8?t=8AIQcU-OycwlxwDQyV2ybjjcr9lnShGiHqQJsmUqDzs&s=1686809362&e=10800&f=65585322&srv=sto267&client=40.84.170.38&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8ycbwfdaxzww?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery143.akamai-video-content.com/hls2/01/13117/8ycbwfdaxzww_l/index-v1-a1.m3u8?t=8AIQcU-OycwlxwDQyV2ybjjcr9lnShGiHqQJsmUqDzs&s=1686809362&e=10800&f=65585322&srv=sto267&client=40.84.170.38&asn=8075",
+                        "url": "https://delivery608.akamai-video-content.com/hls2/01/13120/v9454cfctjd3_l/index-v1-a1.m3u8?t=GXiQMUnBUlfo_BqcGy2aOUHVHPt7mVZfe7Y99k-nnDw&s=1686831107&e=10800&f=65602356&srv=sto269&client=104.210.138.121&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery143.akamai-video-content.com/hls2/01/13117/8ycbwfdaxzww_l/index-v1-a1.m3u8?t=8AIQcU-OycwlxwDQyV2ybjjcr9lnShGiHqQJsmUqDzs&s=1686809362&e=10800&f=65585322&srv=sto267&client=40.84.170.38&asn=8075",
+                        "videoUrl": "https://delivery608.akamai-video-content.com/hls2/01/13120/v9454cfctjd3_l/index-v1-a1.m3u8?t=GXiQMUnBUlfo_BqcGy2aOUHVHPt7mVZfe7Y99k-nnDw&s=1686831107&e=10800&f=65602356&srv=sto269&client=104.210.138.121&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8ycbwfdaxzww?",
+                            "referer": "https://lvturbo.com/e/v9454cfctjd3?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=DAaL4R3vAyCkzd1&expires=1686879364&ip=GxOsFxqnDS9X&token=RtC10hdjkrVy",
+                        "url": "https://streamtape.com/get_video?id=x11Mrp2pz3FkAj7&expires=1686901109&ip=F0OSKRSSDS9XKxR&token=cthe93LxvvgA",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=DAaL4R3vAyCkzd1&expires=1686879364&ip=GxOsFxqnDS9X&token=RtC10hdjkrVy"
+                        "videoUrl": "https://streamtape.com/get_video?id=x11Mrp2pz3FkAj7&expires=1686901109&ip=F0OSKRSSDS9XKxR&token=cthe93LxvvgA"
                     }
                 ],
                 "passed": true
