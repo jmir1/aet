@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/pupstruction",
+                                "title": "Pupstruction",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg"
+                            },
+                            {
                                 "url": "/anime/haileys-on-it",
                                 "title": "Hailey's On It",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/mulligan",
                                 "title": "Mulligan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932941.jpg"
-                            },
-                            {
-                                "url": "/anime/colourblocks",
-                                "title": "Colourblocks",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932940.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -104,49 +104,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/haileys-on-it",
-                    "title": "Hailey's On It",
-                    "description": "The series follows Hailey Banks, a risk-averse but resourceful teenager on a mission to complete every item on her long list of challenging (and sometimes impractical) tasks in order to save the world. Hailey will be pushed outside her comfort zone to discover the greatness within as she systematically conquers her fears, whether she is winning a sand-building competition, wrestling a honey badger, eating a raw onion, or facing her ever-growing and complicated feelings toward her best friend, Scott.",
-                    "genre": "Action, Adventure, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg",
+                    "url": "/anime/pupstruction",
+                    "title": "Pupstruction",
+                    "description": "Phinny, an innovative young corgi, might be the smallest pup on the crew, but he proves that you don’t need big paws to have big dreams or big ideas.",
+                    "genre": "Adventure, Comedy, Educational, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/haileys-on-it-episode-11-splatter-of-the-bands",
-                        "name": "Episode 11 Splatter of the Bands",
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/haileys-on-it-episode-10-the-flamingo-must-flamin-go",
-                        "name": "Episode 10 The Flamingo Must Flamin-Go",
-                        "episode_number": 10.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyVni6ztzJ9vQ11UYyzIuIJiVNyKbwuB7aB-EjPNHmBV9eVQoQz1TtFIbN2BWM1GRHQRBm2iWwTCwfV39hS8bd65zL6k7bo4Fg_dIkORr6SAx12dwQIBXmzFi-G1DxqEVeOe-aZBre3bCyUndGMg7uJbYplAsPph5Ap6ElN1GZF-VYMfb4fK_cvbG1cDWkbYW823BmZOK3SaYKShmCgpTzs2-ewUEIgKB8JJPmCke6UT2vG_Gw0-S5WZuDNQ9VFHIS9SN6RY3-WK9nd1FDETJl9-z_VMvDn9K6b_HdS-x3wbw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyVni6ztzJ9vQ11UYyzIuIJiVNyKbwuB7aB-EjPNHmBV9eVQoQz1TtFIbN2BWM1GRHQRBm2iWwTCwfV39hS8bd65zL6k7bo4Fg_dIkORr6SAx12dwQIBXmzFi-G1DxqEVeOe-aZBre3bCyUndGMg7uJbYplAsPph5Ap6ElN1GZF-VYMfb4fK_cvbG1cDWkbYW823BmZOK3SaYKShmCgpTzs2-ewUEIgKB8JJPmCke6UT2vG_Gw0-S5WZuDNQ9VFHIS9SN6RY3-WK9nd1FDETJl9-z_VMvDn9K6b_HdS-x3wbw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyPvqt-EpJwHc8LFgmaDZEmK_cy8ynIhHnzC812ZShpd8aQjiQQk-G8B3lpRaUhRa3XB_Hk0b7k5qnYavdTyIdDkpgRNRXKtO6CGhg2SHlkNqEsemmEt0SGUaRIYoJZdwaLVAjl0e6htKi4Dn2Ks1ef5A_xeEpIqfJ8ICCuKTg2zDDgp1Jj55o7F7A3uQYJZj9ZnRlG0opiOB9MldVlJZIrp8p2AyCHvtxueInbZPjLKTOG5kTgaKufE-GDAhYvoHTU7uFGjZf8abv7vdA1xPDrltuw0tEtPv3qNYY0IRevWw",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtyPvqt-EpJwHc8LFgmaDZEmK_cy8ynIhHnzC812ZShpd8aQjiQQk-G8B3lpRaUhRa3XB_Hk0b7k5qnYavdTyIdDkpgRNRXKtO6CGhg2SHlkNqEsemmEt0SGUaRIYoJZdwaLVAjl0e6htKi4Dn2Ks1ef5A_xeEpIqfJ8ICCuKTg2zDDgp1Jj55o7F7A3uQYJZj9ZnRlG0opiOB9MldVlJZIrp8p2AyCHvtxueInbZPjLKTOG5kTgaKufE-GDAhYvoHTU7uFGjZf8abv7vdA1xPDrltuw0tEtPv3qNYY0IRevWw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtwPQUQ3_D4Gb0gT_rFT9qo63ropeoDWxscbvGRzsanuaoVWrxrloyO9Ujn6YK-XgO7AzgTU_z8somEriCLFeFkkk0Tb8FCQM2JCOp_Po-J8xUdMOTP6OI4qq1nEOVHzJLnc6ns0JBqk-djkLTr7BGxR6u27z1dHaCI_l6baPHbR37-mYPgDh5HfEVs5_aPDCbz8_bHmPT83WNoej1DVsF8TUn5s4LPZ3fMOjJIfTv_He7qPQkeIlo1kgKx1VbE8cBj2DvkDf9N_A_gue9FQi9p3XCkefjAnTRTOYx_V4mvUbA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmgGCNaNDDx_B37JDF-andHgDolzHhWFkdRD1TAJ_EPY2SoA0lHe8QcpamRpBuSEBdCM4a43ENqJzLFZG-qWZtwPQUQ3_D4Gb0gT_rFT9qo63ropeoDWxscbvGRzsanuaoVWrxrloyO9Ujn6YK-XgO7AzgTU_z8somEriCLFeFkkk0Tb8FCQM2JCOp_Po-J8xUdMOTP6OI4qq1nEOVHzJLnc6ns0JBqk-djkLTr7BGxR6u27z1dHaCI_l6baPHbR37-mYPgDh5HfEVs5_aPDCbz8_bHmPT83WNoej1DVsF8TUn5s4LPZ3fMOjJIfTv_He7qPQkeIlo1kgKx1VbE8cBj2DvkDf9N_A_gue9FQi9p3XCkefjAnTRTOYx_V4mvUbA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

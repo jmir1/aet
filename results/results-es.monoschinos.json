@@ -9,7 +9,7 @@
                             {
                                 "url": "/anime/meng-qi-shi-shen-sub-espanol",
                                 "title": "Cinderella Chef S1",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/meng-qi-shi-shen-1686714218.jpg?v=1.5"
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/meng-qi-shi-shen-1686783733.jpg?v=1.5"
                             },
                             {
                                 "url": "/anime/eien-no-831-sub-espanol",
@@ -326,22 +326,52 @@
                 "result": {
                     "url": "/anime/meng-qi-shi-shen-sub-espanol",
                     "title": "Cinderella Chef S1",
-                    "description": "Ye Jiayao es un cocinero joven y talentoso que sueña con convertirse algún día en un chef de renombre. Por suerte, es transportada mágicamente en el tiempo a la China imperial y en el cuerpo de una niña extremadamente inútil. Ye Jiayao es secue...",
+                    "description": "Ye Jia Yao es una joven, moderna y famosa cocinera a la que le encanta la comida china. Sueña con convertirse en la chef más célebre del país. Pero, mientras experimenta con una receta, algo sale terriblemente mal y se ve catapultada al pasado, a...",
                     "genre": "Comedia, Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/meng-qi-shi-shen-1686714218.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/meng-qi-shi-shen-1686783733.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/meng-qi-shi-shen-episodio-12",
+                        "name": "Episodio 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/ver/meng-qi-shi-shen-episodio-11",
+                        "name": "Episodio 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www14.mp4upload.com/files/5/tf33og2ys22q1s/ChefS1_-_12.mp4",
+                        "quality": "Mp4Upload",
+                        "videoUrl": "https://www14.mp4upload.com/files/5/tf33og2ys22q1s/ChefS1_-_12.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m90.uqload.co/3rfkswz4qfw2q4drdixpxkfxlg4y6wfikg7sh2tiqfmyi3sre5lghq5b6yrq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m90.uqload.co/3rfkswz4qfw2q4drdixpxkfxlg4y6wfikg7sh2tiqfmyi3sre5lghq5b6yrq/v.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "referer": "https://uqload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
