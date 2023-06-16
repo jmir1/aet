@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/8662/extraction-2",
+                                "title": "Extraction 2",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/kgqLc.jpg"
+                            },
+                            {
                                 "url": "/movie/8660/kandahar",
                                 "title": "Kandahar",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/DhZsn.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/movie/8619/merve-klt",
                                 "title": "Merve Kült",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/3IvXv.jpg"
-                            },
-                            {
-                                "url": "/movie/8322/the-pope-s-exorcist-5",
-                                "title": "The Pope's Exorcist",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/Lk9sX.jpeg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,11 +264,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/8660/kandahar",
-                    "title": "Kandahar",
+                    "url": "/movie/8662/extraction-2",
+                    "title": "Extraction 2",
                     "author": "الولايات المتحدة الأمريكية",
-                    "description": "قصة الفيلم فيلم Kandahar يسافر عميل سري بالاستخبارات الأمريكية يدعى (توم هاريس) برفقة مترجمه إلى أفغانستان، من أجل تنفيذ عملية سرية ولكنهما سرعان ما يهربا من القوات الخاصة هناك بعد فضح العملية. ترجمة : || محمد النعيمي ! د. علي طلال ! علي الحمداني ||",
-                    "genre": "WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, اكشن, اثارة",
+                    "description": "قصة الفيلم فيلم Extraction 2 يعود المقدام البارع \"تايلر ريك\" بعد نجاته من فم الموت، ويقع على عاتقه الآن تنفيذ مهمة أخرى محفوفة بالمخاطر… وهي إنقاذ عائلة رجل عصابات قاسٍ من السجن.",
+                    "genre": "WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, اكشن, NETFLIX, اثارة",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -278,31 +278,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/8660/kandahar",
+                        "url": "/movie/8662/extraction-2",
                         "name": "مشاهدة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s104.akw.onl/download/1686982166/648bfc96d3c0d/Kandahar.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s104.akw.onl/download/1686982166/648bfc96d3c0d/Kandahar.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s103.akw.onl/download/1686982167/648bfc970a1e1/Kandahar.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s103.akw.onl/download/1686982167/648bfc970a1e1/Kandahar.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1686982167/648bfc9732a83/Kandahar.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1686982167/648bfc9732a83/Kandahar.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
