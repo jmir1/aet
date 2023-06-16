@@ -909,8 +909,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v908.streamhub.gg/hls/sc6t7qprxmytnuzvoups5zdyxar4y6nb5nsyq4ccrk5ltbywg43jlphabf2q/index-v1-a1.m3u8",
+                        "quality": "640p",
+                        "videoUrl": "https://v908.streamhub.gg/hls/sc6t7qprxmytnuzvoups5zdyxar4y6nb5nsyq4ccrk5ltbywg43jlphabf2q/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

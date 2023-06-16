@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-black-clover-mahou-tei-no-ken-مترجم/",
+                                "title": "فيلم Black Clover: Mahou Tei no Ken مترجم",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/282125-223x316.jpg"
+                            },
+                            {
                                 "url": "/movie/sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo/",
                                 "title": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/Sword-Art-Online-Progressive-Movie-Kuraki-Yuuyami-no-Scherzo-413x559-1-223x302.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-detective-conan-movie-24-the-scarlet-bullet-بلوراي/",
                                 "title": "فيلم Detective Conan Movie 24: The Scarlet Bullet بلوراي",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/11/112616l-223x316.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-kimi-wa-kanata/",
-                                "title": "فيلم Kimi wa Kanata",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/11/109743l-223x316.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo/",
-                    "title": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo",
-                    "description": "تكملة لأحداث الفيلم الأول Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
+                    "url": "/movie/فيلم-black-clover-mahou-tei-no-ken-مترجم/",
+                    "title": "فيلم Black Clover: Mahou Tei no Ken مترجم",
+                    "description": "ينجذب أستا وأصدقاؤه إلى معركة مع أربعة ملوك سحرة سابقين عندما يظهر كونراد ليتو وهو يحمل \"سيف الإمبراطور\".",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/Sword-Art-Online-Progressive-Movie-Kuraki-Yuuyami-no-Scherzo-413x559-1.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/282125.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo/",
-                        "name": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo"
+                        "url": "/movie/فيلم-black-clover-mahou-tei-no-ken-مترجم/",
+                        "name": "Black Clover: Mahou Tei no Ken مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc570.4shared.com/img/dHBqt0S-ku/ef5facd/dlink__2Fdownload_2FdHBqt0S-ku_3Fsbsr_3D4becfd2f435f0b3fe26a13abe112ba74ae5_26bip_3DMTcyLjE3Ny4xMjAuNTg_26lgfp_3D66_26bip_3DMTcyLjE3Ny4xMjAuNTg_26bip_3DMTcyLjE3Ny4xMjAuNTg/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc570.4shared.com/img/dHBqt0S-ku/ef5facd/dlink__2Fdownload_2FdHBqt0S-ku_3Fsbsr_3D4becfd2f435f0b3fe26a13abe112ba74ae5_26bip_3DMTcyLjE3Ny4xMjAuNTg_26lgfp_3D66_26bip_3DMTcyLjE3Ny4xMjAuNTg_26bip_3DMTcyLjE3Ny4xMjAuNTg/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
