@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/las-kardashian",
+                                "title": "Las Kardashian (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pd6XnYZ2qyaXRO5XnHJOfRXoctp.jpg"
+                            },
+                            {
                                 "url": "/serie/the-walking-dead-dead-city",
                                 "title": "The Walking Dead: Dead City (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/ciudad-en-llamas",
                                 "title": "Ciudad en llamas (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yaLN9VPKa1Z5ozBB8z11hWP99CN.jpg"
-                            },
-                            {
-                                "url": "/serie/high-desert",
-                                "title": "High Desert (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kj4XQzhszyu4YFQ9HgN3iQOCp4A.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-walking-dead-dead-city",
-                    "title": "The Walking Dead: Dead City (2023)",
-                    "description": "Isle of the Dead amplía la narración de The Walking Dead en torno a dos personajes inolvidables que los fanáticos han llegado a amar, odiar y luego amar en Maggie y Negan. También explora un rincón de este universo ubicado en la isla de Manhattan, con un horizonte icónico que adquiere un significado muy diferente cuando se ve a través de la lente de un apocalipsis zombie..",
-                    "genre": "Drama, Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/las-kardashian",
+                    "title": "Las Kardashian (2022)",
+                    "description": "La familia a la que tanto conoces y adoras vuelve con una nueva serie dando acceso pleno a toda su vida. Kris, Kourtney, Kim, Khloé, Kendall y Kylie se exponen ante las cámaras para revelar los secretos que hay tras los titulares..",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pd6XnYZ2qyaXRO5XnHJOfRXoctp.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-walking-dead-dead-city/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/las-kardashian/temporada/2/capitulo/11",
+                        "name": "T2 - E11: Episodio 11",
+                        "episode_number": 21.0
+                    },
+                    {
+                        "url": "/serie/las-kardashian/temporada/2/capitulo/10",
+                        "name": "T2 - E10: Episodio 10",
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
@@ -288,42 +293,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery231.akamai-video-content.com/hls2/01/13129/epoyhbaqprdk_h/index-v1-a1.m3u8?t=LboQP9z301J6MVxWvnE3AXxqX_gOAjAe6RCV6g4lUAE&s=1686875872&e=10800&f=65645703&srv=sto134&client=20.171.51.39&asn=8075",
-                        "quality": "StreamSB:958p",
-                        "videoUrl": "https://delivery231.akamai-video-content.com/hls2/01/13129/epoyhbaqprdk_h/index-v1-a1.m3u8?t=LboQP9z301J6MVxWvnE3AXxqX_gOAjAe6RCV6g4lUAE&s=1686875872&e=10800&f=65645703&srv=sto134&client=20.171.51.39&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/epoyhbaqprdk?poster=https://i.embedsito.net/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg&",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery231.akamai-video-content.com/hls2/01/13129/epoyhbaqprdk_n/index-v1-a1.m3u8?t=LboQP9z301J6MVxWvnE3AXxqX_gOAjAe6RCV6g4lUAE&s=1686875872&e=10800&f=65645703&srv=sto134&client=20.171.51.39&asn=8075",
+                        "url": "https://delivery432.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_n/index-v1-a1.m3u8?t=UXRrVpKOjB1XwnkQH-k4aaVydB4GLnIOACKjiKThXDU&s=1686895761&e=10800&f=65651824&srv=sto038&client=20.51.152.82&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery231.akamai-video-content.com/hls2/01/13129/epoyhbaqprdk_n/index-v1-a1.m3u8?t=LboQP9z301J6MVxWvnE3AXxqX_gOAjAe6RCV6g4lUAE&s=1686875872&e=10800&f=65645703&srv=sto134&client=20.171.51.39&asn=8075",
+                        "videoUrl": "https://delivery432.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_n/index-v1-a1.m3u8?t=UXRrVpKOjB1XwnkQH-k4aaVydB4GLnIOACKjiKThXDU&s=1686895761&e=10800&f=65651824&srv=sto038&client=20.51.152.82&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/epoyhbaqprdk?poster=https://i.embedsito.net/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg&",
+                            "referer": "https://lvturbo.com/e/kwubcgm88tc8?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery231.akamai-video-content.com/hls2/01/13129/epoyhbaqprdk_l/index-v1-a1.m3u8?t=LboQP9z301J6MVxWvnE3AXxqX_gOAjAe6RCV6g4lUAE&s=1686875872&e=10800&f=65645703&srv=sto134&client=20.171.51.39&asn=8075",
+                        "url": "https://delivery432.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_l/index-v1-a1.m3u8?t=UXRrVpKOjB1XwnkQH-k4aaVydB4GLnIOACKjiKThXDU&s=1686895761&e=10800&f=65651824&srv=sto038&client=20.51.152.82&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery231.akamai-video-content.com/hls2/01/13129/epoyhbaqprdk_l/index-v1-a1.m3u8?t=LboQP9z301J6MVxWvnE3AXxqX_gOAjAe6RCV6g4lUAE&s=1686875872&e=10800&f=65645703&srv=sto134&client=20.171.51.39&asn=8075",
+                        "videoUrl": "https://delivery432.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_l/index-v1-a1.m3u8?t=UXRrVpKOjB1XwnkQH-k4aaVydB4GLnIOACKjiKThXDU&s=1686895761&e=10800&f=65651824&srv=sto038&client=20.51.152.82&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/epoyhbaqprdk?poster=https://i.embedsito.net/t/p/original/vV5LKWmuysEe5wsuZJGbdiL5XJ2.jpg&",
+                            "referer": "https://lvturbo.com/e/kwubcgm88tc8?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=8q9ej6vAJGIokk8&expires=1686945874&ip=FROsD0ESKxSHDN&token=SsuLNm7oa5Go",
+                        "url": "https://streamtape.com/get_video?id=Me9p6LXxLWSmXoR&expires=1686965763&ip=FROsE0WnDS9X&token=ZpS4k5hyXJ_d",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8q9ej6vAJGIokk8&expires=1686945874&ip=FROsD0ESKxSHDN&token=SsuLNm7oa5Go"
+                        "videoUrl": "https://streamtape.com/get_video?id=Me9p6LXxLWSmXoR&expires=1686965763&ip=FROsE0WnDS9X&token=ZpS4k5hyXJ_d"
                     }
                 ],
                 "passed": true
@@ -337,6 +331,46 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/vita-y-virginia",
+                                "title": "Vita y Virginia (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/epcp6vkQkc4CcpOX9bamqdElSoB.jpg"
+                            },
+                            {
+                                "url": "/pelicula/enemigos-intimos",
+                                "title": "Enemigos Intimos (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mXzGIu482Jvh6r8HXNLjSzke45p.jpg"
+                            },
+                            {
+                                "url": "/pelicula/asfixia",
+                                "title": "Asfixia (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/8UWNllCkBgOf1DhEWJhPHed1Zn4.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dead-water",
+                                "title": "Dead Water (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/333UycccGJRndunuFXRhQnkIyij.jpg"
+                            },
+                            {
+                                "url": "/pelicula/anastasia-once-upon-a-time",
+                                "title": "Anastasia: Once Upon a Time (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-chicano",
+                                "title": "El Chicano (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oBbVv45gZfe8N44uxhwGcpiEZEY.jpg"
+                            },
+                            {
+                                "url": "/pelicula/feedback",
+                                "title": "Feedback (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xfOVhNP93QSiHn9hEWemTMiBK19.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-ombligo-de-guiedani",
+                                "title": "El ombligo de Guiedani (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uiT8w572oyVFRVYx21xalmP0A6N.jpg"
+                            },
                             {
                                 "url": "/pelicula/transformers-el-despertar-de-las-bestias",
                                 "title": "Transformers: El despertar de las bestias (2023)",
@@ -416,46 +450,6 @@
                                 "url": "/pelicula/step-up-china",
                                 "title": "Step Up China (2019)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/6DQvNzUFjKj3pfbBNsMl1UJKTzp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/pisandonos-los-tacones",
-                                "title": "¡Pisándonos los tacones! (2015)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uZIzR1bbZcpX23w71RTq72mqNuY.jpg"
-                            },
-                            {
-                                "url": "/pelicula/que-empiece-la-carrera",
-                                "title": "Que empiece la carrera (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/XtrpHIjcy9jtkkD9OA69YysIdD.jpg"
-                            },
-                            {
-                                "url": "/pelicula/royalteen-la-princesa-margrethe",
-                                "title": "Royalteen: La princesa Margrethe (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1OJDfBoMXYrkSkLQOqtWD3bHnKX.jpg"
-                            },
-                            {
-                                "url": "/pelicula/que-viva-mexico",
-                                "title": "¡Que viva México! (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ieyUpr5ES9QEz1cn4clCnBf9XJl.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dieciocho-otra-vez",
-                                "title": "Dieciocho otra vez (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/t1TQbQMGyPQxTwZ8HqqNTdtcjOe.jpg"
-                            },
-                            {
-                                "url": "/pelicula/champions",
-                                "title": "Champions (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kVBZBDHO271obL91WG8l2owoq5f.jpg"
-                            },
-                            {
-                                "url": "/pelicula/posesion-infernal-el-despertar",
-                                "title": "Posesión infernal: El despertar (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg"
-                            },
-                            {
-                                "url": "/pelicula/simulant",
-                                "title": "Simulant (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oOPQfKJXYquH12pP7UoQWxoM0kN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -595,10 +589,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/transformers-el-despertar-de-las-bestias",
-                    "title": "Transformers: El despertar de las bestias (2023)",
-                    "description": "La batalla en la Tierra ya no es solo entre Autobots y Decepticons... Maximals, Predacons y Terrorcons se unen a Transformers: Rise of the Beasts.",
-                    "genre": "Aventura, Acción, Ciencia ficción",
+                    "url": "/pelicula/vita-y-virginia",
+                    "title": "Vita y Virginia (2018)",
+                    "description": "Vita y Virginia son dos de las mujeres más fascinantes y progresistas de su tiempo. Ambas se ven envueltas en una agónica aventura amorosa que determina para siempre sus vidas y su trabajo.",
+                    "genre": "Romance, Drama, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -608,7 +602,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/transformers-el-despertar-de-las-bestias",
+                        "url": "/pelicula/vita-y-virginia",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -735,164 +729,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/pelicula/war-of-the-worlds-annihilation/",
-                                "title": "War of the Worlds: Annihilation",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds-annihilation.jpg"
-                            },
-                            {
-                                "url": "/pelicula/small-world/",
-                                "title": "Small World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/small-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dinosaur-world/",
-                                "title": "Dinosaur World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dinosaur-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/were-all-going-to-the-worlds-fair/",
-                                "title": "We’re All Going to the World’s Fair",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/we-re-all-going-to-the-world-s-fair.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-wonderful-world-of-disney-magical-holiday-celebration/",
-                                "title": "The Wonderful World of Disney: Magical Holiday Celebration",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-wonderful-world-of-disney-magical-holiday-celebration.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ashita-sekai-ga-owaru-to-shitemo/",
-                                "title": "The Relative Worlds",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-relative-worlds.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ancestral-world/",
-                                "title": "Ancestral World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ancestral-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cagefighter/",
-                                "title": "Cagefighter: Worlds Collide",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cagefighter-worlds-collide.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-blazing-world/",
-                                "title": "The Blazing World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-blazing-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/justin-bieber-our-world/",
-                                "title": "Justin Bieber: Our World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justin-bieber-our-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-war-of-the-worlds-2021/",
-                                "title": "War of the Worlds",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds.jpg"
-                            },
-                            {
-                                "url": "/pelicula/edge-of-the-world/",
-                                "title": "Edge of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/edge-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/miraculous-world-shanghai-the-legend-of-ladydragon/",
-                                "title": "Miraculous World Shanghai, la leyenda de Ladydragon",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miraculous-world-shanghai-la-leyenda-de-ladydragon.jpg"
-                            },
-                            {
-                                "url": "/pelicula/justice-society-world-war-ii/",
-                                "title": "Justice Society: World War II",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justice-society-world-war-ii.jpg"
-                            },
-                            {
-                                "url": "/pelicula/shoplifters-of-the-world/",
-                                "title": "Shoplifters of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shoplifters-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/die-adern-der-welt/",
-                                "title": "Veins of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/veins-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/fireball-visitors-from-darker-worlds/",
-                                "title": "Fireball: Visitors From Darker Worlds",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/fireball-visitors-from-darker-worlds.jpg"
-                            },
-                            {
-                                "url": "/pelicula/olumlu-dunya/",
-                                "title": "Mortal World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mortal-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-feral-world/",
-                                "title": "A Feral World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-feral-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/taylor-swift-the-1989-world-tour-live/",
-                                "title": "Taylor Swift: The 1989 World Tour Live",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/taylor-swift-the-1989-world-tour-live.jpg"
-                            },
-                            {
-                                "url": "/pelicula/brave-blue-world/",
-                                "title": "Brave Blue World: Racing to Solve Our Water Crisis",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/brave-blue-world-racing-to-solve-our-water-crisis.jpg"
-                            },
-                            {
-                                "url": "/pelicula/shakira-en-concierto-el-dorado-world-tour/",
-                                "title": "Shakira en Concierto: El Dorado World Tour",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shakira-en-concierto-el-dorado-world-tour.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mad-world/",
-                                "title": "Mad World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mad-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/trolls-2-world-tour/",
-                                "title": "Trolls 2: World Tour",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/trolls-2-world-tour.jpg"
-                            },
-                            {
-                                "url": "/pelicula/goodbye-world/",
-                                "title": "Goodbye World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/goodbye-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/attack-on-titan-part-2/",
-                                "title": "Attack on Titan 2: End of the World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/attack-on-titan-2-end-of-the-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-thinning-new-world-order/",
-                                "title": "The Thinning: New World Order",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-thinning-new-world-order.jpg"
-                            },
-                            {
-                                "url": "/pelicula/marnies-world/",
-                                "title": "Marnie’s World",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/marnie-s-world.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-world-we-make/",
-                                "title": "The World We Make",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-world-we-make.jpg"
-                            },
-                            {
-                                "url": "/pelicula/blue-world-order/",
-                                "title": "Blue World Order",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/blue-world-order.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "details": {
                 "result": {
