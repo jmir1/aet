@@ -487,39 +487,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ajax/movie/episodes/97534",
-                        "name": "Mending the Line",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2231496ed56d7783817e299d1113b1956cccd8aeb5b1036da21bc59305aba3954e9c5f2cd1eae5c4ffc693b9a5d91807a5195303bf50163f62086f5bee68db18c92e4e61af4f989f3b52b8698145cd8c775f823ebe7f328506fdf54f8c4edfcd77c8154a6766e0b3fe600863995017f1e2/360/index.m3u8",
-                        "quality": "Vidcloud - 360p",
-                        "videoUrl": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2231496ed56d7783817e299d1113b1956cccd8aeb5b1036da21bc59305aba3954e9c5f2cd1eae5c4ffc693b9a5d91807a5195303bf50163f62086f5bee68db18c92e4e61af4f989f3b52b8698145cd8c775f823ebe7f328506fdf54f8c4edfcd77c8154a6766e0b3fe600863995017f1e2/360/index.m3u8"
-                    },
-                    {
-                        "url": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2231496ed56d7783817e299d1113b1956cccd8aeb5b1036da21bc59305aba3954e9c5f2cd1eae5c4ffc693b9a5d91807a5195303bf50163f62086f5bee68db18c92e4e61af4f989f3b52b8698145cd8c775f823ebe7f328506fdf54f8c4edfcd77c8154a6766e0b3fe600863995017f1e2/720/index.m3u8",
-                        "quality": "Vidcloud - 720p",
-                        "videoUrl": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2231496ed56d7783817e299d1113b1956cccd8aeb5b1036da21bc59305aba3954e9c5f2cd1eae5c4ffc693b9a5d91807a5195303bf50163f62086f5bee68db18c92e4e61af4f989f3b52b8698145cd8c775f823ebe7f328506fdf54f8c4edfcd77c8154a6766e0b3fe600863995017f1e2/720/index.m3u8"
-                    },
-                    {
-                        "url": "https://owt.webarchivecdn.com/_v10/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2288c472f2328c641098589b149082ff38c18c3a6dadba36e5d655db50a34b6d5e81df6ba687c3be60ae790ec93de063c7a32aadca84d197b75d913842f5d6922617347bdf65b20cb1a54c07984b95634f/360/index.m3u8",
-                        "quality": "UpCloud - 360p",
-                        "videoUrl": "https://owt.webarchivecdn.com/_v10/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2288c472f2328c641098589b149082ff38c18c3a6dadba36e5d655db50a34b6d5e81df6ba687c3be60ae790ec93de063c7a32aadca84d197b75d913842f5d6922617347bdf65b20cb1a54c07984b95634f/360/index.m3u8"
-                    },
-                    {
-                        "url": "https://owt.webarchivecdn.com/_v10/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2288c472f2328c641098589b149082ff38c18c3a6dadba36e5d655db50a34b6d5e81df6ba687c3be60ae790ec93de063c7a32aadca84d197b75d913842f5d6922617347bdf65b20cb1a54c07984b95634f/720/index.m3u8",
-                        "quality": "UpCloud - 720p",
-                        "videoUrl": "https://owt.webarchivecdn.com/_v10/4ddbd066cc19f5052e80b1f8c29142385fe06d473be4a59402832a79dc9b94bb023a687202429b2af6ae22767e6bdd2288c472f2328c641098589b149082ff38c18c3a6dadba36e5d655db50a34b6d5e81df6ba687c3be60ae790ec93de063c7a32aadca84d197b75d913842f5d6922617347bdf65b20cb1a54c07984b95634f/720/index.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

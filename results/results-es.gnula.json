@@ -7,14 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/la-mala-familia",
+                                "title": "La mala familia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/j7IfwDTdZioFxmXpsGiDuTzzeD.jpg"
+                            },
+                            {
                                 "url": "/movies/all-my-puny-sorrows",
                                 "title": "All My Puny Sorrows",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/bqtPK4LHbuXwiHMlXwUD4hU4S2D.jpg"
                             },
                             {
-                                "url": "/movies/amar-es-madurar",
-                                "title": "Amar es Madurar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/1MN8Qxg691Az7nofmXkZPsuIZVD.jpg"
+                                "url": "/movies/flash",
+                                "title": "Flash",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/oT6EkLKQLzbSpVJViRefDVElVcs.jpg"
+                            },
+                            {
+                                "url": "/movies/las-semanas-magicas",
+                                "title": "Las semanas mágicas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/at2D9VBuZoZU6SDLt7ZMqoDggfY.jpg"
                             },
                             {
                                 "url": "/movies/se-tu-misma-do-you-do",
@@ -22,9 +32,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/8jOLkhDWmmzcJEhZNpDU39CNbCe.jpg"
                             },
                             {
-                                "url": "/movies/las-semanas-magicas",
-                                "title": "Las semanas mágicas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/at2D9VBuZoZU6SDLt7ZMqoDggfY.jpg"
+                                "url": "/movies/amar-es-madurar",
+                                "title": "Amar es Madurar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/1MN8Qxg691Az7nofmXkZPsuIZVD.jpg"
                             },
                             {
                                 "url": "/movies/culpa-mia",
@@ -47,14 +57,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/3oypSaTizrfBbpIeRs8tTOF2EqV.jpg"
                             },
                             {
-                                "url": "/movies/conexiones-perdidas",
-                                "title": "Conexiones perdidas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/olTz451Gk1EhVlzUUT6SUv2Nwrg.jpg"
-                            },
-                            {
                                 "url": "/movies/reality",
                                 "title": "Reality",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/4rS1rcaeIJd2zdTn2G8RMfTNeiV.jpg"
+                            },
+                            {
+                                "url": "/movies/conexiones-perdidas",
+                                "title": "Conexiones perdidas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/olTz451Gk1EhVlzUUT6SUv2Nwrg.jpg"
                             },
                             {
                                 "url": "/movies/shooting-stars",
@@ -120,16 +130,6 @@
                                 "url": "/movies/wanda-sykes-im-an-entertainer",
                                 "title": "Wanda Sykes: I'm an Entertainer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yC4fYt4YpI2YscOMr3Pvs8GTC2e.jpg"
-                            },
-                            {
-                                "url": "/movies/la-princesa-cisne-ha-nacido-un-cuento-de-hadas",
-                                "title": "La Princesa Cisne: Ha nacido un cuento de hadas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rPHUSeqb2HI4JKe9xMawxeMZHAb.jpg"
-                            },
-                            {
-                                "url": "/movies/bama-rush",
-                                "title": "Bama Rush",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/30q4SkivFioRpJTIxOdMDvcN5M5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -172,11 +172,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
-                                "url": "/movies/mundo-fantasma",
-                                "title": "Mundo Fantasma",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
-                            },
-                            {
                                 "url": "/movies/the-world-to-come",
                                 "title": "The World to Come",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
@@ -185,6 +180,11 @@
                                 "url": "/series/world-on-fire",
                                 "title": "World on Fire",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
+                            },
+                            {
+                                "url": "/movies/mundo-fantasma",
+                                "title": "Mundo Fantasma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -232,19 +232,24 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             },
                             {
-                                "url": "/movies/guerra-mundial-z",
-                                "title": "Guerra mundial Z",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg"
-                            },
-                            {
                                 "url": "/series/brave-new-world",
                                 "title": "Brave New World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
                             },
                             {
-                                "url": "/movies/team-america-policia-mundial",
-                                "title": "Team America: Policía mundial",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6X9Uo1r5RPJuiY36TXbwtYguOze.jpg"
+                                "url": "/movies/guerra-mundial-z",
+                                "title": "Guerra mundial Z",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg"
+                            },
+                            {
+                                "url": "/series/la-loca-historia-del-mundo-parte-2",
+                                "title": "La loca historia del mundo - Parte 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/dNukm3eEWDmSVZbCBFpriEurBOM.jpg"
+                            },
+                            {
+                                "url": "/series/the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
                             },
                             {
                                 "url": "/series/astrid-and-lilly-save-the-world",
@@ -252,14 +257,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/dgYFcMUOojIeK7jZEjkjK3tOqTe.jpg"
                             },
                             {
-                                "url": "/movies/ya-no-me-siento-a-gusto-en-este-mundo",
-                                "title": "Ya no me siento a gusto en este mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8cb4APubOIrauUg1QWoQxDWo7Kw.jpg"
-                            },
-                            {
-                                "url": "/series/the-walking-dead-world-beyond",
-                                "title": "The Walking Dead: World Beyond",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
+                                "url": "/movies/la-vuelta-al-mundo-en-80-dias",
+                                "title": "La vuelta al mundo en 80 días",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/5sOJTtPJfOT74sSTABd3E0K5Zmy.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -269,14 +269,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/all-my-puny-sorrows",
-                    "title": "All My Puny Sorrows",
-                    "artist": "Alison Pill",
-                    "description": "La historia de dos hermanas menonitas que han dejado atrás su estricta educación religiosa. Mientras un hermano lucha en el amor y la vida, el otro es un concertista de piano de fama mundial.",
-                    "genre": "Drama",
+                    "url": "/movies/la-mala-familia",
+                    "title": "La mala familia",
+                    "description": "Un grupo de amigos que lleva un tiempo sin poder cantar aprovechan la salida de prisión de Andresito para reencontrarse y disfrutar de un caluroso día de verano en las afueras de Madrid. Con la caída del sol, tendrán que enfrentarse a un problema del pasado que amenaza con llevarlos a todos a la cárcel.",
+                    "genre": "Drama, Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/bqtPK4LHbuXwiHMlXwUD4hU4S2D.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/j7IfwDTdZioFxmXpsGiDuTzzeD.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -284,7 +283,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/all-my-puny-sorrows",
+                        "url": "/movies/la-mala-familia",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -294,26 +293,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery370.akamai-video-content.com/hls2/01/04916/3ws3toad2jj1_n/index-v1-a1.m3u8?t=jUtqSHCsJIPeHvapO8fS7GJmjAFCj8Jlolb9M3mQ1DQ&s=1686852545&e=10800&f=24584824&srv=sto051&client=4.155.128.250&asn=8075",
-                        "quality": "English StreamSB:720p ",
-                        "videoUrl": "https://delivery370.akamai-video-content.com/hls2/01/04916/3ws3toad2jj1_n/index-v1-a1.m3u8?t=jUtqSHCsJIPeHvapO8fS7GJmjAFCj8Jlolb9M3mQ1DQ&s=1686852545&e=10800&f=24584824&srv=sto051&client=4.155.128.250&asn=8075",
+                        "url": "https://delivery356.akamai-video-content.com/hls2/01/13129/zq2qp9zteyli_n/index-v1-a1.m3u8?t=HyVzlbfU3h42HtJJQvb5U9Ocqfy23dk4-wnvmD4A5wA&s=1686875918&e=10800&f=65649646&srv=sto258&client=52.190.17.207&asn=8075",
+                        "quality": "Spanish StreamSB:720p ",
+                        "videoUrl": "https://delivery356.akamai-video-content.com/hls2/01/13129/zq2qp9zteyli_n/index-v1-a1.m3u8?t=HyVzlbfU3h42HtJJQvb5U9Ocqfy23dk4-wnvmD4A5wA&s=1686875918&e=10800&f=65649646&srv=sto258&client=52.190.17.207&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/3ws3toad2jj1",
+                            "referer": "https://watchsb.com/e/zq2qp9zteyli",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery370.akamai-video-content.com/hls2/01/04916/3ws3toad2jj1_l/index-v1-a1.m3u8?t=jUtqSHCsJIPeHvapO8fS7GJmjAFCj8Jlolb9M3mQ1DQ&s=1686852545&e=10800&f=24584824&srv=sto051&client=4.155.128.250&asn=8075",
-                        "quality": "English StreamSB:360p ",
-                        "videoUrl": "https://delivery370.akamai-video-content.com/hls2/01/04916/3ws3toad2jj1_l/index-v1-a1.m3u8?t=jUtqSHCsJIPeHvapO8fS7GJmjAFCj8Jlolb9M3mQ1DQ&s=1686852545&e=10800&f=24584824&srv=sto051&client=4.155.128.250&asn=8075",
+                        "url": "https://delivery356.akamai-video-content.com/hls2/01/13129/zq2qp9zteyli_l/index-v1-a1.m3u8?t=HyVzlbfU3h42HtJJQvb5U9Ocqfy23dk4-wnvmD4A5wA&s=1686875918&e=10800&f=65649646&srv=sto258&client=52.190.17.207&asn=8075",
+                        "quality": "Spanish StreamSB:480p ",
+                        "videoUrl": "https://delivery356.akamai-video-content.com/hls2/01/13129/zq2qp9zteyli_l/index-v1-a1.m3u8?t=HyVzlbfU3h42HtJJQvb5U9Ocqfy23dk4-wnvmD4A5wA&s=1686875918&e=10800&f=65649646&srv=sto258&client=52.190.17.207&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/3ws3toad2jj1",
+                            "referer": "https://watchsb.com/e/zq2qp9zteyli",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
+                    },
+                    {
+                        "url": "https://delivery356.akamai-video-content.com/hls2/01/13129/zq2qp9zteyli_h/index-v1-a1.m3u8?t=HyVzlbfU3h42HtJJQvb5U9Ocqfy23dk4-wnvmD4A5wA&s=1686875918&e=10800&f=65649646&srv=sto258&client=52.190.17.207&asn=8075",
+                        "quality": "Spanish StreamSB:1080p ",
+                        "videoUrl": "https://delivery356.akamai-video-content.com/hls2/01/13129/zq2qp9zteyli_h/index-v1-a1.m3u8?t=HyVzlbfU3h42HtJJQvb5U9Ocqfy23dk4-wnvmD4A5wA&s=1686875918&e=10800&f=65649646&srv=sto258&client=52.190.17.207&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/zq2qp9zteyli",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=0rDq22aK6ATbrKW&expires=1686945919&ip=G0WsD0cRKxSHDN&token=ar7oxXXsYYIN",
+                        "quality": "Spanish StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=0rDq22aK6ATbrKW&expires=1686945919&ip=G0WsD0cRKxSHDN&token=ar7oxXXsYYIN"
                     }
                 ],
                 "passed": true

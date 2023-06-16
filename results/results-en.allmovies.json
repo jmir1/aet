@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/the-flash/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/the-flash-34566-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/barry/",
                                 "title": "Barry",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/barry-34463-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/tulsa-king/",
                                 "title": "Tulsa King",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/tulsa-king-29732-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/the-white-lotus/",
-                                "title": "The White Lotus",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/the-white-lotus-29711-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -667,6 +667,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/cL0rqwiKsMw3ZdQexRTONtsrkOg.jpg"
                             },
                             {
+                                "url": "/series/the-flash/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/the-flash-34566-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/movies/the-flash/",
                                 "title": "The Flash",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/cLqyz8aMgR0veS3U1ESKeIwD0TA-150x150.jpg"
@@ -852,11 +857,6 @@
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/reginald-the-vampire-29380-poster-150x150.jpg"
                             },
                             {
-                                "url": "/movies/possession/",
-                                "title": "Possession",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/d0As8PxiKHtXfenwuwB9Wj3mh5v-150x150.jpg"
-                            },
-                            {
                                 "thumbnail_url": "https:"
                             },
                             {
@@ -882,11 +882,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/barry/",
-                    "title": "Barry",
-                    "author": "Alec Berg, Bill Hader",
-                    "description": "A hit man from the Midwest moves to Los Angeles and gets caught up in the city's theatre arts scene.",
-                    "genre": "Comedy, Crime, Drama",
+                    "url": "/series/the-flash/",
+                    "title": "The Flash",
+                    "author": "Andrew Kreisberg, Geoff Johns, Greg Berlanti",
+                    "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+                    "genre": "Drama, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -896,27 +896,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/barry-4x8/",
-                        "name": "Season 4x8 : wow",
-                        "episode_number": 8.0
+                        "url": "/episode/the-flash-3x23/",
+                        "name": "Season 3x23 : Finish Line",
+                        "episode_number": 23.0
                     },
                     {
-                        "url": "/episode/barry-4x7/",
-                        "name": "Season 4x7 : a nice meal",
-                        "episode_number": 7.0
+                        "url": "/episode/the-flash-3x22/",
+                        "name": "Season 3x22 : Infantino Street",
+                        "episode_number": 22.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v909.streamhub.gg/hls/sc6tyjtjxmytnuzvouqc5ndzx6r4ulsuckl6nldq3jpfshg66hmg6rbvahgq/index-v1-a1.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://v909.streamhub.gg/hls/sc6tyjtjxmytnuzvouqc5ndzx6r4ulsuckl6nldq3jpfshg66hmg6rbvahgq/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
