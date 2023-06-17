@@ -169,19 +169,44 @@
             "details": {
                 "result": {
                     "url": "/videos/bring-it-on-worldwide-cheersmack",
-                    "title": "Bring It On: Worldwide #Cheersmack",
-                    "description": "Vivica A. Fox makes her Bring It On debut as Cheer Goddess, the Internet's most popular \"Cheer-lebrity.\" When Destiny (Prosperi), captain of three-time national champions \"The Rebels,\" is ...",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/bring-it-on-worldwide-cheersmack",
+                        "name": "Bring It On: Worldwide #Cheersmack",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery545.akamai-video-content.com/hls2/01/00480/42ijg8lakg3l_n/index-v1-a1.m3u8?t=T8vvn6mNtKXaeRzee7WupTzhKOukEzJ45lKPUk48O0w&s=1686962127&e=10800&f=2404703&srv=sto095&client=40.84.170.162&asn=8075",
+                        "quality": "StreamSB:474p",
+                        "videoUrl": "https://delivery545.akamai-video-content.com/hls2/01/00480/42ijg8lakg3l_n/index-v1-a1.m3u8?t=T8vvn6mNtKXaeRzee7WupTzhKOukEzJ45lKPUk48O0w&s=1686962127&e=10800&f=2404703&srv=sto095&client=40.84.170.162&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://sbnet.one/e/42ijg8lakg3l?caption_1=https://sub.membed.net/sub/bring-it-on-worldwide-cheersmack/bring-it-on-worldwide-cheersmack.vtt&sub_1=English",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://mixdrop.co/e/7r9ze6jdsowpzd?sub1=https://sub.membed.net/sub/bring-it-on-worldwide-cheersmack/bring-it-on-worldwide-cheersmack.vtt&sub1_label=English",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery28.mxdcontent.net/v/5845b67c42e619adae5dd71ffa328aaa.mp4?s=xdyBWm6UKW0wFcU7B7rfZQ&e=1686983727&_t=1686971143",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

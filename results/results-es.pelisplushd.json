@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/jalas-o-te-rajas",
+                                "title": "Jalas o Te Rajas (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/k62CL0rXM1uj3YFbGnGpM9sT1C6.jpg"
+                            },
+                            {
                                 "url": "/serie/las-kardashian",
                                 "title": "Las Kardashian (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/pd6XnYZ2qyaXRO5XnHJOfRXoctp.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/dodo",
                                 "title": "Dodo (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/gDhMkFRCVm9ZraVJQbk9ZlwX5oj.jpg"
-                            },
-                            {
-                                "url": "/serie/ciudad-en-llamas",
-                                "title": "Ciudad en llamas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yaLN9VPKa1Z5ozBB8z11hWP99CN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/las-kardashian",
-                    "title": "Las Kardashian (2022)",
-                    "description": "La familia a la que tanto conoces y adoras vuelve con una nueva serie dando acceso pleno a toda su vida. Kris, Kourtney, Kim, Khloé, Kendall y Kylie se exponen ante las cámaras para revelar los secretos que hay tras los titulares..",
+                    "url": "/serie/jalas-o-te-rajas",
+                    "title": "Jalas o Te Rajas (2023)",
+                    "description": "El Escorpión Dorado y Facundo deciden poner fin a su rivalidad de varios años firmando un contrato en el que se comprometen a enfrentarse en 10 retos extremos. Los retos son creados por celebridades que buscan venganza y quieren verlos sufrir. Viajando, desafiándose, acumulando dinero y siendo castigados demostrarán quien es un verdadero dios y quién es un simple mortal..",
                     "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pd6XnYZ2qyaXRO5XnHJOfRXoctp.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/k62CL0rXM1uj3YFbGnGpM9sT1C6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/las-kardashian/temporada/2/capitulo/11",
-                        "name": "T2 - E11: Episodio 11",
-                        "episode_number": 21.0
+                        "url": "/serie/jalas-o-te-rajas/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/las-kardashian/temporada/2/capitulo/10",
-                        "name": "T2 - E10: Episodio 10",
-                        "episode_number": 20.0
+                        "url": "/serie/jalas-o-te-rajas/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery117.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_n/index-v1-a1.m3u8?t=onUStu9dkhPrnEYWAPJUO7i4Hjk9HOIpTDNELXRbsFs&s=1686938916&e=10800&f=65651824&srv=sto038&client=13.88.99.52&asn=8075",
+                        "url": "https://delivery381.akamai-video-content.com/hls2/01/13141/hirol0rp1940_n/index-v1-a1.m3u8?t=UjhQNZg2aH8sc-AlA9q2VhxBft9otDwwlWOjgUISzdo&s=1686962088&e=10800&f=65709345&srv=T5OEk3yPOpSPHZO&client=4.227.8.32&asn=8075",
                         "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery117.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_n/index-v1-a1.m3u8?t=onUStu9dkhPrnEYWAPJUO7i4Hjk9HOIpTDNELXRbsFs&s=1686938916&e=10800&f=65651824&srv=sto038&client=13.88.99.52&asn=8075",
+                        "videoUrl": "https://delivery381.akamai-video-content.com/hls2/01/13141/hirol0rp1940_n/index-v1-a1.m3u8?t=UjhQNZg2aH8sc-AlA9q2VhxBft9otDwwlWOjgUISzdo&s=1686962088&e=10800&f=65709345&srv=T5OEk3yPOpSPHZO&client=4.227.8.32&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/kwubcgm88tc8?",
+                            "referer": "https://lvturbo.com/e/hirol0rp1940?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery117.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_l/index-v1-a1.m3u8?t=onUStu9dkhPrnEYWAPJUO7i4Hjk9HOIpTDNELXRbsFs&s=1686938916&e=10800&f=65651824&srv=sto038&client=13.88.99.52&asn=8075",
+                        "url": "https://delivery381.akamai-video-content.com/hls2/01/13141/hirol0rp1940_l/index-v1-a1.m3u8?t=UjhQNZg2aH8sc-AlA9q2VhxBft9otDwwlWOjgUISzdo&s=1686962088&e=10800&f=65709345&srv=T5OEk3yPOpSPHZO&client=4.227.8.32&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery117.akamai-video-content.com/hls2/01/13130/kwubcgm88tc8_l/index-v1-a1.m3u8?t=onUStu9dkhPrnEYWAPJUO7i4Hjk9HOIpTDNELXRbsFs&s=1686938916&e=10800&f=65651824&srv=sto038&client=13.88.99.52&asn=8075",
+                        "videoUrl": "https://delivery381.akamai-video-content.com/hls2/01/13141/hirol0rp1940_l/index-v1-a1.m3u8?t=UjhQNZg2aH8sc-AlA9q2VhxBft9otDwwlWOjgUISzdo&s=1686962088&e=10800&f=65709345&srv=T5OEk3yPOpSPHZO&client=4.227.8.32&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/kwubcgm88tc8?",
+                            "referer": "https://lvturbo.com/e/hirol0rp1940?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Me9p6LXxLWSmXoR&expires=1687008918&ip=F0AsFxgnDS9X&token=PwbGt4zUkGV2",
+                        "url": "https://delivery381.akamai-video-content.com/hls2/01/13141/hirol0rp1940_o/index-v1-a1.m3u8?t=UjhQNZg2aH8sc-AlA9q2VhxBft9otDwwlWOjgUISzdo&s=1686962088&e=10800&f=65709345&srv=T5OEk3yPOpSPHZO&client=4.227.8.32&asn=8075",
+                        "quality": "StreamSB:1080p",
+                        "videoUrl": "https://delivery381.akamai-video-content.com/hls2/01/13141/hirol0rp1940_o/index-v1-a1.m3u8?t=UjhQNZg2aH8sc-AlA9q2VhxBft9otDwwlWOjgUISzdo&s=1686962088&e=10800&f=65709345&srv=T5OEk3yPOpSPHZO&client=4.227.8.32&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/hirol0rp1940?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=3A1Z0Q7agYsd19R&expires=1687032090&ip=Gy5QDREnDS9X&token=mH0qqUA_8vpA",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Me9p6LXxLWSmXoR&expires=1687008918&ip=F0AsFxgnDS9X&token=PwbGt4zUkGV2"
+                        "videoUrl": "https://streamtape.com/get_video?id=3A1Z0Q7agYsd19R&expires=1687032090&ip=Gy5QDREnDS9X&token=mH0qqUA_8vpA"
                     }
                 ],
                 "passed": true
