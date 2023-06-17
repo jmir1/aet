@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/20-0-megaquake-2022",
+                                "title": "20.0 Megaquake",
+                                "thumbnail_url": "https://images.movembed.cc//cover/20-0-megaquake-2022-1686992129.jpg"
+                            },
+                            {
+                                "url": "/videos/stan-lee-2023",
+                                "title": "Stan Lee",
+                                "thumbnail_url": "https://images.movembed.cc//cover/stan-lee-2023-1686992129.jpg"
+                            },
+                            {
+                                "url": "/videos/black-clover-sword-of-the-wizard-king-2023",
+                                "title": "Black Clover: Sword of the Wizard King",
+                                "thumbnail_url": "https://images.movembed.cc//cover/black-clover-sword-of-the-wizard-king-2023-1686992128.jpg"
+                            },
+                            {
+                                "url": "/videos/loudmouth-2023",
+                                "title": "Loudmouth",
+                                "thumbnail_url": "https://images.movembed.cc//cover/loudmouth-2023-1686992128.jpg"
+                            },
+                            {
                                 "url": "/videos/pretty-red-dress-2023",
                                 "title": "Pretty Red Dress",
                                 "thumbnail_url": "https://images.movembed.cc//cover/pretty-red-dress-2023-1686905130.jpg"
@@ -135,26 +155,6 @@
                                 "url": "/videos/amy-schumer-emergency-contact-2023",
                                 "title": "Amy Schumer: Emergency Contact",
                                 "thumbnail_url": "https://images.movembed.cc//cover/amy-schumer-emergency-contact-2023-1686649527.jpg"
-                            },
-                            {
-                                "url": "/videos/punch-2023",
-                                "title": "Punch",
-                                "thumbnail_url": "https://images.movembed.cc//cover/punch-2023-1686642331.jpg"
-                            },
-                            {
-                                "url": "/videos/americonned-2023",
-                                "title": "Americonned",
-                                "thumbnail_url": "https://images.movembed.cc//cover/americonned-2023-1686642331.jpg"
-                            },
-                            {
-                                "url": "/videos/super-size-me-2-holy-chicken-2019",
-                                "title": "Super Size Me 2: Holy Chicken!",
-                                "thumbnail_url": "https://images.movembed.cc//cover/super-size-me-2-holy-chicken-2019-1686642330.jpg"
-                            },
-                            {
-                                "url": "/videos/beau-is-afraid-2023",
-                                "title": "Beau Is Afraid",
-                                "thumbnail_url": "https://images.movembed.cc//cover/beau-is-afraid-2023-1686642028.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/pretty-red-dress-2023",
-                    "title": "Pretty Red Dress",
-                    "description": "Follows a South London family and how one red dress is the center of their lives.",
+                    "url": "/videos/20-0-megaquake-2022",
+                    "title": "20.0 Megaquake",
+                    "description": "As a megaquake threatens San Francisco, a series of foreshocks wreaks havoc across the city. Now an elite team of emergency service and disaster experts converge on the anticipated epicentre, working tirelessly to save as many lives as possible before the city is crushed into oblivion. Disaster movie, starring William Baldwin, McKenzie Westmore, Grant Bowler and Tyler Christopher.... [more] As a megaquake threatens San Francisco, a series of foreshocks wreaks havoc across the city. Now an elite team of emergency service and disaster experts converge on the anticipated epicentre, working tirelessly to save as many lives as possible before the city is crushed into oblivion. Disaster movie, starring William Baldwin, McKenzie Westmore, Grant Bowler and Tyler Christopher. [less]",
                     "initialized": true
                 },
                 "passed": true
@@ -334,25 +334,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/pretty-red-dress-2023",
-                        "name": "Pretty Red Dress",
-                        "episode_number": 0.0
+                        "url": "/videos/20-0-megaquake-2022",
+                        "name": "20.0 Megaquake",
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/p1eogm6A22Hr4LR/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/p1eogm6A22Hr4LR/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0NDkw"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
