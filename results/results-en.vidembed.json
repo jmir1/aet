@@ -342,8 +342,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/zl3LZmYdl8TYOxJ/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/zl3LZmYdl8TYOxJ/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NDk0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

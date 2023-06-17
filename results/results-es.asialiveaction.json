@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/adam-by-eve-a-live-in-animation/",
+                                "title": "Adam by Eve a Live in Animation",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg"
+                            },
+                            {
                                 "url": "/here-we-meet-again-2-32/",
                                 "title": "Here We Meet Again (5/32)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/decoy/",
                                 "title": "Decoy (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/aJ94iAzD1yfAAtSL7jEKiGGDZhM.jpg"
-                            },
-                            {
-                                "url": "/the-eighth-sense/",
-                                "title": "The Eighth Sense (8/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/7K0LZFb7U48tkSgiwFWco1cmJOK.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/adam-by-eve-a-live-in-animation/",
+                                "title": "Adam by Eve a Live in Animation",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg"
+                            },
+                            {
                                 "url": "/here-we-meet-again-2-32/",
                                 "title": "Here We Meet Again (5/32)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/decoy/",
                                 "title": "Decoy (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/aJ94iAzD1yfAAtSL7jEKiGGDZhM.jpg"
-                            },
-                            {
-                                "url": "/the-eighth-sense/",
-                                "title": "The Eighth Sense (8/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/7K0LZFb7U48tkSgiwFWco1cmJOK.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/here-we-meet-again-2-32/",
-                    "title": "Here We Meet Again (5/32)",
-                    "description": "En sus días de escuela, Xiang Yuan persiguió a Xu Yan Shi con todas sus fuerzas sin éxito. Reunidos como adultos, ella intenta salvar una empresa mientras él está hundido en el lodo debido a problemas en el lugar de trabajo. A pesar de enfrentarse a la desigualdad, está decidido a perseguir su sueño de convertirse en ingeniero de navegación. En el proceso de lidiar con la crisis de la empresa, Xiang Yuan aprende gradualmente a tomar el asunto en sus propias manos. Los dos vienen a apoyarse mutuamente mientras cumplen sus sueños.",
-                    "genre": "Drama, Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg",
+                    "url": "/adam-by-eve-a-live-in-animation/",
+                    "title": "Adam by Eve a Live in Animation",
+                    "description": "Anime, live action y música del innovador artista Eve: todo se entremezcla en esta experiencia sónica y casi onírica inspirada en la historia de Adán y Eva, transportándonos a un mundo surrealista.",
+                    "genre": "Acción, Aventura, Ciencia Ficción, Drama, Fantasía, Música, Sobrenatural",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/5426604/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

@@ -3,28 +3,353 @@
         "name": "AnimeLove",
         "results": {
             "popular": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/19-One-Piece/1/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/one_piece_wano_season.png"
+                            },
+                            {
+                                "url": "/anime/39-Detective-Conan/1/",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/Detective-Conan.jpg"
+                            },
+                            {
+                                "url": "/anime/41-Boruto:-Naruto-Next-Generations/1/",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/Boruto_Naruto_Next_Generations-cover.jpg"
+                            },
+                            {
+                                "url": "/anime/93-Gegege-no-Kitarou-(2018)/1/",
+                                "title": "Gegege no Kitarou (2018)",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/Gegege-no-Kitarou.jpg"
+                            },
+                            {
+                                "url": "/anime/191-Super-Dragon-Ball-Heroes/1/",
+                                "title": "Super Dragon Ball Heroes",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/DragonBallHeroes.jpg"
+                            },
+                            {
+                                "url": "/anime/238-Ahiru-No-Sora/1/",
+                                "title": "Ahiru No Sora",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/AhiruNoSora.jpg"
+                            },
+                            {
+                                "url": "/anime/256-Closers:-Side-Blacklambs/1/",
+                                "title": "Closers: Side Blacklambs",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/ClosersSideBlacklambs.jpg"
+                            },
+                            {
+                                "url": "/anime/343-Ginga-Eiyuu-Densetsu:-Die-Neue-These---Seiran-1/1/",
+                                "title": "Ginga Eiyuu Densetsu: Die Neue These - Seiran 1",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/GingaEiyuuDensetsuDieNeueTheseSeiran1.jpg"
+                            },
+                            {
+                                "url": "/anime/369-Xam'd:-Lost-Memories/1/",
+                                "title": "Xam'd: Lost Memories",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/Xamd Lost Memories.jpg"
+                            },
+                            {
+                                "url": "/anime/382-Tensei-shitara-Slime-Datta-Ken-OVA/1/",
+                                "title": "Tensei shitara Slime Datta Ken OVA",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TenseiShitaraSlimeDattaKen_OVA.jpg"
+                            },
+                            {
+                                "url": "/anime/402-Pokemon-(2019)/1/",
+                                "title": "Pokemon (2019)",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/Pokemon2019.jpg"
+                            },
+                            {
+                                "url": "/anime/719-Zenonzard-The-Animation/1/",
+                                "title": "Zenonzard The Animation",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/Zenonzard.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/2362-Kawaisugi-Crisis/1/",
+                                "title": "Kawaisugi Crisis",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/KawaisugiCrisis.jpg"
+                            },
+                            {
+                                "url": "/anime/2361-Aishang-Ta-de-Liyou/1/",
+                                "title": "Aishang Ta de Liyou",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/AishangTaDeLiyou.png"
+                            },
+                            {
+                                "url": "/anime/2360-5-toubun-no-Hanayome-Movie/1/",
+                                "title": "5-toubun no Hanayome Movie",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/GotoubunNoHanayomeMovie.jpg"
+                            },
+                            {
+                                "url": "/anime/2359-The-IDOLMOSTER-Cinderella-Girls:-U149/1/",
+                                "title": "The IDOLMOSTER Cinderella Girls: U149",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TheIdolmasterCinderellaGirlsU149.jpg"
+                            },
+                            {
+                                "url": "/anime/2358-XeY/1/",
+                                "title": "XeY",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/XeY.png"
+                            },
+                            {
+                                "url": "/anime/2357-Kimi-wo-Aishita-Hitori-no-Boku-e/1/",
+                                "title": "Kimi wo Aishita Hitori no Boku e",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/KimiWoAishitaHitoriNoBokuE.jpg"
+                            },
+                            {
+                                "url": "/anime/2356-Majutsushi-Orphen-Hagure-Tabi:-Seiiki-hen/1/",
+                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/MajutsushiOrphenHagureTabi4.jpg"
+                            },
+                            {
+                                "url": "/anime/2355-Niehime-to-Kemono-no-Ou/1/",
+                                "title": "Niehime to Kemono no Ou",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/NiehimeToKemonoNoOu.jpg"
+                            },
+                            {
+                                "url": "/anime/2354-Boku-ga-Aishita-Subete-no-Kimi-e/1/",
+                                "title": "Boku ga Aishita Subete no Kimi e",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/BokuGaAishitaSubeteNoKimiE.jpg"
+                            },
+                            {
+                                "url": "/anime/2353-Tensei-shitara-Slime-Datta-Ken-Movie:-Guren-no-Kizuna-hen-Movie/1/",
+                                "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen Movie",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TenseiShitaraSlimeDattaKenMovie.jpg"
+                            },
+                            {
+                                "url": "/anime/2352-Oshi-No-Ko/1/",
+                                "title": "Oshi No Ko",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/OshiNoKo.jpg"
+                            },
+                            {
+                                "url": "/anime/2351-Opus.COLORs/1/",
+                                "title": "Opus.COLORs",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/OpusColors.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/877-Kami-nomi-zo-Shiru-Sekai",
+                                "title": "Kami nomi zo Shiru Sekai",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/KamiNomiZoShiruSekai.jpg"
+                            },
+                            {
+                                "url": "/anime/1682-Cheat-Kusushi-no-Slow-Life:-Isekai-ni-Tsukurou-Drugstore",
+                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/CheatKusushiNoSlowLife.jpg"
+                            },
+                            {
+                                "url": "/anime/2067-Kino-no-Tabi:-The-Beautiful-World---The-Animated-Series",
+                                "title": "Kino no Tabi: The Beautiful World - The Animated Series",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/KinoNoTabiTheAnimatedSeries.jpg"
+                            },
+                            {
+                                "url": "/anime/1307-Kino-no-Tabi:-The-Beautiful-World",
+                                "title": "Kino no Tabi: The Beautiful World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/KinoNoTabiTheBeautifulWorld.jpg"
+                            },
+                            {
+                                "url": "/anime/1686-Tsuki-ga-Michibiku-Isekai-Douchuu",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TsukiGaMichibikuIsekaiDouchuu.jpg"
+                            },
+                            {
+                                "url": "/anime/1709-The-World's-Finest-Assassin-Gets-Reincarnated-in-Another-World-as-an-Aristocrat",
+                                "title": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/SekaiSaikouNoAnsatsushaIsekaiKizokuNiTenseiSuru.jpg"
+                            },
+                            {
+                                "url": "/anime/162-World-Trigger",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/WorldTrigger.jpg"
+                            },
+                            {
+                                "url": "/anime/1811-Harem-in-the-Labyrinth-of-Another-World",
+                                "title": "Harem in the Labyrinth of Another World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/IsekaiMeikyuuDeHaremWo.png"
+                            },
+                            {
+                                "url": "/anime/2311-Chronicles-of-an-Aristocrat-Reborn-in-Another-World",
+                                "title": "Chronicles of an Aristocrat Reborn in Another World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TenseiKizokuNoIsekaiBoukenroku.jpg"
+                            },
+                            {
+                                "url": "/anime/594-Accel-World",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/AccelWorld.jpg"
+                            },
+                            {
+                                "url": "/anime/169-Musaigen-no-Phantom-World",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/MusaigenNoPhantomWorld.jpg"
+                            },
+                            {
+                                "url": "/anime/1632-SD-Gundam-World-Heroes",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/SDGundamWorldHeroes.jpg"
+                            },
+                            {
+                                "url": "/anime/1604-Hetalia-World★Stars",
+                                "title": "Hetalia World★Stars",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/HetaliaWorldStars.jpg"
+                            },
+                            {
+                                "url": "/anime/1774-Skeleton-Knight-in-Another-World",
+                                "title": "Skeleton Knight in Another World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/GaikotsuKishi-sama.jpg"
+                            },
+                            {
+                                "url": "/anime/1108-Dawn-Of-The-World",
+                                "title": "Dawn Of The World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/DawnOfTheWorld.jpg"
+                            },
+                            {
+                                "url": "/anime/179-High-School-Prodigies-Have-It-Easy-Even-in-Another-World!",
+                                "title": "High School Prodigies Have It Easy Even in Another World!",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/ChoujinKoukousei.jpg"
+                            },
+                            {
+                                "url": "/anime/1805-My-Isekai-Life:-I-Gained-a-Second-Character-Class-and-Became-the-Strongest-Sage-in-the-World",
+                                "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TenseiKenjaNoIsekaiLife.jpg"
+                            },
+                            {
+                                "url": "/anime/1517-World-Trigger-2",
+                                "title": "World Trigger 2",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/WorldTrigger2.jpg"
+                            },
+                            {
+                                "url": "/anime/1803-The-Prince-of-Tennis-II:-U-17-World-Cup",
+                                "title": "The Prince of Tennis II: U-17 World Cup",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/ShinTennisNoOuji-samaU-17WorldCup.jpg"
+                            },
+                            {
+                                "url": "/anime/2325-Dr.-Stone:-New-World",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/DrStone3newworld.jpg"
+                            },
+                            {
+                                "url": "/anime/806-Musaigen-no-Phantom-World-Mizutama-no-Kiseki",
+                                "title": "Musaigen no Phantom World Mizutama no Kiseki",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/MusaigenNoPhantomWorldOVA.jpg"
+                            },
+                            {
+                                "url": "/anime/1957-Ningen-Fushin:-Adventurers-Who-Don't-Believe-in-Humanity-Will-Save-the-World",
+                                "title": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/NingenFushin.jpg"
+                            },
+                            {
+                                "url": "/anime/597-Accel-World:-Infinite∞Burst",
+                                "title": "Accel World: Infinite∞Burst",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/AccelWorldmovie.jpg"
+                            },
+                            {
+                                "url": "/anime/595-Accel-World-EX",
+                                "title": "Accel World EX",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/AccelWorldOVa.jpg"
+                            },
+                            {
+                                "url": "/anime/1605-Hetalia-World★Stars-Specials",
+                                "title": "Hetalia World★Stars Specials",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TenchiSouzouDesign-bu-special.jpg"
+                            },
+                            {
+                                "url": "/anime/650-IS:-Infinite-Stratos-2---World-Purge-hen",
+                                "title": "IS: Infinite Stratos 2 - World Purge-hen",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/InfiniteStratos2.jpg"
+                            },
+                            {
+                                "url": "/anime/2335-World-Dai-Star",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/WorldDaiStar.jpg"
+                            },
+                            {
+                                "url": "/anime/1985-Handyman-Saitou-in-Another-World",
+                                "title": "Handyman Saitou in Another World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/BenriyaSaitou-sanIsekaiNiIku.jpg"
+                            },
+                            {
+                                "url": "/anime/1996-Campfire-Cooking-in-Another-World-with-My-Absurd-Skill",
+                                "title": "Campfire Cooking in Another World with My Absurd Skill",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/TondemoSkillDeIsekaiHourouMeshi.jpg"
+                            },
+                            {
+                                "url": "/anime/1983-Saving-80,000-Gold-in-Another-World-for-My-Retirement",
+                                "title": "Saving 80,000 Gold in Another World for My Retirement",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/RougoNiSonaeteIsekaiDe8-manmai.jpg"
+                            },
+                            {
+                                "url": "/anime/1967-The-Iceblade-Sorcerer-Shall-Rule-the-World",
+                                "title": "The Iceblade Sorcerer Shall Rule the World",
+                                "thumbnail_url": "https://www.animelove.me/assets/img/HyoukenNoMajutsushiGaSekaiWoSuberu.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": {
+                    "url": "/anime/19-One-Piece/1/",
+                    "title": "One Piece",
+                    "author": "Toei Animation",
+                    "description": "One Piece: Monkey D. Rufy è un giovane pirata sognatore che da piccolo ha inavvertitamente mangiato il frutto del diavolo Gom Gom, diventando così un uomo di gomma con la capacità di allungarsi e deformarsi a piacimento. Con l'obiettivo di diventare il Re dei pirati e di ritrovare il leggendario tesoro One Piece, nascosto secondo le leggende da Gol D. Roger sull'isola di Raftel alla fine della Rotta Maggiore, Rufy si mette in mare e riunisce intorno a sé una ciurma. Entrano così a far parte della ciurma di Cappello di paglia: Roronoa Zoro, un tenace spadaccino abile nell'utilizzo di tre spade; Nami, una ladra e navigatrice del gruppo; Usop, un cecchino pavido e bugiardo; Sanji, un cuoco con un debole per le donne; TonyTony Chopper, una renna antropomorfa e medico di bordo; Nico Robin, un'archeologa che desidera fare luce su un periodo oscuro della storia del mondo; Franky, un cyborg e carpentiere; Brook, uno scheletro musicista e schermidore; e Jinbe, uomo-pesce ex membro della Flotta dei Sette ed esperto timoniere. Nel loro viaggio attraverso il Mare Orientale e la prima parte della Rotta Maggiore Rufy e compagni vivono numerose avventure, trovano alleati e affrontano avversari pirati o della Marina che intendono fermarli.\n\nTIPO: TV\nANNO DI USCITA: 2013",
+                    "genre": "Adventure, Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://www.animelove.me/assets/img/one_piece_wano_season.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/19-One-Piece-Streaming/1065/",
+                        "name": "Episodi 1065",
+                        "episode_number": 1065.0
+                    },
+                    {
+                        "url": "/anime/19-One-Piece-Streaming/1064/",
+                        "name": "Episodi 1064",
+                        "episode_number": 1064.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketException: Network is unreachable",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://server.animenod.cloud/DDL/ANIME/OnePiece/OnePiece_Ep_1065_SUB_ITA.mp4",
+                        "quality": "AnimeLove",
+                        "videoUrl": "https://server.animenod.cloud/DDL/ANIME/OnePiece/OnePiece_Ep_1065_SUB_ITA.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Host": "server.animenod.cloud"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
