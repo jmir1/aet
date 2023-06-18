@@ -247,8 +247,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m12.vudeo.co/2vp3x7yv64vjdohilovbvkm2yxj6fadmexarazjde6j535sqkwc7c6ikf3ca/v.mp4",
+                        "quality": "Vudeo",
+                        "videoUrl": "https://m12.vudeo.co/2vp3x7yv64vjdohilovbvkm2yxj6fadmexarazjde6j535sqkwc7c6ikf3ca/v.mp4",
+                        "headers": {
+                            "referer": "https://vudeo.net/"
+                        }
+                    },
+                    {
+                        "url": "https://mixdrop.co/e/wn74vxenudv8z3",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery43.mxdcontent.net/v/0d166e6686952168b10ae44374043ba5.mp4?s=z9USjoDyFYCL4NSdAC-Unw&e=1687090117&_t=1687070018",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

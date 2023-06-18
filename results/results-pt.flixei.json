@@ -142,6 +142,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/caminho-para-a-liberdade/online/gratis",
+                                "title": "Caminho Para a Liberdade",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39453.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/o-milagre-de-tyson/online/gratis",
+                                "title": "O Milagre de Tyson",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39452.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/minta-se-for-capaz/online/gratis",
+                                "title": "Minta se For Capaz",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39451.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/hatching/online/gratis",
+                                "title": "Hatching",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39450.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/de-desejo-a-pesadelo/online/gratis",
                                 "title": "De Desejo a Pesadelo",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39449.jpg"
@@ -260,26 +280,6 @@
                                 "url": "/assistir/filme/reality/online/gratis",
                                 "title": "Reality",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39426.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/do-jeito-que-elas-querem-o-proximo-capitulo/online/gratis",
-                                "title": "Do Jeito Que Elas Querem: O Próximo Capítulo",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39425.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/belo-desastre/online/gratis",
-                                "title": "Belo Desastre",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39424.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/filho-do-crime/online/gratis",
-                                "title": "Filho do Crime",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39423.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/a-pequena-sereia-2023/online/gratis",
-                                "title": "A Pequena Sereia",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/39422.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1706,8 +1706,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=1YsSBzkepE0kiJP0Fse-HQ&e=1687090144&_t=1687075448",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=1YsSBzkepE0kiJP0Fse-HQ&e=1687090144&_t=1687075448",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=vtbplsEJPnuvQ_xC9xwPlw&e=1687090145&_t=1687070554",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=vtbplsEJPnuvQ_xC9xwPlw&e=1687090145&_t=1687070554",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1687138544&ip=F0OSKRqOKxSHDN&token=NDD5_1UKmmLi",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1687138544&ip=F0OSKRqOKxSHDN&token=NDD5_1UKmmLi"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1687138545&ip=F0OSKRqOKxSHDN&token=fDxXQq0S5yCP",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1687138545&ip=F0OSKRqOKxSHDN&token=fDxXQq0S5yCP"
+                    }
+                ],
+                "passed": true
             }
         }
     }
