@@ -285,64 +285,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s103.akw.onl/download/1687154898/648e9f5279068/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s103.akw.onl/download/1687154898/648e9f5279068/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s104.akw.onl/download/1687154898/648e9f52a1b4e/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s104.akw.onl/download/1687154898/648e9f52a1b4e/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s201d2.akdl.link/download/1687154898/648e9f52ca184/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s201d2.akdl.link/download/1687154898/648e9f52ca184/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s202d1.akdl.link/download/1687154898/648e9f52f2cf0/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s202d1.akdl.link/download/1687154898/648e9f52f2cf0/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s203d1.akdl.link/download/1687154899/648e9f5326a13/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s203d1.akdl.link/download/1687154899/648e9f5326a13/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d1.akdl.link/download/1687154899/648e9f534ded0/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s204d1.akdl.link/download/1687154899/648e9f534ded0/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s205d2.akdl.link/download/1687154899/648e9f5374e82/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s205d2.akdl.link/download/1687154899/648e9f5374e82/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1687154899/648e9f539de54/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1687154899/648e9f539de54/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1687154899/648e9f53c7940/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1687154899/648e9f53c7940/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s305d1.akdl.link/download/1687154899/648e9f53f40dd/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s305d1.akdl.link/download/1687154899/648e9f53f40dd/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d2.akdl.link/download/1687154900/648e9f542b690/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s204d2.akdl.link/download/1687154900/648e9f542b690/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
