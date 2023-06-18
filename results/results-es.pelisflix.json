@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-pueblo-2/",
+                                "title": "El pueblo",
+                                "description": "En un pueblo antiguamente pintoresco —y ahora dominado por un gran vertedero de basura—, un jove...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/PPE4KRGsNMFJb46cD58TpT.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-wrath-of-becky/",
+                                "title": "The Wrath of Becky",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/3c19OxVJ3k54jdMXDt3.webp"
+                            },
+                            {
+                                "url": "/pelicula/pearl-zolg/",
+                                "title": "Pearl",
+                                "description": "Precuela de 'X' (2022) centrada en los orígenes del personaje de Pearl (Mia Goth).",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/clifOeefAyRZX8j.webp"
+                            },
+                            {
+                                "url": "/pelicula/a-night-of-horror-nightmare-radio/",
+                                "title": "A Night of Horror: Nightmare Radio",
+                                "description": "Rod conduce un programa de radio dedicado a historias de terror. Hasta que de pronto, comienza a rec...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/vAzRBZrcDxanWQKKZ457.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-hole-in-the-ground-el-bosque-maldito/",
                                 "title": "The Hole in the Ground (El bosque maldito)",
                                 "description": "Una noche, el hijo más joven de Sarah (Seána Kerslake) desaparece entre la maleza que hay tras su ...",
@@ -35,12 +59,6 @@
                                 "title": "El hijo",
                                 "description": "La ajetreada vida de Peter junto a su nueva pareja Emma y su bebé se convierte en un caos cuando su...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/SZk09SddeKhZXdOv.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-pueblo-2/",
-                                "title": "El pueblo",
-                                "description": "En un pueblo antiguamente pintoresco —y ahora dominado por un gran vertedero de basura—, un jove...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/PPE4KRGsNMFJb46cD58TpT.webp"
                             },
                             {
                                 "url": "/pelicula/eradication/",
@@ -227,24 +245,6 @@
                                 "title": "The Ledge",
                                 "description": "Una aventura de escalada en roca entre dos amigos se convierte en una terrorífica pesadilla. Despu�...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yHIACF6R7GbuOMccPku5HDTRvcttMH0.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-inspection/",
-                                "title": "The Inspection",
-                                "description": "Ellis French es un joven negro gay, rechazado por su madre y con pocas opciones para su futuro, deci...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xM005MQGoyCb8cqezRiyXAPFufbruP.webp"
-                            },
-                            {
-                                "url": "/pelicula/mi-pequeno-leon-blanco/",
-                                "title": "Mi pequeño león blanco",
-                                "description": "Lena, una joven atribulada toma bajo su ala a un cachorro de león blanco; poco sabe ella que el le�...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/avNQKkgKzbZWOCqT62jt87BDL3eBiEui08ZAj6bI71.webp"
-                            },
-                            {
-                                "url": "/pelicula/naked-singularity/",
-                                "title": "Naked Singularity",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/pE5flZoYMQgrynMoSNtoVnKbGQkKmwBB0xHcmW0YD.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-hole-in-the-ground-el-bosque-maldito/",
-                    "title": "The Hole in the Ground (El bosque maldito)",
-                    "description": "Una noche, el hijo más joven de Sarah (Seána Kerslake) desaparece entre la maleza que hay tras su casa rural. Aunque parece ser la misma persona cuando regresa a casa, su comportamiento comienza a ser cada vez más errático. Pronto, Sarah descubre que puede que el niño que ha vuelto no sea su hijo...",
-                    "genre": "Terror",
+                    "url": "/pelicula/el-pueblo-2/",
+                    "title": "El pueblo",
+                    "description": "En un pueblo antiguamente pintoresco —y ahora dominado por un gran vertedero de basura—, un joven anhela liberarse del cruel destino que lo ata a su tierra.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-hole-in-the-ground-el-bosque-maldito/",
+                        "url": "/pelicula/el-pueblo-2/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar OHkqtGOc = \"\"; eCRWHSSYT.forEach(function Oym(value) { OHkqtGOc += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
