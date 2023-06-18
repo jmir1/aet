@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/the-flash/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ipkmsv0yUMuTFscTIZAQfZKGV70.jpg"
+                            },
+                            {
                                 "url": "/movies/tyler-rake-extraction-2/",
                                 "title": "Tyler Rake: Extraction 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/chapl2LVzDS1g34IHIk0SctTKAz.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/movies/hellraiser/",
                                 "title": "Hellraiser",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg"
-                            },
-                            {
-                                "url": "/movies/the-whale/",
-                                "title": "The Whale",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4XfHj6W61y8RdH6R6c8AeOtEkAJ.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -434,11 +434,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/tyler-rake-extraction-2/",
-                    "title": "Tyler Rake: Extraction 2",
-                    "description": "Tyler Rake hat den Auftrag, eine Familie zu befreien, die einem georgischen Gangster ausgeliefert ist, und infiltriert eines der tödlichsten Gefängnisse der Welt, um sie zu retten. Doch als es bei der Extraktion heiß hergeht und der Gangster in der Hitze des Gefechts stirbt, spürt sein ebenso rücksichtsloser Bruder Rake und sein Team in Sydney auf, um sich zu rächen.\n\nOriginaltitel: Extraction 2",
-                    "genre": "Action, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/chapl2LVzDS1g34IHIk0SctTKAz.jpg",
+                    "url": "/movies/the-flash/",
+                    "title": "The Flash",
+                    "description": "Barry Allen nutzt seine Supergeschwindigkeit, um die Vergangenheit zu verändern, aber sein Versuch, seine Familie zu retten, schafft eine Welt ohne Superhelden und zwingt ihn, um sein Leben zu rennen, um die Zukunft zu retten.\n\nOriginaltitel: The Flash",
+                    "genre": "Abenteuer, Action, Science Fiction",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/ipkmsv0yUMuTFscTIZAQfZKGV70.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +446,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/tyler-rake-extraction-2/",
+                        "url": "/movies/the-flash/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }

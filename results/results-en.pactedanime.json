@@ -3,252 +3,28 @@
         "name": "pactedanime",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/chainsaw-man/",
-                                "title": "Chainsaw Man",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/yVtx7Xn9UxNJqvG2BkvhCcmed9S-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/the-eminence-in-shadow/",
-                                "title": "The Eminence in Shadow",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/12/7JKYmtLydAwo9ZsEmAknZiO4U8g-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/bluelock/",
-                                "title": "Blue Lock",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/tP16wAT98CLwnQ14iWTMZZwfLBr-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/my-hero-academia/",
-                                "title": "My Hero Academia",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/ivOLM47yJt90P19RH1NvJrAJz9F-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/reincarnated-as-a-sword/",
-                                "title": "Reincarnated as a Sword",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/yZ3VZVc7iyF7KtIjERBGEedVXqA-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/jojos-bizarre-adventure/",
-                                "title": "JoJo’s Bizarre Adventure",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/ogAWwbh3frWtiTyyXrZaVFtqCgp-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/spy-x-family/",
-                                "title": "SPY x FAMILY",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/3r4LYFuXrg3G8fepysr4xSLWnQL-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/bocchi-the-rock/",
-                                "title": "Bocchi the Rock!",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/12/opjVYsnc3Z9rknSxkOGkNDcePWf-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach/",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/5iVUUnE2tgBPypACYNobCKHagfV-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/cyberpunk-edgerunners/",
-                                "title": "Cyberpunk: Edgerunners",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/4CgMd3q8vy4bodVqS2Mp9epORmU-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/nierautomata-ver1-1a/",
-                                "title": "NieR:Automata Ver1.1a",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/01/qHSCYOXHV3EKXKkMxUvC9rGx4Av-185x278.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/episodes/bleach-1x101/",
-                                "title": "Bleach: 1×101",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/drLeoE2RBdg5K3ibl7byuWX3Xch-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x100/",
-                                "title": "Bleach: 1×100",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/zUOU4WsWW86KZ463vZigFfIC9jl-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x99/",
-                                "title": "Bleach: 1×99",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/bbtA6BdpUNiWbAbtnDYsMc7dP36-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x98/",
-                                "title": "Bleach: 1×98",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/kCGZz7OVvkt4XbrqDbKrEphTLnr-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x97/",
-                                "title": "Bleach: 1×97",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/eotgGzkXJK85M0SyYM7NtNO3nSj-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x96/",
-                                "title": "Bleach: 1×96",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/uFXqNEJ1l4ZGgTScvOkm7Ebn45P-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x95/",
-                                "title": "Bleach: 1×95",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/gXhRnO9QNsxvzCWY78sTi6lglmF-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x94/",
-                                "title": "Bleach: 1×94",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/hOcss2WXD5fC877zXByR27pyuBr-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x93/",
-                                "title": "Bleach: 1×93",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/4G57PhzWYObs6Fj3QVhw4fROU6h-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x92/",
-                                "title": "Bleach: 1×92",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/wPhxSOFT94LdWaeuCXr9hi1shVE-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x91/",
-                                "title": "Bleach: 1×91",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/f9FfPW3J1M0wLyFYjPxada7kIFl-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bleach-1x90/",
-                                "title": "Bleach: 1×90",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/03/pT0upSPbisdkMALSxAAVohbntbb-300x170.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/episodes/konosuba-an-explosion-on-this-wonderful-world-1x11/",
-                                "title": "KonoSuba – An Explosion on This Wonderful World!: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/7iN2ojeYa2nOXp4eZjCBruD5WzR.jpg"
-                            },
-                            {
-                                "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x10/",
-                                "title": "KamiKatsu: Working for God in a Godless World: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5AOmt9iY14AiQVYGDP0Vu6TFmEh.jpg"
-                            },
-                            {
-                                "url": "/episodes/in-another-world-with-my-smartphone-2x11/",
-                                "title": "In Another World with My Smartphone: 2×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eri61ZYdt3dOBAiFKLJBkQCZXG1.jpg"
-                            },
-                            {
-                                "url": "/episodes/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-1x11/",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mVhziawAJvFc0JZ81xoMA2JfaG9.jpg"
-                            },
-                            {
-                                "url": "/episodes/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far-1x11/",
-                                "title": "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3r6sCDCV1T0E9tKHPf5xGzdIBBf.jpg"
-                            },
-                            {
-                                "url": "/episodes/summoned-to-another-world-for-a-second-time-1x10/",
-                                "title": "Summoned to Another World for a Second Time: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/quijMoLaPiIOecu3wqPnZlatZPN.jpg"
-                            },
-                            {
-                                "url": "/episodes/konosuba-an-explosion-on-this-wonderful-world-1x10/",
-                                "title": "KonoSuba – An Explosion on This Wonderful World!: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xfCZgEM3Ur6dgDY8l7kLK7gKFzO.jpg"
-                            },
-                            {
-                                "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x9/",
-                                "title": "KamiKatsu: Working for God in a Godless World: 1×9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/77QobulCVJqeGxDoVazLsD3vNs0.jpg"
-                            },
-                            {
-                                "url": "/episodes/in-another-world-with-my-smartphone-2x10/",
-                                "title": "In Another World with My Smartphone: 2×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aEoThT3MGxxgHOZpxE0XogNmTUA.jpg"
-                            },
-                            {
-                                "url": "/episodes/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-1x10/",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lU9wTAG0LfNeakyFUr9X1IJLU4l.jpg"
-                            },
-                            {
-                                "url": "/episodes/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far-1x10/",
-                                "title": "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qeU92i3I7GpW996pBh0cOSnGIBn.jpg"
-                            },
-                            {
-                                "url": "/episodes/summoned-to-another-world-for-a-second-time-1x9/",
-                                "title": "Summoned to Another World for a Second Time: 1×9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uGnxx0DkWh6vnqEp14tYlfmdEw8.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/one-piece/",
-                    "title": "One Piece",
-                    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous “One Piece” behind. Whoever claims the “One Piece” will be named the new King of the Pirates.\n\nOriginal title: ワンピース\nFirst air date: Oct. 20, 1999\nLast air date: Apr. 16, 2023\nSeasons: 21\nEpisodes: 1061",
-                    "genre": "Action & Adventure, Animation, Comedy, Top Anime",
-                    "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-200x300.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/one-piece-21x1065/",
-                        "name": "Season 21 x 1065 - The Destruction of the Alliance?! Fire up, the Will of the New Generation!",
-                        "date_upload": 1686441600000,
-                        "episode_number": 1065.0
-                    },
-                    {
-                        "url": "/episodes/one-piece-21x1064/",
-                        "name": "Season 21 x 1064 - Drunken Dragon Bagua! The Lawless Dragon Closing in on Luffy",
-                        "date_upload": 1685836800000,
-                        "episode_number": 1064.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f200b097831bbec60_d20230611_m034928_c004_v0402014_t0010_u01686455368321",
-                        "quality": "1080P",
-                        "videoUrl": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f200b097831bbec60_d20230611_m034928_c004_v0402014_t0010_u01686455368321"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
