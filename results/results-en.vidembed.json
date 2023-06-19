@@ -7,9 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/976-evil-1989",
+                                "title": "976-EVIL",
+                                "thumbnail_url": "https://images.movembed.cc//cover/976-evil-1989-1687165225.jpg"
+                            },
+                            {
+                                "url": "/videos/adipurush-2023",
+                                "title": "Adipurush",
+                                "thumbnail_url": "https://images.movembed.cc//cover/adipurush-2023-1687160728.jpg"
+                            },
+                            {
                                 "url": "/videos/sweet-sixteen-2002",
                                 "title": "Sweet Sixteen",
                                 "thumbnail_url": "https://images.movembed.cc//cover/sweet-sixteen-2002-1687146928.jpg"
+                            },
+                            {
+                                "url": "/videos/strength-of-a-woman-2023",
+                                "title": "Strength of a Woman",
+                                "thumbnail_url": "https://images.movembed.cc//cover/strength-of-a-woman-2023-1687144528.jpg"
                             },
                             {
                                 "url": "/videos/elemental-2023",
@@ -140,21 +155,6 @@
                                 "url": "/videos/a-nashville-legacy-2023",
                                 "title": "A Nashville Legacy",
                                 "thumbnail_url": "https://images.movembed.cc//cover/a-nashville-legacy-2023-1686742227.jpg"
-                            },
-                            {
-                                "url": "/videos/bad-ronald-1974",
-                                "title": "Bad Ronald",
-                                "thumbnail_url": "https://images.movembed.cc//cover/bad-ronald-1974-1686725727.jpg"
-                            },
-                            {
-                                "url": "/videos/missing-in-brooks-county-2021",
-                                "title": "Missing in Brooks County",
-                                "thumbnail_url": "https://images.movembed.cc//cover/missing-in-brooks-county-2021-1686720028.jpg"
-                            },
-                            {
-                                "url": "/videos/the-ghost-station-2023",
-                                "title": "The Ghost Station",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-ghost-station-2023-1686720027.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,25 +324,19 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/sweet-sixteen-2002",
-                    "title": "Sweet Sixteen",
-                    "description": "Liam is a young, restless teen struggling to realize his dream in the gritty and dismal streets of Greenock, where unemployment is rampant and little hope is available to the city's youth. He is waiting for the release of his mother, Jean, from prison where she is completing a prison term for a crime that her boyfriend actually committed. Her boyfriend, Stan, is a crude and obnoxious drug pusher is partnered by Liam's equally rough and foul-mouth... [more] Liam is a young, restless teen struggling to realize his dream in the gritty and dismal streets of Greenock, where unemployment is rampant and little hope is available to the city's youth. He is waiting for the release of his mother, Jean, from prison where she is completing a prison term for a crime that her boyfriend actually committed. Her boyfriend, Stan, is a crude and obnoxious drug pusher is partnered by Liam's equally rough and foul-mouthed, mean-spirited grandfather. Liam is determined to rescue his mother from both of them, which means creating a safe haven beyond their reach. But first he's got to raise the cash--no small feat for a young man. It's not long before Liam and his pals' crazy schemes lead them into all sorts of trouble. Finding himself dangerously out of his depth, Liam knows he should walk away. Only this time, he just can't let go. [less]",
+                    "url": "/videos/976-evil-1989",
+                    "title": "976-EVIL",
+                    "description": "The rebellious teenager Spike lives with his religious Aunt Lucy, her cats and his annoying cousin Hoax in the house he inherited from his mother. Hoax is a teenager bullied by a gang of punks and Spike protects him whenever possible. Spike finds a flyer of a horoscope dialing 976-EVIL, but he does not give much attention to the voice from the other side. He dates the schoolmate Suzie and they go in his motorcycle to his room. Hoax sees them havi... [more] The rebellious teenager Spike lives with his religious Aunt Lucy, her cats and his annoying cousin Hoax in the house he inherited from his mother. Hoax is a teenager bullied by a gang of punks and Spike protects him whenever possible. Spike finds a flyer of a horoscope dialing 976-EVIL, but he does not give much attention to the voice from the other side. He dates the schoolmate Suzie and they go in his motorcycle to his room. Hoax sees them having sex from his room and when Spike and Suzie leave the room, Hoax steals the panty Suzie gave to Spike and finds the flyer of his cousin. He goes to the movie theater where Suzie and Spike had gone and is bullied by the punks and the disappointed Suzie learns that he had her panty. He decides to revenge them dialing 976-EVIL and following the instructions received from the voice. Meanwhile the snoopy reporter Marty is looking for a scoop and decides to investigate the phone number with the support of Hoax's teacher Angela. [less]",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/sweet-sixteen-2002",
-                        "name": "Sweet Sixteen",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
