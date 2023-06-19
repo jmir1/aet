@@ -3,12 +3,168 @@
         "name": "AnimePahe",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5213",
+                                "title": "Ao no Orchestra",
+                                "artist": "Tezu",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f51c20b2a7fcac3b64e7a330e76f3d45c8dd0804ed66b1f053491f25996f7acd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4708",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/c9f6f53dc8f21a47342480a31383e9e1055224d80b526a03194994d3c0bb6f97.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5184",
+                                "title": "Jarinko Chie (TV)",
+                                "artist": "MaruChanSubs",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/378b17c092a540f4b1c06c4adb29ca5d5efdef77a3fdbf758b52d7c2e664cb7a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5229",
+                                "title": "World Dai Star",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/a94f3f96407f2faba47d1c7ff2268fcbf7747e929b91b53d96b86ac7693ff101.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5203",
+                                "title": "My Home Hero",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/0f2e722c1ec292ffb97838c9408bb35c9c937b21bd9540313db8673ab76a35d2.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5220",
+                                "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/21cf14b6dc93b9cbc3ee5e859c0235fd103031f129dcf14dac8d11cf4ea3f725.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5210",
+                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/75ee1a1fad2064e7bb007620ab4624c87969cb4b91a5ae7dfca420835f71b429.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5204",
+                                "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/ce20ce7d8c714d7f70c9de8a7e1cfb31be7fbf71943799a8e5d7969d3221a78b.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5133",
+                                "title": "Hirogaru Sky! Precure",
+                                "artist": "Serenae",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/e71d5edf1abe6ec2e44ce4b6a50b8a0c3c69907ac5eb869c19b8f4fbac125f80.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5198",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/8c39b510d20ac4d7ed31258f0378cc771800b3214eb1e94b6933e0a462532879.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5200",
+                                "title": "Otonari ni Ginga",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/437ce89b2e90d404075f97ba748f20efae5a5072ec387fd129f6033ae5be8adb.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5201",
+                                "title": "Boku no Kokoro no Yabai Yatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f3b070435ac0b00e6a116f6380a388b03d13689dc1d66ed436ec4a3c91c9c331.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5213",
+                                "title": "Ao no Orchestra",
+                                "artist": "Tezu",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f51c20b2a7fcac3b64e7a330e76f3d45c8dd0804ed66b1f053491f25996f7acd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4708",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/c9f6f53dc8f21a47342480a31383e9e1055224d80b526a03194994d3c0bb6f97.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5184",
+                                "title": "Jarinko Chie (TV)",
+                                "artist": "MaruChanSubs",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/378b17c092a540f4b1c06c4adb29ca5d5efdef77a3fdbf758b52d7c2e664cb7a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5229",
+                                "title": "World Dai Star",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/a94f3f96407f2faba47d1c7ff2268fcbf7747e929b91b53d96b86ac7693ff101.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5203",
+                                "title": "My Home Hero",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/0f2e722c1ec292ffb97838c9408bb35c9c937b21bd9540313db8673ab76a35d2.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5220",
+                                "title": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/21cf14b6dc93b9cbc3ee5e859c0235fd103031f129dcf14dac8d11cf4ea3f725.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5210",
+                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/75ee1a1fad2064e7bb007620ab4624c87969cb4b91a5ae7dfca420835f71b429.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5204",
+                                "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/ce20ce7d8c714d7f70c9de8a7e1cfb31be7fbf71943799a8e5d7969d3221a78b.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5133",
+                                "title": "Hirogaru Sky! Precure",
+                                "artist": "Serenae",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/e71d5edf1abe6ec2e44ce4b6a50b8a0c3c69907ac5eb869c19b8f4fbac125f80.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5198",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/8c39b510d20ac4d7ed31258f0378cc771800b3214eb1e94b6933e0a462532879.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5200",
+                                "title": "Otonari ni Ginga",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/437ce89b2e90d404075f97ba748f20efae5a5072ec387fd129f6033ae5be8adb.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5201",
+                                "title": "Boku no Kokoro no Yabai Yatsu",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f3b070435ac0b00e6a116f6380a388b03d13689dc1d66ed436ec4a3c91c9c331.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -61,15 +217,38 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": {
+                    "url": "/anime/?anime_id=5213",
+                    "title": "Ao no Orchestra",
+                    "author": "Nippon Animation",
+                    "description": "Hajime Aono used to live for the sound of his violin playing. Ever since he was young, he had admired his world-renowned violinist father, who inspired him to pick up the instrument himself. But following his parents' bitter divorce, Aono swears to never play again and heads for high school without a direction or a prospect. During a physical education class, the unathletic Aono gets struck in the face with a ball and ends up in the infirmary. There, he meets the brash Ritsuko Akine who begins to play the violin in the room, believing she is alone. However, following a past incident, there have been rumors claiming that Akine is a bully, which has isolated her from her peers—a fact Aono was unaware of. Akine dreams of enrolling in a school with an orchestra, but her amateurish playing and lack of musical knowledge grates on Aono immensely. Seeing this as a perfect opportunity for the two to become friends, their teacher suggests that Aono teaches Akine how to play the violin, something Aono is vehemently against. However, as the pair spends more time together, they soon learn to understand and help each other—and Aono may finally discover the lost passion and melody in his life.\n\nSynonyms: The Blue Orchestra",
+                    "genre": "Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/0c47b4ade49eb314c5f244a1dc292eb635fd004438a10f65038c0f122b2f60bf.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/play/60e2eebb-2ed9-c1d0-7c32-e0be0e48658f/8084345e22bd9c1e5c7f74dddc657b31178db1bd09de401804fac3d0518ee1f2",
+                        "name": "Episode 11",
+                        "date_upload": 1687131342000,
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "/play/60e2eebb-2ed9-c1d0-7c32-e0be0e48658f/1e8f54ac005718cb3f6a117dfaeecc8b50dc0c24254f7aa1b0bcdb1365530f78",
+                        "name": "Episode 10",
+                        "date_upload": 1686515089000,
+                        "episode_number": 10.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

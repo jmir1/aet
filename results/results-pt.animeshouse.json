@@ -418,9 +418,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/#EXT-X-VERSION:3 \r",
-                        "quality": "Mp4Doo - y?container=focus&refresh=15552000&url=https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/1080p_000.webp \rp",
-                        "videoUrl": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/#EXT-X-VERSION:3 \r",
+                        "url": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/720p.m3u8",
+                        "quality": "Mp4Doo - 720p",
+                        "videoUrl": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/720p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animeshouse.net",
+                            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+                        }
+                    },
+                    {
+                        "url": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/1080p.m3u8",
+                        "quality": "Mp4Doo - 1080p",
+                        "videoUrl": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/1080p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animeshouse.net",
+                            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+                        }
+                    },
+                    {
+                        "url": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/480p.m3u8",
+                        "quality": "Mp4Doo - 480p",
+                        "videoUrl": "https://player5.animeshouse.net/video/Kimetsu_no_Yaiba_S3_11_FHD/480p.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Referer": "https://animeshouse.net",
