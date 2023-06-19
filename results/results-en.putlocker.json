@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/demon-slayer-kimetsu-no-yaiba-42177/",
+                                "title": "Demon Slayer: Kimetsu no Yaiba - Season 3",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/d7380c0e22b5493e8f2257c539d8a6fa.jpg"
+                            },
+                            {
                                 "url": "/film/king-the-land-97606/",
                                 "title": "King the Land - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/7d795b0546bbde2ac1d71f65fc29fc9d.jpg"
@@ -204,11 +209,6 @@
                                 "url": "/film/about-my-father-97231/",
                                 "title": "About My Father",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/0cbf4e028aa1900ccdde9ea168ede9bf.jpg"
-                            },
-                            {
-                                "url": "/film/vanderpump-rules-39105/",
-                                "title": "Vanderpump Rules - Season 10",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/c07b556f1f2b8bf530a9442d523e2c8b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -428,11 +428,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/king-the-land-97606/",
-                    "title": "King the Land",
+                    "url": "/film/demon-slayer-kimetsu-no-yaiba-42177/",
+                    "title": "Demon Slayer: Kimetsu no Yaiba",
                     "author": "",
-                    "description": "Amid a tense inheritance fight, a charming heir clashes with his hardworking employee who's known for her irresistible smile — which he cannot stand.\n\nQuality: HD\nRelease: 2023-06-17\nIMDb: n/a",
-                    "genre": "Drama, Comedy",
+                    "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\nQuality: HD\nRelease: 2019-04-06\nIMDb: 8.7",
+                    "genre": "Animation, Action & Adventure, Drama, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -440,11 +440,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":3,\"ids\":[\"42177_3_1\",\"42177_3_2\",\"42177_3_3\"]}",
+                        "name": "Episode 3: 4",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "{\"ep_num\":1,\"ids\":[\"42177_1_1\",\"42177_1_2\",\"42177_1_3\"]}",
+                        "name": "Episode 1: 2",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

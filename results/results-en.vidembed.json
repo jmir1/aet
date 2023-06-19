@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/sweet-sixteen-2002",
+                                "title": "Sweet Sixteen",
+                                "thumbnail_url": "https://images.movembed.cc//cover/sweet-sixteen-2002-1687146928.jpg"
+                            },
+                            {
                                 "url": "/videos/elemental-2023",
                                 "title": "Elemental",
                                 "thumbnail_url": "https://images.movembed.cc//cover/elemental-2023-1687082429.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/the-ghost-station-2023",
                                 "title": "The Ghost Station",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-ghost-station-2023-1686720027.jpg"
-                            },
-                            {
-                                "url": "/videos/slashening-the-final-beginning-2021",
-                                "title": "Slashening: The Final Beginning",
-                                "thumbnail_url": "https://images.movembed.cc//cover/slashening-the-final-beginning-2021-1686720027.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,19 +324,25 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/elemental-2023",
-                    "title": "Elemental",
-                    "description": "The film journeys alongside an unlikely pair, Ember and Wade, in a city where fire-, water-, land- and air-residents live together. The fiery young woman and the go-with-the-flow guy are about to discover something elemental: how much they actually have in common.... [more] The film journeys alongside an unlikely pair, Ember and Wade, in a city where fire-, water-, land- and air-residents live together. The fiery young woman and the go-with-the-flow guy are about to discover something elemental: how much they actually have in common. [less]",
+                    "url": "/videos/sweet-sixteen-2002",
+                    "title": "Sweet Sixteen",
+                    "description": "Liam is a young, restless teen struggling to realize his dream in the gritty and dismal streets of Greenock, where unemployment is rampant and little hope is available to the city's youth. He is waiting for the release of his mother, Jean, from prison where she is completing a prison term for a crime that her boyfriend actually committed. Her boyfriend, Stan, is a crude and obnoxious drug pusher is partnered by Liam's equally rough and foul-mouth... [more] Liam is a young, restless teen struggling to realize his dream in the gritty and dismal streets of Greenock, where unemployment is rampant and little hope is available to the city's youth. He is waiting for the release of his mother, Jean, from prison where she is completing a prison term for a crime that her boyfriend actually committed. Her boyfriend, Stan, is a crude and obnoxious drug pusher is partnered by Liam's equally rough and foul-mouthed, mean-spirited grandfather. Liam is determined to rescue his mother from both of them, which means creating a safe haven beyond their reach. But first he's got to raise the cash--no small feat for a young man. It's not long before Liam and his pals' crazy schemes lead them into all sorts of trouble. Finding himself dangerously out of his depth, Liam knows he should walk away. Only this time, he just can't let go. [less]",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/sweet-sixteen-2002",
+                        "name": "Sweet Sixteen",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -186,6 +186,11 @@
                                 "thumbnail_url": "https://i.animepahe.com/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
                             },
                             {
+                                "url": "/anime/?anime_id=4524",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://i.animepahe.com/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
+                            },
+                            {
                                 "url": "/anime/?anime_id=4175",
                                 "title": "World Trigger 2nd Season",
                                 "thumbnail_url": "https://i.animepahe.com/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
@@ -194,11 +199,6 @@
                                 "url": "/anime/?anime_id=4200",
                                 "title": "World Witches Hasshin Shimasu!",
                                 "thumbnail_url": "https://i.animepahe.com/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
-                            },
-                            {
-                                "url": "/anime/?anime_id=4524",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://i.animepahe.com/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
                             },
                             {
                                 "url": "/anime/?anime_id=5229",
@@ -248,8 +248,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eu-99.files.nextcdn.org/get/99/01/f8fa76f15fbd23ab52dc28bc07239f00d02f9661720d0cf0164ff93282e6df5c?file=AnimePahe_Ao_no_Orchestra_-_11_1080p_Tezu.mp4&token=RMrkLQvAKa3pnRdo9Yuk7w&expires=1687169411",
+                        "quality": "Tezu · 1080p",
+                        "videoUrl": "https://eu-99.files.nextcdn.org/get/99/01/f8fa76f15fbd23ab52dc28bc07239f00d02f9661720d0cf0164ff93282e6df5c?file=AnimePahe_Ao_no_Orchestra_-_11_1080p_Tezu.mp4&token=RMrkLQvAKa3pnRdo9Yuk7w&expires=1687169411"
+                    },
+                    {
+                        "url": "https://eu-99.files.nextcdn.org/get/99/01/4444d32c8c664972cf46d78d095def77f308aada5bc1ea1a903e7ea815849070?file=AnimePahe_Ao_no_Orchestra_-_11_720p_Tezu.mp4&token=MXDhgkvvQtqtLnufmiPx9w&expires=1687169402",
+                        "quality": "Tezu · 720p",
+                        "videoUrl": "https://eu-99.files.nextcdn.org/get/99/01/4444d32c8c664972cf46d78d095def77f308aada5bc1ea1a903e7ea815849070?file=AnimePahe_Ao_no_Orchestra_-_11_720p_Tezu.mp4&token=MXDhgkvvQtqtLnufmiPx9w&expires=1687169402"
+                    },
+                    {
+                        "url": "https://eu-99.files.nextcdn.org/get/99/01/0fa772e25d9cd2149f8560d90fe28bc7ff52cab6b9e29d6426454674869b7996?file=AnimePahe_Ao_no_Orchestra_-_11_360p_Tezu.mp4&token=bne_-sjdESTiT0TwPkl3Yw&expires=1687169396",
+                        "quality": "Tezu · 360p",
+                        "videoUrl": "https://eu-99.files.nextcdn.org/get/99/01/0fa772e25d9cd2149f8560d90fe28bc7ff52cab6b9e29d6426454674869b7996?file=AnimePahe_Ao_no_Orchestra_-_11_360p_Tezu.mp4&token=bne_-sjdESTiT0TwPkl3Yw&expires=1687169396"
+                    }
+                ],
+                "passed": true
             }
         }
     }

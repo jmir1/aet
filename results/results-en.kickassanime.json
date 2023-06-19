@@ -137,6 +137,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/black-clover-sword-of-the-wizard-king-000c",
+                                "title": "Black Clover: Mahou Tei no Ken",
+                                "thumbnail_url": "https://kaas.am/image/poster/black-clover-sword-of-the-wizard-king-000c-1b39-hq.webp"
+                            },
+                            {
+                                "url": "/heavenly-delusion-a61d",
+                                "title": "Tengoku Daimakyou",
+                                "thumbnail_url": "https://kaas.am/image/poster/heavenly-delusion-a61d-caae-hq.webp"
+                            },
+                            {
+                                "url": "/huo-feng-liao-yuan-712d",
+                                "title": "Huo Feng Liao Yuan",
+                                "thumbnail_url": "https://kaas.am/image/poster/huo-feng-liao-yuan-712d-91b1-hq.webp"
+                            },
+                            {
+                                "url": "/tousouchuu-great-mission-a595",
+                                "title": "Tousouchuu: Great Mission",
+                                "thumbnail_url": "https://kaas.am/image/poster/tousouchuu-great-mission-a595-8648-hq.webp"
+                            },
+                            {
                                 "url": "/inspectre-2-73ef",
                                 "title": "Kyokou Suiri Season 2",
                                 "thumbnail_url": "https://kaas.am/image/poster/inspectre-2-73ef-29ff-hq.webp"
@@ -235,26 +255,6 @@
                                 "url": "/spice-and-wolf-fde1",
                                 "title": "Ookami to Koushinryou",
                                 "thumbnail_url": "https://kaas.am/image/poster/spice-and-wolf-fde1-277b-hq.webp"
-                            },
-                            {
-                                "url": "/mix-season-2-3c7f",
-                                "title": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
-                                "thumbnail_url": "https://kaas.am/image/poster/mix-season-2-3c7f-5f55-hq.webp"
-                            },
-                            {
-                                "url": "/mashle-magic-and-muscles-2a0c",
-                                "title": "Mashle",
-                                "thumbnail_url": "https://kaas.am/image/poster/mashle-magic-and-muscles-2a0c-9206-hq.webp"
-                            },
-                            {
-                                "url": "/birdie-wing-golf-girls-story-season-2-4af8",
-                                "title": "Birdie Wing: Golf Girls' Story Season 2",
-                                "thumbnail_url": "https://kaas.am/image/poster/birdie-wing-golf-girls-story-season-2-9131-hq.webp"
-                            },
-                            {
-                                "url": "/otaku-elf-7c57",
-                                "title": "Edomae Elf",
-                                "thumbnail_url": "https://kaas.am/image/poster/otaku-elf-7c57-f1ad-hq.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -297,7 +297,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 2185: Expected beginning of the string, but got { at path: $.servers[0]\nJSON input: .....-fa99\",\"type\":\"tv\",\"servers\":[{\"name\":\"DuckStream\",\"shortNam.....",
                 "passed": false
             }
         }
