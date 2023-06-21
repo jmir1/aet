@@ -32,9 +32,39 @@
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/GnOaF.jpg"
                             },
                             {
+                                "url": "/movie/8691/rally-road-racers",
+                                "title": "Rally Road Racers",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/aIYFO.jpg"
+                            },
+                            {
+                                "url": "/movie/8690/sanctuary",
+                                "title": "Sanctuary",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/wkgSV.jpg"
+                            },
+                            {
+                                "url": "/movie/8638/game-of-death",
+                                "title": "Game of Death",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/xqrk0.jpg"
+                            },
+                            {
+                                "url": "/movie/8633/enter-the-dragon",
+                                "title": "Enter the Dragon",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/TCw25.jpg"
+                            },
+                            {
+                                "url": "/movie/8653/the-way-of-the-dragon",
+                                "title": "The Way Of The Dragon",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/bEQmY.jpg"
+                            },
+                            {
                                 "url": "/movie/8636/fist-of-fury",
                                 "title": "Fist of Fury",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/d1F88.jpg"
+                            },
+                            {
+                                "url": "/movie/8650/the-big-boss",
+                                "title": "The Big Boss",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/sZyTT.jpg"
                             },
                             {
                                 "url": "/movie/8689/the-sea-monster",
@@ -125,36 +155,6 @@
                                 "url": "/movie/8683/siya",
                                 "title": "Siya",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/LVRt9.jpg"
-                            },
-                            {
-                                "url": "/movie/8682/an-unforgettable-year-summer",
-                                "title": "An Unforgettable Year: Summer",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/syGph.jpg"
-                            },
-                            {
-                                "url": "/movie/8645/son-of-saul",
-                                "title": "Son of Saul",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/9gPdv.jpg"
-                            },
-                            {
-                                "url": "/movie/8664/passengers",
-                                "title": "Passengers",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/GBThF.jpg"
-                            },
-                            {
-                                "url": "/movie/8642/i-saw-the-devil",
-                                "title": "I Saw the Devil",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/oJwUz.jpg"
-                            },
-                            {
-                                "url": "/movie/8637/friends-with-benefits",
-                                "title": "Friends with Benefits",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/ThmXs.jpg"
-                            },
-                            {
-                                "url": "/movie/8631/a-prophet",
-                                "title": "A Prophet",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/ydAJ7.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -290,24 +290,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s103.akw.onl/download/1687435977/6492e949ca787/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s103.akw.onl/download/1687435977/6492e949ca787/Extraction.2.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s209d2.akdl.link/download/1687435977/6492e949f3719/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s209d2.akdl.link/download/1687435977/6492e949f3719/Extraction.2.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s206d1.akdl.link/download/1687435978/6492e94a2797b/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1687435978/6492e94a2797b/Extraction.2.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

@@ -176,12 +176,27 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/bring-it-on-worldwide-cheersmack",
+                        "name": "Bring It On: Worldwide #Cheersmack",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://mixdrop.co/e/7r9ze6jdsowpzd?sub1=https://sub.membed.net/sub/bring-it-on-worldwide-cheersmack/bring-it-on-worldwide-cheersmack.vtt&sub1_label=English",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery28.mxdcontent.net/v/5845b67c42e619adae5dd71ffa328aaa.mp4?s=EL_SnDrKJs3WoadtQl5Rbw&e=1687392754&_t=1687376179",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
