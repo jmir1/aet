@@ -527,11 +527,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/tj8eG3qdcT7gVKEJrdY7balpXC1.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=977223&type=movie",
-                                "title": "Polite Society",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lv1WqAo2ulQy9aSOG7ikR44p8RR.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=820232&type=movie",
                                 "title": "Demon Slayer: Das Band der Geschwister",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/xnXeOfHXsgCRi4u75OPU2U3kZsO.jpg"
@@ -545,6 +540,11 @@
                                 "url": "/data/watch/?_id=766507&type=movie",
                                 "title": "Prey",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nglFdIeslQWImpuDABkVOxPDX1Z.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=876792&type=movie",
+                                "title": "Meine Wiedergeburt als Schleim in einer anderen Welt – Der Film: Feuerrote Bande",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/z1n7Y1gJqvbjueTH9wUYYuDArXN.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=876969&type=movie",
@@ -647,14 +647,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=385687&type=movie",
-                    "title": "Fast & Furious 10",
-                    "description": "Dominic Toretto ahnt nicht, dass seine Taten, die Jahre zurückliegen, tiefe Spuren bei dem mittlerweile mächtigen Dante hinterlassen haben. Dieser sinnt nun auf Rache und will die ganze Toretto-Familie auseinanderbringen. Es entbrennt eine Rachegeschichte, die alle Mitglieder der Original-Crew, aber auch Deckard Shaw, Bruder Jakob sowie den Neuzugang Tess auf den Plan ruft. Diese haben fortan alle Hände zu tun, um sich gegen den Gegenspieler sowie dessen Gefolgschaft samt Cipher und Aimes zur Wehr setzen zu können. Da Dom nicht jeden aus der großen Familie beschützen kann und der rachsüchtige Rivale vor nichts zurückschreckt, wird er vor die schwierigste Wahl seines Lebens gestellt: Wen wird er retten?",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/j3S6HI4omonneHjZN9xypYVfEt0.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -669,9 +663,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/00129/rpy5vui7lw20_x/index-v1-a1.m3u8?t=9gVxBgdgYFHd0gxcCX2QYRbt82DVz3e2IBZCdsYoNOo&s=1687284422&e=43200&f=648859&srv=13&asn=8075&sp=2500",
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/00129/rpy5vui7lw20_x/index-v1-a1.m3u8?t=EWukZJ21uVGEZPrzHgp-iujFNVDdCs8vM3LRk7ShrVE&s=1687307783&e=43200&f=648859&srv=13&asn=8075&sp=2500",
                         "quality": "Filemoon:816p ",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/00129/rpy5vui7lw20_x/index-v1-a1.m3u8?t=9gVxBgdgYFHd0gxcCX2QYRbt82DVz3e2IBZCdsYoNOo&s=1687284422&e=43200&f=648859&srv=13&asn=8075&sp=2500"
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/00129/rpy5vui7lw20_x/index-v1-a1.m3u8?t=EWukZJ21uVGEZPrzHgp-iujFNVDdCs8vM3LRk7ShrVE&s=1687307783&e=43200&f=648859&srv=13&asn=8075&sp=2500"
                     }
                 ],
                 "passed": true
