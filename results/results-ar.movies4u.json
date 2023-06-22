@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-the-sea-monster-2023-مترجم",
+                                "title": "   The Sea Monster 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-miracle-fighters-2023-مترجم",
+                                "title": "   Miracle Fighters 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-sanctuary-2022-مترجم",
+                                "title": "   Sanctuary 2022 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-i-like-movies-2022-مترجم",
                                 "title": "   I Like Movies 2022 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/0fcd68e11ab9d0f1101fe6c6a8425ef8.jpg"
@@ -170,21 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-cult-hero-2022-مترجم",
                                 "title": "   Cult Hero 2022  ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/47005fc52252cec6702488ad6ff54e76.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-hyväveli-2022-مترجم",
-                                "title": "   Hyväveli 2022 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/803086761ea2ae7753d8051611d322f1.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-the-renata-road-2022-مترجم",
-                                "title": "  The Renata Road 2022 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/6bf05541db4bf01b87dad45747a1f245.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-coast-guard-malaysia-ops-helang-2023-مترجم",
-                                "title": "  Coast Guard Malaysia: Ops Helang 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/fbba455409ee67f1a147abf0555e189f.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-i-like-movies-2022-مترجم",
-                    "title": "  I Like Movies 2022 ",
-                    "description": "مشاهدة فيلم الكوميديا I Like Movies 2022 مترجم بجودة 1080p WEB-DL مشاهدة اون لاين مباشرة وتحميل مباشر حصل لورانس كويلر ، البالغ من العمر 17 عامًا ، غير الكفء اجتماعيًا ، على وظيفة في متجر فيديو ، حيث يقيم صداقة معقدة مع مديرته الأكبر سنًا.",
-                    "genre": "كوميديا",
+                    "url": "/movie/مشاهدة-فيلم-the-sea-monster-2023-مترجم",
+                    "title": "  The Sea Monster 2023 ",
+                    "description": "",
+                    "genre": "دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/m/0fcd68e11ab9d0f1101fe6c6a8425ef8.jpg",
+                    "thumbnail_url": "https://cdn.egybest.vip/",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-i-like-movies-2022-مترجم",
-                        "name": "  I Like Movies 2022 ",
+                        "url": "/movie/مشاهدة-فيلم-the-sea-monster-2023-مترجم",
+                        "name": "  The Sea Monster 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

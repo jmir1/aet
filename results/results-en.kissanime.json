@@ -267,6 +267,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/the-ancient-magus-bride-season-2.66521/",
+                                "title": "The Ancient Magus’ Bride Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/The-Ancient-Magus-Bride-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Yuri-Is-My-Job/",
+                                "title": "Yuri Is My Job!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/Yuri-Is-My-Job.jpg"
+                            },
+                            {
                                 "url": "/Anime/dr-slump-arale-chan.85246/",
                                 "title": "Dr. Slump: Arale-chan",
                                 "thumbnail_url": "https://static.anmedm.com/media/uploads/7-15-2013/78062354538381l.jpg"
@@ -505,16 +515,6 @@
                                 "url": "/Anime/Tsurune-The-Movie-The-First-Shot/",
                                 "title": "Tsurune The Movie - The First Shot -",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Tsurune-The-Movie-The-First-Shot.jpg"
-                            },
-                            {
-                                "url": "/Anime/One-Piece.54191/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
-                            },
-                            {
-                                "url": "/Anime/Black-Clover-Sword-of-the-Wizard-King-Dub/",
-                                "title": "Black Clover: Sword of the Wizard King (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Black-Clover-Sword-of-the-Wizard-King-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -532,6 +532,11 @@
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Konosuba-An-Explosion-on-This-Wonderful-World.jpg"
                             },
                             {
+                                "url": "/Anime/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World-Dub/",
+                                "title": "I Got a Cheat Ability in a Different World, and Became Extraordinary Even in the Real World (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World-Dub.jpg"
+                            },
+                            {
                                 "url": "/Anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta.30974/",
                                 "title": "I Got a Cheat Ability in a Different World, and Became Extraordinary Even in the Real World",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World.jpg"
@@ -540,11 +545,6 @@
                                 "url": "/Anime/isekai-wa-smartphone-to-tomo-ni-2.31306/",
                                 "title": "In Another World With My Smartphone Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/In-Another-World-With-My-Smartphone-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World-Dub/",
-                                "title": "I Got a Cheat Ability in a Different World, and Became Extraordinary Even in the Real World (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World-Dub.jpg"
                             },
                             {
                                 "url": "/Anime/The-Aristocrats-Otherworldly-Adventure-Servings-Gods-Who-Go-Too-Far/",
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....[0].appendChild(cpo);\n    }());\n</script>\n\n\n</body>\n</html>\n",
                 "passed": false
             }
         }
