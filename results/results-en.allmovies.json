@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/secret-invasion/",
+                                "title": "Secret Invasion",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/secret-invasion-34807-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/the-flash/",
                                 "title": "The Flash",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/06/the-flash-34566-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/dragon-age-absolution/",
                                 "title": "Dragon Age: Absolution",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/dragon-age-absolution-29745-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/tulsa-king/",
-                                "title": "Tulsa King",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/tulsa-king-29732-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,13 +882,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/the-flash/",
-                    "title": "The Flash",
-                    "author": "Andrew Kreisberg, Geoff Johns, Greg Berlanti",
-                    "description": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
-                    "genre": "Drama, Sci-Fi & Fantasy",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/secret-invasion/",
+                    "title": "Secret Invasion",
+                    "author": "Kyle Bradstreet",
+                    "description": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -896,27 +896,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/the-flash-9x13/",
-                        "name": "Season 9x13 : A New World: Finale (4)",
-                        "episode_number": 13.0
+                        "url": "/episode/secret-invasion-1x6/",
+                        "name": "Season 1x6 : Episode 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/episode/the-flash-9x12/",
-                        "name": "Season 9x12 : A New World: Changes (3)",
-                        "episode_number": 12.0
+                        "url": "/episode/secret-invasion-1x5/",
+                        "name": "Season 1x5 : Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v909.streamhub.gg/hls/sc6tzqprxmytnuzvoups5zdyxcbtef3yszzq3lkjbcm2synycidyumechmaq/index-v1-a1.m3u8",
-                        "quality": "640p",
-                        "videoUrl": "https://v909.streamhub.gg/hls/sc6tzqprxmytnuzvoups5zdyxcbtef3yszzq3lkjbcm2synycidyumechmaq/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
