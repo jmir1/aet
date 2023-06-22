@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/p-man.html",
+                                "title": "P-Man",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/p-man-thumb.png"
+                            },
+                            {
                                 "url": "/watch/voltes-v-legacy.html",
                                 "title": "Voltes V: Legacy",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/ohsama-sentai-king-ohger-the-secrets-of-king-racules.html",
                                 "title": "Ohsama Sentai King-Ohger: The Secrets of King Racules",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-the-secrets-of-king-racules-thumb.png"
-                            },
-                            {
-                                "url": "/watch/hikonin-sentai-akibaranger-season-tsuu.html",
-                                "title": "Hikonin Sentai Akibaranger Season Tsuu",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/hikonin-sentai-akibaranger-season-tsuu-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,9 +144,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/voltes-v-legacy.html",
-                    "author": "Year 2023",
-                    "description": "Voltes V: Legacy is a 2023 Philippine science fantasy television series broadcast by GMA Network. The series is based on the Japanese anime television series Chōdenji Machine Voltes V by Toei Animation and Sunrise.",
+                    "url": "/watch/p-man.html",
+                    "author": "Year 1996",
+                    "description": "P-Man 1996 A series of independent tokusatsu shorts focusing on the green-clad hero P-Man, released on DVD-R. The show is humorous in nature. There’s a total of 15 episodes, each being about 5 minutes long. Unfortunately, I don’t have a list of episode titles.",
                     "genre": "Other",
                     "status": 1,
                     "status_name": "ONGOING",
@@ -157,21 +157,37 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/voltes-v-legacy.html?ep=31#watch",
-                        "name": "Episode 31",
-                        "episode_number": 31.0
+                        "url": "/watch/p-man.html?ep=19#watch",
+                        "name": "Episode 19",
+                        "episode_number": 19.0
                     },
                     {
-                        "url": "/watch/voltes-v-legacy.html?ep=30#watch",
-                        "name": "Episode 30",
-                        "episode_number": 30.0
+                        "url": "/watch/p-man.html?ep=18#watch",
+                        "name": "Episode 18",
+                        "episode_number": 18.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 151: Expected EOF after parsing, but had , instead at path: $\nJSON input: .....d\":\"captions\",\"default\":true},{\"file\":\"https://hls24-eu.zcdn.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls26-eu.zcdn.stream/773953200110e233034dd0823d7547e9/2023-06-20/480.m3u8?token=8347ad7d9709ab802fa16f28a79468cb&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1687442966&type=edge&node=Qn5bkS-5QXisGTzm9IJsXdmDQMiUzmhzUcY9dVe5bYAxOU3sdZ_Qg3Su9TSP1C116N-qjFBlBRH1N8QAL5P3w2HNeCsnWLFk50xDq3CsX4BVWc81ToP0eXjpPf456k52oDTOVoqzLnWFCCbuySF0k1cBFmsqlyNljuWR1bTQIso7PfDaP_u5zBEgbKdpNZ5bO2cKm6PZsJ4iQ2hr7yjyH-zqRWW2R13ABa2ZSPmiyHN2BS30FaAp61MAFSYCFmd9lIoV6Cpc37pZnX1F6eSVY3dBYA-Sfav8yLXNEAEbuN1ZLssJILHS_q3YETadz8IjirRgCC4LwPqZX2apL2SNPA",
+                        "quality": "480p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/773953200110e233034dd0823d7547e9/2023-06-20/480.m3u8?token=8347ad7d9709ab802fa16f28a79468cb&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1687442966&type=edge&node=Qn5bkS-5QXisGTzm9IJsXdmDQMiUzmhzUcY9dVe5bYAxOU3sdZ_Qg3Su9TSP1C116N-qjFBlBRH1N8QAL5P3w2HNeCsnWLFk50xDq3CsX4BVWc81ToP0eXjpPf456k52oDTOVoqzLnWFCCbuySF0k1cBFmsqlyNljuWR1bTQIso7PfDaP_u5zBEgbKdpNZ5bO2cKm6PZsJ4iQ2hr7yjyH-zqRWW2R13ABa2ZSPmiyHN2BS30FaAp61MAFSYCFmd9lIoV6Cpc37pZnX1F6eSVY3dBYA-Sfav8yLXNEAEbuN1ZLssJILHS_q3YETadz8IjirRgCC4LwPqZX2apL2SNPA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

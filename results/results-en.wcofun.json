@@ -3,150 +3,24 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/not-quite-narwhal",
-                                "title": "Not Quite Narwhal",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg"
-                            },
-                            {
-                                "url": "/anime/pupstruction",
-                                "title": "Pupstruction",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932959.jpg"
-                            },
-                            {
-                                "url": "/anime/haileys-on-it",
-                                "title": "Hailey's On It",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932958.jpg"
-                            },
-                            {
-                                "url": "/anime/duck-goose",
-                                "title": "Duck & Goose",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932957.jpg"
-                            },
-                            {
-                                "url": "/anime/farming-life-in-another-world",
-                                "title": "Farming Life in Another World",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932956.jpg"
-                            },
-                            {
-                                "url": "/anime/lego-ninjago-dragons-rising",
-                                "title": "LEGO Ninjago: Dragons Rising",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
-                            },
-                            {
-                                "url": "/anime/biao-ren-blades-of-the-guardians",
-                                "title": "Biao Ren: Blades of the Guardians English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
-                            },
-                            {
-                                "url": "/anime/gremlins-secrets-of-the-mogwai",
-                                "title": "Gremlins: Secrets of the Mogwai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932950.jpg"
-                            },
-                            {
-                                "url": "/anime/tenchi-muyou-gxp-paradise-shidou-hen-english-subbed",
-                                "title": "Tenchi Muyou! GXP: Paradise Shidou-hen English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932949.jpg"
-                            },
-                            {
-                                "url": "/anime/mashle-english-dubbed",
-                                "title": "Mashle English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932948.jpg"
-                            },
-                            {
-                                "url": "/anime/oshi-no-ko-english-dubbed",
-                                "title": "Oshi No Ko English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932947.jpg"
-                            },
-                            {
-                                "url": "/anime/yakitori-soldiers-of-misfortune",
-                                "title": "Yakitori: Soldiers of Misfortune",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932946.jpg"
-                            },
-                            {
-                                "url": "/anime/drowning-sorrows-in-raging-fire",
-                                "title": "Drowning Sorrows in Raging Fire",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932945.jpg"
-                            },
-                            {
-                                "url": "/anime/kitti-katz",
-                                "title": "Kitti Katz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932944.jpg"
-                            },
-                            {
-                                "url": "/anime/bread-barbershop",
-                                "title": "Bread Barbershop",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932943.jpg"
-                            },
-                            {
-                                "url": "/anime/lego-dreamzzz-trials-of-the-dream-chasers",
-                                "title": "Lego: Dreamzzz - Trials of the Dream Chasers",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932942.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: bruh",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/not-quite-narwhal",
-                    "title": "Not Quite Narwhal",
-                    "description": "Not Quite Narwhal follows curious and fun-loving Kelp, who has always believed he’s a narwhal like the rest of his family under the sea, until the day he makes the most amazing discovery – he’s actually a unicorn.",
-                    "genre": "Adventure, Comedy, Kids, Music, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/not-quite-narwhal-episode-27-chef-js-tale",
-                        "name": "Episode 27 Chef J’s Tale",
-                        "episode_number": 27.0
-                    },
-                    {
-                        "url": "/not-quite-narwhal-episode-26-puff-fruit",
-                        "name": "Episode 26 Puff Fruit",
-                        "episode_number": 26.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkQ8zGZpArBvYK_hkm8tzP40g8oNnKUe9AIxMAzN1O0MdPSWF-AmP75vPXqgaish9L4S1DCjW8bYGnbw0ObA5Bm4S97fY9V1CwevxhmYa0KZImie6vYFfcukUdbtP9g1xsKwi4co_W9va619WTFPgoF9kcTjy3FeULbndXHrsJ_xstLyrX0oyTkKisqdoB1_bvN5uyELSBsEwQDnbxMsohcMlrt_c7RQna5hWClbxGTpopo1hfIfha5lC7pwYiCZRKCUcA-VGFU9fbehILdSh6SGOmrYluQpbQHZOLcO8zPUk",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkQ8zGZpArBvYK_hkm8tzP40g8oNnKUe9AIxMAzN1O0MdPSWF-AmP75vPXqgaish9L4S1DCjW8bYGnbw0ObA5Bm4S97fY9V1CwevxhmYa0KZImie6vYFfcukUdbtP9g1xsKwi4co_W9va619WTFPgoF9kcTjy3FeULbndXHrsJ_xstLyrX0oyTkKisqdoB1_bvN5uyELSBsEwQDnbxMsohcMlrt_c7RQna5hWClbxGTpopo1hfIfha5lC7pwYiCZRKCUcA-VGFU9fbehILdSh6SGOmrYluQpbQHZOLcO8zPUk"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5Uka6xRsl1ONPNbeSiLCBM6k-gB1xp_jFbXkuvHHkPZmfvHPxghsqO1BfWDjQw8s7SAtABXXqeB6Qn2oTtkyDh0XzmFg9oUh76FL-Klm77H1XVqnBIUwmh_vMKVtwlQa7fXTM2o3h6BvzaQ9cJ8QrejZ_Jp5AeVyDPUazl3Dv-4xEKZf19Te0gvFsdVBq12Upi9adFciKQHGNRlP3lmC15NVvwy481CYuKPzOTTrE27P9x42brYdOmH9d0JXhcW7KWpXBrrIdjbbPrYA7M8ogDS8FrMVl9qMtDF3cz6ttNeCiY",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5Uka6xRsl1ONPNbeSiLCBM6k-gB1xp_jFbXkuvHHkPZmfvHPxghsqO1BfWDjQw8s7SAtABXXqeB6Qn2oTtkyDh0XzmFg9oUh76FL-Klm77H1XVqnBIUwmh_vMKVtwlQa7fXTM2o3h6BvzaQ9cJ8QrejZ_Jp5AeVyDPUazl3Dv-4xEKZf19Te0gvFsdVBq12Upi9adFciKQHGNRlP3lmC15NVvwy481CYuKPzOTTrE27P9x42brYdOmH9d0JXhcW7KWpXBrrIdjbbPrYA7M8ogDS8FrMVl9qMtDF3cz6ttNeCiY"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkRE6Bu-qeay65YiK8KSUXW3SlGxzHRGkN_Mgk4cCLkq0jhUWYMPLYjEjl-thtJ2VxlwKhMrvHGlnNm7x6sWLFDikuuKb9B51KkA8Y-5kq4OysmS0oJHvUJ_9S-jIM-YHPpFNuTFmBpHwIC8ksmJKOekDlamuHQCteQmmSSmzbvzT_I_NrrvzYXSlZGYyoJDS4vt86LS1wA6ZbzjyCo2U4dCQxiOFQc0fZwsOsVAbpPo4nlkw6nRInk8ezuYVZG5b4P6BaaJXUTus_W7TGKydaVfUmsomgXEHvYHKfhx-UD4Y",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtA4J2iFfu-JytFtrP4ha5V1d-eYaK2skmDwOUdSH5UkRE6Bu-qeay65YiK8KSUXW3SlGxzHRGkN_Mgk4cCLkq0jhUWYMPLYjEjl-thtJ2VxlwKhMrvHGlnNm7x6sWLFDikuuKb9B51KkA8Y-5kq4OysmS0oJHvUJ_9S-jIM-YHPpFNuTFmBpHwIC8ksmJKOekDlamuHQCteQmmSSmzbvzT_I_NrrvzYXSlZGYyoJDS4vt86LS1wA6ZbzjyCo2U4dCQxiOFQc0fZwsOsVAbpPo4nlkw6nRInk8ezuYVZG5b4P6BaaJXUTus_W7TGKydaVfUmsomgXEHvYHKfhx-UD4Y"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

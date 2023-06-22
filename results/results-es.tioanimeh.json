@@ -11,7 +11,7 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
@@ -19,7 +19,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
@@ -150,7 +150,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
                 "passed": false
             }
         }

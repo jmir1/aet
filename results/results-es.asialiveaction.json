@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ousama-ni-sasagu-kusuriyubi/",
+                                "title": "Ousama ni Sasagu Kusuriyubi Temporada Completa (10/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iwtXKXUVXrCSVkqce1MLRiAFiLp.jpg"
+                            },
+                            {
                                 "url": "/long-time-no-see/",
                                 "title": "Long Time No See",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iD29n8i9Fv3uaGwwxcFRrSHnOx4.jpg"
@@ -40,11 +45,6 @@
                                 "url": "/adam-by-eve-a-live-in-animation/",
                                 "title": "Adam by Eve a Live in Animation",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg"
-                            },
-                            {
-                                "url": "/ousama-ni-sasagu-kusuriyubi/",
-                                "title": "Ousama ni Sasagu Kusuriyubi Temporada Completa (10/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iwtXKXUVXrCSVkqce1MLRiAFiLp.jpg"
                             },
                             {
                                 "url": "/high-low-the-worst-x-2022/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ousama-ni-sasagu-kusuriyubi/",
+                                "title": "Ousama ni Sasagu Kusuriyubi Temporada Completa (10/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iwtXKXUVXrCSVkqce1MLRiAFiLp.jpg"
+                            },
+                            {
                                 "url": "/long-time-no-see/",
                                 "title": "Long Time No See",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iD29n8i9Fv3uaGwwxcFRrSHnOx4.jpg"
@@ -170,11 +175,6 @@
                                 "url": "/adam-by-eve-a-live-in-animation/",
                                 "title": "Adam by Eve a Live in Animation",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg"
-                            },
-                            {
-                                "url": "/ousama-ni-sasagu-kusuriyubi/",
-                                "title": "Ousama ni Sasagu Kusuriyubi Temporada Completa (10/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iwtXKXUVXrCSVkqce1MLRiAFiLp.jpg"
                             },
                             {
                                 "url": "/high-low-the-worst-x-2022/",
@@ -393,12 +393,32 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/ousama-ni-sasagu-kusuriyubi/",
+                    "title": "Ousama ni Sasagu Kusuriyubi Temporada Completa (10/10)",
+                    "description": "Haneda Ayaka (Kanna Hashimoto) es una nueva planificadora de bodas que acaba de empezar a trabajar en el salón de bodas “La Blanche”. Ha sido popular durante mucho tiempo debido a su belleza inigualable, pero también es constantemente llamada «Mujer Malvada», debido a la cantidad de hombres que se reúnen a su alrededor. Nitta Togo (Ryosuke Yamada) es el sucesor de una gran empresa y el presidente de “La Blanche”, el lugar en donde trabaja Ayaka. Un tipo de «hombre único» con autoridad absoluta, sus empleados lo llaman «Rey» a sus espaldas. Aunque no tiene problemas con las mujeres, tampoco ha experimentado nunca el amor verdadero. Un día Togo llama a Ayaka a su oficina: «¡Quiero que te cases conmigo!» es lo que le dice. Una propuesta calculada de Togo conduce a un matrimonio de conveniencia entre los dos…",
+                    "genre": "Comedia, Drama, Romance",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iwtXKXUVXrCSVkqce1MLRiAFiLp.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/3126634/",
+                        "name": "Episodio 10 FINAL",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/paste/1926590/",
+                        "name": "Episodio 09",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
