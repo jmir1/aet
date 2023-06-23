@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/break-point",
+                                "title": "Break Point (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3QNnzim79NqtIjzBKQRIQqY9YJ0.jpg"
+                            },
+                            {
                                 "url": "/serie/invasion-secreta",
                                 "title": "Invasión secreta (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/arnold",
                                 "title": "Arnold (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg"
-                            },
-                            {
-                                "url": "/serie/barracuda-queens",
-                                "title": "Barracuda Queens (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/v4NYr1RsB3KRWIbDbv6NxpIFPRu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/invasion-secreta",
-                    "title": "Invasión secreta (2023)",
-                    "description": "La serie narra cómo los Skrulls se han infiltrado sigilosamente en la sociedad humana, y así tomar el control de puestos clave de la sociedad y garantizar su victoria final..",
-                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "url": "/serie/break-point",
+                    "title": "Break Point (2023)",
+                    "description": "Acompaña a algunos de los tenistas más talentosos del mundo en su lucha por alcanzar el éxito y los Grand Slams a lo largo de una intensa temporada..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3QNnzim79NqtIjzBKQRIQqY9YJ0.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,44 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/invasion-secreta/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/break-point/temporada/1/capitulo/10",
+                        "name": "T1 - E10: Episodio 10",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/serie/break-point/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery633.akamai-video-content.com/hls2/01/13218/dhxfm1k06shl_n/index-v1-a1.m3u8?t=WClbYFxVqfMYS6M67ClSPb89bBA5YfKpF9umWzv6KQk&s=1687457317&e=10800&f=66091364&srv=kvapgsyteecwdmwfggwb&client=13.88.101.197&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery633.akamai-video-content.com/hls2/01/13218/dhxfm1k06shl_n/index-v1-a1.m3u8?t=WClbYFxVqfMYS6M67ClSPb89bBA5YfKpF9umWzv6KQk&s=1687457317&e=10800&f=66091364&srv=kvapgsyteecwdmwfggwb&client=13.88.101.197&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/dhxfm1k06shl?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery633.akamai-video-content.com/hls2/01/13218/dhxfm1k06shl_l/index-v1-a1.m3u8?t=WClbYFxVqfMYS6M67ClSPb89bBA5YfKpF9umWzv6KQk&s=1687457317&e=10800&f=66091364&srv=kvapgsyteecwdmwfggwb&client=13.88.101.197&asn=8075",
-                        "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery633.akamai-video-content.com/hls2/01/13218/dhxfm1k06shl_l/index-v1-a1.m3u8?t=WClbYFxVqfMYS6M67ClSPb89bBA5YfKpF9umWzv6KQk&s=1687457317&e=10800&f=66091364&srv=kvapgsyteecwdmwfggwb&client=13.88.101.197&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/dhxfm1k06shl?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=GkO7xPWz4zh1Rej&expires=1687527319&ip=F0AsFxgnDS9X&token=tvAMfEYnCU1P",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=GkO7xPWz4zh1Rej&expires=1687527319&ip=F0AsFxgnDS9X&token=tvAMfEYnCU1P"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
