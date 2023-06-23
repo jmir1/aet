@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-real-housewives-of-orange-county-37763/",
+                                "title": "The Real Housewives of Orange County - Season 17",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/b4023e001958060c13bca82b4c84fd0f.jpg"
+                            },
+                            {
                                 "url": "/film/swiping-america-97546/",
                                 "title": "Swiping America - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/ec6a7f4e0adda704be1675154c1857be.jpg"
@@ -204,11 +209,6 @@
                                 "url": "/film/riverdale-39536/",
                                 "title": "Riverdale - Season 7",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/c692cd93b5dee950bbadf60cbb8be30d.jpg"
-                            },
-                            {
-                                "url": "/film/the-blacklist-39519/",
-                                "title": "The Blacklist - Season 10",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/0369332135546537eb6eead8c454ac73.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -428,11 +428,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/swiping-america-97546/",
-                    "title": "Swiping America",
+                    "url": "/film/the-real-housewives-of-orange-county-37763/",
+                    "title": "The Real Housewives of Orange County",
                     "author": "",
-                    "description": "Follow a group of diverse singles from New York City on an introspective, eight-city dating app journey, as they explore personal issues around sex, relationships, love and connection.\n\nQuality: HD\nRelease: 2023-06-15\nIMDb: n/a",
-                    "genre": "Documentary",
+                    "description": "A view into the lives of several women and their families who live in one of the wealthiest communities in the country with the viewer taken \"inside the gates\" to show their lives aren't always perfect.\n\nQuality: HD\nRelease: 2006-03-21\nIMDb: 4.1",
+                    "genre": "Reality, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -440,11 +440,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":10,\"ids\":[\"37763_10_1\",\"37763_10_2\",\"37763_10_3\",\"37763_10_5\"]}",
+                        "name": "Episode 10: Ressurection",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "{\"ep_num\":9,\"ids\":[\"37763_9_1\",\"37763_9_2\",\"37763_9_3\",\"37763_9_5\"]}",
+                        "name": "Episode 9: Japan Sinks",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
