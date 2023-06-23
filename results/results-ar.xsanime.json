@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hajime-no-ippo-mashiba-vs-kimura/",
+                                "title": "Hajime no Ippo: Mashiba vs. Kimura",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/vs.jpg"
+                            },
+                            {
                                 "url": "/anime/the-idolmster-cinderella-girls-u149/",
                                 "title": "The IDOLM@STER Cinderella Girls: U149",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/286583.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/yamada-kun-to-lv999-no-koi-wo-suru/",
                                 "title": "Yamada-kun to Lv999 no Koi wo Suru",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/yamada-kun_to_lv999_no_koi_wo_suru_11443.webp"
-                            },
-                            {
-                                "url": "/anime/jigokuraku/",
-                                "title": "Jigokuraku",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/131925l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-idolmster-cinderella-girls-u149/",
-                    "title": "The [email protected] Cinderella Girls: U149",
-                    "description": "حان الوقت لسحب الستار عن قصة فتيات سندريلا الجديدة! تتعاون الفتيات المجتهدات المنتجات الصاعدات للانطلاق في النجومية وتصبحن الايدولز الشهيرات! بين ملابسهم الرائعة والأداء المكهرب والأمراء الوسيمين الذين يشتتون انتباههن فإن هذه الايدولز الطموحات لديهن الكثير للتعامل معه.",
-                    "genre": "شريحة من الحياة",
+                    "url": "/anime/hajime-no-ippo-mashiba-vs-kimura/",
+                    "title": "Hajime no Ippo: Mashiba vs. Kimura",
+                    "description": "(اوفا، تتمة أحداث الانمي)",
+                    "genre": "رياضي, دراما, شونين",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/286583.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/vs.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,21 +388,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/the-idolmster-cinderella-girls-u149-حلقة-11/",
-                        "name": "11",
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/episode/the-idolmster-cinderella-girls-u149-حلقة-10/",
-                        "name": "10",
-                        "episode_number": 10.0
+                        "url": "/episode/hajime-no-ippo-mashiba-vs-kimura/",
+                        "name": "1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc733.4shared.com/img/Kvjwja17fa/b16aef50/dlink__2Fdownload_2FKvjwja17fa_3Fsbsr_3D696bbda2459c9219b8cb052926588727ae6_26bip_3DMTcyLjE3Ni4yMTQuNTI_26lgfp_3D66_26bip_3DMTcyLjE3Ni4yMTQuNTI_26bip_3DMTcyLjE3Ni4yMTQuNTI/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc733.4shared.com/img/Kvjwja17fa/b16aef50/dlink__2Fdownload_2FKvjwja17fa_3Fsbsr_3D696bbda2459c9219b8cb052926588727ae6_26bip_3DMTcyLjE3Ni4yMTQuNTI_26lgfp_3D66_26bip_3DMTcyLjE3Ni4yMTQuNTI_26bip_3DMTcyLjE3Ni4yMTQuNTI/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

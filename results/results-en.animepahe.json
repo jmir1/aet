@@ -3,28 +3,269 @@
         "name": "AnimePahe",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5208",
+                                "title": "Yuusha ga Shinda!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/b64808b87573f5cd6fa3110db0e86951dad875cd272fd09517718d9190434685.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5223",
+                                "title": "Opus.COLORs",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/ec0aedd5dda4ab257e7735438de9e92d147223e4d24dadd1a9dc934b24f7635a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5190",
+                                "title": "Mahoutsukai no Yome Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/590cda2215672304413b3b1015c8761c81b5cdb17126a52438b7d938e6c69774.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5209",
+                                "title": "Watashi no Yuri wa Oshigoto desu!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/718d0a3c92490eb3089804024f492e7ffb68d35ffaa84f9fa3ee44d5123e07f1.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5189",
+                                "title": "\"Oshi no Ko\"",
+                                "artist": "MTBB",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/de01e07150fe202e9e306faed489e5b54b346ff1c17e4e5557f433d880ff533a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5225",
+                                "title": "The IDOLM@STER Cinderella Girls: U149",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f936d9ec091481f19e3559efc1b828f7f2946ef89f2a98ea295221b57f427d65.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5188",
+                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/4c2a988178ef5a8394850f8d1fe8e72fec8d197a4209a68f107cb558907cb1fd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5211",
+                                "title": "Niehime to Kemono no Ou",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f72b76028c0ea774cce933c6ec183f193b3b462f75ef8a381b0745c1514b0b71.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5254",
+                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/48fd182098ee314a9e80f85ac831db2e95048848e4decee5b00346316c0d3cf6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5253",
+                                "title": "Aiyou de Mishi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/9dda9fe3e40a17c9dfdc1ef4c5f1d22edd124e6e976b25dbe93c6e532153820a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5218",
+                                "title": "The Marginal Service",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/addf9da9c656e3f08ed338e0750b0931dab8cf7546a4d12418a67ac4f80f0501.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5221",
+                                "title": "Tokyo Mew Mew New ♡ 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/15a1abaaf624f7e97a9ccd21fb65a37bd82c3128c35f0dcf8492797fe07eadde.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5208",
+                                "title": "Yuusha ga Shinda!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/b64808b87573f5cd6fa3110db0e86951dad875cd272fd09517718d9190434685.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5223",
+                                "title": "Opus.COLORs",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/ec0aedd5dda4ab257e7735438de9e92d147223e4d24dadd1a9dc934b24f7635a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5190",
+                                "title": "Mahoutsukai no Yome Season 2",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/590cda2215672304413b3b1015c8761c81b5cdb17126a52438b7d938e6c69774.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5209",
+                                "title": "Watashi no Yuri wa Oshigoto desu!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/718d0a3c92490eb3089804024f492e7ffb68d35ffaa84f9fa3ee44d5123e07f1.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5189",
+                                "title": "\"Oshi no Ko\"",
+                                "artist": "MTBB",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/de01e07150fe202e9e306faed489e5b54b346ff1c17e4e5557f433d880ff533a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5225",
+                                "title": "The IDOLM@STER Cinderella Girls: U149",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f936d9ec091481f19e3559efc1b828f7f2946ef89f2a98ea295221b57f427d65.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5188",
+                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/4c2a988178ef5a8394850f8d1fe8e72fec8d197a4209a68f107cb558907cb1fd.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5211",
+                                "title": "Niehime to Kemono no Ou",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/f72b76028c0ea774cce933c6ec183f193b3b462f75ef8a381b0745c1514b0b71.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5254",
+                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/48fd182098ee314a9e80f85ac831db2e95048848e4decee5b00346316c0d3cf6.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5253",
+                                "title": "Aiyou de Mishi",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/9dda9fe3e40a17c9dfdc1ef4c5f1d22edd124e6e976b25dbe93c6e532153820a.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5218",
+                                "title": "The Marginal Service",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/addf9da9c656e3f08ed338e0750b0931dab8cf7546a4d12418a67ac4f80f0501.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5221",
+                                "title": "Tokyo Mew Mew New ♡ 2nd Season",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.com/snapshots/15a1abaaf624f7e97a9ccd21fb65a37bd82c3128c35f0dcf8492797fe07eadde.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=119",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://i.animepahe.com/posters/5a3bd9bf6b59f52791ed7b7c05a300a1b9e9007a625d85124ccd7b2284cba8a0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2064",
+                                "title": "World Fool News (TV)",
+                                "thumbnail_url": "https://i.animepahe.com/posters/fa9d124c722e9299a10cb95a7f21a020c743aee11fffdfc70e359174a6e21fc9.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2043",
+                                "title": "World Fool News (TV) Part II",
+                                "thumbnail_url": "https://i.animepahe.com/posters/0073b9c98ead3b7f10842dbec19670b5f21fddbc63404466bae6b833c2328195.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4524",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://i.animepahe.com/posters/342aeeeafea0be4d7b0d073ea0911ad86bea88261c782ea64211c470073eab08.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4175",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://i.animepahe.com/posters/50d7865d198d0a2d7faee377b50698e3a16934f63c345dad425975146ac03778.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=4200",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://i.animepahe.com/posters/043989368c94192bfdb1843bbf32ce2a798c3acc82b1deea803fd02e3bd67b07.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5229",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://i.animepahe.com/posters/e9a0985f593a33302d983d125b3fd44d1124c540176fcfad6296a0b819709319.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=3709",
+                                "title": "World Fool News",
+                                "thumbnail_url": "https://i.animepahe.com/posters/b41c8c670b99fbb48485ce830a2b30236806c701bec41fcb249c22cd39287fdb.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/anime/?anime_id=5208",
+                    "title": "Yuusha ga Shinda!",
+                    "author": "LIDENFILMS",
+                    "description": "Far to the north of the world lies Hell's Gate, a portal formerly used by the Demon Lord to invade the human realm. Thanks to the legendary hero Shion Bladearts, wielder of Excalibur, and his loyal band of companions, the Gate was sealed off and the demonic threat was vanquished. Unfortunately, the seal was incomplete and has begun to weaken, allowing the demons to once again begin their attack. Worried about the safety of his village, selfish and perverted farmer Touka Scott dig pitfalls to defend against the demons. But fear not, for Shion is on his way to reseal Hell's Gate and save humanity! Or at least he was, because the legendary hero is dead, having fallen into one of the pitfalls Touka dug. Luckily, dealing with the dead is the specialty of necromancer Anri Haynesworth. While she can't revive him, Anri can at least salvage their quest by forcing Touka's soul into Shion's rotting body and dragging him along to Hell's Gate in Shion's place. Not wanting to be left behind, Touka's childhood friend Yuna Yunis tags along. Together, the three of them set out as what just might be the most unsuitable party to ever try to save the world!\n\nSynonyms: The Hero Is Dead!",
+                    "genre": "Action, Comedy, Fantasy, Ecchi",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i.animepahe.ru/posters/468de5a61fb5c4908bb97aea89d5d6ac964769de179e19ff448a6688aeca0715.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/play/66d3d2fe-554d-aee8-1394-f655b11008b3/cb7d0b30a5da67c853eafb413802e0874cfdb12ec801ce88f6893ca4ad4c7867",
+                        "name": "Episode 12",
+                        "date_upload": 1687451736000,
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/play/66d3d2fe-554d-aee8-1394-f655b11008b3/afd5dcbd854e8447c90ee50d0ea6b0344d9893ee8d1ec1cbe1d9cb2afa631ff2",
+                        "name": "Episode 11",
+                        "date_upload": 1686846927000,
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/0af5588dfa70a8b549de8e2aab37e1eb582369ad99f74aa6c833f3eae5986786?file=AnimePahe_Yuusha_ga_Shinda_-_12_1080p_SubsPlease.mp4&token=hSHRXQj9ZXndNfl8_uQkeA&expires=1687536817",
+                        "quality": "SubsPlease · 1080p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/0af5588dfa70a8b549de8e2aab37e1eb582369ad99f74aa6c833f3eae5986786?file=AnimePahe_Yuusha_ga_Shinda_-_12_1080p_SubsPlease.mp4&token=hSHRXQj9ZXndNfl8_uQkeA&expires=1687536817"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/6f6b2e23ac617ca6e63f146bbd6170774f7473c6767aa187b6396111d614cbe1?file=AnimePahe_Yuusha_ga_Shinda_-_12_720p_SubsPlease.mp4&token=uyUeNYzIwgky-wVyBQrV_A&expires=1687536815",
+                        "quality": "SubsPlease · 720p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/6f6b2e23ac617ca6e63f146bbd6170774f7473c6767aa187b6396111d614cbe1?file=AnimePahe_Yuusha_ga_Shinda_-_12_720p_SubsPlease.mp4&token=uyUeNYzIwgky-wVyBQrV_A&expires=1687536815"
+                    },
+                    {
+                        "url": "https://na-99.files.nextcdn.org/get/99/01/84f53c7e68baa0960dfc243aec433f6c83896301a08215bca36b4ddecaa50645?file=AnimePahe_Yuusha_ga_Shinda_-_12_360p_SubsPlease.mp4&token=m-spOgbcifmcDSvTl8PeEg&expires=1687536814",
+                        "quality": "SubsPlease · 360p",
+                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/84f53c7e68baa0960dfc243aec433f6c83896301a08215bca36b4ddecaa50645?file=AnimePahe_Yuusha_ga_Shinda_-_12_360p_SubsPlease.mp4&token=m-spOgbcifmcDSvTl8PeEg&expires=1687536814"
+                    }
+                ],
+                "passed": true
             }
         }
     }
