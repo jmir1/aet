@@ -186,8 +186,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://mixdrop.co/e/7r9ze6jdsowpzd?sub1=https://sub.membed.net/sub/bring-it-on-worldwide-cheersmack/bring-it-on-worldwide-cheersmack.vtt&sub1_label=English",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery28.mxdcontent.net/v/5845b67c42e619adae5dd71ffa328aaa.mp4?s=-vEKlPDeVd_149s73h_wtg&e=1687588933&_t=1687574034",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

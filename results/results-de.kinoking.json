@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/the-tomorrow-job/",
+                                "title": "The Tomorrow Job",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg"
+                            },
+                            {
+                                "url": "/movies/freaks-out/",
+                                "title": "Freaks Out",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xBBY7zgLQMuUarODioiLZsa2lyB.jpg"
+                            },
+                            {
                                 "url": "/movies/the-machine/",
                                 "title": "The Machine",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/grWYL2OWHeYQ0YqHHYLQUVRUkVP.jpg"
@@ -87,11 +97,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg"
                             },
                             {
-                                "url": "/movies/sisu/",
-                                "title": "Sisu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1w9WXOKWT6Cuj2TxAknIUhhvLZt.jpg"
-                            },
-                            {
                                 "url": "/movies/evil-dead-rise/",
                                 "title": "Evil Dead Rise",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/o69AfVK0YXkbyI0QVayindEFC26.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/movies/bandit/",
                                 "title": "Bandit",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/niOMn705nsjN1Mvz5xkmd2l5bI1.jpg"
-                            },
-                            {
-                                "url": "/movies/sakra/",
-                                "title": "Sakra",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lEWeNdbPuJIUON6qUwwvRcYNgSU.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -434,11 +434,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/the-machine/",
-                    "title": "The Machine",
-                    "description": "Bert ist Comedian und genießt ein relativ typisches amerikanisches Leben. Als er eines Tages samt seines Vaters Albert von Russen entführt wird, steht sein Leben auf dem Kopf. Urplötzlich findet er sich in einer Welt voller Drogen, Waffen und Exzesse wieder. Seine Vergangenheit in Russland, genauer gesagt ein College-Semester, holt ihn jetzt, 20 Jahre später, unerwartet ein. Basierend auf den realen Abenteuern von Bert Kreischer und seiner Stand-up-Nummer „The Machine“, die über 85 Millionen Mal gesehen wurde.\n\nOriginaltitel: The Machine",
-                    "genre": "Action, Komödie, Krimi",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/grWYL2OWHeYQ0YqHHYLQUVRUkVP.jpg",
+                    "url": "/movies/the-tomorrow-job/",
+                    "title": "The Tomorrow Job",
+                    "description": "\nOriginaltitel: The Tomorrow Job",
+                    "genre": "Action, Science Fiction",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +446,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/the-machine/",
+                        "url": "/movies/the-tomorrow-job/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }

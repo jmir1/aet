@@ -3,27 +3,27 @@
         "name": "VVVVID",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: Failed to log in",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "latest": {
-                "error": "java.lang.Exception: Failed to log in",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.Exception: Failed to log in",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.Exception: Failed to log in",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to log in",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to log in",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             }
         }

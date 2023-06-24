@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/love-is-blind-brazil",
+                                "title": "Love Is Blind: Brazil",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22124.webp"
+                            },
+                            {
+                                "url": "/serie/online/entre-estranhos",
+                                "title": "Entre Estranhos",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22348.webp"
+                            },
+                            {
                                 "url": "/serie/online/superman-lois",
                                 "title": "Superman e Lois",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "How I Met Your Father",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19601.webp"
-                            },
-                            {
-                                "url": "/serie/online/nancy-drew",
-                                "title": "Nancy Drew",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5236.webp"
-                            },
-                            {
-                                "url": "/serie/online/vinland-saga",
-                                "title": "Vinland Saga",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4915.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a-delivery29.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=lbaHQuU_OY7xxA5gD6D2IA&e=1687588868&_t=1687577186",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://a-delivery29.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=lbaHQuU_OY7xxA5gD6D2IA&e=1687588868&_t=1687577186",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=rdRGAMk0K4Ib1MV&expires=1687637269&ip=GxOsFxInDS9X&token=r322P22ExKsm",
+                        "quality": "StreamTape(DUB)",
+                        "videoUrl": "https://streamtape.com/get_video?id=rdRGAMk0K4Ib1MV&expires=1687637269&ip=GxOsFxInDS9X&token=r322P22ExKsm"
+                    }
+                ],
+                "passed": true
             }
         }
     }
