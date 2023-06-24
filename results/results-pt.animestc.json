@@ -442,40 +442,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn-147.anonfiles.com/V53body6z5/05fe6793-1687567889/%5BAnimesTC%5D+Mashle+-+11+%28720p%29.mkv",
-                        "quality": "AnonFiles - HD",
-                        "videoUrl": "https://cdn-147.anonfiles.com/V53body6z5/05fe6793-1687567889/%5BAnimesTC%5D+Mashle+-+11+%28720p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-151.anonfiles.com/q1K8o3ydza/3376e6f0-1687567896/%5BAnimesTC%5D+Mashle+-+11+%281080p%29.mkv",
-                        "quality": "AnonFiles - FULLHD",
-                        "videoUrl": "https://cdn-151.anonfiles.com/q1K8o3ydza/3376e6f0-1687567896/%5BAnimesTC%5D+Mashle+-+11+%281080p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-145.anonfiles.com/fcFbocy5z6/1039719f-1687567883/%5BAnimesTC%5D+Mashle+-+11.mp4",
-                        "quality": "AnonFiles - SD",
-                        "videoUrl": "https://cdn-145.anonfiles.com/fcFbocy5z6/1039719f-1687567883/%5BAnimesTC%5D+Mashle+-+11.mp4"
-                    },
-                    {
-                        "url": "https://4884.usercdn.com/d/kry3ttjw6gosj4l4cbzvvt5bqp3qzdoivqlv2gadnhel3tsoc2m5my4hfskchjdpqr5n253u/video.mkv",
-                        "quality": "Sendcm - HD",
-                        "videoUrl": "https://4884.usercdn.com/d/kry3ttjw6gosj4l4cbzvvt5bqp3qzdoivqlv2gadnhel3tsoc2m5my4hfskchjdpqr5n253u/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/m6r1hxb86pzm"
-                        }
-                    },
-                    {
-                        "url": "https://4884.usercdn.com/d/kryshtjw6gosj4l4cbzu3qfx2otywhv34yoqv7l2jpn43n64y2e6rygeivdn4i3rab6yq5lv/video.mp4",
-                        "quality": "Sendcm - SD",
-                        "videoUrl": "https://4884.usercdn.com/d/kryshtjw6gosj4l4cbzu3qfx2otywhv34yoqv7l2jpn43n64y2e6rygeivdn4i3rab6yq5lv/video.mp4",
-                        "headers": {
-                            "Referer": "https://send.cm/z9da9wxt9shw"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
