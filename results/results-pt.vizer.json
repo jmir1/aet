@@ -598,23 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery29.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=qg-xkwLq50xf87adWIE1Ew&e=1687630322&_t=1687614077",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://a-delivery29.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=qg-xkwLq50xf87adWIE1Ew&e=1687630322&_t=1687614077",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
