@@ -127,14 +127,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112301-P1K5zjiQfacn.jpg"
                             },
                             {
-                                "url": "2616-attack-on-titan",
-                                "title": "Attack on Titan",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-C6FPmWm59CyP.jpg"
-                            },
-                            {
                                 "url": "2997-my-hero-academia-5",
                                 "title": "My Hero Academia 5",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx117193-E75BlZmDh1aB.jpg"
+                            },
+                            {
+                                "url": "2616-attack-on-titan",
+                                "title": "Attack on Titan",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-C6FPmWm59CyP.jpg"
                             },
                             {
                                 "url": "3434-my-dress-up-darling",
@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "4659-genjitsu-no-yohane-sunshine-in-the-mirror",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                                "thumbnail_url": "https://img.animeunity.cc/anime/bx151513-0tGiS0NC3adv.jpg"
+                            },
+                            {
                                 "url": "4658-blade-of-the-phantom-master",
                                 "title": "Blade of the Phantom Master",
                                 "thumbnail_url": "https://img.animeunity.cc/anime/884.jpg"
@@ -315,11 +320,6 @@
                                 "url": "4647-innocent-venus",
                                 "title": "Innocent Venus",
                                 "thumbnail_url": "https://img.animeunity.cc/anime/bx1230-ntjhDVD5oOFa.png"
-                            },
-                            {
-                                "url": "4646-guyver-the-bioboosted-armor",
-                                "title": "Guyver: The Bioboosted Armor",
-                                "thumbnail_url": "https://img.animeunity.cc/anime/bx1374-UEWE9nUg9ACi.png"
                             }
                         ],
                         "hasNextPage": true
@@ -362,7 +362,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "app.cash.quickjs.QuickJsException: TypeError: Cannot read property \"WordArray\" from undefined (eval#187) in eval at line number 187 at column number 0",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
