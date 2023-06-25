@@ -881,12 +881,32 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/series/secret-invasion/",
+                    "title": "Secret Invasion",
+                    "author": "Kyle Bradstreet",
+                    "description": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/secret-invasion-1x6/",
+                        "name": "Season 1x6 : Episode 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/secret-invasion-1x5/",
+                        "name": "Season 1x5 : Episode 5",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
