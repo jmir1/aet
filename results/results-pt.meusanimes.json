@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/kanojo-ga-koushaku-tei-ni-itta-riyuu-todos-os-episodios",
+                                "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+                                "thumbnail_url": "https://animefire.net/img/animes/kanojo-ga-Koushaku-tei-ni-itta-riyuu.jpg"
+                            },
+                            {
                                 "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
                                 "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
                                 "thumbnail_url": "https://animefire.net/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/animes/edens-zero-2nd-season-todos-os-episodios",
                                 "title": "Edens Zero 2nd Season",
                                 "thumbnail_url": "https://animefire.net/img/animes/edens-zero-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/animes/jigokuraku-todos-os-episodios",
-                                "title": "Jigokuraku",
-                                "thumbnail_url": "https://animefire.net/img/animes/jigokuraku.jpg"
                             },
                             {
                                 "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
@@ -126,6 +126,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animes/kanojo-ga-koushaku-tei-ni-itta-riyuu-todos-os-episodios",
+                                "title": "Kanojo ga Koushaku-tei ni Itta Riyuu - Episódio 12",
+                                "thumbnail_url": "https://animefire.net/img/video/kanojo-ga-koushaku-tei-ni-itta-riyuu/12.webp"
+                            },
                             {
                                 "url": "/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru-todos-os-episodios",
                                 "title": "Jijou o Shiranai Tenkousei ga Guigui Kuru - Episódio 13",
@@ -220,11 +225,6 @@
                                 "url": "/animes/opus-colors-todos-os-episodios",
                                 "title": "Opus.COLORs - Episódio 12",
                                 "thumbnail_url": "https://animefire.net/img/video/opus-colors/12.webp"
-                            },
-                            {
-                                "url": "/animes/mahoutsukai-no-yome-season-2-todos-os-episodios",
-                                "title": "Mahoutsukai no Yome Season 2 - Episódio 12",
-                                "thumbnail_url": "https://animefire.net/img/video/mahoutsukai-no-yome-season-2/12.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -364,22 +364,39 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
-                    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                    "description": "Segunda parte de Bleach: Sennen Kessen-hen.",
-                    "genre": "acao, aventura, fantasia",
-                    "thumbnail_url": "https://animefire.net/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan.jpg",
+                    "url": "/animes/kanojo-ga-koushaku-tei-ni-itta-riyuu-todos-os-episodios",
+                    "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+                    "description": "Quando Park Eunha morre na Coréia dos dias modernos, ela acorda no corpo de Raeliana McMillan, a filha mais velha de um barão novo-rico. No entanto, este não é um mundo comum; é exatamente o mesmo de um romance que ela leu uma vez. Amada por sua família, parece que ela está em um conto de fadas. Mas Raeliana está longe de ser a personagem principal - ela é um mero dispositivo de enredo, cujo assassinato nas mãos de seu noivo instiga toda a história. Raeliana não tem intenção de aceitar seu destino em silêncio. Ela coloca os olhos em alguém em uma posição de grande poder - o protagonista masculino vieux riche Duke Noah Volstaire Wynknight - com o objetivo de mudar completamente a história original. Usando seu conhecimento de eventos futuros, Raeliana oferece informações a Noah com a condição de que ele aja como seu falso noivo, mas a natureza dúbia do Duque atrapalha seus planos!",
+                    "genre": "isekai, romance",
+                    "thumbnail_url": "https://animefire.net/img/animes/kanojo-ga-Koushaku-tei-ni-itta-riyuu.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/kanojo-ga-koushaku-tei-ni-itta-riyuu/12",
+                        "name": "Episódio 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/animes/kanojo-ga-koushaku-tei-ni-itta-riyuu/11",
+                        "name": "Episódio 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4/kanojo-ga-koushaku-tei-ni-itta-riyuu/sd/12.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4/kanojo-ga-koushaku-tei-ni-itta-riyuu/sd/12.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

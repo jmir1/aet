@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-wandering-earth-ll/",
+                                "title": "The Wandering Earth ll",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/b2ppSYJDWGgKuwPteRQ2IXefgde.jpg"
+                            },
+                            {
                                 "url": "/cool-doji-danshi/",
                                 "title": "Cool Doji Danshi (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wbKH1ZDzhE8U7n5TyYyRVtE1fDE.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/jung_e/",
                                 "title": "Jung_E",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg"
-                            },
-                            {
-                                "url": "/the-promise-2023/",
-                                "title": "The Promise 2023 (6/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vNf1onphXtnpaygvOSEvyoRoxGi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-wandering-earth-ll/",
+                                "title": "The Wandering Earth ll",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/b2ppSYJDWGgKuwPteRQ2IXefgde.jpg"
+                            },
+                            {
                                 "url": "/cool-doji-danshi/",
                                 "title": "Cool Doji Danshi (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wbKH1ZDzhE8U7n5TyYyRVtE1fDE.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/jung_e/",
                                 "title": "Jung_E",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg"
-                            },
-                            {
-                                "url": "/the-promise-2023/",
-                                "title": "The Promise 2023 (6/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vNf1onphXtnpaygvOSEvyoRoxGi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/cool-doji-danshi/",
-                    "title": "Cool Doji Danshi (10/12)",
-                    "description": "El drama sigue la vida de cuatro personas conocidas por su torpeza. A pesar de sus diversas luchas, ansiedades y deseos de aprobación, de alguna manera se las arreglan para mantener una conducta tranquila y serena en su vida cotidiana.",
-                    "genre": "Comedia",
+                    "url": "/the-wandering-earth-ll/",
+                    "title": "The Wandering Earth ll",
+                    "description": "Los humanos construyeron enormes motores en la superficie de la tierra para encontrar un nuevo hogar. Pero el camino al universo es peligroso. Para salvar la tierra, los jóvenes una vez más tienen que dar un paso al frente para iniciar una carrera contrarreloj a vida o muerte. Precuela situada años antes de los sucesos ocurridos en «The Wandering Earth (2019)».",
+                    "genre": "Acción, Aventura, Ciencia Ficción, Drama, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wbKH1ZDzhE8U7n5TyYyRVtE1fDE.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/b2ppSYJDWGgKuwPteRQ2IXefgde.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/1626689/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
