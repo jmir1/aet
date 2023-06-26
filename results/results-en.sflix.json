@@ -497,8 +497,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://b-g-eu-17.feetcdn.com:2223/v3-hls-playback/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ca065ac925c2a9c343300e92d13f0f3135a8c6ddfabefa16f96e5d2c092d7f9cf7db3cc162efc3903a5cf010109b71ea8f1a3a845ede58363639281b96eeb7d758b59438a40a73d278059c50ed4311d94958a86f6c088e3fde2e63dc46f15073d7176c9f4eccfedfe96bb900167871a4e/360/index.m3u8",
+                        "quality": "Vidcloud - 360p",
+                        "videoUrl": "https://b-g-eu-17.feetcdn.com:2223/v3-hls-playback/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ca065ac925c2a9c343300e92d13f0f3135a8c6ddfabefa16f96e5d2c092d7f9cf7db3cc162efc3903a5cf010109b71ea8f1a3a845ede58363639281b96eeb7d758b59438a40a73d278059c50ed4311d94958a86f6c088e3fde2e63dc46f15073d7176c9f4eccfedfe96bb900167871a4e/360/index.m3u8"
+                    },
+                    {
+                        "url": "https://b-g-eu-17.feetcdn.com:2223/v3-hls-playback/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ca065ac925c2a9c343300e92d13f0f3135a8c6ddfabefa16f96e5d2c092d7f9cf7db3cc162efc3903a5cf010109b71ea8f1a3a845ede58363639281b96eeb7d758b59438a40a73d278059c50ed4311d94958a86f6c088e3fde2e63dc46f15073d7176c9f4eccfedfe96bb900167871a4e/720/index.m3u8",
+                        "quality": "Vidcloud - 720p",
+                        "videoUrl": "https://b-g-eu-17.feetcdn.com:2223/v3-hls-playback/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ca065ac925c2a9c343300e92d13f0f3135a8c6ddfabefa16f96e5d2c092d7f9cf7db3cc162efc3903a5cf010109b71ea8f1a3a845ede58363639281b96eeb7d758b59438a40a73d278059c50ed4311d94958a86f6c088e3fde2e63dc46f15073d7176c9f4eccfedfe96bb900167871a4e/720/index.m3u8"
+                    },
+                    {
+                        "url": "https://neves.jeffycontent.com/_v10/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ceedfe06aad0ef536de41e94ab201078ece1827755356fdd97937af71cfeee2dcee9b33642ef6f94d60f7a4181790f487b909c1be0e619074f0b67b0acc720d828397c63f3fb746c0ef31296b9e1c4752/360/index.m3u8",
+                        "quality": "UpCloud - 360p",
+                        "videoUrl": "https://neves.jeffycontent.com/_v10/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ceedfe06aad0ef536de41e94ab201078ece1827755356fdd97937af71cfeee2dcee9b33642ef6f94d60f7a4181790f487b909c1be0e619074f0b67b0acc720d828397c63f3fb746c0ef31296b9e1c4752/360/index.m3u8"
+                    },
+                    {
+                        "url": "https://neves.jeffycontent.com/_v10/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ceedfe06aad0ef536de41e94ab201078ece1827755356fdd97937af71cfeee2dcee9b33642ef6f94d60f7a4181790f487b909c1be0e619074f0b67b0acc720d828397c63f3fb746c0ef31296b9e1c4752/720/index.m3u8",
+                        "quality": "UpCloud - 720p",
+                        "videoUrl": "https://neves.jeffycontent.com/_v10/b4c7a6bd2508f42781aa6f351345222bec5c535220b7cc4f25fe32ebc8e32031984c776cf25a14ac8f2515cb518f710ceedfe06aad0ef536de41e94ab201078ece1827755356fdd97937af71cfeee2dcee9b33642ef6f94d60f7a4181790f487b909c1be0e619074f0b67b0acc720d828397c63f3fb746c0ef31296b9e1c4752/720/index.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

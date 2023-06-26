@@ -1085,21 +1085,27 @@
             "details": {
                 "result": {
                     "url": "/23649-one-piece-film-red-stream-deutsch.html",
-                    "description": "Eine allmächtige Stimme. Mit feuerroten Locken: Auf der Musikinsel Elegia gibt Prinzessin Uta, die beliebteste Gesangs-Diva der Welt, ihr erstes Live-Konzert! Die Strohhutbande, andere Piraten, die Marine und jede Menge Publikum wollen Utas „überirdische“ Stimme erleben. Sie erscheint jedoch in einem ganz anderen Licht, als Ruffy die schockierende Tatsache enthüllt, dass sie die Tochter des Piraten-Kaisers Rothaar-Shanks ist! Was genau ist diese „neue Ära, in der alle glücklich sind“, von der Uta singt? Wird ihre Stimme ewiges Glück oder endlose Gefangenschaft hervorbringen?",
+                    "description": "",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2022-09/1663070438-886264343.jpg",
+                    "thumbnail_url": "https://streamcloud.cam",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/23649-one-piece-film-red-stream-deutsch.html",
+                        "name": "One Piece Film: Red",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
