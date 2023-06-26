@@ -377,28 +377,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/x-MwNjgyGx_rEA7cc3go6ANW3_1Qz6IkneN5PPrNX8geJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/x-MwNjgyGx_rEA7cc3go6ANW3_1Qz6IkneN5PPrNX8geJxFPc"
-                    },
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/YIH8f9_OZRB7qyrVoQg6DlSmwtEygGeI_RkzGw04d-MeJxFPc",
-                        "quality": "Amazon ES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/YIH8f9_OZRB7qyrVoQg6DlSmwtEygGeI_RkzGw04d-MeJxFPc"
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com/files/6/cbp8phz4frvmq0/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com/files/6/cbp8phz4frvmq0/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             }
         }
     }

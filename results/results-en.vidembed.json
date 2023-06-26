@@ -169,15 +169,20 @@
             "details": {
                 "result": {
                     "url": "/videos/bring-it-on-worldwide-cheersmack",
-                    "title": "Bring It On: Worldwide #Cheersmack",
-                    "description": "Vivica A. Fox makes her Bring It On debut as Cheer Goddess, the Internet's most popular \"Cheer-lebrity.\" When Destiny (Prosperi), captain of three-time national champions \"The Rebels,\" is ...",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/bring-it-on-worldwide-cheersmack",
+                        "name": "Bring It On: Worldwide #Cheersmack",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

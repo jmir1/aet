@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                                "thumbnail_url": "https://animefire.net/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan.jpg"
+                            },
+                            {
+                                "url": "/animes/mushoku-tensei-ii-sekai-ittara-honki-dasu-todos-os-episodios",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://animefire.net/img/animes/mushoku-tensei-II-sekai-ittara-honki-dasu.jpg"
+                            },
+                            {
                                 "url": "/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru-todos-os-episodios",
                                 "title": "Jijou o Shiranai Tenkousei ga Guigui Kuru",
                                 "thumbnail_url": "https://animefire.net/img/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru.jpg"
@@ -47,14 +57,14 @@
                                 "thumbnail_url": "https://animefire.net/img/animes/jigokuraku.jpg"
                             },
                             {
-                                "url": "/animes/mix-meisei-story-2nd-season-todos-os-episodios",
-                                "title": "Mix - Meisei Story 2nd Season",
-                                "thumbnail_url": "https://animefire.net/img/animes/mix-meisei-story-2nd-season.jpg"
+                                "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                                "thumbnail_url": "https://animefire.net/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan.jpg"
                             },
                             {
-                                "url": "/animes/mahou-shoujo-magical-destroyers-todos-os-episodios",
-                                "title": "Mahou Shoujo Magical Destroyers",
-                                "thumbnail_url": "https://animefire.net/img/animes/mahou-shoujo-magical-destroyers.jpg"
+                                "url": "/animes/mushoku-tensei-ii-sekai-ittara-honki-dasu-todos-os-episodios",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://animefire.net/img/animes/mushoku-tensei-II-sekai-ittara-honki-dasu.jpg"
                             },
                             {
                                 "url": "/animes/eiyuu-kyoushitsu-todos-os-episodios",
@@ -105,16 +115,6 @@
                                 "url": "/animes/kanojo-ga-koushaku-tei-ni-itta-riyuu-todos-os-episodios",
                                 "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
                                 "thumbnail_url": "https://animefire.net/img/animes/kanojo-ga-Koushaku-tei-ni-itta-riyuu.jpg"
-                            },
-                            {
-                                "url": "/animes/otonari-ni-ginga-todos-os-episodios",
-                                "title": "Otonari ni Ginga",
-                                "thumbnail_url": "https://animefire.net/img/animes/otonari-ni-ginga.jpg"
-                            },
-                            {
-                                "url": "/animes/edens-zero-2nd-season-todos-os-episodios",
-                                "title": "Edens Zero 2nd Season",
-                                "thumbnail_url": "https://animefire.net/img/animes/edens-zero-2nd-season.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -364,44 +364,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru-todos-os-episodios",
-                    "title": "Jijou o Shiranai Tenkousei ga Guigui Kuru",
-                    "description": "Os opostos se atraem quando um cabeça-de-vento alegre conhece a intrometida residente de sua nova turma nesta comovente série de comédia escolar sobre a vida! Uma garota solitária e sombria da quinta série é alvo de bullying e provocações implacáveis de seus colegas - isto é, até que um novo garoto entra em cena. O amigável Takada é tão sem noção quanto bem-intencionado, mas de alguma forma ele possui a habilidade mágica de começar a tirar 'Grim Reaper' Nishimura de sua concha. À medida que os alunos do ensino fundamental experimentam juntos toda a diversão de um verão infantil - de ir à piscina, colher girassóis e assistir a fogos de artifício - uma amizade incomum floresce! (Fonte: Square Enix)",
-                    "genre": "romance, vida-escolar",
-                    "thumbnail_url": "https://animefire.net/img/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru.jpg",
+                    "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
+                    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                    "description": "Segunda parte de Bleach: Sennen Kessen-hen.",
+                    "genre": "acao, aventura, fantasia",
+                    "thumbnail_url": "https://animefire.net/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru/13",
-                        "name": "Episódio 13",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/animes/jijou-o-shiranai-tenkousei-ga-guigui-kuru/12",
-                        "name": "Episódio 12",
-                        "episode_number": 12.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s2.starwatching.net/s1/mp4/jijou-o-shiranai-tenkousei-ga-guigui-kuru/hd/13.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://s2.starwatching.net/s1/mp4/jijou-o-shiranai-tenkousei-ga-guigui-kuru/hd/13.mp4"
-                    },
-                    {
-                        "url": "https://s2.starwatching.net/s1/mp4/jijou-o-shiranai-tenkousei-ga-guigui-kuru/sd/13.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://s2.starwatching.net/s1/mp4/jijou-o-shiranai-tenkousei-ga-guigui-kuru/sd/13.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
