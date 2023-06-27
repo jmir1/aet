@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/elemental/",
+                                "title": "Elemental",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fM6AFC1oSqBBk3oIDAKNlS84P8Q.jpg"
+                            },
+                            {
                                 "url": "/movies/the-tomorrow-job/",
                                 "title": "The Tomorrow Job",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/movies/evil-dead-rise/",
                                 "title": "Evil Dead Rise",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/o69AfVK0YXkbyI0QVayindEFC26.jpg"
-                            },
-                            {
-                                "url": "/movies/bandit/",
-                                "title": "Bandit",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/niOMn705nsjN1Mvz5xkmd2l5bI1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -434,11 +434,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/the-tomorrow-job/",
-                    "title": "The Tomorrow Job",
-                    "description": "\nOriginaltitel: The Tomorrow Job",
-                    "genre": "Action, Science Fiction",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/Ah3pJ3iuX28PKHjGLyIrEsFVq5q.jpg",
+                    "url": "/movies/elemental/",
+                    "title": "Elemental",
+                    "description": "In einer Stadt, in der Feuer-, Wasser-, Luft- und Landbewohner zusammenleben, entdecken eine feurige junge Frau und ein lebensfroher Wassermann etwas Elementares: Wie viel sie tatsächlich gemeinsam haben.\n\nOriginaltitel: Elemental",
+                    "genre": "Animation, Familie, Fantasy, Komödie, Liebesfilm",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/fM6AFC1oSqBBk3oIDAKNlS84P8Q.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +446,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/the-tomorrow-job/",
+                        "url": "/movies/elemental/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
