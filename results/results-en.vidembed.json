@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/sheroes-2023",
+                                "title": "Sheroes",
+                                "thumbnail_url": "https://images.movembed.cc//cover/sheroes-2023-1687879525.jpg"
+                            },
+                            {
+                                "url": "/videos/resurrected-2023",
+                                "title": "Resurrected",
+                                "thumbnail_url": "https://images.movembed.cc//cover/resurrected-2023-1687879524.jpg"
+                            },
+                            {
+                                "url": "/videos/gabriels-redemption-part-one-2023",
+                                "title": "Gabriel's Redemption: Part One",
+                                "thumbnail_url": "https://images.movembed.cc//cover/gabriels-redemption-part-one-2023-1687877724.jpg"
+                            },
+                            {
+                                "url": "/videos/an-unforgettable-year-spring-2023",
+                                "title": "An Unforgettable Year: Spring",
+                                "thumbnail_url": "https://images.movembed.cc//cover/an-unforgettable-year-spring-2023-1687874426.jpg"
+                            },
+                            {
                                 "url": "/videos/take-care-of-maya-2023",
                                 "title": "Take Care of Maya",
                                 "thumbnail_url": "https://images.movembed.cc//cover/take-care-of-maya-2023-1687828525.jpg"
@@ -135,26 +155,6 @@
                                 "url": "/videos/hugot-2023",
                                 "title": "Hugot",
                                 "thumbnail_url": "https://images.movembed.cc//cover/hugot-2023-1687767623.jpg"
-                            },
-                            {
-                                "url": "/videos/duran-duran-a-hollywood-high-2022",
-                                "title": "Duran Duran: A Hollywood High",
-                                "thumbnail_url": "https://images.movembed.cc//cover/duran-duran-a-hollywood-high-2022-1687767623.jpg"
-                            },
-                            {
-                                "url": "/videos/mask-of-the-devil-2023",
-                                "title": "Mask of the Devil",
-                                "thumbnail_url": "https://images.movembed.cc//cover/mask-of-the-devil-2023-1687767622.jpg"
-                            },
-                            {
-                                "url": "/videos/see-you-in-september-2010",
-                                "title": "See You in September",
-                                "thumbnail_url": "https://images.movembed.cc//cover/see-you-in-september-2010-1687767622.jpg"
-                            },
-                            {
-                                "url": "/videos/no-hard-feelings-2023",
-                                "title": "No Hard Feelings",
-                                "thumbnail_url": "https://images.movembed.cc//cover/no-hard-feelings-2023-1687767622.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,20 +324,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/take-care-of-maya-2023",
-                    "title": "Take Care of Maya",
-                    "description": "As a medical team tries to understand 10-year-old Maya Kowalski's rare illness, they begin to question her parents. Suddenly, Maya is in state custody - despite a family desperate to bring their daughter home.",
+                    "url": "/videos/sheroes-2023",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/sheroes-2023",
+                        "name": "Sheroes",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/Dexl6oov1ZT3po/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/Dexl6oov1ZT3po/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NTg1"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
