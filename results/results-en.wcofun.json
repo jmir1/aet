@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-great-wolf-pack",
+                                "title": "The Great Wolf Pack",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932966.jpg"
+                            },
+                            {
                                 "url": "/anime/saving-me",
                                 "title": "Saving Me",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932965.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/mashle-english-dubbed",
                                 "title": "Mashle English Dubbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932948.jpg"
-                            },
-                            {
-                                "url": "/anime/oshi-no-ko-english-dubbed",
-                                "title": "Oshi No Ko English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932947.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -104,22 +104,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/saving-me",
-                    "title": "Saving Me",
-                    "description": "In the far future, 61-year-old Bennett Bramble is lonely and has garnered a negative reputation. He has tried ways to become less hated in the present, to no avail. With no other ways to fix his reputation, Bennett builds a time machine that allows him to travel into the past as a conscious and enter the mind of his younger 11-year-old self.",
-                    "genre": "Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932965.jpg",
+                    "url": "/anime/the-great-wolf-pack",
+                    "title": "The Great Wolf Pack",
+                    "description": "After discovering the mythical Great Wolf Geyser and earning their magical Great Wolf Stones, the pack is called to help those in need no matter how swampy, snowy, or scary the adventures become.",
+                    "genre": "Action, Adventure, Animation, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932966.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-great-wolf-pack-episode-4-a-spoonful-of-wicked",
+                        "name": "Episode 4 A Spoonful of Wicked",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/the-great-wolf-pack-episode-3-snow-problem",
+                        "name": "Episode 3 Snow Problem",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB70LYQshCk7kQDsZxW3y4KFG9fLiPZxjCoXgs7oJVBLAWRZpbBzmBV3c6uiLED8mhVI2l5xxvW9KiiXHjk8ceWBYj2x3Og155gu3Crec94lAQetO8MG9ESjOtALs0a8DlpcvQLmcFa8pF1mA5oyo_I1CQYcgrsA6DZuiczr2DeSoUE4CInYxnB2MM4NQbrcDy2YeICGtjaL5XVCr--Q3xdYEET5vKoWjo540pli62xxBmlr7Qk8ZyL-CjZoyCOQvI9zh_xyIfLuKCu13tqitmDaZOSwR1pyRylJ0ouPifDpA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB70LYQshCk7kQDsZxW3y4KFG9fLiPZxjCoXgs7oJVBLAWRZpbBzmBV3c6uiLED8mhVI2l5xxvW9KiiXHjk8ceWBYj2x3Og155gu3Crec94lAQetO8MG9ESjOtALs0a8DlpcvQLmcFa8pF1mA5oyo_I1CQYcgrsA6DZuiczr2DeSoUE4CInYxnB2MM4NQbrcDy2YeICGtjaL5XVCr--Q3xdYEET5vKoWjo540pli62xxBmlr7Qk8ZyL-CjZoyCOQvI9zh_xyIfLuKCu13tqitmDaZOSwR1pyRylJ0ouPifDpA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB2zf0l0ckM8ea4iowf4ZzrJ2yQxAuan1ljLbv7LnK1S-na_ozi-GaacOmF-rFgIVpkRAREsPHrlkKq3ZvgPlpqtXIrfUcBxzssEV8X-z3_BRWH3lucj1o9becPItHvYJw1HEN-FZu-lsJ3m2fz_iO83BXAM3b0m9odxXkZCMyHkksAVClKfKLbF2wxg6mwVzN8NoIZN6UcvY59fDW0K9gdhOc-0DG3SYdcGTP3R1kL9dJC_ir1iXo6KscCwIpCxvBgdimjaq7xXn5_X9rfdnyvuv0GlRBCa7PW21tOrB_5dg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB2zf0l0ckM8ea4iowf4ZzrJ2yQxAuan1ljLbv7LnK1S-na_ozi-GaacOmF-rFgIVpkRAREsPHrlkKq3ZvgPlpqtXIrfUcBxzssEV8X-z3_BRWH3lucj1o9becPItHvYJw1HEN-FZu-lsJ3m2fz_iO83BXAM3b0m9odxXkZCMyHkksAVClKfKLbF2wxg6mwVzN8NoIZN6UcvY59fDW0K9gdhOc-0DG3SYdcGTP3R1kL9dJC_ir1iXo6KscCwIpCxvBgdimjaq7xXn5_X9rfdnyvuv0GlRBCa7PW21tOrB_5dg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

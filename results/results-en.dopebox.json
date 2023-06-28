@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/watch-love-at-first-lie-online-hd-97774",
+                                "title": "Love at First Lie",
+                                "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/e4/3f/e43f1b5ea400f4294f06f91499fc88f9/e43f1b5ea400f4294f06f91499fc88f9.jpg"
+                            },
+                            {
                                 "url": "/movie/watch-knights-of-the-zodiac-online-hd-97771",
                                 "title": "Knights of the Zodiac",
                                 "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/55/20/552080e2fea0c47fb4accfc959d5836a/552080e2fea0c47fb4accfc959d5836a.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/movie/watch-darkest-hour-annihilation-online-hd-97621",
                                 "title": "Darkest Hour Annihilation",
                                 "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/ee/99/ee99fddebae0c26bb212a9a77eb35f2d/ee99fddebae0c26bb212a9a77eb35f2d.jpg"
-                            },
-                            {
-                                "url": "/movie/watch-coyote-online-hd-97618",
-                                "title": "Coyote",
-                                "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/56/74/5674017d39cc2c9af715b30ef89c806c/5674017d39cc2c9af715b30ef89c806c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -474,14 +474,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/watch-knights-of-the-zodiac-online-hd-97771",
-                    "title": "Knights of the Zodiac",
-                    "author": "Stage 6 Films, Toei Animation",
-                    "description": " When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
-                    "genre": "Fantasy, Action, Adventure",
+                    "url": "/movie/watch-love-at-first-lie-online-hd-97774",
+                    "title": "Love at First Lie",
+                    "author": "Hybrid",
+                    "description": "",
+                    "genre": "TV Movie, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/55/20/552080e2fea0c47fb4accfc959d5836a/552080e2fea0c47fb4accfc959d5836a.jpg",
+                    "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/e4/3f/e43f1b5ea400f4294f06f91499fc88f9/e43f1b5ea400f4294f06f91499fc88f9.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -489,16 +489,83 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ajax/movie/episodes/97771",
-                        "name": "Knights of the Zodiac",
+                        "url": "/ajax/movie/episodes/97774",
+                        "name": "Love at First Lie",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c194897eeb6d735a8ce1e8620e206bfc114b17b97f4ace61b220c29f23d6021379e53d35322aa7f1ca355f5fcdb163387cbaf6e7ae224ee1a6eb5b1be34ccbe64a18a092d9e0eee6e5ddf637c4c927ad3b7b56b638e830fe1332ccad7329be3ebaf3cf96b246c52b333b3755e9aa52d23138bef7fc05efd5373fb2ff596b2846581b/1080/index.m3u8",
+                        "quality": "Vidcloud - 1080p",
+                        "videoUrl": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c194897eeb6d735a8ce1e8620e206bfc114b17b97f4ace61b220c29f23d6021379e53d35322aa7f1ca355f5fcdb163387cbaf6e7ae224ee1a6eb5b1be34ccbe64a18a092d9e0eee6e5ddf637c4c927ad3b7b56b638e830fe1332ccad7329be3ebaf3cf96b246c52b333b3755e9aa52d23138bef7fc05efd5373fb2ff596b2846581b/1080/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/39/04/3904c912a7f76d766833813875c3090d/eng-2.vtt",
+                                "lang": "English - English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.dokicloud.one/_v10/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c1941b8c38e2c5b205a89a295f5f7979ecb81606f4003a5bfff602a4d0ee9ebb72012c665e1af44c95a991c6ddc5a0d3da0184574306730b6900a424bc2c9a73768365b92a1bbf12c9be2ac0eee9b3172957cf952c425daab873af8fdf98a752ab80/1080/index.m3u8",
+                        "quality": "UpCloud - 1080p",
+                        "videoUrl": "https://eno.dokicloud.one/_v10/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c1941b8c38e2c5b205a89a295f5f7979ecb81606f4003a5bfff602a4d0ee9ebb72012c665e1af44c95a991c6ddc5a0d3da0184574306730b6900a424bc2c9a73768365b92a1bbf12c9be2ac0eee9b3172957cf952c425daab873af8fdf98a752ab80/1080/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/39/04/3904c912a7f76d766833813875c3090d/eng-2.vtt",
+                                "lang": "English - English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c194897eeb6d735a8ce1e8620e206bfc114b17b97f4ace61b220c29f23d6021379e53d35322aa7f1ca355f5fcdb163387cbaf6e7ae224ee1a6eb5b1be34ccbe64a18a092d9e0eee6e5ddf637c4c927ad3b7b56b638e830fe1332ccad7329be3ebaf3cf96b246c52b333b3755e9aa52d23138bef7fc05efd5373fb2ff596b2846581b/360/index.m3u8",
+                        "quality": "Vidcloud - 360p",
+                        "videoUrl": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c194897eeb6d735a8ce1e8620e206bfc114b17b97f4ace61b220c29f23d6021379e53d35322aa7f1ca355f5fcdb163387cbaf6e7ae224ee1a6eb5b1be34ccbe64a18a092d9e0eee6e5ddf637c4c927ad3b7b56b638e830fe1332ccad7329be3ebaf3cf96b246c52b333b3755e9aa52d23138bef7fc05efd5373fb2ff596b2846581b/360/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/39/04/3904c912a7f76d766833813875c3090d/eng-2.vtt",
+                                "lang": "English - English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c194897eeb6d735a8ce1e8620e206bfc114b17b97f4ace61b220c29f23d6021379e53d35322aa7f1ca355f5fcdb163387cbaf6e7ae224ee1a6eb5b1be34ccbe64a18a092d9e0eee6e5ddf637c4c927ad3b7b56b638e830fe1332ccad7329be3ebaf3cf96b246c52b333b3755e9aa52d23138bef7fc05efd5373fb2ff596b2846581b/720/index.m3u8",
+                        "quality": "Vidcloud - 720p",
+                        "videoUrl": "https://b-g-eu-13.feetcdn.com:2223/v3-hls-playback/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c194897eeb6d735a8ce1e8620e206bfc114b17b97f4ace61b220c29f23d6021379e53d35322aa7f1ca355f5fcdb163387cbaf6e7ae224ee1a6eb5b1be34ccbe64a18a092d9e0eee6e5ddf637c4c927ad3b7b56b638e830fe1332ccad7329be3ebaf3cf96b246c52b333b3755e9aa52d23138bef7fc05efd5373fb2ff596b2846581b/720/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/39/04/3904c912a7f76d766833813875c3090d/eng-2.vtt",
+                                "lang": "English - English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.dokicloud.one/_v10/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c1941b8c38e2c5b205a89a295f5f7979ecb81606f4003a5bfff602a4d0ee9ebb72012c665e1af44c95a991c6ddc5a0d3da0184574306730b6900a424bc2c9a73768365b92a1bbf12c9be2ac0eee9b3172957cf952c425daab873af8fdf98a752ab80/360/index.m3u8",
+                        "quality": "UpCloud - 360p",
+                        "videoUrl": "https://eno.dokicloud.one/_v10/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c1941b8c38e2c5b205a89a295f5f7979ecb81606f4003a5bfff602a4d0ee9ebb72012c665e1af44c95a991c6ddc5a0d3da0184574306730b6900a424bc2c9a73768365b92a1bbf12c9be2ac0eee9b3172957cf952c425daab873af8fdf98a752ab80/360/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/39/04/3904c912a7f76d766833813875c3090d/eng-2.vtt",
+                                "lang": "English - English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.dokicloud.one/_v10/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c1941b8c38e2c5b205a89a295f5f7979ecb81606f4003a5bfff602a4d0ee9ebb72012c665e1af44c95a991c6ddc5a0d3da0184574306730b6900a424bc2c9a73768365b92a1bbf12c9be2ac0eee9b3172957cf952c425daab873af8fdf98a752ab80/720/index.m3u8",
+                        "quality": "UpCloud - 720p",
+                        "videoUrl": "https://eno.dokicloud.one/_v10/6e3de34e784d91187c54b1466e888f11c42c95dadd79e7518980b1788152a371ffc73a58bc1da0fe02622822be99c1941b8c38e2c5b205a89a295f5f7979ecb81606f4003a5bfff602a4d0ee9ebb72012c665e1af44c95a991c6ddc5a0d3da0184574306730b6900a424bc2c9a73768365b92a1bbf12c9be2ac0eee9b3172957cf952c425daab873af8fdf98a752ab80/720/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/39/04/3904c912a7f76d766833813875c3090d/eng-2.vtt",
+                                "lang": "English - English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
