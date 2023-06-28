@@ -11,9 +11,29 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-mayor-37224/",
+                                "title": "The Mayor - Season 1",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/12c3d0c903d81f658d60382f43d9b712.jpg"
+                            },
+                            {
+                                "url": "/film/my-20th-twenty-97804/",
+                                "title": "My 20th Twenty - Season 1",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/217f37581f6bd3137dfc3e5cf3c2ec21.jpg"
+                            },
+                            {
                                 "url": "/film/club-hooligans-97798/",
                                 "title": "Club Hooligans - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/d54dd342a05ace652b575a532bf8ef4d.jpg"
+                            },
+                            {
+                                "url": "/film/xx-97786/",
+                                "title": "XX - Season 1",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/08a92bec45929cd7d304e14d57889ba7.jpg"
+                            },
+                            {
+                                "url": "/film/deadliest-catch-38682/",
+                                "title": "Deadliest Catch - Season 19",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/cd6b8a79cddf37fd8bd317d0217cd20c.jpg"
                             },
                             {
                                 "url": "/film/one-day-off-97801/",
@@ -36,11 +56,6 @@
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/6861231801e9264962a1d7a94d370a4c.jpg"
                             },
                             {
-                                "url": "/film/my-20th-twenty-97804/",
-                                "title": "My 20th Twenty - Season 1",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/217f37581f6bd3137dfc3e5cf3c2ec21.jpg"
-                            },
-                            {
                                 "url": "/film/gotham-knights-81574/",
                                 "title": "Gotham Knights - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/884bfc51987a443b9e0361e091cdbd3d.jpg"
@@ -49,11 +64,6 @@
                                 "url": "/film/superman-lois-68031/",
                                 "title": "Superman & Lois - Season 3",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/7b3be3f8a032c98b041ce79d36e47855.jpg"
-                            },
-                            {
-                                "url": "/film/xx-97786/",
-                                "title": "XX - Season 1",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/08a92bec45929cd7d304e14d57889ba7.jpg"
                             },
                             {
                                 "url": "/film/one-star-reviews-77050/",
@@ -166,11 +176,6 @@
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/6219f95d79fa4b30a0e9260ddddb015b.jpg"
                             },
                             {
-                                "url": "/film/the-mayor-37224/",
-                                "title": "The Mayor - Season 1",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/12c3d0c903d81f658d60382f43d9b712.jpg"
-                            },
-                            {
                                 "url": "/film/heartbeat-97777/",
                                 "title": "HeartBeat - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/f9751b46e45d051baf34e02dcd0e71c5.jpg"
@@ -204,11 +209,6 @@
                                 "url": "/film/knights-of-the-zodiac-97771/",
                                 "title": "Knights of the Zodiac",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/552080e2fea0c47fb4accfc959d5836a.jpg"
-                            },
-                            {
-                                "url": "/film/eye-for-eye-97765/",
-                                "title": "Eye for eye",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/c46ae195e6c105b3f7c91dd0bea80140.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -428,11 +428,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/club-hooligans-97798/",
-                    "title": "Club Hooligans",
+                    "url": "/film/the-mayor-37224/",
+                    "title": "The Mayor",
                     "author": "",
-                    "description": "After vicious infighting, two brothers are expelled of their beloved team’s gang. Alone, without money or political protection, they start a war that puts their brotherhood to the test.\n\nQuality: HD\nRelease: 2023-06-22\nIMDb: n/a",
-                    "genre": "Mystery, Drama, Crime",
+                    "description": "A struggling hip-hop artist runs for mayor to promote his mix-tape and wins.\n\nQuality: HD\nRelease: 2017-10-03\nIMDb: 5.6",
+                    "genre": "Comedy",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -440,11 +440,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":4,\"ids\":[\"37224_4_1\",\"37224_4_2\",\"37224_4_3\",\"37224_4_5\"]}",
+                        "name": "Episode 4: ",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "{\"ep_num\":3,\"ids\":[\"37224_3_1\",\"37224_3_2\",\"37224_3_3\",\"37224_3_5\"]}",
+                        "name": "Episode 3: ",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
