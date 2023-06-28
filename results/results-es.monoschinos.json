@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/copihan-sub-espanol",
+                                "title": "Copihan",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/copihan-1687925728.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror-sub-espanol",
                                 "title": "Genjitsu no Yohane: Sunshine in the Mirror",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/genjitsu-no-yohane-sunshine-in-the-mirror-1687705046.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/aiyou-de-mishi-sub-espanol",
                                 "title": "Aiyou de Mishi",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/aiyou-de-mishi-1681316403.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai-sub-espanol",
-                                "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai-1680295160.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,13 +324,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror-sub-espanol",
-                    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
-                    "description": "\"Nadie conoce la historia de la niña que todo el mundo conoce\". Numazu es una pintoresca ciudad portuaria rodeada por las montañas y el mar. Yohane, una niña que ha luchado por encajar en su entorno desde la infancia, pasa el día evitando a la ge...",
-                    "genre": "Fantasía",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/genjitsu-no-yohane-sunshine-in-the-mirror-1687705046.jpg?v=1.5",
+                    "url": "/anime/copihan-sub-espanol",
+                    "title": "Copihan",
+                    "description": "Una comedia escolar que tiene lugar en Tokio en 2034. Copihan es un proyecto conjunto de Gonzo y Kei, el ilustrador de la versión manga de Copihan, mejor conocido por Hatsune Miku.",
+                    "genre": "Ciencia Ficción, Comedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/copihan-1687925728.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -338,9 +338,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/genjitsu-no-yohane-sunshine-in-the-mirror-episodio-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/ver/copihan-episodio-8",
+                        "name": "Episodio 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/ver/copihan-episodio-7",
+                        "name": "Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -348,18 +353,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www14.mp4upload.com/files/9/kn96k8xstj8j35/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www14.mp4upload.com/files/9/kn96k8xstj8j35/video.mp4",
+                        "url": "https://www14.mp4upload.com/files/6/u9e1tmxc72lw4d/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com/files/6/u9e1tmxc72lw4d/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://mp4upload.com/"
                         }
                     },
                     {
-                        "url": "https://m50.uqload.co/3rfklxb5qbw2q4drdir7xjhxantg5szdklef4w52ahon2zrnksbegzmof5ea/v.mp4",
+                        "url": "https://vd408.mycdn.me/?expires=1688019017349&srcIp=104.210.132.94&pr=10&srcAg=CHROME&ms=45.136.20.48&type=5&sig=HtWzcE0kZk4&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=4698325060255",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd408.mycdn.me/?expires=1688019017349&srcIp=104.210.132.94&pr=10&srcAg=CHROME&ms=45.136.20.48&type=5&sig=HtWzcE0kZk4&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=4698325060255"
+                    },
+                    {
+                        "url": "https://m90.uqload.co/3rfkq5igqbw2q4drdio7x77ubc7yuwpt4gstzj4o364twuqdjrkthh4parqa/v.mp4",
                         "quality": "Uqload",
-                        "videoUrl": "https://m50.uqload.co/3rfklxb5qbw2q4drdir7xjhxantg5szdklef4w52ahon2zrnksbegzmof5ea/v.mp4",
+                        "videoUrl": "https://m90.uqload.co/3rfkq5igqbw2q4drdio7x77ubc7yuwpt4gstzj4o364twuqdjrkthh4parqa/v.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://uqload.com/"
