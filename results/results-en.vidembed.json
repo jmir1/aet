@@ -325,33 +325,19 @@
             "details": {
                 "result": {
                     "url": "/videos/eldorado-everything-the-nazis-hate-2023",
-                    "description": "",
+                    "title": "Eldorado: Everything the Nazis Hate",
+                    "description": "A glittery nightclub in 1920s Berlin becomes a haven for the queer community in this documentary exploring the freedoms lost amid Hitler's rise to power.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/eldorado-everything-the-nazis-hate-2023",
-                        "name": "Eldorado: Everything the Nazis Hate",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/PX4QqMgrPLI0OQJ/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/PX4QqMgrPLI0OQJ/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0NTk1"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
