@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/twilight?id=649dc03a723b67345ffb79a0",
+                                "title": "Twilight (Crepúsculo)",
+                                "description": "El escritor Qi Lianshan (interpretado por Ren Jialun) quiere adaptar su novela de razonamiento psicológico a un guión. Después de ver a Liu Xia (interpretada por AngelaBaby), quien guía con éxito a una mujer que quiere saltar de un puente con su conocimiento psicológico, la invita a ser consultora. En el proceso de adaptación de la novela, Qi Lianshan se siente profundamente atraído por Liu Xia y, al final, los dos obtuvieron una carrera exitosa y una hermosa historia de amor.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/jVPgm2qBvh73QmPRPfwyJ3BrMMW.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/heartbeat?id=6499bc4a72fc72a076b49936",
                                 "title": "HeartBeat (Latido del corazón)",
                                 "description": "Una historia de amor entre Seon Woo Hyul, mitad humano y mitad vampiro, quien no pudo convertirse en humano debido a una diferencia de un día durante 100 años, y Joo In Hae, una mujer que no tiene un lado humano y encuentra la verdadera calidez.",
@@ -456,13 +463,6 @@
                                 "description": "An Ni, un fiscal de la Fiscalía de Jiangcheng, fue asignado por el Fiscal Jefe Xu Ailin para manejar el caso que investiga a un estudiante universitario desaparecido que saltó a un lago. Comenzó con Zhao Jikai, el gerente general de Huiquan Games, y encontró una conexión entre él y las organizaciones extranjeras que promueven el acoso escolar, lo que llevó al arresto de los perpetradores del crimen. Mientras que el precio de las acciones de Huiquan Games se desplomó, Yin Huiquan dona a la Academia Jiangxiao, que a su vez corrompería a los menores con el pretexto de la caridad.\n\nEl estudiante Li Xiaowen y otras víctimas denuncian públicamente los medios poco ortodoxos de la Academia Jiangxiao para controlar a los jóvenes. An Ni presenta evidencias sólidas en la corte, lo que lleva al cierre de la academia y al castigo de los involucrados.\n\nYan Qin, quien se hizo cargo de los Juegos de Huiquan, malversó los fondos para invertirlos en el desarrollo de una mina de cobre. Sin embargo, esta empresa de inversión fue un esquema Ponzi de una pandilla de fraude financiero en línea. Con pruebas suficientes, An Ni se fue al extranjero para participar en un juicio transfronterizo. Con la cooperación de organizaciones judiciales chinas y extranjeras, Qian Tianxin fue enviado de regreso a China y sus bienes fueron congelados.",
                                 "genre": "Drama, Romance, Acción, Thriller, Crimen, Misterio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/5rJwLVGLh9OXsCy6mYT8sqBgr9j.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/delightfully-deceitful?id=64751de10013c559c7a03965",
-                                "title": "Delightfully Deceitful (Deliciosamente Engañoso)",
-                                "description": "Un drama cooperativo entre una estafadora que no puede empatizar y un abogado demasiado comprensivo, así como una obra de venganza contra el mal absoluto.\n\nLee Ro Um es una genia como estafadora, ha hecho una fortuna cometiendo fraudes, tiene el don de la elocuencia y ninguna empatía. Lee Ro Um se involucra con Han Moon Young, un abogado que es todo lo contrario de Lee Ro Um en términos de personalidad. Tiene una gran empatía por otras personas y observador de su estado mental. A veces está demasiado inmerso con los demás.",
-                                "genre": "Drama, Romance, Acción, Thriller, Crimen, Misterio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bsGHK1Hf3vdD56XPe0d5N7HRa15.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

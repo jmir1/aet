@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ooku-the-inner-chambers/",
+                                "title": "Ooku The Inner Chambers",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/289614.jpg"
+                            },
+                            {
                                 "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror/",
                                 "title": "Genjitsu no Yohane Sunshine in the Mirror",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/287369.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/boku-no-kokoro-no-yabai-yatsu/",
                                 "title": "Boku no Kokoro no Yabai Yatsu",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133887l.jpg"
-                            },
-                            {
-                                "url": "/anime/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai/",
-                                "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/kaguya-sama_wa_kokurasetai_first_kiss_wa_owaranai_fr_11215.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror/",
-                    "title": "Genjitsu no Yohane Sunshine in the Mirror",
-                    "description": "نومازو هي مدينة ساحلية ذات مناظر خلابة تحيط بها الجبال والبحر, يوهاني الفتاة التي كافحت من أجل التكيف مع محيطها منذ الطفولة تقضي يومها في تجنب الناس في المدينة.",
-                    "genre": "فانتازيا, خيال",
+                    "url": "/anime/ooku-the-inner-chambers/",
+                    "title": "Ooku The Inner Chambers",
+                    "description": "في اليابان الحديثة المبكرة حيث يقتل مرض غير معروف معظم السكان الذكور ، مما يؤدي إلى مجتمع أمومي حيث تصبح Ōoku حريمًا للرجال الذين يخدمون الآن الأنثى Shogun.",
+                    "genre": "ساموراي, خيال, دراما, تاريخي",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/287369.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/289614.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,16 +388,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/genjitsu-no-yohane-sunshine-in-the-mirror-حلقة-1/",
-                        "name": "1",
-                        "episode_number": 1.0
+                        "url": "/episode/ooku-the-inner-chambers-الحلقة-10/",
+                        "name": "10",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/episode/ooku-the-inner-chambers-الحلقة-9/",
+                        "name": "9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc762.4shared.com/img/SxRI4rVxjq/f1965ef4/dlink__2Fdownload_2FSxRI4rVxjq_3Fsbsr_3D880be82aa8250a85da2d2e9bd9545cd9ae7_26bip_3DMTA0LjIxMC4xMzkuMjA4_26lgfp_3D66_26bip_3DMTA0LjIxMC4xMzkuMjA4_26bip_3DMTA0LjIxMC4xMzkuMjA4/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc762.4shared.com/img/SxRI4rVxjq/f1965ef4/dlink__2Fdownload_2FSxRI4rVxjq_3Fsbsr_3D880be82aa8250a85da2d2e9bd9545cd9ae7_26bip_3DMTA0LjIxMC4xMzkuMjA4_26lgfp_3D66_26bip_3DMTA0LjIxMC4xMzkuMjA4_26bip_3DMTA0LjIxMC4xMzkuMjA4/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/oooku-english-dubbed",
+                                "title": "Oooku English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932968.jpg"
+                            },
+                            {
+                                "url": "/anime/oooku-english-subbed",
+                                "title": "Oooku English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932967.jpg"
+                            },
+                            {
                                 "url": "/anime/the-great-wolf-pack",
                                 "title": "The Great Wolf Pack",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932966.jpg"
@@ -67,7 +77,14 @@
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932953.jpg"
                             },
                             {
-                                "thumbnail_url": "https:"
+                                "url": "/anime/biao-ren-blades-of-the-guardians",
+                                "title": "Biao Ren: Blades of the Guardians English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932952.jpg"
+                            },
+                            {
+                                "url": "/anime/gremlins-secrets-of-the-mogwai",
+                                "title": "Gremlins: Secrets of the Mogwai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932950.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -87,44 +104,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-great-wolf-pack",
-                    "title": "The Great Wolf Pack",
-                    "description": "After discovering the mythical Great Wolf Geyser and earning their magical Great Wolf Stones, the pack is called to help those in need no matter how swampy, snowy, or scary the adventures become.",
-                    "genre": "Action, Adventure, Animation, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932966.jpg",
+                    "url": "/anime/oooku-english-dubbed",
+                    "title": "Oooku English Dubbed",
+                    "description": "In Edo period Japan (1603 to 1868), a strange new disease called the Redface Pox has begun to prey on the country’s men. Within eighty years of the first outbreak, the male population has fallen to a quarter of the total female population. Women have taken on all the roles traditionally granted to men, even that of the Shogun. The men, precious providers of life, are carefully protected and the most beautiful of the men are sent to serve in the Shogun’s Inner Chambers.",
+                    "genre": "Drama, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932968.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-great-wolf-pack-episode-4-a-spoonful-of-wicked",
-                        "name": "Episode 4 A Spoonful of Wicked",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/the-great-wolf-pack-episode-3-snow-problem",
-                        "name": "Episode 3 Snow Problem",
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB70LYQshCk7kQDsZxW3y4KFG9fLiPZxjCoXgs7oJVBLAWRZpbBzmBV3c6uiLED8mhVI2l5xxvW9KiiXHjk8ceWBYj2x3Og155gu3Crec94lAQetO8MG9ESjOtALs0a8DlpcvQLmcFa8pF1mA5oyo_I1CQYcgrsA6DZuiczr2DeSoUE4CInYxnB2MM4NQbrcDyeKc9uGOwpZ_r1I2fPQVcE5-gTDAOJqzhV87Z3LtAdEYzhLhfPp28cPvzJv-tJb03QtUSb6Oca2c7n0-NFViRDDsHANGXvXAL-V6ZIgyZdOg",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB70LYQshCk7kQDsZxW3y4KFG9fLiPZxjCoXgs7oJVBLAWRZpbBzmBV3c6uiLED8mhVI2l5xxvW9KiiXHjk8ceWBYj2x3Og155gu3Crec94lAQetO8MG9ESjOtALs0a8DlpcvQLmcFa8pF1mA5oyo_I1CQYcgrsA6DZuiczr2DeSoUE4CInYxnB2MM4NQbrcDyeKc9uGOwpZ_r1I2fPQVcE5-gTDAOJqzhV87Z3LtAdEYzhLhfPp28cPvzJv-tJb03QtUSb6Oca2c7n0-NFViRDDsHANGXvXAL-V6ZIgyZdOg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB2zf0l0ckM8ea4iowf4ZzrJ2yQxAuan1ljLbv7LnK1S-na_ozi-GaacOmF-rFgIVpkRAREsPHrlkKq3ZvgPlpqtXIrfUcBxzssEV8X-z3_BRWH3lucj1o9becPItHvYJw1HEN-FZu-lsJ3m2fz_iO83BXAM3b0m9odxXkZCMyHkksAVClKfKLbF2wxg6mwVzOod0mvS6b3cn7Iznkluh6exY8dZq_H87Yr5Jegy-ac31BvEQ9tnFx5fQLSsilZCOH3iYECEluUkTe9qHWgfpCCk3GRCPvBgYkXedqWmOv8RQ",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoPBR634QkR5I1d1U9MDjgJB-F5rcYFmFnNC-sd91ifle4PFDTIVWi-mFEQDLykpmjh7gqYlMysCGlWw9tA8xAB2zf0l0ckM8ea4iowf4ZzrJ2yQxAuan1ljLbv7LnK1S-na_ozi-GaacOmF-rFgIVpkRAREsPHrlkKq3ZvgPlpqtXIrfUcBxzssEV8X-z3_BRWH3lucj1o9becPItHvYJw1HEN-FZu-lsJ3m2fz_iO83BXAM3b0m9odxXkZCMyHkksAVClKfKLbF2wxg6mwVzOod0mvS6b3cn7Iznkluh6exY8dZq_H87Yr5Jegy-ac31BvEQ9tnFx5fQLSsilZCOH3iYECEluUkTe9qHWgfpCCk3GRCPvBgYkXedqWmOv8RQ"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
