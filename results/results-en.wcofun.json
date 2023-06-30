@@ -7,13 +7,13 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/oooku-english-dubbed",
-                                "title": "Oooku English Dubbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932968.jpg"
+                                "url": "/anime/ooku-the-inner-chambers",
+                                "title": "Ooku: The Inner Chambers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932969.jpg"
                             },
                             {
-                                "url": "/anime/oooku-english-subbed",
-                                "title": "Oooku English Subbed",
+                                "url": "/anime/ooku-the-inner-chambers-english-subbed",
+                                "title": "Ōoku: The Inner Chambers English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932967.jpg"
                             },
                             {
@@ -104,22 +104,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/oooku-english-dubbed",
-                    "title": "Oooku English Dubbed",
-                    "description": "In Edo period Japan (1603 to 1868), a strange new disease called the Redface Pox has begun to prey on the country’s men. Within eighty years of the first outbreak, the male population has fallen to a quarter of the total female population. Women have taken on all the roles traditionally granted to men, even that of the Shogun. The men, precious providers of life, are carefully protected and the most beautiful of the men are sent to serve in the Shogun’s Inner Chambers.",
-                    "genre": "Drama, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932968.jpg",
+                    "url": "/anime/ooku-the-inner-chambers",
+                    "title": "Ooku: The Inner Chambers",
+                    "description": "During the rule of Tokugawa Iemitsu, the third Shogun of the Tokugawa shogunate, a boy was attacked by a bear in a rural village in the Kantō region, which triggered the spread of a strange disease later known as the “redface pox.” No cure or treatment was ever discovered for the disease, except that it “only affects young boys” and has an “80% fatality rate.” As a result, the male population plummeted to about one-quarter of the female population, and the social structure of Japan was drastically changed. Boys were raised as scarce stallions and were forced to either go to grooms, be rented out to poor families who could not get grooms at any price per night, or sell their bodies in the brothels. On the other hand, women replaced men as the main labor force, and all family businesses were handed down from woman to woman. In Edo Castle, too, the shogunship was handed over to women after the third Shogun, Iemitsu, and the Ōoku attracted endangered young men as proof of the Shogun’s prestige, creating a world of men commonly referred to as “three thousand beautiful men.”",
+                    "genre": "Drama, Fantasy, Historical, Historical Fantasy, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932969.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ooku-the-inner-chambers-episode-10-english-dubbed",
+                        "name": "Episode 10 English Dubbed",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/ooku-the-inner-chambers-episode-9-english-dubbed",
+                        "name": "Episode 9 English Dubbed",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkr6hVqK34__z1Kh9AiwhM_qYPxN5THPXt_6Ava_9nc2_MvViNz1RM4CocLCZ3zIm3A1SlSdZ-4AtbgJKoG6yuuOqXICFvFilPUwjYo37D2i0JFv5D6UaI8s10Y3W8104ZKGyeEeHUWD4nedRowUHh4r41aX1M6G7pPYk7slp5I53L8ubA5MlAFZCHRS77gNj9r9yg07C2Sexg8FXaPp5ij5OT8eih-0uvko-mP2MQtSmsff6Ekf_hohNz7JcCvz8cuBhWsm-RGZR7umVFuxY7cerBgOxu2UIVxJdGiU10pGa7Rl68WxfHYRUXymmtQjKSOy2eMUGOGlI2kyBoqLdomoW0HX-HMMIcGSZ2KGWisALrpbW9cwEE_D5y9LJgPo1g",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkr6hVqK34__z1Kh9AiwhM_qYPxN5THPXt_6Ava_9nc2_MvViNz1RM4CocLCZ3zIm3A1SlSdZ-4AtbgJKoG6yuuOqXICFvFilPUwjYo37D2i0JFv5D6UaI8s10Y3W8104ZKGyeEeHUWD4nedRowUHh4r41aX1M6G7pPYk7slp5I53L8ubA5MlAFZCHRS77gNj9r9yg07C2Sexg8FXaPp5ij5OT8eih-0uvko-mP2MQtSmsff6Ekf_hohNz7JcCvz8cuBhWsm-RGZR7umVFuxY7cerBgOxu2UIVxJdGiU10pGa7Rl68WxfHYRUXymmtQjKSOy2eMUGOGlI2kyBoqLdomoW0HX-HMMIcGSZ2KGWisALrpbW9cwEE_D5y9LJgPo1g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkr6hVqK34__z1Kh9AiwhM_qYPxN5THPXt_6Ava_9nc2_MvViNz1RM4CocLCZ3zIm3A1SlSdZ-4AtbgJKoG6yusZmwsdjs7kbXP1Az8ZcZq2uzg99aOvZysvx6bW2ZPMInPqEtzV-LwgbuhV0jhDAsqmhWhhProj4gWDiN5sqHB5YeaK50A6VnEHHQlKsMRqutyvOCJCqkHZk8TwbY7n8BmEhFiKIk_d4U65lBAeUVX3tzsj7VpowTm29B5fXu3wk5U6KTGnAOoxUYpvU4z08UcU7W0BzfR1kduCXFLw1oXn9UAcvzG-Ni0BxpIRGA1WHROSPJSItGGivviHAIsfb-sSah8IASYx0D57-fOGEbymDxSiO-HWGMAprHuaKbuG3g",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkr6hVqK34__z1Kh9AiwhM_qYPxN5THPXt_6Ava_9nc2_MvViNz1RM4CocLCZ3zIm3A1SlSdZ-4AtbgJKoG6yusZmwsdjs7kbXP1Az8ZcZq2uzg99aOvZysvx6bW2ZPMInPqEtzV-LwgbuhV0jhDAsqmhWhhProj4gWDiN5sqHB5YeaK50A6VnEHHQlKsMRqutyvOCJCqkHZk8TwbY7n8BmEhFiKIk_d4U65lBAeUVX3tzsj7VpowTm29B5fXu3wk5U6KTGnAOoxUYpvU4z08UcU7W0BzfR1kduCXFLw1oXn9UAcvzG-Ni0BxpIRGA1WHROSPJSItGGivviHAIsfb-sSah8IASYx0D57-fOGEbymDxSiO-HWGMAprHuaKbuG3g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkr6hVqK34__z1Kh9AiwhM_qYPxN5THPXt_6Ava_9nc2_MvViNz1RM4CocLCZ3zIm3A1SlSdZ-4AtbgJKoG6yusNbOx8m4L9o7nvIfGSSSpQVnwCf6WW1l4082IeDyRjMmgk-lGbDF4rrxOMeIeji5Yd9f4pp85ly2YPTjxGuRUifETQGn8gApdq-6VLn6bAFhUZ53lq3muOmWOyn82KD9935xZ9t2NgVYJbqLb-W9B-L_2UcS1QRMcGHLWIqQu76pHEN6z9WrmjdmqG9U8l_0yW4_YBucmITxyAVWm44qNOoCJA-_2N2t5pnYNnKYh9hw3y2rnBUYS-mUYJGtWrWsEDK8wm78ff9T2A6InWDgNc",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkr6hVqK34__z1Kh9AiwhM_qYPxN5THPXt_6Ava_9nc2_MvViNz1RM4CocLCZ3zIm3A1SlSdZ-4AtbgJKoG6yusNbOx8m4L9o7nvIfGSSSpQVnwCf6WW1l4082IeDyRjMmgk-lGbDF4rrxOMeIeji5Yd9f4pp85ly2YPTjxGuRUifETQGn8gApdq-6VLn6bAFhUZ53lq3muOmWOyn82KD9935xZ9t2NgVYJbqLb-W9B-L_2UcS1QRMcGHLWIqQu76pHEN6z9WrmjdmqG9U8l_0yW4_YBucmITxyAVWm44qNOoCJA-_2N2t5pnYNnKYh9hw3y2rnBUYS-mUYJGtWrWsEDK8wm78ff9T2A6InWDgNc"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/freeks",
+                                "title": "FreeKs (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fN1E9SLgPUoPUe4oawAs9CKhct1.jpg"
+                            },
+                            {
                                 "url": "/serie/habilidad-fisica-100",
                                 "title": "Habilidad física: 100 (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/h0U4wWpKNO00CW5rntc5yIU9EBv.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/las-kardashian",
                                 "title": "Las Kardashian (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/pd6XnYZ2qyaXRO5XnHJOfRXoctp.jpg"
-                            },
-                            {
-                                "url": "/serie/the-walking-dead-dead-city",
-                                "title": "The Walking Dead: Dead City (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/habilidad-fisica-100",
-                    "title": "Habilidad física: 100 (2023)",
-                    "description": "Cien participantes en excelente forma se enfrentan en extenuantes desafíos para obtener el título del mejor cuerpo... y ganar un suculento premio..",
-                    "genre": "Reality",
+                    "url": "/serie/freeks",
+                    "title": "FreeKs (2023)",
+                    "description": "Gaspar se ve obligado a dejar la banda que él mismo creó después de que Ludovico, Coco, Juani y Ulises lo acusaran de robar dinero de sus conciertos. La acusación se vuelve viral y provoca un revuelo en redes sociales mientras FreeKs se vuelve más exitosa sin Gaspar. Este trata de encontrar a la persona que lo incriminó y observa cómo la industria musical manipula a sus excompañeros de grupo. Tendrá que demostrar su inocencia para recuperar su puesto en la banda..",
+                    "genre": "Drama, Misterio",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/h0U4wWpKNO00CW5rntc5yIU9EBv.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fN1E9SLgPUoPUe4oawAs9CKhct1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/habilidad-fisica-100/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/freeks/temporada/1/capitulo/13",
+                        "name": "T1 - E13: Episodio 13",
+                        "episode_number": 13.0
                     },
                     {
-                        "url": "/serie/habilidad-fisica-100/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/freeks/temporada/1/capitulo/12",
+                        "name": "T1 - E12: Episodio 12",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery629.akamai-video-content.com/hls2/01/13314/8aj1rd5oxoh8_n/index-v1-a1.m3u8?t=tVZp0slvsJSAxPGdk0U2wvaVMCZa367YvzqhKJv9G7I&s=1688062379&e=10800&f=66574732&srv=sto095&client=13.83.4.224&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery629.akamai-video-content.com/hls2/01/13314/8aj1rd5oxoh8_n/index-v1-a1.m3u8?t=tVZp0slvsJSAxPGdk0U2wvaVMCZa367YvzqhKJv9G7I&s=1688062379&e=10800&f=66574732&srv=sto095&client=13.83.4.224&asn=8075",
+                        "url": "https://delivery187.akamai-video-content.com/hls2/01/13318/gnigia77qzri_n/index-v1-a1.m3u8?t=DByRUyynNCggdMAZXx1asCjeJRuGn1DYOMflWa4fG1E&s=1688085541&e=10800&f=66593856&srv=sto172&client=172.176.238.16&asn=8075",
+                        "quality": "StreamSB:640p",
+                        "videoUrl": "https://delivery187.akamai-video-content.com/hls2/01/13318/gnigia77qzri_n/index-v1-a1.m3u8?t=DByRUyynNCggdMAZXx1asCjeJRuGn1DYOMflWa4fG1E&s=1688085541&e=10800&f=66593856&srv=sto172&client=172.176.238.16&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8aj1rd5oxoh8?",
+                            "referer": "https://lvturbo.com/e/gnigia77qzri?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://delivery629.akamai-video-content.com/hls2/01/13314/8aj1rd5oxoh8_l/index-v1-a1.m3u8?t=tVZp0slvsJSAxPGdk0U2wvaVMCZa367YvzqhKJv9G7I&s=1688062379&e=10800&f=66574732&srv=sto095&client=13.83.4.224&asn=8075",
+                        "url": "https://delivery187.akamai-video-content.com/hls2/01/13318/gnigia77qzri_l/index-v1-a1.m3u8?t=DByRUyynNCggdMAZXx1asCjeJRuGn1DYOMflWa4fG1E&s=1688085541&e=10800&f=66593856&srv=sto172&client=172.176.238.16&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery629.akamai-video-content.com/hls2/01/13314/8aj1rd5oxoh8_l/index-v1-a1.m3u8?t=tVZp0slvsJSAxPGdk0U2wvaVMCZa367YvzqhKJv9G7I&s=1688062379&e=10800&f=66574732&srv=sto095&client=13.83.4.224&asn=8075",
+                        "videoUrl": "https://delivery187.akamai-video-content.com/hls2/01/13318/gnigia77qzri_l/index-v1-a1.m3u8?t=DByRUyynNCggdMAZXx1asCjeJRuGn1DYOMflWa4fG1E&s=1688085541&e=10800&f=66593856&srv=sto172&client=172.176.238.16&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/8aj1rd5oxoh8?",
+                            "referer": "https://lvturbo.com/e/gnigia77qzri?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=KkboyePmbOi0d64&expires=1688132386&ip=F0AsFxOnDS9X&token=GiIlFSBUcp5Z",
+                        "url": "https://streamtape.com/get_video?id=l0Laeyl0P9f7rdR&expires=1688155550&ip=F0qQKRWQEy9XKxR&token=wZLZVKGhtHhD",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=KkboyePmbOi0d64&expires=1688132386&ip=F0AsFxOnDS9X&token=GiIlFSBUcp5Z"
+                        "videoUrl": "https://streamtape.com/get_video?id=l0Laeyl0P9f7rdR&expires=1688155550&ip=F0qQKRWQEy9XKxR&token=wZLZVKGhtHhD"
                     }
                 ],
                 "passed": true
