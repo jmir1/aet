@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/indiana-jones-and-the-dial-of-destiny-2023",
+                                "title": "Indiana Jones and the Dial of Destiny",
+                                "thumbnail_url": "https://images.movembed.cc//cover/indiana-jones-and-the-dial-of-destiny-2023-1688093125.jpg"
+                            },
+                            {
                                 "url": "/videos/taylor-macs-24-decade-history-of-popular-music-2023",
                                 "title": "Taylor Mac's 24-Decade History of Popular Music",
                                 "thumbnail_url": "https://images.movembed.cc//cover/taylor-macs-24-decade-history-of-popular-music-2023-1688076933.jpg"
@@ -20,6 +25,11 @@
                                 "url": "/videos/lust-stories-2-2023",
                                 "title": "Lust Stories 2",
                                 "thumbnail_url": "https://images.movembed.cc//cover/lust-stories-2-2023-1688076629.jpg"
+                            },
+                            {
+                                "url": "/videos/ennio-2022",
+                                "title": "Ennio",
+                                "thumbnail_url": "https://images.movembed.cc//cover/ennio-2022-1688076626.jpg"
                             },
                             {
                                 "url": "/videos/eldorado-everything-the-nazis-hate-2023",
@@ -145,16 +155,6 @@
                                 "url": "/videos/make-me-a-match-2023",
                                 "title": "Make Me a Match",
                                 "thumbnail_url": "https://images.movembed.cc//cover/make-me-a-match-2023-1687767631.jpg"
-                            },
-                            {
-                                "url": "/videos/let-love-grow-2023",
-                                "title": "Let Love Grow",
-                                "thumbnail_url": "https://images.movembed.cc//cover/let-love-grow-2023-1687767631.jpg"
-                            },
-                            {
-                                "url": "/videos/kabhi-khushi-kabhie-gham--2001",
-                                "title": "Kabhi Khushi Kabhie Gham...",
-                                "thumbnail_url": "https://images.movembed.cc//cover/kabhi-khushi-kabhie-gham--2001-1687767630.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,22 +324,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/taylor-macs-24-decade-history-of-popular-music-2023",
-                    "title": "Taylor Mac's 24-Decade History of Popular Music",
-                    "description": "Captures Taylor Mac's exuberant, blatantly gay 24-hour musical performance in New York City, featuring skilled musicians, creative costumes, and the American myth as recounted through sailor's ditties, disco, and sugary pop alike.",
+                    "url": "/videos/indiana-jones-and-the-dial-of-destiny-2023",
+                    "title": "Indiana Jones and the Dial of Destiny",
+                    "description": "Archaeologist Indiana Jones races against time to retrieve a legendary artifact that can change the course of history.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/taylor-macs-24-decade-history-of-popular-music-2023",
-                        "name": "Taylor Mac's 24-Decade History of Popular Music",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
