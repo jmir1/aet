@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/nimona/",
+                                "title": "Nimona",
+                                "description": "Un caballero es acusado de un crimen que no ha cometido y la única persona que puede ayudarle a dem...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/l4vn4J6eontfFbqtHb68Qy4SfCi.webp"
+                            },
+                            {
+                                "url": "/pelicula/los-caballeros-del-zodiaco/",
+                                "title": "Los Caballeros del Zodiaco",
+                                "description": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidde...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/w5PfkFmfRYuR4hzzJz9rJaUiKA8XT0MfVrl6WybE.webp"
+                            },
+                            {
                                 "url": "/pelicula/pocket-dial-murder/",
                                 "title": "Pocket Dial Murder",
                                 "description": "",
@@ -101,12 +113,6 @@
                                 "title": "Spider-Man: Cruzando el multiverso",
                                 "description": "Miles Morales regresa para una aventura épica que transportará al amigable vecino de Brooklyn Spid...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Jao4aZw3ORMYy4xuAKoVgxSH0p4wRftqgHkgxHacpN0N.webp"
-                            },
-                            {
-                                "url": "/pelicula/los-caballeros-del-zodiaco/",
-                                "title": "Los Caballeros del Zodiaco",
-                                "description": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidde...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/w5PfkFmfRYuR4hzzJz9rJaUiKA8XT0MfVrl6WybE.webp"
                             },
                             {
                                 "url": "/pelicula/reposo-absoluto/",
@@ -239,12 +245,6 @@
                                 "title": "King",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Lif6VhjxJ2c6mAweFfuXphShwhySWxsy.webp"
-                            },
-                            {
-                                "url": "/pelicula/quasi-zydh/",
-                                "title": "Quasi",
-                                "description": "Un jorobado que anhela el amor se ve enredado en una enemistad asesina entre el papa y el rey de Fra...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZVMm0r3fMCCjVE2ev9pXCrmsLd31XE.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/pocket-dial-murder/",
-                    "title": "Pocket Dial Murder",
-                    "description": "",
-                    "genre": "Crimen, Drama, Suspense",
+                    "url": "/pelicula/nimona/",
+                    "title": "Nimona",
+                    "description": "Un caballero es acusado de un crimen que no ha cometido y la única persona que puede ayudarle a demostrar su inocencia es Nimona, una adolescente metamorfa que bien podría ser también un monstruo al que ha jurado matar. Esta historia, ambientada en un mundo tecno-medieval distinto a todo lo visto antes en animación, trata sobre las etiquetas que asignamos a las personas y la metamorfa que se niega a ser definida por nadie.",
+                    "genre": "Acción, Animación, Aventura, C. Ficción",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/pocket-dial-murder/",
+                        "url": "/pelicula/nimona/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar fshJzqjcL = \"\"; iQcqjdcNxl.forEach(function Oym(value) { fshJzqjcL += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
