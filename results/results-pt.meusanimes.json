@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/mashle-todos-os-episodios",
+                                "title": "Mashle",
+                                "thumbnail_url": "https://animefire.net/img/animes/mashle.jpg"
+                            },
+                            {
                                 "url": "/animes/nanatsu-no-maken-ga-shihai-suru-todos-os-episodios",
                                 "title": "Nanatsu no Maken ga Shihai suru",
                                 "thumbnail_url": "https://animefire.net/img/animes/nanatsu-no-maken-ga-shihai-suru.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/animes/bungou-stray-dogs-5th-season-todos-os-episodios",
                                 "title": "Bungou Stray Dogs 5th Season",
                                 "thumbnail_url": "https://animefire.net/img/animes/bungou-stray-dogs-5th-season.jpg"
-                            },
-                            {
-                                "url": "/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-todos-os-episodios",
-                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-                                "thumbnail_url": "https://animefire.net/img/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.jpg"
                             },
                             {
                                 "url": "/animes/nanatsu-no-maken-ga-shihai-suru-todos-os-episodios",
@@ -126,6 +126,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animes/mashle-todos-os-episodios",
+                                "title": "Mashle - Episódio 12",
+                                "thumbnail_url": "https://animefire.net/img/video/mashle/12.webp"
+                            },
                             {
                                 "url": "/animes/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-todos-os-episodios",
                                 "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta - Episódio 13",
@@ -220,11 +225,6 @@
                                 "url": "/animes/mahou-shoujo-magical-destroyers-todos-os-episodios",
                                 "title": "Mahou Shoujo Magical Destroyers - Episódio 12",
                                 "thumbnail_url": "https://animefire.net/img/video/mahou-shoujo-magical-destroyers/12.webp"
-                            },
-                            {
-                                "url": "/animes/edomae-elf-todos-os-episodios",
-                                "title": "Edomae Elf - Episódio 12",
-                                "thumbnail_url": "https://animefire.net/img/video/edomae-elf/12.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -364,22 +364,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/nanatsu-no-maken-ga-shihai-suru-todos-os-episodios",
-                    "title": "Nanatsu no Maken ga Shihai suru",
-                    "description": "No mundo da magia, existem técnicas mortais irreversíveis comumente conhecidas como spellblades. Esses feitiços esparsos e indescritíveis, junto com seus lançadores, estão envoltos em mistério e apenas sua letalidade absoluta é conhecida pelas massas. Todos os anos, a flor da primavera significa uma nova entrada de alunos na prestigiada escola de magia Kimberly. Com reações de espanto e perplexidade, um desfile cerimonioso completo com bestas mágicas dá as boas-vindas aos recém-chegados à instituição. Entre eles está o misterioso Oliver Horn, cuja indiferença se transforma em fascínio ao notar uma figura peculiar - uma garota vestindo um traje estranho equipado com uma espada japonesa. Desde a cerimônia de entrada em diante, Oliver percebe que nem tudo é o que parece na Kimberly, pois o surgimento de labirintos, monstros e outras ameaças colocam em risco o novo corpo discente. Nanatsu no Maken ga Shihai suru explora os destinos entrelaçados de dois guerreiros enquanto eles descobrem as verdades sombrias que se escondem dentro das paredes da academia.",
-                    "genre": "acao, fantasia",
-                    "thumbnail_url": "https://animefire.net/img/animes/nanatsu-no-maken-ga-shihai-suru.jpg",
+                    "url": "/animes/mashle-todos-os-episodios",
+                    "title": "Mashle",
+                    "description": "Para todos os outros em seu mundo dominado pela magia, o jovem e impotente Mash Burnedead é uma ameaça ao pool genético e deve ser expurgado. Vivendo secretamente na floresta, ele passa todos os dias treinando seu corpo, construindo músculos fortes o suficiente para competir com a própria magia! No entanto, ao ter sua identidade exposta e sua vida pacífica ameaçada, Mash inicia sua jornada para se tornar um \"Divino Visionário\", um papel tão poderoso que a sociedade não teria escolha a não ser aceitar sua existência. E assim, para manter sua vida pacífica, o sem magia Mash se matricula na prestigiosa Easton Magic Academy, competindo contra os filhos de alguns dos mais poderosos e da elite do reino. Sem a habilidade necessária para sobreviver em Easton, magia, Mash parece já estar em desvantagem para seus colegas de classe. Para atingir seus objetivos, Mash terá que abrir caminho em todas as provas usando apenas os punhos, superando a magia com os músculos, tudo pelo ilustre título de Visionário Divino! [Escrito por MAL Rewrite]",
+                    "genre": "acao, comedia, fantasia, vida-escolar",
+                    "thumbnail_url": "https://animefire.net/img/animes/mashle.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/mashle/12",
+                        "name": "Episódio 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/animes/mashle/11",
+                        "name": "Episódio 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4/mashle/hd/12.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4/mashle/hd/12.mp4"
+                    },
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4/mashle/sd/12.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4/mashle/sd/12.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
