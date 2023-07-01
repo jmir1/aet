@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//ayaka",
+                                "title": "Ayaka",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/ayaka/cover/9719ac4b.jpg"
+                            },
+                            {
                                 "url": "//jitsu-wa-ore-saikyou-deshita",
                                 "title": "Jitsu wa Ore, Saikyou deshita?",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Yuusha ga Shinda!",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/yuusha-ga-shinda/cover/d2a76969.jpg"
-                            },
-                            {
-                                "url": "//opuscolors",
-                                "title": "Opus.COLORs",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/opuscolors/cover/b97e34dc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//ayaka",
+                                "title": "Ayaka",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/ayaka/cover/9719ac4b.jpg"
+                            },
+                            {
                                 "url": "//jitsu-wa-ore-saikyou-deshita",
                                 "title": "Jitsu wa Ore, Saikyou deshita?",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Yuusha ga Shinda!",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/yuusha-ga-shinda/cover/d2a76969.jpg"
-                            },
-                            {
-                                "url": "//opuscolors",
-                                "title": "Opus.COLORs",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/opuscolors/cover/b97e34dc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,24 +682,37 @@
             },
             "details": {
                 "result": {
-                    "url": "//jitsu-wa-ore-saikyou-deshita",
-                    "title": "Jitsu wa Ore, Saikyou deshita?",
-                    "description": "Ser reencarnado en otro mundo con un poder exhorbitado es una cosa, pero que tus reales nuevos padres te abandonen nada más nacer en ese mundo es otra. Reinhart tendrá que buscar su camino por este peligroso mundo... Pero por suerte su poder mágico es exorbitado.",
-                    "genre": "Aventura, Fantasía, Verano 2023",
+                    "url": "//ayaka",
+                    "title": "Ayaka",
+                    "description": "Yanagi Yukito es un huérfano que un día se encuentra con un excéntrico discípulo de su padre. El extraño hombre lo lleva a su lugar de nacimiento en Ayakajima, formado por siete islas donde se rumorea que residen seres misteriosos llamados «Mitama» y dragones. Allí, Yukito conoce a los otros dos discípulos de su padre, quienes protegen la armonía de Ayakajima… que pronto amenaza con colapsar.",
+                    "genre": "Fantasía, Verano 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/jitsu-wa-ore-saikyou-deshita/cover/0f558fce.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/ayaka/cover/9719ac4b.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/ayaka-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1688169600000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=KL9r6qDy8Bs0QAj&expires=1688304924&ip=F0OSKRSSDS9XKxR&token=5bL_Y4aGMGay",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=KL9r6qDy8Bs0QAj&expires=1688304924&ip=F0OSKRSSDS9XKxR&token=5bL_Y4aGMGay"
+                    }
+                ],
+                "passed": true
             }
         }
     }
