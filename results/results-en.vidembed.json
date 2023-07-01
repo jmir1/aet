@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/sins-of-the-preachers-wife-2023",
+                                "title": "Sins of the Preacher's Wife",
+                                "thumbnail_url": "https://images.movembed.cc//cover/sins-of-the-preachers-wife-2023-1688188824.jpg"
+                            },
+                            {
+                                "url": "/videos/1000-a-minute-1935",
+                                "title": "$1000 a Minute",
+                                "thumbnail_url": "https://images.movembed.cc//cover/1000-a-minute-1935-1688184325.jpg"
+                            },
+                            {
                                 "url": "/videos/nimona-2023",
                                 "title": "Nimona",
                                 "thumbnail_url": "https://images.movembed.cc//cover/nimona-2023-1688116227.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/videos/singh-is-bliing-2015",
                                 "title": "Singh Is Bliing",
                                 "thumbnail_url": "https://images.movembed.cc//cover/singh-is-bliing-2015-1687770326.jpg"
-                            },
-                            {
-                                "url": "/videos/wait-with-me-2023",
-                                "title": "Wait with Me",
-                                "thumbnail_url": "https://images.movembed.cc//cover/wait-with-me-2023-1687770326.jpg"
-                            },
-                            {
-                                "url": "/videos/small-time-crooks-2000",
-                                "title": "Small Time Crooks",
-                                "thumbnail_url": "https://images.movembed.cc//cover/small-time-crooks-2000-1687770325.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,35 +324,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/nimona-2023",
-                    "title": "Nimona",
-                    "description": "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
+                    "url": "/videos/sins-of-the-preachers-wife-2023",
+                    "title": "Sins of the Preacher's Wife",
+                    "description": "Follows a a young woman who enrolls her baby in a day care program at a local church, but the preacher's wife becomes obsessed with the baby and tries to frame the woman as an unfit mother.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/nimona-2023",
-                        "name": "Nimona",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/v/d3qad9brqWSkw3G/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "quality": "Download StreamTape",
-                        "videoUrl": "https://streamtape.com/v/d3qad9brqWSkw3G/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
-                        "headers": {
-                            "Referer": "https://membed1.com/download?id=Mzk0NjA2"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
