@@ -7,9 +7,49 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/kelsey-cook-the-hustler-2023",
+                                "title": "Kelsey Cook: The Hustler",
+                                "thumbnail_url": "https://images.movembed.cc//cover/kelsey-cook-the-hustler-2023-1688204727.jpg"
+                            },
+                            {
+                                "url": "/videos/pamfir-2022",
+                                "title": "Pamfir",
+                                "thumbnail_url": "https://images.movembed.cc//cover/pamfir-2022-1688204727.jpg"
+                            },
+                            {
+                                "url": "/videos/maquillame-otra-vez-2023",
+                                "title": "Maquíllame Otra Vez",
+                                "thumbnail_url": "https://images.movembed.cc//cover/maquillame-otra-vez-2023-1688204726.jpg"
+                            },
+                            {
+                                "url": "/videos/blood-flower-2023",
+                                "title": "Blood Flower",
+                                "thumbnail_url": "https://images.movembed.cc//cover/blood-flower-2023-1688204726.jpg"
+                            },
+                            {
+                                "url": "/videos/da-grandi-2023",
+                                "title": "Da grandi",
+                                "thumbnail_url": "https://images.movembed.cc//cover/da-grandi-2023-1688204725.jpg"
+                            },
+                            {
+                                "url": "/videos/afwaah-2023",
+                                "title": "Afwaah",
+                                "thumbnail_url": "https://images.movembed.cc//cover/afwaah-2023-1688204725.jpg"
+                            },
+                            {
+                                "url": "/videos/200-pounds-beauty-2023",
+                                "title": "200 Pounds Beauty",
+                                "thumbnail_url": "https://images.movembed.cc//cover/200-pounds-beauty-2023-1688204724.jpg"
+                            },
+                            {
                                 "url": "/videos/sins-of-the-preachers-wife-2023",
                                 "title": "Sins of the Preacher's Wife",
                                 "thumbnail_url": "https://images.movembed.cc//cover/sins-of-the-preachers-wife-2023-1688188824.jpg"
+                            },
+                            {
+                                "url": "/videos/daniel-1984",
+                                "title": "Daniel",
+                                "thumbnail_url": "https://images.movembed.cc//cover/daniel-1984-1688184325.jpg"
                             },
                             {
                                 "url": "/videos/1000-a-minute-1935",
@@ -115,46 +155,6 @@
                                 "url": "/videos/sneaky-links-2023",
                                 "title": "Sneaky Links",
                                 "thumbnail_url": "https://images.movembed.cc//cover/sneaky-links-2023-1687916125.jpg"
-                            },
-                            {
-                                "url": "/videos/a-better-man-2019",
-                                "title": "A Better Man",
-                                "thumbnail_url": "https://images.movembed.cc//cover/a-better-man-2019-1687916124.jpg"
-                            },
-                            {
-                                "url": "/videos/sheroes-2023",
-                                "title": "Sheroes",
-                                "thumbnail_url": "https://images.movembed.cc//cover/sheroes-2023-1687879525.jpg"
-                            },
-                            {
-                                "url": "/videos/resurrected-2023",
-                                "title": "Resurrected",
-                                "thumbnail_url": "https://images.movembed.cc//cover/resurrected-2023-1687879524.jpg"
-                            },
-                            {
-                                "url": "/videos/gabriels-redemption-part-one-2023",
-                                "title": "Gabriel's Redemption: Part One",
-                                "thumbnail_url": "https://images.movembed.cc//cover/gabriels-redemption-part-one-2023-1687877724.jpg"
-                            },
-                            {
-                                "url": "/videos/an-unforgettable-year-spring-2023",
-                                "title": "An Unforgettable Year: Spring",
-                                "thumbnail_url": "https://images.movembed.cc//cover/an-unforgettable-year-spring-2023-1687874426.jpg"
-                            },
-                            {
-                                "url": "/videos/take-care-of-maya-2023",
-                                "title": "Take Care of Maya",
-                                "thumbnail_url": "https://images.movembed.cc//cover/take-care-of-maya-2023-1687828525.jpg"
-                            },
-                            {
-                                "url": "/videos/all-aboard-for-love-2023",
-                                "title": "All Aboard for Love",
-                                "thumbnail_url": "https://images.movembed.cc//cover/all-aboard-for-love-2023-1687770631.jpg"
-                            },
-                            {
-                                "url": "/videos/singh-is-bliing-2015",
-                                "title": "Singh Is Bliing",
-                                "thumbnail_url": "https://images.movembed.cc//cover/singh-is-bliing-2015-1687770326.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,20 +324,35 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/sins-of-the-preachers-wife-2023",
-                    "title": "Sins of the Preacher's Wife",
-                    "description": "Follows a a young woman who enrolls her baby in a day care program at a local church, but the preacher's wife becomes obsessed with the baby and tries to frame the woman as an unfit mother.",
+                    "url": "/videos/kelsey-cook-the-hustler-2023",
+                    "title": "Kelsey Cook: The Hustler",
+                    "description": "Kelsey got divorced one week before the pandemic. Perfect timing. So while her friends used the time to get sober or get fit, Kelsey spent the pandemic getting used to divorced life. Hear about it in her hilarious new hour, The Hu...",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/kelsey-cook-the-hustler-2023",
+                        "name": "Kelsey Cook: The Hustler",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/4valyQlLLbtKj4p/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/4valyQlLLbtKj4p/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NjE2"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
