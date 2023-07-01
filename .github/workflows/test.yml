@@ -29,7 +29,7 @@ jobs:
       - name: generate matrix
         id: gen-matrix
         run: |
-          wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
+          wget 'https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/index.min.json'
 
           BATCHES=$(jq -cr '
           {
@@ -82,7 +82,7 @@ jobs:
           INDEX=$(jq -cr '.index' <<< $APKS)
           echo "index=$INDEX" >> $GITHUB_OUTPUT
           jq -cr '.apks | .[]' <<< $APKS | while read link; do
-            wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$link -P apk/
+            wget https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/$link -P apk/
           done
 
       - name: test apks
