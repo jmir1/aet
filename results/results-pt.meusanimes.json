@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/genjitsu-no-yohane-sunshine-in-the-mirror-todos-os-episodios",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                                "thumbnail_url": "https://animefire.net/img/animes/genjitsu-no-yohane-sunshine-in-the-mirror.jpg"
+                            },
+                            {
                                 "url": "/animes/one-piece-todos-os-episodios",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://animefire.net/img/animes/one-piece.webp"
@@ -52,12 +57,12 @@
                                 "thumbnail_url": "https://animefire.net/img/animes/jigokuraku.jpg"
                             },
                             {
-                                "url": "/animes/mashle-todos-os-episodios",
-                                "title": "Mashle",
-                                "thumbnail_url": "https://animefire.net/img/animes/mashle.jpg"
+                                "url": "/animes/genjitsu-no-yohane-sunshine-in-the-mirror-todos-os-episodios",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                                "thumbnail_url": "https://animefire.net/img/animes/genjitsu-no-yohane-sunshine-in-the-mirror.jpg"
                             },
                             {
-                                "url": "/animes/mashle-todos-os-episodios",
+                                "url": "/animes/mashle-dublado-todos-os-episodios",
                                 "title": "Mashle",
                                 "thumbnail_url": "https://animefire.net/img/animes/mashle.jpg"
                             },
@@ -110,11 +115,6 @@
                                 "url": "/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-todos-os-episodios",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
                                 "thumbnail_url": "https://animefire.net/img/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.jpg"
-                            },
-                            {
-                                "url": "/animes/hataraku-maou-sama-2nd-season-todos-os-episodios",
-                                "title": "Hataraku Maou-sama!! 2nd Season",
-                                "thumbnail_url": "https://animefire.net/img/animes/hataraku-maou-sama-2nd-season.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -364,44 +364,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/one-piece-todos-os-episodios",
-                    "title": "One Piece",
-                    "description": "Gol D. Roger era conhecido como o \"Rei dos Piratas\", o ser mais forte e infame que navegou na Grand Line. A captura e execução de Roger pelo Governo Mundial trouxe uma mudança em todo o mundo. Suas últimas palavras antes de sua morte revelaram a existência do maior tesouro do mundo, One Piece. Foi essa revelação que trouxe a Grande Era dos Piratas, homens que sonhavam em encontrar One Piece - que promete uma quantidade ilimitada de riquezas e fama - e muito possivelmente o auge da glória e o título de Rei dos Piratas. Entra Monkey D. Luffy, um garoto de 17 anos que desafia sua definição padrão de pirata. Em vez da personalidade popular de um pirata perverso, endurecido e desdentado que saqueia vilas para se divertir, a razão de Luffy ser um pirata é pura maravilha: o pensamento de uma aventura emocionante que o leva a pessoas intrigantes e, finalmente, ao tesouro prometido. Seguindo os passos de seu herói de infância, Luffy e sua tripulação viajam pela Grand Line, experimentando aventuras loucas, revelando mistérios sombrios e lutando contra inimigos fortes, tudo para alcançar a mais cobiçada de todas as fortunas - One Piece.",
-                    "genre": "acao, aventura, comedia, superpoder, drama, fantasia, shounen",
-                    "thumbnail_url": "https://animefire.net/img/animes/one-piece.webp",
+                    "url": "/animes/genjitsu-no-yohane-sunshine-in-the-mirror-todos-os-episodios",
+                    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                    "description": "Ninguém conhece a história da menina que todo mundo conhece. Numazu é uma pitoresca cidade portuária cercada por montanhas e pelo mar. Yohane, uma garota que luta para se encaixar no ambiente desde a infância, passa o dia evitando as pessoas da cidade. O que eu quero fazer, meu verdadeiro paradeiro, isto é... Caminhar com uma garota que não pode ser honesta, em um mundo misterioso que você conhece. Mais um sol que acaba de aparecer.",
+                    "genre": "fantasia",
+                    "thumbnail_url": "https://animefire.net/img/animes/genjitsu-no-yohane-sunshine-in-the-mirror.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/animes/one-piece/1067",
-                        "name": "Episódio 1067",
-                        "episode_number": 1067.0
-                    },
-                    {
-                        "url": "/animes/one-piece/1066",
-                        "name": "Episódio 1066",
-                        "episode_number": 1066.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s2.starwatching.net/s1/mp4/one-piece/hd/1067.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://s2.starwatching.net/s1/mp4/one-piece/hd/1067.mp4"
-                    },
-                    {
-                        "url": "https://s2.starwatching.net/s1/mp4/one-piece/sd/1067.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://s2.starwatching.net/s1/mp4/one-piece/sd/1067.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
