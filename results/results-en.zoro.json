@@ -307,14 +307,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/11/63/1163cc1867f3bf59b4ddb65f3c937330/1163cc1867f3bf59b4ddb65f3c937330.jpg"
                             },
                             {
-                                "url": "/mobile-suit-gundam-the-witch-from-mercury-season-2-18353",
-                                "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/29/02/2902c9f658d71953c9f48836b97de08c/2902c9f658d71953c9f48836b97de08c.jpg"
-                            },
-                            {
                                 "url": "/the-girl-downstairs-18399",
                                 "title": "Aishang Ta de Liyou",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3c/49/3c49d4e7cade168275327b452771c506/3c49d4e7cade168275327b452771c506.jpg"
+                            },
+                            {
+                                "url": "/mobile-suit-gundam-the-witch-from-mercury-season-2-18353",
+                                "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/29/02/2902c9f658d71953c9f48836b97de08c/2902c9f658d71953c9f48836b97de08c.jpg"
                             },
                             {
                                 "url": "/doraemon-2005-1551",
@@ -340,6 +340,11 @@
                                 "url": "/swallowed-star-2nd-season-18018",
                                 "title": "Tunshi Xingkong 2nd Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/23/cc/23cc8e120b74d5fc55050b0e88f00758/23cc8e120b74d5fc55050b0e88f00758.jpg"
+                            },
+                            {
+                                "url": "/horimiya-the-missing-pieces-18421",
+                                "title": "Horimiya: Piece",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/72/36/72361e83f05933d5e335b0a3ab18baa4/72361e83f05933d5e335b0a3ab18baa4.jpg"
                             },
                             {
                                 "url": "/delicious-partyprecure-17945",
@@ -382,6 +387,11 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/9c/92/9c927d8b129c4ed946daaa19f8c1f9fb/9c927d8b129c4ed946daaa19f8c1f9fb.png"
                             },
                             {
+                                "url": "/am-i-actually-the-strongest-18481",
+                                "title": "Jitsu wa Ore, Saikyou deshita?",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b1/73/b173b01485c89ff35115d0a73ed50d48/b173b01485c89ff35115d0a73ed50d48.jpg"
+                            },
+                            {
                                 "url": "/blade-runner-black-lotus-15664",
                                 "title": "Blade Runner: Black Lotus",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ef/00/ef0005a77c37e63759499201b781a2eb/ef0005a77c37e63759499201b781a2eb.jpg"
@@ -405,16 +415,6 @@
                                 "url": "/legend-of-immortals-5th-season-18328",
                                 "title": "Xingchen Bian 5th Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7e/10/7e107ae2a65f51af081391c2135ed884/7e107ae2a65f51af081391c2135ed884.jpg"
-                            },
-                            {
-                                "url": "/bakugan-evolutions-18037",
-                                "title": "Bakugan: Evolutions",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/4a/4f/4a4f42f4670502584b7381d19cf788ed/4a4f42f4670502584b7381d19cf788ed.jpg"
-                            },
-                            {
-                                "url": "/mix-meisei-story-2nd-season-18376",
-                                "title": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/25/80/2580e588517ce6b945ed462357ede33d/2580e588517ce6b945ed462357ede33d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -629,14 +629,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/one-piece-100?ep=102226",
+                        "name": "Episode 1067: To the New Era! Settled! The Determination of the Brats",
+                        "episode_number": 1067.0
+                    },
+                    {
                         "url": "/watch/one-piece-100?ep=102117",
                         "name": "Episode 1066: Here Comes the Main Act! Powerful Techniques of Shockwave and Magnetism",
                         "episode_number": 1066.0
-                    },
-                    {
-                        "url": "/watch/one-piece-100?ep=102008",
-                        "name": "Episode 1065: The Destruction of the Alliance?! Fire Up, the Will of the New Generation!",
-                        "episode_number": 1065.0
                     }
                 ],
                 "passed": true
@@ -644,68 +644,92 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://tc-1.dayimage.net/_v6/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d59a7eb3244ca471329cf52f9ee571cc77438e6d8578add02319148fd949ce0ca8c872bfa54bb0df26886219746fa8e9f88c02bcc363d3b00d8e94a9ffeb17cc198ff0e3e3b1d0a3c5247debf43a2872eb/index-f2-v1-a1.m3u8",
+                        "url": "https://tc-1.dayimage.net/_v6/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeeda13fe959478a4469392a13a87b3be765e1add47dbea36a62592e1c8bf0a19d029df5eae76f5b0f365cc0c35215df15848c6688d9832e84db26c933ef69167568358b9ef4096da356435533fc8514fb36/index-f2-v1-a1.m3u8",
                         "quality": "Vidstreaming - 720p - sub",
-                        "videoUrl": "https://tc-1.dayimage.net/_v6/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d59a7eb3244ca471329cf52f9ee571cc77438e6d8578add02319148fd949ce0ca8c872bfa54bb0df26886219746fa8e9f88c02bcc363d3b00d8e94a9ffeb17cc198ff0e3e3b1d0a3c5247debf43a2872eb/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://tc-1.dayimage.net/_v6/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeeda13fe959478a4469392a13a87b3be765e1add47dbea36a62592e1c8bf0a19d029df5eae76f5b0f365cc0c35215df15848c6688d9832e84db26c933ef69167568358b9ef4096da356435533fc8514fb36/index-f2-v1-a1.m3u8",
                         "subtitleTracks": [
                             {
-                                "url": "https://cc.zorores.com/8f/cc/8fcc85f4449b6422b443ba44bddff8d3/eng-2.vtt",
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/eng-2.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/por-3.vtt",
+                                "lang": "Portuguese - Portuguese(Brazil)"
                             }
                         ]
                     },
                     {
-                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d57865fe136bc8e6a8eede0888d75f143fae4f6482552a0702fda57042f2ecadb10261e2199b0200dbfa82d26e1a4c65fdef312970f67648fe1c25dac28cf348748388609059b23f4f696da3294d76f6ed7b5329b6f2f2f540194f0ef29bafbb29/index-f2-v1-a1.m3u8",
+                        "url": "https://c-an-ca2.betterstream.cc:2223/hls-playback/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeed5c35a7f7f20582efef8173bb7fac9da7a450f1571307da91b718df3127d265983b4bb5afa61300bb40ee5ec3aec012a1a4bc1909a1a59983dc7d63ce0e7d74707cf9fc0db7cd81990b32e29ae6361f64ec1c5519d75b5a03fa06d3df00a38447/index-f2-v1-a1.m3u8",
                         "quality": "Vidcloud - 720p - sub",
-                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d57865fe136bc8e6a8eede0888d75f143fae4f6482552a0702fda57042f2ecadb10261e2199b0200dbfa82d26e1a4c65fdef312970f67648fe1c25dac28cf348748388609059b23f4f696da3294d76f6ed7b5329b6f2f2f540194f0ef29bafbb29/index-f2-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca2.betterstream.cc:2223/hls-playback/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeed5c35a7f7f20582efef8173bb7fac9da7a450f1571307da91b718df3127d265983b4bb5afa61300bb40ee5ec3aec012a1a4bc1909a1a59983dc7d63ce0e7d74707cf9fc0db7cd81990b32e29ae6361f64ec1c5519d75b5a03fa06d3df00a38447/index-f2-v1-a1.m3u8",
                         "subtitleTracks": [
                             {
-                                "url": "https://cc.zorores.com/8f/cc/8fcc85f4449b6422b443ba44bddff8d3/eng-2.vtt",
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/eng-2.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/por-3.vtt",
+                                "lang": "Portuguese - Portuguese(Brazil)"
                             }
                         ]
                     },
                     {
-                        "url": "https://tc-1.dayimage.net/_v6/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d59a7eb3244ca471329cf52f9ee571cc77438e6d8578add02319148fd949ce0ca8c872bfa54bb0df26886219746fa8e9f88c02bcc363d3b00d8e94a9ffeb17cc198ff0e3e3b1d0a3c5247debf43a2872eb/index-f1-v1-a1.m3u8",
+                        "url": "https://tc-1.dayimage.net/_v6/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeeda13fe959478a4469392a13a87b3be765e1add47dbea36a62592e1c8bf0a19d029df5eae76f5b0f365cc0c35215df15848c6688d9832e84db26c933ef69167568358b9ef4096da356435533fc8514fb36/index-f1-v1-a1.m3u8",
                         "quality": "Vidstreaming - 1080p - sub",
-                        "videoUrl": "https://tc-1.dayimage.net/_v6/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d59a7eb3244ca471329cf52f9ee571cc77438e6d8578add02319148fd949ce0ca8c872bfa54bb0df26886219746fa8e9f88c02bcc363d3b00d8e94a9ffeb17cc198ff0e3e3b1d0a3c5247debf43a2872eb/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://tc-1.dayimage.net/_v6/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeeda13fe959478a4469392a13a87b3be765e1add47dbea36a62592e1c8bf0a19d029df5eae76f5b0f365cc0c35215df15848c6688d9832e84db26c933ef69167568358b9ef4096da356435533fc8514fb36/index-f1-v1-a1.m3u8",
                         "subtitleTracks": [
                             {
-                                "url": "https://cc.zorores.com/8f/cc/8fcc85f4449b6422b443ba44bddff8d3/eng-2.vtt",
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/eng-2.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/por-3.vtt",
+                                "lang": "Portuguese - Portuguese(Brazil)"
                             }
                         ]
                     },
                     {
-                        "url": "https://tc-1.dayimage.net/_v6/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d59a7eb3244ca471329cf52f9ee571cc77438e6d8578add02319148fd949ce0ca8c872bfa54bb0df26886219746fa8e9f88c02bcc363d3b00d8e94a9ffeb17cc198ff0e3e3b1d0a3c5247debf43a2872eb/index-f3-v1-a1.m3u8",
+                        "url": "https://tc-1.dayimage.net/_v6/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeeda13fe959478a4469392a13a87b3be765e1add47dbea36a62592e1c8bf0a19d029df5eae76f5b0f365cc0c35215df15848c6688d9832e84db26c933ef69167568358b9ef4096da356435533fc8514fb36/index-f3-v1-a1.m3u8",
                         "quality": "Vidstreaming - 360p - sub",
-                        "videoUrl": "https://tc-1.dayimage.net/_v6/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d59a7eb3244ca471329cf52f9ee571cc77438e6d8578add02319148fd949ce0ca8c872bfa54bb0df26886219746fa8e9f88c02bcc363d3b00d8e94a9ffeb17cc198ff0e3e3b1d0a3c5247debf43a2872eb/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://tc-1.dayimage.net/_v6/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeeda13fe959478a4469392a13a87b3be765e1add47dbea36a62592e1c8bf0a19d029df5eae76f5b0f365cc0c35215df15848c6688d9832e84db26c933ef69167568358b9ef4096da356435533fc8514fb36/index-f3-v1-a1.m3u8",
                         "subtitleTracks": [
                             {
-                                "url": "https://cc.zorores.com/8f/cc/8fcc85f4449b6422b443ba44bddff8d3/eng-2.vtt",
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/eng-2.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/por-3.vtt",
+                                "lang": "Portuguese - Portuguese(Brazil)"
                             }
                         ]
                     },
                     {
-                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d57865fe136bc8e6a8eede0888d75f143fae4f6482552a0702fda57042f2ecadb10261e2199b0200dbfa82d26e1a4c65fdef312970f67648fe1c25dac28cf348748388609059b23f4f696da3294d76f6ed7b5329b6f2f2f540194f0ef29bafbb29/index-f1-v1-a1.m3u8",
+                        "url": "https://c-an-ca2.betterstream.cc:2223/hls-playback/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeed5c35a7f7f20582efef8173bb7fac9da7a450f1571307da91b718df3127d265983b4bb5afa61300bb40ee5ec3aec012a1a4bc1909a1a59983dc7d63ce0e7d74707cf9fc0db7cd81990b32e29ae6361f64ec1c5519d75b5a03fa06d3df00a38447/index-f1-v1-a1.m3u8",
                         "quality": "Vidcloud - 1080p - sub",
-                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d57865fe136bc8e6a8eede0888d75f143fae4f6482552a0702fda57042f2ecadb10261e2199b0200dbfa82d26e1a4c65fdef312970f67648fe1c25dac28cf348748388609059b23f4f696da3294d76f6ed7b5329b6f2f2f540194f0ef29bafbb29/index-f1-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca2.betterstream.cc:2223/hls-playback/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeed5c35a7f7f20582efef8173bb7fac9da7a450f1571307da91b718df3127d265983b4bb5afa61300bb40ee5ec3aec012a1a4bc1909a1a59983dc7d63ce0e7d74707cf9fc0db7cd81990b32e29ae6361f64ec1c5519d75b5a03fa06d3df00a38447/index-f1-v1-a1.m3u8",
                         "subtitleTracks": [
                             {
-                                "url": "https://cc.zorores.com/8f/cc/8fcc85f4449b6422b443ba44bddff8d3/eng-2.vtt",
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/eng-2.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/por-3.vtt",
+                                "lang": "Portuguese - Portuguese(Brazil)"
                             }
                         ]
                     },
                     {
-                        "url": "https://c-an-ca3.betterstream.cc:2223/hls-playback/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d57865fe136bc8e6a8eede0888d75f143fae4f6482552a0702fda57042f2ecadb10261e2199b0200dbfa82d26e1a4c65fdef312970f67648fe1c25dac28cf348748388609059b23f4f696da3294d76f6ed7b5329b6f2f2f540194f0ef29bafbb29/index-f3-v1-a1.m3u8",
+                        "url": "https://c-an-ca2.betterstream.cc:2223/hls-playback/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeed5c35a7f7f20582efef8173bb7fac9da7a450f1571307da91b718df3127d265983b4bb5afa61300bb40ee5ec3aec012a1a4bc1909a1a59983dc7d63ce0e7d74707cf9fc0db7cd81990b32e29ae6361f64ec1c5519d75b5a03fa06d3df00a38447/index-f3-v1-a1.m3u8",
                         "quality": "Vidcloud - 360p - sub",
-                        "videoUrl": "https://c-an-ca3.betterstream.cc:2223/hls-playback/37e696b4e6141426a49a4bc18e7d2b4fab9ee94d9f7731d36379f0d8013d75e7de744e691f4b088b568735951f50a9d57865fe136bc8e6a8eede0888d75f143fae4f6482552a0702fda57042f2ecadb10261e2199b0200dbfa82d26e1a4c65fdef312970f67648fe1c25dac28cf348748388609059b23f4f696da3294d76f6ed7b5329b6f2f2f540194f0ef29bafbb29/index-f3-v1-a1.m3u8",
+                        "videoUrl": "https://c-an-ca2.betterstream.cc:2223/hls-playback/941db288f62e22975c98eb597bac081b9d53ff4b2c517424fb6d340c675e354632d166b72b994266578ac3dfa1f0aeed5c35a7f7f20582efef8173bb7fac9da7a450f1571307da91b718df3127d265983b4bb5afa61300bb40ee5ec3aec012a1a4bc1909a1a59983dc7d63ce0e7d74707cf9fc0db7cd81990b32e29ae6361f64ec1c5519d75b5a03fa06d3df00a38447/index-f3-v1-a1.m3u8",
                         "subtitleTracks": [
                             {
-                                "url": "https://cc.zorores.com/8f/cc/8fcc85f4449b6422b443ba44bddff8d3/eng-2.vtt",
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/eng-2.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.zorores.com/3d/85/3d8546e6361651959f51a19c64e8b1f0/por-3.vtt",
+                                "lang": "Portuguese - Portuguese(Brazil)"
                             }
                         ]
                     }

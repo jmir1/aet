@@ -325,20 +325,15 @@
             "details": {
                 "result": {
                     "url": "/videos/kelsey-cook-the-hustler-2023",
-                    "description": "",
+                    "title": "Kelsey Cook: The Hustler",
+                    "description": "Kelsey got divorced one week before the pandemic. Perfect timing. So while her friends used the time to get sober or get fit, Kelsey spent the pandemic getting used to divorced life. Hear about it in her hilarious new hour, The Hu...",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/kelsey-cook-the-hustler-2023",
-                        "name": "Kelsey Cook: The Hustler",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",

@@ -267,6 +267,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/One-Piece.54191/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
+                            },
+                            {
+                                "url": "/Anime/Atelier-Ryza-Ever-Darkness-amp-the-Secret-Hideout-The-Animation/",
+                                "title": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Atelier-Ryza-Ever-Darkness-amp-the-Secret-Hideout-The-Animation.jpg"
+                            },
+                            {
+                                "url": "/Anime/Soaring-Sky-Pretty-Cure/",
+                                "title": "Soaring Sky! Pretty Cure",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
+                            },
+                            {
+                                "url": "/Anime/Uchi-no-Kaisha-no-Chiisai-Senpai-no-Hanashi/",
+                                "title": "My Company's Small Senpai",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/My-Company-s-Small-Senpai.jpg"
+                            },
+                            {
+                                "url": "/Anime/AYAKA/",
+                                "title": "AYAKA",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/AYAKA.jpg"
+                            },
+                            {
+                                "url": "/Anime/EDENS-ZERO-2nd-Season/",
+                                "title": "EDENS ZERO Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/EDENS-ZERO-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Horimiya-piece/",
+                                "title": "Horimiya -piece-",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Horimiya-piece.jpg"
+                            },
+                            {
                                 "url": "/Anime/hells-paradise.24557/",
                                 "title": "Hell’s Paradise",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Hells-Paradise.jpg"
@@ -480,41 +515,6 @@
                                 "url": "/Anime/Tengoku-Daimakyou/",
                                 "title": "Heavenly Delusion",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/Heavenly-Delusion.jpg"
-                            },
-                            {
-                                "url": "/Anime/Princess-Principal-Crown-Handler-Chapter-3/",
-                                "title": "Princess Principal: Crown Handler - Chapter 3",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Princess-Principal-Crown-Handler-Chapter-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/YOHANE-THE-PARHELION-SUNSHINE-in-the-MIRROR/",
-                                "title": "YOHANE THE PARHELION -SUNSHINE in the MIRROR",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/YOHANE-THE-PARHELION-SUNSHINE-in-the-MIRROR.jpg"
-                            },
-                            {
-                                "url": "/Anime/yugioh-go-rush.59521/",
-                                "title": "Yu☆Gi☆Oh! Go Rush!!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/04/YuGiOh-Go-Rush.jpg"
-                            },
-                            {
-                                "url": "/Anime/Backflip-The-Movie/",
-                                "title": "Backflip!! The Movie",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Backflip-The-Movie.jpg"
-                            },
-                            {
-                                "url": "/Anime/Hula-Fulla-Dance/",
-                                "title": "Hula Fulla Dance",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Hula-Fulla-Dance.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chibi-Maruko-chan/",
-                                "title": "Little Miss Maruko",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/12/Chibi-Maruko-chan.jpg"
-                            },
-                            {
-                                "url": "/Anime/Raccoon-Rascal/",
-                                "title": "Raccoon Rascal",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/02/Raccoon-Rascal.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....[0].appendChild(cpo);\n    }());\n</script>\n\n\n</body>\n</html>\n",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
