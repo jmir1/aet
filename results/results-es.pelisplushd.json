@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/celebrity",
+                                "title": "Celebrity (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/43VK4sSnpGqAldrTksK3xLFdcHt.jpg"
+                            },
+                            {
+                                "url": "/serie/nos-vemos-en-mi-19a-vida",
+                                "title": "Nos vemos en mi 19.ª vida (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fnukUdRynWbtkdfXuWn3zZLfYav.jpg"
+                            },
+                            {
                                 "url": "/serie/joe-pickett",
                                 "title": "Joe Pickett (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/pWBCwK0lp5RLCyG89JzrhEVny47.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/break-point",
                                 "title": "Break Point (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3QNnzim79NqtIjzBKQRIQqY9YJ0.jpg"
-                            },
-                            {
-                                "url": "/serie/invasion-secreta",
-                                "title": "Invasión secreta (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg"
-                            },
-                            {
-                                "url": "/serie/las-brujas-de-mayfair",
-                                "title": "Las brujas de Mayfair (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pCaaaWAJblYzZ3odgq1HYP4P49.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/joe-pickett",
-                    "title": "Joe Pickett (2021)",
-                    "description": "JOE PICKETT es un drama de suspenso que gira en torno a un crimen en el contexto épico de un western. Como nuevo guarda de caza de Saddlestring, Wyoming, Joe debe investigar un homicidio que lo afecta personalmente y pone a su familia en riesgo..",
-                    "genre": "Drama, Western",
+                    "url": "/serie/celebrity",
+                    "title": "Celebrity (2023)",
+                    "description": "Fama, dinero, poder. Una joven lucha para convertirse en la nueva celebridad de moda en el glamoroso (y escandaloso) mundo de los influencers de Seúl..",
+                    "genre": "Drama, Misterio",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pWBCwK0lp5RLCyG89JzrhEVny47.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/43VK4sSnpGqAldrTksK3xLFdcHt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/joe-pickett/temporada/1/capitulo/10",
-                        "name": "T1 - E10: Episodio 10",
-                        "episode_number": 10.0
+                        "url": "/serie/celebrity/temporada/1/capitulo/12",
+                        "name": "T1 - E12: Episodio 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/serie/joe-pickett/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/celebrity/temporada/1/capitulo/11",
+                        "name": "T1 - E11: Episodio 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -293,31 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery428.akamai-video-content.com/hls2/01/13325/4lz2mb5gi1p1_n/index-v1-a1.m3u8?t=FQCmCwlvW0JQMvgxTphrFsKnThxv5DWO68Ia7KW5JLs&s=1688234873&e=10800&f=66627282&srv=sto035&client=104.45.204.176&asn=8075",
-                        "quality": "StreamSB:640p",
-                        "videoUrl": "https://delivery428.akamai-video-content.com/hls2/01/13325/4lz2mb5gi1p1_n/index-v1-a1.m3u8?t=FQCmCwlvW0JQMvgxTphrFsKnThxv5DWO68Ia7KW5JLs&s=1688234873&e=10800&f=66627282&srv=sto035&client=104.45.204.176&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/4lz2mb5gi1p1?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery428.akamai-video-content.com/hls2/01/13325/4lz2mb5gi1p1_l/index-v1-a1.m3u8?t=FQCmCwlvW0JQMvgxTphrFsKnThxv5DWO68Ia7KW5JLs&s=1688234873&e=10800&f=66627282&srv=sto035&client=104.45.204.176&asn=8075",
-                        "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery428.akamai-video-content.com/hls2/01/13325/4lz2mb5gi1p1_l/index-v1-a1.m3u8?t=FQCmCwlvW0JQMvgxTphrFsKnThxv5DWO68Ia7KW5JLs&s=1688234873&e=10800&f=66627282&srv=sto035&client=104.45.204.176&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/4lz2mb5gi1p1?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=vVapOV4l4jT4qwJ&expires=1688304874&ip=F0OSKRqOKxSHDN&token=CrWOrQhkhMHw",
+                        "url": "https://streamtape.com/get_video?id=Pv4y2zwwZoC03jD&expires=1688328602&ip=G0WsD0EAKxSHDN&token=7oYp10ZLc4VH",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vVapOV4l4jT4qwJ&expires=1688304874&ip=F0OSKRqOKxSHDN&token=CrWOrQhkhMHw"
+                        "videoUrl": "https://streamtape.com/get_video?id=Pv4y2zwwZoC03jD&expires=1688328602&ip=G0WsD0EAKxSHDN&token=7oYp10ZLc4VH"
                     }
                 ],
                 "passed": true

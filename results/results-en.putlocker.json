@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/one-piece-39514/",
+                                "title": "One Piece - Season 21",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/75e0bfae315594720f884d77f482e63f.jpg"
+                            },
+                            {
                                 "url": "/film/prank-or-tank-97927/",
                                 "title": "Prank or Tank - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/a69f7a81e83841eb3a27d1f72b8af16d.jpg"
@@ -204,11 +209,6 @@
                                 "url": "/film/numbers-97711/",
                                 "title": "Numbers - Season 1",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/4a175a5fe869da447c25c5a8f8b9c0fe.jpg"
-                            },
-                            {
-                                "url": "/film/confidential-informant-97858/",
-                                "title": "Confidential Informant",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/fe6434ed5fc9d2d6842d1a792d310c62.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -428,11 +428,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/prank-or-tank-97927/",
-                    "title": "Prank or Tank",
+                    "url": "/film/one-piece-39514/",
+                    "title": "One Piece",
                     "author": "",
-                    "description": "Escorpión Dorado and Facundo end their rivalry and sign a contract committing to compete in ten extreme challenges designed by their celebrity friends, who want to see them suffer. Road tripping, competing, earning money, and being punished is the only way to prove who's the real god and who's the mere mortal.\n\nQuality: HD\nRelease: 2023-06-15\nIMDb: n/a",
-                    "genre": "Reality",
+                    "description": "Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new pirate king. Monkey D. Luffy, a boy who consumed one of the \"Devil's Fruits\", has it in his head that he'll follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Monkey D. Luffy brings a bunch of his crew followed by, Roronoa Zoro, Nami, Usopp, Sanji, Tony-Tony Chopper, Nico Robin, Franky, and Brook. They will do anything to get the One Piece and become King of the Pirates!\n\nQuality: HD\nRelease: 1999-10-20\nIMDb: 8.9",
+                    "genre": "Action & Adventure, Comedy, Animation",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -440,11 +440,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":0,\"ids\":[\"39514_0_1\",\"39514_0_2\",\"39514_0_3\"]}",
+                        "name": "Movie",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
