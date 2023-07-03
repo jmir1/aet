@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/sheroes/",
+                                "title": "Sheroes",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xRXFksYHs1lVQcs2dbX56bYs3IxfRx7feUKpdzWvq8.webp"
+                            },
+                            {
+                                "url": "/pelicula/confidential-informant/",
+                                "title": "Confidential Informant",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/jSPb4sNQkSxGqiFpsfEDLHfIVQZqF.webp"
+                            },
+                            {
+                                "url": "/pelicula/fate-strange-fake-whispers-of-dawn/",
+                                "title": "Fate/strange Fake -Whispers of Dawn-",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/LF1hAF4cmuvjrj3JdiuE5C0PWxTosn74SYcjt.webp"
+                            },
+                            {
                                 "url": "/pelicula/indiana-jones-y-el-dial-del-destino/",
                                 "title": "Indiana Jones y el dial del destino",
                                 "description": "Quinta entrega de la saga 'Indiana Jones'.",
@@ -227,24 +245,6 @@
                                 "title": "You’re Killing Me",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/UNParDk9URMxtInnKYoFw63mEBERb4PWHuWYY6XJOA67.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-partido-del-siglo/",
-                                "title": "El partido del siglo",
-                                "description": "Basada en una historia real, narra los acontecimientos ocurridos durante el primer campeonato de fú...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/BOi6pUQTUrwKGuT4SVpLuWh1ZHY1tHTUm2RBNylyP.webp"
-                            },
-                            {
-                                "url": "/pelicula/love-weddings-other-disasters/",
-                                "title": "Love, Weddings & Other Disasters",
-                                "description": "La comedia romántica de varios pisos impulsada por mujeres sigue a las personas que trabajan para c...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/rdI8qgnqrwqzGgGfFBR3XeBImcD7E20W5zUmF7DWtT.webp"
-                            },
-                            {
-                                "url": "/pelicula/eden/",
-                                "title": "Edén",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/nj2Y9x69KmY2a7Or0pQNm7I0AQ196I0jRT7Rg3QQg.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/indiana-jones-y-el-dial-del-destino/",
-                    "title": "Indiana Jones y el dial del destino",
-                    "description": "Quinta entrega de la saga 'Indiana Jones'.",
-                    "genre": "Acción, Aventura, Estrenos",
+                    "url": "/pelicula/sheroes/",
+                    "title": "Sheroes",
+                    "description": "",
+                    "genre": "Acción, Comedia, Crimen",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/indiana-jones-y-el-dial-del-destino/",
+                        "url": "/pelicula/sheroes/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar WsejIgu = \"\"; pQTXsaRrJQ.forEach(function Oym(value) { WsejIgu += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar dsMvRLWPbG = \"\"; rUpHSYKbPw.forEach(function Oym(value) { dsMvRLWPbG += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

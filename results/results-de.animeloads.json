@@ -12,14 +12,9 @@
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mahoujin-guru-guru-2017-cover.jpg"
                             },
                             {
-                                "url": "/media/jitsu-wa-ore-saikyou-deshita-1",
-                                "title": "Am I Actually the Strongest?",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jitsu-wa-ore-saikyou-deshita-cover.png"
-                            },
-                            {
                                 "url": "/media/jitsu-wa-ore-saikyou-deshita",
                                 "title": "Am I Actually the Strongest?",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jitsu-wa-ore-saikyou-deshita-cover-1.jpg"
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-jitsu-wa-ore-saikyou-deshita-cover.jpg"
                             },
                             {
                                 "url": "/media/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
@@ -105,6 +100,11 @@
                                 "url": "/media/ousama-ranking-yuuki-no-takarabako",
                                 "title": "Ranking of Kings: The Treasure Chest of Courage",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ousama-ranking-yuuki-no-takarabako-cover.png"
+                            },
+                            {
+                                "url": "/media/kidou-senshi-gundam-suisei-no-majo-2023",
+                                "title": "Mobile Suit Gundam: The Witch from Mercury (Staffel 2)",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kidou-senshi-gundam-suisei-no-majo-2023-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,19 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=ZV6e2A9zZpsqXkL&expires=1688434577&ip=FROsExWnDS9X&token=uAUp90mlf9tm",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZV6e2A9zZpsqXkL&expires=1688434577&ip=FROsExWnDS9X&token=uAUp90mlf9tm"
-                    },
-                    {
-                        "url": "https://sizyreelingly.com/kphzqkp86e9h?Magical.Circle.Guru.Guru.S01E24.Ger.Eng.Sub.AAC.720p.WebDL.x264-Pudding-sama.mkv",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09176/kphzqkp86e9h_n/master.m3u8?t=zijcbTMpO_v3v5JZzaDYgbQXjxU9e8hUxIdflGTc9ZE&s=1688364576&e=14400&f=45880288&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.41&sp=3500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }
