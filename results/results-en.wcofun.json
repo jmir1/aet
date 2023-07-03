@@ -3,24 +3,150 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: bruh",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/storybots-answer-time",
+                                "title": "StoryBots: Answer Time",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932977.jpg"
+                            },
+                            {
+                                "url": "/anime/shape-island",
+                                "title": "Shape Island",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932976.jpg"
+                            },
+                            {
+                                "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
+                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932975.jpg"
+                            },
+                            {
+                                "url": "/anime/jitsu-wa-ore-saikyou-deshita",
+                                "title": "Jitsu wa Ore, Saikyou deshita?",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932974.jpg"
+                            },
+                            {
+                                "url": "/anime/ayaka",
+                                "title": "Ayaka English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932973.jpg"
+                            },
+                            {
+                                "url": "/anime/horimiya-piece",
+                                "title": "Horimiya: Piece English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932972.jpg"
+                            },
+                            {
+                                "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932971.jpg"
+                            },
+                            {
+                                "url": "/anime/bang-dream-its-mygo-english-subbed",
+                                "title": "BanG Dream! It's MyGO!!!! English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932970.jpg"
+                            },
+                            {
+                                "url": "/anime/ooku-the-inner-chambers",
+                                "title": "Ooku: The Inner Chambers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932969.jpg"
+                            },
+                            {
+                                "url": "/anime/ooku-the-inner-chambers-english-subbed",
+                                "title": "Ōoku: The Inner Chambers English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932967.jpg"
+                            },
+                            {
+                                "url": "/anime/the-great-wolf-pack",
+                                "title": "The Great Wolf Pack",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932966.jpg"
+                            },
+                            {
+                                "url": "/anime/saving-me",
+                                "title": "Saving Me",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932965.jpg"
+                            },
+                            {
+                                "url": "/anime/genjitsu-no-rimuru-sunshine-in-the-slime-english-subbed",
+                                "title": "Genjitsu no Rimuru: Sunshine in the Slime English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932964.jpg"
+                            },
+                            {
+                                "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror-english-subbed",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932963.jpg"
+                            },
+                            {
+                                "url": "/anime/this-world-cant-tear-me-down",
+                                "title": "This World Can't Tear Me Down",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg"
+                            },
+                            {
+                                "url": "/anime/skull-island",
+                                "title": "Skull Island",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932961.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/anime/storybots-answer-time",
+                    "title": "StoryBots: Answer Time",
+                    "description": "Got a question? The StoryBots have an answer! Join curious friends Beep, Boop, Bing, Bang and Bo on fun adventures to find facts for real kids like you. The StoryBots are answering tough questions and delivering so many laughs that kids won’t even realize they’re learning.",
+                    "genre": "Animation, Comedy, Educational, Kids, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932977.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/storybots-answer-time-episode-10-gps",
+                        "name": "Episode 10 GPS",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/storybots-answer-time-episode-9-dizzy",
+                        "name": "Episode 9 Dizzy",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjcTCCcz342flPVl6OZsE6-3RhBPyv5bA1lookM-zqiOArz8Y7kn1ikL9JCkMYrWYrYqy69ps8mGt6GpW7ktIaGN8xgUAWwNLRryxy19VTHCcWg6weMj-NvWS9qhEpQsST3juef5FynT8Q-IM_I2NeLt6SHXfnCCNnP97Rufgh5P4kEj82HUsIzuW0YEjoUQEGmKOYD1sYLPw9XcwWGVcIKX4PjMF6VvWq28q6TITRz_N_9DluEDqFmy56jAjfJ7ZnttvqM-5pXsQo_M0Ua6zpPlhxDSdZcIkGuV9dUcFn0zCQToneEWjCt3CyFVmcGoB7TXFC0smTmEfgTE2tzC11xjjlDzDSkl9aaJioYqgMv_0RZuSLQZ9LQz8YtzuVRpLQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjcTCCcz342flPVl6OZsE6-3RhBPyv5bA1lookM-zqiOArz8Y7kn1ikL9JCkMYrWYrYqy69ps8mGt6GpW7ktIaGN8xgUAWwNLRryxy19VTHCcWg6weMj-NvWS9qhEpQsST3juef5FynT8Q-IM_I2NeLt6SHXfnCCNnP97Rufgh5P4kEj82HUsIzuW0YEjoUQEGmKOYD1sYLPw9XcwWGVcIKX4PjMF6VvWq28q6TITRz_N_9DluEDqFmy56jAjfJ7ZnttvqM-5pXsQo_M0Ua6zpPlhxDSdZcIkGuV9dUcFn0zCQToneEWjCt3CyFVmcGoB7TXFC0smTmEfgTE2tzC11xjjlDzDSkl9aaJioYqgMv_0RZuSLQZ9LQz8YtzuVRpLQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjcTCCcz342flPVl6OZsE6-3RhBPyv5bA1lookM-zqiOArz8Y7kn1ikL9JCkMYrWYrYqy69ps8mGt6GpW7ktIaEFwtT6gLazPx9JyUaZx1GNf4AmkpADbf6jtnJm9HjIFXTPFOx3J7Vwd6SFkN9mMAm5uX4hxjUXqQ2RnHhIr60Fbb3T1PuNv2xM2O0Gr1qiu-Iw2zeUTTiU2P6UnMVyfBRXf3i0PJ058hHbtMZPTxH6O9zBDVvWg0wy2MPhhotM2PbfHW3myhu3UJ31a8qToXHxo3iLkOhF5xwDgrWRYRhZfUtdPlwLpeUvP3BqRMCS9J-6tavxZOeLAOcyeDLJEjbXQuQa77dgUgpi3nw1w1HCPEq6rBbYqkeV143_cb1RKw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjcTCCcz342flPVl6OZsE6-3RhBPyv5bA1lookM-zqiOArz8Y7kn1ikL9JCkMYrWYrYqy69ps8mGt6GpW7ktIaEFwtT6gLazPx9JyUaZx1GNf4AmkpADbf6jtnJm9HjIFXTPFOx3J7Vwd6SFkN9mMAm5uX4hxjUXqQ2RnHhIr60Fbb3T1PuNv2xM2O0Gr1qiu-Iw2zeUTTiU2P6UnMVyfBRXf3i0PJ058hHbtMZPTxH6O9zBDVvWg0wy2MPhhotM2PbfHW3myhu3UJ31a8qToXHxo3iLkOhF5xwDgrWRYRhZfUtdPlwLpeUvP3BqRMCS9J-6tavxZOeLAOcyeDLJEjbXQuQa77dgUgpi3nw1w1HCPEq6rBbYqkeV143_cb1RKw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjcTCCcz342flPVl6OZsE6-3RhBPyv5bA1lookM-zqiOArz8Y7kn1ikL9JCkMYrWYrYqy69ps8mGt6GpW7ktIaHxsPMGj0-O5PJ4Jq1drx9wjOUxcfrAq7MeQCvIG29Xwsyc7idcMGgrvZqfTs7hGRoFZIfvroQA7U1cha-ljtCSmWvEob2Te9fU9t7F44AbXW3tk3KWpAsoMav0t8pj2FbSBwMfuYF9OOsrS7ELA-pjHPqJtVUCcHtADKN1eHNzLXh5xRCEQVVZQZG_e4gS2BUsN59J4ye55juZRxvxxjnULv7V9yyxPIkV3xCs34qZH-kakgG4rxS7mskawpRlkrJYpUF8CZ8b3moOqzcqJdky",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjcTCCcz342flPVl6OZsE6-3RhBPyv5bA1lookM-zqiOArz8Y7kn1ikL9JCkMYrWYrYqy69ps8mGt6GpW7ktIaHxsPMGj0-O5PJ4Jq1drx9wjOUxcfrAq7MeQCvIG29Xwsyc7idcMGgrvZqfTs7hGRoFZIfvroQA7U1cha-ljtCSmWvEob2Te9fU9t7F44AbXW3tk3KWpAsoMav0t8pj2FbSBwMfuYF9OOsrS7ELA-pjHPqJtVUCcHtADKN1eHNzLXh5xRCEQVVZQZG_e4gS2BUsN59J4ye55juZRxvxxjnULv7V9yyxPIkV3xCs34qZH-kakgG4rxS7mskawpRlkrJYpUF8CZ8b3moOqzcqJdky"
+                    }
+                ],
+                "passed": true
             }
         }
     }

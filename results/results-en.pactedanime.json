@@ -77,6 +77,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/yohane-the-parhelion-sunshine-in-the-mirror-1x2/",
+                                "title": "Yohane the Parhelion -SUNSHINE in the MIRROR-: 1×2",
+                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/c4ZLPfXWYLkrOBvFNrQKwvnVev0-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/mushoku-tensei-jobless-reincarnation-2x0/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation: 2×0",
+                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/sS1weOK6y6lVIM3o5Izgmw0AV0T-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodes/atelier-ryza-ever-darkness-the-secret-hideout-the-animation-1x1/",
                                 "title": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation: 1×1",
                                 "thumbnail_url": "https://pactedanime.com/sukmydck/2023/07/6nGpxpvgfdMOJT2jUFCoJKlEaCx-300x170.jpg"
@@ -125,16 +135,6 @@
                                 "url": "/episodes/bang-dream-its-mygo-1x2/",
                                 "title": "BanG Dream! It’s MyGO!!!!!: 1×2",
                                 "thumbnail_url": "https://pactedanime.com/sukmydck/2023/06/visMF7rUidWlzX75ZiYdgz80Drr-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/bang-dream-its-mygo-1x1/",
-                                "title": "BanG Dream! It’s MyGO!!!!!: 1×1",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/06/aa9vGFIvQF2T3CDJisjz7h6cQG0-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/mashle-magic-and-muscles-1x12/",
-                                "title": "MASHLE: MAGIC AND MUSCLES: 1×12",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2023/06/71iETgbXw6FragBF5GoNyRqQWkN-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -213,42 +213,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/one-piece/",
-                    "title": "One Piece",
-                    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous “One Piece” behind. Whoever claims the “One Piece” will be named the new King of the Pirates.\n\nOriginal title: ワンピース\nFirst air date: Oct. 20, 1999\nLast air date: Apr. 16, 2023\nSeasons: 21\nEpisodes: 1061",
-                    "genre": "Action & Adventure, Animation, Comedy, Top Anime",
-                    "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-200x300.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/one-piece-21x1067/",
-                        "name": "Season 21 x 1067 - To the New Era! Settled! The Determination of the Brats",
-                        "date_upload": 1688256000000,
-                        "episode_number": 1067.0
-                    },
-                    {
-                        "url": "/episodes/one-piece-21x1066/",
-                        "name": "Season 21 x 1066 - Here Comes the Main Act! Powerful Techniques of Shockwave and Magnetism!",
-                        "date_upload": 1687651200000,
-                        "episode_number": 1066.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f2183a3a2bdd5fd55_d20230702_m034816_c004_v0402017_t0042_u01688269696442",
-                        "quality": "1080P",
-                        "videoUrl": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f2183a3a2bdd5fd55_d20230702_m034816_c004_v0402017_t0042_u01688269696442"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

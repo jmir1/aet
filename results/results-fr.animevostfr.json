@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/genjitsu-no-yohane-sunshine-in-the-mirror/",
+                                "title": "Genjitsu no Yohane -Sunshine in the Mirror-",
+                                "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/07/genjitsu_no_yohane_-sunshine_in_the_mirror-_11226.webp"
+                            },
+                            {
+                                "url": "/mushoku-tensei-saison-2/",
+                                "title": "Mushoku Tensei Saison 2",
+                                "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/07/mushoku_tensei_isekai_ittara_honki_dasu_2_11021.webp"
+                            },
+                            {
                                 "url": "/masamune-kuns-revenge-vf/",
                                 "title": "Masamune-kun’s Revenge VF",
                                 "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/07/Masamune-kuns-Revenge.webp"
@@ -155,16 +165,6 @@
                                 "url": "/boku-ga-aishita-subete-no-kimi-e-2023/",
                                 "title": "Boku ga Aishita Subete no Kimi e (2023)",
                                 "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/04/boku_ga_aishita_subete_no_kimi_e_10664.webp"
-                            },
-                            {
-                                "url": "/the-girl-downstairs/",
-                                "title": "The Girl Downstairs",
-                                "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/04/ai_shang_ta_de_li_you_11532.webp"
-                            },
-                            {
-                                "url": "/niehime-to-kemono-no-ou/",
-                                "title": "Niehime to Kemono no Ou",
-                                "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/04/niehime_to_kemono_no_ou_10013.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -514,34 +514,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/masamune-kuns-revenge-vf/",
-                    "title": "Masamune-kun’s Revenge VF",
-                    "description": "\nAutre titre: Masamune-kun no Revenge\n\nSynopsis: Lorsqu’il était plus jeune, Makabe Masamune était un enfant en surpoids. À cause de cela, il était régulièrement pris pour cible par les autres, notamment par sa camarade de classe Adagaki Aki. Déterminé à en finir avec cela, il commence un régime et un changement de son physique. Quelques années plus tard, Masamune est prêt à faire face à Aki et il arrive dans le même lycée que Aki. Désormais, il est beau, doué en sport et a d’excellentes notes ce qui lui vaut une grande popularité. Notre héros arrivera-t-il à accomplir sa vengeance ?",
-                    "genre": "Comédie, Harem, Romance, Scolaire",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/07/Masamune-kuns-Revenge.webp",
+                    "url": "/genjitsu-no-yohane-sunshine-in-the-mirror/",
+                    "title": "Genjitsu no Yohane -Sunshine in the Mirror-",
+                    "description": "\nTitre alternatif: Yohane the Parhelion -SUNSHINE in the MIRROR-\n\nSynopsis: L’histoire est centrée sur Yoshiko Tsushima, membre des Aqours atteinte de chuunibyou, qui est désormais dotée de pouvoirs magiques. Habitante de Numazu, ville portuaire entourée par la mer et les montagnes, elle ne s’y sent néanmoins pas à sa place, se sentant exclue. Sa place se situe autre part…\nNous suivons cette jeune fille, découvrant ce monde mystérieux.",
+                    "genre": "Comédie, Fantastique, Tranche de vie",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animevostfr.tv/wp-content/uploads/2023/07/genjitsu_no_yohane_-sunshine_in_the_mirror-_11226.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/masamune-kuns-revenge-vf-episode-13/",
-                        "name": "Épisode 13",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/episode/masamune-kuns-revenge-vf-episode-12/",
-                        "name": "Épisode 12",
-                        "episode_number": 12.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"Genjitsu no Yohane\"",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.Exception: bruh",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
