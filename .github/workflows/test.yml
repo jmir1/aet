@@ -29,7 +29,7 @@ jobs:
       - name: generate matrix
         id: gen-matrix
         run: |
-          wget 'https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/index.min.json'
+          wget 'https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/index.min.json'
 
           BATCHES=$(jq -cr '
           {
@@ -82,20 +82,24 @@ jobs:
           INDEX=$(jq -cr '.index' <<< $APKS)
           echo "index=$INDEX" >> $GITHUB_OUTPUT
           jq -cr '.apks | .[]' <<< $APKS | while read link; do
-            wget https://raw.githubusercontent.com/jmir1/aniyomi-extensions/repo/apk/$link -P apk/
+            wget https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/$link -P apk/
           done
- 
-      - name: Install XVFB to use GUI
-        run: |
-          sudo apt update
-          sudo apt install -y xvfb --no-install-recommends
 
       - name: test apks
         run: |
           Xvfb -ac :99 -screen 0 1280x1024x16 > /dev/null 2>&1 &
           export DISPLAY=:99.0
+          EXTRA_ARGS=""
+          if [[ -n "${{ secrets.PREFERENCES }}" ]]; then
+              echo -e '${{ secrets.PREFERENCES }}' > preferences.json
+              EXTRA_ARGS+="--prefs preferences.json "
+          fi
+          if [[ -n "${{ secrets.COOKIES }}" ]]; then
+              echo -e '${{ secrets.COOKIES }}' > cookies.txt
+              EXTRA_ARGS+="--cookies cookies.txt "
+          fi
           # java -jar tester.jar apk -C -D json -P -d
-          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug ${{ github.event.inputs.args }}
+          java -jar tester.jar apk --complete-results --json-dir json --pretty-json --debug $EXTRA_ARGS ${{ github.event.inputs.args }}
 
       - name: upload results
         uses: actions/upload-artifact@v3
@@ -171,7 +175,9 @@ jobs:
       - name: make table
         run: |
           npm i -g tablemark-cli
-          printf "## Extension status\n\n### $COUNT_PASSED/$COUNT_ALL are working\n\n" > README.md
+          count="$COUNT_PASSED/$COUNT_ALL"
+          percent=$(printf "%.0f" $(echo "($count) * 100" | bc -l))
+          printf "## Extension status\n\n### $count($percent%%) are working\n\n" > README.md
           tablemark $TABLEJSON -a left -a center -a left >> README.md
           rm $TABLEJSON
 

@@ -2,6 +2,13 @@
 
 aet - aniyomi extension tests
 
+This repo runs automated tests on aniyomi extensions via github actions, and shows
+its results in the [results](../results/README.md) branch.
+
+Note that the results accuracy isn't 100% correct, showing false negatives for
+sources that are ip-blocking github actions, or sources may require additional
+configuration to work properly(like logins, specific settings or cookies).
+
 ## License
 
     Copyright (C) 2022 jmir1
