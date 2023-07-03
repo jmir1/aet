@@ -3,145 +3,24 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/shape-island",
-                                "title": "Shape Island",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932976.jpg"
-                            },
-                            {
-                                "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
-                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932975.jpg"
-                            },
-                            {
-                                "url": "/anime/jitsu-wa-ore-saikyou-deshita",
-                                "title": "Jitsu wa Ore, Saikyou deshita?",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932974.jpg"
-                            },
-                            {
-                                "url": "/anime/ayaka",
-                                "title": "Ayaka English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932973.jpg"
-                            },
-                            {
-                                "url": "/anime/horimiya-piece",
-                                "title": "Horimiya: Piece English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932972.jpg"
-                            },
-                            {
-                                "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
-                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932971.jpg"
-                            },
-                            {
-                                "url": "/anime/bang-dream-its-mygo-english-subbed",
-                                "title": "BanG Dream! It's MyGO!!!! English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932970.jpg"
-                            },
-                            {
-                                "url": "/anime/ooku-the-inner-chambers",
-                                "title": "Ooku: The Inner Chambers",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932969.jpg"
-                            },
-                            {
-                                "url": "/anime/ooku-the-inner-chambers-english-subbed",
-                                "title": "Ōoku: The Inner Chambers English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932967.jpg"
-                            },
-                            {
-                                "url": "/anime/the-great-wolf-pack",
-                                "title": "The Great Wolf Pack",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932966.jpg"
-                            },
-                            {
-                                "url": "/anime/saving-me",
-                                "title": "Saving Me",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932965.jpg"
-                            },
-                            {
-                                "url": "/anime/genjitsu-no-rimuru-sunshine-in-the-slime-english-subbed",
-                                "title": "Genjitsu no Rimuru: Sunshine in the Slime English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932964.jpg"
-                            },
-                            {
-                                "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror-english-subbed",
-                                "title": "Genjitsu no Yohane: Sunshine in the Mirror English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932963.jpg"
-                            },
-                            {
-                                "url": "/anime/this-world-cant-tear-me-down",
-                                "title": "This World Can't Tear Me Down",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg"
-                            },
-                            {
-                                "url": "/anime/skull-island",
-                                "title": "Skull Island",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932961.jpg"
-                            },
-                            {
-                                "url": "/anime/not-quite-narwhal",
-                                "title": "Not Quite Narwhal",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932960.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: bruh",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/shape-island",
-                    "title": "Shape Island",
-                    "description": "Follows serious Square, intrepid Circle, and tricky Triangle on their adventures while learning how to navigate each other’s differences. Kids will learn that friendship can take many shapes.",
-                    "genre": "Animated, Children's television series, Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/932976.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/shape-island-episode-8-triangle-and-squares-big-game-the-shooting-star",
-                        "name": "Episode 8 Triangle and Square’s Big Game/The Shooting Star",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/shape-island-episode-7-squares-sleepover-growing-pains",
-                        "name": "Episode 7 Square’s Sleepover/Growing Pains",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn9qZ0i8HwDEkrTwNBZweKQ_QGvBnQJrkaPcUnT3nAVNGHpto0pg5jS-arGJB5NTJOewMRnCjbrg1IsC_S8Rg93Gx7-A-jezm2DVxgA5kaq_mtj1RQWw96fRsUEnokvIK1uNPGn4KdNsuvvUys_idOBAtjs4zOnDWO8W9DDrDczvrc_uNt5rIPQ4oejcyhKd0ush_15pj7DVKMPUrEwcZ80t8D47z1D5mChY-pZD3pvAnp3gUzG8LlF8U-72pUK8b9CjJOdwFT-cFW8U1jy7gAZim_1ScJJ5LHOEyX2eF4TfPVjxf2Pmbjg213DWFZ7b8kXLXRmVkJHeIUyG6MueACI",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn9qZ0i8HwDEkrTwNBZweKQ_QGvBnQJrkaPcUnT3nAVNGHpto0pg5jS-arGJB5NTJOewMRnCjbrg1IsC_S8Rg93Gx7-A-jezm2DVxgA5kaq_mtj1RQWw96fRsUEnokvIK1uNPGn4KdNsuvvUys_idOBAtjs4zOnDWO8W9DDrDczvrc_uNt5rIPQ4oejcyhKd0ush_15pj7DVKMPUrEwcZ80t8D47z1D5mChY-pZD3pvAnp3gUzG8LlF8U-72pUK8b9CjJOdwFT-cFW8U1jy7gAZim_1ScJJ5LHOEyX2eF4TfPVjxf2Pmbjg213DWFZ7b8kXLXRmVkJHeIUyG6MueACI"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn9qZ0i8HwDEkrTwNBZweKQ_QGvBnQJrkaPcUnT3nAVNOIaAT9_AwgD_4a_2dHkgx3jjQFyaidAXT1Xr9MHOUUzH4HSzQSBV8HFaqJp19dEWGxEUXfrjcojGsfcp1zdp-tLmYCIMmSUowsCkkKu2v6_W5Q19VX1RUTltsj2CZbayE9i1ztXzMdelyI7islxZ7sdTGnpBuPAkZt1hZKqKcmaIdPbrLNP_zl_YboIntHN8xdAAp_n-aZNicXM_q01Zfj4xeFw-k77itmD0vMtA4kQlhks2riXUT9UICt9Csbc9joFHrE1IS4IF69M7uNO6cg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJn9qZ0i8HwDEkrTwNBZweKQ_QGvBnQJrkaPcUnT3nAVNOIaAT9_AwgD_4a_2dHkgx3jjQFyaidAXT1Xr9MHOUUzH4HSzQSBV8HFaqJp19dEWGxEUXfrjcojGsfcp1zdp-tLmYCIMmSUowsCkkKu2v6_W5Q19VX1RUTltsj2CZbayE9i1ztXzMdelyI7islxZ7sdTGnpBuPAkZt1hZKqKcmaIdPbrLNP_zl_YboIntHN8xdAAp_n-aZNicXM_q01Zfj4xeFw-k77itmD0vMtA4kQlhks2riXUT9UICt9Csbc9joFHrE1IS4IF69M7uNO6cg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
