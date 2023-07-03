@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/1576",
+                                "title": "Masamune-Kun No Revenge R - Episódio 01",
+                                "thumbnail_url": "https://stc.animestc.com/1688390540362-image.jpg"
+                            },
+                            {
                                 "url": "/series/1575",
                                 "title": "Fate/Strange Fake: Whispers of Dawn -  Episódio 01",
                                 "thumbnail_url": "https://stc.animestc.com/1688315205282-image.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/series/1562",
                                 "title": "Boku no Kokoro no Yabai Yatsu - Episódio 11",
                                 "thumbnail_url": "https://stc.animestc.com/1686425599814-image.jpg"
-                            },
-                            {
-                                "url": "/series/1567",
-                                "title": "Isekai Shoukan wa Nidome desu - Episódio 10",
-                                "thumbnail_url": "https://stc.animestc.com/1686411686465-image.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/1576",
+                                "title": "Masamune-Kun No Revenge R - Episódio 01",
+                                "thumbnail_url": "https://stc.animestc.com/1688390540362-image.jpg"
+                            },
+                            {
                                 "url": "/series/1575",
                                 "title": "Fate/Strange Fake: Whispers of Dawn -  Episódio 01",
                                 "thumbnail_url": "https://stc.animestc.com/1688315205282-image.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/series/1562",
                                 "title": "Boku no Kokoro no Yabai Yatsu - Episódio 11",
                                 "thumbnail_url": "https://stc.animestc.com/1686425599814-image.jpg"
-                            },
-                            {
-                                "url": "/series/1567",
-                                "title": "Isekai Shoukan wa Nidome desu - Episódio 10",
-                                "thumbnail_url": "https://stc.animestc.com/1686411686465-image.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -413,71 +413,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/series/1575",
-                    "title": "Fate/Strange Fake: Whispers of Dawn",
-                    "description": "Nos Estados Unidos, uma falsa Guerra do Santo Graal está acontecendo usando como base os dados da Terceira Guerreira do Graal de Fuyuki. Devido à tentativa de copiar o ritual sendo apenas parcialmente bem-sucedida, muitas coisas são diferentes, incluindo a definição de \"herói\" sendo distorcida, o que leva a uma convocação de Servos incomuns.",
-                    "genre": "Ação, Action, Fantasia, Magia, Sobrenatural",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes?slug=fatestrange-fake-whispers-of-dawn-episodio-01",
-                        "name": "Fate/Strange Fake: Whispers of Dawn -  Episódio 01",
-                        "date_upload": 1688315253000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn-147.anonfiles.com/FdKeS9z3z3/8cc69e6e-1688387007/%5BAnimesTC%5D+Fate+strange+Fake+-+Whispers+of+Dawn+%28720p%29.mkv",
-                        "quality": "AnonFiles - HD",
-                        "videoUrl": "https://cdn-147.anonfiles.com/FdKeS9z3z3/8cc69e6e-1688387007/%5BAnimesTC%5D+Fate+strange+Fake+-+Whispers+of+Dawn+%28720p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-143.anonfiles.com/RbQ1S1z1z2/bcf1b187-1688387014/%5BAnimesTC%5D+Fate+strange+Fake+-+Whispers+of+Dawn+%281080p%29.mkv",
-                        "quality": "AnonFiles - FULLHD",
-                        "videoUrl": "https://cdn-143.anonfiles.com/RbQ1S1z1z2/bcf1b187-1688387014/%5BAnimesTC%5D+Fate+strange+Fake+-+Whispers+of+Dawn+%281080p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-149.anonfiles.com/FeFcS5z9z0/a4792aba-1688387001/%5BAnimesTC%5D+Fate+strange+Fake+-+Whispers+of+Dawn.mp4",
-                        "quality": "AnonFiles - SD",
-                        "videoUrl": "https://cdn-149.anonfiles.com/FeFcS5z9z0/a4792aba-1688387001/%5BAnimesTC%5D+Fate+strange+Fake+-+Whispers+of+Dawn.mp4"
-                    },
-                    {
-                        "url": "https://d1112.filescdn.com/d/ibys3dr36gosj4l4jvzvvc5wzna44qxeyqydt7pcltiddbehyadqzylbqf3eyalzl6yuio7l/video.mkv",
-                        "quality": "Sendcm - HD",
-                        "videoUrl": "https://d1112.filescdn.com/d/ibys3dr36gosj4l4jvzvvc5wzna44qxeyqydt7pcltiddbehyadqzylbqf3eyalzl6yuio7l/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/mrey8523kkwb"
-                        }
-                    },
-                    {
-                        "url": "https://d1112.filescdn.com/d/iby2xdj36gosj4l4jvzvtandrlru4t3635rm6ykyhoinat3vaoxdrswlydkxpmllapjucoly/video.mkv",
-                        "quality": "Sendcm - FULLHD",
-                        "videoUrl": "https://d1112.filescdn.com/d/iby2xdj36gosj4l4jvzvtandrlru4t3635rm6ykyhoinat3vaoxdrswlydkxpmllapjucoly/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/nxp8ygxgl8r5"
-                        }
-                    },
-                    {
-                        "url": "https://d160099.send.quest/d/kbytxib36gosj4l4jrzqdg5c3vat7xjv4n4dksul6iqf46zco6afuf2w4aelbiv3gu6nwceb/video.mp4",
-                        "quality": "Sendcm - SD",
-                        "videoUrl": "https://d160099.send.quest/d/kbytxib36gosj4l4jrzqdg5c3vat7xjv4n4dksul6iqf46zco6afuf2w4aelbiv3gu6nwceb/video.mp4",
-                        "headers": {
-                            "Referer": "https://send.cm/6bqojfk06qp0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             }
         }
     }
