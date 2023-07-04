@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/lo-desconocido-la-piramide-perdida/",
+                                "title": "Lo desconocido: La pirámide perdida",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/s6CX71r4vU0s2lPvNrEddi1F9XgWQdG899W70d.webp"
+                            },
+                            {
                                 "url": "/pelicula/sheroes/",
                                 "title": "Sheroes",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "Reposo absoluto",
                                 "description": "Tras años luchando por formar una familia, Julie Rivers (Melissa Barrera) está embarazada de nuevo...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EkFwmuhs3Di9aMpEGyWSUOnsNo3.webp"
-                            },
-                            {
-                                "url": "/pelicula/youre-killing-me/",
-                                "title": "You’re Killing Me",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/UNParDk9URMxtInnKYoFw63mEBERb4PWHuWYY6XJOA67.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/sheroes/",
-                    "title": "Sheroes",
+                    "url": "/pelicula/lo-desconocido-la-piramide-perdida/",
+                    "title": "Lo desconocido: La pirámide perdida",
                     "description": "",
-                    "genre": "Acción, Comedia, Crimen",
+                    "genre": "Documental",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/sheroes/",
+                        "url": "/pelicula/lo-desconocido-la-piramide-perdida/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar VihmvKolBe = \"\"; MushfKWdCu.forEach(function Oym(value) { VihmvKolBe += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar NMCzFeosF = \"\"; fvHyuidLcw.forEach(function Oym(value) { NMCzFeosF += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

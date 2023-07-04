@@ -307,11 +307,6 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/11/63/1163cc1867f3bf59b4ddb65f3c937330/1163cc1867f3bf59b4ddb65f3c937330.jpg"
                             },
                             {
-                                "url": "/the-girl-downstairs-18399",
-                                "title": "Aishang Ta de Liyou",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/3c/49/3c49d4e7cade168275327b452771c506/3c49d4e7cade168275327b452771c506.jpg"
-                            },
-                            {
                                 "url": "/doraemon-2005-1551",
                                 "title": "Doraemon (2005)",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
@@ -320,11 +315,6 @@
                                 "url": "/a-will-eternal-18110",
                                 "title": "Yi Nian Yong Heng: Chuan Cheng Pian",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/25/e3/25e3a9b167fa92be9196d32728f6d391/25e3a9b167fa92be9196d32728f6d391.jpg"
-                            },
-                            {
-                                "url": "/monster-but-wild-18384",
-                                "title": "Ququ Bucai, Zaixia Yeguai",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/47/ea/47eaf66af732918688fb77e192289d5c/47eaf66af732918688fb77e192289d5c.jpg"
                             },
                             {
                                 "url": "/one-piece-wano-kuni-sp-18217",
@@ -387,6 +377,11 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/18/0f/180fcc0036a291329bc80878546bd17d/180fcc0036a291329bc80878546bd17d.jpg"
                             },
                             {
+                                "url": "/masamunekuns-revenge-r-18419",
+                                "title": "Masamune-kun no Revenge R",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/17/4a/174a13011301d3d0a2135f40162b8dee/174a13011301d3d0a2135f40162b8dee.jpg"
+                            },
+                            {
                                 "url": "/apotheosis-18228",
                                 "title": "Bai Lian Cheng Shen",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/9c/92/9c927d8b129c4ed946daaa19f8c1f9fb/9c927d8b129c4ed946daaa19f8c1f9fb.png"
@@ -397,9 +392,14 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/ef/00/ef0005a77c37e63759499201b781a2eb/ef0005a77c37e63759499201b781a2eb.jpg"
                             },
                             {
-                                "url": "/masamunekuns-revenge-r-18419",
-                                "title": "Masamune-kun no Revenge R",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/17/4a/174a13011301d3d0a2135f40162b8dee/174a13011301d3d0a2135f40162b8dee.jpg"
+                                "url": "/sweet-reincarnation-18469",
+                                "title": "Okashi na Tensei",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/40/43/404367268426dddcdd7c05a106ff098a/404367268426dddcdd7c05a106ff098a.png"
+                            },
+                            {
+                                "url": "/the-dreaming-boy-is-a-realist-18484",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/8d/36/8d366f7a0c8cb967409ec4ad6452991d/8d366f7a0c8cb967409ec4ad6452991d.jpg"
                             },
                             {
                                 "url": "/hirogaru-sky-precure-18320",
@@ -627,19 +627,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/one-piece-100?ep=102226",
-                        "name": "Episode 1067: To the New Era! Settled! The Determination of the Brats",
-                        "episode_number": 1067.0
-                    },
-                    {
-                        "url": "/watch/one-piece-100?ep=102117",
-                        "name": "Episode 1066: Here Comes the Main Act! Powerful Techniques of Shockwave and Magnetism",
-                        "episode_number": 1066.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
