@@ -386,12 +386,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/yumemiru-danshi-wa-genjitsushugisha-حلقة-1/",
+                        "name": "1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc623.4shared.com/img/no55OZUZfa/d32aceec/dlink__2Fdownload_2Fno55OZUZfa_3Fsbsr_3Db9981498efcf09ffdd4e1304287efa3cae7_26bip_3DMTMuODMuNC41MQ_26lgfp_3D66_26bip_3DMTMuODMuNC41MQ_26bip_3DMTMuODMuNC41MQ/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc623.4shared.com/img/no55OZUZfa/d32aceec/dlink__2Fdownload_2Fno55OZUZfa_3Fsbsr_3Db9981498efcf09ffdd4e1304287efa3cae7_26bip_3DMTMuODMuNC41MQ_26lgfp_3D66_26bip_3DMTMuODMuNC41MQ_26bip_3DMTMuODMuNC41MQ/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

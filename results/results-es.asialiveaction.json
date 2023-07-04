@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-pluie/",
+                                "title": "La Pluie (10/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1iS078JcEzVG7m7Y7byqAJE6gdj.jpg"
+                            },
+                            {
                                 "url": "/egoist/",
                                 "title": "Egoist",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/uu2dYVQSGIFRqtAUWykWsiSgup7.jpg"
@@ -30,11 +35,6 @@
                                 "url": "/here-we-meet-again-2-32/",
                                 "title": "Here We Meet Again (18/32)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg"
-                            },
-                            {
-                                "url": "/la-pluie/",
-                                "title": "La Pluie (9/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1iS078JcEzVG7m7Y7byqAJE6gdj.jpg"
                             },
                             {
                                 "url": "/cool-doji-danshi/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-pluie/",
+                                "title": "La Pluie (10/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1iS078JcEzVG7m7Y7byqAJE6gdj.jpg"
+                            },
+                            {
                                 "url": "/egoist/",
                                 "title": "Egoist",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/uu2dYVQSGIFRqtAUWykWsiSgup7.jpg"
@@ -160,11 +165,6 @@
                                 "url": "/here-we-meet-again-2-32/",
                                 "title": "Here We Meet Again (18/32)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bWr4p2RBIaeMLG6aZyQS7rgj85E.jpg"
-                            },
-                            {
-                                "url": "/la-pluie/",
-                                "title": "La Pluie (9/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1iS078JcEzVG7m7Y7byqAJE6gdj.jpg"
                             },
                             {
                                 "url": "/cool-doji-danshi/",
@@ -393,17 +393,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/egoist/",
-                    "title": "Egoist",
-                    "description": "Un día, conoce a Ryuta (Miyazawa Hio), un entrenador personal que ayuda a su madre Taeko (Agawa Sawako), que es madre soltera. Junto a él, Kosuke se desprende de su coraza y descubre la alegría de amar a alguien desde el fondo de su corazón.",
-                    "genre": "Drama, Romance, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/uu2dYVQSGIFRqtAUWykWsiSgup7.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
