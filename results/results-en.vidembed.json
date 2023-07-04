@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/medusas-venom-2023",
+                                "title": "Medusa's Venom",
+                                "thumbnail_url": "https://images.movembed.cc//cover/medusas-venom-2023-1688476228.jpg"
+                            },
+                            {
+                                "url": "/videos/la-caccia-2023",
+                                "title": "La caccia",
+                                "thumbnail_url": "https://images.movembed.cc//cover/la-caccia-2023-1688476228.jpg"
+                            },
+                            {
+                                "url": "/videos/the-roundup-no-way-out-2023",
+                                "title": "The Roundup: No Way Out",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-roundup-no-way-out-2023-1688474728.jpg"
+                            },
+                            {
+                                "url": "/videos/alabama-rose-2022",
+                                "title": "Alabama Rose",
+                                "thumbnail_url": "https://images.movembed.cc//cover/alabama-rose-2022-1688474727.jpg"
+                            },
+                            {
                                 "url": "/videos/prisoners-daughter-2023",
                                 "title": "Prisoner's Daughter",
                                 "thumbnail_url": "https://images.movembed.cc//cover/prisoners-daughter-2023-1688460025.jpg"
@@ -135,26 +155,6 @@
                                 "url": "/videos/shooting-elizabeth-1992",
                                 "title": "Shooting Elizabeth",
                                 "thumbnail_url": "https://images.movembed.cc//cover/shooting-elizabeth-1992-1688295026.jpg"
-                            },
-                            {
-                                "url": "/videos/jodi-no-1-2001",
-                                "title": "Jodi No. 1",
-                                "thumbnail_url": "https://images.movembed.cc//cover/jodi-no-1-2001-1688295026.jpg"
-                            },
-                            {
-                                "url": "/videos/five-dolls-for-an-august-moon-1970",
-                                "title": "Five Dolls for an August Moon",
-                                "thumbnail_url": "https://images.movembed.cc//cover/five-dolls-for-an-august-moon-1970-1688295025.jpg"
-                            },
-                            {
-                                "url": "/videos/raja-hindustani-1996",
-                                "title": "Raja Hindustani",
-                                "thumbnail_url": "https://images.movembed.cc//cover/raja-hindustani-1996-1688295025.jpg"
-                            },
-                            {
-                                "url": "/videos/dulhe-raja-1998",
-                                "title": "Dulhe Raja",
-                                "thumbnail_url": "https://images.movembed.cc//cover/dulhe-raja-1998-1688295024.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,22 +324,15 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/prisoners-daughter-2023",
-                    "title": "Prisoner's Daughter",
-                    "description": "A father fights for the love of his daughter and grandson, after serving twelve years in prison.",
+                    "url": "/videos/medusas-venom-2023",
+                    "description": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/prisoners-daughter-2023",
-                        "name": "Prisoner's Daughter",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
