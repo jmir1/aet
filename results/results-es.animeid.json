@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//yumemiru-danshi-wa-genjitsushugisha",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/yumemiru-danshi-wa-genjitsushugisha/cover/9b2a6660.jpg"
+                            },
+                            {
                                 "url": "//okashi-na-tensei",
                                 "title": "Okashi na Tensei",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Birdie Wing: Golf Girls' Story Season 2",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/birdie-wing-golf-girls-story-season-2/cover/f1213136.jpg"
-                            },
-                            {
-                                "url": "//megami-no-cafe-terrace",
-                                "title": "Megami no Café Terrace",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/megami-no-cafe-terrace/cover/06fbfe8c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//yumemiru-danshi-wa-genjitsushugisha",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/yumemiru-danshi-wa-genjitsushugisha/cover/9b2a6660.jpg"
+                            },
+                            {
                                 "url": "//okashi-na-tensei",
                                 "title": "Okashi na Tensei",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Birdie Wing: Golf Girls' Story Season 2",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/birdie-wing-golf-girls-story-season-2/cover/f1213136.jpg"
-                            },
-                            {
-                                "url": "//megami-no-cafe-terrace",
-                                "title": "Megami no Café Terrace",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/megami-no-cafe-terrace/cover/06fbfe8c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,24 +682,37 @@
             },
             "details": {
                 "result": {
-                    "url": "//okashi-na-tensei",
-                    "title": "Okashi na Tensei",
-                    "description": "Mille Morteln tiene nueve años y es el heredero de un noble, a la vez que es la reencarnación de un desafortunado pastelero. Aunque sus sueños son los de seguir haciendo dulces, tiene que cumplir con las obligaciones de heredero (aprender a luchar, sus poderes mágicos, defender el pueblo de los bandidos)... Pero él no claudicará por cumplir su sueño.",
-                    "genre": "Fantasía, Recuentos De La Vida, Verano 2023",
+                    "url": "//yumemiru-danshi-wa-genjitsushugisha",
+                    "title": "Yumemiru Danshi wa Genjitsushugisha",
+                    "description": "El estudiante de instituto Wataru Sajõ está enamorado de su bella compañera de clase Aika Natsukawa. Aika lo encuentra inaguantable, él sigue soñando con un amor recíproco y sigue acercándose a Aika. Un día, Wataru se despierta de este \"ensoñamiento\" y deja de intentar ser cercano a Aika... Lo cuál deja a Aika contrariada.",
+                    "genre": "Comedia, Escolares, Romance, Verano 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/okashi-na-tensei/cover/7b2a8875.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/yumemiru-danshi-wa-genjitsushugisha/cover/9b2a6660.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/yumemiru-danshi-wa-genjitsushugisha-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1688342400000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=bkjd6Vz2RJSPgvW&expires=1688501378&ip=FROsE0EnDS9X&token=hQ-zEK-YxklI",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=bkjd6Vz2RJSPgvW&expires=1688501378&ip=FROsE0EnDS9X&token=hQ-zEK-YxklI"
+                    }
+                ],
+                "passed": true
             }
         }
     }
