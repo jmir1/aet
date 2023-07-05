@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-historia-del-himno-de-estados-unidos/",
+                                "title": "La Historia del Himno de Estados Unidos",
+                                "description": "Un largometraje documental que sigue a un grupo de artistas estadounidenses dirigidos por el aclamad...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xvKMOba7aepIFAfKpB8FQhp2.webp"
+                            },
+                            {
+                                "url": "/pelicula/un-verano-en-bretana/",
+                                "title": "Un verano en Bretaña",
+                                "description": "La veterinaria Britta decide tomarse unas vacaciones en la hermosa región de Bretaña, en Francia, ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/OfYm61S0bUarFNxVmvfXEhFY0z96Xi3BnRNjJw9Lga2M.webp"
+                            },
+                            {
+                                "url": "/pelicula/bukraken/",
+                                "title": "¡Bukraken!",
+                                "description": "In 2016, journalism student Susana Rojas disappeared without a trace while making a documentary for ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/gEqfUD0E52eclRgk.webp"
+                            },
+                            {
+                                "url": "/pelicula/indiana-jones-y-el-dial-del-destino/",
+                                "title": "Indiana Jones y el dial del destino",
+                                "description": "Quinta entrega de la saga 'Indiana Jones'.",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yiIlOe9gkBym5SK.webp"
+                            },
+                            {
                                 "url": "/pelicula/lo-desconocido-la-piramide-perdida/",
                                 "title": "Lo desconocido: La pirámide perdida",
                                 "description": "",
@@ -29,12 +53,6 @@
                                 "title": "Fate/strange Fake -Whispers of Dawn-",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/LF1hAF4cmuvjrj3JdiuE5C0PWxTosn74SYcjt.webp"
-                            },
-                            {
-                                "url": "/pelicula/indiana-jones-y-el-dial-del-destino/",
-                                "title": "Indiana Jones y el dial del destino",
-                                "description": "Quinta entrega de la saga 'Indiana Jones'.",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yiIlOe9gkBym5SK.webp"
                             },
                             {
                                 "url": "/pelicula/little-bone-lodge/",
@@ -227,24 +245,6 @@
                                 "title": "Elemental",
                                 "description": "En una ciudad donde los residentes del fuego, el agua, la tierra y el aire viven juntos, una joven a...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/6jLrEwLyo0isqJGd27L.webp"
-                            },
-                            {
-                                "url": "/pelicula/gabriels-redemption-part-one/",
-                                "title": "Gabriel's Redemption: Part One",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/IBLnlJ7Kct27ek8yaj5rR09ogC344sEDU.webp"
-                            },
-                            {
-                                "url": "/pelicula/spider-man-cruzando-el-multiverso-zilr/",
-                                "title": "Spider-Man: Cruzando el multiverso",
-                                "description": "Miles Morales regresa para una aventura épica que transportará al amigable vecino de Brooklyn Spid...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Jao4aZw3ORMYy4xuAKoVgxSH0p4wRftqgHkgxHacpN0N.webp"
-                            },
-                            {
-                                "url": "/pelicula/reposo-absoluto-zsjd/",
-                                "title": "Reposo absoluto",
-                                "description": "Tras años luchando por formar una familia, Julie Rivers (Melissa Barrera) está embarazada de nuevo...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EkFwmuhs3Di9aMpEGyWSUOnsNo3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,9 +510,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/lo-desconocido-la-piramide-perdida/",
-                    "title": "Lo desconocido: La pirámide perdida",
-                    "description": "",
+                    "url": "/pelicula/la-historia-del-himno-de-estados-unidos/",
+                    "title": "La Historia del Himno de Estados Unidos",
+                    "description": "Un largometraje documental que sigue a un grupo de artistas estadounidenses dirigidos por el aclamado compositor Kris Bowers y el reconocido productor Dahi. Juntos, viajan por todo el país con el objetivo de crear un nuevo himno de Estados Unidos.",
                     "genre": "Documental",
                     "initialized": true
                 },
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/lo-desconocido-la-piramide-perdida/",
+                        "url": "/pelicula/la-historia-del-himno-de-estados-unidos/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar qgNQjcn = \"\"; ZHbHwtusx.forEach(function Oym(value) { qgNQjcn += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
