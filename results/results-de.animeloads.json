@@ -252,8 +252,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=V79VaWvxm1tkO0&expires=1688607408&ip=F0OSKRqOKxSHDN&token=yiaBWWG9LLRd",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=V79VaWvxm1tkO0&expires=1688607408&ip=F0OSKRqOKxSHDN&token=yiaBWWG9LLRd"
+                    },
+                    {
+                        "url": "https://rationalityaloelike.com/tt7oaewbu8bd?Me.and.Roboco.S01E07.Ger.Eng.Sub.AAC.720p.WebDL.x264-Pudding-sama.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/09180/tt7oaewbu8bd_n/master.m3u8?t=Oj59GPm6JarIGvuf74sfn7_VsV7MalOFRrWXW9Mqgww&s=1688537407&e=14400&f=45901265&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=104.45&sp=3500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

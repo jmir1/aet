@@ -3,29 +3,23 @@
         "name": "Cuevana",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: n2.cuevana3.me: Name or service not known",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: n2.cuevana3.me",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: n2.cuevana3.me",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch-it-legally/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: n2.cuevana3.me",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.UnknownHostException: n2.cuevana3.me",
                 "passed": false
             }
         }
