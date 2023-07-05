@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-natsu-e-no-tunnel-sayonara-no-deguchi-مترجم/",
+                                "title": "فيلم Natsu e no Tunnel Sayonara no Deguchi مترجم",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/269024-223x305.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-suzume-no-tojimari-مترجم/",
                                 "title": "فيلم Suzume no Tojimari مترجم",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/277482-223x318.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-cocolors-بلوراي/",
                                 "title": "فيلم Cocolors بلوراي",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/12/86473l-223x316.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-nagasaki-1945-angelus-no-kane/",
-                                "title": "فيلم Nagasaki 1945: Angelus no Kane",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/11/22960l-223x316.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-suzume-no-tojimari-مترجم/",
-                    "title": "فيلم Suzume no Tojimari مترجم",
-                    "description": "“سوزومي”، فتاة في السابعة عشر من عمرها تعيش في بلدة هادئة في “كيوشو”، تصادف شابا مسافرا يخبرها “أنا أبحث عن باب”. تتبعه، لتكتشف باباً ثابتا في الأنقاض في الجبال، كما لو كان الشيء الوحيد المتبقي من انهيار، كما لو أنه رُسم من قبل شيء ما. لتذهب “سوزومي” إلى الباب… قبل فترة طويلة، بدأت الأبواب تفتح الواحدة تلو الأخرى في مختلف أنحاء اليابان. وبما أن الكوارث تأتي من الجانب الأخر البعيد منها، فلا بد من إغلاق الأبواب المفتوحة. النجوم، الشمس الغروب، وسماء الصباح. هكذا كان الوضع في ذلك المكان الذي وجدت نفسها فيه، سماء تمزج كل الأوقات معا. استرشادا بالأبواب الغامضة، تبدأ “رحلة قفل الأبواب” التي تقوم بها “سوزومي”.",
+                    "url": "/movie/فيلم-natsu-e-no-tunnel-sayonara-no-deguchi-مترجم/",
+                    "title": "فيلم Natsu e no Tunnel Sayonara no Deguchi مترجم",
+                    "description": "سمع “كاورو تونو” اشاعة تقول ان قوانين المكان والزمان لا تنطبق على نفق “اوراشيما”. إذا وجدته، اعبر من خلاله وستجد رغبة قلبك على الجانب الآخر، مقابل سنوات من حياتك. ذات ليلة، “كاورو” فجأة يجد نفسه يقف أمام النفق، والذي يبدو بشكل مفاجئ مثل الذي تصفه الشائعات. وهو يفكر في “كارين”، الأخت التي فقدها في حادث قبل خمس سنوات.",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/277482.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/269024.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-suzume-no-tojimari-مترجم/",
-                        "name": "Suzume no Tojimari مترجم"
+                        "url": "/movie/فيلم-natsu-e-no-tunnel-sayonara-no-deguchi-مترجم/",
+                        "name": "Natsu e no Tunnel Sayonara no Deguchi مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc627.4shared.com/img/U2auJJeYge/e88bc848/dlink__2Fdownload_2FU2auJJeYge_3Fsbsr_3Dba087815f6c3b1ab726ac8b0b1a0ad45ae7_26bip_3DNC4yMjcuMC4yMjQ_26lgfp_3D66_26bip_3DNC4yMjcuMC4yMjQ_26bip_3DNC4yMjcuMC4yMjQ/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc627.4shared.com/img/U2auJJeYge/e88bc848/dlink__2Fdownload_2FU2auJJeYge_3Fsbsr_3Dba087815f6c3b1ab726ac8b0b1a0ad45ae7_26bip_3DNC4yMjcuMC4yMjQ_26lgfp_3D66_26bip_3DNC4yMjcuMC4yMjQ_26bip_3DNC4yMjcuMC4yMjQ/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

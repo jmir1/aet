@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/boku-to-roboco",
+                                "title": "Boku to Roboco",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boku-to-roboco-cover.jpg"
+                            },
+                            {
                                 "url": "/media/suki-na-ko-ga-megane-o-wasureta",
                                 "title": "The Girl I Like Forgot Her Glasses",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-suki-na-ko-ga-megane-o-wasureta-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/niehime-to-kemono-no-ou",
                                 "title": "Sacrificial Princess and the King of Beasts",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-niehime-to-kemono-no-ou-cover.jpg"
-                            },
-                            {
-                                "url": "/media/tokyo-mew-mew-new-2023",
-                                "title": "Tokyo Mew Mew New (2023)",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-tokyo-mew-mew-new-2023-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/suki-na-ko-ga-megane-o-wasureta",
-                    "title": "The Girl I Like Forgot Her Glasses",
+                    "url": "/media/boku-to-roboco",
+                    "title": "Boku to Roboco",
                     "author": "",
-                    "description": "Zu Beginn des Schuljahres bekommt der schüchterne Kaede Komura auch eine neue Sitznachbarin. Ai Mies direkte Art und ihre wunderschönen Augen, die sie hinter dicken Brillengläsern versteckt, sorgen dafür, dass Kaede sich bald schon Hals über Kopf in sie verliebt. Doch eines Tages lernt er noch eine andere Seite an seinem heimlichen Schwarm kennen: Sie ist ziemlich schusselig und vergisst sogar ihre Brille, ohne die sie kaum etwas sieht, ständig zu Hause! Kaede bietet seine Hilfe an und die beiden kommen sich langsam näher. Quelle: aniSearch",
-                    "genre": "Romantische Komödie",
+                    "description": "In einer nicht allzu fernen Zukunft sind Haushaltsroboter aus dem normalen Alltag nicht mehr wegzudenken. Die sogenannten »OrderMaids« haben vielfältige Funktionen, die ihren Besitzern das Leben erleichtern sollen – vom Aufräumen bis zur professionellen Massage! Und manche von ihnen sehen dazu auch noch gut aus. Als im Haushalt seiner beiden besten Freunde plötzlich auch OrderMaids auftauchen, ist Bondo Taira extrem neidisch und bittet seine Mutter, ebenfalls eine zu kaufen. Doch die Haushaltshilfe, die sie bekommen, ist ganz anders als die attraktiven, weiblichen Roboter die er kennt. Roboko ist groß, muskulös und ziemlich ungeschickt. Selbst bei den einfachsten Aufgaben zerstört sie regelmäßig beinahe das Haus. Bondo ist enttäuscht, aber nach einiger Zeit entdeckt er, dass Roboko mehr kann, als er jemals für möglich gehalten hätte. Quelle: aniSearch",
+                    "genre": "Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-suki-na-ko-ga-megane-o-wasureta-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boku-to-roboco-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,27 +239,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/suki-na-ko-ga-megane-o-wasureta#streams_episodes_1_0",
-                        "name": "Ep.1 Episode 1",
-                        "episode_number": 1.0
+                        "url": "/media/boku-to-roboco#streams_episodes_1_6",
+                        "name": "Ep.7 Episode 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/media/boku-to-roboco#streams_episodes_1_5",
+                        "name": "Ep.6 Episode 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=AlGlQpJzwVHXLD3&expires=1688564154&ip=FROsD0ETKxSHDN&token=HrtNY1ZQzQQI",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=AlGlQpJzwVHXLD3&expires=1688564154&ip=FROsD0ETKxSHDN&token=HrtNY1ZQzQQI"
-                    },
-                    {
-                        "url": "https://rationalityaloelike.com/co4nutymvtxo?The.Girl.I.Like.Forgot.Her.Glasses.S01E01.GerEngSub.AAC.720p.WebDL.x264-Tanuki(Sub).mp4",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-9d4ekurvnlmy1neu.voe-network.net/engine/hls2-c/01/09179/co4nutymvtxo_n/master.m3u8?t=GJCwx8i2GX5bzEHP0dpxPU0HLVDcoAEwGd0X-Aas3mA&s=1688494153&e=14400&f=45899202&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=20.172&sp=3500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }
