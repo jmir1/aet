@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/wild-life-2023",
+                                "title": "Wild Life",
+                                "thumbnail_url": "https://images.movembed.cc//cover/wild-life-2023-1688614229.jpg"
+                            },
+                            {
+                                "url": "/videos/alpha-girls-2013",
+                                "title": "Alpha Girls",
+                                "thumbnail_url": "https://images.movembed.cc//cover/alpha-girls-2013-1688614228.jpg"
+                            },
+                            {
+                                "url": "/videos/sound-of-freedom-2023",
+                                "title": "Sound of Freedom",
+                                "thumbnail_url": "https://images.movembed.cc//cover/sound-of-freedom-2023-1688608223.jpg"
+                            },
+                            {
                                 "url": "/videos/we-are-still-here-2022",
                                 "title": "We Are Still Here",
                                 "thumbnail_url": "https://images.movembed.cc//cover/we-are-still-here-2022-1688561128.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/killdozer-1974",
                                 "title": "Killdozer",
                                 "thumbnail_url": "https://images.movembed.cc//cover/killdozer-1974-1688356826.jpg"
-                            },
-                            {
-                                "url": "/videos/the-wedding-contract-2023",
-                                "title": "The Wedding Contract",
-                                "thumbnail_url": "https://images.movembed.cc//cover/the-wedding-contract-2023-1688353227.jpg"
-                            },
-                            {
-                                "url": "/videos/great-expectations-1947",
-                                "title": "Great Expectations",
-                                "thumbnail_url": "https://images.movembed.cc//cover/great-expectations-1947-1688353227.jpg"
-                            },
-                            {
-                                "url": "/videos/soundproof-2023",
-                                "title": "Soundproof",
-                                "thumbnail_url": "https://images.movembed.cc//cover/soundproof-2023-1688349026.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/we-are-still-here-2022",
-                    "title": "We Are Still Here",
-                    "description": "Comprises of eight stories by and about First Nations people.",
+                    "url": "/videos/wild-life-2023",
+                    "title": "Wild Life",
+                    "description": "A sweeping portrait of conservationists Kris and Doug Tompkins chronicling their fight to preserve one of the last truly wild places on earth.",
                     "initialized": true
                 },
                 "passed": true
@@ -334,15 +334,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/we-are-still-here-2022",
-                        "name": "We Are Still Here",
+                        "url": "/videos/wild-life-2023",
+                        "name": "Wild Life",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

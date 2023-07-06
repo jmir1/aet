@@ -27,11 +27,6 @@
                                 "thumbnail_url": ""
                             },
                             {
-                                "url": "/tvs/%27Allo%20%27Allo%21/",
-                                "title": "'Allo 'Allo!",
-                                "thumbnail_url": ""
-                            },
-                            {
                                 "url": "/tvs/%28Re%29Solved/",
                                 "title": "(Re)Solved",
                                 "thumbnail_url": ""
@@ -244,16 +239,6 @@
                             {
                                 "url": "/tvs/365%20-%20Repeat%20the%20Year/",
                                 "title": "365 - Repeat the Year",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/3Below%20-%20Tales%20of%20Arcadia/",
-                                "title": "3Below - Tales of Arcadia",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/tvs/3rd%20Rock%20from%20the%20Sun/",
-                                "title": "3rd Rock from the Sun",
                                 "thumbnail_url": ""
                             },
                             {
@@ -499,6 +484,21 @@
                             {
                                 "url": "/tvs/A%20Discovery%20of%20Witches/",
                                 "title": "A Discovery of Witches",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/A%20Friend%20of%20the%20Family/",
+                                "title": "A Friend of the Family",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/A%20Galaxy%20Next%20Door/",
+                                "title": "A Galaxy Next Door",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/tvs/A%20Girl%20and%20an%20Astronaut/",
+                                "title": "A Girl and an Astronaut",
                                 "thumbnail_url": ""
                             }
                         ],
@@ -1026,30 +1026,14 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/tvs/%23blackAF/Season%201/%23blackAF%20-%20S01E08%20-%20i%20know%20you%20may%20not%20get%20this,%20but%20the%20reason%20we%20deserve%20a%20vacation%20is.%20because%20of%20slavery%20WEBDL-1080p.mkv",
-                        "name": "#blackAF - S01E08 - i know you may not get this, but the reason we deserve a vacation is. because of slavery WEBDL-1080p",
-                        "date_upload": -1,
-                        "episode_number": 8.0,
-                        "scanlator": "2.24 GB • /Season 1"
-                    },
-                    {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/tvs/%23blackAF/Season%201/%23blackAF%20-%20S01E07%20-%20i%20know%20this%20is%20going%20to%20sound%20crazy.%20but%20this,%20too,%20is%20because%20of%20slavery%20WEBDL-1080p.mkv",
-                        "name": "#blackAF - S01E07 - i know this is going to sound crazy. but this, too, is because of slavery WEBDL-1080p",
-                        "date_upload": -1,
-                        "episode_number": 7.0,
-                        "scanlator": "2.31 GB • /Season 1"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/tvs/%23blackAF/Season%201/%23blackAF%20-%20S01E08%20-%20i%20know%20you%20may%20not%20get%20this,%20but%20the%20reason%20we%20deserve%20a%20vacation%20is.%20because%20of%20slavery%20WEBDL-1080p.mkv",
                         "quality": "Video",
-                        "videoUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/tvs/%23blackAF/Season%201/%23blackAF%20-%20S01E08%20-%20i%20know%20you%20may%20not%20get%20this,%20but%20the%20reason%20we%20deserve%20a%20vacation%20is.%20because%20of%20slavery%20WEBDL-1080p.mkv"
+                        "videoUrl": ""
                     }
                 ],
                 "passed": true
