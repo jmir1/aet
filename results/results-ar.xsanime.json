@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jujutsu-kaisen-2nd-season/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290450.jpg"
+                            },
+                            {
+                                "url": "/anime/suki-na-ko-ga-megane-o-wasureta/",
+                                "title": "Suki na Ko ga Megane o Wasureta",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290044.jpg"
+                            },
+                            {
                                 "url": "/anime/undead-girl-murder-farce/",
                                 "title": "Undead Girl Murder Farce",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290387.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/tonikaku-kawaii-2nd-season/",
                                 "title": "Tonikaku Kawaii 2nd Season",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Tonikaku-Kawaii-2nd-Season-413x559-1.png"
-                            },
-                            {
-                                "url": "/anime/megami-no-cafe-terrace/",
-                                "title": "Megami no Café Terrace",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133938l.jpg"
-                            },
-                            {
-                                "url": "/anime/rokudou-no-onna-tachi/",
-                                "title": "Rokudou no Onna-tachi",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Rokudou-no-Onna-tachi-413x559-1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/undead-girl-murder-farce/",
-                    "title": "Undead Girl Murder Farce",
-                    "description": "القرن التاسع عشر عالم يسكنه مصاصي الدماء، وغولِم، وذئاب ضارية، وغيرها من المخلوقات الخارقة. الجمال الخالد ذات الرأس المنفصل آيا ريندو، إلى جانب نصف إنسان نصف شيطان \"الشيطان القاتل\" تسوغارو شونيتشي وخادمتها المخلصة شيزوكو هاسي، يسافرون عبر أوروبا كمحققين خارقين للطبيعة \"مستخدم القفص\"، لحل أسرار خارقة للطبيعة أثناء البحث عن جسدها المفقود.",
-                    "genre": "غموض, مصاصو دماء, خارق للطبيعة, تاريخي, أكشن",
+                    "url": "/anime/jujutsu-kaisen-2nd-season/",
+                    "title": "Jujutsu Kaisen 2nd Season",
+                    "description": "-الموسم الثاني من الانمي – سيعرض في هذا الموسم كل من الجزئين : “كايغيوكو/غيوكوسيتسو“، و”حادثة شيبويا“.",
+                    "genre": "مدرسي, خيال, دراما, أكشن, شونين",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290387.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290450.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,7 +388,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/undead-girl-murder-farce-الحلقة-1/",
+                        "url": "/episode/jujutsu-kaisen-2nd-season-الحلقة-1/",
                         "name": "1",
                         "episode_number": 1.0
                     }
@@ -396,8 +396,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc340.4shared.com/img/vYkhyYFFfa/91707dfc/dlink__2Fdownload_2FvYkhyYFFfa_3Fsbsr_3Dac896b1a96d35fa7422357e27840a0e1ae8_26bip_3DMTMuODYuNjYuNg_26lgfp_3D66_26bip_3DMTMuODYuNjYuNg_26bip_3DMTMuODYuNjYuNg/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc340.4shared.com/img/vYkhyYFFfa/91707dfc/dlink__2Fdownload_2FvYkhyYFFfa_3Fsbsr_3Dac896b1a96d35fa7422357e27840a0e1ae8_26bip_3DMTMuODYuNjYuNg_26lgfp_3D66_26bip_3DMTMuODYuNjYuNg_26bip_3DMTMuODYuNjYuNg/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

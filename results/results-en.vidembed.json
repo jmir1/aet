@@ -325,7 +325,8 @@
             "details": {
                 "result": {
                     "url": "/videos/we-are-still-here-2022",
-                    "description": "",
+                    "title": "We Are Still Here",
+                    "description": "Comprises of eight stories by and about First Nations people.",
                     "initialized": true
                 },
                 "passed": true
@@ -341,7 +342,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
