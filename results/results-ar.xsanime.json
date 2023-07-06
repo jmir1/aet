@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290514.jpg"
+                            },
+                            {
+                                "url": "/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu/",
+                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290640.jpg"
+                            },
+                            {
                                 "url": "/anime/jujutsu-kaisen-2nd-season/",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290450.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/isekai-shoukan-wa-nidome-desu/",
                                 "title": "Isekai Shoukan wa Nidome desu",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Isekai-Shoukan-wa-Nidome-desu-413x559-1.png"
-                            },
-                            {
-                                "url": "/anime/birdie-wing-golf-girls-story-season-2/",
-                                "title": "Birdie Wing: Golf Girls' Story Season 2",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133760l.jpg"
-                            },
-                            {
-                                "url": "/anime/tonikaku-kawaii-2nd-season/",
-                                "title": "Tonikaku Kawaii 2nd Season",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Tonikaku-Kawaii-2nd-Season-413x559-1.png"
                             }
                         ],
                         "hasNextPage": true
@@ -374,36 +374,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jujutsu-kaisen-2nd-season/",
-                    "title": "Jujutsu Kaisen 2nd Season",
-                    "description": "-الموسم الثاني من الانمي – سيعرض في هذا الموسم كل من الجزئين : “كايغيوكو/غيوكوسيتسو“، و”حادثة شيبويا“.",
-                    "genre": "مدرسي, خيال, دراما, أكشن, شونين",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290450.jpg",
+                    "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                    "description": "مرت عشر سنوات على نهاية “باكوماتسو”، وهي فترة حرب شهدت انتفاضة المواطنين ضد نظام حكم شوغوناتو توكوغاوا. رغب الثوار في خلق حقبة سلام وبلد مزدهر خالٍ من القمع والظلم. وقد حل عصر ميجي الجديد، لكن لم يتحقق السلام بعد. تم حظر السيوف، ورغم ذلك الناس لا يزالون يُقتلون في الشوارع. الأيتام من المحاربين القدامى بدون مأوى، في حين يبدو أن الحكومة راضية فقط عن ملء جيوبها بالمال.",
+                    "genre": "فنون قتالية, رومانسي, تاريخي, أكشن, شونين",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290514.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/jujutsu-kaisen-2nd-season-الحلقة-1/",
-                        "name": "1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc340.4shared.com/img/vYkhyYFFfa/91707dfc/dlink__2Fdownload_2FvYkhyYFFfa_3Fsbsr_3Dd75870ef28ddf022e56d5aec7f45965fae8_26bip_3DNDAuNzUuNzQuNDM_26lgfp_3D66_26bip_3DNDAuNzUuNzQuNDM_26bip_3DNDAuNzUuNzQuNDM/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc340.4shared.com/img/vYkhyYFFfa/91707dfc/dlink__2Fdownload_2FvYkhyYFFfa_3Fsbsr_3Dd75870ef28ddf022e56d5aec7f45965fae8_26bip_3DNDAuNzUuNzQuNDM_26lgfp_3D66_26bip_3DNDAuNzUuNzQuNDM_26bip_3DNDAuNzUuNzQuNDM/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
