@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/aged/",
+                                "title": "Aged",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/6WnlKEGi5xAeruckepq.webp"
+                            },
+                            {
                                 "url": "/pelicula/la-historia-del-himno-de-estados-unidos/",
                                 "title": "La Historia del Himno de Estados Unidos",
                                 "description": "Un largometraje documental que sigue a un grupo de artistas estadounidenses dirigidos por el aclamad...",
@@ -239,12 +245,6 @@
                                 "title": "Sexo a la venta",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/i35xO7Q8YxYapJQT7v5iyIctbLJz10g9Ubxz.webp"
-                            },
-                            {
-                                "url": "/pelicula/elemental/",
-                                "title": "Elemental",
-                                "description": "En una ciudad donde los residentes del fuego, el agua, la tierra y el aire viven juntos, una joven a...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/6jLrEwLyo0isqJGd27L.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-historia-del-himno-de-estados-unidos/",
-                    "title": "La Historia del Himno de Estados Unidos",
-                    "description": "Un largometraje documental que sigue a un grupo de artistas estadounidenses dirigidos por el aclamado compositor Kris Bowers y el reconocido productor Dahi. Juntos, viajan por todo el país con el objetivo de crear un nuevo himno de Estados Unidos.",
-                    "genre": "Documental",
+                    "url": "/pelicula/aged/",
+                    "title": "Aged",
+                    "description": "",
+                    "genre": "Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-historia-del-himno-de-estados-unidos/",
+                        "url": "/pelicula/aged/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar QlEsIaXBFS = \"\"; gjyoZxzo.forEach(function Oym(value) { QlEsIaXBFS += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
