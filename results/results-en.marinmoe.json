@@ -117,9 +117,9 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/swuvbgpds-64286ccf0cc70091898863.jpg"
                             },
                             {
-                                "url": "/anime/eq7ywtnj",
-                                "title": "Okashi na Tensei",
-                                "thumbnail_url": "https://marin.moe/images/anime/bexnrheqn-64a315eba3ed4677435406.jpg"
+                                "url": "/anime/ben6chv1",
+                                "title": "Skip to Loafer",
+                                "thumbnail_url": "https://marin.moe/images/anime/mvls5js4c-642c55d31cc7c671023373.jpg"
                             },
                             {
                                 "url": "/anime/qq0xzoyk",
@@ -407,12 +407,78 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "name": "Episode 1067 No Title",
+                        "date_upload": 1688256000000,
+                        "episode_number": 1067.0
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1066",
+                        "name": "Episode 1066 No Title",
+                        "date_upload": 1687651200000,
+                        "episode_number": 1066.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 1080p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/fbbc6c70e0d24cf4?token=f567355b02c539bbda96a92a17c65f3936a08fb34a558d366b1ed57f020c1a57",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xMweQwjqsFbDXmSw;__ddg1_=TrlGr0rpB6Jckm2a5DuH;XSRF-TOKEN=eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IkdHRGx0MWVMYUkzajlPWGdsakFVVkE9PSIsInZhbHVlIjoieEhUb0hEbTZqNVkwWW1TN1JsQ04xZG55YU5tb2ZpbnJ4UjViWGZyWTRmRlBDRmNhakg1UWZ5WmQ5WTB3QzlMNWtqTXR2Yi9FQzBEeWFjSyttMXlScGs0R2NmYklZTFlCUzkvTnJLSUVVdFJlbkJCbTFLNGJsUW0zTmRlMktSeU4iLCJtYWMiOiI2Y2JlMjYxOWQ2ZTYxNDIxMzZlZTA2M2ZiOWFkYzljOWQ4N2E4N2NiMjM3YjdjMmRhODNkZGU1NTBkNDMzOGIxIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 720p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/2f3854e46611ae02?token=236e5771133aba0764721374963f8a60732cf2d934ca5059b11f8a8a55d5d071",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xMweQwjqsFbDXmSw;__ddg1_=TrlGr0rpB6Jckm2a5DuH;XSRF-TOKEN=eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IkdHRGx0MWVMYUkzajlPWGdsakFVVkE9PSIsInZhbHVlIjoieEhUb0hEbTZqNVkwWW1TN1JsQ04xZG55YU5tb2ZpbnJ4UjViWGZyWTRmRlBDRmNhakg1UWZ5WmQ5WTB3QzlMNWtqTXR2Yi9FQzBEeWFjSyttMXlScGs0R2NmYklZTFlCUzkvTnJLSUVVdFJlbkJCbTFLNGJsUW0zTmRlMktSeU4iLCJtYWMiOiI2Y2JlMjYxOWQ2ZTYxNDIxMzZlZTA2M2ZiOWFkYzljOWQ4N2E4N2NiMjM3YjdjMmRhODNkZGU1NTBkNDMzOGIxIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 480p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/57eb2a323c2925d2?token=0e0a29b7c5366648ce75fc98e48cd58fab89907e9c84af48f09f069f13a63bad",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xMweQwjqsFbDXmSw;__ddg1_=TrlGr0rpB6Jckm2a5DuH;XSRF-TOKEN=eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IkdHRGx0MWVMYUkzajlPWGdsakFVVkE9PSIsInZhbHVlIjoieEhUb0hEbTZqNVkwWW1TN1JsQ04xZG55YU5tb2ZpbnJ4UjViWGZyWTRmRlBDRmNhakg1UWZ5WmQ5WTB3QzlMNWtqTXR2Yi9FQzBEeWFjSyttMXlScGs0R2NmYklZTFlCUzkvTnJLSUVVdFJlbkJCbTFLNGJsUW0zTmRlMktSeU4iLCJtYWMiOiI2Y2JlMjYxOWQ2ZTYxNDIxMzZlZTA2M2ZiOWFkYzljOWQ4N2E4N2NiMjM3YjdjMmRhODNkZGU1NTBkNDMzOGIxIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1067",
+                        "quality": "SubsPlease 360p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/e0bdc687d7383488?token=d697996b8548240fbcf3bc398eda9c108b41aff90bd200e3cbe530427d177016",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xMweQwjqsFbDXmSw;__ddg1_=TrlGr0rpB6Jckm2a5DuH;XSRF-TOKEN=eyJpdiI6InhtR3Jaa2tOYUxFTStMZDRjbnB5S1E9PSIsInZhbHVlIjoid0JON2Mvak9YZ1hvNHhCWStma1N3WHcrWkVmRmZLVDR2L3ZSTnRtNVhDbmJuTDBxMVFjWVE4TDJFd1ltUDhyTDR1ZFdwNE8xaUV4SDNtRi9WTW1rY21yMW1OOUY0UndUTk81c0FVVUo5bXRxSkpaamZON2Fmd3Jlc2VDU0E5elQiLCJtYWMiOiIzNDU5NjgzZGJiODJhYmU3NGYwNmFhMGJhOGMxZDM0ZTE3NzhiNDVmYTI5ZTIwMDkyN2ExOThmMDFhZDE0MmI3IiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IkdHRGx0MWVMYUkzajlPWGdsakFVVkE9PSIsInZhbHVlIjoieEhUb0hEbTZqNVkwWW1TN1JsQ04xZG55YU5tb2ZpbnJ4UjViWGZyWTRmRlBDRmNhakg1UWZ5WmQ5WTB3QzlMNWtqTXR2Yi9FQzBEeWFjSyttMXlScGs0R2NmYklZTFlCUzkvTnJLSUVVdFJlbkJCbTFLNGJsUW0zTmRlMktSeU4iLCJtYWMiOiI2Y2JlMjYxOWQ2ZTYxNDIxMzZlZTA2M2ZiOWFkYzljOWQ4N2E4N2NiMjM3YjdjMmRhODNkZGU1NTBkNDMzOGIxIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1067",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

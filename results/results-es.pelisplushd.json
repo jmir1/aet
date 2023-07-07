@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/a-thin-line",
+                                "title": "A Thin Line (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/8aWRzJClwsPieNrKMB11B8mmqHg.jpg"
+                            },
+                            {
+                                "url": "/serie/las-buenas-madres",
+                                "title": "Las buenas madres (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dMzKtQl7PSXYIOGlVWpHkA4UJDo.jpg"
+                            },
+                            {
                                 "url": "/serie/mentiras-arriesgadas",
                                 "title": "Mentiras arriesgadas (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3r2mlFb4Kg2d7epkEmLFyJq9oGQ.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/el-pasado-no-duerme",
                                 "title": "El pasado no duerme (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/freOs0tgUU2bSpOI3dhoaTumshd.jpg"
-                            },
-                            {
-                                "url": "/serie/el-glamur",
-                                "title": "El glamur (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/f04hUeCCCmPTnIZ6h8ujItYmI7t.jpg"
-                            },
-                            {
-                                "url": "/serie/la-isla-calavera",
-                                "title": "La isla Calavera (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/8XApFlqookjHKWuScJgUoWnpFt8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/mentiras-arriesgadas",
-                    "title": "Mentiras arriesgadas (2023)",
-                    "description": "Inspirada en el taquillazo homónimo de James Cameron, Mentiras arriesgadas cuenta la historia de Harry Tasker, un espía de primer nivel de la agencia de inteligencia estadounidense Omega Sector, y la de su esposa, Helen, una profesora de idiomas aburrida de su rutina diaria que descubre de pronto que su marido, aparentemente normal, lleva una doble vida trepidante..",
-                    "genre": "Action & Adventure",
+                    "url": "/serie/a-thin-line",
+                    "title": "A Thin Line (2023)",
+                    "description": ".",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3r2mlFb4Kg2d7epkEmLFyJq9oGQ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8aWRzJClwsPieNrKMB11B8mmqHg.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/mentiras-arriesgadas/temporada/1/capitulo/13",
-                        "name": "T1 - E13: Episodio 13",
-                        "episode_number": 14.0
+                        "url": "/serie/a-thin-line/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/serie/mentiras-arriesgadas/temporada/1/capitulo/12",
-                        "name": "T1 - E12: Episodio 12",
-                        "episode_number": 13.0
+                        "url": "/serie/a-thin-line/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -293,30 +293,41 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/rrwjgdsrilp9",
+                        "url": "https://voe.sx/e/eenos7o9zdw5",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-9n7xachkzhb0jc9x.voe-network.net/engine/hls2/01/09183/rrwjgdsrilp9_n/master.m3u8?t=w5Mbx_APCxoRZC05TURA02d0QCFharyeYyHH8nynu78&s=1688690483&e=14400&f=45918641&node=delivery-node-9n7xachkzhb0jc9x.voe-network.net&i=40.84&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09187/eenos7o9zdw5_n/master.m3u8?t=qNNI0WhOZ0ZYoNW8UT5yjecV6g8nRu-boexHu8Joqdw&s=1688710189&e=14400&f=45935467&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=172.177&sp=3500&asn=8075"
                     },
                     {
-                        "url": "https://delivery581.akamai-video-content.com/hls2/01/13433/bd141z42m5zt_l/index-v1-a1.m3u8?t=GZvOLcvhpTLhIijOGm2kz-CCcWo0cUnwOj858y4-dK4&s=1688690479&e=10800&f=67168505&srv=sto096&client=40.84.170.175&asn=8075",
+                        "url": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_l/index-v1-a1.m3u8?t=5F5t6Shi_bP4HWxGlKH-R39lViF87As8ts7iV42Hfm0&s=1688710185&e=10800&f=67239091&srv=AataeNI6MHkVp7f&client=172.177.255.91&asn=8075",
                         "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery581.akamai-video-content.com/hls2/01/13433/bd141z42m5zt_l/index-v1-a1.m3u8?t=GZvOLcvhpTLhIijOGm2kz-CCcWo0cUnwOj858y4-dK4&s=1688690479&e=10800&f=67168505&srv=sto096&client=40.84.170.175&asn=8075",
+                        "videoUrl": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_l/index-v1-a1.m3u8?t=5F5t6Shi_bP4HWxGlKH-R39lViF87As8ts7iV42Hfm0&s=1688710185&e=10800&f=67239091&srv=AataeNI6MHkVp7f&client=172.177.255.91&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/bd141z42m5zt?",
+                            "referer": "https://lvturbo.com/e/tjn0uweyx173?",
                             "watchsb": "sbstream",
                             "authority": "embedsb.com"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=27y1BWmol9SRZD&expires=1688760480&ip=GxOsFxqnDS9X&token=mqYemLbX1ET7",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=27y1BWmol9SRZD&expires=1688760480&ip=GxOsFxqnDS9X&token=mqYemLbX1ET7"
+                        "url": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_o/index-v1-a1.m3u8?t=5F5t6Shi_bP4HWxGlKH-R39lViF87As8ts7iV42Hfm0&s=1688710185&e=10800&f=67239091&srv=AataeNI6MHkVp7f&client=172.177.255.91&asn=8075",
+                        "quality": "StreamSB:1080p",
+                        "videoUrl": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_o/index-v1-a1.m3u8?t=5F5t6Shi_bP4HWxGlKH-R39lViF87As8ts7iV42Hfm0&s=1688710185&e=10800&f=67239091&srv=AataeNI6MHkVp7f&client=172.177.255.91&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/tjn0uweyx173?",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
                     },
                     {
-                        "url": "https://voe.sx/e/rrwjgdsrilp9",
+                        "url": "https://streamtape.com/get_video?id=Zj4z4w0Z6KfqAYR&expires=1688780186&ip=F0qQKRWQE19XKxR&token=hzvWufiStXZN",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Zj4z4w0Z6KfqAYR&expires=1688780186&ip=F0qQKRWQE19XKxR&token=hzvWufiStXZN"
+                    },
+                    {
+                        "url": "https://voe.sx/e/eenos7o9zdw5",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-9n7xachkzhb0jc9x.voe-network.net/engine/hls2/01/09183/rrwjgdsrilp9_n/master.m3u8?t=w5Mbx_APCxoRZC05TURA02d0QCFharyeYyHH8nynu78&s=1688690483&e=14400&f=45918641&node=delivery-node-9n7xachkzhb0jc9x.voe-network.net&i=40.84&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09187/eenos7o9zdw5_n/master.m3u8?t=qNNI0WhOZ0ZYoNW8UT5yjecV6g8nRu-boexHu8Joqdw&s=1688710189&e=14400&f=45935467&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=172.177&sp=3500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -587,16 +598,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/los-siete-pecados-capitales-el-rencor-de-edimburgo-parte-1",
-                    "title": "Los Siete Pecados Capitales: El rencor de Edimburgo - Parte 1 (2022)",
-                    "description": "Cuando fuerzas siiestras amenazan su reino, un joven principe emprende un peligroso viaje para salvar a sus seres queridos y descubrir sus poderes. Primera parte de las películas secuela de la serie anime \"The Seven Deadly Sins\", tras los eventos sucedidos en \"The Seven Deadly Sins: Dragon's Judgement\", centrada en el hijo de Meliodas, Tristan.",
-                    "genre": "Fantasía, Aventura, Acción, Animación",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
