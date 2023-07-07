@@ -67,6 +67,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu/episodio-01/legendado",
+                                "title": "Episodio 01 - Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/GEvI6I5b1um9N4Fp0E2gTWT9hjGaV1yoPahaIPRj.jpg"
+                            },
+                            {
+                                "url": "/animes/bang-dream-its-mygo/episodio-04/legendado",
+                                "title": "Episodio 04 - BanG Dream! It's MyGO!!!!!",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/1DHa6yLQawxbHM7sXaqyoX75DL6syuojReYLLLl9.jpg"
+                            },
+                            {
+                                "url": "/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023/episodio-01/legendado",
+                                "title": "Episodio 01 - Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/L8XfSQPWZdRQyhbpZonIetUCvpkKCjh7xppn7ZKO.jpg"
+                            },
+                            {
+                                "url": "/animes/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/episodio-01/legendado",
+                                "title": "Episodio 01 - Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/X4HBUeQmpFDrEatDtQnYLwHQZ5GH7dtwacw3TtGI.jpg"
+                            },
+                            {
+                                "url": "/animes/jujutsu-kaisen-2nd-season/episodio-01/legendado",
+                                "title": "Episodio 01 - Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/0cQkciH1nOd95H0XPYsBiUKJOuygowgWalzTcpAJ.jpg"
+                            },
+                            {
                                 "url": "/animes/aiyou-de-mishi/episodio-14/legendado",
                                 "title": "Episodio 14 - Aiyou de Mishi",
                                 "thumbnail_url": "https://animes.vision/storage/screenshot/WZfBcYMNW4AaCh6yYIlpTIMZuPWJc6ADGtk2Ft36.jpg"
@@ -190,31 +215,6 @@
                                 "url": "/animes/gunma-chan/episodio-01/legendado",
                                 "title": "Episodio 01 - Gunma-chan",
                                 "thumbnail_url": "https://animes.vision/storage/screenshot/mDLlsVBt5OIFvtXkgMaQrs047xKDeMRDH0R19vvf.png"
-                            },
-                            {
-                                "url": "/animes/my-home-hero-dublado/episodio-11/dublado",
-                                "title": "Episodio 11 - My Home Hero - Dublado",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/BsIU54lsmDxcbRE5ZUKTFqRxFNK0Pw0X8UPQYZV6.jpg"
-                            },
-                            {
-                                "url": "/animes/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-dublado/episodio-11/dublado",
-                                "title": "Episodio 11 - Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito - Dublado",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/In5PooON4S8K5kDWitql645PN1ZvZHlGyFuDyUFJ.jpg"
-                            },
-                            {
-                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu-shugo-jutsushi-fitz/episodio-0/legendado",
-                                "title": "Episodio 0 - Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/SzOxmv3TLNmNpKB4ieBbLRCpXiteOmqEKkcvrwUc.jpg"
-                            },
-                            {
-                                "url": "/animes/genjitsu-no-yohane-sunshine-in-the-mirror/episodio-02/legendado",
-                                "title": "Episodio 02 - Genjitsu no Yohane: Sunshine in the Mirror",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/vYJV3favU8YG0Go3GbULod3SvWV4JCcxWs1qcGlL.jpg"
-                            },
-                            {
-                                "url": "/animes/masamune-kun-no-revenge-dublado/episodio-12/dublado",
-                                "title": "Episodio 12 - Masamune-kun no Revenge - Dublado",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/GuGCCBtDo2RhYNwLdAzgXTjKBtzXWgmTOhKGchh6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -433,16 +433,45 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/animes/jujutsu-kaisen-2nd-season",
+                    "title": "Jujutsu Kaisen 2nd Season",
+                    "description": "Segunda temporada de Jujutsu Kaisen.\n\nTítulo em inglês: Sorcery Fight, JJK\nFoi ao ar em: de de\nTemporada: Segunda temporada de Jujutsu Kaisen.\nDuração: 23 min per ep\nFansub: Oficial",
+                    "genre": "Ação, Aventura, Escolar, Shounen",
+                    "thumbnail_url": "https://animes.vision/storage/capa/37mxvR6HWiTror5gwm9Qm21KDbsHy7e746XhPcTS.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/jujutsu-kaisen-2nd-season/episodio-01/legendado",
+                        "name": "Episodio 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/720p/AnV-01.mp4?md5=HkUkmlmqMYOjn-C-xJ1BMg&expires=1688697674",
+                        "quality": "GlobalVision HD 720p",
+                        "videoUrl": "https://cdn.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/720p/AnV-01.mp4?md5=HkUkmlmqMYOjn-C-xJ1BMg&expires=1688697674"
+                    },
+                    {
+                        "url": "https://cdn.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/480p/AnV-01.mp4?md5=N19qc3cQI64CNeV784rdNA&expires=1688697674",
+                        "quality": "GlobalVision SD 480p",
+                        "videoUrl": "https://cdn.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/480p/AnV-01.mp4?md5=N19qc3cQI64CNeV784rdNA&expires=1688697674"
+                    },
+                    {
+                        "url": "https://cdn.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/1080p/AnV-01.mp4?md5=qbik30AKBrPyYToRWzBHCQ&expires=1688697674",
+                        "quality": "GlobalVision FHD 1080p",
+                        "videoUrl": "https://cdn.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/1080p/AnV-01.mp4?md5=qbik30AKBrPyYToRWzBHCQ&expires=1688697674"
+                    }
+                ],
+                "passed": true
             }
         }
     }

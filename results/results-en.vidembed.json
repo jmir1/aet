@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/kevin-hart-reality-check-2023",
+                                "title": "Kevin Hart: Reality Check",
+                                "thumbnail_url": "https://images.movembed.cc//cover/kevin-hart-reality-check-2023-1688665524.jpg"
+                            },
+                            {
                                 "url": "/videos/the-wraith-within-2023",
                                 "title": "The Wraith Within",
                                 "thumbnail_url": "https://images.movembed.cc//cover/the-wraith-within-2023-1688636429.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/unknown-the-lost-pyramid-2023",
                                 "title": "Unknown: The Lost Pyramid",
                                 "thumbnail_url": "https://images.movembed.cc//cover/unknown-the-lost-pyramid-2023-1688383827.jpg"
-                            },
-                            {
-                                "url": "/videos/lakshya-2004",
-                                "title": "Lakshya",
-                                "thumbnail_url": "https://images.movembed.cc//cover/lakshya-2004-1688379028.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,20 +324,35 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/the-wraith-within-2023",
-                    "title": "The Wraith Within",
-                    "description": "When a group of friends head out of town for a weekend getaway, a dangerous secret emerges that may kill them all.",
+                    "url": "/videos/kevin-hart-reality-check-2023",
+                    "title": "Kevin Hart: Reality Check",
+                    "description": "Things are about to get real in this unforgettable night of comedy. Comedian Kevin Hart is as funny as ever as he processes his growing family, fame, mentions on Black Twitter, and more. Hart returns for his first stand-up special...",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/kevin-hart-reality-check-2023",
+                        "name": "Kevin Hart: Reality Check",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/v/b7MPwA2jKQUPyAA/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "quality": "Download StreamTape",
+                        "videoUrl": "https://streamtape.com/v/b7MPwA2jKQUPyAA/?autostart=true?c1_label=EN&c1_file=https://sub.membed.net/sub",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=Mzk0NjY4"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

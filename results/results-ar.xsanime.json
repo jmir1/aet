@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/",
+                                "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289502.jpg"
+                            },
+                            {
                                 "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290514.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/otonari-ni-ginga/",
                                 "title": "Otonari ni Ginga",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/135041l.jpg"
-                            },
-                            {
-                                "url": "/anime/isekai-shoukan-wa-nidome-desu/",
-                                "title": "Isekai Shoukan wa Nidome desu",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Isekai-Shoukan-wa-Nidome-desu-413x559-1.png"
                             }
                         ],
                         "hasNextPage": true
@@ -374,23 +374,29 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
-                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                    "description": "مرت عشر سنوات على نهاية “باكوماتسو”، وهي فترة حرب شهدت انتفاضة المواطنين ضد نظام حكم شوغوناتو توكوغاوا. رغب الثوار في خلق حقبة سلام وبلد مزدهر خالٍ من القمع والظلم. وقد حل عصر ميجي الجديد، لكن لم يتحقق السلام بعد. تم حظر السيوف، ورغم ذلك الناس لا يزالون يُقتلون في الشوارع. الأيتام من المحاربين القدامى بدون مأوى، في حين يبدو أن الحكومة راضية فقط عن ملء جيوبها بالمال.",
-                    "genre": "فنون قتالية, رومانسي, تاريخي, أكشن, شونين",
+                    "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/",
+                    "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+                    "description": "هل يمكن لموظف سابق أن يصبح منقطع النظير في عالم آخر قُتل موظف بالرصاص قبل أن يحصل على ترقية. بعد أن يعيد تجسيده في عالم آخر كمعالج يبلغ من العمر خمسة عشر عامًا يُدعى لوسيل. علاوة على كل ذلك يبدو أن البلد الذي ولد فيه يكره المعالجين.",
+                    "genre": "ايسيكاي, خيال, مغامرات",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290514.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289502.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi-الحلقة-1/",
+                        "name": "1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
