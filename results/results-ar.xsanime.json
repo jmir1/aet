@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sugar-apple-fairy-tale-part-2/",
+                                "title": "Sugar Apple Fairy Tale Part 2",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289662.jpg"
+                            },
+                            {
+                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru/",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289895.jpg"
+                            },
+                            {
                                 "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/",
                                 "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289502.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/world-dai-star/",
                                 "title": "World Dai Star",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133808l.jpg"
-                            },
-                            {
-                                "url": "/anime/kidou-senshi-gundam-suisei-no-majo-season-2/",
-                                "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Kidou-Senshi-Gundam-Suisei-no-Majo-Season-2-413x559-1.jpg"
-                            },
-                            {
-                                "url": "/anime/otonari-ni-ginga/",
-                                "title": "Otonari ni Ginga",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/135041l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/",
-                    "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
-                    "description": "هل يمكن لموظف سابق أن يصبح منقطع النظير في عالم آخر قُتل موظف بالرصاص قبل أن يحصل على ترقية. بعد أن يعيد تجسيده في عالم آخر كمعالج يبلغ من العمر خمسة عشر عامًا يُدعى لوسيل. علاوة على كل ذلك يبدو أن البلد الذي ولد فيه يكره المعالجين.",
-                    "genre": "ايسيكاي, خيال, مغامرات",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289502.jpg",
+                    "url": "/anime/sugar-apple-fairy-tale-part-2/",
+                    "title": "Sugar Apple Fairy Tale Part 2",
+                    "description": "القسم الثاني من الموسم الأول.",
+                    "genre": "شوچو, رومانسي, خيال, مغامرات",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289662.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,7 +388,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi-الحلقة-1/",
+                        "url": "/episode/sugar-apple-fairy-tale-part-2-الحلقة-1/",
                         "name": "1",
                         "episode_number": 1.0
                     }
@@ -396,8 +396,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc623.4shared.com/img/XX8X8jyyfa/b1786182/dlink__2Fdownload_2FXX8X8jyyfa_3Fsbsr_3D43c517e06a298db2584d5e159f7e3c8bae8_26bip_3DMjAuMTA5LjExOS4xNDg_26lgfp_3D66_26bip_3DMjAuMTA5LjExOS4xNDg_26bip_3DMjAuMTA5LjExOS4xNDg/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc623.4shared.com/img/XX8X8jyyfa/b1786182/dlink__2Fdownload_2FXX8X8jyyfa_3Fsbsr_3D43c517e06a298db2584d5e159f7e3c8bae8_26bip_3DMjAuMTA5LjExOS4xNDg_26lgfp_3D66_26bip_3DMjAuMTA5LjExOS4xNDg_26bip_3DMjAuMTA5LjExOS4xNDg/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

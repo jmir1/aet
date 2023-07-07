@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ai-no-idenshi",
+                                "title": "AI no Idenshi",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3879.jpg"
+                            },
+                            {
+                                "url": "/anime/kanojo-okarishimasu-3rd-season",
+                                "title": "Kanojo, Okarishimasu 3rd Season",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3877.jpg"
+                            },
+                            {
+                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3878.jpg"
+                            },
+                            {
                                 "url": "/anime/jujutsu-kaisen-2nd-season",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3873.jpg"
@@ -90,21 +105,6 @@
                                 "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3861.jpg"
-                            },
-                            {
-                                "url": "/anime/jitsu-wa-ore-saikyou-deshita",
-                                "title": "Jitsu wa Ore, Saikyou deshita?",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3860.jpg"
-                            },
-                            {
-                                "url": "/anime/ayaka",
-                                "title": "Ayaka",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3859.jpg"
-                            },
-                            {
-                                "url": "/anime/horimiya-piece",
-                                "title": "Horimiya: Piece",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3857.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,10 +224,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jujutsu-kaisen-2nd-season",
-                    "title": "Jujutsu Kaisen 2nd Season",
-                    "description": "Segunda temporada",
-                    "genre": "Acción, Escolares, Fantasía, Shounen",
+                    "url": "/anime/ai-no-idenshi",
+                    "title": "AI no Idenshi",
+                    "description": "Esta es la historia de nuestro futuro… El arrollador progreso de las IA que comenzó en el siglo XXI ha contribuido al desarrollo de la sociedad, pero también ha enfrentado a la humanidad con los pros y los contras de utilizar máquinas altamente inteligentes como herramientas. Y ya es la segunda mitad del siglo XXII. La gente acepta a los “humanoides” con derechos humanos como algo natural y vive con ellos como una entidad separada de las “IA Industriales”. Como nuevo médico que cura humanoides, Hikaru Sudo se enfrenta a las “nuevas enfermedades” provocadas por la coexistencia de humanos e IA. A veces, utilizando el otro lado de la historia.",
+                    "genre": "Ciencia Ficción, Drama, Psicológico, Suspenso",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -235,53 +235,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/jujutsu-kaisen-2nd-season-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=3&sig=JYRXhHW4FEM&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=3&sig=JYRXhHW4FEM&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999"
-                    },
-                    {
-                        "url": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=2&sig=dPSwxEGWDTQ&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=2&sig=dPSwxEGWDTQ&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999"
-                    },
-                    {
-                        "url": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=1&sig=LSHJeCMZ2VQ&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=1&sig=LSHJeCMZ2VQ&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999"
-                    },
-                    {
-                        "url": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=0&sig=Ik5u_Umvk-Q&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=0&sig=Ik5u_Umvk-Q&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999"
-                    },
-                    {
-                        "url": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=4&sig=1qgYSwfjjxU&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-10.vkuser.net/?expires=1688818407219&srcIp=20.57.68.185&pr=10&srcAg=CHROME&ms=95.142.206.137&type=4&sig=1qgYSwfjjxU&ct=0&urls=185.226.53.36%3B45.136.21.35&clientType=0&zs=43&id=5121114769999"
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20230707nRfXW1v2Gw1/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20230707nRfXW1v2Gw1/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     },
@@ -431,9 +390,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a202307071nVD7TJ5b2U/video.mp4",
+                        "url": "https://vidcache.net:8161/a2023070750AIr42aOQV/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202307071nVD7TJ5b2U/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a2023070750AIr42aOQV/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://www.yourupload.com/"
