@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/do-it-yourself/",
+                                "title": "Do It Yourself!! (01/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg"
+                            },
+                            {
                                 "url": "/be-mine-superstar/",
                                 "title": "Be Mine SuperStar (1/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/kyoshinhei-tokyo-ni-arawaru/",
                                 "title": "Kyoshinhei Tokyo ni Arawaru",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
-                            },
-                            {
-                                "url": "/avatar/",
-                                "title": "Avatar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xEAhV18F5Ej78qL0EneyPqa2a20.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/do-it-yourself/",
+                                "title": "Do It Yourself!! (01/??)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg"
+                            },
+                            {
                                 "url": "/be-mine-superstar/",
                                 "title": "Be Mine SuperStar (1/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/kyoshinhei-tokyo-ni-arawaru/",
                                 "title": "Kyoshinhei Tokyo ni Arawaru",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
-                            },
-                            {
-                                "url": "/avatar/",
-                                "title": "Avatar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xEAhV18F5Ej78qL0EneyPqa2a20.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/do-it-yourself/",
+                    "title": "Do It Yourself!! (01/??)",
+                    "description": "Do It Yourself!! Basada en el anime original del estudio «Pine Jam», es una historia que sigue a las niñas de preparatoria que trabajan en proyectos de bricolaje, mientras luchan, fracasan, pero no se dan por vencidas y llevan los proyectos hasta el final. La historia describe la vida de esas niñas mientras dan el primer paso hacia el futuro.",
+                    "genre": "Aventura, Comedia, Drama, Escolar",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/1926780/",
+                        "name": "Episodio 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
