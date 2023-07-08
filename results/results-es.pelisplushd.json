@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-tragica-historia-de-dolores-roach",
+                                "title": "La trágica historia de Dolores Roach (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qTYLRBCNyOuyktuTcjqJ7rbXxaF.jpg"
+                            },
+                            {
                                 "url": "/serie/a-thin-line",
                                 "title": "A Thin Line (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/8aWRzJClwsPieNrKMB11B8mmqHg.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/barrabrava",
                                 "title": "Barrabrava (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bcG1GiiPsZ2b6Xy2TovQJmX0zTm.jpg"
-                            },
-                            {
-                                "url": "/serie/el-pasado-no-duerme",
-                                "title": "El pasado no duerme (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/freOs0tgUU2bSpOI3dhoaTumshd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/a-thin-line",
-                    "title": "A Thin Line (2023)",
-                    "description": "Dos gemelas hackers quieren sacar a la luz los delitos contra el medio ambiente. Sin embargo, cuando su pirateo de un servidor gubernamental da lugar a una redada policial, Anna es capturada y Benni desaparece bajo tierra..",
-                    "genre": "Drama",
+                    "url": "/serie/la-tragica-historia-de-dolores-roach",
+                    "title": "La trágica historia de Dolores Roach (2023)",
+                    "description": "Después de una injusta sentencia de 16 años de prisión, Dolores Roach regresa a un aburguesado Washington Heights, donde se reencuentra con un viejo amigo drogadicto, Luis, quien la deja vivir y trabajar como masajista en el sótano de su tienda de empanadas. Cuando la promesa de su nueva estabilidad se ve rápidamente amenazada, \"Manos Mágicas\" Dolores es llevada a extremos impactantes para sobrevivir..",
+                    "genre": "Drama, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8aWRzJClwsPieNrKMB11B8mmqHg.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qTYLRBCNyOuyktuTcjqJ7rbXxaF.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,59 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/a-thin-line/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/la-tragica-historia-de-dolores-roach/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/a-thin-line/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/la-tragica-historia-de-dolores-roach/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/eenos7o9zdw5",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09187/eenos7o9zdw5_n/master.m3u8?t=v6h3NYpfeVMqdpt3-3KAcxokb7i1XF6My-V6ATioLWQ&s=1688753383&e=14400&f=45935467&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=137.135&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_l/index-v1-a1.m3u8?t=IGsEY8eB_RYdNz3t3k7GkCr-VLW3KN2ojgB2bRs1nJU&s=1688753374&e=10800&f=67239091&srv=sto086&client=137.135.38.238&asn=8075",
-                        "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_l/index-v1-a1.m3u8?t=IGsEY8eB_RYdNz3t3k7GkCr-VLW3KN2ojgB2bRs1nJU&s=1688753374&e=10800&f=67239091&srv=sto086&client=137.135.38.238&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/tjn0uweyx173?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_h/index-v1-a1.m3u8?t=IGsEY8eB_RYdNz3t3k7GkCr-VLW3KN2ojgB2bRs1nJU&s=1688753374&e=10800&f=67239091&srv=sto086&client=137.135.38.238&asn=8075",
-                        "quality": "StreamSB:1080p",
-                        "videoUrl": "https://delivery237.akamai-video-content.com/hls2/01/13447/tjn0uweyx173_h/index-v1-a1.m3u8?t=IGsEY8eB_RYdNz3t3k7GkCr-VLW3KN2ojgB2bRs1nJU&s=1688753374&e=10800&f=67239091&srv=sto086&client=137.135.38.238&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/tjn0uweyx173?",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Zj4z4w0Z6KfqAYR&expires=1688823376&ip=F0ATKRWUEI9XKxR&token=2V5jA4vomPcE",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Zj4z4w0Z6KfqAYR&expires=1688823376&ip=F0ATKRWUEI9XKxR&token=2V5jA4vomPcE"
-                    },
-                    {
-                        "url": "https://voe.sx/e/eenos7o9zdw5",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09187/eenos7o9zdw5_n/master.m3u8?t=v6h3NYpfeVMqdpt3-3KAcxokb7i1XF6My-V6ATioLWQ&s=1688753383&e=14400&f=45935467&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=137.135&sp=3500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },

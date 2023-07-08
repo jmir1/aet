@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3877.jpg"
                             },
                             {
+                                "url": "/anime/dekiru-neko-wa-kyou-mo-yuuutsu",
+                                "title": "Dekiru Neko wa Kyou mo Yuuutsu",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3880.jpg"
+                            },
+                            {
                                 "url": "/anime/nanatsu-no-maken-ga-shihai-suru",
                                 "title": "Nanatsu no Maken ga Shihai suru",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3878.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
                                 "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3858.jpg"
-                            },
-                            {
-                                "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
-                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3861.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -235,12 +235,53 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/ai-no-idenshi-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=JD7rcASICj0&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=3&sig=JD7rcASICj0&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=2&sig=4h3qgFR_PYE&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=2&sig=4h3qgFR_PYE&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=1&sig=TE-NYu4mnNA&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=1&sig=TE-NYu4mnNA&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=0&sig=xWPKraUcKfs&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=0&sig=xWPKraUcKfs&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655"
+                    },
+                    {
+                        "url": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=4&sig=vSRJA0qgY5Y&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-7.vkuser.net/?expires=1688863207527&srcIp=52.190.14.167&pr=10&srcAg=CHROME&ms=95.142.206.134&type=4&sig=vSRJA0qgY5Y&ct=0&urls=45.136.22.23%3B185.226.53.35&clientType=0&zs=43&id=5127638616655"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20230707UtOw6gPHB6b/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20230707UtOw6gPHB6b/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -390,9 +431,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a2023070750AIr42aOQV/video.mp4",
+                        "url": "https://vidcache.net:8161/a202307072kvf4774Cmo/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a2023070750AIr42aOQV/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a202307072kvf4774Cmo/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "referer": "https://www.yourupload.com/"
