@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dark-gathering/",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290435.jpg"
+                            },
+                            {
+                                "url": "/anime/shinigami-bocchan-to-kuro-maid-2nd-season/",
+                                "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/291562.jpg"
+                            },
+                            {
+                                "url": "/anime/eiyuu-kyoushitsu/",
+                                "title": "Eiyuu Kyoushitsu",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Eiyuu.Kyoushitsu.full_.3709954.jpg"
+                            },
+                            {
+                                "url": "/anime/cardfight-vanguard-willdress-season-3/",
+                                "title": "Cardfight!! Vanguard: will+Dress Season 3",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290364.jpg"
+                            },
+                            {
+                                "url": "/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                                "title": "Zom 100 Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/291175.jpg"
+                            },
+                            {
                                 "url": "/anime/liar-liar/",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/286699.jpg"
@@ -220,31 +245,6 @@
                                 "url": "/anime/oshi-no-ko/",
                                 "title": "Oshi no Ko",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/129095l.jpg"
-                            },
-                            {
-                                "url": "/anime/majutsushi-orphen-hagure-tabi-seiiki-hen/",
-                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/Majutsushi-Orphen-Hagure-Tabi-Seiiki-Hen-768x1092-1.jpg"
-                            },
-                            {
-                                "url": "/anime/aiyou-de-mishi/",
-                                "title": "Aiyou de Mishi",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/119590l.jpg"
-                            },
-                            {
-                                "url": "/anime/fate-apocrypha/",
-                                "title": "Fate/Apocrypha",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/86573l.jpg"
-                            },
-                            {
-                                "url": "/anime/the-marginal-service/",
-                                "title": "The Marginal Service",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133934l.jpg"
-                            },
-                            {
-                                "url": "/anime/ao-no-orchestra/",
-                                "title": "Ao no Orchestra",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/133754l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,41 +374,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/liar-liar/",
-                    "title": "Liar Liar",
-                    "description": "",
-                    "genre": "فانتازيا, لعبة, مدرسي, خيال",
+                    "url": "/anime/dark-gathering/",
+                    "title": "Dark Gathering",
+                    "description": "“غينتوغا كيتارو” هو طالب جامعي يكره الأشباح، لكن لسوء الحظ بالنسبة له، لديه موهبة في جذب الأرواح. قبل عامين، أدى هذا الارتباط إلى إصابته بإصابة روحية في يده اليمنى، حيث وقع صديقه في تبادل لإطلاق النار. هذا الحدث تسبب في أن يصبح منغلقا، مما جعله يتمتع بمهارات اجتماعية ضعيفة للغاية.",
+                    "genre": "رعب, خارق للطبيعة, أكشن, شونين",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/286699.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290435.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/liar-liar-الحلقة-2/",
-                        "name": "2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/liar-liar-الحلقة-1/",
-                        "name": "1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc694.4shared.com/img/kCoDjbHljq/d4342e10/dlink__2Fdownload_2FkCoDjbHljq_3Fsbsr_3D153602309bfca0899e23411c11b15d74ae8_26bip_3DNDAuNzcuMTIzLjExMw_26lgfp_3D66_26bip_3DNDAuNzcuMTIzLjExMw_26bip_3DNDAuNzcuMTIzLjExMw/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc694.4shared.com/img/kCoDjbHljq/d4342e10/dlink__2Fdownload_2FkCoDjbHljq_3Fsbsr_3D153602309bfca0899e23411c11b15d74ae8_26bip_3DNDAuNzcuMTIzLjExMw_26lgfp_3D66_26bip_3DNDAuNzcuMTIzLjExMw_26bip_3DNDAuNzcuMTIzLjExMw/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

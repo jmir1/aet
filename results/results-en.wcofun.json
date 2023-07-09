@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/eiyuu-kyoushitsu",
+                                "title": "Eiyuu Kyoushitsu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933005.jpg"
+                            },
+                            {
+                                "url": "/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933004.jpg"
+                            },
+                            {
                                 "url": "/anime/doomlands",
                                 "title": "Doomlands",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933003.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/wake-up-carlo",
                                 "title": "Wake Up, Carlo!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932987.jpg"
-                            },
-                            {
-                                "url": "/anime/kizazi-moto-generation-fire",
-                                "title": "Kizazi Moto: Generation Fire",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932986.jpg"
-                            },
-                            {
-                                "url": "/anime/undead-girl-murder-farce-english-subbed",
-                                "title": "Undead Girl Murder Farce English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932985.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/doomlands",
-                    "title": "Doomlands",
-                    "description": "Looks at the life of the infamous Danny Doom and aspiring bartender, Lhandi, as they sling beers across a hellish wasteland in their mobile pub: The Oasis. Facing desert gangs, memory-stealing creeps, and even mean bathroom graffiti.",
-                    "genre": "Adult animation, Animated sitcom, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933003.jpg",
+                    "url": "/anime/eiyuu-kyoushitsu",
+                    "title": "Eiyuu Kyoushitsu",
+                    "description": "A long time ago, there existed a Demon Lord who terrorized throughout the world until a Hero stepped up to the stage and challenged the Demon Lord, ultimately defeating him and ending his reign. The Hero then created Rosewood Academy, an academy made to help heroes-in-training achieve supremacy and help defend the world when needed that enrolls only the best of the best.",
+                    "genre": "Action, Ecchi, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933005.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/doomlands-episode-10-daddys-girl-part-2",
-                        "name": "Episode 10 Daddy’s Girl, Part 2",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/doomlands-episode-9-daddys-girl-part-1",
-                        "name": "Episode 9 Daddy’s Girl, Part 1",
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrbj6Y0Cg0CfYoobIdzXMQrrpR0xl8O2opkgDG1f0WeRhu3iBRkZxaH3sYEuGe8YVKAArK-q0_JwHGDcyfyD_Bj2MiZE1U7JpfIA5WQUiJlweF5szV4s23riia6iu1tQnLxSuMkR6RppTYY3e-aJ7rhe7fRfp5ukVYYBDXI8h2MchTgHqTMR2NaJ121GIqGSV_BUopEQIixAgWJ8GCT7O-_VS4LkgBf7LsIKPPSA2H-_2YEB94iIBLluXgI5wN0f88VM-COPeK7CDnA79IUcl1BGqlq6Q4B3zUR-L5IkEf3FHWUlhT1gyxVC_JFULsQFvH-WAppQG6xvHZXpjfzRpN4",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrbj6Y0Cg0CfYoobIdzXMQrrpR0xl8O2opkgDG1f0WeRhu3iBRkZxaH3sYEuGe8YVKAArK-q0_JwHGDcyfyD_Bj2MiZE1U7JpfIA5WQUiJlweF5szV4s23riia6iu1tQnLxSuMkR6RppTYY3e-aJ7rhe7fRfp5ukVYYBDXI8h2MchTgHqTMR2NaJ121GIqGSV_BUopEQIixAgWJ8GCT7O-_VS4LkgBf7LsIKPPSA2H-_2YEB94iIBLluXgI5wN0f88VM-COPeK7CDnA79IUcl1BGqlq6Q4B3zUR-L5IkEf3FHWUlhT1gyxVC_JFULsQFvH-WAppQG6xvHZXpjfzRpN4"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrbj6Y0Cg0CfYoobIdzXMQrrpR0xl8O2opkgDG1f0WeRFvNBF6o6cGjGs0U88AFKdK5f58jvh9w87zcN8v6Au8i3YpBElVrdky8S5q15bgbJ1t_ivK92t6LAmc1WBdhR2nXpSh_H3e-SzOW2w8jasSYA32Fmrk_zOIc8cJo7s-wDAScBi2UPSfTKnjKXmjbiZkpFKm-F9sMdjkwWHmY2S8vzq6dUIQJN90yWQo8_vHRcL9hS2lATkaknG-8kEtGRTsrYfShXBBLAPpcDxtEM6KsSyX_7HyOxpVORFSohza2OyMtN1Cb3wDtshNoZlMeKPw",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrbj6Y0Cg0CfYoobIdzXMQrrpR0xl8O2opkgDG1f0WeRFvNBF6o6cGjGs0U88AFKdK5f58jvh9w87zcN8v6Au8i3YpBElVrdky8S5q15bgbJ1t_ivK92t6LAmc1WBdhR2nXpSh_H3e-SzOW2w8jasSYA32Fmrk_zOIc8cJo7s-wDAScBi2UPSfTKnjKXmjbiZkpFKm-F9sMdjkwWHmY2S8vzq6dUIQJN90yWQo8_vHRcL9hS2lATkaknG-8kEtGRTsrYfShXBBLAPpcDxtEM6KsSyX_7HyOxpVORFSohza2OyMtN1Cb3wDtshNoZlMeKPw"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
