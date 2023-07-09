@@ -11,15 +11,20 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
