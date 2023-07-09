@@ -3,27 +3,27 @@
         "name": "Türk Anime TV",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.ConnectException: Failed to connect to www.turkanime.co/34.232.162.153:443",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.ConnectException: Failed to connect to www.turkanime.co/34.232.162.153:443",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.ConnectException: Failed to connect to www.turkanime.co/34.232.162.153:443",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.ConnectException: Failed to connect to www.turkanime.co/34.232.162.153:443",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.ConnectException: Failed to connect to www.turkanime.co/34.232.162.153:443",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.ConnectException: Failed to connect to www.turkanime.co/34.232.162.153:443",
                 "passed": false
             }
         }
