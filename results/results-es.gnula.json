@@ -172,11 +172,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
-                                "url": "/series/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
@@ -185,6 +180,11 @@
                                 "url": "/movies/the-world-to-come",
                                 "title": "The World to Come",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -247,19 +247,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
                             },
                             {
-                                "url": "/movies/la-vuelta-al-mundo-en-80-dias",
-                                "title": "La vuelta al mundo en 80 días",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/5sOJTtPJfOT74sSTABd3E0K5Zmy.jpg"
-                            },
-                            {
-                                "url": "/series/astrid-and-lilly-save-the-world",
-                                "title": "Astrid & Lilly Save the World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/dgYFcMUOojIeK7jZEjkjK3tOqTe.jpg"
+                                "url": "/movies/team-america-policia-mundial",
+                                "title": "Team America: Policía mundial",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6X9Uo1r5RPJuiY36TXbwtYguOze.jpg"
                             },
                             {
                                 "url": "/series/the-walking-dead-world-beyond",
                                 "title": "The Walking Dead: World Beyond",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
+                            },
+                            {
+                                "url": "/movies/ya-no-me-siento-a-gusto-en-este-mundo",
+                                "title": "Ya no me siento a gusto en este mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8cb4APubOIrauUg1QWoQxDWo7Kw.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -294,14 +294,47 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=1BbzQvAMjXfejd2&expires=1688996133&ip=GxOsEHEnDS9X&token=GheAxjpowG5a",
+                        "url": "https://delivery423.akamai-video-content.com/hls2/01/13473/j5hn98jyv2t2_n/index-v1-a1.m3u8?t=rnCg_aQ4G5JObyb2H18Jo4pMc3_V88k5WP2xq4YKsO8&s=1688949698&e=10800&f=67369678&srv=sto007&client=40.77.92.126&asn=8075",
+                        "quality": "Latino StreamSB:720p ",
+                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/13473/j5hn98jyv2t2_n/index-v1-a1.m3u8?t=rnCg_aQ4G5JObyb2H18Jo4pMc3_V88k5WP2xq4YKsO8&s=1688949698&e=10800&f=67369678&srv=sto007&client=40.77.92.126&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/j5hn98jyv2t2",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery423.akamai-video-content.com/hls2/01/13473/j5hn98jyv2t2_l/index-v1-a1.m3u8?t=rnCg_aQ4G5JObyb2H18Jo4pMc3_V88k5WP2xq4YKsO8&s=1688949698&e=10800&f=67369678&srv=sto007&client=40.77.92.126&asn=8075",
+                        "quality": "Latino StreamSB:480p ",
+                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/13473/j5hn98jyv2t2_l/index-v1-a1.m3u8?t=rnCg_aQ4G5JObyb2H18Jo4pMc3_V88k5WP2xq4YKsO8&s=1688949698&e=10800&f=67369678&srv=sto007&client=40.77.92.126&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/j5hn98jyv2t2",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery423.akamai-video-content.com/hls2/01/13473/j5hn98jyv2t2_h/index-v1-a1.m3u8?t=rnCg_aQ4G5JObyb2H18Jo4pMc3_V88k5WP2xq4YKsO8&s=1688949698&e=10800&f=67369678&srv=sto007&client=40.77.92.126&asn=8075",
+                        "quality": "Latino StreamSB:1080p ",
+                        "videoUrl": "https://delivery423.akamai-video-content.com/hls2/01/13473/j5hn98jyv2t2_h/index-v1-a1.m3u8?t=rnCg_aQ4G5JObyb2H18Jo4pMc3_V88k5WP2xq4YKsO8&s=1688949698&e=10800&f=67369678&srv=sto007&client=40.77.92.126&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/j5hn98jyv2t2",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=1BbzQvAMjXfejd2&expires=1689019700&ip=GxOsEHEnDS9X&token=p-T2PDnYega6",
                         "quality": "Latino StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1BbzQvAMjXfejd2&expires=1688996133&ip=GxOsEHEnDS9X&token=GheAxjpowG5a"
+                        "videoUrl": "https://streamtape.com/get_video?id=1BbzQvAMjXfejd2&expires=1689019700&ip=GxOsEHEnDS9X&token=p-T2PDnYega6"
                     },
                     {
                         "url": "https://voe.sx/e/tqset91o9c18",
                         "quality": "Latino Voex",
-                        "videoUrl": "https://delivery-node-hp7ggvzgmt9khcvf.voe-network.net/engine/hls2/01/09189/tqset91o9c18_n/master.m3u8?t=Cs66FvTfgsKDBTR9BTAUIYx2RszwdvXJRdsibyC6cnY&s=1688926135&e=14400&f=45947686&node=delivery-node-hp7ggvzgmt9khcvf.voe-network.net&i=40.77&sp=3500&asn=8075"
+                        "videoUrl": "https://delivery-node-n5pskzpdwfihlhnd.voe-network.net/engine/hls2-c/01/09189/tqset91o9c18_n/master.m3u8?t=vqTMuTaOATZSPQiiM7xTMwE8RpNL9usnoiQjshcVqow&s=1688949702&e=14400&f=45947686&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=40.77&sp=3500&asn=8075"
                     }
                 ],
                 "passed": true

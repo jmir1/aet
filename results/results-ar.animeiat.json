@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/Rlq0wl9wS2P1mjtk1688922974.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/i7Bw3wuqYXMZwqLT1688922482.jpg"
+                            },
+                            {
                                 "url": "/anime/trapp-ikka-monogatari",
                                 "title": "Trapp Ikka Monogatari",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/8VFPxzSthISzUBMF1687351023.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/anime/star-wars-visions-2nd-volume",
                                 "title": "Star Wars : Visions 2nd Volume",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/qk6qlg6qQp11i0cV1683308967.jpg"
-                            },
-                            {
-                                "url": "/anime/deemo-movie-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku",
-                                "title": "Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/3Ey2n7Oj8apNlNoT1682304925.jpg"
-                            },
-                            {
-                                "url": "/anime/pokemon-2023",
-                                "title": "Pokemon (2023)",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/ccIKgV7eOIVvn2aG1682303580.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -274,42 +274,25 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/trapp-ikka-monogatari",
-                    "title": "Trapp Ikka Monogatari",
-                    "author": "Nippon Animation",
-                    "description": "مربية يتم إرسالها لتربية سبعة أطفال أشقياء لعائلة تعيش في مدينة سالزبورغ بالنمسا.. ومع مرور الوقت، يتعلق الأطفال بالمربية وتصبح فيما بعد فردا من العائلة ، تابعوا القصة …",
-                    "genre": "Childcare, تاريخي, موسيقى, دراما, رومانسي",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeiat.co/storage/posters/8VFPxzSthISzUBMF1687351023.jpg",
+                    "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror",
+                    "title": "Genjitsu no Yohane: Sunshine in the Mirror",
+                    "author": "Sunrise",
+                    "description": "تعود بطلات Love Live! Sunshine!! في انمي جديد وبطابع مختلف هذه المرة سيخوضين في مغامرة خيالة ساحرة.",
+                    "genre": "خيال",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeiat.co/storage/posters/Rlq0wl9wS2P1mjtk1688922974.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "episode/trapp-ikka-monogatari-episode-40",
-                        "name": "Trapp Ikka Monogatari الحلقة 40 مترجمة",
-                        "episode_number": 40.0
-                    },
-                    {
-                        "url": "episode/trapp-ikka-monogatari-episode-39",
-                        "name": "Trapp Ikka Monogatari الحلقة 39 مترجمة",
-                        "episode_number": 39.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://shahidha.net/files/36676/%5BAnimeiat.co%5DTrapp_Ikka_Monogatari_-_EP40%5B360p%5D.mp4",
-                        "quality": "360p SD",
-                        "videoUrl": "https://shahidha.net/files/36676/%5BAnimeiat.co%5DTrapp_Ikka_Monogatari_-_EP40%5B360p%5D.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/word-party-presents-math",
+                                "title": "Word Party Presents: Math!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933007.jpg"
+                            },
+                            {
+                                "url": "/anime/dark-gathering-english-subbed",
+                                "title": "Dark Gathering English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933006.jpg"
+                            },
+                            {
                                 "url": "/anime/eiyuu-kyoushitsu",
                                 "title": "Eiyuu Kyoushitsu",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933005.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
                                 "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932989.jpg"
-                            },
-                            {
-                                "url": "/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
-                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932988.jpg"
-                            },
-                            {
-                                "url": "/anime/wake-up-carlo",
-                                "title": "Wake Up, Carlo!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932987.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/eiyuu-kyoushitsu",
-                    "title": "Eiyuu Kyoushitsu",
-                    "description": "A long time ago, there existed a Demon Lord who terrorized throughout the world until a Hero stepped up to the stage and challenged the Demon Lord, ultimately defeating him and ending his reign. The Hero then created Rosewood Academy, an academy made to help heroes-in-training achieve supremacy and help defend the world when needed that enrolls only the best of the best.",
-                    "genre": "Action, Ecchi, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933005.jpg",
+                    "url": "/anime/word-party-presents-math",
+                    "title": "Word Party Presents: Math!",
+                    "description": "Count numbers, compare shapes and find patterns with baby animals Franny, Bailey, Kip, Lulu and Tilly as they use math and sing songs to solve problems.",
+                    "genre": "Animation, Educational, Family, Kids, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933007.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/word-party-presents-math-episode-10-kip-the-mathemagician-let-me-count-the-ways",
+                        "name": "Episode 10 Kip the Mathemagician/Let Me Count the Ways",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/word-party-presents-math-episode-9-ready-player-tilly-the-gold-rush",
+                        "name": "Episode 9 Ready Player Tilly/The Gold Rush",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgtix-vm2mrvX42ONQMlCEsrm_y44_vf9IAEfACm49NL7Ho00bfLURuiuHrWteVReWwOPRKSfja3ijBy_-_wMLH9Xrf9NBq1lXj3pMgPR1eCJEKROtClC2inXjU72on_SYWtrz92qzkZngAg8oxB7gJvU-eO18bVzZMCX1He1Ya96LGy_8TfCjWMmDjIcb_7TOQWbwEFpjDTyZ_ITIHE-8Yv-b-2rnVqfZBrxAp0aSxuFF9JeGW4AqrrS21KV48qe7a0pzLUd_G1saqU-KkTKVp1D9LmxwUuS7rMfzTdx_ATNkPGkCI_dguwQWCEvbl3Xs5POD31mjuTlBDOhLElqqGwWn5uBnXgCfHRsu6hWbDr",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgtix-vm2mrvX42ONQMlCEsrm_y44_vf9IAEfACm49NL7Ho00bfLURuiuHrWteVReWwOPRKSfja3ijBy_-_wMLH9Xrf9NBq1lXj3pMgPR1eCJEKROtClC2inXjU72on_SYWtrz92qzkZngAg8oxB7gJvU-eO18bVzZMCX1He1Ya96LGy_8TfCjWMmDjIcb_7TOQWbwEFpjDTyZ_ITIHE-8Yv-b-2rnVqfZBrxAp0aSxuFF9JeGW4AqrrS21KV48qe7a0pzLUd_G1saqU-KkTKVp1D9LmxwUuS7rMfzTdx_ATNkPGkCI_dguwQWCEvbl3Xs5POD31mjuTlBDOhLElqqGwWn5uBnXgCfHRsu6hWbDr"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgtix-vm2mrvX42ONQMlCEsrm_y44_vf9IAEfACm49NL7Ho00bfLURuiuHrWteVRecL0L5CoQjpVKue0wonXvSaMj751cFiA4jZMm4m5jo9AOJSOuwiYFSvLaZQ5EjiyydGyq8zYCevNei7evjuErqTeGIGNY-_G_Pnh3optEmxhBT4adS3rROxxvNeMZWOIbgD9Yu4WrT1s09Oa3KZPR49BwD2Ok4WXI48YAVrZQYJ_00_dI5tnMA-lrcmRjSqXqy0bSPR3Fwhw1CbmI3ENGnXzJScZzRuYpkXFPjibcqaMBEVKcetWJWcywdvjbXfCg9VU6-ux9VLkt8XtsmD3J3ggSHx6njbddJ-jBEDIB_BS",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgtix-vm2mrvX42ONQMlCEsrm_y44_vf9IAEfACm49NL7Ho00bfLURuiuHrWteVRecL0L5CoQjpVKue0wonXvSaMj751cFiA4jZMm4m5jo9AOJSOuwiYFSvLaZQ5EjiyydGyq8zYCevNei7evjuErqTeGIGNY-_G_Pnh3optEmxhBT4adS3rROxxvNeMZWOIbgD9Yu4WrT1s09Oa3KZPR49BwD2Ok4WXI48YAVrZQYJ_00_dI5tnMA-lrcmRjSqXqy0bSPR3Fwhw1CbmI3ENGnXzJScZzRuYpkXFPjibcqaMBEVKcetWJWcywdvjbXfCg9VU6-ux9VLkt8XtsmD3J3ggSHx6njbddJ-jBEDIB_BS"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgtix-vm2mrvX42ONQMlCEsrm_y44_vf9IAEfACm49NL7Ho00bfLURuiuHrWteVReY1FJRRbv15_fXCMPyepO0lLn2UxzeBcJ8FJfiTJTLlOszRE_Hcp-59NBPIsgWehg3fdJSAOQDdCrYvTCWUTGMlbai4EaIJsUC03jzjZqFXj0izDplHQtuuihR8pLKILWctubppSRq4I88B3sbRceq0M4a8oHtM9gqVYxK33fetlEuldDtST197oiYbSNj2-hvy8UU5tO_Si3MvbSTnrhfQ-Zj8araaXFLrKulndEirXNXfOvuNbmzBv3wAasOhWcyzXw-DJUqfZe7oj2aKeIRYyG1YPDPhw29WgRr_X7OS1",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgtix-vm2mrvX42ONQMlCEsrm_y44_vf9IAEfACm49NL7Ho00bfLURuiuHrWteVReY1FJRRbv15_fXCMPyepO0lLn2UxzeBcJ8FJfiTJTLlOszRE_Hcp-59NBPIsgWehg3fdJSAOQDdCrYvTCWUTGMlbai4EaIJsUC03jzjZqFXj0izDplHQtuuihR8pLKILWctubppSRq4I88B3sbRceq0M4a8oHtM9gqVYxK33fetlEuldDtST197oiYbSNj2-hvy8UU5tO_Si3MvbSTnrhfQ-Zj8araaXFLrKulndEirXNXfOvuNbmzBv3wAasOhWcyzXw-DJUqfZe7oj2aKeIRYyG1YPDPhw29WgRr_X7OS1"
+                    }
+                ],
+                "passed": true
             }
         }
     }

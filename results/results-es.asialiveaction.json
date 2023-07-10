@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/hidden-agenda/",
+                                "title": "Hidden Agenda (1/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
+                            },
+                            {
+                                "url": "/shonan-junai-gumi-temporada-completa-8-8/",
+                                "title": "Shonan Junai Gumi! Temporada Completa (8/8)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bbfd5erZnH6pUn7EMq7DNPis5p0.jpg"
+                            },
+                            {
                                 "url": "/do-it-yourself/",
                                 "title": "Do It Yourself!! (01/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/house-of-stars-4/",
                                 "title": "House Of Stars (5/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9F5OUT5uDyKQcoqRQeIR6dYeJuz.jpg"
-                            },
-                            {
-                                "url": "/ai-long-nhai/",
-                                "title": "Ai Long Nhai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/n5E2RGMSdQXltsaYCp1QRUuAO1q.jpg"
-                            },
-                            {
-                                "url": "/kyoshinhei-tokyo-ni-arawaru/",
-                                "title": "Kyoshinhei Tokyo ni Arawaru",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/hidden-agenda/",
+                                "title": "Hidden Agenda (1/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
+                            },
+                            {
+                                "url": "/shonan-junai-gumi-temporada-completa-8-8/",
+                                "title": "Shonan Junai Gumi! Temporada Completa (8/8)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bbfd5erZnH6pUn7EMq7DNPis5p0.jpg"
+                            },
+                            {
                                 "url": "/do-it-yourself/",
                                 "title": "Do It Yourself!! (01/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg"
@@ -245,16 +255,6 @@
                                 "url": "/house-of-stars-4/",
                                 "title": "House Of Stars (5/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9F5OUT5uDyKQcoqRQeIR6dYeJuz.jpg"
-                            },
-                            {
-                                "url": "/ai-long-nhai/",
-                                "title": "Ai Long Nhai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/n5E2RGMSdQXltsaYCp1QRUuAO1q.jpg"
-                            },
-                            {
-                                "url": "/kyoshinhei-tokyo-ni-arawaru/",
-                                "title": "Kyoshinhei Tokyo ni Arawaru",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cHODk6v2YaHnGPrmRgRXTaRG7dG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,27 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/do-it-yourself/",
-                    "title": "Do It Yourself!! (01/??)",
-                    "description": "Do It Yourself!! Basada en el anime original del estudio «Pine Jam», es una historia que sigue a las niñas de preparatoria que trabajan en proyectos de bricolaje, mientras luchan, fracasan, pero no se dan por vencidas y llevan los proyectos hasta el final. La historia describe la vida de esas niñas mientras dan el primer paso hacia el futuro.",
-                    "genre": "Aventura, Comedia, Drama, Escolar",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/1926780/",
-                        "name": "Episodio 01",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
