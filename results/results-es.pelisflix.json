@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/shen-hai/",
+                                "title": "Shen Hai",
+                                "description": "Película de suspenso y ciencia ficción que cuenta la historia de una niña que busca y explora un ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/zk8RRw3NwoVpEuYFNg72zG5I4EAaGW.webp"
+                            },
+                            {
                                 "url": "/pelicula/you-me-and-the-christmas-trees/",
                                 "title": "You, Me and the Christmas Trees",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "Figli",
                                 "description": "Sara y Nicola esperan su segundo hijo. A través de la mirada aguda del difunto Mattia Torre, todas ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7gnqiVZiQ49Dir0J12lE.webp"
-                            },
-                            {
-                                "url": "/pelicula/nimona/",
-                                "title": "Nimona",
-                                "description": "Un caballero es acusado de un crimen que no ha cometido y la única persona que puede ayudarle a dem...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/l4vn4J6eontfFbqtHb68Qy4SfCi.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/you-me-and-the-christmas-trees/",
-                    "title": "You, Me and the Christmas Trees",
-                    "description": "",
-                    "genre": "Comedia, Romance",
+                    "url": "/pelicula/shen-hai/",
+                    "title": "Shen Hai",
+                    "description": "Película de suspenso y ciencia ficción que cuenta la historia de una niña que busca y explora un misterioso mundo submarino.",
+                    "genre": "Animación, Aventura, C. Ficción, Fantasía",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/you-me-and-the-christmas-trees/",
+                        "url": "/pelicula/shen-hai/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar gLxtfPtcW = \"\"; qmLnyqMQ.forEach(function Oym(value) { gLxtfPtcW += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar UghOahjz = \"\"; kberRWG.forEach(function Oym(value) { UghOahjz += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
