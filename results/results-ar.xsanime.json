@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/synduality-noir/",
+                                "title": "Synduality Noir",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/284558.jpg"
+                            },
+                            {
                                 "url": "/anime/dark-gathering/",
                                 "title": "Dark Gathering",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290435.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/ousama-ranking-yuuki-no-takarabako/",
                                 "title": "Ousama Ranking: Yuuki no Takarabako",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/126681l.jpg"
-                            },
-                            {
-                                "url": "/anime/oshi-no-ko/",
-                                "title": "Oshi no Ko",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/04/129095l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,24 +374,36 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dark-gathering/",
-                    "title": "Dark Gathering",
-                    "description": "“غينتوغا كيتارو” هو طالب جامعي يكره الأشباح، لكن لسوء الحظ بالنسبة له، لديه موهبة في جذب الأرواح. قبل عامين، أدى هذا الارتباط إلى إصابته بإصابة روحية في يده اليمنى، حيث وقع صديقه في تبادل لإطلاق النار. هذا الحدث تسبب في أن يصبح منغلقا، مما جعله يتمتع بمهارات اجتماعية ضعيفة للغاية.",
-                    "genre": "رعب, خارق للطبيعة, أكشن, شونين",
+                    "url": "/anime/synduality-noir/",
+                    "title": "Synduality Noir",
+                    "description": "في عام 2222، وبعد سنوات من “دموع القمر الجديد”، المطر الغامض الذي هطل وأزال تقريبًا جميع سكان الأرض، تولدت مخلوقات مشوهة تلتهم البشر نتيجة لهذا المطر السام، وفرت البشرية من الخطر. ولتأمين بقائهم، بنى البشر ملاذًا تحت الأرض يدعى “أماسيا”. في هذه المدينة المظلمة التي تم بناؤها حديثًا، وفي سعيهم للبقاء على قيد الحياة، يصادفون ذكاء اصطناعي يدعى “ماغوس”. دون معرفة بكيفية تفاعلهما معًا، تبدأ قصة التقاء البشر والذكاء الاصطناعي ومحاولتهما اكتشاف حقائقهما.",
+                    "genre": "خارق للطبيعة, سحري, دراما, خيال علمي",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290435.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/284558.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/synduality-noir-الحلقة-1/",
+                        "name": "1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc597.4shared.com/img/9N8OPWUdge/5fd30eec/dlink__2Fdownload_2F9N8OPWUdge_3Fsbsr_3Db9a31fd3844ce1307eb7be2120c28153ae8_26bip_3DNDAuNzcuNTAuMTY1_26lgfp_3D66_26bip_3DNDAuNzcuNTAuMTY1_26bip_3DNDAuNzcuNTAuMTY1/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc597.4shared.com/img/9N8OPWUdge/5fd30eec/dlink__2Fdownload_2F9N8OPWUdge_3Fsbsr_3Db9a31fd3844ce1307eb7be2120c28153ae8_26bip_3DNDAuNzcuNTAuMTY1_26lgfp_3D66_26bip_3DNDAuNzcuNTAuMTY1_26bip_3DNDAuNzcuNTAuMTY1/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

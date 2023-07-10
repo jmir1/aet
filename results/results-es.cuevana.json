@@ -3,23 +3,23 @@
         "name": "Cuevana",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: n2.cuevana3.me: Name or service not known",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: n2.cuevana3.me",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: n2.cuevana3.me",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: n2.cuevana3.me",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: n2.cuevana3.me",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

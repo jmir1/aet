@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-princess-principal-crown-handler-movie-3-مترجم/",
+                                "title": "فيلم Princess Principal: Crown Handler Movie 3 مترجم",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Princess-Principal-Crown-Handler-Movie-3-413x559-1-223x302.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-bokura-no-yoake-مترجم/",
                                 "title": "فيلم Bokura no Yoake مترجم",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289554-223x313.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-the-place-promised-in-our-early-days-بلوراي/",
                                 "title": "فيلم The Place Promised in Our Early Days بلوراي",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/The-Place-Promised-in-Our-Early-Days-223x313.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-free-movie-3-road-to-the-world-yume-بلوراي/",
-                                "title": "فيلم Free! Movie 3: Road to the World – Yume بلوراي",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2021/12/Free-Movie-3-Road-to-the-World-Yume-223x313.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-bokura-no-yoake-مترجم/",
-                    "title": "فيلم Bokura no Yoake مترجم",
-                    "description": "في عام 2049 في المستقبل القريب، أدركت البشرية أنه بعد عدد من السنوات الأرض ستواجه اصطدامًا لا مفر منه بمذنب عملاق يوما هو صبي مهووس بالفضاء والروبوتات والاصطدام الوشيك يلتقي مع كائن من خارج كوكب الأرض والذي اكتشف أنه مرتبط بالمذنب القادم.",
+                    "url": "/movie/فيلم-princess-principal-crown-handler-movie-3-مترجم/",
+                    "title": "فيلم Princess Principal: Crown Handler Movie 3 مترجم",
+                    "description": "الفيلم الثالث المكمل لأحداث الانمي.",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/289554.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Princess-Principal-Crown-Handler-Movie-3-413x559-1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-bokura-no-yoake-مترجم/",
-                        "name": "Bokura no Yoake مترجم"
+                        "url": "/movie/فيلم-princess-principal-crown-handler-movie-3-مترجم/",
+                        "name": "Princess Principal: Crown Handler Movie 3 مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc685.4shared.com/img/tPeAqGB9ge/44b3f5b8/dlink__2Fdownload_2FtPeAqGB9ge_3Fsbsr_3Db73848a59c0b67d911963c08159f7585ae8_26bip_3DNDAuMTIyLjI0Mi45OA_26lgfp_3D66_26bip_3DNDAuMTIyLjI0Mi45OA_26bip_3DNDAuMTIyLjI0Mi45OA/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc685.4shared.com/img/tPeAqGB9ge/44b3f5b8/dlink__2Fdownload_2FtPeAqGB9ge_3Fsbsr_3Db73848a59c0b67d911963c08159f7585ae8_26bip_3DNDAuMTIyLjI0Mi45OA_26lgfp_3D66_26bip_3DNDAuMTIyLjI0Mi45OA_26bip_3DNDAuMTIyLjI0Mi45OA/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

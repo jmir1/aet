@@ -7,18 +7,23 @@
                     {
                         "animes": [
                             {
-                                "url": "/?p=118091",
-                                "title": "Zom 100 – Bucket List of the Dead",
+                                "url": "/my-tiny-senpai-53379/",
+                                "title": "My Tiny Senpai",
                                 "thumbnail_url": ""
                             },
                             {
-                                "url": "/?p=118087",
+                                "url": "/rurouni-kenshin-2023-50613/",
                                 "title": "Rurouni Kenshin (2023)",
                                 "thumbnail_url": ""
                             },
                             {
-                                "url": "/?p=118080",
+                                "url": "/jujutsu-kaisen-season-2-51009/",
                                 "title": "Jujutsu Kaisen Season 2",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/zom-100-bucket-list-of-the-dead-54112/",
+                                "title": "Zom 100 – Bucket List of the Dead",
                                 "thumbnail_url": ""
                             },
                             {
@@ -848,16 +853,52 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/my-tiny-senpai-53379/",
+                    "title": "My Tiny Senpai",
+                    "author": "Project No.9",
+                    "description": "\"My senpai from work... is tiny and cute.\" Shinozaki is an office worker who is taken care of and coddled by his senior team member Shiori Katase: a gorgeous, profoundly kind, loving, and diminutive woman. Shinozaki certainly hopes that she's not doing it out of duty... but her joy of doing so increasingly exposes her feelings! (Source: MU)",
+                    "genre": "Comedy, Romance",
+                    "thumbnail_url": "https://animekaizoku.com/wp-content/uploads/2023/07/mylilcoworker.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "[{\"url\":\"DDL(17, 6, '1-1', 0)\",\"type\":\"6\",\"quality\":\"1080\",\"name\":\"My Tiny Senpai - 02\",\"postId\":\"118100\",\"ref\":\"https://animekaizoku.com/my-tiny-senpai-53379/\",\"info\":\"My Tiny Senpai 1080p Eng Sub [dedsec]\"},{\"url\":\"DDL(2014, 2, '1-1', 0)\",\"type\":\"2\",\"quality\":\"1080\",\"name\":\"My Tiny Senpai - 02\",\"postId\":\"118100\",\"ref\":\"https://animekaizoku.com/my-tiny-senpai-53379/\",\"info\":\"My Tiny Senpai 1080p Eng Sub [dedsec]\"}]",
+                        "name": "My Tiny Senpai - 02",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "[{\"url\":\"DDL(17, 6, '1-0', 0)\",\"type\":\"6\",\"quality\":\"1080\",\"name\":\"My Tiny Senpai - 01\",\"postId\":\"118100\",\"ref\":\"https://animekaizoku.com/my-tiny-senpai-53379/\",\"info\":\"My Tiny Senpai 1080p Eng Sub [dedsec]\"},{\"url\":\"DDL(2014, 2, '1-0', 0)\",\"type\":\"2\",\"quality\":\"1080\",\"name\":\"My Tiny Senpai - 01\",\"postId\":\"118100\",\"ref\":\"https://animekaizoku.com/my-tiny-senpai-53379/\",\"info\":\"My Tiny Senpai 1080p Eng Sub [dedsec]\"}]",
+                        "name": "My Tiny Senpai - 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s.animekaizoku.com/Lnon8nlNwFfwZgKtSaQliEIjx",
+                        "quality": "(6) 1080p My Tiny Senpai 1080p Eng Sub [dedsec]",
+                        "videoUrl": "https://s.animekaizoku.com/Lnon8nlNwFfwZgKtSaQliEIjx",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36"
+                        }
+                    },
+                    {
+                        "url": "https://s.animekaizoku.com/CmLBUa",
+                        "quality": "(2) 1080p My Tiny Senpai 1080p Eng Sub [dedsec]",
+                        "videoUrl": "https://s.animekaizoku.com/CmLBUa",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

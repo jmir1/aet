@@ -367,24 +367,24 @@
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/one-punch-man-2.jpg"
                             },
                             {
-                                "url": "/anime/darling-in-the-franxx/",
-                                "title": "Darling in the FranXX",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/darling-in-the-franxx.jpg"
-                            },
-                            {
                                 "url": "/anime/spirit-chronicles/",
                                 "title": "Spirit Chronicles",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/spirit-chronicles.jpg"
                             },
                             {
-                                "url": "/anime/so-i-m-a-spider-so-what/",
-                                "title": "So I'm a Spider, So What?",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/so-i-m-a-spider-so-what.jpg"
+                                "url": "/anime/darling-in-the-franxx/",
+                                "title": "Darling in the FranXX",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/darling-in-the-franxx.jpg"
                             },
                             {
                                 "url": "/anime/dragon-ball-z/",
                                 "title": "Dragon Ball Z",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/dragon-ball-z.jpg"
+                            },
+                            {
+                                "url": "/anime/so-i-m-a-spider-so-what/",
+                                "title": "So I'm a Spider, So What?",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/so-i-m-a-spider-so-what.jpg"
                             },
                             {
                                 "url": "/anime/banana-fish/",
@@ -766,6 +766,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/mononogatari-2nd-season/",
+                                "title": "Mononogatari 2nd Season",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/mononogatari-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/anime/synduality-noir/",
+                                "title": "Synduality: Noir",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/synduality-noir.jpg"
+                            },
+                            {
+                                "url": "/anime/level-1-demon-lord-and-one-room-hero/",
+                                "title": "Lv1 Maou to One Room Yuusha",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/level-1-demon-lord-and-one-room-hero.jpg"
+                            },
+                            {
+                                "url": "/anime/masamune-kun-s-revenge-r/",
+                                "title": "Masamune-kun no Revenge R",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/masamune-kun-s-revenge-r.jpg"
+                            },
                             {
                                 "url": "/anime/tousouchuu-great-mission/",
                                 "title": "Tousouchuu: Great Mission",
@@ -1325,21 +1345,6 @@
                                 "url": "/anime/the-marginal-service/",
                                 "title": "The Marginal Service",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/the-marginal-service.jpg"
-                            },
-                            {
-                                "url": "/anime/tokyo-mew-mew-new-2nd-season/",
-                                "title": "Tokyo Mew Mew New 2nd Season",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/tokyo-mew-mew-new-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/anime/skip-and-loafer/",
-                                "title": "Skip to Loafer",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/skip-and-loafer.jpg"
-                            },
-                            {
-                                "url": "/anime/kubo-won-t-let-me-be-invisible/",
-                                "title": "Kubo-san wa Mob wo Yurusanai",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/kubo-won-t-let-me-be-invisible.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -1538,8 +1543,74 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.1080.m3u8",
+                        "quality": "vstream - 1080p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.1080.m3u8"
+                    },
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.720.m3u8",
+                        "quality": "vstream - 720p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.720.m3u8"
+                    },
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.480.m3u8",
+                        "quality": "vstream - 480p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.480.m3u8"
+                    },
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.360.m3u8",
+                        "quality": "vstream - 360p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.360.m3u8"
+                    },
+                    {
+                        "url": "https://mixdrop.to/e/n0kvllw3cr4r70",
+                        "quality": "mixdrop - MixDrop",
+                        "videoUrl": "https://s-delivery35.mxdcontent.net/v/5230e07b47a2bc9c61d9540520d3a2ba.mp4?s=SU-RA-Jzrcxt6BoFMv8wcw&e=1689034157&_t=1689016096",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=BGj4vBz12QTGR4&expires=1689082556&ip=F0AsFxInDS9X&token=DeqlFSzQQ5MT",
+                        "quality": "streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=BGj4vBz12QTGR4&expires=1689082556&ip=F0AsFxInDS9X&token=DeqlFSzQQ5MT"
+                    },
+                    {
+                        "url": "https://delivery371.akamai-video-content.com/hls2/01/13486/iqmordfjbfhq_n/index-v1-a1.m3u8?t=BfxCWmaVvcZouvbFuC_hqn5Oqz91O_6kG2gRvbZukNA&s=1689012555&e=10800&f=67432558&srv=sto146&client=13.86.226.83&asn=8075",
+                        "quality": "streamsb -  StreamSB:720p ",
+                        "videoUrl": "https://delivery371.akamai-video-content.com/hls2/01/13486/iqmordfjbfhq_n/index-v1-a1.m3u8?t=BfxCWmaVvcZouvbFuC_hqn5Oqz91O_6kG2gRvbZukNA&s=1689012555&e=10800&f=67432558&srv=sto146&client=13.86.226.83&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://streamsb.space/embed-iqmordfjbfhq.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery371.akamai-video-content.com/hls2/01/13486/iqmordfjbfhq_l/index-v1-a1.m3u8?t=BfxCWmaVvcZouvbFuC_hqn5Oqz91O_6kG2gRvbZukNA&s=1689012555&e=10800&f=67432558&srv=sto146&client=13.86.226.83&asn=8075",
+                        "quality": "streamsb -  StreamSB:480p ",
+                        "videoUrl": "https://delivery371.akamai-video-content.com/hls2/01/13486/iqmordfjbfhq_l/index-v1-a1.m3u8?t=BfxCWmaVvcZouvbFuC_hqn5Oqz91O_6kG2gRvbZukNA&s=1689012555&e=10800&f=67432558&srv=sto146&client=13.86.226.83&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://streamsb.space/embed-iqmordfjbfhq.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://main.bilucdn.com/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/c751bab1939a2b83020565e1ac242896/one-piece-episode-1068-1688869167.original.m3u8",
+                        "quality": "src2 -  (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://main.bilucdn.com/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/c751bab1939a2b83020565e1ac242896/one-piece-episode-1068-1688869167.original.m3u8"
+                    },
+                    {
+                        "url": "https://main.bilucdn.com/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/c751bab1939a2b83020565e1ac242896/one-piece-episode-1068-1688869167.original.m3u8",
+                        "quality": "src -  (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://main.bilucdn.com/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/c751bab1939a2b83020565e1ac242896/one-piece-episode-1068-1688869167.original.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
