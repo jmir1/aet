@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/oso-vicioso/",
+                                "title": "Oso vicioso",
+                                "description": "Inspirado en hechos reales ocurridos en Kentucky en 1985, durante los cuales un oso negro de 175 lib...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/U6cObcTcvwcxXQF7JuDyh5mDgNjXvpCgmEV.webp"
+                            },
+                            {
                                 "url": "/pelicula/shen-hai/",
                                 "title": "Shen Hai",
                                 "description": "Película de suspenso y ciencia ficción que cuenta la historia de una niña que busca y explora un ...",
@@ -115,7 +121,7 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/acGEkzx3CvJJX2lnkSawSu5PoktHS4sS6YngoL.webp"
                             },
                             {
-                                "url": "/pelicula/los-iniciados/",
+                                "url": "/pelicula/los-iniciados-zqfs/",
                                 "title": "Los iniciados",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/t4BklYnv3z3tXkCyhmb9I8ZTx6bZXYThSls4aFq35k.webp"
@@ -239,12 +245,6 @@
                                 "title": "Little Bone Lodge",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EHywYPtyeYGEjwdFBvKEdzIfN.webp"
-                            },
-                            {
-                                "url": "/pelicula/figli/",
-                                "title": "Figli",
-                                "description": "Sara y Nicola esperan su segundo hijo. A través de la mirada aguda del difunto Mattia Torre, todas ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7gnqiVZiQ49Dir0J12lE.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/shen-hai/",
-                    "title": "Shen Hai",
-                    "description": "Película de suspenso y ciencia ficción que cuenta la historia de una niña que busca y explora un misterioso mundo submarino.",
-                    "genre": "Animación, Aventura, C. Ficción, Fantasía",
+                    "url": "/pelicula/oso-vicioso/",
+                    "title": "Oso vicioso",
+                    "description": "Inspirado en hechos reales ocurridos en Kentucky en 1985, durante los cuales un oso negro de 175 libras ingirió 88 libras de cocaína pura.",
+                    "genre": "Comedia, Estrenos, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/shen-hai/",
+                        "url": "/pelicula/oso-vicioso/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar IOQxDbczcF = \"\"; tfCCmZSUNf.forEach(function Oym(value) { IOQxDbczcF += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar UBTHegymJc = \"\"; pOAxuNdw.forEach(function Oym(value) { UBTHegymJc += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
