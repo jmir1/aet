@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
+                                "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg"
+                            },
+                            {
                                 "url": "/synduality-noir-ger-sub/",
                                 "title": "Synduality: Noir Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64388.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/watashi-no-shiawase-na-kekkon-ger-sub/",
                                 "title": "Watashi no Shiawase na Kekkon Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55449.jpg"
-                            },
-                            {
-                                "url": "/kaminaki-sekai-no-kamisama-katsudou-ger-sub/",
-                                "title": "Kaminaki Sekai no Kamisama Katsudou Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/55605.jpg"
                             },
                             {
                                 "url": "/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-ger-dub/",
@@ -439,23 +439,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/synduality-noir-ger-sub/",
-                    "title": "Synduality: Noir Ger Sub",
-                    "description": "SYNDUALITY spielt im Jahr 2222. Jahre, nachdem ein mysteriöser, giftiger Regen genannt „The Tears of the New Moon“ fast die gesamte Menschheit auslöschte und deformierte Kreaturen, die die nun verbliebene Population unerbittlich jagen, erschuf. Die Menschheit war gezwungen im Untergrund zu leben, wo sie sich eine unterirdische Zufluchtsstelle namens Amasia erbauten.<br>\n   Dort stießen die Menschen auf Formen der Künstlichen Intelligenz und begannen mit diesen „Magus“ genannten KI’s zusammen zu arbeiten.\n ",
-                    "genre": "SciFi",
+                    "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
+                    "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
+                    "description": "Kaede Komura hat seine Aufmerksamkeit stets auf seine Tischnachbarin Ai Mie gerichtet. Von ihrem süßen Charme angezogen, wünscht er sich nichts mehr, als dass sie ihn mit ihren schönen Augen unter ihrer Brille ansieht. Doch schon wenige Tage nach ihrem Kennenlernen bemerkt Kaede, dass an Ai etwas anders ist: Ihre Augen schielen und ihre Brille fehlt, aber trotzdem findet er sie weiterhin bezaubernd …\n ",
+                    "genre": "Romance, School, Shounen, Slice of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64388.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/?link=1",
+                        "name": "Ep. 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/?link=0",
+                        "name": "Ep. 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\"",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
