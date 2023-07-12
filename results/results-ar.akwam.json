@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/8788/asteroid-city",
+                                "title": "Asteroid City",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/cp3PA.jpg"
+                            },
+                            {
                                 "url": "/movie/8630/transformers-rise-of-the-beasts",
                                 "title": "Transformers: Rise of the Beasts",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/i9NQe.jpg"
@@ -25,6 +30,11 @@
                                 "url": "/movie/8772/the-out-laws",
                                 "title": "The Out-Laws",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/UjBhP.jpg"
+                            },
+                            {
+                                "url": "/movie/8787/ghost-town",
+                                "title": "Ghost Town",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/2XTVI.jpg"
                             },
                             {
                                 "url": "/movie/8786/lola",
@@ -145,16 +155,6 @@
                                 "url": "/movie/8754/gold-brick",
                                 "title": "Gold Brick",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/yQ6FP.jpg"
-                            },
-                            {
-                                "url": "/movie/8763/travel-to-the-east",
-                                "title": "Travel to the East",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/TjLzt.jpg"
-                            },
-                            {
-                                "url": "/movie/8762/the-haunting-3",
-                                "title": "The Haunting 3",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/i4ZHo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -279,11 +279,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/8630/transformers-rise-of-the-beasts",
-                    "title": "Transformers: Rise of the Beasts",
+                    "url": "/movie/8788/asteroid-city",
+                    "title": "Asteroid City",
                     "author": "الولايات المتحدة الأمريكية",
-                    "description": "قصة الفيلم فيلم Transformers: Rise of the Beasts في إطار من الحركة والخيال العلمي، تظهر مجموعة من الحيوانات الآلية، مما يطلق العنان لحربا كبرى يشارك بها كافة المتحولون. ترجمة : || محمد النعيمي & د.علي طلال & فؤاد الخفاجي ||",
-                    "genre": "PG13 اشراف عائلي, WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, اكشن, خيال علمي, مغامرة",
+                    "description": "قصة الفيلم فيلم Asteroid City في عام 1955، يجتمع مجموعة من الطلاب والآباء من أجل حضور مؤتمر خاص بالفضاء، ولكن يتعطل مسار المؤتمر حينما يتعرض العالم لسلسلة من الأحداث الغير متوقعة.",
+                    "genre": "PG13 اشراف عائلي, WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, كوميدي, رومانسي, دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -293,15 +293,31 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/8630/transformers-rise-of-the-beasts",
+                        "url": "/movie/8788/asteroid-city",
                         "name": "مشاهدة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s104.akw.onl/download/1689208972/64adf70cd1645/Asteroid.City.2023.1080p.WEB-DL.AKWAM.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "http://s104.akw.onl/download/1689208972/64adf70cd1645/Asteroid.City.2023.1080p.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s103.akw.onl/download/1689208973/64adf70d07a4b/Asteroid.City.2023.720p.WEB-DL.AKWAM.mp4",
+                        "quality": "720p",
+                        "videoUrl": "http://s103.akw.onl/download/1689208973/64adf70d07a4b/Asteroid.City.2023.720p.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s204d2.akdl.link/download/1689208973/64adf70d2f09b/Asteroid.City.2023.480p.WEB-DL.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s204d2.akdl.link/download/1689208973/64adf70d2f09b/Asteroid.City.2023.480p.WEB-DL.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

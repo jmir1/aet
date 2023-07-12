@@ -252,19 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=1jRz3WdXakCxQy&expires=1689168978&ip=GxOsFxqnDS9X&token=8b-Nzc3qm1qL",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=1jRz3WdXakCxQy&expires=1689168978&ip=GxOsFxqnDS9X&token=8b-Nzc3qm1qL"
-                    },
-                    {
-                        "url": "https://wolfdyslectic.com/lp2zvz9rchht?Ninja.Girl.and.Samurai.Master.S03E26.GerEngSub.AAC.720p.WebDL.x264-Tanuki(Sub).mp4",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-itmywuvwu73sgpdk.voe-network.net/engine/hls2/01/09212/lp2zvz9rchht_n/master.m3u8?t=dNGNl9PuZDMMcU_5QX9IgEaI7fEwtPeaoGn403Nqc6E&s=1689098977&e=14400&f=46061312&node=delivery-node-itmywuvwu73sgpdk.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
