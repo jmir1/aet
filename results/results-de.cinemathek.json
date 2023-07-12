@@ -486,7 +486,7 @@
                 "result": {
                     "url": "/filme/the-devil-conspiracy/",
                     "title": "The Devil Conspiracy",
-                    "description": "A cult steals the Shroud of Turin for wicked purposes.\n",
+                    "description": "A cult steals the Shroud of Turin for wicked purposes.\n\nOriginaltitel: The Devil Conspiracy",
                     "genre": "Fantasy, Horror, Science Fiction, Thriller",
                     "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/07/aDTkTwQXUwuLJKvvGZWGG4kx5Cg-200x300.jpg",
                     "initialized": true
@@ -504,8 +504,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04181/h7nb5hj39vlb_x/index-v1-a1.m3u8?t=IFD07G6pBjZs0sTGBUoIwUSxYpiMkNqIiw187pYv8bk&s=1689185350&e=43200&f=20906010&srv=29&asn=8075&sp=2500",
+                        "quality": "Filemoon:800p ",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04181/h7nb5hj39vlb_x/index-v1-a1.m3u8?t=IFD07G6pBjZs0sTGBUoIwUSxYpiMkNqIiw187pYv8bk&s=1689185350&e=43200&f=20906010&srv=29&asn=8075&sp=2500"
+                    }
+                ],
+                "passed": true
             }
         }
     }

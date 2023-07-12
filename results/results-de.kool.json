@@ -287,11 +287,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/qN1gTF5DhdUWyXBlkRxdRsEkhqh.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=505642&type=movie",
-                                "title": "Black Panther: Wakanda Forever",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vo9QISNKYtDN40VKfQkPxbMOO9j.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=17681&type=movie",
                                 "title": "Scooby-Doo! und das Geheimnis der Hexe",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/ljEEGImypBFGoXU7eZSTo4vE9nC.jpg"
@@ -320,6 +315,11 @@
                                 "url": "/data/watch/?_id=868759&type=movie",
                                 "title": "Ghosted",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/cQaGBBcin0YiavUNWGxnqoUPDFi.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=505642&type=movie",
+                                "title": "Black Panther: Wakanda Forever",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vo9QISNKYtDN40VKfQkPxbMOO9j.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=8920&type=movie",
@@ -552,6 +552,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/ckmE20yunwirGaXRRzCIB16dp0Q.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=1074178&type=movie",
+                                "title": "追龙番外篇之龙争虎斗",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/clAzJXKTRXOfmLovb8vyJsixB1H.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=414906&type=movie",
                                 "title": "The Batman",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg"
@@ -565,6 +570,11 @@
                                 "url": "/data/watch/?_id=91314&type=movie",
                                 "title": "Transformers: Ära des Untergangs",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7EpjvHbiLT6p3OnXozdBr59zew3.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=9072&type=movie",
+                                "title": "Little Man",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zlmlkLVNexUciv3ffdtqHELEVgg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -647,19 +657,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://clipboard.cc/g/Q2lhH6QQBBc8",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/Q2lhH6QQBBc8"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/JZhIxL2rYvxU",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/JZhIxL2rYvxU"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

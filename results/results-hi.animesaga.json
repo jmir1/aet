@@ -142,11 +142,6 @@
                                 "thumbnail_url": "https://www.animesaga.in/public/upload/post/Aqw80YJaq2.png"
                             },
                             {
-                                "url": "/serie/vinland-saga",
-                                "title": "Vinland Saga",
-                                "thumbnail_url": "https://www.animesaga.in/public/upload/post/e7SjoLa0rB.png"
-                            },
-                            {
                                 "url": "/serie/invincible",
                                 "title": "Invincible",
                                 "thumbnail_url": "https://www.animesaga.in/public/upload/post/exWagP4CYS.png"
@@ -255,6 +250,11 @@
                                 "url": "/serie/my-dress-up-darling",
                                 "title": "My Dress-Up Darling",
                                 "thumbnail_url": "https://www.animesaga.in/public/upload/post/wJBxSYuCsB.png"
+                            },
+                            {
+                                "url": "/serie/radiant",
+                                "title": "RADIANT",
+                                "thumbnail_url": "https://www.animesaga.in/public/upload/post/D9RfsAvh4y.png"
                             }
                         ],
                         "hasNextPage": true
@@ -299,14 +299,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/serie/akudama-drive-1-season-5-episode",
+                        "name": "Season 1 Ep. 5 Dead Man Walking",
+                        "episode_number": 5.0
+                    },
+                    {
                         "url": "/serie/akudama-drive-1-season-4-episode",
                         "name": "Season 1 Ep. 4 SPEED",
                         "episode_number": 4.0
-                    },
-                    {
-                        "url": "/serie/akudama-drive-1-season-3-episode",
-                        "name": "Season 1 Ep. 3 MISSION: IMPOSSIBLE",
-                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -314,9 +314,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls24-eu.zcdn.stream/c4a3866dec9687eb3976698fd7a0aea9/2023-07-05/1080.m3u8?token=65883b635e36b84920a4a0934c5b6075&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689192869&type=edge&node=dQ8rsTgTD2nja11IPgTCJM7SU2SNu9XhnKDnZdk2h2Hp79C2TXgCVrkWldSA3vNUlD-c9sZ7kWTiNeXC90VyBuhWSJb3_tge2iBqPApU48s",
+                        "url": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/1080.m3u8?token=0fefb9b1bb214efd51cc3dc20d3cb10e&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689214186&type=edge&node=fYbLVhxF2uRHP8pKtR_Jf0rhCBeRbUcY6m9JppyyPSNemXB5QJk_TWlIPAEsCnihMMNS_zUWISggALWomsQyd7kpU37aYbCCNKlPyI9D2sw",
                         "quality": "Chillx - 1080p",
-                        "videoUrl": "https://hls24-eu.zcdn.stream/c4a3866dec9687eb3976698fd7a0aea9/2023-07-05/1080.m3u8?token=65883b635e36b84920a4a0934c5b6075&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689192869&type=edge&node=dQ8rsTgTD2nja11IPgTCJM7SU2SNu9XhnKDnZdk2h2Hp79C2TXgCVrkWldSA3vNUlD-c9sZ7kWTiNeXC90VyBuhWSJb3_tge2iBqPApU48s",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/1080.m3u8?token=0fefb9b1bb214efd51cc3dc20d3cb10e&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689214186&type=edge&node=fYbLVhxF2uRHP8pKtR_Jf0rhCBeRbUcY6m9JppyyPSNemXB5QJk_TWlIPAEsCnihMMNS_zUWISggALWomsQyd7kpU37aYbCCNKlPyI9D2sw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",
@@ -326,12 +326,18 @@
                             "Sec-Fetch-Site": "cross-site",
                             "Origin": "https://cdn.animesaga.in",
                             "Referer": "https://cdn.animesaga.in/"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/1959252.srt",
+                                "lang": "English"
+                            }
+                        ]
                     },
                     {
-                        "url": "https://hls24-eu.zcdn.stream/c4a3866dec9687eb3976698fd7a0aea9/2023-07-05/720.m3u8?token=65883b635e36b84920a4a0934c5b6075&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689192869&type=edge&node=dQ8rsTgTD2nja11IPgTCJM7SU2SNu9XhnKDnZdk2h2Hp79C2TXgCVrkWldSA3vNUlD-c9sZ7kWTiNeXC90VyBuhWSJb3_tge2iBqPApU48s",
+                        "url": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/720.m3u8?token=0fefb9b1bb214efd51cc3dc20d3cb10e&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689214186&type=edge&node=fYbLVhxF2uRHP8pKtR_Jf0rhCBeRbUcY6m9JppyyPSNemXB5QJk_TWlIPAEsCnihMMNS_zUWISggALWomsQyd7kpU37aYbCCNKlPyI9D2sw",
                         "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls24-eu.zcdn.stream/c4a3866dec9687eb3976698fd7a0aea9/2023-07-05/720.m3u8?token=65883b635e36b84920a4a0934c5b6075&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689192869&type=edge&node=dQ8rsTgTD2nja11IPgTCJM7SU2SNu9XhnKDnZdk2h2Hp79C2TXgCVrkWldSA3vNUlD-c9sZ7kWTiNeXC90VyBuhWSJb3_tge2iBqPApU48s",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/720.m3u8?token=0fefb9b1bb214efd51cc3dc20d3cb10e&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689214186&type=edge&node=fYbLVhxF2uRHP8pKtR_Jf0rhCBeRbUcY6m9JppyyPSNemXB5QJk_TWlIPAEsCnihMMNS_zUWISggALWomsQyd7kpU37aYbCCNKlPyI9D2sw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",
@@ -341,12 +347,18 @@
                             "Sec-Fetch-Site": "cross-site",
                             "Origin": "https://cdn.animesaga.in",
                             "Referer": "https://cdn.animesaga.in/"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/1959252.srt",
+                                "lang": "English"
+                            }
+                        ]
                     },
                     {
-                        "url": "https://hls24-eu.zcdn.stream/c4a3866dec9687eb3976698fd7a0aea9/2023-07-05/360.m3u8?token=65883b635e36b84920a4a0934c5b6075&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689192869&type=edge&node=dQ8rsTgTD2nja11IPgTCJM7SU2SNu9XhnKDnZdk2h2Hp79C2TXgCVrkWldSA3vNUlD-c9sZ7kWTiNeXC90VyBuhWSJb3_tge2iBqPApU48s",
+                        "url": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/360.m3u8?token=0fefb9b1bb214efd51cc3dc20d3cb10e&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689214186&type=edge&node=fYbLVhxF2uRHP8pKtR_Jf0rhCBeRbUcY6m9JppyyPSNemXB5QJk_TWlIPAEsCnihMMNS_zUWISggALWomsQyd7kpU37aYbCCNKlPyI9D2sw",
                         "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls24-eu.zcdn.stream/c4a3866dec9687eb3976698fd7a0aea9/2023-07-05/360.m3u8?token=65883b635e36b84920a4a0934c5b6075&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689192869&type=edge&node=dQ8rsTgTD2nja11IPgTCJM7SU2SNu9XhnKDnZdk2h2Hp79C2TXgCVrkWldSA3vNUlD-c9sZ7kWTiNeXC90VyBuhWSJb3_tge2iBqPApU48s",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/360.m3u8?token=0fefb9b1bb214efd51cc3dc20d3cb10e&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689214186&type=edge&node=fYbLVhxF2uRHP8pKtR_Jf0rhCBeRbUcY6m9JppyyPSNemXB5QJk_TWlIPAEsCnihMMNS_zUWISggALWomsQyd7kpU37aYbCCNKlPyI9D2sw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",
@@ -356,7 +368,13 @@
                             "Sec-Fetch-Site": "cross-site",
                             "Origin": "https://cdn.animesaga.in",
                             "Referer": "https://cdn.animesaga.in/"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls26-eu.zcdn.stream/68cd08fde8eec387d9d4800e77f5f148/2023-07-12/1959252.srt",
+                                "lang": "English"
+                            }
+                        ]
                     }
                 ],
                 "passed": true
