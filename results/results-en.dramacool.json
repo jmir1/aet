@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/drama-detail/d-p-season-2",
+                                "title": "D.P. Season 2 (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/d-p-season-2-1689143547.png"
+                            },
+                            {
                                 "url": "/drama-detail/my-heart-is-beating",
                                 "title": "Heartbeat (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/my-heart-is-beating-1686760201.png"
@@ -180,11 +185,6 @@
                                 "url": "/drama-detail/kill-bok-soon",
                                 "title": "Kill Bok Soon (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/kill-bok-soon-1679676446.png"
-                            },
-                            {
-                                "url": "/drama-detail/joseon-lawyer-2022",
-                                "title": "Joseon Attorney: A Morality (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/joseon-lawyer-2022-1679588766.png"
                             }
                         ],
                         "hasNextPage": true
@@ -196,6 +196,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/drama-detail/ray-of-light",
+                                "title": "Ray of Light (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/ray-of-light-1688144328.png"
+                            },
+                            {
+                                "url": "/drama-detail/butterflied-love",
+                                "title": "Butterflied Love (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/butterflied-love-1689065526.png"
+                            },
+                            {
+                                "url": "/drama-detail/shadow-detective-season-2",
+                                "title": "Shadow Detective Season 2 (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/shadow-detective-season-2-1687626486.png"
+                            },
                             {
                                 "url": "/drama-detail/sound-candy",
                                 "title": "Sound Candy (2023)",
@@ -322,11 +337,6 @@
                                 "thumbnail_url": "https://imagecdn.me/cover/rebirth-2023-1689107781.png"
                             },
                             {
-                                "url": "/drama-detail/ray-of-light",
-                                "title": "Ray of Light (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/ray-of-light-1688144328.png"
-                            },
-                            {
                                 "url": "/drama-detail/princess-make-way",
                                 "title": "Princess, Make Way (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/princess-make-way-1688367547.png"
@@ -365,16 +375,6 @@
                                 "url": "/drama-detail/a-house-with-a-yard",
                                 "title": "Lies Hidden in My Garden (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/a-house-with-a-yard-1686244900.png"
-                            },
-                            {
-                                "url": "/drama-detail/the-coroner-from-longcheng-season-2-2023",
-                                "title": "The Coroner from Longcheng Season 2 (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/the-coroner-from-longcheng-season-2-2023-1689085477.png"
-                            },
-                            {
-                                "url": "/drama-detail/my-fireworks-on-earth",
-                                "title": "Fireworks of My Heart (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/my-fireworks-on-earth-1688617352.png"
                             }
                         ],
                         "hasNextPage": true
@@ -494,42 +494,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/drama-detail/my-heart-is-beating",
-                    "title": "Heartbeat (2023)",
-                    "author": "KBS2",
-                    "description": "A love story between the half-human and half-vampire Seon Woo Hyul, who was unable to become human due to a one-day difference over 100 years, and Joo In Hae, a woman who has no humane side and finds true warmth. ",
-                    "genre": "Cohabitation, Fantasy, Romance, Vampire",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://imagecdn.me/cover/my-heart-is-beating-1686760201.png",
+                    "url": "/drama-detail/d-p-season-2",
+                    "title": "D.P. Season 2 (2023)",
+                    "author": "Netflix",
+                    "description": " This unfolding story ensues when military desertion arrest squad members (DP), Jun Ho and Ho Yeol, run across absurdities and unchangeable reality on a regular basis. (Source: Namuwiki) Adapted from the webtoon \"D.P Dog Day\" (D.P 개의 날) by Kim Bo Tong (김보통).  ",
+                    "genre": "Action, Bromance, Comedy, Drama, Military, Miniseries, Web Series",
+                    "thumbnail_url": "https://imagecdn.me/cover/d-p-season-2-1689143547.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/heartbeat-2023-episode-6.html",
-                        "name": "SUB: Episode 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/heartbeat-2023-episode-5.html",
-                        "name": "SUB: Episode 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=ekMX02MWqAhYyM1&expires=1689212216&ip=FROsExqnDS9X&token=Yu2KTlWSB_fi",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ekMX02MWqAhYyM1&expires=1689212216&ip=FROsExqnDS9X&token=Yu2KTlWSB_fi"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
