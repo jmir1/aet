@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/15-coming-of-age-sub-espanol/",
+                                "title": "15+ Coming of Age",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/m44CBfL3erclj5XLhzomkIYBue6.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -18,7 +23,7 @@
                             },
                             {
                                 "url": "/do-it-yourself/",
-                                "title": "Do It Yourself!! (01/??)",
+                                "title": "Do It Yourself!! (02/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg"
                             },
                             {
@@ -120,11 +125,6 @@
                                 "url": "/segodon-sub-espanol/",
                                 "title": "Segodon (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg"
-                            },
-                            {
-                                "url": "/house-of-stars-4/",
-                                "title": "House Of Stars (5/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9F5OUT5uDyKQcoqRQeIR6dYeJuz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/15-coming-of-age-sub-espanol/",
+                                "title": "15+ Coming of Age",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/m44CBfL3erclj5XLhzomkIYBue6.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -148,7 +153,7 @@
                             },
                             {
                                 "url": "/do-it-yourself/",
-                                "title": "Do It Yourself!! (01/??)",
+                                "title": "Do It Yourself!! (02/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9TETBUok2QCqLu4jaQH3mAR8eSx.jpg"
                             },
                             {
@@ -250,11 +255,6 @@
                                 "url": "/segodon-sub-espanol/",
                                 "title": "Segodon (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg"
-                            },
-                            {
-                                "url": "/house-of-stars-4/",
-                                "title": "House Of Stars (5/??)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9F5OUT5uDyKQcoqRQeIR6dYeJuz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/15-coming-of-age-sub-espanol/",
+                    "title": "15+ Coming of Age",
+                    "description": "Con sus hormonas adolescentes al rojo vivo, tres chicos de secundaria se ayudan mutuamente a explorar su curiosidad sobre el sexo opuesto y el amor en esta obscena comedia.",
+                    "genre": "Comedia, Erótico, Escolar, Fantasía, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/m44CBfL3erclj5XLhzomkIYBue6.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/0726825/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

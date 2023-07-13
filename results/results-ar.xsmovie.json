@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-5-toubun-no-hanayome-movie-مترجم/",
+                                "title": "فيلم 5-toubun no Hanayome Movie مترجم",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/270652-223x313.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-princess-principal-crown-handler-movie-3-مترجم/",
                                 "title": "فيلم Princess Principal: Crown Handler Movie 3 مترجم",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Princess-Principal-Crown-Handler-Movie-3-413x559-1-223x302.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-ainbo-2021-مترجم-اون-لاين-بلوراي/",
                                 "title": "فيلم Ainbo 2021 مترجم اون لاين بلوراي",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/Ainbo-Bluray-xsanime-223x330.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-the-place-promised-in-our-early-days-بلوراي/",
-                                "title": "فيلم The Place Promised in Our Early Days بلوراي",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/The-Place-Promised-in-Our-Early-Days-223x313.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-princess-principal-crown-handler-movie-3-مترجم/",
-                    "title": "فيلم Princess Principal: Crown Handler Movie 3 مترجم",
-                    "description": "الفيلم الثالث المكمل لأحداث الانمي.",
+                    "url": "/movie/فيلم-5-toubun-no-hanayome-movie-مترجم/",
+                    "title": "فيلم 5-toubun no Hanayome Movie مترجم",
+                    "description": "",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Princess-Principal-Crown-Handler-Movie-3-413x559-1.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/270652.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,21 +388,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-princess-principal-crown-handler-movie-3-مترجم/",
-                        "name": "Princess Principal: Crown Handler Movie 3 مترجم"
+                        "url": "/movie/فيلم-5-toubun-no-hanayome-movie-مترجم/",
+                        "name": "5-toubun no Hanayome Movie مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc612.4shared.com/img/tPeAqGB9ge/44b3f5b8/dlink__2Fdownload_2FtPeAqGB9ge_3Fsbsr_3D873f42275144e1292463cb0179481e8aae8_26bip_3DNDAuNzcuOTIuMTIy_26lgfp_3D66_26bip_3DNDAuNzcuOTIuMTIy_26bip_3DNDAuNzcuOTIuMTIy/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc612.4shared.com/img/tPeAqGB9ge/44b3f5b8/dlink__2Fdownload_2FtPeAqGB9ge_3Fsbsr_3D873f42275144e1292463cb0179481e8aae8_26bip_3DNDAuNzcuOTIuMTIy_26lgfp_3D66_26bip_3DNDAuNzcuOTIuMTIy_26bip_3DNDAuNzcuOTIuMTIy/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
