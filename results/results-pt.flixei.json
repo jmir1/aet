@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/25726.webp"
                             },
                             {
-                                "url": "/assistir/filme/shang-chi-e-a-lenda-dos-dez-aneis/online/gratis",
-                                "title": "Shang-Chi e a Lenda dos Dez Anéis",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/27813.webp"
-                            },
-                            {
                                 "url": "/assistir/filme/godzilla-vs-kong/online/gratis",
                                 "title": "Godzilla vs. Kong",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/25727.webp"
+                            },
+                            {
+                                "url": "/assistir/filme/shang-chi-e-a-lenda-dos-dez-aneis/online/gratis",
+                                "title": "Shang-Chi e a Lenda dos Dez Anéis",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/27813.webp"
                             },
                             {
                                 "url": "/assistir/filme/365-dias/online/gratis",
@@ -1726,8 +1726,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=rFzB5CvzsPRK9GJb4nUTug&e=1689293367&_t=1689280339",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=rFzB5CvzsPRK9GJb4nUTug&e=1689293367&_t=1689280339",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=0955z9azLEa_x_UfEQz2_g&e=1689293367&_t=1689272041",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=0955z9azLEa_x_UfEQz2_g&e=1689293367&_t=1689272041",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1689341762&ip=F0qQKRWQE19XKxR&token=9hbwTgbiAlvS",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1689341762&ip=F0qQKRWQE19XKxR&token=9hbwTgbiAlvS"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1689341767&ip=F0qQKRWQE19XKxR&token=dLu0xOIbkGC9",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1689341767&ip=F0qQKRWQE19XKxR&token=dLu0xOIbkGC9"
+                    }
+                ],
+                "passed": true
             }
         }
     }
