@@ -162,7 +162,7 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/izM188jmhe3ULrwpjWCcYBa2zw8.jpg"
                             },
                             {
-                                "url": "/serie/east-new-york-uma-nova-lei-2022-assistir-online/",
+                                "url": "/serie/east-new-york-uma-nova-lei-2022-assistir-online-1689236162/",
                                 "title": "East New York: Uma Nova Lei",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/2XsVs01utW2kW2aOC4Rk8SwJLS4.jpg"
                             },
@@ -329,8 +329,53 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery549.akamai-video-content.com/hls2/01/13285/xxy93kz4myie_n/index-v1-a1.m3u8?t=B5obgv9S03RJpjs3gDtBfazecxXLp9Kwc8OkPgti8sY&s=1689250384&e=10800&f=66425246&srv=sto083&client=172.177.22.56&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery549.akamai-video-content.com/hls2/01/13285/xxy93kz4myie_n/index-v1-a1.m3u8?t=B5obgv9S03RJpjs3gDtBfazecxXLp9Kwc8OkPgti8sY&s=1689250384&e=10800&f=66425246&srv=sto083&client=172.177.22.56&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/xxy93kz4myie.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_n/index-v1-a1.m3u8?t=QSoDxXH2S2X3TngczIuBGzg04DLIMYjh2v4-tJBoceM&s=1689250383&e=10800&f=66424312&srv=sto233&client=172.177.22.56&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_n/index-v1-a1.m3u8?t=QSoDxXH2S2X3TngczIuBGzg04DLIMYjh2v4-tJBoceM&s=1689250383&e=10800&f=66424312&srv=sto233&client=172.177.22.56&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/7o9mdt3x095x.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery549.akamai-video-content.com/hls2/01/13285/xxy93kz4myie_l/index-v1-a1.m3u8?t=B5obgv9S03RJpjs3gDtBfazecxXLp9Kwc8OkPgti8sY&s=1689250384&e=10800&f=66425246&srv=sto083&client=172.177.22.56&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery549.akamai-video-content.com/hls2/01/13285/xxy93kz4myie_l/index-v1-a1.m3u8?t=B5obgv9S03RJpjs3gDtBfazecxXLp9Kwc8OkPgti8sY&s=1689250384&e=10800&f=66425246&srv=sto083&client=172.177.22.56&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/xxy93kz4myie.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_l/index-v1-a1.m3u8?t=QSoDxXH2S2X3TngczIuBGzg04DLIMYjh2v4-tJBoceM&s=1689250383&e=10800&f=66424312&srv=sto233&client=172.177.22.56&asn=8075",
+                        "quality": "StreamSB:480p",
+                        "videoUrl": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_l/index-v1-a1.m3u8?t=QSoDxXH2S2X3TngczIuBGzg04DLIMYjh2v4-tJBoceM&s=1689250383&e=10800&f=66424312&srv=sto233&client=172.177.22.56&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/7o9mdt3x095x.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

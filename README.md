@@ -1,6 +1,6 @@
 ## Extension status
 
-### 100/176(57%) are working
+### 96/176(55%) are working
 
 | Extension             |   Status   | Log                                                                                                                                  |
 | :-------------------- | :--------: | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@
 | ar.animerco           |  ❌<br>3/5  | [results-ar.animerco.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.animerco.json)                     |
 | ar.animetitans        |     ✅      | [results-ar.animetitans.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.animetitans.json)               |
 | ar.arabanime          |  ❌<br>2/6  | [results-ar.arabanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.arabanime.json)                   |
-| ar.arabseed           |  ❌<br>4/5  | [results-ar.arabseed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.arabseed.json)                     |
+| ar.arabseed           |     ✅      | [results-ar.arabseed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.arabseed.json)                     |
 | ar.asia2tv            |  ❌<br>4/5  | [results-ar.asia2tv.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.asia2tv.json)                       |
 | ar.egydead            |  ❌<br>5/6  | [results-ar.egydead.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.egydead.json)                       |
 | ar.faselhd            |     ✅      | [results-ar.faselhd.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.faselhd.json)                       |
@@ -28,8 +28,8 @@
 | ar.mycima             |     ✅      | [results-ar.mycima.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.mycima.json)                         |
 | ar.tuktukcinema       |  ❌<br>3/6  | [results-ar.tuktukcinema.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.tuktukcinema.json)             |
 | ar.witanime           |     ✅      | [results-ar.witanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.witanime.json)                     |
-| ar.xsanime            |     ✅      | [results-ar.xsanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsanime.json)                       |
-| ar.xsmovie            |     ✅      | [results-ar.xsmovie.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsmovie.json)                       |
+| ar.xsanime            |  ❌<br>4/5  | [results-ar.xsanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsanime.json)                       |
+| ar.xsmovie            |  ❌<br>4/5  | [results-ar.xsmovie.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-ar.xsmovie.json)                       |
 | de.aniflix            |  ❌<br>0/6  | [results-de.aniflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.aniflix.json)                       |
 | de.aniking            |  ❌<br>0/5  | [results-de.aniking.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.aniking.json)                       |
 | de.animebase          |  ❌<br>0/5  | [results-de.animebase.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.animebase.json)                   |
@@ -44,7 +44,7 @@
 | de.movie2k            |  ❌<br>4/5  | [results-de.movie2k.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.movie2k.json)                       |
 | de.movie4k            |  ❌<br>4/5  | [results-de.movie4k.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.movie4k.json)                       |
 | de.serienstream       |  ❌<br>0/6  | [results-de.serienstream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.serienstream.json)             |
-| de.streamcloud        |  ❌<br>4/5  | [results-de.streamcloud.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.streamcloud.json)               |
+| de.streamcloud        |  ❌<br>0/5  | [results-de.streamcloud.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-de.streamcloud.json)               |
 | en.allanime           |     ✅      | [results-en.allanime.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.allanime.json)                     |
 | en.allmovies          |  ❌<br>4/5  | [results-en.allmovies.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.allmovies.json)                   |
 | en.animedao           |     ✅      | [results-en.animedao.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.animedao.json)                     |
@@ -90,10 +90,10 @@
 | en.sflix              |     ✅      | [results-en.sflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.sflix.json)                           |
 | en.superstream        |     ✅      | [results-en.superstream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.superstream.json)               |
 | en.tokuzilla          |     ✅      | [results-en.tokuzilla.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.tokuzilla.json)                   |
-| en.uhdmovies          |     ✅      | [results-en.uhdmovies.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.uhdmovies.json)                   |
+| en.uhdmovies          |  ❌<br>4/5  | [results-en.uhdmovies.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.uhdmovies.json)                   |
 | en.uniquestream       |  ❌<br>0/6  | [results-en.uniquestream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.uniquestream.json)             |
-| en.vidembed           |  ❌<br>4/5  | [results-en.vidembed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.vidembed.json)                     |
-| en.wcofun             |     ✅      | [results-en.wcofun.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.wcofun.json)                         |
+| en.vidembed           |  ❌<br>0/5  | [results-en.vidembed.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.vidembed.json)                     |
+| en.wcofun             |  ❌<br>0/5  | [results-en.wcofun.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.wcofun.json)                         |
 | en.wcostream          |     ✅      | [results-en.wcostream.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.wcostream.json)                   |
 | en.zoro               |     ✅      | [results-en.zoro.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-en.zoro.json)                             |
 | es.animefenix         |  ❌<br>0/6  | [results-es.animefenix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.animefenix.json)                 |
@@ -104,7 +104,7 @@
 | es.animeyt            |     ✅      | [results-es.animeyt.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.animeyt.json)                       |
 | es.asialiveaction     |  ❌<br>5/6  | [results-es.asialiveaction.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.asialiveaction.json)         |
 | es.cuevana            |  ❌<br>0/5  | [results-es.cuevana.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.cuevana.json)                       |
-| es.doramasflix        |  ❌<br>5/6  | [results-es.doramasflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.doramasflix.json)               |
+| es.doramasflix        |  ❌<br>4/6  | [results-es.doramasflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.doramasflix.json)               |
 | es.doramasyt          |  ❌<br>5/6  | [results-es.doramasyt.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.doramasyt.json)                   |
 | es.ennovelas          |     ✅      | [results-es.ennovelas.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.ennovelas.json)                   |
 | es.fanpelis           |  ❌<br>3/5  | [results-es.fanpelis.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-es.fanpelis.json)                     |
@@ -135,7 +135,7 @@
 | id.otakudesu          |     ✅      | [results-id.otakudesu.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-id.otakudesu.json)                   |
 | it.animelove          |     ✅      | [results-it.animelove.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.animelove.json)                   |
 | it.animesaturn        |     ✅      | [results-it.animesaturn.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.animesaturn.json)               |
-| it.animeunity         |     ✅      | [results-it.animeunity.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.animeunity.json)                 |
+| it.animeunity         |  ❌<br>5/6  | [results-it.animeunity.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.animeunity.json)                 |
 | it.animeworld         |  ❌<br>5/6  | [results-it.animeworld.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.animeworld.json)                 |
 | it.aniplay            |     ✅      | [results-it.aniplay.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.aniplay.json)                       |
 | it.hentaisaturn       |     ✅      | [results-it.hentaisaturn.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-it.hentaisaturn.json)             |
@@ -164,12 +164,12 @@
 | pt.cinevision         |     ✅      | [results-pt.cinevision.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.cinevision.json)                 |
 | pt.donghuanosekai     |     ✅      | [results-pt.donghuanosekai.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.donghuanosekai.json)         |
 | pt.donghuax           |     ✅      | [results-pt.donghuax.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.donghuax.json)                     |
-| pt.flixei             |     ✅      | [results-pt.flixei.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.flixei.json)                         |
+| pt.flixei             |  ❌<br>5/6  | [results-pt.flixei.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.flixei.json)                         |
 | pt.goanimes           |  ❌<br>0/6  | [results-pt.goanimes.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.goanimes.json)                     |
 | pt.hentaistube        |     ✅      | [results-pt.hentaistube.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.hentaistube.json)               |
 | pt.hinatasoul         |     ✅      | [results-pt.hinatasoul.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.hinatasoul.json)                 |
 | pt.listadeanimes      |  ❌<br>1/5  | [results-pt.listadeanimes.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.listadeanimes.json)           |
-| pt.megaflix           |  ❌<br>5/6  | [results-pt.megaflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.megaflix.json)                     |
+| pt.megaflix           |     ✅      | [results-pt.megaflix.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.megaflix.json)                     |
 | pt.meusanimes         |     ✅      | [results-pt.meusanimes.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.meusanimes.json)                 |
 | pt.muitohentai        |     ✅      | [results-pt.muitohentai.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.muitohentai.json)               |
 | pt.pifansubs          |     ✅      | [results-pt.pifansubs.json](https://raw.githubusercontent.com/jmir1/aet/results/results/results-pt.pifansubs.json)                   |
