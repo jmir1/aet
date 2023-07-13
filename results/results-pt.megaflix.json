@@ -12,6 +12,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/4CWoalqAsRzXD9AFbByD1KnH40E.jpg"
                             },
                             {
+                                "url": "/filme/transformers-o-despertar-das-feras-2023-assistir-online/",
+                                "title": "Transformers: O Despertar das Feras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg"
+                            },
+                            {
                                 "url": "/filme/creed-2023-assistir-online-1681398059/",
                                 "title": "Creed 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/wDugyjvDQsuwm9j9hkmK4whCOti.jpg"
@@ -35,11 +40,6 @@
                                 "url": "/filme/dungeons-dragons-honra-entre-rebeldes-2023-assistir-online-1683768044/",
                                 "title": "Dungeons & Dragons: Honra Entre Rebeldes",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/85ivt7lJm3J5Mqybdh59m09eksV.jpg"
-                            },
-                            {
-                                "url": "/filme/homem-formiga-e-a-vespa-quantumania-2023-assistir-online/",
-                                "title": "Homem-Formiga e a Vespa: Quantumania",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3aJNiESDK7quCw9IpsUCFXqvq24.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -329,31 +329,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_n/index-v1-a1.m3u8?t=p5cDFWC5M8xbEIygyzkzlgISkgBO5dI6R2L_iVZ12Bk&s=1689208894&e=10800&f=66424312&srv=sto233&client=13.91.165.226&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_n/index-v1-a1.m3u8?t=p5cDFWC5M8xbEIygyzkzlgISkgBO5dI6R2L_iVZ12Bk&s=1689208894&e=10800&f=66424312&srv=sto233&client=13.91.165.226&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/7o9mdt3x095x.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_l/index-v1-a1.m3u8?t=p5cDFWC5M8xbEIygyzkzlgISkgBO5dI6R2L_iVZ12Bk&s=1689208894&e=10800&f=66424312&srv=sto233&client=13.91.165.226&asn=8075",
-                        "quality": "StreamSB:480p",
-                        "videoUrl": "https://delivery002.akamai-video-content.com/hls2/01/13284/7o9mdt3x095x_l/index-v1-a1.m3u8?t=p5cDFWC5M8xbEIygyzkzlgISkgBO5dI6R2L_iVZ12Bk&s=1689208894&e=10800&f=66424312&srv=sto233&client=13.91.165.226&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/7o9mdt3x095x.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
