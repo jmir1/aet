@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/link-click-season-2-shiguang-dailiren-ii/",
+                                "title": "Link Click Season 2 (Shiguang Dailiren II)",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/291515.jpg"
+                            },
+                            {
                                 "url": "/anime/hataraku-maou-sama-season-3/",
                                 "title": "Hataraku Maou-sama!! Season 3",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290961.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/the-idolmster-cinderella-girls-u149/",
                                 "title": "The IDOLM@STER Cinderella Girls: U149",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/286583.jpg"
-                            },
-                            {
-                                "url": "/anime/juushinki-pandora/",
-                                "title": "Juushinki Pandora",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/05/juushinki-pandora-lyrics.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hataraku-maou-sama-season-3/",
-                    "title": "Hataraku Maou-sama!! Season 3",
-                    "description": "الموسم الثالث من الانمي",
-                    "genre": "ايسيكاي, فانتازيا, رومانسي, كوميدي, سحري, خيال",
+                    "url": "/anime/link-click-season-2-shiguang-dailiren-ii/",
+                    "title": "Link Click Season 2 (Shiguang Dailiren II)",
+                    "description": "الموسم الثاني من الانمي",
+                    "genre": "شريحة من الحياة, قوى خارقة, خارق للطبيعة, خيال, دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290961.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/291515.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,7 +388,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/hataraku-maou-sama-season-3-الحلقة-1/",
+                        "url": "/episode/link-click-season-2-shiguang-dailiren-ii-الحلقة-2/",
+                        "name": "2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/link-click-season-2-shiguang-dailiren-ii-الحلقة-1/",
                         "name": "1",
                         "episode_number": 1.0
                     }
@@ -396,8 +401,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc543.4shared.com/img/nWkmUwUKfa/36d292e5/dlink__2Fdownload_2FnWkmUwUKfa_3Fsbsr_3D1e619fface87c1c1206930c3a0a78fb4ae9_26bip_3DNTIuMTUwLjI0LjY2_26lgfp_3D66_26bip_3DNTIuMTUwLjI0LjY2_26bip_3DNTIuMTUwLjI0LjY2/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc543.4shared.com/img/nWkmUwUKfa/36d292e5/dlink__2Fdownload_2FnWkmUwUKfa_3Fsbsr_3D1e619fface87c1c1206930c3a0a78fb4ae9_26bip_3DNTIuMTUwLjI0LjY2_26lgfp_3D66_26bip_3DNTIuMTUwLjI0LjY2_26bip_3DNTIuMTUwLjI0LjY2/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

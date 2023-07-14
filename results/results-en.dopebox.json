@@ -497,8 +497,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno.dokicloud.one/_v10/e69a8042a392f7006ad1b3a73c7b536eb7c56a238c9f9a7708d2b3677971cc2dafaf5d436416a52cea04417dc4f64e3f556e609da6c0fd7dd2a172282a1f02d3a6082593421fee5d36a2685e8a93ad2b47fc38c4f546cab69ed81d1ec8ee47a2cfd0c2a4959a19e80bc92b9c81346939919eee5c9672971e6a7500f957310b9f6f134d94230557fee17b9232241a40ff/1080/index.m3u8",
+                        "quality": "UpCloud - 1080p",
+                        "videoUrl": "https://eno.dokicloud.one/_v10/e69a8042a392f7006ad1b3a73c7b536eb7c56a238c9f9a7708d2b3677971cc2dafaf5d436416a52cea04417dc4f64e3f556e609da6c0fd7dd2a172282a1f02d3a6082593421fee5d36a2685e8a93ad2b47fc38c4f546cab69ed81d1ec8ee47a2cfd0c2a4959a19e80bc92b9c81346939919eee5c9672971e6a7500f957310b9f6f134d94230557fee17b9232241a40ff/1080/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/ee/a7/eea7d738cd94999edc8c445bc3475ff4/eng-2.vtt",
+                                "lang": "English - English (SDH)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.dokicloud.one/_v10/e69a8042a392f7006ad1b3a73c7b536eb7c56a238c9f9a7708d2b3677971cc2dafaf5d436416a52cea04417dc4f64e3f556e609da6c0fd7dd2a172282a1f02d3a6082593421fee5d36a2685e8a93ad2b47fc38c4f546cab69ed81d1ec8ee47a2cfd0c2a4959a19e80bc92b9c81346939919eee5c9672971e6a7500f957310b9f6f134d94230557fee17b9232241a40ff/360/index.m3u8",
+                        "quality": "UpCloud - 360p",
+                        "videoUrl": "https://eno.dokicloud.one/_v10/e69a8042a392f7006ad1b3a73c7b536eb7c56a238c9f9a7708d2b3677971cc2dafaf5d436416a52cea04417dc4f64e3f556e609da6c0fd7dd2a172282a1f02d3a6082593421fee5d36a2685e8a93ad2b47fc38c4f546cab69ed81d1ec8ee47a2cfd0c2a4959a19e80bc92b9c81346939919eee5c9672971e6a7500f957310b9f6f134d94230557fee17b9232241a40ff/360/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/ee/a7/eea7d738cd94999edc8c445bc3475ff4/eng-2.vtt",
+                                "lang": "English - English (SDH)"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.dokicloud.one/_v10/e69a8042a392f7006ad1b3a73c7b536eb7c56a238c9f9a7708d2b3677971cc2dafaf5d436416a52cea04417dc4f64e3f556e609da6c0fd7dd2a172282a1f02d3a6082593421fee5d36a2685e8a93ad2b47fc38c4f546cab69ed81d1ec8ee47a2cfd0c2a4959a19e80bc92b9c81346939919eee5c9672971e6a7500f957310b9f6f134d94230557fee17b9232241a40ff/720/index.m3u8",
+                        "quality": "UpCloud - 720p",
+                        "videoUrl": "https://eno.dokicloud.one/_v10/e69a8042a392f7006ad1b3a73c7b536eb7c56a238c9f9a7708d2b3677971cc2dafaf5d436416a52cea04417dc4f64e3f556e609da6c0fd7dd2a172282a1f02d3a6082593421fee5d36a2685e8a93ad2b47fc38c4f546cab69ed81d1ec8ee47a2cfd0c2a4959a19e80bc92b9c81346939919eee5c9672971e6a7500f957310b9f6f134d94230557fee17b9232241a40ff/720/index.m3u8",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/ee/a7/eea7d738cd94999edc8c445bc3475ff4/eng-2.vtt",
+                                "lang": "English - English (SDH)"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
