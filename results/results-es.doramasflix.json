@@ -85,7 +85,7 @@
                             },
                             {
                                 "url": "/doramas-online/king-the-land?id=648df4fd2898fb3e5e3f863e",
-                                "title": "King the Land (킹더랜드)",
+                                "title": "King the Land (Hotel King)",
                                 "description": "En plena batalla por el control de una empresa, un encantador heredero conoce a una dedicada empleada con una sonrisa irresistible para (casi) todos.",
                                 "genre": "Drama, Comedia",
                                 "thumbnail_url": "https://www.themoviedb.org/t/p/original/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg"
@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/burn-the-house-down?id=64b05c7b35461c5d64ef182b",
+                                "title": "Burn the House Down (Cenizas del Pasado)",
+                                "description": "La familia Mitarai es rica y ha dirigido un hospital durante generaciones. Un día, su casa se quema en un incendio. 13 años después, Mitarai Makiko contrata a Murata Anzu, de una agencia de amas de casa. Ella es la segunda esposa de Mitarai Osamu. Murata Anzu pronto comienza a trabajar en la casa de Mitarai como ama de llaves. Ella tiene un propósito secreto para trabajar en su casa.",
+                                "genre": "Drama, Misterio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/s4Ot7YP5GjEW8ggmjXbf79u6b2N.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/the-legend-of-anle?id=64af600b35461c5d64eed275",
                                 "title": "The Legend of Anle (La Leyenda de Anle)",
                                 "description": "Di Zi Yuan busca venganza después de que su familia fuera acusada falsamente de traición hace diez años y decapitada según el edicto del emperador.\n\nComo única sobreviviente, cambia su nombre a Ren An Le y planea su camino hacia la corte. Admira la preocupación del príncipe heredero Han Ye por el bienestar de su pueblo. Mientras desarrolla lentamente sentimientos por él, ella permanece atormentada por su pasado, incapaz de descartar la enemistad que existe entre sus dos familias.\n\nHan Ye, impulsado por su profundo amor por Di Zi Yuan, promete resolver sus diferencias a toda costa.",
@@ -389,7 +396,7 @@
                             },
                             {
                                 "url": "/doramas-online/king-the-land?id=648df4fd2898fb3e5e3f863e",
-                                "title": "King the Land (킹더랜드)",
+                                "title": "King the Land (Hotel King)",
                                 "description": "En plena batalla por el control de una empresa, un encantador heredero conoce a una dedicada empleada con una sonrisa irresistible para (casi) todos.",
                                 "genre": "Drama, Comedia",
                                 "thumbnail_url": "https://www.themoviedb.org/t/p/original/auknE4JO3oLXNe2Go8tz6v4DPhY.jpg"
@@ -456,13 +463,6 @@
                                 "description": "Gene es un escritor profesiona, al que un día recibe la solicitud de su editor para probar suerte en el género BL (Boys Love). Él acepta este nuevo desafío, la escribe y publica una novela. Esta es bien recibida y se vuelve increíblemente exitosa; tan exitoso que incluso se planea una serie live action. Gene, entonces es engañado por Nubsib, un chico de 18 años, que llega a la audición para el papel principal, fingiendo ser educado y bondadoso cuando en realidad es un lobo completamente.",
                                 "genre": "Comedia, Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/wdHCaQuoUfCq7EhMPJfWPB57vuo.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/stupid-genius?id=6487808ab4856cb4f41de590",
-                                "title": "Stupid Genius (Estúpido genio)",
-                                "description": "La historia gira en torno a Vinh, el estudiante de mejor desempeño y Thu Khoa, el monitor de clase que está en la parte inferior de la clase.",
-                                "genre": "Comedia, Drama",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/AvWP2x3y9jXLihivWC6FMI80fdL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
