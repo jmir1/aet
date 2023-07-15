@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/monster-loving-maniacs",
+                                "title": "Monster Loving Maniacs",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933013.jpg"
+                            },
+                            {
                                 "url": "/anime/chou-shounen-tanteidan-neo-english-dubbed",
                                 "title": "Chou Shounen Tanteidan Neo English Dubbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933012.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/hyakushou-kizoku",
                                 "title": "Hyakushou Kizoku",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932998.jpg"
-                            },
-                            {
-                                "url": "/anime/my-adventures-with-superman",
-                                "title": "My Adventures With Superman",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932995.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,39 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/chou-shounen-tanteidan-neo-english-dubbed",
-                    "title": "Chou Shounen Tanteidan Neo English Dubbed",
-                    "description": "The series will follow the descendant of Kobayashi from Edogawa Ranpo’s series of detective novels.",
-                    "genre": "Mystery, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933012.jpg",
+                    "url": "/anime/monster-loving-maniacs",
+                    "title": "Monster Loving Maniacs",
+                    "description": "Three siblings are trained as monster hunters by their tough old grandfather. There is just one problem. These kids are massive horror fans and love all kinds of monsters, and they always find a way to save the monsters.",
+                    "genre": "Adventure, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933013.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/chou-shounen-tanteidan-neo-episode-13-english-dubbed",
-                        "name": "Episode 13 English Dubbed",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/chou-shounen-tanteidan-neo-episode-12-english-dubbed",
-                        "name": "Episode 12 English Dubbed",
-                        "episode_number": 12.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJi8C-C4CWhS9lGUVsyba4oAQob4VBSAdKSy2dTmAnXzpf_kxjV3yG_4yYMSYv9zCq90MBj0sTtDpT-2Z6yn6nPWVFLewdNjJDqgSjrff88MZgd3EqL9uRQ70B_mHVmbvbNLCgWB4cjb7mE7VoOE87ndXaNG_VDwthASb1rbyHmcF6u8Q64ACp6qcxfHYJ-zfIAFHmPfJfV173SrLHOlv1cCrKk2JovE0xT9LaGrm3AC2sINNRanlsXBEEdFy8uf0_ySeq-euAXhEb8e2aJLux0TG5q3Z24vN_JOJG3GrNWHsNJ000HyJkNG2EgdcrGubxlgQ372nw6w8FswmpDILWGVEn6b8_KCXca5jGPrr2LClrUE8x_ORg3nl48gYqRjyrGNCMreUe8nd6YXldE6htPI",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJi8C-C4CWhS9lGUVsyba4oAQob4VBSAdKSy2dTmAnXzpf_kxjV3yG_4yYMSYv9zCq90MBj0sTtDpT-2Z6yn6nPWVFLewdNjJDqgSjrff88MZgd3EqL9uRQ70B_mHVmbvbNLCgWB4cjb7mE7VoOE87ndXaNG_VDwthASb1rbyHmcF6u8Q64ACp6qcxfHYJ-zfIAFHmPfJfV173SrLHOlv1cCrKk2JovE0xT9LaGrm3AC2sINNRanlsXBEEdFy8uf0_ySeq-euAXhEb8e2aJLux0TG5q3Z24vN_JOJG3GrNWHsNJ000HyJkNG2EgdcrGubxlgQ372nw6w8FswmpDILWGVEn6b8_KCXca5jGPrr2LClrUE8x_ORg3nl48gYqRjyrGNCMreUe8nd6YXldE6htPI"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

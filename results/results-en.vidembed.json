@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/you-got-me-twisted",
+                                "title": "You Got Me Twisted!",
+                                "thumbnail_url": "https://images.movembed.cc//cover/you-got-me-twisted-1689408331.jpg"
+                            },
+                            {
+                                "url": "/videos/picture-me-dead-2023",
+                                "title": "Picture Me Dead",
+                                "thumbnail_url": "https://images.movembed.cc//cover/picture-me-dead-2023-1689408330.jpg"
+                            },
+                            {
+                                "url": "/videos/the-last-mountain-2022",
+                                "title": "The Last Mountain",
+                                "thumbnail_url": "https://images.movembed.cc//cover/the-last-mountain-2022-1689408027.jpg"
+                            },
+                            {
                                 "url": "/videos/meet-the-killer-parents-2023",
                                 "title": "Meet the Killer Parents",
                                 "thumbnail_url": "https://images.movembed.cc//cover/meet-the-killer-parents-2023-1689333324.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/videos/asylum-erotica-1972",
                                 "title": "Asylum Erotica",
                                 "thumbnail_url": "https://images.movembed.cc//cover/asylum-erotica-1972-1689214529.jpg"
-                            },
-                            {
-                                "url": "/videos/play-it-again-sam-1972",
-                                "title": "Play It Again, Sam",
-                                "thumbnail_url": "https://images.movembed.cc//cover/play-it-again-sam-1972-1689214527.jpg"
-                            },
-                            {
-                                "url": "/videos/jack-the-ripper-1976",
-                                "title": "Jack the Ripper",
-                                "thumbnail_url": "https://images.movembed.cc//cover/jack-the-ripper-1976-1689214525.jpg"
-                            },
-                            {
-                                "url": "/videos/barquero-1970",
-                                "title": "Barquero",
-                                "thumbnail_url": "https://images.movembed.cc//cover/barquero-1970-1689214524.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/meet-the-killer-parents-2023",
-                    "title": "Meet the Killer Parents",
-                    "description": "A young woman fights to escape her boyfriend’s wealthy family after learning they’re planning to drug and groom her to replace their long-dead daughter.",
+                    "url": "/videos/you-got-me-twisted",
+                    "title": "You Got Me Twisted!",
+                    "description": "Mahogany Noble looking for love in all the wrong places after suffers domestic violence her anger, she becomes the abuser will her Faith in God save her in time for road to destruction",
                     "initialized": true
                 },
                 "passed": true
@@ -334,15 +334,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/meet-the-killer-parents-2023",
-                        "name": "Meet the Killer Parents",
+                        "url": "/videos/you-got-me-twisted",
+                        "name": "You Got Me Twisted!",
                         "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

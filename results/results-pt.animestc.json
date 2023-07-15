@@ -442,48 +442,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn-149.anonfiles.com/z762qe20za/68cc1fc8-1689401952/%5BAnimesTC%5D+Kanojo%2C+Okarishimasu+-+26+%28720p%29.mkv",
-                        "quality": "AnonFiles - HD",
-                        "videoUrl": "https://cdn-149.anonfiles.com/z762qe20za/68cc1fc8-1689401952/%5BAnimesTC%5D+Kanojo%2C+Okarishimasu+-+26+%28720p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-143.anonfiles.com/Kb93q229zf/6f835053-1689401958/%5BAnimesTC%5D+Kanojo%2C+Okarishimasu+-+26+%281080p%29.mkv",
-                        "quality": "AnonFiles - FULLHD",
-                        "videoUrl": "https://cdn-143.anonfiles.com/Kb93q229zf/6f835053-1689401958/%5BAnimesTC%5D+Kanojo%2C+Okarishimasu+-+26+%281080p%29.mkv"
-                    },
-                    {
-                        "url": "https://cdn-145.anonfiles.com/gd2fq527z6/b7a5d961-1689401946/%5BAnimesTC%5D+Kanojo%2C+Okarishimasu+-+26.mp4",
-                        "quality": "AnonFiles - SD",
-                        "videoUrl": "https://cdn-145.anonfiles.com/gd2fq527z6/b7a5d961-1689401946/%5BAnimesTC%5D+Kanojo%2C+Okarishimasu+-+26.mp4"
-                    },
-                    {
-                        "url": "https://upload-ca.send.cm/d/efyswlb76gosj4l4szzv3fvcqqqi7mmwkbkicqj7btpm63wprzvnpt7ytx4u2egxgk4fh4bo/video.mkv",
-                        "quality": "Sendcm - HD",
-                        "videoUrl": "https://upload-ca.send.cm/d/efyswlb76gosj4l4szzv3fvcqqqi7mmwkbkicqj7btpm63wprzvnpt7ytx4u2egxgk4fh4bo/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/joq6de5jadxi"
-                        }
-                    },
-                    {
-                        "url": "https://upload-ca.send.cm/d/efy2kkz76gosj4l4szzujff32ecgx4ecgq5osw3vpmismgwke2z4di5wprqx24vmq7q245pg/video.mkv",
-                        "quality": "Sendcm - FULLHD",
-                        "videoUrl": "https://upload-ca.send.cm/d/efy2kkz76gosj4l4szzujff32ecgx4ecgq5osw3vpmismgwke2z4di5wprqx24vmq7q245pg/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/smhcahmgtcqq"
-                        }
-                    },
-                    {
-                        "url": "https://upload-ca.send.cm/d/efy2clb76gosj4l4szzvrs5vzdk5a3u7xxbvdbzs5dia5bssvytpa5665fvevknq2fk3jafq/video.mp4",
-                        "quality": "Sendcm - SD",
-                        "videoUrl": "https://upload-ca.send.cm/d/efy2clb76gosj4l4szzvrs5vzdk5a3u7xxbvdbzs5dia5bssvytpa5665fvevknq2fk3jafq/video.mp4",
-                        "headers": {
-                            "Referer": "https://send.cm/o2fz5i5zk6km"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
