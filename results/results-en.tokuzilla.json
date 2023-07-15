@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/battle-hawk.html",
+                                "title": "Battle Hawk",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/battle-hawk-thumb.png"
+                            },
+                            {
                                 "url": "/watch/voltes-v-legacy.html",
                                 "title": "Voltes V: Legacy",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/power-rangers-dino-fury-season-2.html",
                                 "title": "Power Rangers Dino Fury – Season 2",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/power-rangers-dino-fury-season-2-thumb.png"
-                            },
-                            {
-                                "url": "/watch/juken-sentai-gekiranger.html",
-                                "title": "Juken Sentai Gekiranger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/juken-sentai-gekiranger-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,12 +144,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/voltes-v-legacy.html",
-                    "author": "Year 2023",
-                    "description": "Voltes V: Legacy is a 2023 Philippine science fantasy television series broadcast by GMA Network. The series is based on the Japanese anime television series Chōdenji Machine Voltes V by Toei Animation and Sunrise.",
+                    "url": "/watch/battle-hawk.html",
+                    "author": "Year 1976",
+                    "description": "Battle Hawk is a 1976 Tokusatsu series created by manga writers Go Nagai and Ken Ishikawa from their studio Dynamic Productions. It was their first tokusatsu production followed by Azteckaiser which aired 3 days later.",
                     "genre": "Other",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -157,14 +157,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/voltes-v-legacy.html?ep=49#watch",
-                        "name": "Episode 49",
-                        "episode_number": 49.0
+                        "url": "/watch/battle-hawk.html?ep=26#watch",
+                        "name": "Episode 26",
+                        "episode_number": 26.0
                     },
                     {
-                        "url": "/watch/voltes-v-legacy.html?ep=48#watch",
-                        "name": "Episode 48",
-                        "episode_number": 48.0
+                        "url": "/watch/battle-hawk.html?ep=25#watch",
+                        "name": "Episode 25",
+                        "episode_number": 25.0
                     }
                 ],
                 "passed": true
@@ -172,41 +172,11 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls27-eu.zcdn.stream/6eb85663065f25310bac53b911ab48be/2023-07-14/1080.m3u8?token=942cb9112ce256b4604aa795aead2bc8&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689410383&type=edge&node=4kLs3pQLya0qvy3EvH6xWmd3lf4Nsu1TFRL4M_jiiXiXqrhWvwGZe92ZznPts_0pp0aj0S2ww-MCSCkEcrdWRJijKUfHjYV-cOOJKMFWbF6tww5jeA7UJAhm6fNTZX1jGIuQv-dQqYQWvW_nq5LF6CrvVX--41fAIa3-4arm1dBGRctR0f05FFSmtTt3INhr",
-                        "quality": "Chillx - 1080p",
-                        "videoUrl": "https://hls27-eu.zcdn.stream/6eb85663065f25310bac53b911ab48be/2023-07-14/1080.m3u8?token=942cb9112ce256b4604aa795aead2bc8&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689410383&type=edge&node=4kLs3pQLya0qvy3EvH6xWmd3lf4Nsu1TFRL4M_jiiXiXqrhWvwGZe92ZznPts_0pp0aj0S2ww-MCSCkEcrdWRJijKUfHjYV-cOOJKMFWbF6tww5jeA7UJAhm6fNTZX1jGIuQv-dQqYQWvW_nq5LF6CrvVX--41fAIa3-4arm1dBGRctR0f05FFSmtTt3INhr",
+                        "url": "https://hls25-eu.zcdn.stream/0f038baf555d0e6b5c3cd8ede7893c06/2023-07-08/480.m3u8?token=5a6eb40c995a56d72d0196b4bb135645&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689430129&type=edge&node=dyGZtyHlKUU8WqhBfZy1Q1vldNGSphpa6-HlNfGgsePBfKN9vSWUkYYDfCOaUZYQDeNTaLIE7T2XlONogUq78gwYzjrTck9XB96Fr6joFZq5I7SGDPHtpazpnkWumn5AvymC9K33GsMImUILg4-5x6CmRAP-ePzkHOfu0nugShgwxLz2Ah4nRpBikYWEWUfg",
+                        "quality": "Chillx - 480p",
+                        "videoUrl": "https://hls25-eu.zcdn.stream/0f038baf555d0e6b5c3cd8ede7893c06/2023-07-08/480.m3u8?token=5a6eb40c995a56d72d0196b4bb135645&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689430129&type=edge&node=dyGZtyHlKUU8WqhBfZy1Q1vldNGSphpa6-HlNfGgsePBfKN9vSWUkYYDfCOaUZYQDeNTaLIE7T2XlONogUq78gwYzjrTck9XB96Fr6joFZq5I7SGDPHtpazpnkWumn5AvymC9K33GsMImUILg4-5x6CmRAP-ePzkHOfu0nugShgwxLz2Ah4nRpBikYWEWUfg",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    },
-                    {
-                        "url": "https://hls27-eu.zcdn.stream/6eb85663065f25310bac53b911ab48be/2023-07-14/720.m3u8?token=942cb9112ce256b4604aa795aead2bc8&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689410383&type=edge&node=4kLs3pQLya0qvy3EvH6xWmd3lf4Nsu1TFRL4M_jiiXiXqrhWvwGZe92ZznPts_0pp0aj0S2ww-MCSCkEcrdWRJijKUfHjYV-cOOJKMFWbF6tww5jeA7UJAhm6fNTZX1jGIuQv-dQqYQWvW_nq5LF6CrvVX--41fAIa3-4arm1dBGRctR0f05FFSmtTt3INhr",
-                        "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls27-eu.zcdn.stream/6eb85663065f25310bac53b911ab48be/2023-07-14/720.m3u8?token=942cb9112ce256b4604aa795aead2bc8&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689410383&type=edge&node=4kLs3pQLya0qvy3EvH6xWmd3lf4Nsu1TFRL4M_jiiXiXqrhWvwGZe92ZznPts_0pp0aj0S2ww-MCSCkEcrdWRJijKUfHjYV-cOOJKMFWbF6tww5jeA7UJAhm6fNTZX1jGIuQv-dQqYQWvW_nq5LF6CrvVX--41fAIa3-4arm1dBGRctR0f05FFSmtTt3INhr",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Connection": "keep-alive",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "cross-site",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/"
-                        }
-                    },
-                    {
-                        "url": "https://hls27-eu.zcdn.stream/6eb85663065f25310bac53b911ab48be/2023-07-14/360.m3u8?token=942cb9112ce256b4604aa795aead2bc8&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689410383&type=edge&node=4kLs3pQLya0qvy3EvH6xWmd3lf4Nsu1TFRL4M_jiiXiXqrhWvwGZe92ZznPts_0pp0aj0S2ww-MCSCkEcrdWRJijKUfHjYV-cOOJKMFWbF6tww5jeA7UJAhm6fNTZX1jGIuQv-dQqYQWvW_nq5LF6CrvVX--41fAIa3-4arm1dBGRctR0f05FFSmtTt3INhr",
-                        "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls27-eu.zcdn.stream/6eb85663065f25310bac53b911ab48be/2023-07-14/360.m3u8?token=942cb9112ce256b4604aa795aead2bc8&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689410383&type=edge&node=4kLs3pQLya0qvy3EvH6xWmd3lf4Nsu1TFRL4M_jiiXiXqrhWvwGZe92ZznPts_0pp0aj0S2ww-MCSCkEcrdWRJijKUfHjYV-cOOJKMFWbF6tww5jeA7UJAhm6fNTZX1jGIuQv-dQqYQWvW_nq5LF6CrvVX--41fAIa3-4arm1dBGRctR0f05FFSmtTt3INhr",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
                             "Accept": "*/*",
                             "Connection": "keep-alive",
                             "Sec-Fetch-Dest": "empty",

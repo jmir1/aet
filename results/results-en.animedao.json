@@ -767,6 +767,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/pokemon-2023/",
+                                "title": "Pokemon (2023)",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/pokemon-2023.jpg"
+                            },
+                            {
+                                "url": "/anime/shadowverse-flame-seven-shadows/",
+                                "title": "Shadowverse Flame: Seven Shadows-hen",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/shadowverse-flame-seven-shadows.jpg"
+                            },
+                            {
+                                "url": "/anime/cardfight-vanguard-will-dress-season-3/",
+                                "title": "Cardfight!! Vanguard: Will+Dress Season 3",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/cardfight-vanguard-will-dress-season-3.jpg"
+                            },
+                            {
                                 "url": "/anime/the-gene-of-ai/",
                                 "title": "AI no Idenshi",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/the-gene-of-ai.jpg"
@@ -1340,21 +1355,6 @@
                                 "url": "/anime/mobile-suit-gundam-the-witch-from-mercury-season-2/",
                                 "title": "Mobile Suit Gundam: The Witch from Mercury Season 2",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/mobile-suit-gundam-the-witch-from-mercury-season-2.jpg"
-                            },
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/episodes/one-piece-wano-2.jpg"
-                            },
-                            {
-                                "url": "/anime/hirogaru-sky-precure/",
-                                "title": "Hirogaru Sky! Precure",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/hirogaru-sky-precure.jpg"
-                            },
-                            {
-                                "url": "/anime/heavenly-delusion/",
-                                "title": "Tengoku Daimakyou",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/heavenly-delusion.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -1553,8 +1553,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.1080.m3u8",
+                        "quality": "vstream - 1080p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.1080.m3u8"
+                    },
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.720.m3u8",
+                        "quality": "vstream - 720p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.720.m3u8"
+                    },
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.480.m3u8",
+                        "quality": "vstream - 480p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.480.m3u8"
+                    },
+                    {
+                        "url": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.360.m3u8",
+                        "quality": "vstream - 360p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www043.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1068.1688869903.360.m3u8"
+                    },
+                    {
+                        "url": "https://mixdrop.to/e/n0kvllw3cr4r70",
+                        "quality": "mixdrop - MixDrop",
+                        "videoUrl": "https://s-delivery35.mxdcontent.net/v/5230e07b47a2bc9c61d9540520d3a2ba.mp4?s=7BVZmIhSXu0n8ARIMcgeFg&e=1689422991&_t=1689406728",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=BGj4vBz12QTGR4&expires=1689471390&ip=FROsD0ESKxSHDN&token=M0HqDco3m4xi",
+                        "quality": "streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=BGj4vBz12QTGR4&expires=1689471390&ip=FROsD0ESKxSHDN&token=M0HqDco3m4xi"
+                    }
+                ],
+                "passed": true
             }
         }
     }
