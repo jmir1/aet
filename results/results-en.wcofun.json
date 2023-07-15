@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kuromis-pretty-journey",
+                                "title": "Kuromi's Pretty Journey",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933015.jpg"
+                            },
+                            {
+                                "url": "/anime/kuromis-pretty-journey-english-subbed",
+                                "title": "Kuromi's Pretty Journey English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933014.jpg"
+                            },
+                            {
                                 "url": "/anime/monster-loving-maniacs",
                                 "title": "Monster Loving Maniacs",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933013.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/level-1-dakedo-unique-skill-de-saikyou-desu",
                                 "title": "Level 1 dakedo Unique Skill de Saikyou desu",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933000.jpg"
-                            },
-                            {
-                                "url": "/anime/my-unique-skill-makes-me-op-even-at-level-1",
-                                "title": "My Unique Skill Makes Me OP Even at Level 1",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932999.jpg"
-                            },
-                            {
-                                "url": "/anime/hyakushou-kizoku",
-                                "title": "Hyakushou Kizoku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/932998.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/monster-loving-maniacs",
-                    "title": "Monster Loving Maniacs",
-                    "description": "Three siblings are trained as monster hunters by their tough old grandfather. There is just one problem. These kids are massive horror fans and love all kinds of monsters, and they always find a way to save the monsters.",
-                    "genre": "Adventure, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933013.jpg",
+                    "url": "/anime/kuromis-pretty-journey",
+                    "title": "Kuromi's Pretty Journey",
+                    "description": "Kuromi from Onegai My Melody travels around the world to find her missing sister Romina.",
+                    "genre": "Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933015.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kuromis-pretty-journey-episode-5-english-dubbed",
+                        "name": "Episode 5 English Dubbed",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/kuromis-pretty-journey-episode-4-english-dubbed",
+                        "name": "Episode 4 English Dubbed",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJl0Ffw1nt-z9dmc6kVK3nscQzqZal6DKR3a0DDSaMewZHxqUm3XTMZ3gn5-2AQi55RZ3poP05f5KSrYLjjKv5PyXFnYt4rkrxgv8ETytgXKjxpKtYvCxac3UbuBX8eL1ogjHsXbHILIW2iRs8B02jZbIsrpc9H4o_J1edxXtHHMBXvV1uUM4ge7-4axvCqYGpOWbyUuARCFjP5X2Ltvhqn2UE5WNwEVoEiP1bSQFKKcViMhGTB06xIT5WLu1xdoPl1NkvcGJX7TlyLZFyShdIe0hnXIi265kug7thN52iO0m7vASRYBd7WfvwmTwVdwei_NrmYouMalwskNeMgzGDzFxom3yurtDK-LA0AaRuXekdc49NIt5NkmlxS1J3tTgDN3NZuaxH-UZURm0aZ9oCjjW8lDyA0k5dWLOeaW0jic4CPVilTKGlfA37k1WH1JdJA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJl0Ffw1nt-z9dmc6kVK3nscQzqZal6DKR3a0DDSaMewZHxqUm3XTMZ3gn5-2AQi55RZ3poP05f5KSrYLjjKv5PyXFnYt4rkrxgv8ETytgXKjxpKtYvCxac3UbuBX8eL1ogjHsXbHILIW2iRs8B02jZbIsrpc9H4o_J1edxXtHHMBXvV1uUM4ge7-4axvCqYGpOWbyUuARCFjP5X2Ltvhqn2UE5WNwEVoEiP1bSQFKKcViMhGTB06xIT5WLu1xdoPl1NkvcGJX7TlyLZFyShdIe0hnXIi265kug7thN52iO0m7vASRYBd7WfvwmTwVdwei_NrmYouMalwskNeMgzGDzFxom3yurtDK-LA0AaRuXekdc49NIt5NkmlxS1J3tTgDN3NZuaxH-UZURm0aZ9oCjjW8lDyA0k5dWLOeaW0jic4CPVilTKGlfA37k1WH1JdJA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJl0Ffw1nt-z9dmc6kVK3nscQzqZal6DKR3a0DDSaMewZHxqUm3XTMZ3gn5-2AQi55RZ3poP05f5KSrYLjjKv5PyXFnYt4rkrxgv8ETytgXKjxpKtYvCxac3UbuBX8eL1ogjHsXbHILIW2iRs8B02jZYOa8eTTPo3AFaYAXDPhCOZkmKgWRqNio4ho0NWziEdbv78Fir3Eia6SXl0UFKnXudYwyUka8lrwPbnFV8fM5MAXmYOvPX5Cems2sXymXO84FtcJwG8tsHqZ-9ybmPy3PSZiL5irwyhV4siO_oT4fU_arB4TyzUTj2P1gwwDga4wf_OnCxd8sEhP6sDJ2btomHzI6oIPzu_yz6HgCxpa5HSkKeq6PVfFj9M1CjO4MFFNfFGydojQ_LkR9igyoyP2_QpLOD7tplVQSueZKT26S56jN2Vj9oCvrHvPD7r-ZmWtA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJl0Ffw1nt-z9dmc6kVK3nscQzqZal6DKR3a0DDSaMewZHxqUm3XTMZ3gn5-2AQi55RZ3poP05f5KSrYLjjKv5PyXFnYt4rkrxgv8ETytgXKjxpKtYvCxac3UbuBX8eL1ogjHsXbHILIW2iRs8B02jZYOa8eTTPo3AFaYAXDPhCOZkmKgWRqNio4ho0NWziEdbv78Fir3Eia6SXl0UFKnXudYwyUka8lrwPbnFV8fM5MAXmYOvPX5Cems2sXymXO84FtcJwG8tsHqZ-9ybmPy3PSZiL5irwyhV4siO_oT4fU_arB4TyzUTj2P1gwwDga4wf_OnCxd8sEhP6sDJ2btomHzI6oIPzu_yz6HgCxpa5HSkKeq6PVfFj9M1CjO4MFFNfFGydojQ_LkR9igyoyP2_QpLOD7tplVQSueZKT26S56jN2Vj9oCvrHvPD7r-ZmWtA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJl0Ffw1nt-z9dmc6kVK3nscQzqZal6DKR3a0DDSaMewZHxqUm3XTMZ3gn5-2AQi55RZ3poP05f5KSrYLjjKv5PyXFnYt4rkrxgv8ETytgXKjxpKtYvCxac3UbuBX8eL1ogjHsXbHILIW2iRs8B02jZa6nKI-AK3Xz9z7XGbWKhn-YZ6tadRD4Zu4DHswAC3qkG3cZ4BAxFHacf6yQyJZpWbkgXrhUDOIO7gBToq7qpeynrqUTbUD-PZaPv6dvIZ6FyK0PyuacdRjyCR62Cr56AMh_Tzw9Z6Q35ErgHp_uD0eTF4ZNxYyZxuFzquSm9cXu1-B_1UcgPzHOr7BiG5VlYVF9AAqArLwZYAUa_ILLtkaB3wswKhV_CsiMuyuCcCoeepySkzD1r3T3p32Z3xp6hAL-p4WV-pnvm2FV-ILpspliJLk80UVXYU25I7bNdG07Q",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJl0Ffw1nt-z9dmc6kVK3nscQzqZal6DKR3a0DDSaMewZHxqUm3XTMZ3gn5-2AQi55RZ3poP05f5KSrYLjjKv5PyXFnYt4rkrxgv8ETytgXKjxpKtYvCxac3UbuBX8eL1ogjHsXbHILIW2iRs8B02jZa6nKI-AK3Xz9z7XGbWKhn-YZ6tadRD4Zu4DHswAC3qkG3cZ4BAxFHacf6yQyJZpWbkgXrhUDOIO7gBToq7qpeynrqUTbUD-PZaPv6dvIZ6FyK0PyuacdRjyCR62Cr56AMh_Tzw9Z6Q35ErgHp_uD0eTF4ZNxYyZxuFzquSm9cXu1-B_1UcgPzHOr7BiG5VlYVF9AAqArLwZYAUa_ILLtkaB3wswKhV_CsiMuyuCcCoeepySkzD1r3T3p32Z3xp6hAL-p4WV-pnvm2FV-ILpspliJLk80UVXYU25I7bNdG07Q"
+                    }
+                ],
+                "passed": true
             }
         }
     }

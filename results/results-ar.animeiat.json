@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/eiyuu-kyoushitsu",
+                                "title": "Eiyuu Kyoushitsu الحلقة 1 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/36876/8ipWGxu2zfhMBq8i65.jpg"
+                            },
+                            {
                                 "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror",
                                 "title": "Genjitsu no Yohane: Sunshine in the Mirror الحلقة 3 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/36870/ZBgUgyMTn8F8IiCA10.jpg"
@@ -302,12 +307,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "episode/eiyuu-kyoushitsu-episode-1",
+                        "name": "Eiyuu Kyoushitsu الحلقة 1 مترجمة",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B1080p%5D.mp4",
+                        "quality": "1080p FHD",
+                        "videoUrl": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B1080p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B360p%5D.mp4",
+                        "quality": "360p SD",
+                        "videoUrl": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B360p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B480p%5D.mp4",
+                        "quality": "480p SD",
+                        "videoUrl": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B480p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B720p%5D.mp4",
+                        "quality": "720p HD",
+                        "videoUrl": "https://shahidha.net/files/36876/%5BAnimeiat.co%5DEiyuu_Kyoushitsu_-_EP01%5B720p%5D.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
