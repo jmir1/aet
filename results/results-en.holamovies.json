@@ -170,8 +170,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://drive.google.com/uc?id=1UqyD3v2M7DCSut3d6aMLgf259qFZ7KsK&confirm=t&uuid=d844bba3-38ab-4dee-9a20-b678fe34cae2",
+                        "quality": "Gdrive (13G) ",
+                        "videoUrl": "https://drive.google.com/uc?id=1UqyD3v2M7DCSut3d6aMLgf259qFZ7KsK&confirm=t&uuid=d844bba3-38ab-4dee-9a20-b678fe34cae2"
+                    },
+                    {
+                        "url": "https://bitter-scene-3814.kidaro1748.workers.dev/0604ae8ff7d192ed776d007c49b3e5a2/drivebot.lol/Avatar.The.Way.of.Water.2022.1080p.MA.WEB-DL.HIN-ENG-TAM-TEL-KAN-MAL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                        "quality": "DriveBot",
+                        "videoUrl": "https://bitter-scene-3814.kidaro1748.workers.dev/0604ae8ff7d192ed776d007c49b3e5a2/drivebot.lol/Avatar.The.Way.of.Water.2022.1080p.MA.WEB-DL.HIN-ENG-TAM-TEL-KAN-MAL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.0 Safari/537.36",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Host": "bitter-scene-3814.kidaro1748.workers.dev",
+                            "Referer": "https://drivebot.lol/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

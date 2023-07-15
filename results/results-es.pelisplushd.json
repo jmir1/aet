@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/quarterback",
+                                "title": "Quarterback (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bKdElEIyuwrbdochxCXwlaUBFaR.jpg"
+                            },
+                            {
                                 "url": "/serie/without-sin",
                                 "title": "Without Sin (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5USXoPoKWu6LxIdCOIlJoxWvyqC.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/el-arca",
                                 "title": "El Arca (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg"
-                            },
-                            {
-                                "url": "/serie/musculos-y-caos",
-                                "title": "Músculos y caos (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/miSCeUWTv9koSkYaskR496AO2Yt.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/without-sin",
-                    "title": "Without Sin (2022)",
-                    "description": ".",
-                    "genre": "Crimen, Drama",
+                    "url": "/serie/quarterback",
+                    "title": "Quarterback (2023)",
+                    "description": "Sigue a los jugadores de fútbol americano Patrick Mahomes, Kirk Cousins y Marcus Mariota en el campo y en casa durante la temporada 2022-23..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5USXoPoKWu6LxIdCOIlJoxWvyqC.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/without-sin/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/quarterback/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/without-sin/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/quarterback/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
