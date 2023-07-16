@@ -67,14 +67,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yCqt1yBLoAFpyxEbRQjsriIC6Yj.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=976573&type=movie",
-                                "title": "Elemental",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fM6AFC1oSqBBk3oIDAKNlS84P8Q.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=575264&type=movie",
                                 "title": "Mission: Impossible - Dead Reckoning Teil Eins",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/eqXTTByZHv3QyU11N8lwSyhW9QM.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=976573&type=movie",
+                                "title": "Elemental",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fM6AFC1oSqBBk3oIDAKNlS84P8Q.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=921636&type=movie",
@@ -397,6 +397,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/diM4McqGuH4ig1Dboysozja6xzM.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=1267&type=movie",
+                                "title": "Triff die Robinsons",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/oQBiKPVEN3IWtSWPaYgF4IYwAfr.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=1094319&type=movie",
                                 "title": "The Best Man",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg"
@@ -450,6 +455,11 @@
                                 "url": "/data/watch/?_id=597&type=movie",
                                 "title": "Titanic",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/MlnPG3oxhfmuiDwcoeElQWui9m.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=988762&type=movie",
+                                "title": "A Place to Fight For",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/jctRQzzRqv2Ouvgj9HPRzRooafi.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=671&type=movie",
@@ -550,11 +560,6 @@
                                 "url": "/data/watch/?_id=353081&type=movie",
                                 "title": "Mission: Impossible - Fallout",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/hOleGIK0yEN4LT5JA1lxomOBanM.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=508947&type=movie",
-                                "title": "ROT",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/rx7ABoxFBl3BsBlIqRMxceyhrIB.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -637,29 +642,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://clipboard.cc/g/GZcoKpFmimiZ",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/GZcoKpFmimiZ"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/ePlXQkCLQ6dA",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/ePlXQkCLQ6dA"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/wKK2BKMO2jU1",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/wKK2BKMO2jU1"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/wLXi0e5rc9eI",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/wLXi0e5rc9eI"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

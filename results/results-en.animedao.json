@@ -447,14 +447,14 @@
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/sword-art-online.jpg"
                             },
                             {
-                                "url": "/anime/my-teen-romantic-comedy-snafu-climax/",
-                                "title": "My Teen Romantic Comedy SNAFU Climax",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/my-teen-romantic-comedy-snafu-climax.jpg"
-                            },
-                            {
                                 "url": "/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too/",
                                 "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/iseleve.jpg"
+                            },
+                            {
+                                "url": "/anime/my-teen-romantic-comedy-snafu-climax/",
+                                "title": "My Teen Romantic Comedy SNAFU Climax",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/my-teen-romantic-comedy-snafu-climax.jpg"
                             },
                             {
                                 "url": "/anime/the-case-study-of-vanitas/",
@@ -766,6 +766,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/zom-100-bucket-list-of-the-dead/",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/zom-100-bucket-list-of-the-dead.jpg"
+                            },
                             {
                                 "url": "/anime/one-piece/",
                                 "title": "One Piece",
@@ -1390,11 +1395,6 @@
                                 "url": "/anime/the-reason-why-raeliana-ended-up-at-the-dukes-mansion/",
                                 "title": "Kanojo ga Koushaku-tei ni Itta Riyuu",
                                 "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/the-reason-why-raeliana-ended-up-at-the-duke-s-mansion.jpg"
-                            },
-                            {
-                                "url": "/anime/princess-principal/",
-                                "title": "Princess Principal: Crown Handler 3",
-                                "thumbnail_url": "https://animedao.to/images/small/poster_cache/images/episodes/princess-principal-crown-handler-3.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -1593,8 +1593,53 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.1080.m3u8",
+                        "quality": "vstream - 1080p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.1080.m3u8"
+                    },
+                    {
+                        "url": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.720.m3u8",
+                        "quality": "vstream - 720p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.720.m3u8"
+                    },
+                    {
+                        "url": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.480.m3u8",
+                        "quality": "vstream - 480p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.480.m3u8"
+                    },
+                    {
+                        "url": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.360.m3u8",
+                        "quality": "vstream - 360p (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://www049.vipanicdn.net/streamhls/0b594d900f47daabc194844092384914/ep.1069.1689474813.360.m3u8"
+                    },
+                    {
+                        "url": "https://s-delivery42.mxdcontent.net/v/6c20bd4ba16247cbf9eb7b514c119a94.mp4?s=0BtTeveK-wAwSwwchdN9mQ&e=1689531130&_t=1689510268",
+                        "quality": "mixdrop - MixDrop",
+                        "videoUrl": "https://s-delivery42.mxdcontent.net/v/6c20bd4ba16247cbf9eb7b514c119a94.mp4?s=0BtTeveK-wAwSwwchdN9mQ&e=1689531130&_t=1689510268",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=0LGKYaYmGZUb4GY&expires=1689579530&ip=FROsD0ESKxSHDN&token=gAZ7bdeFUTxw",
+                        "quality": "streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=0LGKYaYmGZUb4GY&expires=1689579530&ip=FROsD0ESKxSHDN&token=gAZ7bdeFUTxw"
+                    },
+                    {
+                        "url": "https://main.bilucdn.com/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/c751bab1939a2b83020565e1ac242896/one-piece-episode-1069-1689473977.original.m3u8",
+                        "quality": "src -  (Vid-mp4 - Vidstreaming)",
+                        "videoUrl": "https://main.bilucdn.com/093997b0a3046470bdf294d6575e93edce3d94d2464fe331996d922afcbf78cfaa396492cd2dfd0741f728c712d6dfcfb63865f2ee1e595ae5dec89220318e9ebbb21f28b43e8501b34d4c43eb425ae571d46130b114835e51fe4a3eb7a4231f4b120ab9aa197424f070a151b0305906ea84924b139a4654ddcc9c9cb165f569/c751bab1939a2b83020565e1ac242896/one-piece-episode-1069-1689473977.original.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
