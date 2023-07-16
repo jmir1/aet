@@ -321,85 +321,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ajax/movie/episodes/98281",
-                        "name": "Call Her King",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://b-g-eu-8.feetcdn.com:2223/v3-hls-playback/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea076609ce33ce6ea20b21c2da51aa57105d19595e530fd159157c25ba34c9a400cde3acff4927726da1c1cf053704d2992caa999efd5cb9950c6b7c274e53a0a1f64de3e0a4a14952b8db260c1caee11b211b4f38d1d709acf9e1a04f78ac923a97484245fc71132d51a8099a0c83e1932bbc68974596bcd14d7470af124854468695/1080/index.m3u8",
-                        "quality": "Vidcloud - 1080p",
-                        "videoUrl": "https://b-g-eu-8.feetcdn.com:2223/v3-hls-playback/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea076609ce33ce6ea20b21c2da51aa57105d19595e530fd159157c25ba34c9a400cde3acff4927726da1c1cf053704d2992caa999efd5cb9950c6b7c274e53a0a1f64de3e0a4a14952b8db260c1caee11b211b4f38d1d709acf9e1a04f78ac923a97484245fc71132d51a8099a0c83e1932bbc68974596bcd14d7470af124854468695/1080/index.m3u8",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cc.2cdns.com/08/1e/081ed5bface619d7a46a50160b0c73ad/eng-2.vtt",
-                                "lang": "English - English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://owt.webarchivecdn.com/_v10/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea0766b7bd36011d45bd18116d98ec9ba3e7eb7232c997a70b2d25c9d9ac7a73c95ccf9836352c1eb27e4a581c12f7e4e1882357b7627b0fc9b538b562cfd62f60cee12e3041d78aa670df92ac2fcadf7dd1d3d0fdc41bb08baab8cbd922efaba00d05/1080/index.m3u8",
-                        "quality": "UpCloud - 1080p",
-                        "videoUrl": "https://owt.webarchivecdn.com/_v10/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea0766b7bd36011d45bd18116d98ec9ba3e7eb7232c997a70b2d25c9d9ac7a73c95ccf9836352c1eb27e4a581c12f7e4e1882357b7627b0fc9b538b562cfd62f60cee12e3041d78aa670df92ac2fcadf7dd1d3d0fdc41bb08baab8cbd922efaba00d05/1080/index.m3u8",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cc.2cdns.com/08/1e/081ed5bface619d7a46a50160b0c73ad/eng-2.vtt",
-                                "lang": "English - English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://b-g-eu-8.feetcdn.com:2223/v3-hls-playback/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea076609ce33ce6ea20b21c2da51aa57105d19595e530fd159157c25ba34c9a400cde3acff4927726da1c1cf053704d2992caa999efd5cb9950c6b7c274e53a0a1f64de3e0a4a14952b8db260c1caee11b211b4f38d1d709acf9e1a04f78ac923a97484245fc71132d51a8099a0c83e1932bbc68974596bcd14d7470af124854468695/360/index.m3u8",
-                        "quality": "Vidcloud - 360p",
-                        "videoUrl": "https://b-g-eu-8.feetcdn.com:2223/v3-hls-playback/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea076609ce33ce6ea20b21c2da51aa57105d19595e530fd159157c25ba34c9a400cde3acff4927726da1c1cf053704d2992caa999efd5cb9950c6b7c274e53a0a1f64de3e0a4a14952b8db260c1caee11b211b4f38d1d709acf9e1a04f78ac923a97484245fc71132d51a8099a0c83e1932bbc68974596bcd14d7470af124854468695/360/index.m3u8",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cc.2cdns.com/08/1e/081ed5bface619d7a46a50160b0c73ad/eng-2.vtt",
-                                "lang": "English - English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://b-g-eu-8.feetcdn.com:2223/v3-hls-playback/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea076609ce33ce6ea20b21c2da51aa57105d19595e530fd159157c25ba34c9a400cde3acff4927726da1c1cf053704d2992caa999efd5cb9950c6b7c274e53a0a1f64de3e0a4a14952b8db260c1caee11b211b4f38d1d709acf9e1a04f78ac923a97484245fc71132d51a8099a0c83e1932bbc68974596bcd14d7470af124854468695/720/index.m3u8",
-                        "quality": "Vidcloud - 720p",
-                        "videoUrl": "https://b-g-eu-8.feetcdn.com:2223/v3-hls-playback/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea076609ce33ce6ea20b21c2da51aa57105d19595e530fd159157c25ba34c9a400cde3acff4927726da1c1cf053704d2992caa999efd5cb9950c6b7c274e53a0a1f64de3e0a4a14952b8db260c1caee11b211b4f38d1d709acf9e1a04f78ac923a97484245fc71132d51a8099a0c83e1932bbc68974596bcd14d7470af124854468695/720/index.m3u8",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cc.2cdns.com/08/1e/081ed5bface619d7a46a50160b0c73ad/eng-2.vtt",
-                                "lang": "English - English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://owt.webarchivecdn.com/_v10/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea0766b7bd36011d45bd18116d98ec9ba3e7eb7232c997a70b2d25c9d9ac7a73c95ccf9836352c1eb27e4a581c12f7e4e1882357b7627b0fc9b538b562cfd62f60cee12e3041d78aa670df92ac2fcadf7dd1d3d0fdc41bb08baab8cbd922efaba00d05/360/index.m3u8",
-                        "quality": "UpCloud - 360p",
-                        "videoUrl": "https://owt.webarchivecdn.com/_v10/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea0766b7bd36011d45bd18116d98ec9ba3e7eb7232c997a70b2d25c9d9ac7a73c95ccf9836352c1eb27e4a581c12f7e4e1882357b7627b0fc9b538b562cfd62f60cee12e3041d78aa670df92ac2fcadf7dd1d3d0fdc41bb08baab8cbd922efaba00d05/360/index.m3u8",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cc.2cdns.com/08/1e/081ed5bface619d7a46a50160b0c73ad/eng-2.vtt",
-                                "lang": "English - English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://owt.webarchivecdn.com/_v10/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea0766b7bd36011d45bd18116d98ec9ba3e7eb7232c997a70b2d25c9d9ac7a73c95ccf9836352c1eb27e4a581c12f7e4e1882357b7627b0fc9b538b562cfd62f60cee12e3041d78aa670df92ac2fcadf7dd1d3d0fdc41bb08baab8cbd922efaba00d05/720/index.m3u8",
-                        "quality": "UpCloud - 720p",
-                        "videoUrl": "https://owt.webarchivecdn.com/_v10/d7055327f0954fae7570d98028cba9bda5124c72c89c517ca02fac58e155653de1e17074cd02175a2d609b3539ea0766b7bd36011d45bd18116d98ec9ba3e7eb7232c997a70b2d25c9d9ac7a73c95ccf9836352c1eb27e4a581c12f7e4e1882357b7627b0fc9b538b562cfd62f60cee12e3041d78aa670df92ac2fcadf7dd1d3d0fdc41bb08baab8cbd922efaba00d05/720/index.m3u8",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://cc.2cdns.com/08/1e/081ed5bface619d7a46a50160b0c73ad/eng-2.vtt",
-                                "lang": "English - English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

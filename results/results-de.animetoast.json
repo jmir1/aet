@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-sub/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg"
+                            },
+                            {
+                                "url": "/eiyuu-kyoushitsu-ger-sub/",
+                                "title": "Eiyuu Kyoushitsu Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/53202.jpg"
+                            },
+                            {
+                                "url": "/shinigami-bocchan-to-kuro-maid-2nd-season-ger-sub/",
+                                "title": "Shinigami Bocchan to Kuro Maid 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/52026.jpg"
+                            },
+                            {
                                 "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg"
@@ -170,21 +185,6 @@
                                 "url": "/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-ger-sub/",
                                 "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/57791.jpg"
-                            },
-                            {
-                                "url": "/bungou-stray-dogs-5th-season-ger-sub/",
-                                "title": "Bungou Stray Dogs 5th Season Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61621.jpg"
-                            },
-                            {
-                                "url": "/tonikaku-kawaii-joshikou-hen-ger-sub/",
-                                "title": "Tonikaku Kawaii: Joshikou-hen Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/64395.jpg"
-                            },
-                            {
-                                "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
-                                "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg"
                             },
                             {
                                 "url": "/jigokuraku-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
-                    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
-                    "description": "Akira arbeitet seit einigen Jahren für eine Firma, die ihn nicht nur ausbeutet, sondern ihn körperlich und geistig fertigmacht. Er lebt jeden Tag wie ein Zombie vor sich hin – bis die tatsächliche Zombie-Apokalypse startet! Jetzt beginnt Akiras Leben erst richtig, denn er kann tun und lassen, was er will! Er erstellt ein Liste mit Dingen, die er machen möchte, bevor er selbst zum Untoten wird, und erlebt coole und lustige Abenteuer am laufenden Band!\n ",
-                    "genre": "Action, Adventure, Comedy, Horror, Seinen, Supernatural",
+                    "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-sub/",
+                    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Ger Sub",
+                    "description": "Rudeus begibt sich mit neuen Freunden und Kräften auf die Suche nach Abenteuern und den Menschen, die er einst kannte.\n ",
+                    "genre": "Drama, Ecchi, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/?link=1",
-                        "name": "Ep. 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/?link=0",
-                        "name": "Ep. 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"Ep.0\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }
