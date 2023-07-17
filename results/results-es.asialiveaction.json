@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/laws-of-attraction/",
+                                "title": "Laws Of Attraction (1/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (2/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/one-day-you-will-reach-the-sea/",
                                 "title": "One Day You Will Reach The Sea",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg"
-                            },
-                            {
-                                "url": "/16995/",
-                                "title": "Tenshi no iru Toshokan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/laws-of-attraction/",
+                                "title": "Laws Of Attraction (1/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (2/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/one-day-you-will-reach-the-sea/",
                                 "title": "One Day You Will Reach The Sea",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg"
-                            },
-                            {
-                                "url": "/16995/",
-                                "title": "Tenshi no iru Toshokan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6iLXqyLXkzZ857fGPouq0yhbKgp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,8 +393,17 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/laws-of-attraction/",
+                    "title": "Laws Of Attraction (1/12)",
+                    "description": "A pesar de tener puntos de vista opuestos, su cercanía genera nuevos sentimientos. A medida que su trabajo se vuelve más y más peligroso, los dos se dan cuenta de que este caso no es nada común.",
+                    "genre": "Drama, Romance, Yaoi / BL",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",

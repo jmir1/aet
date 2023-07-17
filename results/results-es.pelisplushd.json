@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/circulo-cerrado",
+                                "title": "Círculo cerrado (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ee708UKCOyM5sgEY0NcizO2s1OF.jpg"
+                            },
+                            {
+                                "url": "/serie/the-rookie-feds",
+                                "title": "The Rookie: Feds (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sFLBmaQcUDSz87bL7UlkE8oVumm.jpg"
+                            },
+                            {
                                 "url": "/serie/quarterback",
                                 "title": "Quarterback (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bKdElEIyuwrbdochxCXwlaUBFaR.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/habilidad-fisica-100",
                                 "title": "Habilidad física: 100 (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/h0U4wWpKNO00CW5rntc5yIU9EBv.jpg"
-                            },
-                            {
-                                "url": "/serie/grandes-esperanzas",
-                                "title": "Grandes esperanzas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1tUMy5BeAiLumF5Odu2bqFtOFVi.jpg"
-                            },
-                            {
-                                "url": "/serie/el-arca",
-                                "title": "El Arca (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/quarterback",
-                    "title": "Quarterback (2023)",
-                    "description": "Sigue a los jugadores de fútbol americano Patrick Mahomes, Kirk Cousins y Marcus Mariota en el campo y en casa durante la temporada 2022-23..",
-                    "genre": "Documental",
+                    "url": "/serie/circulo-cerrado",
+                    "title": "Círculo cerrado (2023)",
+                    "description": "Una investigación sobre un secuestro fallido descubre secretos guardados desde hace mucho tiempo que conectan múltiples personajes y culturas en la ciudad de Nueva York actual..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ee708UKCOyM5sgEY0NcizO2s1OF.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/quarterback/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/circulo-cerrado/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/quarterback/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/circulo-cerrado/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
