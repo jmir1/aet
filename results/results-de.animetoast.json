@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/mononogatari-2nd-season-ger-sub/",
+                                "title": "Mononogatari 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64385.jpg"
+                            },
+                            {
+                                "url": "/masamune-kun-no-revenge-r-ger-sub/",
+                                "title": "Masamune-kun no Revenge R Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
+                            },
+                            {
+                                "url": "/dark-gathering-ger-sub/",
+                                "title": "Dark Gathering Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/57491.jpg"
+                            },
+                            {
+                                "url": "/spy-kyoushitsu-2nd-season-ger-sub/",
+                                "title": "Spy Kyoushitsu 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/64386.jpg"
+                            },
+                            {
                                 "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-sub/",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg"
@@ -167,24 +187,9 @@
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/58678.jpg"
                             },
                             {
-                                "url": "/undead-girl-murder-farce-ger-sub/",
-                                "title": "Undead Girl Murder Farce Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64390.jpg"
-                            },
-                            {
-                                "url": "/shiro-seijo-to-kuro-bokushi-ger-sub/",
-                                "title": "Shiro Seijo to Kuro Bokushi Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/59727.jpg"
-                            },
-                            {
-                                "url": "/niehime-to-kemono-no-ou-ger-sub/",
-                                "title": "Niehime to Kemono no Ou Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/03/45894.jpg"
-                            },
-                            {
-                                "url": "/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-ger-sub/",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/57791.jpg"
+                                "url": "/masamune-kun-no-revenge-r-ger-dub/",
+                                "title": "Masamune-kun no Revenge R Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
                             },
                             {
                                 "url": "/jigokuraku-ger-dub/",
@@ -265,11 +270,6 @@
                                 "url": "/vinland-saga-season-2-ger-dub/",
                                 "title": "Vinland Saga Season 2 Ger Dub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/50172.jpg"
-                            },
-                            {
-                                "url": "/masamune-kun-no-revenge-r-ger-dub/",
-                                "title": "Masamune-kun no Revenge R Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
                             },
                             {
                                 "url": "/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito-ger-dub/",
@@ -439,23 +439,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-sub/",
-                    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Ger Sub",
-                    "description": "Rudeus begibt sich mit neuen Freunden und Kräften auf die Suche nach Abenteuern und den Menschen, die er einst kannte.\n ",
-                    "genre": "Drama, Ecchi, Fantasy",
+                    "url": "/mononogatari-2nd-season-ger-sub/",
+                    "title": "Mononogatari 2nd Season Ger Sub",
+                    "description": "Die Tsukumogami treffen auf mysteriöse neue Feinde, die das Leben in Kyoto bedrohen!\n ",
+                    "genre": "Action, Seinen, Supernatural",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64385.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NumberFormatException: For input string: \"Ep.0\"",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mononogatari-2nd-season-ger-sub/?link=2",
+                        "name": "Ep. 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/mononogatari-2nd-season-ger-sub/?link=1",
+                        "name": "Ep. 2",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\"",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -113,112 +113,20 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=649f46b3376d4917127bb0c0",
-                    "title": "Indiana Jones und das Rad des Schicksals",
-                    "description": "Im Jahr 1969 steht für Indy (Harrison Ford) eine neue Ära ins Haus: seine Pensionierung. Vielleicht kommt die gerade zur rechten Zeit, denn der Archäologe ringt ständig damit, sich in einer Welt zurecht zu finden, die ihm über den Kopf gewachsen zu sein scheint. Doch der alternde Professor und Abenteurer wird trotzdem wieder in ein gefährliches Abenteuer verwickelt. Vor dem Hintergrund des sogenannten Wettlaufs ins All im Kalten Krieg zwischen den Vereinigten Staaten und der Sowjetunion ist Jones von der Tatsache beunruhigt, dass die US-Regierung ehemalige Nazis rekrutiert hat, um den wortwörtlichen Griff nach den Sternen zuerst zu vollziehen. Einer von ihnen ist Jürgen Voller (Mads Mikkelsen), der am Mondlandungsprogramm beteiligt war und die Welt nach seinen eigenen Regeln zu einem besseren Ort machen will. Indiana Jones wird auf seiner Reise von seiner Patentochter Helena Shaw (Phoebe Waller-Bridge) begleitet.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=649f46b3376d4917127bb0c0",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/ocb65oom03d9",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09179/vnyfxl8ikcxz_n/master.m3u8?t=uRTiGp7XpzsQ5e7g2VOVixTjfuQLkZM1dZdEuZSZd_o&s=1689596053&e=14400&f=45928926&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=gjRZ2B6KPkF3Bo&expires=1689666051&ip=GxOsFxqnDS9X&token=1V8Ikr5G-rN5",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=gjRZ2B6KPkF3Bo&expires=1689666051&ip=GxOsFxqnDS9X&token=1V8Ikr5G-rN5"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=eGoPbMwmlWhYz0b&expires=1689666051&ip=GxOsFxqnDS9X&token=agYu-MN1-r_H",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=eGoPbMwmlWhYz0b&expires=1689666051&ip=GxOsFxqnDS9X&token=agYu-MN1-r_H"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kbq1WlzAOwSOGpx&expires=1689666051&ip=GxOsFxqnDS9X&token=Bnayj7eqBKWY",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kbq1WlzAOwSOGpx&expires=1689666051&ip=GxOsFxqnDS9X&token=Bnayj7eqBKWY"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7PJBqM6OWwTAD3G&expires=1689666050&ip=GxOsFxqnDS9X&token=220esYfV3FBd",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7PJBqM6OWwTAD3G&expires=1689666050&ip=GxOsFxqnDS9X&token=220esYfV3FBd"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=PWv8G7OM1QSGkG&expires=1689666050&ip=GxOsFxqnDS9X&token=Ruq7eHNbzJJn",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PWv8G7OM1QSGkG&expires=1689666050&ip=GxOsFxqnDS9X&token=Ruq7eHNbzJJn"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kgy6K2QRpjfOKzk&expires=1689666050&ip=GxOsFxqnDS9X&token=Ys0twXvwBcPW",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kgy6K2QRpjfOKzk&expires=1689666050&ip=GxOsFxqnDS9X&token=Ys0twXvwBcPW"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=YZKxDRG49rIv9KP&expires=1689666046&ip=GxOsFxqnDS9X&token=qHloCCDXHsWr",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YZKxDRG49rIv9KP&expires=1689666046&ip=GxOsFxqnDS9X&token=qHloCCDXHsWr"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=jVKeOB40dYUz1rL&expires=1689666044&ip=GxOsFxqnDS9X&token=SVui0MgEIDQX",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jVKeOB40dYUz1rL&expires=1689666044&ip=GxOsFxqnDS9X&token=SVui0MgEIDQX"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=9PwbQvk2vBTaXa3&expires=1689666043&ip=GxOsFxqnDS9X&token=SjFrm60kpjR2",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=9PwbQvk2vBTaXa3&expires=1689666043&ip=GxOsFxqnDS9X&token=SjFrm60kpjR2"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=d8GR6D4L2ghkO4g&expires=1689666043&ip=GxOsFxqnDS9X&token=zkDEQeUqKhJy",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=d8GR6D4L2ghkO4g&expires=1689666043&ip=GxOsFxqnDS9X&token=zkDEQeUqKhJy"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0VwpDjaYOdtb81z&expires=1689666042&ip=GxOsFxqnDS9X&token=aG0fWlDVQ1xk",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0VwpDjaYOdtb81z&expires=1689666042&ip=GxOsFxqnDS9X&token=aG0fWlDVQ1xk"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=zKZDdy8Y2piyJK&expires=1689666041&ip=GxOsFxqnDS9X&token=12U425e9IQpF",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=zKZDdy8Y2piyJK&expires=1689666041&ip=GxOsFxqnDS9X&token=12U425e9IQpF"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=393RLBVeJPsdg4d&expires=1689666040&ip=GxOsFxqnDS9X&token=8uRqVIJWpsnW",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=393RLBVeJPsdg4d&expires=1689666040&ip=GxOsFxqnDS9X&token=8uRqVIJWpsnW"
-                    },
-                    {
-                        "url": "https://voe.sx/e/kjukqzduh3di?🎧🇩🇪?1",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-kkcaaydxqcwtrsep.voe-network.net/engine/hls2/01/09170/eaktgxs0p8hi_n/master.m3u8?t=KcENx3Aj25V-AXed8GlzDlfKEZsfeZoBQu9JTs0JlwA&s=1689596040&e=14400&f=45855785&node=delivery-node-kkcaaydxqcwtrsep.voe-network.net&i=40.84&sp=3500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=OxG1lAOBKqu978&expires=1689666037&ip=GxOsFxqnDS9X&token=yPG-lwlsU2fZ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=OxG1lAOBKqu978&expires=1689666037&ip=GxOsFxqnDS9X&token=yPG-lwlsU2fZ"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }
