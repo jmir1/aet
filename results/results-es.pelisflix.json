@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/the-rift/",
+                                "title": "The Rift",
+                                "description": "Un experimento genético realizado en una cueva del fondo del mar causa mutaciones en las extrañas ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/e9MJdP11PVw0YXs6gCqo.webp"
+                            },
+                            {
                                 "url": "/pelicula/nightmare-radio-the-night-stalker/",
                                 "title": "Nightmare Radio: The Night Stalker",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "The Marker",
                                 "description": "Un thriller sobre un criminal que busca redención localizando a la hija de la mujer a la que mató....",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/fFvVk4yHrimdRdeovBg0.webp"
-                            },
-                            {
-                                "url": "/pelicula/un-lugar-por-el-que-luchar/",
-                                "title": "Un lugar por el que luchar",
-                                "description": "Greg, un agente de la DGIS (Dirección General de Seguridad Interior), se infiltra en una ZAD (Zone ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yUPY3xxqDhpl9NEdf3aCTsysjvX.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/nightmare-radio-the-night-stalker/",
-                    "title": "Nightmare Radio: The Night Stalker",
-                    "description": "",
-                    "genre": "Terror",
+                    "url": "/pelicula/the-rift/",
+                    "title": "The Rift",
+                    "description": "Un experimento genético realizado en una cueva del fondo del mar causa mutaciones en las extrañas criaturas que allí habitan. En la misma zona la desaparición de un submarino experimental, obliga a los agentes del gobierno a enviar otro submarino en su busca. Su tripulación no sospecha los horrores a los que tendrá que enfrentarse.",
+                    "genre": "Acción, C. Ficción, Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/nightmare-radio-the-night-stalker/",
+                        "url": "/pelicula/the-rift/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar ebfaLjU = \"\"; EAxHWyVa.forEach(function Oym(value) { ebfaLjU += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

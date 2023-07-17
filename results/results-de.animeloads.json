@@ -247,8 +247,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=7XDbMPY389HAa26&expires=1689666063&ip=F0AsERInDS9X&token=9H_mJ_wHhmX6",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=7XDbMPY389HAa26&expires=1689666063&ip=F0AsERInDS9X&token=9H_mJ_wHhmX6"
+                    },
+                    {
+                        "url": "https://wolfdyslectic.com/nfp1zpxazjjr?Spy.Classroom.S01E13.GerSub.AAC.720p.WebDL.x264-Tanuki.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-qvliqtoeaae46gdl.voe-network.net/engine/hls2/01/09227/nfp1zpxazjjr_n/master.m3u8?t=3uWtFyTk5Qyy9ctcQhlD5hg5Zp6RsgkqfJ_9bsw-j4s&s=1689596062&e=14400&f=46136082&node=delivery-node-qvliqtoeaae46gdl.voe-network.net&i=13.66&sp=3500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

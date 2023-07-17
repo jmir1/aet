@@ -304,6 +304,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/flash",
+                                "title": "Flash (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg"
+                            },
+                            {
                                 "url": "/pelicula/bird-box-barcelona",
                                 "title": "Bird Box Barcelona (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg"
@@ -417,11 +422,6 @@
                                 "url": "/pelicula/mi-vecino-adolf",
                                 "title": "Mi Vecino Adolf (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/l3NhgME3RNBNBZZIKbihqoZaDSU.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-escape",
-                                "title": "El escape (2019)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gNNR9fBAcNIMhZT29lXPHkjFjqc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -561,10 +561,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/bird-box-barcelona",
-                    "title": "Bird Box Barcelona (2023)",
-                    "description": "Tras la llegada de una misteriosa presencia que está destruyendo la población mundial, Sebastián comienza un viaje de supervivencia a través de las desiertas calles de Barcelona. Por el camino se encontrará con otros supervivientes con los que formará alianzas inciertas para intentar escapar de la ciudad. Pronto se darán cuenta de que hay una nueva e inesperada amenaza aún más peligrosa.",
-                    "genre": "Drama, Ciencia ficción, Suspense, Terror, Drama",
+                    "url": "/pelicula/flash",
+                    "title": "Flash (2023)",
+                    "description": "Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado y queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que recurrir. Para salvar el mundo en el que se encuentra y volver al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿bastará con llevar a cabo el sacrificio definitivo para reiniciar el universo?",
+                    "genre": "Aventura, Acción, Ciencia ficción",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -574,7 +574,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/bird-box-barcelona",
+                        "url": "/pelicula/flash",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
