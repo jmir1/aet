@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/hidden-agenda/",
+                                "title": "Hidden Agenda (2/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
+                            },
+                            {
                                 "url": "/barakamon/",
                                 "title": "Barakamon (01/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vMvvxHPxBkuEWmZy2DeCdjaJzUg.jpg"
@@ -15,11 +20,6 @@
                                 "url": "/15-coming-of-age-sub-espanol/",
                                 "title": "15+ Coming of Age",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/m44CBfL3erclj5XLhzomkIYBue6.jpg"
-                            },
-                            {
-                                "url": "/hidden-agenda/",
-                                "title": "Hidden Agenda (1/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
                             },
                             {
                                 "url": "/shonan-junai-gumi-temporada-completa-8-8/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/hidden-agenda/",
+                                "title": "Hidden Agenda (2/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
+                            },
+                            {
                                 "url": "/barakamon/",
                                 "title": "Barakamon (01/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vMvvxHPxBkuEWmZy2DeCdjaJzUg.jpg"
@@ -145,11 +150,6 @@
                                 "url": "/15-coming-of-age-sub-espanol/",
                                 "title": "15+ Coming of Age",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/m44CBfL3erclj5XLhzomkIYBue6.jpg"
-                            },
-                            {
-                                "url": "/hidden-agenda/",
-                                "title": "Hidden Agenda (1/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
                             },
                             {
                                 "url": "/shonan-junai-gumi-temporada-completa-8-8/",
@@ -393,27 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/barakamon/",
-                    "title": "Barakamon (01/??)",
-                    "description": "La historia está protagonizada por un guapo calígrafo de 23 años llamado Seishu Handa que se muda a las remotas Islas Goto en la costa del oeste de Kyushu. Seishu ha vivido toda su vida en la ciudad, y el manga cuenta las interacciones de Seishu con la gente de la isla, los cuales van con tractores por la calle y que entran a su casa por cualquier parte menos por la puerta cuando van a visitarle. Además, la casa de Seishu acaba siendo un punto de reunión para los niños de la isla.",
-                    "genre": "Comedia, Drama",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vMvvxHPxBkuEWmZy2DeCdjaJzUg.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/5226841/",
-                        "name": "Episodio 01",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
