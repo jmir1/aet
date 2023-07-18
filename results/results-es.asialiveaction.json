@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/low-frequency/",
+                                "title": "Low Frequency (2/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
+                            },
+                            {
                                 "url": "/laws-of-attraction/",
                                 "title": "Laws Of Attraction (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/mirai-san/",
                                 "title": "Mirai-san Temporada Completa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg"
-                            },
-                            {
-                                "url": "/one-day-you-will-reach-the-sea/",
-                                "title": "One Day You Will Reach The Sea",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/low-frequency/",
+                                "title": "Low Frequency (2/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
+                            },
+                            {
                                 "url": "/laws-of-attraction/",
                                 "title": "Laws Of Attraction (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/mirai-san/",
                                 "title": "Mirai-san Temporada Completa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rrFzlUM1S5J1ThQt7T0DqpWxVgV.jpg"
-                            },
-                            {
-                                "url": "/one-day-you-will-reach-the-sea/",
-                                "title": "One Day You Will Reach The Sea",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,17 +393,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/laws-of-attraction/",
-                    "title": "Laws Of Attraction (1/12)",
-                    "description": "A pesar de tener puntos de vista opuestos, su cercanía genera nuevos sentimientos. A medida que su trabajo se vuelve más y más peligroso, los dos se dan cuenta de que este caso no es nada común.",
-                    "genre": "Drama, Romance, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",

@@ -15,15 +15,15 @@
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.Exception: The source provides ZERO episodes.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
                 "passed": false
             }
         }
