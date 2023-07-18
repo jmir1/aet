@@ -109,7 +109,7 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "details": {
@@ -120,7 +120,7 @@
                     "genre": "Animación, Comedia, Familia, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://fanpelis.la/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/uybOgGtSW3orlkHTO0qYOQcSgfq.jpg",
                     "initialized": true
                 },
                 "passed": true

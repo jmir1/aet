@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/sailor-fuku-hangyaku-doumei.html",
+                                "title": "Sailor Fuku Hangyaku Doumei",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sailor-fuku-hangyaku-doumei-thumb.png"
+                            },
+                            {
                                 "url": "/watch/kamen-rider-build-birth-kumatelevi-vs-kamen-rider-grease.html",
                                 "title": "Kamen Rider Build: Birth! KumaTelevi!! VS Kamen Rider Grease!",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-build-birth-kumatelevi-vs-kamen-rider-grease-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/kikai-sentai-zenkaiger-zenkai-bean-theater.html",
                                 "title": "Kikai Sentai Zenkaiger: Zenkai Bean Theater",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kikai-sentai-zenkaiger-zenkai-bean-theater-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-den-o-pretty-den-o-appears.html",
-                                "title": "Kamen Rider Den-O: Pretty Den-O Appears!",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-den-o-pretty-den-o-appears-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,10 +144,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/kamen-rider-build-birth-kumatelevi-vs-kamen-rider-grease.html",
-                    "author": "Year 2018",
-                    "description": "Kamen Rider Build: Birth! KumaTelevi!! VS Kamen Rider Grease! is a Televi-Kun Hyper Battle DVD for Kamen Rider Build featuring the exclusive appearance of Build’s KumaTelevi Form.",
-                    "genre": "Kamen Rider, Movie",
+                    "url": "/watch/sailor-fuku-hangyaku-doumei.html",
+                    "author": "Year 1986",
+                    "description": "Sailor Fuku Hangyaku Doumei was released in 1986 and was directed by Ezaki Mio, Obimori Michihiko and Fujita Yasuyuki.",
+                    "genre": "Other",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -157,9 +157,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-build-birth-kumatelevi-vs-kamen-rider-grease.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/sailor-fuku-hangyaku-doumei.html?ep=23#watch",
+                        "name": "Episode 23",
+                        "episode_number": 23.0
+                    },
+                    {
+                        "url": "/watch/sailor-fuku-hangyaku-doumei.html?ep=22#watch",
+                        "name": "Episode 22",
+                        "episode_number": 22.0
                     }
                 ],
                 "passed": true
@@ -167,9 +172,24 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls8-eu.zcdn.stream/ccbff11adc43a51166fb23f051c18604/2021-09-28/360.m3u8?token=332520f48d2ca15e3087497724ae203c&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689670803&type=edge&node=n5_oyMdHJMzl3mdRcNqGVJNnCWytC3SBtSfMU1sVqdgqQV0e-P_4uazxmDUO4qM5wgJhZGn32WhfAbNLQfRjI6Sxt8fZ2PfKD-gjPYyZtKWCXSI5mUpgypaEltfZ5sUesvOcTFfruXmkAqmCTmueMZvlTH_hL3Mrogp3rDOrKz5xvZgYQq3eLtzYNt_5Tagf",
+                        "url": "https://hls27-eu.zcdn.stream/3d8f628eff538c91b14c7914a54e00ba/2023-07-13/720.m3u8?token=e3b938b7addbe46755c9257020ebbe59&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689689338&type=edge&node=C4X30Bez5iJa7jNwmSD2CHnljCcgIzKbbbxkvhufDJz8W5O7kB5kTyLDIOOwfINEKFORS91pVoCrTQvoacnNmEzLmz8kjzNWtF-jYMky_ULFUY8LphMgWPo_BEzUJWiszfRGIRDHrhjIF44mCAqZC_g_GfydFINEqpT-4xiHkEyzMZmwxfl3Hpt5a_MKWQZ3",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/3d8f628eff538c91b14c7914a54e00ba/2023-07-13/720.m3u8?token=e3b938b7addbe46755c9257020ebbe59&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689689338&type=edge&node=C4X30Bez5iJa7jNwmSD2CHnljCcgIzKbbbxkvhufDJz8W5O7kB5kTyLDIOOwfINEKFORS91pVoCrTQvoacnNmEzLmz8kjzNWtF-jYMky_ULFUY8LphMgWPo_BEzUJWiszfRGIRDHrhjIF44mCAqZC_g_GfydFINEqpT-4xiHkEyzMZmwxfl3Hpt5a_MKWQZ3",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls27-eu.zcdn.stream/3d8f628eff538c91b14c7914a54e00ba/2023-07-13/360.m3u8?token=e3b938b7addbe46755c9257020ebbe59&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689689338&type=edge&node=C4X30Bez5iJa7jNwmSD2CHnljCcgIzKbbbxkvhufDJz8W5O7kB5kTyLDIOOwfINEKFORS91pVoCrTQvoacnNmEzLmz8kjzNWtF-jYMky_ULFUY8LphMgWPo_BEzUJWiszfRGIRDHrhjIF44mCAqZC_g_GfydFINEqpT-4xiHkEyzMZmwxfl3Hpt5a_MKWQZ3",
                         "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls8-eu.zcdn.stream/ccbff11adc43a51166fb23f051c18604/2021-09-28/360.m3u8?token=332520f48d2ca15e3087497724ae203c&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689670803&type=edge&node=n5_oyMdHJMzl3mdRcNqGVJNnCWytC3SBtSfMU1sVqdgqQV0e-P_4uazxmDUO4qM5wgJhZGn32WhfAbNLQfRjI6Sxt8fZ2PfKD-gjPYyZtKWCXSI5mUpgypaEltfZ5sUesvOcTFfruXmkAqmCTmueMZvlTH_hL3Mrogp3rDOrKz5xvZgYQq3eLtzYNt_5Tagf",
+                        "videoUrl": "https://hls27-eu.zcdn.stream/3d8f628eff538c91b14c7914a54e00ba/2023-07-13/360.m3u8?token=e3b938b7addbe46755c9257020ebbe59&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1689689338&type=edge&node=C4X30Bez5iJa7jNwmSD2CHnljCcgIzKbbbxkvhufDJz8W5O7kB5kTyLDIOOwfINEKFORS91pVoCrTQvoacnNmEzLmz8kjzNWtF-jYMky_ULFUY8LphMgWPo_BEzUJWiszfRGIRDHrhjIF44mCAqZC_g_GfydFINEqpT-4xiHkEyzMZmwxfl3Hpt5a_MKWQZ3",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Accept": "*/*",

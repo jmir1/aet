@@ -647,29 +647,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://clipboard.cc/g/GZcoKpFmimiZ",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/GZcoKpFmimiZ"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/ePlXQkCLQ6dA",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/ePlXQkCLQ6dA"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/wKK2BKMO2jU1",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/wKK2BKMO2jU1"
-                    },
-                    {
-                        "url": "https://clipboard.cc/g/wLXi0e5rc9eI",
-                        "quality": "Clipboard",
-                        "videoUrl": "https://clipboard.cc/g/wLXi0e5rc9eI"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
