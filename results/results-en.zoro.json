@@ -557,11 +557,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/6e/64/6e64124e0caeb41efed91e30cf29a2b9/6e64124e0caeb41efed91e30cf29a2b9.png"
                             },
                             {
-                                "url": "/mushoku-tensei-jobless-reincarnation-season-2-18418?ref=search",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1c/f9/1cf9bdf58f5d0d2db7bd856b15e3835f/1cf9bdf58f5d0d2db7bd856b15e3835f.png"
-                            },
-                            {
                                 "url": "/a-world-worth-protecting-18138?ref=search",
                                 "title": "San Cun Renjian",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5a/67/5a674cc92d332039ac34ec36547c182b/5a674cc92d332039ac34ec36547c182b.jpg"
@@ -575,6 +570,11 @@
                                 "url": "/arifureta-from-commonplace-to-worlds-strongest-season-ova-18113?ref=search",
                                 "title": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/d0/a3/d0a33651b1449caf6b3b21f053f9c432/d0a33651b1449caf6b3b21f053f9c432.jpg"
+                            },
+                            {
+                                "url": "/mushoku-tensei-jobless-reincarnation-season-2-18418?ref=search",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1c/f9/1cf9bdf58f5d0d2db7bd856b15e3835f/1cf9bdf58f5d0d2db7bd856b15e3835f.png"
                             },
                             {
                                 "url": "/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-17980?ref=search",
@@ -692,8 +692,53 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery497.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_n/index-v1-a1.m3u8?t=jXF127ac3uUHBrT8GRJnXdE1ePYJqeQqP2bE8oMJ03A&s=1689790069&e=10800&f=15564010&srv=sto072&client=20.168.158.177&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery497.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_n/index-v1-a1.m3u8?t=jXF127ac3uUHBrT8GRJnXdE1ePYJqeQqP2bE8oMJ03A&s=1689790069&e=10800&f=15564010&srv=sto072&client=20.168.158.177&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/ss7a2ruar9q1.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery497.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=slEw1Bhe5WC7L_jeN-tfg5C5GzzQ2ihpn8J_tKFcbgk&s=1689790069&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.168.158.177&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery497.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=slEw1Bhe5WC7L_jeN-tfg5C5GzzQ2ihpn8J_tKFcbgk&s=1689790069&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.168.158.177&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery497.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_l/index-v1-a1.m3u8?t=jXF127ac3uUHBrT8GRJnXdE1ePYJqeQqP2bE8oMJ03A&s=1689790069&e=10800&f=15564010&srv=sto072&client=20.168.158.177&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery497.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_l/index-v1-a1.m3u8?t=jXF127ac3uUHBrT8GRJnXdE1ePYJqeQqP2bE8oMJ03A&s=1689790069&e=10800&f=15564010&srv=sto072&client=20.168.158.177&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/ss7a2ruar9q1.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery497.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=slEw1Bhe5WC7L_jeN-tfg5C5GzzQ2ihpn8J_tKFcbgk&s=1689790069&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.168.158.177&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery497.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=slEw1Bhe5WC7L_jeN-tfg5C5GzzQ2ihpn8J_tKFcbgk&s=1689790069&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.168.158.177&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

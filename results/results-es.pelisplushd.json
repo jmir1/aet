@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/all-the-world-is-sleeping",
+                                "title": "All the World Is Sleeping (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/8r5WZpT43Ihw5dPQRZiSA6rTKW3.jpg"
+                            },
+                            {
                                 "url": "/pelicula/justice-league-warworld",
                                 "title": "Justice League: Warworld (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9tx4cD3cuHhrdqLwFw8TTbfSKH2.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/dinosaur-world",
                                 "title": "Dinosaur World (2020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/dYMd4I42ZJO26OJ18kok3cK7MHu.jpg"
-                            },
-                            {
-                                "url": "/anime/tsuki-ga-michibiku-isekai-douchuu",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/exhONC020D4DGvt7XB4nq9AOMDU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -884,8 +884,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery516.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_n/index-v1-a1.m3u8?t=eGEuTLIDWcSBSfw7Iw3j-ia86bO-_X1BO5Z-pzuD320&s=1689790371&e=10800&f=67862300&srv=sto095&client=104.210.132.50&asn=8075",
+                        "quality": "[Sub] StreamSB:720p ",
+                        "videoUrl": "https://delivery516.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_n/index-v1-a1.m3u8?t=eGEuTLIDWcSBSfw7Iw3j-ia86bO-_X1BO5Z-pzuD320&s=1689790371&e=10800&f=67862300&srv=sto095&client=104.210.132.50&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/bzxck6lq74fw",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery516.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_l/index-v1-a1.m3u8?t=eGEuTLIDWcSBSfw7Iw3j-ia86bO-_X1BO5Z-pzuD320&s=1689790371&e=10800&f=67862300&srv=sto095&client=104.210.132.50&asn=8075",
+                        "quality": "[Sub] StreamSB:480p ",
+                        "videoUrl": "https://delivery516.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_l/index-v1-a1.m3u8?t=eGEuTLIDWcSBSfw7Iw3j-ia86bO-_X1BO5Z-pzuD320&s=1689790371&e=10800&f=67862300&srv=sto095&client=104.210.132.50&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/bzxck6lq74fw",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
