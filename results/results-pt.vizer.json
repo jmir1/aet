@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/sequestro-no-ar",
+                                "title": "Sequestro no Ar",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22365.webp"
+                            },
+                            {
+                                "url": "/serie/online/depois-da-festa",
+                                "title": "Depois da Festa",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19614.webp"
+                            },
+                            {
                                 "url": "/serie/online/nancy-drew",
                                 "title": "Nancy Drew",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "Cruel Summer",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19323.webp"
-                            },
-                            {
-                                "url": "/serie/online/warrior",
-                                "title": "Warrior",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4622.webp"
-                            },
-                            {
-                                "url": "/serie/online/amor-platonico",
-                                "title": "Amor Platônico",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22332.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,37 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=dSjnlWxKp9niAPjJDEnTPw&e=1689768533&_t=1689750384",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=dSjnlWxKp9niAPjJDEnTPw&e=1689768533&_t=1689750384",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=ZfCh2QJoXPE4CrKbSJhrCQ&e=1689768533&_t=1689750945",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=ZfCh2QJoXPE4CrKbSJhrCQ&e=1689768533&_t=1689750945",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
