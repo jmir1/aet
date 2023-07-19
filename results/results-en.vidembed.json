@@ -325,7 +325,8 @@
             "details": {
                 "result": {
                     "url": "/videos/unknown-cave-of-bones-2023",
-                    "description": "",
+                    "title": "Unknown: Cave of Bones",
+                    "description": "Follows Paleo anthropologist Lee Berger in South Africa, as he and his team try to prove that the world's oldest graveyard, they found, is not human. A small brained, ape-like creature could have practiced complex burial rituals.",
                     "initialized": true
                 },
                 "passed": true
@@ -341,7 +342,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

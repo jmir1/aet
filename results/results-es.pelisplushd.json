@@ -595,6 +595,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/warhorse-one/",
+                                "title": "Warhorse One",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/warhorse-one.jpg"
+                            },
+                            {
+                                "url": "/pelicula/avatar-2009/",
+                                "title": "Avatar 2009",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/avatar-2009.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-sr-carrito-y-los-caballeros-templarios/",
+                                "title": "El Sr. Carrito y los caballeros templarios",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-sr-carrito-y-los-caballeros-templarios.jpg"
+                            },
+                            {
+                                "url": "/pelicula/unos-suegros-de-armas-tomar/",
+                                "title": "Unos suegros de armas tomar",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/unos-suegros-de-armas-tomar.jpg"
+                            },
+                            {
+                                "url": "/pelicula/asteroid-city/",
+                                "title": "Asteroid City",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/asteroid-city.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bird-box-barcelona/",
+                                "title": "Bird Box Barcelona",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bird-box-barcelona.jpg"
+                            },
+                            {
                                 "url": "/pelicula/four-samosas/",
                                 "title": "Four Samosas",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/four-samosas.jpg"
@@ -663,36 +693,6 @@
                                 "url": "/pelicula/coyote/",
                                 "title": "Coyote",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/coyote.jpg"
-                            },
-                            {
-                                "url": "/pelicula/kuntilanak-3/",
-                                "title": "Kuntilanak 3",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kuntilanak-3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/te-amo-talvez-no/",
-                                "title": "Te amo... talvéz no!",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/te-amo-talvez-no.jpg"
-                            },
-                            {
-                                "url": "/pelicula/nimona/",
-                                "title": "Nimona",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nimona.jpg"
-                            },
-                            {
-                                "url": "/pelicula/little-bone-lodge/",
-                                "title": "Little Bone Lodge",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/little-bone-lodge.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-angry-black-girl-and-her-monster/",
-                                "title": "The Angry Black Girl and Her Monster",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-angry-black-girl-and-her-monster.jpg"
-                            },
-                            {
-                                "url": "/pelicula/meine-chaosfee-ich/",
-                                "title": "Meine Chaosfee & Ich",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/meine-chaosfee-ich.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -862,11 +862,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/four-samosas/",
-                    "title": "Four Samosas",
+                    "url": "/pelicula/warhorse-one/",
+                    "title": "Warhorse One",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Romance",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -876,7 +876,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/four-samosas/",
+                        "url": "/pelicula/warhorse-one/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -884,8 +884,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery391.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_n/index-v1-a1.m3u8?t=rN_lC7qRDcIHled80ePanGCkorGK0lI6QVprVraFaxs&s=1689728924&e=10800&f=67862300&srv=sto095&client=20.57.125.131&asn=8075",
+                        "quality": "[Sub] StreamSB:720p ",
+                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_n/index-v1-a1.m3u8?t=rN_lC7qRDcIHled80ePanGCkorGK0lI6QVprVraFaxs&s=1689728924&e=10800&f=67862300&srv=sto095&client=20.57.125.131&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/bzxck6lq74fw",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery391.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_l/index-v1-a1.m3u8?t=rN_lC7qRDcIHled80ePanGCkorGK0lI6QVprVraFaxs&s=1689728924&e=10800&f=67862300&srv=sto095&client=20.57.125.131&asn=8075",
+                        "quality": "[Sub] StreamSB:480p ",
+                        "videoUrl": "https://delivery391.akamai-video-content.com/hls2/01/13572/bzxck6lq74fw_l/index-v1-a1.m3u8?t=rN_lC7qRDcIHled80ePanGCkorGK0lI6QVprVraFaxs&s=1689728924&e=10800&f=67862300&srv=sto095&client=20.57.125.131&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/bzxck6lq74fw",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
