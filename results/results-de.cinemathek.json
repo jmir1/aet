@@ -504,8 +504,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04227/rw41t7datait_x/index-v1-a2.m3u8?t=pFaHz8okJkQO-Ypo7C4bZRIhh_qsWjXolxCFBJU40_k&s=1689855125&e=43200&f=21137640&srv=05&asn=8075&sp=2500&fr=rw41t7datait",
+                        "quality": "Filemoon - 816p",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04227/rw41t7datait_x/index-v1-a2.m3u8?t=pFaHz8okJkQO-Ypo7C4bZRIhh_qsWjXolxCFBJU40_k&s=1689855125&e=43200&f=21137640&srv=05&asn=8075&sp=2500&fr=rw41t7datait",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/rw41t7datait",
+                            "Origin": "https://filemoon.sx"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04227/lang/ger/rw41t7datait_ger/index.m3u8?t=pFaHz8okJkQO-Ypo7C4bZRIhh_qsWjXolxCFBJU40_k&s=1689855125&e=43200&f=21137640&srv=05&asn=8075&sp=2500&fr=rw41t7datait",
+                                "lang": "Deutsch"
+                            },
+                            {
+                                "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04227/lang/eng/rw41t7datait_eng/index.m3u8?t=pFaHz8okJkQO-Ypo7C4bZRIhh_qsWjXolxCFBJU40_k&s=1689855125&e=43200&f=21137640&srv=05&asn=8075&sp=2500&fr=rw41t7datait",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
