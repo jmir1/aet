@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/invasao-secreta",
+                                "title": "Invasão Secreta",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22354.webp"
+                            },
+                            {
                                 "url": "/serie/online/sequestro-no-ar",
                                 "title": "Sequestro no Ar",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Entre Estranhos",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22348.webp"
-                            },
-                            {
-                                "url": "/serie/online/cruel-summer",
-                                "title": "Cruel Summer",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19323.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,37 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=RbPFHJpTwv6QVi7RZjOCQw&e=1689811672&_t=1689792166",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=RbPFHJpTwv6QVi7RZjOCQw&e=1689811672&_t=1689792166",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=rSQ1I12iRiXQa5bynBcHAQ&e=1689811673&_t=1689799535",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=rSQ1I12iRiXQa5bynBcHAQ&e=1689811673&_t=1689799535",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

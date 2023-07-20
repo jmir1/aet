@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/breaking/",
+                                "title": "Breaking",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg"
+                            },
+                            {
+                                "url": "/movies/last-contact/",
+                                "title": "Last Contact",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bZaHSXQqKm7C4vEMIwoyH5DC6D2.jpg"
+                            },
+                            {
                                 "url": "/movies/bird-box-barcelona/",
                                 "title": "Bird Box: Barcelona",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/movies/bed-rest/",
                                 "title": "Bed Rest",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg"
-                            },
-                            {
-                                "url": "/movies/black-clover-sword-of-the-wizard-king/",
-                                "title": "Black Clover: Sword of the Wizard King",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iAPTaMxOFYQs8Punh74SCSoG6sv.jpg"
-                            },
-                            {
-                                "url": "/movies/the-covenant/",
-                                "title": "The Covenant",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/b1llNwzB0ym99YuZCs6hCBBhZOk.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -434,11 +434,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/bird-box-barcelona/",
-                    "title": "Bird Box: Barcelona",
-                    "description": "Nachdem unsichtbare Kreaturen weite Teile der Weltbevölkerung ausgelöscht haben, indem sie alle, die sie erblicken, dazu bringen, sich das Leben zu nehmen, irren Sebastian und seine Tochter Anna durch die menschenleeren Straßen Barcelonas. Das Tragen einer Augenbinde scheint das einzige zu sein, was gegen die Bedrohung hilft – neben der Anwesenheit von Tieren, die die Gefahr früher wittern und somit vor ihr warnen können. Doch während Sebastian und Anna sich mit anderen Überlebenden verbünden und sich gemeinsam mit ihnen auf den Weg zu einem sicheren Zufluchtsort machen, reift eine Bedrohung heran, die noch schlimmer ist, als die mysteriösen Wesen.\n\nOriginaltitel: Bird Box Barcelona",
-                    "genre": "Drama, Horror, Science Fiction, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/11n6tatb6NsrP6Ay4cEIWc297Eb.jpg",
+                    "url": "/movies/breaking/",
+                    "title": "Breaking",
+                    "description": "\nOriginaltitel: Breaking",
+                    "genre": "Drama, Krimi, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +446,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/bird-box-barcelona/",
+                        "url": "/movies/breaking/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
