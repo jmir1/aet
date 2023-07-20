@@ -884,31 +884,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery004.akamai-video-content.com/hls2/01/13670/reau8g8zzkap_n/index-v1-a1.m3u8?t=0Y_VI8s-nwVhDE8VPGRFQ3UjA2jNV7ZD-Guu201dB1g&s=1689813647&e=10800&f=68353194&srv=sto029&client=23.102.140.36&asn=8075",
-                        "quality": "[Cast] StreamSB:720p ",
-                        "videoUrl": "https://delivery004.akamai-video-content.com/hls2/01/13670/reau8g8zzkap_n/index-v1-a1.m3u8?t=0Y_VI8s-nwVhDE8VPGRFQ3UjA2jNV7ZD-Guu201dB1g&s=1689813647&e=10800&f=68353194&srv=sto029&client=23.102.140.36&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/reau8g8zzkap",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery004.akamai-video-content.com/hls2/01/13670/reau8g8zzkap_l/index-v1-a1.m3u8?t=0Y_VI8s-nwVhDE8VPGRFQ3UjA2jNV7ZD-Guu201dB1g&s=1689813647&e=10800&f=68353194&srv=sto029&client=23.102.140.36&asn=8075",
-                        "quality": "[Cast] StreamSB:480p ",
-                        "videoUrl": "https://delivery004.akamai-video-content.com/hls2/01/13670/reau8g8zzkap_l/index-v1-a1.m3u8?t=0Y_VI8s-nwVhDE8VPGRFQ3UjA2jNV7ZD-Guu201dB1g&s=1689813647&e=10800&f=68353194&srv=sto029&client=23.102.140.36&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/reau8g8zzkap",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
