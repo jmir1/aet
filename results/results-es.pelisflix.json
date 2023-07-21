@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-clon-de-tyrone/",
+                                "title": "El clon de Tyrone",
+                                "description": "Unos sucesos inquietantes en el barrio mueven a un peculiar trío a investigar una conspiración muy...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/lUeufOUVydZSvJapNu.webp"
+                            },
+                            {
+                                "url": "/pelicula/i-see-you/",
+                                "title": "I See You",
+                                "description": "Cuando un niño de 12 años desaparece, el investigador principal Greg Harper lucha por equilibrar l...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/MQxKpCAiWi0Rjyfztslk.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-penitent-thief/",
+                                "title": "The Penitent Thief",
+                                "description": "El ladrón penitente es la historia de los dos hombres sin nombre que fueron crucificados junto a Je...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZfO2y0dqRxpuQpMTtVSdoYeAru.webp"
+                            },
+                            {
+                                "url": "/pelicula/sound-of-freedom/",
+                                "title": "Sound of Freedom",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/mykKHJ0ogAUyMqA.webp"
+                            },
+                            {
                                 "url": "/pelicula/flash/",
                                 "title": "Flash",
                                 "description": "Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con...",
@@ -221,30 +245,6 @@
                                 "title": "The Foreigner (El implacable)",
                                 "description": "Quan es un humilde empresario londinense cuyo pasado, largamente sepultado, estalla en una venganza ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/XgYG6WbAuWLkkXvFlqvd.webp"
-                            },
-                            {
-                                "url": "/pelicula/true-north/",
-                                "title": "True North",
-                                "description": "Una denuncia de la tragedia de la dictadura de Corea del Norte a través de los ojos de un niño.La ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/QbfpZeHlbyV2m4r1.webp"
-                            },
-                            {
-                                "url": "/pelicula/los-caballeros-del-zodiaco/",
-                                "title": "Los Caballeros del Zodiaco",
-                                "description": "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidde...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/w5PfkFmfRYuR4hzzJz9rJaUiKA8XT0MfVrl6WybE.webp"
-                            },
-                            {
-                                "url": "/pelicula/mision-imposible-sentencia-mortal-parte-uno/",
-                                "title": "Misión: Imposible - Sentencia mortal parte uno",
-                                "description": "Ethan Hunt y su equipo del FMI, se embarcan en su misión más peligrosa hasta la fecha: localizar, ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/9SXZ7QvHkRv11ey1U5EtpLC8TY8IBTiB.webp"
-                            },
-                            {
-                                "url": "/pelicula/guardians-of-the-galaxy-volume-3-guardianes-de-la-galaxia-vol-3-zpvk/",
-                                "title": "Guardians of the Galaxy Volume 3 (Guardianes de la galaxia Vol. 3)",
-                                "description": "Star-Lord, todavía recuperándose de la pérdida de Gamora, debe reunir a su equipo para defender e...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Q8pOXTvYLYwmrEOY2l65jRXfk9zBxs.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/flash/",
-                    "title": "Flash",
-                    "description": "Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado y queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que recurrir. Para salvar el mundo en el que se encuentra y volver al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿bastará con llevar a cabo el sacrificio definitivo para reiniciar el universo?",
-                    "genre": "Acción, Aventura, C. Ficción, Estrenos",
+                    "url": "/pelicula/el-clon-de-tyrone/",
+                    "title": "El clon de Tyrone",
+                    "description": "Unos sucesos inquietantes en el barrio mueven a un peculiar trío a investigar una conspiración muy siniestra.",
+                    "genre": "C. Ficción, Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/flash/",
+                        "url": "/pelicula/el-clon-de-tyrone/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar rlWAIPzq = \"\"; dESHplddRv.forEach(function Oym(value) { rlWAIPzq += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
