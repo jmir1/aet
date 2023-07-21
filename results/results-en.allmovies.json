@@ -896,21 +896,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/black-mirror-2x3/",
-                        "name": "Season 2x3 : The Waldo Moment",
-                        "episode_number": 3.0
+                        "url": "/episode/black-mirror-6x5/",
+                        "name": "Season 6x5 : Demon 79",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/episode/black-mirror-2x2/",
-                        "name": "Season 2x2 : White Bear",
-                        "episode_number": 2.0
+                        "url": "/episode/black-mirror-6x4/",
+                        "name": "Season 6x4 : Mazey Day",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v900.streamhub.gg/hls/sc6tz2fowuytnuzvox6c5nrv7we5y5sbgrvkk3bzwbngly2vy5cnzebxvm3a/index-v1-a1.m3u8",
+                        "quality": "640p",
+                        "videoUrl": "https://v900.streamhub.gg/hls/sc6tz2fowuytnuzvox6c5nrv7we5y5sbgrvkk3bzwbngly2vy5cnzebxvm3a/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
