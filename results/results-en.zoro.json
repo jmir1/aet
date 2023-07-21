@@ -272,14 +272,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/0f/47/0f474e6ea130efd9372f913356037955/0f474e6ea130efd9372f913356037955.jpg"
                             },
                             {
-                                "url": "/one-piece-100",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/54/90/5490cb32786d4f7fef0f40d7266df532/5490cb32786d4f7fef0f40d7266df532.jpg"
-                            },
-                            {
                                 "url": "/jujutsu-kaisen-2nd-season-18413",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b5/1f/b51f863b05f30576cf9d85fa9b911bb5/b51f863b05f30576cf9d85fa9b911bb5.png"
+                            },
+                            {
+                                "url": "/one-piece-100",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/54/90/5490cb32786d4f7fef0f40d7266df532/5490cb32786d4f7fef0f40d7266df532.jpg"
                             },
                             {
                                 "url": "/mushoku-tensei-jobless-reincarnation-season-2-18418",
@@ -397,14 +397,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/8a/ef/8aefe7f11b488baf83af0585fbc8519d/8aefe7f11b488baf83af0585fbc8519d.jpg"
                             },
                             {
-                                "url": "/perfect-world-17492",
-                                "title": "Wanmei Shijie",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
-                            },
-                            {
                                 "url": "/saint-cecilia-and-pastor-lawrence-18480",
                                 "title": "Shiro Seijo to Kuro Bokushi",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1a/07/1a075444e296731097ded364dd093fdc/1a075444e296731097ded364dd093fdc.jpg"
+                            },
+                            {
+                                "url": "/perfect-world-17492",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
                             },
                             {
                                 "url": "/legend-of-immortals-5th-season-18328",
@@ -542,11 +542,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/9d/0d/9d0d91bb124a0d7006d279eab63eaaa9/9d0d91bb124a0d7006d279eab63eaaa9.jpg"
                             },
                             {
-                                "url": "/farming-life-in-another-world-18284?ref=search",
-                                "title": "Isekai Nonbiri Nouka",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/32/33/32331430b54de785a0e610e2983e4f07/32331430b54de785a0e610e2983e4f07.jpg"
-                            },
-                            {
                                 "url": "/ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world-18280?ref=search",
                                 "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/6e/64/6e64124e0caeb41efed91e30cf29a2b9/6e64124e0caeb41efed91e30cf29a2b9.png"
@@ -650,6 +645,11 @@
                                 "url": "/world-of-leadale-17475?ref=search",
                                 "title": "Leadale no Daichi nite",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3c/84/3c847879e52e9a8ddc5bf3bae5175273/3c847879e52e9a8ddc5bf3bae5175273.jpg"
+                            },
+                            {
+                                "url": "/a-harem-in-a-fantasy-world-labyrinth-17403?ref=search",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/95/53/9553d7b03b7e61849fb20faccca10543/9553d7b03b7e61849fb20faccca10543.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -687,8 +687,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery515.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=7Gw8rD6Stiu6EISnOs9Fe0JgA6AUhx19mfALvfRxFQA&s=1689919764&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.243.247&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery515.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=7Gw8rD6Stiu6EISnOs9Fe0JgA6AUhx19mfALvfRxFQA&s=1689919764&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.243.247&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery515.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=7Gw8rD6Stiu6EISnOs9Fe0JgA6AUhx19mfALvfRxFQA&s=1689919764&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.243.247&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery515.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=7Gw8rD6Stiu6EISnOs9Fe0JgA6AUhx19mfALvfRxFQA&s=1689919764&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.243.247&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
