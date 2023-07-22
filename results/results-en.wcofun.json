@@ -3,24 +3,144 @@
         "name": "Wcofun",
         "results": {
             "popular": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/headspace-guide-to-sleep",
+                                "title": "Headspace Guide to Sleep",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933027.jpg"
+                            },
+                            {
+                                "url": "/anime/reign-of-the-seven-spellblades",
+                                "title": "Reign of the Seven Spellblades",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933026.jpg"
+                            },
+                            {
+                                "url": "/anime/the-great-cleric",
+                                "title": "The Great Cleric",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933025.jpg"
+                            },
+                            {
+                                "url": "/anime/supa-team-4",
+                                "title": "Supa Team 4",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933024.jpg"
+                            },
+                            {
+                                "url": "/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon",
+                                "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933023.jpg"
+                            },
+                            {
+                                "url": "/anime/get-rolling-with-otis",
+                                "title": "Get Rolling with Otis",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933022.jpg"
+                            },
+                            {
+                                "url": "/anime/sweet-reincarnation",
+                                "title": "Sweet Reincarnation",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933021.jpg"
+                            },
+                            {
+                                "url": "/anime/am-i-actually-the-strongest",
+                                "title": "Am I Actually the Strongest?",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933020.jpg"
+                            },
+                            {
+                                "url": "/anime/ayaka-a-story-of-bonds-and-wounds",
+                                "title": "Ayaka: A Story of Bonds and Wounds",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933019.jpg"
+                            },
+                            {
+                                "url": "/anime/my-tiny-senpai",
+                                "title": "My Tiny Senpai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933018.jpg"
+                            },
+                            {
+                                "url": "/anime/sunny-day",
+                                "title": "Sunny Day",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933017.jpg"
+                            },
+                            {
+                                "url": "/anime/kuromis-pretty-journey",
+                                "title": "Kuromi's Pretty Journey",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933015.jpg"
+                            },
+                            {
+                                "url": "/anime/kuromis-pretty-journey-english-subbed",
+                                "title": "Kuromi's Pretty Journey English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933014.jpg"
+                            },
+                            {
+                                "url": "/anime/monster-loving-maniacs",
+                                "title": "Monster Loving Maniacs",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933013.jpg"
+                            },
+                            {
+                                "url": "/anime/chou-shounen-tanteidan-neo-english-dubbed",
+                                "title": "Chou Shounen Tanteidan Neo English Dubbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933012.jpg"
+                            },
+                            {
+                                "url": "/anime/tales-of-nai-nai",
+                                "title": "Tales of Nai Nai",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933011.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": {
+                    "url": "/anime/headspace-guide-to-sleep",
+                    "title": "Headspace Guide to Sleep",
+                    "description": "Learn how to sleep better with Headspace. Each episode unpacks misconceptions, offers friendly tips and concludes with a guided wind-down.",
+                    "genre": "Animation, Documentary, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933027.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/headspace-guide-to-sleep-episode-7-your-perfect-sleep-rhythm",
+                        "name": "Episode 7 Your Perfect Sleep Rhythm",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/headspace-guide-to-sleep-episode-6-putting-insomnia-to-bed",
+                        "name": "Episode 6 Putting Insomnia to Bed",
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjpr3CUdBOf20RUiuHGco9c5le9dQWTL5TmJJl3S8HmOe5yBrVNH-vvu-errL5VTYHqSrrUffGvPETCbHhnKdfwFaD_dru5yTAIh2CuJNDZdlIXEJpclpoFhAwb4oB2cHvA2GDEIwZ__aqVQOdQ_eemKCS18V9jVwycfR7kUdARXp4haHvC3b4Yo8NUapSQn3Cq4RaDM0TEoZfCeZz7iHl9dLsnlFAuaN8Yll3lc89rY2cyMlXZIj3HjxQ8A8RWsk5KWkrT2u3e_c4jUWsxx4ySX1Wnw-1UaoOHLeYdLoFlBX4v10p49UAU856ZXtkfti-38NhgV9QyICZVOSpJ7AIp0zzC-QJCcXYBJEH_ZodxK",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjpr3CUdBOf20RUiuHGco9c5le9dQWTL5TmJJl3S8HmOe5yBrVNH-vvu-errL5VTYHqSrrUffGvPETCbHhnKdfwFaD_dru5yTAIh2CuJNDZdlIXEJpclpoFhAwb4oB2cHvA2GDEIwZ__aqVQOdQ_eemKCS18V9jVwycfR7kUdARXp4haHvC3b4Yo8NUapSQn3Cq4RaDM0TEoZfCeZz7iHl9dLsnlFAuaN8Yll3lc89rY2cyMlXZIj3HjxQ8A8RWsk5KWkrT2u3e_c4jUWsxx4ySX1Wnw-1UaoOHLeYdLoFlBX4v10p49UAU856ZXtkfti-38NhgV9QyICZVOSpJ7AIp0zzC-QJCcXYBJEH_ZodxK"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjpr3CUdBOf20RUiuHGco9c5le9dQWTL5TmJJl3S8HmOe5yBrVNH-vvu-errL5VTYCPuJ0OKKoCvaZ2iotX1wDTtpjrDo7De7IVjMw_GYHaxXlFOuF1GoP5U-07IbloTEcWeO1bwV54mijoFhu5B0xnEaDoqxJA-FWyDvwx8TF2F6ofoUXsyLEOpztFhiuQx9G86FGbmf9iGwu9EkBMTfbnXjCp4AX5CtYHGyTIN54UM1imF7fP46HQjuBD96rxn0FPFQfmLQkohsr1LZrg8ANcsDpYiMzWqRtDXR3VpsKAsD5_UQ7eFtJGrplD8ISNFt_uLlaeJbzvQe2Zt_CZoCclRepu0d5GJ-e5t6azAQjjh",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjpr3CUdBOf20RUiuHGco9c5le9dQWTL5TmJJl3S8HmOe5yBrVNH-vvu-errL5VTYCPuJ0OKKoCvaZ2iotX1wDTtpjrDo7De7IVjMw_GYHaxXlFOuF1GoP5U-07IbloTEcWeO1bwV54mijoFhu5B0xnEaDoqxJA-FWyDvwx8TF2F6ofoUXsyLEOpztFhiuQx9G86FGbmf9iGwu9EkBMTfbnXjCp4AX5CtYHGyTIN54UM1imF7fP46HQjuBD96rxn0FPFQfmLQkohsr1LZrg8ANcsDpYiMzWqRtDXR3VpsKAsD5_UQ7eFtJGrplD8ISNFt_uLlaeJbzvQe2Zt_CZoCclRepu0d5GJ-e5t6azAQjjh"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjpr3CUdBOf20RUiuHGco9c5le9dQWTL5TmJJl3S8HmOe5yBrVNH-vvu-errL5VTYGlqNgu-uC20gvDtZs43jjyM6RLWkHS8EkL3H_73dw-lf5peCA22nLZ_3UNX-p9UZdrhsKqSEuBI0BTil278uxOBgWH_I81o_hiSgdl46TCmGE6deWpYeFi7pz7B4eJGktmhV347Q_9wJ_5jIA2ArfY5v8xPBhvMpI-M2C6aAVWujGS6QuKZ9t-Z8mBbQlX5djeKTXc8zX3-uB0E6tjzcflEML08xMIX3UbFhxSU3sqgkzn4XySCkA0Ixo8ZX5jos22TfkxK-N6yiD2w9UXXx9qKrcs-VEO8TvNprvLyeY1X",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjpr3CUdBOf20RUiuHGco9c5le9dQWTL5TmJJl3S8HmOe5yBrVNH-vvu-errL5VTYGlqNgu-uC20gvDtZs43jjyM6RLWkHS8EkL3H_73dw-lf5peCA22nLZ_3UNX-p9UZdrhsKqSEuBI0BTil278uxOBgWH_I81o_hiSgdl46TCmGE6deWpYeFi7pz7B4eJGktmhV347Q_9wJ_5jIA2ArfY5v8xPBhvMpI-M2C6aAVWujGS6QuKZ9t-Z8mBbQlX5djeKTXc8zX3-uB0E6tjzcflEML08xMIX3UbFhxSU3sqgkzn4XySCkA0Ixo8ZX5jos22TfkxK-N6yiD2w9UXXx9qKrcs-VEO8TvNprvLyeY1X"
+                    }
+                ],
+                "passed": true
             }
         }
     }
