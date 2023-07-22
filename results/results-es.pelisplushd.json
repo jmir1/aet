@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/las-super-4",
+                                "title": "Las Super-4 (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/70yC4YXA0ZJ3EpwV0T08AbP3LR0.jpg"
+                            },
+                            {
+                                "url": "/serie/monster-high",
+                                "title": "Monster High (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pEmo6aaLTTdDwXY41liecyDeYtc.jpg"
+                            },
+                            {
                                 "url": "/serie/volver-a-caer",
                                 "title": "Volver a caer (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/esXkEJVabYCvl15jAvzYkBB4gyT.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/las-buenas-madres",
                                 "title": "Las buenas madres (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/dMzKtQl7PSXYIOGlVWpHkA4UJDo.jpg"
-                            },
-                            {
-                                "url": "/serie/mentiras-arriesgadas",
-                                "title": "Mentiras arriesgadas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3r2mlFb4Kg2d7epkEmLFyJq9oGQ.jpg"
-                            },
-                            {
-                                "url": "/serie/fatalidad-a-tu-servicio",
-                                "title": "Fatalidad a tu servicio (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/aDlBM1flPwBxQykQaaGy2JjNsk2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/volver-a-caer",
-                    "title": "Volver a caer (2023)",
-                    "description": "Ana viaja a San Gabriel para ayudar a su hermano con su matrimonio. Al llegar conoce a Vico, un joven músico con quien parece destinada a encontrarse..",
-                    "genre": "Drama",
+                    "url": "/serie/las-super-4",
+                    "title": "Las Super-4 (2023)",
+                    "description": "En una ciudad neofuturística de Zambia, cuatro chicas guerreras y una agente secreta retirada intentan salvar el mundo con bajo presupuesto..",
+                    "genre": "Animación, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/esXkEJVabYCvl15jAvzYkBB4gyT.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/70yC4YXA0ZJ3EpwV0T08AbP3LR0.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/volver-a-caer/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/las-super-4/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/serie/volver-a-caer/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/las-super-4/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -595,6 +595,61 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/pepe-caceres/",
+                                "title": "Pepe Cáceres",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pepe-caceres.jpg"
+                            },
+                            {
+                                "url": "/pelicula/einfach-mal-was-schones/",
+                                "title": "Einfach mal was Schönes",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/einfach-mal-was-schones.jpg"
+                            },
+                            {
+                                "url": "/pelicula/john-316/",
+                                "title": "John, 316",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/john-316.jpg"
+                            },
+                            {
+                                "url": "/pelicula/un-lugar-llamado-dignidad/",
+                                "title": "Un lugar llamado Dignidad",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/un-lugar-llamado-dignidad.jpg"
+                            },
+                            {
+                                "url": "/pelicula/perdrix/",
+                                "title": "Perdrix",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/perdrix.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-bala-de-dios/",
+                                "title": "La bala de Dios",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-bala-de-dios.jpg"
+                            },
+                            {
+                                "url": "/pelicula/prueba-de-amor/",
+                                "title": "Prueba de amor",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/prueba-de-amor.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-shade-shepherd/",
+                                "title": "The Shade Shepherd",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-shade-shepherd.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-oscuro-lugar-donde-habitan/",
+                                "title": "El oscuro lugar donde habitan",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-oscuro-lugar-donde-habitan.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-deepest-breath/",
+                                "title": "The Deepest Breath",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-deepest-breath.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-possessed/",
+                                "title": "The Possessed",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-possessed.jpg"
+                            },
+                            {
                                 "url": "/pelicula/all-the-world-is-sleeping/",
                                 "title": "All the World Is Sleeping",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/all-the-world-is-sleeping.jpg"
@@ -638,61 +693,6 @@
                                 "url": "/pelicula/estas-ahi-dios-soy-yo-margarita/",
                                 "title": "¿Estás ahí Dios? Soy yo, Margarita",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/estas-ahi-dios-soy-yo-margarita.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dead-mans-hand/",
-                                "title": "Dead Man's Hand",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dead-mans-hand.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mercy-2023/",
-                                "title": "Mercy 2023",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mercy-2023.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tu-jhoothi-main-makkaar/",
-                                "title": "Tu Jhoothi Main Makkaar",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tu-jhoothi-main-makkaar.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-lugar-por-el-que-pelear/",
-                                "title": "Un lugar por el que pelear",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/un-lugar-por-el-que-pelear.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-iniciados/",
-                                "title": "Los iniciados",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-iniciados.jpg"
-                            },
-                            {
-                                "url": "/pelicula/gringa/",
-                                "title": "Gringa",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/gringa.jpg"
-                            },
-                            {
-                                "url": "/pelicula/robots-2023/",
-                                "title": "Robots 2023",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/robots-2023.jpg"
-                            },
-                            {
-                                "url": "/pelicula/65-al-borde-de-la-extincion/",
-                                "title": "65: Al borde de la extinción",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/65-al-borde-de-la-extincion.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-leyenda-de-los-chaneques/",
-                                "title": "La Leyenda de los Chaneques",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-leyenda-de-los-chaneques.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-starling-girl/",
-                                "title": "The Starling Girl",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-starling-girl.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ruby-gillman-teenage-kraken/",
-                                "title": "Krakens y sirenas: Conoce a los Gillman",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ruby-gillman-teenage-kraken.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -862,11 +862,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/all-the-world-is-sleeping/",
-                    "title": "All the World Is Sleeping",
+                    "url": "/pelicula/pepe-caceres/",
+                    "title": "Pepe Cáceres",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -876,7 +876,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/all-the-world-is-sleeping/",
+                        "url": "/pelicula/pepe-caceres/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -884,8 +884,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery406.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_h/index-v1-a1.m3u8?t=9kYc0U4xWLfKjDNxw7ikuqbXNt477s8G9_cRbgWBDf4&s=1689986454&e=10800&f=68412848&srv=sto122&client=104.210.139.81&asn=8075",
+                        "quality": "[Cast] StreamSB:960p ",
+                        "videoUrl": "https://delivery406.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_h/index-v1-a1.m3u8?t=9kYc0U4xWLfKjDNxw7ikuqbXNt477s8G9_cRbgWBDf4&s=1689986454&e=10800&f=68412848&srv=sto122&client=104.210.139.81&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/1lindvn0j3wz",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery406.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_n/index-v1-a1.m3u8?t=9kYc0U4xWLfKjDNxw7ikuqbXNt477s8G9_cRbgWBDf4&s=1689986454&e=10800&f=68412848&srv=sto122&client=104.210.139.81&asn=8075",
+                        "quality": "[Cast] StreamSB:720p ",
+                        "videoUrl": "https://delivery406.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_n/index-v1-a1.m3u8?t=9kYc0U4xWLfKjDNxw7ikuqbXNt477s8G9_cRbgWBDf4&s=1689986454&e=10800&f=68412848&srv=sto122&client=104.210.139.81&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/1lindvn0j3wz",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery406.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_l/index-v1-a1.m3u8?t=9kYc0U4xWLfKjDNxw7ikuqbXNt477s8G9_cRbgWBDf4&s=1689986454&e=10800&f=68412848&srv=sto122&client=104.210.139.81&asn=8075",
+                        "quality": "[Cast] StreamSB:480p ",
+                        "videoUrl": "https://delivery406.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_l/index-v1-a1.m3u8?t=9kYc0U4xWLfKjDNxw7ikuqbXNt477s8G9_cRbgWBDf4&s=1689986454&e=10800&f=68412848&srv=sto122&client=104.210.139.81&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/1lindvn0j3wz",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

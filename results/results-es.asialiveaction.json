@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/shin-kamen-rider/",
+                                "title": "Shin Kamen Rider",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/AcCfr82ymbvb7V3uSgwqoE6GyhX.jpg"
+                            },
+                            {
                                 "url": "/wedding-plan-the-series/",
                                 "title": "Wedding Plan The Series (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/adam-by-eve-a-live-in-animation/",
                                 "title": "Adam by Eve a Live in Animation",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg"
-                            },
-                            {
-                                "url": "/high-low-the-worst-x-2022/",
-                                "title": "High & Low The Worst X (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kRlMWoqx0pq0K78f4seWOWtaTkF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/shin-kamen-rider/",
+                                "title": "Shin Kamen Rider",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/AcCfr82ymbvb7V3uSgwqoE6GyhX.jpg"
+                            },
+                            {
                                 "url": "/wedding-plan-the-series/",
                                 "title": "Wedding Plan The Series (1/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/adam-by-eve-a-live-in-animation/",
                                 "title": "Adam by Eve a Live in Animation",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vI3aahilqPyMpNQQ7421GSEHRLX.jpg"
-                            },
-                            {
-                                "url": "/high-low-the-worst-x-2022/",
-                                "title": "High & Low The Worst X (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kRlMWoqx0pq0K78f4seWOWtaTkF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/shin-kamen-rider/",
+                    "title": "Shin Kamen Rider",
+                    "description": "Takeshi Hongo es un joven al que le encantan las motos que un día es secuestrado por la organización Shocker, quienes se dedican a modificar a las personas y lavarles el cerebro para utilizarlas en sus planes de dominación mundial. Sin embargo, Hongo consigue escapar y se convierte en Kamen Rider, un héroe enmascarado que, junto con su moto Cyclone, tratará de detener a la malvada organización criminal. Reboot de la serie «Kamen Rider» escrito por el director Hideaki Anno en formato de película para celebrar el 50º aniversario.",
+                    "genre": "Acción, Aventura, Ciencia Ficción, Drama, Extraterrestres, Fantasía, Lucha, Psicológico",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/AcCfr82ymbvb7V3uSgwqoE6GyhX.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/1226955/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
