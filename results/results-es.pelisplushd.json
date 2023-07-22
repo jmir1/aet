@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/libre-de-reir",
+                                "title": "Libre de reír (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/A4dlv2PzrMNeM4bgzamcvK3bWlf.jpg"
+                            },
+                            {
                                 "url": "/serie/las-super-4",
                                 "title": "Las Super-4 (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/70yC4YXA0ZJ3EpwV0T08AbP3LR0.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/a-thin-line",
                                 "title": "A Thin Line (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/8aWRzJClwsPieNrKMB11B8mmqHg.jpg"
-                            },
-                            {
-                                "url": "/serie/las-buenas-madres",
-                                "title": "Las buenas madres (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dMzKtQl7PSXYIOGlVWpHkA4UJDo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/las-super-4",
-                    "title": "Las Super-4 (2023)",
-                    "description": "En una ciudad neofuturística de Zambia, cuatro chicas guerreras y una agente secreta retirada intentan salvar el mundo con bajo presupuesto..",
-                    "genre": "Animación, Action & Adventure",
+                    "url": "/serie/libre-de-reir",
+                    "title": "Libre de reír (2023)",
+                    "description": "La comediante Sofía Niño de Rivera dirige talleres de comedia para personas encarceladas en el penitenciario de la Ciudad de México en esta docuserie. Un experimento social conmovedor y único, este proyecto sigue a los miembros de tres poblaciones carcelarias distintas mientras aprenden a transformar su trauma en comedia de cinco minutos..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/70yC4YXA0ZJ3EpwV0T08AbP3LR0.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/A4dlv2PzrMNeM4bgzamcvK3bWlf.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/las-super-4/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 9.0
+                        "url": "/serie/libre-de-reir/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/serie/las-super-4/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 8.0
+                        "url": "/serie/libre-de-reir/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -884,8 +884,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery132.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_h/index-v1-a1.m3u8?t=q1-foUHr7q7wmYUQBUTnMUeA6YdOc6G6L_woaWz4vjw&s=1690028027&e=10800&f=68412848&srv=sto122&client=20.185.156.80&asn=8075",
+                        "quality": "[Cast] StreamSB:960p ",
+                        "videoUrl": "https://delivery132.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_h/index-v1-a1.m3u8?t=q1-foUHr7q7wmYUQBUTnMUeA6YdOc6G6L_woaWz4vjw&s=1690028027&e=10800&f=68412848&srv=sto122&client=20.185.156.80&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/1lindvn0j3wz",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery132.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_n/index-v1-a1.m3u8?t=q1-foUHr7q7wmYUQBUTnMUeA6YdOc6G6L_woaWz4vjw&s=1690028027&e=10800&f=68412848&srv=sto122&client=20.185.156.80&asn=8075",
+                        "quality": "[Cast] StreamSB:720p ",
+                        "videoUrl": "https://delivery132.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_n/index-v1-a1.m3u8?t=q1-foUHr7q7wmYUQBUTnMUeA6YdOc6G6L_woaWz4vjw&s=1690028027&e=10800&f=68412848&srv=sto122&client=20.185.156.80&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/1lindvn0j3wz",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery132.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_l/index-v1-a1.m3u8?t=q1-foUHr7q7wmYUQBUTnMUeA6YdOc6G6L_woaWz4vjw&s=1690028027&e=10800&f=68412848&srv=sto122&client=20.185.156.80&asn=8075",
+                        "quality": "[Cast] StreamSB:480p ",
+                        "videoUrl": "https://delivery132.akamai-video-content.com/hls2/01/13682/1lindvn0j3wz_l/index-v1-a1.m3u8?t=q1-foUHr7q7wmYUQBUTnMUeA6YdOc6G6L_woaWz4vjw&s=1690028027&e=10800&f=68412848&srv=sto122&client=20.185.156.80&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/1lindvn0j3wz",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
