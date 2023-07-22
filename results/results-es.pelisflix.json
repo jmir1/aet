@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/oppenheimer/",
+                                "title": "Oppenheimer",
+                                "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica....",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/fotSYwVuO9Gs8MFHGooNfcg0HpU8hG5nVp5KMR4qQBJP.webp"
+                            },
+                            {
+                                "url": "/pelicula/fools-paradise/",
+                                "title": "Fool's Paradise",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/veZw97g6k0ZOe2zWPeEtyFqnUMDCJYs52hr2eyYp.webp"
+                            },
+                            {
                                 "url": "/pelicula/barbie/",
                                 "title": "Barbie",
                                 "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Bar...",
@@ -233,18 +245,6 @@
                                 "title": "Kingdom 2: To Distant Lands",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/qH2uIYNAxkI8ZSZe5wg6TJzrIwS8Qc06KTriH5J5fh.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-bala-de-dios/",
-                                "title": "La bala de Dios",
-                                "description": "Cuando el vicedetective Bob Hightower encuentra a su ex esposa asesinada y a su hija secuestrada por...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Hfz8yStQfO1GRR1HjgabCMGCxPwajlQQqfP.webp"
-                            },
-                            {
-                                "url": "/pelicula/amenaza-en-las-profundidades/",
-                                "title": "Amenaza en las profundidades",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/kFdLhrnT42r97BVwmabjuwDqSTVXjuLtZP577iQ1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/barbie/",
-                    "title": "Barbie",
-                    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-                    "genre": "Disney, Estrenos",
+                    "url": "/pelicula/oppenheimer/",
+                    "title": "Oppenheimer",
+                    "description": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+                    "genre": "Drama, Estrenos",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/barbie/",
+                        "url": "/pelicula/oppenheimer/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar WaStqMJrr = \"\"; nYNXTexL.forEach(function Oym(value) { WaStqMJrr += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

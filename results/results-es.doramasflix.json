@@ -189,13 +189,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/5Z4GH1zPey72hcefD8dCpYyb0pL.jpg"
                             },
                             {
-                                "url": "/doramas-online/goblin?id=5f2c3daaca7ff72d546e4982",
-                                "title": "Goblin (Goblin: El solitario ser inmortal)",
-                                "description": "Un ser inmortal desea terminar su existencia buscando en todo el mundo su novia que es la destinada a sacar la espada que le atraviesa el pecho y solo ella es capaz de verla, pero luego de conocerse se enamoran y  es cuando todo cambia para el ser inmortal ya que debido al amor que siente encuentra una nueva razón para mantenerse vivo pero con esto pone en peligro a su amada que además es capaz de ver fantasmas, paralelamente existe un ángel de la muerte que se enamora perdidamente de la que resulta ser la reencarnación de la hermana del ser inmortal. Durante el desarrollo de esta serie se pueden disfrutar de momentos que evocan emisiones inimaginable y definitivamente no tiene ni un solo instante desperdiciado.",
-                                "genre": "Drama, Ciencia ficción, Fantasía",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/qZMEiTsNlCQV27hHQE27ZtlPWyv.jpg"
-                            },
-                            {
                                 "url": "/doramas-online/delete?id=649f1a45fd00391184b2e4b8",
                                 "title": "Delete (Eliminar)",
                                 "description": "Un hombre y una mujer que tienen una aventura descubren un dispositivo que puede hacer desaparecer a las personas... y trazan un plan para empezar una nueva vida juntos.",
@@ -229,6 +222,13 @@
                                 "description": "[🌈GL] Mon, una estudiante recién graduada en la universidad, empieza a trabajar como becaria en una gran empresa porque admira a Sam, la presidenta súper rica desde joven. Sin embargo, cuando Mon se reencuentra con Sam, la imagen que tiene de ella se desmorona por completo, ya que no es como la muestran los medios de comunicación.",
                                 "genre": "Drama, Comedia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ijFfRpFu378uUXq4Eb4W7uEnOEu.jpg"
+                            },
+                            {
+                                "url": "/doramas-online/boys-over-flowers?id=5f2da6df44833a121d9f59f3",
+                                "title": "Boys Over Flowers (Los chicos son mejores que las flores)",
+                                "description": "Geum Jan Di, es una chica humilde cuya familia es propietaria de una  tintorería. Un día mientras realiza una  entrega para un estudiante de  la prestigiosa Escuela Superior Shin Hwa, (escuela para ricos). Ella se  percata que el chico iba a suicidarse desde la azotea por obtener la  tarjeta roja de los F4 y justo en el preciso momento en el que salta,  Geum Jan Di le salva la vida al detenerlo y es llamada como la  chica/mujer maravilla. Este acto generó gran controversia en la ciudad,  por lo cual es becada para asistir a la escuela. Al principio es  maltratada y aislada por los demás estudiantes al recibir la tarjeta  roja de los F4 (4 flores), que es un grupo de alumnos que gobiernan  cruelmente la escuela por su belleza y riqueza. Gu Jun Pyo, líder de los  F4 y sucesor de la Compañía Shinhwa empieza a tener sentimientos hacia  Geum Jan Di, Yoon Ji Hoo también se enamora de Geum Jan Di, pero antes  de que se diera cuenta de que estaba enamorado de ella, él tenia sus  sentimientos puestos en su amiga de todo la vida Min Seo Hyun y ella  \"corresponde\" ese sentimiento.",
+                                "genre": "Comedia, Drama",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/Apn2ccFuy7uahKAd0Kb9DbQQvNY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/woman-in-a-veil?id=6410c5d45ce2ab4bca0ad69f",
-                    "title": "Woman in a Veil (Mujer en un Velo)",
-                    "artist": "Choi Yoon-young",
-                    "author": "KBS2",
-                    "description": "Gyeo Ul es testigo de cómo su esposo, Yu Jin, tiene una aventura con su amiga Ae Ra, quien se convierte en el objetivo de su venganza. Hace que Gyeo Ul pierda la vista y sufra el síndrome de encierro debido a la conmoción.\n\nGyeo Ul se involucra con Se Rin, una heredera que es dueña de todo. Se Rin es una mujer arrogante y despiadada que menosprecia a las personas y no duda en vengarse de quien la apuñala por la espalda.",
-                    "genre": "Drama, Romance, Acción, Crimen, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FaSrKPCvHK0l63Y31IWAfOPe38.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
