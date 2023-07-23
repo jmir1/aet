@@ -177,6 +177,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/geballte-ladung-double-impact",
+                                "title": "Geballte Ladung - Double Impact",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/geballte-ladung-double-impact.jpg"
+                            },
+                            {
+                                "url": "/stream/die-zeitspringer",
+                                "title": "Die Zeitspringer",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-zeitspringer.jpg"
+                            },
+                            {
+                                "url": "/stream/invincible-atomic-eve",
+                                "title": "Invincible: Atomic Eve",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/invincible-atomic-eve.jpg"
+                            },
+                            {
                                 "url": "/stream/the-best-man",
                                 "title": "The Best Man",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/the-best-man.jpg"
@@ -320,21 +335,6 @@
                                 "url": "/stream/the-bear-s02e01",
                                 "title": "The Bear S02E01",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/the-bear-s02e01.jpg"
-                            },
-                            {
-                                "url": "/stream/the-journey-die-legende-vom-guten-dieb",
-                                "title": "The Journey - Die Legende vom guten Dieb",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-journey-die-legende-vom-guten-dieb.jpg"
-                            },
-                            {
-                                "url": "/stream/saving-face",
-                                "title": "Saving Face",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/saving-face.jpg"
-                            },
-                            {
-                                "url": "/stream/der-drache-wider-willen",
-                                "title": "Der Drache wider Willen",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-drache-wider-willen.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,27 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhyctijh7djagacfba,6nhyctijh7kgfqjyxcq,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhyctijh7djagacfba,6nhyctijh7kgfqjyxcq,.urlset/master.m3u8"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7GbLMKpKr8HAlaZ&expires=1690119227&ip=GxOsFxqnDS9X&token=1zFJrP_MQVpv",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7GbLMKpKr8HAlaZ&expires=1690119227&ip=GxOsFxqnDS9X&token=1zFJrP_MQVpv"
-                    },
-                    {
-                        "url": "https://s4.wolfstream.tv/hls2/01/02115/q0mx1zcfnkvx_h/master.m3u8?t=eZRO5cRbva_sdWovE2HvHpcnG-o6vD46lfmeIoZyOmw&s=1690049226&e=43200&f=10578328&i=40.84&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s4.wolfstream.tv/hls2/01/02115/q0mx1zcfnkvx_h/master.m3u8?t=eZRO5cRbva_sdWovE2HvHpcnG-o6vD46lfmeIoZyOmw&s=1690049226&e=43200&f=10578328&i=40.84&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }
