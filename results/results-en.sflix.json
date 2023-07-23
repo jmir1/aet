@@ -473,12 +473,28 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/movie/free-resident-evil-death-island-hd-98491",
+                    "title": "Resident Evil: Death Island",
+                    "author": "Capcom, TMS Entertainment, Quebico, UNLIMITED PRODUCE by TMS",
+                    "description": " In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+                    "genre": "Animation, Action, Horror",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://img.sflix.to/xxrz/250x400/224/e2/02/e202f50399e893e25922555a4332d8ee/e202f50399e893e25922555a4332d8ee.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ajax/movie/episodes/98491",
+                        "name": "Resident Evil: Death Island",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

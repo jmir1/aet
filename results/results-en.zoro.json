@@ -357,14 +357,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/ef/e1/efe14cc95072a24d780ea717b467019b/efe14cc95072a24d780ea717b467019b.jpg"
                             },
                             {
-                                "url": "/doraemon-2005-1551",
-                                "title": "Doraemon (2005)",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
-                            },
-                            {
                                 "url": "/sugar-apple-fairy-tale-part-2-18477",
                                 "title": "Sugar Apple Fairy Tale Part 2",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/94/ed/94ed952aaec33dfac601d8c12832ca5e/94ed952aaec33dfac601d8c12832ca5e.png"
+                            },
+                            {
+                                "url": "/doraemon-2005-1551",
+                                "title": "Doraemon (2005)",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
                             },
                             {
                                 "url": "/bang-dream-its-mygo-18415",
@@ -402,14 +402,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
                             },
                             {
-                                "url": "/legend-of-immortals-5th-season-18328",
-                                "title": "Xingchen Bian 5th Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7e/10/7e107ae2a65f51af081391c2135ed884/7e107ae2a65f51af081391c2135ed884.jpg"
-                            },
-                            {
                                 "url": "/saint-cecilia-and-pastor-lawrence-18480",
                                 "title": "Shiro Seijo to Kuro Bokushi",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/1a/07/1a075444e296731097ded364dd093fdc/1a075444e296731097ded364dd093fdc.jpg"
+                            },
+                            {
+                                "url": "/legend-of-immortals-5th-season-18328",
+                                "title": "Xingchen Bian 5th Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7e/10/7e107ae2a65f51af081391c2135ed884/7e107ae2a65f51af081391c2135ed884.jpg"
                             },
                             {
                                 "url": "/mononogatari-2nd-season-18466",
@@ -427,14 +427,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/27/fe/27fe7b34b7e0564bd8720443dfe369fb/27fe7b34b7e0564bd8720443dfe369fb.jpg"
                             },
                             {
-                                "url": "/soul-land-2-peerless-tang-sect-18416",
-                                "title": "Douluo Dalu II: Jueshi Tangmen",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/78/67/78670f95e8a9cdaaedc82e50c998674d/78670f95e8a9cdaaedc82e50c998674d.png"
-                            },
-                            {
                                 "url": "/masamunekuns-revenge-r-18419",
                                 "title": "Masamune-kun no Revenge R",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/17/4a/174a13011301d3d0a2135f40162b8dee/174a13011301d3d0a2135f40162b8dee.jpg"
+                            },
+                            {
+                                "url": "/soul-land-2-peerless-tang-sect-18416",
+                                "title": "Douluo Dalu II: Jueshi Tangmen",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/78/67/78670f95e8a9cdaaedc82e50c998674d/78670f95e8a9cdaaedc82e50c998674d.png"
                             },
                             {
                                 "url": "/yohane-the-parhelion-sunshine-in-the-mirror-18417",
@@ -687,8 +687,53 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery390.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_n/index-v1-a1.m3u8?t=EQNd3DS5gi_fgKVlL5yemLXylyP7gkrVpokx3wRaOJo&s=1690092472&e=10800&f=15564010&srv=sto072&client=20.42.12.251&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery390.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_n/index-v1-a1.m3u8?t=EQNd3DS5gi_fgKVlL5yemLXylyP7gkrVpokx3wRaOJo&s=1690092472&e=10800&f=15564010&srv=sto072&client=20.42.12.251&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/ss7a2ruar9q1.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery150.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=5hyeLNIGcuuMoQiU4cvJktkqOKrR0DapMV7q9hODUng&s=1690092476&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.251&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery150.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=5hyeLNIGcuuMoQiU4cvJktkqOKrR0DapMV7q9hODUng&s=1690092476&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.251&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery390.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_l/index-v1-a1.m3u8?t=EQNd3DS5gi_fgKVlL5yemLXylyP7gkrVpokx3wRaOJo&s=1690092472&e=10800&f=15564010&srv=sto072&client=20.42.12.251&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery390.akamai-video-content.com/hls2/01/03112/ss7a2ruar9q1_l/index-v1-a1.m3u8?t=EQNd3DS5gi_fgKVlL5yemLXylyP7gkrVpokx3wRaOJo&s=1690092472&e=10800&f=15564010&srv=sto072&client=20.42.12.251&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/ss7a2ruar9q1.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery150.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=5hyeLNIGcuuMoQiU4cvJktkqOKrR0DapMV7q9hODUng&s=1690092476&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.251&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery150.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=5hyeLNIGcuuMoQiU4cvJktkqOKrR0DapMV7q9hODUng&s=1690092476&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=20.42.12.251&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
