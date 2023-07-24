@@ -254,14 +254,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "TWDtE15ElTj8fNch/video/12",
+                        "name": "Episode 12: flowers for m[A]chines",
+                        "episode_number": 12.0
+                    },
+                    {
                         "url": "TWDtE15ElTj8fNch/video/11",
                         "name": "Episode 11: head[Y] battle",
                         "episode_number": 11.0
-                    },
-                    {
-                        "url": "TWDtE15ElTj8fNch/video/10",
-                        "name": "Episode 10: over[Z]ealous",
-                        "episode_number": 10.0
                     }
                 ],
                 "passed": true
@@ -269,41 +269,49 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/TWDtE15ElTj8fNch/11/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/TWDtE15ElTj8fNch/12/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/TWDtE15ElTj8fNch/11/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/TWDtE15ElTj8fNch/12/manifest.mpd",
                         "headers": {
                             "referer": "https://animeonsen.xyz",
                             "user-agent": "Aniyomi/app (mobile)"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/en-US/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/en-US/12",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/de-DE/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/ar-ME/12",
+                                "lang": "العربية"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/de-DE/12",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/es-ES/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/es-ES/12",
                                 "lang": "Español (Spain)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/es-LA/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/es-LA/12",
                                 "lang": "Español"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/fr-FR/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/fr-FR/12",
                                 "lang": "Français"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/it-IT/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/it-IT/12",
                                 "lang": "Italiano"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/pt-BR/11",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/pt-BR/12",
                                 "lang": "Português (Brasil)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/TWDtE15ElTj8fNch/ru-RU/12",
+                                "lang": "Русский"
                             }
                         ]
                     }
