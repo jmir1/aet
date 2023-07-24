@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/cobweb-2023",
+                                "title": "Cobweb",
+                                "thumbnail_url": "https://images.movembed.cc//cover/cobweb-2023-1690158328.jpg"
+                            },
+                            {
                                 "url": "/videos/sun-moon-2023",
                                 "title": "Sun Moon",
                                 "thumbnail_url": "https://images.movembed.cc//cover/sun-moon-2023-1690121429.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/videos/even-in-dreams-2021",
                                 "title": "Even in Dreams",
                                 "thumbnail_url": "https://images.movembed.cc//cover/even-in-dreams-2021-1689737126.jpg"
-                            },
-                            {
-                                "url": "/videos/in-search-of-darkness-part-iii-2022",
-                                "title": "In Search of Darkness: Part III",
-                                "thumbnail_url": "https://images.movembed.cc//cover/in-search-of-darkness-part-iii-2022-1689732632.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -242,6 +242,11 @@
                                 "thumbnail_url": "https://images.movembed.cc/cover/all-the-money-in-the-world.png"
                             },
                             {
+                                "url": "/videos/all-the-world-is-sleeping-2023",
+                                "title": "All the World Is Sleeping",
+                                "thumbnail_url": "https://images.movembed.cc//cover/all-the-world-is-sleeping-2023-1688634627.jpg"
+                            },
+                            {
                                 "url": "/videos/along-with-the-gods-the-two-worlds",
                                 "title": "Along with the Gods The Two Worlds",
                                 "thumbnail_url": "https://images.movembed.cc/cover/along-with-the-gods-the-two-worlds.png"
@@ -310,11 +315,6 @@
                                 "url": "/videos/around-the-world-in-80-days-hd-720p",
                                 "title": "Around The World In 80 Days HD- 720p",
                                 "thumbnail_url": "https://images.movembed.cc//around-the-world-in-80-days-fgt/cover.png"
-                            },
-                            {
-                                "url": "/videos/arthur-3-the-war-of-the-two-worlds-episode-1",
-                                "title": "Arthur 3: The War of the Two Worlds ",
-                                "thumbnail_url": "https://images.movembed.cc/cover/arthur-3-the-war-of-the-two-worlds.png"
                             }
                         ],
                         "hasNextPage": false
@@ -324,22 +324,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/sun-moon-2023",
-                    "title": "Sun Moon",
-                    "description": "After being left at the altar, a young woman escapes to Taiwan on a quest for hope and healing.",
+                    "url": "/videos/cobweb-2023",
+                    "title": "Cobweb",
+                    "description": "Horror strikes when an eight-year-old boy named Peter tries to investigate the mysterious knocking noises that are coming from inside the walls of his house and a dark secret that his sinister parents kept hidden from him.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/sun-moon-2023",
-                        "name": "Sun Moon",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
