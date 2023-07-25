@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/a-mouthful-of-air-ztyj/",
+                                "title": "A Mouthful of Air",
+                                "description": "Julie es una madre y escritora de libros para niños que huye al mundo de colores creado por ella mi...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0MiyURUIBbca5OVYdqmcJ8jPr998dAM4dU.webp"
+                            },
+                            {
                                 "url": "/pelicula/zodi-et-tehu-freres-du-desert/",
                                 "title": "Zodi et Téhu, frères du désert",
                                 "description": "La historia de un niño bereber que se hace amigo de un camello mientras cruzan el desierto del Saha...",
@@ -239,12 +245,6 @@
                                 "title": "Syk pike",
                                 "description": "Signe y Thomas mantienen una relación de pareja malsana y competitiva, que toma un giro pernicioso ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/CZzqeBPtE2ehUrBfcUIMfy6eLmnjsNbVCBbH2R1wJ5.webp"
-                            },
-                            {
-                                "url": "/pelicula/wwe-elimination-chamber-2023/",
-                                "title": "WWE Elimination Chamber 2023",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/kev3lnU2NIAzZfiEwcUlM.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/zodi-et-tehu-freres-du-desert/",
-                    "title": "Zodi et Téhu, frères du désert",
-                    "description": "La historia de un niño bereber que se hace amigo de un camello mientras cruzan el desierto del Sahara.",
-                    "genre": "Aventura, Comedia, Familia",
+                    "url": "/pelicula/a-mouthful-of-air-ztyj/",
+                    "title": "A Mouthful of Air",
+                    "description": "Julie es una madre y escritora de libros para niños que huye al mundo de colores creado por ella misma para dejar atrás la oscuridad provocada por su depresión posparto.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/zodi-et-tehu-freres-du-desert/",
+                        "url": "/pelicula/a-mouthful-of-air-ztyj/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar NvxQatMA = \"\"; RffwDkL.forEach(function Oym(value) { NvxQatMA += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
