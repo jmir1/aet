@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/foundation/",
+                                "title": "Foundation",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/foundation-35315-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/all-american-homecoming/",
                                 "title": "All American: Homecoming",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/all-american-homecoming-35284-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/kindred/",
                                 "title": "Kindred",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/kindred-29901-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/sonic-prime/",
-                                "title": "Sonic Prime",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/sonic-prime-29875-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -672,6 +672,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/cL0rqwiKsMw3ZdQexRTONtsrkOg.jpg"
                             },
                             {
+                                "url": "/movies/the-little-mermaid-3/",
+                                "title": "The Little Mermaid",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/ym1dxyOk4jFcSl4Q2zmRrA5BEEN-150x150.jpg"
+                            },
+                            {
+                                "url": "/movies/the-venture-bros-radiant-is-the-blood-of-the-baboon-heart/",
+                                "title": "The Venture Bros.: Radiant is the Blood of the Baboon Heart",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/lLXFw6ZylfMf8pKAzAmVc3qDaPW-150x150.jpg"
+                            },
+                            {
                                 "url": "/movies/barbie/",
                                 "title": "Barbie",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/iuFNMS8U5cb6xfzi51Dbkovj7vM-150x150.jpg"
@@ -847,16 +857,6 @@
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/the-rig-31129-poster-150x150.jpg"
                             },
                             {
-                                "url": "/movies/a-man-called-otto/",
-                                "title": "A Man Called Otto",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/01/d7uLLwLsRwwQlTigSBnPj4CU2sP-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/slow-horses/",
-                                "title": "Slow Horses",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/slow-horses-30876-poster-150x150.jpg"
-                            },
-                            {
                                 "thumbnail_url": "https:"
                             },
                             {
@@ -882,11 +882,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/all-american-homecoming/",
-                    "title": "All American: Homecoming",
-                    "author": "Nkechi Okoro",
-                    "description": "Follow the journeys of Simone Hicks, a tennis hopeful from Beverly Hills, and elite baseball player Damon Sims from Chicago, as they navigate life at the prestigious HBCU Bringston University.",
-                    "genre": "Drama",
+                    "url": "/series/foundation/",
+                    "title": "Foundation",
+                    "author": "David S. Goyer",
+                    "description": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
+                    "genre": "Drama, Sci-Fi & Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -896,27 +896,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/all-american-homecoming-2x15/",
-                        "name": "Season 2x15 : Diary",
-                        "episode_number": 15.0
+                        "url": "/episode/foundation-2x10/",
+                        "name": "Season 2x10 : Episode 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/all-american-homecoming-2x14/",
-                        "name": "Season 2x14 : Stand Up For Something",
-                        "episode_number": 14.0
+                        "url": "/episode/foundation-2x9/",
+                        "name": "Season 2x9 : Episode 9",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v900.streamhub.gg/hls/sc6ty4lswyytnuzvox7c5yzv7c4fgbha3gr5q577dvp3d5ko3cj446my5edq/index-v1-a1.m3u8",
-                        "quality": "640p",
-                        "videoUrl": "https://v900.streamhub.gg/hls/sc6ty4lswyytnuzvox7c5yzv7c4fgbha3gr5q577dvp3d5ko3cj446my5edq/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
