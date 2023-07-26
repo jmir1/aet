@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/voltes-v-legacy.html",
+                                "title": "Voltes V: Legacy",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
+                            },
+                            {
+                                "url": "/watch/uchuu-tetsujin-kyodyne.html",
+                                "title": "Uchuu Tetsujin Kyodyne",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/uchuu-tetsujin-kyodyne-thumb.png"
+                            },
+                            {
                                 "url": "/watch/armored-saurus.html",
                                 "title": "Armored Saurus",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/armored-saurus-thumb.png"
@@ -15,11 +25,6 @@
                                 "url": "/watch/sukeban-deka-iii-shojo-ninpo-cho-denki.html",
                                 "title": "Sukeban Deka III: Shojo Ninpo-cho Denki",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sukeban-deka-iii-shojo-ninpo-cho-denki-thumb.png"
-                            },
-                            {
-                                "url": "/watch/voltes-v-legacy.html",
-                                "title": "Voltes V: Legacy",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
                             },
                             {
                                 "url": "/watch/shin-kamen-rider.html",
@@ -60,11 +65,6 @@
                                 "url": "/watch/ohsama-sentai-king-ohger-the-secrets-of-king-racules.html",
                                 "title": "Ohsama Sentai King-Ohger: The Secrets of King Racules",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-the-secrets-of-king-racules-thumb.png"
-                            },
-                            {
-                                "url": "/watch/battle-hawk.html",
-                                "title": "Battle Hawk",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/battle-hawk-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,9 +144,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/armored-saurus.html",
-                    "author": "Year 2021",
-                    "description": "Armored Saurus is a 2021 Korean television series, which features about humans riding dinosaurs with their mechanized armors to fight against alien invasion.",
+                    "url": "/watch/voltes-v-legacy.html",
+                    "author": "Year 2023",
+                    "description": "Voltes V: Legacy is a 2023 Philippine science fantasy television series broadcast by GMA Network. The series is based on the Japanese anime television series Chōdenji Machine Voltes V by Toei Animation and Sunrise.",
                     "genre": "Other",
                     "status": 1,
                     "status_name": "ONGOING",
@@ -157,21 +157,52 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/armored-saurus.html?ep=25#watch",
-                        "name": "Episode 25",
-                        "episode_number": 25.0
+                        "url": "/watch/voltes-v-legacy.html?ep=56#watch",
+                        "name": "Episode 56",
+                        "episode_number": 56.0
                     },
                     {
-                        "url": "/watch/armored-saurus.html?ep=24#watch",
-                        "name": "Episode 24",
-                        "episode_number": 24.0
+                        "url": "/watch/voltes-v-legacy.html?ep=55#watch",
+                        "name": "Episode 55",
+                        "episode_number": 55.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls26-eu.zcdn.stream/61cf233dbfc475f22afec338a69695cb/2023-07-25/720.m3u8?token=11f36487d1dbb2f27fb59e4d1e707307&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690360495&type=edge&node=fk85e8AUq1lfj_GYtM42-2xcO3vuAqSeQJ_bF4rKR8_NXcFr-yZ9ipbK8H9rLYhGZoaeDFV9u2jCMzwskRlUUo7BTxs4CHI6UK35IYn-dF-QPibMbzbV094zVVatSGXqd0wFnqoqW9Kft86NbVzJJMRO7CgPn785NrMNff1cFNZX9CAvbYdQoPhTfI5BFaoY",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/61cf233dbfc475f22afec338a69695cb/2023-07-25/720.m3u8?token=11f36487d1dbb2f27fb59e4d1e707307&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690360495&type=edge&node=fk85e8AUq1lfj_GYtM42-2xcO3vuAqSeQJ_bF4rKR8_NXcFr-yZ9ipbK8H9rLYhGZoaeDFV9u2jCMzwskRlUUo7BTxs4CHI6UK35IYn-dF-QPibMbzbV094zVVatSGXqd0wFnqoqW9Kft86NbVzJJMRO7CgPn785NrMNff1cFNZX9CAvbYdQoPhTfI5BFaoY",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    },
+                    {
+                        "url": "https://hls26-eu.zcdn.stream/61cf233dbfc475f22afec338a69695cb/2023-07-25/360.m3u8?token=11f36487d1dbb2f27fb59e4d1e707307&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690360495&type=edge&node=fk85e8AUq1lfj_GYtM42-2xcO3vuAqSeQJ_bF4rKR8_NXcFr-yZ9ipbK8H9rLYhGZoaeDFV9u2jCMzwskRlUUo7BTxs4CHI6UK35IYn-dF-QPibMbzbV094zVVatSGXqd0wFnqoqW9Kft86NbVzJJMRO7CgPn785NrMNff1cFNZX9CAvbYdQoPhTfI5BFaoY",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls26-eu.zcdn.stream/61cf233dbfc475f22afec338a69695cb/2023-07-25/360.m3u8?token=11f36487d1dbb2f27fb59e4d1e707307&client=6cd79b59e67dd87f4e5603f1c55c6d14&expires=1690360495&type=edge&node=fk85e8AUq1lfj_GYtM42-2xcO3vuAqSeQJ_bF4rKR8_NXcFr-yZ9ipbK8H9rLYhGZoaeDFV9u2jCMzwskRlUUo7BTxs4CHI6UK35IYn-dF-QPibMbzbV094zVVatSGXqd0wFnqoqW9Kft86NbVzJJMRO7CgPn785NrMNff1cFNZX9CAvbYdQoPhTfI5BFaoY",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "*/*",
+                            "Connection": "keep-alive",
+                            "Sec-Fetch-Dest": "empty",
+                            "Sec-Fetch-Mode": "cors",
+                            "Sec-Fetch-Site": "cross-site",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
