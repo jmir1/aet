@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/burn-the-house-down/",
+                                "title": "Burn the House Down Temporada completa (08/08)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg"
+                            },
+                            {
                                 "url": "/low-frequency/",
                                 "title": "Low Frequency (3/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/escape-from-mogadishu-sub-espanol/",
                                 "title": "Escape from Mogadishu",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/grFDK4ddh2IMn464Ve4ke4uz2ao.jpg"
-                            },
-                            {
-                                "url": "/knights-of-the-zodiac-saint-seiya-the-begining/",
-                                "title": "Saint Seiya – The Beginning",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eZP23wAs7lpFSyZgVZ4sxSli8h.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/burn-the-house-down/",
+                                "title": "Burn the House Down Temporada completa (08/08)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg"
+                            },
+                            {
                                 "url": "/low-frequency/",
                                 "title": "Low Frequency (3/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/escape-from-mogadishu-sub-espanol/",
                                 "title": "Escape from Mogadishu",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/grFDK4ddh2IMn464Ve4ke4uz2ao.jpg"
-                            },
-                            {
-                                "url": "/knights-of-the-zodiac-saint-seiya-the-begining/",
-                                "title": "Saint Seiya – The Beginning",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eZP23wAs7lpFSyZgVZ4sxSli8h.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,32 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/burn-the-house-down/",
+                    "title": "Burn the House Down Temporada completa (08/08)",
+                    "description": "Luego de que su madre asumiera la culpa por un trágico incendio ocurrido 13 años atrás y para descubrir la verdad sobre el incendio que destrozó a su familia, Anzu se hace pasar por ama de llaves al servicio de la señora del hogar de los Mitara.",
+                    "genre": "Drama, Misterio",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/2927047/",
+                        "name": "Episodio 08 FINAL",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/paste/0027046/",
+                        "name": "Episodio 07",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
