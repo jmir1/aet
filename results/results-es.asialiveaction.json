@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/wedding-plan-the-series/",
+                                "title": "Wedding Plan The Series (2/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
+                            },
+                            {
                                 "url": "/burn-the-house-down/",
                                 "title": "Burn the House Down Temporada completa (08/08)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/shin-kamen-rider/",
                                 "title": "Shin Kamen Rider",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/AcCfr82ymbvb7V3uSgwqoE6GyhX.jpg"
-                            },
-                            {
-                                "url": "/wedding-plan-the-series/",
-                                "title": "Wedding Plan The Series (1/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
                             },
                             {
                                 "url": "/barakamon/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/wedding-plan-the-series/",
+                                "title": "Wedding Plan The Series (2/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
+                            },
+                            {
                                 "url": "/burn-the-house-down/",
                                 "title": "Burn the House Down Temporada completa (08/08)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/shin-kamen-rider/",
                                 "title": "Shin Kamen Rider",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/AcCfr82ymbvb7V3uSgwqoE6GyhX.jpg"
-                            },
-                            {
-                                "url": "/wedding-plan-the-series/",
-                                "title": "Wedding Plan The Series (1/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
                             },
                             {
                                 "url": "/barakamon/",
@@ -393,32 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/burn-the-house-down/",
-                    "title": "Burn the House Down Temporada completa (08/08)",
-                    "description": "Luego de que su madre asumiera la culpa por un trágico incendio ocurrido 13 años atrás y para descubrir la verdad sobre el incendio que destrozó a su familia, Anzu se hace pasar por ama de llaves al servicio de la señora del hogar de los Mitara.",
-                    "genre": "Drama, Misterio",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/2927047/",
-                        "name": "Episodio 08 FINAL",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/paste/0027046/",
-                        "name": "Episodio 07",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

@@ -175,6 +175,13 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bkyl9GawmRGcWp4uer8SI0sjrL1.jpg"
                             },
                             {
+                                "url": "/doramas-online/goblin?id=5f2c3daaca7ff72d546e4982",
+                                "title": "Goblin (Goblin: El solitario ser inmortal)",
+                                "description": "Un ser inmortal desea terminar su existencia buscando en todo el mundo su novia que es la destinada a sacar la espada que le atraviesa el pecho y solo ella es capaz de verla, pero luego de conocerse se enamoran y  es cuando todo cambia para el ser inmortal ya que debido al amor que siente encuentra una nueva razón para mantenerse vivo pero con esto pone en peligro a su amada que además es capaz de ver fantasmas, paralelamente existe un ángel de la muerte que se enamora perdidamente de la que resulta ser la reencarnación de la hermana del ser inmortal. Durante el desarrollo de esta serie se pueden disfrutar de momentos que evocan emisiones inimaginable y definitivamente no tiene ni un solo instante desperdiciado.",
+                                "genre": "Drama, Ciencia ficción, Fantasía",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/qZMEiTsNlCQV27hHQE27ZtlPWyv.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/shadow-detective?id=63594fa0f42dac8b1d9a4005",
                                 "title": "Shadow Detective (Detective de sombras)",
                                 "description": "Taekrok, un viejo inspector a punto de jubilarse, recibe una llamada amenazante de un hombre desconocido. Se le acusa falsamente de asesinato. El chantajista dice ser un amigo y le sugiere jugar a un juego, en el que pide a Taekrok revisar los casos pasados de los que ha estado a cargo. Desesperadamente, el viejo inspector trata de recordar el pasado para averiguar quién es el chantajista y descubrir sus intenciones. ¿Conseguirá Taekrok completar este emocionante juego?",
@@ -201,13 +208,6 @@
                                 "description": "[🌈GL] Mon, una estudiante recién graduada en la universidad, empieza a trabajar como becaria en una gran empresa porque admira a Sam, la presidenta súper rica desde joven. Sin embargo, cuando Mon se reencuentra con Sam, la imagen que tiene de ella se desmorona por completo, ya que no es como la muestran los medios de comunicación.",
                                 "genre": "Drama, Comedia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ijFfRpFu378uUXq4Eb4W7uEnOEu.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/eighteen-again?id=5f6a6581eedd021e560e75d8",
-                                "title": "18 Again (18 otra vez)",
-                                "description": "ung Da Jung está casada con Hong Dae Young de 37 años. Tienen un hijo y una hija de 18 años. Jung Da Jung trabaja duro como locutora novata y tiene un corazón cálido. Ella está completamente harta de su marido y ya no puede tratar con él. Hong Dae Young fue despedido de su trabajo y su familia lo desprecia. Jung Da Jung le entrega papeles de divorcio.\n\nMientras tanto, Hong Dae Young se ve a sí mismo como un hombre de mediana edad desempleado que se arrepiente de su vida. En ese momento, su cuerpo se transforma en el de una persona de 18 años, mientras que su mente sigue siendo la de su yo de 37 años. En su adolescencia, Hong Dae Young fue un excelente jugador de baloncesto y también popular. Ahora, con su cuerpo recuperado de 18 años, cambia su nombre a Go Woo Young y comienza a vivir una nueva vida.",
-                                "genre": "Drama, Comedia, Ciencia ficción, Fantasía",
-                                "thumbnail_url": "https://www.themoviedb.org/t/p/original/v6wGRQNp2XlgFlmX15R70QnwplU.jpg"
                             },
                             {
                                 "url": "/doramas-online/black-knight-2023?id=645e274161f7898bc9766c64",
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/fireworks-of-my-heart?id=64a5bc4741a1cff7dd98bf82",
-                    "title": "Fireworks of My Heart (Fuegos Artificiales de mi Corazón)",
-                    "artist": "Yang Yang",
-                    "author": "Hunan Television",
-                    "description": "Al crecer, Song Yan y Xu Qin eran los mejores amigos. Pero a medida que crecían, sus familias comenzaron a ver su amistad bajo una luz desfavorable. No dispuestos a permitir que su relación fuera más lejos, Song Yan y Xu Qin se vieron obligados a separarse por sus familias, para no volver a verse nunca más.\n\nEn los diez años transcurridos desde su separación forzosa, tanto Song Yan como Xu Qin han trabajado duro para construir la vida que siempre han querido. Como jefe de bomberos, Song Yan ha dedicado su vida a salvar a otros. Por extraño que parezca, Xu Qin también ha hecho que el trabajo de su vida sea salvar a otros como médico de urgencias. Aunque trabajaban en campos completamente diferentes, era solo cuestión de tiempo antes de que el destino interviniera para reunir a los antiguos amigos. Unidos por su trabajo, Song Yan y Xu Qin no están exactamente emocionados de reunirse una vez más.\n\nTrabajando codo a codo, es fácil reconocer el crecimiento que cada uno ha logrado a lo largo de los años, pero todavía hay mucho por lo que Xu Qin y Song Yan deben trabajar si van a convertir esta nueva relación en algo más. ¿Tienen lo necesario para superar los obstáculos que se les presentan o su relación actual está destinada a ser tan fugaz como la anterior?",
-                    "genre": "Drama, Romance, Acción, Aventura",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fCSMFp7vul2YjgPD7mSiIaldMsR.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
