@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/twisted-metal/",
+                                "title": "Twisted Metal",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/twisted-metal-35444-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/minx/",
                                 "title": "Minx",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/minx-35416-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/baki/",
                                 "title": "BAKI",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/baki-29986-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/slugterra/",
-                                "title": "Slugterra",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/slugterra-29972-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,11 +882,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/minx/",
-                    "title": "Minx",
-                    "author": "Ellen Rapoport",
-                    "description": "An earnest young feminist joins forces with a low-rent publisher to make the world's first erotic magazine for women.",
-                    "genre": "Comedy",
+                    "url": "/series/twisted-metal/",
+                    "title": "Twisted Metal",
+                    "author": "",
+                    "description": "A motor-mouthed outsider with no memory of his past is offered a chance at a better life, but only if he can successfully deliver a mysterious package across a post-apocalyptic wasteland. With the help of a badass axe-wielding car thief, he’ll face savage marauders driving vehicles of destruction and other dangers of the open road, including a deranged clown who drives an all too familiar ice cream truck.",
+                    "genre": "Action & Adventure, Comedy",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -896,21 +896,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/minx-2x8/",
-                        "name": "Season 2x8 : Woman of the hour",
-                        "episode_number": 8.0
+                        "url": "/episode/twisted-metal-1x10/",
+                        "name": "Season 1x10 : SHNGRLA",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/minx-2x7/",
-                        "name": "Season 2x7 : God closes a door, opens a glory hole",
-                        "episode_number": 7.0
+                        "url": "/episode/twisted-metal-1x9/",
+                        "name": "Season 1x9 : R04DK11",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v904.streamhub.gg/hls/sc6t7lskwyytnuzvox5s57z5vezz45kwsnxtbvm7mgh23d2ndkacxhvrmkoa/index-v1-a1.m3u8",
+                        "quality": "640p",
+                        "videoUrl": "https://v904.streamhub.gg/hls/sc6t7lskwyytnuzvox5s57z5vezz45kwsnxtbvm7mgh23d2ndkacxhvrmkoa/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -170,8 +170,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://drive.google.com/uc?id=1oX7Scr85ELeYv9sJlkRTEvrjvRZGSU3f&confirm=t&uuid=d0c300a3-66bc-4e64-a8a1-b8edf0e9b4cd",
+                        "quality": "Gdrive (13G) ",
+                        "videoUrl": "https://drive.google.com/uc?id=1oX7Scr85ELeYv9sJlkRTEvrjvRZGSU3f&confirm=t&uuid=d0c300a3-66bc-4e64-a8a1-b8edf0e9b4cd"
+                    },
+                    {
+                        "url": "https://damp-rice-49e2.ledaxad821.workers.dev/3758c0a758925c651c43f8affcb5c70b/drivebot.lol/Avatar.The.Way.of.Water.2022.1080p.MA.WEB-DL.HIN-ENG-TAM-TEL-KAN-MAL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                        "quality": "DriveBot",
+                        "videoUrl": "https://damp-rice-49e2.ledaxad821.workers.dev/3758c0a758925c651c43f8affcb5c70b/drivebot.lol/Avatar.The.Way.of.Water.2022.1080p.MA.WEB-DL.HIN-ENG-TAM-TEL-KAN-MAL.DDP5.1.Atmos.H.264-FLUX.mkv",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Host": "damp-rice-49e2.ledaxad821.workers.dev",
+                            "Referer": "https://drivebot.lol/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
