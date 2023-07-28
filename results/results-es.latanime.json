@@ -333,12 +333,42 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/wizard-barristers-benmashi-cecil-latino-episodio-1",
+                        "name": "Wizard Barristers: Benmashi Cecil Latino Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd258.mycdn.me/?expires=1690654080167&srcIp=40.84.182.112&pr=10&srcAg=CHROME&ms=185.226.52.8&type=5&sig=nd_IVOrga_8&ct=0&urls=45.136.20.74&clientType=0&zs=43&id=4861379021471",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://vd258.mycdn.me/?expires=1690654080167&srcIp=40.84.182.112&pr=10&srcAg=CHROME&ms=185.226.52.8&type=5&sig=nd_IVOrga_8&ct=0&urls=45.136.20.74&clientType=0&zs=43&id=4861379021471"
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxqyfplz3b4quuo7sqagictdarwb5kuo7uochdsgxvqojfy2kmre6qjsuiwyo3oxtle3cua/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxqyfplz3b4quuo7sqagictdarwb5kuo7uochdsgxvqojfy2kmre6qjsuiwyo3oxtle3cua/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20230728w5GDYQT42v5/video.mp4",
+                        "quality": "yourupload - Original",
+                        "videoUrl": "https://vidcache.net:8161/a20230728w5GDYQT42v5/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
