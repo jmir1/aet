@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wizard-barristers-benmashi-cecil-latino",
+                                "title": "Wizard Barristers: Benmashi Cecil Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/wizard-barristers-benmashi-cecil-latino-1690514740.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/rurouni-kenshin-2023-latino",
                                 "title": "Rurouni Kenshin (2023) Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/rurouni-kenshin-2023-latino-1690492571.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/tensei-shitara-slime-datta-ken-s2-castellano",
                                 "title": "Tensei shitara Slime Datta Ken S2 Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/tensei-shitara-slime-datta-ken-s2-castellano-1685660199.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/miraculous-tales-of-ladybug-cat-noir-s5-latino",
-                                "title": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/miraculous-tales-of-ladybug-cat-noir-s5-latino-1685211785.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,51 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rurouni-kenshin-2023-latino",
-                    "title": "Rurouni Kenshin (2023) Latino",
-                    "description": "Kenshin es un vagabundo que recorre Tokio y conoce por accidente a Kaoru, una joven que busca a Hitokiri Battosai.",
-                    "genre": "Acción, Shonen, Histórico, Artes Marciales, Romance",
+                    "url": "/anime/wizard-barristers-benmashi-cecil-latino",
+                    "title": "Wizard Barristers: Benmashi Cecil Latino",
+                    "description": "Tokio del año 2018, humanos normales coexisten con aquellos que pueden usar magia, estos son llamados \"Hechiceros\". Como resultado, se crearon las leyes contra el uso de la magia con malos usos; y es por esto que existe un \"tribunal mágico\" para presidir las demandas relacionadas con el uso de estas habilidades. En estos casos, los \"Benmashi\" o \"Wizard Barristers\" defienden a los que utilizan la magia.",
+                    "genre": "Acción, Fantasía, Magia, Policía",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/rurouni-kenshin-2023-latino-episodio-1",
-                        "name": "Rurouni Kenshin (2023) Latino Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1690590858392&srcIp=40.84.172.156&pr=10&srcAg=CHROME&ms=95.142.206.132&type=5&sig=aMVrFKSUYDg&ct=0&urls=45.136.20.17%3B185.226.52.40&clientType=0&zs=43&id=4857826052767",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1690590858392&srcIp=40.84.172.156&pr=10&srcAg=CHROME&ms=95.142.206.132&type=5&sig=aMVrFKSUYDg&ct=0&urls=45.136.20.17%3B185.226.52.40&clientType=0&zs=43&id=4857826052767"
-                    },
-                    {
-                        "url": "https://www12.mp4upload.com/cgi-bin/dl.cgi/4e4h7d3ru323yyxcmldq4niyilfo4ahlvpvkuha2pxuwpsmtniasp4q/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www12.mp4upload.com/cgi-bin/dl.cgi/4e4h7d3ru323yyxcmldq4niyilfo4ahlvpvkuha2pxuwpsmtniasp4q/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20230727b135ITO6gjy/video.mp4",
-                        "quality": "yourupload - Original",
-                        "videoUrl": "https://vidcache.net:8161/a20230727b135ITO6gjy/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

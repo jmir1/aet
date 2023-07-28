@@ -306,7 +306,7 @@
                 "result": {
                     "url": "/anime/8372/makoto_chan",
                     "title": "Makoto-chan",
-                    "description": "Segue a vida estranha do jardim de infância Makoto Sawada e sua família. Makoto entra em todos os tipos de banheiro e humor adulto. Ele às vezes se veste com as roupas da mãe e da irmã e geralmente tem um longo fio de muco saindo do nariz. (Fonte: Wikipédia)\n\nTítulos Alternativos: まことちゃん\nTipo: Filme\nAno: 1980\n",
+                    "description": "Segue a vida estranha do jardim de infância Makoto Sawada e sua família. Makoto entra em todos os tipos de banheiro e humor adulto. Ele às vezes se veste com as roupas da mãe e da irmã e geralmente tem um longo fio de muco saindo do nariz. (Fonte: Wikipédia)\n\nTítulos Alternativos: まことちゃん\nTipo: Filme\nAno: 1980\nMídia: 1\n",
                     "genre": "Comédia, Shounen, Verão de 1980",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -316,8 +316,15 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/8372/makoto_chan/episodio/1/legendado",
+                        "name": "Episódio 1",
+                        "episode_number": 1.0,
+                        "scanlator": "legendado"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
