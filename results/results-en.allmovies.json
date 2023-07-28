@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/the-hardy-boys/",
+                                "title": "The Hardy Boys",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/the-hardy-boys-35461-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/twisted-metal/",
                                 "title": "Twisted Metal",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/twisted-metal-35444-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/1923/",
                                 "title": "1923",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/1923-30179-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/baki/",
-                                "title": "BAKI",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/baki-29986-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,11 +882,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/twisted-metal/",
-                    "title": "Twisted Metal",
-                    "author": "",
-                    "description": "A motor-mouthed outsider with no memory of his past is offered a chance at a better life, but only if he can successfully deliver a mysterious package across a post-apocalyptic wasteland. With the help of a badass axe-wielding car thief, he’ll face savage marauders driving vehicles of destruction and other dangers of the open road, including a deranged clown who drives an all too familiar ice cream truck.",
-                    "genre": "Action & Adventure, Comedy",
+                    "url": "/series/the-hardy-boys/",
+                    "title": "The Hardy Boys",
+                    "author": "Jason Stone, Steve Cochrane",
+                    "description": "When Frank and Joe Hardy arrive in Bridgeport, they set out to uncover the truth behind the recent tragedy that has changed their lives. In doing so, they stumble upon something much more sinister - something only the Hardy Boys can stop.",
+                    "genre": "Drama, Mystery",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -896,27 +896,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/twisted-metal-1x10/",
-                        "name": "Season 1x10 : SHNGRLA",
-                        "episode_number": 10.0
+                        "url": "/episode/the-hardy-boys-3x8/",
+                        "name": "Season 3x8 : A Wild Ride",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/twisted-metal-1x9/",
-                        "name": "Season 1x9 : R04DK11",
-                        "episode_number": 9.0
+                        "url": "/episode/the-hardy-boys-3x7/",
+                        "name": "Season 3x7 : At the Old House",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v901.streamhub.gg/hls/sc6tzlskwyytnuzvox5s57z5vhtdicgmzawpvp2xbb2sigy375zt65x3mhpa/index-v1-a1.m3u8",
-                        "quality": "640p",
-                        "videoUrl": "https://v901.streamhub.gg/hls/sc6tzlskwyytnuzvox5s57z5vhtdicgmzawpvp2xbb2sigy375zt65x3mhpa/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
