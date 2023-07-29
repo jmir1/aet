@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/captain-fall",
+                                "title": "Captain Fall",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933037.jpg"
+                            },
+                            {
                                 "url": "/anime/red-ketchup",
                                 "title": "Red Ketchup",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933036.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/get-rolling-with-otis",
                                 "title": "Get Rolling with Otis",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933022.jpg"
-                            },
-                            {
-                                "url": "/anime/sweet-reincarnation",
-                                "title": "Sweet Reincarnation",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933021.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/red-ketchup",
-                    "title": "Red Ketchup",
-                    "description": "In the mid-80s, at the end of the Cold War, FBI agent Red Ketchup is assigned the most dangerous missions. The FBI regards him as a liability and sends him to distant lands hoping he will never return, but Ketchup always makes it back.",
-                    "genre": "Action, Adventure, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933036.jpg",
+                    "url": "/anime/captain-fall",
+                    "title": "Captain Fall",
+                    "description": "A wet-behind-the-ears, yet good-hearted sea captain unwittingly finds himself at the helm of a smuggling ship for a terrible international cartel who’s using him as a fall guy in case the authorities ever catch up to them.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933037.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/red-ketchup-episode-10-hot-cuban-ketchup",
-                        "name": "Episode 10 Hot Cuban Ketchup",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/red-ketchup-episode-9-dope-and-the-red-pope",
-                        "name": "Episode 9 Dope and the Red Pope",
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJggqVUmrL6NnhvvyOW4UKOocEb6cJKIUBKHpz27pwcxN_-rw1pvblYSqrL6XI9bPyUTDodisBOe317_JJKqCtV1gjJ5i60MirqiYHXQHCsVBt2AeVseljqARZrKp4J7sUd34xjM04dYhoye_zXUXQSseU6yU-F3SZCQ47Ggg7o5PenU6j9CpqKKc1_YgFSU5elN6VctLL8hbtxvkVujJ9wYmD6Cqd7IrO_JPoqSK0i2sLvWCuTXwh1bnEyl7BJ72LROs5pYXeOBioVRa76elbEuAGiyuzyaRa-FCBO4I4Zah7S8CmZlRKaHCq8hIKRcTKoaIhUihpw1VIdHliLHxeM7KjgXtpr9qB498yeZgPxeC-jcaO8NJ9E4GRz1mgtYhqw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJggqVUmrL6NnhvvyOW4UKOocEb6cJKIUBKHpz27pwcxN_-rw1pvblYSqrL6XI9bPyUTDodisBOe317_JJKqCtV1gjJ5i60MirqiYHXQHCsVBt2AeVseljqARZrKp4J7sUd34xjM04dYhoye_zXUXQSseU6yU-F3SZCQ47Ggg7o5PenU6j9CpqKKc1_YgFSU5elN6VctLL8hbtxvkVujJ9wYmD6Cqd7IrO_JPoqSK0i2sLvWCuTXwh1bnEyl7BJ72LROs5pYXeOBioVRa76elbEuAGiyuzyaRa-FCBO4I4Zah7S8CmZlRKaHCq8hIKRcTKoaIhUihpw1VIdHliLHxeM7KjgXtpr9qB498yeZgPxeC-jcaO8NJ9E4GRz1mgtYhqw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJggqVUmrL6NnhvvyOW4UKOocEb6cJKIUBKHpz27pwcxN_-rw1pvblYSqrL6XI9bPyUTDodisBOe317_JJKqCtV0YHmyylw1u2eKw5d0ejlx8-lNg_8anpskpuwNpa2CLNjE0R8HLU3JgLWXZNmLjfxC7GR8FGUGFno41iXzmwSmhU0IY_R3NdP1dNZeaxWRNmWkjFigpGQKKx70niP6CFBBIpDknqTCxNR56BMrtyS24oToSFPSQVfWV2HQhnsQ8TQDcFox2n6PvoMvZ84eEoyJVOuK1yjNND3H93O3UYEBgoNlBIvQ9uYjjHnXOpksSOWmSAtdCPZb692HqnKE1bjheE5mMNZHoBUk9H6BgC7BwikE6IYIS1xdId08DTVeXnQ",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJggqVUmrL6NnhvvyOW4UKOocEb6cJKIUBKHpz27pwcxN_-rw1pvblYSqrL6XI9bPyUTDodisBOe317_JJKqCtV0YHmyylw1u2eKw5d0ejlx8-lNg_8anpskpuwNpa2CLNjE0R8HLU3JgLWXZNmLjfxC7GR8FGUGFno41iXzmwSmhU0IY_R3NdP1dNZeaxWRNmWkjFigpGQKKx70niP6CFBBIpDknqTCxNR56BMrtyS24oToSFPSQVfWV2HQhnsQ8TQDcFox2n6PvoMvZ84eEoyJVOuK1yjNND3H93O3UYEBgoNlBIvQ9uYjjHnXOpksSOWmSAtdCPZb692HqnKE1bjheE5mMNZHoBUk9H6BgC7BwikE6IYIS1xdId08DTVeXnQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJggqVUmrL6NnhvvyOW4UKOocEb6cJKIUBKHpz27pwcxN_-rw1pvblYSqrL6XI9bPyUTDodisBOe317_JJKqCtV2IQAjmeujhuaKPni78RVEDwVxyeZNplW3WLM7Cp8SNPaCm-r2-U_DXvtjUmjAhsciSIywQWCtjLuxqTJEuwNph_QvaIES2H0eVVRy4Gr6639FZn5wefmKDFDo_8WhvBvAsAcMpscqKubmeOTvJR5dL3rZbbECdYy25oX7zmeAiIGdqrrDC4qyR2iECJYqtEVGgpG9Q__oByvxsXYMo8s-MdS-x-pc_gqblVwGIg-DsNQpLk4mj5gGR1a0pn6OSyJeDmPZ4qeQRZ5L9oh9VsRfazkubsnaeo-B3zqwq_9dGSA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJggqVUmrL6NnhvvyOW4UKOocEb6cJKIUBKHpz27pwcxN_-rw1pvblYSqrL6XI9bPyUTDodisBOe317_JJKqCtV2IQAjmeujhuaKPni78RVEDwVxyeZNplW3WLM7Cp8SNPaCm-r2-U_DXvtjUmjAhsciSIywQWCtjLuxqTJEuwNph_QvaIES2H0eVVRy4Gr6639FZn5wefmKDFDo_8WhvBvAsAcMpscqKubmeOTvJR5dL3rZbbECdYy25oX7zmeAiIGdqrrDC4qyR2iECJYqtEVGgpG9Q__oByvxsXYMo8s-MdS-x-pc_gqblVwGIg-DsNQpLk4mj5gGR1a0pn6OSyJeDmPZ4qeQRZ5L9oh9VsRfazkubsnaeo-B3zqwq_9dGSA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
