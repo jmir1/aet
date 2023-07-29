@@ -3,28 +3,285 @@
         "name": "AnimePlayer",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/gakuen-basara-1x12/",
+                                "title": "Gakuen Basara Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/g3dCprFi3sAmi6aAGYz1yy7m2qw-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x11/",
+                                "title": "Gakuen Basara Episódio 11",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/xVFB6JI7x1Q6gnb1k292pioY4NV-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x10/",
+                                "title": "Gakuen Basara Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/oG3Rzkh7nbgqBvbWqIDD9RrgOQB-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x9/",
+                                "title": "Gakuen Basara Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/suOpSAo9GURlbQ6TSQUJjvdi9ke-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x8/",
+                                "title": "Gakuen Basara Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/3mLl0u93RlMxdw1l8pQ23V6Tc5H-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x7/",
+                                "title": "Gakuen Basara Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/xEbYaT0xwwlVxwVfRVUmif2PEOd-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x6/",
+                                "title": "Gakuen Basara Episódio 6",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/xnM2Za81HavP9noc6HeCksMnlpw-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x5/",
+                                "title": "Gakuen Basara Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/zL3EI8AAR40oDweNmghxfEnTXDW-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x4/",
+                                "title": "Gakuen Basara Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/njNBkub5TqSCNEWPzoooIcdlbqa-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x3/",
+                                "title": "Gakuen Basara Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/1wDOyL87PnNwl9UJcE49TG0MbAS-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x2/",
+                                "title": "Gakuen Basara Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/l7qrmERbMoXc5Z53Qqj6ULVaqce-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/gakuen-basara-1x1/",
+                                "title": "Gakuen Basara Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/rzBqdB7hzI2lo7vhvrzN3lUp67N-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x14/",
+                                "title": "Projeto Zeta Episódio 14",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/mG7dj5Iam7VPEn1roiL4ySVvo6k-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x13/",
+                                "title": "Projeto Zeta Episódio 13",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/ezpgYwBbmnN7OO1uDxJ1FK0JINY-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x12/",
+                                "title": "Projeto Zeta Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/4W5JcIqg77FOmhq6fEnufEFdvJv-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x11/",
+                                "title": "Projeto Zeta Episódio 11",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/65cgLpgxLBVFZLPm9bMW3x9q1BL-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x10/",
+                                "title": "Projeto Zeta Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/w3rcdgjUjFejJN1vs7M4Efupx16-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x9/",
+                                "title": "Projeto Zeta Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/16o7DSINiHMA5iNThPM9fkvEdyV-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x8/",
+                                "title": "Projeto Zeta Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/uiB6J1qIUUPI8JwHdwMuqH261No-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x7/",
+                                "title": "Projeto Zeta Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/7vcDGmnmwQfkf9F2JyBUSZPZsIu-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/projeto-zeta-2x6/",
+                                "title": "Projeto Zeta Episódio 6",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/b9xb9XswkON1qj3Re7AW05YZDxY-300x170.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/world-conquest-zvezda-plot/",
+                                "title": "World Conquest Zvezda Plot",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/04/q0VlnKNxqNOgIhzxXDgzpnpftyS-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
+                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sushi-police/",
+                                "title": "Sushi Police",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/06/vSYyiifMe9k0wP2vnf0WT2O4oNE-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban/",
+                                "title": "Re Zero Kara Hajimeru Isekai Seikatsu – Shin Henshuu-ban",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/01/kFUsNsNeW5YyCosmvvSqtqFcWVY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2022/04/oz3xb8ZpPC9SEKneBrJVK3ZinG6-185x278-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/zombieland-saga/",
+                                "title": "Zombieland Saga",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/e4rzeUloRTHGovb46Zobk3TimhL-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/lance-n-masques/",
+                                "title": "Lance N Masques",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/AghKnbLP54oxREa33OlOkHO3CN3-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/animes/clarencio-o-otimista/",
+                    "title": "Clarêncio, O Otimista",
+                    "description": "Clarêncio é um menino espirituoso que vê coisas boas em tudo, e por isso é um pouco bobo. Seus melhores amigos são Jeff, um menino que têm fobias e não consegue aguentar coisas sujas, e Sumo, um menino com um jeito maluco que sempre está ao lado de Clarêncio. As perspectivas únicas da vida de Clarêncio podem ser divertidas.\n\nTítulo original: Clarence\nTemporadas: 3",
+                    "genre": "",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodios/clarencio-o-otimista-1x40/",
+                        "name": "Temporada 1 x 40 - ",
+                        "date_upload": 1442793600000,
+                        "episode_number": 40.0
+                    },
+                    {
+                        "url": "/episodios/clarencio-o-otimista-1x39/",
+                        "name": "Temporada 1 x 39 - ",
+                        "date_upload": 1444003200000,
+                        "episode_number": 39.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr1---sn-a5msenl7.googlevideo.com/videoplayback?expire=1690619639&ei=d17EZOCQEITAn88P-OmaqAM&ip=20.169.22.161&id=6bfed712a3fd806c&itag=22&source=blogger&mh=9K&mm=31&mn=sn-a5msenl7&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=649.531&lmt=1443050007972847&mt=1690590580&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAPqPo3S5RQAc7S8YsmcJgnaZmtsWKc1G6EoMjDFJwNlkAiB4mlA3TjjpBDSisgvUZeFQ6jS3Bi4wktQnJ20CWEm4yg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgSDEuUISUyjWUiQRLuqsqgeufrLYFCSgSkqVEQPMTGRYCIGgC_vcojt293svfyMyj6kfAxx7CbuchwVvdNArVb_HP",
+                        "quality": "720p",
+                        "videoUrl": "https://rr1---sn-a5msenl7.googlevideo.com/videoplayback?expire=1690619639&ei=d17EZOCQEITAn88P-OmaqAM&ip=20.169.22.161&id=6bfed712a3fd806c&itag=22&source=blogger&mh=9K&mm=31&mn=sn-a5msenl7&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=649.531&lmt=1443050007972847&mt=1690590580&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAPqPo3S5RQAc7S8YsmcJgnaZmtsWKc1G6EoMjDFJwNlkAiB4mlA3TjjpBDSisgvUZeFQ6jS3Bi4wktQnJ20CWEm4yg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgSDEuUISUyjWUiQRLuqsqgeufrLYFCSgSkqVEQPMTGRYCIGgC_vcojt293svfyMyj6kfAxx7CbuchwVvdNArVb_HP",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    },
+                    {
+                        "url": "https://rr1---sn-a5msenl7.googlevideo.com/videoplayback?expire=1690619639&ei=d17EZOCQEITAn88P-OmaqAM&ip=20.169.22.161&id=6bfed712a3fd806c&itag=18&source=blogger&mh=9K&mm=31&mn=sn-a5msenl7&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=649.531&lmt=1443049925501013&mt=1690590580&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAKm906zyM5pwUtURpi8XKsMxeKYV4aZhpUzF3Fwm3HV6AiEA6J8Xeby2yjO30xNDEQg09Li9M_zDFphd78uHLHhg-Pc%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgKBZnz6esRlJU4jfkHLMdwYA3Qe66zTcpJBp6GCpCig8CIQCFXiV4B7CSNZzi4o9FfYQHPNbErPcEW4X7N6_iA9-txQ%3D%3D",
+                        "quality": "360p",
+                        "videoUrl": "https://rr1---sn-a5msenl7.googlevideo.com/videoplayback?expire=1690619639&ei=d17EZOCQEITAn88P-OmaqAM&ip=20.169.22.161&id=6bfed712a3fd806c&itag=18&source=blogger&mh=9K&mm=31&mn=sn-a5msenl7&ms=au&mv=m&mvi=1&pl=16&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=649.531&lmt=1443049925501013&mt=1690590580&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAKm906zyM5pwUtURpi8XKsMxeKYV4aZhpUzF3Fwm3HV6AiEA6J8Xeby2yjO30xNDEQg09Li9M_zDFphd78uHLHhg-Pc%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgKBZnz6esRlJU4jfkHLMdwYA3Qe66zTcpJBp6GCpCig8CIQCFXiV4B7CSNZzi4o9FfYQHPNbErPcEW4X7N6_iA9-txQ%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
