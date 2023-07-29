@@ -1,13 +1,17 @@
 [
     {
-        "name": "Anime-Base",
+        "name": "AnimeSync",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: bruh",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
+            },
+            "latest": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.Exception: bruh",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
