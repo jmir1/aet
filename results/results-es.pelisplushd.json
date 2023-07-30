@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/un-cuento-perfecto",
+                                "title": "Un cuento perfecto (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/t0u48HwAGsahgtvCVGp6rsVG2J5.jpg"
+                            },
+                            {
+                                "url": "/serie/novela",
+                                "title": "Novela (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/msMIkS6HPRWWXXHLaTa8nQLbnz6.jpg"
+                            },
+                            {
+                                "url": "/serie/capitan-fall",
+                                "title": "Capitán Fall (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9tMX3Uywla2izqq6sJavzLhgXPx.jpg"
+                            },
+                            {
                                 "url": "/serie/ghosts-of-beirut",
                                 "title": "Ghosts of Beirut (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg"
@@ -110,21 +125,6 @@
                                 "url": "/serie/without-sin",
                                 "title": "Without Sin (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5USXoPoKWu6LxIdCOIlJoxWvyqC.jpg"
-                            },
-                            {
-                                "url": "/serie/1920",
-                                "title": "De los 19 a los 20 (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sDwRlM1l7f2w4AJDz3b9P26qPSa.jpg"
-                            },
-                            {
-                                "url": "/serie/marcelo-marmelo-martelo",
-                                "title": "Marcelo, Marmelo, Martelo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/q0hJGwue4SZlBIy33SXprTgPw1g.jpg"
-                            },
-                            {
-                                "url": "/serie/548-dias-captada-por-una-secta",
-                                "title": "548 días: captada por una secta (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/e1r3CSHTgd7ZKX8yhfsZ0JUlFgw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/ghosts-of-beirut",
-                    "title": "Ghosts of Beirut (2023)",
-                    "description": "Basada en una historia real de espionaje moderno, durante más de 20 años el insurgente libanés y líder de Hezbollah Imad Mughniyeh, \"el fantasma\", evade a sus enemigos de la agencia central de inteligencia de Estados Unidos y el Mossad de Israel..",
-                    "genre": "Drama",
+                    "url": "/serie/un-cuento-perfecto",
+                    "title": "Un cuento perfecto (2023)",
+                    "description": "Tras huir de su propia boda, Margot siente que ha perdido el norte. Lo que no sospecha es que el irresistible caos de David es lo que necesita para encauzar su vida..",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/t0u48HwAGsahgtvCVGp6rsVG2J5.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/ghosts-of-beirut/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/un-cuento-perfecto/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/serie/ghosts-of-beirut/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/un-cuento-perfecto/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -595,6 +595,56 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/cinnamon/",
+                                "title": "Cinnamon",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cinnamon.jpg"
+                            },
+                            {
+                                "url": "/pelicula/arekalar/",
+                                "title": "Arekalar",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/arekalar.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mansion-embrujada/",
+                                "title": "Mansión embrujada",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mansion-embrujada.jpg"
+                            },
+                            {
+                                "url": "/pelicula/nightalk/",
+                                "title": "Nightalk",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nightalk.jpg"
+                            },
+                            {
+                                "url": "/pelicula/no-way-out/",
+                                "title": "No Way Out",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/no-way-out.jpg"
+                            },
+                            {
+                                "url": "/pelicula/proyecto-extraccion/",
+                                "title": "Proyecto Extracción",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/proyecto-extraccion.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-beanie-bubble/",
+                                "title": "The Beanie Bubble",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-beanie-bubble.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-pequeno-golpe-del-gran-nunu/",
+                                "title": "El pequeño golpe del Gran Nunu",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-pequeno-golpe-del-gran-nunu.jpg"
+                            },
+                            {
+                                "url": "/pelicula/miraculous-las-aventuras-de-ladybug-la-pelicula/",
+                                "title": "Miraculous: Las aventuras de Ladybug - La Película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miraculous-las-aventuras-de-ladybug-la-pelicula.jpg"
+                            },
+                            {
+                                "url": "/pelicula/paula/",
+                                "title": "Paula",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/paula.jpg"
+                            },
+                            {
                                 "url": "/pelicula/happiness-for-beginners/",
                                 "title": "Happiness for Beginners",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/happiness-for-beginners.jpg"
@@ -643,56 +693,6 @@
                                 "url": "/pelicula/county-line/",
                                 "title": "County Line",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/county-line.jpg"
-                            },
-                            {
-                                "url": "/pelicula/minyan/",
-                                "title": "Minyan",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/minyan.jpg"
-                            },
-                            {
-                                "url": "/pelicula/murder-city/",
-                                "title": "Murder City",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/murder-city.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-killer-romance/",
-                                "title": "A Killer Romance",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-killer-romance.jpg"
-                            },
-                            {
-                                "url": "/pelicula/d-c-down/",
-                                "title": "D.C. Down",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/d-c-down.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-good-man/",
-                                "title": "A Good Man",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-good-man.jpg"
-                            },
-                            {
-                                "url": "/pelicula/classmates/",
-                                "title": "Classmates",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/classmates.jpg"
-                            },
-                            {
-                                "url": "/pelicula/hunting-games/",
-                                "title": "Hunting Games",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hunting-games.jpg"
-                            },
-                            {
-                                "url": "/pelicula/liga-de-la-justicia-mundo-de-guerra/",
-                                "title": "Liga de la justicia: mundo de guerra",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/liga-de-la-justicia-mundo-de-guerra.jpg"
-                            },
-                            {
-                                "url": "/pelicula/enferma-de-mi/",
-                                "title": "Enferma de mí",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/enferma-de-mi.jpg"
-                            },
-                            {
-                                "url": "/pelicula/zodi-et-tehu-freres-du-desert/",
-                                "title": "Zodi et Téhu, frères du désert",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/zodi-et-tehu-freres-du-desert.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -862,11 +862,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/happiness-for-beginners/",
-                    "title": "Happiness for Beginners",
+                    "url": "/pelicula/cinnamon/",
+                    "title": "Cinnamon",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Romance, Drama",
+                    "genre": "Crimen, Infantil, Secuestro",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -876,7 +876,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/happiness-for-beginners/",
+                        "url": "/pelicula/cinnamon/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -884,42 +884,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery494.akamai-video-content.com/hls2/01/13740/99zcdk0pqrlm_n/index-v1-a1.m3u8?t=bioO9dkB7LNuXBS4ePLWGrMlnmKCDb_rbZ9BUCcDq4Q&s=1690654372&e=10800&f=68704333&srv=sto177&client=70.37.166.240&asn=8075",
-                        "quality": "[Cast] StreamSB:720p ",
-                        "videoUrl": "https://delivery494.akamai-video-content.com/hls2/01/13740/99zcdk0pqrlm_n/index-v1-a1.m3u8?t=bioO9dkB7LNuXBS4ePLWGrMlnmKCDb_rbZ9BUCcDq4Q&s=1690654372&e=10800&f=68704333&srv=sto177&client=70.37.166.240&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/99zcdk0pqrlm",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery494.akamai-video-content.com/hls2/01/13740/99zcdk0pqrlm_l/index-v1-a1.m3u8?t=bioO9dkB7LNuXBS4ePLWGrMlnmKCDb_rbZ9BUCcDq4Q&s=1690654372&e=10800&f=68704333&srv=sto177&client=70.37.166.240&asn=8075",
-                        "quality": "[Cast] StreamSB:480p ",
-                        "videoUrl": "https://delivery494.akamai-video-content.com/hls2/01/13740/99zcdk0pqrlm_l/index-v1-a1.m3u8?t=bioO9dkB7LNuXBS4ePLWGrMlnmKCDb_rbZ9BUCcDq4Q&s=1690654372&e=10800&f=68704333&srv=sto177&client=70.37.166.240&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/99zcdk0pqrlm",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery494.akamai-video-content.com/hls2/01/13740/99zcdk0pqrlm_h/index-v1-a1.m3u8?t=bioO9dkB7LNuXBS4ePLWGrMlnmKCDb_rbZ9BUCcDq4Q&s=1690654372&e=10800&f=68704333&srv=sto177&client=70.37.166.240&asn=8075",
-                        "quality": "[Cast] StreamSB:1080p ",
-                        "videoUrl": "https://delivery494.akamai-video-content.com/hls2/01/13740/99zcdk0pqrlm_h/index-v1-a1.m3u8?t=bioO9dkB7LNuXBS4ePLWGrMlnmKCDb_rbZ9BUCcDq4Q&s=1690654372&e=10800&f=68704333&srv=sto177&client=70.37.166.240&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/99zcdk0pqrlm",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
