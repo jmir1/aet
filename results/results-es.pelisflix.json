@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/comuneros/",
+                                "title": "Comuneros",
+                                "description": "Comuneros es un largometraje documental que, a través de las palabras de expertos e historiadores n...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/hmrrM2cNTCvg71o2.webp"
+                            },
+                            {
+                                "url": "/pelicula/dime-lo-que-quieres-de-verdad/",
+                                "title": "Dime lo que quieres (de verdad)",
+                                "description": "Diego y Emilia son una pareja conservadora con 16 años de matrimonio que ha perdido la chispa, hast...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/qowogn0cesBhnvVqR.webp"
+                            },
+                            {
                                 "url": "/pelicula/tu-casa-o-la-mia/",
                                 "title": "Tu casa o la mía",
                                 "description": "Debbie y Peter son muy amigos y muy distintos entre sí. Ella anhela la rutina con su hijo en Los Á...",
@@ -233,18 +245,6 @@
                                 "title": "Paradise",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/AFIdZSTStxH8urJqeznMw6iG8WzacJQDfoG.webp"
-                            },
-                            {
-                                "url": "/pelicula/plan-a/",
-                                "title": "Plan A",
-                                "description": "Alemania 1945, Max, un sobreviviente judío del Holocausto, se encuentra con un grupo radical de com...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/votL9Y4vePOU9LyAxm4SoRl04zD1eKGAZ0c.webp"
-                            },
-                            {
-                                "url": "/pelicula/bite-night/",
-                                "title": "Bite Night",
-                                "description": "'Haunted Honeymoon' meets 'My Best Friend is a Vampire' meets 'Clue'. When three beautiful ladies ma...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8WDIGaD5htsY0GVLucXU7mKut5uXTzORlhqRiUNpe.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/tu-casa-o-la-mia/",
-                    "title": "Tu casa o la mía",
-                    "description": "Debbie y Peter son muy amigos y muy distintos entre sí. Ella anhela la rutina con su hijo en Los Ángeles; él disfruta de una vida en constante cambio en Nueva York. Cuando intercambian casas y vidas durante una semana descubren que quizás lo que creen que quieren no es lo que realmente necesitan.",
-                    "genre": "Comedia, Romance",
+                    "url": "/pelicula/comuneros/",
+                    "title": "Comuneros",
+                    "description": "Comuneros es un largometraje documental que, a través de las palabras de expertos e historiadores nacionales e internacionales, narra los acontecimientos revolucionarios acaecidos entre 1516 y 1522 en el Reino de Castilla y su influencia a lo largo de la historia.",
+                    "genre": "Documental",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/tu-casa-o-la-mia/",
+                        "url": "/pelicula/comuneros/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar aTzWdiQ = \"\"; RbqxAfmR.forEach(function Oym(value) { aTzWdiQ += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
