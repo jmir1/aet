@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/good-omens/",
+                                "title": "Good Omens",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/good-omens-35501-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/the-hardy-boys/",
                                 "title": "The Hardy Boys",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/the-hardy-boys-35461-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/litvinenko/",
                                 "title": "Litvinenko",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/litvinenko-30193-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/1923/",
-                                "title": "1923",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/1923-30179-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -882,11 +882,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/the-hardy-boys/",
-                    "title": "The Hardy Boys",
-                    "author": "Jason Stone, Steve Cochrane",
-                    "description": "When Frank and Joe Hardy arrive in Bridgeport, they set out to uncover the truth behind the recent tragedy that has changed their lives. In doing so, they stumble upon something much more sinister - something only the Hardy Boys can stop.",
-                    "genre": "Drama, Mystery",
+                    "url": "/series/good-omens/",
+                    "title": "Good Omens",
+                    "author": "Neil Gaiman",
+                    "description": "Aziraphale, an angel, and Crowley, a demon, join forces to find the Antichrist and stop Armageddon.",
+                    "genre": "Comedy, Drama, Sci-Fi & Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -894,29 +894,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/the-hardy-boys-3x8/",
-                        "name": "Season 3x8 : A Wild Ride",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/the-hardy-boys-3x7/",
-                        "name": "Season 3x7 : At the Old House",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v906.streamhub.gg/hls/sc6t2zjwwyytnuzvox5s5zjc6rbn5xmq453fw4p752ajx4j7xnbxiuekc5ya/index-v1-a1.m3u8",
-                        "quality": "536p",
-                        "videoUrl": "https://v906.streamhub.gg/hls/sc6t2zjwwyytnuzvox5s5zjc6rbn5xmq453fw4p752ajx4j7xnbxiuekc5ya/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
