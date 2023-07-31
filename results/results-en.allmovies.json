@@ -9,12 +9,7 @@
                             {
                                 "url": "/series/good-omens/",
                                 "title": "Good Omens",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/good-omens-35501-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/the-hardy-boys/",
-                                "title": "The Hardy Boys",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/the-hardy-boys-35461-poster-150x150.jpg"
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/good-omens-35519-poster-150x150.jpg"
                             },
                             {
                                 "url": "/series/twisted-metal/",
@@ -425,6 +420,11 @@
                                 "url": "/series/litvinenko/",
                                 "title": "Litvinenko",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/litvinenko-30193-poster-150x150.jpg"
+                            },
+                            {
+                                "url": "/series/1923/",
+                                "title": "1923",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/1923-30179-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -894,12 +894,29 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/good-omens-2x6/",
+                        "name": "Season 2x6 : Chapter 6: Every Day",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/good-omens-2x5/",
+                        "name": "Season 2x5 : Chapter 5: The Ball",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v906.streamhub.gg/hls/sc6tyyjgwyytnuzvox5c57bbvvl2psbl2qyyty5alj2hw6hta6wked77u42a/index-v1-a1.m3u8",
+                        "quality": "532p",
+                        "videoUrl": "https://v906.streamhub.gg/hls/sc6tyyjgwyytnuzvox5c57bbvvl2psbl2qyyty5alj2hw6hta6wked77u42a/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

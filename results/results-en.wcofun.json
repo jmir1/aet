@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/alienators-evolution-continues",
+                                "title": "Alienators: Evolution Continues",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933041.jpg"
+                            },
+                            {
+                                "url": "/anime/adventurers-masters-of-time",
+                                "title": "Adventurers: Masters of Time",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933040.jpg"
+                            },
+                            {
+                                "url": "/anime/adventure-beast",
+                                "title": "Adventure Beast",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933039.jpg"
+                            },
+                            {
                                 "url": "/anime/action-man-1995",
                                 "title": "Action Man (1995)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933038.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/reign-of-the-seven-spellblades",
                                 "title": "Reign of the Seven Spellblades",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933026.jpg"
-                            },
-                            {
-                                "url": "/anime/the-great-cleric",
-                                "title": "The Great Cleric",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933025.jpg"
-                            },
-                            {
-                                "url": "/anime/supa-team-4",
-                                "title": "Supa Team 4",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933024.jpg"
-                            },
-                            {
-                                "url": "/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon",
-                                "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933023.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/action-man-1995",
-                    "title": "Action Man (1995)",
-                    "description": "The adventures of Action Man and his friends in the fight against Doctor X.",
-                    "genre": "Action, Adventure, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933038.jpg",
+                    "url": "/anime/alienators-evolution-continues",
+                    "title": "Alienators: Evolution Continues",
+                    "description": "Taking up where the movie Evolution (2001) left off, this animated series features Dr. Ira Kane, Dr. Henry Block, Wayne Green, along with new character Lt. Lucy, as they try to stop the spreading of the alien organisms known as the Genus. Each episode features the Genus evolving into a new form of life, infecting the Earth",
+                    "genre": "Action, Comedy, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933041.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/action-man-1995-episode-26-a-time-for-action-part-2",
-                        "name": "Episode 26 A Time for Action: Part 2",
-                        "episode_number": 26.0
-                    },
-                    {
-                        "url": "/action-man-1995-episode-25-a-time-for-action-part-1",
-                        "name": "Episode 25 A Time for Action: Part 1",
-                        "episode_number": 25.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt51GI8FPSAmjVajz4nfguVM6e_O1EFnJAcJeKFewEekusQn-P9xzMZy2_u7RFQP0LrkWyypVPfu8Ev2DCQLbg8jHLSOrbGb2HvxHKpkA7ce8RuhL5x34ryksx9W-1pT7WNQ6mthn-c4qA8cg5xQhulAJXGhiHTExPabqJOcRmBa-TmcT2UecwW9frvTb6TsmP6ktcbfyTjghc4A9VR7d-65sjaq-N2H4iYtOHPtmXnBOv40EBb9s2lyanUj-BGdDBAoZc1RRuoOjmEGh0FxoghyB22FB9H3MbHXbICIlsSUgvUKKOtOINo44apZ90hcuTDMgfWLoDawWBKAD-95DHvZbF8y5-mODBShaCuI-fJgBMx41Oeo-YS7BBKcOaPq9JJXPBZP2dy-1ootmRlqfxBPXZe6MhKuY81o_r8xnSgncC5qZD-loGwgtqq75aAoeg",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt51GI8FPSAmjVajz4nfguVM6e_O1EFnJAcJeKFewEekusQn-P9xzMZy2_u7RFQP0LrkWyypVPfu8Ev2DCQLbg8jHLSOrbGb2HvxHKpkA7ce8RuhL5x34ryksx9W-1pT7WNQ6mthn-c4qA8cg5xQhulAJXGhiHTExPabqJOcRmBa-TmcT2UecwW9frvTb6TsmP6ktcbfyTjghc4A9VR7d-65sjaq-N2H4iYtOHPtmXnBOv40EBb9s2lyanUj-BGdDBAoZc1RRuoOjmEGh0FxoghyB22FB9H3MbHXbICIlsSUgvUKKOtOINo44apZ90hcuTDMgfWLoDawWBKAD-95DHvZbF8y5-mODBShaCuI-fJgBMx41Oeo-YS7BBKcOaPq9JJXPBZP2dy-1ootmRlqfxBPXZe6MhKuY81o_r8xnSgncC5qZD-loGwgtqq75aAoeg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt51GI8FPSAmjVajz4nfguVM6e_O1EFnJAcJeKFewEekusQn-P9xzMZy2_u7RFQP0LrkWyypVPfu8Ev2DCQLbg8jHLSOrbGb2HvxHKpkA7ce8RuhL5x34ryksx9W-1pT7WNQ6mthn-c4qA8cg5xQhun9FjXxLg14g7YVSU4cHI5gH5B0DkkkERY1hlgeXIYg-Ntpc95geiOL7Cl0qbNA2BZhGFSYMC0T8gir4ALVMV3z3gppuk4L4Y9-DEU2HQiIyfUf48VEy0u9dj8jhEJ07bg7OXpKIpT54qTpA1_oTJ78YeO06iovZB0g_o4SrLrVP18SxVTEJLncQYaGYIIxWlzUUzokjKa2_P_gsTUR4A4vwK4RaJOxchjSs4rnN6Ki2LHG_h6akVUQ465HH-ENmtc3H64-euagLwPIpc7SgdsE",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJt51GI8FPSAmjVajz4nfguVM6e_O1EFnJAcJeKFewEekusQn-P9xzMZy2_u7RFQP0LrkWyypVPfu8Ev2DCQLbg8jHLSOrbGb2HvxHKpkA7ce8RuhL5x34ryksx9W-1pT7WNQ6mthn-c4qA8cg5xQhun9FjXxLg14g7YVSU4cHI5gH5B0DkkkERY1hlgeXIYg-Ntpc95geiOL7Cl0qbNA2BZhGFSYMC0T8gir4ALVMV3z3gppuk4L4Y9-DEU2HQiIyfUf48VEy0u9dj8jhEJ07bg7OXpKIpT54qTpA1_oTJ78YeO06iovZB0g_o4SrLrVP18SxVTEJLncQYaGYIIxWlzUUzokjKa2_P_gsTUR4A4vwK4RaJOxchjSs4rnN6Ki2LHG_h6akVUQ465HH-ENmtc3H64-euagLwPIpc7SgdsE"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
