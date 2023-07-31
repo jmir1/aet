@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/angelina-ballerina-the-next-steps",
+                                "title": "Angelina Ballerina: The Next Steps",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933044.jpg"
+                            },
+                            {
+                                "url": "/anime/all-star-specials",
+                                "title": "All Star Specials",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933043.jpg"
+                            },
+                            {
+                                "url": "/anime/alisa-knows-what-to-do",
+                                "title": "Alisa Knows What to Do!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933042.jpg"
+                            },
+                            {
                                 "url": "/anime/alienators-evolution-continues",
                                 "title": "Alienators: Evolution Continues",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933041.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/praise-petey",
                                 "title": "Praise Petey",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933029.jpg"
-                            },
-                            {
-                                "url": "/anime/furiki-wheels",
-                                "title": "Furiki Wheels",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933028.jpg"
-                            },
-                            {
-                                "url": "/anime/headspace-guide-to-sleep",
-                                "title": "Headspace Guide to Sleep",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933027.jpg"
-                            },
-                            {
-                                "url": "/anime/reign-of-the-seven-spellblades",
-                                "title": "Reign of the Seven Spellblades",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933026.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/alienators-evolution-continues",
-                    "title": "Alienators: Evolution Continues",
-                    "description": "Taking up where the movie Evolution (2001) left off, this animated series features Dr. Ira Kane, Dr. Henry Block, Wayne Green, along with new character Lt. Lucy, as they try to stop the spreading of the alien organisms known as the Genus. Each episode features the Genus evolving into a new form of life, infecting the Earth",
-                    "genre": "Action, Comedy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933041.jpg",
+                    "url": "/anime/angelina-ballerina-the-next-steps",
+                    "title": "Angelina Ballerina: The Next Steps",
+                    "description": "Join Angelina Ballerina as she finds her way in her new school, puts together her own show and tries to land a leading role in the Mouskinov Ballet. Prepare to pirouette along with everyone’s favorite ballerina in these sparkling stories!",
+                    "genre": "Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933044.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/angelina-ballerina-the-next-steps-season-3-episode-20-angelinas-spring-fling",
+                        "name": "Season 3 Episode 20 Angelina’s Spring Fling",
+                        "episode_number": 320.0
+                    },
+                    {
+                        "url": "/angelina-ballerina-the-next-steps-season-3-episode-19-angelinas-nature-dance",
+                        "name": "Season 3 Episode 19 Angelina’s Nature Dance",
+                        "episode_number": 319.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTcsiL9DApWfUlx3UmdEUP2sQoifbnEQ6SMmjWoOCxzJJYp7RqwDQWQDxCB_WlIjfS1FzQkXD2hpOT778Thvlq5G1Mp6va3P9MYchUq1twyAa6Lr2NgjPu8ajjUKsVA1yrUTBzm3I6fTCjBpsxxsk8BfWwullQKK9FWxK1vN0kECl7b5VwlgigPZcZJ-a93oHd4u9a-BBVgLSYvnNhyqeuyaXwc9ZwmQd7fdhTXoIpYPt2YUfk4X6Bbe0DWHn88vhXJ33XJB4SrGe9IB7PzloT1mONYHJe_4nN3ZYgOVIlhHE",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTcsiL9DApWfUlx3UmdEUP2sQoifbnEQ6SMmjWoOCxzJJYp7RqwDQWQDxCB_WlIjfS1FzQkXD2hpOT778Thvlq5G1Mp6va3P9MYchUq1twyAa6Lr2NgjPu8ajjUKsVA1yrUTBzm3I6fTCjBpsxxsk8BfWwullQKK9FWxK1vN0kECl7b5VwlgigPZcZJ-a93oHd4u9a-BBVgLSYvnNhyqeuyaXwc9ZwmQd7fdhTXoIpYPt2YUfk4X6Bbe0DWHn88vhXJ33XJB4SrGe9IB7PzloT1mONYHJe_4nN3ZYgOVIlhHE"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTzxkflI9I8aotg0CBYa9I6uoqPFKXpyRkZhxbmhGNA0jZxJ3dSwhfPfudIpP-7OISkksr4FlLy7-0W-V1Rp1ij6tE-iIBqf4iUGtqGZhFowaQjdyDp0stIyIDnSNeBkzIg_QjXYxDk5x96CulugiRU6gdP9IlYOp7d-NIQYfkTnDht0LRhISeLtlJNPv0hdQtZ9zrZiK33WZD1QnHKn5Yy3buDVVwMr5CZgN15STHjTQp5QMEUb8ZVUo4IN1Y3jSQr36FttgNl6LVfiLg4hrRLDNcbhRW3xQPGvOCgGqbB3g",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFTzxkflI9I8aotg0CBYa9I6uoqPFKXpyRkZhxbmhGNA0jZxJ3dSwhfPfudIpP-7OISkksr4FlLy7-0W-V1Rp1ij6tE-iIBqf4iUGtqGZhFowaQjdyDp0stIyIDnSNeBkzIg_QjXYxDk5x96CulugiRU6gdP9IlYOp7d-NIQYfkTnDht0LRhISeLtlJNPv0hdQtZ9zrZiK33WZD1QnHKn5Yy3buDVVwMr5CZgN15STHjTQp5QMEUb8ZVUo4IN1Y3jSQr36FttgNl6LVfiLg4hrRLDNcbhRW3xQPGvOCgGqbB3g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFT2j2Q685T4PLmW_u6WVluzw9zjLNWpOh9xMLJcyVcknCF1PC0W6qW1zxQ-0lOq3zJrcY85601jKHSOfZeofLcdI_ktYDW7na8ecEULAFYFn14jV8B3C5QtSt4-sonZO75BjpQafB_5kIO26ERhqs1GrGAKZA65UWg3uL7W-FgGsyKCV_aV4wHNdou2JFONi_pbricVMD_-zDlDf5mP-CmIC3Zw26nhVGpsBEt8XebCzer5D7cgDV13lucTLSp3DlJJPXXrKPD8pRI0z5uyauChYvFJlwAL6ntoJpuPn--xvY",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpx7j1O0w40kF7tJr7go8K32YRCgxtKOds1YxvvZfjvybCNmw4O9yGvqmCM3g8tl5-GCpSGJtUNGuCzb4awG1lMbfrwgq8HceVqp-GT_fzw8-q7CElXLCJuUTXNABCLayTY7zkZZhZDLy3CHHE7ra8JIm7dNnrATmq9-UzHwqRFT2j2Q685T4PLmW_u6WVluzw9zjLNWpOh9xMLJcyVcknCF1PC0W6qW1zxQ-0lOq3zJrcY85601jKHSOfZeofLcdI_ktYDW7na8ecEULAFYFn14jV8B3C5QtSt4-sonZO75BjpQafB_5kIO26ERhqs1GrGAKZA65UWg3uL7W-FgGsyKCV_aV4wHNdou2JFONi_pbricVMD_-zDlDf5mP-CmIC3Zw26nhVGpsBEt8XebCzer5D7cgDV13lucTLSp3DlJJPXXrKPD8pRI0z5uyauChYvFJlwAL6ntoJpuPn--xvY"
+                    }
+                ],
+                "passed": true
             }
         }
     }
