@@ -217,6 +217,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-worlds-end-2013-hindi-dubbed-Watch-online-full-movie/",
+                                "title": "The World’s End (2013) Hindi Dubbed",
+                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMTcxNzU2MjgyOV5BMl5BanBnXkFtZTcwOTI4MTg2OQ@@._V1_FMjpg_UY576_.jpg"
+                            },
+                            {
                                 "url": "/underworld-evolution-2006-hindi-dubbed-Watch-online-full-movie/",
                                 "title": "Underworld: Evolution (2006) Hindi Dubbed",
                                 "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UY576_.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/a-world-of-worlds-rise-of-the-king-2021-Watch-online-full-movie/",
                                 "title": "A World of Worlds: Rise of the King (2021)",
                                 "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BNmIxYjg3OTQtNjVhYy00MWMyLWI4YTUtMjAyNTU4NTk3ODM4XkEyXkFqcGdeQXVyNjkxNzEzNzE@._V1_FMjpg_UY720_.jpg"
-                            },
-                            {
-                                "url": "/between-worlds-2018-hindi-dubbed-Watch-online-full-movie/",
-                                "title": "Between Worlds (2018) Hindi Dubbed",
-                                "thumbnail_url": "https://m.media-amazon.com/images/M/MV5BMWE5ZDVkZDEtNWM0Zi00Y2VhLTlmMjAtYzg4NjBlYWU2Y2VlXkEyXkFqcGdeQXVyNjc3MTA4NDE@._V1_FMjpg_UX362_.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -443,31 +443,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://gikomo.ydc1wes.me/hls2/02/00001/0ug3mm8ugr6p_o/index-v1-a1.m3u8?t=1oPGeQ0peZuwIcBIU2lHtn0BlTRQ3iz4qYk5swKtr3g&s=1690783771&e=14400&f=7307&i=0.0&sp=0",
-                        "quality": "[Server 1] - Speedostream - 530p",
-                        "videoUrl": "https://gikomo.ydc1wes.me/hls2/02/00001/0ug3mm8ugr6p_o/index-v1-a1.m3u8?t=1oPGeQ0peZuwIcBIU2lHtn0BlTRQ3iz4qYk5swKtr3g&s=1690783771&e=14400&f=7307&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Origin": "https://speedostream.pm",
-                            "Referer": "https://speedostream.pm/"
-                        }
-                    },
-                    {
-                        "url": "https://gikomo.ydc1wes.me/hls2/02/00001/0ug3mm8ugr6p_l/index-v1-a1.m3u8?t=1oPGeQ0peZuwIcBIU2lHtn0BlTRQ3iz4qYk5swKtr3g&s=1690783771&e=14400&f=7307&i=0.0&sp=0",
-                        "quality": "[Server 1] - Speedostream - 360p",
-                        "videoUrl": "https://gikomo.ydc1wes.me/hls2/02/00001/0ug3mm8ugr6p_l/index-v1-a1.m3u8?t=1oPGeQ0peZuwIcBIU2lHtn0BlTRQ3iz4qYk5swKtr3g&s=1690783771&e=14400&f=7307&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Origin": "https://speedostream.pm",
-                            "Referer": "https://speedostream.pm/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }
