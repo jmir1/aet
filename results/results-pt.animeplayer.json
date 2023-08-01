@@ -256,33 +256,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/hora-de-aventura-1x3/",
-                        "name": "Temporada 1 x 3 - ",
-                        "date_upload": 1533686400000,
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/episodios/hora-de-aventura-1x2/",
-                        "name": "Temporada 1 x 2 - ",
-                        "date_upload": 1533686400000,
-                        "episode_number": 2.0
+                        "url": "/animes/hora-de-aventura-dublado/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rr1---sn-q4flrn7k.googlevideo.com/videoplayback?expire=1690879206&ei=ZlTIZIGLHPjYmvUP8cGasAo&ip=104.210.140.29&id=61999f3ce49f7e7d&itag=18&source=blogger&mh=9H&mm=31&mn=sn-q4flrn7k&ms=au&mv=u&mvi=1&pl=22&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=675.840&lmt=1632767301906443&mt=1690850093&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgdzGa0XncqhkvOq6yoqbDocuA9-5jrqXAILvD8RNcZ8gCIFgoTxGBapkh8ui7e7L-r9Si9bhe8G3tWYliy9wWiLzx&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOvMYmGEYkFI5k8MBLydu49HWxbZiSDmq7RkBrhst3F7AiEAphjASt7THzqBI10tSOT_YIQ1vSrvcf8sdh9mU7ZPTqY%3D",
-                        "quality": "360p",
-                        "videoUrl": "https://rr1---sn-q4flrn7k.googlevideo.com/videoplayback?expire=1690879206&ei=ZlTIZIGLHPjYmvUP8cGasAo&ip=104.210.140.29&id=61999f3ce49f7e7d&itag=18&source=blogger&mh=9H&mm=31&mn=sn-q4flrn7k&ms=au&mv=u&mvi=1&pl=22&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=675.840&lmt=1632767301906443&mt=1690850093&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgdzGa0XncqhkvOq6yoqbDocuA9-5jrqXAILvD8RNcZ8gCIFgoTxGBapkh8ui7e7L-r9Si9bhe8G3tWYliy9wWiLzx&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOvMYmGEYkFI5k8MBLydu49HWxbZiSDmq7RkBrhst3F7AiEAphjASt7THzqBI10tSOT_YIQ1vSrvcf8sdh9mU7ZPTqY%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Referer": "https://animeplayer.com.br"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

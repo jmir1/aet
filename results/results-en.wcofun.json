@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/barbie-dreamhouse-adventures-season-4-episode-13-the-sportathon-part-2",
+                        "name": "Season 4 Episode 13 The Sportathon Part 2",
+                        "episode_number": 413.0
+                    },
+                    {
+                        "url": "/barbie-dreamhouse-adventures-season-4-episode-12-the-sportathon-part-1",
+                        "name": "Season 4 Episode 12 The Sportathon Part 1",
+                        "episode_number": 412.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8oMBrx1g-S01wtYmk6DMY753UREfbg4kysSi7qDnJ-0Z-02fd2UFF5gfGF_arpiCFBJypA9G7EB5CD-TAAg9vxKHOhZz56kCK_vLE0PRAYbxjSbhk8TP1RdI2-3CgDOkkgwTUB4O3CUvAt9YNWQVCL-XLTrIhSif7TeK9X8xKKi8r90GYeT7L2YgkUnEZ0yKFGdIDFaG8wwIhFlJwQ4JaHCAVsgL5g-a5HRqft7mqI9ggv5Yn-s2Qi_S3uehUMzBSvHC43nZDVx9z1aCBQf2del1VAvMpa-3KDMnXtoYZ-LU",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8oMBrx1g-S01wtYmk6DMY753UREfbg4kysSi7qDnJ-0Z-02fd2UFF5gfGF_arpiCFBJypA9G7EB5CD-TAAg9vxKHOhZz56kCK_vLE0PRAYbxjSbhk8TP1RdI2-3CgDOkkgwTUB4O3CUvAt9YNWQVCL-XLTrIhSif7TeK9X8xKKi8r90GYeT7L2YgkUnEZ0yKFGdIDFaG8wwIhFlJwQ4JaHCAVsgL5g-a5HRqft7mqI9ggv5Yn-s2Qi_S3uehUMzBSvHC43nZDVx9z1aCBQf2del1VAvMpa-3KDMnXtoYZ-LU"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8t60L1CRHJSFLGzAgaL835IcolKuNuWaxLZYAhKy_p2xn7SPQkZxZoZ788K-yocAMSoDm9_FTw1oRyTqKCp1Sup-5O0fZrXVGhcFAYExisN2N9GnJiVAPi6KVWovbER4U-qpc0zAiK3q82JbDD4CyAsWhPOo06rlKHT0J3QqLZMTYXi39b71Ai2dpeMTcsSnR7V4ouqpzz1yPAHWvOVKOli7ospLPgMURUG98_xy9PSGEBt40ZDdPKvk1Fv6AgNuwJGLrP2EqDgJrYlNUKTVzd5mCXY6luh1YQrTBr0voPKH",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8t60L1CRHJSFLGzAgaL835IcolKuNuWaxLZYAhKy_p2xn7SPQkZxZoZ788K-yocAMSoDm9_FTw1oRyTqKCp1Sup-5O0fZrXVGhcFAYExisN2N9GnJiVAPi6KVWovbER4U-qpc0zAiK3q82JbDD4CyAsWhPOo06rlKHT0J3QqLZMTYXi39b71Ai2dpeMTcsSnR7V4ouqpzz1yPAHWvOVKOli7ospLPgMURUG98_xy9PSGEBt40ZDdPKvk1Fv6AgNuwJGLrP2EqDgJrYlNUKTVzd5mCXY6luh1YQrTBr0voPKH"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8huUXJRu4fVadfwtajhQbrJP2scKYet4eEUt62gzAFFkNqVY2HnNT9rBv_uW3sXkk9e_2DPCg-VBA7LrmUGv07SJmuMzQJrHXj2c2UZXAzECUR8gOuGwbGCtxw0jXEdzVqNZR8Rg6fCb0GsbdqiBPff1oYS3wUMmKMXieFAJ1lv_ADmhnrDV_MdMAiHFZfgEW726pmWygnpJqPLpshwYgYRoUGPvelxxZGgBhZPB3epUXo2nsOYPHR-x5KtPMhhtM_7M5kSlWK4NrjsB_0JhePMAOIEt4WvwSG_RZ__Vb5cm",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8huUXJRu4fVadfwtajhQbrJP2scKYet4eEUt62gzAFFkNqVY2HnNT9rBv_uW3sXkk9e_2DPCg-VBA7LrmUGv07SJmuMzQJrHXj2c2UZXAzECUR8gOuGwbGCtxw0jXEdzVqNZR8Rg6fCb0GsbdqiBPff1oYS3wUMmKMXieFAJ1lv_ADmhnrDV_MdMAiHFZfgEW726pmWygnpJqPLpshwYgYRoUGPvelxxZGgBhZPB3epUXo2nsOYPHR-x5KtPMhhtM_7M5kSlWK4NrjsB_0JhePMAOIEt4WvwSG_RZ__Vb5cm"
+                    }
+                ],
+                "passed": true
             }
         }
     }
