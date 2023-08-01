@@ -332,14 +332,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3c/a0/3ca0a8826ff7270bac59a42fe54ed140/3ca0a8826ff7270bac59a42fe54ed140.jpg"
                             },
                             {
-                                "url": "/swallowed-star-2nd-season-18018",
-                                "title": "Tunshi Xingkong 2nd Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/23/cc/23cc8e120b74d5fc55050b0e88f00758/23cc8e120b74d5fc55050b0e88f00758.jpg"
-                            },
-                            {
                                 "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-18487",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5a/77/5a777cfb390fede844f84a3f85d246e1/5a777cfb390fede844f84a3f85d246e1.jpg"
+                            },
+                            {
+                                "url": "/swallowed-star-2nd-season-18018",
+                                "title": "Tunshi Xingkong 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/23/cc/23cc8e120b74d5fc55050b0e88f00758/23cc8e120b74d5fc55050b0e88f00758.jpg"
                             },
                             {
                                 "url": "/undead-murder-farce-18474",
@@ -392,14 +392,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/4b/14/4b145f650126e400b69e783e3d6cdd2a/4b145f650126e400b69e783e3d6cdd2a.jpg"
                             },
                             {
-                                "url": "/edens-zero-2nd-season-18331",
-                                "title": "Edens Zero 2nd Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7f/df/7fdf6665f533bc7cd366522825d31553/7fdf6665f533bc7cd366522825d31553.jpg"
-                            },
-                            {
                                 "url": "/perfect-world-17492",
                                 "title": "Wanmei Shijie",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
+                            },
+                            {
+                                "url": "/edens-zero-2nd-season-18331",
+                                "title": "Edens Zero 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7f/df/7fdf6665f533bc7cd366522825d31553/7fdf6665f533bc7cd366522825d31553.jpg"
                             },
                             {
                                 "url": "/dark-gathering-18482",
@@ -682,31 +682,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://delivery570.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=WCIu-aJIp0-JjlnnszMai4div-ILN2lilYqKGAXkpUw&s=1690826907&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.87.244.31&asn=8075",
-                        "quality": "StreamSB:720p",
-                        "videoUrl": "https://delivery570.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=WCIu-aJIp0-JjlnnszMai4div-ILN2lilYqKGAXkpUw&s=1690826907&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.87.244.31&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    },
-                    {
-                        "url": "https://delivery570.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=WCIu-aJIp0-JjlnnszMai4div-ILN2lilYqKGAXkpUw&s=1690826907&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.87.244.31&asn=8075",
-                        "quality": "StreamSB:360p",
-                        "videoUrl": "https://delivery570.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=WCIu-aJIp0-JjlnnszMai4div-ILN2lilYqKGAXkpUw&s=1690826907&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.87.244.31&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

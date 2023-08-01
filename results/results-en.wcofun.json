@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/barbie-dreamhouse-adventures",
+                                "title": "Barbie Dreamhouse Adventures",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933048.jpg"
+                            },
+                            {
+                                "url": "/anime/barbapapa-one-big-happy-family",
+                                "title": "Barbapapa: One Big Happy Family!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933047.jpg"
+                            },
+                            {
+                                "url": "/anime/kinderwood",
+                                "title": "Kinderwood",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933046.jpg"
+                            },
+                            {
                                 "url": "/anime/baby-sharks-big-show",
                                 "title": "Baby Shark's Big Show!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933045.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/dew-drop-diaries",
                                 "title": "Dew Drop Diaries",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933033.jpg"
-                            },
-                            {
-                                "url": "/anime/1001-nights",
-                                "title": "1001 Nights",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933032.jpg"
-                            },
-                            {
-                                "url": "/anime/liar-liar",
-                                "title": "Liar Liar",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933031.jpg"
-                            },
-                            {
-                                "url": "/anime/tenpuru-no-one-can-live-on-loneliness",
-                                "title": "TenPuru: No One Can Live on Loneliness",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933030.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/baby-sharks-big-show",
-                    "title": "Baby Shark's Big Show!",
-                    "description": "PINKFONG’s popular brand, Baby Shark, is back with a fun-filled preschool series. It follows Baby Shark and his best friend, William the fish, as they journey on comedic adventures in their community of Carnivore Cove.",
-                    "genre": "Adventure, Comedy, Family, Fantasy, Short, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933045.jpg",
+                    "url": "/anime/barbie-dreamhouse-adventures",
+                    "title": "Barbie Dreamhouse Adventures",
+                    "description": "Get to know Barbie and her BFFs — including next-door neighbor Ken — in this animated vlog of adventures filmed inside her family’s new dreamhouse.",
+                    "genre": "Adventure, Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933048.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/baby-sharks-big-show-season-2-episode-18-the-finship-trap",
-                        "name": "Season 2 Episode 18 The Finship Trap",
-                        "episode_number": 218.0
-                    },
-                    {
-                        "url": "/baby-sharks-big-show-season-2-episode-17-call-me-billiam",
-                        "name": "Season 2 Episode 17 Call Me Billiam",
-                        "episode_number": 217.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmuGzN7J5gaqyN5cPWubUnaIe5G76saoh2-EGFUCMup83CZfOEaA7Qw2HRDmwjWBBGUNFd8SZYzBwDIlWFZem67RBV4geDDl7S8YOlkZd4nVLSgnucoiQ1AeEOVaucjezgBrKQ2llVIIhFSM3IpaNPBH57erAxtZaEeXOzrp7GuYKABCaQ28zsoUvAKUvr6r0b-KXUec8FB767Uuz7JfY7k9KeZA11mBZF2CeVjR3ZQClWV3QNQ9OHUPs4nSqCE4PLM7hKQgZZfkKwjAP05S48JRlxKJi0gsLRGPeqXlOpSUcFzZPQLaNc77UGW_8QLVwiPn6ImvDs0x0bp8VgyemuC2ZOKTiT3z5_MuWiy2CqyszkrucTMwMROoPO-MJLI0Sx4FZoZli5uTkZdsvWINjYyOKsKS4krAY8u24VspGnT2",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmuGzN7J5gaqyN5cPWubUnaIe5G76saoh2-EGFUCMup83CZfOEaA7Qw2HRDmwjWBBGUNFd8SZYzBwDIlWFZem67RBV4geDDl7S8YOlkZd4nVLSgnucoiQ1AeEOVaucjezgBrKQ2llVIIhFSM3IpaNPBH57erAxtZaEeXOzrp7GuYKABCaQ28zsoUvAKUvr6r0b-KXUec8FB767Uuz7JfY7k9KeZA11mBZF2CeVjR3ZQClWV3QNQ9OHUPs4nSqCE4PLM7hKQgZZfkKwjAP05S48JRlxKJi0gsLRGPeqXlOpSUcFzZPQLaNc77UGW_8QLVwiPn6ImvDs0x0bp8VgyemuC2ZOKTiT3z5_MuWiy2CqyszkrucTMwMROoPO-MJLI0Sx4FZoZli5uTkZdsvWINjYyOKsKS4krAY8u24VspGnT2"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmuGzN7J5gaqyN5cPWubUnaIe5G76saoh2-EGFUCMup83CZfOEaA7Qw2HRDmwjWBBGUNFd8SZYzBwDIlWFZem67RBV4geDDl7S8YOlkZd4nVLSgnucoiQ1AeEOVaucjezgBrKQ2llVIIhFSM3IpaNPAcPfZz_5e72zNB8Q93OGoBWFdblah0Mo0b8YoM1T9W9efWVDWg4f2cuA0tFmGeu0bf7X9FsamuCKhvnSpeSzykxpL968XGMbRUNgk5_xtBdHm8ylhjvcaihFDTzAyH-kQfchLpWebpWFJC2zsaUUi-F1452E6KJk6PSuuZYUciNgjtkYScIi5vP10ct80C0YkKSByHKIKPwu8Yde6Iyy8-c8kFts-XnSiQoLggVydigSHSO1oiQn1RHmlK3dm7N-b6b5cHBskP1BBbA8lxelZv",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmuGzN7J5gaqyN5cPWubUnaIe5G76saoh2-EGFUCMup83CZfOEaA7Qw2HRDmwjWBBGUNFd8SZYzBwDIlWFZem67RBV4geDDl7S8YOlkZd4nVLSgnucoiQ1AeEOVaucjezgBrKQ2llVIIhFSM3IpaNPAcPfZz_5e72zNB8Q93OGoBWFdblah0Mo0b8YoM1T9W9efWVDWg4f2cuA0tFmGeu0bf7X9FsamuCKhvnSpeSzykxpL968XGMbRUNgk5_xtBdHm8ylhjvcaihFDTzAyH-kQfchLpWebpWFJC2zsaUUi-F1452E6KJk6PSuuZYUciNgjtkYScIi5vP10ct80C0YkKSByHKIKPwu8Yde6Iyy8-c8kFts-XnSiQoLggVydigSHSO1oiQn1RHmlK3dm7N-b6b5cHBskP1BBbA8lxelZv"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
