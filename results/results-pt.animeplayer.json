@@ -37,6 +37,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodios/suki-na-ko-ga-megane-wo-wasureta-1x5/",
+                                "title": "Suki na Ko ga Megane wo Wasureta Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/08/5-300x170.webp"
+                            },
+                            {
+                                "url": "/episodios/helck-1x4/",
+                                "title": "Helck Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/08/4-300x170.webp"
+                            },
+                            {
                                 "url": "/episodios/tanetsuke-ojisan-to-ntr-hitozuma-sex-1x1/",
                                 "title": "Tanetsuke Ojisan to NTR Hitozuma Sex Episódio 1",
                                 "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/Tanetsuke-Oji-san-to-NTR-Hitozuma-Sex-01-300x170-1.jpg"
@@ -130,16 +140,6 @@
                                 "url": "/episodios/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-1x4/",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi Episódio 4",
                                 "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/4-1-3-300x170.webp"
-                            },
-                            {
-                                "url": "/episodios/ayaka-1x5/",
-                                "title": "Ayaka Episódio 5",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/5-2-300x170.webp"
-                            },
-                            {
-                                "url": "/episodios/temple-1x4/",
-                                "title": "Temple Episódio 4",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/4-7-300x170.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -256,16 +256,33 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/animes/hora-de-aventura-dublado/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodios/hora-de-aventura-1x3/",
+                        "name": "Temporada 1 x 3 - ",
+                        "date_upload": 1533686400000,
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episodios/hora-de-aventura-1x2/",
+                        "name": "Temporada 1 x 2 - ",
+                        "date_upload": 1533686400000,
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr5---sn-o097znzd.googlevideo.com/videoplayback?expire=1690965323&ei=y6TJZJXaCqyTsfIPrYKf6A8&ip=13.87.244.27&id=61999f3ce49f7e7d&itag=18&source=blogger&mh=9H&mm=31&mn=sn-o097znzd&ms=au&mv=u&mvi=5&pl=19&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=675.840&lmt=1632767301906443&mt=1690935471&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAIjq7NGnQLuVQt6x6OUu2PMr8vEUVmDKeXmDDY53DKgkAiBfEiAzM4NTxc3x4atJuKG8p9knLFUPUIOX4bLz0dI-bg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAP0HaBT6SkSfxMR1-F7i34Mo52G02Kam4rccYbsBVNptAiBxPAyLAGxQhZLpxjWJklmvm9Z4A04XLnfEBI_QK-JJ2Q%3D%3D",
+                        "quality": "360p",
+                        "videoUrl": "https://rr5---sn-o097znzd.googlevideo.com/videoplayback?expire=1690965323&ei=y6TJZJXaCqyTsfIPrYKf6A8&ip=13.87.244.27&id=61999f3ce49f7e7d&itag=18&source=blogger&mh=9H&mm=31&mn=sn-o097znzd&ms=au&mv=u&mvi=5&pl=19&susc=bl&eaua=eJXtc50IkiE&mime=video/mp4&vprv=1&dur=675.840&lmt=1632767301906443&mt=1690935471&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAIjq7NGnQLuVQt6x6OUu2PMr8vEUVmDKeXmDDY53DKgkAiBfEiAzM4NTxc3x4atJuKG8p9knLFUPUIOX4bLz0dI-bg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAP0HaBT6SkSfxMR1-F7i34Mo52G02Kam4rccYbsBVNptAiBxPAyLAGxQhZLpxjWJklmvm9Z4A04XLnfEBI_QK-JJ2Q%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

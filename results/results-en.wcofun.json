@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bb3b",
+                                "title": "BB3B",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933052.jpg"
+                            },
+                            {
+                                "url": "/anime/battleclaw",
+                                "title": "BattleClaw",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933051.jpg"
+                            },
+                            {
+                                "url": "/anime/barbie-it-takes-two",
+                                "title": "Barbie: It Takes Two",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933050.jpg"
+                            },
+                            {
+                                "url": "/anime/barbie-dreamtopia-tv-series",
+                                "title": "Barbie Dreamtopia (TV Series)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933049.jpg"
+                            },
+                            {
                                 "url": "/anime/barbie-dreamhouse-adventures",
                                 "title": "Barbie Dreamhouse Adventures",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933048.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/captain-fall",
                                 "title": "Captain Fall",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933037.jpg"
-                            },
-                            {
-                                "url": "/anime/red-ketchup",
-                                "title": "Red Ketchup",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933036.jpg"
-                            },
-                            {
-                                "url": "/anime/saint-cecilia-and-pastor-lawrence",
-                                "title": "Saint Cecilia and Pastor Lawrence",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933035.jpg"
-                            },
-                            {
-                                "url": "/anime/a-tale-dark-grimm",
-                                "title": "A Tale Dark & Grimm",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933034.jpg"
-                            },
-                            {
-                                "url": "/anime/dew-drop-diaries",
-                                "title": "Dew Drop Diaries",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933033.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/barbie-dreamhouse-adventures",
-                    "title": "Barbie Dreamhouse Adventures",
-                    "description": "Get to know Barbie and her BFFs — including next-door neighbor Ken — in this animated vlog of adventures filmed inside her family’s new dreamhouse.",
-                    "genre": "Adventure, Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933048.jpg",
+                    "url": "/anime/bb3b",
+                    "title": "BB3B",
+                    "description": "A twin brother and sister believe that their newly born baby brother is actually an alien who is preparing the way for an invasion from outer space.",
+                    "genre": "Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933052.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/barbie-dreamhouse-adventures-season-4-episode-13-the-sportathon-part-2",
-                        "name": "Season 4 Episode 13 The Sportathon Part 2",
-                        "episode_number": 413.0
-                    },
-                    {
-                        "url": "/barbie-dreamhouse-adventures-season-4-episode-12-the-sportathon-part-1",
-                        "name": "Season 4 Episode 12 The Sportathon Part 1",
-                        "episode_number": 412.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8oMBrx1g-S01wtYmk6DMY753UREfbg4kysSi7qDnJ-0Z-02fd2UFF5gfGF_arpiCFBJypA9G7EB5CD-TAAg9vxKHOhZz56kCK_vLE0PRAYbxjSbhk8TP1RdI2-3CgDOkkgwTUB4O3CUvAt9YNWQVCL-XLTrIhSif7TeK9X8xKKi8r90GYeT7L2YgkUnEZ0yKFAc1kE3K6vCTKrb1gHfNgEI-mYgKsx612ZvPBnk0GHasL-VmUB1WX1RINpiECGGRE4hhCW_i8REdXvuOWzX7T095MG-ttHWIUQXoms4kSaTr",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8oMBrx1g-S01wtYmk6DMY753UREfbg4kysSi7qDnJ-0Z-02fd2UFF5gfGF_arpiCFBJypA9G7EB5CD-TAAg9vxKHOhZz56kCK_vLE0PRAYbxjSbhk8TP1RdI2-3CgDOkkgwTUB4O3CUvAt9YNWQVCL-XLTrIhSif7TeK9X8xKKi8r90GYeT7L2YgkUnEZ0yKFAc1kE3K6vCTKrb1gHfNgEI-mYgKsx612ZvPBnk0GHasL-VmUB1WX1RINpiECGGRE4hhCW_i8REdXvuOWzX7T095MG-ttHWIUQXoms4kSaTr"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8t60L1CRHJSFLGzAgaL835IcolKuNuWaxLZYAhKy_p2xn7SPQkZxZoZ788K-yocAMSoDm9_FTw1oRyTqKCp1Sup-5O0fZrXVGhcFAYExisN2N9GnJiVAPi6KVWovbER4U-qpc0zAiK3q82JbDD4CyAsWhPOo06rlKHT0J3QqLZMTYXi39b71Ai2dpeMTcsSnR-lUVoWGTdRS6nfOdcLoJWCvZ0I4XIePdItPKC67veMr5IKDhNoDiGIPS2diOHIr724wDY9M_lwEUCUg7HGOE-m8SiQQmXtIFuUPn9y-gGQ_",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8t60L1CRHJSFLGzAgaL835IcolKuNuWaxLZYAhKy_p2xn7SPQkZxZoZ788K-yocAMSoDm9_FTw1oRyTqKCp1Sup-5O0fZrXVGhcFAYExisN2N9GnJiVAPi6KVWovbER4U-qpc0zAiK3q82JbDD4CyAsWhPOo06rlKHT0J3QqLZMTYXi39b71Ai2dpeMTcsSnR-lUVoWGTdRS6nfOdcLoJWCvZ0I4XIePdItPKC67veMr5IKDhNoDiGIPS2diOHIr724wDY9M_lwEUCUg7HGOE-m8SiQQmXtIFuUPn9y-gGQ_"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8huUXJRu4fVadfwtajhQbrJP2scKYet4eEUt62gzAFFkNqVY2HnNT9rBv_uW3sXkk9e_2DPCg-VBA7LrmUGv07SJmuMzQJrHXj2c2UZXAzECUR8gOuGwbGCtxw0jXEdzVqNZR8Rg6fCb0GsbdqiBPff1oYS3wUMmKMXieFAJ1lv_ADmhnrDV_MdMAiHFZfgEW2KyJ3GSp7MfwNeRHAn2AZKDfcCubTdy6sXi7lFDACvoE2NRSQyYfZ7L2ELZqPOLgdDT8I2y3iTQbQof-xfifrXDD19tYIopUJgEmNkRbrll",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtOubFZNGNAhvE1jRZ_-WcckSyL7TyqSWEFBPsjftvjIYdZsfd2pF9rYiIfpwW9q0DXYDABfqKw8tZY0Ltdtp2hKE0R8RPIyYX7ZZccwQPpBOHSwsAq9aSfdc-k4myFp8huUXJRu4fVadfwtajhQbrJP2scKYet4eEUt62gzAFFkNqVY2HnNT9rBv_uW3sXkk9e_2DPCg-VBA7LrmUGv07SJmuMzQJrHXj2c2UZXAzECUR8gOuGwbGCtxw0jXEdzVqNZR8Rg6fCb0GsbdqiBPff1oYS3wUMmKMXieFAJ1lv_ADmhnrDV_MdMAiHFZfgEW2KyJ3GSp7MfwNeRHAn2AZKDfcCubTdy6sXi7lFDACvoE2NRSQyYfZ7L2ELZqPOLgdDT8I2y3iTQbQof-xfifrXDD19tYIopUJgEmNkRbrll"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

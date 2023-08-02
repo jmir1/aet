@@ -293,9 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04281/fwtdfq47fkvz_h/index-v1-a1.m3u8?t=kyWNj5TjEc5yVDfcvAj7q9n0I-ceffNM0VqWN_w1-Z8&s=1690913287&e=43200&f=21407142&srv=21&asn=10310&sp=2000",
+                        "url": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04281/fwtdfq47fkvz_h/index-v1-a1.m3u8?t=n31xnfqS-cQ3gWaPfiqLda8E9zk6-G3wGd3xbLmfUiQ&s=1690936492&e=43200&f=21407142&srv=21&asn=8075&sp=2000",
                         "quality": "Filemoon - 640p",
-                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04281/fwtdfq47fkvz_h/index-v1-a1.m3u8?t=kyWNj5TjEc5yVDfcvAj7q9n0I-ceffNM0VqWN_w1-Z8&s=1690913287&e=43200&f=21407142&srv=21&asn=10310&sp=2000",
+                        "videoUrl": "https://be2719.rcr22.ams01.cdn112.com/hls2/01/04281/fwtdfq47fkvz_h/index-v1-a1.m3u8?t=n31xnfqS-cQ3gWaPfiqLda8E9zk6-G3wGd3xbLmfUiQ&s=1690936492&e=43200&f=21407142&srv=21&asn=8075&sp=2000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
                             "Referer": "https://filemoon.sx/e/fwtdfq47fkvz",
@@ -604,20 +604,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "<head>",
-                        "quality": "StreamSB:<html>p",
-                        "videoUrl": "<head>",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/n91vtjruqbtm",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -628,6 +616,61 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/baby-blue/",
+                                "title": "Baby Blue",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/baby-blue.jpg"
+                            },
+                            {
+                                "url": "/pelicula/butch-vs-sundance/",
+                                "title": "Butch vs. Sundance",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/butch-vs-sundance.jpg"
+                            },
+                            {
+                                "url": "/pelicula/incarcerated/",
+                                "title": "Incarcerated",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/incarcerated.jpg"
+                            },
+                            {
+                                "url": "/pelicula/killer-coworker/",
+                                "title": "Killer Coworker",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/killer-coworker.jpg"
+                            },
+                            {
+                                "url": "/pelicula/les-vengeances-de-maitre-poutifard/",
+                                "title": "Les Vengeances de Maître Poutifard",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/les-vengeances-de-maitre-poutifard.jpg"
+                            },
+                            {
+                                "url": "/pelicula/space-oddity/",
+                                "title": "Space Oddity",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/space-oddity.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-deep-web-murdershow/",
+                                "title": "The Deep Web: Murdershow",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-deep-web-murdershow.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-edad-media/",
+                                "title": "La Edad Media",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-edad-media.jpg"
+                            },
+                            {
+                                "url": "/pelicula/cuando-termines-de-salvar-el-mundo/",
+                                "title": "Cuando termines de salvar el mundo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cuando-termines-de-salvar-el-mundo.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sympathy-for-the-devil/",
+                                "title": "Sympathy for the Devil",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sympathy-for-the-devil.jpg"
+                            },
+                            {
+                                "url": "/pelicula/supergirl-1984/",
+                                "title": "Supergirl 1984",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/supergirl-1984.jpg"
+                            },
                             {
                                 "url": "/pelicula/strong-fathers-strong-daughters/",
                                 "title": "Strong Fathers, Strong Daughters",
@@ -672,61 +715,6 @@
                                 "url": "/pelicula/nightalk/",
                                 "title": "Nightalk",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/nightalk.jpg"
-                            },
-                            {
-                                "url": "/pelicula/no-way-out/",
-                                "title": "No Way Out",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/no-way-out.jpg"
-                            },
-                            {
-                                "url": "/pelicula/proyecto-extraccion/",
-                                "title": "Proyecto Extracción",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/proyecto-extraccion.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-beanie-bubble/",
-                                "title": "The Beanie Bubble",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-beanie-bubble.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-pequeno-golpe-del-gran-nunu/",
-                                "title": "El pequeño golpe del Gran Nunu",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-pequeno-golpe-del-gran-nunu.jpg"
-                            },
-                            {
-                                "url": "/pelicula/miraculous-las-aventuras-de-ladybug-la-pelicula/",
-                                "title": "Miraculous: Las aventuras de Ladybug - La Película",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miraculous-las-aventuras-de-ladybug-la-pelicula.jpg"
-                            },
-                            {
-                                "url": "/pelicula/paula/",
-                                "title": "Paula",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/paula.jpg"
-                            },
-                            {
-                                "url": "/pelicula/happiness-for-beginners/",
-                                "title": "Happiness for Beginners",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/happiness-for-beginners.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-murderer/",
-                                "title": "The Murderer",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-murderer.jpg"
-                            },
-                            {
-                                "url": "/pelicula/hari-ini-akan-kita-ceritakan-nanti/",
-                                "title": "Hari Ini Akan Kita Ceritakan Nanti",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hari-ini-akan-kita-ceritakan-nanti.jpg"
-                            },
-                            {
-                                "url": "/pelicula/paradise-2023/",
-                                "title": "Paradise 2023",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/paradise-2023.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-dama-del-silencio-el-caso-mataviejitas/",
-                                "title": "La Dama del Silencio: El caso Mataviejitas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-dama-del-silencio-el-caso-mataviejitas.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -896,11 +884,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/strong-fathers-strong-daughters/",
-                    "title": "Strong Fathers, Strong Daughters",
+                    "url": "/pelicula/baby-blue/",
+                    "title": "Baby Blue",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Familiar",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -910,7 +898,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/strong-fathers-strong-daughters/",
+                        "url": "/pelicula/baby-blue/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

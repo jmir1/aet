@@ -3,8 +3,39 @@
         "name": "JetAnime",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/boku-no-hero-academia-hd11/",
+                                "title": "Boku no Hero Academia",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/zYnGDJKWwqpsDPPNylQOTXiuTzM-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/11/zDqeWuBhKOOg7VJTYkFMuqk7o5D-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/bleach-hd1/",
+                                "title": "BLEACH Sennen Kessen hen",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2022/10/guyS28A4IxwoMXIq3Xj9AszMefP-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/lattaque-des-titans-shingeki-no-kyojin-hd/",
+                                "title": "L’Attaque des Titans (Shingeki no Kyojin)",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/8qR8Pc8u7uOFu98wZRYiU7L7CC3-90x135.jpg"
+                            },
+                            {
+                                "url": "/serie/overlord/",
+                                "title": "Overlord",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/54CjW9rMEJT7bSa45joPtF3qxTE-90x135.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -328,11 +359,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/hirogaru-sky-pretty-cure/",
-                    "title": "Hirogaru Sky! Pretty Cure",
-                    "description": "Un incident majeur s’est produit dans le paisible Sky Land !? La jeune princesse Eru a été kidnappée par les monstres de l’Empire Underg ! Une jeune fille courageuse, Sora, suit la princesse à travers un trou mystérieux. « LA TÉLÉ »? « Voitures »? Sont-ce des sortes d’outils magiques !?!? Mais pas le temps d’être surpris ! Elle doit ramener la princesse au château… ! Voler entre deux mondes ! L’aventure avec le Pretty Cure commence maintenant ! C’est l’heure des héros !\n\nTitre original: ひろがるスカイ！プリキュア\nEpisodes: 13",
-                    "genre": "Action & Adventure, Animation, Comédie, Science-Fiction & Fantastique",
-                    "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/02/2NgMz4CxqbzOnAg7lgDdayp0sS.jpg",
+                    "url": "/serie/boku-no-hero-academia-hd11/",
+                    "title": "Boku no Hero Academia",
+                    "description": "On suit les aventures d’Izuku Midoriya qui, malgré qu’il vive dans un monde où avoir des pouvoirs est commun, est l’un des seuls à ne pas en posséder…\n\nTitre original: 僕のヒーローアカデミア\nEpisodes: 62",
+                    "genre": "Action & Adventure, Animation, Comédie",
+                    "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2018/09/zYnGDJKWwqpsDPPNylQOTXiuTzM-185x278.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -340,16 +371,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/hirogaru-sky-pretty-cure-saison-1-episode-26/",
-                        "name": "Season 1 x 26 - Épisode 26",
-                        "date_upload": 1690675200000,
-                        "episode_number": 26.0
+                        "url": "/episodes/my-hero-academia-saison-6-episode-25-hd/",
+                        "name": "Season 6 x 25 - Épisode 25",
+                        "date_upload": 1679702400000,
+                        "episode_number": 25.0
                     },
                     {
-                        "url": "/episodes/hirogaru-sky-pretty-cure-saison-1-episode-25/",
-                        "name": "Season 1 x 25 - Épisode 25",
-                        "date_upload": 1690070400000,
-                        "episode_number": 25.0
+                        "url": "/episodes/my-hero-academia-saison-6-episode-24-hd/",
+                        "name": "Season 6 x 24 - Épisode 24",
+                        "date_upload": 1679097600000,
+                        "episode_number": 24.0
                     }
                 ],
                 "passed": true
