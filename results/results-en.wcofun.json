@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bing",
+                                "title": "Bing",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933054.jpg"
+                            },
+                            {
+                                "url": "/anime/big-blue",
+                                "title": "Big Blue",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933053.jpg"
+                            },
+                            {
                                 "url": "/anime/bb3b",
                                 "title": "BB3B",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933052.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/adventure-beast",
                                 "title": "Adventure Beast",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933039.jpg"
-                            },
-                            {
-                                "url": "/anime/action-man-1995",
-                                "title": "Action Man (1995)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933038.jpg"
-                            },
-                            {
-                                "url": "/anime/captain-fall",
-                                "title": "Captain Fall",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933037.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bb3b",
-                    "title": "BB3B",
-                    "description": "A twin brother and sister believe that their newly born baby brother is actually an alien who is preparing the way for an invasion from outer space.",
-                    "genre": "Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933052.jpg",
+                    "url": "/anime/bing",
+                    "title": "Bing",
+                    "description": "Celebrating the noisy, joyful, messy reality of pre-school life.",
+                    "genre": "Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933054.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/bing-season-2-episode-26-snow",
+                        "name": "Season 2 Episode 26 Snow",
+                        "episode_number": 226.0
+                    },
+                    {
+                        "url": "/bing-season-2-episode-25-presents",
+                        "name": "Season 2 Episode 25 Presents",
+                        "episode_number": 225.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqyEqYGNF31Z-_YNj6fFzwXfWbFWEvT087MOSsOd1SMomBrBzXSnj7Sk2Doc34dTv1B6Elc_ttw9sdGZMIIjpJMAW1OdQNB49HsYZDt5kyVf3tffjsx-bax3nLTKu1f4EuxcdIR6a1fLisIEfmYmG8hbS-igK1GwBYNLki0P7q8dV6CXpmKnFHfgppCMkqJUnW8ImpzIttqDQDbjVqB9IFMNa-KzOR2Orme8QHk2_yNKT2SexH4QNxkyCA-fTglxVOaqm2rWjQL9uSTKjTDnKSEKh8lvTzfCVg4eNxPhTgDdBAf5_e-MWV83ranpm_0b7d8cl2_eXbzNBvb93pp7xhUyy983uBmCvBosuEi712v",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqyEqYGNF31Z-_YNj6fFzwXfWbFWEvT087MOSsOd1SMomBrBzXSnj7Sk2Doc34dTv1B6Elc_ttw9sdGZMIIjpJMAW1OdQNB49HsYZDt5kyVf3tffjsx-bax3nLTKu1f4EuxcdIR6a1fLisIEfmYmG8hbS-igK1GwBYNLki0P7q8dV6CXpmKnFHfgppCMkqJUnW8ImpzIttqDQDbjVqB9IFMNa-KzOR2Orme8QHk2_yNKT2SexH4QNxkyCA-fTglxVOaqm2rWjQL9uSTKjTDnKSEKh8lvTzfCVg4eNxPhTgDdBAf5_e-MWV83ranpm_0b7d8cl2_eXbzNBvb93pp7xhUyy983uBmCvBosuEi712v"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqyEqYGNF31Z-_YNj6fFzwXfWbFWEvT087MOSsOd1SMomBrBzXSnj7Sk2Doc34dTlXwVBfHAnrtHQfjHhXaV8rQn1Kx6mmVgNOVDB3UnoaR-gi6_zaLgK6Y_W-I8DumJR7jMXgMy3cexZ_AtuJ07VjAyHZwdQGnxV8Wjy9E6ycpfKi4tI5M-V-Ck6-i5lgojvGv5Fi1di9t-fG034NuiPzrszh7CZrokUYjhQwGOxIYF8WiQPcYkbFAjZShgIpWEWFOsUOkfbPc6kEQ9jVkMo9ORMp8rv1B31T1QD0zC8dtyEHfM8GTMbNg3fTMOLn3YVMtG21mtlJxO-pGlgd05pS31a-bkMjZEV7aKLuj4FIu",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqyEqYGNF31Z-_YNj6fFzwXfWbFWEvT087MOSsOd1SMomBrBzXSnj7Sk2Doc34dTlXwVBfHAnrtHQfjHhXaV8rQn1Kx6mmVgNOVDB3UnoaR-gi6_zaLgK6Y_W-I8DumJR7jMXgMy3cexZ_AtuJ07VjAyHZwdQGnxV8Wjy9E6ycpfKi4tI5M-V-Ck6-i5lgojvGv5Fi1di9t-fG034NuiPzrszh7CZrokUYjhQwGOxIYF8WiQPcYkbFAjZShgIpWEWFOsUOkfbPc6kEQ9jVkMo9ORMp8rv1B31T1QD0zC8dtyEHfM8GTMbNg3fTMOLn3YVMtG21mtlJxO-pGlgd05pS31a-bkMjZEV7aKLuj4FIu"
+                    }
+                ],
+                "passed": true
             }
         }
     }
