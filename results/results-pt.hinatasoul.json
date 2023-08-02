@@ -37,6 +37,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/275212",
+                                "title": "Undead Girl Murder Farce ep 5",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275212/1.jpg"
+                            },
+                            {
+                                "url": "/videos/275210",
+                                "title": "Shiro Seijo to Kuro Bokushi ep 4",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275210/1.jpg"
+                            },
+                            {
+                                "url": "/videos/275209",
+                                "title": "Watashi no Shiawase na Kekkon - Dublado ep 5",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275209/1.jpg"
+                            },
+                            {
+                                "url": "/videos/275205",
+                                "title": "Watashi no Shiawase na Kekkon ep 5",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275205/1.jpg"
+                            },
+                            {
+                                "url": "/videos/275204",
+                                "title": "Niehime to Kemono no Ou ep 16",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275204/1.jpg"
+                            },
+                            {
+                                "url": "/videos/275200",
+                                "title": "Bungou Stray Dogs 5 ep 4",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275200/1.jpg"
+                            },
+                            {
+                                "url": "/videos/275197",
+                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou ep 5",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275197/1.jpg"
+                            },
+                            {
                                 "url": "/videos/275189",
                                 "title": "Yu-Gi-Oh!: Go Rush!! ep 69",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/275189/1.jpg"
@@ -160,41 +195,6 @@
                                 "url": "/videos/274849",
                                 "title": "Genjitsu no Yohane: Sunshine in the Mirror ep 6",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274849/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274848",
-                                "title": "Eiyuu Kyoushitsu ep 4",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274848/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274845",
-                                "title": "Shinigami Bocchan to Kuro Maid 2nd Season ep 4",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274845/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274842",
-                                "title": "Hirogaru Sky! Precure ep 26",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274842/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274841",
-                                "title": "One Piece ep 1070",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274841/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274837",
-                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi - Dublado ep 2",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274837/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274836",
-                                "title": "Horimiya: Piece - Dublado ep 2",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274836/1.jpg"
-                            },
-                            {
-                                "url": "/videos/274832",
-                                "title": "Jitsu wa Ore, Saikyou deshita? ep 4",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/274832/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -348,44 +348,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/263139",
-                        "name": "Naruto Shippuden ep 500 - FINAL",
-                        "date_upload": 1490259240000,
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/videos/249788",
-                        "name": "Naruto Shippuden ep 499",
-                        "date_upload": 1525478400000,
-                        "episode_number": 499.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

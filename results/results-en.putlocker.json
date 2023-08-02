@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/deadliest-catch-38682/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/cd6b8a79cddf37fd8bd317d0217cd20c.jpg"
+                            },
+                            {
                                 "url": "/film/justified-city-primeval-98404/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/9cc1c3cc90558d9afe2aa1de288b3aa4.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/the-river-wild-98806/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/80b3bf7a3cd4ba559d5e02a65cb8290a.jpg"
-                            },
-                            {
-                                "url": "/film/i-am-rage-98800/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/7614e75519f1c62f2206d6d610408196.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/justified-city-primeval-98404/",
-                    "title": "Justified: City Primeval",
+                    "url": "/film/deadliest-catch-38682/",
+                    "title": "Deadliest Catch",
                     "author": "",
-                    "description": "Having left the hollers of Kentucky 15 years ago, Raylan Givens is now is based in Miami, balancing life as a marshal and part-time father of a 15-year-old girl. A chance encounter on a Florida highway sends him to Detroit and he crosses paths with Clement Mansell, aka The Oklahoma Wildman, a violent sociopath who’s already slipped through the fingers of Detroit’s finest once and wants to do so again.\n\nQuality: HD\nRelease: 2023-07-18\nIMDb: 8.3",
-                    "genre": "Crime, Drama",
+                    "description": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.\n\nQuality: HD\nRelease: 2005-04-12\nIMDb: 7.8",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":0,\"ids\":[\"38682_0_1\",\"38682_0_2\",\"38682_0_3\"]}",
+                        "name": "Movie",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
