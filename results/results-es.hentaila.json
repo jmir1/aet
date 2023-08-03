@@ -158,8 +158,14 @@
                 "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: .....fondos/430.jpg\" alt=\"error\"></figure>\n</div>\n</body>\n</html>",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -187,29 +193,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a202308026urjkFLf8Q7/video.mp4",
+                        "url": "https://vidcache.net:8161/a202308025rXv2q3CRI7/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202308026urjkFLf8Q7/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a202308025rXv2q3CRI7/video.mp4",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "referer": "https://www.yourupload.com/"
                         }
                     },
                     {
-                        "url": "https://cdn.burstcloud.co/a2023080267TlWh52jF4/HLA_1LDKJKIkinariDoukyoMicchakuHatsuEcchi_1.mp4",
+                        "url": "https://cdn.burstcloud.co/a20230802tD8gtlH67Mc/HLA_1LDKJKIkinariDoukyoMicchakuHatsuEcchi_1.mp4",
                         "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a2023080267TlWh52jF4/HLA_1LDKJKIkinariDoukyoMicchakuHatsuEcchi_1.mp4",
+                        "videoUrl": "https://cdn.burstcloud.co/a20230802tD8gtlH67Mc/HLA_1LDKJKIkinariDoukyoMicchakuHatsuEcchi_1.mp4",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "referer": "https://www.burstcloud.co/"
                         }
                     },
                     {
-                        "url": "https://www12.mp4upload.com:183/d/q6xyam7lz3b4quuo72qeynssk7manysk3iufy6qyjtymmzengs3rx47chyoeezv2uvuueydp/video.mp4",
+                        "url": "https://www12.mp4upload.com:183/d/q6xyam7lz3b4quuo72qeynssk7manysk3iufy6qyjtyeynn3j7miwo4muhp2tnshu5smbzqf/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xyam7lz3b4quuo72qeynssk7manysk3iufy6qyjtymmzengs3rx47chyoeezv2uvuueydp/video.mp4",
+                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xyam7lz3b4quuo72qeynssk7manysk3iufy6qyjtyeynn3j7miwo4muhp2tnshu5smbzqf/video.mp4",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5733.0 Safari/537.36",
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "referer": "https://mp4upload.com/"
                         }
                     }
