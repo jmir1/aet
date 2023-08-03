@@ -333,16 +333,59 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/animes/7243187243871427834187243871243784128734189",
+                    "title": "Naruto Shippuden",
+                    "artist": "Studio Pierrot",
+                    "author": "Masashi Kishimoto",
+                    "description": "\n\nTítulos Alternativos: Naruto Shippuuden, Naruto: Shippuden, NARUTO: Shippuuden\nAno: 2007\nTemporada: Inverno",
+                    "genre": "Ação, Artes Marciais, Comédia, Shounen, Superpoder",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.anicdn.net/media/categories/video/017d73a6c1a47ccf6fc667f95692eadf956.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/263139",
+                        "name": "Naruto Shippuden ep 500 - FINAL",
+                        "date_upload": 1490259240000,
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/videos/249788",
+                        "name": "Naruto Shippuden ep 499",
+                        "date_upload": 1525478400000,
+                        "episode_number": 499.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "Referer": "https://www.hinatasoul.com"
+                        }
+                    },
+                    {
+                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "Referer": "https://www.hinatasoul.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

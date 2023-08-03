@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-zom-100-bucket-list-of-the-dead-2023-مترجم/",
+                                "title": "فيلم Zom 100 Bucket List of the Dead (2023) مترجم",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/08/x4AEEj_4f-223x330.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-5-toubun-no-hanayome-movie-مترجم/",
                                 "title": "فيلم 5-toubun no Hanayome Movie مترجم",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/270652-223x313.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-encanto-2021-مترجم-اون-لاين-بلوراي/",
                                 "title": "فيلم Encanto 2021 مترجم اون لاين بلوراي",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/Encanto-xsanime-223x330.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-ainbo-2021-مترجم-اون-لاين-بلوراي/",
-                                "title": "فيلم Ainbo 2021 مترجم اون لاين بلوراي",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/Ainbo-Bluray-xsanime-223x330.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-5-toubun-no-hanayome-movie-مترجم/",
-                    "title": "فيلم 5-toubun no Hanayome Movie مترجم",
-                    "description": "",
+                    "url": "/movie/فيلم-zom-100-bucket-list-of-the-dead-2023-مترجم/",
+                    "title": "فيلم Zom 100 Bucket List of the Dead (2023) مترجم",
+                    "description": "الفيلم يدور حول شاب تنتعش حياته المملة عندما تتحول مدينته لزومبي. ملاحظة : (هذا عرض واقعي للانمي)",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/270652.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/08/x4AEEj_4f.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-5-toubun-no-hanayome-movie-مترجم/",
-                        "name": "5-toubun no Hanayome Movie مترجم"
+                        "url": "/movie/فيلم-zom-100-bucket-list-of-the-dead-2023-مترجم/",
+                        "name": "Zom 100 Bucket List of the Dead (2023) مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc703.4shared.com/img/kKmxJ3MXfa/1992c66d/dlink__2Fdownload_2FkKmxJ3MXfa_3Fsbsr_3D0afbd319f77249ed3536af7789bcd41baec_26bip_3DMTA0LjQ0LjEyOC4yNTA_26lgfp_3D66_26bip_3DMTA0LjQ0LjEyOC4yNTA_26bip_3DMTA0LjQ0LjEyOC4yNTA/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc703.4shared.com/img/kKmxJ3MXfa/1992c66d/dlink__2Fdownload_2FkKmxJ3MXfa_3Fsbsr_3D0afbd319f77249ed3536af7789bcd41baec_26bip_3DMTA0LjQ0LjEyOC4yNTA_26lgfp_3D66_26bip_3DMTA0LjQ0LjEyOC4yNTA_26bip_3DMTA0LjQ0LjEyOC4yNTA/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
