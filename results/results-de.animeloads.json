@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/micchiri-neko",
+                                "title": "Mitchiri Neko",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-micchiri-neko-cover.jpg"
+                            },
+                            {
                                 "url": "/media/mushishi-zoku-shou-2014",
                                 "title": "Mushi-Shi: The Next Passage 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mushishi-zoku-shou-2014.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/cardfight-vanguard-willdress-season-3",
                                 "title": "Cardfight!! Vanguard Will+Dress Season 3",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-cardfight-vanguard-will-dress-season-3-cover.jpg"
-                            },
-                            {
-                                "url": "/media/shadowverse-flame-seven-shadows-hen",
-                                "title": "Shadowverse Flame (Seven Shadows Arc)",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shadowverse-flame-seven-shadows-hen-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/mushishi-zoku-shou-2014",
-                    "title": "Mushi-Shi: The Next Passage 2",
+                    "url": "/media/micchiri-neko",
+                    "title": "Mitchiri Neko",
                     "author": "",
-                    "description": "Mushi sind Wesen, die man weder als Tiere, Pflanzen, Insekten oder Geister bezeichnen kann. Sie existieren in der Welt in unterschiedlichsten Arten. Sie leben in Städten, der Natur, im Wasser oder in der Luft sowie neben Pflanzen, Tieren und Menschen. Manche Arten finden aus Versehen, manche auch gezielt, den Kontakt zu Menschen und gehen eine Verbindung ein, die für diese sowohl gut als auch schlecht sein kann. Der Protagonist Ginko, ein Mushishi, ist ein Mann, der sich auf Mushi spezialisiert hat. Er sammelt Informationen und rettet auf seinen Streifzügen durchs Land oftmals von Mushi befallenen Menschen das Leben oder befreit sie zumindest aus einer unangenehmen Situation, die durch Mushi entstanden war. Quelle: aniSearch",
-                    "genre": "Drama",
+                    "description": "Anmerkung: Die Serie besteht aus 39 Geschichten die jeweils ca. eine Minute lang sind. Crunchyroll hat jeweils drei Folgen zu einer zusammengefügt. Quelle: aniSearch",
+                    "genre": "Nonsense-Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mushishi-zoku-shou-2014.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-micchiri-neko-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,21 +239,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/mushishi-zoku-shou-2014#streams_episodes_1_9",
-                        "name": "Ep.10 Episode 22: Baum der Ewigkeit",
-                        "episode_number": 10.0
+                        "url": "/media/micchiri-neko#streams_episodes_1_12",
+                        "name": "Ep.13 Zeit der Erholung / Gastfreundschaft / Zusammengedrängt / Reversible /…",
+                        "episode_number": 13.0
                     },
                     {
-                        "url": "/media/mushishi-zoku-shou-2014#streams_episodes_1_8",
-                        "name": "Ep.09 Episode 21: Schlammgras",
-                        "episode_number": 9.0
+                        "url": "/media/micchiri-neko#streams_episodes_1_11",
+                        "name": "Ep.12 Übernahme-Katzen / Drängel-Welle / Das kenne ich / Verabredung / Mitchiri…",
+                        "episode_number": 12.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://gamoneinterrupted.com/pqsbxxubmfac?Mitchiri.Neko.S01E13.Ger.Eng.Sub.AAC.720p.WebDL.x264-Pudding-sama.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-sami.voe-network.net/engine/hls2/01/09282/pqsbxxubmfac_,n,.urlset/master.m3u8?t=6X0VtKtVec_4PH62Z-XJZcT5jLmHSZ8j46p7qVP46Y8&s=1691042953&e=14400&f=46410174&node=delivery-node-sami.voe-network.net&i=13.88&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

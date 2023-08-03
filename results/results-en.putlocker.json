@@ -11,6 +11,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/my-lovely-liar-98683/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/ddf58b7825e8b255ac19f7370355d8b9.jpg"
+                            },
+                            {
+                                "url": "/film/longing-for-you-98593/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/d5fbbde90d29285c9c0099baa250fea4.jpg"
+                            },
+                            {
                                 "url": "/film/deadliest-catch-38682/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/cd6b8a79cddf37fd8bd317d0217cd20c.jpg"
                             },
@@ -73,10 +81,6 @@
                             {
                                 "url": "/film/unrequited-love-98725/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/38a1c7dce609bb6180e9a6340257aae1.jpg"
-                            },
-                            {
-                                "url": "/film/my-lovely-liar-98683/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/ddf58b7825e8b255ac19f7370355d8b9.jpg"
                             },
                             {
                                 "url": "/film/null-98677/",
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/untold-jake-paul-the-problem-child-98812/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/edff0bf05cc50fb9ca0f528eea05df89.jpg"
-                            },
-                            {
-                                "url": "/film/the-river-wild-98806/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/80b3bf7a3cd4ba559d5e02a65cb8290a.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/deadliest-catch-38682/",
-                    "title": "Deadliest Catch",
+                    "url": "/film/my-lovely-liar-98683/",
+                    "title": "My Lovely Liar",
                     "author": "",
-                    "description": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.\n\nQuality: HD\nRelease: 2005-04-12\nIMDb: 7.8",
-                    "genre": "Reality",
+                    "description": "A woman who can't trust people because of her ability to hear lies and a mystic composer who hid his indescribable identity, become involved in each other's lives to uncover the truth.\n\nQuality: HD\nRelease: 2023-07-31\nIMDb: n/a",
+                    "genre": "Mystery, Comedy, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,17 +360,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "{\"ep_num\":0,\"ids\":[\"38682_0_1\",\"38682_0_2\",\"38682_0_3\"]}",
-                        "name": "Movie",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }

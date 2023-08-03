@@ -3,11 +3,11 @@
         "name": "9anime",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: 9anime.to: No address associated with hostname",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: 9anime.to",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
@@ -15,11 +15,16 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: 9anime.to",
-                "passed": false
+                "result": {
+                    "author": "",
+                    "description": "",
+                    "genre": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: 9anime.to",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "videos": {
