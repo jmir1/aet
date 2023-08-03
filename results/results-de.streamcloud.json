@@ -1083,16 +1083,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/28477-star-trek-strange-new-worlds-stream-deutsch.html",
-                    "description": "Folgen Sie Christopher Pike, Spock und Number One in den zehn Jahren, bevor Capt. Kirk die Enterprise bestieg, während sie neue Welten rund um die Galaxie erkunden.",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://streamcloud.cam/uploads/thumb/300x450-0-80/2022-11/1668151089-300350108.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -1105,7 +1097,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             }
         }
