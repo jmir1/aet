@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/frente-a-frente/",
+                                "title": "Frente a frente",
+                                "description": "Risas y peligro se fusionan cuando un chofer con mal de amores y un mecánico estafador se embarcan ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/kNlqffwnkW7uGv7q5x0BI.webp"
+                            },
+                            {
+                                "url": "/pelicula/superhost/",
+                                "title": "Superhost",
+                                "description": "Dos vloggers de viajes se registran en un alquiler de vacaciones con un anfitrión que hará cualqui...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/NJlOFwIXRUydtf4OuEEfk4vvD7ifXQNA.webp"
+                            },
+                            {
+                                "url": "/pelicula/poisoned-the-dirty-truth-about-your-food/",
+                                "title": "Poisoned: The Dirty Truth About Your Food",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JKA1ndubGjKjrL6oOEZYYicgc156JeUiPla2pu4V.webp"
+                            },
+                            {
+                                "url": "/pelicula/zom-100-cien-cosas-que-quiero-hacer-antes-de-convertirme-en-zombi/",
+                                "title": "Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi",
+                                "description": "Su jefe lo maltrata. Trabaja sin parar. No es más que un esclavo de la empresa... hasta que estalla...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/r3RFo9DCGJUlKKZOs.webp"
+                            },
+                            {
                                 "url": "/pelicula/american-nightmare-becoming-cody-rhodes/",
                                 "title": "American Nightmare: Becoming Cody Rhodes",
                                 "description": "",
@@ -221,30 +245,6 @@
                                 "title": "Breaking",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/IlNreoZWUm8sKHxPgZFBTqoC8F.webp"
-                            },
-                            {
-                                "url": "/pelicula/one-true-loves/",
-                                "title": "One True Loves",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/knvjWKUKewmZqusstIWhXqD4bMyp1ghbuDlhe5Rir4.webp"
-                            },
-                            {
-                                "url": "/pelicula/strong-fathers-strong-daughters/",
-                                "title": "Strong Fathers, Strong Daughters",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/70UPzsacBOiLHT5jIO.webp"
-                            },
-                            {
-                                "url": "/pelicula/paula-2/",
-                                "title": "Paula",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/LtCboEjTpzxdZzzBz.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-channel/",
-                                "title": "The Channel",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/UojlAX6ADtVgumCiIIGqEDh50.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/american-nightmare-becoming-cody-rhodes/",
-                    "title": "American Nightmare: Becoming Cody Rhodes",
-                    "description": "",
-                    "genre": "Documental",
+                    "url": "/pelicula/frente-a-frente/",
+                    "title": "Frente a frente",
+                    "description": "Risas y peligro se fusionan cuando un chofer con mal de amores y un mecánico estafador se embarcan en una alocada aventura tras recoger por error a un capo mafioso retirado.",
+                    "genre": "Acción, Comedia, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/american-nightmare-becoming-cody-rhodes/",
+                        "url": "/pelicula/frente-a-frente/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar gcVfjCjp = \"\"; sqVIbjbgZE.forEach(function Oym(value) { gcVfjCjp += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

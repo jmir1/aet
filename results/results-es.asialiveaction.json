@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/zdoO9mUU7HW7BNPufNEh6RMGqJj.jpg"
+                            },
+                            {
                                 "url": "/wedding-plan-the-series/",
                                 "title": "Wedding Plan The Series (3/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/egoist/",
                                 "title": "Egoist",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/uu2dYVQSGIFRqtAUWykWsiSgup7.jpg"
-                            },
-                            {
-                                "url": "/blue-birthday-2023/",
-                                "title": "Blue Birthday (2023) (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/zdoO9mUU7HW7BNPufNEh6RMGqJj.jpg"
+                            },
+                            {
                                 "url": "/wedding-plan-the-series/",
                                 "title": "Wedding Plan The Series (3/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/egoist/",
                                 "title": "Egoist",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/uu2dYVQSGIFRqtAUWykWsiSgup7.jpg"
-                            },
-                            {
-                                "url": "/blue-birthday-2023/",
-                                "title": "Blue Birthday (2023) (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cUB4Ie4eOFnH3a7RNgUEK8T51Vd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                    "description": "Akira ve cómo una empresa explotadora le absorbe por completo la vida. Mientras tanto, cuando su ciudad es azotada repentinamente por un apocalipsis zombi, encuentra un nuevo sentido a la vida.",
+                    "genre": "Acción, Aventura, Ciencia Ficción, Comedia, Drama, Horror, Misterio",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/zdoO9mUU7HW7BNPufNEh6RMGqJj.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/1327252/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
