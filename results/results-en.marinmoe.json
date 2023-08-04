@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/redpk3c5y-636d1240c1b51689299401.jpg"
                             },
                             {
-                                "url": "/anime/dzxkopxr",
-                                "title": "Watashi no Shiawase na Kekkon",
-                                "thumbnail_url": "https://marin.moe/images/anime/0fouj4tyg-64adc1955cfe0538623097.jpg"
-                            },
-                            {
                                 "url": "/anime/oou14s7q",
                                 "title": "Jigokuraku",
                                 "thumbnail_url": "https://marin.moe/images/anime/tfnp3cjk3-6428546f30354536380197.jpg"
+                            },
+                            {
+                                "url": "/anime/dzxkopxr",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://marin.moe/images/anime/0fouj4tyg-64adc1955cfe0538623097.jpg"
                             },
                             {
                                 "url": "/anime/zyupqser",
@@ -107,14 +107,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/sjc4glsrq-64aacfa8aedbc200972094.jpg"
                             },
                             {
-                                "url": "/anime/0xblz2xm",
-                                "title": "Suki na Ko ga Megane o Wasureta",
-                                "thumbnail_url": "https://marin.moe/images/anime/0pvc7r9cd-64a44eb25f1ee744586909.jpg"
-                            },
-                            {
                                 "url": "/anime/iu5u9ami",
                                 "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou",
                                 "thumbnail_url": "https://marin.moe/images/anime/fg5001utv-64a57f35a24f0965426702.jpg"
+                            },
+                            {
+                                "url": "/anime/0xblz2xm",
+                                "title": "Suki na Ko ga Megane o Wasureta",
+                                "thumbnail_url": "https://marin.moe/images/anime/0pvc7r9cd-64a44eb25f1ee744586909.jpg"
                             },
                             {
                                 "url": "/anime/gesod1bt",
@@ -407,78 +407,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1070",
-                        "name": "Episode 1070 No Title",
-                        "date_upload": 1690761600000,
-                        "episode_number": 1070.0
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1069",
-                        "name": "Episode 1069 No Title",
-                        "date_upload": 1689465600000,
-                        "episode_number": 1069.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1070",
-                        "quality": "SubsPlease 1080p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/16a2a4bece78e0c2?token=6555ae2e5ae62e52fd2d3a7543039fa11355c223e61e8b2c5d216ea0120534a8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg1_=7pmC5CBy0V20aBOjXsi2;XSRF-TOKEN=eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6Im1qV0NES3M1bWk3RnZRekdXUS96MGc9PSIsInZhbHVlIjoicVY4UDQ1S2dlT3ZJSXY2TFVwaVEvRUZrcC95Qi9iUnpRU1NGbVlwOWxkQVcyS2FtMnM2bENqaFU0dUtKMGgzdm04bW51YzNiTFJvaGxWQzNDRGNvWmJBYlZLU1JjOG9PdVFvaVJEcG81WUJMdDVPQjJDVnNZSko5R3ZnNDB6MVUiLCJtYWMiOiJjM2M2OGFhZWI1Y2Q4YjljN2ZmMTdlYmQwNmFlY2FjYWIxMTcwZDBhZmJjOTQ4Y2Y4MzBlYzZkMTNjZjJkMDcyIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1070",
-                        "quality": "SubsPlease 720p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/fb0d83f2dad50c6c?token=6b8207e6a70c49b8c793cfe9e3fdeb61f865fd000853cb20b41a8f0e409910e2",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg1_=7pmC5CBy0V20aBOjXsi2;XSRF-TOKEN=eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6Im1qV0NES3M1bWk3RnZRekdXUS96MGc9PSIsInZhbHVlIjoicVY4UDQ1S2dlT3ZJSXY2TFVwaVEvRUZrcC95Qi9iUnpRU1NGbVlwOWxkQVcyS2FtMnM2bENqaFU0dUtKMGgzdm04bW51YzNiTFJvaGxWQzNDRGNvWmJBYlZLU1JjOG9PdVFvaVJEcG81WUJMdDVPQjJDVnNZSko5R3ZnNDB6MVUiLCJtYWMiOiJjM2M2OGFhZWI1Y2Q4YjljN2ZmMTdlYmQwNmFlY2FjYWIxMTcwZDBhZmJjOTQ4Y2Y4MzBlYzZkMTNjZjJkMDcyIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1070",
-                        "quality": "SubsPlease 480p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/7f7e349bd9671951?token=e5f967b11431a965ce72a260ec75abdb10fe96f6efc73583277b8fd04007105b",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg1_=7pmC5CBy0V20aBOjXsi2;XSRF-TOKEN=eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6Im1qV0NES3M1bWk3RnZRekdXUS96MGc9PSIsInZhbHVlIjoicVY4UDQ1S2dlT3ZJSXY2TFVwaVEvRUZrcC95Qi9iUnpRU1NGbVlwOWxkQVcyS2FtMnM2bENqaFU0dUtKMGgzdm04bW51YzNiTFJvaGxWQzNDRGNvWmJBYlZLU1JjOG9PdVFvaVJEcG81WUJMdDVPQjJDVnNZSko5R3ZnNDB6MVUiLCJtYWMiOiJjM2M2OGFhZWI1Y2Q4YjljN2ZmMTdlYmQwNmFlY2FjYWIxMTcwZDBhZmJjOTQ4Y2Y4MzBlYzZkMTNjZjJkMDcyIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/fntoucz2/1070",
-                        "quality": "SubsPlease 360p (Sub - Web)",
-                        "videoUrl": "https://marin.moe/funny/86e720e63f809df4?token=689300ed1ff6bc926aadac6ce26886feeb02a252164b69ed3e8cedd59718462b",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "X-XSRF-TOKEN": "eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg1_=7pmC5CBy0V20aBOjXsi2;XSRF-TOKEN=eyJpdiI6ImduRXpqZ1hrZkI5aGlRNmptdnU1NHc9PSIsInZhbHVlIjoiLzdIWEN4a3hZRTRMSWt4S2RUaVczTThFbkFlYnRJdGl6S0pLSnBaSVRwL0ZIVEJTYkdzMGVqSzhLZ29NMTBCVDdLVVI0NEVIQU5RbnAzY002OTZXRElYTGQ5NWQ0RndKOGtBWktFVTM2MXZydFpub2NEQ2RvdWhYZkZwaG9jWXIiLCJtYWMiOiIzNmZmOTJjOWViNmJjZDFmMTk1NDZmZDM4ZTM2ZTZmYzRlNmVmYzA2MDJmNmFmNjRmMWVlOTkyM2U0ZWY1ZWVlIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6Im1qV0NES3M1bWk3RnZRekdXUS96MGc9PSIsInZhbHVlIjoicVY4UDQ1S2dlT3ZJSXY2TFVwaVEvRUZrcC95Qi9iUnpRU1NGbVlwOWxkQVcyS2FtMnM2bENqaFU0dUtKMGgzdm04bW51YzNiTFJvaGxWQzNDRGNvWmJBYlZLU1JjOG9PdVFvaVJEcG81WUJMdDVPQjJDVnNZSko5R3ZnNDB6MVUiLCJtYWMiOiJjM2M2OGFhZWI1Y2Q4YjljN2ZmMTdlYmQwNmFlY2FjYWIxMTcwZDBhZmJjOTQ4Y2Y4MzBlYzZkMTNjZjJkMDcyIiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

@@ -327,24 +327,24 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/07/1e/071ea756f7a46b9745d0337ec2a59253/071ea756f7a46b9745d0337ec2a59253.jpg"
                             },
                             {
-                                "url": "/swallowed-star-2nd-season-18018",
-                                "title": "Tunshi Xingkong 2nd Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/23/cc/23cc8e120b74d5fc55050b0e88f00758/23cc8e120b74d5fc55050b0e88f00758.jpg"
-                            },
-                            {
                                 "url": "/baki-hanma-2nd-season-18458",
                                 "title": "Hanma Baki: Son of Ogre 2nd Season",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/3c/a0/3ca0a8826ff7270bac59a42fe54ed140/3ca0a8826ff7270bac59a42fe54ed140.jpg"
                             },
                             {
-                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-18487",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5a/77/5a777cfb390fede844f84a3f85d246e1/5a777cfb390fede844f84a3f85d246e1.jpg"
+                                "url": "/swallowed-star-2nd-season-18018",
+                                "title": "Tunshi Xingkong 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/23/cc/23cc8e120b74d5fc55050b0e88f00758/23cc8e120b74d5fc55050b0e88f00758.jpg"
                             },
                             {
                                 "url": "/undead-murder-farce-18474",
                                 "title": "Undead Girl Murder Farce",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/9d/97/9d970fb6085590105fe83c597e274c9f/9d970fb6085590105fe83c597e274c9f.jpg"
+                            },
+                            {
+                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-18487",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/5a/77/5a777cfb390fede844f84a3f85d246e1/5a777cfb390fede844f84a3f85d246e1.jpg"
                             },
                             {
                                 "url": "/shin-chan-1058",
@@ -682,8 +682,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery381.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=Cn9pnKdZ4o-Ne0CGtb_po8QjpwiR7U9sppMm6Aj4Yg0&s=1691151117&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.86.28.134&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery381.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=Cn9pnKdZ4o-Ne0CGtb_po8QjpwiR7U9sppMm6Aj4Yg0&s=1691151117&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.86.28.134&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery381.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=Cn9pnKdZ4o-Ne0CGtb_po8QjpwiR7U9sppMm6Aj4Yg0&s=1691151117&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.86.28.134&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery381.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=Cn9pnKdZ4o-Ne0CGtb_po8QjpwiR7U9sppMm6Aj4Yg0&s=1691151117&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.86.28.134&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
