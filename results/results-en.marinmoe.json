@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/redpk3c5y-636d1240c1b51689299401.jpg"
                             },
                             {
-                                "url": "/anime/oou14s7q",
-                                "title": "Jigokuraku",
-                                "thumbnail_url": "https://marin.moe/images/anime/tfnp3cjk3-6428546f30354536380197.jpg"
-                            },
-                            {
                                 "url": "/anime/dzxkopxr",
                                 "title": "Watashi no Shiawase na Kekkon",
                                 "thumbnail_url": "https://marin.moe/images/anime/0fouj4tyg-64adc1955cfe0538623097.jpg"
+                            },
+                            {
+                                "url": "/anime/oou14s7q",
+                                "title": "Jigokuraku",
+                                "thumbnail_url": "https://marin.moe/images/anime/tfnp3cjk3-6428546f30354536380197.jpg"
                             },
                             {
                                 "url": "/anime/zyupqser",
@@ -67,14 +67,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/rdsyvukix-64a0a0f9a9145900932950.jpg"
                             },
                             {
-                                "url": "/anime/qq0xzoyk",
-                                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                                "thumbnail_url": "https://marin.moe/images/anime/v1ubyowy1-64a31451c2e43153185466.jpg"
-                            },
-                            {
                                 "url": "/anime/dpkrxw9j",
                                 "title": "Black Clover",
                                 "thumbnail_url": "https://marin.moe/images/anime/818sbuw7q-61c43ff0b709e922193540.jpg"
+                            },
+                            {
+                                "url": "/anime/qq0xzoyk",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://marin.moe/images/anime/v1ubyowy1-64a31451c2e43153185466.jpg"
                             },
                             {
                                 "url": "/anime/xa3axzuk",
@@ -87,14 +87,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/r3lbcasl0-6436e9483dfc1086363124.jpg"
                             },
                             {
-                                "url": "/anime/4jyvykgd",
-                                "title": "Helck",
-                                "thumbnail_url": "https://marin.moe/images/anime/vwt6oje5m-64adb575cb5d9947547630.jpg"
-                            },
-                            {
                                 "url": "/anime/a0cz4nhm",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://marin.moe/images/anime/axaddtqiy-64a9c3df90f1a956585813.jpg"
+                            },
+                            {
+                                "url": "/anime/4jyvykgd",
+                                "title": "Helck",
+                                "thumbnail_url": "https://marin.moe/images/anime/vwt6oje5m-64adb575cb5d9947547630.jpg"
                             },
                             {
                                 "url": "/anime/bjjnfqcm",
@@ -102,14 +102,14 @@
                                 "thumbnail_url": "https://marin.moe/images/anime/wtfd1m0v0-643049198c690134893355.jpg"
                             },
                             {
-                                "url": "/anime/ugtexyyz",
-                                "title": "Eiyuu Kyoushitsu",
-                                "thumbnail_url": "https://marin.moe/images/anime/sjc4glsrq-64aacfa8aedbc200972094.jpg"
-                            },
-                            {
                                 "url": "/anime/iu5u9ami",
                                 "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou",
                                 "thumbnail_url": "https://marin.moe/images/anime/fg5001utv-64a57f35a24f0965426702.jpg"
+                            },
+                            {
+                                "url": "/anime/ugtexyyz",
+                                "title": "Eiyuu Kyoushitsu",
+                                "thumbnail_url": "https://marin.moe/images/anime/sjc4glsrq-64aacfa8aedbc200972094.jpg"
                             },
                             {
                                 "url": "/anime/0xblz2xm",
@@ -407,12 +407,78 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1070",
+                        "name": "Episode 1070 No Title",
+                        "date_upload": 1690761600000,
+                        "episode_number": 1070.0
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1069",
+                        "name": "Episode 1069 No Title",
+                        "date_upload": 1689465600000,
+                        "episode_number": 1069.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1070",
+                        "quality": "SubsPlease 1080p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/16a2a4bece78e0c2?token=3e99619c9851ecbac3da1f1db515e576bfddb4341aea56fb13f2da6800f4d6ee",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xtpq8yXUuNg6bYa3;__ddg1_=i5BAaWYWs4Z3rUrojVvm;XSRF-TOKEN=eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImJXSldOazB1ditNWlE0V3BTYjNVMkE9PSIsInZhbHVlIjoidXB5NzkrakJyOTFqMlhVWVdFQW9vSndDSkVsSzZ3TFc0Q2hNQzRyRnJOYndEZmdyc1N0NXhYSm5lbTREdi9xMTB5SWlMd0lFaUpwbnlodTJxWit3cVVZVC96akQyaEJ0OW9kaEVacmtzYk44MWh6MExDcS8wc01qN0lUcUdnMHQiLCJtYWMiOiJlNTExMGU5N2FiOTBiMDEwNTIyYjQ4ZDcwZWYzZjgyOTkyOWYxYWJmMjgzNTljMmZkYzkzZTMyMDI0NDc0MmNmIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1070",
+                        "quality": "SubsPlease 720p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/fb0d83f2dad50c6c?token=585c8387aabd89ec62b84ca5ef873c664b3882c340932cedfab74a66798d4d35",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xtpq8yXUuNg6bYa3;__ddg1_=i5BAaWYWs4Z3rUrojVvm;XSRF-TOKEN=eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImJXSldOazB1ditNWlE0V3BTYjNVMkE9PSIsInZhbHVlIjoidXB5NzkrakJyOTFqMlhVWVdFQW9vSndDSkVsSzZ3TFc0Q2hNQzRyRnJOYndEZmdyc1N0NXhYSm5lbTREdi9xMTB5SWlMd0lFaUpwbnlodTJxWit3cVVZVC96akQyaEJ0OW9kaEVacmtzYk44MWh6MExDcS8wc01qN0lUcUdnMHQiLCJtYWMiOiJlNTExMGU5N2FiOTBiMDEwNTIyYjQ4ZDcwZWYzZjgyOTkyOWYxYWJmMjgzNTljMmZkYzkzZTMyMDI0NDc0MmNmIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1070",
+                        "quality": "SubsPlease 480p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/7f7e349bd9671951?token=bca46bebd648156ba26e18b82e7a7f48c3f818c660d495a5114068a2734601a9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xtpq8yXUuNg6bYa3;__ddg1_=i5BAaWYWs4Z3rUrojVvm;XSRF-TOKEN=eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImJXSldOazB1ditNWlE0V3BTYjNVMkE9PSIsInZhbHVlIjoidXB5NzkrakJyOTFqMlhVWVdFQW9vSndDSkVsSzZ3TFc0Q2hNQzRyRnJOYndEZmdyc1N0NXhYSm5lbTREdi9xMTB5SWlMd0lFaUpwbnlodTJxWit3cVVZVC96akQyaEJ0OW9kaEVacmtzYk44MWh6MExDcS8wc01qN0lUcUdnMHQiLCJtYWMiOiJlNTExMGU5N2FiOTBiMDEwNTIyYjQ4ZDcwZWYzZjgyOTkyOWYxYWJmMjgzNTljMmZkYzkzZTMyMDI0NDc0MmNmIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    },
+                    {
+                        "url": "https://marin.moe/anime/fntoucz2/1070",
+                        "quality": "SubsPlease 360p (Sub - Web)",
+                        "videoUrl": "https://marin.moe/funny/86e720e63f809df4?token=cd519824983c62b83dad9a6d5532075f103711236eb8398e421cd9e9b56ebc36",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "X-XSRF-TOKEN": "eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0=",
+                            "Cookie": "__ddg2_=xtpq8yXUuNg6bYa3;__ddg1_=i5BAaWYWs4Z3rUrojVvm;XSRF-TOKEN=eyJpdiI6InNCWnVxWUg5UzgyUEhxZ003d28yQUE9PSIsInZhbHVlIjoiWWgvZW1SdXA5dDh2ZldDcGdGYThrQk1EbHV2QlRYWTZVRWR3cjJUdmtPQjYvN0t1aW9hZXVmd0ZLMzBMc2h0WXdqLzlJV2FPd0ZDWXhUUUJOeHRFYkY0NGpWd3VEQWNOR3ZYY1prbEk1S1dySlVVSENYKy9adk1rUkdKMEs0NHAiLCJtYWMiOiJhNGM3ZThhZTAzZjY2MWYzYWI4YmQxMTYwNmYzM2JlNDVhNWYxOTljYmEzNTA1NGY0MjBiOGUyNWQ4YWFlMmNiIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6ImJXSldOazB1ditNWlE0V3BTYjNVMkE9PSIsInZhbHVlIjoidXB5NzkrakJyOTFqMlhVWVdFQW9vSndDSkVsSzZ3TFc0Q2hNQzRyRnJOYndEZmdyc1N0NXhYSm5lbTREdi9xMTB5SWlMd0lFaUpwbnlodTJxWit3cVVZVC96akQyaEJ0OW9kaEVacmtzYk44MWh6MExDcS8wc01qN0lUcUdnMHQiLCJtYWMiOiJlNTExMGU5N2FiOTBiMDEwNTIyYjQ4ZDcwZWYzZjgyOTkyOWYxYWJmMjgzNTljMmZkYzkzZTMyMDI0NDc0MmNmIiwidGFnIjoiIn0%3D",
+                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "Referer": "https://marin.moe/anime/fntoucz2/1070",
+                            "Accept-Language": "en-US,en;q=0.5"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
