@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/vnz5e3q2k6sf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=c8aTRN2UyWika_kmqqT0vGln2cxki4fDVIsgyKbZ0EM&s=1691172494&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.86&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=FoUdWeGEecV4hPnykwfiTSWS_kIwJlCIvHDXNe5nJig&s=1691195671&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.83&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691242490&ip=GxOsFxInDS9X&token=r79-eeSZJmZy",
+                        "url": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691265667&ip=GxOsFxOnDS9X&token=i2MWpwvFgI2l",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691242490&ip=GxOsFxInDS9X&token=r79-eeSZJmZy"
+                        "videoUrl": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691265667&ip=GxOsFxOnDS9X&token=i2MWpwvFgI2l"
                     },
                     {
                         "url": "https://voe.sx/e/vnz5e3q2k6sf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=c8aTRN2UyWika_kmqqT0vGln2cxki4fDVIsgyKbZ0EM&s=1691172494&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.86&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=FoUdWeGEecV4hPnykwfiTSWS_kIwJlCIvHDXNe5nJig&s=1691195671&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.83&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -598,8 +598,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<head>",
+                        "quality": "StreamSB:<html>p",
+                        "videoUrl": "<head>",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/n91vtjruqbtm",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -610,6 +622,66 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/syndir-fedranna/",
+                                "title": "Syndir feðranna",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/syndir-fedranna.jpg"
+                            },
+                            {
+                                "url": "/pelicula/clutch-time/",
+                                "title": "Clutch Time",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/clutch-time.jpg"
+                            },
+                            {
+                                "url": "/pelicula/god-raiga-vs-king-ohga/",
+                                "title": "God Raiga Vs. King Ohga",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/god-raiga-vs-king-ohga.jpg"
+                            },
+                            {
+                                "url": "/pelicula/my-house/",
+                                "title": "My House",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/my-house.jpg"
+                            },
+                            {
+                                "url": "/pelicula/frente-a-frente/",
+                                "title": "Frente a Frente",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/frente-a-frente.jpg"
+                            },
+                            {
+                                "url": "/pelicula/zom-100-cien-cosas-que-quiero-hacer-antes-de-convertirme-en-zombi/",
+                                "title": "Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/zom-100-cien-cosas-que-quiero-hacer-antes-de-convertirme-en-zombi.jpg"
+                            },
+                            {
+                                "url": "/pelicula/goodbye-don-glees/",
+                                "title": "Goodbye, Don Glees!",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/goodbye-don-glees.jpg"
+                            },
+                            {
+                                "url": "/pelicula/le-petit-nicolas-quest-ce-quon-attend-pour-etre-heureux/",
+                                "title": "Le petit Nicolas - Qu'est-ce qu'on attend pour être heureux ?",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/le-petit-nicolas-quest-ce-quon-attend-pour-etre-heureux.jpg"
+                            },
+                            {
+                                "url": "/pelicula/quien-nos-protege/",
+                                "title": "¿Quién nos protege?",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/quien-nos-protege.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-leyenda-de-paul-newman/",
+                                "title": "La leyenda de Paul Newman",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-leyenda-de-paul-newman.jpg"
+                            },
+                            {
+                                "url": "/pelicula/elmo-en-la-tierra-de-los-grunones/",
+                                "title": "Elmo en la Tierra de los Gruñones",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/elmo-en-la-tierra-de-los-grunones.jpg"
+                            },
+                            {
+                                "url": "/pelicula/una-chica-en-apuros/",
+                                "title": "Una chica en apuros",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/una-chica-en-apuros.jpg"
+                            },
                             {
                                 "url": "/pelicula/el-rio-de-la-ira/",
                                 "title": "El rio de la ira",
@@ -649,66 +721,6 @@
                                 "url": "/pelicula/desaparecida-el-caso-lucie-blackman/",
                                 "title": "Desaparecida: El caso Lucie Blackman",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/desaparecida-el-caso-lucie-blackman.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-bohemio/",
-                                "title": "El Bohemio",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-bohemio.jpg"
-                            },
-                            {
-                                "url": "/pelicula/como-dios-manda/",
-                                "title": "Como Dios manda",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/como-dios-manda.jpg"
-                            },
-                            {
-                                "url": "/pelicula/chronique-dune-liaison-passagere/",
-                                "title": "Chronique d'une liaison passagère",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/chronique-dune-liaison-passagere.jpg"
-                            },
-                            {
-                                "url": "/pelicula/linnocent/",
-                                "title": "L'Innocent",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/linnocent.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cabo-cod-la-amenaza-de-los-mares/",
-                                "title": "Cabo Cod: La Amenaza de los Mares",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cabo-cod-la-amenaza-de-los-mares.jpg"
-                            },
-                            {
-                                "url": "/pelicula/river-wild/",
-                                "title": "River Wild",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/river-wild.jpg"
-                            },
-                            {
-                                "url": "/pelicula/american-nightmare-becoming-cody-rhodes/",
-                                "title": "American Nightmare: Becoming Cody Rhodes",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-nightmare-becoming-cody-rhodes.jpg"
-                            },
-                            {
-                                "url": "/pelicula/untold-jake-paul-the-problem-child/",
-                                "title": "Untold: Jake Paul the Problem Child",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/untold-jake-paul-the-problem-child.jpg"
-                            },
-                            {
-                                "url": "/pelicula/deadly-secrets-of-a-cam-girl/",
-                                "title": "Deadly Secrets of a Cam Girl",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/deadly-secrets-of-a-cam-girl.jpg"
-                            },
-                            {
-                                "url": "/pelicula/picture-me-dead/",
-                                "title": "Picture Me Dead",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/picture-me-dead.jpg"
-                            },
-                            {
-                                "url": "/pelicula/blood-sweat-and-cheer/",
-                                "title": "Blood, Sweat and Cheer",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/blood-sweat-and-cheer.jpg"
-                            },
-                            {
-                                "url": "/pelicula/paradise-2023/",
-                                "title": "Paradise",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/paradise-2023.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +890,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-rio-de-la-ira/",
-                    "title": "El rio de la ira",
+                    "url": "/pelicula/syndir-fedranna/",
+                    "title": "Syndir feðranna",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +904,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-rio-de-la-ira/",
+                        "url": "/pelicula/syndir-fedranna/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

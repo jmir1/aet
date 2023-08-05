@@ -7,103 +7,25 @@
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/catalogue/dekiru-neko-wa-kyou-mo-yuuutsu//saison1/vostfr",
-                                "title": "Dekiru Neko wa Kyou mo Yuuutsu Saison 1",
-                                "description": "Saku est une employée de bureau comme les autres... Enfin... Si on excepte le chat géant avec qui elle vit ! Prénommé Yukichi, le félin est en fait le pilier du foyer : ménage, cuisine, lessive... C'est lui qui s'occupe de tout ! Malgré son air sévère et ses manières parfois brusques, il est malgré tout au petit soin avec sa maîtresse, et heureusement pour elle, vu qu'elle n'est bonne à rien !",
-                                "genre": "Comédie, Slice-of-Life, Animaux, Quotidien",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dekiru-neko-wa-kyou-mo-yuuutsu.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/the-dreaming-man-is-a-realist//saison1/vostfr",
-                                "title": "The Dreaming Man is a Realist Saison 1",
-                                "description": "Wataru Sajô est profondément amoureux de sa camarade de classe, Aika Natsukawa, et a tendance à lui montrer trop d'affection. Un jour, il prend conscience qu'il n'est sûrement pas assez bien pour cette dernière. En réalisant cela, Wataru commence à prendre ses distances avec Aika. Surprise par ce changement radical, Aika se demande si son camarade de classe la déteste.",
-                                "genre": "Comédie, Romance, School-Life, Amour, Ecole, Harem",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-dreaming-man-is-a-realist.jpg",
-                                "initialized": true
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "details": {
                 "result": {
-                    "url": "/catalogue/dekiru-neko-wa-kyou-mo-yuuutsu//saison1/vostfr",
-                    "title": "Dekiru Neko wa Kyou mo Yuuutsu Saison 1",
-                    "description": "Saku est une employée de bureau comme les autres... Enfin... Si on excepte le chat géant avec qui elle vit ! Prénommé Yukichi, le félin est en fait le pilier du foyer : ménage, cuisine, lessive... C'est lui qui s'occupe de tout ! Malgré son air sévère et ses manières parfois brusques, il est malgré tout au petit soin avec sa maîtresse, et heureusement pour elle, vu qu'elle n'est bonne à rien !",
-                    "genre": "Comédie, Slice-of-Life, Animaux, Quotidien",
-                    "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dekiru-neko-wa-kyou-mo-yuuutsu.jpg",
-                    "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "[[\"https://sendvid.com/embed/3nys5zwx\",\"https://video.sibnet.ru/shell.php?videoid=5210438\",\"https://www.myvi.tv/embed/7eoho5zn7ybr9fs4kfirsxxhxh\",\"https://s22.anime-sama.fr/videos/Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu/Dekiru_Neko_wa_Kyou_mo_Yuuutsu_4_VOSTFR.mp4\"],[]]",
-                        "name": "Episode 4",
-                        "episode_number": 4.0,
-                        "scanlator": "VOSTFR"
-                    },
-                    {
-                        "url": "[[\"https://sendvid.com/embed/hlpfmaq8\",\"https://video.sibnet.ru/shell.php?videoid=5203873\",\"https://www.myvi.tv/embed/qjxhuaexwo1rjrfe6b9463hwnc\",\"https://s22.anime-sama.fr/videos/Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu/Dekiru_Neko_wa_Kyou_mo_Yuuutsu_3_VOSTFR.mp4\"],[]]",
-                        "name": "Episode 3",
-                        "episode_number": 3.0,
-                        "scanlator": "VOSTFR"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://videos2-h.sendvid.com/hls/83/b9/3nys5zwx.mp4/index-v1-a1.m3u8?validfrom=1691165272&validto=1691179672&rate=250k&ip=40.86.29.83&hdl=-1&hash=LiNaGHWUbm0j4THKgB37NS5HIGA%3D",
-                        "quality": "(VOSTFR) Sendvid:720p ",
-                        "videoUrl": "https://videos2-h.sendvid.com/hls/83/b9/3nys5zwx.mp4/index-v1-a1.m3u8?validfrom=1691165272&validto=1691179672&rate=250k&ip=40.86.29.83&hdl=-1&hash=LiNaGHWUbm0j4THKgB37NS5HIGA%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "Accept": "*/*",
-                            "Host": "videos2-h.sendvid.com",
-                            "Origin": "https://sendvid.com",
-                            "Referer": "https://sendvid.com/"
-                        }
-                    },
-                    {
-                        "url": "https://s22.anime-sama.fr/videos/Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu/Dekiru_Neko_wa_Kyou_mo_Yuuutsu_4_VOSTFR.mp4",
-                        "quality": "(VOSTFR) AS Player",
-                        "videoUrl": "https://s22.anime-sama.fr/videos/Dekiru%20Neko%20wa%20Kyou%20mo%20Yuuutsu/Dekiru_Neko_wa_Kyou_mo_Yuuutsu_4_VOSTFR.mp4"
-                    },
-                    {
-                        "url": "https://www.myvi.tv/stream/6iHIbuLoAk-W2lFqSz38fw2/2.mp4?s=31m5MGH1C1PLHt9ndoro5DWpk-RjyWvkKxbTn1tQ4Fvhw6jX_TrUF3ojgR9_62DngJo194c_JyL8M7436C_-bw2&r=oTDJXrUEtpaNZfdL4xDPFf6ium3Iksw6fusU1lMoEhLmWwAENGVotN1IThYohp7-0&d=1417114&ri=Oi3lZVguGUGVfMp_CutS8A2",
-                        "quality": "(VOSTFR) Mytv",
-                        "videoUrl": "https://www.myvi.tv/stream/6iHIbuLoAk-W2lFqSz38fw2/2.mp4?s=31m5MGH1C1PLHt9ndoro5DWpk-RjyWvkKxbTn1tQ4Fvhw6jX_TrUF3ojgR9_62DngJo194c_JyL8M7436C_-bw2&r=oTDJXrUEtpaNZfdL4xDPFf6ium3Iksw6fusU1lMoEhLmWwAENGVotN1IThYohp7-0&d=1417114&ri=Oi3lZVguGUGVfMp_CutS8A2"
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/ce250994ed4e628cb32109b57f9ac22b/5210438.mp4",
-                        "quality": "(VOSTFR) Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/ce250994ed4e628cb32109b57f9ac22b/5210438.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5210438"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }
