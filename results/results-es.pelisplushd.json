@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/vnz5e3q2k6sf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=FoUdWeGEecV4hPnykwfiTSWS_kIwJlCIvHDXNe5nJig&s=1691195671&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.83&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=I0Eso3J5gjUntfFHzvoAoxhThmuThxaP__8AZztQVqc&s=1691215725&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=52.184&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691265667&ip=GxOsFxOnDS9X&token=i2MWpwvFgI2l",
+                        "url": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691285722&ip=G0WsD0gNKxSHDN&token=F4VROAcMclFQ",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691265667&ip=GxOsFxOnDS9X&token=i2MWpwvFgI2l"
+                        "videoUrl": "https://streamtape.com/get_video?id=PLP2Rw22PVh0dqO&expires=1691285722&ip=G0WsD0gNKxSHDN&token=F4VROAcMclFQ"
                     },
                     {
                         "url": "https://voe.sx/e/vnz5e3q2k6sf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=FoUdWeGEecV4hPnykwfiTSWS_kIwJlCIvHDXNe5nJig&s=1691195671&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=40.83&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/09275/vnz5e3q2k6sf_,n,.urlset/master.m3u8?t=I0Eso3J5gjUntfFHzvoAoxhThmuThxaP__8AZztQVqc&s=1691215725&e=14400&f=46378902&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=52.184&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -598,20 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "<head>",
-                        "quality": "StreamSB:<html>p",
-                        "videoUrl": "<head>",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "referer": "https://lvturbo.com/e/n91vtjruqbtm",
-                            "watchsb": "sbstream",
-                            "authority": "embedsb.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
