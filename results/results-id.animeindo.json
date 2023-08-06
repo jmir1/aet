@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2020/02/135253l.jpg"
+                            },
+                            {
                                 "url": "/anime/jitsu-wa-ore-saikyou-deshita/",
                                 "title": "Jitsu wa Ore, Saikyou deshita?",
                                 "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2023/07/136558l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/genjitsu-no-yohane-sunshine-in-the-mirror/",
                                 "title": "Genjitsu no Yohane: Sunshine in the Mirror",
                                 "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2023/06/bx151513-0tGiS0NC3adv.jpg"
-                            },
-                            {
-                                "url": "/anime/synduality-noir/",
-                                "title": "Synduality: Noir",
-                                "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2023/07/133072l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,46 +348,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/nonton/one-piece-episode-1071/",
+                        "name": "Episode 1071",
+                        "episode_number": 1071.0
+                    },
+                    {
                         "url": "/nonton/one-piece-episode-1070/",
                         "name": "Episode 1070",
                         "episode_number": 1070.0
-                    },
-                    {
-                        "url": "/nonton/one-piece-episode-1069/",
-                        "name": "Episode 1069",
-                        "episode_number": 1069.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxtwixlz3b4quuo7wqeuycrcdjotlphswyvift7wafq57a3mkzqg5st445ae4tg5nhlpncs/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxtwixlz3b4quuo7wqeuycrcdjotlphswyvift7wafq57a3mkzqg5st445ae4tg5nhlpncs/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://redirector.gdrivecdn.me/drive/index.php?id=ylIBKoaNVwy8TvTqEZq9dQDfrnwrBzQ2sXZFcrIofs4864EHQvBILlhunDs7XUiRdGFBVO%2FBdOXlgettvIVz4IciSM3zQrzlPYuQCXIJ5Spa%2BN7sHiho%2FuOXJV0UWfxehmc7tjrJnmjCdEddCBlERPGjnNBj62QOBQWm7QNLjgsQ%3D%3D&ref=&sandbox=&t=&res=720",
-                        "quality": "GDRIVE 720p - Gdrive",
-                        "videoUrl": "https://redirector.gdrivecdn.me/drive/index.php?id=ylIBKoaNVwy8TvTqEZq9dQDfrnwrBzQ2sXZFcrIofs4864EHQvBILlhunDs7XUiRdGFBVO%2FBdOXlgettvIVz4IciSM3zQrzlPYuQCXIJ5Spa%2BN7sHiho%2FuOXJV0UWfxehmc7tjrJnmjCdEddCBlERPGjnNBj62QOBQWm7QNLjgsQ%3D%3D&ref=&sandbox=&t=&res=720"
-                    },
-                    {
-                        "url": "https://redirector.gdrivecdn.me/drive/index.php?id=ylIBKoaNVwy8TvTqEZq9dQDfrnwrBzQ2sXZFcrIofs4864EHQvBILlhunDs7XUiRdGFBVO%2FBdOXlgettvIVz4IciSM3zQrzlPYuQCXIJ5Spa%2BN7sHiho%2FuOXJV0UWfxehmc7tjrJnmjCdEddCBlERPGjnNBj62QOBQWm7QNLjgsQ%3D%3D&ref=&sandbox=&t=&res=360",
-                        "quality": "GDRIVE 360p - Gdrive",
-                        "videoUrl": "https://redirector.gdrivecdn.me/drive/index.php?id=ylIBKoaNVwy8TvTqEZq9dQDfrnwrBzQ2sXZFcrIofs4864EHQvBILlhunDs7XUiRdGFBVO%2FBdOXlgettvIVz4IciSM3zQrzlPYuQCXIJ5Spa%2BN7sHiho%2FuOXJV0UWfxehmc7tjrJnmjCdEddCBlERPGjnNBj62QOBQWm7QNLjgsQ%3D%3D&ref=&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=dPe1xjW4k1Ukkjq&expires=1691351915&ip=FROsD0ESKxSHDN&token=XpUjm_CvUmbg",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=dPe1xjW4k1Ukkjq&expires=1691351915&ip=FROsD0ESKxSHDN&token=XpUjm_CvUmbg"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/chirp-episode-52-monster-trucks",
+                        "name": "Episode 52 Monster Trucks",
+                        "episode_number": 52.0
+                    },
+                    {
+                        "url": "/chirp-episode-51-sandnado",
+                        "name": "Episode 51 Sandnado",
+                        "episode_number": 51.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiLMzknVzw2V8YLAz21d7rosW-wqLnRaDyLVQzk0A3UIvUxzryDKZ3s8itbEZbyxNTYKlcUZgElV3ncSRQ4egmYU4ZJhFGQgbuMztOhWY5fnl2_wjI2FKKeCmF_HToACG9xVhNKUmJ2Oe3gGO-WbMM2Xw7R5N_q4-e1x9-fypWrvQ3G4Mo5beoxFJmiORA5KkW9-2LRE1hR8H6q9jFi8V3PWsHe-ZbOGpv_yVaZFBiPjmxsP8vZNGxYk49GtvLoQIo6Gu7wwqZ6Fo2es4ENcQtpupeG5m2zX_-u-O_hJSbvMcZ23Y7UFoulpgAPI4NEiSryF5aS0QCGhGhEU3LayUafNwvT8hi2BaO6Au2T5uYjrXCehLlSBg4Z6LRM9VcR-Cw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiLMzknVzw2V8YLAz21d7rosW-wqLnRaDyLVQzk0A3UIvUxzryDKZ3s8itbEZbyxNTYKlcUZgElV3ncSRQ4egmYU4ZJhFGQgbuMztOhWY5fnl2_wjI2FKKeCmF_HToACG9xVhNKUmJ2Oe3gGO-WbMM2Xw7R5N_q4-e1x9-fypWrvQ3G4Mo5beoxFJmiORA5KkW9-2LRE1hR8H6q9jFi8V3PWsHe-ZbOGpv_yVaZFBiPjmxsP8vZNGxYk49GtvLoQIo6Gu7wwqZ6Fo2es4ENcQtpupeG5m2zX_-u-O_hJSbvMcZ23Y7UFoulpgAPI4NEiSryF5aS0QCGhGhEU3LayUafNwvT8hi2BaO6Au2T5uYjrXCehLlSBg4Z6LRM9VcR-Cw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiLMzknVzw2V8YLAz21d7rosW-wqLnRaDyLVQzk0A3UIvUxzryDKZ3s8itbEZbyxNTYKlcUZgElV3ncSRQ4egmYU4ZJhFGQgbuMztOhWY5fn9Harh3MtgwbOEAqilUUYJSkFj64fbjp5b641UUZRUTHXXELJzquHPX-LQwAbYQz4FkR35aNp09Uamvp_TvF_cMjWpJzZJmb3jrh8Q7bRaGa3kS_gOFnn06oQ_N_m2hJW4is6_mFrDswxEHDXGXXiqWqMii0Dla5MVdMaA2uj78Oxfe9s90QgKDp6-gJTQQIjm-UJplfMo5s05w3ymELadnal-jGEJ2avFt37zk4LbSdqQvIgbQvRq4rxbt8j2EBUKeVxOwwTCTa8VodHHh3JHA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJiLMzknVzw2V8YLAz21d7rosW-wqLnRaDyLVQzk0A3UIvUxzryDKZ3s8itbEZbyxNTYKlcUZgElV3ncSRQ4egmYU4ZJhFGQgbuMztOhWY5fn9Harh3MtgwbOEAqilUUYJSkFj64fbjp5b641UUZRUTHXXELJzquHPX-LQwAbYQz4FkR35aNp09Uamvp_TvF_cMjWpJzZJmb3jrh8Q7bRaGa3kS_gOFnn06oQ_N_m2hJW4is6_mFrDswxEHDXGXXiqWqMii0Dla5MVdMaA2uj78Oxfe9s90QgKDp6-gJTQQIjm-UJplfMo5s05w3ymELadnal-jGEJ2avFt37zk4LbSdqQvIgbQvRq4rxbt8j2EBUKeVxOwwTCTa8VodHHh3JHA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

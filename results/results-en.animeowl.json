@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/marie-gali-ver-2-0/",
+                                "title": "Marie & Gali ver. 2.0",
+                                "thumbnail_url": "https://anime-owl.net/cover/marie-gali-ver-2-0.jpg"
+                            },
+                            {
+                                "url": "/anime/go-go-vehicle-zoo/",
+                                "title": "Go! Go! Vehicle Zoo",
+                                "thumbnail_url": "https://anime-owl.net/cover/go-go-vehicle-zoo.png"
+                            },
+                            {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://anime-owl.net/cover/one-piece.jpg"
+                            },
+                            {
                                 "url": "/anime/detective-conan-remastered/",
                                 "title": "Detective Conan Remastered",
                                 "thumbnail_url": "https://anime-owl.net/cover/detective-conan-remastered.png"
@@ -300,21 +315,6 @@
                                 "url": "/anime/world-dai-star/",
                                 "title": "World Dai Star",
                                 "thumbnail_url": "https://anime-owl.net/cover/world-dai-star.png"
-                            },
-                            {
-                                "url": "/anime/tousouchuu-great-mission/",
-                                "title": "Tousouchuu: Great Mission",
-                                "thumbnail_url": "https://anime-owl.net/cover/tousouchuu-great-mission.png"
-                            },
-                            {
-                                "url": "/anime/the-marginal-service/",
-                                "title": "The Marginal Service",
-                                "thumbnail_url": "https://anime-owl.net/cover/the-marginal-service.png"
-                            },
-                            {
-                                "url": "/anime/majutsushi-orphen-hagure-tabi-seiiki-hen/",
-                                "title": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
-                                "thumbnail_url": "https://anime-owl.net/cover/majutsushi-orphen-hagure-tabi-seiiki-hen.png"
                             }
                         ],
                         "hasNextPage": true
@@ -350,7 +350,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
