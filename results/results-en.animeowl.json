@@ -87,14 +87,14 @@
                                 "thumbnail_url": "https://anime-owl.net/cover/undead-girl-murder-farce.png"
                             },
                             {
-                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://anime-owl.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-2023.png"
-                            },
-                            {
                                 "url": "/anime/hanma-baki-son-of-ogre-2nd-season/",
                                 "title": "Hanma Baki: Son of Ogre 2nd Season",
                                 "thumbnail_url": "https://anime-owl.net/cover/hanma-baki-son-of-ogre-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://anime-owl.net/cover/rurouni-kenshin-meiji-kenkaku-romantan-2023.png"
                             },
                             {
                                 "url": "/anime/crayon-shin-chan-1994/",
@@ -167,9 +167,19 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/detective-conan-remastered/",
+                                "title": "Detective Conan Remastered",
+                                "thumbnail_url": "https://anime-owl.net/cover/detective-conan-remastered.png"
+                            },
+                            {
                                 "url": "/anime/marie-gali-ver-2-0/",
                                 "title": "Marie & Gali ver. 2.0",
                                 "thumbnail_url": "https://anime-owl.net/cover/marie-gali-ver-2-0.jpg"
+                            },
+                            {
+                                "url": "/anime/bakugan-battle-brawlers-new-vestroia/",
+                                "title": "Bakugan Battle Brawlers: New Vestroia",
+                                "thumbnail_url": "https://anime-owl.net/cover/bakugan-battle-brawlers-new-vestroia.jpg"
                             },
                             {
                                 "url": "/anime/go-go-vehicle-zoo/",
@@ -180,11 +190,6 @@
                                 "url": "/anime/one-piece/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://anime-owl.net/cover/one-piece.jpg"
-                            },
-                            {
-                                "url": "/anime/detective-conan-remastered/",
-                                "title": "Detective Conan Remastered",
-                                "thumbnail_url": "https://anime-owl.net/cover/detective-conan-remastered.png"
                             },
                             {
                                 "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
@@ -310,11 +315,6 @@
                                 "url": "/anime/dead-mount-death-play/",
                                 "title": "Dead Mount Death Play",
                                 "thumbnail_url": "https://anime-owl.net/cover/dead-mount-death-play.png"
-                            },
-                            {
-                                "url": "/anime/world-dai-star/",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://anime-owl.net/cover/world-dai-star.png"
                             }
                         ],
                         "hasNextPage": true
@@ -350,7 +350,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
                 "passed": false
             }
         }

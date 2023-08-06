@@ -367,14 +367,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/94/ed/94ed952aaec33dfac601d8c12832ca5e/94ed952aaec33dfac601d8c12832ca5e.png"
                             },
                             {
-                                "url": "/doraemon-2005-1551",
-                                "title": "Doraemon (2005)",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
-                            },
-                            {
                                 "url": "/bang-dream-its-mygo-18415",
                                 "title": "BanG Dream! It's MyGO!!!!!",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/71/2e/712e1099cea8162bd1f71c9d9f497f63/712e1099cea8162bd1f71c9d9f497f63.jpg"
+                            },
+                            {
+                                "url": "/doraemon-2005-1551",
+                                "title": "Doraemon (2005)",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
                             },
                             {
                                 "url": "/the-masterful-cat-is-depressed-again-today-18472",
@@ -682,8 +682,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery240.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=MFSCtGEDh6NYnQ4gsq8pGeV7SJbaKX-f5zYNhbXlduQ&s=1691323877&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.91.166.9&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery240.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=MFSCtGEDh6NYnQ4gsq8pGeV7SJbaKX-f5zYNhbXlduQ&s=1691323877&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.91.166.9&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery240.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=MFSCtGEDh6NYnQ4gsq8pGeV7SJbaKX-f5zYNhbXlduQ&s=1691323877&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.91.166.9&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery240.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=MFSCtGEDh6NYnQ4gsq8pGeV7SJbaKX-f5zYNhbXlduQ&s=1691323877&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=13.91.166.9&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
