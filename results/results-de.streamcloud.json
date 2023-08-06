@@ -1095,8 +1095,14 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/28477-star-trek-strange-new-worlds-stream-deutsch.html",
+                        "name": "Star Trek: Strange New Worlds - Staffel 2 stream online",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",

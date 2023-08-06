@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/heartstopper/",
+                                "title": "Heartstopper",
+                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/08/heartstopper-35714-poster-150x150.jpg"
+                            },
+                            {
                                 "url": "/series/top-boy-2/",
                                 "title": "Top Boy S3/S4",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2023/07/top-boy-35604-poster-150x150.jpg"
@@ -420,11 +425,6 @@
                                 "url": "/series/his-dark-materials/",
                                 "title": "His Dark Materials",
                                 "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/his-dark-materials-30296-poster-150x150.jpg"
-                            },
-                            {
-                                "url": "/series/willow/",
-                                "title": "Willow",
-                                "thumbnail_url": "https:https://allmovies.gg/wp-content/uploads/2022/12/willow-30282-poster-150x150.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -881,35 +881,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/series/top-boy-2/",
-                    "title": "Top Boy S3/S4",
-                    "author": "Ronan Bennett",
-                    "description": "Two seasoned drug dealers return to the gritty street of London, but their pursuit of money and power is threatened by a young and ruthless hustler.",
-                    "genre": "Crime, Drama",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/top-boy-s3-s4-2x8/",
-                        "name": "Season 2x8 : Prove Yourself",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/top-boy-s3-s4-2x7/",
-                        "name": "Season 2x7 : We Ride Out for Family",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
