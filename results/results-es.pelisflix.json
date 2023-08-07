@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/si-todas-las-puertas-se-cierran/",
+                                "title": "Si todas las puertas se cierran",
+                                "description": "Las tres mujeres protagonistas de la película llevan vidas completamente separadas e independientes...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/jOAPQwuTg1b2mYHBL88qZHE26rS80A1afrPVNaEU1G.webp"
+                            },
+                            {
                                 "url": "/pelicula/disguise/",
                                 "title": "Disguise",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "Róise y Frank",
                                 "description": "Esta tierna y conmovedora comedia dramática irlandesa cuenta la historia de una mujer que, después...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EnIH5O67dUQzNPfddcRvnKjhfNqKnCBRQ9oMNlJQ5.webp"
-                            },
-                            {
-                                "url": "/pelicula/older-gods/",
-                                "title": "Older Gods",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xZwY7viQywtsyR7gpuFzqo4noE.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/disguise/",
-                    "title": "Disguise",
-                    "description": "",
-                    "genre": "Terror",
+                    "url": "/pelicula/si-todas-las-puertas-se-cierran/",
+                    "title": "Si todas las puertas se cierran",
+                    "description": "Las tres mujeres protagonistas de la película llevan vidas completamente separadas e independientes entre sí. Sin embargo, sus caminos se acabarán cruzando de tal forma que se ayudarán unas a otras a encontrarse a sí mismas. Cada una de ellas tendrá que enfrentarse a sus profundos miedos para volver a ser completamente feliz. Además de volver a ser las protagonistas de su propias vidas a través de la transformación y la liberación de ellas mismas.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/disguise/",
+                        "url": "/pelicula/si-todas-las-puertas-se-cierran/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar ebiWlMmX = \"\"; gpHADkGgUh.forEach(function Oym(value) { ebiWlMmX += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
