@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/mononogatari-2nd-season-ger-sub/",
+                                "title": "Mononogatari 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64385.jpg"
+                            },
+                            {
+                                "url": "/synduality-noir-ger-sub/",
+                                "title": "Synduality: Noir Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64388.jpg"
+                            },
+                            {
+                                "url": "/masamune-kun-no-revenge-r-ger-sub/",
+                                "title": "Masamune-kun no Revenge R Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
+                            },
+                            {
                                 "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-sub/",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg"
@@ -172,19 +187,9 @@
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61621.jpg"
                             },
                             {
-                                "url": "/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-ger-sub/",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/57791.jpg"
-                            },
-                            {
-                                "url": "/synduality-noir-ger-sub/",
-                                "title": "Synduality: Noir Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64388.jpg"
-                            },
-                            {
-                                "url": "/genjitsu-no-yohane-sunshine-in-the-mirror-ger-sub/",
-                                "title": "Genjitsu no Yohane: Sunshine in the Mirror Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/56751.png"
+                                "url": "/masamune-kun-no-revenge-r-ger-dub/",
+                                "title": "Masamune-kun no Revenge R Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
                             },
                             {
                                 "url": "/kimetsu-no-yaiba-mugen-ressha-hen-ger-dub/",
@@ -260,11 +265,6 @@
                                 "url": "/okashi-na-tensei-ger-dub/",
                                 "title": "Okashi na Tensei Ger Dub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61218.jpg"
-                            },
-                            {
-                                "url": "/masamune-kun-no-revenge-r-ger-dub/",
-                                "title": "Masamune-kun no Revenge R Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
                             },
                             {
                                 "url": "/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x-ger-dub/",
@@ -439,23 +439,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-sub/",
-                    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Ger Sub",
-                    "description": "Rudeus begibt sich mit neuen Freunden und Kräften auf die Suche nach Abenteuern und den Menschen, die er einst kannte.\n ",
-                    "genre": "Drama, Ecchi, Fantasy",
+                    "url": "/mononogatari-2nd-season-ger-sub/",
+                    "title": "Mononogatari 2nd Season Ger Sub",
+                    "description": "Die Tsukumogami treffen auf mysteriöse neue Feinde, die das Leben in Kyoto bedrohen!\n ",
+                    "genre": "Action, Seinen, Supernatural",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64385.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NumberFormatException: For input string: \"Ep.0\"",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mononogatari-2nd-season-ger-sub/?link=5",
+                        "name": "Ep. 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/mononogatari-2nd-season-ger-sub/?link=4",
+                        "name": "Ep. 5",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\"",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
