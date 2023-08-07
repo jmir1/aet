@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/ck9ona2tqkhx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=r6FxiNd5hxS2RmA0oT8p92h6rp-Gdkcuea3bX9Z8nz0&s=1691345272&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=40.86&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=0-ZrgYFkc0S3nBhUb2v6ofGZEiPRvFXVPj6SHRnoVVE&s=1691368568&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=172.177&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/ck9ona2tqkhx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=r6FxiNd5hxS2RmA0oT8p92h6rp-Gdkcuea3bX9Z8nz0&s=1691345272&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=40.86&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/09288/t4matua2lqvv_,n,.urlset/master.m3u8?t=0-ZrgYFkc0S3nBhUb2v6ofGZEiPRvFXVPj6SHRnoVVE&s=1691368568&e=14400&f=46443260&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=172.177&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -593,8 +593,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<head>",
+                        "quality": "StreamSB:<html>p",
+                        "videoUrl": "<head>",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://lvturbo.com/e/n91vtjruqbtm",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -605,6 +617,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/american-girl-corinne-tan-la-pelicula/",
+                                "title": "American Girl: Corinne Tan la Película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-girl-corinne-tan-la-pelicula.jpg"
+                            },
                             {
                                 "url": "/pelicula/il-muto-di-gallura/",
                                 "title": "Il muto di Gallura",
@@ -699,11 +716,6 @@
                                 "url": "/pelicula/zom-100-cien-cosas-que-quiero-hacer-antes-de-convertirme-en-zombi/",
                                 "title": "Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/zom-100-cien-cosas-que-quiero-hacer-antes-de-convertirme-en-zombi.jpg"
-                            },
-                            {
-                                "url": "/pelicula/goodbye-don-glees/",
-                                "title": "Goodbye, Don Glees!",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/goodbye-don-glees.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -873,11 +885,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/il-muto-di-gallura/",
-                    "title": "Il muto di Gallura",
+                    "url": "/pelicula/american-girl-corinne-tan-la-pelicula/",
+                    "title": "American Girl: Corinne Tan la Película",
                     "artist": "",
                     "description": "",
-                    "genre": "Historia",
+                    "genre": "Familiar",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -887,7 +899,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/il-muto-di-gallura/",
+                        "url": "/pelicula/american-girl-corinne-tan-la-pelicula/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -895,8 +907,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/02/04337/jxfbs6f4b6mi_h/index-v1-a1.m3u8?t=uIYI3FtVzxYQzzy006MCeHiS627EoFKjpRjc6zciV88&s=1691368590&e=43200&f=21689018&srv=27&asn=10310&sp=2000",
+                        "quality": "[Cast]1080p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/02/04337/jxfbs6f4b6mi_h/index-v1-a1.m3u8?t=uIYI3FtVzxYQzzy006MCeHiS627EoFKjpRjc6zciV88&s=1691368590&e=43200&f=21689018&srv=27&asn=10310&sp=2000",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/jxfbs6f4b6mi",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
