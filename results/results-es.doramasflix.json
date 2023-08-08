@@ -140,6 +140,13 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/yCQFnmYhYf7XALMka2EoBRAFmPO.jpg"
                             },
                             {
+                                "url": "/doramas-online/reply-1988?id=5f2c5dfe87508b5a2a577244",
+                                "title": "Reply 1988 (Responder 1988)",
+                                "description": "Answer Me 1988: Los tiempos pueden haber sido un poco más simples, menos tecnológicos, pero aún así era igual de difícil sobrellevar un día típico en la vida a finales de 1980. Cinco amigos de la infancia, que viven todos en el mismo barrio Ssangmundong de Seúl, se apoyan mutuamente para sobrevivir la compleja adolescencia y forjarse un camino para el futuro. Sung Deok Sol (Hyeri) lucha por atención siendo el hijo del medio en su pobre familia, mientras que también lleva el peso de tener el lugar 989o en la escuela. Kim Jung Hwan (Ryu Joon Yeol) solamente tiene una cosa en mente, el fútbol, ​​incluso después de que su familia se vuelve rica de la noche a la mañana. Sung Woo Sun (Ko Gyung Pyo) es el estudiante perfecto, Presidente del Consejo Estudiantil y un hijo atento y confiable en su familia. Ryu Dong Ryong (Lee Dong Hwi) es un geek que sabe más sobre las niñas y la vida que el resto de sus amigos, pero su mala calificación académica le impide poder ir a la universidad. Choi Taek (Park Bo Gum) es un jugador genio de Go, que dejó la escuela para convertirse en profesional. A medida que el grupo de amigos se mete y sale de travesuras en el barrio, ¿qué experiencias de estos tiempos memorables juntos se van a llevar con ellos a su vida futura?",
+                                "genre": "Comedia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/hlAQurIC3SsMM5rjYR04eNoJRsb.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/color-of-romance?id=6407aeef411a91a8b3a2cd10",
                                 "title": "Color of Romance (El color del romance)",
                                 "description": "Un día, Anzu fue a una fiesta de tragos con su mejor amiga Yuka. Anzu se emborrachó mucho y vio a un hombre guapo antes de irse a toda prisa. Sin embargo, el destino aparece cuando Anzu se reencuentra con el guapo que es uno de los dos nuevos empleados de la empresa.",
@@ -222,13 +229,6 @@
                                 "description": "\n              Arisu, un joven apático, desempleado y obsesionado con los videojuegos, se encuentra de repente en una versión extraña y vacía de Tokio en la que él y sus amigos deben competir en juegos peligrosos y sádicos para sobrevivir. En este extraño mundo, Arisu conoce a Usagi, una joven que navega sola por los juegos. Juntos, se propusieron desentrañar un misterio tras otro mientras arriesgan sus vidas y se enfrentan a lo que significa vivir.\n\n\n            ",
                                 "genre": "Misterio, Fantasía, Acción",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bkyl9GawmRGcWp4uer8SI0sjrL1.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/a-business-proposal?id=621c5f5d7948872d7b635618",
-                                "title": "A Business Proposal (Propuesta laboral)",
-                                "description": "Ha-ri se hace pasar por su amiga durante una cita a ciegas para ahuyentar al pretendiente. Pero el plan cambia cuando este resulta ser su CEO, que le hace una propuesta.",
-                                "genre": "Drama, Comedia, Romance",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/6KMhKm2ZHG8KUtg4lhsNUdt4iPh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/the-legend-of-anle?id=64af600b35461c5d64eed275",
-                    "title": "The Legend of Anle (La Leyenda de Anle)",
-                    "artist": "Dilraba Dilmurat",
-                    "author": "Youku",
-                    "description": "Di Zi Yuan busca venganza después de que su familia fuera acusada falsamente de traición hace diez años y decapitada según el edicto del emperador.\n\nComo única sobreviviente, cambia su nombre a Ren An Le y planea su camino hacia la corte. Admira la preocupación del príncipe heredero Han Ye por el bienestar de su pueblo. Mientras desarrolla lentamente sentimientos por él, ella permanece atormentada por su pasado, incapaz de descartar la enemistad que existe entre sus dos familias.\n\nHan Ye, impulsado por su profundo amor por Di Zi Yuan, promete resolver sus diferencias a toda costa.",
-                    "genre": "Drama, Romance, Acción, Aventura, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kohTwe1EPbdSZTaExnXSV8TgNeX.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
