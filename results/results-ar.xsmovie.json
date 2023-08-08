@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-nanatsu-no-taizai-ensa-no-edinburgh-part-2-مترجم/",
+                                "title": "فيلم Nanatsu no Taizai: Ensa no Edinburgh Part 2 مترجم",
+                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/08/nanatsu-no-taizai-ensa-no-edinburgh-part-2-a14043e584-223x279.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-zom-100-bucket-list-of-the-dead-2023-مترجم/",
                                 "title": "فيلم Zom 100 Bucket List of the Dead (2023) مترجم",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/08/x4AEEj_4f-223x330.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-fate-grand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon-بلوراي/",
                                 "title": "فيلم Fate/Grand Order: Shuukyoku Tokuiten – Kani Jikan Shinden Solomon بلوراي",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/114957l-223x315.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-encanto-2021-مترجم-اون-لاين-بلوراي/",
-                                "title": "فيلم Encanto 2021 مترجم اون لاين بلوراي",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2022/01/Encanto-xsanime-223x330.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-zom-100-bucket-list-of-the-dead-2023-مترجم/",
-                    "title": "فيلم Zom 100 Bucket List of the Dead (2023) مترجم",
-                    "description": "الفيلم يدور حول شاب تنتعش حياته المملة عندما تتحول مدينته لزومبي. ملاحظة : (هذا عرض واقعي للانمي)",
+                    "url": "/movie/فيلم-nanatsu-no-taizai-ensa-no-edinburgh-part-2-مترجم/",
+                    "title": "فيلم Nanatsu no Taizai: Ensa no Edinburgh Part 2 مترجم",
+                    "description": "الفيلم الثاني من Nanatsu no Taizai: Ensa no Edinburgh",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/08/x4AEEj_4f.jpg",
+                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/08/nanatsu-no-taizai-ensa-no-edinburgh-part-2-a14043e584.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,15 +388,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-zom-100-bucket-list-of-the-dead-2023-مترجم/",
-                        "name": "Zom 100 Bucket List of the Dead (2023) مترجم"
+                        "url": "/movie/فيلم-nanatsu-no-taizai-ensa-no-edinburgh-part-2-مترجم/",
+                        "name": "Nanatsu no Taizai: Ensa no Edinburgh Part 2 مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc722.4shared.com/img/XEwnFRDWfa/9b40c1da/dlink__2Fdownload_2FXEwnFRDWfa_3Fsbsr_3D44a2c059d9e08e9a53072909f98b523eaec_26bip_3DNDAuNzcuNDUuMTQ0_26lgfp_3D66_26bip_3DNDAuNzcuNDUuMTQ0_26bip_3DNDAuNzcuNDUuMTQ0/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc722.4shared.com/img/XEwnFRDWfa/9b40c1da/dlink__2Fdownload_2FXEwnFRDWfa_3Fsbsr_3D44a2c059d9e08e9a53072909f98b523eaec_26bip_3DNDAuNzcuNDUuMTQ0_26lgfp_3D66_26bip_3DNDAuNzcuNDUuMTQ0_26bip_3DNDAuNzcuNDUuMTQ0/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
