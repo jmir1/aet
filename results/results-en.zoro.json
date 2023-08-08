@@ -387,14 +387,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/4b/14/4b145f650126e400b69e783e3d6cdd2a/4b145f650126e400b69e783e3d6cdd2a.jpg"
                             },
                             {
-                                "url": "/edens-zero-2nd-season-18331",
-                                "title": "Edens Zero 2nd Season",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7f/df/7fdf6665f533bc7cd366522825d31553/7fdf6665f533bc7cd366522825d31553.jpg"
-                            },
-                            {
                                 "url": "/perfect-world-17492",
                                 "title": "Wanmei Shijie",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
+                            },
+                            {
+                                "url": "/edens-zero-2nd-season-18331",
+                                "title": "Edens Zero 2nd Season",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/7f/df/7fdf6665f533bc7cd366522825d31553/7fdf6665f533bc7cd366522825d31553.jpg"
                             },
                             {
                                 "url": "/mononogatari-2nd-season-18466",
@@ -567,11 +567,6 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c2/ff/c2ffafae01ec87bd2d3ee220bd151f09/c2ffafae01ec87bd2d3ee220bd151f09.jpg"
                             },
                             {
-                                "url": "/perfect-world-17492?ref=search",
-                                "title": "Wanmei Shijie",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/f1/96/f196b15210920bc127d01bdad8b9a7b3/f196b15210920bc127d01bdad8b9a7b3.jpg"
-                            },
-                            {
                                 "url": "/the-worlds-finest-assassin-gets-reincarnated-in-a-different-world-as-an-aristocrat-17482?ref=search",
                                 "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/68/8e/688e4c1b468215a9dccc5f028122f3a6/688e4c1b468215a9dccc5f028122f3a6.jpg"
@@ -645,6 +640,11 @@
                                 "url": "/my-hero-academia-the-movie-3-world-heroes-mission-17334?ref=search",
                                 "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/37/0d/370d705e46efcfac81c0f7a7fb54a3be/370d705e46efcfac81c0f7a7fb54a3be.jpg"
+                            },
+                            {
+                                "url": "/isekai-quartet-movie-another-world-15744?ref=search",
+                                "title": "Gekijouban Isekai Quartet: Another World",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/66/a8/66a8c7c606562cdac007249930252ea6/66a8c7c606562cdac007249930252ea6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,8 +682,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery576.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=55RSz9GN9SZ1yOLTr5jgdGcMaQU62WOJzZvhsei0C1g&s=1691496753&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.251.177&asn=8075",
+                        "quality": "StreamSB:720p",
+                        "videoUrl": "https://delivery576.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_n/index-v1-a1.m3u8?t=55RSz9GN9SZ1yOLTr5jgdGcMaQU62WOJzZvhsei0C1g&s=1691496753&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.251.177&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    },
+                    {
+                        "url": "https://delivery576.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=55RSz9GN9SZ1yOLTr5jgdGcMaQU62WOJzZvhsei0C1g&s=1691496753&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.251.177&asn=8075",
+                        "quality": "StreamSB:360p",
+                        "videoUrl": "https://delivery576.akamai-video-content.com/hls2/01/03029/64rfqmos2jcw_l/index-v1-a1.m3u8?t=55RSz9GN9SZ1yOLTr5jgdGcMaQU62WOJzZvhsei0C1g&s=1691496753&e=10800&f=15147008&srv=dXVIett0CU5n3Y2k&client=40.122.251.177&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://watchsb.com/e/64rfqmos2jcw.html",
+                            "watchsb": "sbstream",
+                            "authority": "embedsb.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
