@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/مشاهدة-فيلم-gran-turismo-2023-مترجم/",
+                                "title": "مشاهدة فيلم Gran Turismo 2023 مترجم",
+                                "thumbnail_url": "https://a23.egydead.live/wp-content/uploads/2023/08/Gran-Turismo-2023-195x280.jpg"
+                            },
+                            {
+                                "url": "/فيلم-سبايدر-مان-عبر-عالم-العنكبوت-2023-مدب/",
+                                "title": "فيلم سبايدر مان عبر عالم العنكبوت 2023 مدبلج",
+                                "thumbnail_url": "https://a23.egydead.live/wp-content/uploads/2023/08/فيلم-Spider-Man-Across-the-Spider-Verse-2023-مدبلج-202x280.jpg"
+                            },
+                            {
                                 "url": "/episode/مسلسل-strange-planet-الموسم-الاول-الحلقة-3-مترجمة/",
                                 "title": "مسلسل Strange Planet الموسم الاول الحلقة 3 مترجمة",
                                 "thumbnail_url": "https://a23.egydead.live/wp-content/uploads/2023/08/مسلسل-Strange-Planet-الموسم-الاول-225x280.jpg"
@@ -395,16 +405,6 @@
                                 "url": "/episode/انمي-detective-conan-الحلقة-1090-مترجمة/",
                                 "title": "انمي Detective Conan الحلقة 1090 مترجمة",
                                 "thumbnail_url": "https://a23.egydead.live/wp-content/uploads/2021/01/انمي-Detective-Conan-الحلقة-1000-217x280.jpg"
-                            },
-                            {
-                                "url": "/episode/انمي-detective-conan-الحلقة-1089-مترجمة/",
-                                "title": "انمي Detective Conan الحلقة 1089 مترجمة",
-                                "thumbnail_url": "https://a23.egydead.live/wp-content/uploads/2021/01/انمي-Detective-Conan-الحلقة-1000-217x280.jpg"
-                            },
-                            {
-                                "url": "/assembly/سلسلة-افلام-the-meg-مترجمة-كاملة/",
-                                "title": "سلسلة افلام The Meg مترجمة كاملة",
-                                "thumbnail_url": "https://a23.egydead.live/wp-content/uploads/2023/08/سلسلة-افلام-The-Meg-مترجمة-كاملة-250x278.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -687,8 +687,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://xav1l1onscz9vfsq.lions-vidcdn.com/hls2/01/00443/yawlda6xwchd_h/master.m3u8?t=7pvYXqBmi6d4fIfrtnrQJNmW6vlxhy9j_OvJvoaFRxo&s=1691583120&e=129600&f=2216590&srv=u37WExBYPU3Y&i=0.0&sp=1500&p1=u37WExBYPU3Y&p2=u37WExBYPU3Y",
+                        "quality": "800p",
+                        "videoUrl": "https://xav1l1onscz9vfsq.lions-vidcdn.com/hls2/01/00443/yawlda6xwchd_h/master.m3u8?t=7pvYXqBmi6d4fIfrtnrQJNmW6vlxhy9j_OvJvoaFRxo&s=1691583120&e=129600&f=2216590&srv=u37WExBYPU3Y&i=0.0&sp=1500&p1=u37WExBYPU3Y&p2=u37WExBYPU3Y"
+                    },
+                    {
+                        "url": "https://s-delivery45.mxdcontent.net/v/2b0ceb8ae988869fb519d61c9c6e15a5.mp4?s=QMokdnCcg1HmwHslKTI5lw&e=1691604722&_t=1691587919",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery45.mxdcontent.net/v/2b0ceb8ae988869fb519d61c9c6e15a5.mp4?s=QMokdnCcg1HmwHslKTI5lw&e=1691604722&_t=1691587919",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
