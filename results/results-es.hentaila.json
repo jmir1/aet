@@ -158,14 +158,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: .....fondos/430.jpg\" alt=\"error\"></figure>\n</div>\n</body>\n</html>",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -193,27 +187,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a202308082UdyXAivg01/video.mp4",
+                        "url": "https://vidcache.net:8161/a20230808vWQDSMXm1ln/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202308082UdyXAivg01/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20230808vWQDSMXm1ln/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "referer": "https://www.yourupload.com/"
                         }
                     },
                     {
-                        "url": "https://cdn.burstcloud.co/a202308085o1cXJaliwF/HLA_KunoichiRyoujokudenAjisai_1.mp4",
+                        "url": "https://cdn.burstcloud.co/a20230808BXADks74SK1/HLA_KunoichiRyoujokudenAjisai_1.mp4",
                         "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a202308085o1cXJaliwF/HLA_KunoichiRyoujokudenAjisai_1.mp4",
+                        "videoUrl": "https://cdn.burstcloud.co/a20230808BXADks74SK1/HLA_KunoichiRyoujokudenAjisai_1.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "referer": "https://www.burstcloud.co/"
                         }
                     },
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcxxxdpkz3b4quuo7gqbsmcecxhbgvqdixisukheondz3hojv4q6sra4csru2tp62ffbxkar/video.mp4",
+                        "url": "https://www4.mp4upload.com:183/d/rcxxxdpkz3b4quuo7gqbsmcecxhbgvqdixisukheondyj5sqno7uv76gwyxz6uuomvdmn7b3/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxxxdpkz3b4quuo7gqbsmcecxhbgvqdixisukheondz3hojv4q6sra4csru2tp62ffbxkar/video.mp4",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxxxdpkz3b4quuo7gqbsmcecxhbgvqdixisukheondyj5sqno7uv76gwyxz6uuomvdmn7b3/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
                             "referer": "https://mp4upload.com/"

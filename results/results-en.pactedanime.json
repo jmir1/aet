@@ -241,14 +241,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f21556fb5acd2a41a_d20230806_m070355_c004_v0402016_t0047_u01691305435238",
-                        "quality": "1080P",
-                        "videoUrl": "https://player.pactedanime.org/b2api/v1/b2_download_file_by_id?fileId=4_z0e2789540d9277c08d4f031c_f21556fb5acd2a41a_d20230806_m070355_c004_v0402016_t0047_u01691305435238"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
