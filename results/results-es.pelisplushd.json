@@ -591,8 +591,114 @@
         "name": "PelisPlusPh",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/devils-peak/",
+                                "title": "Devil's Peak",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/devils-peak.jpg"
+                            },
+                            {
+                                "url": "/pelicula/si-todas-las-puertas-se-cierran/",
+                                "title": "Si todas las puertas se cierran",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/si-todas-las-puertas-se-cierran.jpg"
+                            },
+                            {
+                                "url": "/pelicula/champagne/",
+                                "title": "Champagne!",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/champagne.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lincessa-los-silencios-del-bosque/",
+                                "title": "Lincessa. Los silencios del bosque",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lincessa-los-silencios-del-bosque.jpg"
+                            },
+                            {
+                                "url": "/pelicula/break-even/",
+                                "title": "Break Even",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/break-even.jpg"
+                            },
+                            {
+                                "url": "/pelicula/askim-bahardi/",
+                                "title": "Aşkım Bahardı",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/askim-bahardi.jpg"
+                            },
+                            {
+                                "url": "/pelicula/axcellerator/",
+                                "title": "Axcellerator",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/axcellerator.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mision-de-rescate-2/",
+                                "title": "Misión de rescate 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mision-de-rescate-2.jpg"
+                            },
+                            {
+                                "url": "/pelicula/maya-nilo-laura/",
+                                "title": "Maya Nilo (Laura)",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/maya-nilo-laura.jpg"
+                            },
+                            {
+                                "url": "/pelicula/gran-turismo-de-jugador-a-corredor/",
+                                "title": "Gran Turismo: De jugador a corredor",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/gran-turismo-de-jugador-a-corredor.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-mistress/",
+                                "title": "The Mistress",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-mistress.jpg"
+                            },
+                            {
+                                "url": "/pelicula/toc-toc-toc/",
+                                "title": "Toc toc toc",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/toc-toc-toc.jpg"
+                            },
+                            {
+                                "url": "/pelicula/apaches-2023/",
+                                "title": "Apaches",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/apaches-2023.jpg"
+                            },
+                            {
+                                "url": "/pelicula/trap-house/",
+                                "title": "Trap House",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/trap-house.jpg"
+                            },
+                            {
+                                "url": "/pelicula/american-girl-corinne-tan-la-pelicula/",
+                                "title": "American Girl: Corinne Tan la Película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-girl-corinne-tan-la-pelicula.jpg"
+                            },
+                            {
+                                "url": "/pelicula/il-muto-di-gallura/",
+                                "title": "Il muto di Gallura",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/il-muto-di-gallura.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-jewel-thief/",
+                                "title": "The Jewel Thief",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-jewel-thief.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mark-cavendish-never-enough/",
+                                "title": "Mark Cavendish: Never Enough",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mark-cavendish-never-enough.jpg"
+                            },
+                            {
+                                "url": "/pelicula/my-happy-ending/",
+                                "title": "My Happy Ending",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/my-happy-ending.jpg"
+                            },
+                            {
+                                "url": "/pelicula/megalodon-2-el-gran-abismo/",
+                                "title": "Megalodón 2: El gran abismo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/megalodon-2-el-gran-abismo.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -756,11 +862,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/all-the-world-is-sleeping/",
-                    "title": "All the World Is Sleeping",
+                    "url": "/pelicula/devils-peak/",
+                    "title": "Devil's Peak",
                     "artist": "",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "Crimen, Misterio, Suspenso, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -770,7 +876,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/all-the-world-is-sleeping/",
+                        "url": "/pelicula/devils-peak/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
