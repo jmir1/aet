@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/justified-cidade-primitiva",
+                                "title": "Justified: Cidade Primitiva",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22404.webp"
+                            },
+                            {
                                 "url": "/serie/online/planeta-estranho",
                                 "title": "Planeta Estranho",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Fundação",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19512.webp"
-                            },
-                            {
-                                "url": "/serie/online/as-flores-perdidas-de-alice-hart",
-                                "title": "As Flores Perdidas de Alice Hart",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22410.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,37 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=9dDus__gCB4o_vGaeZCm_w&e=1691712494&_t=1691695906",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=9dDus__gCB4o_vGaeZCm_w&e=1691712494&_t=1691695906",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=Ord_Fdx4RC2uFtfOpPiKLw&e=1691712495&_t=1691694243",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=Ord_Fdx4RC2uFtfOpPiKLw&e=1691712495&_t=1691694243",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
