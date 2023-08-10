@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/zombiverso",
+                                "title": "Zombiverso (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tdCu8ggq26CqxtMUJ2o8Z5Bcw0o.jpg"
+                            },
+                            {
                                 "url": "/serie/a-la-caza-de-veerappan",
                                 "title": "A la caza de Veerappan (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yIIAqF0wLJnxOIv5EGSN9t4ZzmZ.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/volver-a-caer",
                                 "title": "Volver a caer (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/esXkEJVabYCvl15jAvzYkBB4gyT.jpg"
-                            },
-                            {
-                                "url": "/serie/pancho-villa-el-centauro-del-norte",
-                                "title": "Pancho Villa: El centauro del norte (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/79GHPsQqcHMaOckLa18Wbk30F69.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/a-la-caza-de-veerappan",
-                    "title": "A la caza de Veerappan (2023)",
-                    "description": "Docuserie sobre el ascenso y la caída de Veerappan, un temido contrabandista cuyo sangriento reinado desencadenó una persecución en el sur de la India que duró 20 años..",
-                    "genre": "",
+                    "url": "/serie/zombiverso",
+                    "title": "Zombiverso (2023)",
+                    "description": "En Seúl, donde un virus zombi está fuera de control, ¿quién superará a los muertos vivientes ante desafiantes misiones y sobrevivirá?.",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yIIAqF0wLJnxOIv5EGSN9t4ZzmZ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tdCu8ggq26CqxtMUJ2o8Z5Bcw0o.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,37 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/a-la-caza-de-veerappan/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/zombiverso/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/a-la-caza-de-veerappan/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/zombiverso/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/th3nog9ndzqv",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-fhttlmsj2uektk7t.voe-network.net/engine/hls2/01/09304/th3nog9ndzqv_,n,.urlset/master.m3u8?t=HqjyzM_9Jn7RhlIzjIT7BpKU_A1_JMn4louRplumCZo&s=1691627826&e=14400&f=46523299&node=delivery-node-fhttlmsj2uektk7t.voe-network.net&i=13.91&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=YejKKyAq1jCvWKO&expires=1691697822&ip=F0AsF0WnDS9X&token=-M2bvLtvumDu",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=YejKKyAq1jCvWKO&expires=1691697822&ip=F0AsF0WnDS9X&token=-M2bvLtvumDu"
+                    },
+                    {
+                        "url": "https://voe.sx/e/th3nog9ndzqv",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-fhttlmsj2uektk7t.voe-network.net/engine/hls2/01/09304/th3nog9ndzqv_,n,.urlset/master.m3u8?t=HqjyzM_9Jn7RhlIzjIT7BpKU_A1_JMn4louRplumCZo&s=1691627826&e=14400&f=46523299&node=delivery-node-fhttlmsj2uektk7t.voe-network.net&i=13.91&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -595,6 +611,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/the-flash-2023/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-flash-2023.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-impacto-de-van-damme/",
+                                "title": "El impacto de Van Damme",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-impacto-de-van-damme.jpg"
+                            },
+                            {
+                                "url": "/pelicula/brad-pitt-todas-las-caras/",
+                                "title": "Brad Pitt: todas las caras",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/brad-pitt-todas-las-caras.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dampyr/",
+                                "title": "Dampyr",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dampyr.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ready-jet-go-space-camp-the-movie/",
+                                "title": "Ready Jet Go! Space Camp: The Movie",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ready-jet-go-space-camp-the-movie.jpg"
+                            },
+                            {
+                                "url": "/pelicula/nefutbol/",
+                                "title": "Нефутбол",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nefutbol.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-siete-pecados-capitales-el-rencor-de-edimburgo-parte-2/",
+                                "title": "Los Siete Pecados Capitales El rencor de Edimburgo (Parte 2)",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-siete-pecados-capitales-el-rencor-de-edimburgo-parte-2.jpg"
+                            },
+                            {
                                 "url": "/pelicula/devils-peak/",
                                 "title": "Devil's Peak",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/devils-peak.jpg"
@@ -658,41 +709,6 @@
                                 "url": "/pelicula/apaches-2023/",
                                 "title": "Apaches",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/apaches-2023.jpg"
-                            },
-                            {
-                                "url": "/pelicula/trap-house/",
-                                "title": "Trap House",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/trap-house.jpg"
-                            },
-                            {
-                                "url": "/pelicula/american-girl-corinne-tan-la-pelicula/",
-                                "title": "American Girl: Corinne Tan la Película",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-girl-corinne-tan-la-pelicula.jpg"
-                            },
-                            {
-                                "url": "/pelicula/il-muto-di-gallura/",
-                                "title": "Il muto di Gallura",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/il-muto-di-gallura.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-jewel-thief/",
-                                "title": "The Jewel Thief",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-jewel-thief.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mark-cavendish-never-enough/",
-                                "title": "Mark Cavendish: Never Enough",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mark-cavendish-never-enough.jpg"
-                            },
-                            {
-                                "url": "/pelicula/my-happy-ending/",
-                                "title": "My Happy Ending",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/my-happy-ending.jpg"
-                            },
-                            {
-                                "url": "/pelicula/megalodon-2-el-gran-abismo/",
-                                "title": "Megalodón 2: El gran abismo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/megalodon-2-el-gran-abismo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -862,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/devils-peak/",
-                    "title": "Devil's Peak",
+                    "url": "/pelicula/the-flash-2023/",
+                    "title": "The Flash",
                     "artist": "",
                     "description": "",
-                    "genre": "Crimen, Misterio, Suspenso, Drama",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -876,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/devils-peak/",
+                        "url": "/pelicula/the-flash-2023/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -884,7 +900,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
