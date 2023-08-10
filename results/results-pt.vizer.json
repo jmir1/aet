@@ -598,37 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=FfFW1iWVSQPv1P1rLHUfkA&e=1691669336&_t=1691656318",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=FfFW1iWVSQPv1P1rLHUfkA&e=1691669336&_t=1691656318",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=-_F0tKnW74l_qBMp70NnRQ&e=1691669337&_t=1691656981",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=-_F0tKnW74l_qBMp70NnRQ&e=1691669337&_t=1691656981",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
