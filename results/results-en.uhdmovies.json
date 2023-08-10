@@ -153,17 +153,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "{\"urls\":[{\"quality\":\"2160p\",\"url\":\"https://techmny.com/?id=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0UUxlMGwweUpOblc0QS9VczZ2K3lxZldFYXV0ODRyRkdoZGlWZ0RydTdSaTl5aVQ5MXlXYmpGWXU1RmhJRWMwRlJFS0RRY1Y5M3pxek0xeHhwWUJWMU5sMnVBeDVzVnpEb2hzMGVWRktVQnRyTnVPMXpKRHAzeTRJdGZLdVd3UGJTdUpXWWQyL0xVSVZQdmRySDkrZkZLOGZiNG5zTTY4VlNMVW9sQW5pNERWTXVEcTR3YktOTzYrWWxleUFId0w5clZLSkcra05sUnpIQlFORUt5dVRwdlF3ZXZaVlZGdnY5amdEK3R6QzJDRg==\"},{\"quality\":\"2160p\",\"url\":\"https://techmny.com/?id=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0UUxlMGwweUpOblc0QS9VczZ2K3lxZldFYXV0ODRyRkdoZGlWZ0RydTdSaTl5aVQ5MXlXYmpGWXU1RmhJRWMwRlJFS0RRY1Y5M3pxek0xeHhwWUJWMVA1dzA0T09BOTlUQjN2Uzl6cFVIdVUwRWJzQUw1NjlQYkxKTmRDbndJSktxU3NtUW9VQUZDdzNYVjVSV2E4Nk9HZXZlQ0VjU2ROcWwyRlRxR1VBS1RvdzJhZWZjSGJSZitlSTRJdnAwYnlLRjNBeXQvUVJuNndwZGlHdml6ZHJpeHFzVHdMTHdHZEh5dHpNVENjSGRxdA==\"},{\"quality\":\"1080p\",\"url\":\"https://techmny.com/?id=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0UUxlMGwweUpOblc0QS9VczZ2K3lxZldFYXV0ODRyRkdoZGlWZ0RydTdSaTl5aVQ5MXlXYmpGWXU1RmhJRWMwRlJFS0RRY1Y5M3pxek0xeHhwWUJWMVBDaVN0Q3IzaWRmRy94S2tmMnlkYzJxN2NEMHV3TGQ0dm5nYVl4S1UyRFZicnRVejBHVmRNbGgrbXZGaGJYRUcrMjRsZEVYU2U0ZnJXZkFUWkRLd1lGcHMrM2ZIZm1jRk1UQS8yQjhpcHppdnpyTVVlN3RSbC9zc2VmMXVNT0pTMUJ1SHIrbm4yR1FCSUc0N2JZV28zZA==\"},{\"quality\":\"1080p\",\"url\":\"https://techmny.com/?id=bnpxOTF5Uk9VOVFZM2lEMkxXUmp0UUxlMGwweUpOblc0QS9VczZ2K3lxZldFYXV0ODRyRkdoZGlWZ0RydTdSaTl5aVQ5MXlXYmpGWXU1RmhJRWMwRlJFS0RRY1Y5M3pxek0xeHhwWUJWMVAxS3pVZHd0T2R1TENSZnB3VXF6WGI4cENqRFVTM3Ftcm1TOXRGZW1GeEJpMC91N2N4WmtFSTQxZ1oyM05xS2JhTm1OMm9nNnNIUGxiMEVuYkg0dEFRZUUrVFpjUGNkb0FyU3BadkdvM0Z4SXdGQW1vUXB5NnRyVzhsemFXV1k3UmhuTFdscHpNVHFKK2F5R0prRUxDbQ==\"}]}",
-                        "name": "Ruby Gillman, Teenage Kraken (2023)",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Only Zip Pack Available",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }
