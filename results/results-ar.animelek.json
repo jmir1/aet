@@ -3,27 +3,27 @@
         "name": "AnimeLek",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: animelek.me: No address associated with hostname",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: animelek.me",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: animelek.me",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: animelek.me",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://animelek.me/\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://animelek.me/\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17849456537461430328/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17849456537461430328/package/lib/server/frames.js:521:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17849456537461430328/package/lib/server/dispatchers/frameDispatcher.js:75:121)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17849456537461430328/package/lib/server/dispatchers/dispatcher.js:312:46)\n}",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: animelek.me",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: animelek.me",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }
