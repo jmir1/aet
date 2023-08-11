@@ -11,16 +11,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/please-be-my-family-99151/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/3a70a342e727b0b00acd1e2c1373865a.jpg"
+                            },
+                            {
                                 "url": "/film/the-youth-memories-99145/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/bccc43401a9dc587aa7d6df70fe5a944.jpg"
                             },
                             {
                                 "url": "/film/mr-insomnia-waiting-for-love-99148/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/3e81bce5662da12d8bd90411cc06d62e.jpg"
-                            },
-                            {
-                                "url": "/film/please-be-my-family-99151/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/3a70a342e727b0b00acd1e2c1373865a.jpg"
                             },
                             {
                                 "url": "/film/love-you-seven-times-99142/",
@@ -347,8 +347,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/film/please-be-my-family-99151/",
+                    "title": "Please Be My Family",
+                    "author": "",
+                    "description": "Qi Si Le needs to secure the Maolin planning project in order to cover the surgery expenses for her daughter, Xuan Xuan’s brain tumor. At the same time, she relentlessly pursues Maolin’s boss, Song Hao Yu. Meanwhile, when Song Hao Yu is helping his son Chen Cheng choose a birthday gift, he notices that Qi Si Le is wearing a brooch identical to the one Chen Cheng has. Following the clue of the brooch, Song Hao Yu gradually confirms the relationship between Xuan Xuan and Chen Cheng. In order to provide a complete family for the two children, Song Hao Yu proposes to Qi Si Le, and the two of them embark on marriage with an uncertain future.\n\nQuality: HD\nRelease: 2023-05-25\nIMDb: n/a",
+                    "genre": "Drama, Family",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
