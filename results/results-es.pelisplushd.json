@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/un-planeta-extrano",
+                                "title": "Un planeta extraño (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/eb9KtnA0ED1gGI8Rmiw4fLGEeOl.jpg"
+                            },
+                            {
                                 "url": "/serie/zombiverso",
                                 "title": "Zombiverso (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/tdCu8ggq26CqxtMUJ2o8Z5Bcw0o.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/monster-high",
                                 "title": "Monster High (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/pEmo6aaLTTdDwXY41liecyDeYtc.jpg"
-                            },
-                            {
-                                "url": "/serie/volver-a-caer",
-                                "title": "Volver a caer (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/esXkEJVabYCvl15jAvzYkBB4gyT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/zombiverso",
-                    "title": "Zombiverso (2023)",
-                    "description": "En Seúl, donde un virus zombi está fuera de control, ¿quién superará a los muertos vivientes ante desafiantes misiones y sobrevivirá?.",
-                    "genre": "Reality",
+                    "url": "/serie/un-planeta-extrano",
+                    "title": "Un planeta extraño (2023)",
+                    "description": "Bienvenidos a un planeta lejano no tan diferente al nuestro, con hilarantes aunque conmovedoras observaciones sobre la vida, el amor y la amistad, contadas de forma muy peculiar. De los creadores Nathan W. Pyle y Dan Harmon..",
+                    "genre": "Animación, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tdCu8ggq26CqxtMUJ2o8Z5Bcw0o.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eb9KtnA0ED1gGI8Rmiw4fLGEeOl.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,37 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/zombiverso/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/un-planeta-extrano/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/serie/zombiverso/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/un-planeta-extrano/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/th3nog9ndzqv",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fhttlmsj2uektk7t.voe-network.net/engine/hls2/01/09304/th3nog9ndzqv_,n,.urlset/master.m3u8?t=GMECa8zCyVm28zPfp4fzuwER_hZVlIimZFIUqT_F6ZI&s=1691690902&e=14400&f=46523299&node=delivery-node-fhttlmsj2uektk7t.voe-network.net&i=20.42&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=YejKKyAq1jCvWKO&expires=1691760899&ip=FROsExSnDS9X&token=NcnWXG6j0z0k",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=YejKKyAq1jCvWKO&expires=1691760899&ip=FROsExSnDS9X&token=NcnWXG6j0z0k"
-                    },
-                    {
-                        "url": "https://voe.sx/e/th3nog9ndzqv",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-fhttlmsj2uektk7t.voe-network.net/engine/hls2/01/09304/th3nog9ndzqv_,n,.urlset/master.m3u8?t=GMECa8zCyVm28zPfp4fzuwER_hZVlIimZFIUqT_F6ZI&s=1691690902&e=14400&f=46523299&node=delivery-node-fhttlmsj2uektk7t.voe-network.net&i=20.42&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -882,7 +866,7 @@
                     "title": "The Flash",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Aventura",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
