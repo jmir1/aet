@@ -291,8 +291,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/o01gi2ck5pit",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-pqwpke9saonsdbal.voe-network.net/engine/hls2/01/09309/o01gi2ck5pit_,n,.urlset/master.m3u8?t=wFoyKmrMGSrUNxlBaDSgu53-GCNmZhSuy2e4vgyRp7s&s=1691734145&e=14400&f=46549575&node=delivery-node-pqwpke9saonsdbal.voe-network.net&i=20.42&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=zPzqmpORbyHYjkL&expires=1691804141&ip=FROsExSnDS9X&token=a8MfHJQnQmuk",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=zPzqmpORbyHYjkL&expires=1691804141&ip=FROsExSnDS9X&token=a8MfHJQnQmuk"
+                    },
+                    {
+                        "url": "https://voe.sx/e/o01gi2ck5pit",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-pqwpke9saonsdbal.voe-network.net/engine/hls2/01/09309/o01gi2ck5pit_,n,.urlset/master.m3u8?t=wFoyKmrMGSrUNxlBaDSgu53-GCNmZhSuy2e4vgyRp7s&s=1691734145&e=14400&f=46549575&node=delivery-node-pqwpke9saonsdbal.voe-network.net&i=20.42&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -303,6 +319,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/atrapaalmas",
+                                "title": "Atrapaalmas (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg"
+                            },
+                            {
+                                "url": "/pelicula/miraculous-las-aventuras-de-ladybug-la-pelicula",
+                                "title": "Miraculous: Las aventuras de Ladybug: La película (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bVlB5J2KYkbwBnWJSJEAbvPFaqm.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hidden-strike",
+                                "title": "Hidden Strike (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg"
+                            },
                             {
                                 "url": "/pelicula/el-despertar-de-la-juventud",
                                 "title": "El Despertar De La Juventud (2020)",
@@ -407,21 +438,6 @@
                                 "url": "/pelicula/venus",
                                 "title": "Venus (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tacticas-en-el-amor",
-                                "title": "Tácticas de amor (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vKlw8J7qJxOFyQYkLIPCAb1iYUp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tiburon-negro",
-                                "title": "Tiburón negro (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ohxEF8mZb7eVeUZonUk60BAVN5u.jpg"
-                            },
-                            {
-                                "url": "/pelicula/por-amor-al-money",
-                                "title": "Por Amor al Money (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fAbl6pAEL2MHshlemxJkgciEQZc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -561,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-despertar-de-la-juventud",
-                    "title": "El Despertar De La Juventud (2020)",
-                    "description": "En la Nueva York de la década de 1980, rápidamente cambiante, un adolescente judío ruso lucha con su identidad, fe y sexualidad. Todo ello parece irreconciliable hasta que se hace amigo de dos hombres dentro del armario, que viven en el complejo de viviendas para personas mayores de su abuelo.",
-                    "genre": "Drama, Drama",
+                    "url": "/pelicula/atrapaalmas",
+                    "title": "Atrapaalmas (2023)",
+                    "description": "Un contratista militar encargado de hacerse con un arma que convierte a las personas en brutales asesinos busca venganza cuando su hermano cae víctima del dispositivo.",
+                    "genre": "Aventura, Acción, Suspense",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -574,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-despertar-de-la-juventud",
+                        "url": "/pelicula/atrapaalmas",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
