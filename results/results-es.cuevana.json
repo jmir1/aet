@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/19960/blood-2023",
+                                "title": "Blood 2023",
+                                "thumbnail_url": "https://pelisimg.online/cover/blood-2023-1691854693.png"
+                            },
+                            {
+                                "url": "/19959/jagun-jagun-the-warrior",
+                                "title": "Jagun Jagun: The Warrior",
+                                "thumbnail_url": "https://pelisimg.online/cover/jagun-jagun-the-warrior-1691854250.png"
+                            },
+                            {
                                 "url": "/19958/zoey-102-el-casamiento",
                                 "title": "Zoey 102: El Casamiento",
                                 "thumbnail_url": "https://pelisimg.online/cover/zoey-102-el-casamiento-1691824009.png"
@@ -215,16 +225,6 @@
                                 "url": "/19904/break-even",
                                 "title": "Break Even",
                                 "thumbnail_url": "https://pelisimg.online/cover/break-even-1691460853.png"
-                            },
-                            {
-                                "url": "/19903/askim-bahardi",
-                                "title": "Aşkım Bahardı",
-                                "thumbnail_url": "https://pelisimg.online/cover/askim-bahardi-1691460769.png"
-                            },
-                            {
-                                "url": "/19902/axcellerator",
-                                "title": "Axcellerator",
-                                "thumbnail_url": "https://pelisimg.online/cover/axcellerator-1691460676.png"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/19958/zoey-102-el-casamiento",
-                    "title": "Zoey 102: El Casamiento",
-                    "description": "A sus veinte años, Zoey Brooks sigue tratando de entender la vida y el amor.",
-                    "genre": "Comedia, , Romance",
-                    "thumbnail_url": "https://pelisimg.online/cover/zoey-102-el-casamiento-1691824009.png",
+                    "url": "/19960/blood-2023",
+                    "title": "Blood 2023",
+                    "description": "Jess, una enfermera separada se muda con su hija y su pequeño hijo Owen de regreso a su antigua granja. Poco después de instalarse, Owen es mordido por el perro, lo que provoca una misteriosa infección por la mordedura.",
+                    "genre": "Misterio, , Suspenso, , Terror",
+                    "thumbnail_url": "https://pelisimg.online/cover/blood-2023-1691854693.png",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/19958/zoey-102-el-casamiento",
+                        "url": "/19960/blood-2023",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Jkz8YGkDv6cjWBO&expires=1691933628&ip=GxOsFxOnDS9X&token=GF_L5BpZcqvx",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Jkz8YGkDv6cjWBO&expires=1691933628&ip=GxOsFxOnDS9X&token=GF_L5BpZcqvx"
+                    },
+                    {
+                        "url": "https://voe.sx/e/wuhttlhb6sum",
+                        "quality": "[CAST] Voe",
+                        "videoUrl": "https://delivery-node-wbkfh31bomnlippf.voe-network.net/engine/hls2/01/09316/wuhttlhb6sum_,n,.urlset/master.m3u8?t=A53YdEIESGJWhLfrgkba7rQ3IJq4Vjrc2Bg2vISb-Ik&s=1691863630&e=14400&f=46584972&node=delivery-node-wbkfh31bomnlippf.voe-network.net&i=40.83&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=o2WK8Oaw0gsJ2Bj&expires=1691933626&ip=GxOsFxOnDS9X&token=wHvNAcWIlqSW",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=o2WK8Oaw0gsJ2Bj&expires=1691933626&ip=GxOsFxOnDS9X&token=wHvNAcWIlqSW"
+                    }
+                ],
+                "passed": true
             }
         }
     }

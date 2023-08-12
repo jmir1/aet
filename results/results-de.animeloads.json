@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/kubo-san-wa-mob-o-yurusanai",
+                                "title": "Kubo-san wa Mob o Yurusanai",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kubo-san-wa-mob-o-yurusanai-cover.jpg"
+                            },
+                            {
                                 "url": "/media/micchiri-neko",
                                 "title": "Mitchiri Neko",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-micchiri-neko-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/level-1-da-kedo-unique-skill-de-saikyou-desu",
                                 "title": "My Unique Skill Makes Me OP even at Level 1",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-level-1-da-kedo-unique-skill-de-saikyou-desu-cover.png"
-                            },
-                            {
-                                "url": "/media/cardfight-vanguard-willdress-season-3",
-                                "title": "Cardfight!! Vanguard Will+Dress Season 3",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-cardfight-vanguard-will-dress-season-3-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/micchiri-neko",
-                    "title": "Mitchiri Neko",
+                    "url": "/media/kubo-san-wa-mob-o-yurusanai",
+                    "title": "Kubo-san wa Mob o Yurusanai",
                     "author": "",
-                    "description": "Anmerkung: Die Serie besteht aus 39 Geschichten die jeweils ca. eine Minute lang sind. Crunchyroll hat jeweils drei Folgen zu einer zusammengefügt. Quelle: aniSearch",
-                    "genre": "Nonsense-Komödie",
+                    "description": "Der Oberschüler Junta Shiraishi möchte seine Jugend in vollen Zügen genießen. Dabei gibt es nur ein Problem: Durch seine mangelnde Präsenz scheitern seine Mitschüler und andere Menschen um ihn herum, ihn wahrzunehmen. Das Ganze ist so schlimm, dass seine Mitschüler glauben, sein Sitz sei stets leer ist und er würde den Unterricht schwänzen. Jedoch gibt es eine Person, die ihn immer wahrnimmt: seine Sitznachbarin Nagisa Kubo. Nagisa liebt es, Junta zu necken und ihn in ungewohnte und recht unbequeme Situation zu versetzen. Plötzlich ist Juntas Jugend nicht mehr ganz so langweilig, und zwischen ihnen entsteht langsam eine Freundschaft ... oder vielleicht sogar mehr? Quelle: aniSearch",
+                    "genre": "Romantische Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-micchiri-neko-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kubo-san-wa-mob-o-yurusanai-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,27 +239,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/micchiri-neko#streams_episodes_1_12",
-                        "name": "Ep.13 Zeit der Erholung / Gastfreundschaft / Zusammengedrängt / Reversible /…",
-                        "episode_number": 13.0
+                        "url": "/media/kubo-san-wa-mob-o-yurusanai#streams_episodes_1_11",
+                        "name": "Ep.12 Hauptrolle und Geschenk",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/media/micchiri-neko#streams_episodes_1_11",
-                        "name": "Ep.12 Übernahme-Katzen / Drängel-Welle / Das kenne ich / Verabredung / Mitchiri…",
-                        "episode_number": 12.0
+                        "url": "/media/kubo-san-wa-mob-o-yurusanai#streams_episodes_1_10",
+                        "name": "Ep.11 Kino und Gesichtsmuskeln",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://chromotypic.com/pqsbxxubmfac?Mitchiri.Neko.S01E13.Ger.Eng.Sub.AAC.720p.WebDL.x264-Pudding-sama.mkv",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-sami.voe-network.net/engine/hls2/01/09282/pqsbxxubmfac_,n,.urlset/master.m3u8?t=UI9CW97SdFQcgM991oEApsqlW4zm5S7HqpF_Xi2SCtQ&s=1691842202&e=14400&f=46410174&node=delivery-node-sami.voe-network.net&i=20.57&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
