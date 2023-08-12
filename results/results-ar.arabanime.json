@@ -3,27 +3,27 @@
         "name": "ArabAnime",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: www.arabanime.net: Temporary failure in name resolution",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: www.arabanime.net",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: www.arabanime.net",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: www.arabanime.net",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: www.arabanime.net",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: www.arabanime.net",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }
