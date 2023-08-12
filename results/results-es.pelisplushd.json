@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/lol-last-one-laughing-colombia",
+                                "title": "LOL: Last One Laughing Colombia (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bo4UKcVWwX2T5HA5UsFXTXcoUsy.jpg"
+                            },
+                            {
+                                "url": "/serie/las-damas-primero-mujeres-en-el-hiphop",
+                                "title": "Las damas primero: Mujeres en el hiphop (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3M4smSvCOqLKN1FKG4pXLG64OlR.jpg"
+                            },
+                            {
+                                "url": "/serie/cadetes-de-mechas",
+                                "title": "Cadetes de mechas (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg"
+                            },
+                            {
+                                "url": "/serie/medicina-letal",
+                                "title": "Medicina letal (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bZzEf47CKpfh3PTkFVEOsb4lgtJ.jpg"
+                            },
+                            {
                                 "url": "/serie/un-planeta-extrano",
                                 "title": "Un planeta extraño (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/eb9KtnA0ED1gGI8Rmiw4fLGEeOl.jpg"
@@ -105,26 +125,6 @@
                                 "url": "/serie/slip",
                                 "title": "Slip (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/cFmYdvzY4fXRlH0crFLElvW2fu.jpg"
-                            },
-                            {
-                                "url": "/serie/negociador",
-                                "title": "Negociador (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dwzMMyg4Ry9g2JIusULjAggWk7o.jpg"
-                            },
-                            {
-                                "url": "/serie/libre-de-reir",
-                                "title": "Libre de reír (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/A4dlv2PzrMNeM4bgzamcvK3bWlf.jpg"
-                            },
-                            {
-                                "url": "/serie/las-super-4",
-                                "title": "Las Super-4 (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/70yC4YXA0ZJ3EpwV0T08AbP3LR0.jpg"
-                            },
-                            {
-                                "url": "/serie/monster-high",
-                                "title": "Monster High (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pEmo6aaLTTdDwXY41liecyDeYtc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/un-planeta-extrano",
-                    "title": "Un planeta extraño (2023)",
-                    "description": "Bienvenidos a un planeta lejano no tan diferente al nuestro, con hilarantes aunque conmovedoras observaciones sobre la vida, el amor y la amistad, contadas de forma muy peculiar. De los creadores Nathan W. Pyle y Dan Harmon..",
-                    "genre": "Animación, Comedia",
+                    "url": "/serie/lol-last-one-laughing-colombia",
+                    "title": "LOL: Last One Laughing Colombia (2023)",
+                    "description": "Por primera vez en Colombia, LOL abre sus puertas a 10 de los mejores humoristas para pelear por el trofeo LOL, atreviéndose a hacer comedia sin censura ni límites. En este loco y extremo experimento, los comediantes mostrarán su amplio repertorio de chistes. ¿Cuál será su reto? Provocar risas en cada uno de sus contrincantes sin que su propia sonrisa los traicione..",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eb9KtnA0ED1gGI8Rmiw4fLGEeOl.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bo4UKcVWwX2T5HA5UsFXTXcoUsy.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/un-planeta-extrano/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/serie/un-planeta-extrano/temporada/1/capitulo/2",
+                        "url": "/serie/lol-last-one-laughing-colombia/temporada/1/capitulo/2",
                         "name": "T1 - E2: Episodio 2",
                         "episode_number": 2.0
+                    },
+                    {
+                        "url": "/serie/lol-last-one-laughing-colombia/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/o01gi2ck5pit",
+                        "url": "https://voe.sx/e/sl6hsf6subut",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-pqwpke9saonsdbal.voe-network.net/engine/hls2/01/09309/o01gi2ck5pit_,n,.urlset/master.m3u8?t=mUudIzL250gGB5Eno7_6YYViVcepZl3_qj8V_uZYl1M&s=1691800011&e=14400&f=46549575&node=delivery-node-pqwpke9saonsdbal.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-q57xpxulb1fqm6i0.voe-network.net/engine/hls2/01/09316/sl6hsf6subut_,o,.urlset/master.m3u8?t=-WXKkK0IioFi3V1a0VEoDsdm0I18rK6GnPsvytf77hk&s=1691820469&e=14400&f=46582938&node=delivery-node-q57xpxulb1fqm6i0.voe-network.net&i=13.66&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=zPzqmpORbyHYjkL&expires=1691870009&ip=FROsE0EnDS9X&token=gdjVBJFYaUrL",
+                        "url": "https://streamtape.com/get_video?id=L3a7xMaxAwU7xy&expires=1691890467&ip=F0AsERInDS9X&token=izGqwRc9KwuV",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=zPzqmpORbyHYjkL&expires=1691870009&ip=FROsE0EnDS9X&token=gdjVBJFYaUrL"
+                        "videoUrl": "https://streamtape.com/get_video?id=L3a7xMaxAwU7xy&expires=1691890467&ip=F0AsERInDS9X&token=izGqwRc9KwuV"
                     },
                     {
-                        "url": "https://voe.sx/e/o01gi2ck5pit",
+                        "url": "https://voe.sx/e/sl6hsf6subut",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-pqwpke9saonsdbal.voe-network.net/engine/hls2/01/09309/o01gi2ck5pit_,n,.urlset/master.m3u8?t=mUudIzL250gGB5Eno7_6YYViVcepZl3_qj8V_uZYl1M&s=1691800011&e=14400&f=46549575&node=delivery-node-pqwpke9saonsdbal.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-q57xpxulb1fqm6i0.voe-network.net/engine/hls2/01/09316/sl6hsf6subut_,o,.urlset/master.m3u8?t=-WXKkK0IioFi3V1a0VEoDsdm0I18rK6GnPsvytf77hk&s=1691820469&e=14400&f=46582938&node=delivery-node-q57xpxulb1fqm6i0.voe-network.net&i=13.66&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -877,8 +877,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/kim-novak-el-alma-rebelde-de-hollywood/",
+                    "title": "Kim Novak, el alma rebelde de Hollywood",
+                    "artist": "",
+                    "description": "",
+                    "genre": "Documental",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
