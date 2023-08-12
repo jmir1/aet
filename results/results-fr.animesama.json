@@ -3,24 +3,157 @@
         "name": "Anime-Sama",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/catalogue/suzume//film/vostfr#0",
+                                "title": "Suzume",
+                                "description": "Suzume est une jeune fille de 17 ans qui habite une petite ville tranquille sur l'île de Kyushu, au Japon. Un jour, elle rencontre un vagabond qui lui dit qu'il est à la recherche d'une porte. Curieuse, elle le suit et découvre avec lui, au milieu de ruines, la porte tant convoitée. Celle-ci se tient, presque intacte, au milieu des décombres. Attirée par cette mystérieuse porte, Suzume tend la main et lorsque celle-ci s'ouvre, c'est une multitude de portails qui s'ouvrent avec elle à travers le Japon, causant par la même occasion des catastrophes...",
+                                "genre": "Action, Drame, Surnaturel, Adolescence, Catastrophe naturelle, Malédiction, Séisme, Voyage",
+                                "status": 2,
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzume.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/ai-no-idenshi//saison1/vostfr",
+                                "title": "AI no Idenshi Saison 1",
+                                "description": "L'histoire se déroule dans un futur proche où environ 10% des gens sont des \"humanoïdes\", des robots à l'apparence humaine. Bien que très bien intégrés à la société, les humanoïdes ont leurs propres problèmes et sont sujets à des maladies qui ne touchent qu'eux. Hikaru Sudô est un médecin spécialisé dans les maux des humanoïdes.",
+                                "genre": "Drame, Science-fiction, Slice-of-Life, Futur, Robots",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ai-no-idenshi.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/dekiru-neko-wa-kyou-mo-yuuutsu//saison1/vostfr",
+                                "title": "Dekiru Neko wa Kyou mo Yuuutsu Saison 1",
+                                "description": "Saku est une employée de bureau comme les autres... Enfin... Si on excepte le chat géant avec qui elle vit ! Prénommé Yukichi, le félin est en fait le pilier du foyer : ménage, cuisine, lessive... C'est lui qui s'occupe de tout ! Malgré son air sévère et ses manières parfois brusques, il est malgré tout au petit soin avec sa maîtresse, et heureusement pour elle, vu qu'elle n'est bonne à rien !",
+                                "genre": "Comédie, Slice-of-Life, Animaux, Quotidien",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dekiru-neko-wa-kyou-mo-yuuutsu.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/seija-musou//saison1/vostfr",
+                                "title": "Seija Musou Saison 1",
+                                "description": "Un jour, le Dieu du Destin de la Terre et le Dieu Chef de Galdardia firent un pari. Le Dieu du Destin perdit et dû choisir dix âmes communes à remettre au vainqueur. À ces dix âmes, le Dieu Chef de Galdardia leur offrit une nouvelle capacité. Parmi elles se trouvait un salarié qui luttait contre son destin mortel. Quel sera son avenir ? Les dieux et l'auteur lui-même ne le savent pas.",
+                                "genre": "Aventure, Comédie, Fantasy, Autre-monde, Isekai",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/seija-musou.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/helck//saison1/vostfr",
+                                "title": "Helck Saison 1",
+                                "description": "Helck, humain et héros au charisme et à la force ridiculement surpuissante, se porte candidat pour devenir le nouveau Roi Démon en participant à un tournoi rassemblant les meilleurs guerriers. Mais Vamirio ne l'entend pas de cette oreille : refusant qu'un humain atteigne ce rang, elle met tout en œuvre pour faire éliminer Helck de la compétition !",
+                                "genre": "Action, Aventure, Comédie, Fantasy, Démons, Magie",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/helck.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/demon-lord-and-one-room-hero//saison1/vostfr",
+                                "title": "Demon Lord & One Room Hero Saison 1",
+                                "description": "Une décennie après avoir été terrassé, le seigneur des démons s'est finalement réincarné... Et le héros qui l'a vaincu a bien changé. À peine quelques mètres carrés pour vivre et une salle de bain préfabriquée... Voilà tout ce qu'il reste à celui qui était considéré comme un héros, dix ans plus tôt. Face à lui, un seigneur démon qui a perdu quasiment tous ses pouvoirs. Leur rencontre donnera-t-elle lieu à un violent combat à mort ? Ou bien...",
+                                "genre": "Comédie, Démons, Super-héros",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/demon-lord-and-one-room-hero.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/dark-gathering//saison1/vostfr",
+                                "title": "Dark Gathering Saison 1",
+                                "description": "Keitarô Gentôga est un étudiant de première année qui déteste les fantômes mais, malgré lui, il possède une capacité permettant de les attirer. Deux ans avant le début de l'histoire, Keitarô et un de ses amis furent blessés à cause d'une connexion avec l'un de ces derniers. Devenu sans-abri suite à l'incident, Keitarô peut toutefois compter sur le soutien de son amie d'enfance Eiko, qui l'aide à se réinsérer. Dans le cadre de sa réhabilitation, Keitarô est embauché comme tuteur privé, et son premier élève n'est autre que Yayoi Hôzuki, la cousine d'Eiko. Cependant, Yayoi peut aussi voir les fantômes mais, contrairement à Keitarô, elle cherche à les rencontrer pour retrouver celui qui a emporté sa mère.",
+                                "genre": "Comédie, Drame, Horreur, Épouvante, Surnaturel, Fantômes, Vengeance",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dark-gathering.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/atelier-ryza//saison1/vostfr",
+                                "title": "Atelier Ryza Saison 1",
+                                "description": "Reisalin Stout, communément appelée Ryza par ses amis intimes, est une adolescente particulièrement joviale et pétillante qui vit sur l'île de Kurken avec ses amis, Tao et Lent. Avec ces derniers, Ryza a déjà fait les quatre cent coups mais, aujourd'hui, le trio infernal ne veut plus se contenter d'arpenter les sentiers de l'île Kurken. En effet, Ryza, Tao et Lent ont pour ambition de parcourir le monde et devenir des explorateurs aguerris. Leur première escapade hors de leur île natale vire toutefois au désastre et la joyeuse troupe ne doit son salut qu'à deux voyageurs itinérants, Empel Vollmer et Lila Decyrus. Très rapidement, Ryza et ses amis sympathisent avec ces deux étrangers qui décident subitement de les prendre sous leurs ailes afin qu'ils puissent réaliser leur rêve. Débute ainsi le périple estival de Ryza, Tao et Lent qui mettront tout en œuvre pour respectivement égaler les compétences alchimiques d'Empel, ainsi que les talents de combattant de Lila. Un nouveau chapitre est sur le point de débuter pour nos héros, dont la soif d'aventure et d'apprentissage n'a d'égal leur bravoure et leur motivation !",
+                                "genre": "Action, Aventure, Comédie, Drame, Fantasy, Mystère, Alchimie",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/atelier-ryza.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/the-dreaming-man-is-a-realist//saison1/vostfr",
+                                "title": "The Dreaming Man is a Realist Saison 1",
+                                "description": "Wataru Sajô est profondément amoureux de sa camarade de classe, Aika Natsukawa, et a tendance à lui montrer trop d'affection. Un jour, il prend conscience qu'il n'est sûrement pas assez bien pour cette dernière. En réalisant cela, Wataru commence à prendre ses distances avec Aika. Surprise par ce changement radical, Aika se demande si son camarade de classe la déteste.",
+                                "genre": "Comédie, Romance, School-Life, Amour, Ecole, Harem",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-dreaming-man-is-a-realist.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/the-most-heretical-last-boss-queen//saison1/vostfr",
+                                "title": "The Most Heretical Last Boss Queen Saison 1",
+                                "description": "À l'âge de 8 ans, j'ai réalisé que je m'étais réincarnée en tant que l'impitoyable Queen Pride, la boss finale d'un otome game. Elle est la plus forte car elle se bat toujours contre ses agresseurs, elle est la plus intelligente grâce à son cerveau supérieur et est l'une des plus puissantes du royaume de par sa position de princesse héritière. Mais l'avenir qui l'attend est loin d'être aussi positif : ayant rendu tout le monde autour d'elle malheureux, seule une fin funeste l'attend. Et ça, c'est hors de question pour moi ! Ainsi, je vais désormais utiliser mon autorité et mes connaissances de ma vie précédente afin de sauver tout le monde, moi y compris.",
+                                "genre": "Drame, Fantasy, Romance, Jeux, Royauté, Réincarnation",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-most-heretical-last-boss-queen.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/genjitsu-no-yohane//saison1/vostfr",
+                                "title": "Genjitsu no Yohane Saison 1",
+                                "description": "L'histoire est centrée sur Yoshiko Tsushima, membre des Aqours atteinte de chuunibyou, qui est désormais dotée de pouvoirs magiques. Habitante de Numazu, ville portuaire entourée par la mer et les montagnes, elle ne s'y sent néanmoins pas à sa place, se sentant exclue. Sa place se situe autre part... Nous suivons cette jeune fille, découvrant ce monde mystérieux.",
+                                "genre": "Comédie, Fantasy, Slice-of-Life, Magie, Quotidien",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/genjitsu-no-yohane.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/ohoku//saison1/vostfr",
+                                "title": "Ohoku Saison 1",
+                                "description": "Une maladie toucha les hommes durant la période Edo, ce qui fit diminuer considérablement la population masculine. Les femmes obtinrent ainsi une position dominante dans la société. Le Shôgun, désormais une femme, garde jalousement les huit cent plus beaux hommes rassemblés dans un pavillon. Mizumo Yûnoshin est un homme qui rejoint ce pavillon en 1716 pour échapper à un mariage arrangé. Il va découvrir la hiérarchie entre les hommes qu'il y a en ce lieu.",
+                                "genre": "Drame, Historique, Romance, Amour, Histoire, Maladie, Politique, Univers alternatif",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ohoku.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/reborn-as-a-vending-machine-i-now-wander-the-dungeon//saison1/vostfr",
+                                "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Saison 1",
+                                "description": "Obnubilé par les distributeurs automatiques de son vivant, un jeune homme trouve la mort dans des circonstances tragiques. Pourtant, il se réveille au bord d'une rivière comme si rien ne s'était passé... à un détail près : il est désormais lui-même un distributeur automatique!",
+                                "genre": "Comédie, Fantasy, Isekai, Autre-monde, Réincarnation",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/reborn-as-a-vending-machine-i-now-wander-the-dungeon.jpg",
+                                "initialized": true
+                            },
+                            {
+                                "url": "/catalogue/sweet-reincarnation//saison1/vostfr",
+                                "title": "Sweet Reincarnation Saison 1",
+                                "description": "Un garçon est né d'un noble dans un domaine pauvre. Le garçon, qui doit devenir le prochain seigneur, s'appelle Pastry. Homme au talent exceptionnel, il était dans sa vie antérieure un confiseur à l'avenir prometteur. Le garçon doit faire face à de nombreuses difficultés et épreuves, notamment des bandits sans pitié, des bêtes sauvages qui se retournent soudainement contre lui, des nobles rusés et au cœur noir, et un domaine désert avec peu d'eau. Pastry utilise son intelligence et son amour des sucreries pour survivre dans un monde d'épées et de sorcellerie. Le défi du jeune pâtissier commence maintenant, car il veut faire sourire les gens avec ses confiseries, et créer un territoire débordant de bonheur !",
+                                "genre": "Aventure, Fantasy, Isekai, Autre-monde, Gastronomie, Réincarnation",
+                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sweet-reincarnation.jpg",
+                                "initialized": true
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
+                    "url": "/catalogue/suzume//film/vostfr#0",
+                    "title": "Suzume",
+                    "description": "Suzume est une jeune fille de 17 ans qui habite une petite ville tranquille sur l'île de Kyushu, au Japon. Un jour, elle rencontre un vagabond qui lui dit qu'il est à la recherche d'une porte. Curieuse, elle le suit et découvre avec lui, au milieu de ruines, la porte tant convoitée. Celle-ci se tient, presque intacte, au milieu des décombres. Attirée par cette mystérieuse porte, Suzume tend la main et lorsque celle-ci s'ouvre, c'est une multitude de portails qui s'ouvrent avec elle à travers le Japon, causant par la même occasion des catastrophes...",
+                    "genre": "Action, Drame, Surnaturel, Adolescence, Catastrophe naturelle, Malédiction, Séisme, Voyage",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzume.jpg",
+                    "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
                 "passed": false
             },
             "videos": {
