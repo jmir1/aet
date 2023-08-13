@@ -202,8 +202,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to extract videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/64862bb04f0b421e218d34039840cb8e/4426523.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/64862bb04f0b421e218d34039840cb8e/4426523.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4426523"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
