@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2020/02/135253l.jpg"
+                            },
+                            {
                                 "url": "/anime/edens-zero-2nd-season/",
                                 "title": "Edens Zero 2nd Season",
                                 "thumbnail_url": "https://animeindo.quest/wp-content/uploads/133670l.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/anime/yumemiru-danshi-wa-genjitsushugisha/",
                                 "title": "Yumemiru Danshi wa Genjitsushugisha",
                                 "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2023/07/134810l.jpg"
-                            },
-                            {
-                                "url": "/anime/okashi-na-tensei/",
-                                "title": "Okashi na Tensei",
-                                "thumbnail_url": "https://animeindo.quest/wp-content/uploads/2023/07/136232l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -498,21 +498,46 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/nonton/one-piece-episode-1072/",
+                        "name": "Episode 1072",
+                        "episode_number": 1072.0
+                    },
+                    {
                         "url": "/nonton/one-piece-episode-1071/",
                         "name": "Episode 1071",
                         "episode_number": 1071.0
-                    },
-                    {
-                        "url": "/nonton/one-piece-episode-1070/",
-                        "name": "Episode 1070",
-                        "episode_number": 1070.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcx7vjpkz3b4quuo7oqa6jkvcrf25lxn7enwe63l4cyw2aw623hduwlaozrb3z4r7dhqo4tk/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx7vjpkz3b4quuo7oqa6jkvcrf25lxn7enwe63l4cyw2aw623hduwlaozrb3z4r7dhqo4tk/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=g5Ovt3ifstcuoyzzYKId4gD0aGxeKj%2BYX6D3EhFpAcRqsuWfBZCxBExTggCuixWZ821gQvfr3HV%2FNOr8dliig5VVK0EFOO%2FFZsXnNXE6ILx8D4xRqDCZdMcFwJWcE%2FjMNZfdzxiV9Jwbdn3tuLnujt%2F3m1%2BA8e72GwF0JuqR6YHw%3D%3D&ref=&sandbox=&t=&res=720",
+                        "quality": "GDRIVE 720p - Gdrive",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=g5Ovt3ifstcuoyzzYKId4gD0aGxeKj%2BYX6D3EhFpAcRqsuWfBZCxBExTggCuixWZ821gQvfr3HV%2FNOr8dliig5VVK0EFOO%2FFZsXnNXE6ILx8D4xRqDCZdMcFwJWcE%2FjMNZfdzxiV9Jwbdn3tuLnujt%2F3m1%2BA8e72GwF0JuqR6YHw%3D%3D&ref=&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=g5Ovt3ifstcuoyzzYKId4gD0aGxeKj%2BYX6D3EhFpAcRqsuWfBZCxBExTggCuixWZ821gQvfr3HV%2FNOr8dliig5VVK0EFOO%2FFZsXnNXE6ILx8D4xRqDCZdMcFwJWcE%2FjMNZfdzxiV9Jwbdn3tuLnujt%2F3m1%2BA8e72GwF0JuqR6YHw%3D%3D&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - Gdrive",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=g5Ovt3ifstcuoyzzYKId4gD0aGxeKj%2BYX6D3EhFpAcRqsuWfBZCxBExTggCuixWZ821gQvfr3HV%2FNOr8dliig5VVK0EFOO%2FFZsXnNXE6ILx8D4xRqDCZdMcFwJWcE%2FjMNZfdzxiV9Jwbdn3tuLnujt%2F3m1%2BA8e72GwF0JuqR6YHw%3D%3D&ref=&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=VWxm3yakl0IKl7k&expires=1691976861&ip=GxOsFxqnDS9X&token=NUdPn9vUlFrc",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=VWxm3yakl0IKl7k&expires=1691976861&ip=GxOsFxqnDS9X&token=NUdPn9vUlFrc"
+                    }
+                ],
+                "passed": true
             }
         }
     }
