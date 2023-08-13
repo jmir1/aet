@@ -3,28 +3,302 @@
         "name": "AnimeLek",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/one-piece-slider-animelek.jpg"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/jujutsu-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/bleach-poster.png"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/mushoku_Tensei-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/bungou-stray-dogs-5th-season/",
+                                "title": "Bungou Stray Dogs 5th Season",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/bungo-stray-dogs-atsushi-5.png"
+                            },
+                            {
+                                "url": "/anime/kanojo-okarishimasu-3rd-season/",
+                                "title": "Kanojo, Okarishimasu 3rd Season",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/Kanojo-Okarishimasu-Season-3.png"
+                            },
+                            {
+                                "url": "/anime/undead-girl-murder-farce/",
+                                "title": "Undead Girl Murder Farce",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/Undead-Girl-Murder-Farce.jpg"
+                            },
+                            {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/Rurouni-Kenshin-2023.jpg"
+                            },
+                            {
+                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru/",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://animelek.me/uploads/sliders/nanatsu-no-maken-ga-shihai.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Bleach-Sennen-Kessen-hen-Ketsubetsu-tan-64a97ff404596.jpg"
+                            },
+                            {
+                                "url": "/anime/yumemiru-danshi-wa-genjitsushugisha/",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Yumemiru-Danshi-wa-Genjitsushugisha-64a4240d624d2.jpg"
+                            },
+                            {
+                                "url": "/anime/ayaka/",
+                                "title": "Ayaka",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Ayaka-64a06603aae52.jpg"
+                            },
+                            {
+                                "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega/",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Ryza-no-Atelier-Tokoyami-no-Joou-to-Himitsu-no-Kakurega-64a07b1760d9f.jpg"
+                            },
+                            {
+                                "url": "/anime/temple/",
+                                "title": "Temple",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Temple-64a99c15d5f2b.jpg"
+                            },
+                            {
+                                "url": "/anime/horimiya-piece/",
+                                "title": "Horimiya: Piece",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Horimiya-Piece-64a084ff6e0c3.jpg"
+                            },
+                            {
+                                "url": "/anime/liar-liar/",
+                                "title": "Liar Liar",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Liar-Liar-64a9837822219.jpg"
+                            },
+                            {
+                                "url": "/anime/level-1-dakedo-unique-skill-de-saikyou-desu/",
+                                "title": "Level 1 dakedo Unique Skill de Saikyou desu",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Level-1-dakedo-Unique-Skill-de-Saikyou-desu-64a96e5f6effe.jpg"
+                            },
+                            {
+                                "url": "/anime/mix-meisei-story-nidome-no-natsu-sora-no-mukou-e/",
+                                "title": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Mix-Meisei-Story-Nidome-no-Natsu-Sora-no-Mukou-e-64280c8fc22c4.jpg"
+                            },
+                            {
+                                "url": "/anime/yumemiru-danshi-wa-genjitsushugisha/",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Yumemiru-Danshi-wa-Genjitsushugisha-64a4240d624d2.jpg"
+                            },
+                            {
+                                "url": "/anime/ai-no-idenshi/",
+                                "title": "AI no Idenshi",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-AI-no-Idenshi-64a87049eded2.jpg"
+                            },
+                            {
+                                "url": "/anime/kanojo-okarishimasu-3rd-season/",
+                                "title": "Kanojo, Okarishimasu 3rd Season",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Kanojo-Okarishimasu-3rd-Season-64a8706773178.jpg"
+                            },
+                            {
+                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru/",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Nanatsu-no-Maken-ga-Shihai-suru-64a870847fc00.jpg"
+                            },
+                            {
+                                "url": "/anime/sugar-apple-fairy-tale-part-2/",
+                                "title": "Sugar Apple Fairy Tale Part 2",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Sugar-Apple-Fairy-Tale-Part-2-64a87116f3a95.jpg"
+                            },
+                            {
+                                "url": "/anime/shiguang-dailiren-ii/",
+                                "title": "Shiguang Dailiren II",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Shiguang-Dailiren-II-64b105cc63aeb.jpg"
+                            },
+                            {
+                                "url": "/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu/",
+                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-Last-Boss-Joou-wa-Tami-no-Tame-ni-Tsukushimasu--64a7d1a38ca6a.jpg"
+                            },
+                            {
+                                "url": "/anime/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi/",
+                                "title": "Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Seija-Musou-Salaryman-Isekai-de-Ikinokoru-Tame-ni-Ayumu-Michi-64a6feafb84ec.jpg"
+                            },
+                            {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/rurouni-kenshin-meiji-kenkaku-romantan-2023-thumbnail.jpg"
+                            },
+                            {
+                                "url": "/anime/helck/",
+                                "title": "Helck",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Helck-64aeef613a046.jpg"
+                            },
+                            {
+                                "url": "/anime/bang-dream-it-s-mygo/",
+                                "title": "BanG Dream! It's MyGO!!!!!",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-BanG-Dream-It-s-MyGO--64a03f15cca5d.jpg"
+                            },
+                            {
+                                "url": "/anime/tonikaku-kawaii-joshikou-hen/",
+                                "title": "Tonikaku Kawaii: Joshikou-hen",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Tonikaku-Kawaii-Joshikou-hen-64aecc39120e5.jpg"
+                            },
+                            {
+                                "url": "/anime/dark-gathering/",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Dark-Gathering-64adbd7f8a03a.jpg"
+                            },
+                            {
+                                "url": "/anime/bungou-stray-dogs-5th-season/",
+                                "title": "Bungou Stray Dogs 5th Season",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Bungou-Stray-Dogs-5th-Season-64aec1b3809fd.jpg"
+                            },
+                            {
+                                "url": "/anime/watashi-no-shiawase-na-kekkon/",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/thumbnail-Watashi-no-Shiawase-na-Kekkon-64a5894deb7f4.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-World-Dai-Star-6432ddcd71619.jpg"
+                            },
+                            {
+                                "url": "/anime/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Dr-Stone-New-World-642f00b20e187.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-quartet-movie-another-world/",
+                                "title": "Isekai Quartet Movie: Another World",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Isekai-Quartet-Movie-Another-World-6412d8acd9014.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece-film-strong-world/",
+                                "title": "One Piece Film: Strong World",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-One-Piece-Film-Strong-World-62ccc7a95abdb.jpg"
+                            },
+                            {
+                                "url": "/anime/shin-tennis-no-ouji-sama-u-17-world-cup/",
+                                "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Shin-Tennis-no-Ouji-sama-U-17-World-Cup-62c601419b4c7.jpg"
+                            },
+                            {
+                                "url": "/anime/world-trigger-3rd-season/",
+                                "title": "World Trigger 3rd Season",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-World-Trigger-3rd-Season-6161fed37f7ed.jpg"
+                            },
+                            {
+                                "url": "/anime/world-trigger-2nd-season/",
+                                "title": "World Trigger 2nd Season",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-World-Trigger-2nd-Season-5ffa1eb7a80af.jpg"
+                            },
+                            {
+                                "url": "/anime/sword-art-online-alicization-war-of-underworld/",
+                                "title": "Sword Art Online: Alicization - War of Underworld",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Sword-Art-Online-Alicization-War-of-Underworld-5f0e90c57d6b7.jpg"
+                            },
+                            {
+                                "url": "/anime/sword-art-online-alicization-war-of-underworld-2nd-season/",
+                                "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Sword-Art-Online-Alicization-War-of-Underworld-2nd-Season-5f0e09c20e23a.jpg"
+                            },
+                            {
+                                "url": "/anime/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-World-Trigger-5f0aad249cd3b.jpg"
+                            },
+                            {
+                                "url": "/anime/sd-gundam-world-sangoku-souketsuden/",
+                                "title": "SD Gundam World: Sangoku Souketsuden",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-SD-Gundam-World-Sangoku-Souketsuden-5f0a249bac82c.jpg"
+                            },
+                            {
+                                "url": "/anime/hello-world/",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Hello-World-5f099a6a0ab6e.jpg"
+                            },
+                            {
+                                "url": "/anime/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animelek.me/uploads/posters/poster-Another-World-5f07331c5fdf8.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/anime/one-piece/",
+                    "title": "One Piece",
+                    "description": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.\n\nالنوع TV\nبداية العرض 1999\nحالة الأنمي يعرض الان\nعدد الحلقات غير معروف\nالموسم خريف 1999\nمدة الحلقة 24 دقيقة\nالعرض التشويقي\nصفحة الأنمي على موقع MAL\n",
+                    "genre": "أكشن, خارق للعادة, دراما, فنتازيا, شونين, مغامرات, كوميدي",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animelek.me/uploads/posters/poster-One-Piece-5f09e7d4e41e3.jpg ",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/one-piece-1071-الحلقة/",
+                        "name": "الحلقة 1071",
+                        "episode_number": 1071.0
+                    },
+                    {
+                        "url": "/episode/one-piece-1070-الحلقة/",
+                        "name": "الحلقة 1070",
+                        "episode_number": 1070.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://n1no-09.vidboo.org/6jmnvozd3qazsalrixhqf6p2a7o3st4wzxy2xrahn744hrdox5inatx4otta/v.mp4",
+                        "quality": "Vidbom: 480p",
+                        "videoUrl": "https://n1no-09.vidboo.org/6jmnvozd3qazsalrixhqf6p2a7o3st4wzxy2xrahn744hrdox5inatx4otta/v.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
