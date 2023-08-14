@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/batman-hush-zilt/",
+                                "title": "Batman: Hush",
+                                "description": "Un nuevo villano de quien sólo se conoce el nombre, \"Hush\", emplea a todos los enemigos de Gotham p...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/WNyyHV86hqhmlfPruP87.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-vigil/",
                                 "title": "The Vigil",
                                 "description": "Un hombre que vigila durante la noche a un miembro fallecido de su antigua comunidad judía ortodoxa...",
@@ -239,12 +245,6 @@
                                 "title": "Devil's Peak",
                                 "description": "En las Montañas Apalaches de Carolina del Norte, Jacob McNeely, de dieciocho años, se debate entre...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/trfm2iaVIf59vYL5.webp"
-                            },
-                            {
-                                "url": "/pelicula/asfixiados/",
-                                "title": "Asfixiados",
-                                "description": "Nacho y Lucía cumplen 20 años de casados y deciden celebrarlo embarcándose en un fabuloso velero....",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uYKiwGAEwvbO3BjjZIFof93lXrYbcK4wzEFVa5qxqr.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-vigil/",
-                    "title": "The Vigil",
-                    "description": "Un hombre que vigila durante la noche a un miembro fallecido de su antigua comunidad judía ortodoxa se encuentra frente a una entidad malévola.",
-                    "genre": "Suspense, Terror",
+                    "url": "/pelicula/batman-hush-zilt/",
+                    "title": "Batman: Hush",
+                    "description": "Un nuevo villano de quien sólo se conoce el nombre, \"Hush\", emplea a todos los enemigos de Gotham para destruir la vida tanto de Batman, el héroe, como la de Bruce Wayne, el empresario y playboy que ahora mantiene una relación íntima con Selina Kyle, también conocida como \"Catwoman\". Adaptación de uno de los grandes clásicos del universo DC: \"Batman: Hush\" escrito por Jeph Loeb y dibujado por Jim Lee.",
+                    "genre": "Acción, Animación, Crimen, DC",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-vigil/",
+                        "url": "/pelicula/batman-hush-zilt/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar CJzJPkFdcv = \"\"; RbRsYVmMal.forEach(function Oym(value) { CJzJPkFdcv += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar qygcASGXm = \"\"; PJSLsRVH.forEach(function Oym(value) { qygcASGXm += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
