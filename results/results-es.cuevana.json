@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/19970/conspiracion-divina",
+                                "title": "Conspiración Divina",
+                                "thumbnail_url": "https://pelisimg.online/cover/conspiracion-divina-1691978920.png"
+                            },
+                            {
+                                "url": "/19969/jugada-peligrosa",
+                                "title": "Jugada peligrosa",
+                                "thumbnail_url": "https://pelisimg.online/cover/jugada-peligrosa-1691978769.png"
+                            },
+                            {
+                                "url": "/19968/sonido-de-la-policia",
+                                "title": "Sonido de la policia",
+                                "thumbnail_url": "https://pelisimg.online/cover/sonido-de-la-policia-1691976788.png"
+                            },
+                            {
                                 "url": "/19967/a-violent-man",
                                 "title": "A Violent Man",
                                 "thumbnail_url": "https://pelisimg.online/cover/a-violent-man-1691940708.png"
@@ -39,12 +54,12 @@
                             {
                                 "url": "/19961/a-gaza-weekend",
                                 "title": "A Gaza Weekend",
-                                "thumbnail_url": "https://pelisimg.online/cover/a-gaza-weekend-1691939445.png"
+                                "thumbnail_url": "https://pelisimg.online/cover/a-gaza-weekend-1691975374.png"
                             },
                             {
                                 "url": "/19960/blood-2023",
                                 "title": "Blood 2023",
-                                "thumbnail_url": "https://pelisimg.online/cover/blood-2023-1691854693.png"
+                                "thumbnail_url": "https://pelisimg.online/cover/blood-2023-1691975524.png"
                             },
                             {
                                 "url": "/19959/jagun-jagun-the-warrior",
@@ -210,21 +225,6 @@
                                 "url": "/19920/brad-pitt-todas-las-caras",
                                 "title": "Brad Pitt: todas las caras",
                                 "thumbnail_url": "https://pelisimg.online/cover/brad-pitt-todas-las-caras-1691546897.png"
-                            },
-                            {
-                                "url": "/19921/el-impacto-de-van-damme",
-                                "title": "El impacto de Van Damme",
-                                "thumbnail_url": "https://pelisimg.online/cover/el-impacto-de-van-damme-1691546998.png"
-                            },
-                            {
-                                "url": "/19919/dampyr",
-                                "title": "Dampyr",
-                                "thumbnail_url": "https://pelisimg.online/cover/dampyr-1691546410.png"
-                            },
-                            {
-                                "url": "/19918/ready-jet-go-space-camp-the-movie",
-                                "title": "Ready Jet Go! Space Camp: The Movie",
-                                "thumbnail_url": "https://pelisimg.online/cover/ready-jet-go-space-camp-the-movie-1691546287.png"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/19967/a-violent-man",
-                    "title": "A Violent Man",
-                    "description": "Steve Mackleson es un prisionero peligroso, encarcelado por doble asesinato en una prisión de máxima seguridad. Mientras lucha contra la redención del sistema, un joven miembro de una pandilla negra se convierte en su improbable nuevo compañero de celda y una hija que nunca ha conocido, finalmente solicita conocer a su padre separado.",
-                    "genre": "Crimen, , Drama",
-                    "thumbnail_url": "https://pelisimg.online/cover/a-violent-man-1691940708.png",
+                    "url": "/19970/conspiracion-divina",
+                    "title": "Conspiración Divina",
+                    "description": "Adam, un humilde hijo de pescador, ingresa en la prestigiosa Universidad de Al-Azhar de El Cairo: el epicentro del poder en el Islam suní. El primer día de clases, el Gran Imán que dirige la institución muere repentinamente. Sin saberlo, Adam se encuentra en el centro de una implacable lucha de poder entre las élites religiosas y políticas del país.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://pelisimg.online/cover/conspiracion-divina-1691978920.png",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/19967/a-violent-man",
+                        "url": "/19970/conspiracion-divina",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,19 +484,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=JprpkGKx8rTjLxz&expires=1692042974&ip=F0qQKRWQE19XKxR&token=qqvbDGBJah2H",
-                        "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=JprpkGKx8rTjLxz&expires=1692042974&ip=F0qQKRWQE19XKxR&token=qqvbDGBJah2H"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=XdVRqyPdKZTP6j&expires=1692042973&ip=F0qQKRWQE19XKxR&token=Gc-jhiAPN8mN",
-                        "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XdVRqyPdKZTP6j&expires=1692042973&ip=F0qQKRWQE19XKxR&token=Gc-jhiAPN8mN"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
