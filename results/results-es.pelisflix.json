@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/quicksand/",
+                                "title": "Quicksand",
+                                "description": "Un matrimonio a punto de divorciarse queda atrapado en arenas movedizas mientras practica senderismo...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/v7UjQr5J2rCW8ay8eUAyfA7Cthx.webp"
+                            },
+                            {
+                                "url": "/pelicula/my-happy-ending/",
+                                "title": "My Happy Ending",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/1THfbwBqwlI8cwHolCt1PjpK1zJURJNJtlPvIgL4rk.webp"
+                            },
+                            {
                                 "url": "/pelicula/batman-hush-zilt/",
                                 "title": "Batman: Hush",
                                 "description": "Un nuevo villano de quien sólo se conoce el nombre, \"Hush\", emplea a todos los enemigos de Gotham p...",
@@ -233,18 +245,6 @@
                                 "title": "See You On Venus",
                                 "description": "Una niña huérfana de 18 años que se está muriendo quiere viajar a Europa para localizar a su mad...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ArhtcEhvRzcCZLr.webp"
-                            },
-                            {
-                                "url": "/pelicula/una-mirada-honesta/",
-                                "title": "Una mirada honesta",
-                                "description": "Eduardo Longoni, el fotógrafo que retrató instantes decisivos de los últimos 40 años de la histo...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/rcOp78wf5JK0SLCEwuc6tAwcr.webp"
-                            },
-                            {
-                                "url": "/pelicula/devils-peak/",
-                                "title": "Devil's Peak",
-                                "description": "En las Montañas Apalaches de Carolina del Norte, Jacob McNeely, de dieciocho años, se debate entre...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/trfm2iaVIf59vYL5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/batman-hush-zilt/",
-                    "title": "Batman: Hush",
-                    "description": "Un nuevo villano de quien sólo se conoce el nombre, \"Hush\", emplea a todos los enemigos de Gotham para destruir la vida tanto de Batman, el héroe, como la de Bruce Wayne, el empresario y playboy que ahora mantiene una relación íntima con Selina Kyle, también conocida como \"Catwoman\". Adaptación de uno de los grandes clásicos del universo DC: \"Batman: Hush\" escrito por Jeph Loeb y dibujado por Jim Lee.",
-                    "genre": "Acción, Animación, Crimen, DC",
+                    "url": "/pelicula/quicksand/",
+                    "title": "Quicksand",
+                    "description": "Un matrimonio a punto de divorciarse queda atrapado en arenas movedizas mientras practica senderismo por la selva colombiana. Se enfrentan a los elementos de la selva en una lucha por la supervivencia y deben trabajar juntos para escapar.",
+                    "genre": "Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/batman-hush-zilt/",
+                        "url": "/pelicula/quicksand/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar PbYoUMn = \"\"; jOOaXAWAAe.forEach(function Oym(value) { PbYoUMn += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
@@ -526,23 +526,23 @@
         "name": "Seriesflix",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: seriesflix.video: Temporary failure in name resolution",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: seriesflix.video",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: seriesflix.video",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: seriesflix.video",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: seriesflix.video",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
