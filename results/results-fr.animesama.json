@@ -11,15 +11,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/catalogue/suzume//film/vostfr#0",
-                                "title": "Suzume",
-                                "description": "Suzume est une jeune fille de 17 ans qui habite une petite ville tranquille sur l'île de Kyushu, au Japon. Un jour, elle rencontre un vagabond qui lui dit qu'il est à la recherche d'une porte. Curieuse, elle le suit et découvre avec lui, au milieu de ruines, la porte tant convoitée. Celle-ci se tient, presque intacte, au milieu des décombres. Attirée par cette mystérieuse porte, Suzume tend la main et lorsque celle-ci s'ouvre, c'est une multitude de portails qui s'ouvrent avec elle à travers le Japon, causant par la même occasion des catastrophes...",
-                                "genre": "Action, Drame, Surnaturel, Adolescence, Catastrophe naturelle, Malédiction, Séisme, Voyage",
-                                "status": 2,
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzume.jpg",
-                                "initialized": true
-                            },
-                            {
                                 "url": "/catalogue/ai-no-idenshi//saison1/vostfr",
                                 "title": "AI no Idenshi Saison 1",
                                 "description": "L'histoire se déroule dans un futur proche où environ 10% des gens sont des \"humanoïdes\", des robots à l'apparence humaine. Bien que très bien intégrés à la société, les humanoïdes ont leurs propres problèmes et sont sujets à des maladies qui ne touchent qu'eux. Hikaru Sudô est un médecin spécialisé dans les maux des humanoïdes.",
@@ -141,19 +132,17 @@
             },
             "details": {
                 "result": {
-                    "url": "/catalogue/suzume//film/vostfr#0",
-                    "title": "Suzume",
-                    "description": "Suzume est une jeune fille de 17 ans qui habite une petite ville tranquille sur l'île de Kyushu, au Japon. Un jour, elle rencontre un vagabond qui lui dit qu'il est à la recherche d'une porte. Curieuse, elle le suit et découvre avec lui, au milieu de ruines, la porte tant convoitée. Celle-ci se tient, presque intacte, au milieu des décombres. Attirée par cette mystérieuse porte, Suzume tend la main et lorsque celle-ci s'ouvre, c'est une multitude de portails qui s'ouvrent avec elle à travers le Japon, causant par la même occasion des catastrophes...",
-                    "genre": "Action, Drame, Surnaturel, Adolescence, Catastrophe naturelle, Malédiction, Séisme, Voyage",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzume.jpg",
+                    "url": "/catalogue/ai-no-idenshi//saison1/vostfr",
+                    "title": "AI no Idenshi Saison 1",
+                    "description": "L'histoire se déroule dans un futur proche où environ 10% des gens sont des \"humanoïdes\", des robots à l'apparence humaine. Bien que très bien intégrés à la société, les humanoïdes ont leurs propres problèmes et sont sujets à des maladies qui ne touchent qu'eux. Hikaru Sudô est un médecin spécialisé dans les maux des humanoïdes.",
+                    "genre": "Drame, Science-fiction, Slice-of-Life, Futur, Robots",
+                    "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ai-no-idenshi.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
