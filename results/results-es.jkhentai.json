@@ -148,17 +148,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hentai/fushigi-no-kuni-no-succubus",
-                    "title": "Fushigi no Kuni no Succubus",
-                    "description": "Titulo Original: 不思議の国のサキュバス",
-                    "genre": "Ahegao, Bakunyuu, Fantasía, Tetonas, Virgenes, Cream Pie, Shota, Succubus, Sinopsis",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.jkhentai.net/images/portada/fushigi-no-kuni-no-succubus.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -176,7 +167,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             }
         }
