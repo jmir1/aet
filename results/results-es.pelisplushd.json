@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/depp-vs-heard",
+                                "title": "Depp Vs Heard (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bzll2Yht3wpcEBic2NuJDRftD10.jpg"
+                            },
+                            {
+                                "url": "/serie/el-elegido",
+                                "title": "El elegido (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ddhesUg1IKrMapWTGRkF650F3dh.jpg"
+                            },
+                            {
                                 "url": "/serie/night-court",
                                 "title": "Night Court (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/j4bSPHuQodAf8SLbSalyKPo6jMU.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/art-attack-modo-desafio",
                                 "title": "Art Attack: Modo Desafio (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/10CTxuKTyxkCbx8pbIk1NKLSro5.jpg"
-                            },
-                            {
-                                "url": "/serie/twisted-metal",
-                                "title": "Twisted Metal (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg"
-                            },
-                            {
-                                "url": "/serie/colin-from-accounts",
-                                "title": "Colin from Accounts (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6Bz9jGVoXhqp6Ihk3OI8osXzbT8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/night-court",
-                    "title": "Night Court (2023)",
-                    "description": ".",
-                    "genre": "Comedia",
+                    "url": "/serie/depp-vs-heard",
+                    "title": "Depp Vs Heard (2023)",
+                    "description": "Esta serie, que intercala los testimonios de los dos protagonistas por primera vez, analiza el juicio que conmocionó a Hollywood y el revuelo que provocó en Internet..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/j4bSPHuQodAf8SLbSalyKPo6jMU.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bzll2Yht3wpcEBic2NuJDRftD10.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,37 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/night-court/temporada/1/capitulo/16",
-                        "name": "T1 - E16: Episodio 16",
-                        "episode_number": 16.0
+                        "url": "/serie/depp-vs-heard/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/serie/night-court/temporada/1/capitulo/15",
-                        "name": "T1 - E15: Episodio 15",
-                        "episode_number": 15.0
+                        "url": "/serie/depp-vs-heard/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/jbz2wvsxytsu",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-xqrgj99p8krmzj4e.voe-network.net/engine/hls2/01/09329/jbz2wvsxytsu_,n,.urlset/master.m3u8?t=Cszi_Sxs0y6983R6RXxtjBsAwAVehhOJT087F-1d3uc&s=1692232108&e=14400&f=46646480&node=delivery-node-xqrgj99p8krmzj4e.voe-network.net&i=40.77&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=MzejJ0dOmZUdXw&expires=1692302106&ip=GxOsEHEnDS9X&token=s55Pe6VxX0tF",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MzejJ0dOmZUdXw&expires=1692302106&ip=GxOsEHEnDS9X&token=s55Pe6VxX0tF"
-                    },
-                    {
-                        "url": "https://voe.sx/e/jbz2wvsxytsu",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-xqrgj99p8krmzj4e.voe-network.net/engine/hls2/01/09329/jbz2wvsxytsu_,n,.urlset/master.m3u8?t=Cszi_Sxs0y6983R6RXxtjBsAwAVehhOJT087F-1d3uc&s=1692232108&e=14400&f=46646480&node=delivery-node-xqrgj99p8krmzj4e.voe-network.net&i=40.77&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -319,6 +303,106 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/un-amor-salvaje",
+                                "title": "Un amor salvaje (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/t26UjApXY1SggD7F2LOdUsaXVuz.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-final-que-quiero",
+                                "title": "El final que quiero (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qgJmAAho5Ghki8dltVfL3S84LNR.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-reino-de-los-elfos",
+                                "title": "El reino de los elfos (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/An0GnDkgrblHGeJx8fXard1gizm.jpg"
+                            },
+                            {
+                                "url": "/pelicula/axcellerator",
+                                "title": "Axcellerator (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fHNRCQRDYm2gMvljdjiXKC2vRrV.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sugar-daddy",
+                                "title": "Sugar Daddy (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/iIYAa6dIGCtQbbaCrcy8KBoe1JS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-campeon",
+                                "title": "El campeón (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gqEHjyW51Gg475KTTaJo6xlFXPg.jpg"
+                            },
+                            {
+                                "url": "/pelicula/alli-me-encontraras",
+                                "title": "Allí me encontrarás (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zDMT90p0KaqMqIPCqPi8u631RqS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sin-escapar",
+                                "title": "Sin Escapar (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1URYfZgvXyzTB2WtNiurZp28uFY.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-tres-mosqueteros-dartagnan",
+                                "title": "Los tres mosqueteros: DArtagnan (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dxQDJ8LhQQvkGbJmiB1i2gt38Ok.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-rio-de-la-ira",
+                                "title": "El río de la ira (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-anfitriona",
+                                "title": "La Anfitriona (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mUSeGrl01BZviSlGMmKavoWCbnP.jpg"
+                            },
+                            {
+                                "url": "/pelicula/encuentro-con-la-verdad",
+                                "title": "Encuentro con la verdad (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dKP2cphhHAsw0ftInIbipWfgB1l.jpg"
+                            },
+                            {
+                                "url": "/pelicula/secretos-de-espias",
+                                "title": "Secretos de Espías (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aTHZaAnqI1hmky4JH5g2qztJZ2a.jpg"
+                            },
+                            {
+                                "url": "/pelicula/american-girl-corinne-tan",
+                                "title": "American Girl: Corinne Tan (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/y8JAAoOiL7o3VpPwriGcrhzTUiK.jpg"
+                            },
+                            {
+                                "url": "/pelicula/zom-100-cien-cosas-que-quiero-hacer-antes-de-convertirme-en-zombi",
+                                "title": "Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/o7mf6YZepJA6nbWrYUTtWb0xvSw.jpg"
+                            },
+                            {
+                                "url": "/pelicula/divina-senal",
+                                "title": "Divina Señal (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6qpYwWq6KxuLTjmLfBVcGtjdz4g.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-hotel-de-los-lios-garcia-y-garcia-2",
+                                "title": "El hotel de los líos. García y García 2 (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/8oliqiL2kBi1qFAyBjZFlyhx6lb.jpg"
+                            },
+                            {
+                                "url": "/pelicula/frente-a-frente",
+                                "title": "Frente a frente (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wZuPAT74OHH49OesHQ0mlRrmvqd.jpg"
+                            },
+                            {
+                                "url": "/pelicula/doble-discurso",
+                                "title": "Doble discurso (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg"
+                            },
+                            {
+                                "url": "/pelicula/sos-mamis-2-mosquita-muerta",
+                                "title": "S.O.S Mamis 2: Mosquita muerta (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yJeJt7JzgGleBtM9LaFmtxTVdAN.jpg"
+                            },
                             {
                                 "url": "/pelicula/ready-jet-go-campamento-espacial-la-pelicula",
                                 "title": "Ready Jet Go! Campamento Espacial La Película (2023)",
@@ -338,106 +422,6 @@
                                 "url": "/pelicula/paint",
                                 "title": "Paint (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/agente-stone",
-                                "title": "Agente Stone (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/3iEjVseteIY8YnryTKWgVB91Uil.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sed-incontrolable",
-                                "title": "Sed Incontrolable (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5kx4cU1G7qvsciaFqdF1p1QcTeY.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-pico-del-diablo",
-                                "title": "El pico del diablo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zJpmdUSoowSxDygSsggDaoj8orH.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-mas-vendidos",
-                                "title": "Los Mas Vendidos (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/8Qg2qCjF3SaVEvCKtsjasn8RVNw.jpg"
-                            },
-                            {
-                                "url": "/pelicula/volver-a-los-dinosaurios",
-                                "title": "Volver A Los Dinosaurios (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aN30Wuk2RDidL5dmiGbOGAdQIMJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/entre-amigos",
-                                "title": "Entre amigos (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5TWifCg0qY4zfjdjDQCwDC3rIXh.jpg"
-                            },
-                            {
-                                "url": "/pelicula/babylon-5-el-viaje-a-casa",
-                                "title": "Babylon 5: El Viaje A Casa (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qlXLiFKf2kvJ4K2VDBC5Z048vm3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/amigos-hasta-la-muerte",
-                                "title": "Amigos hasta la muerte (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg"
-                            },
-                            {
-                                "url": "/pelicula/volver-a-empezar",
-                                "title": "Volver a empezar (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9y59OnzXfwzyCuvWHXPhgjPgYzi.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sin-malos-rollos",
-                                "title": "Sin malos rollos (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hKlpYtDLBtJEvYVvaUIq39Gh6rI.jpg"
-                            },
-                            {
-                                "url": "/pelicula/insidious-la-puerta-roja",
-                                "title": "Insidious: La puerta roja (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg"
-                            },
-                            {
-                                "url": "/pelicula/rojo-blanco-y-sangre-azul",
-                                "title": "Rojo blanco y sangre azul (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5XGt6CpWpkGnGOrrjfOMhNzDDSS.jpg"
-                            },
-                            {
-                                "url": "/pelicula/atrapaalmas",
-                                "title": "Atrapaalmas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/nxXdasJvK2wdEW5JHEOeezIzjnH.jpg"
-                            },
-                            {
-                                "url": "/pelicula/miraculous-las-aventuras-de-ladybug-la-pelicula",
-                                "title": "Miraculous: Las aventuras de Ladybug: La película (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bVlB5J2KYkbwBnWJSJEAbvPFaqm.jpg"
-                            },
-                            {
-                                "url": "/pelicula/hidden-strike",
-                                "title": "Hidden Strike (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-despertar-de-la-juventud",
-                                "title": "El Despertar De La Juventud (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/3klrs6XFbZGJIVBTLWhcWMJCoc8.jpg"
-                            },
-                            {
-                                "url": "/pelicula/querida-zoe",
-                                "title": "Querida Zoe (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aaVYJNWP40eEiaQNKvnDi5CC63C.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-verano-solo-para-nosotros",
-                                "title": "Un Verano Solo Para Nosotros (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qljfHjNIMuvblkdQUKXFDmNA7um.jpg"
-                            },
-                            {
-                                "url": "/pelicula/una-buena-persona",
-                                "title": "Una buena persona (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bL5cbrF1ONnDLC2UDOoVYRS6TUy.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-sueno",
-                                "title": "Un sueño (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dWWKzI1AQ2WZgZLXCrLnSxMC2P2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +561,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/ready-jet-go-campamento-espacial-la-pelicula",
-                    "title": "Ready Jet Go! Campamento Espacial La Película (2023)",
-                    "description": "Jet y sus amigos Sean, Sydney y Mindy asisten a un campamento espacial donde ponen a prueba sus habilidades. En el camino, Sunspot desarrolla una reacción alérgica que hace que se encoja. Team Propulsion debe abandonar el campamento y encontrar la cura, \"Desencoginio\", sin que Mitchell descubra lo que están haciendo.",
-                    "genre": "Aventura, Familia, Ciencia ficción, Animación",
+                    "url": "/pelicula/un-amor-salvaje",
+                    "title": "Un amor salvaje (2019)",
+                    "description": "Basada en la novela hómonima, Dirt Music explora la vida de una pareja y su relación dolorosamente apasionada. Georgie (Kelly Macdonald) es una chica australiana que se siente rota por su relación actual con el pescador Jim Buckridge (David Wenham), ella pasa su tiempo admirando los paisajes de su nación hasta que conoce al cazador Lu Fox (Garrett Hedlund), un joven forastero, bastante interesante y misterioso, a quien encuentra pescando en una zona prohibida. Poco a poco ambos se conocen y la pasión entre ellos no tarda en salir a la luz, lo que pronto les provoca graves problemas a ambos. Cuando Jim se entera de aquella relación quiere venganza, sin embargo, Fox decide retirarse al norte de Australia para evitar una terrible confrontación. En su travesía, el cazador atraviesa zonas peligrosas y contaminadas, sin embargo, este es el menor de sus problemas pues debe cubrir sus huellas del hombre que desea atraparlo.",
+                    "genre": "Romance, Drama, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +574,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/ready-jet-go-campamento-espacial-la-pelicula",
+                        "url": "/pelicula/un-amor-salvaje",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -904,12 +888,12 @@
                     {
                         "url": "https://voe.sx/e/cdpqbvq3tu48",
                         "quality": "[Lat] VoeCDN",
-                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/09333/f0qjl87jhurm_,n,.urlset/master.m3u8?t=wSsR4LAGNfnaERyLzNoSpGDvKALLwch_GIQ6egmK4qE&s=1692232115&e=14400&f=46696676&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=40.77&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/09333/f0qjl87jhurm_,n,.urlset/master.m3u8?t=KS3qBMDRIbUUOYM52xy9QtewJoenOeh5nl9WcG75anI&s=1692252618&e=14400&f=46696676&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=23.102&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/649ay5404xfq",
                         "quality": "[Sub] VoeCDN",
-                        "videoUrl": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/09333/2oaostecbf6t_,n,.urlset/master.m3u8?t=TzgPvQ59zhxhvhS-33C-f-PdrloDRC9JAX7Z1TFvn2M&s=1692232116&e=14400&f=46696806&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=40.77&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/09333/2oaostecbf6t_,n,.urlset/master.m3u8?t=f5Lg3mNudjhHrgf-M0-WPT5VwUWz-qkLi59ayRy6OKI&s=1692252619&e=14400&f=46696806&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=23.102&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
