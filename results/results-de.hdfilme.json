@@ -247,8 +247,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m12.vudeo.co/2vp3x7yv64vjdohilovbvkm2yxj6fadmexarazjde6j533zby7zhdof2e7rq/v.mp4",
+                        "quality": "Vudeo",
+                        "videoUrl": "https://m12.vudeo.co/2vp3x7yv64vjdohilovbvkm2yxj6fadmexarazjde6j533zby7zhdof2e7rq/v.mp4",
+                        "headers": {
+                            "referer": "https://vudeo.net/"
+                        }
+                    },
+                    {
+                        "url": "https://a-delivery19.mxdcontent.net/v/0d166e6686952168b10ae44374043ba5.mp4?s=WHInWdD28VxaeBNXo0_x0Q&e=1692317274&_t=1692298752",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery19.mxdcontent.net/v/0d166e6686952168b10ae44374043ba5.mp4?s=WHInWdD28VxaeBNXo0_x0Q&e=1692317274&_t=1692298752",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

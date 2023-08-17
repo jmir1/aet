@@ -7,12 +7,17 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/en-casa-de-los-fury",
+                                "title": "En casa de los Fury (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9MMDK85gpE9usy6QCCLGgTzgroW.jpg"
+                            },
+                            {
                                 "url": "/serie/depp-vs-heard",
                                 "title": "Depp Vs Heard (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bzll2Yht3wpcEBic2NuJDRftD10.jpg"
                             },
                             {
-                                "url": "/serie/el-elegido",
+                                "url": "/serie/el-elegido-2023",
                                 "title": "El elegido (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ddhesUg1IKrMapWTGRkF650F3dh.jpg"
                             },
@@ -120,11 +125,6 @@
                                 "url": "/serie/ghosts-of-beirut",
                                 "title": "Ghosts of Beirut (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg"
-                            },
-                            {
-                                "url": "/serie/art-attack-modo-desafio",
-                                "title": "Art Attack: Modo Desafio (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/10CTxuKTyxkCbx8pbIk1NKLSro5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/depp-vs-heard",
-                    "title": "Depp Vs Heard (2023)",
-                    "description": "Esta serie, que intercala los testimonios de los dos protagonistas por primera vez, analiza el juicio que conmocionó a Hollywood y el revuelo que provocó en Internet..",
-                    "genre": "Documental",
+                    "url": "/serie/en-casa-de-los-fury",
+                    "title": "En casa de los Fury (2023)",
+                    "description": "El invicto campeón de peso pesado Tyson Fury se retira del boxeo para abrazar las excentricidades de la vida familiar en este hilarante y sincero docusoap..",
+                    "genre": "Familia, Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bzll2Yht3wpcEBic2NuJDRftD10.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,37 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/depp-vs-heard/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/en-casa-de-los-fury/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/serie/depp-vs-heard/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/en-casa-de-los-fury/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/1scr3c1j4yom",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09350/1scr3c1j4yom_,n,.urlset/master.m3u8?t=8houhCtdrGP-vksYjg2QBaG0xvEuHvrTlkjHvwaO9YQ&s=1692295716&e=14400&f=46752411&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=13.73&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aGDW2wRBzyiJ3M&expires=1692365714&ip=F0AsEHOnDS9X&token=-xHTpjnTaE-d",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aGDW2wRBzyiJ3M&expires=1692365714&ip=F0AsEHOnDS9X&token=-xHTpjnTaE-d"
+                    },
+                    {
+                        "url": "https://voe.sx/e/1scr3c1j4yom",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09350/1scr3c1j4yom_,n,.urlset/master.m3u8?t=8houhCtdrGP-vksYjg2QBaG0xvEuHvrTlkjHvwaO9YQ&s=1692295716&e=14400&f=46752411&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=13.73&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -888,12 +904,12 @@
                     {
                         "url": "https://voe.sx/e/cdpqbvq3tu48",
                         "quality": "[Lat] VoeCDN",
-                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/09333/f0qjl87jhurm_,n,.urlset/master.m3u8?t=SYbn7Hamj7dup6KU1iAIJBmLOPu4AlHF9MP0pP6txIU&s=1692274292&e=14400&f=46696676&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/09333/f0qjl87jhurm_,n,.urlset/master.m3u8?t=EaTD8Zfx9WzAwWZWLCYAvnFrS2B6LZNIq8P1vQx4yDw&s=1692295722&e=14400&f=46696676&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=13.73&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/649ay5404xfq",
                         "quality": "[Sub] VoeCDN",
-                        "videoUrl": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/09333/2oaostecbf6t_,n,.urlset/master.m3u8?t=4fXb3sUo-DjHZHwcUMbmj0qhk5L3XwnUIC4evrIZosI&s=1692274293&e=14400&f=46696806&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/09333/2oaostecbf6t_,n,.urlset/master.m3u8?t=_JI8QgATVxS9OsYEYpCXvXIEXiMiojBYPXw8tzsRoIw&s=1692295723&e=14400&f=46696806&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=13.73&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
