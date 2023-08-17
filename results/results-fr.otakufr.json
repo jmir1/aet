@@ -96,8 +96,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/f49f58b161264d7356a16167bb04e359/4426523.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/f49f58b161264d7356a16167bb04e359/4426523.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4426523"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
