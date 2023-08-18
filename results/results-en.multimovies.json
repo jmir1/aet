@@ -3,27 +3,27 @@
         "name": "Multimovies",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.net.UnknownHostException: multimovies.shop: Temporary failure in name resolution",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.net.UnknownHostException: multimovies.shop",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.net.UnknownHostException: multimovies.shop",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.net.UnknownHostException: multimovies.shop",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.net.UnknownHostException: multimovies.shop",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.net.UnknownHostException: multimovies.shop",
                 "passed": false
             }
         }
