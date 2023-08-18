@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/shadow-detective",
+                                "title": "Detective de sombras (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zCpHYSmb8lvrPj8LQf4Abc4W9yR.jpg"
+                            },
+                            {
                                 "url": "/serie/en-casa-de-los-fury",
                                 "title": "En casa de los Fury (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9MMDK85gpE9usy6QCCLGgTzgroW.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/capitan-fall",
                                 "title": "Capitán Fall (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9tMX3Uywla2izqq6sJavzLhgXPx.jpg"
-                            },
-                            {
-                                "url": "/serie/ghosts-of-beirut",
-                                "title": "Ghosts of Beirut (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/en-casa-de-los-fury",
-                    "title": "En casa de los Fury (2023)",
-                    "description": "El invicto campeón de peso pesado Tyson Fury se retira del boxeo para abrazar las excentricidades de la vida familiar en este hilarante y sincero docusoap..",
-                    "genre": "Familia, Reality",
+                    "url": "/serie/shadow-detective",
+                    "title": "Detective de sombras (2022)",
+                    "description": "Taekrok, un viejo inspector a punto de jubilarse, recibe una llamada amenazante de un hombre desconocido. Se le acusa falsamente de asesinato. El chantajista dice ser un amigo y le sugiere jugar a un juego, en el que pide a Taekrok revisar los casos pasados de los que ha estado a cargo. Desesperadamente, el viejo inspector trata de recordar el pasado para averiguar quién es el chantajista y descubrir sus intenciones. ¿Conseguirá Taekrok completar este emocionante juego?.",
+                    "genre": "Crimen, Drama, Misterio",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zCpHYSmb8lvrPj8LQf4Abc4W9yR.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/en-casa-de-los-fury/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
+                        "url": "/serie/shadow-detective/temporada/2/capitulo/8",
+                        "name": "T2 - E8: Episodio 8",
+                        "episode_number": 16.0
                     },
                     {
-                        "url": "/serie/en-casa-de-los-fury/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/shadow-detective/temporada/2/capitulo/7",
+                        "name": "T2 - E7: Episodio 7",
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/1scr3c1j4yom",
+                        "url": "https://voe.sx/e/6afuayqya3gt",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09350/1scr3c1j4yom_,n,.urlset/master.m3u8?t=8houhCtdrGP-vksYjg2QBaG0xvEuHvrTlkjHvwaO9YQ&s=1692295716&e=14400&f=46752411&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=13.73&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/09351/6afuayqya3gt_,n,.urlset/master.m3u8?t=ArVJqgp2z7MPQxx-EqO3xm1SGChvJ2QGfzOgwUb-45U&s=1692318536&e=14400&f=46756856&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=13.64&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=aGDW2wRBzyiJ3M&expires=1692365714&ip=F0AsEHOnDS9X&token=-xHTpjnTaE-d",
+                        "url": "https://streamtape.com/get_video?id=llb2BmgBZ3i78gk&expires=1692388534&ip=F0AsERqnDS9X&token=6Vjun7VTY5J2",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aGDW2wRBzyiJ3M&expires=1692365714&ip=F0AsEHOnDS9X&token=-xHTpjnTaE-d"
+                        "videoUrl": "https://streamtape.com/get_video?id=llb2BmgBZ3i78gk&expires=1692388534&ip=F0AsERqnDS9X&token=6Vjun7VTY5J2"
                     },
                     {
-                        "url": "https://voe.sx/e/1scr3c1j4yom",
+                        "url": "https://voe.sx/e/6afuayqya3gt",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09350/1scr3c1j4yom_,n,.urlset/master.m3u8?t=8houhCtdrGP-vksYjg2QBaG0xvEuHvrTlkjHvwaO9YQ&s=1692295716&e=14400&f=46752411&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=13.73&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/09351/6afuayqya3gt_,n,.urlset/master.m3u8?t=ArVJqgp2z7MPQxx-EqO3xm1SGChvJ2QGfzOgwUb-45U&s=1692318536&e=14400&f=46756856&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=13.64&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -611,6 +611,91 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/la-historia-secreta-del-monopoly/",
+                                "title": "La historia secreta del Monopoly",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-historia-secreta-del-monopoly.jpg"
+                            },
+                            {
+                                "url": "/pelicula/corner-office/",
+                                "title": "Corner Office",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/corner-office.jpg"
+                            },
+                            {
+                                "url": "/pelicula/leonor-el-futuro-de-la-monarquia-renovada/",
+                                "title": "Leonor. El futuro de la monarquía renovada",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/leonor-el-futuro-de-la-monarquia-renovada.jpg"
+                            },
+                            {
+                                "url": "/pelicula/nicole-kidman-les-yeux-grand-ouverts/",
+                                "title": "Nicole Kidman, les yeux grand ouverts",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nicole-kidman-les-yeux-grand-ouverts.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tiho-nasledstvo/",
+                                "title": "Tiho nasledstvo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tiho-nasledstvo.jpg"
+                            },
+                            {
+                                "url": "/pelicula/pulau/",
+                                "title": "Pulau",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pulau.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-follower/",
+                                "title": "The Follower",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-follower.jpg"
+                            },
+                            {
+                                "url": "/pelicula/missing-persons/",
+                                "title": "Missing Persons",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/missing-persons.jpg"
+                            },
+                            {
+                                "url": "/pelicula/alien-invasion/",
+                                "title": "Alien Invasion",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/alien-invasion.jpg"
+                            },
+                            {
+                                "url": "/pelicula/viking-bloodlust/",
+                                "title": "Viking: Bloodlust",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/viking-bloodlust.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-huella-de-la-pantera/",
+                                "title": "La huella de la pantera",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-huella-de-la-pantera.jpg"
+                            },
+                            {
+                                "url": "/pelicula/goatman/",
+                                "title": "Goatman",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/goatman.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-francotirador-de-dombas/",
+                                "title": "El francotirador de Dombás",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-francotirador-de-dombas.jpg"
+                            },
+                            {
+                                "url": "/pelicula/love-in-a-bottle/",
+                                "title": "Love in a Bottle",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-in-a-bottle.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-blackening/",
+                                "title": "The Blackening",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-blackening.jpg"
+                            },
+                            {
+                                "url": "/pelicula/pillow-party-massacre/",
+                                "title": "Pillow Party Massacre",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pillow-party-massacre.jpg"
+                            },
+                            {
+                                "url": "/pelicula/soundtrack-lado-a/",
+                                "title": "Soundtrack Lado A",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/soundtrack-lado-a.jpg"
+                            },
+                            {
                                 "url": "/pelicula/en-caida-libre/",
                                 "title": "En caída libre",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/en-caida-libre.jpg"
@@ -624,91 +709,6 @@
                                 "url": "/pelicula/h4z4rd/",
                                 "title": "H4Z4RD",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/h4z4rd.jpg"
-                            },
-                            {
-                                "url": "/pelicula/robo-de-mil-millones-de-dolares/",
-                                "title": "Robo de mil millones de dólares",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/robo-de-mil-millones-de-dolares.jpg"
-                            },
-                            {
-                                "url": "/pelicula/manuel-carrasco-hay-que-vivir-el-momento/",
-                                "title": "Manuel Carrasco: Hay que vivir el momento",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/manuel-carrasco-hay-que-vivir-el-momento.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-pasillos-del-poder/",
-                                "title": "Los pasillos del poder",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-pasillos-del-poder.jpg"
-                            },
-                            {
-                                "url": "/pelicula/rec-terror-sin-pausa/",
-                                "title": "[REC]: terror sin pausa",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/rec-terror-sin-pausa.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-umbral/",
-                                "title": "El Umbral",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-umbral.jpg"
-                            },
-                            {
-                                "url": "/pelicula/nightmare-radio-el-acosador-nocturno/",
-                                "title": "Nightmare Radio: El acosador nocturno",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nightmare-radio-el-acosador-nocturno.jpg"
-                            },
-                            {
-                                "url": "/pelicula/conspiracion-divina/",
-                                "title": "Conspiración Divina",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/conspiracion-divina.jpg"
-                            },
-                            {
-                                "url": "/pelicula/jugada-peligrosa/",
-                                "title": "Jugada peligrosa",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jugada-peligrosa.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sonido-de-la-policia/",
-                                "title": "Sonido de la policia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sonido-de-la-policia.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-violent-man/",
-                                "title": "A Violent Man",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-violent-man.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mona-lisa-and-the-blood-moon/",
-                                "title": "Mona Lisa and the Blood Moon",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mona-lisa-and-the-blood-moon.jpg"
-                            },
-                            {
-                                "url": "/pelicula/zhena-chaykovskogo/",
-                                "title": "Жена Чайковского",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/zhena-chaykovskogo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-donor-party/",
-                                "title": "The Donor Party",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-donor-party.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sposa-in-rosso/",
-                                "title": "Sposa in rosso",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sposa-in-rosso.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-resurrection-of-charles-manson/",
-                                "title": "The Resurrection of Charles Manson",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-resurrection-of-charles-manson.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-gaza-weekend/",
-                                "title": "A Gaza Weekend",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-gaza-weekend.jpg"
-                            },
-                            {
-                                "url": "/pelicula/blood-2023/",
-                                "title": "Blood 2023",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/blood-2023.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/en-caida-libre/",
-                    "title": "En caída libre",
+                    "url": "/pelicula/la-historia-secreta-del-monopoly/",
+                    "title": "La historia secreta del Monopoly",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/en-caida-libre/",
+                        "url": "/pelicula/la-historia-secreta-del-monopoly/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -900,19 +900,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/cdpqbvq3tu48",
-                        "quality": "[Lat] VoeCDN",
-                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/09333/f0qjl87jhurm_,n,.urlset/master.m3u8?t=EaTD8Zfx9WzAwWZWLCYAvnFrS2B6LZNIq8P1vQx4yDw&s=1692295722&e=14400&f=46696676&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=13.73&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/649ay5404xfq",
-                        "quality": "[Sub] VoeCDN",
-                        "videoUrl": "https://delivery-node-v9vzzan7a5hoqxxr.voe-network.net/engine/hls2/01/09333/2oaostecbf6t_,n,.urlset/master.m3u8?t=_JI8QgATVxS9OsYEYpCXvXIEXiMiojBYPXw8tzsRoIw&s=1692295723&e=14400&f=46696806&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=13.73&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
