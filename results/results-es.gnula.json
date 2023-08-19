@@ -9,7 +9,7 @@
                             {
                                 "url": "/movies/love-sex-and-30-candles",
                                 "title": "Love, Sex and 30 Candles",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/l8yi3ZwHFnRu5ZVz1Kgc0eyDUhZ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/uJnlpGyuAjJGQJg9kZ0BJdeRKf2.jpg"
                             },
                             {
                                 "url": "/movies/lego-disney-princess-the-castle-quest",
@@ -207,11 +207,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
-                                "title": "Fireball: Visitantes de mundos oscuros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
-                            },
-                            {
                                 "url": "/series/w-dos-mundos",
                                 "title": "W Dos Mundos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
@@ -220,6 +215,11 @@
                                 "url": "/series/jurassic-world-campamento-cretacico",
                                 "title": "Jurassic World: Campamento Cretácico",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
+                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
+                                "title": "Fireball: Visitantes de mundos oscuros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -271,11 +271,12 @@
                 "result": {
                     "url": "/movies/love-sex-and-30-candles",
                     "title": "Love, Sex and 30 Candles",
+                    "artist": "Anthony Oseyemi",
                     "description": "Durante el año en que van a cumplir los 30, cuatro amigas íntimas lidian con relaciones sentimentales, momentos tristes y una situación complicada que podría separarlas.",
                     "genre": "Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/l8yi3ZwHFnRu5ZVz1Kgc0eyDUhZ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/uJnlpGyuAjJGQJg9kZ0BJdeRKf2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -293,9 +294,14 @@
             "videos": {
                 "result": [
                     {
+                        "url": "https://streamtape.com/get_video?id=xlwlx0gMXAi9Be&expires=1692495258&ip=FROsE0EnDS9X&token=sIH2Vl4qf7wP",
+                        "quality": "Latino StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=xlwlx0gMXAi9Be&expires=1692495258&ip=FROsE0EnDS9X&token=sIH2Vl4qf7wP"
+                    },
+                    {
                         "url": "https://voe.sx/e/ftnc3fibd0bt",
                         "quality": "Latino Voex",
-                        "videoUrl": "https://delivery-node-vuthnkcnblo4lifz.voe-network.net/engine/hls2/01/09364/ftnc3fibd0bt_,o,.urlset/master.m3u8?t=nTzDqsoTdczFOE5exQAQnaX2fhXYd2rzb69srnVMqZo&s=1692404810&e=14400&f=46822016&node=delivery-node-vuthnkcnblo4lifz.voe-network.net&i=20.171&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-vuthnkcnblo4lifz.voe-network.net/engine/hls2/01/09364/ftnc3fibd0bt_,n,.urlset/master.m3u8?t=iI2Ov4BZV8s9cF1sAeZEcQY5bGb7SMeXHAf8LTN_JcQ&s=1692425260&e=14400&f=46822016&node=delivery-node-vuthnkcnblo4lifz.voe-network.net&i=20.57&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
