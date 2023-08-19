@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/mala-fortuna",
+                                "title": "Mala Fortuna (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tuA0rHwN3OEzapXSjsSoYt42dJ6.jpg"
+                            },
+                            {
+                                "url": "/serie/refugio",
+                                "title": "Refugio (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pbh99N5Uguoq8XWtOQmCf46eDp7.jpg"
+                            },
+                            {
                                 "url": "/serie/shadow-detective",
                                 "title": "Detective de sombras (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/zCpHYSmb8lvrPj8LQf4Abc4W9yR.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/un-cuento-perfecto",
                                 "title": "Un cuento perfecto (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/t0u48HwAGsahgtvCVGp6rsVG2J5.jpg"
-                            },
-                            {
-                                "url": "/serie/novela",
-                                "title": "Novela (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/msMIkS6HPRWWXXHLaTa8nQLbnz6.jpg"
-                            },
-                            {
-                                "url": "/serie/capitan-fall",
-                                "title": "Capitán Fall (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9tMX3Uywla2izqq6sJavzLhgXPx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/shadow-detective",
-                    "title": "Detective de sombras (2022)",
-                    "description": "Taekrok, un viejo inspector a punto de jubilarse, recibe una llamada amenazante de un hombre desconocido. Se le acusa falsamente de asesinato. El chantajista dice ser un amigo y le sugiere jugar a un juego, en el que pide a Taekrok revisar los casos pasados de los que ha estado a cargo. Desesperadamente, el viejo inspector trata de recordar el pasado para averiguar quién es el chantajista y descubrir sus intenciones. ¿Conseguirá Taekrok completar este emocionante juego?.",
-                    "genre": "Crimen, Drama, Misterio",
+                    "url": "/serie/mala-fortuna",
+                    "title": "Mala Fortuna (2023)",
+                    "description": "Cuenta la historia de dos almas rotas que hacen un último intento en busca de la gloria. Se reencuentran con identidades falsas, rencores y restos de su amor, mientras compiten por la cuenta bancaria de la familia más rica de México..",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zCpHYSmb8lvrPj8LQf4Abc4W9yR.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tuA0rHwN3OEzapXSjsSoYt42dJ6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/shadow-detective/temporada/2/capitulo/8",
-                        "name": "T2 - E8: Episodio 8",
-                        "episode_number": 16.0
+                        "url": "/serie/mala-fortuna/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/shadow-detective/temporada/2/capitulo/7",
-                        "name": "T2 - E7: Episodio 7",
-                        "episode_number": 15.0
+                        "url": "/serie/mala-fortuna/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/6afuayqya3gt",
+                        "url": "https://voe.sx/e/8cmrdvm7ssqo",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/09351/6afuayqya3gt_,n,.urlset/master.m3u8?t=Ow963B6fqPCfPjWjR66VPMuJKIhJ60IlcdYD-fKk-MM&s=1692382110&e=14400&f=46756856&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/09361/8cmrdvm7ssqo_,n,.urlset/master.m3u8?t=ctoyquWFVob3zrePtFmzM977zGfH--UmbLl2FyPUsGU&s=1692404848&e=14400&f=46805281&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=104.45&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=llb2BmgBZ3i78gk&expires=1692452108&ip=F0qQKRWQE19XKxR&token=eBEJx7RLEWRA",
+                        "url": "https://streamtape.com/get_video?id=zx87xeQpXzsYRdv&expires=1692474847&ip=F0OSKRqOKxSHDN&token=-mChma0V8iF-",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=llb2BmgBZ3i78gk&expires=1692452108&ip=F0qQKRWQE19XKxR&token=eBEJx7RLEWRA"
+                        "videoUrl": "https://streamtape.com/get_video?id=zx87xeQpXzsYRdv&expires=1692474847&ip=F0OSKRqOKxSHDN&token=-mChma0V8iF-"
                     },
                     {
-                        "url": "https://voe.sx/e/6afuayqya3gt",
+                        "url": "https://voe.sx/e/8cmrdvm7ssqo",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/09351/6afuayqya3gt_,n,.urlset/master.m3u8?t=Ow963B6fqPCfPjWjR66VPMuJKIhJ60IlcdYD-fKk-MM&s=1692382110&e=14400&f=46756856&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/09361/8cmrdvm7ssqo_,n,.urlset/master.m3u8?t=ctoyquWFVob3zrePtFmzM977zGfH--UmbLl2FyPUsGU&s=1692404848&e=14400&f=46805281&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=104.45&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -611,6 +611,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/witch-trials/",
+                                "title": "Witch Trials",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/witch-trials.jpg"
+                            },
+                            {
+                                "url": "/pelicula/but-deliver-us-from-evil/",
+                                "title": "But Deliver Us from Evil",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/but-deliver-us-from-evil.jpg"
+                            },
+                            {
+                                "url": "/pelicula/secuestrada-la-verdad-de-lisa-mcvey/",
+                                "title": "Secuestrada: La verdad de Lisa Mcvey",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/secuestrada-la-verdad-de-lisa-mcvey.jpg"
+                            },
+                            {
+                                "url": "/pelicula/untold-hall-of-shame/",
+                                "title": "Untold: Hall of Shame",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/untold-hall-of-shame.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-guerra-de-las-galaxias/",
+                                "title": "La guerra de las galaxias",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-guerra-de-las-galaxias.jpg"
+                            },
+                            {
+                                "url": "/pelicula/isabella-o-caso-nardoni/",
+                                "title": "Isabella: o Caso Nardoni",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/isabella-o-caso-nardoni.jpg"
+                            },
+                            {
+                                "url": "/pelicula/metalocalypse-army-of-the-doomstar/",
+                                "title": "Metalocalypse: Army of the Doomstar",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/metalocalypse-army-of-the-doomstar.jpg"
+                            },
+                            {
+                                "url": "/pelicula/remember-2022/",
+                                "title": "Remember 2022",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/remember-2022.jpg"
+                            },
+                            {
                                 "url": "/pelicula/la-historia-secreta-del-monopoly/",
                                 "title": "La historia secreta del Monopoly",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/la-historia-secreta-del-monopoly.jpg"
@@ -669,46 +709,6 @@
                                 "url": "/pelicula/goatman/",
                                 "title": "Goatman",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/goatman.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-francotirador-de-dombas/",
-                                "title": "El francotirador de Dombás",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-francotirador-de-dombas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/love-in-a-bottle/",
-                                "title": "Love in a Bottle",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-in-a-bottle.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-blackening/",
-                                "title": "The Blackening",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-blackening.jpg"
-                            },
-                            {
-                                "url": "/pelicula/pillow-party-massacre/",
-                                "title": "Pillow Party Massacre",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pillow-party-massacre.jpg"
-                            },
-                            {
-                                "url": "/pelicula/soundtrack-lado-a/",
-                                "title": "Soundtrack Lado A",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/soundtrack-lado-a.jpg"
-                            },
-                            {
-                                "url": "/pelicula/en-caida-libre/",
-                                "title": "En caída libre",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/en-caida-libre.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-ninera-debe-morir/",
-                                "title": "La niñera debe morir",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-ninera-debe-morir.jpg"
-                            },
-                            {
-                                "url": "/pelicula/h4z4rd/",
-                                "title": "H4Z4RD",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/h4z4rd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-historia-secreta-del-monopoly/",
-                    "title": "La historia secreta del Monopoly",
+                    "url": "/pelicula/witch-trials/",
+                    "title": "Witch Trials",
                     "artist": "",
                     "description": "",
-                    "genre": "Documental",
+                    "genre": "Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-historia-secreta-del-monopoly/",
+                        "url": "/pelicula/witch-trials/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
