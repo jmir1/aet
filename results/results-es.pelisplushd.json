@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/sexo-en-nueva-york",
+                                "title": "Sexo en Nueva York (19982004)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg"
+                            },
+                            {
                                 "url": "/serie/con-tacto-especial",
                                 "title": "Con tacto especial (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6l0Hyufh0FiJMJ7zJntD2YnTfHA.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/how-to-with-john-wilson",
                                 "title": "How To with John Wilson (20202023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpHziYpJniprEFDFwMbOHabgnow.jpg"
-                            },
-                            {
-                                "url": "/serie/justified-ciudad-salvaje",
-                                "title": "Justified: Ciudad salvaje (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sbQCbn2t8mZp7mmGqJlQWbejpLT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -136,6 +136,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/ningen-fushin",
+                                "title": "Ningen Fushin (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3d8C2DEEBe70SIVZZWw1Q08oPvN.jpg"
+                            },
                             {
                                 "url": "/pelicula/all-the-world-is-sleeping",
                                 "title": "All the World Is Sleeping (2023)",
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/jurassic-world-dominion",
                                 "title": "Jurassic World: Dominion (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dinosaur-world",
-                                "title": "Dinosaur World (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dYMd4I42ZJO26OJ18kok3cK7MHu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/con-tacto-especial",
-                    "title": "Con tacto especial (2023)",
-                    "description": ".",
-                    "genre": "Comedia, Drama, Sci-Fi & Fantasy",
+                    "url": "/serie/sexo-en-nueva-york",
+                    "title": "Sexo en Nueva York (19982004)",
+                    "description": "Esta comedia muestra con una mirada fresca y divertida el mundo del sexo y las citas en Nueva York..",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/6l0Hyufh0FiJMJ7zJntD2YnTfHA.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,12 +278,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/con-tacto-especial/temporada/1/capitulo/2",
+                        "url": "/serie/sexo-en-nueva-york/temporada/1/capitulo/2",
                         "name": "T1 - E2: Episodio 2",
                         "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/con-tacto-especial/temporada/1/capitulo/1",
+                        "url": "/serie/sexo-en-nueva-york/temporada/1/capitulo/1",
                         "name": "T1 - E1: Episodio 1",
                         "episode_number": 1.0
                     }
@@ -293,14 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/pjnhmcymolqm",
+                        "url": "https://voe.sx/e/fwaaoctwdgjh",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-mj12nr4idybiuhrg.voe-network.net/engine/hls2/01/09369/pjnhmcymolqm_,n,.urlset/master.m3u8?t=BfNcIC5xR2YndMLoQHK-KQUkVud0Evrmub8EQ2P3fU8&s=1692447028&e=14400&f=46846808&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09370/fwaaoctwdgjh_,n,.urlset/master.m3u8?t=4Dy795A2sIyv8omVUXafp34fa4mZdmX-PngKZKaX9sc&s=1692468457&e=14400&f=46851519&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=20.44&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://voe.sx/e/pjnhmcymolqm",
+                        "url": "https://streamtape.com/get_video?id=MrlppA9RG2HDbJ&expires=1692538456&ip=FROsExqnDS9X&token=opb4H1mqYH-5",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=MrlppA9RG2HDbJ&expires=1692538456&ip=FROsExqnDS9X&token=opb4H1mqYH-5"
+                    },
+                    {
+                        "url": "https://voe.sx/e/fwaaoctwdgjh",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-mj12nr4idybiuhrg.voe-network.net/engine/hls2/01/09369/pjnhmcymolqm_,n,.urlset/master.m3u8?t=BfNcIC5xR2YndMLoQHK-KQUkVud0Evrmub8EQ2P3fU8&s=1692447028&e=14400&f=46846808&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09370/fwaaoctwdgjh_,n,.urlset/master.m3u8?t=4Dy795A2sIyv8omVUXafp34fa4mZdmX-PngKZKaX9sc&s=1692468457&e=14400&f=46851519&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=20.44&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
