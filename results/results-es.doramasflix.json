@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/my-universe?id=64e253c15166fecd96b3f0b0",
+                                "title": "My Universe (Mi universo)",
+                                "description": "(BL) \"My Universe The Series\" explora doce historias de once parejas hombre-hombre, cada uno profundizando en amistades y relaciones entretejidas por una red cósmica de amor. Es una hermosa combinación de romance, drama, comedia, emoción y diversión, que deja a los espectadores profundamente conmovidos.",
+                                "genre": "Drama, Romance, Thriller",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/kCP7X3CgPOO2kO0AHHImMKkOt3E.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/you-are-the-cream-in-my-coffee?id=64dfda165166fecd96b35a87",
                                 "title": "You Are The Cream In My Coffee (Eres la crema en mi café)",
                                 "description": "(GL) Mi cafetería, que solo huele a café tostado pero tú vienes a llenarme de olor a amor. “Tú completas mi cafetería”.",
@@ -456,13 +463,6 @@
                                 "description": "Ling Chao es un chico excepcional en todo, sensible e independiente, mientras que ella es la simpática pero desconsiderada \"conejita\" Xiao Tu. Desde su nacimiento, Ling Chao (Wen Junhui) y Xiao Tu siempre van juntos, y no hay escapatoria. No es hasta que Xiao Tu piensa erróneamente que se ha enamorado de Yin Zihan, un compañero de clase, cuando Ling Chao se da cuenta de lo indispensable que es ella en su corazón. ",
                                 "genre": "Drama, Familia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/4pEcSLM4OBHbg8RMt4tvxpub5yi.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/laws-of-attraction?id=64c5715493b400e82b8d3610",
-                                "title": "Laws of Attraction (Ley de la atraccion)",
-                                "description": "(🌈BL) Charn es un abogado inteligente inclinado a aceptar casos bien pagados y de alto perfil que le darán renombre. En una ocasión, eliminó un caso porque estaba ganando un interés generalizado. Habiendo perdido la cara y la oportunidad, sospecha del motivo de su eliminación y quiere vengarse. Sospecha que puede encontrar algo oculto dentro del caso para su propio beneficio. Por lo tanto, Charn decide cambiar de bando con Tinn, el tío de Tonkhao, una joven que fue atropellada y asesinada por un automóvil y no recibió justicia. Los dos se unen para buscar la verdad.\n\nA pesar de tener puntos de vista opuestos, su cercanía genera nuevos sentimientos. A medida que su trabajo se vuelve más y más peligroso, los dos se dan cuenta de que este caso no es nada común.",
-                                "genre": "Crimen, Drama",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/12PsRj35cwKdg0oBiKEeg1tnVig.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,8 +581,17 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/doramas-online/meant-to-be?id=643db7b4ee74ca76276562fb",
+                    "title": "Meant To Be (Destinado a Suceder)",
+                    "artist": "Kim Yu-seok",
+                    "author": "MBC",
+                    "description": "El drama describe la vida de dos mujeres, Lee Hae In y Kang Se Na, que cayeron en diferentes destinos cuando eran niñas.",
+                    "genre": "Drama, Romance, Acción, Familia, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xdzSO56WueBMW45QHWemV3D6mzJ.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
