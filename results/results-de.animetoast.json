@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg"
+                            },
+                            {
                                 "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/",
                                 "title": "Jitsu wa Ore, Saikyou deshita? Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61221.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/eiyuu-kyoushitsu-ger-sub/",
                                 "title": "Eiyuu Kyoushitsu Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/53202.jpg"
-                            },
-                            {
-                                "url": "/shinigami-bocchan-to-kuro-maid-2nd-season-ger-sub/",
-                                "title": "Shinigami Bocchan to Kuro Maid 2nd Season Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/52026.jpg"
                             },
                             {
                                 "url": "/level-1-dakedo-unique-skill-de-saikyou-desu-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/",
-                    "title": "Jitsu wa Ore, Saikyou deshita? Ger Sub",
-                    "description": "In eine andere Welt reinkarniert zu werden, mit dem Versprechen eine „betrügerischen“ Macht zu erhalten, ist eine Sache … aber als Baby wiedergeboren und dann zum Sterben zurückgelassen zu werden, nachdem die königlichen Eltern ihn für zu machtlos halten? Das ist eine ganz andere Geschichte! Nun muss sich der neugeborene Reinhart – Hart für seine neuen Freunde – in einer gefährlichen Welt zurechtfinden. Aber zum Glück verfügt er über Magie, die buchstäblich den Rahmen sprengt!\n ",
-                    "genre": "Adventure, Fantasy",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!\n ",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61221.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/?link=5",
-                        "name": "Ep. 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/?link=4",
-                        "name": "Ep. 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"S21:E892-1072\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }
