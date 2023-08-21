@@ -22,11 +22,11 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.Exception: This source only uses StreamSB as video hoster, and StreamSB is down.",
                 "passed": false
             }
         }

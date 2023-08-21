@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/see-you-in-my-19th-life-sub-espanol",
+                                "title": "See You In My 19th Life",
+                                "description": "See You In My 19th Life",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/see-you-in-my-19th-life-1692632552.jpg"
+                            },
+                            {
+                                "url": "/dorama/summer-strike-sub-espanol",
+                                "title": "Summer Strike",
+                                "description": "Summer Strike",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/summer-strike-1692627855.jpg"
+                            },
+                            {
                                 "url": "/dorama/dear-m-sub-espanol",
                                 "title": "Dear M",
                                 "description": "Dear M",
@@ -173,18 +185,6 @@
                                 "title": "One Dollar Lawyer",
                                 "description": "One Dollar Lawyer",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/one-dollar-lawyer-1684212686.jpg"
-                            },
-                            {
-                                "url": "/dorama/once-we-get-married-sub-espanol",
-                                "title": "Once We Get Married",
-                                "description": "Once We Get Married",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/once-we-get-married-1684202435.jpg"
-                            },
-                            {
-                                "url": "/dorama/koi-to-dangan-sub-espanol",
-                                "title": "Koi to dangan",
-                                "description": "Koi to dangan",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/koi-to-dangan-1684115603.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,10 +262,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/dear-m-sub-espanol",
-                    "title": "Dear M (Dieoem)",
-                    "description": "Se realiza una búsqueda de \"M\", que escribió algo en el tablero de la comunidad del sitio web de la Universidad de Seoyeon. La escritura puso a la universidad patas arriba. Ma Joo Ah es una estudiante de segundo año en el Departamento de Administración de Empresas de la Universidad de Seoyeon. Tiene un corazón cálido y una personalidad brillante. Ella no está interesada en perseguir un sueño o tener una relación romántica. Nunca antes había tenido novio. Cha Min Ho es un estudiante de segundo año en el Departamento de Informática de la Universidad de Seoyeon. Tiene talento para desarrollar aplicaciones con ideas innovadoras. Ha sido amigo de Ma Joo Ah durante 12 años. Seo Ji Min es estudiante del Departamento de Economía de la Universidad de Seoyeon. También es miembro del equipo de animadores de las escuelas. Park Ha Neul es estudiante del Departamento de Administración de Empresas de la Universidad de Seoyeon y es embajador honorario de la universidad. Reparto ",
-                    "genre": "Romance, Escolar, K-Drama, Juvenil",
+                    "url": "/dorama/see-you-in-my-19th-life-sub-espanol",
+                    "title": "See You In My 19th Life (Please Take Care of Me in This Life as Well)",
+                    "description": "Ban Ji-eum tiene una habilidad extraordinaria: puede recordar las memorias de todas sus vidas pasadas. Repitiendo su reencarnación durante casi mil años, Ban Ji-eun ha estado viviendo sus vidas diligentemente. Después de que su vida anterior se viera truncada por un trágico accidente, se propone volver a conectar con la gente de su vida pasada en la actual, y decide encontrar a un hombre llamado Moon Seo-ha al que conoció en su 18ª vida. ¿Sabotearán los recuerdos de su 18ª vida el romance en la 19ª? ¿O perdurará el amor a través de las diferentes vidas? ",
+                    "genre": "Romance, Comedia, Drama, Fantasia, K-Drama",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -273,12 +273,54 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/see-you-in-my-19th-life-episodio-12",
+                        "name": "Episodio 12.0",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/ver/see-you-in-my-19th-life-episodio-11",
+                        "name": "Episodio 11.0",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=3&sig=7c6RHpZH59Y&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=3&sig=7c6RHpZH59Y&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871"
+                    },
+                    {
+                        "url": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=2&sig=zhPXlxb-Efs&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=2&sig=zhPXlxb-Efs&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871"
+                    },
+                    {
+                        "url": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=1&sig=OmSJwgo6DMc&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=1&sig=OmSJwgo6DMc&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871"
+                    },
+                    {
+                        "url": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=0&sig=YeciqflbsrQ&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=0&sig=YeciqflbsrQ&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871"
+                    },
+                    {
+                        "url": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=4&sig=zj3Ybw_HiOY&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=4&sig=zj3Ybw_HiOY&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871"
+                    },
+                    {
+                        "url": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=5&sig=5BU9cXa6VXU&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd366.mycdn.me/?expires=1692727542056&srcIp=172.177.120.49&pr=10&srcAg=CHROME&ms=185.226.53.73&type=5&sig=5BU9cXa6VXU&ct=0&urls=45.136.20.24&clientType=0&zs=43&id=4982122547871"
+                    }
+                ],
+                "passed": true
             }
         }
     }

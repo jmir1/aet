@@ -205,16 +205,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4558.webp"
                             },
                             {
-                                "url": "/serie/online/cobra-kai",
-                                "title": "Cobra Kai",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5491.webp"
-                            },
-                            {
                                 "url": "/serie/online/os-simpsons",
                                 "title": "Os Simpsons",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18593.webp"
+                            },
+                            {
+                                "url": "/serie/online/cobra-kai",
+                                "title": "Cobra Kai",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5491.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -226,6 +226,12 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/online/operacao-lioness",
+                                "title": "Operação: Lioness",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22407.webp"
+                            },
                             {
                                 "url": "/serie/online/grown-ish",
                                 "title": "Grown-ish",
@@ -339,12 +345,6 @@
                                 "title": "Only Murders in the Building",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19472.webp"
-                            },
-                            {
-                                "url": "/serie/online/riverdale",
-                                "title": "Riverdale",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5046.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,23 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=dwDfdCGED5zKOOjbr8EbRQ&e=1692662756&_t=1692647809",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=dwDfdCGED5zKOOjbr8EbRQ&e=1692662756&_t=1692647809",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
