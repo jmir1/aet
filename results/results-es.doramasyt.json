@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/dear-m-sub-espanol",
+                                "title": "Dear M",
+                                "description": "Dear M",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/dear-m-1692619706.jpg"
+                            },
+                            {
                                 "url": "/dorama/a-romance-of-the-little-forest-sub-espanol",
                                 "title": "A Romance of the Little Forest",
                                 "description": "A Romance of the Little Forest",
@@ -179,12 +185,6 @@
                                 "title": "Koi to dangan",
                                 "description": "Koi to dangan",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/koi-to-dangan-1684115603.jpg"
-                            },
-                            {
-                                "url": "/dorama/lost-man-found-sub-espanol",
-                                "title": "Lost Man Found",
-                                "description": "Lost Man Found",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/lost-man-found-1684034294.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,10 +262,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/a-romance-of-the-little-forest-sub-espanol",
-                    "title": "A Romance of the Little Forest (Two People's Little Forest)",
-                    "description": "La bloguera de moda Yu Mei Ren se basa únicamente en el maquillaje para mantener su apariencia. Querer usar su belleza para tomar represalias contra el hombre que una vez la rechazó, marca el comienzo de una dulce historia de amor que los lleva del campus al campo. ",
-                    "genre": "Romance, Comedia, Drama, Amistad, C-Drama",
+                    "url": "/dorama/dear-m-sub-espanol",
+                    "title": "Dear M (Dieoem)",
+                    "description": "Se realiza una búsqueda de \"M\", que escribió algo en el tablero de la comunidad del sitio web de la Universidad de Seoyeon. La escritura puso a la universidad patas arriba. Ma Joo Ah es una estudiante de segundo año en el Departamento de Administración de Empresas de la Universidad de Seoyeon. Tiene un corazón cálido y una personalidad brillante. Ella no está interesada en perseguir un sueño o tener una relación romántica. Nunca antes había tenido novio. Cha Min Ho es un estudiante de segundo año en el Departamento de Informática de la Universidad de Seoyeon. Tiene talento para desarrollar aplicaciones con ideas innovadoras. Ha sido amigo de Ma Joo Ah durante 12 años. Seo Ji Min es estudiante del Departamento de Economía de la Universidad de Seoyeon. También es miembro del equipo de animadores de las escuelas. Park Ha Neul es estudiante del Departamento de Administración de Empresas de la Universidad de Seoyeon y es embajador honorario de la universidad. Reparto ",
+                    "genre": "Romance, Escolar, K-Drama, Juvenil",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -273,47 +273,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/a-romance-of-the-little-forest-episodio-35",
-                        "name": "Episodio 35.0",
-                        "episode_number": 35.0
-                    },
-                    {
-                        "url": "/ver/a-romance-of-the-little-forest-episodio-34",
-                        "name": "Episodio 34.0",
-                        "episode_number": 34.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd248.mycdn.me/?expires=1692684560368&srcIp=104.210.133.26&pr=10&srcAg=CHROME&ms=45.136.21.49&type=3&sig=EvCdDcwna1A&ct=0&urls=185.226.52.38&clientType=0&zs=43&id=4978739382943",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd248.mycdn.me/?expires=1692684560368&srcIp=104.210.133.26&pr=10&srcAg=CHROME&ms=45.136.21.49&type=3&sig=EvCdDcwna1A&ct=0&urls=185.226.52.38&clientType=0&zs=43&id=4978739382943"
-                    },
-                    {
-                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www14.mp4upload.com:183/d/qwxq577kz3b4quuo66qby22gj7eb7my2lqxvpjc6xiynrepsvxh5wvpdew4knrtio7i2fuqx/video.mp4\"           \n           });\n            if (\"https://www14.mp4upload.com/i/02299/f9fniucawsx2.jpg\") {\n             player.poster(\"https://www14.mp4upload.com/i/02299/f9fniucawsx2.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/f9fniucawsx2\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-f9fniucawsx2.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"f9fniucawsx2\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/f9fniucawsx2\", \"_blank\");\n});   \n      ",
-                        "quality": "Upload",
-                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www14.mp4upload.com:183/d/qwxq577kz3b4quuo66qby22gj7eb7my2lqxvpjc6xiynrepsvxh5wvpdew4knrtio7i2fuqx/video.mp4\"           \n           });\n            if (\"https://www14.mp4upload.com/i/02299/f9fniucawsx2.jpg\") {\n             player.poster(\"https://www14.mp4upload.com/i/02299/f9fniucawsx2.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/f9fniucawsx2\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-f9fniucawsx2.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"f9fniucawsx2\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/f9fniucawsx2\", \"_blank\");\n});   \n      ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "referer": "https://upload.com/"
-                        }
-                    },
-                    {
-                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "quality": "Upload",
-                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
-                            "referer": "https://upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
