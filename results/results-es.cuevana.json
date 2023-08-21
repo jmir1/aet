@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/20035/meu-tio-jose",
+                                "title": "Meu Tio José",
+                                "thumbnail_url": "https://pelisimg.online/cover/meu-tio-jose-1692595361.png"
+                            },
+                            {
                                 "url": "/20034/la-hija-eterna",
                                 "title": "La Hija Eterna",
                                 "thumbnail_url": "https://pelisimg.online/cover/la-hija-eterna-1692522643.png"
@@ -220,11 +225,6 @@
                                 "url": "/19985/pillow-party-massacre",
                                 "title": "Pillow Party Massacre",
                                 "thumbnail_url": "https://pelisimg.online/cover/pillow-party-massacre-1692246893.png"
-                            },
-                            {
-                                "url": "/19984/soundtrack-lado-a",
-                                "title": "Soundtrack Lado A",
-                                "thumbnail_url": "https://pelisimg.online/cover/soundtrack-lado-a-1692246788.png"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/20034/la-hija-eterna",
-                    "title": "La Hija Eterna",
-                    "description": "Una mujer y su anciana madre deben enfrentarse a secretos enterrados hace mucho tiempo cuando regresan a su antigua casa familiar, una antigua gran mansión que se ha convertido en un hotel casi vacío lleno de misterio.",
-                    "genre": "Drama, , Misterio",
-                    "thumbnail_url": "https://pelisimg.online/cover/la-hija-eterna-1692522643.png",
+                    "url": "/20035/meu-tio-jose",
+                    "title": "Meu Tio José",
+                    "description": "It begins in 1983 in Salvador city, with the attack against José, an ex-member of a left-wing political group. Meanwhile, his nephew Adonias is worried about an assignment his teacher has given him. Consequently, Adonias has to deal with his family's suffering, conflicts at school, and the anguish of having to write his school essay.",
+                    "genre": "Animación",
+                    "thumbnail_url": "https://pelisimg.online/cover/meu-tio-jose-1692595361.png",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/20034/la-hija-eterna",
+                        "url": "/20035/meu-tio-jose",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=BBYpADbBX4s2Q2&expires=1692668171&ip=F0OSKRSSDS9XKxR&token=Th-Z16gV8v4i",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=BBYpADbBX4s2Q2&expires=1692668171&ip=F0OSKRSSDS9XKxR&token=Th-Z16gV8v4i"
+                    }
+                ],
+                "passed": true
             }
         }
     }
