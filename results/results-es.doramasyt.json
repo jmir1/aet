@@ -273,12 +273,47 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/a-romance-of-the-little-forest-episodio-5",
+                        "name": "Episodio 5.0",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/ver/a-romance-of-the-little-forest-episodio-4",
+                        "name": "Episodio 4.0",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd321.mycdn.me/?expires=1692664106003&srcIp=40.83.5.29&pr=10&srcAg=CHROME&ms=185.226.53.30&type=4&sig=X7MUz76zoMg&ct=14&urls=45.136.20.26&clientType=0&zs=43&id=4978619976351",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd321.mycdn.me/?expires=1692664106003&srcIp=40.83.5.29&pr=10&srcAg=CHROME&ms=185.226.53.30&type=4&sig=X7MUz76zoMg&ct=14&urls=45.136.20.26&clientType=0&zs=43&id=4978619976351"
+                    },
+                    {
+                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www4.mp4upload.com:183/d/rcx5h77kz3b4quuo66qbyycrjiymailggfoonsxfkkff7bnlxtmbftoivqxtq4pfqnj4d32u/video.mp4\"           \n           });\n            if (\"https://www4.mp4upload.com/i/02299/f2qk099mldrn.jpg\") {\n             player.poster(\"https://www4.mp4upload.com/i/02299/f2qk099mldrn.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/f2qk099mldrn\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-f2qk099mldrn.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"f2qk099mldrn\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/f2qk099mldrn\", \"_blank\");\n});   \n      ",
+                        "quality": "Upload",
+                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www4.mp4upload.com:183/d/rcx5h77kz3b4quuo66qbyycrjiymailggfoonsxfkkff7bnlxtmbftoivqxtq4pfqnj4d32u/video.mp4\"           \n           });\n            if (\"https://www4.mp4upload.com/i/02299/f2qk099mldrn.jpg\") {\n             player.poster(\"https://www4.mp4upload.com/i/02299/f2qk099mldrn.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/f2qk099mldrn\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-f2qk099mldrn.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"f2qk099mldrn\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/f2qk099mldrn\", \"_blank\");\n});   \n      ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://upload.com/"
+                        }
+                    },
+                    {
+                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
+                        "quality": "Upload",
+                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "referer": "https://upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

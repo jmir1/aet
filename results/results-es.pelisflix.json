@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/reindeer-games-homecoming/",
+                                "title": "Reindeer Games Homecoming",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/6rltmnc3Uo61WrPDlnY0.webp"
+                            },
+                            {
+                                "url": "/pelicula/fallen-angels-murder-club-friends-to-die-for/",
+                                "title": "Fallen Angels Murder Club: Friends to Die For",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/2ab7anLo86xwWfzO5HU9mh4Ev.webp"
+                            },
+                            {
+                                "url": "/pelicula/joy-ride/",
+                                "title": "Joy Ride",
+                                "description": "Cuatro amigos asiático-estadounidenses viajan por Asia en busca de una de sus madres biológicas. E...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uYHtzPAEMLheux03SDKOAN38hzu1EaVYYsio8JTKk0.webp"
+                            },
+                            {
+                                "url": "/pelicula/los-amantes-del-engano/",
+                                "title": "Los Amantes del Engaño",
+                                "description": "Adrien, un seductor bailarín que ve su carrera terminada a causa de un accidente de moto, malgasta ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/46fHKdSaKjHtY8c5iVd.webp"
+                            },
+                            {
                                 "url": "/pelicula/blue-beetle/",
                                 "title": "Blue Beetle",
                                 "description": "Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpod...",
@@ -17,12 +41,6 @@
                                 "title": "Collection",
                                 "description": "Un padre afligido lidia con el mundo sórdido y manipulador del cobro de deudas de alto riesgo mient...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5WyLxfDTTJRchpaQO7fzaTtwdkc7KZLGMa.webp"
-                            },
-                            {
-                                "url": "/pelicula/joy-ride/",
-                                "title": "Joy Ride",
-                                "description": "Cuatro amigos asiático-estadounidenses viajan por Asia en busca de una de sus madres biológicas. E...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uYHtzPAEMLheux03SDKOAN38hzu1EaVYYsio8JTKk0.webp"
                             },
                             {
                                 "url": "/pelicula/el-ultimo-viaje-del-demeter/",
@@ -227,24 +245,6 @@
                                 "title": "Soundtrack Lado A",
                                 "description": "Chema y Nacho quieren armar una banda, pero no tienen idea de cómo hacerlo, hasta que descubren que...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/aiFv6LzoDfxje92k.webp"
-                            },
-                            {
-                                "url": "/pelicula/pillow-party-massacre/",
-                                "title": "Pillow Party Massacre",
-                                "description": "After a bullying incident leads to tragedy, four former High school friends reconnect at a vacation ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/eswcHyv59oHGsFAYeIhWkPlvTfct3La73x9B.webp"
-                            },
-                            {
-                                "url": "/pelicula/conjuring-the-beyond/",
-                                "title": "Conjuring: The Beyond",
-                                "description": "Un estudio del sueño sale mal cuando los participantes comienzan a desaparecer.",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/YsbCKzhydeOizdsAj9.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-blackening/",
-                                "title": "The Blackening",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5kAIeXkq0kMETZ4KkDZeUMUgiTFf8D.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/blue-beetle/",
-                    "title": "Blue Beetle",
-                    "description": "Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.",
-                    "genre": "Acción, C. Ficción",
+                    "url": "/pelicula/reindeer-games-homecoming/",
+                    "title": "Reindeer Games Homecoming",
+                    "description": "",
+                    "genre": "Comedia, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/blue-beetle/",
+                        "url": "/pelicula/reindeer-games-homecoming/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar kTgLOsOxv = \"\"; DPWUOqDUyd.forEach(function Oym(value) { kTgLOsOxv += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
