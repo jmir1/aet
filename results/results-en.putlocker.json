@@ -11,6 +11,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/when-calls-the-heart-39004/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/ee706a3feff1f13824cef0f45c879ef2.jpg"
+                            },
+                            {
+                                "url": "/film/one-piece-39514/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/75e0bfae315594720f884d77f482e63f.jpg"
+                            },
+                            {
                                 "url": "/film/couch-talk-with-captain-lee-and-kate-99529/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/c6ad77215181c153bce08b3faa54de97.jpg"
                             },
@@ -57,10 +65,6 @@
                             {
                                 "url": "/film/the-real-housewives-of-new-york-city-38347/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/70135b23f7e7e8bd2d52d08556af4d59.jpg"
-                            },
-                            {
-                                "url": "/film/one-piece-39514/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/75e0bfae315594720f884d77f482e63f.jpg"
                             },
                             {
                                 "url": "/film/the-legend-of-zhuohua-99484/",
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/love-of-replica-99499/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/e01d1806bbd542d9993286789a58e5de.jpg"
-                            },
-                            {
-                                "url": "/film/the-challenge-usa-84082/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/ee97acfb43d83e75dbfdd9159a0ba53c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/couch-talk-with-captain-lee-and-kate-99529/",
-                    "title": "Couch Talk with Captain Lee and Kate",
+                    "url": "/film/when-calls-the-heart-39004/",
+                    "title": "When Calls the Heart",
                     "author": "",
-                    "description": "Capt. Lee is back on land in Fort Lauderdale, Fla., looking to get caught up on all the Bravo shows he missed while at sea, and asks his favorite chief stew - and close friend - Kate, to join him for some TV.\n\nQuality: HD\nRelease: 2023-08-14\nIMDb: n/a",
-                    "genre": "Reality",
+                    "description": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.\n\nQuality: HD\nRelease: 2014-01-11\nIMDb: 7.9",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":4,\"ids\":[\"39004_4_1\",\"39004_4_2\",\"39004_4_3\"]}",
+                        "name": "Episode 4: Exposed",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "{\"ep_num\":3,\"ids\":[\"39004_3_1\",\"39004_3_2\",\"39004_3_3\"]}",
+                        "name": "Episode 3: Enslaved",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
