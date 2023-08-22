@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/dounia-et-la-princesse-dalep/",
+                                "title": "Dounia et la Princesse d'Alep",
+                                "description": "Alepo es una de las ciudades más misteriosas del mundo. Allí vive Dounia, rodeada de amigos, del o...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/OW9XlwDqj9yMFwOgjs9q.webp"
+                            },
+                            {
+                                "url": "/pelicula/10-minutes-gone/",
+                                "title": "10 Minutes Gone",
+                                "description": "Un criminal pierde la memoria tras un atraco fallido a un banco. Para descubrir quién es el respons...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/sgzTHbwKImj5tqXvOdAq.webp"
+                            },
+                            {
                                 "url": "/pelicula/inside-man/",
                                 "title": "Inside Man",
                                 "description": "",
@@ -233,18 +245,6 @@
                                 "title": "3022",
                                 "description": "Un grupo de astronautas que viven en el inquietante vacío del espacio profundo despierta para encon...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/y1dw2hAzv3clTtNfVbAr.webp"
-                            },
-                            {
-                                "url": "/pelicula/evil-nanny-secretas-intenciones/",
-                                "title": "Evil Nanny (Secretas intenciones)",
-                                "description": "Cuando Fay vuelve al trabajo tras su baja de maternidad, ella y su marido deciden contratar a Jen, u...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/IqfufWTxZT0RK1O7U1vw.webp"
-                            },
-                            {
-                                "url": "/pelicula/unwelcome/",
-                                "title": "Unwelcome",
-                                "description": "Cuando los londinenses Maya y Jamie, una pareja que espera a su primer hijo, heredan una casa en la ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/FBDiizDV0FgKBtehAqCKI9IoIAYbBvQ6Wkf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/inside-man/",
-                    "title": "Inside Man",
-                    "description": "",
-                    "genre": "Crimen, Drama, Suspense",
+                    "url": "/pelicula/dounia-et-la-princesse-dalep/",
+                    "title": "Dounia et la Princesse d'Alep",
+                    "description": "Alepo es una de las ciudades más misteriosas del mundo. Allí vive Dounia, rodeada de amigos, del olor de las especias, la alegría de la música y la magia de las leyendas. Pero un mal día llegan los bombardeos. Dounia tiene que abandonar el país, iniciando un viaje lleno de peligros, ayudada por la Princesa de Alepo y el mágico poder de un puñado de semillas. Superando dificultades, junto a otros refugiados, Dounia deberá encontrar un nuevo país donde empezar una nueva vida.",
+                    "genre": "Animación",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/inside-man/",
+                        "url": "/pelicula/dounia-et-la-princesse-dalep/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar KGYDKGO = \"\"; yWeiaxi.forEach(function Oym(value) { KGYDKGO += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
