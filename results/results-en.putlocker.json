@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/past-lives-97795/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/a19ac7bb192038864ee144857d4843d7.jpg"
+                            },
+                            {
                                 "url": "/film/when-calls-the-heart-39004/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/ee706a3feff1f13824cef0f45c879ef2.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/fated-to-love-you-99514/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/0d8ff34c49a70e170645af9cb99de7d2.jpg"
-                            },
-                            {
-                                "url": "/film/love-of-replica-99499/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/e01d1806bbd542d9993286789a58e5de.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/when-calls-the-heart-39004/",
-                    "title": "When Calls the Heart",
+                    "url": "/film/past-lives-97795/",
+                    "title": "Past Lives",
                     "author": "",
-                    "description": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.\n\nQuality: HD\nRelease: 2014-01-11\nIMDb: 7.9",
-                    "genre": "Drama",
+                    "description": "Two childhood friends are separated after one’s family emigrates from South Korea. Two decades later, they are reunited in New York for one week as they confront notions of destiny, love and the choices that make a life.\n\nQuality: HD\nRelease: 2023-06-02\nIMDb: 8.4",
+                    "genre": "Drama, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,22 +360,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "{\"ep_num\":4,\"ids\":[\"39004_4_1\",\"39004_4_2\",\"39004_4_3\"]}",
-                        "name": "Episode 4: Exposed",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "{\"ep_num\":3,\"ids\":[\"39004_3_1\",\"39004_3_2\",\"39004_3_3\"]}",
-                        "name": "Episode 3: Enslaved",
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }

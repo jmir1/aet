@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/nausicaa-del-valle-del-viento/",
+                                "title": "Nausicaä del Valle del Viento",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6P1TCPn8Vpk6ZeFCVy82aW7r8Zj.jpg"
+                            },
+                            {
                                 "url": "/love-class-s2/",
                                 "title": "Love Class S2 (4/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1EifcpzLENMK0JhHShOuVt2HNBK.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/dinosaur-love/",
                                 "title": "Dinosaur Love (5/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/aiOGPUnuPIRHf8RKwxC9NN3MCzp.jpg"
-                            },
-                            {
-                                "url": "/burn-the-house-down/",
-                                "title": "Burn the House Down Temporada completa (08/08)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/nausicaa-del-valle-del-viento/",
+                                "title": "Nausicaä del Valle del Viento",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6P1TCPn8Vpk6ZeFCVy82aW7r8Zj.jpg"
+                            },
+                            {
                                 "url": "/love-class-s2/",
                                 "title": "Love Class S2 (4/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1EifcpzLENMK0JhHShOuVt2HNBK.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/dinosaur-love/",
                                 "title": "Dinosaur Love (5/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/aiOGPUnuPIRHf8RKwxC9NN3MCzp.jpg"
-                            },
-                            {
-                                "url": "/burn-the-house-down/",
-                                "title": "Burn the House Down Temporada completa (08/08)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3YYRKnhUPZHXBpY2SAZzRaMwt20.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/love-class-s2/",
-                    "title": "Love Class S2 (4/10)",
-                    "description": "Mientras tanto, Joo Hyuk es un estudiante que acaba de regresar al campus después de haberse tomado un descanso. Él conoce a un hombre llamado Sung Min con el cual tiene una aventura después de que se conociesen por casualidad, pero este último se desvanece sin dejar rastro a la mañana siguiente. Joo Hyuk queda sorprendido cuando luego descubre que Sung Min es en realidad su profesor auxiliar en su nueva clase. Y su compañero de clase Min Woo también está atascado en una confusa situación romántica: Él tiene un enamoramiento secreto con su desempleado mejor amigo Ma Roo.",
-                    "genre": "Escolar, Romance, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/1EifcpzLENMK0JhHShOuVt2HNBK.jpg",
+                    "url": "/nausicaa-del-valle-del-viento/",
+                    "title": "Nausicaä del Valle del Viento",
+                    "description": "En un futuro lejano, en un mundo post-apocalíptico, la Tierra está cubierta por unos bosques llenos de hongos venenosos e insectos gigantescos. Los humanos han quedado reducidos a unos pocos pueblos aislados que intentan sobrevivir a la plaga mientras luchan entre ellos. En medio de todo esto la princesa Nausicaä, del Valle del Viento, quien ama a los insectos, buscará comprender el origen del problema y conseguir la paz entre los hombres, y sobre todo entre éstos y el bosque.",
+                    "genre": "Aventura, Ciencia Ficción, Drama, Fantasía, Psicológico, Sobrenatural",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/6P1TCPn8Vpk6ZeFCVy82aW7r8Zj.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/4327665/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
