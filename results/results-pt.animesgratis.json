@@ -1,39 +1,100 @@
 [
     {
-        "name": "Animes Grátis",
+        "name": "AnimesOnline",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan/",
+                                "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/m40KDFjK7OwOEdgGw98PpjWSLOT.jpg"
+                            },
+                            {
+                                "url": "/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-dublado/",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nWX0UcQMj3kJyqBFBE65dd7y3Px.jpg"
+                            },
+                            {
+                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lvirACCy3AQUIB2hUSnKFGe3Ill.jpg"
+                            },
+                            {
+                                "url": "/animes/okashi-na-tensei/",
+                                "title": "Okashi na Tensei",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/riEgkIxvReTOMwP7fjk59pQesQh.jpg"
+                            },
+                            {
+                                "url": "/animes/jitsu-wa-ore-saikyou-deshita/",
+                                "title": "Jitsu wa Ore, Saikyou deshita?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/bGXYvnEJwsk2BuwMMUP1LqjZnSl.jpg"
+                            },
+                            {
+                                "url": "/animes/goblin-slayer/",
+                                "title": "Goblin Slayer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nrAS0A39AW0fezW3gFmsKEDzGiU.jpg"
+                            },
+                            {
+                                "url": "/animes/link-click-2/",
+                                "title": "Link Click 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5B0BO1TJsCqE3fqQBRIiS842XKm.jpg"
+                            },
+                            {
+                                "url": "/animes/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu/",
+                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hWNbDTx9F2Rf4XD3czdMry9e3Nn.jpg"
+                            },
+                            {
+                                "url": "/animes/fog-hill-of-five-elements-2/",
+                                "title": "Fog Hill of Five Elements 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ad8ECFk6fFNmvJtwgzUoefiw5oL.jpg"
+                            },
+                            {
+                                "url": "/animes/watashi-no-shiawase-na-kekkon/",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ah6TeFIa7bIUI3rwxUw8cRjW7ZK.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
                             {
-                                "url": "/animes/tonikaku-kawaii-joshikou-hen/",
-                                "title": "Tonikaku Kawaii: Joshikou-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kuIIOBLkEVj6vJJBsiW4mTUD6ra.jpg"
+                                "url": "/episodio/undead-murder-farce-episodio-8/",
+                                "title": "Undead Murder Farce – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/y2NSPqgJX6xwSAMKkz00H0lj1D7.jpg"
                             },
                             {
-                                "url": "/animes/undead-girl-murder-farce/",
-                                "title": "Undead Girl Murder Farce",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mDLMFBx6h6y2hBLmyfyMKLCgTeb.jpg"
+                                "url": "/episodio/shiro-seijo-to-kuro-bokushi-episodio-7/",
+                                "title": "Shiro Seijo to Kuro Bokushi – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/m019pkL0f4meq1wDMKeaylcBV3K.jpg"
                             },
                             {
-                                "url": "/animes/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou/",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg"
+                                "url": "/episodio/the-first-order-episodio-6/",
+                                "title": "The First Order – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/vNjSvV8cmZWZEkg9WK4Nvom69Lb.jpg"
                             },
                             {
-                                "url": "/animes/watashi-no-shiawase-na-kekkon/",
-                                "title": "Watashi no Shiawase na Kekkon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ah6TeFIa7bIUI3rwxUw8cRjW7ZK.jpg"
+                                "url": "/episodio/watashi-no-shiawase-na-kekkon-episodio-8/",
+                                "title": "Watashi no Shiawase na Kekkon – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/o9XXuJ00NmAgxOTAJwo82iIQiQI.jpg"
                             },
                             {
-                                "url": "/animes/shiro-seijo-to-kuro-bokushi/",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uSS7l6Njnr2VrE7LE3ZTQnRtAK9.jpg"
+                                "url": "/episodio/bungou-stray-dogs-5-episodio-7/",
+                                "title": "Bungou Stray Dogs 5 – Episódio 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/5ZV96Fj8yU3VbprffCVq5eG6TGI.jpg"
+                            },
+                            {
+                                "url": "/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-episodio-8/",
+                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/kaSVO6UjJxJLRtAyCRFamZSisLx.jpg"
                             },
                             {
                                 "url": "/episodio/tonikaku-kawaii-joshikou-hen-episodio-4/",
@@ -154,59 +215,9 @@
                                 "url": "/episodio/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-episodio-6/",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi – Episódio 6",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/e7isowjKfzmIwKp0Ajg64Wbaisc.jpg"
-                            },
-                            {
-                                "url": "/animes/tonikaku-kawaii-joshikou-hen/",
-                                "title": "Tonikaku Kawaii: Joshikou-hen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kuIIOBLkEVj6vJJBsiW4mTUD6ra.jpg"
-                            },
-                            {
-                                "url": "/animes/bleach-sennen-kessen-hen-dublado/",
-                                "title": "Bleach: Sennen Kessen-hen Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/o8J1HvqO6QF1hMTY0eQq7itnUn4.jpg"
-                            },
-                            {
-                                "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-dublado/",
-                                "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan Dublado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/m40KDFjK7OwOEdgGw98PpjWSLOT.jpg"
-                            },
-                            {
-                                "url": "/animes/the-legend-of-magic-outfit/",
-                                "title": "The Legend of Magic Outfit",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wKVz6DwlAhwOznewaHVqDQs5edY.jpg"
-                            },
-                            {
-                                "url": "/animes/bungou-stray-dogs-5/",
-                                "title": "Bungou Stray Dogs 5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/d1oi1LhV5OoITLwgTD64zy0Ucoa.jpg"
-                            },
-                            {
-                                "url": "/animes/bungou-stray-dogs-4/",
-                                "title": "Bungou Stray Dogs 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7jFybcZHqtznFaDVEwq4OW6ycpi.jpg"
-                            },
-                            {
-                                "url": "/animes/bungou-stray-dogs-3/",
-                                "title": "Bungou Stray Dogs 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/unXfz3NgNOcNJsDkipelLLweHxt.jpg"
-                            },
-                            {
-                                "url": "/animes/bungou-stray-dogs-2/",
-                                "title": "Bungou Stray Dogs 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/asaCdFqx6HLpgTkpc6lzVcvpTXa.jpg"
-                            },
-                            {
-                                "url": "/animes/bungou-stray-dogs/",
-                                "title": "Bungou Stray Dogs",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j3AxbSzNHcaDhL7Jyi2FkxvQz2m.jpg"
-                            },
-                            {
-                                "url": "/animes/mori-no-kuma-san-toumin-chuu/",
-                                "title": "Mori no Kuma-san, Toumin-chuu.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tZ6MYeshNaVeggzYZagZgem1CPV.jpg"
                             }
                         ],
-                        "hasNextPage": false
+                        "hasNextPage": true
                     }
                 ],
                 "passed": true
@@ -215,6 +226,66 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animes/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg"
+                            },
+                            {
+                                "url": "/animes/sword-art-online-alicization-war-of-underworld-2/",
+                                "title": "Sword Art Online: Alicization – War of Underworld 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aaa62CnA8wJLkGu0KHhg8TKxSPq.jpg"
+                            },
+                            {
+                                "url": "/animes/sword-art-online-alicization-war-of-underworld/",
+                                "title": "Sword Art Online: Alicization – War of Underworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hcYRMCTwIe3aOveEBSPwB2QCIAy.jpg"
+                            },
+                            {
+                                "url": "/animes/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3mhFxFzTF0faJwPM0937qTxYHeU.jpg"
+                            },
+                            {
+                                "url": "/animes/maou-evelogia-ni-mi-wo-sasage-yo/",
+                                "title": "Maou Evelogia ni Mi wo Sasage yo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6Juf2mClD4JpfLVU2YDjLKzFd9E.jpg"
+                            },
+                            {
+                                "url": "/animes/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito/",
+                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gZ1BLVWgpAASudNZymVqaaVOT4d.jpg"
+                            },
+                            {
+                                "url": "/animes/kaminaki-sekai-no-kamisama-katsudou/",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uTb2twGxJuJN0qdcz3yQQfIHOrN.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-shoukan-wa-nidome-desu/",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/sAI7DYEuM9mdtZWJiK7YFQcCn0b.jpg"
+                            },
+                            {
+                                "url": "/animes/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta/",
+                                "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/50OsbGp6AWw4za2aAM82vKburcg.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-kara-hajimeru-isekai-seikatsu-2-part-2/",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2 Part 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lktlVRIHEwS3QkgEb1v3uvpTDvp.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-kara-hajimeru-isekai-seikatsu-2/",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/48mHsftoaWKFdmQMUkO8EYxPNl7.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-kara-hajimeru-isekai-seikatsu/",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg"
+                            }
                         ],
                         "hasNextPage": false
                     }
@@ -222,22 +293,103 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan/",
+                    "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan",
+                    "description": "Segunda parte da adaptação do arco final de Bleach.\n\nTítulo original: BLEACH",
+                    "genre": "Ação, Aventura, Fantasia, Shounen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/m40KDFjK7OwOEdgGw98PpjWSLOT.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodio/bleach-sennen-kessen-hen-ketsubetsu-tan-episodio-7/",
+                        "name": "Episódio 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/episodio/bleach-sennen-kessen-hen-ketsubetsu-tan-episodio-6/",
+                        "name": "Episódio 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www.secvideo1.online/get_file/15/b83d8abe968651c63f747394361806b6d1fedd9e2c/715000/715574/715574_720p.mp4/",
+                        "quality": "Ruplay - 720p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/15/b83d8abe968651c63f747394361806b6d1fedd9e2c/715000/715574/715574_720p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/15/b83d8abe968651c63f747394361806b6d1fedd9e2c/715000/715574/715574_720p.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://wht.nuplink.net/pool/pub/01/ba/11/bca462038a5e9bb010898decfc01ba11/421656677?token=2fbdaffdf31c4cda03ad77c1d21fd1e4&ts=1692812344&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/01/ba/11/bca462038a5e9bb010898decfc01ba11/421656677?token=2fbdaffdf31c4cda03ad77c1d21fd1e4&ts=1692812344&ht=video/mp4"
+                    },
+                    {
+                        "url": "https://s-delivery47.mxdcontent.net/v/dffe343af4e5bc7a6a09b2f88a072040.mp4?s=XPZesg1BE4m7OsWQfAhL8g&e=1692835608&_t=1692818607",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery47.mxdcontent.net/v/dffe343af4e5bc7a6a09b2f88a072040.mp4?s=XPZesg1BE4m7OsWQfAhL8g&e=1692835608&_t=1692818607",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6baA7gWdZeCLJ2&expires=1692884007&ip=FRAsF0gnDS9X&token=mjXFtiedSXK7",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6baA7gWdZeCLJ2&expires=1692884007&ip=FRAsF0gnDS9X&token=mjXFtiedSXK7"
+                    },
+                    {
+                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/04421/79ca4oosnj0n_h/index-v1-a1.m3u8?t=_N1W2VwbV24o5NBYZqLljvMOYuZrqTshD-2TRT6CUE4&s=1692814006&e=43200&f=22108562&srv=01&asn=8075&sp=2000",
+                        "quality": "Filemoon - 1080p",
+                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/01/04421/79ca4oosnj0n_h/index-v1-a1.m3u8?t=_N1W2VwbV24o5NBYZqLljvMOYuZrqTshD-2TRT6CUE4&s=1692814006&e=43200&f=22108562&srv=01&asn=8075&sp=2000",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/79ca4oosnj0n?poster=https://image.tmdb.org/t/p/w1280/xc45VI4kgSzQJTop0wLZMQG8WuQ.jpg",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    },
+                    {
+                        "url": "https://jigd4wsqcucx.sw-cdnstream.com/hls2/01/01220/ej8q26clka4k_x/index-v1-a1.m3u8?t=hXVjnZfwcLS8_eXNxw8hK_XuzaBtEyivkFiTPszSUOQ&s=1692814005&e=129600&f=6104994&srv=nkLOLP4B1HAm&i=0.4&sp=500&p1=nkLOLP4B1HAm&p2=nkLOLP4B1HAm&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://jigd4wsqcucx.sw-cdnstream.com/hls2/01/01220/ej8q26clka4k_x/index-v1-a1.m3u8?t=hXVjnZfwcLS8_eXNxw8hK_XuzaBtEyivkFiTPszSUOQ&s=1692814005&e=129600&f=6104994&srv=nkLOLP4B1HAm&i=0.4&sp=500&p1=nkLOLP4B1HAm&p2=nkLOLP4B1HAm&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.0 Safari/537.36",
+                            "Referer": "https://embedwish.com/e/ej8q26clka4k?poster=https://image.tmdb.org/t/p/w1280/xc45VI4kgSzQJTop0wLZMQG8WuQ.jpg",
+                            "Accept": "*/*",
+                            "Origin": "https://embedwish.com"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/15/9269f5696c089ee5e291ed6e1874cb965af733d62c/715000/715574/715574.mp4/",
+                        "quality": "Ruplay - 1080p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/15/9269f5696c089ee5e291ed6e1874cb965af733d62c/715000/715574/715574.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/15/9269f5696c089ee5e291ed6e1874cb965af733d62c/715000/715574/715574.mp4/"
+                        }
+                    },
+                    {
+                        "url": "https://www.secvideo1.online/get_file/15/bede8c471014bc20c8276348a7cb2a860ad75b713f/715000/715574/715574_360p.mp4/",
+                        "quality": "Ruplay - 360p",
+                        "videoUrl": "https://www.secvideo1.online/get_file/15/bede8c471014bc20c8276348a7cb2a860ad75b713f/715000/715574/715574_360p.mp4/",
+                        "headers": {
+                            "Referer": "https://www.secvideo1.online/get_file/15/bede8c471014bc20c8276348a7cb2a860ad75b713f/715000/715574/715574_360p.mp4/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

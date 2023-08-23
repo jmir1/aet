@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/destined-with-you-2023-episode-1",
+                                "title": "Destined With You (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/this-relationship-is-force-majeure-1690859994.png"
+                            },
+                            {
                                 "url": "/videos/my-lovely-boxer-2023-episode-2",
                                 "title": "My Lovely Boxer (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/pure-boxer-1689578671.png"
@@ -57,7 +62,7 @@
                                 "thumbnail_url": "https://imagecdn.me/cover/d-p-season-2-1689143547.png"
                             },
                             {
-                                "url": "/videos/longing-for-you-2023-episode-8",
+                                "url": "/videos/longing-for-you-2023-episode-9",
                                 "title": "Longing for You (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/ive-been-waiting-for-you-for-a-long-time-1689056284.png"
                             },
@@ -150,11 +155,6 @@
                                 "url": "/videos/oh-youngsimi-2023-episode-10",
                                 "title": "Oh! Youngsimi (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/oh-youngsimi-2023-1683653372.png"
-                            },
-                            {
-                                "url": "/videos/all-that-we-loved-2023-episode-8",
-                                "title": "All That We Loved (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/all-that-we-loved-1682703055.png"
                             }
                         ],
                         "hasNextPage": true
@@ -287,7 +287,7 @@
                                 "thumbnail_url": "https://imagecdn.me/cover/new-world-2021.png"
                             },
                             {
-                                "url": "/videos/her-world-2023-episode-16",
+                                "url": "/videos/her-world-2023-episode-18",
                                 "title": "Her World (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/her-world-1692065099.png"
                             },
@@ -324,9 +324,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/videos/my-lovely-boxer-2023-episode-2",
-                    "title": "My Lovely Boxer (2023)",
-                    "description": "Kim Tae Young is a cold-blooded sports agent. He draws talented players into the sports field and makes as much money from them in a short period of time, before they burn out. One of his clients is Kim Hee Won. He is an excellent baseball pitcher and, unlike his other clients, he also means something to Kim Tae Young. For Kim Hee Won, who is in a difficult situation, Kim Tae Young receives a task to bring female boxer Lee Kwon Sook back to the boxing ring. 3 years ago, Lee Kwon Sook emerged as an elite boxer at the age of 17. She was undefeated in all of her matches and she brought popularity to the sport. Suddenly, Lee Kwon Sook disappeared. For Kim Hee Won, Kim Tae Young approaches Lee Kwon Sook, who has started a new life away from boxing. Adapted from the novel \"Sunjeongbokseo Ikwonsuk\" (순정복서 이권숙) by Choo Jong Nam (추종남). Episodes: 12",
+                    "url": "/videos/destined-with-you-2023-episode-1",
+                    "title": "Destined With You (2023)",
+                    "description": "Lee Hong Jo is the lowest grade civil servant. She always does her best at work, even though she suffers from many civil complaints. In her personal life, she is used to being alone. One day, she happens to become the owner of an old wooden chest and the key to lift a curse from Jang Shin Yu. Jang Shin Yu is a competent lawyer who is smart and good-looking. He is usually in the spotlight wherever he goes, but he suffers from an unexplained disease. His condition gets progressively worse. He is desperate to lift the curse that has run through his family for generations. A lawyer bound by a centuries-old curse becomes entangled with a civil servant who holds the key to his freedom — igniting an unexpected romance. (Source: AsianWiki; Netflix) Episodes: 16",
                     "initialized": true
                 },
                 "passed": true
@@ -334,21 +334,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/videos/my-lovely-boxer-2023-episode-2",
-                        "name": "SUB Episode: My Lovely Boxer (2023) Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/videos/my-lovely-boxer-2023-episode-1",
-                        "name": "SUB Episode: My Lovely Boxer (2023) Episode 1",
+                        "url": "/videos/destined-with-you-2023-episode-1",
+                        "name": "SUB Episode: Destined With You (2023) Episode 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Rer3MZV7xjIdrZq&expires=1692884005&ip=FROsE0EnDS9X&token=Q1dk4OoXBKkF",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Rer3MZV7xjIdrZq&expires=1692884005&ip=FROsE0EnDS9X&token=Q1dk4OoXBKkF"
+                    }
+                ],
+                "passed": true
             }
         }
     }
