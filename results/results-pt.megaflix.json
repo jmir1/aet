@@ -3,8 +3,49 @@
         "name": "Megaflix",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
+                                "title": "Guardiões da Galáxia: Vol. 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg"
+                            },
+                            {
+                                "url": "/filme/a-pequena-sereia-2023-assistir-online-1689865198/",
+                                "title": "A Pequena Sereia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2oVEdOpE6CYJmF1hNnIfMwuBHPx.jpg"
+                            },
+                            {
+                                "url": "/filme/transformers-o-despertar-das-feras-2023-assistir-online-1691894213/",
+                                "title": "Transformers: O Despertar das Feras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg"
+                            },
+                            {
+                                "url": "/filme/barbie-2023-assistir-online-1692070065/",
+                                "title": "Barbie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+                            },
+                            {
+                                "url": "/filme/ruby-marinho-monstro-adolescente-2023-assistir-online/",
+                                "title": "Ruby Marinho - Monstro Adolescente",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg"
+                            },
+                            {
+                                "url": "/filme/the-flash-2023-assistir-online-1688862087/",
+                                "title": "The Flash",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/itYONYDHpJqTuu8BCXAtHxgpglq.jpg"
+                            },
+                            {
+                                "url": "/filme/missao-impossivel-acerto-de-contas-parte-1-2023-assistir-online/",
+                                "title": "Missão: Impossível - Acerto de Contas Parte 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -278,11 +319,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/fundacao-2021-assistir-online/",
-                    "title": "Fundação",
-                    "description": "Inspirada nas obras de romance de Isaac Asimov, Foundation retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.",
-                    "genre": "Drama, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/lFgwBRCzlsFTs9B6PXK3sCyZcQ0.jpg",
+                    "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
+                    "title": "Guardiões da Galáxia: Vol. 3",
+                    "description": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+                    "genre": "Ação, Aventura, Ficção científica",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -290,21 +331,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodio/fundacao-2x10/",
-                        "name": "Fundação 2x10",
-                        "episode_number": 210.0
-                    },
-                    {
-                        "url": "/episodio/fundacao-2x9/",
-                        "name": "Fundação 2x9",
-                        "episode_number": 209.0
+                        "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1692970483&ip=F0OSKRqOKxSHDN&token=-fZwZ5NWv7SP",
+                        "quality": "StreamTape - Legendado",
+                        "videoUrl": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1692970483&ip=F0OSKRqOKxSHDN&token=-fZwZ5NWv7SP"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1692970482&ip=F0OSKRqOKxSHDN&token=-hDwDiAGXPWd",
+                        "quality": "StreamTape - Dublado",
+                        "videoUrl": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1692970482&ip=F0OSKRqOKxSHDN&token=-hDwDiAGXPWd"
+                    }
+                ],
+                "passed": true
             }
         }
     }
