@@ -300,24 +300,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s206d1.akdl.link/download/1693009701/64e7f5a55a64e/Trafficking.2023.1080p.Bluray.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s206d1.akdl.link/download/1693009701/64e7f5a55a64e/Trafficking.2023.1080p.Bluray.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s318d1.akdl.link/download/1693009701/64e7f5a5d78a9/Trafficking.2023.720p.Bluray.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s318d1.akdl.link/download/1693009701/64e7f5a5d78a9/Trafficking.2023.720p.Bluray.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s204d1.akdl.link/download/1693009702/64e7f5a60b838/Trafficking.2023.480p.Bluray.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s204d1.akdl.link/download/1693009702/64e7f5a60b838/Trafficking.2023.480p.Bluray.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
