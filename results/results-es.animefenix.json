@@ -323,32 +323,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/isekai-quartet-the-movie-another-world",
-                                "title": "ISEKAI QUARTET the Movie -Another World-",
-                                "description": "Todos los peculiares estudiantes han viajado nuevamente, ¡a otro mundo! Y es un mundo repleto de gólems que los atacan y que en apariencia está vacío, pero... no del todo. Allí descubrirán ciertos misterios y tendrán que buscar el modo de volver a su mundo original... o a la escuela, ¡a cualquier sitio menos donde están ahora!",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/63a5dca1f39e1/isekai-quartet-the-movie-another-world.jpg"
-                            },
-                            {
-                                "url": "/shin-tennis-no-ouji-sama-u-17-world-cup",
-                                "title": "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
-                                "description": "Cuando el fenómeno del tenis Ryoma Echizen es expulsado del campo de entrenamiento de élite Sub-17 de Japón por romper las reglas, se siente abatido. Pero un golpe de buena suerte lo golpea cuando puede hacer una prueba para el equipo de EE. UU. Demostrar su valía contra sus curtidos veteranos no será fácil y, si es aceptado, tendrá que jugar contra sus antiguos amigos. ¿Podrá ayudar a sus nuevos hermanos a abrirse camino hacia la victoria?",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/62b38ca725ad2/shin-tennis-no-ouji-sama-u-17-world-cup.jpg"
-                            },
-                            {
-                                "url": "/boku-no-hero-academia-the-movie-world-heroes-mission",
-                                "title": "Boku no Hero Academia the Movie: World Heroes' Mission",
-                                "description": "Cuando una organización siniestra amenaza con acabar con todos los poderes sobrehumanos, el destino del mundo está en juego. A dos horas del colapso de la civilización, Deku, Bakugo y Todoroki logran trabajar en equipo, pero aún hay un problema. Deku está huyendo por asesinato.",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/620d0c3365e31/boku-no-hero-academia-the-movie-world-heroes-mission.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -379,19 +355,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/EUkkReemFAz1WHNx5qkxdgKp8eYtYIumasaUwtbMgcIeJxFPc",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/U1GaZSNRrU9Sx1eremfyewxxATrohp5vZZCO9SFau3EeJxFPc",
                         "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/EUkkReemFAz1WHNx5qkxdgKp8eYtYIumasaUwtbMgcIeJxFPc"
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/U1GaZSNRrU9Sx1eremfyewxxATrohp5vZZCO9SFau3EeJxFPc"
                     },
                     {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/6VVTmOei9CdTltf4-7yjVlrtFgK9zZBSNui28u8g474eJxFPc",
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/3I5rjw89izsUt0DlBbd1xu7SJBHsKuzIv3Cy6oXX0HceJxFPc",
                         "quality": "Amazon ES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/6VVTmOei9CdTltf4-7yjVlrtFgK9zZBSNui28u8g474eJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/3I5rjw89izsUt0DlBbd1xu7SJBHsKuzIv3Cy6oXX0HceJxFPc"
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwamturvuvhmfn2nzz6s7brg7cmuaem/video.mp4",
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwbnfgx7h3zzldiabo4fk4b2vly6z56/video.mp4",
                         "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwamturvuvhmfn2nzz6s7brg7cmuaem/video.mp4",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwbnfgx7h3zzldiabo4fk4b2vly6z56/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://mp4upload.com/"
