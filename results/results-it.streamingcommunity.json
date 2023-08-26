@@ -1,29 +1,654 @@
 [
     {
-        "name": "StreamingCommunity",
+        "name": "StreamingCommunity (IT)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "6649-operazione-kandahar",
+                                "title": "Operazione Kandahar",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/eda6cdcc-f649-42e4-a8d5-b272e0dc1b04.webp"
+                            },
+                            {
+                                "url": "6648-as-bestas-la-terra-della-discordia",
+                                "title": "As bestas - La terra della discordia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a200df23-54a6-4de6-8872-8eee53eaf1bd.webp"
+                            },
+                            {
+                                "url": "6647-paso-adelante",
+                                "title": "Paso adelante",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/488c6826-bf5a-458a-b0f7-13e60afcaf21.webp"
+                            },
+                            {
+                                "url": "6645-physical-da-100-a-1",
+                                "title": "Physical: da 100 a 1",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c8d5aa1b-9834-40ce-ae17-aec9cba10a97.webp"
+                            },
+                            {
+                                "url": "6644-physical-da-100-a-1",
+                                "title": "Physical: da 100 a 1",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/45e7269b-23fe-4872-8e2e-78a9a37068c3.webp"
+                            },
+                            {
+                                "url": "6643-il-racconto-perfetto",
+                                "title": "Il racconto perfetto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/918e53d3-82b4-4eaa-b719-5c4bb669f2fa.webp"
+                            },
+                            {
+                                "url": "6642-ti-presento-i-suoceri",
+                                "title": "Ti presento i suoceri",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a72000ee-c877-4fbc-a962-d500ea9d2b62.webp"
+                            },
+                            {
+                                "url": "6641-the-chi",
+                                "title": "The Chi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/07d057b3-341b-4a0a-8e91-b07dadc62c3e.webp"
+                            },
+                            {
+                                "url": "6640-la-tribu-del-pallone-4",
+                                "title": "La tribù del pallone 4",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/39672e18-d4e9-4d98-995a-48c1f61c19af.webp"
+                            },
+                            {
+                                "url": "6639-la-tribu-del-pallone-3",
+                                "title": "La tribù del pallone 3",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2f2b8d62-f70e-4312-b492-8baa29d6a8d5.webp"
+                            },
+                            {
+                                "url": "6638-la-tribu-del-pallone-2",
+                                "title": "La tribù del pallone 2",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7aee2520-ef2a-451c-89df-d90e960ea3e8.webp"
+                            },
+                            {
+                                "url": "6637-la-tribu-del-pallone",
+                                "title": "La tribù del pallone",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5305923e-603b-48a2-87be-6cfd2bc56072.webp"
+                            },
+                            {
+                                "url": "6636-la-caduta-gli-ultimi-giorni-di-hitler",
+                                "title": "La caduta - Gli ultimi giorni di Hitler",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d2d258c4-90b4-4990-ad5a-82c5d65e2ac2.webp"
+                            },
+                            {
+                                "url": "6635-mask-girl",
+                                "title": "Mask Girl",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8d89d16a-8f8c-4d09-94e7-687b0afc0a1d.webp"
+                            },
+                            {
+                                "url": "6634-mask-girl",
+                                "title": "Mask Girl",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a74f7505-2e6c-4c91-8ba1-130d6f98eda5.webp"
+                            },
+                            {
+                                "url": "6633-fright-night-2-sangue-fresco",
+                                "title": "Fright Night 2 - Sangue fresco",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/ba98c6b2-fd5e-4b91-9452-ecd54292977d.webp"
+                            },
+                            {
+                                "url": "6632-maneater",
+                                "title": "Maneater",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/24a9c473-fc36-4fb9-8cab-7f6cc030d821.webp"
+                            },
+                            {
+                                "url": "6631-il-sol-dellavvenire",
+                                "title": "Il sol dell'avvenire",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9e3a3c99-20ec-4548-b328-d8dd23845307.webp"
+                            },
+                            {
+                                "url": "6630-jodie-il-prescelto",
+                                "title": "Jodie, il prescelto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/120d9f71-bcc5-404b-b4bd-ee6e13817f0c.webp"
+                            },
+                            {
+                                "url": "6629-depp-contro-heard",
+                                "title": "Depp contro Heard",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/6391c388-3f47-42c0-9668-8a5eec413a71.webp"
+                            },
+                            {
+                                "url": "6628-un-tuffo-nel-passato",
+                                "title": "Un tuffo nel passato",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/6e274adf-dbca-4aec-ac77-b90e418c772a.webp"
+                            },
+                            {
+                                "url": "6627-pandorum-luniverso-parallelo",
+                                "title": "Pandorum - L'universo parallelo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/685e18cc-ad7f-4f45-b174-2f1be1b3f294.webp"
+                            },
+                            {
+                                "url": "6626-il-sacrificio-del-cervo-sacro",
+                                "title": "Il sacrificio del cervo sacro",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/550abd75-11f7-4283-aefc-c7a606e748fc.webp"
+                            },
+                            {
+                                "url": "6625-le-conseguenze-dellamore",
+                                "title": "Le conseguenze dell'amore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f91160a4-980f-439d-9b61-7b85b41f1662.webp"
+                            },
+                            {
+                                "url": "6624-4-mosche-di-velluto-grigio",
+                                "title": "4 mosche di velluto grigio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5e838d2d-17c3-48a3-908f-abc2b52c5ef7.webp"
+                            },
+                            {
+                                "url": "6623-vacanze-ai-caraibi-il-film-di-natale",
+                                "title": "Vacanze ai Caraibi - Il film di Natale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5f906357-fba8-420f-90b6-71beee77878c.webp"
+                            },
+                            {
+                                "url": "6622-il-giro-del-mondo-in-80-giorni",
+                                "title": "Il giro del mondo in 80 giorni",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5f6f0608-7a49-4de9-b1cc-26f29cb80227.webp"
+                            },
+                            {
+                                "url": "6621-il-nome-della-rosa",
+                                "title": "Il nome della rosa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a5f32932-1b51-4d32-a094-d6463acf82e0.webp"
+                            },
+                            {
+                                "url": "6620-un-detective-alla-bixler-high",
+                                "title": "Un detective alla Bixler High",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a21a6a29-5c0b-4cf0-a531-860dc92bf0e3.webp"
+                            },
+                            {
+                                "url": "6619-sergio-leone-litaliano-che-invento-lamerica",
+                                "title": "Sergio Leone - L'italiano che inventò l'America",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/78375937-bae6-48f0-91e7-ad512c21eca0.webp"
+                            },
+                            {
+                                "url": "6618-cielo-dottobre",
+                                "title": "Cielo d'ottobre",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/964973b6-8f15-475e-932d-23175d1d2613.webp"
+                            },
+                            {
+                                "url": "6617-jack-e-jill",
+                                "title": "Jack e Jill",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2b700291-94cb-4dfd-b396-191e3b08595d.webp"
+                            },
+                            {
+                                "url": "6616-world-trade-center",
+                                "title": "World Trade Center",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/008ba330-d262-4126-af15-9a2c307056b3.webp"
+                            },
+                            {
+                                "url": "6615-nell",
+                                "title": "Nell",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2e981a83-9cd7-416b-9455-e310b2f63d5d.webp"
+                            },
+                            {
+                                "url": "6614-la-memoria-del-cuore",
+                                "title": "La memoria del cuore",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1e2ec2ee-7199-4c07-8148-594c37743147.webp"
+                            },
+                            {
+                                "url": "6613-requiem-for-a-dream",
+                                "title": "Requiem for a Dream",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/ab032060-5d09-49e0-a756-066e91b2a070.webp"
+                            },
+                            {
+                                "url": "6612-boat-trip-crociera-per-single",
+                                "title": "Boat Trip - Crociera per single",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/891af012-697a-4265-8a17-6ed910edbaec.webp"
+                            },
+                            {
+                                "url": "6611-i-perche-di-forky-che-cose-un-leader",
+                                "title": "I perchè di Forky: che cos'è un leader?",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c9682077-3c09-406f-93f9-fed42be63b77.webp"
+                            },
+                            {
+                                "url": "6610-i-perche-di-forky-che-cosa-sono-i-soldi",
+                                "title": "I perché di Forky: Che cosa sono i soldi?",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0bbbfd89-878e-4d06-ab37-8d72dc2b2172.webp"
+                            },
+                            {
+                                "url": "6609-cannibal-holocaust",
+                                "title": "Cannibal Holocaust",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2848f76b-74ed-461a-bbdf-a6bc922dbf49.webp"
+                            },
+                            {
+                                "url": "6608-robert",
+                                "title": "Robert",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c9093fdf-1db0-4532-9511-c78e4f4b8280.webp"
+                            },
+                            {
+                                "url": "6607-sballati-per-le-feste",
+                                "title": "Sballati per le feste!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/de39d170-dffa-47b5-b9df-cc74f2c5ac30.webp"
+                            },
+                            {
+                                "url": "6606-il-nome-del-figlio",
+                                "title": "Il nome del figlio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a5533087-c85d-4a97-b794-51be88031bd8.webp"
+                            },
+                            {
+                                "url": "6605-loro-chi",
+                                "title": "Loro chi?",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e608d1b1-b29a-4629-9aac-34c5c9291c6d.webp"
+                            },
+                            {
+                                "url": "6604-noi-e-la-giulia",
+                                "title": "Noi e la Giulia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/078c4104-568b-4cb0-983d-2b3177295f0e.webp"
+                            },
+                            {
+                                "url": "6603-non-essere-cattivo",
+                                "title": "Non essere cattivo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c7562afd-58e8-41ed-bb74-81cc75d8cb58.webp"
+                            },
+                            {
+                                "url": "6602-no-escape-colpo-di-stato",
+                                "title": "No Escape - Colpo di stato",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0257a0c5-7c2b-4ad7-811d-ec4c5280c147.webp"
+                            },
+                            {
+                                "url": "6601-sotto-il-cielo-delle-hawaii",
+                                "title": "Sotto il cielo delle Hawaii",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5d9ed14f-5fcb-466a-9102-847bccadc866.webp"
+                            },
+                            {
+                                "url": "6600-lo-chiamavano-jeeg-robot",
+                                "title": "Lo chiamavano Jeeg Robot",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/297367c9-9343-4bc2-bed4-42a1742b5dd5.webp"
+                            },
+                            {
+                                "url": "6599-self-less",
+                                "title": "Self/less",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5833fb76-4284-45e9-9dc6-05d140c9045e.webp"
+                            },
+                            {
+                                "url": "6598-true-story",
+                                "title": "True Story",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/ee5166f6-0243-4308-872d-46b9cd0ca937.webp"
+                            },
+                            {
+                                "url": "6597-si-accettano-miracoli",
+                                "title": "Si accettano miracoli",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5a7f569b-30f8-4570-b414-f1ee8e48df82.webp"
+                            },
+                            {
+                                "url": "6596-barry",
+                                "title": "Barry",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/121a3ce2-a656-4dbf-9436-efd14fb63dca.webp"
+                            },
+                            {
+                                "url": "6595-fidanzata-in-affitto",
+                                "title": "Fidanzata in affitto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e31ee3e5-3b36-48a3-8bde-aac4306b0255.webp"
+                            },
+                            {
+                                "url": "6594-sahara",
+                                "title": "Sahara",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e80b7624-7da8-42a0-8e59-d466db43a1bc.webp"
+                            },
+                            {
+                                "url": "6593-rosso-bianco-and-sangue-blu",
+                                "title": "Rosso, bianco & sangue blu",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/cd4f1673-2999-41bb-98b5-9527263bc2f8.webp"
+                            },
+                            {
+                                "url": "6592-heart-of-stone",
+                                "title": "Heart of Stone",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7f2ec7b5-d6ca-4fbd-8e85-8a577a3e4d67.webp"
+                            },
+                            {
+                                "url": "6591-the-reef-intrappolate",
+                                "title": "The Reef: intrappolate",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7cc8248b-e429-4a56-8ee6-69ec79db8a34.webp"
+                            },
+                            {
+                                "url": "6590-5-minuti-prima",
+                                "title": "5 minuti prima",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/107bc62b-2641-40ff-ba21-cff352b2ea50.webp"
+                            },
+                            {
+                                "url": "6589-painkiller",
+                                "title": "Painkiller",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1026becc-0c53-43d2-b59e-f32875bb72ca.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "1587-world-of-winx",
+                                "title": "World of Winx",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5f294f00-b0dd-44ff-b532-407f58c04ead.webp"
+                            },
+                            {
+                                "url": "762-world-war-z",
+                                "title": "World War Z",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/43c19d88-9e5e-4d5b-aa60-e03c0343fa55.webp"
+                            },
+                            {
+                                "url": "6616-world-trade-center",
+                                "title": "World Trade Center",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/008ba330-d262-4126-af15-9a2c307056b3.webp"
+                            },
+                            {
+                                "url": "1723-worlds-most-wanted",
+                                "title": "World's Most Wanted",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/25aebdb9-5a81-4817-801d-48ac4969eb52.webp"
+                            },
+                            {
+                                "url": "6423-worlds-best",
+                                "title": "World's Best",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2df99579-2846-4d40-bd5d-6ec4c15b5ceb.webp"
+                            },
+                            {
+                                "url": "2250-jurassic-world-nuove-avventure",
+                                "title": "Jurassic World - Nuove avventure",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3d2f5bd8-306e-43fd-a87e-d6c9b81018e1.webp"
+                            },
+                            {
+                                "url": "2427-trolls-world-tour",
+                                "title": "Trolls World Tour",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/35c06ef2-220f-4923-8130-8b3bcd5788e3.webp"
+                            },
+                            {
+                                "url": "2947-miraculous-world-new-york-eroi-uniti",
+                                "title": "Miraculous World: New York, eroi uniti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/09ee7ab3-8f1e-481b-9cb9-9456f0d498c5.webp"
+                            },
+                            {
+                                "url": "3920-miraculous-world-shanghai-la-leggenda-di-ladydragon",
+                                "title": "Miraculous World: Shanghai, La Leggenda di Ladydragon",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9a550485-1ed7-456f-bb5e-36451d3bd860.webp"
+                            },
+                            {
+                                "url": "4340-dinosaur-world",
+                                "title": "Dinosaur World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/93083d29-38cb-4e2e-8644-03bd1b1c12c8.webp"
+                            },
+                            {
+                                "url": "4660-jurassic-world-il-dominio",
+                                "title": "Jurassic World - Il dominio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/27e73428-8713-41bc-a933-a5a7bb0d0bce.webp"
+                            },
+                            {
+                                "url": "5969-strange-world-un-mondo-misterioso",
+                                "title": "Strange World - Un mondo misterioso",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/aafac26d-c001-4e9f-984f-9bc7cdcd089c.webp"
+                            },
+                            {
+                                "url": "831-jurassic-world",
+                                "title": "Jurassic World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/cad4b4d7-94ea-410b-9564-234c4d5eddb5.webp"
+                            },
+                            {
+                                "url": "832-jurassic-world-il-regno-distrutto",
+                                "title": "Jurassic World – Il regno distrutto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/fa69b377-e3a2-4b83-974e-1f4a389357b1.webp"
+                            },
+                            {
+                                "url": "3803-between-worlds-vite-parallele",
+                                "title": "Between Worlds - Vite parallele",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e4a8127e-4169-4a7a-808d-730ee3f65a31.webp"
+                            },
+                            {
+                                "url": "2814-brave-new-world",
+                                "title": "Brave New World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c1cffc50-7fb4-4231-9aa3-d5b9be1ff993.webp"
+                            },
+                            {
+                                "url": "3334-run-the-world",
+                                "title": "Run the World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/face4c2a-22ac-45ce-a623-e636f657e708.webp"
+                            },
+                            {
+                                "url": "378-thor-the-dark-world",
+                                "title": "Thor: The Dark World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f570fa4c-05d3-4093-a320-5e7ee34d9ed1.webp"
+                            },
+                            {
+                                "url": "2283-the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/92639725-ce72-4cb4-adb1-d1a323ab9be0.webp"
+                            },
+                            {
+                                "url": "5719-star-trek-strange-new-worlds",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/83153d6e-b37c-47c9-adb2-9cb67b8439c0.webp"
+                            },
+                            {
+                                "url": "117-the-end-of-the-fing-world",
+                                "title": "The End of the F***ing World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a9ddf0f1-e2b7-48fc-8c58-176ed5bd7fa4.webp"
+                            },
+                            {
+                                "url": "2277-la-fine-del-mondo",
+                                "title": "La fine del mondo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/cecf43d9-3d6e-4631-8cf0-60d95540af8b.webp"
+                            },
+                            {
+                                "url": "3422-il-mondo-che-verra",
+                                "title": "Il mondo che verrà",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/6865ba5c-0ed4-4852-af23-5a0cc83b245a.webp"
+                            },
+                            {
+                                "url": "5061-il-mondo-non-basta",
+                                "title": "Il mondo non basta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e34cad42-c4ab-4317-9194-b0ff6db7c63a.webp"
+                            },
+                            {
+                                "url": "2599-mondi-alieni",
+                                "title": "Mondi Alieni",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/58be8b66-6200-48d5-9ee1-1e431555fece.webp"
+                            },
+                            {
+                                "url": "5313-lo-straordinario-mondo-di-gumball",
+                                "title": "Lo straordinario mondo di Gumball",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7a315fe6-64a9-4a8a-81c9-16fa7de13b2b.webp"
+                            },
+                            {
+                                "url": "834-il-mondo-perduto-jurassic-park",
+                                "title": "Il mondo perduto - Jurassic Park",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/64d7288f-477c-4f7e-8484-539c5953d496.webp"
+                            },
+                            {
+                                "url": "2872-notizie-dal-mondo",
+                                "title": "Notizie dal mondo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/99b6a731-ed97-494b-bb9a-89e504dff2ce.webp"
+                            },
+                            {
+                                "url": "487-la-guerra-dei-mondi",
+                                "title": "La guerra dei mondi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5fde6bd9-ca98-48b3-8608-a8f3e5995a10.webp"
+                            },
+                            {
+                                "url": "281-pirati-dei-caraibi-ai-confini-del-mondo",
+                                "title": "Pirati dei Caraibi - Ai confini del mondo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/95fac280-f1cd-4931-b5bb-d29565886c79.webp"
+                            },
+                            {
+                                "url": "3161-un-colpo-fatto-ad-arte",
+                                "title": "Un colpo fatto ad arte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/72381f56-6e7a-4a90-b47a-d58c984e757e.webp"
+                            },
+                            {
+                                "url": "2124-pocahontas-ii-viaggio-nel-nuovo-mondo",
+                                "title": "Pocahontas II - Viaggio nel nuovo mondo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5d6db08b-8f9c-464e-a663-4b8272f6f446.webp"
+                            },
+                            {
+                                "url": "5441-running-with-the-devil-lincredibile-storia-di-john-mcafee",
+                                "title": "Running with the Devil: l'incredibile storia di John McAfee",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8e026494-3fb7-4b6c-ba54-c2d339c445cc.webp"
+                            },
+                            {
+                                "url": "633-dragon-trainer-il-mondo-nascosto",
+                                "title": "Dragon Trainer - Il mondo nascosto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/40cdbde8-1974-45c7-b701-1555b8809449.webp"
+                            },
+                            {
+                                "url": "460-master-and-commander-sfida-ai-confini-del-mare",
+                                "title": "Master and Commander - Sfida ai confini del mare",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/4aad4eb1-fe14-4416-8ed0-eb4dd578e847.webp"
+                            },
+                            {
+                                "url": "1246-fury",
+                                "title": "Fury",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c88e03ec-d562-42cf-97f0-d8bb52361592.webp"
+                            },
+                            {
+                                "url": "1331-band-of-brothers-fratelli-al-fronte",
+                                "title": "Band of Brothers - Fratelli al fronte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/800d3679-2c78-445a-8a91-6c33bc1714ab.webp"
+                            },
+                            {
+                                "url": "1467-luomo-che-uccise-hitler-e-poi-il-bigfoot",
+                                "title": "L'uomo che uccise Hitler e poi il Bigfoot",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/753795b2-5e06-47b9-a123-91d62b579d2a.webp"
+                            },
+                            {
+                                "url": "1611-la-vita-nascosta-hidden-life",
+                                "title": "La vita nascosta - Hidden Life",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7e33bb56-0bc3-4180-be78-23f8eadb4bdc.webp"
+                            },
+                            {
+                                "url": "1735-greyhound-il-nemico-invisibile",
+                                "title": "Greyhound: il nemico invisibile",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/6a7d2c9d-1f35-43fd-badd-cb4e5dd2d885.webp"
+                            },
+                            {
+                                "url": "1829-il-nemico-alle-porte",
+                                "title": "Il nemico alle porte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/55482a71-7df6-4cea-af63-1884eb012db1.webp"
+                            },
+                            {
+                                "url": "1931-pearl-harbor",
+                                "title": "Pearl Harbor",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f026a3f6-4a66-4b63-92e9-57e5cdac8e2f.webp"
+                            },
+                            {
+                                "url": "1987-australia",
+                                "title": "Australia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9ee2cdd6-389c-485a-b4fc-c09c34d6e007.webp"
+                            },
+                            {
+                                "url": "2308-storia-di-una-ladra-di-libri",
+                                "title": "Storia di una ladra di libri",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/64aaf9e5-2998-4c2f-963b-f9b325a84dd8.webp"
+                            },
+                            {
+                                "url": "2725-monuments-men",
+                                "title": "Monuments Men",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f933e30c-d0d2-4a9e-ad8e-639f756a4981.webp"
+                            },
+                            {
+                                "url": "2802-il-fotografo-di-mauthausen",
+                                "title": "Il fotografo di Mauthausen",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/bee541e4-f266-4318-8a30-98f1b81390a0.webp"
+                            },
+                            {
+                                "url": "2963-il-pianista",
+                                "title": "Il pianista",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c1c72d51-77e4-477f-907f-1201917da0e5.webp"
+                            },
+                            {
+                                "url": "3071-la-leggenda-di-bagger-vance",
+                                "title": "La leggenda di Bagger Vance",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d581f925-481b-4283-af52-fd96de6e253e.webp"
+                            },
+                            {
+                                "url": "3083-lora-piu-buia",
+                                "title": "L'ora più buia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/be01baff-8005-4563-a345-dbed73b9c7ff.webp"
+                            },
+                            {
+                                "url": "3084-operation-finale",
+                                "title": "Operation Finale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/066cb74f-031a-4fb5-97cb-7ee605a5ccdd.webp"
+                            },
+                            {
+                                "url": "3088-war-horse",
+                                "title": "War Horse",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7c22676a-1651-4371-a47e-625ab81cbf80.webp"
+                            },
+                            {
+                                "url": "3090-swing-kids-giovani-ribelli",
+                                "title": "Swing Kids - Giovani ribelli",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/23a373f3-f478-426d-9d88-7a96bb5214a3.webp"
+                            },
+                            {
+                                "url": "3203-la-nave-matta-di-mister-roberts",
+                                "title": "La nave matta di Mister Roberts",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5af095cf-7f9b-4c03-8d92-ee22d4ce2142.webp"
+                            },
+                            {
+                                "url": "3305-the-rifleman",
+                                "title": "The Rifleman",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8cc7c4b7-868d-4702-a2a3-72aabb064849.webp"
+                            },
+                            {
+                                "url": "3864-mediterraneo",
+                                "title": "Mediterraneo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5ab3677d-c2ea-4b8c-b7a3-a480eb708a34.webp"
+                            },
+                            {
+                                "url": "4053-la-battaglia-dimenticata",
+                                "title": "La battaglia dimenticata",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a843c0ea-60a5-4e6b-96fb-a110fcfb4683.webp"
+                            },
+                            {
+                                "url": "4135-freaks-out",
+                                "title": "Freaks Out",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e36e2ac1-86fc-4553-87de-3665a796a6bb.webp"
+                            },
+                            {
+                                "url": "4762-unombra-negli-occhi",
+                                "title": "Un'ombra negli occhi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8d39ab26-f596-422b-99f8-3972c73996eb.webp"
+                            },
+                            {
+                                "url": "4782-la-battaglia-di-hacksaw-ridge",
+                                "title": "La battaglia di Hacksaw Ridge",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2a6cf738-3134-49fc-bdba-2a7a3cfca010.webp"
+                            },
+                            {
+                                "url": "5005-shadow-in-the-cloud",
+                                "title": "Shadow in the Cloud",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/3e3b1500-de31-4bb7-b5fc-5098f36c2eba.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "6649-operazione-kandahar",
+                    "description": "Dopo che la sua missione è stata scoperta, un agente sotto copertura della CIA bloccato in un territorio ostile in Afghanistan deve farsi strada, insieme al suo traduttore afghano, fino a un punto di estrazione a Kandahar, il tutto evitando le forze nemiche d'élite e le spie straniere incaricate di dar loro la caccia.",
+                    "genre": "Azione, Thriller",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "6649",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

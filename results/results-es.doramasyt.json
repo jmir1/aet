@@ -1,11 +1,17 @@
 [
     {
-        "name": "Doramasyt",
+        "name": "Doramasyt (ES)",
         "results": {
             "popular": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/dorama/king-the-land-latino-sub-espanol",
+                                "title": "King the Land Latino",
+                                "description": "King the Land Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/king-the-land-latino-1693000314.jpg"
+                            },
                             {
                                 "url": "/dorama/king-the-land-sub-espanol",
                                 "title": "King the Land",
@@ -179,12 +185,6 @@
                                 "title": "Cute Programmer",
                                 "description": "Cute Programmer",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/cute-programmer-1688741357.jpg"
-                            },
-                            {
-                                "url": "/dorama/extraordinary-you-sub-espanol",
-                                "title": "Extraordinary You",
-                                "description": "Extraordinary You",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/extraordinary-you-1688565811.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,8 +262,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/king-the-land-sub-espanol",
-                    "title": "King the Land (Kingdeolaendeudr)",
+                    "url": "/dorama/king-the-land-latino-sub-espanol",
+                    "title": "King the Land Latino (Kingdeolaendeudr Audio Latino)",
                     "description": "En plena disputa por el control de la empresa familiar, un encantador heredero choca con una empleada conocida por su irresistible sonrisa... que él no puede soportar. ",
                     "genre": "Romance, Comedia, Drama, K-Drama",
                     "status": 2,
@@ -273,8 +273,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/king-the-land-latino-episodio-12",
+                        "name": "Episodio 12.0",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/ver/king-the-land-latino-episodio-11",
+                        "name": "Episodio 11.0",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

@@ -1,30 +1,145 @@
 [
     {
-        "name": "NollyVerse",
+        "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/who-is-erin-carter",
+                                "title": "Who Is Erin Carter?",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/who-is-erin-carter.jpg"
+                            },
+                            {
+                                "url": "/serie/ahsoka",
+                                "title": "Ahsoka",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/ahsoka.jpg"
+                            },
+                            {
+                                "url": "/serie/the-winter-king",
+                                "title": "The Winter King",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-winter-king.jpg"
+                            },
+                            {
+                                "url": "/serie/mask-girl",
+                                "title": "Mask Girl",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/mask-girl.jpg"
+                            },
+                            {
+                                "url": "/serie/guns-gulaabs",
+                                "title": "Guns & Gulaabs",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/guns-gulaabs.jpg"
+                            },
+                            {
+                                "url": "/serie/harlan-cobens-shelter",
+                                "title": "Harlan Coben's Shelter",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/harlan-cobens-shelter.jpg"
+                            },
+                            {
+                                "url": "/serie/mech-cadets",
+                                "title": "Mech Cadets",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/mech-cadets.jpg"
+                            },
+                            {
+                                "url": "/serie/painkiller",
+                                "title": "Painkiller",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/painkiller.jpg"
+                            },
+                            {
+                                "url": "/serie/zombieverse",
+                                "title": "Zombieverse",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/zombieverse.jpg"
+                            },
+                            {
+                                "url": "/serie/turn-of-the-tide",
+                                "title": "Turn of the Tide",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/turn-of-the-tide.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/edge-of-the-world",
+                                "title": "Edge of the World (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/movie/2025---the-world-enslaved-by-a-virus",
+                                "title": "2025 - The World enslaved by a Virus (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/2025---the-world-enslaved-by-a-virus.jpg"
+                            },
+                            {
+                                "url": "/movie/world-s-biggest-bull-shark-",
+                                "title": "World's Biggest Bull Shark? (2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/world-s-biggest-bull-shark-.jpg"
+                            },
+                            {
+                                "url": "/serie/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too (2023-)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too.jpg"
+                            },
+                            {
+                                "url": "/serie/the-walking-dead-world-beyond",
+                                "title": "The Walking Dead: World Beyond (2020-2021)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-walking-dead-world-beyond.jpg"
+                            },
+                            {
+                                "url": "/serie/the-end-of-the-f-ing-world",
+                                "title": "The End of the F***ing World (2017-2019)",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-end-of-the-f-ing-world.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/serie/who-is-erin-carter",
+                    "title": "Who Is Erin Carter? (2023-2023)",
+                    "description": "A British woman's tranquil life in Barcelona spirals out of control when an armed robbery at a supermarket exposes her secret... and violent past.",
+                    "genre": "Action, Adventure, Crime",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/serie/who-is-erin-carter/season-1#7",
+                        "name": "Episode S1E7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/serie/who-is-erin-carter/season-1#6",
+                        "name": "Episode S1E6",
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dl3.fm6x.sbs/Series_05/Who.is.Erin.Carter/Who.is.Erin.Carter.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+                        "quality": "720px",
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/Who.is.Erin.Carter/Who.is.Erin.Carter.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

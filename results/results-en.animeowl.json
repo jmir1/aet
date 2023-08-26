@@ -1,6 +1,6 @@
 [
     {
-        "name": "AnimeOwl",
+        "name": "AnimeOwl (EN)",
         "results": {
             "popular": {
                 "result": [
@@ -167,6 +167,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hyakushou-kizoku/",
+                                "title": "Hyakushou Kizoku",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru/",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/anime/sugar-apple-fairy-tale-part-2/",
                                 "title": "Sugar Apple Fairy Tale Part 2",
                                 "thumbnail_url": ""
@@ -305,16 +315,6 @@
                                 "url": "/anime/bosanimal/",
                                 "title": "Bosanimal",
                                 "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/okashi-na-tensei/",
-                                "title": "Okashi na Tensei",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/yumemiru-danshi-wa-genjitsushugisha/",
-                                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                                "thumbnail_url": ""
                             }
                         ],
                         "hasNextPage": true
@@ -323,7 +323,7 @@
                 "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: .....ry for any inconvenience caused.\n</p>\n</div>\n</body>\n</html>",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html>\n<head>\n.....",
                 "passed": false
             },
             "details": {

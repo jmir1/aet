@@ -1,6 +1,6 @@
 [
     {
-        "name": "Pelisflix",
+        "name": "Pelisflix (ES)",
         "results": {
             "popular": {
                 "result": [
@@ -517,13 +517,13 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar UXhdtbL = \"\"; ltRMQwqrhc.forEach(function Oym(value) { UXhdtbL += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
     },
     {
-        "name": "Seriesflix",
+        "name": "Seriesflix (ES)",
         "results": {
             "popular": {
                 "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure",

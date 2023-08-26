@@ -1,6 +1,6 @@
 [
     {
-        "name": "Anime-Base",
+        "name": "Anime-Base (DE)",
         "results": {
             "popular": {
                 "error": "java.lang.Exception: bruh",
@@ -11,15 +11,22 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.lang.Exception: This source only uses StreamSB as video hoster, and StreamSB is down.",
                 "passed": false
             }
         }
