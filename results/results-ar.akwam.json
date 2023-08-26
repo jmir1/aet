@@ -300,34 +300,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s103.akw.onl/download/1693096035/64e946e341d9a/Meg.2.The.Trench.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s103.akw.onl/download/1693096035/64e946e341d9a/Meg.2.The.Trench.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s104.akw.onl/download/1693096035/64e946e36ac96/Meg.2.The.Trench.2023.1080p.WEB-DL.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s104.akw.onl/download/1693096035/64e946e36ac96/Meg.2.The.Trench.2023.1080p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s104.akw.onl/download/1693096035/64e946e39451c/Meg.2.The.Trench.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s104.akw.onl/download/1693096035/64e946e39451c/Meg.2.The.Trench.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s103.akw.onl/download/1693096035/64e946e3bca24/Meg.2.The.Trench.2023.720p.WEB-DL.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s103.akw.onl/download/1693096035/64e946e3bca24/Meg.2.The.Trench.2023.720p.WEB-DL.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s203d2.akdl.link/download/1693096035/64e946e3e9a39/Meg.2.The.Trench.2023.480p.WEB-DL.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s203d2.akdl.link/download/1693096035/64e946e3e9a39/Meg.2.The.Trench.2023.480p.WEB-DL.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

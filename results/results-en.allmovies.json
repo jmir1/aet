@@ -3,7 +3,7 @@
         "name": "AllMoviesForYou (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
@@ -162,9 +162,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://v807.streamhub.ink/hls/sc6t7adwwqytnuzvouks5mjau6hs7nn3mfizgrvtlwyxa76pztv7rv3nle4q/index-v1-a1.m3u8",
+                        "url": "https://v807.streamhub.ink/hls/sc6t7adwwqytnuzvouks5mjau6hs7nn3mfizgrvtlwyxb35a3s3cvyb3m7qq/index-v1-a1.m3u8",
                         "quality": "720p",
-                        "videoUrl": "https://v807.streamhub.ink/hls/sc6t7adwwqytnuzvouks5mjau6hs7nn3mfizgrvtlwyxa76pztv7rv3nle4q/index-v1-a1.m3u8"
+                        "videoUrl": "https://v807.streamhub.ink/hls/sc6t7adwwqytnuzvouks5mjau6hs7nn3mfizgrvtlwyxb35a3s3cvyb3m7qq/index-v1-a1.m3u8"
                     }
                 ],
                 "passed": true
