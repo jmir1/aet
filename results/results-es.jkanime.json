@@ -3,7 +3,7 @@
         "name": "Jkanime (ES)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
@@ -257,9 +257,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "null",
+                        "url": "https://ff99cfc9e528c0630376ce87200985d12ba6704bbee70bfe314d003-apidata.googleusercontent.com/download/storage/v1/b/tamarindos/o/hibikueupohonuinovaemsemblecontestespes.mp4?jk=ATmLuOHwQAMrXOnnH24kNI0pZs6jC57vUu0sXOxrBcMuOsBR4aplLU6h6395WBZsx-DZHEJiXZOG0tNOPNLG3vSr0OLbz3XjUd1f6JGnQaNlcWfdlS-5V1xWPJhDAYRBW1y1z0uiYE6KNkaK-ljRfk2u2WV4_Piog9c4hEbeZwUWnWUVvNddVs27JHfO-0itWAvnDf3yCTvoNMwq90dy5IQmYyPHRXxrBwqfr3nfk4GSxANtWeCQ9Keu64-F0g5A1kejn1DScRQ8Av5gztA3LBsqEI-42moIdXUJ6dpX7ORCIiFD4QsxBaNRJ0bNztQ3Kk2OCIHEjUW6e0psv03zPVVRAreXhyLDiCQm5A1G87qigkCf4SE-7Xb-z5wLHN0pj7qKxeO2iPxE48v6ImaLo3CpncVeJ26BmOiEhHTGGtOC-cmcQLBCyj9g3279NH877gVL3S_5FPI_GY35yu7jmiSYEhpe6QlN03tkdig6hnGEEjfC9hry9VOCVezZS8yUQ-VGP_pco_LCpcfi-WJr6GdbyLexmp8f8Vmveok8MuhKTGZMNd6lwGlr6DIzav9R258S-MB3SUS7Rnup68bB7YMQQb-rZC9Vpl7FJx4-qbeCWVneLFI5aBF3q0bPCVMhKlxGIU1PK86ExBM5Bsrbp4FWHhWuweSeWqmkpKvWoyKOEQnhjqI4N9zJ95rsF4xSfCADA_Yhm471R4aJ7Rg4Xlc6il7UCPeg94fWsgG9pvhaFF9ALcW11p5Htfm_VLSevqKvFJKOozecYjpv1W0yDGrNklpYLdgN0Qe9qr3GwcuD5CUixdl8OKW7IPFHWiQww-_JD5XwkoMX3qDU4DypsVXZ0UKUArHj9PGbzDiWJn_StGPLMqpUtmlLfZO064X1nzJFOZI8Us49pufTsWiTMreRoYijtE4GyyGESipEQ5RZ8G09Bk7Ifffk9Iluylf2RopLXQxIVb_q_YZ7YuoIlqWdIed1jGw9oLMlzfSh5yJQfN9mOmQgdLCWUWhxyNyJLOV-Q1lEoHRyZu_ggVk8yCU00xHyQIrRqPzlgwCr-y3ylwsuhun2GF_JqT6UovnE0Q_bG6-qtGq1AViUQG1GjyPvqlvwc_54pLcaOSdeB98Kwwk9bN1bAoKTIhxom24omhgLTe4Olxkv2YtMOMhGY_tnnVL7BZMvjEWUyC_ANR4v7jsyCzsz27tJm7Qp4yFbZU5DeKw5xJlByOp-XZOnmaI-nYyynHQJH1ppbTfdj5k&isca=1",
                         "quality": "Nozomi",
-                        "videoUrl": "null"
+                        "videoUrl": "https://ff99cfc9e528c0630376ce87200985d12ba6704bbee70bfe314d003-apidata.googleusercontent.com/download/storage/v1/b/tamarindos/o/hibikueupohonuinovaemsemblecontestespes.mp4?jk=ATmLuOHwQAMrXOnnH24kNI0pZs6jC57vUu0sXOxrBcMuOsBR4aplLU6h6395WBZsx-DZHEJiXZOG0tNOPNLG3vSr0OLbz3XjUd1f6JGnQaNlcWfdlS-5V1xWPJhDAYRBW1y1z0uiYE6KNkaK-ljRfk2u2WV4_Piog9c4hEbeZwUWnWUVvNddVs27JHfO-0itWAvnDf3yCTvoNMwq90dy5IQmYyPHRXxrBwqfr3nfk4GSxANtWeCQ9Keu64-F0g5A1kejn1DScRQ8Av5gztA3LBsqEI-42moIdXUJ6dpX7ORCIiFD4QsxBaNRJ0bNztQ3Kk2OCIHEjUW6e0psv03zPVVRAreXhyLDiCQm5A1G87qigkCf4SE-7Xb-z5wLHN0pj7qKxeO2iPxE48v6ImaLo3CpncVeJ26BmOiEhHTGGtOC-cmcQLBCyj9g3279NH877gVL3S_5FPI_GY35yu7jmiSYEhpe6QlN03tkdig6hnGEEjfC9hry9VOCVezZS8yUQ-VGP_pco_LCpcfi-WJr6GdbyLexmp8f8Vmveok8MuhKTGZMNd6lwGlr6DIzav9R258S-MB3SUS7Rnup68bB7YMQQb-rZC9Vpl7FJx4-qbeCWVneLFI5aBF3q0bPCVMhKlxGIU1PK86ExBM5Bsrbp4FWHhWuweSeWqmkpKvWoyKOEQnhjqI4N9zJ95rsF4xSfCADA_Yhm471R4aJ7Rg4Xlc6il7UCPeg94fWsgG9pvhaFF9ALcW11p5Htfm_VLSevqKvFJKOozecYjpv1W0yDGrNklpYLdgN0Qe9qr3GwcuD5CUixdl8OKW7IPFHWiQww-_JD5XwkoMX3qDU4DypsVXZ0UKUArHj9PGbzDiWJn_StGPLMqpUtmlLfZO064X1nzJFOZI8Us49pufTsWiTMreRoYijtE4GyyGESipEQ5RZ8G09Bk7Ifffk9Iluylf2RopLXQxIVb_q_YZ7YuoIlqWdIed1jGw9oLMlzfSh5yJQfN9mOmQgdLCWUWhxyNyJLOV-Q1lEoHRyZu_ggVk8yCU00xHyQIrRqPzlgwCr-y3ylwsuhun2GF_JqT6UovnE0Q_bG6-qtGq1AViUQG1GjyPvqlvwc_54pLcaOSdeB98Kwwk9bN1bAoKTIhxom24omhgLTe4Olxkv2YtMOMhGY_tnnVL7BZMvjEWUyC_ANR4v7jsyCzsz27tJm7Qp4yFbZU5DeKw5xJlByOp-XZOnmaI-nYyynHQJH1ppbTfdj5k&isca=1"
                     },
                     {
                         "url": "https://moodle1.myyschool.xyz/b3NCUUl0Tm1FV09XSGxiemZxazZuUjhEWmYxaW1oRGpKdUx4ZGYxd29aeHJmYmRtTS9GcmZYWSszNWh4bGNxdA.m3u8",
@@ -267,34 +267,34 @@
                         "videoUrl": "https://moodle1.myyschool.xyz/b3NCUUl0Tm1FV09XSGxiemZxazZuUjhEWmYxaW1oRGpKdUx4ZGYxd29aeHJmYmRtTS9GcmZYWSszNWh4bGNxdA.m3u8"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=5&sig=9pf2NxBggEI&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
+                        "url": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=5&sig=Rb8yr4oZ1rA&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
                         "quality": "Okru:1080p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=5&sig=9pf2NxBggEI&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
+                        "videoUrl": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=5&sig=Rb8yr4oZ1rA&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=3&sig=Z1NcJK44kXE&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
+                        "url": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=3&sig=aQhvUxnJsw4&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
                         "quality": "Okru:720p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=3&sig=Z1NcJK44kXE&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
+                        "videoUrl": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=3&sig=aQhvUxnJsw4&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=2&sig=lSTcw65wMmg&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
+                        "url": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=2&sig=eUnUPlU-PzU&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
                         "quality": "Okru:480p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=2&sig=lSTcw65wMmg&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
+                        "videoUrl": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=2&sig=eUnUPlU-PzU&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=1&sig=scH1xP_uz_0&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
+                        "url": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=1&sig=FlJmGBaZjWs&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
                         "quality": "Okru:360p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=1&sig=scH1xP_uz_0&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
+                        "videoUrl": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=1&sig=FlJmGBaZjWs&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=0&sig=hbRfDQwj7lc&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
+                        "url": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=0&sig=r8dTOZovUaU&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
                         "quality": "Okru:240p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=0&sig=hbRfDQwj7lc&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
+                        "videoUrl": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=0&sig=r8dTOZovUaU&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
                     },
                     {
-                        "url": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=4&sig=_Nr4U0MAjag&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
+                        "url": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=4&sig=lVMS8YJYfYY&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145",
                         "quality": "Okru:144p",
-                        "videoUrl": "https://vd217.mycdn.me/?expires=1693138266762&srcIp=52.226.28.160&pr=10&srcAg=GECKO&ms=45.136.22.25&type=4&sig=_Nr4U0MAjag&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
+                        "videoUrl": "https://vd217.mycdn.me/?expires=1693159704267&srcIp=52.226.126.224&pr=10&srcAg=GECKO&ms=45.136.22.25&type=4&sig=lVMS8YJYfYY&ct=0&urls=185.226.52.26&clientType=0&zs=43&id=5326659652145"
                     }
                 ],
                 "passed": true
