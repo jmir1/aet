@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/h8xodl2kfrzq",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=XMRVz-rGZMUVADplDVDaeGlb6w6hAmxyrYSnC_AXomw&s=1693138208&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=k-WgGat8ajU05aMPKj9JxLrPh5YBD6Y9e-S3417Ybhw&s=1693159631&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=20.171&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693208206&ip=GxOsFxqnDS9X&token=Qi4GOe8ySANc",
+                        "url": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693229630&ip=FROsD0ESKxSHDN&token=UOa2oQRblGRu",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693208206&ip=GxOsFxqnDS9X&token=Qi4GOe8ySANc"
+                        "videoUrl": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693229630&ip=FROsD0ESKxSHDN&token=UOa2oQRblGRu"
                     },
                     {
                         "url": "https://voe.sx/e/h8xodl2kfrzq",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=XMRVz-rGZMUVADplDVDaeGlb6w6hAmxyrYSnC_AXomw&s=1693138208&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=k-WgGat8ajU05aMPKj9JxLrPh5YBD6Y9e-S3417Ybhw&s=1693159631&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=20.171&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,8 +576,16 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/un-amor-salvaje",
+                    "title": "Un amor salvaje (2019)",
+                    "description": "Basada en la novela hómonima, Dirt Music explora la vida de una pareja y su relación dolorosamente apasionada. Georgie (Kelly Macdonald) es una chica australiana que se siente rota por su relación actual con el pescador Jim Buckridge (David Wenham), ella pasa su tiempo admirando los paisajes de su nación hasta que conoce al cazador Lu Fox (Garrett Hedlund), un joven forastero, bastante interesante y misterioso, a quien encuentra pescando en una zona prohibida. Poco a poco ambos se conocen y la pasión entre ellos no tarda en salir a la luz, lo que pronto les provoca graves problemas a ambos. Cuando Jim se entera de aquella relación quiere venganza, sin embargo, Fox decide retirarse al norte de Australia para evitar una terrible confrontación. En su travesía, el cazador atraviesa zonas peligrosas y contaminadas, sin embargo, este es el menor de sus problemas pues debe cubrir sus huellas del hombre que desea atraparlo.",
+                    "genre": "Romance, Drama, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
