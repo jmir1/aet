@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/doctora-cha-latino-sub-espanol",
+                                "title": "Doctora Cha Latino",
+                                "description": "Doctora Cha Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/doctora-cha-latino-1693079498.jpg"
+                            },
+                            {
+                                "url": "/dorama/eliminar-latino-sub-espanol",
+                                "title": "Eliminar Latino",
+                                "description": "Eliminar Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/eliminar-latino-1693077399.jpg"
+                            },
+                            {
                                 "url": "/dorama/delete-sub-espanol",
                                 "title": "Delete",
                                 "description": "Delete",
@@ -173,18 +185,6 @@
                                 "title": "Marry me!",
                                 "description": "Marry me!",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/marry-me-1691808877.jpg"
-                            },
-                            {
-                                "url": "/dorama/dear-x-who-doesnt-love-me-sub-espanol",
-                                "title": "Dear X Who Doesn't Love Me",
-                                "description": "Dear X Who Doesn't Love Me",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/dear-x-who-doesnt-love-me-1691690057.jpg"
-                            },
-                            {
-                                "url": "/dorama/queen-of-the-mask-sub-espanol",
-                                "title": "Queen of the Mask",
-                                "description": "Queen of the Mask",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/queen-of-the-mask-1691035642.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,23 +262,65 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/delete-sub-espanol",
-                    "title": "Delete (Eliminar)",
-                    "description": "Dos amantes que mantienen una relación extramatrimonial planean empezar una nueva vida juntos tras descubrir un teléfono que puede hacer desaparecer a otras personas. ",
-                    "genre": "Romance, Thriller, Drama, Thai-Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/dorama/doctora-cha-latino-sub-espanol",
+                    "title": "Doctora Cha Latino (Doctor Cha Audio Latino)",
+                    "description": "Cuenta la historia de una graduada en Medicina convertida en ama de casa, pero decidida a volver al campo médico y de un médico casado que mantiene una doble vida. Es muy bueno en su trabajo y también lo es engañando a su mujer. ",
+                    "genre": "Romance, Comedia, Drama, Médico, K-Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/doctora-cha-latino-episodio-16",
+                        "name": "Episodio 16.0",
+                        "episode_number": 16.0
+                    },
+                    {
+                        "url": "/ver/doctora-cha-latino-episodio-15",
+                        "name": "Episodio 15.0",
+                        "episode_number": 15.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=3&sig=Vdd0DUSntSk&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=3&sig=Vdd0DUSntSk&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687"
+                    },
+                    {
+                        "url": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=2&sig=Kt8X-QpRwwE&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=2&sig=Kt8X-QpRwwE&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687"
+                    },
+                    {
+                        "url": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=1&sig=x_9jAqGot4s&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=1&sig=x_9jAqGot4s&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687"
+                    },
+                    {
+                        "url": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=0&sig=dqHzfGNCfj8&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=0&sig=dqHzfGNCfj8&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687"
+                    },
+                    {
+                        "url": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=4&sig=7V-7TFwzYhI&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=4&sig=7V-7TFwzYhI&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687"
+                    },
+                    {
+                        "url": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=5&sig=1K3jsNakCUs&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd393.mycdn.me/?expires=1693182617179&srcIp=20.172.4.0&pr=10&srcAg=GECKO&ms=45.136.20.22&type=5&sig=1K3jsNakCUs&ct=0&urls=45.136.22.37&clientType=0&zs=43&id=5007745878687"
+                    }
+                ],
+                "passed": true
             }
         }
     }
