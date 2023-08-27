@@ -267,6 +267,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Soaring-Sky-Pretty-Cure/",
+                                "title": "Soaring Sky! Pretty Cure",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
+                            },
+                            {
+                                "url": "/Anime/Uchi-no-Kaisha-no-Chiisai-Senpai-no-Hanashi/",
+                                "title": "My Company's Small Senpai",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/My-Company-s-Small-Senpai.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-misfit-of-demon-king-academy-historys-strongest-demon-king-reincarnates-and-goes-to-school-with-his-descendants-season-2.85616/",
+                                "title": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/11/The-Misfit-of-Demon-King-Academy-Historys-Strongest-Demon-King-Reincarnates-and-Goes-to-School-with-His-Descendants-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/AYAKA/",
+                                "title": "AYAKA",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/AYAKA.jpg"
+                            },
+                            {
+                                "url": "/Anime/Atelier-Ryza-Ever-Darkness-amp-the-Secret-Hideout-The-Animation/",
+                                "title": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Atelier-Ryza-Ever-Darkness-amp-the-Secret-Hideout-The-Animation.jpg"
+                            },
+                            {
+                                "url": "/Anime/Horimiya-piece/",
+                                "title": "Horimiya - The Missing Pieces",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Horimiya-piece.jpg"
+                            },
+                            {
                                 "url": "/Anime/bleach-thousand-year-blood-war-the-separation.15392/",
                                 "title": "BLEACH: Thousand-Year Blood War - The Separation",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/BLEACH-Thousand-Year-Blood-War-The-Separation.jpg"
@@ -485,36 +515,6 @@
                                 "url": "/Anime/The-Duke-of-Death-and-His-Maid-Season-2-Dub/",
                                 "title": "The Duke of Death and His Maid Season 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/The-Duke-of-Death-and-His-Maid-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Mushoku-Tensei-Jobless-Reincarnation-Season-2-Dub/",
-                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Mushoku-Tensei-Jobless-Reincarnation-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Zom-100-Bucket-List-of-the-Dead-Dub/",
-                                "title": "Zom 100: Bucket List of the Dead (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/Zom-100-Bucket-List-of-the-Dead-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/AYAKA-Dub/",
-                                "title": "AYAKA",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/AYAKA-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-Unique-Skill-Makes-Me-OP-even-at-Level-1-Dub/",
-                                "title": "My Unique Skill Makes Me OP even at Level 1 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/My-Unique-Skill-Makes-Me-OP-even-at-Level-1-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Sugar-Apple-Fairy-Tale-Season-2-Dub/",
-                                "title": "Sugar Apple Fairy Tale Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Sugar-Apple-Fairy-Tale-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Horimiya-The-Missing-Pieces-Dub/",
-                                "title": "Horimiya - The Missing Pieces (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Horimiya-The-Missing-Pieces-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }

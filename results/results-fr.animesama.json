@@ -164,8 +164,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: video.sibnet.ru: Temporary failure in name resolution",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/75ac70e84a5f6b038b86ed12dc900b4e/5198318.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/75ac70e84a5f6b038b86ed12dc900b4e/5198318.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5198318"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
