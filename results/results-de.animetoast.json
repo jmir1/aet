@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg"
+                            },
+                            {
                                 "url": "/hanma-baki-son-of-ogre-2nd-season-ger-sub/",
                                 "title": "Hanma Baki: Son of Ogre 2nd Season Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55307.jpg"
@@ -182,19 +187,14 @@
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55016.jpg"
                             },
                             {
-                                "url": "/eiyuu-kyoushitsu-ger-sub/",
-                                "title": "Eiyuu Kyoushitsu Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/53202.jpg"
+                                "url": "/one-piece-ger-dub/",
+                                "title": "One Piece Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg"
                             },
                             {
                                 "url": "/hanma-baki-son-of-ogre-2nd-season-ger-dub/",
                                 "title": "Hanma Baki: Son of Ogre 2nd Season Ger Dub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55307.jpg"
-                            },
-                            {
-                                "url": "/one-piece-ger-dub/",
-                                "title": "One Piece Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg"
                             },
                             {
                                 "url": "/nanatsu-no-maken-ga-shihai-suru-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/hanma-baki-son-of-ogre-2nd-season-ger-sub/",
-                    "title": "Hanma Baki: Son of Ogre 2nd Season Ger Sub",
-                    "description": "Sequel von Hanma Baki: Son of Ogre.\n ",
-                    "genre": "Action, Martial-Art, Shounen",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!\n ",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55307.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/hanma-baki-son-of-ogre-2nd-season-ger-sub/?link=26",
-                        "name": "Ep. 27",
-                        "episode_number": 27.0
-                    },
-                    {
-                        "url": "/hanma-baki-son-of-ogre-2nd-season-ger-sub/?link=25",
-                        "name": "Ep. 26",
-                        "episode_number": 26.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"S21:E892-1072\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }
