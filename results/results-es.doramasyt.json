@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/a-la-caza-de-espiritus-malignos-temporada-2-latino-sub-espanol",
+                                "title": "A la caza de espíritus malignos Temporada 2 Latino",
+                                "description": "A la caza de espíritus malignos Temporada 2 Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/a-la-caza-de-espiritus-malignos-temporada-2-latino-1693198584.jpg"
+                            },
+                            {
+                                "url": "/dorama/the-uncanny-counter-2-sub-espanol",
+                                "title": "The Uncanny Counter 2",
+                                "description": "The Uncanny Counter 2",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-uncanny-counter-2-1693197871.jpg"
+                            },
+                            {
+                                "url": "/dorama/con-tacto-especial-latino-sub-espanol",
+                                "title": "Con tacto especial Latino",
+                                "description": "Con tacto especial Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/con-tacto-especial-latino-1693194369.jpg"
+                            },
+                            {
                                 "url": "/dorama/doctor-cha-sub-espanol",
                                 "title": "Doctor Cha",
                                 "description": "Doctor Cha",
@@ -167,24 +185,6 @@
                                 "title": "Nos vemos en mi 19ª vida Latino",
                                 "description": "Nos vemos en mi 19ª vida Latino",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/nos-vemos-en-mi-19a-vida-latino-1692655509.jpg"
-                            },
-                            {
-                                "url": "/dorama/see-you-in-my-19th-life-sub-espanol",
-                                "title": "See You In My 19th Life",
-                                "description": "See You In My 19th Life",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/see-you-in-my-19th-life-1692632552.jpg"
-                            },
-                            {
-                                "url": "/dorama/summer-strike-sub-espanol",
-                                "title": "Summer Strike",
-                                "description": "Summer Strike",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/summer-strike-1692627855.jpg"
-                            },
-                            {
-                                "url": "/dorama/dear-m-sub-espanol",
-                                "title": "Dear M",
-                                "description": "Dear M",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/dear-m-1692619706.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,23 +262,60 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/doctor-cha-sub-espanol",
-                    "title": "Doctor Cha (Doctora Cha)",
-                    "description": "Cuenta la historia de una graduada en Medicina convertida en ama de casa, pero decidida a volver al campo médico y de un médico casado que mantiene una doble vida. Es muy bueno en su trabajo y también lo es engañando a su mujer. ",
-                    "genre": "Romance, Comedia, Drama, Médico, K-Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/dorama/a-la-caza-de-espiritus-malignos-temporada-2-latino-sub-espanol",
+                    "title": "A la caza de espíritus malignos Temporada 2 Latino (The Uncanny Counter 2 Audio Latino)",
+                    "description": "Dotados de nuevos poderes y reclutas inexpertos, los Cazadores continúan luchando contra demonios malignos que se alimentan de los humanos. ",
+                    "genre": "Misterio, Fantasia, K-Drama, Suspenso",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/a-la-caza-de-espiritus-malignos-temporada-2-latino-episodio-2",
+                        "name": "Episodio 2.0",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/a-la-caza-de-espiritus-malignos-temporada-2-latino-episodio-1",
+                        "name": "Episodio 1.0",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=3&sig=zsSreOWwoRk&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=3&sig=zsSreOWwoRk&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623"
+                    },
+                    {
+                        "url": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=2&sig=MlrUuYWhNlI&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=2&sig=MlrUuYWhNlI&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623"
+                    },
+                    {
+                        "url": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=1&sig=lNRfliCRdlg&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=1&sig=lNRfliCRdlg&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623"
+                    },
+                    {
+                        "url": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=0&sig=urXtCTixOSU&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=0&sig=urXtCTixOSU&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623"
+                    },
+                    {
+                        "url": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=4&sig=ZNaOhxeQ7fg&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd477.mycdn.me/?expires=1693289339099&srcIp=20.57.75.28&pr=10&srcAg=GECKO&ms=185.226.53.93&type=4&sig=ZNaOhxeQ7fg&ct=0&urls=45.136.22.75&clientType=0&zs=43&id=5013834238623"
+                    }
+                ],
+                "passed": true
             }
         }
     }

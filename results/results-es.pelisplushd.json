@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/h8xodl2kfrzq",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=mAxCO443Z4jXH8Cw6QQUJqtZhN0_iYDtaiI8GqPMRW0&s=1693182574&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=wItsQOvCJhfoQnYkcDNVMUbdbA6wtJu0SFWEIkUPEqw&s=1693202975&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=20.171&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693252572&ip=F0qQKRWQE19XKxR&token=gKm6iFpyQ0NF",
+                        "url": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693272974&ip=FROsD0ESKxSHDN&token=ien62soiNULo",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693252572&ip=F0qQKRWQE19XKxR&token=gKm6iFpyQ0NF"
+                        "videoUrl": "https://streamtape.com/get_video?id=Va0vO1mAdWcPod&expires=1693272974&ip=FROsD0ESKxSHDN&token=ien62soiNULo"
                     },
                     {
                         "url": "https://voe.sx/e/h8xodl2kfrzq",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=mAxCO443Z4jXH8Cw6QQUJqtZhN0_iYDtaiI8GqPMRW0&s=1693182574&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ni4y1yqtiape1ixn.voe-network.net/engine/hls2/01/09411/h8xodl2kfrzq_,n,.urlset/master.m3u8?t=wItsQOvCJhfoQnYkcDNVMUbdbA6wtJu0SFWEIkUPEqw&s=1693202975&e=14400&f=47055120&node=delivery-node-ni4y1yqtiape1ixn.voe-network.net&i=20.171&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -450,8 +450,16 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/justice-league-warworld",
+                    "title": "Justice League: Warworld (2023)",
+                    "description": "Hasta ahora, la Liga de la Justicia ha sido una asociación informal de personas con superpoderes. Pero cuando son arrastrados a Warworld, un lugar de interminables y brutales combates de gladiadores, Batman, Superman, Wonder Woman y los demás deben unirse de alguna manera para formar una resistencia imbatible capaz de llevar a todo un planeta a la libertad.",
+                    "genre": "Acción, Ciencia ficción, Animación",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
