@@ -177,6 +177,61 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/the-list",
+                                "title": "The List",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-list.jpg"
+                            },
+                            {
+                                "url": "/stream/der-teufel-tanzt-weiter",
+                                "title": "Der Teufel tanzt weiter",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-teufel-tanzt-weiter.jpg"
+                            },
+                            {
+                                "url": "/stream/die-konigin-der-verdammten",
+                                "title": "Die Königin der Verdammten",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-konigin-der-verdammten.jpg"
+                            },
+                            {
+                                "url": "/stream/outlander-s07e08",
+                                "title": "Outlander S07E08",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/outlander-s07e08.jpg"
+                            },
+                            {
+                                "url": "/stream/reveille",
+                                "title": "Reveille",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/reveille.jpg"
+                            },
+                            {
+                                "url": "/stream/special-ops-lioness-s01e07",
+                                "title": "Special Ops: Lioness S01E07",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/special-ops-lioness-s01e07.jpg"
+                            },
+                            {
+                                "url": "/stream/special-ops-lioness-s01e06",
+                                "title": "Special Ops: Lioness S01E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/special-ops-lioness-s01e06.jpg"
+                            },
+                            {
+                                "url": "/stream/warrior-s03e06",
+                                "title": "Warrior S03E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/warrior-s03e06.jpg"
+                            },
+                            {
+                                "url": "/stream/warrior-s03e05",
+                                "title": "Warrior S03E05",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/warrior-s03e05.jpg"
+                            },
+                            {
+                                "url": "/stream/warrior-s03e04",
+                                "title": "Warrior S03E04",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/warrior-s03e04.jpg"
+                            },
+                            {
+                                "url": "/stream/warrior-s03e03",
+                                "title": "Warrior S03E03",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/warrior-s03e03.jpg"
+                            },
+                            {
                                 "url": "/stream/sniper-one-shot-to-survive",
                                 "title": "Sniper - One Shot to Survive",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/sniper-one-shot-to-survive.jpg"
@@ -280,61 +335,6 @@
                                 "url": "/stream/the-tank-2023",
                                 "title": "The Tank (2023)",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/the-tank-2023.jpg"
-                            },
-                            {
-                                "url": "/stream/fate-game-ein-schus-genugt",
-                                "title": "Fate Game - Ein Schuß genügt",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fate-game-ein-schus-genugt.jpg"
-                            },
-                            {
-                                "url": "/stream/commando-ninja",
-                                "title": "Commando Ninja",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/commando-ninja.jpg"
-                            },
-                            {
-                                "url": "/stream/ostfriesen-auf-der-bank-der-film",
-                                "title": "Ostfriesen auf der Bank der Film",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ostfriesen-auf-der-bank-der-film.jpg"
-                            },
-                            {
-                                "url": "/stream/free-the-final-stroke",
-                                "title": "Free the Final Stroke",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/free-the-final-stroke.jpg"
-                            },
-                            {
-                                "url": "/stream/draculas-tochter",
-                                "title": "Draculas Tochter",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/draculas-tochter.jpg"
-                            },
-                            {
-                                "url": "/stream/macho-man",
-                                "title": "Macho Man",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/macho-man.jpg"
-                            },
-                            {
-                                "url": "/stream/asteroid-city",
-                                "title": "Asteroid City",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/asteroid-city.jpg"
-                            },
-                            {
-                                "url": "/stream/justified-city-primeval-s01e07",
-                                "title": "Justified: City Primeval S01E07",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/justified-city-primeval-s01e07.jpg"
-                            },
-                            {
-                                "url": "/stream/jesus-revolution",
-                                "title": "Jesus Revolution",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jesus-revolution.jpg"
-                            },
-                            {
-                                "url": "/stream/goblins-todliche-biester",
-                                "title": "Goblins - Tödliche Biester",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/goblins-todliche-biester.jpg"
-                            },
-                            {
-                                "url": "/stream/star-wars-ahsoka-s01e02",
-                                "title": "Star Wars: Ahsoka S01E02",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/star-wars-ahsoka-s01e02.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,7 +537,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='certificate has expired\n=========================== logs ===========================\n→ GET https://videosworks.com/all_advertise.php?uniqueId=51f026c4-3a3c-11ec-8d3d-0242ac130003\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: */*\n  accept-encoding: gzip, deflate, br\n  host: videosworks.com\n  accept-language: en-US,en;q=0.5\n  referer: https://wolfstream.tv/\n  origin: https://wolfstream.tv\n  sec-fetch-dest: empty\n  sec-fetch-mode: cors\n  sec-fetch-site: cross-site\n  connection: keep-alive\n============================================================\n  name='Error\n  stack='Error: certificate has expired\n=========================== logs ===========================\n→ GET https://videosworks.com/all_advertise.php?uniqueId=51f026c4-3a3c-11ec-8d3d-0242ac130003\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: */*\n  accept-encoding: gzip, deflate, br\n  host: videosworks.com\n  accept-language: en-US,en;q=0.5\n  referer: https://wolfstream.tv/\n  origin: https://wolfstream.tv\n  sec-fetch-dest: empty\n  sec-fetch-mode: cors\n  sec-fetch-site: cross-site\n  connection: keep-alive\n============================================================\n    at TLSSocket.onConnectSecure (node:_tls_wrap:1550:34)\n    at TLSSocket.emit (node:events:514:28)\n    at TLSSocket._finishInit (node:_tls_wrap:967:8)\n    at ssl.onhandshakedone (node:_tls_wrap:743:12)\n}",
                 "passed": false
             }
         }

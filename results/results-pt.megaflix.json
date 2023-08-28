@@ -3,54 +3,43 @@
         "name": "Megaflix (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                                "title": "Guardiões da Galáxia: Vol. 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg"
-                            },
-                            {
-                                "url": "/filme/a-pequena-sereia-2023-assistir-online-1693052548/",
-                                "title": "A Pequena Sereia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2oVEdOpE6CYJmF1hNnIfMwuBHPx.jpg"
-                            },
-                            {
-                                "url": "/filme/transformers-o-despertar-das-feras-2023-assistir-online-1691894213/",
-                                "title": "Transformers: O Despertar das Feras",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg"
-                            },
-                            {
-                                "url": "/filme/barbie-2023-assistir-online-1692070065/",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-                            },
-                            {
-                                "url": "/filme/the-flash-2023-assistir-online-1688862087/",
-                                "title": "The Flash",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/itYONYDHpJqTuu8BCXAtHxgpglq.jpg"
-                            },
-                            {
-                                "url": "/filme/missao-impossivel-acerto-de-contas-parte-1-2023-assistir-online-1693021905/",
-                                "title": "Missão: Impossível - Acerto de Contas Parte 1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
-                            },
-                            {
-                                "url": "/filme/homem-formiga-e-a-vespa-quantumania-2023-assistir-online/",
-                                "title": "Homem-Formiga e a Vespa: Quantumania",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3aJNiESDK7quCw9IpsUCFXqvq24.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/ragnarok-2020-assistir-online-1693056467/",
+                                "title": "Ragnarok",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg"
+                            },
+                            {
+                                "url": "/serie/3hz-2021-assistir-online/",
+                                "title": "3Hz",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg"
+                            },
+                            {
+                                "url": "/serie/sorriso-real-2023-assistir-online/",
+                                "title": "Sorriso Real",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bvUvdwfeDBlyb9sg85FulzGZs0P.jpg"
+                            },
+                            {
+                                "url": "/serie/quem-e-erin-carter-2023-assistir-online/",
+                                "title": "Quem é Erin Carter?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bIn5p34OoMdLgsThlQZgpev1hSR.jpg"
+                            },
+                            {
+                                "url": "/serie/harley-quinn-2019-assistir-online-1692059220/",
+                                "title": "Harley Quinn",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/y4B3ixM1Y84i829HzIRPAMMFhsA.jpg"
+                            },
+                            {
+                                "url": "/serie/rio-shore-2021-assistir-online/",
+                                "title": "Rio Shore",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4tI0KzlKuUDSh2Hh8EmdolCCTuO.jpg"
+                            },
                             {
                                 "url": "/serie/na-mira-do-juri-2023-assistir-online/",
                                 "title": "Na Mira do Júri",
@@ -70,6 +59,11 @@
                                 "url": "/serie/o-negociador-2022-assistir-online/",
                                 "title": "O Negociador",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/i4aR3J6iyYWivIl8EiKgQDtzkPd.jpg"
+                            },
+                            {
+                                "url": "/serie/herois-da-selva-2020-assistir-online/",
+                                "title": "Heróis da Selva",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7WZ0ebGqb5j4EhNe3IX7t7Ctg1g.jpg"
                             },
                             {
                                 "url": "/serie/depois-da-festa-2022-assistir-online-1691683110/",
@@ -155,41 +149,6 @@
                                 "url": "/serie/bar-do-gogo-2023-assistir-online/",
                                 "title": "Bar do Gogó",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/rFgElzlIA0pzg7g2czvFAXVXyQy.jpg"
-                            },
-                            {
-                                "url": "/serie/fundacao-2021-assistir-online/",
-                                "title": "Fundação",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lFgwBRCzlsFTs9B6PXK3sCyZcQ0.jpg"
-                            },
-                            {
-                                "url": "/serie/ma-fortuna-2023-assistir-online/",
-                                "title": "Má Fortuna",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tuA0rHwN3OEzapXSjsSoYt42dJ6.jpg"
-                            },
-                            {
-                                "url": "/serie/armas-e-amores-2023-assistir-online/",
-                                "title": "Armas e Amores",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iEG1KeawC4NWhUleNMUpNbbDP2P.jpg"
-                            },
-                            {
-                                "url": "/serie/te-amar-doi-2023-assistir-online/",
-                                "title": "Te Amar Dói",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5my80feE4NwMWLsk4Wd6iOANrX9.jpg"
-                            },
-                            {
-                                "url": "/serie/as-flores-perdidas-de-alice-hart-2023-assistir-online/",
-                                "title": "As Flores Perdidas de Alice Hart",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sNeGAamuke1a2I4ndcaE0bnukh4.jpg"
-                            },
-                            {
-                                "url": "/serie/louvada-seja-petey-2023-assistir-online/",
-                                "title": "Louvada Seja Petey",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hKZjEhMEcXgF2MziPxXz8yjnoNB.jpg"
-                            },
-                            {
-                                "url": "/serie/fuzue-2023-assistir-online/",
-                                "title": "Fuzuê",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zNNFg8z3z7uT817n6M0kHRcYwq1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -319,11 +278,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                    "title": "Guardiões da Galáxia: Vol. 3",
-                    "description": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
-                    "genre": "Ação, Aventura, Ficção científica",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+                    "url": "/serie/ragnarok-2020-assistir-online-1693056467/",
+                    "title": "Ragnarok",
+                    "description": "Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.",
+                    "genre": "Drama, Fantasia, Ficção científica, Mistério",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -331,9 +290,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filme/guardioes-da-galaxia-vol-3-2023-assistir-online-1692479237/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodio/ragnarok-3x6/",
+                        "name": "Ragnarok 3x6",
+                        "episode_number": 306.0
+                    },
+                    {
+                        "url": "/episodio/ragnarok-3x5/",
+                        "name": "Ragnarok 3x5",
+                        "episode_number": 305.0
                     }
                 ],
                 "passed": true
@@ -341,14 +305,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693229600&ip=GxOsFxInDS9X&token=wGCGi-Xig2uW",
+                        "url": "https://streamtape.com/get_video?id=ekL83xxQvYHolZ&expires=1693252554&ip=GxOsFxqnDS9X&token=HxXMpilm5eh6",
                         "quality": "StreamTape - Legendado",
-                        "videoUrl": "https://streamtape.com/get_video?id=bRyqwPzyj9uodD&expires=1693229600&ip=GxOsFxInDS9X&token=wGCGi-Xig2uW"
+                        "videoUrl": "https://streamtape.com/get_video?id=ekL83xxQvYHolZ&expires=1693252554&ip=GxOsFxqnDS9X&token=HxXMpilm5eh6"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693229600&ip=GxOsFxInDS9X&token=X2NAv53nb_ky",
+                        "url": "https://streamtape.com/get_video?id=6kb7WA3VKKiOYl&expires=1693252554&ip=GxOsFxqnDS9X&token=o0fczcGB8DLe",
                         "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=6kgYbeVpQeu9a6o&expires=1693229600&ip=GxOsFxInDS9X&token=X2NAv53nb_ky"
+                        "videoUrl": "https://streamtape.com/get_video?id=6kb7WA3VKKiOYl&expires=1693252554&ip=GxOsFxqnDS9X&token=o0fczcGB8DLe"
                     }
                 ],
                 "passed": true
