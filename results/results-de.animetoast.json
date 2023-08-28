@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/ayakashi-triangle-ger-sub/",
+                                "title": "Ayakashi Triangle Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/53224.jpg"
+                            },
+                            {
+                                "url": "/mononogatari-2nd-season-ger-sub/",
+                                "title": "Mononogatari 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64385.jpg"
+                            },
+                            {
+                                "url": "/masamune-kun-no-revenge-r-ger-sub/",
+                                "title": "Masamune-kun no Revenge R Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
+                            },
+                            {
                                 "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg"
@@ -172,19 +187,9 @@
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/56751.png"
                             },
                             {
-                                "url": "/synduality-noir-ger-sub/",
-                                "title": "Synduality: Noir Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64388.jpg"
-                            },
-                            {
-                                "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
-                                "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg"
-                            },
-                            {
-                                "url": "/okashi-na-tensei-ger-sub/",
-                                "title": "Okashi na Tensei Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61218.jpg"
+                                "url": "/masamune-kun-no-revenge-r-ger-dub/",
+                                "title": "Masamune-kun no Revenge R Ger Dub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
                             },
                             {
                                 "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-dub/",
@@ -260,11 +265,6 @@
                                 "url": "/okashi-na-tensei-ger-dub/",
                                 "title": "Okashi na Tensei Ger Dub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61218.jpg"
-                            },
-                            {
-                                "url": "/masamune-kun-no-revenge-r-ger-dub/",
-                                "title": "Masamune-kun no Revenge R Ger Dub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
                             },
                             {
                                 "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
-                    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
-                    "description": "Akira arbeitet seit einigen Jahren für eine Firma, die ihn nicht nur ausbeutet, sondern ihn körperlich und geistig fertigmacht. Er lebt jeden Tag wie ein Zombie vor sich hin – bis die tatsächliche Zombie-Apokalypse startet! Jetzt beginnt Akiras Leben erst richtig, denn er kann tun und lassen, was er will! Er erstellt ein Liste mit Dingen, die er machen möchte, bevor er selbst zum Untoten wird, und erlebt coole und lustige Abenteuer am laufenden Band!\n ",
-                    "genre": "Action, Adventure, Comedy, Horror, Seinen, Supernatural",
+                    "url": "/ayakashi-triangle-ger-sub/",
+                    "title": "Ayakashi Triangle Ger Sub",
+                    "description": "In Japan wimmelt es zwar von mysteriösen Monstern, die Ayakashi genannt werden, aber es gibt eine spezielle Truppe von Exorzisten-Ninjas, die sich gegen diese Bedrohung wehren! Der junge Ninja-Exorzist Matsuri verbringt seine Tage im Kampf gegen die Ayakashi, um seine Jugendfreundin Suzu zu beschützen. Doch als die Ayakashi-Katze Shirogane auftaucht, stehen die Dinge auf dem Kopf!\n ",
+                    "genre": "Action, Comedy, Ecchi, Harem, Magic, Romance, Supernatural, Superpower",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/53224.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/?link=5",
-                        "name": "Ep. 6",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/?link=4",
-                        "name": "Ep. 5",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"Ep.6.5\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }
