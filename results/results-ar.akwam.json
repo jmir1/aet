@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/8957/the-last-voyage-of-the-demeter",
+                                "title": "The Last Voyage of the Demeter",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/qwz1v.jpg"
+                            },
+                            {
+                                "url": "/movie/9009/breaking-point",
+                                "title": "Breaking Point",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/WXK6r.jpg"
+                            },
+                            {
                                 "url": "/movie/8753/indiana-jones-and-the-dial-of-destiny",
                                 "title": "Indiana Jones and the Dial of Destiny",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/Bdz7g.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/movie/8983/killer-book-club",
                                 "title": "Killer Book Club",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/UmVBV.jpg"
-                            },
-                            {
-                                "url": "/movie/8984/you-are-so-not-invited-to-my-bat-mitzvah",
-                                "title": "You Are So Not Invited to My Bat Mitzvah",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/WQzPZ.jpg"
-                            },
-                            {
-                                "url": "/movie/8982/trafficking",
-                                "title": "Trafficking",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/k4anf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -279,11 +279,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/8753/indiana-jones-and-the-dial-of-destiny",
-                    "title": "Indiana Jones and the Dial of Destiny",
+                    "url": "/movie/8957/the-last-voyage-of-the-demeter",
+                    "title": "The Last Voyage of the Demeter",
                     "author": "الولايات المتحدة الأمريكية",
-                    "description": "قصة الفيلم فيلم Indiana Jones and the Dial of Destiny في عام 1969، يعيش عالم الآثار والمغامر إنديانا جونز حياة عادية بعيدة عن الإثارة التي اعتاد عليها، ولكنه سرعان ما يعود في مغامرة رفقة ابنته الروحية هيلينا في مواجهة مع رجل نازي يُدعى فولر.",
-                    "genre": "PG13 اشراف عائلي, WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, اكشن, مغامرة",
+                    "description": "قصة الفيلم فيلم The Last Voyage of the Demeter يحكي الفيلم عن تفاصيل الأحداث الغريبة التي حدثت لطاقم السفينة أثناء محاولتهم النجاة من رحلة المحيط التي فشلت بسبب وجود شخص مرعب علي متن السفينة، كانت المفاجأة عندما وصلت السفينة إلي ميناء ويتبي حيث كانت مهجورة دون وجود أي فرد من الطاقم.",
+                    "genre": "WEB-DL - 1080p, انتاج : الولايات المتحدة الأمريكية, رعب, فانتازيا",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -293,15 +293,31 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/8753/indiana-jones-and-the-dial-of-destiny",
+                        "url": "/movie/8957/the-last-voyage-of-the-demeter",
                         "name": "مشاهدة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s103.akw.onl/download/1693397467/64ede05bb9bd2/The.Last.Voyage.Of.The.Demeter.2023.1080p.WEB_DL.AKWAM.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "http://s103.akw.onl/download/1693397467/64ede05bb9bd2/The.Last.Voyage.Of.The.Demeter.2023.1080p.WEB_DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s104.akw.onl/download/1693397467/64ede05be63f4/The.Last.Voyage.Of.The.Demeter.2023.720p.WEB-DL.AKWAM.mp4",
+                        "quality": "720p",
+                        "videoUrl": "http://s104.akw.onl/download/1693397467/64ede05be63f4/The.Last.Voyage.Of.The.Demeter.2023.720p.WEB-DL.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s318d1.akdl.link/download/1693397468/64ede05c23271/The.Last.Voyage.Of.The.Demeter.2023.480p.WEB_DL.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s318d1.akdl.link/download/1693397468/64ede05c23271/The.Last.Voyage.Of.The.Demeter.2023.480p.WEB_DL.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
