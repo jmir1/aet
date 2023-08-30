@@ -3,15 +3,73 @@
         "name": "Jellyfin (ALL)",
         "results": {
             "popular": {
-                "error": "java.lang.Exception: Select library in the extension settings.",
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
                 "passed": false
             },
             "latest": {
-                "error": "java.lang.Exception: Select library in the extension settings.",
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
                 "passed": false
             },
             "search": {
-                "error": "java.lang.Exception: Select library in the extension settings.",
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
+                "passed": false
+            },
+            "details": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "episodes": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.ConnectException: Failed to connect to /127.0.0.1:8096",
+                "passed": false
+            }
+        }
+    },
+    {
+        "name": "Jellyfin (2) (ALL)",
+        "results": {
+            "popular": {
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
+                "passed": false
+            },
+            "details": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "episodes": {
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
+            },
+            "videos": {
+                "error": "java.net.ConnectException: Failed to connect to /127.0.0.1:8096",
+                "passed": false
+            }
+        }
+    },
+    {
+        "name": "Jellyfin (3) (ALL)",
+        "results": {
+            "popular": {
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
+                "passed": false
+            },
+            "latest": {
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
+                "passed": false
+            },
+            "search": {
+                "error": "java.lang.IllegalArgumentException: Select library in the extension settings.",
                 "passed": false
             },
             "details": {

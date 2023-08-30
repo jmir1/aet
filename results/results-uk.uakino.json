@@ -393,20 +393,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://ashdi.vip/vod/20699",
-                        "name": "Серія 220 QTV"
-                    },
-                    {
-                        "url": "https://ashdi.vip/vod/20698",
-                        "name": "Серія 219 QTV"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.ClassCastException: class java.lang.String cannot be cast to class org.json.JSONObject (java.lang.String is in module java.base of loader 'bootstrap'; org.json.JSONObject is in unnamed module of loader 'app')",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
