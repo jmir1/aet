@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/king-the-land",
+                                "title": "King the Land (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/x1osLoAJ5NrethvokbqvnqTarxu.jpg"
+                            },
+                            {
                                 "url": "/serie/quien-es-erin-carter",
                                 "title": "¿Quién es Erin Carter? (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hEFK8QEZ07sxTVUvwXASk3ZQoEZ.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/cadetes-de-mechas",
                                 "title": "Cadetes de mechas (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg"
-                            },
-                            {
-                                "url": "/serie/medicina-letal",
-                                "title": "Medicina letal (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bZzEf47CKpfh3PTkFVEOsb4lgtJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/quien-es-erin-carter",
-                    "title": "¿Quién es Erin Carter? (2023)",
-                    "description": "Erin y su hija pequeña viven en Barcelona cuando ella se ve involucrada accidentalmente en un robo. Uno de los ladrones la reconoce y, después de aparecer en el periódico, su vida da un giro inesperado y Erin (o Kate en su vida pasada) se ve envuelta en asuntos turbios..",
-                    "genre": "Crimen, Action & Adventure",
+                    "url": "/serie/king-the-land",
+                    "title": "King the Land (2023)",
+                    "description": ".",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/hEFK8QEZ07sxTVUvwXASk3ZQoEZ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/x1osLoAJ5NrethvokbqvnqTarxu.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/quien-es-erin-carter/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/king-the-land/temporada/1/capitulo/12",
+                        "name": "T1 - E12: Episodio 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/serie/quien-es-erin-carter/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/king-the-land/temporada/1/capitulo/11",
+                        "name": "T1 - E11: Episodio 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
@@ -293,29 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/vrnb4xlb9xu0",
+                        "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-mj12nr4idybiuhrg.voe-network.net/engine/hls2/01/09436/vrnb4xlb9xu0_,n,.urlset/master.m3u8?t=D8WqacjBfFNtXRVKiMsBLgip2r2GsaEXWTFCowi3zTE&s=1693332521&e=14400&f=47183995&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=aLOL9XuXd-wUH3EQA2MLHPMIDt5tz5eul4xnUpNsJuY&s=1693355344&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=20.57&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04484/yaibk3p9htvd_o/index-v1-a1.m3u8?t=u_zNnJZ5FiadQeNJbhwttLUq-twylv3TlFkY6Xx8FTM&s=1693332512&e=43200&f=22424568&srv=42&asn=8075&sp=2000",
-                        "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04484/yaibk3p9htvd_o/index-v1-a1.m3u8?t=u_zNnJZ5FiadQeNJbhwttLUq-twylv3TlFkY6Xx8FTM&s=1693332512&e=43200&f=22424568&srv=42&asn=8075&sp=2000",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://filemoon.sx/e/yaibk3p9htvd",
-                            "Origin": "https://filemoon.sx"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=MXgBpR209otwb3&expires=1693402519&ip=GxOsFxqnDS9X&token=zxAXn_JmDMfg",
+                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693425342&ip=FROsE0EnDS9X&token=kZXFQUeK2tSQ",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MXgBpR209otwb3&expires=1693402519&ip=GxOsFxqnDS9X&token=zxAXn_JmDMfg"
+                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693425342&ip=FROsE0EnDS9X&token=kZXFQUeK2tSQ"
                     },
                     {
-                        "url": "https://voe.sx/e/vrnb4xlb9xu0",
+                        "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-mj12nr4idybiuhrg.voe-network.net/engine/hls2/01/09436/vrnb4xlb9xu0_,n,.urlset/master.m3u8?t=D8WqacjBfFNtXRVKiMsBLgip2r2GsaEXWTFCowi3zTE&s=1693332521&e=14400&f=47183995&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=aLOL9XuXd-wUH3EQA2MLHPMIDt5tz5eul4xnUpNsJuY&s=1693355344&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=20.57&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -621,6 +611,76 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/antigang-la-releve/",
+                                "title": "Antigang : La Relève",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/antigang-la-releve.jpg"
+                            },
+                            {
+                                "url": "/pelicula/like-father-like-son/",
+                                "title": "Like Father, Like Son",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/like-father-like-son.jpg"
+                            },
+                            {
+                                "url": "/pelicula/nefarious/",
+                                "title": "Nefarious",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nefarious.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mommys-stolen-memories/",
+                                "title": "Mommy's Stolen Memories",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mommys-stolen-memories.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-maldicion-del-queen-mary/",
+                                "title": "La Maldición del Queen Mary",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-maldicion-del-queen-mary.jpg"
+                            },
+                            {
+                                "url": "/pelicula/jules/",
+                                "title": "Jules",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jules.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-pod-generation/",
+                                "title": "The Pod Generation",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-pod-generation.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-engineer/",
+                                "title": "The Engineer",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-engineer.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dark-windows/",
+                                "title": "Dark Windows",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dark-windows.jpg"
+                            },
+                            {
+                                "url": "/pelicula/abducted-by-my-teacher-the-elizabeth-thomas-story/",
+                                "title": "Abducted by My Teacher: The Elizabeth Thomas Story",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/abducted-by-my-teacher-the-elizabeth-thomas-story.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-assassin/",
+                                "title": "The Assassin",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-assassin.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-haunting-of-the-tower-of-london/",
+                                "title": "The Haunting of the Tower of London",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-haunting-of-the-tower-of-london.jpg"
+                            },
+                            {
+                                "url": "/pelicula/how-to-blow-up-a-pipeline/",
+                                "title": "How to Blow Up a Pipeline",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/how-to-blow-up-a-pipeline.jpg"
+                            },
+                            {
+                                "url": "/pelicula/love-in-taipei/",
+                                "title": "Love in Taipei",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-in-taipei.jpg"
+                            },
+                            {
                                 "url": "/pelicula/un-paso-adelante/",
                                 "title": "Un paso adelante",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/un-paso-adelante.jpg"
@@ -649,76 +709,6 @@
                                 "url": "/pelicula/instituto-fraude-bs-high/",
                                 "title": "Instituto Fraude - BS High",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/instituto-fraude-bs-high.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-impaciencia-del-corazon/",
-                                "title": "La Impaciencia del corazón",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-impaciencia-del-corazon.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mi-crimen/",
-                                "title": "Mi Crimen",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mi-crimen.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-rey-perdido/",
-                                "title": "El Rey Perdido",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-rey-perdido.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cenizas-en-el-cielo/",
-                                "title": "Cenizas en el cielo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cenizas-en-el-cielo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-maldicion-de-la-novia/",
-                                "title": "La maldición de la novia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-maldicion-de-la-novia.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-dive/",
-                                "title": "The Dive",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-dive.jpg"
-                            },
-                            {
-                                "url": "/pelicula/wonderwell/",
-                                "title": "Wonderwell",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/wonderwell.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-extrano-caso-del-fantasma-claustrofobico/",
-                                "title": "El extraño caso del fantasma claustrofóbico",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-extrano-caso-del-fantasma-claustrofobico.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-club-de-los-lectores-criminales/",
-                                "title": "El club de los lectores criminales",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-club-de-los-lectores-criminales.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-flauta-magica/",
-                                "title": "La flauta mágica",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-flauta-magica.jpg"
-                            },
-                            {
-                                "url": "/pelicula/running-the-bases/",
-                                "title": "Running the Bases",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/running-the-bases.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dios-de-las-estafas/",
-                                "title": "Dios de las estafas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dios-de-las-estafas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/no-estas-invitada-a-mi-bat-mitzvah/",
-                                "title": "¡No estás invitada a mi bat Mitzvah!",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/no-estas-invitada-a-mi-bat-mitzvah.jpg"
-                            },
-                            {
-                                "url": "/pelicula/amigos-de-las-vacaciones-2/",
-                                "title": "Amigos de las vacaciones 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/amigos-de-las-vacaciones-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -888,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/un-paso-adelante/",
-                    "title": "Un paso adelante",
+                    "url": "/pelicula/antigang-la-releve/",
+                    "title": "Antigang : La Relève",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -902,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/un-paso-adelante/",
+                        "url": "/pelicula/antigang-la-releve/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

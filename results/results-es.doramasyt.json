@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/a-la-caza-de-espiritus-malignos-sub-espanol",
+                                "title": "A la caza de espíritus malignos Latino",
+                                "description": "A la caza de espíritus malignos Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/a-la-caza-de-espiritus-malignos-1693348719.jpg"
+                            },
+                            {
+                                "url": "/dorama/midsummer-is-full-of-love-sub-espanol",
+                                "title": "Midsummer is Full of Love",
+                                "description": "Midsummer is Full of Love",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/midsummer-is-full-of-love-1693337761.jpg"
+                            },
+                            {
+                                "url": "/dorama/love-in-taipei-sub-espanol",
+                                "title": "Love in Taipei",
+                                "description": "Love in Taipei",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-in-taipei-1693334424.jpg"
+                            },
+                            {
                                 "url": "/dorama/noches-de-verano-en-taipei-latino-sub-espanol",
                                 "title": "Noches de verano en Taipéi Latino",
                                 "description": "Noches de verano en Taipéi Latino",
@@ -167,24 +185,6 @@
                                 "title": "Behind Your Touch",
                                 "description": "Behind Your Touch",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/behind-your-touch-1692889908.jpg"
-                            },
-                            {
-                                "url": "/dorama/moment-of-eighteen-sub-espanol",
-                                "title": "Moment of Eighteen",
-                                "description": "Moment of Eighteen",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/moment-of-eighteen-1692887057.jpg"
-                            },
-                            {
-                                "url": "/dorama/lighthouse-sub-espanol",
-                                "title": "Lighthouse",
-                                "description": "Lighthouse",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/lighthouse-1692884775.jpg"
-                            },
-                            {
-                                "url": "/dorama/un-amor-predestinado-latino-sub-espanol",
-                                "title": "Un amor predestinado Latino",
-                                "description": "Un amor predestinado Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/un-amor-predestinado-latino-1692883849.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,10 +262,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/noches-de-verano-en-taipei-latino-sub-espanol",
-                    "title": "Noches de verano en Taipéi Latino (Love in Taipei Audio Latino)",
-                    "description": "Ever Wong, de 18 años, es enviada desde Ohio a Taiwán para estudiar mandarín durante el verano, pero se convierte en una adolescente libre que asiste a una fiesta a la que los lugareños llaman \"Loveboat\". ",
-                    "genre": "Romance, Comedia",
+                    "url": "/dorama/a-la-caza-de-espiritus-malignos-sub-espanol",
+                    "title": "A la caza de espíritus malignos Latino (The Uncanny Counter Audio Latino)",
+                    "description": "Empleados de un restaurante de día, cazadores de demonios de noche. Ellos usan sus habilidades especiales para derrotar espíritus malignos que persiguen humanos. ",
+                    "genre": "Misterio, Fantasia, K-Drama, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -275,16 +275,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/noches-de-verano-en-taipei-latino-episodio-1",
-                        "name": "Episodio 1.0",
-                        "episode_number": 1.0
+                        "url": "/ver/a-la-caza-de-espiritus-malignos-latino-episodio-16",
+                        "name": "Episodio 16.0",
+                        "episode_number": 16.0
+                    },
+                    {
+                        "url": "/ver/a-la-caza-de-espiritus-malignos-latino-episodio-15",
+                        "name": "Episodio 15.0",
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd469.mycdn.me/?expires=1693441716838&srcIp=52.190.17.160&pr=10&srcAg=GECKO&ms=185.226.52.83&type=3&sig=-F3dN0z0LX0&ct=0&urls=45.136.21.23&clientType=0&zs=43&id=5023413373599",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd469.mycdn.me/?expires=1693441716838&srcIp=52.190.17.160&pr=10&srcAg=GECKO&ms=185.226.52.83&type=3&sig=-F3dN0z0LX0&ct=0&urls=45.136.21.23&clientType=0&zs=43&id=5023413373599"
+                    }
+                ],
+                "passed": true
             }
         }
     }
