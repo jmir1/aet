@@ -3,64 +3,8 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movie/barbie",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/barbie.jpg"
-                            },
-                            {
-                                "url": "/movie/oppenheimer",
-                                "title": "Oppenheimer",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/oppenheimer.jpg"
-                            },
-                            {
-                                "url": "/movie/mission-impossible-dead-reckoning-part-one",
-                                "title": "Mission: Impossible - Dead Reckoning Part One",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/mission-impossible-dead-reckoning-part-one.jpg"
-                            },
-                            {
-                                "url": "/movie/transformers-rise-of-the-beasts",
-                                "title": "Transformers: Rise of the Beasts",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/transformers-rise-of-the-beasts.jpg"
-                            },
-                            {
-                                "url": "/movie/spider-man-across-the-spider-verse",
-                                "title": "Spider-Man: Across the Spider-Verse",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/spider-man-across-the-spider-verse.jpg"
-                            },
-                            {
-                                "url": "/movie/fast-x",
-                                "title": "Fast X",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/fast-x.jpg"
-                            },
-                            {
-                                "url": "/movie/renfield",
-                                "title": "Renfield",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/renfield.jpg"
-                            },
-                            {
-                                "url": "/movie/john-wick-chapter-4",
-                                "title": "John Wick: Chapter 4",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/john-wick-chapter-4.jpg"
-                            },
-                            {
-                                "url": "/movie/shazam-fury-of-the-gods",
-                                "title": "Shazam! Fury of the Gods",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/shazam-fury-of-the-gods.jpg"
-                            },
-                            {
-                                "url": "/movie/65",
-                                "title": "65",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/65.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -164,10 +108,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/barbie",
-                    "title": "Barbie",
-                    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-                    "genre": "Adventure, Comedy, Fantasy",
+                    "url": "/serie/who-is-erin-carter",
+                    "title": "Who Is Erin Carter? (2023-2023)",
+                    "description": "A British woman's tranquil life in Barcelona spirals out of control when an armed robbery at a supermarket exposes her secret... and violent past.",
+                    "genre": "Action, Adventure, Crime",
                     "initialized": true
                 },
                 "passed": true
@@ -175,9 +119,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/barbie/download/",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/serie/who-is-erin-carter/season-1#7",
+                        "name": "Episode S1E7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/serie/who-is-erin-carter/season-1#6",
+                        "name": "Episode S1E6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -185,9 +134,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl1.uploding.sbs/Movies4/2023/Barbie.2023/Barbie.2023.1080p.V2.Clean.Cam.x264.Will1869.mkv",
-                        "quality": "1080p",
-                        "videoUrl": "https://dl1.uploding.sbs/Movies4/2023/Barbie.2023/Barbie.2023.1080p.V2.Clean.Cam.x264.Will1869.mkv"
+                        "url": "http://dl11.sermovie.bid/Series/2023/Who.Is.Erin.Carter/720p.10bit/Who.Is.Erin.Carter.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                        "quality": "720p.x265",
+                        "videoUrl": "http://dl11.sermovie.bid/Series/2023/Who.Is.Erin.Carter/720p.10bit/Who.Is.Erin.Carter.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
+                    },
+                    {
+                        "url": "https://dl3.fm6x.sbs/Series_05/Who.is.Erin.Carter/Who.is.Erin.Carter.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv",
+                        "quality": "720px",
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/Who.is.Erin.Carter/Who.is.Erin.Carter.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv"
                     }
                 ],
                 "passed": true

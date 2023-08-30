@@ -177,6 +177,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/der-geschenkte-freund",
+                                "title": "Der geschenkte Freund",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-geschenkte-freund.jpg"
+                            },
+                            {
+                                "url": "/stream/falsches-spiel-mit-roger-rabbit",
+                                "title": "Falsches Spiel mit Roger Rabbit",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/falsches-spiel-mit-roger-rabbit.jpg"
+                            },
+                            {
                                 "url": "/stream/matilda",
                                 "title": "Matilda",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/matilda.jpg"
@@ -325,16 +335,6 @@
                                 "url": "/stream/die-eiche-mein-zuhause",
                                 "title": "Die Eiche - Mein Zuhause",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/die-eiche-mein-zuhause.jpg"
-                            },
-                            {
-                                "url": "/stream/du-bist-sowas-von-nicht-zu-meiner-bat-mizwa-eingeladen",
-                                "title": "Du bist sowas von nicht zu meiner bat-mizwa eingeladen",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/du-bist-sowas-von-nicht-zu-meiner-bat-mizwa-eingeladen.jpg"
-                            },
-                            {
-                                "url": "/stream/foundation-s02e07",
-                                "title": "Foundation S02E07",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/foundation-s02e07.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,22 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhzdunrcwlmjb3acya,6nhzdunrcwhfvhhluzq,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhzdunrcwlmjb3acya,6nhzdunrcwhfvhhluzq,.urlset/master.m3u8"
-                    },
-                    {
-                        "url": "https://s4.wolfstream.tv/hls2/01/02115/q0mx1zcfnkvx_h/master.m3u8?t=PzIIerahHkEXP7M_iikgviIr6wHyPlVHjGx6NxV2V0s&s=1693375732&e=43200&f=10578328&i=172.177&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s4.wolfstream.tv/hls2/01/02115/q0mx1zcfnkvx_h/master.m3u8?t=PzIIerahHkEXP7M_iikgviIr6wHyPlVHjGx6NxV2V0s&s=1693375732&e=43200&f=10578328&i=172.177&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

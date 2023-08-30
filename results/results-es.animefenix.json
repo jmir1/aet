@@ -133,6 +133,12 @@
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/60d7e2a2e50ff/tantei-wa-mou-shindeiru.jpg"
                             },
                             {
+                                "url": "/boku-no-kokoro-no-yabai-yatsu",
+                                "title": "Boku no Kokoro no Yabai Yatsu",
+                                "description": "Fascinado por el asesinato y todo lo macabro, Kyotaro sueña con representar sus retorcidas fantasías con sus desprevenidos compañeros de clase, pero un encuentro con Anna Yamada, la hermosa ídolo de la clase, enciende una chispa en la oscuridad de su corazón. Es una historia clásica de un chico antisocial que se enamora de una chica popular, pero tampoco son quienes parecen ser a primera vista. ¿Kyotaro y Anna desafiarán las expectativas que tienen el uno del otro y de ellos mismos?",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6416316c9f588/boku-no-kokoro-no-yabai-yatsu.jpg"
+                            },
+                            {
                                 "url": "/isekai-meikyuu-de-harem-wo",
                                 "title": "Isekai Meikyuu de Harem wo",
                                 "description": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harén de un hombre renacido!",
@@ -149,12 +155,6 @@
                                 "title": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
                                 "description": "Segunda parte de la segunda temporada del slime",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/60d7ea610da30/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg"
-                            },
-                            {
-                                "url": "/kobayashi-san-chi-no-maid-dragon-s",
-                                "title": "Kobayashi-san Chi no Maid Dragon S",
-                                "description": "Segunda tempoarada de las besto dragonas.",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/60d7eb1725535/kobayashi-san-chi-no-maid-dragon-s.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -323,12 +323,43 @@
                 "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/isekai-quartet-the-movie-another-world",
+                                "title": "ISEKAI QUARTET the Movie -Another World-",
+                                "description": "Todos los peculiares estudiantes han viajado nuevamente, ¡a otro mundo! Y es un mundo repleto de gólems que los atacan y que en apariencia está vacío, pero... no del todo. Allí descubrirán ciertos misterios y tendrán que buscar el modo de volver a su mundo original... o a la escuela, ¡a cualquier sitio menos donde están ahora!",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/63a5dca1f39e1/isekai-quartet-the-movie-another-world.jpg"
+                            },
+                            {
+                                "url": "/shin-tennis-no-ouji-sama-u-17-world-cup",
+                                "title": "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+                                "description": "Cuando el fenómeno del tenis Ryoma Echizen es expulsado del campo de entrenamiento de élite Sub-17 de Japón por romper las reglas, se siente abatido. Pero un golpe de buena suerte lo golpea cuando puede hacer una prueba para el equipo de EE. UU. Demostrar su valía contra sus curtidos veteranos no será fácil y, si es aceptado, tendrá que jugar contra sus antiguos amigos. ¿Podrá ayudar a sus nuevos hermanos a abrirse camino hacia la victoria?",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/62b38ca725ad2/shin-tennis-no-ouji-sama-u-17-world-cup.jpg"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-the-movie-world-heroes-mission",
+                                "title": "Boku no Hero Academia the Movie: World Heroes' Mission",
+                                "description": "Cuando una organización siniestra amenaza con acabar con todos los poderes sobrehumanos, el destino del mundo está en juego. A dos horas del colapso de la civilización, Deku, Bakugo y Todoroki logran trabajar en equipo, pero aún hay un problema. Deku está huyendo por asesinato.",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/620d0c3365e31/boku-no-hero-academia-the-movie-world-heroes-mission.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/hanyo-no-yashahime",
+                    "title": "Hanyo no Yashahime",
+                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -346,8 +377,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/Ko1EU102q9vOb5tRMjBLjsobb8Zrs3DpG1bKygd-vS0eJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/Ko1EU102q9vOb5tRMjBLjsobb8Zrs3DpG1bKygd-vS0eJxFPc"
+                    },
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/kSd5BueJQJP47l0l7Rpifkzd4SYTOzQAouS8c4SJJYEeJxFPc",
+                        "quality": "Amazon ES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/kSd5BueJQJP47l0l7Rpifkzd4SYTOzQAouS8c4SJJYEeJxFPc"
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwamtutn5kv2fbglsa6g2qdsqdkst3w/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwamtutn5kv2fbglsa6g2qdsqdkst3w/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
