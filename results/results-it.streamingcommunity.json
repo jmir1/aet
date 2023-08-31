@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "6654-one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/006ea20a-25ff-45e2-ac06-df575322b9f1.webp"
+                            },
+                            {
+                                "url": "6655-zone-blu-i-segreti-della-longevita",
+                                "title": "Zone blu: i segreti della longevità",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7a5cde6c-ae5a-43e3-bd8e-5bb75e0cea64.webp"
+                            },
+                            {
                                 "url": "6652-gli-amici-delle-vacanze-2",
                                 "title": "Gli amici delle vacanze 2",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/682b9838-eb2e-4cf0-8339-eec271858d9e.webp"
@@ -295,16 +305,6 @@
                                 "url": "6319-citadel",
                                 "title": "Citadel",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/ec741d65-1135-4f0f-9a51-afb5ea4e07e7.webp"
-                            },
-                            {
-                                "url": "6280-linfermiera",
-                                "title": "L'infermiera",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/78513fc8-bba6-45d2-a499-481c5e61a628.webp"
-                            },
-                            {
-                                "url": "6277-sam-una-vita-da-sassone",
-                                "title": "Sam: Una vita da Sassone",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/7fdff0f5-2d70-4fc4-9ae2-2c1fe83c64cc.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "6652-gli-amici-delle-vacanze-2",
-                    "description": "Marcus ed Emily, una coppia appena sposata, invitano i loro disinibiti amici Ron e Kyla a unirsi a loro per una vacanza quando Marcus ottiene un viaggio tutto pagato in un resort dei Caraibi. Quando Reese, il padre incarcerato di Kyla, viene rilasciato e si presenta al resort senza preavviso, le cose vanno fuori controllo, mandando all'aria i piani di Marcus e trasformando il viaggio perfetto degli amici in un caos totale.",
-                    "genre": "Commedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "6654-one-piece",
+                    "description": "La storia segue le avventure di Monkey D. Rufy, un ragazzo il cui corpo ha assunto le proprietà della gomma dopo aver inavvertitamente ingerito un frutto del diavolo. Reclutando compagni per formare una ciurma, Rufy esplora la Rotta Maggiore in cerca del leggendario tesoro One Piece e inseguendo il sogno di diventare il nuovo Re dei pirati.",
+                    "genre": "Sci-Fi & Fantasy, Action & Adventure",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6652",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "6654?e=42652",
+                        "name": "Stagione 1 episodio 8 - IL PIÙ CATTIVO DEL MARE ORIENTALE",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "6654?e=42658",
+                        "name": "Stagione 1 episodio 7 - LA RAGAZZA CON IL TATUAGGIO DEL PESCE SEGA",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true

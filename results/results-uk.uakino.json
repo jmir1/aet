@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animeukr/anime-series/17604-ruynvnik-nebesnih-sfer-1-sezon.html",
+                                "title": "Руйнівник Небесних Сфер",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/21/530d005a4892365ae1f00e31b9e7b6.jpg"
+                            },
+                            {
                                 "url": "/animeukr/anime-series/17917-pomaranch-1-sezon.html",
                                 "title": "Помаранч",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/b3/7bcda1cc0cf46b98db35b8e8e6d36f.jpg"
@@ -297,11 +302,6 @@
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/ef/1e6ee0b2e2413776997b17f9690700.jpg"
                             },
                             {
-                                "url": "/animeukr/anime-series/17604-ruynvnik-nebesnih-sfer-1-sezon.html",
-                                "title": "Руйнівник Небесних Сфер",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/21/530d005a4892365ae1f00e31b9e7b6.jpg"
-                            },
-                            {
                                 "url": "/animeukr/anime-series/17629-klas-dlya-geroyiv-1-sezon.html",
                                 "title": "Клас для героїв",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/95/47fdba46b8984f0cfa6475e668f2f5.jpg"
@@ -393,11 +393,20 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.ClassCastException: class java.lang.String cannot be cast to class org.json.JSONObject (java.lang.String is in module java.base of loader 'bootstrap'; org.json.JSONObject is in unnamed module of loader 'app')",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ashdi.vip/vod/20699",
+                        "name": "Серія 220 QTV"
+                    },
+                    {
+                        "url": "https://ashdi.vip/vod/20698",
+                        "name": "Серія 219 QTV"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
