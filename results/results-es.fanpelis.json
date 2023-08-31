@@ -3,110 +3,8 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/amigos-pasajeros-2/",
-                                "title": "Amigos pasajeros 2",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg"
-                            },
-                            {
-                                "url": "/un-extrano-entre-nosotras/",
-                                "title": "Un extraño entre nosotras",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/50r7F48zn7FCKnNHNnaidWxmktk.jpg"
-                            },
-                            {
-                                "url": "/to-leslie/",
-                                "title": "To Leslie",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aGfgmMwL010Ll9rEgrn6XXPzZgP.jpg"
-                            },
-                            {
-                                "url": "/13-fantasmas/",
-                                "title": "13 fantasmas",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/77pqeCDToMB0EpfJyT8JUiupze1.jpg"
-                            },
-                            {
-                                "url": "/la-flauta-magica/",
-                                "title": "La flauta mágica",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ccmtOFDFKU2hhKBVPGj6UntmozH.jpg"
-                            },
-                            {
-                                "url": "/el-misterio-de-la-casa-del-lago/",
-                                "title": "El misterio de la casa del lago",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/962XI8KbLFTm3oYNBs1rNNeN5X4.jpg"
-                            },
-                            {
-                                "url": "/el-francotirador-de-donbas/",
-                                "title": "El francotirador de Donbás",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bsHqULcPgIUroCHLfTIXWJ24sdd.jpg"
-                            },
-                            {
-                                "url": "/la-mansion-encantada/",
-                                "title": "La mansión encantada",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/quVOyQALS1JVOoiGekllFfEfwwD.jpg"
-                            },
-                            {
-                                "url": "/megalodon-2-la-fosa/",
-                                "title": "Megalodón 2: La fosa",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mBgynPDplmo5JTY9VfGqY35OjDu.jpg"
-                            },
-                            {
-                                "url": "/el-club-de-los-lectores-criminales/",
-                                "title": "El club de los lectores criminales",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/idew42l7ILdyR97XC9yG4hFUy1Z.jpg"
-                            },
-                            {
-                                "url": "/hasta-el-limite-del-honor/",
-                                "title": "Hasta el límite del honor",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bdbapJtyKKqHBUZYiZ0JnC2mBZ9.jpg"
-                            },
-                            {
-                                "url": "/fade-out-ray/",
-                                "title": "Fade Out Ray",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/noAIw8zkZFWyiA8VjVw8NPVtQu8.jpg"
-                            },
-                            {
-                                "url": "/el-extrano-caso-del-fantasma-claustrofobico/",
-                                "title": "El extraño caso del fantasma claustrofóbico",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iLJsl9CIKiW497tYdtyzWruxTvr.jpg"
-                            },
-                            {
-                                "url": "/una-estafa-celestial/",
-                                "title": "Una estafa celestial",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/evpyqT25VJzFT5juDflTM6OW5zW.jpg"
-                            },
-                            {
-                                "url": "/ni-de-cona-estas-invitada-a-mi-bat-mitsva/",
-                                "title": "Ni de coña estás invitada a mi bat mitsvá",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/s9EWMx96aWVDQzuCBdSwO63HDfu.jpg"
-                            },
-                            {
-                                "url": "/somewhere-in-queens/",
-                                "title": "Somewhere in Queens",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yDIiJqB3vZKs21ryJUHq01bpf4N.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -216,13 +114,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/amigos-pasajeros-2/",
-                    "title": "Amigos pasajeros 2",
-                    "description": "Amigos pasajeros 2 La pareja de recién casados Marcus y Emily invitan a sus desinhibidos mejores amigos Ron y Kyla, quienes también están recién casados y tienen un bebé, para unirse a ellos en unas vacaciones cuando Marcus consigue un viaje con todos los gastos pagados a un centro turístico del Caribe. Pero cuando el padre encarcelado de Kyla, Reese, es liberado de San Quentin y aparece en el resort sin previo aviso en el peor momento posible, las cosas se salen de control, lo que altera los mejores planes de Marcus y convierte el viaje perfecto de los amigos de vacaciones en un total caos.",
-                    "genre": "Comedia",
+                    "url": "/series/star-trek-strange-new-worlds/",
+                    "title": "Star Trek: Strange New Worlds",
+                    "description": "Star Trek: Strange New Worlds El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+                    "genre": "Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg",
+                    "thumbnail_url": "https://fanpelis.la/data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
@@ -230,47 +128,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/amigos-pasajeros-2/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
+                        "url": "/episode/star-trek-strange-new-worlds-season-2-episode-8",
+                        "name": "T2 - E8 - Episode 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/star-trek-strange-new-worlds-season-2-episode-7",
+                        "name": "T2 - E7 - Episode 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=-mKavK6MGXY&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=-mKavK6MGXY&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
-                    },
-                    {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=Mcikb8Fy0ho&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=Mcikb8Fy0ho&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
-                    },
-                    {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=IBfSmQiApIA&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=IBfSmQiApIA&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
-                    },
-                    {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=CRRwC1EH7Wk&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=CRRwC1EH7Wk&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
-                    },
-                    {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=-2gKRylpnAU&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=-2gKRylpnAU&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
-                    },
-                    {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=ifBiRvUr8e0&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693548561658&srcIp=52.176.137.37&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=ifBiRvUr8e0&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

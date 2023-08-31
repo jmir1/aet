@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=ccmQFUeuxbs0OnnK88FDFX02C0jnAqs6UI7MvbHK57M&s=1693462162&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.40&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=IDlA_mXLLz2KTtghZ0DP_DhkCpPZUiEpdSeVTCr25QM&s=1693483897&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=4.227&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693532161&ip=F0OSKRqRKxSHDN&token=BPmYTZf_ZhV2",
+                        "url": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693553896&ip=Gy5QDREnDS9X&token=isoUWYs32eUv",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693532161&ip=F0OSKRqRKxSHDN&token=BPmYTZf_ZhV2"
+                        "videoUrl": "https://streamtape.com/get_video?id=w7qOzedR40HWdl&expires=1693553896&ip=Gy5QDREnDS9X&token=isoUWYs32eUv"
                     },
                     {
                         "url": "https://voe.sx/e/tfwqjlbma8ey",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=ccmQFUeuxbs0OnnK88FDFX02C0jnAqs6UI7MvbHK57M&s=1693462162&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=104.40&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09446/tfwqjlbma8ey_,n,.urlset/master.m3u8?t=IDlA_mXLLz2KTtghZ0DP_DhkCpPZUiEpdSeVTCr25QM&s=1693483897&e=14400&f=47234600&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=4.227&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,16 +576,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/megalodon-2-la-fosa",
-                    "title": "Megalodón 2: La fosa (2023)",
-                    "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia. Secuela de 'The Meg' (2018).",
-                    "genre": "Acción, Ciencia ficción, Terror",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
