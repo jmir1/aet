@@ -7,6 +7,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/my-lovely-liar-sub-espanol",
+                                "title": "My Lovely Liar",
+                                "description": "My Lovely Liar",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/my-lovely-liar-1693441615.jpg"
+                            },
+                            {
+                                "url": "/dorama/love-in-the-air-sub-espanol",
+                                "title": "Love in the Air",
+                                "description": "Love in the Air",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/love-in-the-air-1693436753.jpg"
+                            },
+                            {
+                                "url": "/dorama/jinxed-at-first-sub-espanol",
+                                "title": "Jinxed at First",
+                                "description": "Jinxed at First",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/jinxed-at-first-1693431811.jpg"
+                            },
+                            {
+                                "url": "/dorama/fake-it-till-you-make-it-sub-espanol",
+                                "title": "Fake It Till You Make It",
+                                "description": "Fake It Till You Make It",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/fake-it-till-you-make-it-1693429787.jpg"
+                            },
+                            {
+                                "url": "/dorama/all-that-we-loved-sub-espanol",
+                                "title": "All That We Loved",
+                                "description": "All That We Loved",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/all-that-we-loved-1693422667.jpg"
+                            },
+                            {
+                                "url": "/dorama/exclusive-fairy-tale-sub-espanol",
+                                "title": "Exclusive Fairy Tale",
+                                "description": "Exclusive Fairy Tale",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/exclusive-fairy-tale-1693421540.jpg"
+                            },
+                            {
                                 "url": "/dorama/the-third-charm-sub-espanol",
                                 "title": "The Third Charm",
                                 "description": "The Third Charm",
@@ -149,42 +185,6 @@
                                 "title": "Burn the House Down",
                                 "description": "Burn the House Down",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/burn-the-house-down-1693028936.jpg"
-                            },
-                            {
-                                "url": "/dorama/cinderellas-of-midsummer-sub-espanol",
-                                "title": "Cinderellas of Midsummer",
-                                "description": "Cinderellas of Midsummer",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/cinderellas-of-midsummer-1693026663.jpg"
-                            },
-                            {
-                                "url": "/dorama/live-on-sub-espanol",
-                                "title": "Live On",
-                                "description": "Live On",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/live-on-1693024243.jpg"
-                            },
-                            {
-                                "url": "/dorama/three-dads-sub-espanol",
-                                "title": "Three Dads",
-                                "description": "Three Dads",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/three-dads-1693021845.jpg"
-                            },
-                            {
-                                "url": "/dorama/el-hada-de-las-pesas-latino-sub-espanol",
-                                "title": "El hada de las pesas Latino",
-                                "description": "El hada de las pesas Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/el-hada-de-las-pesas-latino-1693014289.jpg"
-                            },
-                            {
-                                "url": "/dorama/king-the-land-latino-sub-espanol",
-                                "title": "King the Land Latino",
-                                "description": "King the Land Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/king-the-land-latino-1693000314.jpg"
-                            },
-                            {
-                                "url": "/dorama/king-the-land-sub-espanol",
-                                "title": "King the Land",
-                                "description": "King the Land",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/king-the-land-1692986504.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,58 +262,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/the-third-charm-sub-espanol",
-                    "title": "The Third Charm (El tercer encanto)",
-                    "description": "Dos personas completamente opuestas que se conocen desde hace 12 años se encuentran inesperadamente en una cita a ciegas. ",
-                    "genre": "Romance, Comedia, K-Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/dorama/my-lovely-liar-sub-espanol",
+                    "title": "My Lovely Liar (Mi mentiroso adorable)",
+                    "description": "Mok Sol Hee tiene una habilidad especial que le permite distinguir si las personas mienten o no. Odia su habilidad y la ve como una maldición. Debido a su habilidad especial, no puede confiar en nadie. Mok Sol Hee se involucra con un sospechoso de asesinato que insiste en que es inocente, pero nadie le cree. ",
+                    "genre": "Romance, Comedia, Misterio, Fantasia, K-Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/the-third-charm-episodio-16",
-                        "name": "Episodio 16.0",
-                        "episode_number": 16.0
-                    },
-                    {
-                        "url": "/ver/the-third-charm-episodio-15",
-                        "name": "Episodio 15.0",
-                        "episode_number": 15.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd410.mycdn.me/?expires=1693505285926&srcIp=40.77.52.128&pr=10&srcAg=GECKO&ms=45.136.20.42&type=3&sig=nTvnue6Z3RE&ct=0&urls=185.226.53.8&clientType=0&zs=43&id=5023733320351",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd410.mycdn.me/?expires=1693505285926&srcIp=40.77.52.128&pr=10&srcAg=GECKO&ms=45.136.20.42&type=3&sig=nTvnue6Z3RE&ct=0&urls=185.226.53.8&clientType=0&zs=43&id=5023733320351"
-                    },
-                    {
-                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www4.mp4upload.com:183/d/rcxvctxkz3b4quuo6oqbqkazletij7zvvt2brufjjugkiknumfl52pxlcxknor35adqkuiaj/video.mp4\"           \n           });\n            if (\"https://www4.mp4upload.com/i/02303/bz9xvdv6fevd.jpg\") {\n             player.poster(\"https://www4.mp4upload.com/i/02303/bz9xvdv6fevd.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/bz9xvdv6fevd\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-bz9xvdv6fevd.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"bz9xvdv6fevd\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/bz9xvdv6fevd\", \"_blank\");\n});   \n      ",
-                        "quality": "Upload",
-                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www4.mp4upload.com:183/d/rcxvctxkz3b4quuo6oqbqkazletij7zvvt2brufjjugkiknumfl52pxlcxknor35adqkuiaj/video.mp4\"           \n           });\n            if (\"https://www4.mp4upload.com/i/02303/bz9xvdv6fevd.jpg\") {\n             player.poster(\"https://www4.mp4upload.com/i/02303/bz9xvdv6fevd.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/bz9xvdv6fevd\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-bz9xvdv6fevd.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"bz9xvdv6fevd\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/bz9xvdv6fevd\", \"_blank\");\n});   \n      ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://upload.com/"
-                        }
-                    },
-                    {
-                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "quality": "Upload",
-                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece-live-action-jpn/",
+                                "title": "One Piece Live Action Jpn",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/08/one-piece-live-action-new-visual-august-31.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece-live-action/",
+                                "title": "One Piece Live Action",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/08/2.jpg"
+                            },
+                            {
                                 "url": "/anime/bastard-ankoku-no-hakaishin-season-2/",
                                 "title": "Bastard Ankoku no Hakaishin Season 2",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/132555l.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega/",
                                 "title": "Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Ryza-no-Atelier.jpg"
-                            },
-                            {
-                                "url": "/anime/horimiya-piece/",
-                                "title": "Horimiya Piece",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Horimiya-–-Piece.jpg"
-                            },
-                            {
-                                "url": "/anime/ooku-the-inner-chambers/",
-                                "title": "Ooku The Inner Chambers",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/06/289614.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,41 +374,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bastard-ankoku-no-hakaishin-season-2/",
-                    "title": "Bastard Ankoku no Hakaishin Season 2",
-                    "description": "الموسم الثاني من الأنمي",
-                    "genre": "كوميدي, قوى خارقة, خيال, سينين, أكشن, مغامرات",
+                    "url": "/anime/one-piece-live-action-jpn/",
+                    "title": "One Piece Live Action Jpn",
+                    "description": "عمل واقعي لأنمي ون بيس ملاحظة [هذه نسخة الصوت اليابانية] بعد وفاة القرصان جولد روجر ، يحلم صبي صغير اسمه لوفي بالعثور على كنز ون بيس، وإعلان نفسه ملكًا للقراصنة، ويأتي ذلك بعد تناوله لفاكهة شيطانية تمنحه القوة وخفة حركية هائلة، ويبحر من قرية فوشا في إيست بلو وينطلق في مغامرته الكبرى ليصبح بذلك ملك القراصنة.",
+                    "genre": "كوميدي, أكشن, شونين, مغامرات",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/132555l.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/08/one-piece-live-action-new-visual-august-31.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/bastard-ankoku-no-hakaishin-season-2-الحلقة-15/",
-                        "name": "15",
-                        "episode_number": 15.0
-                    },
-                    {
-                        "url": "/episode/bastard-ankoku-no-hakaishin-season-2-الحلقة-14/",
-                        "name": "14",
-                        "episode_number": 14.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc613.4shared.com/img/CUJFU5Cufa/e72a51ce/dlink__2Fdownload_2FCUJFU5Cufa_3Fsbsr_3D118d3c64a7b74f5c15cf549dd5bce507aef_26bip_3DMTcyLjE3Ny4xMjkuMjQ2_26lgfp_3D66_26bip_3DMTcyLjE3Ny4xMjkuMjQ2_26bip_3DMTcyLjE3Ny4xMjkuMjQ2/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc613.4shared.com/img/CUJFU5Cufa/e72a51ce/dlink__2Fdownload_2FCUJFU5Cufa_3Fsbsr_3D118d3c64a7b74f5c15cf549dd5bce507aef_26bip_3DMTcyLjE3Ny4xMjkuMjQ2_26lgfp_3D66_26bip_3DMTcyLjE3Ny4xMjkuMjQ2_26bip_3DMTcyLjE3Ny4xMjkuMjQ2/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
