@@ -377,28 +377,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/OuxKOfLeoRZi_U2ZUz09B5YOgqeqSfeacO-VzFsBPb0eJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/OuxKOfLeoRZi_U2ZUz09B5YOgqeqSfeacO-VzFsBPb0eJxFPc"
-                    },
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/FcGTecAEW2mkx5GmgTRMGx73mftpmVDDpwUyqrn91oAeJxFPc",
-                        "quality": "Amazon ES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/FcGTecAEW2mkx5GmgTRMGx73mftpmVDDpwUyqrn91oAeJxFPc"
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwb6l5s3tw2tuqqoik7eavrtcvxyota/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwb6l5s3tw2tuqqoik7eavrtcvxyota/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

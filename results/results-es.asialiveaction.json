@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/my-universe/",
+                                "title": "My Universe (1/24)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg"
+                            },
+                            {
                                 "url": "/hotaru-no-haka-2/",
                                 "title": "Hotaru no Haka",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jB25eAeGk5VuVMRerppUH9tv4Af.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/be-mine-superstar/",
                                 "title": "Be Mine SuperStar (5/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
-                            },
-                            {
-                                "url": "/low-frequency/",
-                                "title": "Low Frequency (4/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/my-universe/",
+                                "title": "My Universe (1/24)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg"
+                            },
+                            {
                                 "url": "/hotaru-no-haka-2/",
                                 "title": "Hotaru no Haka",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jB25eAeGk5VuVMRerppUH9tv4Af.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/be-mine-superstar/",
                                 "title": "Be Mine SuperStar (5/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
-                            },
-                            {
-                                "url": "/low-frequency/",
-                                "title": "Low Frequency (4/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,27 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hotaru-no-haka-2/",
-                    "title": "Hotaru no Haka",
-                    "description": "Tercera adaptación cinematográfica de la novela de Akiyuki Nosaka, tras la cinta de animación de Isao Takahata (1988) y la película realizada para televisión por Toya Sato (2005). Desarrollada en las ciudades de Kōbe y Nishinomiya, Japón, narra la dura historia de dos hermanos, Seita y la pequeña Setsuko, y su lucha desesperada por sobrevivir durante los meses posteriores al bombardeo de Kōbe del 5 de junio de 1945. Además de mostrar cómo la guerra puede modificar la personalidad de la gente, el filme explora la vida pasada de la familia Yokokawa así como la vida social de Seita tras el bombardeo y la eventual ausencia de sus padres",
-                    "genre": "Drama, Histórico, Horror, Psicológico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jB25eAeGk5VuVMRerppUH9tv4Af.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/4227857/",
-                        "name": "Sub. Español",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

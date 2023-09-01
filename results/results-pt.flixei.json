@@ -1731,47 +1731,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=sa4JyJpTDAyToO9o_d1xQQ&e=1693549858&_t=1693536072",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=sa4JyJpTDAyToO9o_d1xQQ&e=1693549858&_t=1693536072",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=QRxLE5zk1Mwm_OU-KjRWlQ&e=1693549858&_t=1693533189",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=QRxLE5zk1Mwm_OU-KjRWlQ&e=1693549858&_t=1693533189",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1693598258&ip=FROsDHcnDS9X&token=BLaZQgCOyTHD",
-                        "quality": "Streamtape(LEGENDADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1693598258&ip=FROsDHcnDS9X&token=BLaZQgCOyTHD"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1693598258&ip=FROsDHcnDS9X&token=-iMciPX9OXtk",
-                        "quality": "Streamtape(DUBLADO)",
-                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1693598258&ip=FROsDHcnDS9X&token=-iMciPX9OXtk"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
