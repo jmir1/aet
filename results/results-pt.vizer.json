@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/fundacao",
+                                "title": "Fundação",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19512.webp"
+                            },
+                            {
                                 "url": "/serie/online/dark-winds",
                                 "title": "Dark Winds",
                                 "status": 1,
@@ -309,12 +315,6 @@
                                 "title": "Ragnarok",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18623.webp"
-                            },
-                            {
-                                "url": "/serie/online/fundacao",
-                                "title": "Fundação",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19512.webp"
                             },
                             {
                                 "url": "/serie/online/and-just-like-that-um-novo-capitulo-de-sex-and-the-city",
@@ -598,8 +598,23 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=DH-UKMD2ctFG-s0bPO297w&e=1693591866&_t=1693574421",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=DH-UKMD2ctFG-s0bPO297w&e=1693591866&_t=1693574421",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
