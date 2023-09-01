@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/one-piece-live",
+                                "title": "ONE PIECE LIVE (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/fsQ2KHbZk12z3h3dba2ActMEudj.jpg"
+                            },
+                            {
                                 "url": "/serie/corazon-de-invictus",
                                 "title": "Corazón de Invictus (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/iGGCW0m5qQsIcwTwCMgJl36EqAD.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/lego-dreamzzz",
                                 "title": "LEGO DREAMZzz (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/6sa43ghLgVY0zi0imlG2jfGYCQx.jpg"
-                            },
-                            {
-                                "url": "/serie/lol-last-one-laughing-colombia",
-                                "title": "LOL: Last One Laughing Colombia (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bo4UKcVWwX2T5HA5UsFXTXcoUsy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/corazon-de-invictus",
-                    "title": "Corazón de Invictus (2023)",
-                    "description": "Una visión exclusiva de los Juegos Invictus de 2022, el evento del príncipe Enrique que ayuda a miembros de las fuerzas armadas lesionados a curarse mediante el deporte..",
-                    "genre": "Documental",
+                    "url": "/serie/one-piece-live",
+                    "title": "ONE PIECE LIVE (2023)",
+                    "description": "El joven pirata Monkey D. Luffy y su variopinta tripulación emprenden un viaje épico en busca de un tesoro..",
+                    "genre": "Sci-Fi & Fantasy, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iGGCW0m5qQsIcwTwCMgJl36EqAD.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fsQ2KHbZk12z3h3dba2ActMEudj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/corazon-de-invictus/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/one-piece-live/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/corazon-de-invictus/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/one-piece-live/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/nlkpqifec86a",
+                        "url": "https://voe.sx/e/dlnicdmqcceb",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09459/nlkpqifec86a_,n,.urlset/master.m3u8?t=dntOZJGWrPDk0xyyGbJVTYVmfCan_nkJiGoHvBJIBLc&s=1693505305&e=14400&f=47299171&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-nbs5rsezfjtaqnht.voe-network.net/engine/hls2-c/01/09461/dlnicdmqcceb_,n,.urlset/master.m3u8?t=t1KgSb4lXVKUeTGSFcgK1T72szjAM7tOREHMFOyYGCo&s=1693528308&e=14400&f=47309784&node=delivery-node-2q9szkwxe3xq5x6z.voe-network.net&i=20.42&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=DX3q90emodSkXMw&expires=1693575304&ip=FROsE0EnDS9X&token=OouTl_hjt2yd",
+                        "url": "https://streamtape.com/get_video?id=GJ9KKlBeo9h17pA&expires=1693598306&ip=FROsExSnDS9X&token=qQ025AydQOhn",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=DX3q90emodSkXMw&expires=1693575304&ip=FROsE0EnDS9X&token=OouTl_hjt2yd"
+                        "videoUrl": "https://streamtape.com/get_video?id=GJ9KKlBeo9h17pA&expires=1693598306&ip=FROsExSnDS9X&token=qQ025AydQOhn"
                     },
                     {
-                        "url": "https://voe.sx/e/nlkpqifec86a",
+                        "url": "https://voe.sx/e/dlnicdmqcceb",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/09459/nlkpqifec86a_,n,.urlset/master.m3u8?t=dntOZJGWrPDk0xyyGbJVTYVmfCan_nkJiGoHvBJIBLc&s=1693505305&e=14400&f=47299171&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-nbs5rsezfjtaqnht.voe-network.net/engine/hls2-c/01/09461/dlnicdmqcceb_,n,.urlset/master.m3u8?t=t1KgSb4lXVKUeTGSFcgK1T72szjAM7tOREHMFOyYGCo&s=1693528308&e=14400&f=47309784&node=delivery-node-2q9szkwxe3xq5x6z.voe-network.net&i=20.42&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-regreso-de-manson",
+                                "title": "El regreso de Manson (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jdkQCHDsPhPH28MDOsJDaSDgg81.jpg"
+                            },
+                            {
+                                "url": "/pelicula/un-dia-como-leon",
+                                "title": "Un Dia Como Leon (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cxSKca4dNlk7O7PMiEYT203vlIw.jpg"
+                            },
+                            {
+                                "url": "/pelicula/poker-face",
+                                "title": "Poker Face (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/qvcDAQEk305csl4ivZGWdr7lSD3.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-piratas-de-la-calle-de-abajo",
+                                "title": "Los Piratas De La Calle De Abajo (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/o6oua2X8HwyrdNBlyx1gSoJrwvc.jpg"
+                            },
                             {
                                 "url": "/pelicula/megalodon-2-la-fosa",
                                 "title": "Megalodón 2: La fosa (2023)",
@@ -418,26 +438,6 @@
                                 "url": "/pelicula/el-rio-de-la-ira",
                                 "title": "El río de la ira (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-anfitriona",
-                                "title": "La Anfitriona (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mUSeGrl01BZviSlGMmKavoWCbnP.jpg"
-                            },
-                            {
-                                "url": "/pelicula/encuentro-con-la-verdad",
-                                "title": "Encuentro con la verdad (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/dKP2cphhHAsw0ftInIbipWfgB1l.jpg"
-                            },
-                            {
-                                "url": "/pelicula/secretos-de-espias",
-                                "title": "Secretos de Espías (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aTHZaAnqI1hmky4JH5g2qztJZ2a.jpg"
-                            },
-                            {
-                                "url": "/pelicula/american-girl-corinne-tan",
-                                "title": "American Girl: Corinne Tan (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/y8JAAoOiL7o3VpPwriGcrhzTUiK.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/megalodon-2-la-fosa",
-                    "title": "Megalodón 2: La fosa (2023)",
-                    "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia. Secuela de 'The Meg' (2018).",
-                    "genre": "Acción, Ciencia ficción, Terror",
+                    "url": "/pelicula/el-regreso-de-manson",
+                    "title": "El regreso de Manson (2023)",
+                    "description": "Una joven pareja alquila un piso en el desierto como telón de fondo perfecto para grabar una audición de una prometedora película sobre Charles Manson. Todo cambia cuando los oscuros eventos del material de la película se empiezan a hacer realidad. Poco a poco, se encuentran entrelazados en una trama oculta y siniestra dirigida por un líder oculto.",
+                    "genre": "Suspense, Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/megalodon-2-la-fosa",
+                        "url": "/pelicula/el-regreso-de-manson",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -610,6 +610,36 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/samurai-x-el-fin-de-la-leyenda/",
+                                "title": "Samurai X: El Fin de la Leyenda",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/samurai-x-el-fin-de-la-leyenda.jpg"
+                            },
+                            {
+                                "url": "/pelicula/test/",
+                                "title": "Test",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/test.jpg"
+                            },
+                            {
+                                "url": "/pelicula/back-on-the-strip/",
+                                "title": "Back on the Strip",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/back-on-the-strip.jpg"
+                            },
+                            {
+                                "url": "/pelicula/francesca-quinn-pi/",
+                                "title": "Francesca Quinn, PI",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/francesca-quinn-pi.jpg"
+                            },
+                            {
+                                "url": "/pelicula/birthrebirth/",
+                                "title": "Birth/Rebirth",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/birthrebirth.jpg"
+                            },
+                            {
+                                "url": "/pelicula/broil/",
+                                "title": "Broil",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/broil.jpg"
+                            },
                             {
                                 "url": "/pelicula/historias-de-familia/",
                                 "title": "Historias de Familia",
@@ -679,36 +709,6 @@
                                 "url": "/pelicula/dark-windows/",
                                 "title": "Dark Windows",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/dark-windows.jpg"
-                            },
-                            {
-                                "url": "/pelicula/abducted-by-my-teacher-the-elizabeth-thomas-story/",
-                                "title": "Abducted by My Teacher: The Elizabeth Thomas Story",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/abducted-by-my-teacher-the-elizabeth-thomas-story.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-assassin/",
-                                "title": "The Assassin",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-assassin.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-haunting-of-the-tower-of-london/",
-                                "title": "The Haunting of the Tower of London",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-haunting-of-the-tower-of-london.jpg"
-                            },
-                            {
-                                "url": "/pelicula/how-to-blow-up-a-pipeline/",
-                                "title": "How to Blow Up a Pipeline",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/how-to-blow-up-a-pipeline.jpg"
-                            },
-                            {
-                                "url": "/pelicula/love-in-taipei/",
-                                "title": "Love in Taipei",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-in-taipei.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-paso-adelante/",
-                                "title": "Un paso adelante",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/un-paso-adelante.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/historias-de-familia/",
-                    "title": "Historias de Familia",
+                    "url": "/pelicula/samurai-x-el-fin-de-la-leyenda/",
+                    "title": "Samurai X: El Fin de la Leyenda",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Drama, Aventura",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/historias-de-familia/",
+                        "url": "/pelicula/samurai-x-el-fin-de-la-leyenda/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

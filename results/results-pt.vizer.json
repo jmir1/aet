@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/one-piece-a-serie",
+                                "title": "One Piece: A Série",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22427.webp"
+                            },
+                            {
                                 "url": "/serie/online/ahsoka",
                                 "title": "Ahsoka",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "New Bandits",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22419.webp"
-                            },
-                            {
-                                "url": "/serie/online/arlequina",
-                                "title": "Harley Quinn",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18573.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -435,16 +435,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4640.webp"
                             },
                             {
-                                "url": "/serie/online/saikyou-onmyouji-no-isekai-tenseiki",
-                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22160.webp"
-                            },
-                            {
                                 "url": "/serie/online/shuumatsu-no-harem",
                                 "title": "Shuumatsu no Harem",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21651.webp"
+                            },
+                            {
+                                "url": "/serie/online/saikyou-onmyouji-no-isekai-tenseiki",
+                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22160.webp"
                             },
                             {
                                 "url": "/serie/online/accel-world",
@@ -598,37 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=6VPBNAeSpOPzJn7eeq8u6Q&e=1693526913&_t=1693513597",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=6VPBNAeSpOPzJn7eeq8u6Q&e=1693526913&_t=1693513597",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=gjBCVesdb_hjzC225fGSKw&e=1693526913&_t=1693511362",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=gjBCVesdb_hjzC225fGSKw&e=1693526913&_t=1693511362",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "",
-                                "lang": "sub"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

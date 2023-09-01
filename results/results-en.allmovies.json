@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/one-piece/",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
+                            },
+                            {
                                 "url": "/series/warrior/",
                                 "title": "Warrior",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/the-flash/",
                                 "title": "The Flash",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg"
-                            },
-                            {
-                                "url": "/series/barry/",
-                                "title": "Barry",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,11 +264,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/warrior/",
-                    "title": "Warrior",
-                    "author": "Jonathan Tropper",
-                    "description": "A gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco’s Chinatown in the second half of the 19th century. The series follows Ah Sahm, a martial arts prodigy who immigrates from China to San Francisco under mysterious circumstances, and becomes a hatchet man for one of Chinatown’s most powerful tongs.",
-                    "genre": "Action & Adventure, Crime, Drama",
+                    "url": "/series/one-piece/",
+                    "title": "ONE PIECE",
+                    "author": "Matt Owens, Steven Maeda",
+                    "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+                    "genre": "Action & Adventure, Sci-Fi & Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/warrior-3x10/",
-                        "name": "Season 3x10 : A Window of F*cking Opportunity",
-                        "episode_number": 10.0
+                        "url": "/episode/one-piece-1x8/",
+                        "name": "Season 1x8 : WORST IN THE EAST",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/warrior-3x9/",
-                        "name": "Season 3x9 : All of Death Is a Going Home",
-                        "episode_number": 9.0
+                        "url": "/episode/one-piece-1x7/",
+                        "name": "Season 1x7 : THE GIRL WITH THE SAWFISH TATTOO",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,9 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://v9b2140ec5.streamhub.ink/hls/sc6t6bxqwaytnuzvoxms54bgutjclrdhy32r5nmfzbriyjqbw4wybtt4gu7a/index-v1-a1.m3u8",
+                        "url": "https://v908.streamhub.ink/hls/sc6t6nfzwaytnuzvoxnc5zj274k3hpvcxtopsda5yz3l4qymo5nq4fncd37a/index-v1-a1.m3u8",
                         "quality": "640p",
-                        "videoUrl": "https://v9b2140ec5.streamhub.ink/hls/sc6t6bxqwaytnuzvoxms54bgutjclrdhy32r5nmfzbriyjqbw4wybtt4gu7a/index-v1-a1.m3u8"
+                        "videoUrl": "https://v908.streamhub.ink/hls/sc6t6nfzwaytnuzvoxnc5zj274k3hpvcxtopsda5yz3l4qymo5nq4fncd37a/index-v1-a1.m3u8"
                     }
                 ],
                 "passed": true
