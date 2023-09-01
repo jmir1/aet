@@ -37,6 +37,21 @@
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/16Wq8.jpg"
                             },
                             {
+                                "url": "/movie/9020/yaadhum-oore-yaavarum-kelir",
+                                "title": "Yaadhum Oore Yaavarum Kelir",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/uEicX.jpg"
+                            },
+                            {
+                                "url": "/movie/9019/perpetrator",
+                                "title": "Perpetrator",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/2gzgu.jpg"
+                            },
+                            {
+                                "url": "/movie/8922/no-hard-feelings-1",
+                                "title": "No Hard Feelings",
+                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/cHtp8.jpg"
+                            },
+                            {
                                 "url": "/movie/9018/a-day-and-a-half",
                                 "title": "A Day and a Half",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/9b12R.jpg"
@@ -140,21 +155,6 @@
                                 "url": "/movie/8994/born-to-fly",
                                 "title": "Born to Fly",
                                 "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/dcXjz.jpg"
-                            },
-                            {
-                                "url": "/movie/8996/to-kill-a-stepfather",
-                                "title": "To Kill a Stepfather",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/ylbuW.jpg"
-                            },
-                            {
-                                "url": "/movie/8995/to-the-north",
-                                "title": "To the North",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/5RS8p.jpg"
-                            },
-                            {
-                                "url": "/movie/8993/bro",
-                                "title": "Bro",
-                                "thumbnail_url": "https://img.akw.onl/thumb/178x260/uploads/n20cA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -300,8 +300,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "http://s103.akw.onl/download/1693678033/64f228513bcec/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.1080p.WEB.AKWAM.mp4",
+                        "quality": "1080p",
+                        "videoUrl": "http://s103.akw.onl/download/1693678033/64f228513bcec/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.1080p.WEB.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s104.akw.onl/download/1693678033/64f2285164d82/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.720p.WEB.AKWAM.mp4",
+                        "quality": "720p",
+                        "videoUrl": "http://s104.akw.onl/download/1693678033/64f2285164d82/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.720p.WEB.AKWAM.mp4"
+                    },
+                    {
+                        "url": "http://s207d1.akdl.link/download/1693678033/64f228518e7af/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.480p.WEB.AKWAM.mp4",
+                        "quality": "480p",
+                        "videoUrl": "http://s207d1.akdl.link/download/1693678033/64f228518e7af/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.480p.WEB.AKWAM.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -109,110 +109,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/star-trek-strange-new-worlds/",
-                                "title": "Star Trek: Strange New Worlds",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg"
-                            },
-                            {
-                                "url": "/justice-league-warworld/",
-                                "title": "Justice League: Warworld",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9tx4cD3cuHhrdqLwFw8TTbfSKH2.jpg"
-                            },
-                            {
-                                "url": "/series/westworld/",
-                                "title": "Westworld",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gvX38K4xcolV6Vjs1uh0MNrUTH8.jpg"
-                            },
-                            {
-                                "url": "/jurassic-world-dominio/",
-                                "title": "Jurassic World Dominio",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
-                            },
-                            {
-                                "url": "/series/jurassic-world-campamento-cretacico/",
-                                "title": "Jurassic World: campamento Cretácico",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jWTDtbp2TnUGw1OJoDqq2O9IS0M.jpg"
-                            },
-                            {
-                                "url": "/jurassic-world-el-reino-caido/",
-                                "title": "Jurassic World: El reino caído",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_bestv2/bZhrPZfYWwYE1Y5SEWyxOVivhSw.jpg"
-                            },
-                            {
-                                "url": "/lego-jurassic-world-la-exhibicion-secreta-f001/",
-                                "title": "LEGO Jurassic World – La exhibicion secreta",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/v0hr8LOIpsobvVm7FogxaIg7gLx.jpg"
-                            },
-                            {
-                                "url": "/series/the-end-of-the-fing-world/",
-                                "title": "The End Of The F***ing World",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zQ5fG5NAQ5K8cMm58bxQNwUEbMj.jpg"
-                            },
-                            {
-                                "url": "/world-of-tomorrow-episode-two-the-burden-of-other-peoples-thoughts-c/",
-                                "title": "World of Tomorrow. Episode Two: The Burden of Other People’s Thoughts (C)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rwFg0AyOODJJcneb6BdwMzddgvE.jpg"
-                            },
-                            {
-                                "url": "/blurred-lines-inside-the-art-world/",
-                                "title": "Blurred Lines: Inside the Art World",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/91ESE0jyUdq4aABfr4z1lXqSzxz.jpg"
-                            },
-                            {
-                                "url": "/how-the-beatles-changed-the-world/",
-                                "title": "How the Beatles Changed the World",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wAvgaf6CaO2FGuHeCDqsH3JxOB1.jpg"
-                            },
-                            {
-                                "url": "/you-mean-the-world-to-me/",
-                                "title": "You Mean The World To Me",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/RdPcghJw4c7Y27i5GfCI7xNP10.jpg"
-                            },
-                            {
-                                "url": "/crazy-for-football-the-craziest-world-cup/",
-                                "title": "Crazy for Football: The Craziest World Cup",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185null"
-                            },
-                            {
-                                "url": "/dream-big-engineering-our-world/",
-                                "title": "Dream Big: Engineering Our World",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kfrTOvYHWsEezMQSSGFQqbmDHNe.jpg"
-                            },
-                            {
-                                "url": "/nightworld/",
-                                "title": "Nightworld",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fYlv5AHOY9R7NE31JcMbadDkXTo.jpg"
-                            },
-                            {
-                                "url": "/along-with-the-gods-the-two-worlds/",
-                                "title": "Along with the Gods: The Two Worlds",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5j2YVF7VouLG0Ze96SEsj4DnVQM.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
                 "result": {
@@ -240,34 +138,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=hf1x6dwI-I0&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
+                        "url": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=o024mKXM58o&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
                         "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=hf1x6dwI-I0&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=o024mKXM58o&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
                     },
                     {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=AsJZmdJawis&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
+                        "url": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=ZkcniDRs6SI&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
                         "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=AsJZmdJawis&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=ZkcniDRs6SI&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
                     },
                     {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=f_WH22oV_Lw&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
+                        "url": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=gVGtpr7UpqU&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
                         "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=f_WH22oV_Lw&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=gVGtpr7UpqU&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
                     },
                     {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=b76py8v-2YA&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
+                        "url": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=uriqbmLXVYk&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
                         "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=b76py8v-2YA&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=uriqbmLXVYk&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
                     },
                     {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=tWMCL4M_aus&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
+                        "url": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=r2otiazQNW0&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
                         "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=tWMCL4M_aus&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=r2otiazQNW0&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
                     },
                     {
-                        "url": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=6Z16qr0y3_c&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
+                        "url": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=-pzGoztmbwk&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424",
                         "quality": "Okru:1080p",
-                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693656680848&srcIp=40.84.170.96&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=6Z16qr0y3_c&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1693678101355&srcIp=138.91.175.201&pr=10&srcAg=GECKO&ms=95.142.206.140&type=5&sig=-pzGoztmbwk&ct=0&urls=185.226.52.69%3B45.136.20.73&clientType=0&zs=43&id=5382195317424"
                     }
                 ],
                 "passed": true

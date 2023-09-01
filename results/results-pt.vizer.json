@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/a-roda-do-tempo",
+                                "title": "A Roda do Tempo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19564.webp"
+                            },
+                            {
                                 "url": "/serie/online/fundacao",
                                 "title": "Fundação",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Domina",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22406.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-eleito",
-                                "title": "O Eleito",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22418.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -600,9 +600,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=DH-UKMD2ctFG-s0bPO297w&e=1693591866&_t=1693574421",
+                        "url": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=s56BawNPIAz9bqPaESCnYA&e=1693613257&_t=1693595913",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://a-delivery37.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=s56BawNPIAz9bqPaESCnYA&e=1693613257&_t=1693595913",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=hWrhgpgGa5wwR6__4c5sWg&e=1693613258&_t=1693601062",
                         "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=DH-UKMD2ctFG-s0bPO297w&e=1693591866&_t=1693574421",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=hWrhgpgGa5wwR6__4c5sWg&e=1693613258&_t=1693601062",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
                         },
