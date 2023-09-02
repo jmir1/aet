@@ -212,18 +212,48 @@
                     "genre": "Ação, Aventura, Comédia, Drama, Fantasia, Shounen, Superpoder",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/One-Piece-Serie-categoria.jpg",
+                    "thumbnail_url": "https://animesdigital.org/wp-content/uploads/2023/09/assistir-one-piece-a-serie-todos-os-episodios-online-animes-online.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/video/a/102996/",
+                        "name": "Episódio 08",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/video/a/102997/",
+                        "name": "Episódio 07",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hd2.animesdigital.org/animes/o/one-piece-a-serie/08eng.mp4",
+                        "quality": "Animes Digital",
+                        "videoUrl": "https://hd2.animesdigital.org/animes/o/one-piece-a-serie/08eng.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    },
+                    {
+                        "url": "https://hd2.animesdigital.org/animes/o/one-piece-a-serie/08jp.mp4",
+                        "quality": "480p",
+                        "videoUrl": "https://hd2.animesdigital.org/animes/o/one-piece-a-serie/08jp.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animesdigital.org"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -52,14 +52,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42738_background.jpg?v=1688907478"
                             },
                             {
-                                "url": "/anime/52211",
-                                "title": "Mashle",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42645_background.jpg?v=1680898040"
-                            },
-                            {
                                 "url": "/anime/269",
                                 "title": "Bleach",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/928_background.jpg?v=1596255550"
+                            },
+                            {
+                                "url": "/anime/52211",
+                                "title": "Mashle",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42645_background.jpg?v=1680898040"
                             },
                             {
                                 "url": "/anime/46569",
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<h\" under radix 16",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

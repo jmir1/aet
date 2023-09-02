@@ -3,27 +3,27 @@
         "name": "Better Anime (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: betteranime.net: Temporary failure in name resolution",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: betteranime.net",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: betteranime.net",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: betteranime.net",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: betteranime.net",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: betteranime.net",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }
