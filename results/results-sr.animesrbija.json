@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75"
+                            },
+                            {
                                 "url": "/anime/sugar-apple-fairy-tale-part-2",
                                 "title": "Sugar Apple Fairy Tale Part 2",
                                 "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/54842.jpeg&w=1080&q=75"
@@ -200,11 +205,6 @@
                                 "url": "/anime/watashi-no-shiawase-na-kekkon",
                                 "title": "Watashi no Shiawase na Kekkon",
                                 "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51552.jpeg&w=1080&q=75"
-                            },
-                            {
-                                "url": "/anime/hanma-baki-son-of-ogre-2nd-season",
-                                "title": "Hanma Baki: Son of Ogre 2nd Season",
-                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51318.jpeg&w=1080&q=75"
                             }
                         ],
                         "hasNextPage": false
@@ -339,14 +339,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/epizoda/one-piece-epizoda-1074",
+                        "name": "Epizoda 1074",
+                        "episode_number": 1074.0
+                    },
+                    {
                         "url": "/epizoda/one-piece-epizoda-1073",
                         "name": "Epizoda 1073",
                         "episode_number": 1073.0
-                    },
-                    {
-                        "url": "/epizoda/one-piece-epizoda-1072",
-                        "name": "Epizoda 1072",
-                        "episode_number": 1072.0
                     }
                 ],
                 "passed": true
@@ -354,16 +354,16 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1073/xsaOP - 1073_blaze.m3u8",
+                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1074/xsaOP - 1074_blaze.m3u8",
                         "quality": "Internal Player",
-                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1073/xsaOP - 1073_blaze.m3u8"
+                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1074/xsaOP - 1074_blaze.m3u8"
                     },
                     {
-                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/02/04426/s3gvgu6o6t1l_x/index-v1-a1.m3u8?t=EAWL3uw0nNuu8ypfmI3MPmWr0X26btVNLYNHeJjiAtk&s=1693721715&e=43200&f=22133544&srv=26&asn=8075&sp=2500",
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04541/yu1hdn2t3f4v_x/index-v1-a1.m3u8?t=qNEFdIewH1dgJ4BxvGf7v0v56Y_ayLBMFmVWD_wwYyg&s=1693743353&e=43200&f=22708923&srv=18&asn=8075&sp=2500",
                         "quality": "Filemoon - 1080p",
-                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/02/04426/s3gvgu6o6t1l_x/index-v1-a1.m3u8?t=EAWL3uw0nNuu8ypfmI3MPmWr0X26btVNLYNHeJjiAtk&s=1693721715&e=43200&f=22133544&srv=26&asn=8075&sp=2500",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04541/yu1hdn2t3f4v_x/index-v1-a1.m3u8?t=qNEFdIewH1dgJ4BxvGf7v0v56Y_ayLBMFmVWD_wwYyg&s=1693743353&e=43200&f=22708923&srv=18&asn=8075&sp=2500",
                         "headers": {
-                            "Referer": "https://filemoon.sx/e/s3gvgu6o6t1l",
+                            "Referer": "https://filemoon.sx/e/yu1hdn2t3f4v",
                             "Origin": "https://filemoon.sx"
                         }
                     }
