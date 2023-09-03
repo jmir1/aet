@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/detective-conan",
+                                "title": "Detective Conan الحلقة 1095 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37254/Dl8SDyXlo7FbKHLZ45.jpg"
+                            },
+                            {
+                                "url": "/anime/jitsu-wa-ore-saikyou-deshita",
+                                "title": "Jitsu wa Ore, Saikyou deshita? الحلقة 8 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37248/iytkdloJzexGeTnC30.jpg"
+                            },
+                            {
                                 "url": "/anime/dekiru-neko-wa-kyou-mo-yuuutsu",
                                 "title": "Dekiru Neko wa Kyou mo Yuuutsu الحلقة 9 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37240/zMiMogXPLNV0GMiH45.jpg"
@@ -215,16 +225,6 @@
                                 "url": "/anime/sugar-apple-fairy-tale-part-2",
                                 "title": "Sugar Apple Fairy Tale Part 2 الحلقة 9 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37176/yjdPXcHSqhg6bcIE10.jpg"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru",
-                                "title": "Nanatsu no Maken ga Shihai suru الحلقة 9 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37175/9g6c3B3ZUPcb28td30.jpg"
-                            },
-                            {
-                                "url": "/anime/kanojo-okarishimasu-3rd-season",
-                                "title": "Kanojo, Okarishimasu 3rd Season الحلقة 8 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37173/6uxkG8Fy7nPjGFsi10.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -377,12 +377,44 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "episode/jitsu-wa-ore-saikyou-deshita-episode-8",
+                        "name": "Jitsu wa Ore, Saikyou deshita? الحلقة 8 مترجمة",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "episode/jitsu-wa-ore-saikyou-deshita-episode-7",
+                        "name": "Jitsu wa Ore, Saikyou deshita? الحلقة 7 مترجمة",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B1080p%5D.mp4",
+                        "quality": "1080p FHD",
+                        "videoUrl": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B1080p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B360p%5D.mp4",
+                        "quality": "360p SD",
+                        "videoUrl": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B360p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B480p%5D.mp4",
+                        "quality": "480p SD",
+                        "videoUrl": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B480p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B720p%5D.mp4",
+                        "quality": "720p HD",
+                        "videoUrl": "https://shahidha.net/files/37248/%5BAnimeiat.co%5DJitsu_wa_Ore%2C_Saikyou_deshita_-_EP08%5B720p%5D.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

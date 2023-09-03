@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg"
+                            },
+                            {
+                                "url": "/temple-ger-sub/",
+                                "title": "Temple Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60307.jpg"
+                            },
+                            {
                                 "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/",
                                 "title": "Jitsu wa Ore, Saikyou deshita? Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61221.jpg"
@@ -175,16 +185,6 @@
                                 "url": "/mononogatari-2nd-season-ger-sub/",
                                 "title": "Mononogatari 2nd Season Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64385.jpg"
-                            },
-                            {
-                                "url": "/masamune-kun-no-revenge-r-ger-sub/",
-                                "title": "Masamune-kun no Revenge R Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55371.jpg"
-                            },
-                            {
-                                "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
-                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg"
                             },
                             {
                                 "url": "/level-1-dakedo-unique-skill-de-saikyou-desu-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/",
-                    "title": "Jitsu wa Ore, Saikyou deshita? Ger Sub",
-                    "description": "In eine andere Welt reinkarniert zu werden, mit dem Versprechen eine „betrügerischen“ Macht zu erhalten, ist eine Sache … aber als Baby wiedergeboren und dann zum Sterben zurückgelassen zu werden, nachdem die königlichen Eltern ihn für zu machtlos halten? Das ist eine ganz andere Geschichte! Nun muss sich der neugeborene Reinhart – Hart für seine neuen Freunde – in einer gefährlichen Welt zurechtfinden. Aber zum Glück verfügt er über Magie, die buchstäblich den Rahmen sprengt!\n ",
-                    "genre": "Adventure, Fantasy",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!\n ",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/61221.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/?link=7",
-                        "name": "Ep. 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/jitsu-wa-ore-saikyou-deshita-ger-sub/?link=6",
-                        "name": "Ep. 7",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"S21:E892-1072\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }
