@@ -92,6 +92,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/69830/legendado",
+                                "title": "Edens Zero 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42659_background.jpg?v=1680974192"
+                            },
+                            {
+                                "url": "/episodio/69836/legendado",
+                                "title": "Horimiya: Piece",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42709_background.jpg?v=1688230626"
+                            },
+                            {
+                                "url": "/episodio/69835/legendado",
+                                "title": "Level 1 dakedo Unique Skill de Saikyou desu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42734_background.jpg?v=1688834736"
+                            },
+                            {
+                                "url": "/episodio/69834/legendado",
+                                "title": "Liar Liar",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42735_background.jpg?v=1688834913"
+                            },
+                            {
+                                "url": "/episodio/69833/legendado",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42534_background.jpg?v=1673128947"
+                            },
+                            {
+                                "url": "/episodio/69832/legendado",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42710_background.jpg?v=1688232305"
+                            },
+                            {
+                                "url": "/episodio/69831/legendado",
+                                "title": "Temple",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42736_background.jpg?v=1688835072"
+                            },
+                            {
+                                "url": "/episodio/69829/legendado",
+                                "title": "Shiguang Dailiren II",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42359_background.jpg?v=1689460993"
+                            },
+                            {
                                 "url": "/episodio/69827/legendado",
                                 "title": "Sugar Apple Fairy Tale Part 2",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42611_background.jpg?v=1688764264"
@@ -170,46 +210,6 @@
                                 "url": "/episodio/69813/legendado",
                                 "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42753_background.jpg?v=1689365817"
-                            },
-                            {
-                                "url": "/episodio/69812/legendado",
-                                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42722_background.jpg?v=1688506446"
-                            },
-                            {
-                                "url": "/episodio/69811/legendado",
-                                "title": "Ao no Orchestra",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42675_background.jpg?v=1681417296"
-                            },
-                            {
-                                "url": "/episodio/69810/legendado",
-                                "title": "Kimama ni Idol",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/8883_background.jpg?v=1693509658"
-                            },
-                            {
-                                "url": "/episodio/69809/legendado",
-                                "title": "Bungou Stray Dogs 5th Season",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42744_background.jpg?v=1689179674"
-                            },
-                            {
-                                "url": "/episodio/69808/legendado",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42724_background.jpg?v=1688589203"
-                            },
-                            {
-                                "url": "/episodio/69807/legendado",
-                                "title": "Niehime to Kemono no Ou",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/18823_background.jpg?v=1681946389"
-                            },
-                            {
-                                "url": "/episodio/69806/legendado",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42747_background.jpg?v=1689196045"
-                            },
-                            {
-                                "url": "/episodio/69805/legendado",
-                                "title": "Undead Girl Murder Farce",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42725_background.jpg?v=1688589399"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
