@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-mine-superstar/",
+                                "title": "Be Mine SuperStar (9/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
+                            },
+                            {
+                                "url": "/venus-in-the-sky/",
+                                "title": "Venus in the Sky (1/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg"
+                            },
+                            {
                                 "url": "/naughty-babe/",
                                 "title": "Naughty Babe (1/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/barakamon/",
                                 "title": "Barakamon (07/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vMvvxHPxBkuEWmZy2DeCdjaJzUg.jpg"
-                            },
-                            {
-                                "url": "/seven-samurai-sub-espanol/",
-                                "title": "Seven Samurai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg"
-                            },
-                            {
-                                "url": "/white-snake-2-green-snake-tribulation/",
-                                "title": "White Snake 2: Green Snake Tribulation",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/g1d3uFf3eGvVJQ5Coh793Zi1ASq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-mine-superstar/",
+                                "title": "Be Mine SuperStar (9/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
+                            },
+                            {
+                                "url": "/venus-in-the-sky/",
+                                "title": "Venus in the Sky (1/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg"
+                            },
+                            {
                                 "url": "/naughty-babe/",
                                 "title": "Naughty Babe (1/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg"
@@ -245,16 +255,6 @@
                                 "url": "/barakamon/",
                                 "title": "Barakamon (07/??)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/vMvvxHPxBkuEWmZy2DeCdjaJzUg.jpg"
-                            },
-                            {
-                                "url": "/seven-samurai-sub-espanol/",
-                                "title": "Seven Samurai",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg"
-                            },
-                            {
-                                "url": "/white-snake-2-green-snake-tribulation/",
-                                "title": "White Snake 2: Green Snake Tribulation",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/g1d3uFf3eGvVJQ5Coh793Zi1ASq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,17 +393,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/naughty-babe/",
-                    "title": "Naughty Babe (1/10)",
-                    "description": "Su nombre es Khondiao, pero eso no significa que quiera estar solo! Como la angustia ya no es soportable, él decide huir de la futura boda a Suiza, sin sospechar que Hia Yi intentará alcanzarlo y sufrirá un accidente automovilístico. Además, Hia Yi pierde la memoria y cuando se despierta acusa a Khondiao de ser quien desprecia la idea de casarse. ¡¿Qué le pasa, eh?!",
-                    "genre": "Comedia, Romance, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
