@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/conjuro-siniestro/",
+                                "title": "Conjuro siniestro",
+                                "description": "Después de la muerte de su padre, Alyson, su pareja Richard y su bebé regresan a la casa de su inf...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Lx28LmwKw4Uu6vqCcj0tkpnK.webp"
+                            },
+                            {
                                 "url": "/pelicula/totem-2/",
                                 "title": "Tótem",
                                 "description": "",
@@ -187,7 +193,7 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8xeYJQj9aKFKIliJCZQWLU1b8J1P02IZqMNZsWYsxt.webp"
                             },
                             {
-                                "url": "/pelicula/the-boogeyman-zrpy/",
+                                "url": "/pelicula/the-boogeyman-ztyu/",
                                 "title": "The Boogeyman",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EMJmLAkLCzAV9aCU2e.webp"
@@ -239,12 +245,6 @@
                                 "title": "El extraño caso del fantasma claustrofóbico",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/AuvbOxbEH6Zctata95e40e9cKb5cGD86Yu8DRa7p7Xr.webp"
-                            },
-                            {
-                                "url": "/pelicula/persona-no-humana/",
-                                "title": "Persona [no] humana",
-                                "description": "Sandra y Cecilia son dos grandes simias que viven recluidas y exhibidas en pésimas condiciones en d...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yYTIi5lyoxPR8GHalEtD48Hbh7JoaKWy.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/totem-2/",
-                    "title": "Tótem",
-                    "description": "",
-                    "genre": "Drama",
+                    "url": "/pelicula/conjuro-siniestro/",
+                    "title": "Conjuro siniestro",
+                    "description": "Después de la muerte de su padre, Alyson, su pareja Richard y su bebé regresan a la casa de su infancia. Luego de algunos eventos sobrenaturales impactantes, Alyson descubre que ella y su familia han estado viviendo con una terrible maldición, desatada en el pasado por una novia asesinada por el abuelo de Alyson. Poco después, el hijo de Alyson desaparece y ella no tiene más remedio que embarcarse en un aterrador viaje al inframundo, para liberarse de la maldición de la novia y buscar a su hija.",
+                    "genre": "Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/totem-2/",
+                        "url": "/pelicula/conjuro-siniestro/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar wFglpiH = \"\"; KfCHtqhC.forEach(function Oym(value) { wFglpiH += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/i-remember-you-sub-espanol/",
+                                "title": "I Remember You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oD8aI8Yg8VWBIV6lr8LXidQM2HA.jpg"
+                            },
+                            {
+                                "url": "/only-friends/",
+                                "title": "Only Friends (4/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (9/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -77,11 +87,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg"
                             },
                             {
-                                "url": "/only-friends/",
-                                "title": "Only Friends (3/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg"
-                            },
-                            {
                                 "url": "/wedding-plan-the-series/",
                                 "title": "Wedding Plan The Series (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/do-it-yourself/",
                                 "title": "Do It Yourself!! (08/08) Temporada Completa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bx5278cO7bszaxb7mxFHkQVAXvD.jpg"
-                            },
-                            {
-                                "url": "/new-gods-yang-jian/",
-                                "title": "New Gods: Yang Jian",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ypHn9UrRO6CBBe7HRII0quKzOJu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/i-remember-you-sub-espanol/",
+                                "title": "I Remember You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oD8aI8Yg8VWBIV6lr8LXidQM2HA.jpg"
+                            },
+                            {
+                                "url": "/only-friends/",
+                                "title": "Only Friends (4/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (9/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -207,11 +217,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg"
                             },
                             {
-                                "url": "/only-friends/",
-                                "title": "Only Friends (3/10)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg"
-                            },
-                            {
                                 "url": "/wedding-plan-the-series/",
                                 "title": "Wedding Plan The Series (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/do-it-yourself/",
                                 "title": "Do It Yourself!! (08/08) Temporada Completa",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bx5278cO7bszaxb7mxFHkQVAXvD.jpg"
-                            },
-                            {
-                                "url": "/new-gods-yang-jian/",
-                                "title": "New Gods: Yang Jian",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ypHn9UrRO6CBBe7HRII0quKzOJu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,32 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/i-remember-you-sub-espanol/",
+                    "title": "I Remember You",
+                    "description": "Un drama que gira en torno al amor y la amistad de tres amigos de secundaria.",
+                    "genre": "Drama, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oD8aI8Yg8VWBIV6lr8LXidQM2HA.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/2828017/",
+                        "name": "Episodio 2 FINAL",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/paste/2528016/",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

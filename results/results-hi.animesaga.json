@@ -3,21 +3,312 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/spider-man-across-the-spider-verse/",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+                            },
+                            {
+                                "url": "/movies/suzume/",
+                                "title": "Suzume",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg"
+                            },
+                            {
+                                "url": "/movies/black-clover-sword-of-the-wizard-king/",
+                                "title": "Black Clover: Sword of the Wizard King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg"
+                            },
+                            {
+                                "url": "/tvshows/demon-slayer-kimetsu-no-yaiba/",
+                                "title": "Demon Slayer: Kimetsu no Yaiba",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg"
+                            },
+                            {
+                                "url": "/tvshows/chainsaw-man/",
+                                "title": "Chainsaw Man",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
+                            },
+                            {
+                                "url": "/tvshows/jujutsu-kaisen/",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg"
+                            },
+                            {
+                                "url": "/tvshows/the-daily-life-of-the-immortal-king/",
+                                "title": "The Daily Life of the Immortal King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/yYcLpRqEZtfUpQCUqm1DGfl47d6.jpg"
+                            },
+                            {
+                                "url": "/tvshows/lookism/",
+                                "title": "Lookism",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qkoM63HDuCOSwxGfb0pljrgns9I.jpg"
+                            },
+                            {
+                                "url": "/tvshows/baki-hanma/",
+                                "title": "Baki Hanma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/x145FSI9xJ6UbkxfabUsY2SFbu3.jpg"
+                            },
+                            {
+                                "url": "/tvshows/pokemon/",
+                                "title": "Pokémon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-12/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sJiGMHrKppHOug1EbrKPi2dVjO6.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-11/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uJTRt42bPAlovLJKiP8Xq0kJEIT.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-10/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9CEaFSQnyEYGAYPOOcUisGW7oHr.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-9/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3XlBVSgjXX5vbuYdReXdhnPfQQw.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-8/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/rEyzoTK05p99dVluWEocM582Bmc.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-7/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nUeaXJjOLWQBpKlblh9TiTNPsYz.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-6/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/g7J6lBngDeD3Mkxrk5YGrhjdwU8.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-5/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uRvPLy6EnlnAiNpGu3JtS8PgzqM.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-4/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yOcRu5kQPbVoLgdRucxUuiIega5.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-3/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cYoMjuLJMcHzeEZzZr6L6tfnCjx.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-2/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/gCr7tJTb10uo3vo4FZcGd3VO4FR.jpg"
+                            },
+                            {
+                                "url": "/episodes/black-rock-shooter-dawn-fall-season-1-episode-1/",
+                                "title": "Black Rock Shooter: Dawn Fall: Season 1 Episode 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xj3QlooKIdOLTkUJ0YUa6JBwWHA.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-24/",
+                                "title": "Aoashi: Season 1 Episode 24",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/XhtcC4wJH1Xuit6SDNENUZWJ5z.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-23/",
+                                "title": "Aoashi: Season 1 Episode 23",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tE7BoUxFcZbMWWCWKevejiUIRGK.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-22/",
+                                "title": "Aoashi: Season 1 Episode 22",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wAyVco6WmNNwNUEuQokSb7mY6Zj.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-21/",
+                                "title": "Aoashi: Season 1 Episode 21",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/vuhsKYLGRcwVUzfgV8MXOC4FL2y.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-20/",
+                                "title": "Aoashi: Season 1 Episode 20",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yIOjQz7S3JFuTYMVDknLeFSy75d.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-19/",
+                                "title": "Aoashi: Season 1 Episode 19",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/niLn7ZylVBzC6YkZ8ip7VQWI9SS.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-18/",
+                                "title": "Aoashi: Season 1 Episode 18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wlbtRffKmwOomY1uSqbXFKV6t3G.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-17/",
+                                "title": "Aoashi: Season 1 Episode 17",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2RykHwAsgFjhga2kbfovjIQozZi.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-16/",
+                                "title": "Aoashi: Season 1 Episode 16",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/r0EUidjCxU1kCUpTUNyzzu7UKnW.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-15/",
+                                "title": "Aoashi: Season 1 Episode 15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/53KfJ4iAHYrHnIdGHDD5loPzRGH.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-14/",
+                                "title": "Aoashi: Season 1 Episode 14",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ivso6mZUZB60BK88UqZKTD7Psud.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-13/",
+                                "title": "Aoashi: Season 1 Episode 13",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pIDBH2mfh2aQ3URgQb3rqhekjw8.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-12/",
+                                "title": "Aoashi: Season 1 Episode 12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jN5bHSSteiDbzduRNibov86tGGk.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-11/",
+                                "title": "Aoashi: Season 1 Episode 11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/swp1PJSIW8q9Sde5UDHqsEXHZfs.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-10/",
+                                "title": "Aoashi: Season 1 Episode 10",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mYPkJ78I6APMABsionXmTnVqVi5.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-9/",
+                                "title": "Aoashi: Season 1 Episode 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5pa0okjjfCLHbi7Bd91Gyu4Gdan.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-8/",
+                                "title": "Aoashi: Season 1 Episode 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bUThe8lGTQ82yAJR1akfD6wVycN.jpg"
+                            },
+                            {
+                                "url": "/episodes/aoashi-season-1-episode-7/",
+                                "title": "Aoashi: Season 1 Episode 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jOzs2d1jEjPChezQYi9BCKPlNbN.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/tvshows/kamikatsu-working-for-god-in-a-godless-world/",
+                                "title": "KamiKatsu: Working for God in a Godless World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/d82CH1EMSoC2VvYSTxCZHPboJYq.jpg"
+                            },
+                            {
+                                "url": "/tvshows/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/",
+                                "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8AhHtqY4yPquNrprkVbzUKw8kRh.jpg"
+                            },
+                            {
+                                "url": "/movies/grave-of-the-fireflies/",
+                                "title": "Grave of the Fireflies",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg"
+                            },
+                            {
+                                "url": "/movies/pokemon-the-movie-2000/",
+                                "title": "Pokémon the Movie 2000",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rBeh11AHRIyQw738pXLoJ2tLxyN.jpg"
+                            },
+                            {
+                                "url": "/movies/pokemon-3-the-movie/",
+                                "title": "Pokémon 3: The Movie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/g2C95ubS56O1ITXy1MgC69kAwF0.jpg"
+                            },
+                            {
+                                "url": "/movies/spider-man-into-the-spider-verse/",
+                                "title": "Spider-Man: Into the Spider-Verse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+                            },
+                            {
+                                "url": "/movies/spirited-away/",
+                                "title": "Spirited Away",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+                            },
+                            {
+                                "url": "/tvshows/my-unique-skill-makes-me-op-even-at-level-1/",
+                                "title": "My Unique Skill Makes Me OP Even at Level 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/cIrptxkpf3SNcPty3JaywvWRJ5w.jpg"
+                            },
+                            {
+                                "url": "/tvshows/my-one-hit-kill-sister/",
+                                "title": "My One-Hit Kill Sister",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hQEgYVrTUxV0yXqLxdwdXIaofGt.jpg"
+                            },
+                            {
+                                "url": "/tvshows/mashle-magic-and-muscles/",
+                                "title": "MASHLE: MAGIC AND MUSCLES",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/j4uI3VfubinCGzatlZcRcjrLyZ1.jpg"
+                            },
+                            {
+                                "url": "/tvshows/my-dress-up-darling/",
+                                "title": "My Dress-Up Darling",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg"
+                            },
+                            {
+                                "url": "/tvshows/toilet-bound-hanako-kun/",
+                                "title": "Toilet-Bound Hanako-kun",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qp2XSpNzopObSPkSAi7sujAsdh3.jpg"
+                            },
+                            {
+                                "url": "/tvshows/darling-in-the-franxx/",
+                                "title": "DARLING in the FRANXX",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/oO5tir7lV4slZHTyhW8lTFrgyif.jpg"
+                            },
+                            {
+                                "url": "/tvshows/naruto/",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5YW0RIlVAhyp3pGtugyNuvk2TWT.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
-                    "description": "",
-                    "genre": "",
+                    "url": "/movies/spider-man-across-the-spider-verse/",
+                    "title": "Spider-Man: Across the Spider-Verse",
+                    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n\nOriginal title: Spider-Man: Across the Spider-Verse",
+                    "genre": "Action, Adventure, Animation, Hindi Dub, Movie, Science Fiction",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -25,7 +316,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
+                        "url": "/movies/spider-man-across-the-spider-verse/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -33,8 +324,84 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/720.m3u8?token=32e24b090e786d4833eaae5f312d8c2c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1693858324&type=edge&node=q7WhVIWwViglAxqdqh34v00bqGzUSGC9J_K08j1F2B3RQuyWovWJjDYo_XLAuo8Nqrz9kI8V3mGFhSprSgeMpcBfsyjG8at75YzzkIr89MkKf_BblezFPqwpG5C3Jknu",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/720.m3u8?token=32e24b090e786d4833eaae5f312d8c2c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1693858324&type=edge&node=q7WhVIWwViglAxqdqh34v00bqGzUSGC9J_K08j1F2B3RQuyWovWJjDYo_XLAuo8Nqrz9kI8V3mGFhSprSgeMpcBfsyjG8at75YzzkIr89MkKf_BblezFPqwpG5C3Jknu",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://cdn.animesaga.in/v/3vUAddX9iTHK/",
+                            "Accept": "*/*",
+                            "Origin": "https://cdn.animesaga.in"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017856.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017857.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017858.srt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/1080.m3u8?token=32e24b090e786d4833eaae5f312d8c2c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1693858324&type=edge&node=q7WhVIWwViglAxqdqh34v00bqGzUSGC9J_K08j1F2B3RQuyWovWJjDYo_XLAuo8Nqrz9kI8V3mGFhSprSgeMpcBfsyjG8at75YzzkIr89MkKf_BblezFPqwpG5C3Jknu",
+                        "quality": "Chillx - 1080p",
+                        "videoUrl": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/1080.m3u8?token=32e24b090e786d4833eaae5f312d8c2c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1693858324&type=edge&node=q7WhVIWwViglAxqdqh34v00bqGzUSGC9J_K08j1F2B3RQuyWovWJjDYo_XLAuo8Nqrz9kI8V3mGFhSprSgeMpcBfsyjG8at75YzzkIr89MkKf_BblezFPqwpG5C3Jknu",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://cdn.animesaga.in/v/3vUAddX9iTHK/",
+                            "Accept": "*/*",
+                            "Origin": "https://cdn.animesaga.in"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017856.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017857.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017858.srt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/360.m3u8?token=32e24b090e786d4833eaae5f312d8c2c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1693858324&type=edge&node=q7WhVIWwViglAxqdqh34v00bqGzUSGC9J_K08j1F2B3RQuyWovWJjDYo_XLAuo8Nqrz9kI8V3mGFhSprSgeMpcBfsyjG8at75YzzkIr89MkKf_BblezFPqwpG5C3Jknu",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/360.m3u8?token=32e24b090e786d4833eaae5f312d8c2c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1693858324&type=edge&node=q7WhVIWwViglAxqdqh34v00bqGzUSGC9J_K08j1F2B3RQuyWovWJjDYo_XLAuo8Nqrz9kI8V3mGFhSprSgeMpcBfsyjG8at75YzzkIr89MkKf_BblezFPqwpG5C3Jknu",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://cdn.animesaga.in/v/3vUAddX9iTHK/",
+                            "Accept": "*/*",
+                            "Origin": "https://cdn.animesaga.in"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017856.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017857.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017858.srt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
