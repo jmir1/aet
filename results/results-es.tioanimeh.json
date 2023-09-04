@@ -250,9 +250,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a20230903V06QY4043y4/video.mp4",
+                        "url": "https://vidcache.net:8161/a20230903bd30n0NAlef/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20230903V06QY4043y4/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20230903bd30n0NAlef/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://www.yourupload.com/"
@@ -270,6 +270,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/hentai/sleepless-nocturne-the-animation",
+                                "title": "Sleepless Nocturne The Animation",
+                                "thumbnail_url": "https://tiohentai.com/uploads/portadas/786.jpg"
+                            },
                             {
                                 "url": "/hentai/solow",
                                 "title": "So_low",
@@ -364,11 +369,6 @@
                                 "url": "/hentai/aoharu-snatch",
                                 "title": "Aoharu Snatch",
                                 "thumbnail_url": "https://tiohentai.com/uploads/portadas/767.jpg"
-                            },
-                            {
-                                "url": "/hentai/yari-agari",
-                                "title": "Yari Agari",
-                                "thumbnail_url": "https://tiohentai.com/uploads/portadas/766.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -388,10 +388,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/hentai/solow",
-                    "title": "So_low",
+                    "url": "/hentai/sleepless-nocturne-the-animation",
+                    "title": "Sleepless Nocturne The Animation",
                     "description": "",
-                    "genre": "Tetonas, Violacion, Virgenes, Felacion",
+                    "genre": "Ahegao, Tetonas, Virgenes",
                     "initialized": true
                 },
                 "passed": true
@@ -399,7 +399,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/solow-1",
+                        "url": "/ver/sleepless-nocturne-the-animation-1",
                         "name": "Episodio 1",
                         "episode_number": 1.0
                     }
@@ -407,18 +407,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vidcache.net:8161/a20230903k7ANQji1Bco/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20230903k7ANQji1Bco/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
