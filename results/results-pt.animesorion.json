@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/69849/legendado",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42738_background.jpg?v=1688907478"
+                            },
+                            {
+                                "url": "/episodio/69848/legendado",
+                                "title": "Yami Shibai 11",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42745_background.jpg?v=1689179932"
+                            },
+                            {
                                 "url": "/episodio/69847/legendado",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
@@ -200,16 +210,6 @@
                                 "url": "/episodio/69826/legendado",
                                 "title": "Lv1 Maou to One Room Yuusha",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42723_background.jpg?v=1688506600"
-                            },
-                            {
-                                "url": "/episodio/69825/legendado",
-                                "title": "AI no Idenshi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42729_background.jpg?v=1688766211"
-                            },
-                            {
-                                "url": "/episodio/69824/legendado",
-                                "title": "Dekiru Neko wa Kyou mo Yuuutsu",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42730_background.jpg?v=1688766596"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
