@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-mine-superstar/",
+                                "title": "Be Mine SuperStar (10/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
+                            },
+                            {
                                 "url": "/i-remember-you-sub-espanol/",
                                 "title": "I Remember You",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oD8aI8Yg8VWBIV6lr8LXidQM2HA.jpg"
@@ -20,11 +25,6 @@
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (9/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
-                            },
-                            {
-                                "url": "/be-mine-superstar/",
-                                "title": "Be Mine SuperStar (9/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
                             },
                             {
                                 "url": "/venus-in-the-sky/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/be-mine-superstar/",
+                                "title": "Be Mine SuperStar (10/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
+                            },
+                            {
                                 "url": "/i-remember-you-sub-espanol/",
                                 "title": "I Remember You",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oD8aI8Yg8VWBIV6lr8LXidQM2HA.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (9/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
-                            },
-                            {
-                                "url": "/be-mine-superstar/",
-                                "title": "Be Mine SuperStar (9/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
                             },
                             {
                                 "url": "/venus-in-the-sky/",
@@ -393,32 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/i-remember-you-sub-espanol/",
-                    "title": "I Remember You",
-                    "description": "Un drama que gira en torno al amor y la amistad de tres amigos de secundaria.",
-                    "genre": "Drama, Romance",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/oD8aI8Yg8VWBIV6lr8LXidQM2HA.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/2828017/",
-                        "name": "Episodio 2 FINAL",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/paste/2528016/",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

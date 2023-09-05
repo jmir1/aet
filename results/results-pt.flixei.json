@@ -1731,8 +1731,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=ClJ34W0H8fVMeda4S-YcdA&e=1693915751&_t=1693902694",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=ClJ34W0H8fVMeda4S-YcdA&e=1693915751&_t=1693902694",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=guCFMLPqYSfm3fE2wmsIkg&e=1693915751&_t=1693900354",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=guCFMLPqYSfm3fE2wmsIkg&e=1693915751&_t=1693900354",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1693964150&ip=F0qQKRWQE19XKxR&token=Y-LA9L665twc",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1693964150&ip=F0qQKRWQE19XKxR&token=Y-LA9L665twc"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1693964151&ip=F0qQKRWQE19XKxR&token=Ne_Uk8akGNlu",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1693964151&ip=F0qQKRWQE19XKxR&token=Ne_Uk8akGNlu"
+                    }
+                ],
+                "passed": true
             }
         }
     }

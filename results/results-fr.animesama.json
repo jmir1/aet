@@ -3,7 +3,7 @@
         "name": "Anime-Sama (FR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
@@ -11,7 +11,7 @@
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {

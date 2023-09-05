@@ -92,6 +92,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/69855/legendado",
+                                "title": "Ayakashi Triangle",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42554_background.jpg?v=1673324394"
+                            },
+                            {
+                                "url": "/episodio/69854/legendado",
+                                "title": "Masamune-kun no Revenge R",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42717_background.jpg?v=1688419249"
+                            },
+                            {
+                                "url": "/episodio/69853/legendado",
+                                "title": "Mononogatari 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42720_background.jpg?v=1688425058"
+                            },
+                            {
+                                "url": "/episodio/69852/legendado",
+                                "title": "Mononogatari 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42720_background.jpg?v=1688425058"
+                            },
+                            {
+                                "url": "/episodio/69851/legendado",
+                                "title": "Okashi na Tensei",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42718_background.jpg?v=1688419401"
+                            },
+                            {
+                                "url": "/episodio/69850/legendado",
+                                "title": "Synduality: Noir",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42752_background.jpg?v=1689272484"
+                            },
+                            {
                                 "url": "/episodio/69849/legendado",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42738_background.jpg?v=1688907478"
@@ -180,36 +210,6 @@
                                 "url": "/episodio/69834/legendado",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42735_background.jpg?v=1688834913"
-                            },
-                            {
-                                "url": "/episodio/69833/legendado",
-                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42534_background.jpg?v=1673128947"
-                            },
-                            {
-                                "url": "/episodio/69832/legendado",
-                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42710_background.jpg?v=1688232305"
-                            },
-                            {
-                                "url": "/episodio/69831/legendado",
-                                "title": "Temple",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42736_background.jpg?v=1688835072"
-                            },
-                            {
-                                "url": "/episodio/69829/legendado",
-                                "title": "Shiguang Dailiren II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42359_background.jpg?v=1689460993"
-                            },
-                            {
-                                "url": "/episodio/69827/legendado",
-                                "title": "Sugar Apple Fairy Tale Part 2",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42611_background.jpg?v=1688764264"
-                            },
-                            {
-                                "url": "/episodio/69826/legendado",
-                                "title": "Lv1 Maou to One Room Yuusha",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42723_background.jpg?v=1688506600"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
