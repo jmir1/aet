@@ -443,15 +443,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/filmes/assistir-dracula-a-ultima-viagem-do-demeter-online/",
-                    "title": "Drácula: A Última Viagem do Deméter",
-                    "description": "A tripulação do navio mercante Demeter tenta sobreviver à viagem oceânica de Carpathia a Londres enquanto são perseguidos todas as noites por uma presença impiedosa a bordo do navio.\n",
-                    "genre": "Fantasia, Terror",
-                    "thumbnail_url": "https://pobreflix.biz/wp-content/uploads/2023/08/EqAKYX5.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -464,18 +457,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/M/V/5/c/MV5cm.caa.mp4?u=0&b=0",
-                        "quality": "Dublado - 480p",
-                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/M/V/5/c/MV5cm.caa.mp4?u=0&b=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://painelfxtv.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"<h\" under radix 16",
+                "passed": false
             }
         }
     }
