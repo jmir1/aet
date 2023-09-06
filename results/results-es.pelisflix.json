@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/of-an-age/",
+                                "title": "Of an Age",
+                                "description": "Verano de 1999. Un bailarín de salón de origen serbio de 17 años experimenta un inesperado e inte...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/22HVOKqIAx4ZrhghFsCDdIWBFEKnW4eOWMzBmQ9Nd.webp"
+                            },
+                            {
+                                "url": "/pelicula/vida-perra/",
+                                "title": "Vida perra",
+                                "description": "Un perro abandonado se une a otros perros callejeros para vengarse de su antiguo dueño.",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZJz1zmGH3lsswmsUtNvLRizYleJj.webp"
+                            },
+                            {
+                                "url": "/pelicula/somewhere-in-queens/",
+                                "title": "Somewhere in Queens",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/W6bVCcUYSkl8Xr44wl18Usfaa1qsvtfiqg3TjOH.webp"
+                            },
+                            {
+                                "url": "/pelicula/el-ucumar/",
+                                "title": "El Ucumar",
+                                "description": "A group of biologist search for evidence of an unseen southamerican bear. There, they hear about the...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZGts3lG9VX0znuzN9tEZhOsnmxLSh1M7x5prgWr2Jhs.webp"
+                            },
+                            {
+                                "url": "/pelicula/赦し/",
+                                "title": "赦し",
+                                "description": "Un matrimonio divorciado se reúne para luchar contra la liberación del asesino de su hija.",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/HdHWw1N9QBuMqtbuf4t1FGBcb0Bxe9aMcI.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-resurrection-of-charles-manson/",
                                 "title": "The Resurrection of Charles Manson",
                                 "description": "Una joven pareja alquila un piso en el desierto como telón de fondo perfecto para grabar una audici...",
@@ -215,36 +245,6 @@
                                 "title": "Megalodón 2: La fosa",
                                 "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuan...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0yQUbq5G5TpQmHYKurPqVCaw4sCGtxhjV.webp"
-                            },
-                            {
-                                "url": "/pelicula/antigang-la-releve/",
-                                "title": "Antigang : La Relève",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/aSjYFY0N7e97M4BXBbr7cOVFZZ9N7wj.webp"
-                            },
-                            {
-                                "url": "/pelicula/un-extrano-entre-nosotras/",
-                                "title": "Un extraño entre nosotras",
-                                "description": "Élodie y Lætitia, que viven un amor fusional, deciden tener un hijo mediante reproducción asistid...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/SXff9Ob4pytE8Apodk2iLaa.webp"
-                            },
-                            {
-                                "url": "/pelicula/nam-june-paik-moon-is-the-oldest-tv/",
-                                "title": "Nam June Paik: Moon Is The Oldest TV",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/GVRQo5CSx1Zichx058ew9yDSo84Hd2.webp"
-                            },
-                            {
-                                "url": "/pelicula/abusamos-del-alcohol/",
-                                "title": "Abusamos del alcohol",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ArATfYTeJWRpbcREvpkaMq4ZE8JOgMmG.webp"
-                            },
-                            {
-                                "url": "/pelicula/oscuro-veneno/",
-                                "title": "Oscuro veneno",
-                                "description": "Helena se embarca en una nueva misión de agente. ¿Su máximo poder? La seducción. Ella deberá in...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0Q3SXJp1oGafwlEtDePj5gKwhfVQaPK0vDJjdZarvax.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-resurrection-of-charles-manson/",
-                    "title": "The Resurrection of Charles Manson",
-                    "description": "Una joven pareja alquila un piso en el desierto como telón de fondo perfecto para grabar una audición de una prometedora película sobre Charles Manson. Todo cambia cuando los oscuros eventos del material de la película se empiezan a hacer realidad. Poco a poco, se encuentran entrelazados en una trama oculta y siniestra dirigida por un líder oculto.",
-                    "genre": "Suspense, Terror",
+                    "url": "/pelicula/of-an-age/",
+                    "title": "Of an Age",
+                    "description": "Verano de 1999. Un bailarín de salón de origen serbio de 17 años experimenta un inesperado e intenso romance de 24 horas con el hermano mayor de un amigo.",
+                    "genre": "Drama, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-resurrection-of-charles-manson/",
+                        "url": "/pelicula/of-an-age/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar ZTYijQfY = \"\"; yvhLWumnh.forEach(function Oym(value) { ZTYijQfY += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

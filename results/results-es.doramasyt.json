@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/d-p-el-cazadesertores-sub-espanol",
+                                "title": "D. P.: El cazadesertores",
+                                "description": "D. P.: El cazadesertores",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/d-p-el-cazadesertores-1693984180.jpg"
+                            },
+                            {
+                                "url": "/dorama/la-modelo-y-el-fotografo-sub-espanol",
+                                "title": "La Modelo y el fotógrafo Latino",
+                                "description": "La Modelo y el fotógrafo Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/la-modelo-y-el-fotografo-1693981541.jpg"
+                            },
+                            {
+                                "url": "/dorama/shashin-no-onna-sub-espanol",
+                                "title": "Shashin no onna",
+                                "description": "Shashin no onna",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/shashin-no-onna-1693981318.jpg"
+                            },
+                            {
                                 "url": "/dorama/shadow-detective-2-sub-espanol",
                                 "title": "Shadow Detective 2",
                                 "description": "Shadow Detective 2",
@@ -167,24 +185,6 @@
                                 "title": "Let’s Get Divorced",
                                 "description": "Let’s Get Divorced",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/lets-get-divorced-1693719717.jpg"
-                            },
-                            {
-                                "url": "/dorama/race-luchadoras-sub-espanol",
-                                "title": "RACE: Luchadoras",
-                                "description": "RACE: Luchadoras",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/race-luchadoras-1693719452.jpg"
-                            },
-                            {
-                                "url": "/dorama/tomorrow-x-together-our-lost-summer-sub-espanol",
-                                "title": "Tomorrow X Together: Our Lost Summer",
-                                "description": "Tomorrow X Together: Our Lost Summer",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/tomorrow-x-together-our-lost-summer-1693719274.jpg"
-                            },
-                            {
-                                "url": "/dorama/la-promesa-mas-larga-sub-espanol",
-                                "title": "La promesa más larga",
-                                "description": "La promesa más larga",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/la-promesa-mas-larga-1693719158.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,23 +262,53 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/shadow-detective-2-sub-espanol",
-                    "title": "Shadow Detective 2 (Detective de sombras 2)",
-                    "description": "El detective veterano Kim Taek Rok regresa silenciosamente a la estación de policía de Geumo y acepta su transferencia a Asuntos de Mujeres y Menores en la estación de policía de Geumo. Intenta mantener la cabeza baja y no llamar la atención. Sin embargo, Yeon Ju Hyun, quien dirige el departamento, vigila cuidadosamente a Kim Taek Rok. Mientras tanto, el asambleísta Lee Young Ho se postula para la reelección y su control sobre el poder en Geumo parece seguro. Él identifica a Choi Do Hyung como un opositor, que dirige la Fundación de Bienestar de Youngseo y cuenta con el apoyo de un candidato opositor. Kim Taek Rok comienza su contraataque final para descubrir y eliminar a su némesis. ",
-                    "genre": "Acción, Drama, Misterio, K-Drama, Suspenso",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/dorama/d-p-el-cazadesertores-sub-espanol",
+                    "title": "D. P.: El cazadesertores (DP)",
+                    "description": "La misión de un joven soldado de capturar a desertores del ejército revela la dolorosa realidad de cada recluta en el cumplimiento del servicio militar obligatorio. ",
+                    "genre": "Acción, Drama, K-Drama",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/d-p-el-cazadesertores-episodio-6",
+                        "name": "Episodio 6.0",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/ver/d-p-el-cazadesertores-episodio-5",
+                        "name": "Episodio 5.0",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www12.mp4upload.com:183/d/q6xzhaxvz3b4quuob6qqgiyqjlcnqtxltw5alhw7qklsohne3d6on74eocd6bldcictpwm7x/video.mp4\"           \n           });\n            if (\"https://www12.mp4upload.com/i/02307/yq0kj7ycwlg1.jpg\") {\n             player.poster(\"https://www12.mp4upload.com/i/02307/yq0kj7ycwlg1.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/yq0kj7ycwlg1\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-yq0kj7ycwlg1.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"yq0kj7ycwlg1\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/yq0kj7ycwlg1\", \"_blank\");\n});   \n      ",
+                        "quality": "Upload",
+                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www12.mp4upload.com:183/d/q6xzhaxvz3b4quuob6qqgiyqjlcnqtxltw5alhw7qklsohne3d6on74eocd6bldcictpwm7x/video.mp4\"           \n           });\n            if (\"https://www12.mp4upload.com/i/02307/yq0kj7ycwlg1.jpg\") {\n             player.poster(\"https://www12.mp4upload.com/i/02307/yq0kj7ycwlg1.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/yq0kj7ycwlg1\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-yq0kj7ycwlg1.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"yq0kj7ycwlg1\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/yq0kj7ycwlg1\", \"_blank\");\n});   \n      ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://upload.com/"
+                        }
+                    },
+                    {
+                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
+                        "quality": "Upload",
+                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

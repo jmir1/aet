@@ -711,8 +711,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=ab1rQ7ORVacMoR&expires=1694072641&ip=FROsE0WnDS9X&token=FTz-N5PX2J8c",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ab1rQ7ORVacMoR&expires=1694072641&ip=FROsE0WnDS9X&token=FTz-N5PX2J8c"
+                    }
+                ],
+                "passed": true
             }
         }
     }
