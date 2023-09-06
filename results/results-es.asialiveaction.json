@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/laws-of-attraction/",
+                                "title": "Laws Of Attraction (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg"
+                            },
+                            {
                                 "url": "/be-mine-superstar/",
                                 "title": "Be Mine SuperStar (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/chousoku-parahero-gundeen/",
                                 "title": "Chousoku Parahero Gundeen (03/03)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/mrNdyDHmV1lnsB1WUac6a9Qduw6.jpg"
-                            },
-                            {
-                                "url": "/do-it-yourself/",
-                                "title": "Do It Yourself!! (08/08) Temporada Completa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bx5278cO7bszaxb7mxFHkQVAXvD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/laws-of-attraction/",
+                                "title": "Laws Of Attraction (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg"
+                            },
+                            {
                                 "url": "/be-mine-superstar/",
                                 "title": "Be Mine SuperStar (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bmU0wa5oloe3jAAxEwqVTK2ET9o.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/chousoku-parahero-gundeen/",
                                 "title": "Chousoku Parahero Gundeen (03/03)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/mrNdyDHmV1lnsB1WUac6a9Qduw6.jpg"
-                            },
-                            {
-                                "url": "/do-it-yourself/",
-                                "title": "Do It Yourself!! (08/08) Temporada Completa",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/bx5278cO7bszaxb7mxFHkQVAXvD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,8 +393,17 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/laws-of-attraction/",
+                    "title": "Laws Of Attraction (Completo)",
+                    "description": "A pesar de tener puntos de vista opuestos, su cercanía genera nuevos sentimientos. A medida que su trabajo se vuelve más y más peligroso, los dos se dan cuenta de que este caso no es nada común.",
+                    "genre": "Drama, Romance, Yaoi / BL",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p8XHMcKoiCCo3GabKe8afe1Aedq.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
