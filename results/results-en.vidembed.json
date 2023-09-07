@@ -176,12 +176,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/bring-it-on-worldwide-cheersmack",
+                        "name": "Bring It On: Worldwide #Cheersmack",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://mwish.pro/e/mcm1lcf1axe5?caption_1=https://sub.membed.net/sub/bring-it-on-worldwide-cheersmack/bring-it-on-worldwide-cheersmack.vtt&sub_1=English",
+                        "quality": "Download StreamSB",
+                        "videoUrl": "https://mwish.pro/e/mcm1lcf1axe5?caption_1=https://sub.membed.net/sub/bring-it-on-worldwide-cheersmack/bring-it-on-worldwide-cheersmack.vtt&sub_1=English",
+                        "headers": {
+                            "Referer": "https://membed1.com/download?id=MTA1MDk1"
+                        }
+                    },
+                    {
+                        "url": "https://a-delivery28.mxdcontent.net/v/5845b67c42e619adae5dd71ffa328aaa.mp4?s=wc6wuxrPuAfqq-wYtv72hA&e=1694110618&_t=1694089609",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://a-delivery28.mxdcontent.net/v/5845b67c42e619adae5dd71ffa328aaa.mp4?s=wc6wuxrPuAfqq-wYtv72hA&e=1694110618&_t=1694089609",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

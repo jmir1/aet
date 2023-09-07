@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/6ixtynin9-the-series-sub-espanol",
+                                "title": "6ixtynin9: The Series",
+                                "description": "6ixtynin9: The Series",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/6ixtynin9-the-series-1694069719.jpg"
+                            },
+                            {
+                                "url": "/dorama/seis-nueve-la-serie-latino-sub-espanol",
+                                "title": "Seis nueve: La serie Latino",
+                                "description": "Seis nueve: La serie Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/seis-nueve-la-serie-latino-1694069139.jpg"
+                            },
+                            {
                                 "url": "/dorama/d-p-2-sub-espanol",
                                 "title": "D.P. 2",
                                 "description": "D.P. 2",
@@ -173,18 +185,6 @@
                                 "title": "Is She the Wolf?",
                                 "description": "Is She the Wolf?",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/is-she-the-wolf-1693789955.jpg"
-                            },
-                            {
-                                "url": "/dorama/quien-es-la-loba-latino-sub-espanol",
-                                "title": "¿Quién es la loba? Latino",
-                                "description": "¿Quién es la loba? Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/quien-es-la-loba-latino-1693789452.jpg"
-                            },
-                            {
-                                "url": "/dorama/cuando-vuelo-hacia-ti-sub-espanol",
-                                "title": "Cuando vuelo hacia ti",
-                                "description": "Cuando vuelo hacia ti",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/cuando-vuelo-hacia-ti-1693788688.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,10 +262,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/d-p-2-sub-espanol",
-                    "title": "D.P. 2 (D. P.: El cazadesertores Temporada 2)",
-                    "description": "Luego de que una terrible tragedia diera vuelta su vida, Jun‑ho y Ho‑yeol regresan para capturar a más desertores... y enfrentarse a peligros totalmente inesperados. ",
-                    "genre": "Acción, Drama, K-Drama",
+                    "url": "/dorama/6ixtynin9-the-series-sub-espanol",
+                    "title": "6ixtynin9: The Series (Seis nueve: La serie)",
+                    "description": "Tras perder su empleo, una mujer descubre un misterioso paquete en la puerta de su casa... y su vida se complica de la peor manera posible. ",
+                    "genre": "Comedia, Thriller, Thai-Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -273,42 +273,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/d-p-2-episodio-6",
-                        "name": "Episodio 6.0",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/ver/d-p-2-episodio-5",
-                        "name": "Episodio 5.0",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www14.mp4upload.com:183/d/qwx7pl7vz3b4quuobcqrij2tiooe4ingyxlfsh4qj4kortzlvuuvbtbgzdlhuyjtcqkehixz/video.mp4\"           \n           });\n            if (\"https://www14.mp4upload.com/i/02308/nusbh5i5fasp.jpg\") {\n             player.poster(\"https://www14.mp4upload.com/i/02308/nusbh5i5fasp.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/nusbh5i5fasp\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-nusbh5i5fasp.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"nusbh5i5fasp\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/nusbh5i5fasp\", \"_blank\");\n});   \n      ",
-                        "quality": "Upload",
-                        "videoUrl": "\n         var player = videojs(\"player\", {}, function(){\n        player.src({\n            type: \"video/mp4\",\n            src: \"https://www14.mp4upload.com:183/d/qwx7pl7vz3b4quuobcqrij2tiooe4ingyxlfsh4qj4kortzlvuuvbtbgzdlhuyjtcqkehixz/video.mp4\"           \n           });\n            if (\"https://www14.mp4upload.com/i/02308/nusbh5i5fasp.jpg\") {\n             player.poster(\"https://www14.mp4upload.com/i/02308/nusbh5i5fasp.jpg\");\n            }\n          });    \n         player.nuevo({ \n            title: \"\",\n            url: \"https://www.mp4upload.com/nusbh5i5fasp\",\n            embed: '<IFRAME SRC=\"https://www.mp4upload.com/embed-nusbh5i5fasp.html\" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH=1280 HEIGHT=720 allowfullscreen></IFRAME>',\n            buttonForward: true,\n            timetooltip: false,\n            logo: \"https://www.mp4upload.com/images/hd.png\",\n            logoposition: \"RT\",\n            logomin: true,\n            video_id: \"nusbh5i5fasp\",\n            downloadButton: true,\n            resume: true,\n            contextMenu: false,\n         });   \n         player.chromecast({ button: \"controlbar\",overlayButton:false});\n         player.hotkeys({\n            volumeStep: 0.1,\n            seekStep: 5\n         });\n    //     player.vastAds ([{tagURL: \"\",id:\"x1\"}]);\n      player.on('downloadVideo', function(event,data){\n         window.open(\"https://www.mp4upload.com/nusbh5i5fasp\", \"_blank\");\n});   \n      ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://upload.com/"
-                        }
-                    },
-                    {
-                        "url": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "quality": "Upload",
-                        "videoUrl": "\n    var player = videojs('player');\nplayer.on('ready', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\nplayer.on('play', function() {\n  document.getElementById('overlayads').style.display = 'none';\n  for(var a=document.getElementsByTagName(\"iframe\");a.length;)a[0].parentNode.removeChild(a[0]);\n});\nplayer.on('pause', function() {\n  document.getElementById('overlayads').style.display = 'block';\n});\n",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
