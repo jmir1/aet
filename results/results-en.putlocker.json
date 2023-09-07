@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/virgin-river-43522/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/98652be454c2e0ad6f3b25e5a3f2bfea.jpg"
+                            },
+                            {
                                 "url": "/film/dear-child-100018/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/c5f39ca911723d566053a1b065108d3e.jpg"
                             },
@@ -37,10 +41,6 @@
                             {
                                 "url": "/film/star-trek-lower-decks-62802/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/4f04297b4df31071e8f0694e5499ee9d.jpg"
-                            },
-                            {
-                                "url": "/film/virgin-river-43522/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/98652be454c2e0ad6f3b25e5a3f2bfea.jpg"
                             },
                             {
                                 "url": "/film/harley-quinn-42243/",
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/dear-child-100018/",
-                    "title": "Dear Child",
+                    "url": "/film/virgin-river-43522/",
+                    "title": "Virgin River",
                     "author": "",
-                    "description": "When Lena escapes isolation from the man controlling her, the true extent of her horror is revealed that same night when Lena's parents arrive.\n\nQuality: HD\nRelease: 2023-09-07\nIMDb: n/a",
-                    "genre": "Crime, Drama, Mystery",
+                    "description": "After seeing an ad for a midwife, a recently divorced big-city nurse moves to the redwood forests of California, where she meets an intriguing man.\n\nQuality: HD\nRelease: 2019-12-06\nIMDb: 7.4",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":6,\"ids\":[\"43522_6_1\",\"43522_6_2\",\"43522_6_3\"]}",
+                        "name": "Episode 6: There's Snow Place Like Home",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "{\"ep_num\":5,\"ids\":[\"43522_5_1\",\"43522_5_2\",\"43522_5_3\"]}",
+                        "name": "Episode 5: Let the Games Begin",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

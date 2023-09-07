@@ -22,14 +22,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42622_background.jpg?v=1688847153"
                             },
                             {
-                                "url": "/anime/51179",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
-                            },
-                            {
                                 "url": "/anime/34566",
                                 "title": "Boruto: Naruto Next Generations",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/734_background.jpg?v=1596255550"
+                            },
+                            {
+                                "url": "/anime/51179",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
                             },
                             {
                                 "url": "/anime/34572",
@@ -91,6 +91,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/69870/legendado",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42740_background.jpg?v=1689006457"
+                            },
+                            {
+                                "url": "/episodio/69869/legendado",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42740_background.jpg?v=1689006457"
+                            },
+                            {
+                                "url": "/episodio/69868/legendado",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42309_background.jpg?v=1649098376"
+                            },
                             {
                                 "url": "/episodio/69867/legendado",
                                 "title": "Kodomo no Jikan OVA",
@@ -195,21 +210,6 @@
                                 "url": "/episodio/69835/dublado",
                                 "title": "Level 1 dakedo Unique Skill de Saikyou desu",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42734_background.jpg?v=1688834736"
-                            },
-                            {
-                                "url": "/episodio/69502/dublado",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
-                            },
-                            {
-                                "url": "/episodio/69374/dublado",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
-                            },
-                            {
-                                "url": "/episodio/64067/dublado",
-                                "title": "NieR:Automata Ver1.1a",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42533_background.jpg?v=1673128658"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
