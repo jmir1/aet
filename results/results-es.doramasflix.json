@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/you-are-mine?id=64f8c8d2031c950b36d2ed2f",
+                                "title": "You Are Mine (Eres mío)",
+                                "description": "(BL) El personal de la empresa de Xia Shang Zhou es conocido por su buena apariencia y cuerpo, pero hay un nuevo empleado, Yao Shun Yu, que es una excepción a la regla. Shun Yu es como un conejo en la jungla que ha renunciado a su vida. Su jefe, Xia Shang Zhou, siempre se burla del bondadoso Yao. Y Shun Yu cree que si trabaja duro, podrá tener una vida mejor. Incluso si su trabajo es estresante y su jefe está de mal humor, puede soportarlo. Pero tener una cita a ciegas con el jefe y acostarse con él, ¡es realmente un trabajo duro!",
+                                "genre": "Drama, Romance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/wQ8xssE3SdNAdsqq6n5gARmzh6R.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/hyo-shims-independent-life?id=64f819dd031c950b36d2b154",
                                 "title": "Hyo-shim's Independent Life (La vida independiente de Hyo-shim)",
                                 "description": "Lee Hyo Shim es una hábil entrenadora física en su gimnasio local, pero, a pesar de su excelente forma física, está doblegada por el peso de mantener a su familia. Después de que su padre se marchara, a ella le correspondía mantener a su madre y a sus tres hermanos. Si bien esta tarea podría haber sido noble cuando era más joven, después de años de trabajar como esclava ingrata para su familia, finalmente está lista para vivir por sí misma.",
@@ -456,13 +463,6 @@
                                 "description": "Una oficinista insegura de su aspecto físico se convierte en una personalidad enmascarada de Internet por la noche, hasta que una cadena de acontecimientos funestos se apodera de su vida.",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/mKRIwsjNRoGes1hVZxU192EQZZL.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/love-in-translation?id=64daa5e8003cd821e1e3156f",
-                                "title": "Love in Translation (Amor en traducción)",
-                                "description": "(BL) Uno quiere tener un negocio exitoso, otro quiere perseguir con éxito a una chica china. Inesperadamente, sus búsquedas desesperadas acercan a los dos.\n\nAunque no se entienda el idioma, al comunicarse con el corazón, se recibe el mensaje.",
-                                "genre": "Drama",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -581,17 +581,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/meant-to-be?id=643db7b4ee74ca76276562fb",
-                    "title": "Meant To Be (Destinado a Suceder)",
-                    "artist": "Kim Yu-seok",
-                    "author": "MBC",
-                    "description": "El drama describe la vida de dos mujeres, Lee Hae In y Kang Se Na, que cayeron en diferentes destinos cuando eran niñas.",
-                    "genre": "Drama, Romance, Acción, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xdzSO56WueBMW45QHWemV3D6mzJ.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

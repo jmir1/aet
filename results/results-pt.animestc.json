@@ -442,42 +442,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://d1112.download-send.com/d/ibysfngs6gosj4l4mjzfvt5vqvscnrtaj3utetq2lbtk5if5ngdutawtwgcz6x67xe7slf4f/video.mkv",
-                        "quality": "Sendcm - HD",
-                        "videoUrl": "https://d1112.download-send.com/d/ibysfngs6gosj4l4mjzfvt5vqvscnrtaj3utetq2lbtk5if5ngdutawtwgcz6x67xe7slf4f/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/m6f7er79ltvp"
-                        }
-                    },
-                    {
-                        "url": "https://d1112.download-send.com/d/ibyvbngs6gosj4l4mjzfbqfdqt7yjwzt2j3v4awilmyrhlvaaenhto6icw4rtwn25q6n5ypt/video.mkv",
-                        "quality": "Sendcm - FULLHD",
-                        "videoUrl": "https://d1112.download-send.com/d/ibyvbngs6gosj4l4mjzfbqfdqt7yjwzt2j3v4awilmyrhlvaaenhto6icw4rtwn25q6n5ypt/video.mkv",
-                        "headers": {
-                            "Referer": "https://send.cm/g9p6j8baxuhf"
-                        }
-                    },
-                    {
-                        "url": "https://d1112.download-send.com/d/iby6rm6s6gosj4l4mjza5cneznnbgftled72o5zbniizk2otjes6xa6oq7fskx44k6anji3m/video.mp4",
-                        "quality": "Sendcm - SD",
-                        "videoUrl": "https://d1112.download-send.com/d/iby6rm6s6gosj4l4mjza5cneznnbgftled72o5zbniizk2otjes6xa6oq7fskx44k6anji3m/video.mp4",
-                        "headers": {
-                            "Referer": "https://send.cm/9pwyk06y9okf"
-                        }
-                    },
-                    {
-                        "url": "https://atc-cloud.animestc.net/online/2023/Suki_na_Ko_ga_Megane_wo_Wasureta/10.mp4",
-                        "quality": "Player ATC",
-                        "videoUrl": "https://atc-cloud.animestc.net/online/2023/Suki_na_Ko_ga_Megane_wo_Wasureta/10.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.animestc.net/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

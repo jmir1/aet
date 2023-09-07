@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/yprcjjfbnrij",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=xBiIz3TXO8CJL0NYrnJqq0v7R61OHYiVrgGnersELs4&s=1694023701&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=172.176&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=88VzSvJUG43pZS9tGjM1hhTwrBR2wSMlzLgfXNhtUfs&s=1694046506&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=13.88&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694093700&ip=F0qQKRWQEy9XKxR&token=R7YX3sye8R3t",
+                        "url": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694116504&ip=F0AsFxgnDS9X&token=fwzOUbyvFotZ",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694093700&ip=F0qQKRWQEy9XKxR&token=R7YX3sye8R3t"
+                        "videoUrl": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694116504&ip=F0AsFxgnDS9X&token=fwzOUbyvFotZ"
                     },
                     {
                         "url": "https://voe.sx/e/yprcjjfbnrij",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=xBiIz3TXO8CJL0NYrnJqq0v7R61OHYiVrgGnersELs4&s=1694023701&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=172.176&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=88VzSvJUG43pZS9tGjM1hhTwrBR2wSMlzLgfXNhtUfs&s=1694046506&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=13.88&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,26 +576,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/vida-adulta",
-                    "title": "Vida adulta (2023)",
-                    "description": "El plan de hacer un viaje de vuelta a casa lo más corto posible empieza a desbaratarse cuando Eric tiene que equilibrar su adicción al póquer con las difíciles relaciones con sus dos hermanas Rachel y Maggie. Las tres ya no son las niñas que eran. ¿O sí?",
-                    "genre": "Drama, Comedia, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/vida-adulta",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
@@ -610,6 +596,56 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-ucumar/",
+                                "title": "El Ucumar",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-ucumar.jpg"
+                            },
+                            {
+                                "url": "/pelicula/perdon/",
+                                "title": "Perdón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/perdon.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-vida-sin-ti/",
+                                "title": "La vida sin ti",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-vida-sin-ti.jpg"
+                            },
+                            {
+                                "url": "/pelicula/97-minutos/",
+                                "title": "97 Minutos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/97-minutos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lo-que-el-agua-se-llevo/",
+                                "title": "Lo que el agua se llevó",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lo-que-el-agua-se-llevo.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-habitacion-azul-2002/",
+                                "title": "La habitación azul 2002",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-habitacion-azul-2002.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dirty-games/",
+                                "title": "Dirty Games",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dirty-games.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-best-man/",
+                                "title": "The Best Man",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-best-man.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-viaje-de-julieta/",
+                                "title": "El viaje de Julieta",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-viaje-de-julieta.jpg"
+                            },
+                            {
+                                "url": "/pelicula/como-mueren-las-reinas/",
+                                "title": "Cómo mueren las reinas",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/como-mueren-las-reinas.jpg"
+                            },
                             {
                                 "url": "/pelicula/miyamoto-musashi-y-los-400-samurais/",
                                 "title": "Miyamoto Musashi y los 400 Samuráis",
@@ -659,56 +695,6 @@
                                 "url": "/pelicula/vida-adulta/",
                                 "title": "Vida Adulta",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/vida-adulta.jpg"
-                            },
-                            {
-                                "url": "/pelicula/semilla/",
-                                "title": "Semilla",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/semilla.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ganandose-el-cielo/",
-                                "title": "Ganandose El Cielo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ganandose-el-cielo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/una-familia-extraordinaria/",
-                                "title": "Una Familia Extraordinaria",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/una-familia-extraordinaria.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tierra-de-la-mafia/",
-                                "title": "Tierra de la mafia",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tierra-de-la-mafia.jpg"
-                            },
-                            {
-                                "url": "/pelicula/lost-in-the-stars/",
-                                "title": "Lost in the Stars",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lost-in-the-stars.jpg"
-                            },
-                            {
-                                "url": "/pelicula/we-make-antiques-osaka-dreams/",
-                                "title": "We Make Antiques! Osaka Dreams",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/we-make-antiques-osaka-dreams.jpg"
-                            },
-                            {
-                                "url": "/pelicula/see-you-on-venus/",
-                                "title": "See You On Venus",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/see-you-on-venus.jpg"
-                            },
-                            {
-                                "url": "/pelicula/un-dia-y-medio/",
-                                "title": "Un día y medio",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/un-dia-y-medio.jpg"
-                            },
-                            {
-                                "url": "/pelicula/final-feliz/",
-                                "title": "Final feliz",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/final-feliz.jpg"
-                            },
-                            {
-                                "url": "/pelicula/casi-muerta/",
-                                "title": "Casi muerta",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/casi-muerta.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +864,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/miyamoto-musashi-y-los-400-samurais/",
-                    "title": "Miyamoto Musashi y los 400 Samuráis",
+                    "url": "/pelicula/el-ucumar/",
+                    "title": "El Ucumar",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Terror",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +878,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/miyamoto-musashi-y-los-400-samurais/",
+                        "url": "/pelicula/el-ucumar/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
