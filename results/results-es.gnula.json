@@ -177,6 +177,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
+                            },
+                            {
                                 "url": "/movies/the-world-to-come",
                                 "title": "The World to Come",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
@@ -185,11 +190,6 @@
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
-                            },
-                            {
-                                "url": "/series/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -292,8 +292,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Lv4K1RzLgXhRdOY&expires=1694136999&ip=F0AsFxgnDS9X&token=7hN_VEQ7ce-M",
+                        "quality": "Latino StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Lv4K1RzLgXhRdOY&expires=1694136999&ip=F0AsFxgnDS9X&token=7hN_VEQ7ce-M"
+                    },
+                    {
+                        "url": "https://voe.sx/e/qmax8qpa4kyf",
+                        "quality": "Latino Voex",
+                        "videoUrl": "https://delivery-node-9m01d94khwyqelsn.voe-network.net/engine/hls2/01/09466/qmax8qpa4kyf_,n,.urlset/master.m3u8?t=rtZjHJXvOM87hnGuu41O8389JgysxjsLGqqePxrFJJY&s=1694066996&e=14400&f=47331329&node=delivery-node-9m01d94khwyqelsn.voe-network.net&i=13.88&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

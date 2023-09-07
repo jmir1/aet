@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/yprcjjfbnrij",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=88VzSvJUG43pZS9tGjM1hhTwrBR2wSMlzLgfXNhtUfs&s=1694046506&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=nPA0gjaThcI5ezJkh0mnPqd-ufoLqOV0qBbALXlpm1Q&s=1694066915&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=20.51&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694116504&ip=F0AsFxgnDS9X&token=fwzOUbyvFotZ",
+                        "url": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694136913&ip=FROsE0WnDS9X&token=IclvVkngIngO",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694116504&ip=F0AsFxgnDS9X&token=fwzOUbyvFotZ"
+                        "videoUrl": "https://streamtape.com/get_video?id=LXdxRMpbz6TRj2K&expires=1694136913&ip=FROsE0WnDS9X&token=IclvVkngIngO"
                     },
                     {
                         "url": "https://voe.sx/e/yprcjjfbnrij",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=88VzSvJUG43pZS9tGjM1hhTwrBR2wSMlzLgfXNhtUfs&s=1694046506&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09486/yprcjjfbnrij_,n,.urlset/master.m3u8?t=nPA0gjaThcI5ezJkh0mnPqd-ufoLqOV0qBbALXlpm1Q&s=1694066915&e=14400&f=47430165&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=20.51&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,12 +576,26 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/vida-adulta",
+                    "title": "Vida adulta (2023)",
+                    "description": "El plan de hacer un viaje de vuelta a casa lo más corto posible empieza a desbaratarse cuando Eric tiene que equilibrar su adicción al póquer con las difíciles relaciones con sus dos hermanas Rachel y Maggie. Las tres ya no son las niñas que eran. ¿O sí?",
+                    "genre": "Drama, Comedia, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/vida-adulta",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

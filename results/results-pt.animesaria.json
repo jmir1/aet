@@ -306,7 +306,7 @@
                 "result": {
                     "url": "/anime/3121/kodomo_no_jikan_ova",
                     "title": "Kodomo no Jikan OVA",
-                    "description": "Uma série de episódios de OVA lançados com os volumes de mangá de edição limitada. Episódio 01: O que você me deu (Anata ga Watashi e Kureta Mono) Kokonoe, EUA e Kagami vão comprar um presente para o Sensei. Eventualmente, Kokonoe decide fazer um e todos acabam passando a noite na casa dela. Ao longo do caminho, aprendemos mais sobre o amor de Usa por Reiji, o amor de Kagami por Kokonoe e o amor de Kokonoe por Sensei. Episódio 02: Kuro-chan, Shiro-chan (Kuro-chan para Shiro-chan) Kuro-chan tenta se tornar amigo de Shirai-sensei. Episódio 03: Horário de verão de uma criança (Kodomo no Natsu Jikan) As meninas, Aoki e Houin vão ao país visitar a família de Aoki.\n\nTítulos Alternativos: Kodomo no Jikan: Anata ga Watashi ni Kureta Mono, Kuro-chan to Shiro-chan, Kodomo no Natsu Jikan, Nymphet, Kojika, Kodomo no Jikan Second Term Special, Kodomo no Jikan OAD, こどものじかん OVA\nTipo: OVA\nAno: 2007\n",
+                    "description": "Uma série de episódios de OVA lançados com os volumes de mangá de edição limitada. Episódio 01: O que você me deu (Anata ga Watashi e Kureta Mono) Kokonoe, EUA e Kagami vão comprar um presente para o Sensei. Eventualmente, Kokonoe decide fazer um e todos acabam passando a noite na casa dela. Ao longo do caminho, aprendemos mais sobre o amor de Usa por Reiji, o amor de Kagami por Kokonoe e o amor de Kokonoe por Sensei. Episódio 02: Kuro-chan, Shiro-chan (Kuro-chan para Shiro-chan) Kuro-chan tenta se tornar amigo de Shirai-sensei. Episódio 03: Horário de verão de uma criança (Kodomo no Natsu Jikan) As meninas, Aoki e Houin vão ao país visitar a família de Aoki.\n\nTítulos Alternativos: Kodomo no Jikan: Anata ga Watashi ni Kureta Mono, Kuro-chan to Shiro-chan, Kodomo no Natsu Jikan, Nymphet, Kojika, Kodomo no Jikan Second Term Special, Kodomo no Jikan OAD, こどものじかん OVA\nTipo: OVA\nAno: 2007\nMídias: 4\n",
                     "genre": "Comédia, Ecchi, Escolar",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -316,8 +316,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/3121/kodomo_no_jikan_ova/episodio/4/legendado",
+                        "name": "Episódio 4",
+                        "episode_number": 4.0,
+                        "scanlator": "legendado"
+                    },
+                    {
+                        "url": "/anime/3121/kodomo_no_jikan_ova/episodio/3/legendado",
+                        "name": "Episódio 3",
+                        "episode_number": 3.0,
+                        "scanlator": "legendado"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
