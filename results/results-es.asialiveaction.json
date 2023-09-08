@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/low-frequency/",
+                                "title": "Low Frequency (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
+                            },
+                            {
+                                "url": "/love-tractor/",
+                                "title": "Love Tractor",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/4vQC2gjorIcZEIpGTiO9HyNw4xG.jpg"
+                            },
+                            {
                                 "url": "/love-in-translation/",
                                 "title": "Love in Translation (2/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
@@ -25,11 +35,6 @@
                                 "url": "/my-universe/",
                                 "title": "My Universe (3/24)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg"
-                            },
-                            {
-                                "url": "/low-frequency/",
-                                "title": "Low Frequency (7/8)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
                             },
                             {
                                 "url": "/a-boss-and-a-bae/",
@@ -120,11 +125,6 @@
                                 "url": "/sing-my-crush-1-8/",
                                 "title": "Sing My Crush (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg"
-                            },
-                            {
-                                "url": "/wedding-plan-the-series/",
-                                "title": "Wedding Plan The Series (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/low-frequency/",
+                                "title": "Low Frequency (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
+                            },
+                            {
+                                "url": "/love-tractor/",
+                                "title": "Love Tractor",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/4vQC2gjorIcZEIpGTiO9HyNw4xG.jpg"
+                            },
+                            {
                                 "url": "/love-in-translation/",
                                 "title": "Love in Translation (2/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
@@ -155,11 +165,6 @@
                                 "url": "/my-universe/",
                                 "title": "My Universe (3/24)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/v4Lq9IMnfz4hFFFiMZnSPVoLTwg.jpg"
-                            },
-                            {
-                                "url": "/low-frequency/",
-                                "title": "Low Frequency (7/8)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
                             },
                             {
                                 "url": "/a-boss-and-a-bae/",
@@ -250,11 +255,6 @@
                                 "url": "/sing-my-crush-1-8/",
                                 "title": "Sing My Crush (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/h7fXcr8ukqvBg9nI0QUt50goPTQ.jpg"
-                            },
-                            {
-                                "url": "/wedding-plan-the-series/",
-                                "title": "Wedding Plan The Series (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/t0Le5SNs1hzePKup00D9bD8eHTM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,17 +393,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/love-in-translation/",
-                    "title": "Love in Translation (2/10)",
-                    "description": "Uno quiere tener un negocio exitoso, otro quiere perseguir con éxito a una chica china. Inesperadamente, sus búsquedas desesperadas acercan a los dos.",
-                    "genre": "Comedia, Drama, Romance, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",

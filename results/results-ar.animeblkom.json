@@ -201,36 +201,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1694153282&token=QVq2JZ6oGxojHbLsbGhWpQ",
-                        "quality": "Blkbom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1694153282&token=QVq2JZ6oGxojHbLsbGhWpQ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1694153282&token=xJ4Btg8HIyHTKEuQ3QLu-Q",
-                        "quality": "Blkbom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1694153282&token=xJ4Btg8HIyHTKEuQ3QLu-Q",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1694153282&token=qxvnIIok6CBYalupH0jwwQ",
-                        "quality": "Blkbom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1694153282&token=qxvnIIok6CBYalupH0jwwQ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

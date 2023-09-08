@@ -11,6 +11,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/superfan-100021/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/fe7a0338573a730d936dbdba41e9411e.jpg"
+                            },
+                            {
+                                "url": "/film/the-blood-covenant-100024/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/b320fe57e47b1afad4c68bd81eaed21f.jpg"
+                            },
+                            {
+                                "url": "/film/teenage-euthanasia-72271/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/b8fa164ac03da38e8536815e070b2732.jpg"
+                            },
+                            {
+                                "url": "/film/tribunal-justice-97480/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/12080d123415a75c86ffe888aafca95f.jpg"
+                            },
+                            {
+                                "url": "/film/kung-fu-panda-the-dragon-knight-83056/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/019d4e2e333d60078ab6ace4df982dbe.jpg"
+                            },
+                            {
                                 "url": "/film/virgin-river-43522/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/98652be454c2e0ad6f3b25e5a3f2bfea.jpg"
                             },
@@ -149,26 +169,6 @@
                             {
                                 "url": "/film/americas-got-talent-39326/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/89324ef04b131976a75b9f1c32422165.jpg"
-                            },
-                            {
-                                "url": "/film/hard-knocks-33104/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/262abe8ec3a5ac94fc5f42e105b51009.jpg"
-                            },
-                            {
-                                "url": "/film/caught-in-the-act-unfaithful-85740/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/8c44c61d5c8add3cd4c65c07e181b1fb.jpg"
-                            },
-                            {
-                                "url": "/film/infamy-99979/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/34fe896d828b7a861e108d3882749f1d.jpg"
-                            },
-                            {
-                                "url": "/film/6ixtynin9-the-series-99991/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/e6f1e55c98a5e0a8c7b8e734e3885ed1.jpg"
-                            },
-                            {
-                                "url": "/film/never-let-him-go-99988/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/711a140cc3d2c4b5062ca074fc4439c5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/virgin-river-43522/",
-                    "title": "Virgin River",
+                    "url": "/film/superfan-100021/",
+                    "title": "Superfan",
                     "author": "",
-                    "description": "After seeing an ad for a midwife, a recently divorced big-city nurse moves to the redwood forests of California, where she meets an intriguing man.\n\nQuality: HD\nRelease: 2019-12-06\nIMDb: 7.4",
-                    "genre": "Drama",
+                    "description": "A musical spectacle disguised as a game show features contestants vying in multiple rounds of play to prove they are the ultimate music fan; each episode features a different musical artist who selects a superfan to win a once-in-a-lifetime prize.\n\nQuality: HD\nRelease: 2023-08-09\nIMDb: n/a",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,22 +360,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "{\"ep_num\":6,\"ids\":[\"43522_6_1\",\"43522_6_2\",\"43522_6_3\"]}",
-                        "name": "Episode 6: There's Snow Place Like Home",
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "{\"ep_num\":5,\"ids\":[\"43522_5_1\",\"43522_5_2\",\"43522_5_3\"]}",
-                        "name": "Episode 5: Let the Games Begin",
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             }
         }
