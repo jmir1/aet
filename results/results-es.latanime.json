@@ -333,12 +333,63 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/link-click-s2-castellano-episodio-2",
+                        "name": "Link Click S2 Castellano Capitulo 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/link-click-s2-castellano-episodio-1",
+                        "name": "Link Click S2 Castellano Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=5&sig=eUNvuObWPXo&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=5&sig=eUNvuObWPXo&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031"
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxtjipvz3b4quuobgqrskskkspszcma6t7tt65trjn44teyc3vsye7jez7r2xbcdvdd23jy/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxtjipvz3b4quuobgqrskskkspszcma6t7tt65trjn44teyc3vsye7jez7r2xbcdvdd23jy/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=3&sig=kJiKLo4mQPA&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031",
+                        "quality": "ok -  Okru:720p",
+                        "videoUrl": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=3&sig=kJiKLo4mQPA&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031"
+                    },
+                    {
+                        "url": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=2&sig=FRnc53xUzNA&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031",
+                        "quality": "ok -  Okru:480p",
+                        "videoUrl": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=2&sig=FRnc53xUzNA&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031"
+                    },
+                    {
+                        "url": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=1&sig=MIx5_4TBCEs&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031",
+                        "quality": "ok -  Okru:360p",
+                        "videoUrl": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=1&sig=MIx5_4TBCEs&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031"
+                    },
+                    {
+                        "url": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=0&sig=HlfVdMKfq8o&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031",
+                        "quality": "ok -  Okru:240p",
+                        "videoUrl": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=0&sig=HlfVdMKfq8o&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031"
+                    },
+                    {
+                        "url": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=4&sig=_myT_IL0VC0&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031",
+                        "quality": "ok -  Okru:144p",
+                        "videoUrl": "https://vd403.mycdn.me/?expires=1694239726145&srcIp=20.42.14.80&pr=10&srcAg=GECKO&ms=45.136.20.32&type=4&sig=_myT_IL0VC0&ct=0&urls=185.226.53.23&clientType=0&zs=43&id=5070436240031"
+                    }
+                ],
+                "passed": true
             }
         }
     }

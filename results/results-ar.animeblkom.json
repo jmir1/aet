@@ -201,8 +201,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1694196521&token=Lt6xxSbp7fiYh60lyy7tLA",
+                        "quality": "Blkbom - 720p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1694196521&token=Lt6xxSbp7fiYh60lyy7tLA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1694196521&token=xH9Q8LYxoAfAHLWpH5Kf0g",
+                        "quality": "Blkbom - 480p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1694196521&token=xH9Q8LYxoAfAHLWpH5Kf0g",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1694196521&token=kTzxhOg9Nu2bwLAEr9mukA",
+                        "quality": "Blkbom - 360p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1694196521&token=kTzxhOg9Nu2bwLAEr9mukA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

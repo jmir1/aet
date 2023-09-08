@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/mokr9nulkrdf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/09496/mokr9nulkrdf_,n,.urlset/master.m3u8?t=HZOCXHgD5mElWnYQDrPh91vp_6eBejO-yVn3U0K_b7A&s=1694132898&e=14400&f=47482454&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/09496/mokr9nulkrdf_,n,.urlset/master.m3u8?t=mcfhWTMeGZ2QNp1QSzHH9xGkQOQHXhJJUf6NdC8uZUI&s=1694153327&e=14400&f=47482454&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=104.45&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=3p01oKjzgYCdwBZ&expires=1694202897&ip=F0qQKRWQE19XKxR&token=unA-LMB-S4gL",
+                        "url": "https://streamtape.com/get_video?id=3p01oKjzgYCdwBZ&expires=1694223325&ip=F0OSKRqOKxSHDN&token=apPcwfijn7Bp",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=3p01oKjzgYCdwBZ&expires=1694202897&ip=F0qQKRWQE19XKxR&token=unA-LMB-S4gL"
+                        "videoUrl": "https://streamtape.com/get_video?id=3p01oKjzgYCdwBZ&expires=1694223325&ip=F0OSKRqOKxSHDN&token=apPcwfijn7Bp"
                     },
                     {
                         "url": "https://voe.sx/e/mokr9nulkrdf",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/09496/mokr9nulkrdf_,n,.urlset/master.m3u8?t=HZOCXHgD5mElWnYQDrPh91vp_6eBejO-yVn3U0K_b7A&s=1694132898&e=14400&f=47482454&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=172.177&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/09496/mokr9nulkrdf_,n,.urlset/master.m3u8?t=mcfhWTMeGZ2QNp1QSzHH9xGkQOQHXhJJUf6NdC8uZUI&s=1694153327&e=14400&f=47482454&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=104.45&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -576,16 +576,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/luca",
-                    "title": "Luca (2021)",
-                    "description": "Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua.",
-                    "genre": "Fantasía, Aventura, Familia, Animación, Comedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

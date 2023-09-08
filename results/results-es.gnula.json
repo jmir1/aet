@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/la-musica-esta-servida-sofia-carson",
+                                "title": "La música está servida: Sofía Carson",
+                                "thumbnail_url": "null"
+                            },
+                            {
                                 "url": "/movies/me-vuelves-loca",
                                 "title": "Me vuelves loca",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/rikMdaHGZRJLLwI7hRwTlaoll7v.jpg"
@@ -32,14 +37,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg"
                             },
                             {
-                                "url": "/movies/la-gran-seduccion-1159086",
-                                "title": "La gran seducción",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/17VmLlO81QJPGlnAJxZKRwSKhDW.jpg"
-                            },
-                            {
                                 "url": "/movies/slotherhouse",
                                 "title": "Slotherhouse",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/pLSoVBuBa3aqFBgBY2puu3BN8of.jpg"
+                            },
+                            {
+                                "url": "/movies/la-gran-seduccion-1159086",
+                                "title": "La gran seducción",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/17VmLlO81QJPGlnAJxZKRwSKhDW.jpg"
                             },
                             {
                                 "url": "/movies/el-club-de-los-lectores-criminales",
@@ -112,6 +117,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/uJnlpGyuAjJGQJg9kZ0BJdeRKf2.jpg"
                             },
                             {
+                                "url": "/movies/birthrebirth",
+                                "title": "Birth/Rebirth",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg"
+                            },
+                            {
                                 "url": "/movies/cuando-frank-conocio-a-carlitos",
                                 "title": "Cuando Frank conoció a Carlitos",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/4VXSqSIz7eIRmEpugt2pUcOmvmC.jpg"
@@ -120,16 +130,6 @@
                                 "url": "/movies/dead-shot",
                                 "title": "Dead Shot",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/oLMzL9cpBBnkMGF8j4Z5Dbi2Z5u.jpg"
-                            },
-                            {
-                                "url": "/movies/vida-adulta",
-                                "title": "Vida Adulta",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2vn77J4IsECDqdPUALpLNFJzJxa.jpg"
-                            },
-                            {
-                                "url": "/movies/birthrebirth",
-                                "title": "Birth/Rebirth",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -182,14 +182,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
-                                "url": "/series/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -212,11 +212,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/series/w-dos-mundos",
-                                "title": "W Dos Mundos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
-                            },
-                            {
                                 "url": "/movies/fireball-visitantes-de-mundos-oscuros",
                                 "title": "Fireball: Visitantes de mundos oscuros",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
@@ -225,6 +220,11 @@
                                 "url": "/series/jurassic-world-campamento-cretacico",
                                 "title": "Jurassic World: Campamento Cretácico",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
+                                "url": "/series/w-dos-mundos",
+                                "title": "W Dos Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -269,13 +269,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/me-vuelves-loca",
-                    "title": "Me vuelves loca",
-                    "description": "Carolina tiene una vida perfecta: vive en una lujosa casa, trabaja en una revista de moda y está casada con un exitoso publicista. Un día todo se va a la basura: descubre que es estéril, el mismo día que su esposo la deja por su mejor amiga, quien, además, está embarazada de éste. Tras el impacto de estas noticias, Carolina tiene una crisis, bebe de mas, se tropieza y cae desde el segundo piso de su casa, hecho que es interpretado como un intento de suicidio. Carolina es internada contra su voluntad, en el exclusivo centro psiquiátrico Edén. En ese lugar ella conocerá a un grupo de “locos” que la ayudarán a sanar y a vislumbrar que su vida anterior no era tan perfecta. Así mismo descubre que quizá los mas locos, son los que están fuera del psiquiátrico.",
-                    "genre": "Comedia",
+                    "url": "/movies/la-musica-esta-servida-sofia-carson",
+                    "title": "La música está servida: Sofía Carson",
+                    "artist": "Sofia Carson",
+                    "description": "",
+                    "genre": "Documental, Música",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/rikMdaHGZRJLLwI7hRwTlaoll7v.jpg",
+                    "thumbnail_url": "null",
                     "initialized": true
                 },
                 "passed": true
@@ -283,7 +284,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/me-vuelves-loca",
+                        "url": "/movies/la-musica-esta-servida-sofia-carson",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -293,14 +294,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=aP8M3l4JKbu0pK&expires=1694202961&ip=FROsD0APKxSHDN&token=5SwAVJZME8X2",
+                        "url": "https://streamtape.com/get_video?id=qxq2QJZ8k2hLV2&expires=1694223403&ip=F0AsFxgnDS9X&token=CrPfJ2eAQmFa",
                         "quality": "Latino StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aP8M3l4JKbu0pK&expires=1694202961&ip=FROsD0APKxSHDN&token=5SwAVJZME8X2"
+                        "videoUrl": "https://streamtape.com/get_video?id=qxq2QJZ8k2hLV2&expires=1694223403&ip=F0AsFxgnDS9X&token=CrPfJ2eAQmFa"
                     },
                     {
-                        "url": "https://voe.sx/e/nzgt6rbeco7g",
+                        "url": "https://voe.sx/e/ldiblcq9rejj",
                         "quality": "Latino Voex",
-                        "videoUrl": "https://delivery-node-sdrs6om7je7sppuv.voe-network.net/engine/hls2-c/01/09498/nzgt6rbeco7g_,n,.urlset/master.m3u8?t=2n6Nu2d5Ra3eCZU8SKINmRPYRzAPy1eA9cOPAOh81V8&s=1694132960&e=14400&f=47492073&node=delivery-node-aenweewvyripecad.voe-network.net&i=20.106&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ptejpfhct13vobjp.voe-network.net/engine/hls2/01/09450/ldiblcq9rejj_,n,.urlset/master.m3u8?t=tijjE8S-l2Gkk7N8ikJBtuzsNsJWT4rTBIGcfoiFTFo&s=1694153401&e=14400&f=47254468&node=delivery-node-ptejpfhct13vobjp.voe-network.net&i=13.88&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
