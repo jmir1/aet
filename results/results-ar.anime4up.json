@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/gamera-rebirth/",
+                                "title": "Gamera: Rebirth",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.09_11h27m15s_001_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/aishang-ta-de-liyou/",
                                 "title": "Aishang Ta de Liyou",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.08_16h40m45s_002_.png?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/masamune-kun-no-revenge-r/",
                                 "title": "Masamune-kun no Revenge R",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.02_15h36m46s_005_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.02_15h23m13s_004_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,71 +349,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/aishang-ta-de-liyou/",
-                    "title": "Aishang Ta de Liyou",
-                    "description": "",
-                    "genre": "دراما, مدرسي, رومانسي, ONA, يعرض الان, صيف 2023",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.08_16h40m45s_002_.png?fit=423%2C599&ssl=1",
+                    "url": "/anime/gamera-rebirth/",
+                    "title": "Gamera: Rebirth",
+                    "description": "في إطار من الإثارة والمغامرة، يتسبب حدث غامض في إيقاظ حيوان برمائي عملاق ذو قدرات خارقة على الطيران والصمود في مواجهة الأسلحة، بينما تبحث مجموعة من المغامرين الصغار عن حل لما قد يسبب انتهاء الحياة على كوكبهم.",
+                    "genre": "خيال علمي, ONA, مكتمل, صيف 2023",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.09_11h27m15s_001_.png?fit=424%2C597&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/aishang-ta-de-liyou-الحلقة-1/",
-                        "name": "الأونا 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/pkkju2os46m4",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09501/pkkju2os46m4_,n,.urlset/master.m3u8?t=2HIzIDZViKbbdOAZsKjKkYzVXS7-xSJ1P0cJUzrviD8&s=1694239680&e=14400&f=47507121&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=13.73&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=5&sig=Xbg2GQQvRVk&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=5&sig=Xbg2GQQvRVk&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778"
-                    },
-                    {
-                        "url": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=3&sig=M2tJqBKPi-s&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=3&sig=M2tJqBKPi-s&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778"
-                    },
-                    {
-                        "url": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=2&sig=O21JXWUdIVg&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=2&sig=O21JXWUdIVg&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778"
-                    },
-                    {
-                        "url": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=1&sig=DT_qpI2eAP4&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=1&sig=DT_qpI2eAP4&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778"
-                    },
-                    {
-                        "url": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=0&sig=_q23iTMHG8A&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=0&sig=_q23iTMHG8A&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778"
-                    },
-                    {
-                        "url": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=4&sig=NhpVOTXQIu4&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd450.mycdn.me/?expires=1694326080478&srcIp=13.73.36.178&pr=10&srcAg=GECKO&ms=185.226.53.34&type=4&sig=NhpVOTXQIu4&ct=0&urls=45.136.20.73&clientType=0&zs=43&id=5154758658778"
-                    },
-                    {
-                        "url": "https://xo23zx-04.vidboo.org/6jmnuilx3uazsalrixkafyfzkfbb4z3zttxx4vstman4thjp5qnlfuietbka/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://xo23zx-04.vidboo.org/6jmnuilx3uazsalrixkafyfzkfbb4z3zttxx4vstman4thjp5qnlfuietbka/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }
