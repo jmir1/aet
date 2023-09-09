@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/tu-tiempo-llama-latino-sub-espanol",
+                                "title": "Tu tiempo llama Latino",
+                                "description": "Tu tiempo llama Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/tu-tiempo-llama-latino-1694208928.jpg"
+                            },
+                            {
                                 "url": "/dorama/shaolin-soccer-latino-sub-espanol",
                                 "title": "Shaolin Soccer Latino",
                                 "description": "Shaolin Soccer Latino",
@@ -179,12 +185,6 @@
                                 "title": "Detective de sombras Latino",
                                 "description": "Detective de sombras Latino",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/detective-de-sombras-latino-1693869900.jpg"
-                            },
-                            {
-                                "url": "/dorama/aterrizaje-de-emergencia-en-tu-corazon-latino-sub-espanol",
-                                "title": "Aterrizaje de emergencia en tu corazón Latino",
-                                "description": "Aterrizaje de emergencia en tu corazón Latino",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/aterrizaje-de-emergencia-en-tu-corazon-latino-1693860356.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,10 +262,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/shaolin-soccer-latino-sub-espanol",
-                    "title": "Shaolin Soccer Latino (Futbol Kung Fu (Siu Lam juk kau) Audio Latino)",
-                    "description": "Sing es un discipulo del Shaolin cuya ambición es popularizar el kung fu en la sociedad moderna. Un día se encontrará con Fung, antiguo futbolista fracasado. Ambos tendrán la idea de formar un equipo que mezcle fútbol con artes marciales. ",
-                    "genre": "Comedia, Fantasia, HK-Drama",
+                    "url": "/dorama/tu-tiempo-llama-latino-sub-espanol",
+                    "title": "Tu tiempo llama Latino (A Time Called You (Neoui sigan sog-euro) Audio Latino)",
+                    "description": "Una mujer de luto viaja en el tiempo hasta el año 1998 como por arte de magia. Entonces conoce a un hombre que tiene un sorprendente parecido con su difunta pareja. ",
+                    "genre": "Romance, Thriller, Fantasia, K-Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -275,7 +275,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/shaolin-soccer-latino-episodio-1",
+                        "url": "/ver/tu-tiempo-llama-latino-episodio-2",
+                        "name": "Episodio 2.0",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/tu-tiempo-llama-latino-episodio-1",
                         "name": "Episodio 1.0",
                         "episode_number": 1.0
                     }
@@ -283,8 +288,57 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoBDACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoIFoAePcMJ1uYL2sac4k/fn/track.m3u8",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoBDACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoIFoAePcMJ1uYL2sac4k/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoAzACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoEFoAePcMXg5r7v9ZWwg/fn/track.m3u8",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoAzACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoEFoAePcMXg5r7v9ZWwg/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoAjACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoCFoAePcMvVd2RdQZ29k/fn/track.m3u8",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoAjACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoCFoAePcMvVd2RdQZ29k/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoATACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoCFoAePcMeOl5U1A9MHE/fn/track.m3u8",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoATACaikSJwgBEiMKDwoICND89hIQ4F0QAhj3DFoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAsMhFEMTYAhACGPcMYgQoCFoAePcMeOl5U1A9MHE/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEwAmopEicIARIjCg8KCAjQ_PYSEOBdEAIY9wxaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgLDIRRDE2AIQAhj3DGIEKAhaAHj3DEz9Y78UZ4iI/fn/track.m3u8",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEwAmopEicIARIjCg8KCAjQ_PYSEOBdEAIY9wxaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgLDIRRDE2AIQAhj3DGIEKAhaAHj3DEz9Y78UZ4iI/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ4zwgQE77mMF3qrQ/fn/track.m3u8",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd418.mycdn.me/expires/1694305701314/clientType/0/srcIp/13.64.13.80/type/2/mid/5974437202463/id/5044904069663/ms/45.136.20.55/zs/43/srcAg/GECKO/urls/185.226.53.60/oq/0/ct/28/sig/QR2L384mr74/ondemand/CJ-U3N3pkgEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ4zwgQE77mMF3qrQ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -92,6 +92,51 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/69941/legendado",
+                                "title": "Kanojo, Okarishimasu 3rd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42465_background.jpg?v=1688766461"
+                            },
+                            {
+                                "url": "/episodio/69940/legendado",
+                                "title": "Dekiru Neko wa Kyou mo Yuuutsu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42730_background.jpg?v=1688766596"
+                            },
+                            {
+                                "url": "/episodio/69828/legendado",
+                                "title": "AI no Idenshi",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42729_background.jpg?v=1688766211"
+                            },
+                            {
+                                "url": "/episodio/69482/dublado",
+                                "title": "Kanojo, Okarishimasu 3rd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42465_background.jpg?v=1688766461"
+                            },
+                            {
+                                "url": "/episodio/69939/legendado",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42731_background.jpg?v=1688766704"
+                            },
+                            {
+                                "url": "/episodio/69938/legendado",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42726_background.jpg?v=1688671216"
+                            },
+                            {
+                                "url": "/episodio/69937/legendado",
+                                "title": "Shiguang Dailiren II",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42359_background.jpg?v=1689460993"
+                            },
+                            {
+                                "url": "/episodio/69936/legendado",
+                                "title": "Sugar Apple Fairy Tale Part 2",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42611_background.jpg?v=1688764264"
+                            },
+                            {
+                                "url": "/episodio/69935/legendado",
+                                "title": "Filme Sword Art Online: Full Dive",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42777_background.jpg?v=1694199063"
+                            },
+                            {
                                 "url": "/episodio/69934/legendado",
                                 "title": "Ling Qi",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11484_background.jpg?v=1694139079"
@@ -163,51 +208,6 @@
                             },
                             {
                                 "url": "/episodio/69920/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69919/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69918/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69917/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69916/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69915/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69914/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69913/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69912/legendado",
-                                "title": "Souten Kouro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
-                            },
-                            {
-                                "url": "/episodio/69911/legendado",
                                 "title": "Souten Kouro",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4898_background.jpg?v=1694129197"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
