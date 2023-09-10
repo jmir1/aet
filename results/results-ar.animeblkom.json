@@ -32,6 +32,11 @@
                                 "thumbnail_url": "https://animeblkom.net/uploads/69833/135099l.jpg"
                             },
                             {
+                                "url": "/movie/jujutsu-kaisen-0-movie",
+                                "title": "Jujutsu Kaisen 0 Movie",
+                                "thumbnail_url": "https://animeblkom.net/uploads/65464/jujutsu-kaisen-0-movie-poster-4028.jpg"
+                            },
+                            {
                                 "url": "/anime/steinsgate",
                                 "title": "Steins;Gate",
                                 "thumbnail_url": "https://animeblkom.net/uploads/61514/Steins-Gate-poster-24.jpg"
@@ -45,11 +50,6 @@
                                 "url": "/ona/shiguang-dailiren-ii",
                                 "title": "Shiguang Dailiren II",
                                 "thumbnail_url": "https://animeblkom.net/uploads/72463/129975l.jpg"
-                            },
-                            {
-                                "url": "/movie/jujutsu-kaisen-0-movie",
-                                "title": "Jujutsu Kaisen 0 Movie",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65464/jujutsu-kaisen-0-movie-poster-4028.jpg"
                             },
                             {
                                 "url": "/anime/bleach",
@@ -201,36 +201,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1694369265&token=Xl6huunOtaUr3sKXdqmx-A",
-                        "quality": "Blkbom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1694369265&token=Xl6huunOtaUr3sKXdqmx-A",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1694369265&token=6TJCWlumv5vH4Z30FbEzBw",
-                        "quality": "Blkbom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1694369265&token=6TJCWlumv5vH4Z30FbEzBw",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1694369265&token=XX9jsPWdyBA9YIQ7-0XCrw",
-                        "quality": "Blkbom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1694369265&token=XX9jsPWdyBA9YIQ7-0XCrw",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

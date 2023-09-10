@@ -122,14 +122,14 @@
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2019/06/79C1S70I2nR4o0WpVETIezT3jyG-185x278.jpg"
                             },
                             {
-                                "url": "/online/konosuba/",
-                                "title": "Kono Subarashii Sekai ni Shukufuku wo!",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2019/06/j6cNoX01q7G7COuyW0giqDo5sWY-185x278.jpg"
-                            },
-                            {
                                 "url": "/pelicula/shuudengo-capsule-hotel-de-joushi-ni-binetsu-tsutawaru-yoru-1/",
                                 "title": "Shuudengo Capsule Hotel de Joushi ni Binetsu Tsutawaru Yoru",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2020/10/shuudengo-capsule-hotel-de-joushi-ni-binetsu-tsutawaru-yoru-185x278.jpg"
+                            },
+                            {
+                                "url": "/online/konosuba/",
+                                "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2019/06/j6cNoX01q7G7COuyW0giqDo5sWY-185x278.jpg"
                             },
                             {
                                 "url": "/online/prison-school-2/",
@@ -509,8 +509,41 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/03059/3guybgrhvpox_h/index-v1-a1.m3u8?t=ClfZKTPRlasGkF83ZKWCwAgnAPw9DTKoEkE3k5ej3L8&s=1694348132&e=43200&f=15295989&srv=01&asn=8075&sp=2000",
+                        "quality": "SUB Filemoon - 720p",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/03059/3guybgrhvpox_h/index-v1-a1.m3u8?t=ClfZKTPRlasGkF83ZKWCwAgnAPw9DTKoEkE3k5ej3L8&s=1694348132&e=43200&f=15295989&srv=01&asn=8075&sp=2000",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://filemoon.top/e/3guybgrhvpox/_AnimeOnlineNinja__Shingeki_Final_29",
+                            "Origin": "https://filemoon.top"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=kz8M7MmzPWHOAzj&expires=1694418136&ip=FROsDHcnDS9X&token=BL4QrbvwZgPu",
+                        "quality": "SUB StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=kz8M7MmzPWHOAzj&expires=1694418136&ip=FROsDHcnDS9X&token=BL4QrbvwZgPu"
+                    },
+                    {
+                        "url": "https://s4.wolfstream.tv/hls2/01/02010/1dy0ltlxvl5b_h/master.m3u8?t=3Ov3QPMfv0BfMB5zHnrcHbM4KgcXAblAewjU2rfz3PA&s=1694348136&e=43200&f=10051444&i=0.0&sp=0",
+                        "quality": "SUB WolfStream",
+                        "videoUrl": "https://s4.wolfstream.tv/hls2/01/02010/1dy0ltlxvl5b_h/master.m3u8?t=3Ov3QPMfv0BfMB5zHnrcHbM4KgcXAblAewjU2rfz3PA&s=1694348136&e=43200&f=10051444&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://ww3.animeonline.ninja"
+                        }
+                    },
+                    {
+                        "url": "https://m160.uqload.io/3rfku3kaxjw2q4drdkppjkfqdmn2ldfbwbbaarfsm2kvcmbhojqfpspeaxnq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m160.uqload.io/3rfku3kaxjw2q4drdkppjkfqdmn2ldfbwbbaarfsm2kvcmbhojqfpspeaxnq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
