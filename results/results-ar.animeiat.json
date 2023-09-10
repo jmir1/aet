@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hataraku-maou-sama-2nd-season-sequel",
+                                "title": "Hataraku Maou-sama!! 2nd Season (Sequel)",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/QjsZpYePmEADmF9y1694347203.jpg"
+                            },
+                            {
                                 "url": "/anime/masamune-kun-no-revenge-r",
                                 "title": "Masamune-kun no Revenge R",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/SMOCTVNa4JmWJZMa1693999836.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/anime/sugar-apple-fairy-tale-part-2",
                                 "title": "Sugar Apple Fairy Tale Part 2",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/Y9IsA6ybkF12Akxj1692971589.jpg"
-                            },
-                            {
-                                "url": "/anime/eiyuu-kyoushitsu",
-                                "title": "Eiyuu Kyoushitsu",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/J8juEWiCnEmDCOE71688981764.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,57 +364,25 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/masamune-kun-no-revenge-r",
-                    "title": "Masamune-kun no Revenge R",
-                    "author": "Silver Link.",
-                    "description": "الموسم الثاني من أنمي Masamune-kun no Revenge",
-                    "genre": "شونين, حريم, مدرسي, كوميديا, رومانسي",
+                    "url": "/anime/hataraku-maou-sama-2nd-season-sequel",
+                    "title": "Hataraku Maou-sama!! 2nd Season (Sequel)",
+                    "author": "Studio 3Hz",
+                    "description": "تكملة للموسم الثاني من أنمي Hataraku Maou-sama!",
+                    "genre": "Mythology, Romantic Subtext, Workplace, كوميديا, خيال",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeiat.co/storage/posters/SMOCTVNa4JmWJZMa1693999836.jpg",
+                    "thumbnail_url": "https://api.animeiat.co/storage/posters/QjsZpYePmEADmF9y1694347203.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "episode/masamune-kun-no-revenge-r-episode-10",
-                        "name": "Masamune-kun no Revenge R الحلقة 10 مترجمة",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "episode/masamune-kun-no-revenge-r-episode-9",
-                        "name": "Masamune-kun no Revenge R الحلقة 9 مترجمة",
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B1080p%5D.mp4",
-                        "quality": "1080p FHD",
-                        "videoUrl": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B1080p%5D.mp4"
-                    },
-                    {
-                        "url": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B360p%5D.mp4",
-                        "quality": "360p SD",
-                        "videoUrl": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B360p%5D.mp4"
-                    },
-                    {
-                        "url": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B480p%5D.mp4",
-                        "quality": "480p SD",
-                        "videoUrl": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B480p%5D.mp4"
-                    },
-                    {
-                        "url": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B720p%5D.mp4",
-                        "quality": "720p HD",
-                        "videoUrl": "https://shahidha.net/files/37341/%5BAnimeiat.co%5DMasamune-kun_no_Revenge_R_-_EP10%5B720p%5D.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
+                "passed": false
             }
         }
     }

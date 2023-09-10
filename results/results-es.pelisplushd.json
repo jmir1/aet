@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/agccjf8h58rw",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=uYSbAgEMKsx8T79--3ZZ6lfDhF-qAFiyr7FDNfxF8tw&s=1694347812&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=13.87&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=Em23n7B_Q7kHuNo-V9fCHpwvkjwHOt9JZE2HTAAfXR4&s=1694369234&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=40.77&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694417810&ip=F0AsFxEnDS9X&token=F3fwM2MyiI5k",
+                        "url": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694439232&ip=GxOsEHEnDS9X&token=uUrroL15jvdt",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694417810&ip=F0AsFxEnDS9X&token=F3fwM2MyiI5k"
+                        "videoUrl": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694439232&ip=GxOsEHEnDS9X&token=uUrroL15jvdt"
                     },
                     {
                         "url": "https://voe.sx/e/agccjf8h58rw",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=uYSbAgEMKsx8T79--3ZZ6lfDhF-qAFiyr7FDNfxF8tw&s=1694347812&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=13.87&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=Em23n7B_Q7kHuNo-V9fCHpwvkjwHOt9JZE2HTAAfXR4&s=1694369234&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=40.77&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/sentinelle",
+                                "title": "Sentinelle (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg"
+                            },
                             {
                                 "url": "/pelicula/luca",
                                 "title": "Luca (2021)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/megalodon-2-la-fosa",
                                 "title": "Megalodón 2: La fosa (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/mBgynPDplmo5JTY9VfGqY35OjDu.jpg"
-                            },
-                            {
-                                "url": "/pelicula/miyamoto-musashi-y-los-400-samurais",
-                                "title": "Miyamoto Musashi Y Los 400 Samurais (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gF79tD0UFxBsjFqEc1rpPPFpewW.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/luca",
-                    "title": "Luca (2021)",
-                    "description": "Ambientada en un precioso pueblo costero de la Riviera italiana, narra la historia sobre el paso a la edad adulta de un chico que vive un verano inolvidable lleno de helados, pasta e infinitos paseos en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un secreto muy profundo: él es un monstruo marino de un mundo que yace bajo la superficie del agua.",
-                    "genre": "Fantasía, Aventura, Familia, Animación, Comedia",
+                    "url": "/pelicula/sentinelle",
+                    "title": "Sentinelle (2023)",
+                    "description": "François Sentinelle tiene dos vidas. De día, es el policía más famoso de la isla de Reunión, conocido por sus duros métodos y sus camisas floreadas, que persigue a los delincuentes en su Defender amarillo. Pero el resto del tiempo, Sentinelle también es un carismático cantante.",
+                    "genre": "Aventura, Acción, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/luca",
+                        "url": "/pelicula/sentinelle",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
