@@ -3,12 +3,239 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/spider-man-across-the-spider-verse/",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+                            },
+                            {
+                                "url": "/movies/suzume/",
+                                "title": "Suzume",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg"
+                            },
+                            {
+                                "url": "/movies/black-clover-sword-of-the-wizard-king/",
+                                "title": "Black Clover: Sword of the Wizard King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg"
+                            },
+                            {
+                                "url": "/movies/zom-100-bucket-list-of-the-dead/",
+                                "title": "Zom 100: Bucket List of the Dead",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg"
+                            },
+                            {
+                                "url": "/tvshows/demon-slayer-kimetsu-no-yaiba/",
+                                "title": "Demon Slayer: Kimetsu no Yaiba",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg"
+                            },
+                            {
+                                "url": "/tvshows/chainsaw-man/",
+                                "title": "Chainsaw Man",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
+                            },
+                            {
+                                "url": "/tvshows/jujutsu-kaisen/",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg"
+                            },
+                            {
+                                "url": "/tvshows/the-daily-life-of-the-immortal-king/",
+                                "title": "The Daily Life of the Immortal King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/1aJfOmbM41ZwCG5sB6MN0Y49dY4.jpg"
+                            },
+                            {
+                                "url": "/tvshows/rent-a-girlfriend/",
+                                "title": "Rent-a-Girlfriend",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg"
+                            },
+                            {
+                                "url": "/tvshows/lookism/",
+                                "title": "Lookism",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qkoM63HDuCOSwxGfb0pljrgns9I.jpg"
+                            },
+                            {
+                                "url": "/tvshows/baki-hanma/",
+                                "title": "Baki Hanma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/x145FSI9xJ6UbkxfabUsY2SFbu3.jpg"
+                            },
+                            {
+                                "url": "/tvshows/pokemon/",
+                                "title": "Pokémon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg"
+                            },
+                            {
+                                "url": "/tvshows/masamune-kuns-revenge/",
+                                "title": "Masamune-kun’s Revenge",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/50jjmuwSwMxlXAP1jQ48kr1xrcN.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodes/pokemon-season-25-episode-6/",
+                                "title": "Pokémon: Season 25 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/toRathhtpI8FBfQAvdHwR4MzzZs.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-51/",
+                                "title": "Beyblade: Season 1 Episode 51",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nVGQtcUXOwMddeRBHyRzZKBEy7J.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-50/",
+                                "title": "Beyblade: Season 1 Episode 50",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/AjAIloFtUKny46V4NIki4wffSI.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-49/",
+                                "title": "Beyblade: Season 1 Episode 49",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/AsRtPA6rvGibMPVhgbWLdmxghdp.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-48/",
+                                "title": "Beyblade: Season 1 Episode 48",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cwiKlCvatcnw9tLbvuokG4WimRU.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-47/",
+                                "title": "Beyblade: Season 1 Episode 47",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/kHhCDxOJFq2003iQugAxXpij6ee.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-46/",
+                                "title": "Beyblade: Season 1 Episode 46",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1JqCUXCsCsMGoga9JqMaBseOgI0.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-45/",
+                                "title": "Beyblade: Season 1 Episode 45",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qbesBX9OpwQMcRCrM19jfKOnrsa.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-44/",
+                                "title": "Beyblade: Season 1 Episode 44",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5XnCwYhxSiD13dnskflh19UKCVJ.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-43/",
+                                "title": "Beyblade: Season 1 Episode 43",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7cDezQQ6ilgjc81teceaaHvuJoo.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-42-2/",
+                                "title": "Beyblade: Season 1 Episode 42",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wZ2Oyy4IhEBY2C5cSjxMxOT4Yqg.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-41/",
+                                "title": "Beyblade: Season 1 Episode 41",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uqE1nduMG8lQWOfmJqtPZMQD2YG.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-40/",
+                                "title": "Beyblade: Season 1 Episode 40",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xSZWaKeH5wADbR1elbVPWQF2Dp3.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-39/",
+                                "title": "Beyblade: Season 1 Episode 39",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9LFzqFz1YzKwdVcdNkBuUaWcxJ0.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-38/",
+                                "title": "Beyblade: Season 1 Episode 38",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9KAg1LbhfY5LtbCZuxuuLXGeKFD.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-37/",
+                                "title": "Beyblade: Season 1 Episode 37",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eT2MtTrJ8TxyAa4gfYDhCUKMWB6.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-36/",
+                                "title": "Beyblade: Season 1 Episode 36",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4KqlkLwy3WybF9fKP94ZmaQrvJC.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-35/",
+                                "title": "Beyblade: Season 1 Episode 35",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8fIPb7pkVveJOmqiddPlVc9aYWU.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-34/",
+                                "title": "Beyblade: Season 1 Episode 34",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/nnShE8UcfqyfT8Q78RX95A9ToPn.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-33/",
+                                "title": "Beyblade: Season 1 Episode 33",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/iJYx3TRw5EuMmnngla9jVcoq4jC.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-32/",
+                                "title": "Beyblade: Season 1 Episode 32",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/XKeSVEsHfqGsMJMSebgR1oWzdr.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-31/",
+                                "title": "Beyblade: Season 1 Episode 31",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uDAF3rptlZhFIk3DZykAOgEYW6j.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-30-2/",
+                                "title": "Beyblade: Season 1 Episode 30",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/A1WGdigLffDPmLFwt8S2BkTYD7m.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-29/",
+                                "title": "Beyblade: Season 1 Episode 29",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/i4KunNnbxGqJUN27K3QcH5HXLGd.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-28/",
+                                "title": "Beyblade: Season 1 Episode 28",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/unkLCQcXf7xX5bjYm5iKGbEpwSZ.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-27/",
+                                "title": "Beyblade: Season 1 Episode 27",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hnrOfqr5q684y3JYv2HTy6wSUOW.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-26/",
+                                "title": "Beyblade: Season 1 Episode 26",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/716asjFp4VSanTgpF1qte7NIgZL.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-25/",
+                                "title": "Beyblade: Season 1 Episode 25",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/adRSNy5AFJwPVcyNJIVs3jIJPFT.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-24/",
+                                "title": "Beyblade: Season 1 Episode 24",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/g6lbWmzwVOryI8ovHBTYtQisSRm.jpg"
+                            },
+                            {
+                                "url": "/episodes/beyblade-season-1-episode-23/",
+                                "title": "Beyblade: Season 1 Episode 23",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7odwumBDG54tmISYoY6kfNztUjO.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -112,11 +339,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/kamikatsu-working-for-god-in-a-godless-world/",
-                    "title": "KamiKatsu: Working for God in a Godless World",
-                    "description": "\nOriginal title: 神無き世界のカミサマ活動\nFirst air date: Apr. 06, 2023\nLast air date: Jul. 06, 2023\nSeasons: 1\nEpisodes: 12",
-                    "genre": "Animation, Comedy, Crunchyroll, Hindi Dub, Mystery, Sci-Fi & Fantasy, Series",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/d82CH1EMSoC2VvYSTxCZHPboJYq.jpg",
+                    "url": "/movies/spider-man-across-the-spider-verse/",
+                    "title": "Spider-Man: Across the Spider-Verse",
+                    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n\nOriginal title: Spider-Man: Across the Spider-Verse",
+                    "genre": "Action, Adventure, Animation, Hindi Dub, Movie, Science Fiction",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -124,16 +351,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x12/",
-                        "name": "Season 1 x 12 - We know we are not worthy O great Lord Mitama On the throne—",
-                        "date_upload": 1688601600000,
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x11/",
-                        "name": "Season 1 x 11 - We know we are not worthy O great Lord Mitama In the ancient tim—",
-                        "date_upload": 1687996800000,
-                        "episode_number": 11.0
+                        "url": "/movies/spider-man-across-the-spider-verse/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -141,37 +361,79 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls25-eu.zcdn.stream/6c590687fd5da50d3388cb0e4e6f461c/2023-08-08/720.m3u8?token=f3acab0aa74ff23e9cb4b3dc0afa0f50&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694311636&type=edge&node=tNUoz5dJPfs7OTHqj7WtQF0fadKd_Hahi_0P0Ja6FC17Arwe7bVrp_kpowj_HL3FxOJ5P1VZoefpJoD__4XkWM-j9SUJzAL4wZd5gm-FE9Wqyhh75DNLg_YOYQJyisn6",
+                        "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/720.m3u8?token=ab733e641d08d26a2f7fb1bd7b1d1e73&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694334663&type=edge&node=V8ve5vP58npDbSOxIqqHenALGNkG27wu9qBWGhABIerK2KHJCpNzuYwYW1L0zOJUrAcRP53afp8ISsanSBJTUvlLj3jGJuFo7krAX9bH4n1mnVqxuSQa249M86XaOxHn",
                         "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls25-eu.zcdn.stream/6c590687fd5da50d3388cb0e4e6f461c/2023-08-08/720.m3u8?token=f3acab0aa74ff23e9cb4b3dc0afa0f50&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694311636&type=edge&node=tNUoz5dJPfs7OTHqj7WtQF0fadKd_Hahi_0P0Ja6FC17Arwe7bVrp_kpowj_HL3FxOJ5P1VZoefpJoD__4XkWM-j9SUJzAL4wZd5gm-FE9Wqyhh75DNLg_YOYQJyisn6",
+                        "videoUrl": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/720.m3u8?token=ab733e641d08d26a2f7fb1bd7b1d1e73&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694334663&type=edge&node=V8ve5vP58npDbSOxIqqHenALGNkG27wu9qBWGhABIerK2KHJCpNzuYwYW1L0zOJUrAcRP53afp8ISsanSBJTUvlLj3jGJuFo7krAX9bH4n1mnVqxuSQa249M86XaOxHn",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://cdn.animesaga.in",
-                            "Referer": "https://cdn.animesaga.in/v/2ewFIFYWHBw2/"
-                        }
+                            "Referer": "https://cdn.animesaga.in/v/3vUAddX9iTHK/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017856.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017857.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017858.srt",
+                                "lang": "English"
+                            }
+                        ]
                     },
                     {
-                        "url": "https://hls25-eu.zcdn.stream/6c590687fd5da50d3388cb0e4e6f461c/2023-08-08/1080.m3u8?token=f3acab0aa74ff23e9cb4b3dc0afa0f50&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694311636&type=edge&node=tNUoz5dJPfs7OTHqj7WtQF0fadKd_Hahi_0P0Ja6FC17Arwe7bVrp_kpowj_HL3FxOJ5P1VZoefpJoD__4XkWM-j9SUJzAL4wZd5gm-FE9Wqyhh75DNLg_YOYQJyisn6",
+                        "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/1080.m3u8?token=ab733e641d08d26a2f7fb1bd7b1d1e73&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694334663&type=edge&node=V8ve5vP58npDbSOxIqqHenALGNkG27wu9qBWGhABIerK2KHJCpNzuYwYW1L0zOJUrAcRP53afp8ISsanSBJTUvlLj3jGJuFo7krAX9bH4n1mnVqxuSQa249M86XaOxHn",
                         "quality": "Chillx - 1080p",
-                        "videoUrl": "https://hls25-eu.zcdn.stream/6c590687fd5da50d3388cb0e4e6f461c/2023-08-08/1080.m3u8?token=f3acab0aa74ff23e9cb4b3dc0afa0f50&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694311636&type=edge&node=tNUoz5dJPfs7OTHqj7WtQF0fadKd_Hahi_0P0Ja6FC17Arwe7bVrp_kpowj_HL3FxOJ5P1VZoefpJoD__4XkWM-j9SUJzAL4wZd5gm-FE9Wqyhh75DNLg_YOYQJyisn6",
+                        "videoUrl": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/1080.m3u8?token=ab733e641d08d26a2f7fb1bd7b1d1e73&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694334663&type=edge&node=V8ve5vP58npDbSOxIqqHenALGNkG27wu9qBWGhABIerK2KHJCpNzuYwYW1L0zOJUrAcRP53afp8ISsanSBJTUvlLj3jGJuFo7krAX9bH4n1mnVqxuSQa249M86XaOxHn",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://cdn.animesaga.in",
-                            "Referer": "https://cdn.animesaga.in/v/2ewFIFYWHBw2/"
-                        }
+                            "Referer": "https://cdn.animesaga.in/v/3vUAddX9iTHK/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017856.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017857.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017858.srt",
+                                "lang": "English"
+                            }
+                        ]
                     },
                     {
-                        "url": "https://hls25-eu.zcdn.stream/6c590687fd5da50d3388cb0e4e6f461c/2023-08-08/360.m3u8?token=f3acab0aa74ff23e9cb4b3dc0afa0f50&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694311636&type=edge&node=tNUoz5dJPfs7OTHqj7WtQF0fadKd_Hahi_0P0Ja6FC17Arwe7bVrp_kpowj_HL3FxOJ5P1VZoefpJoD__4XkWM-j9SUJzAL4wZd5gm-FE9Wqyhh75DNLg_YOYQJyisn6",
+                        "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/360.m3u8?token=ab733e641d08d26a2f7fb1bd7b1d1e73&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694334663&type=edge&node=V8ve5vP58npDbSOxIqqHenALGNkG27wu9qBWGhABIerK2KHJCpNzuYwYW1L0zOJUrAcRP53afp8ISsanSBJTUvlLj3jGJuFo7krAX9bH4n1mnVqxuSQa249M86XaOxHn",
                         "quality": "Chillx - 360p",
-                        "videoUrl": "https://hls25-eu.zcdn.stream/6c590687fd5da50d3388cb0e4e6f461c/2023-08-08/360.m3u8?token=f3acab0aa74ff23e9cb4b3dc0afa0f50&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694311636&type=edge&node=tNUoz5dJPfs7OTHqj7WtQF0fadKd_Hahi_0P0Ja6FC17Arwe7bVrp_kpowj_HL3FxOJ5P1VZoefpJoD__4XkWM-j9SUJzAL4wZd5gm-FE9Wqyhh75DNLg_YOYQJyisn6",
+                        "videoUrl": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/360.m3u8?token=ab733e641d08d26a2f7fb1bd7b1d1e73&client=d41d8cd98f00b204e9800998ecf8427e&expires=1694334663&type=edge&node=V8ve5vP58npDbSOxIqqHenALGNkG27wu9qBWGhABIerK2KHJCpNzuYwYW1L0zOJUrAcRP53afp8ISsanSBJTUvlLj3jGJuFo7krAX9bH4n1mnVqxuSQa249M86XaOxHn",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://cdn.animesaga.in",
-                            "Referer": "https://cdn.animesaga.in/v/2ewFIFYWHBw2/"
-                        }
+                            "Referer": "https://cdn.animesaga.in/v/3vUAddX9iTHK/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017856.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017857.srt",
+                                "lang": "English"
+                            },
+                            {
+                                "url": "https://hls24-eu.zcdn.stream/7a0da1792403704097c5ed216be9980b/2023-08-08/2017858.srt",
+                                "lang": "English"
+                            }
+                        ]
                     }
                 ],
                 "passed": true
