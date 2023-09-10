@@ -92,6 +92,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/69959/legendado",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1_background.jpg?v=1649095900"
+                            },
+                            {
+                                "url": "/episodio/69958/legendado",
+                                "title": "Shadowverse Flame: Seven Shadows-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42703_background.jpg?v=1688784320"
+                            },
+                            {
+                                "url": "/episodio/69957/legendado",
+                                "title": "Shadowverse Flame: Seven Shadows-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42703_background.jpg?v=1688784320"
+                            },
+                            {
+                                "url": "/episodio/69956/legendado",
+                                "title": "Cardfight!! Vanguard: will+Dress Season 3",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42560_background.jpg?v=1688784161"
+                            },
+                            {
+                                "url": "/episodio/69955/legendado",
+                                "title": "Cardfight!! Vanguard: will+Dress Season 3",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42560_background.jpg?v=1688784161"
+                            },
+                            {
+                                "url": "/episodio/69954/legendado",
+                                "title": "Mix: Meisei Story 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42627_background.jpg?v=1680361081"
+                            },
+                            {
+                                "url": "/episodio/69953/legendado",
+                                "title": "Mix: Meisei Story 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42627_background.jpg?v=1680361081"
+                            },
+                            {
                                 "url": "/episodio/69952/legendado",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42714_background.jpg?v=1688237814"
@@ -175,41 +210,6 @@
                                 "url": "/episodio/69938/legendado",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42726_background.jpg?v=1688671216"
-                            },
-                            {
-                                "url": "/episodio/69937/legendado",
-                                "title": "Shiguang Dailiren II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42359_background.jpg?v=1689460993"
-                            },
-                            {
-                                "url": "/episodio/69936/legendado",
-                                "title": "Sugar Apple Fairy Tale Part 2",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42611_background.jpg?v=1688764264"
-                            },
-                            {
-                                "url": "/episodio/69935/legendado",
-                                "title": "Filme Sword Art Online: Full Dive",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42777_background.jpg?v=1694199063"
-                            },
-                            {
-                                "url": "/episodio/69934/legendado",
-                                "title": "Ling Qi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11484_background.jpg?v=1694139079"
-                            },
-                            {
-                                "url": "/episodio/69933/legendado",
-                                "title": "Ling Qi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11484_background.jpg?v=1694139079"
-                            },
-                            {
-                                "url": "/episodio/69932/legendado",
-                                "title": "Ling Qi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11484_background.jpg?v=1694139079"
-                            },
-                            {
-                                "url": "/episodio/69931/legendado",
-                                "title": "Ling Qi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11484_background.jpg?v=1694139079"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
