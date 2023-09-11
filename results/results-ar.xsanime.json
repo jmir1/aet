@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-girl-downstairs-aishang-ta-de-liyou/",
+                                "title": "The Girl Downstairs (Aishang Ta de Liyou)",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/anime/5-toubun-no-hanayome-sp/",
                                 "title": "5-toubun no Hanayome SP",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/5-toubun-no-Hanayome∽-413x559-1.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi/",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Uchi-no-Kaisha-no-Chiisai-Senpai-no-Hanashi.jpg"
-                            },
-                            {
-                                "url": "/anime/ayaka/",
-                                "title": "Ayaka",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/Ayaka.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,36 +374,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/5-toubun-no-hanayome-sp/",
-                    "title": "5-toubun no Hanayome SP",
-                    "description": "قصص من المانجا لم تعرض في المواسم السابقة من الانمي.",
-                    "genre": "حريم, رومانسي, مدرسي, كوميدي",
+                    "url": "/anime/the-girl-downstairs-aishang-ta-de-liyou/",
+                    "title": "The Girl Downstairs (Aishang Ta de Liyou)",
+                    "description": "عندما انتقل لي وون جون إلى شقته الجديدة في أول يوم له في الكلية لم يكن يتوقع أن الايدول السابقة لي دونا تعيش في الطابق السفلي يحاول جون تجنبها في البداية لكنه يجد نفسه فضوليًا أكثر فأكثر بشأنها وبشأن حياتها الغامضة.",
+                    "genre": "قصة مثيرة, رومانسي, مدرسي, دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/5-toubun-no-Hanayome∽-413x559-1.jpg",
+                    "thumbnail_url": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/5-toubun-no-hanayome-sp-الحلقة-1/",
-                        "name": "1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc688.4shared.com/img/rbDZWWbejq/4896101c/dlink__2Fdownload_2FrbDZWWbejq_3Fsbsr_3Dd5b9078bae14a4704ac28b9254ffebd5af1_26bip_3DNDAuNzcuOTMuNDA_26lgfp_3D66_26bip_3DNDAuNzcuOTMuNDA_26bip_3DNDAuNzcuOTMuNDA/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc688.4shared.com/img/rbDZWWbejq/4896101c/dlink__2Fdownload_2FrbDZWWbejq_3Fsbsr_3Dd5b9078bae14a4704ac28b9254ffebd5af1_26bip_3DNDAuNzcuOTMuNDA_26lgfp_3D66_26bip_3DNDAuNzcuOTMuNDA_26bip_3DNDAuNzcuOTMuNDA/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
