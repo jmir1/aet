@@ -37,6 +37,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/277412",
+                                "title": "Eiyuu Kyoushitsu - Dublado ep 7",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277412/1.jpg"
+                            },
+                            {
+                                "url": "/videos/277408",
+                                "title": "NieR:Automata Ver1.1a - Dublado ep 7",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277408/1.jpg"
+                            },
+                            {
+                                "url": "/videos/277404",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu - Dublado ep 7",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277404/1.jpg"
+                            },
+                            {
+                                "url": "/videos/277400",
+                                "title": "Yami Shibai 11 ep 10",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277400/1.jpg"
+                            },
+                            {
+                                "url": "/videos/277397",
+                                "title": "Kamen Rider Gotchard ep 2",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277397/1.jpg"
+                            },
+                            {
                                 "url": "/videos/277393",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu ep 10",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277393/1.jpg"
@@ -170,31 +195,6 @@
                                 "url": "/videos/277322",
                                 "title": "Gamera: Rebirth ep 6 - FINAL",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277322/1.jpg"
-                            },
-                            {
-                                "url": "/videos/277311",
-                                "title": "Gamera: Rebirth ep 1",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277311/1.jpg"
-                            },
-                            {
-                                "url": "/videos/277308",
-                                "title": "AI no Idenshi ep 9",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277308/1.jpg"
-                            },
-                            {
-                                "url": "/videos/277304",
-                                "title": "Dekiru Neko wa Kyou mo Yuuutsu ep 10",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277304/1.jpg"
-                            },
-                            {
-                                "url": "/videos/277300",
-                                "title": "Kanojo, Okarishimasu 3rd Season ep 9",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277300/1.jpg"
-                            },
-                            {
-                                "url": "/videos/277296",
-                                "title": "Pokemon (2023) ep 21",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/277296/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -348,44 +348,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/263139",
-                        "name": "Naruto Shippuden ep 500 - FINAL",
-                        "date_upload": 1490259240000,
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/videos/249788",
-                        "name": "Naruto Shippuden ep 499",
-                        "date_upload": 1525478400000,
-                        "episode_number": 499.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
