@@ -9,7 +9,7 @@
                             {
                                 "url": "/anime/the-girl-downstairs-aishang-ta-de-liyou/",
                                 "title": "The Girl Downstairs (Aishang Ta de Liyou)",
-                                "thumbnail_url": ""
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/aishang-ta-de-liyou-0440b46a40.jpg"
                             },
                             {
                                 "url": "/anime/5-toubun-no-hanayome-sp/",
@@ -380,18 +380,35 @@
                     "genre": "قصة مثيرة, رومانسي, مدرسي, دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/aishang-ta-de-liyou-0440b46a40.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-girl-downstairs-aishang-ta-de-liyou-الحلقة-4/",
+                        "name": "4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/the-girl-downstairs-aishang-ta-de-liyou-الحلقة-3/",
+                        "name": "3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc559.4shared.com/img/G10tF4H_ge/ecabfe1e/dlink__2Fdownload_2FG10tF4H_5Fge_3Fsbsr_3D8613cefdfe6bd85a5aaee657fb92d531af1_26bip_3DMjAuNTcuNzUuMjA4_26lgfp_3D66_26bip_3DMjAuNTcuNzUuMjA4_26bip_3DMjAuNTcuNzUuMjA4/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc559.4shared.com/img/G10tF4H_ge/ecabfe1e/dlink__2Fdownload_2FG10tF4H_5Fge_3Fsbsr_3D8613cefdfe6bd85a5aaee657fb92d531af1_26bip_3DMjAuNTcuNzUuMjA4_26lgfp_3D66_26bip_3DMjAuNTcuNzUuMjA4_26bip_3DMjAuNTcuNzUuMjA4/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/agccjf8h58rw",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=Zz6nBQv1-pqMBAjJvEsYrNrlJ5Dx8KTSjCQAGK0dGdA&s=1694478457&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=6CIwQOymR2IlAjtxfkQs-nhjf7svG9P8Gtu6Mxv89NM&s=1694498929&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=13.88&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694548455&ip=FROsD0ETKxSHDN&token=Xmw5DjKGsqYS",
+                        "url": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694568927&ip=F0AsFxgnDS9X&token=skOLC5HRRLoi",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694548455&ip=FROsD0ETKxSHDN&token=Xmw5DjKGsqYS"
+                        "videoUrl": "https://streamtape.com/get_video?id=vLPGOg9GkGC43jr&expires=1694568927&ip=F0AsFxgnDS9X&token=skOLC5HRRLoi"
                     },
                     {
                         "url": "https://voe.sx/e/agccjf8h58rw",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=Zz6nBQv1-pqMBAjJvEsYrNrlJ5Dx8KTSjCQAGK0dGdA&s=1694478457&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-evsoaawruxp0d7hl.voe-network.net/engine/hls2/01/09506/agccjf8h58rw_,n,.urlset/master.m3u8?t=6CIwQOymR2IlAjtxfkQs-nhjf7svG9P8Gtu6Mxv89NM&s=1694498929&e=14400&f=47533813&node=delivery-node-evsoaawruxp0d7hl.voe-network.net&i=13.88&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/barbie",
+                                "title": "Barbie (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg"
+                            },
                             {
                                 "url": "/pelicula/disquiet",
                                 "title": "Disquiet (2023)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/argo",
                                 "title": "Argo (2012)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/j1sBm1fZUhlFW5Qe0238H1LjDwA.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-cabana",
-                                "title": "La cabaña (2017)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/d7qG9sdCTo3uBeWXpxKehplvr8B.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/disquiet",
-                    "title": "Disquiet (2023)",
-                    "description": "Después de un accidente automovilístico casi fatal, Sam (Meyers) se despierta y descubre que está atrapado en un hospital abandonado por fuerzas misteriosas y siniestras que no tienen intención de dejarlo ir.",
-                    "genre": "Suspense, Terror, Misterio",
+                    "url": "/pelicula/barbie",
+                    "title": "Barbie (2023)",
+                    "description": "Barbie lleva una vida ideal en Barbielandia, allí todo es perfecto, con chupifiestas llenas de música y color, y todos los días son el mejor día. Claro que Barbie se hace algunas preguntas, cuestiones bastante incómodas que no encajan con el mundo idílico en el que ella y las demás Barbies viven. Cuando Barbie se dé cuenta de que es capaz de apoyar los talones en el suelo, y tener los pies planos, decidirá calzarse unos zapatos sin tacones y viajar hasta el mundo real.",
+                    "genre": "Fantasía, Aventura, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/disquiet",
+                        "url": "/pelicula/barbie",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

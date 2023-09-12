@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/قطة-وهمية/",
+                                "title": "قطة وهمية Imaginary Cat"
+                            },
+                            {
                                 "url": "/حكاية-خرافية/",
                                 "title": "حكاية خرافية Exclusive Fairytale"
                             },
@@ -55,10 +59,6 @@
                                 "title": "حبيبتي الملاكمة My Lovely Boxer"
                             },
                             {
-                                "url": "/خلف-لمستك/",
-                                "title": "خلف لمستك Behind Your Touch"
-                            },
-                            {
                                 "url": "/فتاة-القناع/",
                                 "title": "فتاة القناع Mask Girl"
                             },
@@ -69,6 +69,10 @@
                             {
                                 "url": "/متدربة-بدم-بارد/",
                                 "title": "متدربة بدم بارد Cold Blooded Intern"
+                            },
+                            {
+                                "url": "/خلف-لمستك/",
+                                "title": "خلف لمستك Behind Your Touch"
                             },
                             {
                                 "url": "/التصويت-القاتل/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/نبض-القلب/",
                                 "title": "نبض القلب Heartbeat"
-                            },
-                            {
-                                "url": "/المشاهير/",
-                                "title": "المشاهير Celebrity"
                             }
                         ],
                         "hasNextPage": true
@@ -256,30 +256,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/حكاية-خرافية/",
-                    "title": "حكاية خرافية Exclusive Fairytale",
-                    "description": "تحكي الدراما قصة “لينغ تشاو” و “شياو تو” صديقان منذ الطفولة ويمتلكان شخصيتين متناقضتين حيثُ يتشاركان كل شيء معًا، في الثانوية يُدرك لينغ تشاو أنه وقع بحب شياو تو ولا يستطيع فعل شيء بدونها. Zhang-Miao-Yi : في دور Xiao Tu Jun : في دور Ling Chao Zhao-Lu : في دور Jiang Juan Juan Hao-Zhu-Yu : في دور Jia Si Wen Xiong-Ao-Bo : في دور Yin Zi Han Cheryn-Lin : في دور Xu Ling Long",
-                    "genre": "الصين, رومانسي, شبابي, عائلي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/09/ezgif-1-9ba1da304b-scaled-1.jpg",
+                    "url": "/قطة-وهمية/",
+                    "title": "قطة وهمية Imaginary Cat",
+                    "description": "إنسان وقطة كلاً منهما لديه جرح عقلي يعيشان معاً و ييشفيا جروحهما من خلال التعايش، “هيون جونج هيون” طالب و يعمل بدوام جزئي في محل كتب، بالرغم من أن لديه الكثير من الأحلام ليحققها في قائمته إلا أنه يواجه العديد من المتاعب بسبب عناده و أفكاره الأنانية، إن الشئ الوحيد الذي يواسيه هو قطته بوك جيل المخلوقة الوحيدة التي يفتح لها قلبه لذا فهو يعمل بجد حتي يكسب العيش لأجل قطته بوك جيل. Yoo-Seung-Ho : في دور Hyun Jong Hyun Han-Ye-Ri : في دور Voice of Bok Gil Cho-Hye-Jung : في دور Oh Na Woo Solar : في دور Jung So In Park-Chul-Min : في دور Ma Joo Im Kim-Hyun-Joon : في دور Park Jin Seong",
+                    "genre": "كوريا الجنوبية, خيالي, رومانسي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/09/3zY-viQEXJ3M-5aLspuvVA.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/حكاية-خرافية-الحلقة-07/",
-                        "name": "07 : الحلقة"
-                    },
-                    {
-                        "url": "/حكاية-خرافية-الحلقة-06/",
-                        "name": "06 : الحلقة"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

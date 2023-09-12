@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/69979/legendado",
+                                "title": "Okashi na Tensei",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42718_background.jpg?v=1688419401"
+                            },
+                            {
                                 "url": "/episodio/69946/dublado",
                                 "title": "Level 1 dakedo Unique Skill de Saikyou desu",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42734_background.jpg?v=1688834736"
@@ -203,11 +208,6 @@
                             },
                             {
                                 "url": "/episodio/69968/dublado",
-                                "title": "Gamera: Rebirth",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42778_background.jpg?v=1694313394"
-                            },
-                            {
-                                "url": "/episodio/69967/dublado",
                                 "title": "Gamera: Rebirth",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42778_background.jpg?v=1694313394"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
