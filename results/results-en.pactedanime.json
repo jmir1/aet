@@ -3,74 +3,8 @@
         "name": "pactedanime (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/e3NBGiAifW9Xt8xD5tpARskjccO-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/chainsaw-man/",
-                                "title": "Chainsaw Man",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/yVtx7Xn9UxNJqvG2BkvhCcmed9S-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/the-eminence-in-shadow/",
-                                "title": "The Eminence in Shadow",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/12/7JKYmtLydAwo9ZsEmAknZiO4U8g-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/bluelock/",
-                                "title": "Blue Lock",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/tP16wAT98CLwnQ14iWTMZZwfLBr-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/my-hero-academia/",
-                                "title": "My Hero Academia",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/ivOLM47yJt90P19RH1NvJrAJz9F-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/reincarnated-as-a-sword/",
-                                "title": "Reincarnated as a Sword",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/yZ3VZVc7iyF7KtIjERBGEedVXqA-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/jojos-bizarre-adventure/",
-                                "title": "JoJo’s Bizarre Adventure",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/ogAWwbh3frWtiTyyXrZaVFtqCgp-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach/",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/5iVUUnE2tgBPypACYNobCKHagfV-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/spy-x-family/",
-                                "title": "SPY x FAMILY",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/11/3r4LYFuXrg3G8fepysr4xSLWnQL-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/bocchi-the-rock/",
-                                "title": "Bocchi the Rock!",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/12/opjVYsnc3Z9rknSxkOGkNDcePWf-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/demon-slayer-kimetsu-no-yaiba/",
-                                "title": "Demon Slayer: Kimetsu no Yaiba",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/12/wrCVHdkBlBWdJUZPvnJWcBRuhSY-185x278.jpg"
-                            },
-                            {
-                                "url": "/anime/vinland-saga/",
-                                "title": "Vinland Saga",
-                                "thumbnail_url": "https://pactedanime.com/sukmydck/2022/12/vUHlpA5c1NXkds59reY3HMb4Abs-185x278.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -146,79 +80,25 @@
                 "result": [
                     {
                         "animes": [
-                            {
-                                "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x12/",
-                                "title": "KamiKatsu: Working for God in a Godless World: 1×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8i5WJItBCkrmBHvkZxexmgVhMUJ.jpg"
-                            },
-                            {
-                                "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x11/",
-                                "title": "KamiKatsu: Working for God in a Godless World: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xi87P0EZJRosvMtc8vLFdZkhPqz.jpg"
-                            },
-                            {
-                                "url": "/episodes/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-1x13/",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too: 1×13",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/sAlUqCilYg3hrfbohIKL6Amse3.jpg"
-                            },
-                            {
-                                "url": "/episodes/summoned-to-another-world-for-a-second-time-1x12/",
-                                "title": "Summoned to Another World for a Second Time: 1×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8uwwJaVC8YigVpsw0zKThCkSObv.jpg"
-                            },
-                            {
-                                "url": "/episodes/konosuba-an-explosion-on-this-wonderful-world-1x12/",
-                                "title": "KonoSuba – An Explosion on This Wonderful World!: 1×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5WynK3VbklZKeQhMyMbzYxFnxnC.jpg"
-                            },
-                            {
-                                "url": "/episodes/in-another-world-with-my-smartphone-2x12/",
-                                "title": "In Another World with My Smartphone: 2×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vIR9VRmPENVxP2r09bfa9Q3LR2R.jpg"
-                            },
-                            {
-                                "url": "/episodes/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-1x12/",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too: 1×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/1PuATT6WVnsB3QQb11GOPd4PN7G.jpg"
-                            },
-                            {
-                                "url": "/episodes/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far-1x12/",
-                                "title": "The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far: 1×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xrw781ggu8uCztCtKuwu0EUd3T8.jpg"
-                            },
-                            {
-                                "url": "/episodes/summoned-to-another-world-for-a-second-time-1x11/",
-                                "title": "Summoned to Another World for a Second Time: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lIlFanoBE7Tjl7gAMtFipfQ2B4P.jpg"
-                            },
-                            {
-                                "url": "/episodes/konosuba-an-explosion-on-this-wonderful-world-1x11/",
-                                "title": "KonoSuba – An Explosion on This Wonderful World!: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/7iN2ojeYa2nOXp4eZjCBruD5WzR.jpg"
-                            },
-                            {
-                                "url": "/episodes/kamikatsu-working-for-god-in-a-godless-world-1x10/",
-                                "title": "KamiKatsu: Working for God in a Godless World: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/5AOmt9iY14AiQVYGDP0Vu6TFmEh.jpg"
-                            },
-                            {
-                                "url": "/episodes/in-another-world-with-my-smartphone-2x11/",
-                                "title": "In Another World with My Smartphone: 2×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eri61ZYdt3dOBAiFKLJBkQCZXG1.jpg"
-                            }
                         ],
-                        "hasNextPage": true
+                        "hasNextPage": false
                     }
                 ],
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/oauth/",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
