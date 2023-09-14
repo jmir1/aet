@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/bernard-tapie",
+                                "title": "Bernard Tapie (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jqP43GHOt39b2YOr8yVlU6kuaep.jpg"
+                            },
+                            {
                                 "url": "/serie/the-walking-dead-daryl-dixon",
                                 "title": "The Walking Dead: Daryl Dixon (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/la-isla-del-drama",
                                 "title": "La isla del drama (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/w80XbLlE0slKdFPsZWpZHGI1fl1.jpg"
-                            },
-                            {
-                                "url": "/serie/un-amor-predestinado",
-                                "title": "Un amor predestinado (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zeT47uOYH8IEtImcAuI3FtGYq1l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-walking-dead-daryl-dixon",
-                    "title": "The Walking Dead: Daryl Dixon (2023)",
-                    "description": "Meses después de que lo vimos por última vez en \"The Walking Dead\", Daryl Dixon se ve transportado a través del Atlántico a Francia..",
-                    "genre": "Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/bernard-tapie",
+                    "title": "Bernard Tapie (2023)",
+                    "description": "Un hombre de clase trabajadora implacablemente ambicioso se convierte en una de las figuras públicas más controvertidas de Francia en esta película biográfica ficticia sobre Bernard Tapie..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jqP43GHOt39b2YOr8yVlU6kuaep.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,32 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-walking-dead-daryl-dixon/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/bernard-tapie/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/serie/bernard-tapie/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/ozkf4iuiscey",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-gtupx7xebmvs8fa1.voe-network.net/engine/hls2/01/09527/ozkf4iuiscey_,n,.urlset/master.m3u8?t=ZR2J8a1IQ9b21EVW-U8XsbuReWbRy9V1DdZOqkVoh_k&s=1694651577&e=14400&f=47635087&node=delivery-node-gtupx7xebmvs8fa1.voe-network.net&i=20.57&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=8vDPpa4jzqtlmD&expires=1694721576&ip=FROsE0EnDS9X&token=hWNzeaNFcf0k",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8vDPpa4jzqtlmD&expires=1694721576&ip=FROsE0EnDS9X&token=hWNzeaNFcf0k"
-                    },
-                    {
-                        "url": "https://voe.sx/e/ozkf4iuiscey",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-gtupx7xebmvs8fa1.voe-network.net/engine/hls2/01/09527/ozkf4iuiscey_,n,.urlset/master.m3u8?t=ZR2J8a1IQ9b21EVW-U8XsbuReWbRy9V1DdZOqkVoh_k&s=1694651577&e=14400&f=47635087&node=delivery-node-gtupx7xebmvs8fa1.voe-network.net&i=20.57&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
