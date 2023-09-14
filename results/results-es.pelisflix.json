@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/freestyle/",
+                                "title": "Freestyle",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/zJKgkcWnUkkVEZ9vUcZvjzqcrOvhpkcPUMW4PIhzTrk.webp"
+                            },
+                            {
+                                "url": "/pelicula/la-cita-de-carl/",
+                                "title": "La cita de Carl",
+                                "description": "Carl accede a regañadientes a tener una cita con una amiga a pesar de no tener ni idea de cómo fun...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/TKPfieJNkCJVwY2bC1yYIv.webp"
+                            },
+                            {
+                                "url": "/pelicula/treasure/",
+                                "title": "Treasure",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/24h2xlx4ShjZ6wrXqPlWvDP.webp"
+                            },
+                            {
                                 "url": "/pelicula/padre-pio/",
                                 "title": "Padre Pio",
                                 "description": "",
@@ -227,24 +245,6 @@
                                 "title": "Marlon Wayans Presents: The Headliners",
                                 "description": "Grabado en vivo en el Teatro Belasco en Los Ángeles, este especial de una hora presenta los estilos...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/cG8KpHbsQdl1UnPzz9nzCXnSDTV.webp"
-                            },
-                            {
-                                "url": "/pelicula/nightmare-neighborhood-moms/",
-                                "title": "Nightmare Neighborhood Moms",
-                                "description": "Esta película sigue a Charlotte mientras se familiariza con su vecina competitiva Bonnie. Se crea u...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/QHzesMtb2kNNLbLw2cdNTx1xavYa3sKK0.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-viene-de-noche/",
-                                "title": "El Viene de Noche",
-                                "description": "Una joven que intenta restaurar un molino abandonado en una zona remota pronto descubre que el lugar...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/GBnZBss63HRRlgEiweUGSn9O42qB6UBDmOsN7LK1irItx.webp"
-                            },
-                            {
-                                "url": "/pelicula/elvis-the-pig/",
-                                "title": "Elvis the Pig",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7MSZcihi6PCLwq89Rhp.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/padre-pio/",
-                    "title": "Padre Pio",
+                    "url": "/pelicula/freestyle/",
+                    "title": "Freestyle",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "Acción, Crimen",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/padre-pio/",
+                        "url": "/pelicula/freestyle/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar szytsKJHAi = \"\"; FVxmxWtk.forEach(function Oym(value) { szytsKJHAi += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
