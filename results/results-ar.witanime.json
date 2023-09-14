@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/rurouni-kenshin-meiji-kenkaku-romantan-2023-الحلقة-11/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Rurouni-Kenshin-Meiji-Kenkaku-Romantan-2023-323x470.jpg"
+                            },
+                            {
+                                "url": "/episode/jujutsu-kaisen-2nd-season-الحلقة-8/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/08/Jujutsu-Kaisen-2nd-Season-Arc-2-scaled-323x470.jpg"
+                            },
+                            {
+                                "url": "/episode/bang-dream-its-mygo-الحلقة-13-والأخيرة/",
+                                "title": "BanG Dream! It's MyGO!!!!!",
+                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/BanG-Dream-Its-MyGO-323x470.png"
+                            },
+                            {
                                 "url": "/episode/undead-girl-murder-farce-الحلقة-11/",
                                 "title": "Undead Girl Murder Farce",
                                 "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Undead-Girl-Murder-Farce-323x470.jpg"
@@ -390,21 +405,6 @@
                                 "url": "/episode/the-girl-downstairs-aishang-ta-de-liyou-الحلقة-1/",
                                 "title": "The Girl Downstairs (Aishang Ta de Liyou)",
                                 "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/09/The-Girl-Downstairs-Aishang-Ta-de-Liyou-323x470.png"
-                            },
-                            {
-                                "url": "/episode/sugar-apple-fairy-tale-part-2-الحلقة-10/",
-                                "title": "Sugar Apple Fairy Tale Part 2",
-                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Sugar-Apple-Fairy-Tale-Part-2-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-الحلقة-10/",
-                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Higeki-no-Genkyou-to-Naru-Saikyou-Gedou-Last-Boss-Joou-wa-Tami-no-Tame-ni-Tsukushimasu.-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/link-click-season-2-shiguang-dailiren-ii-الحلقة-10/",
-                                "title": "Link Click Season 2 (Shiguang Dailiren II)",
-                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Link-Click-Season-2-Shiguang-Dailiren-II-323x470.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -516,8 +516,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/digimon-adventure-الحلقة-67-والأخيرة/",
+                        "name": "الحلقة 67",
+                        "episode_number": 67.0
+                    },
+                    {
+                        "url": "/episode/digimon-adventure-الحلقة-66/",
+                        "name": "الحلقة 66",
+                        "episode_number": 66.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

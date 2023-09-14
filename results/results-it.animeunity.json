@@ -263,8 +263,69 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "4825-hi-no-tori-eden-no-sora",
+                                "title": "Hi no Tori: Eden no Sora",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx157957-OFgIr7gD8Yv0.jpg"
+                            },
+                            {
+                                "url": "4824-the-quintessential-quintuplets",
+                                "title": "The Quintessential Quintuplets~",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx163327-xBQznOwq6emq.jpg"
+                            },
+                            {
+                                "url": "4823-blue-exorcist-shimane-illuminati-saga",
+                                "title": "Blue Exorcist: Shimane Illuminati Saga",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx158931-2xjU3i5jKoJe.jpg"
+                            },
+                            {
+                                "url": "4822-bleach-thousand-year-blood-war-the-separation-ita",
+                                "title": "Bleach: Thousand-Year Blood War - The Separation (ITA)",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx159322-Sp1GflRhE6Po.jpg"
+                            },
+                            {
+                                "url": "4821-nana",
+                                "title": "Nana",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx877-rgaDbTMM9R59.png"
+                            },
+                            {
+                                "url": "4820-gamera-rebirth",
+                                "title": "Gamera: Rebirth",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx160831-ZAzJOREityQa.jpg"
+                            },
+                            {
+                                "url": "4819-hibike-euphonium-ensemble-contest-hen",
+                                "title": "Hibike! Euphonium: Ensemble Contest-hen",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx150429-5KvbB5BBt2Yz.jpg"
+                            },
+                            {
+                                "url": "4818-mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi-ita",
+                                "title": "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi (ITA)",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx109819-71ZeBjJuU3da.png"
+                            },
+                            {
+                                "url": "4817-the-morose-mononokean-ii",
+                                "title": "The Morose Mononokean II",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx102949-sWYUrBmfCQKc.jpg"
+                            },
+                            {
+                                "url": "4816-the-morose-mononokean",
+                                "title": "The Morose Mononokean",
+                                "thumbnail_url": "https://img.animeunity.to/anime/bx21643-1zrEKuiV3ASs.png"
+                            },
+                            {
+                                "url": "4815-indian-summer",
+                                "title": "Indian Summer",
+                                "thumbnail_url": "https://img.animeunity.to/anime/3085.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 405",
@@ -301,8 +362,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/165280?type=video&rendition=720p&token=cbWdRUFCu-x6OJ6lZiRUQQ&expires=1699899089&canCast=1&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/165280?type=video&rendition=720p&token=cbWdRUFCu-x6OJ6lZiRUQQ&expires=1699899089&canCast=1&n=1"
+                    },
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/165280?type=video&rendition=480p&token=MwyuAggMFLla9rhtnvuIPg&expires=1699899089&canCast=1&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/165280?type=video&rendition=480p&token=MwyuAggMFLla9rhtnvuIPg&expires=1699899089&canCast=1&n=1"
+                    }
+                ],
+                "passed": true
             }
         }
     }

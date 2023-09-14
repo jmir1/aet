@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/once-upon-a-crime/",
+                                "title": "Once Upon a Crime",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/cool-doji-danshi-bokura-no-koibana/",
                                 "title": "Cool Doji Danshi ~ Bokura no Koibana ~",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/7OE90lDipHUBUwtFQNAFDD87taB.jpg"
-                            },
-                            {
-                                "url": "/be-my-favorite/",
-                                "title": "Be My Favorite (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/once-upon-a-crime/",
+                                "title": "Once Upon a Crime",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg"
+                            },
+                            {
                                 "url": "/hidden-agenda/",
                                 "title": "Hidden Agenda (10/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/cool-doji-danshi-bokura-no-koibana/",
                                 "title": "Cool Doji Danshi ~ Bokura no Koibana ~",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/7OE90lDipHUBUwtFQNAFDD87taB.jpg"
-                            },
-                            {
-                                "url": "/be-my-favorite/",
-                                "title": "Be My Favorite (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/iTcGP0MSqwLcha0qhAiiWV7JGd8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,12 +393,27 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/once-upon-a-crime/",
+                    "title": "Once Upon a Crime",
+                    "description": "Mientras asiste al baile real con Cenicienta, Caperucita Roja se ve inmersa en un gran misterio. ¿Podrá resolver el caso antes de que llegue la medianoche?",
+                    "genre": "Acción, Aventura, Comedia, Drama, Fantasía, Misterio, Psicológico",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/3528282/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

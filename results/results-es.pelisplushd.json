@@ -861,8 +861,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/el-evangelio-de-la-carne/",
+                    "title": "El evangelio de la carne",
+                    "artist": "",
+                    "description": "",
+                    "genre": "Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
