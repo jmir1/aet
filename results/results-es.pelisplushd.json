@@ -291,8 +291,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/jbwjziyhx0do",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/09527/jbwjziyhx0do_,n,.urlset/master.m3u8?t=sJ1X8mDm7MnnodKLkZmOFC3JRwqIb-ykTGn0M3tYcx8&s=1694737748&e=14400&f=47639805&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=20.10&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=XgyvMzRX9BFDJ9O&expires=1694807747&ip=FROsD0AnDS9X&token=gHdvqQKo1_U4",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=XgyvMzRX9BFDJ9O&expires=1694807747&ip=FROsD0AnDS9X&token=gHdvqQKo1_U4"
+                    },
+                    {
+                        "url": "https://voe.sx/e/jbwjziyhx0do",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-y8mchmxkjnjxvph4.voe-network.net/engine/hls2/01/09527/jbwjziyhx0do_,n,.urlset/master.m3u8?t=sJ1X8mDm7MnnodKLkZmOFC3JRwqIb-ykTGn0M3tYcx8&s=1694737748&e=14400&f=47639805&node=delivery-node-y8mchmxkjnjxvph4.voe-network.net&i=20.10&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -595,6 +611,76 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/marisol/",
+                                "title": "Marisol",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/marisol.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tesoros-desconocidos/",
+                                "title": "Tesoros Desconocidos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tesoros-desconocidos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bonnie/",
+                                "title": "Bonnie",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bonnie.jpg"
+                            },
+                            {
+                                "url": "/pelicula/freestyle/",
+                                "title": "Freestyle",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/freestyle.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-cita-de-carl/",
+                                "title": "La cita de Carl",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-cita-de-carl.jpg"
+                            },
+                            {
+                                "url": "/pelicula/piton-de-aguas-profundas/",
+                                "title": "Pitón De Aguas Profundas",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/piton-de-aguas-profundas.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bernie-el-delfin-2/",
+                                "title": "Bernie, el delfín 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bernie-el-delfin-2.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-home-of-our-own/",
+                                "title": "A Home of Our Own",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-home-of-our-own.jpg"
+                            },
+                            {
+                                "url": "/pelicula/esperando-la-carroza/",
+                                "title": "Esperando la carroza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/esperando-la-carroza.jpg"
+                            },
+                            {
+                                "url": "/pelicula/esperando-la-carroza-2-se-acabo-la-fiesta/",
+                                "title": "Esperando la carroza 2: Se acabó la fiesta",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/esperando-la-carroza-2-se-acabo-la-fiesta.jpg"
+                            },
+                            {
+                                "url": "/pelicula/supercan/",
+                                "title": "Supercan",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/supercan.jpg"
+                            },
+                            {
+                                "url": "/pelicula/king-of-killers/",
+                                "title": "King of Killers",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/king-of-killers.jpg"
+                            },
+                            {
+                                "url": "/pelicula/beaten-to-death/",
+                                "title": "Beaten to Death",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/beaten-to-death.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-colegas-del-barrio/",
+                                "title": "Los colegas del Barrio",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-colegas-del-barrio.jpg"
+                            },
+                            {
                                 "url": "/pelicula/el-evangelio-de-la-carne/",
                                 "title": "El evangelio de la carne",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/el-evangelio-de-la-carne.jpg"
@@ -623,76 +709,6 @@
                                 "url": "/pelicula/el-incidente-alienigena-del-pequeno-alan/",
                                 "title": "El incidente alienígena del Pequeño Alan",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/el-incidente-alienigena-del-pequeno-alan.jpg"
-                            },
-                            {
-                                "url": "/pelicula/perpetrator/",
-                                "title": "Perpetrator",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/perpetrator.jpg"
-                            },
-                            {
-                                "url": "/pelicula/love-life-2022/",
-                                "title": "Love Life 2022",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/love-life-2022.jpg"
-                            },
-                            {
-                                "url": "/pelicula/entrega-urgente/",
-                                "title": "Entrega urgente",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/entrega-urgente.jpg"
-                            },
-                            {
-                                "url": "/pelicula/pattie-et-la-colere-de-poseidon/",
-                                "title": "Pattie et la colère de Poséidon",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pattie-et-la-colere-de-poseidon.jpg"
-                            },
-                            {
-                                "url": "/pelicula/underverden-2/",
-                                "title": "Underverden 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/underverden-2.jpg"
-                            },
-                            {
-                                "url": "/pelicula/after-the-reality/",
-                                "title": "After the Reality",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/after-the-reality.jpg"
-                            },
-                            {
-                                "url": "/pelicula/padre-pio/",
-                                "title": "Padre Pio",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/padre-pio.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-vida-es-un-pastel/",
-                                "title": "La vida es un pastel",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-vida-es-un-pastel.jpg"
-                            },
-                            {
-                                "url": "/pelicula/las-cintas-de-rosa-peral/",
-                                "title": "Las cintas de Rosa Peral",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-cintas-de-rosa-peral.jpg"
-                            },
-                            {
-                                "url": "/pelicula/las-travesuras-del-pequeno-nicolas/",
-                                "title": "Las travesuras del pequeño Nicolás",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-travesuras-del-pequeno-nicolas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/amanecer-rojo/",
-                                "title": "Amanecer rojo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/amanecer-rojo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-banco-de-dave/",
-                                "title": "El banco de Dave",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-banco-de-dave.jpg"
-                            },
-                            {
-                                "url": "/pelicula/en-busca-del-mapa-perdido/",
-                                "title": "En busca del mapa perdido",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/en-busca-del-mapa-perdido.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mi-novia-otaku/",
-                                "title": "Mi novia otaku",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mi-novia-otaku.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -862,8 +878,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-evangelio-de-la-carne/",
-                    "title": "El evangelio de la carne",
+                    "url": "/pelicula/marisol/",
+                    "title": "Marisol",
                     "artist": "",
                     "description": "",
                     "genre": "Drama",
@@ -876,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-evangelio-de-la-carne/",
+                        "url": "/pelicula/marisol/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

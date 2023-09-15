@@ -177,6 +177,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/the-beasts-english",
+                                "title": "The Beasts *ENGLISH*",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-beasts-english.jpg"
+                            },
+                            {
+                                "url": "/stream/king-of-new-york",
+                                "title": "King of New York",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/king-of-new-york.jpg"
+                            },
+                            {
+                                "url": "/stream/shutter-sie-sind-unter-uns",
+                                "title": "Shutter - Sie sind unter uns",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/shutter-sie-sind-unter-uns.jpg"
+                            },
+                            {
+                                "url": "/stream/ehrengard-die-geschichte-einer-verfuhrung",
+                                "title": "Ehrengard - Die Geschichte einer Verführung",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ehrengard-die-geschichte-einer-verfuhrung.jpg"
+                            },
+                            {
+                                "url": "/stream/herr-lehmann",
+                                "title": "Herr Lehmann",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/herr-lehmann.jpg"
+                            },
+                            {
+                                "url": "/stream/es-war-einmal-ein-verbrechen",
+                                "title": "Es War Einmal Ein Verbrechen",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/es-war-einmal-ein-verbrechen.jpg"
+                            },
+                            {
                                 "url": "/stream/abserviert",
                                 "title": "AbServiert",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/abserviert.jpg"
@@ -305,36 +335,6 @@
                                 "url": "/stream/das-rad-der-zeit-s02e04",
                                 "title": "Das Rad der Zeit S02E04",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/das-rad-der-zeit-s02e04.jpg"
-                            },
-                            {
-                                "url": "/stream/jekyll-and-hyde",
-                                "title": "Jekyll and Hyde",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/jekyll-and-hyde.jpg"
-                            },
-                            {
-                                "url": "/stream/sitting-in-bars-with-cake",
-                                "title": "Sitting in Bars with Cake",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sitting-in-bars-with-cake.jpg"
-                            },
-                            {
-                                "url": "/stream/dead-presidents",
-                                "title": "Dead Presidents",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/dead-presidents.jpg"
-                            },
-                            {
-                                "url": "/stream/trouble-2019",
-                                "title": "Trouble (2019)",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/trouble-2019.jpg"
-                            },
-                            {
-                                "url": "/stream/sisi-ich",
-                                "title": "Sisi & Ich",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/sisi-ich.jpg"
-                            },
-                            {
-                                "url": "/stream/beim-ersten-mal",
-                                "title": "Beim ersten Mal",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/beim-ersten-mal.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhynqfuq6r3ngfmazq,6nhynqfuq64qxotzc6a,.urlset/master.m3u8",
+                        "quality": "StreamVid",
+                        "videoUrl": "https://t891mn1727483.streamvid.net/hls/n5ajtdd225mne42h4x6qjelcsekhz5l6gvvwgsbbm,fjhynqfuq6r3ngfmazq,6nhynqfuq64qxotzc6a,.urlset/master.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
