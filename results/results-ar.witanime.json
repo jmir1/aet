@@ -167,6 +167,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episode/nanatsu-no-maken-ga-shihai-suru-الحلقة-11/",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Nanatsu-no-Maken-ga-Shihai-suru-323x470.jpg"
+                            },
+                            {
+                                "url": "/episode/the-girl-downstairs-aishang-ta-de-liyou-الحلقة-7/",
+                                "title": "The Girl Downstairs (Aishang Ta de Liyou)",
+                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/09/The-Girl-Downstairs-Aishang-Ta-de-Liyou-323x470.png"
+                            },
+                            {
+                                "url": "/episode/the-girl-downstairs-aishang-ta-de-liyou-الحلقة-6/",
+                                "title": "The Girl Downstairs (Aishang Ta de Liyou)",
+                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/09/The-Girl-Downstairs-Aishang-Ta-de-Liyou-323x470.png"
+                            },
+                            {
                                 "url": "/episode/link-click-season-2-shiguang-dailiren-ii-الحلقة-11/",
                                 "title": "Link Click Season 2 (Shiguang Dailiren II)",
                                 "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Link-Click-Season-2-Shiguang-Dailiren-II-323x470.jpg"
@@ -390,21 +405,6 @@
                                 "url": "/episode/liar-liar-الحلقة-11/",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Liar-Liar-323x470.png"
-                            },
-                            {
-                                "url": "/episode/mix-meisei-story-nidome-no-natsu-sora-no-mukou-e-الحلقة-22/",
-                                "title": "Mix: Meisei Story - Nidome no Natsu, Sora no Mukou e",
-                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/03/Mix-Meisei-Story-Nidome-no-Natsu-Sora-no-Mukou-e-323x470.jpg"
-                            },
-                            {
-                                "url": "/episode/ai-no-idenshi-الحلقة-9/",
-                                "title": "AI no Idenshi",
-                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/AI-no-Idenshi-323x470.png"
-                            },
-                            {
-                                "url": "/episode/kanojo-okarishimasu-3rd-season-الحلقة-9/",
-                                "title": "Kanojo, Okarishimasu 3rd Season",
-                                "thumbnail_url": "https://witanime.fun/wp-content/uploads/2023/07/Kanojo-Okarishimasu-3rd-Season-323x470.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -516,19 +516,8 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/digimon-adventure-الحلقة-67-والأخيرة/",
-                        "name": "الحلقة 67",
-                        "episode_number": 67.0
-                    },
-                    {
-                        "url": "/episode/digimon-adventure-الحلقة-66/",
-                        "name": "الحلقة 66",
-                        "episode_number": 66.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

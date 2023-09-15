@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/assistir-a-freira-2-online/",
+                                "title": "A Freira 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-elementos-online/",
+                                "title": "Elementos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg"
+                            },
+                            {
                                 "url": "/series/assistir-the-walking-dead-daryl-dixon-online/",
                                 "title": "The Walking Dead: Daryl Dixon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
@@ -55,16 +65,6 @@
                                 "url": "/filmes/assistir-sobrenatural-a-porta-vermelha-online/",
                                 "title": "Sobrenatural: A Porta Vermelha",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg"
-                            },
-                            {
-                                "url": "/filmes/assistir-homem-aranha-atraves-do-aranhaverso-online/",
-                                "title": "Homem-Aranha: Através do Aranhaverso",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xxPXsL8V95dTwL5vHWIIQALkJQS.jpg"
-                            },
-                            {
-                                "url": "/filmes/assistir-projeto-extracao-online/",
-                                "title": "Projeto Extração",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/t3vZkkM5G40pUJxUzkz69H777Hm.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -444,11 +444,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/assistir-the-walking-dead-daryl-dixon-online/",
-                    "title": "The Walking Dead: Daryl Dixon",
-                    "description": "Daryl Dixon chega à costa da França e luta para entender como chegou lá e por quê. A série acompanha a sua jornada por uma França quebrada, mas resiliente, enquanto ele tenta encontrar um caminho de volta para casa. As conexões que ele forma no caminho, no entanto, complicam os seus planos.\n",
-                    "genre": "Action & Adventure, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/kdM24KINoAVK9wjCtDJCkdffEpc.jpg",
+                    "url": "/filmes/assistir-a-freira-2-online/",
+                    "title": "A Freira 2",
+                    "description": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons).\n",
+                    "genre": "Mistério, Terror, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -456,23 +456,26 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/assistir-the-walking-dead-daryl-dixon-1x6-online/",
-                        "name": "Temporada 1 x 6 - Episódio 6",
-                        "date_upload": 1697328000000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodios/the-walking-dead-daryl-dixon-1x5/",
-                        "name": "Temporada 1 x 5 - Episódio 5",
-                        "date_upload": 1696723200000,
-                        "episode_number": 5.0
+                        "url": "/filmes/assistir-a-freira-2-online/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/W/s/I/M/WsIMm.aaa.mp4?u=0&b=0",
+                        "quality": "Dublado - 480p",
+                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/W/s/I/M/WsIMm.aaa.mp4?u=0&b=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://painelfxtv.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

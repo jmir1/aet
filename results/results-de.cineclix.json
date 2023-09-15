@@ -27,6 +27,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6lzgetyAEL6rKzeac7r9X7lRVkA.jpg"
                             },
                             {
+                                "url": "/api/v1/titles/11303?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die letzten Glühwürmchen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6LJC2SiqGnAUex0jDp1DbmYx8MT.jpg"
+                            },
+                            {
                                 "url": "/api/v1/titles/9746?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Pulp Fiction",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/hOg9USqmQmglmr5kGvpyg1XkhqN.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/api/v1/titles/3411?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Given - The Movie",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/ygPexnfuIox9QfHxqXSHgGnjeXd.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3337?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Evangelion: 3.0+1.01 Thrice Upon A Time",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eadcE25WY7XlnlhPnE9HuDWeLLj.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -334,7 +334,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

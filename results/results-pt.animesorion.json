@@ -92,6 +92,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70106/legendado",
+                                "title": "Filme Bara no Hana to Joe",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6469_background.jpg?v=1694800144"
+                            },
+                            {
+                                "url": "/episodio/70105/legendado",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42309_background.jpg?v=1649098376"
+                            },
+                            {
+                                "url": "/episodio/70104/legendado",
+                                "title": "Detective Conan",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1498_background.jpg?v=1596926181"
+                            },
+                            {
                                 "url": "/episodio/70103/legendado",
                                 "title": "Spirit of Wonder: Shounen Kagaku Club",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3221_background.jpg?v=1694761007"
@@ -193,21 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70083/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70082/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70081/legendado",
-                                "title": "Mai-HiME Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
-                            },
-                            {
-                                "url": "/episodio/70080/legendado",
                                 "title": "Mai-HiME Specials",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/529_background.jpg?v=1694742088"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
