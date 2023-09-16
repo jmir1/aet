@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6681-el-conde",
+                                "title": "El Conde",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/65d36c21-b8fc-41a5-85d9-739fc8d9b017.webp"
+                            },
+                            {
                                 "url": "6679-castle-rock",
                                 "title": "Castle Rock",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/93dcf469-574c-46cd-88fb-c0c14cf7c839.webp"
@@ -304,11 +309,6 @@
                                 "url": "6617-jack-e-jill",
                                 "title": "Jack e Jill",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2b700291-94cb-4dfd-b396-191e3b08595d.webp"
-                            },
-                            {
-                                "url": "6616-world-trade-center",
-                                "title": "World Trade Center",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/008ba330-d262-4126-af15-9a2c307056b3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -628,21 +628,27 @@
             },
             "details": {
                 "result": {
-                    "url": "6679-castle-rock",
-                    "description": "Serie antologica che connette i filoni narrativi e i personaggi dell'universo letterario di Stephen King.",
-                    "genre": "Dramma, Mistero",
-                    "status": 5,
-                    "status_name": "CANCELLED",
+                    "url": "6681-el-conde",
+                    "description": "Augusto Pinochet è un vampiro pronto a morire, ma prima gli avvoltoi che lo circondano vogliono un ultimo morso. Una satira cupa di Pablo Larraín.",
+                    "genre": "Horror, Commedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n",
-                "passed": false
+                "result": [
+                    {
+                        "url": "6681",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

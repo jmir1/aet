@@ -177,11 +177,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
-                                "url": "/series/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
-                            },
-                            {
                                 "url": "/movies/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
@@ -190,6 +185,11 @@
                                 "url": "/movies/the-world-to-come",
                                 "title": "The World to Come",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -252,14 +252,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
                             },
                             {
-                                "url": "/series/brave-new-world",
-                                "title": "Brave New World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
-                            },
-                            {
                                 "url": "/movies/guerra-mundial-z",
                                 "title": "Guerra mundial Z",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg"
+                            },
+                            {
+                                "url": "/series/brave-new-world",
+                                "title": "Brave New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/69DF7EOkSejBSk3IP4v6OxdSeFg.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -292,8 +292,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=yMD0k6QJ4WT1z9L&expires=1694894090&ip=GHOsDHEnDS9X&token=RP_Z1cmtF5iV",
+                        "quality": "Latino StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=yMD0k6QJ4WT1z9L&expires=1694894090&ip=GHOsDHEnDS9X&token=RP_Z1cmtF5iV"
+                    },
+                    {
+                        "url": "https://voe.sx/e/oqbmt8oul1m2",
+                        "quality": "Latino Voex",
+                        "videoUrl": "https://delivery-node-bblg4zqntferbrxf.voe-network.net/engine/hls2-c/01/09537/oqbmt8oul1m2_,n,.urlset/master.m3u8?t=8l1EUjxie988REnQZcsFy9w2q3-3oXcyWqc13ZkwD-I&s=1694824088&e=14400&f=47686108&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=70.37&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }
