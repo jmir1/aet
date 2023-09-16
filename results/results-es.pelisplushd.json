@@ -293,9 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=aDLpAZG2KCV_ndHjyN024aiSjJCoHGPYA_E_6BhPsWI&s=1694866199&e=43200&f=23152319&srv=37&asn=8075&sp=2000",
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=dZUrizrrcpDod9A69zIvVZDU7ZCY-oI9WtuelZ59ppc&s=1694887641&e=43200&f=23152319&srv=37&asn=10310&sp=2000",
                         "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=aDLpAZG2KCV_ndHjyN024aiSjJCoHGPYA_E_6BhPsWI&s=1694866199&e=43200&f=23152319&srv=37&asn=8075&sp=2000",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=dZUrizrrcpDod9A69zIvVZDU7ZCY-oI9WtuelZ59ppc&s=1694887641&e=43200&f=23152319&srv=37&asn=10310&sp=2000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://filemoon.sx/e/uucbuimmwkz4",
@@ -303,9 +303,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694936203&ip=GxOsEHEnDS9X&token=1AtPhSeKehdI",
+                        "url": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694957644&ip=F0qQKRWQE19XKxR&token=nj8zBM-N9oB0",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694936203&ip=GxOsEHEnDS9X&token=1AtPhSeKehdI"
+                        "videoUrl": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694957644&ip=F0qQKRWQE19XKxR&token=nj8zBM-N9oB0"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/ninja-turtles-caos-mutante",
+                                "title": "Ninja Turtles: Caos mutante (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg"
+                            },
                             {
                                 "url": "/pelicula/el-alien-y-yo",
                                 "title": "El alien y yo (2016)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/loacas-en-apuro",
                                 "title": "Loacas En Apuro (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/oRcAeRi1SqlGC2uI1r1ckq9Sx1B.jpg"
-                            },
-                            {
-                                "url": "/pelicula/no-tengas-miedo",
-                                "title": "No tengas miedo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-alien-y-yo",
-                    "title": "El alien y yo (2016)",
-                    "description": "Lauro, Rita y Agus tienen una banda de punk poco exitosa, por lo cual deciden “renovar” su sonido y aceptan a “El Alien”, un talentoso tecladista que tiene síndrome de down. Gracias al “toque” del Alien, Don Gramófono se vuelve su manager y los lleva a la cima de la escena musical con un nuevo género. Sin embargo, Lauro se encela del Alien, pues se roba la atención del público con su gran talento.",
-                    "genre": "Romance, Comedia, Música",
+                    "url": "/pelicula/ninja-turtles-caos-mutante",
+                    "title": "Ninja Turtles: Caos mutante (2023)",
+                    "description": "Después de pasar años apartados del mundo humano, los hermanos Tortuga se proponen ganarse el corazón de los habitantes de Nueva York y que les acepten como quinceañeros normales, llevando a cabo actos heroicos. Su nueva amiga April O'Neil les ayuda a enfrentarse a un misterioso sindicato del crimen, pero pronto se ven superados ante el ataque de un ejército de mutantes que se abalanza sobre ellos.",
+                    "genre": "Acción, Animación, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-alien-y-yo",
+                        "url": "/pelicula/ninja-turtles-caos-mutante",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

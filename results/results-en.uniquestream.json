@@ -11,6 +11,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/am-i-actually-the-strongest-season-1-episode-1/",
+                                "title": "Am I Actually the Strongest?: Season 1 Episode 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/6eOEBIKkG4Axp8rRraQDOODafHq.jpg"
+                            },
+                            {
                                 "url": "/episodes/my-tiny-senpai-season-1-episode-9/",
                                 "title": "My Tiny Senpai: Season 1 Episode 9",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/8MJ1NkhC4SjwDHGJcttL3wat9PX.jpg"
@@ -154,11 +159,6 @@
                                 "url": "/episodes/liar-liar-season-1-episode-3/",
                                 "title": "Liar, Liar: Season 1 Episode 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/uFDNlDb18i6kEZ0YQfwOuJPuscx.jpg"
-                            },
-                            {
-                                "url": "/episodes/liar-liar-season-1-episode-2/",
-                                "title": "Liar, Liar: Season 1 Episode 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/jxoGMiPSZUoEo5dHU1c0y8Gvlzp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -328,46 +328,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/my-tiny-senpai-2023/",
-                    "title": "My Tiny Senpai 2023",
-                    "description": "When Shinozaki started his new job, he didn’t expect his superior to be so…cute!? He struggled to learn the ropes until Katase, his tiny and kind senpai, took him under her wing. But as they grow closer, he hopes her attention might mean something more.\n\nOriginal title: うちの会社の小さい先輩の話\nFirst air date: Jul. 02, 2023\nLast air date: Sep. 10, 2023\nSeasons: 1\nEpisodes: 12",
-                    "genre": "Animation, Anime, Comedy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/7zSPXGCvXjkVCR7797UbRDPfV2B.jpg",
+                    "url": "/tvshows/am-i-actually-the-strongest-2023/",
+                    "title": "Am I Actually the Strongest? 2023",
+                    "description": "After being a shut-in, Haruto is reincarnated as a baby. And amazingly, that baby is a prince! However, he’s abandoned in a forest on the day he’s born because of his low magic level… What will be the fate of Haruto, who was inadvertently given 1000 times the normal amount of magic by the goddess of reincarnation without anyone noticing?!\n\nOriginal title: 実は俺、最強でした？\nFirst air date: Jul. 02, 2023\nLast air date: Sep. 10, 2023\nSeasons: 1\nEpisodes: 12",
+                    "genre": "Action & Adventure, Animation, Anime, Comedy, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/og42meOPOiq37wUSfQV0lqb1U0Q.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/my-tiny-senpai-season-1-episode-9/",
-                        "name": "Season 1 x 9 - He Wants to Talk Privately…",
-                        "date_upload": 1694304000000,
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/episodes/my-tiny-senpai-season-1-episode-8/",
-                        "name": "Season 1 x 8 - Isn’t It Time for Good Boys to Go to Sleep?",
-                        "date_upload": 1693699200000,
-                        "episode_number": 8.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hls.uniquestream.net/media/db/shared/ea57219fc8e08b1cd220517e8f5bbd38.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://hls.uniquestream.net/media/db/shared/ea57219fc8e08b1cd220517e8f5bbd38.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Referer": "https://hls.uniquestream.net/media/db/master/ea57219fc8e08b1cd220517e8f5bbd38.m3u8"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

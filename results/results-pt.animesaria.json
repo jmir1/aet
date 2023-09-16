@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/13731/koukyoushihen_eureka_seven_new_order",
+                                "title": "Koukyoushihen Eureka Seven: New Order",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/7619.jpg?v=1694886595"
+                            },
+                            {
                                 "url": "/anime/17409/suki_tte_ii_na_yo_mei_and_marshmallow",
                                 "title": "Suki tte Ii na yo. Mei and Marshmallow",
                                 "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/8093.jpg?v=1694846921"
@@ -90,11 +95,6 @@
                                 "url": "/anime/2420/spirit_of_wonder_shounen_kagaku_club",
                                 "title": "Spirit of Wonder: Shounen Kagaku Club",
                                 "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/3221.jpg?v=1694761009"
-                            },
-                            {
-                                "url": "/anime/6245/spirit_of_wonder_china_san_tanpenshuu",
-                                "title": "Spirit of Wonder: China-san Tanpenshuu",
-                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/5359.jpg?v=1694760534"
                             }
                         ],
                         "hasNextPage": true
@@ -106,6 +106,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/13731/koukyoushihen_eureka_seven_new_order",
+                                "title": "Koukyoushihen Eureka Seven: New Order Episódio 1",
+                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/7619_background.jpg?v=1694886594"
+                            },
                             {
                                 "url": "/anime/17409/suki_tte_ii_na_yo_mei_and_marshmallow",
                                 "title": "Suki tte Ii na yo. Mei and Marshmallow Episódio 10",
@@ -190,11 +195,6 @@
                                 "url": "/anime/9630/mini_sengoku_basara_ni_tsukiyo_no_katakura_kun",
                                 "title": "Mini Sengoku Basara Ni: Tsukiyo no Katakura-kun Episódio 1",
                                 "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/6621_background.jpg?v=1694846333"
-                            },
-                            {
-                                "url": "/anime/7857/mini_sengoku_basara_chousokabe_kun_to_mouri_kun",
-                                "title": "Mini Sengoku Basara: Chousokabe-kun to Mouri-kun Episódio 7",
-                                "thumbnail_url": "https://cdn.animesaria.com/images/anime/low/j/5977_background.jpg?v=1694844920"
                             }
                         ],
                         "hasNextPage": true
@@ -304,33 +304,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/17409/suki_tte_ii_na_yo_mei_and_marshmallow",
-                    "title": "Suki tte Ii na yo. Mei and Marshmallow",
-                    "description": "Especiais lançados com o anime BD/DVD.\n\nTítulos Alternativos: Sukitte Ii na yo. Specials, Suki-tte Ii na yo. Specials, Sukinayo Specials, Say , 好きっていいなよ。\nTipo: Especial\nAno: 2012\nMídias: 10\n",
-                    "genre": "Escolar, Romance, Shoujo, Outono de 2012",
+                    "url": "/anime/13731/koukyoushihen_eureka_seven_new_order",
+                    "title": "Koukyoushihen Eureka Seven: New Order",
+                    "description": "Um episódio de resumo especial que mostra imagens dos eventos que ocorreram a partir dos episódios 48 em diante, com áudio gravado anteriormente. O conceito para este especial foi um possível final real para a equipe de Eureka Seven. Em março de 2012, o Studio BONES decidiu colocar as filmagens existentes da série de TV em áudio novo e anteriormente unaired e transmiti-las pela primeira vez na televisão. O áudio do episódio 51 implica que Eureka deve fazer uma jornada para espalhar sete pedaços de sua alma pela terra para acalmá-la. No final, Eureka e Renton devem se separar, mas Renton promete que eles se encontrarão novamente algum dia, não importa o quê. O episódio 51 não tem absolutamente nenhuma relação com a sequela de Eureka Seven \"Eureka Seven AO\", pois esse foi um final real que não foi usado na série original da TV. Eureka Seven AO continua dos eventos que aconteceram no episódio 50: Wish Upon a Star. (Fonte: Wikipedia)\n\nTítulos Alternativos: Eureka Seven Episode 51, 交響詩篇エウレカセブン第51話「ニュー・オーダー」\nTipo: Especial\nAno: 2012\n",
+                    "genre": "Aventura, Drama, Ficção Científica, Mecha, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/8093.jpg?v=1694846921",
+                    "thumbnail_url": "https://cdn.animesaria.com/images/anime/medium/j/7619.jpg?v=1694886595",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/anime/17409/suki_tte_ii_na_yo_mei_and_marshmallow/episodio/10/legendado",
-                        "name": "Episódio 10",
-                        "episode_number": 10.0,
-                        "scanlator": "legendado"
-                    },
-                    {
-                        "url": "/anime/17409/suki_tte_ii_na_yo_mei_and_marshmallow/episodio/9/legendado",
-                        "name": "Episódio 9",
-                        "episode_number": 9.0,
-                        "scanlator": "legendado"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
