@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/hannah-montana",
+                                "title": "Hannah Montana (20062011)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/usJAQAA7s9lJGGOGehIZdzKPCke.jpg"
+                            },
+                            {
                                 "url": "/serie/the-gold",
                                 "title": "The Gold (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/d5XBWAtuaO1xASyktYFA71GGMdJ.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/king-the-land",
                                 "title": "King the Land (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/x1osLoAJ5NrethvokbqvnqTarxu.jpg"
-                            },
-                            {
-                                "url": "/serie/quien-es-erin-carter",
-                                "title": "¿Quién es Erin Carter? (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/hEFK8QEZ07sxTVUvwXASk3ZQoEZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-gold",
-                    "title": "The Gold (2023)",
-                    "description": ".",
-                    "genre": "Crimen, Drama",
+                    "url": "/serie/hannah-montana",
+                    "title": "Hannah Montana (20062011)",
+                    "description": "Aunque parece una adolescente común y corriente para todos, Miley Stewart tiene una doble vida al transformarse secretamente en una famosa cantante de música pop, y solamente su familia y algunos amigos cercanos conocen su identidad secreta..",
+                    "genre": "Comedia, Kids",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/d5XBWAtuaO1xASyktYFA71GGMdJ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-gold/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/hannah-montana/temporada/4/capitulo/13",
+                        "name": "T4 - E13: Episodio 13",
+                        "episode_number": 99.0
                     },
                     {
-                        "url": "/serie/the-gold/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/hannah-montana/temporada/4/capitulo/12",
+                        "name": "T4 - E12: Episodio 12",
+                        "episode_number": 98.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04629/shusq8fhg0un_h/index-v1-a1.m3u8?t=zGkqZ7fT6oj8Znpuq_9Vf7aBD4_RDmyGSyg7LqEhYFI&s=1694844459&e=43200&f=23145358&srv=01&asn=8075&sp=2000",
-                        "quality": "Filemoon - 640p",
-                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04629/shusq8fhg0un_h/index-v1-a1.m3u8?t=zGkqZ7fT6oj8Znpuq_9Vf7aBD4_RDmyGSyg7LqEhYFI&s=1694844459&e=43200&f=23145358&srv=01&asn=8075&sp=2000",
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=aDLpAZG2KCV_ndHjyN024aiSjJCoHGPYA_E_6BhPsWI&s=1694866199&e=43200&f=23152319&srv=37&asn=8075&sp=2000",
+                        "quality": "Filemoon - 720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=aDLpAZG2KCV_ndHjyN024aiSjJCoHGPYA_E_6BhPsWI&s=1694866199&e=43200&f=23152319&srv=37&asn=8075&sp=2000",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://filemoon.sx/e/shusq8fhg0un",
+                            "Referer": "https://filemoon.sx/e/uucbuimmwkz4",
                             "Origin": "https://filemoon.sx"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=90vGDaoeXViOo3&expires=1694914463&ip=GxOsEHEnDS9X&token=NRutAG3Ddp-d",
+                        "url": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694936203&ip=GxOsEHEnDS9X&token=1AtPhSeKehdI",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=90vGDaoeXViOo3&expires=1694914463&ip=GxOsEHEnDS9X&token=NRutAG3Ddp-d"
+                        "videoUrl": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694936203&ip=GxOsEHEnDS9X&token=1AtPhSeKehdI"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,51 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-alien-y-yo",
+                                "title": "El alien y yo (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jNLetImXPLSb2Qr4tX7x2bkDPrM.jpg"
+                            },
+                            {
+                                "url": "/pelicula/te-juro-que-yo-no-fui",
+                                "title": "Te juro que yo no fui (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vnUzAymfRq5yriq8mVzXuQtkpuu.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-ultimo-testigo",
+                                "title": "El último testigo (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jyqGyAAzjN8PvpQLtHvBDR7FOzi.jpg"
+                            },
+                            {
+                                "url": "/pelicula/guadalupe-reyes",
+                                "title": "Guadalupe Reyes (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yTzUT341y6ZxN8Ftu76WJ0R4iGY.jpg"
+                            },
+                            {
+                                "url": "/pelicula/spirit-riding-free-spirit-of-christmas",
+                                "title": "Spirit Riding Free: Spirit of Christmas (2019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/lLPex9m7NqSl67I2na2qZEMgja0.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lego-dc-comics-super-heroes-la-liga-de-la-justicia-el-ataque-de-la-legion-del-mal",
+                                "title": "LEGO DC Comics Super Heroes: La Liga de la Justicia - El ataque de la Legión del Mal (2015)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5Jlh0BLfRHaeMSXBIYV9s3599H1.jpg"
+                            },
+                            {
+                                "url": "/pelicula/che-el-argentino",
+                                "title": "Che: El argentino (2008)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hbchW8F1Cy0qv1w8uOkcZwZCfXr.jpg"
+                            },
+                            {
+                                "url": "/pelicula/un-nino-grande",
+                                "title": "Un niño grande (2002)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6AQlj4fIeZoDO74xhBKsEVPUa8m.jpg"
+                            },
+                            {
+                                "url": "/pelicula/reina-de-elefantes",
+                                "title": "Reina de elefantes (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/Kn64w1zz5zHy5N7ILkeDo84s1a.jpg"
+                            },
                             {
                                 "url": "/pelicula/et-el-extraterrestre",
                                 "title": "E.T. el extraterrestre (1982)",
@@ -393,51 +438,6 @@
                                 "url": "/pelicula/no-tengas-miedo",
                                 "title": "No tengas miedo (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/o0ndJZaa9ZFFfpnl1IejajXv0II.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-evangelio-de-la-carne",
-                                "title": "El evangelio de la carne (2013)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ofqtScikFHRbgnW4aWesxm3aTSx.jpg"
-                            },
-                            {
-                                "url": "/pelicula/transito",
-                                "title": "Tránsito (2005)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mvNAb4PSoRAyN0RkRnT1y0qVwue.jpg"
-                            },
-                            {
-                                "url": "/pelicula/evangelion-10-you-are-not-alone",
-                                "title": "Evangelion: 1.0 You Are (Not) Alone (2007)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wGYmvSZIj2ragDNSWhyunOXu2Oc.jpg"
-                            },
-                            {
-                                "url": "/pelicula/evangelion-20-you-can-not-advance",
-                                "title": "Evangelion: 2.0 You Can (Not) Advance (2009)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/h3dJAkDtcGAKCxFmMy9zHVzZaVo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/evangelion-30-you-can-not-redo",
-                                "title": "Evangelion: 3.0 You Can (Not) Redo (2012)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oU8hDly4mgFYhpg2gZdJQ7D5CoI.jpg"
-                            },
-                            {
-                                "url": "/pelicula/neon-genesis-evangelion-death-rebirth",
-                                "title": "Neon Genesis Evangelion: Death Rebirth (1997)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/oIoTr89Q5JvKs8dwa2cGwbSlNAs.jpg"
-                            },
-                            {
-                                "url": "/pelicula/neon-genesis-evangelion-the-end-of-evangelion",
-                                "title": "Neon Genesis Evangelion: The End of Evangelion (1997)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sailor-moon-supers-el-milagro-del-agujero-negro-de-los-suenos",
-                                "title": "Sailor Moon SuperS: El Milagro del Agujero Negro de los Sueños (1995)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/l4581wcyijDobLrPUjr6SR6DILh.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sailor-moon-s-el-amor-de-la-princesa-kaguya",
-                                "title": "Sailor Moon S: El amor de la princesa Kaguya (1994)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uhVhhdIaRzLY3btUeBsBQU51S97.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/et-el-extraterrestre",
-                    "title": "E.T. el extraterrestre (1982)",
-                    "description": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
-                    "genre": "Fantasía, Aventura, Familia, Ciencia ficción",
+                    "url": "/pelicula/el-alien-y-yo",
+                    "title": "El alien y yo (2016)",
+                    "description": "Lauro, Rita y Agus tienen una banda de punk poco exitosa, por lo cual deciden “renovar” su sonido y aceptan a “El Alien”, un talentoso tecladista que tiene síndrome de down. Gracias al “toque” del Alien, Don Gramófono se vuelve su manager y los lleva a la cima de la escena musical con un nuevo género. Sin embargo, Lauro se encela del Alien, pues se roba la atención del público con su gran talento.",
+                    "genre": "Romance, Comedia, Música",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/et-el-extraterrestre",
+                        "url": "/pelicula/el-alien-y-yo",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -607,8 +607,114 @@
         "name": "PelisPlusPh (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/loco-por-mary/",
+                                "title": "Loco por Mary",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/loco-por-mary.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hvor-kragerne-vender/",
+                                "title": "Hvor kragerne vender",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hvor-kragerne-vender.jpg"
+                            },
+                            {
+                                "url": "/pelicula/once-upon-a-crime/",
+                                "title": "Once Upon a Crime",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/once-upon-a-crime.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-disappearance-of-cari-farver/",
+                                "title": "The Disappearance of Cari Farver",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-disappearance-of-cari-farver.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mundo-canino/",
+                                "title": "Mundo Canino",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mundo-canino.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ehrengard-forforelsens-kunst/",
+                                "title": "Ehrengard: Forførelsens kunst",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ehrengard-forforelsens-kunst.jpg"
+                            },
+                            {
+                                "url": "/pelicula/marisol/",
+                                "title": "Marisol",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/marisol.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tesoros-desconocidos/",
+                                "title": "Tesoros Desconocidos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tesoros-desconocidos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bonnie/",
+                                "title": "Bonnie",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bonnie.jpg"
+                            },
+                            {
+                                "url": "/pelicula/freestyle/",
+                                "title": "Freestyle",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/freestyle.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-cita-de-carl/",
+                                "title": "La cita de Carl",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-cita-de-carl.jpg"
+                            },
+                            {
+                                "url": "/pelicula/piton-de-aguas-profundas/",
+                                "title": "Pitón De Aguas Profundas",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/piton-de-aguas-profundas.jpg"
+                            },
+                            {
+                                "url": "/pelicula/bernie-el-delfin-2/",
+                                "title": "Bernie, el delfín 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bernie-el-delfin-2.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-home-of-our-own/",
+                                "title": "A Home of Our Own",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-home-of-our-own.jpg"
+                            },
+                            {
+                                "url": "/pelicula/esperando-la-carroza/",
+                                "title": "Esperando la carroza",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/esperando-la-carroza.jpg"
+                            },
+                            {
+                                "url": "/pelicula/esperando-la-carroza-2-se-acabo-la-fiesta/",
+                                "title": "Esperando la carroza 2: Se acabó la fiesta",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/esperando-la-carroza-2-se-acabo-la-fiesta.jpg"
+                            },
+                            {
+                                "url": "/pelicula/supercan/",
+                                "title": "Supercan",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/supercan.jpg"
+                            },
+                            {
+                                "url": "/pelicula/king-of-killers/",
+                                "title": "King of Killers",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/king-of-killers.jpg"
+                            },
+                            {
+                                "url": "/pelicula/beaten-to-death/",
+                                "title": "Beaten to Death",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/beaten-to-death.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-colegas-del-barrio/",
+                                "title": "Los colegas del Barrio",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-colegas-del-barrio.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -772,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/all-the-world-is-sleeping/",
-                    "title": "All the World Is Sleeping",
+                    "url": "/pelicula/loco-por-mary/",
+                    "title": "Loco por Mary",
                     "artist": "",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "Comedia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -786,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/all-the-world-is-sleeping/",
+                        "url": "/pelicula/loco-por-mary/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
