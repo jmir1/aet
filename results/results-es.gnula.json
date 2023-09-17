@@ -177,9 +177,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
-                                "url": "/series/world-on-fire",
-                                "title": "World on Fire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
+                                "url": "/movies/the-world-to-come",
+                                "title": "The World to Come",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/movies/mundo-fantasma",
@@ -187,9 +187,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
                             },
                             {
-                                "url": "/movies/the-world-to-come",
-                                "title": "The World to Come",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                                "url": "/series/world-on-fire",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/M4MlY4UTxcIG6iyKyj4htGAwOC.jpg"
                             },
                             {
                                 "url": "/series/the-prince-of-tennis-ii-u-17-world-cup",
@@ -212,9 +212,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/series/jurassic-world-campamento-cretacico",
-                                "title": "Jurassic World: Campamento Cretácico",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
+                                "title": "Fireball: Visitantes de mundos oscuros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
                             },
                             {
                                 "url": "/series/w-dos-mundos",
@@ -222,9 +222,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
                             },
                             {
-                                "url": "/movies/fireball-visitantes-de-mundos-oscuros",
-                                "title": "Fireball: Visitantes de mundos oscuros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
+                                "url": "/series/jurassic-world-campamento-cretacico",
+                                "title": "Jurassic World: Campamento Cretácico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             },
                             {
                                 "url": "/movies/el-portal-del-mas-alla",
@@ -268,18 +268,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/movies/love-at-first-sight",
-                    "title": "La posibilidad estadística del amor a primera vista",
-                    "artist": "Haley Lu Richardson",
-                    "description": "Hadley y Oliver comienzan a enamorarse en un vuelo de Nueva York a Londres, pero cuando se pierden en la aduana, ¿podrán desafiar todas las probabilidades para reunirse?",
-                    "genre": "Romance, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/jrVNYtEUU9TCsteJGIQ3MSjHjLi.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -294,14 +284,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=XBY08QLRmzHDkDb&expires=1695022627&ip=F0OSKRqOKxSHDN&token=FogcJ11tu9J0",
+                        "url": "https://streamtape.com/get_video?id=XBY08QLRmzHDkDb&expires=1695044130&ip=F0AsFxgnDS9X&token=dY5q8sZX00lN",
                         "quality": "Latino StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XBY08QLRmzHDkDb&expires=1695022627&ip=F0OSKRqOKxSHDN&token=FogcJ11tu9J0"
+                        "videoUrl": "https://streamtape.com/get_video?id=XBY08QLRmzHDkDb&expires=1695044130&ip=F0AsFxgnDS9X&token=dY5q8sZX00lN"
                     },
                     {
                         "url": "https://voe.sx/e/ka86zeukwgfo",
                         "quality": "Latino Voex",
-                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09541/ka86zeukwgfo_,n,.urlset/master.m3u8?t=NSbX-Dd3wOti7ivVwvA3K_QLu1a7HHLdLgPvtOGql28&s=1694952626&e=14400&f=47708398&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=104.45&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-byj23geaimndiqrt.voe-network.net/engine/hls2-c/01/09541/ka86zeukwgfo_,n,.urlset/master.m3u8?t=6ImBCWQV5zn-mb8GrVSSuTRcb9UN_w2xcsQaN8tJ8eU&s=1694974128&e=14400&f=47708398&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=13.88&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
