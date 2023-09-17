@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/bad-behaviour",
+                                "title": "Bad Behaviour (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/oWHMZ8aluWP7yxV1bRelgGznwqJ.jpg"
+                            },
+                            {
                                 "url": "/serie/hannah-montana",
                                 "title": "Hannah Montana (20062011)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/usJAQAA7s9lJGGOGehIZdzKPCke.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/3hz",
                                 "title": "3Hz (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg"
-                            },
-                            {
-                                "url": "/serie/king-the-land",
-                                "title": "King the Land (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/x1osLoAJ5NrethvokbqvnqTarxu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/hannah-montana",
-                    "title": "Hannah Montana (20062011)",
-                    "description": "Aunque parece una adolescente común y corriente para todos, Miley Stewart tiene una doble vida al transformarse secretamente en una famosa cantante de música pop, y solamente su familia y algunos amigos cercanos conocen su identidad secreta..",
-                    "genre": "Comedia, Kids",
+                    "url": "/serie/bad-behaviour",
+                    "title": "Bad Behaviour (2023)",
+                    "description": ".",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/usJAQAA7s9lJGGOGehIZdzKPCke.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oWHMZ8aluWP7yxV1bRelgGznwqJ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/hannah-montana/temporada/4/capitulo/13",
-                        "name": "T4 - E13: Episodio 13",
-                        "episode_number": 99.0
+                        "url": "/serie/bad-behaviour/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/hannah-montana/temporada/4/capitulo/12",
-                        "name": "T4 - E12: Episodio 12",
-                        "episode_number": 98.0
+                        "url": "/serie/bad-behaviour/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=dZUrizrrcpDod9A69zIvVZDU7ZCY-oI9WtuelZ59ppc&s=1694887641&e=43200&f=23152319&srv=37&asn=10310&sp=2000",
-                        "quality": "Filemoon - 720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04630/uucbuimmwkz4_h/index-v1-a1.m3u8?t=dZUrizrrcpDod9A69zIvVZDU7ZCY-oI9WtuelZ59ppc&s=1694887641&e=43200&f=23152319&srv=37&asn=10310&sp=2000",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://filemoon.sx/e/uucbuimmwkz4",
-                            "Origin": "https://filemoon.sx"
-                        }
+                        "url": "https://voe.sx/e/9h9ezitwk2pq",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-bfpibfrrprmpeojr.voe-network.net/engine/hls2-c/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=w7bj3ccaex7GvpLpTRQvrkpxmldd8nNkqqPbsrYfvNs&s=1694910665&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=20.171&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694957644&ip=F0qQKRWQE19XKxR&token=nj8zBM-N9oB0",
+                        "url": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1694980663&ip=FROsD0ESKxSHDN&token=2fHjcVgD4uy0",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=RqMyGoVqJvS9kX&expires=1694957644&ip=F0qQKRWQE19XKxR&token=nj8zBM-N9oB0"
+                        "videoUrl": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1694980663&ip=FROsD0ESKxSHDN&token=2fHjcVgD4uy0"
+                    },
+                    {
+                        "url": "https://voe.sx/e/9h9ezitwk2pq",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-bfpibfrrprmpeojr.voe-network.net/engine/hls2-c/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=w7bj3ccaex7GvpLpTRQvrkpxmldd8nNkqqPbsrYfvNs&s=1694910665&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=20.171&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -611,6 +611,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-justiciero-capitulo-final/",
+                                "title": "El Justiciero: Capítulo final",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-justiciero-capitulo-final.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-cid-la-leyenda/",
+                                "title": "El Cid, La leyenda",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-cid-la-leyenda.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-venganza-de-jack/",
+                                "title": "La venganza de Jack",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-venganza-de-jack.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-espia/",
+                                "title": "La espía",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-espia.jpg"
+                            },
+                            {
+                                "url": "/pelicula/feed-me/",
+                                "title": "Feed Me",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/feed-me.jpg"
+                            },
+                            {
+                                "url": "/pelicula/caceria-en-venecia/",
+                                "title": "Cacería en Venecia",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/caceria-en-venecia.jpg"
+                            },
+                            {
                                 "url": "/pelicula/loco-por-mary/",
                                 "title": "Loco por Mary",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/loco-por-mary.jpg"
@@ -679,36 +709,6 @@
                                 "url": "/pelicula/a-home-of-our-own/",
                                 "title": "A Home of Our Own",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/a-home-of-our-own.jpg"
-                            },
-                            {
-                                "url": "/pelicula/esperando-la-carroza/",
-                                "title": "Esperando la carroza",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/esperando-la-carroza.jpg"
-                            },
-                            {
-                                "url": "/pelicula/esperando-la-carroza-2-se-acabo-la-fiesta/",
-                                "title": "Esperando la carroza 2: Se acabó la fiesta",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/esperando-la-carroza-2-se-acabo-la-fiesta.jpg"
-                            },
-                            {
-                                "url": "/pelicula/supercan/",
-                                "title": "Supercan",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/supercan.jpg"
-                            },
-                            {
-                                "url": "/pelicula/king-of-killers/",
-                                "title": "King of Killers",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/king-of-killers.jpg"
-                            },
-                            {
-                                "url": "/pelicula/beaten-to-death/",
-                                "title": "Beaten to Death",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/beaten-to-death.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-colegas-del-barrio/",
-                                "title": "Los colegas del Barrio",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-colegas-del-barrio.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +878,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/loco-por-mary/",
-                    "title": "Loco por Mary",
+                    "url": "/pelicula/el-justiciero-capitulo-final/",
+                    "title": "El Justiciero: Capítulo final",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Romance",
+                    "genre": "Crimen",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +892,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/loco-por-mary/",
+                        "url": "/pelicula/el-justiciero-capitulo-final/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

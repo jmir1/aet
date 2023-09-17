@@ -499,68 +499,932 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a78719689ce01fd438bbb29065205330e9cb4f9dcbdf9fd03991bfd65cb4fbcf68d764034ebfbda03036a568175a304ca09f4f3a514da44f7b107dac85f4f646ead50d715a097f3b1bddcc376e28ad114213f7ffe1946054400a831301bf50928466af1381f7320b838c13b333e9de68d5191af/1080/index.m3u8",
+                        "url": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a787196335db8a187cb6cb56cb427d448f2b9457dd21d53c04806da195962c79d69985a07e6e39097471b21d808b8d40d39e16d39f69a4d6517e3bc9a6a7ad22b2f26a51048fa8b79588a7b066af4c60d6ffe9868c052a76094280b543904bf432b1246a13a50d3c73a01f4d530f1a6bfde84bb/1080/index.m3u8",
                         "quality": "Vidcloud - 1080p",
-                        "videoUrl": "https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a78719689ce01fd438bbb29065205330e9cb4f9dcbdf9fd03991bfd65cb4fbcf68d764034ebfbda03036a568175a304ca09f4f3a514da44f7b107dac85f4f646ead50d715a097f3b1bddcc376e28ad114213f7ffe1946054400a831301bf50928466af1381f7320b838c13b333e9de68d5191af/1080/index.m3u8",
+                        "videoUrl": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a787196335db8a187cb6cb56cb427d448f2b9457dd21d53c04806da195962c79d69985a07e6e39097471b21d808b8d40d39e16d39f69a4d6517e3bc9a6a7ad22b2f26a51048fa8b79588a7b066af4c60d6ffe9868c052a76094280b543904bf432b1246a13a50d3c73a01f4d530f1a6bfde84bb/1080/index.m3u8",
                         "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-3.vtt",
+                                "lang": "English - English (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-4.vtt",
+                                "lang": "English - English (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-2.vtt",
+                                "lang": "English - English"
+                            },
                             {
                                 "url": "https://cc.2cdns.com/0d/2e/0d2edbf7c9a3b1c300f16a27d16f5fbd/0d2edbf7c9a3b1c300f16a27d16f5fbd.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ukr-32.vtt",
+                                "lang": "Ukrainian - Ukrainian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tur-31.vtt",
+                                "lang": "Turkish - Turkish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tha-30.vtt",
+                                "lang": "Thai - Thai"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/swe-29.vtt",
+                                "lang": "Swedish - Swedish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-6.vtt",
+                                "lang": "Spanish - Spanish (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-5.vtt",
+                                "lang": "Spanish - Spanish (forced)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/rum-28.vtt",
+                                "lang": "Romanian - Romanian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-27.vtt",
+                                "lang": "Portuguese - Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-39.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-26.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/pol-25.vtt",
+                                "lang": "Polish - Polish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/nob-23.vtt",
+                                "lang": "Norwegian Bokmål - Norwegian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/may-22.vtt",
+                                "lang": "Malay - Malay"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/kor-21.vtt",
+                                "lang": "Korean - Korean"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/jpn-20.vtt",
+                                "lang": "Japanese - Japanese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-38.vtt",
+                                "lang": "Italian - Italian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-19.vtt",
+                                "lang": "Italian - Italian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ind-18.vtt",
+                                "lang": "Indonesian - Indonesian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-37.vtt",
+                                "lang": "Hungarian - Hungarian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-17.vtt",
+                                "lang": "Hungarian - Hungarian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/heb-15.vtt",
+                                "lang": "Hebrew - Hebrew"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/gre-11.vtt",
+                                "lang": "Greek - Greek"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ger-10.vtt",
+                                "lang": "German - German"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-36.vtt",
+                                "lang": "French - French (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-14.vtt",
+                                "lang": "French - French"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fin-12.vtt",
+                                "lang": "Finnish - Finnish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dut-24.vtt",
+                                "lang": "Dutch - Dutch"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dan-9.vtt",
+                                "lang": "Danish - Danish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/cze-8.vtt",
+                                "lang": "Czech - Czech"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hrv-16.vtt",
+                                "lang": "Croatian - Croatian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-34.vtt",
+                                "lang": "Chinese - Traditional Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-35.vtt",
+                                "lang": "Chinese - Simplified Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ara-7.vtt",
+                                "lang": "Arabic - Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://xis.fifteennet.com/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6a9ab41a2cdf64dd25906872075efe2a740be57b32643a1ef8fe15fa4c9a02657/1080/index.m3u8",
+                        "url": "https://rouf.magnewscontent.org/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6c339dccc7ac1806728906f63ab0d326d3c41b90d99ba6e7e1f3b4e9501a6d168/1080/index.m3u8",
                         "quality": "UpCloud - 1080p",
-                        "videoUrl": "https://xis.fifteennet.com/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6a9ab41a2cdf64dd25906872075efe2a740be57b32643a1ef8fe15fa4c9a02657/1080/index.m3u8",
+                        "videoUrl": "https://rouf.magnewscontent.org/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6c339dccc7ac1806728906f63ab0d326d3c41b90d99ba6e7e1f3b4e9501a6d168/1080/index.m3u8",
                         "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-3.vtt",
+                                "lang": "English - English (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-4.vtt",
+                                "lang": "English - English (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-2.vtt",
+                                "lang": "English - English"
+                            },
                             {
                                 "url": "https://cc.2cdns.com/0d/2e/0d2edbf7c9a3b1c300f16a27d16f5fbd/0d2edbf7c9a3b1c300f16a27d16f5fbd.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ukr-32.vtt",
+                                "lang": "Ukrainian - Ukrainian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tur-31.vtt",
+                                "lang": "Turkish - Turkish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tha-30.vtt",
+                                "lang": "Thai - Thai"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/swe-29.vtt",
+                                "lang": "Swedish - Swedish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-6.vtt",
+                                "lang": "Spanish - Spanish (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-5.vtt",
+                                "lang": "Spanish - Spanish (forced)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/rum-28.vtt",
+                                "lang": "Romanian - Romanian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-27.vtt",
+                                "lang": "Portuguese - Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-39.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-26.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/pol-25.vtt",
+                                "lang": "Polish - Polish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/nob-23.vtt",
+                                "lang": "Norwegian Bokmål - Norwegian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/may-22.vtt",
+                                "lang": "Malay - Malay"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/kor-21.vtt",
+                                "lang": "Korean - Korean"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/jpn-20.vtt",
+                                "lang": "Japanese - Japanese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-38.vtt",
+                                "lang": "Italian - Italian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-19.vtt",
+                                "lang": "Italian - Italian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ind-18.vtt",
+                                "lang": "Indonesian - Indonesian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-37.vtt",
+                                "lang": "Hungarian - Hungarian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-17.vtt",
+                                "lang": "Hungarian - Hungarian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/heb-15.vtt",
+                                "lang": "Hebrew - Hebrew"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/gre-11.vtt",
+                                "lang": "Greek - Greek"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ger-10.vtt",
+                                "lang": "German - German"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-36.vtt",
+                                "lang": "French - French (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-14.vtt",
+                                "lang": "French - French"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fin-12.vtt",
+                                "lang": "Finnish - Finnish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dut-24.vtt",
+                                "lang": "Dutch - Dutch"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dan-9.vtt",
+                                "lang": "Danish - Danish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/cze-8.vtt",
+                                "lang": "Czech - Czech"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hrv-16.vtt",
+                                "lang": "Croatian - Croatian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-34.vtt",
+                                "lang": "Chinese - Traditional Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-35.vtt",
+                                "lang": "Chinese - Simplified Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ara-7.vtt",
+                                "lang": "Arabic - Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a78719689ce01fd438bbb29065205330e9cb4f9dcbdf9fd03991bfd65cb4fbcf68d764034ebfbda03036a568175a304ca09f4f3a514da44f7b107dac85f4f646ead50d715a097f3b1bddcc376e28ad114213f7ffe1946054400a831301bf50928466af1381f7320b838c13b333e9de68d5191af/360/index.m3u8",
+                        "url": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a787196335db8a187cb6cb56cb427d448f2b9457dd21d53c04806da195962c79d69985a07e6e39097471b21d808b8d40d39e16d39f69a4d6517e3bc9a6a7ad22b2f26a51048fa8b79588a7b066af4c60d6ffe9868c052a76094280b543904bf432b1246a13a50d3c73a01f4d530f1a6bfde84bb/360/index.m3u8",
                         "quality": "Vidcloud - 360p",
-                        "videoUrl": "https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a78719689ce01fd438bbb29065205330e9cb4f9dcbdf9fd03991bfd65cb4fbcf68d764034ebfbda03036a568175a304ca09f4f3a514da44f7b107dac85f4f646ead50d715a097f3b1bddcc376e28ad114213f7ffe1946054400a831301bf50928466af1381f7320b838c13b333e9de68d5191af/360/index.m3u8",
+                        "videoUrl": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a787196335db8a187cb6cb56cb427d448f2b9457dd21d53c04806da195962c79d69985a07e6e39097471b21d808b8d40d39e16d39f69a4d6517e3bc9a6a7ad22b2f26a51048fa8b79588a7b066af4c60d6ffe9868c052a76094280b543904bf432b1246a13a50d3c73a01f4d530f1a6bfde84bb/360/index.m3u8",
                         "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-3.vtt",
+                                "lang": "English - English (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-4.vtt",
+                                "lang": "English - English (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-2.vtt",
+                                "lang": "English - English"
+                            },
                             {
                                 "url": "https://cc.2cdns.com/0d/2e/0d2edbf7c9a3b1c300f16a27d16f5fbd/0d2edbf7c9a3b1c300f16a27d16f5fbd.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ukr-32.vtt",
+                                "lang": "Ukrainian - Ukrainian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tur-31.vtt",
+                                "lang": "Turkish - Turkish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tha-30.vtt",
+                                "lang": "Thai - Thai"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/swe-29.vtt",
+                                "lang": "Swedish - Swedish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-6.vtt",
+                                "lang": "Spanish - Spanish (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-5.vtt",
+                                "lang": "Spanish - Spanish (forced)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/rum-28.vtt",
+                                "lang": "Romanian - Romanian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-27.vtt",
+                                "lang": "Portuguese - Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-39.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-26.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/pol-25.vtt",
+                                "lang": "Polish - Polish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/nob-23.vtt",
+                                "lang": "Norwegian Bokmål - Norwegian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/may-22.vtt",
+                                "lang": "Malay - Malay"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/kor-21.vtt",
+                                "lang": "Korean - Korean"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/jpn-20.vtt",
+                                "lang": "Japanese - Japanese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-38.vtt",
+                                "lang": "Italian - Italian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-19.vtt",
+                                "lang": "Italian - Italian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ind-18.vtt",
+                                "lang": "Indonesian - Indonesian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-37.vtt",
+                                "lang": "Hungarian - Hungarian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-17.vtt",
+                                "lang": "Hungarian - Hungarian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/heb-15.vtt",
+                                "lang": "Hebrew - Hebrew"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/gre-11.vtt",
+                                "lang": "Greek - Greek"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ger-10.vtt",
+                                "lang": "German - German"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-36.vtt",
+                                "lang": "French - French (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-14.vtt",
+                                "lang": "French - French"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fin-12.vtt",
+                                "lang": "Finnish - Finnish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dut-24.vtt",
+                                "lang": "Dutch - Dutch"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dan-9.vtt",
+                                "lang": "Danish - Danish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/cze-8.vtt",
+                                "lang": "Czech - Czech"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hrv-16.vtt",
+                                "lang": "Croatian - Croatian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-34.vtt",
+                                "lang": "Chinese - Traditional Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-35.vtt",
+                                "lang": "Chinese - Simplified Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ara-7.vtt",
+                                "lang": "Arabic - Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a78719689ce01fd438bbb29065205330e9cb4f9dcbdf9fd03991bfd65cb4fbcf68d764034ebfbda03036a568175a304ca09f4f3a514da44f7b107dac85f4f646ead50d715a097f3b1bddcc376e28ad114213f7ffe1946054400a831301bf50928466af1381f7320b838c13b333e9de68d5191af/720/index.m3u8",
+                        "url": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a787196335db8a187cb6cb56cb427d448f2b9457dd21d53c04806da195962c79d69985a07e6e39097471b21d808b8d40d39e16d39f69a4d6517e3bc9a6a7ad22b2f26a51048fa8b79588a7b066af4c60d6ffe9868c052a76094280b543904bf432b1246a13a50d3c73a01f4d530f1a6bfde84bb/720/index.m3u8",
                         "quality": "Vidcloud - 720p",
-                        "videoUrl": "https://b-g-eu-6.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a78719689ce01fd438bbb29065205330e9cb4f9dcbdf9fd03991bfd65cb4fbcf68d764034ebfbda03036a568175a304ca09f4f3a514da44f7b107dac85f4f646ead50d715a097f3b1bddcc376e28ad114213f7ffe1946054400a831301bf50928466af1381f7320b838c13b333e9de68d5191af/720/index.m3u8",
+                        "videoUrl": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aacff572e66d27535b1c708c41a787196335db8a187cb6cb56cb427d448f2b9457dd21d53c04806da195962c79d69985a07e6e39097471b21d808b8d40d39e16d39f69a4d6517e3bc9a6a7ad22b2f26a51048fa8b79588a7b066af4c60d6ffe9868c052a76094280b543904bf432b1246a13a50d3c73a01f4d530f1a6bfde84bb/720/index.m3u8",
                         "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-3.vtt",
+                                "lang": "English - English (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-4.vtt",
+                                "lang": "English - English (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-2.vtt",
+                                "lang": "English - English"
+                            },
                             {
                                 "url": "https://cc.2cdns.com/0d/2e/0d2edbf7c9a3b1c300f16a27d16f5fbd/0d2edbf7c9a3b1c300f16a27d16f5fbd.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ukr-32.vtt",
+                                "lang": "Ukrainian - Ukrainian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tur-31.vtt",
+                                "lang": "Turkish - Turkish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tha-30.vtt",
+                                "lang": "Thai - Thai"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/swe-29.vtt",
+                                "lang": "Swedish - Swedish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-6.vtt",
+                                "lang": "Spanish - Spanish (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-5.vtt",
+                                "lang": "Spanish - Spanish (forced)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/rum-28.vtt",
+                                "lang": "Romanian - Romanian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-27.vtt",
+                                "lang": "Portuguese - Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-39.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-26.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/pol-25.vtt",
+                                "lang": "Polish - Polish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/nob-23.vtt",
+                                "lang": "Norwegian Bokmål - Norwegian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/may-22.vtt",
+                                "lang": "Malay - Malay"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/kor-21.vtt",
+                                "lang": "Korean - Korean"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/jpn-20.vtt",
+                                "lang": "Japanese - Japanese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-38.vtt",
+                                "lang": "Italian - Italian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-19.vtt",
+                                "lang": "Italian - Italian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ind-18.vtt",
+                                "lang": "Indonesian - Indonesian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-37.vtt",
+                                "lang": "Hungarian - Hungarian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-17.vtt",
+                                "lang": "Hungarian - Hungarian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/heb-15.vtt",
+                                "lang": "Hebrew - Hebrew"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/gre-11.vtt",
+                                "lang": "Greek - Greek"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ger-10.vtt",
+                                "lang": "German - German"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-36.vtt",
+                                "lang": "French - French (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-14.vtt",
+                                "lang": "French - French"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fin-12.vtt",
+                                "lang": "Finnish - Finnish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dut-24.vtt",
+                                "lang": "Dutch - Dutch"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dan-9.vtt",
+                                "lang": "Danish - Danish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/cze-8.vtt",
+                                "lang": "Czech - Czech"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hrv-16.vtt",
+                                "lang": "Croatian - Croatian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-34.vtt",
+                                "lang": "Chinese - Traditional Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-35.vtt",
+                                "lang": "Chinese - Simplified Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ara-7.vtt",
+                                "lang": "Arabic - Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://xis.fifteennet.com/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6a9ab41a2cdf64dd25906872075efe2a740be57b32643a1ef8fe15fa4c9a02657/360/index.m3u8",
+                        "url": "https://rouf.magnewscontent.org/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6c339dccc7ac1806728906f63ab0d326d3c41b90d99ba6e7e1f3b4e9501a6d168/360/index.m3u8",
                         "quality": "UpCloud - 360p",
-                        "videoUrl": "https://xis.fifteennet.com/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6a9ab41a2cdf64dd25906872075efe2a740be57b32643a1ef8fe15fa4c9a02657/360/index.m3u8",
+                        "videoUrl": "https://rouf.magnewscontent.org/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6c339dccc7ac1806728906f63ab0d326d3c41b90d99ba6e7e1f3b4e9501a6d168/360/index.m3u8",
                         "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-3.vtt",
+                                "lang": "English - English (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-4.vtt",
+                                "lang": "English - English (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-2.vtt",
+                                "lang": "English - English"
+                            },
                             {
                                 "url": "https://cc.2cdns.com/0d/2e/0d2edbf7c9a3b1c300f16a27d16f5fbd/0d2edbf7c9a3b1c300f16a27d16f5fbd.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ukr-32.vtt",
+                                "lang": "Ukrainian - Ukrainian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tur-31.vtt",
+                                "lang": "Turkish - Turkish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tha-30.vtt",
+                                "lang": "Thai - Thai"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/swe-29.vtt",
+                                "lang": "Swedish - Swedish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-6.vtt",
+                                "lang": "Spanish - Spanish (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-5.vtt",
+                                "lang": "Spanish - Spanish (forced)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/rum-28.vtt",
+                                "lang": "Romanian - Romanian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-27.vtt",
+                                "lang": "Portuguese - Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-39.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-26.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/pol-25.vtt",
+                                "lang": "Polish - Polish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/nob-23.vtt",
+                                "lang": "Norwegian Bokmål - Norwegian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/may-22.vtt",
+                                "lang": "Malay - Malay"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/kor-21.vtt",
+                                "lang": "Korean - Korean"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/jpn-20.vtt",
+                                "lang": "Japanese - Japanese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-38.vtt",
+                                "lang": "Italian - Italian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-19.vtt",
+                                "lang": "Italian - Italian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ind-18.vtt",
+                                "lang": "Indonesian - Indonesian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-37.vtt",
+                                "lang": "Hungarian - Hungarian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-17.vtt",
+                                "lang": "Hungarian - Hungarian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/heb-15.vtt",
+                                "lang": "Hebrew - Hebrew"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/gre-11.vtt",
+                                "lang": "Greek - Greek"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ger-10.vtt",
+                                "lang": "German - German"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-36.vtt",
+                                "lang": "French - French (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-14.vtt",
+                                "lang": "French - French"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fin-12.vtt",
+                                "lang": "Finnish - Finnish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dut-24.vtt",
+                                "lang": "Dutch - Dutch"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dan-9.vtt",
+                                "lang": "Danish - Danish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/cze-8.vtt",
+                                "lang": "Czech - Czech"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hrv-16.vtt",
+                                "lang": "Croatian - Croatian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-34.vtt",
+                                "lang": "Chinese - Traditional Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-35.vtt",
+                                "lang": "Chinese - Simplified Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ara-7.vtt",
+                                "lang": "Arabic - Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://xis.fifteennet.com/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6a9ab41a2cdf64dd25906872075efe2a740be57b32643a1ef8fe15fa4c9a02657/720/index.m3u8",
+                        "url": "https://rouf.magnewscontent.org/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6c339dccc7ac1806728906f63ab0d326d3c41b90d99ba6e7e1f3b4e9501a6d168/720/index.m3u8",
                         "quality": "UpCloud - 720p",
-                        "videoUrl": "https://xis.fifteennet.com/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6a9ab41a2cdf64dd25906872075efe2a740be57b32643a1ef8fe15fa4c9a02657/720/index.m3u8",
+                        "videoUrl": "https://rouf.magnewscontent.org/_v10/c3e6c2805bd08e6595031b5352a1d71f07871190dd09ad80e3b1430432d60fe67e0377d0b628fe13cc7c3d0d57e41a2aa7b6d892db8f355d046ecf345e69d94624280883dc8595736f0a93781bab34eee7ca36accbf5efe262a351efc35a48ebf6bef76bfd01b5dac702dc5ee07b16e6c339dccc7ac1806728906f63ab0d326d3c41b90d99ba6e7e1f3b4e9501a6d168/720/index.m3u8",
                         "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-3.vtt",
+                                "lang": "English - English (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-4.vtt",
+                                "lang": "English - English (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/eng-2.vtt",
+                                "lang": "English - English"
+                            },
                             {
                                 "url": "https://cc.2cdns.com/0d/2e/0d2edbf7c9a3b1c300f16a27d16f5fbd/0d2edbf7c9a3b1c300f16a27d16f5fbd.vtt",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ukr-32.vtt",
+                                "lang": "Ukrainian - Ukrainian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tur-31.vtt",
+                                "lang": "Turkish - Turkish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/tha-30.vtt",
+                                "lang": "Thai - Thai"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/swe-29.vtt",
+                                "lang": "Swedish - Swedish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-6.vtt",
+                                "lang": "Spanish - Spanish (SDH)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/spa-5.vtt",
+                                "lang": "Spanish - Spanish (forced)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/rum-28.vtt",
+                                "lang": "Romanian - Romanian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-27.vtt",
+                                "lang": "Portuguese - Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-39.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/por-26.vtt",
+                                "lang": "Portuguese - Brazilian Portuguese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/pol-25.vtt",
+                                "lang": "Polish - Polish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/nob-23.vtt",
+                                "lang": "Norwegian Bokmål - Norwegian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/may-22.vtt",
+                                "lang": "Malay - Malay"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/kor-21.vtt",
+                                "lang": "Korean - Korean"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/jpn-20.vtt",
+                                "lang": "Japanese - Japanese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-38.vtt",
+                                "lang": "Italian - Italian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ita-19.vtt",
+                                "lang": "Italian - Italian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ind-18.vtt",
+                                "lang": "Indonesian - Indonesian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-37.vtt",
+                                "lang": "Hungarian - Hungarian (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hun-17.vtt",
+                                "lang": "Hungarian - Hungarian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/heb-15.vtt",
+                                "lang": "Hebrew - Hebrew"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/gre-11.vtt",
+                                "lang": "Greek - Greek"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ger-10.vtt",
+                                "lang": "German - German"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-36.vtt",
+                                "lang": "French - French (dub)"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fre-14.vtt",
+                                "lang": "French - French"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/fin-12.vtt",
+                                "lang": "Finnish - Finnish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dut-24.vtt",
+                                "lang": "Dutch - Dutch"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/dan-9.vtt",
+                                "lang": "Danish - Danish"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/cze-8.vtt",
+                                "lang": "Czech - Czech"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/hrv-16.vtt",
+                                "lang": "Croatian - Croatian"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-34.vtt",
+                                "lang": "Chinese - Traditional Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/chi-35.vtt",
+                                "lang": "Chinese - Simplified Chinese"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/38/63/3863d979e0114fdf75b316d7cfcf71fb/ara-7.vtt",
+                                "lang": "Arabic - Arabic"
                             }
                         ]
                     }
