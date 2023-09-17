@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg"
+                            },
+                            {
                                 "url": "/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-ger-sub/",
                                 "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64389.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/genjitsu-no-yohane-sunshine-in-the-mirror-ger-sub/",
                                 "title": "Genjitsu no Yohane: Sunshine in the Mirror Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/56751.png"
-                            },
-                            {
-                                "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
-                                "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg"
                             },
                             {
                                 "url": "/level-1-dakedo-unique-skill-de-saikyou-desu-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-ger-sub/",
-                    "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi Ger Sub",
-                    "description": "Shinozaki ist ein Büroangestellter, der von seinem älteren Teammitglied Shiori Katase umsorgt und verhätschelt wird. Shiori Katase ist eine hinreißende, zutiefst freundliche, liebevolle und zierliche Frau. Shinozaki hofft natürlich, dass sich Shiori nicht nur aus Pflichtgefühl so verhält … aber ihre Freude daran offenbart zunehmend ihre Gefühle!\n ",
-                    "genre": "Comedy, Romance",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!\n ",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64389.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-ger-sub/?link=9",
-                        "name": "Ep. 10",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-ger-sub/?link=8",
-                        "name": "Ep. 9",
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"S21:E892-1072\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }

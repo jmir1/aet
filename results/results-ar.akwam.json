@@ -300,24 +300,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "http://s216d2.akdl.link/download/1694997078/650648d611213/Les.survivants.2022.1080p.BluRay.AKWAM.mp4",
-                        "quality": "1080p",
-                        "videoUrl": "http://s216d2.akdl.link/download/1694997078/650648d611213/Les.survivants.2022.1080p.BluRay.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s214d1.akdl.link/download/1694997078/650648d63a76c/Les.survivants.2022.720p.BluRay.AKWAM.mp4",
-                        "quality": "720p",
-                        "videoUrl": "http://s214d1.akdl.link/download/1694997078/650648d63a76c/Les.survivants.2022.720p.BluRay.AKWAM.mp4"
-                    },
-                    {
-                        "url": "http://s213d1.akdl.link/download/1694997078/650648d66284c/Les.survivants.2022.480p.BluRay.AKWAM.mp4",
-                        "quality": "480p",
-                        "videoUrl": "http://s213d1.akdl.link/download/1694997078/650648d66284c/Les.survivants.2022.480p.BluRay.AKWAM.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
