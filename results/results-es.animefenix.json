@@ -377,8 +377,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/9Crtnmjv6zHBlP_hPosQNDtP2nKUJmaVh7u0Pq2VdjAeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/9Crtnmjv6zHBlP_hPosQNDtP2nKUJmaVh7u0Pq2VdjAeJxFPc"
+                    },
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/0FeG7_2g37TaiSb3JQ7oUAt-nvoAYiMIYFvHuG_qrEAeJxFPc",
+                        "quality": "Amazon ES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/0FeG7_2g37TaiSb3JQ7oUAt-nvoAYiMIYFvHuG_qrEAeJxFPc"
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwanw65lkcwxllj4j6u6oojcv546uug/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwanw65lkcwxllj4j6u6oojcv546uug/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
