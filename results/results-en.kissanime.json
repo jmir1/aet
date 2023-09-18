@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/theatre-of-darkness-yamishibai-11.12244/",
+                                "title": "Theatre of Darkness: Yamishibai 11",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Theatre-of-Darkness-Yamishibai-11.jpg"
+                            },
+                            {
+                                "url": "/Anime/dark-gathering.20085/",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Dark-Gathering.jpg"
+                            },
+                            {
+                                "url": "/Anime/YOHANE-THE-PARHELION-SUNSHINE-in-the-MIRROR/",
+                                "title": "YOHANE THE PARHELION -SUNSHINE in the MIRROR",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/YOHANE-THE-PARHELION-SUNSHINE-in-the-MIRROR.jpg"
+                            },
+                            {
+                                "url": "/Anime/Eiyuu-Kyoushitsu/",
+                                "title": "Classroom for Heroes",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Classroom-for-Heroes.jpg"
+                            },
+                            {
+                                "url": "/Anime/Shinigami-Bocchan-to-Kuro-Maid-2nd-Season/",
+                                "title": "The Duke of Death and His Maid Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/The-Duke-of-Death-and-His-Maid-Season-2.jpg"
+                            },
+                            {
                                 "url": "/Anime/Mushoku-Tensei-Jobless-Reincarnation-Season-2/",
                                 "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Mushoku-Tensei-Jobless-Reincarnation-Season-2.jpg"
@@ -490,31 +515,6 @@
                                 "url": "/Anime/The-Dangers-in-My-Heart-Dub/",
                                 "title": "The Dangers in My Heart (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Dangers-in-My-Heart-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Attack-on-Titan-Final-Season-Part-3-Dub/",
-                                "title": "Attack on Titan Final Season Part 3 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Attack-on-Titan-Final-Season-Part-3-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Sweet-Reincarnation-Dub/",
-                                "title": "Sweet Reincarnation (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Sweet-Reincarnation-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Masamune-kuns-Revenge-Season-2-Dub/",
-                                "title": "Masamune-kun’s Revenge Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Masamune-kuns-Revenge-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Duke-of-Death-and-His-Maid-Season-2-Dub/",
-                                "title": "The Duke of Death and His Maid Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/The-Duke-of-Death-and-His-Maid-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Mushoku-Tensei-Jobless-Reincarnation-Season-2-Dub/",
-                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Mushoku-Tensei-Jobless-Reincarnation-Season-2-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,8 +1063,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<head><title>403 Forbidden</title></head>\r",
+                        "quality": "Oserver - /1.11.5</center>\r\n</body>\r\n</html>\r\np",
+                        "videoUrl": "<head><title>403 Forbidden</title></head>\r",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s47.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

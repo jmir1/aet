@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ashita-no-nadja",
+                                "title": "Ashita no Nadja",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/GkZKBa9JpDHPJy3w1695003084.jpg"
+                            },
+                            {
                                 "url": "/anime/hataraku-maou-sama-2nd-season-sequel",
                                 "title": "Hataraku Maou-sama!! 2nd Season (Sequel)",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/QjsZpYePmEADmF9y1694347203.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
                                 "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/yRsRP0TyMOXemhAH1692972452.jpg"
-                            },
-                            {
-                                "url": "/anime/sugar-apple-fairy-tale-part-2",
-                                "title": "Sugar Apple Fairy Tale Part 2",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/Y9IsA6ybkF12Akxj1692971589.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,25 +364,47 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hataraku-maou-sama-2nd-season-sequel",
-                    "title": "Hataraku Maou-sama!! 2nd Season (Sequel)",
-                    "author": "Studio 3Hz",
-                    "description": "تكملة للموسم الثاني من أنمي Hataraku Maou-sama!",
-                    "genre": "Mythology, Romantic Subtext, Workplace, كوميديا, خيال",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeiat.co/storage/posters/QjsZpYePmEADmF9y1694347203.jpg",
+                    "url": "/anime/ashita-no-nadja",
+                    "title": "Ashita no Nadja",
+                    "author": "Toei Animation",
+                    "description": "تدور أحداث القصة عن فتاة ذكية و مرحة تُدعى ناجا وهي فتاةٌ قد تربت في دارٍ للأيتام بالقرب من لندن لقد تُركت ناجا في دار الأيام منذ أن كان رضيعه لذا فقد تربت وهي مُعتقدةٌ بأن والديها قد توفيا ولكن في عيدميلادها الثالث عشر إكتشفت بأن أُمها قد تكون ما تزال على قيد الحياة من هنا تبدأ رحلتها في البحث عن أمها .",
+                    "genre": "تاريخي, مغامرات, دراما, رومانسي",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://api.animeiat.co/storage/posters/GkZKBa9JpDHPJy3w1695003084.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "episode/ashita-no-nadja-episode-50",
+                        "name": "Ashita no Nadja الحلقة 50 مترجمة",
+                        "episode_number": 50.0
+                    },
+                    {
+                        "url": "episode/ashita-no-nadja-episode-49",
+                        "name": "Ashita no Nadja الحلقة 49 مترجمة",
+                        "episode_number": 49.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B360p%5D.mp4",
+                        "quality": "360p SD",
+                        "videoUrl": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B360p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B480p%5D.mp4",
+                        "quality": "480p SD",
+                        "videoUrl": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B480p%5D.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
