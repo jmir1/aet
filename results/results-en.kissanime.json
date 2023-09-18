@@ -1063,21 +1063,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "<head><title>403 Forbidden</title></head>\r",
-                        "quality": "Oserver - /1.11.5</center>\r\n</body>\r\n</html>\r\np",
-                        "videoUrl": "<head><title>403 Forbidden</title></head>\r",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s47.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

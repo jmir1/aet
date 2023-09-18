@@ -92,6 +92,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70280/legendado",
+                                "title": "Mahou Shoujo Sonico★Magica",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6985_background.jpg?v=1694996558"
+                            },
+                            {
+                                "url": "/episodio/70279/legendado",
+                                "title": "Shounen Sunday CM: Kyoukai no Rinne",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/9159_background.jpg?v=1694992586"
+                            },
+                            {
+                                "url": "/episodio/70278/legendado",
+                                "title": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/22515_background.jpg?v=1694975366"
+                            },
+                            {
+                                "url": "/episodio/70277/legendado",
+                                "title": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/22515_background.jpg?v=1694975366"
+                            },
+                            {
+                                "url": "/episodio/70276/legendado",
+                                "title": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/22515_background.jpg?v=1694975366"
+                            },
+                            {
                                 "url": "/episodio/70275/legendado",
                                 "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
@@ -185,31 +210,6 @@
                                 "url": "/episodio/70264/legendado",
                                 "title": "Planetes Picture Drama",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19944_background.jpg?v=1694927516"
-                            },
-                            {
-                                "url": "/episodio/70263/legendado",
-                                "title": "Planetes Picture Drama",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19944_background.jpg?v=1694927516"
-                            },
-                            {
-                                "url": "/episodio/70262/legendado",
-                                "title": "Planetes Picture Drama",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19944_background.jpg?v=1694927516"
-                            },
-                            {
-                                "url": "/episodio/70261/legendado",
-                                "title": "Planetes Picture Drama",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19944_background.jpg?v=1694927516"
-                            },
-                            {
-                                "url": "/episodio/70260/legendado",
-                                "title": "Kennel Tokorozawa",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/7618_background.jpg?v=1694926768"
-                            },
-                            {
-                                "url": "/episodio/70259/legendado",
-                                "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/8983_background.jpg?v=1694926310"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

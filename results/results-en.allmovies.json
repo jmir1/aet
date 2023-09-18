@@ -291,14 +291,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v906.streamhub.ink/hls/sc6t2nfzwaytnuzvoxnc5zj275kindb7xtaxcjqqthenm2g6lvzgh24jovlq/index-v1-a1.m3u8",
-                        "quality": "640p",
-                        "videoUrl": "https://v906.streamhub.ink/hls/sc6t2nfzwaytnuzvoxnc5zj275kindb7xtaxcjqqthenm2g6lvzgh24jovlq/index-v1-a1.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
