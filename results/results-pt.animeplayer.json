@@ -3,28 +3,329 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
+                            },
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/eiyuu-kyoushitsu-dublado-1x8/",
+                                "title": "Eiyuu Kyoushitsu (Dublado) Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/7-6-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/masamune-kun-no-revenge-r-dublado-2x12/",
+                                "title": "Masamune-kun no Revenge R (Dublado) Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-8-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/lv1-maou-to-one-room-yuusha-1x12/",
+                                "title": "Lv1 Maou to One Room Yuusha Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/11-18-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/masamune-kun-no-revenge-2x12/",
+                                "title": "Masamune-kun no Revenge Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-7-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/zom-100-bucket-list-of-the-dead-1x8/",
+                                "title": "Zom 100: Bucket List of the Dead Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/8-6-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/mako-chan-kaihatsu-nikki-1x4/",
+                                "title": "Mako-Chan Kaihatsu Nikki Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/episode-4-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/mako-chan-kaihatsu-nikki-1x3/",
+                                "title": "Mako-Chan Kaihatsu Nikki Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/Episode-3-300x170-1.png"
+                            },
+                            {
+                                "url": "/episodios/mako-chan-kaihatsu-nikki-1x2/",
+                                "title": "Mako-Chan Kaihatsu Nikki Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/1cwAgSrDLA7Irs2h2gRPiebWqXY-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/mako-chan-kaihatsu-nikki-1x1/",
+                                "title": "Mako-Chan Kaihatsu Nikki Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/iMQAJ9cdNgWawSCI72Tccws8XRx-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/tsf-monogatari-1x2/",
+                                "title": "TSF Monogatari Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/rTCaLWLVbdH2iADIUMuvV8etePi-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/tsf-monogatari-1x1/",
+                                "title": "TSF Monogatari Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/dWA0HtFh1igU7FMxE0RwHp25b0U-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x13/",
+                                "title": "Orenchi no Furo Jijou Episódio 13",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/1kyFhWvOKyQfOmNVvDav7HDXd3j-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x12/",
+                                "title": "Orenchi no Furo Jijou Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/nj9TcsBIH85tZSaCOwi2ajQCaLX-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x11/",
+                                "title": "Orenchi no Furo Jijou Episódio 11",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/sJBAZ0l2f4Rvhf2U6sJvmeN7pyZ-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x10/",
+                                "title": "Orenchi no Furo Jijou Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/jAMoPouM8W6xKQObUbS41eY4nwa-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x9/",
+                                "title": "Orenchi no Furo Jijou Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/6sUUj71yvCst9swXlxABzs9YEng-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x8/",
+                                "title": "Orenchi no Furo Jijou Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/cRaIezzdianIfoYcKUVTCTcH0e0-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x7/",
+                                "title": "Orenchi no Furo Jijou Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/70scMXBnj0SEtQqouQX33BKJyWv-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x6/",
+                                "title": "Orenchi no Furo Jijou Episódio 6",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/8NXeVyW6MHZuHfzqpVo428lMwpw-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x5/",
+                                "title": "Orenchi no Furo Jijou Episódio 5",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/1ZyRxHf4sey8xfY1wAO9diWmNR7-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x4/",
+                                "title": "Orenchi no Furo Jijou Episódio 4",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/mzG9vS44iruWcrrD6MySl3N1oz7-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x3/",
+                                "title": "Orenchi no Furo Jijou Episódio 3",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/e2L8Ab40sbEuISxqwHXN3RQMZlp-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x2/",
+                                "title": "Orenchi no Furo Jijou Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/xsL2eqRn9RhgbwR1rbffX5s2T9I-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/orenchi-no-furo-jijou-1x1/",
+                                "title": "Orenchi no Furo Jijou Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/fe5pNjzkJEaQuDD5ng3sHWcoMDL-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/hitorijime-my-hero-1x12/",
+                                "title": "Hitorijime My Hero Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/vpH6eW8YccoHh1A5b8iyJpivkgS-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/hitorijime-my-hero-1x11/",
+                                "title": "Hitorijime My Hero Episódio 11",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/kwmM7t4DLP66KFEDElatjAq4s73-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/hitorijime-my-hero-1x10/",
+                                "title": "Hitorijime My Hero Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/i9gaj8h24a1cDIe0GC4F5UwQiCV-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/hitorijime-my-hero-1x9/",
+                                "title": "Hitorijime My Hero Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/iuUM5iTD9hey3qDB8WRiRQ3xiHW-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/hitorijime-my-hero-1x8/",
+                                "title": "Hitorijime My Hero Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/bl8olYZLQKH1DVxTmQotdfvYlci-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/hitorijime-my-hero-1x7/",
+                                "title": "Hitorijime My Hero Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/tmj3Z51nKlFbSRJTsJWfnfishVV-300x170.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/world-conquest-zvezda-plot/",
+                                "title": "World Conquest Zvezda Plot",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/04/q0VlnKNxqNOgIhzxXDgzpnpftyS-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
+                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/makai-senki-disgaea/",
+                                "title": "Makai Senki Disgaea",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/bQgbjA328PuWQP1epb75sQEkMnU-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hack-liminality/",
+                                "title": ".hack//Liminality",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/hGidbV6INqbGoQ5lxGjBmnOj4r0-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sushi-police/",
+                                "title": "Sushi Police",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/06/vSYyiifMe9k0wP2vnf0WT2O4oNE-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban/",
+                                "title": "Re Zero Kara Hajimeru Isekai Seikatsu – Shin Henshuu-ban",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/01/kFUsNsNeW5YyCosmvvSqtqFcWVY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2022/04/oz3xb8ZpPC9SEKneBrJVK3ZinG6-185x278-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/zombieland-saga/",
+                                "title": "Zombieland Saga",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/e4rzeUloRTHGovb46Zobk3TimhL-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/lance-n-masques/",
+                                "title": "Lance N Masques",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/AghKnbLP54oxREa33OlOkHO3CN3-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/animes/hora-de-aventura-dublado/",
+                    "title": "Hora de Aventura Dublado",
+                    "description": "Finn é um garoto gentil e bondoso mais não perde tempo quando o assunto é Aventura junto com seu amigo Jake ele viaja por toda terra de Ooo a procura de de seu melhor passa tempo:Aventura.Jake é um cachorro magico que ajuda Finn em todas suas aventuras com seus poderes de esticar.A mãe e o pai de Jake foram os cachorros que encontraram Finn chorando numa montanha e o resgataram por isso os destinos de Finn e Jake foram cruzados.Hoje eles vivem procurando aventuras pela terra de Ooo salvando princesas e pessoas indefesas.Por isso são conhecidos como os hérois da terra de Ooo.\n\nTítulo original: Hora de Aventura\nTemporadas: 1",
+                    "genre": "",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodios/hora-de-aventura-1x3/",
+                        "name": "Temporada ⭐ x 3 - ",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episodios/hora-de-aventura-1x2/",
+                        "name": "Temporada ⭐ x 2 - ",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n\t<title>AnimePlayer</title>\r\n\t<meta name=",
+                        "quality": "Blogger - Unknown",
+                        "videoUrl": "\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n\t<title>AnimePlayer</title>\r\n\t<meta name=",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://animeplayer.com.br"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
