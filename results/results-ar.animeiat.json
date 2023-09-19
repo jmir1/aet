@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dark-gathering",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/YzWX0yuAoYKovFyA1695104361.jpg"
+                            },
+                            {
                                 "url": "/anime/da-wang-rao-ming",
                                 "title": "Da Wang Rao Ming",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/EldRY1GWfLX0UV3i1695100838.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/anime/temple",
                                 "title": "Temple",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/Yx6KUKZTCOtrRwKy1693446980.jpg"
-                            },
-                            {
-                                "url": "/anime/horimiya-piece",
-                                "title": "Horimiya: Piece",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/TOeRsHe52Jb9wYqc1693401318.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,35 +364,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/da-wang-rao-ming",
-                    "title": "Da Wang Rao Ming",
-                    "author": "Big Firebird Culture",
-                    "description": "تدورالقصة حول اليتيم لو شو. إلا أنه ليس بيتيمٍ عادي، بل هو مستيقظ يختبر التغيرات التي تحدث داخل جسمه، في بلده وفي العالم في فجر العصر السحري. شاهد لو شو وهو يشرع في رحلة لصقل قدراته الخاصة مع أخته لو شياو يو المحبوبة وذات الشخصية الجذابة. على طول الطريق سيواجهون أحداثًا خارقة للطبيعة وعقبات وحتى أقوى الأشخاص في بلدهم. كيف سيتمكن لو شو من تحقيق أقصى استفادة من قدراته والتخلص من قائمة لا تنتهي من المنافسين والخصوم؟",
-                    "genre": "أكشن, مغامرات, كوميديا, خيال",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeiat.co/storage/posters/EldRY1GWfLX0UV3i1695100838.jpg",
+                    "url": "/anime/dark-gathering",
+                    "title": "Dark Gathering",
+                    "author": "OLM",
+                    "description": "تدور القصة عن غينتوغا كييتارو وهو شاب يمتلك موهبة روحانية تجعلة يجذب الأرواح يتم تعينة كمدرس خاص لفتاة صغيرة تدعى يايوي هوزوكي والتي تستطيع روية الاشباح وتتوق إلى مواجهة الأرواح لأسباب متعلقة بوالدتها لذا يجر كييتارو في مسعي يايوي في العثور على شبح مميز.",
+                    "genre": "شونين, رعب, خارق للطبيعة",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeiat.co/storage/posters/YzWX0yuAoYKovFyA1695104361.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "episode/da-wang-rao-ming-episode-12",
-                        "name": "Da Wang Rao Ming الحلقة 12 مترجمة",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "episode/da-wang-rao-ming-episode-11",
-                        "name": "Da Wang Rao Ming الحلقة 11 مترجمة",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 374: Expected start of the array '[', but had '{' instead at path: $.data.sources\nJSON input: .....9T05:34:06.000000Z\",\"sources\":{\"oldfile\":\"https:\\/\\/api.anim.....",
+                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
                 "passed": false
             }
         }
