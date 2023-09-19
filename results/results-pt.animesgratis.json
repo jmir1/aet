@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/r3IHw82QFkLmggTG9QpBFpYArVM.jpg"
                             },
                             {
+                                "url": "/animes/naruto-shippuden/",
+                                "title": "Naruto Shippuden",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nRJmByfK9XdtOY73VArcN8KpKVs.jpg"
+                            },
+                            {
                                 "url": "/animes/bleach-sennen-kessen-hen/",
                                 "title": "Bleach: Sennen Kessen-hen",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/guyS28A4IxwoMXIq3Xj9AszMefP.jpg"
@@ -25,16 +30,6 @@
                                 "url": "/animes/hataraku-maou-sama-3/",
                                 "title": "Hataraku Maou-sama! 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/4jilnopTSCCnhWn9CdnpTR8UO6f.jpg"
-                            },
-                            {
-                                "url": "/animes/mushoku-tensei-isekai-ittara-honki-dasu/",
-                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uOwjWZOJwddC5ZwIx0Wl7pNsLB9.jpg"
-                            },
-                            {
-                                "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan/",
-                                "title": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/m40KDFjK7OwOEdgGw98PpjWSLOT.jpg"
                             },
                             {
                                 "url": "/animes/the-first-order/",
@@ -47,14 +42,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/4Qpt5CBtDM8xS0VjduVMi5mCFM3.jpg"
                             },
                             {
-                                "url": "/animes/scissor-seven/",
-                                "title": "Scissor Seven",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ppiumCPMB9ezt4oLcpKtSS5E82X.jpg"
+                                "url": "/animes/mushoku-tensei-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uOwjWZOJwddC5ZwIx0Wl7pNsLB9.jpg"
                             },
                             {
-                                "url": "/animes/left-hand-layup/",
-                                "title": "Left-Hand Layup!",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eONDt3A8fBeAaDMiqN5roullnJL.jpg"
+                                "url": "/animes/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega/",
+                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/9jKPfjNCJycFys8iasWXZJbpRFp.jpg"
+                            },
+                            {
+                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lvirACCy3AQUIB2hUSnKFGe3Ill.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/suki-na-ko-ga-megane-wo-wasureta-episodio-12/",
+                                "title": "Suki na Ko ga Megane wo Wasureta – Episódio 12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/81Di7JQsggkuG0M0RVkKhkWIQBF.jpg"
+                            },
+                            {
+                                "url": "/episodio/synduality-noir-episodio-11/",
+                                "title": "Synduality: Noir – Episódio 11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/sfZ1Zrpc6Fcp8ko8CjCOi7IixRD.jpg"
+                            },
                             {
                                 "url": "/episodio/left-hand-layup-episodio-3/",
                                 "title": "Left-Hand Layup! – Episódio 3",
@@ -205,16 +215,6 @@
                                 "url": "/episodio/ai-no-idenshi-episodio-10/",
                                 "title": "AI no Idenshi – Episódio 10",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/x7sqkdHPKVImciIuf2MeX22DvJa.jpg"
-                            },
-                            {
-                                "url": "/episodio/dekiru-neko-wa-kyou-mo-yuuutsu-episodio-11/",
-                                "title": "Dekiru Neko wa Kyou mo Yuuutsu – Episódio 11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/bCZu9Bn9KdsTaNu5iSaMsZznYUZ.jpg"
-                            },
-                            {
-                                "url": "/episodio/kanojo-okarishimasu-3-episodio-10/",
-                                "title": "Kanojo, Okarishimasu 3 – Episódio 10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/upHXcKs4TOThIbsjwSEQCThPnJg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -326,9 +326,48 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://wht.nuplink.net/pool/pub/51/36/cd/40702c4b3562d4ecf13f1089725136cd/175289555?token=bf625390703f3fe35395d4d9ecff47dc&ts=1695125502&ht=video/mp4",
+                        "url": "https://wht.nuplink.net/pool/pub/51/36/cd/40702c4b3562d4ecf13f1089725136cd/175289555?token=edf972cc63cd9b31a5581d1b63e2f909&ts=1695146887&ht=video/mp4",
                         "quality": "Player - 720p",
-                        "videoUrl": "https://wht.nuplink.net/pool/pub/51/36/cd/40702c4b3562d4ecf13f1089725136cd/175289555?token=bf625390703f3fe35395d4d9ecff47dc&ts=1695125502&ht=video/mp4"
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/51/36/cd/40702c4b3562d4ecf13f1089725136cd/175289555?token=edf972cc63cd9b31a5581d1b63e2f909&ts=1695146887&ht=video/mp4"
+                    },
+                    {
+                        "url": "https://a9d752bc.sw-cdnstream.com/hls2/01/01453/jsvpqjscfduv_x/index-v1-a1.m3u8?t=mdpxT7LyJfaMdWn8iAU2o9oF6rCH7F5VbwoDPuRKRC8&s=1695146890&e=129600&f=7269357&srv=ryjrfokarusb&i=0.4&sp=500&p1=ryjrfokarusb&p2=ryjrfokarusb&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://a9d752bc.sw-cdnstream.com/hls2/01/01453/jsvpqjscfduv_x/index-v1-a1.m3u8?t=mdpxT7LyJfaMdWn8iAU2o9oF6rCH7F5VbwoDPuRKRC8&s=1695146890&e=129600&f=7269357&srv=ryjrfokarusb&i=0.4&sp=500&p1=ryjrfokarusb&p2=ryjrfokarusb&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://embedwish.com",
+                            "Referer": "https://embedwish.com/e/jsvpqjscfduv?poster=https://image.tmdb.org/t/p/w1280/kGMlEBVvq40ffXHiia5dyw11ZXP.jpg"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery32.mxdcontent.net/v/a437273a8eb4eecd6776d7f5c4722fca.mp4?s=XbUSUThXn6-wSE6Izlahdg&e=1695168490&_t=1695148499",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery32.mxdcontent.net/v/a437273a8eb4eecd6776d7f5c4722fca.mp4?s=XbUSUThXn6-wSE6Izlahdg&e=1695168490&_t=1695148499",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=mQBp7w0QPGs6wX&expires=1695216888&ip=FROsD0ESKxSHDN&token=rO4jgKqHKYWT",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=mQBp7w0QPGs6wX&expires=1695216888&ip=FROsD0ESKxSHDN&token=rO4jgKqHKYWT"
+                    },
+                    {
+                        "url": "<head><title>404 Not Found</title></head>\r",
+                        "quality": "Filemoon - </center>\r\n</body>\r\n</html>\r\np",
+                        "videoUrl": "<head><title>404 Not Found</title></head>\r",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/7qbnalxx90s4?poster=https://image.tmdb.org/t/p/w1280/kGMlEBVvq40ffXHiia5dyw11ZXP.jpg",
+                            "Origin": "https://filemoon.sx"
+                        }
                     }
                 ],
                 "passed": true
