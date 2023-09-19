@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/itazura-na-kiss",
+                                "title": "Itazura na Kiss",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/iwylzVCQu9zF3RhC1695053503.jpg"
+                            },
+                            {
+                                "url": "/anime/black-blood-brothers",
+                                "title": "Black Blood Brothers",
+                                "thumbnail_url": "https://api.animeiat.co/storage/posters/8k75uL2ja4KfAn4S1695052708.jpg"
+                            },
+                            {
                                 "url": "/anime/ashita-no-nadja",
                                 "title": "Ashita no Nadja",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/GkZKBa9JpDHPJy3w1695003084.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
                                 "thumbnail_url": "https://api.animeiat.co/storage/posters/GdGyvCGjhbNPQks61692974906.jpg"
-                            },
-                            {
-                                "url": "/anime/shiguang-dailiren-ii",
-                                "title": "Shiguang Dailiren II",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/SMA0xbW5lHJbXD131692973534.jpg"
-                            },
-                            {
-                                "url": "/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
-                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
-                                "thumbnail_url": "https://api.animeiat.co/storage/posters/yRsRP0TyMOXemhAH1692972452.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -364,47 +364,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ashita-no-nadja",
-                    "title": "Ashita no Nadja",
-                    "author": "Toei Animation",
-                    "description": "تدور أحداث القصة عن فتاة ذكية و مرحة تُدعى ناجا وهي فتاةٌ قد تربت في دارٍ للأيتام بالقرب من لندن لقد تُركت ناجا في دار الأيام منذ أن كان رضيعه لذا فقد تربت وهي مُعتقدةٌ بأن والديها قد توفيا ولكن في عيدميلادها الثالث عشر إكتشفت بأن أُمها قد تكون ما تزال على قيد الحياة من هنا تبدأ رحلتها في البحث عن أمها .",
-                    "genre": "تاريخي, مغامرات, دراما, رومانسي",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeiat.co/storage/posters/GkZKBa9JpDHPJy3w1695003084.jpg",
+                    "url": "/anime/itazura-na-kiss",
+                    "title": "Itazura na Kiss",
+                    "author": "TMS Entertainment",
+                    "description": "بطلة القصة ” ايهارا كوتوكو” وقعت في حب الوسيم والعبقري “ايري ناوكي” منذ السنة الأولى في المدرسة الثانوية بعد رؤيتها له يلقي خطابا فى مراسم الافتتاح. قررت “ايهارا كوتوكو ” كتابة رسالة تعترف فيها لـ ” ايري ناوكي” بحبها و قدمتها له لكنه رفضها لأنه لا يصاحب ” الأغبياء ” مما جعلها في محل سخرية من طلاب المدرسة. بعد انتقالها الى منزل جديد مع والدها دمر المنزل بسبب الزلزال مما اضطرهما إلى الانتقال لمنزل صديق والدها الذي اتضح فيما بعد بأنه والد ” ايري ناوكي” الفتى الذي وقعت في حبه .. تحاول “ايهارا كوتوكو ” أن تفوز بحب “ايري ناوكي” و أن تغير نظرته تجاهها",
+                    "genre": "شوجو, كوميديا, رومانسي",
+                    "thumbnail_url": "https://api.animeiat.co/storage/posters/iwylzVCQu9zF3RhC1695053503.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "episode/ashita-no-nadja-episode-50",
-                        "name": "Ashita no Nadja الحلقة 50 مترجمة",
-                        "episode_number": 50.0
-                    },
-                    {
-                        "url": "episode/ashita-no-nadja-episode-49",
-                        "name": "Ashita no Nadja الحلقة 49 مترجمة",
-                        "episode_number": 49.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B360p%5D.mp4",
-                        "quality": "360p SD",
-                        "videoUrl": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B360p%5D.mp4"
-                    },
-                    {
-                        "url": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B480p%5D.mp4",
-                        "quality": "480p SD",
-                        "videoUrl": "https://shahidha.net/files/37394/%5BAnimeiat.co%5DAshita_no_Nadja_-_EP50%5B480p%5D.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/steven-universe",
+                                "title": "Steven Universe (20132019)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gKUuGaeZ9qiJ9Spoq0LrANQSN5x.jpg"
+                            },
+                            {
                                 "url": "/serie/bad-behaviour",
                                 "title": "Bad Behaviour (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/oWHMZ8aluWP7yxV1bRelgGznwqJ.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/corazon-de-invictus",
                                 "title": "Corazón de Invictus (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/iGGCW0m5qQsIcwTwCMgJl36EqAD.jpg"
-                            },
-                            {
-                                "url": "/serie/3hz",
-                                "title": "3Hz (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/b9R1paAYG8HpzPs6JS7hxmKgO8t.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/bad-behaviour",
-                    "title": "Bad Behaviour (2023)",
-                    "description": ".",
-                    "genre": "Drama",
+                    "url": "/serie/steven-universe",
+                    "title": "Steven Universe (20132019)",
+                    "description": "Sigue la historia de Steven, el miembro más joven de un equipo de guardianes mágicos del Universo..",
+                    "genre": "Animación, Comedia, Sci-Fi & Fantasy, Action & Adventure, Familia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/oWHMZ8aluWP7yxV1bRelgGznwqJ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/gKUuGaeZ9qiJ9Spoq0LrANQSN5x.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/bad-behaviour/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/steven-universe/temporada/5/capitulo/28",
+                        "name": "T5 - E28: Episodio 28",
+                        "episode_number": 154.0
                     },
                     {
-                        "url": "/serie/bad-behaviour/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/steven-universe/temporada/5/capitulo/27",
+                        "name": "T5 - E27: Episodio 27",
+                        "episode_number": 153.0
                     }
                 ],
                 "passed": true
@@ -293,19 +293,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/9h9ezitwk2pq",
+                        "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=ijZMw0qWittnLMo3PbXMudYvZNSCqsKmj4CimoD-E5g&s=1695060521&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=20.168&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=jp1dMar3j-P-i0eOfaRVrNEqGQEj-VxPo37bc05IvWo&s=1695083378&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=4.154&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1695130519&ip=FROsD0IZKxSHDN&token=yijBpYzVoWQe",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vxpz8GXv2bU4Gq2&expires=1695130519&ip=FROsD0IZKxSHDN&token=yijBpYzVoWQe"
-                    },
-                    {
-                        "url": "https://voe.sx/e/9h9ezitwk2pq",
+                        "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/09541/9h9ezitwk2pq_,n,.urlset/master.m3u8?t=ijZMw0qWittnLMo3PbXMudYvZNSCqsKmj4CimoD-E5g&s=1695060521&e=14400&f=47707659&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=20.168&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=jp1dMar3j-P-i0eOfaRVrNEqGQEj-VxPo37bc05IvWo&s=1695083378&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=4.154&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +314,46 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/blue-beetle",
+                                "title": "Blue Beetle (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg"
+                            },
+                            {
+                                "url": "/pelicula/inmersion",
+                                "title": "Inmersión (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/eZaecd428OQyHbfYhNi5BAhHbsn.jpg"
+                            },
+                            {
+                                "url": "/pelicula/papillon-2017",
+                                "title": "Papillon (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/fBmGRMVgHziY3LO0nztOGQNExqg.jpg"
+                            },
+                            {
+                                "url": "/pelicula/comando-2",
+                                "title": "Comando 2 (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9RZfZxIqyom7XVtXlHKnlNezZua.jpg"
+                            },
+                            {
+                                "url": "/pelicula/armero",
+                                "title": "Armero (2017)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1yhaCCHSZ0fs5cbLDLO1XYEinRv.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-viajante",
+                                "title": "El viajante (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ojCY4Lgpvx7SonVp6mUN0iTWCIS.jpg"
+                            },
+                            {
+                                "url": "/pelicula/inquilinos",
+                                "title": "Inquilinos (2018)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/rKRrdZXXsQD2v7jKTeea5GJG7ml.jpg"
+                            },
+                            {
+                                "url": "/pelicula/robert-the-doll",
+                                "title": "Robert the Doll (2015)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kTJ5n360iW97AY1Jw8K49gwHgGW.jpg"
+                            },
                             {
                                 "url": "/pelicula/la-probabilidad-estadistica-del-amor-a-primera-vista",
                                 "title": "La probabilidad estadística del amor a primera vista (2023)",
@@ -398,46 +433,6 @@
                                 "url": "/pelicula/un-nino-grande",
                                 "title": "Un niño grande (2002)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/6AQlj4fIeZoDO74xhBKsEVPUa8m.jpg"
-                            },
-                            {
-                                "url": "/pelicula/reina-de-elefantes",
-                                "title": "Reina de elefantes (2018)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/Kn64w1zz5zHy5N7ILkeDo84s1a.jpg"
-                            },
-                            {
-                                "url": "/pelicula/et-el-extraterrestre",
-                                "title": "E.T. el extraterrestre (1982)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/lVUsjKHXPvLTNpFBABnrPzhx5Dc.jpg"
-                            },
-                            {
-                                "url": "/pelicula/captain-fantastic",
-                                "title": "Captain Fantastic (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kZHOnykzKPuEVldrzZKqvsNG7sL.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mechanic-resurrection",
-                                "title": "Mechanic: Resurrection (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg"
-                            },
-                            {
-                                "url": "/pelicula/juego-de-armas",
-                                "title": "Juego de armas (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jwBcQXp7WgYgrcANpnuLCCfLpkK.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-gran-aventura-de-winter-el-delfin",
-                                "title": "La gran aventura de Winter el delfín (2011)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zj4OM3bsDQX2aI2b3nvpXynN62x.jpg"
-                            },
-                            {
-                                "url": "/pelicula/chinatown",
-                                "title": "Chinatown (1974)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1wO2OmUCWButQyVPGWQEZn5twca.jpg"
-                            },
-                            {
-                                "url": "/pelicula/robin-de-los-bosques",
-                                "title": "Robin de los bosques (1938)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/bCXYN015wb10UTPgXZxcd2RAjBI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +572,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/la-probabilidad-estadistica-del-amor-a-primera-vista",
-                    "title": "La probabilidad estadística del amor a primera vista (2023)",
-                    "description": "Hadley y Oliver comienzan a enamorarse en su vuelo de Nueva York a Londres. La probabilidad de volver a encontrarse parece imposible, pero el amor, y Londres, pueden tener una forma de desafiar las probabilidades.",
-                    "genre": "Romance, Drama, Drama",
+                    "url": "/pelicula/blue-beetle",
+                    "title": "Blue Beetle (2023)",
+                    "description": "Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.",
+                    "genre": "Aventura, Acción, Ciencia ficción",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +585,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/la-probabilidad-estadistica-del-amor-a-primera-vista",
+                        "url": "/pelicula/blue-beetle",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -610,6 +605,41 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/a-millones-de-kilometros/",
+                                "title": "A millones de kilómetros",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-millones-de-kilometros.jpg"
+                            },
+                            {
+                                "url": "/pelicula/after-para-siempre/",
+                                "title": "After: Para siempre",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/after-para-siempre.jpg"
+                            },
+                            {
+                                "url": "/pelicula/nandor-fodor-and-the-talking-mongoose/",
+                                "title": "Nandor Fodor and the Talking Mongoose",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nandor-fodor-and-the-talking-mongoose.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-lesson/",
+                                "title": "The Lesson",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-lesson.jpg"
+                            },
+                            {
+                                "url": "/pelicula/carmen-electras-aerobic-striptease-vol-6-in-the-bedroom/",
+                                "title": "Carmen Electra's Aerobic Striptease, Vol 6 - In the Bedroom",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/carmen-electras-aerobic-striptease-vol-6-in-the-bedroom.jpg"
+                            },
+                            {
+                                "url": "/pelicula/little-house-the-last-farewell/",
+                                "title": "Little House: The Last Farewell",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/little-house-the-last-farewell.jpg"
+                            },
+                            {
+                                "url": "/pelicula/little-house-look-back-to-yesterday/",
+                                "title": "Little House: Look Back to Yesterday",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/little-house-look-back-to-yesterday.jpg"
+                            },
                             {
                                 "url": "/pelicula/el-justiciero-capitulo-final/",
                                 "title": "El Justiciero: Capítulo final",
@@ -674,41 +704,6 @@
                                 "url": "/pelicula/marisol/",
                                 "title": "Marisol",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/marisol.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tesoros-desconocidos/",
-                                "title": "Tesoros Desconocidos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tesoros-desconocidos.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bonnie/",
-                                "title": "Bonnie",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bonnie.jpg"
-                            },
-                            {
-                                "url": "/pelicula/freestyle/",
-                                "title": "Freestyle",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/freestyle.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-cita-de-carl/",
-                                "title": "La cita de Carl",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-cita-de-carl.jpg"
-                            },
-                            {
-                                "url": "/pelicula/piton-de-aguas-profundas/",
-                                "title": "Pitón De Aguas Profundas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/piton-de-aguas-profundas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bernie-el-delfin-2/",
-                                "title": "Bernie, el delfín 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bernie-el-delfin-2.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-home-of-our-own/",
-                                "title": "A Home of Our Own",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-home-of-our-own.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -878,11 +873,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-justiciero-capitulo-final/",
-                    "title": "El Justiciero: Capítulo final",
+                    "url": "/pelicula/a-millones-de-kilometros/",
+                    "title": "A millones de kilómetros",
                     "artist": "",
                     "description": "",
-                    "genre": "Crimen",
+                    "genre": "Historia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -892,7 +887,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-justiciero-capitulo-final/",
+                        "url": "/pelicula/a-millones-de-kilometros/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
