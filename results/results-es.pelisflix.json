@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/cassandro/",
+                                "title": "Cassandro",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/MIFX9LJqY507V7jWyf4.webp"
+                            },
+                            {
                                 "url": "/pelicula/rotting-in-the-sun/",
                                 "title": "Rotting in the Sun",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "Lang Lang Plays Disney",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Z06E5H57JbWxepOoiM33gTkLXZq.webp"
-                            },
-                            {
-                                "url": "/pelicula/tortugas-ninja-caos-mutante/",
-                                "title": "Tortugas Ninja: Caos mutante",
-                                "description": "Después de pasar años apartados del mundo humano, los hermanos Tortuga se proponen ganarse el cora...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/p57SxhoBDguG4F60XRdR1xnoPE5B.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -498,10 +498,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/rotting-in-the-sun/",
-                    "title": "Rotting in the Sun",
+                    "url": "/pelicula/cassandro/",
+                    "title": "Cassandro",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -509,7 +509,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/rotting-in-the-sun/",
+                        "url": "/pelicula/cassandro/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -517,7 +517,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar sXviIMQhY = \"\"; vmNFjerBk.forEach(function Oym(value) { sXviIMQhY += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

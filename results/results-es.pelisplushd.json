@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=7tUvzL1krhldPH05qfqJCmoM1H-XXJH3X7fLbdxSzMY&s=1695190152&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=HsPNCifcr0sYIUngcpZ5pLPJjg4AQz1h-rwsiQG1M1U&s=1695211907&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.84&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695260151&ip=FROsE0EnDS9X&token=tKLldi5HmwLi",
+                        "url": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695281906&ip=GxOsFxqnDS9X&token=YTHITa_5c6XM",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695260151&ip=FROsE0EnDS9X&token=tKLldi5HmwLi"
+                        "videoUrl": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695281906&ip=GxOsFxqnDS9X&token=YTHITa_5c6XM"
                     },
                     {
                         "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=7tUvzL1krhldPH05qfqJCmoM1H-XXJH3X7fLbdxSzMY&s=1695190152&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=HsPNCifcr0sYIUngcpZ5pLPJjg4AQz1h-rwsiQG1M1U&s=1695211907&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.84&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/la-tribu",
+                                "title": "La Tribu (2009)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aHwJWh2fuGkpCvQ4ca1KADMKmxw.jpg"
+                            },
                             {
                                 "url": "/pelicula/max-2-el-heroe-de-la-casa-blanca",
                                 "title": "Max 2: El héroe de la Casa Blanca (2017)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/armero",
                                 "title": "Armero (2017)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/1yhaCCHSZ0fs5cbLDLO1XYEinRv.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-viajante",
-                                "title": "El viajante (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ojCY4Lgpvx7SonVp6mUN0iTWCIS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/max-2-el-heroe-de-la-casa-blanca",
-                    "title": "Max 2: El héroe de la Casa Blanca (2017)",
-                    "description": "Max es asignado a la Casa Blanca mientras que Butch, el perro del servicio secreto, está de baja por maternidad. Max conoce a TJ, un niño de 12 años que es el hijo del Presidente. Como su padre es muy importante, él se tiene que esforzar para llevar una vida normal. Durante la visita del Presidente de Rusia, que viene con su hija Alex, TJ acompaña a Alex y se hace amigo de ella. Cuando se meten en problemas será Max el que venga al rescate.",
-                    "genre": "Familia",
+                    "url": "/pelicula/la-tribu",
+                    "title": "La Tribu (2018)",
+                    "description": "La tribu cuenta la historia de Virginia, una mujer trabajadora que recupera el contacto con su hijo Fidel, que fue dado en adopción. Para disfrutar del tiempo libre, Virginia se ha unido a un grupo de baile de streetdance ('Las Mamis') cuyo ritmo le alegra y anima; además de salir de la monotonía de la vida diaria. Mientras ambos comienzan a conocerse y crear una unión de madre-hijo, el baile supondrá un nexo entre ellos en el que descubren que más allá de tener en común el parentesco, en la sangre llevan el ritmo. La tribu es una película de comedia dirigida por Fernando Colomo (Isla bonita, Al sur de Granada) que cuenta con la presencia de Carmen Machi (Pieles, Ocho apellidos vascos) y Paco León (Embarazados, Kiki, el amor se hace) entre otros.",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/max-2-el-heroe-de-la-casa-blanca",
+                        "url": "/pelicula/la-tribu",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
