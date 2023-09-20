@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/18968_background.jpg?v=1680369439"
                             },
                             {
-                                "url": "/anime/40496",
-                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/15443_background.jpg?v=1600736866"
-                            },
-                            {
                                 "url": "/anime/48561",
                                 "title": "Jujutsu Kaisen 0 Movie",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42165_background.jpg?v=1663885565"
+                            },
+                            {
+                                "url": "/anime/40496",
+                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/15443_background.jpg?v=1600736866"
                             }
                         ],
                         "hasNextPage": false
@@ -91,6 +91,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/70400/legendado",
+                                "title": "Ao no Orchestra",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42675_background.jpg?v=1681417296"
+                            },
+                            {
+                                "url": "/episodio/70399/legendado",
+                                "title": "Yumemiru Danshi wa Genjitsushugisha",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42722_background.jpg?v=1688506446"
+                            },
                             {
                                 "url": "/episodio/70398/legendado",
                                 "title": "Filme Yasashii Lion",
@@ -200,16 +210,6 @@
                                 "url": "/episodio/70377/legendado",
                                 "title": "Toaru Majutsu no Index-tan II",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6878_background.jpg?v=1695168337"
-                            },
-                            {
-                                "url": "/episodio/70376/legendado",
-                                "title": "Toaru Majutsu no Index-tan II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6878_background.jpg?v=1695168337"
-                            },
-                            {
-                                "url": "/episodio/70375/legendado",
-                                "title": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/9089_background.jpg?v=1695166504"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watashi-no-shiawase-na-kekkon-12-bolum-final",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179810001688655542.webp"
+                            },
+                            {
                                 "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179900001688907301.webp"
@@ -52,11 +57,6 @@
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179800001688635142.webp"
                             },
                             {
-                                "url": "/watashi-no-shiawase-na-kekkon",
-                                "title": "Watashi no Shiawase na Kekkon",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179810001688655542.webp"
-                            },
-                            {
                                 "url": "/horimiya-piece",
                                 "title": "Horimiya: Piece",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179750001688240461.webp"
@@ -96,6 +96,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/watashi-no-shiawase-na-kekkon-12-bolum-final",
+                                "title": "Watashi no Shiawase na Kekkon",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179810001688655542.webp"
+                            },
                             {
                                 "url": "/spy-kyoushitsu-2nd-season",
                                 "title": "Spy Kyoushitsu 2nd Season",
@@ -175,11 +180,6 @@
                                 "url": "/bleach-sennen-kessen-hen---ketsubetsu-tan",
                                 "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179870001688834342.webp"
-                            },
-                            {
-                                "url": "/ayaka",
-                                "title": "Ayaka",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180100001689629701.webp"
                             },
                             {
                                 "url": "/ayaka",
@@ -353,137 +353,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
-                    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-                    "artist": "BUG FILMS",
-                    "description": "Çöplerle dolu bir apartman dairesinde, 24 yaşındaki Akira Tendo cansız ve kıskanç gözlerle bir zombi filmi izlemektedir. Japonya'da sömürücü bir şirkette üç zor yıl geçirdikten sonra, ruhu kırılmıştır. Güzel iş arkadaşı Odori'ye duygularını itiraf edecek cesareti bile toplayamamaktadır. Sonra bir sabah, ev sahibini öğle yemeği yerken bulur - ki o da başka bir kiracıdır! Tüm şehir zombi kaynıyor ve canını kurtarmak için kaçıyor olsa da Akira kendini hiç bu kadar canlı hissetmemişti!\nDiğer adlar: Zom 100: Bucket List of the Dead, Bucket List of The Dead, Zombie 100: 100 Things I Want to do Before I Become a Zombie\nJaponca İsmi: ゾン100～ゾンビになるまでにしたい100のこと～\nStüdyo: BUG FILMS",
-                    "genre": "Aksiyon, Komedi, Korku, Doğaüstü-Güçler",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/179900001688907301l.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-8-bolum",
-                        "name": "8. Bölüm",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-7-bolum",
-                        "name": "7. Bölüm",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/zpszb8ycwnhk",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-jsubhv3syezen0hx.voe-network.net/engine/hls2-c/01/09560/zpszb8ycwnhk_,n,.urlset/master.m3u8?t=Oa7SG5Qxt7fLPr2HnywxZbac1D4FBCSouazpA2l5qMY&s=1695211897&e=14400&f=47803838&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=104.45&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/ccqilgdrmlkr",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/09560/zpszb8ycwnhk_,n,.urlset/master.m3u8?t=Oa7SG5Qxt7fLPr2HnywxZbac1D4FBCSouazpA2l5qMY&s=1695211897&e=14400&f=47804020&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=104.45&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=xg7lIEIstXLxmz014g637w7ZxxuqKQG1slqwj0lmnz6HtZHEyC3W9PLZ6sz1%2FSSOve3RDdt%2FekHjLhsNGaUbDVrF9GB%2BSwgoQ%2F%2FBdH6TrCWbSZuI%2B8UBCgDcxtJOY%2Fn6prylV7Qw1eN6PKlOum16broC31OE36tVlNiFTMgKwrPVJNbjrJ6Zwr7p9fcWhphUI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
-                        "quality": "[Holy] GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=xg7lIEIstXLxmz014g637w7ZxxuqKQG1slqwj0lmnz6HtZHEyC3W9PLZ6sz1%2FSSOve3RDdt%2FekHjLhsNGaUbDVrF9GB%2BSwgoQ%2F%2FBdH6TrCWbSZuI%2B8UBCgDcxtJOY%2Fn6prylV7Qw1eN6PKlOum16broC31OE36tVlNiFTMgKwrPVJNbjrJ6Zwr7p9fcWhphUI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=Uiw0sry2p3o&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:720p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=Uiw0sry2p3o&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=Uiw0sry2p3o&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:720p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=Uiw0sry2p3o&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=iGo0AXAdMGw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:1080p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=iGo0AXAdMGw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=iGo0AXAdMGw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:1080p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=iGo0AXAdMGw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=DHTlfa1VfT8&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:480p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=DHTlfa1VfT8&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=DHTlfa1VfT8&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:480p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=DHTlfa1VfT8&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=xg7lIEIstXLxmz014g637w7ZxxuqKQG1slqwj0lmnz6HtZHEyC3W9PLZ6sz1%2FSSOve3RDdt%2FekHjLhsNGaUbDVrF9GB%2BSwgoQ%2F%2FBdH6TrCWbSZuI%2B8UBCgDcxtJOY%2Fn6prylV7Qw1eN6PKlOum16broC31OE36tVlNiFTMgKwrPVJNbjrJ6Zwr7p9fcWhphUI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=xg7lIEIstXLxmz014g637w7ZxxuqKQG1slqwj0lmnz6HtZHEyC3W9PLZ6sz1%2FSSOve3RDdt%2FekHjLhsNGaUbDVrF9GB%2BSwgoQ%2F%2FBdH6TrCWbSZuI%2B8UBCgDcxtJOY%2Fn6prylV7Qw1eN6PKlOum16broC31OE36tVlNiFTMgKwrPVJNbjrJ6Zwr7p9fcWhphUI%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=k82L5VrFdXIbiRL8G%2BQFiQ4iK6hIXTAoIanjirfqRurluVpXPgtEDJvr8eLoLTz18GKngajTyNkS%2Bo2Z486MJNqIJ%2FW8FNnpFKwvq%2BoXs5Il9nwk6qpN5130NdbHtcvCQwkvJXNhwcR5DeYTYclMrICNc53GgXOhQffZiP92vkuaLoTzBJDmTFHp7%2BYUO8MyQ%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=k82L5VrFdXIbiRL8G%2BQFiQ4iK6hIXTAoIanjirfqRurluVpXPgtEDJvr8eLoLTz18GKngajTyNkS%2Bo2Z486MJNqIJ%2FW8FNnpFKwvq%2BoXs5Il9nwk6qpN5130NdbHtcvCQwkvJXNhwcR5DeYTYclMrICNc53GgXOhQffZiP92vkuaLoTzBJDmTFHp7%2BYUO8MyQ%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=ASlkQW9nzEw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:360p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=ASlkQW9nzEw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=ASlkQW9nzEw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:360p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=ASlkQW9nzEw&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=8sK_l3uRBcI&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:240p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=8sK_l3uRBcI&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=8sK_l3uRBcI&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:240p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=8sK_l3uRBcI&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=hIJ0hrhrpbs&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:144p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=hIJ0hrhrpbs&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=hIJ0hrhrpbs&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693",
-                        "quality": "[Holy] Okru:144p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1695298287520&srcIp=104.45.206.209&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=hIJ0hrhrpbs&ct=0&urls=45.136.21.76%3B45.136.20.54&clientType=0&zs=43&id=5163906173693"
-                    },
-                    {
-                        "url": "https://m20.uqload.io/3rfkolelrbw2q4drdk4pxpvccnwe5cezlu6ibfhx7cdpv2e5cw4s5tpy2ucq/v.mp4",
-                        "quality": "[Holy] Uqload",
-                        "videoUrl": "https://m20.uqload.io/3rfkolelrbw2q4drdk4pxpvccnwe5cezlu6ibfhx7cdpv2e5cw4s5tpy2ucq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://m20.uqload.io/3rfkoiulrbw2q4drdk4pxpvccpg6mrfllipu43udb5bigzh5k252hg2dj7ba/v.mp4",
-                        "quality": "[Holy] Uqload",
-                        "videoUrl": "https://m20.uqload.io/3rfkoiulrbw2q4drdk4pxpvccpg6mrfllipu43udb5bigzh5k252hg2dj7ba/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
+                "passed": false
             }
         }
     }
