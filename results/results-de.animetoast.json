@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
+                                "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg"
+                            },
+                            {
+                                "url": "/synduality-noir-ger-sub/",
+                                "title": "Synduality: Noir Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64388.jpg"
+                            },
+                            {
+                                "url": "/genjitsu-no-yohane-sunshine-in-the-mirror-ger-sub/",
+                                "title": "Genjitsu no Yohane: Sunshine in the Mirror Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/56751.png"
+                            },
+                            {
                                 "url": "/ayakashi-triangle-ger-sub/",
                                 "title": "Ayakashi Triangle Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/53224.jpg"
@@ -170,21 +185,6 @@
                                 "url": "/bang-dream-its-mygo-ger-sub/",
                                 "title": "BanG Dream! It’s MyGO!!!!! Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/64381.jpg"
-                            },
-                            {
-                                "url": "/undead-girl-murder-farce-ger-sub/",
-                                "title": "Undead Girl Murder Farce Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/64390.jpg"
-                            },
-                            {
-                                "url": "/shiro-seijo-to-kuro-bokushi-ger-sub/",
-                                "title": "Shiro Seijo to Kuro Bokushi Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/59727.jpg"
-                            },
-                            {
-                                "url": "/watashi-no-shiawase-na-kekkon-ger-sub/",
-                                "title": "Watashi no Shiawase na Kekkon Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55449.jpg"
                             },
                             {
                                 "url": "/okashi-na-tensei-ger-dub/",
@@ -439,23 +439,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/ayakashi-triangle-ger-sub/",
-                    "title": "Ayakashi Triangle Ger Sub",
-                    "description": "In Japan wimmelt es zwar von mysteriösen Monstern, die Ayakashi genannt werden, aber es gibt eine spezielle Truppe von Exorzisten-Ninjas, die sich gegen diese Bedrohung wehren! Der junge Ninja-Exorzist Matsuri verbringt seine Tage im Kampf gegen die Ayakashi, um seine Jugendfreundin Suzu zu beschützen. Doch als die Ayakashi-Katze Shirogane auftaucht, stehen die Dinge auf dem Kopf!\n ",
-                    "genre": "Action, Comedy, Ecchi, Harem, Magic, Romance, Supernatural, Superpower",
+                    "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/",
+                    "title": "Suki na Ko ga Megane wo Wasureta Ger Sub",
+                    "description": "Kaede Komura hat seine Aufmerksamkeit stets auf seine Tischnachbarin Ai Mie gerichtet. Von ihrem süßen Charme angezogen, wünscht er sich nichts mehr, als dass sie ihn mit ihren schönen Augen unter ihrer Brille ansieht. Doch schon wenige Tage nach ihrem Kennenlernen bemerkt Kaede, dass an Ai etwas anders ist: Ihre Augen schielen und ihre Brille fehlt, aber trotzdem findet er sie weiterhin bezaubernd …\n ",
+                    "genre": "Romance, School, Shounen, Slice of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/53224.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/60250.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NumberFormatException: For input string: \"Ep.6.5\"",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/?link=11",
+                        "name": "Ep. 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/suki-na-ko-ga-megane-wo-wasureta-ger-sub/?link=10",
+                        "name": "Ep. 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\"",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
