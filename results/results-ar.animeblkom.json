@@ -47,6 +47,11 @@
                                 "thumbnail_url": "https://animeblkom.net/uploads/65342/kimetsu-no-yaiba-yuukaku-hen-poster-3906.jpg"
                             },
                             {
+                                "url": "/movie/howl-no-ugoku-shiro",
+                                "title": "Howl no Ugoku Shiro",
+                                "thumbnail_url": "https://animeblkom.net/uploads/63483/howl-no-ugoku-shiro-poster-2005.jpg"
+                            },
+                            {
                                 "url": "/anime/bleach",
                                 "title": "Bleach",
                                 "thumbnail_url": "https://animeblkom.net/uploads/61500/Bleach-poster-9.jpg"
@@ -85,11 +90,6 @@
                                 "url": "/anime/bleach-sennen-kessen-hen",
                                 "title": "Bleach: Sennen Kessen-hen",
                                 "thumbnail_url": "https://animeblkom.net/uploads/65465/bleach-sennen-kessen-hen-poster-4029.jpg"
-                            },
-                            {
-                                "url": "/movie/howl-no-ugoku-shiro",
-                                "title": "Howl no Ugoku Shiro",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63483/howl-no-ugoku-shiro-poster-2005.jpg"
                             },
                             {
                                 "url": "/movie/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
@@ -201,36 +201,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1695341514&token=kNuMaooWavW9-Pxe8TutvA",
-                        "quality": "Blkbom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1695341514&token=kNuMaooWavW9-Pxe8TutvA",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1695341514&token=6LQPLoI1RDiakpIKw9U4XA",
-                        "quality": "Blkbom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1695341514&token=6LQPLoI1RDiakpIKw9U4XA",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1695341514&token=6xmJ82TbgUb1f5X8FtTWJg",
-                        "quality": "Blkbom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1695341514&token=6xmJ82TbgUb1f5X8FtTWJg",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
