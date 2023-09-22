@@ -81,7 +81,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMzc5TU9TdXpYR2plRldFekRmZy8zWks4VHdpc3YxTkNuSHpZSnJXQlo2eWc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=ovtnogv3cf73fg96lha7vdbang",
+                            "cookie": "PHPSESSID=vtf76rrsg5guhaq08ra8rffne0",
                             "accept": "*/*"
                         }
                     },
@@ -91,7 +91,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMCtnUnpDbmFwUE4yblBZcHg0aHZFMGVSb21PZEx4YzJtLzhaYVdNbFYvZmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=ovtnogv3cf73fg96lha7vdbang",
+                            "cookie": "PHPSESSID=vtf76rrsg5guhaq08ra8rffne0",
                             "accept": "*/*"
                         }
                     },
@@ -101,7 +101,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZME1SelVDUXQ3dnNpU002L0JmSGFUSHZ3SEdJSlhiTkxKMEQ5S2RRNUhFSmc9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=ovtnogv3cf73fg96lha7vdbang",
+                            "cookie": "PHPSESSID=vtf76rrsg5guhaq08ra8rffne0",
                             "accept": "*/*"
                         }
                     },
@@ -111,7 +111,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMDU5SGN3TDdFcjdURFMxWVA2T2JyeTdiNm5OYnVzeXVkV21GTUQ3V24rZUE9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=ovtnogv3cf73fg96lha7vdbang",
+                            "cookie": "PHPSESSID=vtf76rrsg5guhaq08ra8rffne0",
                             "accept": "*/*"
                         }
                     },
@@ -121,7 +121,7 @@
                         "videoUrl": "https://beta.awstream.net/stream/NVhOQlpaYUJWbGhFOGFvYVVFM1pBbTFPOGxPbHhTVVFidVBSakVWN0dZMWZxNUVkNUt0MVZvNjNpMHBzdXVMZXVZcWU0OTlMVmg0VDBtblBRTW0xZ1E9PQ==",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "cookie": "PHPSESSID=ovtnogv3cf73fg96lha7vdbang",
+                            "cookie": "PHPSESSID=vtf76rrsg5guhaq08ra8rffne0",
                             "accept": "*/*"
                         }
                     }
@@ -228,14 +228,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/331.webp"
                             },
                             {
+                                "url": "/series/pokemon-diamond-and-pearl/",
+                                "title": "Pokémon: Diamond and Pearl",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1078.webp"
+                            },
+                            {
                                 "url": "/series/miraculous-tales-of-ladybug-cat-noir/",
                                 "title": "Miraculous: Tales of Ladybug & Cat Noir",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2767.webp"
-                            },
-                            {
-                                "url": "/series/pokemon-master-journeys/",
-                                "title": "Pokémon: Master Journeys",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/1219.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -569,9 +569,9 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2750.webp"
                             },
                             {
-                                "url": "/series/miraculous-tales-of-ladybug-cat-noir/",
-                                "title": "Miraculous: Tales of Ladybug & Cat Noir",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2767.webp"
+                                "url": "/series/pokemon-diamond-and-pearl/",
+                                "title": "Pokémon: Diamond and Pearl",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/1078.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -1303,8 +1303,17 @@
                 "passed": true
             },
             "details": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: INTERNAL_ERROR",
-                "passed": false
+                "result": {
+                    "url": "/series/the-adventures-of-tintin/",
+                    "title": "The Adventures of Tintin",
+                    "author": "Amblin Entertainment",
+                    "description": "Intrepid young reporter, Tintin, and his loyal dog, Snowy, are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson and Thomson, travel half the world, one step ahead of their enemies, as Tintin endeavors to find the Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.",
+                    "genre": "Action, Adventure, Animation, Mystery",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -1411,24 +1420,24 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2850.webp"
                             },
                             {
-                                "url": "/series/digimon-adventure/",
-                                "title": "Digimon Adventure",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2847.webp"
-                            },
-                            {
                                 "url": "/series/timon-pumbaa/",
                                 "title": "Timon & Pumbaa",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/3417.webp"
                             },
                             {
-                                "url": "/series/guardians-of-the-galaxy/",
-                                "title": "Guardians of the Galaxy",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
+                                "url": "/series/digimon-adventure/",
+                                "title": "Digimon Adventure",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2847.webp"
                             },
                             {
                                 "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
                                 "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7914.webp"
+                            },
+                            {
+                                "url": "/series/guardians-of-the-galaxy/",
+                                "title": "Guardians of the Galaxy",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -1531,14 +1540,14 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2851.webp"
                             },
                             {
-                                "url": "/series/gravity-falls/",
-                                "title": "Gravity Falls",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2849.webp"
-                            },
-                            {
                                 "url": "/series/hulk-and-the-agents-of-s-m-a-s-h/",
                                 "title": "Hulk and the Agents of S.M.A.S.H.",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2850.webp"
+                            },
+                            {
+                                "url": "/series/gravity-falls/",
+                                "title": "Gravity Falls",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2849.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -1732,24 +1741,24 @@
                                 "thumbnail_url": "https://anime-world.in/files/Poster/2850.webp"
                             },
                             {
-                                "url": "/series/digimon-adventure/",
-                                "title": "Digimon Adventure",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/2847.webp"
-                            },
-                            {
                                 "url": "/series/timon-pumbaa/",
                                 "title": "Timon & Pumbaa",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/3417.webp"
                             },
                             {
-                                "url": "/series/guardians-of-the-galaxy/",
-                                "title": "Guardians of the Galaxy",
-                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
+                                "url": "/series/digimon-adventure/",
+                                "title": "Digimon Adventure",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/2847.webp"
                             },
                             {
                                 "url": "/series/pokemon-the-movie-hoopa-and-the-clash-of-ages/",
                                 "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
                                 "thumbnail_url": "https://anime-world.in/files/Poster/7914.webp"
+                            },
+                            {
+                                "url": "/series/guardians-of-the-galaxy/",
+                                "title": "Guardians of the Galaxy",
+                                "thumbnail_url": "https://anime-world.in/files/Poster/3411.webp"
                             }
                         ],
                         "hasNextPage": true
