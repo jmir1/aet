@@ -310,61 +310,21 @@
             "details": {
                 "result": {
                     "url": "/watch?e=My-Mother-1&f=s",
-                    "title": "My Mother",
-                    "author": "XTER",
-                    "description": "Based on doujin by XTER and created by the man himself comes My Mother in animated form.",
+                    "author": "",
+                    "description": "Based on doujin by XTER and created by the man himself comes My Mother in animated form. Watch My Mother () on oppai.stream for free!",
                     "genre": "4k, anal, beach, bigboobs, blackhair, blowjob, cowgirl, creampie, doggy, hd, incest, milf, missionary, uncensored",
-                    "thumbnail_url": "https://myspacecat.pictures/My Mother The Animation Thai/thumbnail_1.png",
+                    "thumbnail_url": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch.php?e=My-Mother-1",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01.mp4",
-                        "quality": "720p",
-                        "videoUrl": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01.mp4",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01_SUB_1.vtt",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://myspacecat.pictures/My Mother The Animation Thai/4k/E01.webm",
-                        "quality": "2160p",
-                        "videoUrl": "https://myspacecat.pictures/My Mother The Animation Thai/4k/E01.webm",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01_SUB_1.vtt",
-                                "lang": "English"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://myspacecat.pictures/My Mother The Animation Thai/1080/E01.webm",
-                        "quality": "1080p",
-                        "videoUrl": "https://myspacecat.pictures/My Mother The Animation Thai/1080/E01.webm",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01_SUB_1.vtt",
-                                "lang": "English"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

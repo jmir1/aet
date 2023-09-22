@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/super-mario-bros-la-pelicula/",
+                                "title": "Súper Mario Bros: La película",
+                                "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi,...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/aYkpiNOChsLCy3W.webp"
+                            },
+                            {
                                 "url": "/pelicula/after-aqui-acaba-todo/",
                                 "title": "After: Aquí acaba todo",
                                 "description": "After llega a su fin. Por fin conoceremos cómo acaba la historia de Hardin y Tessa, dos almas gemel...",
@@ -239,12 +245,6 @@
                                 "title": "About My Father",
                                 "description": "Un joven le dice a su padre Salvo, un inmigrante italiano de la vieja escuela, que tiene intención ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EU1AM93SjYjObOqEMuW2iMtHkHkdOPRjzI.webp"
-                            },
-                            {
-                                "url": "/pelicula/arturo-y-el-algoritmo/",
-                                "title": "Arturo y el algoritmo",
-                                "description": "Arturo es despedido de su empresa al aplicar un algoritmo que él mismo ha ayudado a crear y que hac...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/tpZ67NhqAW9RuTD3khLJR02.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/after-aqui-acaba-todo/",
-                    "title": "After: Aquí acaba todo",
-                    "description": "After llega a su fin. Por fin conoceremos cómo acaba la historia de Hardin y Tessa, dos almas gemelas que no pueden estar separadas, pero que no saben cómo estar juntas.",
-                    "genre": "Drama, Romance",
+                    "url": "/pelicula/super-mario-bros-la-pelicula/",
+                    "title": "Súper Mario Bros: La película",
+                    "description": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+                    "genre": "Animación, Aventura, Comedia, Estrenos",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/after-aqui-acaba-todo/",
+                        "url": "/pelicula/super-mario-bros-la-pelicula/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar NIORqjgMCb = \"\"; kwkbZXS.forEach(function Oym(value) { NIORqjgMCb += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
