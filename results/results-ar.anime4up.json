@@ -361,11 +361,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/kengan-ashura-part-2-الحلقة-12-والاخيرة/",
+                        "name": "الأونا 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/episode/kengan-ashura-part-2-الحلقة-11/",
+                        "name": "الأونا 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

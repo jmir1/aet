@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=3YgQeafzN_73iDNdAfi4y1qJjvoYZQI0uTOutep1OBs&s=1695319723&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.77&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=94mjhI3bEiIaQNAE2eHecbjiiXj7BY1I7R6cI_2nN2U&s=1695342555&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=20.169&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695389722&ip=GxOsEHEnDS9X&token=iQhQgfI4hGTS",
+                        "url": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695412553&ip=FROsD0IAKxSHDN&token=ZkclXdbeIwxX",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695389722&ip=GxOsEHEnDS9X&token=iQhQgfI4hGTS"
+                        "videoUrl": "https://streamtape.com/get_video?id=PklYQrMld3u00RB&expires=1695412553&ip=FROsD0IAKxSHDN&token=ZkclXdbeIwxX"
                     },
                     {
                         "url": "https://voe.sx/e/mfelmg4jicch",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=3YgQeafzN_73iDNdAfi4y1qJjvoYZQI0uTOutep1OBs&s=1695319723&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=40.77&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-2sswyguyhsj4lxd9.voe-network.net/engine/hls2/01/09552/mfelmg4jicch_,n,.urlset/master.m3u8?t=94mjhI3bEiIaQNAE2eHecbjiiXj7BY1I7R6cI_2nN2U&s=1695342555&e=14400&f=47762785&node=delivery-node-2sswyguyhsj4lxd9.voe-network.net&i=20.169&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -611,6 +611,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/donyale-luna-supermodelo/",
+                                "title": "Donyale Luna: Supermodelo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/donyale-luna-supermodelo.jpg"
+                            },
+                            {
+                                "url": "/pelicula/eismayer/",
+                                "title": "Eismayer",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/eismayer.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ghost-light/",
+                                "title": "Ghost Light",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ghost-light.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-saint-of-second-chances/",
+                                "title": "The Saint of Second Chances",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-saint-of-second-chances.jpg"
+                            },
+                            {
                                 "url": "/pelicula/al-servicio-del-reich-filip/",
                                 "title": "Al servicio del Reich (Filip)",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/al-servicio-del-reich-filip.jpg"
@@ -689,26 +709,6 @@
                                 "url": "/pelicula/the-lesson/",
                                 "title": "The Lesson",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/the-lesson.jpg"
-                            },
-                            {
-                                "url": "/pelicula/carmen-electras-aerobic-striptease-vol-6-in-the-bedroom/",
-                                "title": "Carmen Electra's Aerobic Striptease, Vol 6 - In the Bedroom",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/carmen-electras-aerobic-striptease-vol-6-in-the-bedroom.jpg"
-                            },
-                            {
-                                "url": "/pelicula/little-house-the-last-farewell/",
-                                "title": "Little House: The Last Farewell",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/little-house-the-last-farewell.jpg"
-                            },
-                            {
-                                "url": "/pelicula/little-house-look-back-to-yesterday/",
-                                "title": "Little House: Look Back to Yesterday",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/little-house-look-back-to-yesterday.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-justiciero-capitulo-final/",
-                                "title": "El Justiciero: Capítulo final",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-justiciero-capitulo-final.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -877,13 +877,22 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/donyale-luna-supermodelo/",
+                    "title": "Donyale Luna: Supermodelo",
+                    "artist": "",
+                    "description": "",
+                    "genre": "Documental",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/al-servicio-del-reich-filip/",
+                        "url": "/pelicula/donyale-luna-supermodelo/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
