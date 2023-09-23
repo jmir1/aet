@@ -137,6 +137,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kanojo-okarishimasu-3rd-season",
+                                "title": "Kanojo, Okarishimasu 3rd Season الحلقة 11 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37546/E1nmjdPkVcqB8z9E10.jpg"
+                            },
+                            {
+                                "url": "/anime/ai-no-idenshi",
+                                "title": "AI no Idenshi الحلقة 11 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37543/GebZ9RHdtYgPOV4s10.jpg"
+                            },
+                            {
+                                "url": "/anime/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
+                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. الحلقة 12 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37540/281YlJ1MsAxUiZvo65.jpg"
+                            },
+                            {
+                                "url": "/anime/mix-meisei-story-2nd-season",
+                                "title": "Mix: Meisei Story 2nd Season الحلقة 24 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37537/6Db2lM1Hx5StarhL10.jpg"
+                            },
+                            {
                                 "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan",
                                 "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan الحلقة 10 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37500/490XFZPo8KZlyy6D45.jpg"
@@ -205,26 +225,6 @@
                                 "url": "/anime/dekiru-neko-wa-kyou-mo-yuuutsu",
                                 "title": "Dekiru Neko wa Kyou mo Yuuutsu الحلقة 9 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37240/zMiMogXPLNV0GMiH45.jpg"
-                            },
-                            {
-                                "url": "/anime/uchi-no-kaisha-no-chiisai-senpai-no-hanashi",
-                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi الحلقة 8 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37233/Z2GFiwewIWVLw3D910.jpg"
-                            },
-                            {
-                                "url": "/anime/ayaka",
-                                "title": "Ayaka الحلقة 10 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37231/QrPYQp5bTf8NxKuh30.jpg"
-                            },
-                            {
-                                "url": "/anime/maou-gakuin-no-futekigousha-2nd-season",
-                                "title": "Maou Gakuin no Futekigousha 2nd Season الحلقة 9 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37221/kWQZMaeZC2EYaL5f85.jpg"
-                            },
-                            {
-                                "url": "/anime/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
-                                "title": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega الحلقة 10 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37217/fGpQ3Vc3tCY33K3485.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -381,7 +381,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }
