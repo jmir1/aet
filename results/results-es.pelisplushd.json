@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-cancion-de-los-bandidos",
+                                "title": "La canción de los bandidos (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qoN46ly7xbsj3mdMkRXHwCthi4I.jpg"
+                            },
+                            {
                                 "url": "/serie/teenage-euthanasia",
                                 "title": "Teenage Euthanasia (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/f0g3CYX31s5LUAw882h6r4QbpeT.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/a-su-servicio",
                                 "title": "¡A su servicio! (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/dLhnnXUnlCmaEDahDX72Fu7WVLs.jpg"
-                            },
-                            {
-                                "url": "/serie/predators",
-                                "title": "Predators (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/r8xCjuwOODzTK9bSAOsJT8YVlUg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/teenage-euthanasia",
-                    "title": "Teenage Euthanasia (2021)",
-                    "description": "Ambientada en un futuro no muy lejano, en el interior de Florida, Teenage Euthanasia se centra en la excéntrica vida de la familia Fantasy, propietarios de la funeraria Tiernos Finales..",
-                    "genre": "Animación, Comedia",
+                    "url": "/serie/la-cancion-de-los-bandidos",
+                    "title": "La canción de los bandidos (2023)",
+                    "description": "En la anárquica región de Gando, unos fieros bandidos no se detendrán ante nada para luchar por su adorada patria y sus seres queridos... aunque eso suponga la muerte..",
+                    "genre": "Drama, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/f0g3CYX31s5LUAw882h6r4QbpeT.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qoN46ly7xbsj3mdMkRXHwCthi4I.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/teenage-euthanasia/temporada/2/capitulo/8",
-                        "name": "T2 - E8: Episodio 8",
-                        "episode_number": 15.0
+                        "url": "/serie/la-cancion-de-los-bandidos/temporada/1/capitulo/9",
+                        "name": "T1 - E9: Episodio 9",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/serie/teenage-euthanasia/temporada/2/capitulo/7",
-                        "name": "T2 - E7: Episodio 7",
-                        "episode_number": 14.0
+                        "url": "/serie/la-cancion-de-los-bandidos/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -293,14 +293,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/5sbsn3wrfofj",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09553/5sbsn3wrfofj_,n,.urlset/master.m3u8?t=V8609UL5JaIlF_Av36CQfLBQZzEc5kJhDwnlIdx5wAU&s=1695557425&e=14400&f=47767116&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=13.91&sp=2500&asn=8075"
+                        "url": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04682/ws07suol8y4o_h/index-v1-a1.m3u8?t=gKIkZ8KV0JDgTtbUnFrE50cUkd4eGT64KiJpAHMZhgw&s=1695578853&e=43200&f=23410837&srv=03&asn=8075&sp=2000",
+                        "quality": "Filemoon - 536p",
+                        "videoUrl": "https://be4235.rcr32.ams02.cdn112.com/hls2/01/04682/ws07suol8y4o_h/index-v1-a1.m3u8?t=gKIkZ8KV0JDgTtbUnFrE50cUkd4eGT64KiJpAHMZhgw&s=1695578853&e=43200&f=23410837&srv=03&asn=8075&sp=2000",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://filemoon.sx/e/ws07suol8y4o",
+                            "Origin": "https://filemoon.sx"
+                        }
                     },
                     {
-                        "url": "https://voe.sx/e/5sbsn3wrfofj",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09553/5sbsn3wrfofj_,n,.urlset/master.m3u8?t=V8609UL5JaIlF_Av36CQfLBQZzEc5kJhDwnlIdx5wAU&s=1695557425&e=14400&f=47767116&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=13.91&sp=2500&asn=8075"
+                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695648858&ip=F0AsFxEnDS9X&token=AUvoJdErdCbO",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695648858&ip=F0AsFxEnDS9X&token=AUvoJdErdCbO"
                     }
                 ],
                 "passed": true

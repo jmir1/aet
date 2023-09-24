@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/assistir-pequenos-espioes-apocalipse-online/",
+                                "title": "Pequenos Espiões: Apocalipse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cwCKYjIPXapuBtO51S81GNhoGxV.jpg"
+                            },
+                            {
                                 "url": "/series/assistir-o-continental-do-mundo-de-john-wick-online/",
                                 "title": "O Continental: Do Mundo de John Wick",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/filmes/assistir-besouro-azul-online/",
                                 "title": "Besouro Azul",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/AhmVkXerBVsuI6PejPeqaaW2wwT.jpg"
-                            },
-                            {
-                                "url": "/filmes/assistir-agente-stone-online/",
-                                "title": "Agente Stone",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yXoiBEzz8s2Z8QR0To9f1iXuUMd.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -444,11 +444,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/assistir-o-continental-do-mundo-de-john-wick-online/",
-                    "title": "O Continental: Do Mundo de John Wick",
-                    "description": "O jovem Winston Scott é arrastado para o cenário infernal da Nova York dos anos 70 para enfrentar um passado que ele pensava ter deixado para trás. Winston traça um caminho mortal através do misterioso submundo do hotel em uma tentativa angustiante de tomá-lo e finalmente assumir seu trono.\n",
-                    "genre": "Action & Adventure, Crime",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/uRcrRc74ztb1TV5uojRtXqvNQ5y.jpg",
+                    "url": "/filmes/assistir-pequenos-espioes-apocalipse-online/",
+                    "title": "Pequenos Espiões: Apocalipse",
+                    "description": "Quando os filhos dos maiores agentes secretos do mundo, involuntariamente, ajudam um poderoso desenvolvedor de jogos a liberar um vírus de computador que lhe dá o controle de toda a tecnologia, eles próprios devem se tornar espiões para salvar seus pais e o mundo.\n",
+                    "genre": "Ação, Aventura, Comédia, Família",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/cwCKYjIPXapuBtO51S81GNhoGxV.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -456,23 +456,26 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/assistir-o-continental-do-mundo-de-john-wick-1x3-online/",
-                        "name": "Temporada 1 x 3 - Episódio 3",
-                        "date_upload": 1696550400000,
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/episodios/assistir-o-continental-do-mundo-de-john-wick-1x2-online/",
-                        "name": "Temporada 1 x 2 - Episódio 2",
-                        "date_upload": 1695945600000,
-                        "episode_number": 2.0
+                        "url": "/filmes/assistir-pequenos-espioes-apocalipse-online/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/4/1/L/2/41L2m.aaa.mp4?u=0&b=0",
+                        "quality": "Dublado - 480p",
+                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/4/1/L/2/41L2m.aaa.mp4?u=0&b=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://painelfxtv.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
