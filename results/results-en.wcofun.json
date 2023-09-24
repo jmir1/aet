@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/doctor-snuggles",
+                                "title": "Doctor Snuggles",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933113.jpg"
+                            },
+                            {
+                                "url": "/anime/doctor-macwheelie",
+                                "title": "Doctor MacWheelie",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933112.jpg"
+                            },
+                            {
+                                "url": "/anime/dino-ranch",
+                                "title": "Dino Ranch",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933111.jpg"
+                            },
+                            {
                                 "url": "/anime/dick-spanner-p-i",
                                 "title": "Dick Spanner, P.I.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933110.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/coconut-the-little-dragon",
                                 "title": "Coconut, the Little Dragon",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933098.jpg"
-                            },
-                            {
-                                "url": "/anime/cocco-bill",
-                                "title": "Cocco Bill",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933097.jpg"
-                            },
-                            {
-                                "url": "/anime/blippi-wonders",
-                                "title": "Blippi Wonders",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933096.jpg"
-                            },
-                            {
-                                "url": "/anime/hi-no-tori-eden-no-sora",
-                                "title": "Hi no Tori: Eden no Sora",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933095.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dick-spanner-p-i",
-                    "title": "Dick Spanner, P.I.",
-                    "description": "A robot detective investigates numerous bizarre crimes in a futuristic city.",
-                    "genre": "Adventure, Comedy, Fantasy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933110.jpg",
+                    "url": "/anime/doctor-snuggles",
+                    "title": "Doctor Snuggles",
+                    "description": "The fantastic adventures of a friendly doctor and his friends.",
+                    "genre": "Family, Fantasy, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933113.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/doctor-snuggles-episode-13-the-amazing-reflective-myth",
+                        "name": "Season 1 - Episode 13",
+                        "episode_number": 113.0
+                    },
+                    {
+                        "url": "/doctor-snuggles-episode-12-the-great-disappearing-mystery",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjqt4RK4_6PNMbE26bBodLxZLxYkAUVNCVtTaoy2vp6eFcqnBleLgRff9eYESC6SDU9Tr8at0K6ouTm0oWpLgWguJ95e__Sp134YWZ41ak38HG2KyxejYQapCZhEhqAYI1dX8rKPJMSLDUH5Oa6AD1YI_pmifI7VfDDJc2czonYrVqO5UqSNFk5Pb-FVfsGx-zIphYzAfwzbyzGpHs-zDYksWAMdeb63kqWYRqQzUBzyvZTmHmad8_4YGUB8RFWPOQLPCVo3jOLw2MRa43rAnU6H04rKpkvmE51m3v6V_7b4x1kPUoHglc5jOoLP6DmDFQ4as0wiw2F6sHP9XB4R6g484uQXg0yk6MmWUDHevRsw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjqt4RK4_6PNMbE26bBodLxZLxYkAUVNCVtTaoy2vp6eFcqnBleLgRff9eYESC6SDU9Tr8at0K6ouTm0oWpLgWguJ95e__Sp134YWZ41ak38HG2KyxejYQapCZhEhqAYI1dX8rKPJMSLDUH5Oa6AD1YI_pmifI7VfDDJc2czonYrVqO5UqSNFk5Pb-FVfsGx-zIphYzAfwzbyzGpHs-zDYksWAMdeb63kqWYRqQzUBzyvZTmHmad8_4YGUB8RFWPOQLPCVo3jOLw2MRa43rAnU6H04rKpkvmE51m3v6V_7b4x1kPUoHglc5jOoLP6DmDFQ4as0wiw2F6sHP9XB4R6g484uQXg0yk6MmWUDHevRsw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjqt4RK4_6PNMbE26bBodLxZLxYkAUVNCVtTaoy2vp6eFcqnBleLgRff9eYESC6SDU9Tr8at0K6ouTm0oWpLgWguJ95e__Sp134YWZ41ak38HG2KyxejYQapCZhEhqAYIzDFlWA-lpSNuog7wmh9l7iBg2Gqmc5HeH4Urhr8h3i5dIxcNTMf5L2T5PMN9GeANnWtYwWexQ923tvipelXR0R_SZ98-ZIjoY5nP7pXzc6kpETlIAuABpafVZ9hX7UFwnk6J8g-2pj1ktG0Qt8O5R07LFCtW9B3YWmlSA7yuZrvA3_nmMN3i6x9KPVhDmQU5c8O2A7pRQw_K8ovNrbRHjuvay2B_GtO4RfHf9Y0pbeS",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjqt4RK4_6PNMbE26bBodLxZLxYkAUVNCVtTaoy2vp6eFcqnBleLgRff9eYESC6SDU9Tr8at0K6ouTm0oWpLgWguJ95e__Sp134YWZ41ak38HG2KyxejYQapCZhEhqAYIzDFlWA-lpSNuog7wmh9l7iBg2Gqmc5HeH4Urhr8h3i5dIxcNTMf5L2T5PMN9GeANnWtYwWexQ923tvipelXR0R_SZ98-ZIjoY5nP7pXzc6kpETlIAuABpafVZ9hX7UFwnk6J8g-2pj1ktG0Qt8O5R07LFCtW9B3YWmlSA7yuZrvA3_nmMN3i6x9KPVhDmQU5c8O2A7pRQw_K8ovNrbRHjuvay2B_GtO4RfHf9Y0pbeS"
+                    }
+                ],
+                "passed": true
             }
         }
     }
