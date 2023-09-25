@@ -3,230 +3,28 @@
         "name": "marin.moe (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/dg1dzzhz",
-                                "title": "Accel World",
-                                "thumbnail_url": "https://marin.moe/images/anime/mvzn3kcsz-6118d1c6e241a456748902.jpg"
-                            },
-                            {
-                                "url": "/anime/zq5am385",
-                                "title": "Accel World: Infinite Burst",
-                                "thumbnail_url": "https://marin.moe/images/anime/ifbk0zhq2-6343f2063664a738579923.jpg"
-                            },
-                            {
-                                "url": "/anime/lp6lezwi",
-                                "title": "Ange Vierge",
-                                "thumbnail_url": "https://marin.moe/images/anime/bpgy4tga7-626563380f894114297369.jpg"
-                            },
-                            {
-                                "url": "/anime/iu5l8elt",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou",
-                                "thumbnail_url": "https://marin.moe/images/anime/g5aqrtsgd-61bca9f1bc334748356797.jpg"
-                            },
-                            {
-                                "url": "/anime/djzlv4u4",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
-                                "thumbnail_url": "https://marin.moe/images/anime/7hzjzrnlt-61e0040314978766874494.jpg"
-                            },
-                            {
-                                "url": "/anime/2ey79wdd",
-                                "title": "Benriya Saitou-san, Isekai ni Iku",
-                                "thumbnail_url": "https://marin.moe/images/anime/c3vloykmn-63bb1d59ce370966777338.jpg"
-                            },
-                            {
-                                "url": "/anime/w3duoqcp",
-                                "title": "Birth",
-                                "thumbnail_url": "https://marin.moe/images/anime/3we87lhxl-6372c521b539d024902506.jpg"
-                            },
-                            {
-                                "url": "/anime/c2o3rqvq",
-                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-                                "thumbnail_url": "https://marin.moe/images/anime/gv2tmn2ak-6118c558590a7126906287.jpg"
-                            },
-                            {
-                                "url": "/anime/wmqwgdwz",
-                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-                                "thumbnail_url": "https://marin.moe/images/anime/seytlzasb-62e33a2aa4373299924412.jpg"
-                            },
-                            {
-                                "url": "/anime/1axzloem",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://marin.moe/images/anime/5wamvqacx-642ede3a9e756420785661.jpg"
-                            },
-                            {
-                                "url": "/anime/4g3bx1tz",
-                                "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu",
-                                "thumbnail_url": "https://marin.moe/images/anime/rx7qehlya-624ef71316e7d006546918.jpg"
-                            },
-                            {
-                                "url": "/anime/sfppqtzk",
-                                "title": "Hyouken no Majutsushi ga Sekai o Suberu",
-                                "thumbnail_url": "https://marin.moe/images/anime/xqbmehpwg-63b747eccf318855028240.jpg"
-                            },
-                            {
-                                "url": "/anime/5ibih6uv",
-                                "title": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta",
-                                "thumbnail_url": "https://marin.moe/images/anime/lkujlzev0-642bd1647c7d1492851005.jpg"
-                            },
-                            {
-                                "url": "/anime/g8qsfgip",
-                                "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-                                "thumbnail_url": "https://marin.moe/images/anime/vxjqraqdd-611863ca45ab0519130068.jpg"
-                            },
-                            {
-                                "url": "/anime/bw6pbl1g",
-                                "title": "Isekai Meikyuu de Harem o",
-                                "thumbnail_url": "https://marin.moe/images/anime/7v3y8ykr0-62c5b66ee9ee9697041304.jpg"
-                            },
-                            {
-                                "url": "/anime/1yydjjxn",
-                                "title": "Isekai no Seikishi Monogatari",
-                                "thumbnail_url": "https://marin.moe/images/anime/cylyceqi8-611746f1612af226443338.jpg"
-                            },
-                            {
-                                "url": "/anime/vxeml1rd",
-                                "title": "Isekai Nonbiri Nouka",
-                                "thumbnail_url": "https://marin.moe/images/anime/lovggp1qn-63b87f7c02680217060140.jpg"
-                            },
-                            {
-                                "url": "/anime/3c8wjokg",
-                                "title": "Isekai Ojisan",
-                                "thumbnail_url": "https://marin.moe/images/anime/fnmmae2si-62c88d197479b539480011.jpg"
-                            },
-                            {
-                                "url": "/anime/8yfd7w61",
-                                "title": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
-                                "thumbnail_url": "https://marin.moe/images/anime/xcqhvbzhc-643030288f459532117126.jpg"
-                            },
-                            {
-                                "url": "/anime/koblckxq",
-                                "title": "Isekai Shokudou 2",
-                                "thumbnail_url": "https://marin.moe/images/anime/by6odqchi-615748c8ad777830236763.jpg"
-                            },
-                            {
-                                "url": "/anime/tn7eywp2",
-                                "title": "Isekai Shoukan wa Nidome Desu",
-                                "thumbnail_url": "https://marin.moe/images/anime/dwypkbheb-6431c6ca034ec248605254.jpg"
-                            },
-                            {
-                                "url": "/anime/emjgadfz",
-                                "title": "Isekai wa Smartphone to Tomo ni.",
-                                "thumbnail_url": "https://marin.moe/images/anime/ztqedlpue-611843cd5a48c753204697.jpg"
-                            },
-                            {
-                                "url": "/anime/lk8uvxri",
-                                "title": "Isekai wa Smartphone to Tomo ni. 2",
-                                "thumbnail_url": "https://marin.moe/images/anime/sbjjdibvy-642b206c028af365016043.jpg"
-                            },
-                            {
-                                "url": "/anime/ghfp0dfy",
-                                "title": "Isekai Yakkyoku",
-                                "thumbnail_url": "https://marin.moe/images/anime/dbfgo8alg-62cae31a3ff5b884576150.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/dg1dzzhz",
-                    "title": "Accel World",
-                    "author": "ASCII Media Works, flying DOG, Genco, Rakuonsha, Sunrise, VIZ Media, Warner Bros. Japan",
-                    "description": "One autumn day in 2046, Haruyuki has an encounter with Kuroyuki-hime, the prettiest girl in his school. For the middle school boy who is often bullied, the meeting changes his life. Through a mysterious piece of software she gave him, Haruyuki learns about the existence of the virtual Accel World. It was after that fateful encounter that Haruyuki of the lowest school caste becomes Burst Linker, a courageous knight defending a princess.\n\nContent Rating: PG-13 - Teens 13 or older\nRelease Date: 23rd of Mar, 2012\nType: TV Series\nSource: Blu-ray",
-                    "genre": "Action, Game, Romance, School, Sci-Fi",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://marin.moe/images/anime/mvzn3kcsz-6118d1c6e241a456748902.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/dg1dzzhz/s8",
-                        "name": "Episode s8 Acchel World. 8",
-                        "date_upload": 1361923200000,
-                        "episode_number": 32.0
-                    },
-                    {
-                        "url": "https://marin.moe/anime/dg1dzzhz/s7",
-                        "name": "Episode s7 Acchel World. 7",
-                        "date_upload": 1359504000000,
-                        "episode_number": 31.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://marin.moe/anime/dg1dzzhz/s8",
-                        "quality": "FFF 1080p (Sub - Blu-ray)",
-                        "videoUrl": "https://marin.moe/cute/4849c5ca4da77aad?token=556bf39c934aea32246f190aa8192aa51129d51399aefed7179686b1f0495b55",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "X-XSRF-TOKEN": "eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=Q1341Qnc6u3ng48A;__ddg1_=CZcjibPOLzYTYbLVYTRn;XSRF-TOKEN=eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjVlVC8vWmh0RG8zbVFPVEo5cWM1TVE9PSIsInZhbHVlIjoiZ09ERmdzREZ2dURFMmhaUVhDUHlPSkZkZ1AzNzZxcWpVbE9vYkl5bGRtUnRILzhtNTJKZmN0K2VFMXI3d3BvaG5wa0VGeDVVdzB3Y05BM0tXbkh4MkhIaGRTS1Q2WTNoNHEyWjBucUxrcENBK25kdmZFeUV2bnpRdldMZzlKNloiLCJtYWMiOiIyNjcwZWZiNjA4M2M2OGQ2ZGQxNDEzZGM5NjZjNzM3MDEzNzgyMGNmOWZkNDZhNWM4ZDk4OGNkMWY1OTQyODM2IiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/dg1dzzhz/s8",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/dg1dzzhz/s8",
-                        "quality": "FFF 720p (Sub - Blu-ray)",
-                        "videoUrl": "https://marin.moe/cute/c21431fa821ef4d0?token=6f9f1321fe137c1f28a2db6cbee7faeae876a3ce66d98bf1152599f2d37932d8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "X-XSRF-TOKEN": "eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=Q1341Qnc6u3ng48A;__ddg1_=CZcjibPOLzYTYbLVYTRn;XSRF-TOKEN=eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjVlVC8vWmh0RG8zbVFPVEo5cWM1TVE9PSIsInZhbHVlIjoiZ09ERmdzREZ2dURFMmhaUVhDUHlPSkZkZ1AzNzZxcWpVbE9vYkl5bGRtUnRILzhtNTJKZmN0K2VFMXI3d3BvaG5wa0VGeDVVdzB3Y05BM0tXbkh4MkhIaGRTS1Q2WTNoNHEyWjBucUxrcENBK25kdmZFeUV2bnpRdldMZzlKNloiLCJtYWMiOiIyNjcwZWZiNjA4M2M2OGQ2ZGQxNDEzZGM5NjZjNzM3MDEzNzgyMGNmOWZkNDZhNWM4ZDk4OGNkMWY1OTQyODM2IiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/dg1dzzhz/s8",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/dg1dzzhz/s8",
-                        "quality": "FFF 480p (Sub - Blu-ray)",
-                        "videoUrl": "https://marin.moe/cute/734f1af7659e9827?token=d4b8e354c581c7c1b3265280ade909f7f02fd19f56e0b94ec0ec512e568134b4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "X-XSRF-TOKEN": "eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=Q1341Qnc6u3ng48A;__ddg1_=CZcjibPOLzYTYbLVYTRn;XSRF-TOKEN=eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjVlVC8vWmh0RG8zbVFPVEo5cWM1TVE9PSIsInZhbHVlIjoiZ09ERmdzREZ2dURFMmhaUVhDUHlPSkZkZ1AzNzZxcWpVbE9vYkl5bGRtUnRILzhtNTJKZmN0K2VFMXI3d3BvaG5wa0VGeDVVdzB3Y05BM0tXbkh4MkhIaGRTS1Q2WTNoNHEyWjBucUxrcENBK25kdmZFeUV2bnpRdldMZzlKNloiLCJtYWMiOiIyNjcwZWZiNjA4M2M2OGQ2ZGQxNDEzZGM5NjZjNzM3MDEzNzgyMGNmOWZkNDZhNWM4ZDk4OGNkMWY1OTQyODM2IiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/dg1dzzhz/s8",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    },
-                    {
-                        "url": "https://marin.moe/anime/dg1dzzhz/s8",
-                        "quality": "FFF 360p (Sub - Blu-ray)",
-                        "videoUrl": "https://marin.moe/cute/83a89e200d40b285?token=3f23f8c15d63d770361c8dbc94fcc928114775f737d1e2cd71faf099493507dd",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "X-XSRF-TOKEN": "eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0=",
-                            "Cookie": "__ddg2_=Q1341Qnc6u3ng48A;__ddg1_=CZcjibPOLzYTYbLVYTRn;XSRF-TOKEN=eyJpdiI6InlrV1hTV1EwcWdLeklJbWFRYndYUEE9PSIsInZhbHVlIjoiVzZFTThPeFlVSFNMMU9WemlKTzdMenJ1OVpZL0N6NGdvQ0xGazM1UjlBYU5TU2JldlphZmtTcDBDbGl5cUc5OGpabm1xQklCSnAwTnNJaGFCM052SWt0d0w1cWZLbStYR1B3Y0pOSWhnRHFiaGhOWjZLZE0xWjM3LzZnV3ZTckkiLCJtYWMiOiJhYTE5NTZjNWI1YmFlNTA5ZmEzNTI5ODc2YTQ0ZTRmNjU3ZjRhMGVkMTZkMmZjZWRiZTM4NDVlYTMwYWNiYzVkIiwidGFnIjoiIn0%3D;marin_session=eyJpdiI6IjVlVC8vWmh0RG8zbVFPVEo5cWM1TVE9PSIsInZhbHVlIjoiZ09ERmdzREZ2dURFMmhaUVhDUHlPSkZkZ1AzNzZxcWpVbE9vYkl5bGRtUnRILzhtNTJKZmN0K2VFMXI3d3BvaG5wa0VGeDVVdzB3Y05BM0tXbkh4MkhIaGRTS1Q2WTNoNHEyWjBucUxrcENBK25kdmZFeUV2bnpRdldMZzlKNloiLCJtYWMiOiIyNjcwZWZiNjA4M2M2OGQ2ZGQxNDEzZGM5NjZjNzM3MDEzNzgyMGNmOWZkNDZhNWM4ZDk4OGNkMWY1OTQyODM2IiwidGFnIjoiIn0%3D",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://marin.moe/anime/dg1dzzhz/s8",
-                            "Accept-Language": "en-US,en;q=0.5"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
