@@ -374,12 +374,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/2",
+                        "name": "Episódio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/1",
+                        "name": "Episódio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/hd/2.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/hd/2.mp4"
+                    },
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/sd/2.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/sd/2.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
