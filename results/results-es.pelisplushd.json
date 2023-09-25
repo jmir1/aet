@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/fihqjjkwqjvp",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=l3amm6vQitYgQCHcXZgJ9bjphp7mi35klWUaVZYw8Ro&s=1695643913&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=20.39&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=jPawbPC-p9bgE9qHzd4DcnnSRc1uB4zwj0n0Pv0W3bk&s=1695665326&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=40.79&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695713911&ip=FROsDHcnDS9X&token=NF4UDusI3dZs",
+                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695735325&ip=GxOsEHcnDS9X&token=azwVrSOHHGXR",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695713911&ip=FROsDHcnDS9X&token=NF4UDusI3dZs"
+                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695735325&ip=GxOsEHcnDS9X&token=azwVrSOHHGXR"
                     },
                     {
                         "url": "https://voe.sx/e/fihqjjkwqjvp",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=l3amm6vQitYgQCHcXZgJ9bjphp7mi35klWUaVZYw8Ro&s=1695643913&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=20.39&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=jPawbPC-p9bgE9qHzd4DcnnSRc1uB4zwj0n0Pv0W3bk&s=1695665326&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=40.79&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -319,6 +319,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/la-emboscada",
+                                "title": "La emboscada (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wYejOZfJpza6nQDOhLpji7IK80o.jpg"
+                            },
                             {
                                 "url": "/pelicula/breaking-point",
                                 "title": "Breaking Point (2023)",
@@ -433,11 +438,6 @@
                                 "url": "/pelicula/le-llamaban-jeeg-robot",
                                 "title": "Le llamaban Jeeg Robot (2015)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/4K37LTb9IzzDEKgseT6hJ8FOrY1.jpg"
-                            },
-                            {
-                                "url": "/pelicula/zohan-licencia-para-peinar",
-                                "title": "Zohan: Licencia para peinar (2008)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7e5W4a4goRSE4uaJ8BpB84DU8c5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -577,10 +577,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/breaking-point",
-                    "title": "Breaking Point (2023)",
-                    "description": "Dos hermanos adoptivos llenos de resentimiento mutuo tras la pérdida de su madre, unidos por su amor por el breakdance, se encuentran juntos mientras se embarcan en un viaje hacia el Oro.",
-                    "genre": "Drama, Drama",
+                    "url": "/pelicula/la-emboscada",
+                    "title": "La emboscada (2023)",
+                    "description": "Un grupo de jóvenes comandos de élite, liderados por el Capitán Drummond, tienen la tarea de recopilar información altamente clasificada que puede cambiar el destino de la guerra.",
+                    "genre": "Acción, Suspense, Bélica",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -590,7 +590,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/breaking-point",
+                        "url": "/pelicula/la-emboscada",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -890,12 +890,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/soltera-codiciada-2/",
+                        "name": "PELÍCULA",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/cbqecsxczphf",
+                        "quality": "[Cast] VoeCDN",
+                        "videoUrl": "https://delivery-node-p529oubjmokvzzdm.voe-network.net/engine/hls2-c/01/09583/cbqecsxczphf_,n,.urlset/master.m3u8?t=AYTwI13yc9ao24iBFo8iUgdKDDuL6aiyzrQ__IZNCZg&s=1695665332&e=14400&f=47916115&node=delivery-node-gagmup5nvenf5ta8.voe-network.net&i=40.79&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }
