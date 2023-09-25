@@ -17,14 +17,14 @@
                                 "thumbnail_url": "https://myspacecat.pictures/futei with the animation/thumbnail_1.png"
                             },
                             {
-                                "url": "/watch?e=Delivery-Chinko-wo-Tanomitai-Onee~san-1&f=s",
-                                "title": "Delivery Chinko wo Tanomitai Onee-san",
-                                "thumbnail_url": "https://myspacecat.pictures/Delivery Chinko o Tanomitai Onee-san/thumbnail_1.png"
-                            },
-                            {
                                 "url": "/watch?e=Ikumonogakari-The-Animation-1&f=s",
                                 "title": "Ikumonogakari The Animation",
                                 "thumbnail_url": "https://myspacecat.pictures/ikumonogakari the animation/thumbnail_1.png"
+                            },
+                            {
+                                "url": "/watch?e=Delivery-Chinko-wo-Tanomitai-Onee~san-1&f=s",
+                                "title": "Delivery Chinko wo Tanomitai Onee-san",
+                                "thumbnail_url": "https://myspacecat.pictures/Delivery Chinko o Tanomitai Onee-san/thumbnail_1.png"
                             },
                             {
                                 "url": "/watch?e=Ane-wa-Yanmama-Junyuu~chuu-1&f=s",
@@ -310,21 +310,75 @@
             "details": {
                 "result": {
                     "url": "/watch?e=My-Mother-1&f=s",
-                    "author": "",
-                    "description": "Based on doujin by XTER and created by the man himself comes My Mother in animated form. Watch My Mother () on oppai.stream for free!",
+                    "title": "My Mother",
+                    "artist": "XTER",
+                    "description": "Based on doujin by XTER and created by the man himself comes My Mother in animated form.",
                     "genre": "4k, anal, beach, bigboobs, blackhair, blowjob, cowgirl, creampie, doggy, hd, incest, milf, missionary, uncensored",
-                    "thumbnail_url": "",
+                    "thumbnail_url": "https://myspacecat.pictures/My Mother The Animation Thai/thumbnail_1.png?v=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch?e=My-Mother-1&f=s",
+                        "name": "Episode 1",
+                        "episode_number": 1.0,
+                        "scanlator": "XTER"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01.mp4",
+                        "quality": "720p",
+                        "videoUrl": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://oppai.stream"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01_SUB_1.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://myspacecat.pictures/My Mother The Animation Thai/4k/E01.webm",
+                        "quality": "2160p",
+                        "videoUrl": "https://myspacecat.pictures/My Mother The Animation Thai/4k/E01.webm",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://oppai.stream"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01_SUB_1.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://myspacecat.pictures/My Mother The Animation Thai/1080/E01.webm",
+                        "quality": "1080p",
+                        "videoUrl": "https://myspacecat.pictures/My Mother The Animation Thai/1080/E01.webm",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://oppai.stream"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://myspacecat.pictures/My Mother The Animation Thai/720/E01_SUB_1.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

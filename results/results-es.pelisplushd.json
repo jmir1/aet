@@ -295,17 +295,17 @@
                     {
                         "url": "https://voe.sx/e/fihqjjkwqjvp",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=lgTid7_Z5fCaaumPKW_-AHHnZ9YIZmDld4jKeW0OwdY&s=1695622167&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=52.150&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=l3amm6vQitYgQCHcXZgJ9bjphp7mi35klWUaVZYw8Ro&s=1695643913&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=20.39&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695692165&ip=G0WsD0MRKxSHDN&token=tQcf_gO3aGIg",
+                        "url": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695713911&ip=FROsDHcnDS9X&token=NF4UDusI3dZs",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695692165&ip=G0WsD0MRKxSHDN&token=tQcf_gO3aGIg"
+                        "videoUrl": "https://streamtape.com/get_video?id=klZzekWzRbSOVxq&expires=1695713911&ip=FROsDHcnDS9X&token=NF4UDusI3dZs"
                     },
                     {
                         "url": "https://voe.sx/e/fihqjjkwqjvp",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=lgTid7_Z5fCaaumPKW_-AHHnZ9YIZmDld4jKeW0OwdY&s=1695622167&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=52.150&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09583/fihqjjkwqjvp_,n,.urlset/master.m3u8?t=l3amm6vQitYgQCHcXZgJ9bjphp7mi35klWUaVZYw8Ro&s=1695643913&e=14400&f=47919371&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=20.39&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -890,24 +890,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/soltera-codiciada-2/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/cbqecsxczphf",
-                        "quality": "[Cast] VoeCDN",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/09583/cbqecsxczphf_,n,.urlset/master.m3u8?t=kb53lN2RC5CFN6A5lPrBkz_XTKUmci3C8yKJy-daRYE&s=1695622172&e=14400&f=47916115&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=52.150&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
