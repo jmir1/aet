@@ -3,15 +3,15 @@
         "name": "Anime-Sama (FR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: www.anime-sama.fr: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: www.anime-sama.fr",
                 "passed": false
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: www.anime-sama.fr",
                 "passed": false
             },
             "details": {
@@ -20,7 +20,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.net.UnknownHostException: www.anime-sama.fr",
                 "passed": false
             },
             "videos": {
