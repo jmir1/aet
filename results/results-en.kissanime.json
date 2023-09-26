@@ -11,6 +11,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Sweet-Reincarnation-Dub/",
+                                "title": "Sweet Reincarnation (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Sweet-Reincarnation-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Getter-Robo-Go-Sub/",
+                                "title": "Getter Robo Go",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/12/Getter-Robo-Go.jpg"
+                            },
+                            {
                                 "url": "/Anime/dr-slump-arale-chan.85246/",
                                 "title": "Dr. Slump: Arale-chan",
                                 "thumbnail_url": "https://static.anmedm.com/media/uploads/7-15-2013/78062354538381l.jpg"
@@ -249,16 +259,6 @@
                                 "url": "/Anime/Hataraku-Maou-sama-2nd-Season/",
                                 "title": "The Devil is a Part-Timer! Season 3",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/The-Devil-is-a-Part-Timer-Season-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/spy-kyoushitsu-2nd-season.41622/",
-                                "title": "Spy Kyoushitsu 2nd season",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Spy-Kyoushitsu-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/Anime/Jujutsu-Kaisen-2nd-Season/",
-                                "title": "JUJUTSU KAISEN Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Jujutsu-Kaisen-2nd-Season.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/dr-slump-arale-chan.85246/",
-                    "title": "Dr. Slump: Arale-chan",
-                    "description": "Dr. Slump creates a little android girl, Arale, who is very stong, happy, and totally common senseless. They live in Penguin Village where the strangest things happen (e.g., the dawn is announced by a little pig wearing a basquee).\n\nUser rating: 90%",
-                    "genre": "Comedy, Shounen, Slice Of Life",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/uploads/7-15-2013/78062354538381l.jpg",
+                    "url": "/Anime/Sweet-Reincarnation-Dub/",
+                    "title": "Sweet Reincarnation (Dub)",
+                    "description": "A boy named Pastry is set to become the next lord of the destitute dominion of Morteln. He's known for having remarkable talent for his age... and it just so happens he was a genius pastry chef with a promising future in his previous life! He still retains his determination to make sweets that will make everyone smile, even after reincarnating as Pastry. But many challenges stand before him, including bandits attacking his domain, malicious and eccentric nobles, an unfortunate financial situation, and land so barren that even water is scarce. The only weapons he has to fight them with are his own ingenuity and love for making sweets. Can Pastry succeed in bringing happiness to the land?! (Source: Crunchyroll)\n\nUser rating: 97%",
+                    "genre": "Action, Fantasy, Slice Of Life",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Sweet-Reincarnation-Dub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,23 +792,36 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/dr-slump-arale-chan.85246/Episode-154?id=142466",
-                        "name": "Dr. Slump: Arale-chan - Episode 154",
-                        "date_upload": 1516838400000,
-                        "episode_number": 154.0
+                        "url": "/Anime/Sweet-Reincarnation-Dub/Episode-012?id=186311",
+                        "name": "Sweet Reincarnation (Dub) - Episode 012",
+                        "date_upload": 1695686400000,
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/Anime/dr-slump-arale-chan.85246/Episode-152?id=142465",
-                        "name": "Dr. Slump: Arale-chan - Episode 152",
-                        "date_upload": 1516838400000,
-                        "episode_number": 152.0
+                        "url": "/Anime/Sweet-Reincarnation-Dub/Episode-011?id=186196",
+                        "name": "Sweet Reincarnation (Dub) - Episode 011",
+                        "date_upload": 1695081600000,
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s47.openstream.io/hls/qvsbege3mxblgwsztsy2aygbblfeqmzgy53uy6rduq6nafwka3zjsfbxiwqa/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s47.openstream.io/hls/qvsbege3mxblgwsztsy2aygbblfeqmzgy53uy6rduq6nafwka3zjsfbxiwqa/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s47.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
