@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ayakashi-triangle-ger-sub/",
+                                "title": "Ayakashi Triangle Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/53224.jpg"
+                            },
+                            {
                                 "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
                                 "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/helck-ger-sub/",
                                 "title": "Helck Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55378.jpg"
-                            },
-                            {
-                                "url": "/lv1-maou-to-one-room-yuusha-ger-sub/",
-                                "title": "Lv1 Maou to One Room Yuusha Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/06/55346.png"
                             },
                             {
                                 "url": "/mushoku-tensei-ii-isekai-ittara-honki-dasu-ger-dub/",
@@ -439,34 +439,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/",
-                    "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Ger Sub",
-                    "description": "Akira arbeitet seit einigen Jahren für eine Firma, die ihn nicht nur ausbeutet, sondern ihn körperlich und geistig fertigmacht. Er lebt jeden Tag wie ein Zombie vor sich hin – bis die tatsächliche Zombie-Apokalypse startet! Jetzt beginnt Akiras Leben erst richtig, denn er kann tun und lassen, was er will! Er erstellt ein Liste mit Dingen, die er machen möchte, bevor er selbst zum Untoten wird, und erlebt coole und lustige Abenteuer am laufenden Band!\n ",
-                    "genre": "Action, Adventure, Comedy, Horror, Seinen, Supernatural",
+                    "url": "/ayakashi-triangle-ger-sub/",
+                    "title": "Ayakashi Triangle Ger Sub",
+                    "description": "In Japan wimmelt es zwar von mysteriösen Monstern, die Ayakashi genannt werden, aber es gibt eine spezielle Truppe von Exorzisten-Ninjas, die sich gegen diese Bedrohung wehren! Der junge Ninja-Exorzist Matsuri verbringt seine Tage im Kampf gegen die Ayakashi, um seine Jugendfreundin Suzu zu beschützen. Doch als die Ayakashi-Katze Shirogane auftaucht, stehen die Dinge auf dem Kopf!\n ",
+                    "genre": "Action, Comedy, Ecchi, Harem, Magic, Romance, Supernatural, Superpower",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/07/59957.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/53224.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/?link=8",
-                        "name": "Ep. 9",
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-ger-sub/?link=7",
-                        "name": "Ep. 8",
-                        "episode_number": 8.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NumberFormatException: For input string: \"Ep.6.5\"",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NumberFormatException: For input string: \"\"",
                 "passed": false
             }
         }

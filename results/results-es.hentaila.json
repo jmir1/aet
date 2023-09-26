@@ -191,52 +191,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vidcache.net:8161/a20230925W6jfgamD725/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20230925W6jfgamD725/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://cdn.burstcloud.co/a20230925D25DehXG8KK/HLA_SecretMissionSennyuuSousakanwaZettainiMakenai_1.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20230925D25DehXG8KK/HLA_SecretMissionSennyuuSousakanwaZettainiMakenai_1.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.burstcloud.co/"
-                        }
-                    },
-                    {
-                        "url": "https://www12.mp4upload.com:183/d/q6xz6uhvz3b4quuoakqryzsxcpaajuzmscuquyfzewsk5qfx6jdikxeg4rm74lfos7njasmq/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xz6uhvz3b4quuoakqryzsxcpaajuzmscuquyfzewsk5qfx6jdikxeg4rm74lfos7njasmq/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://osegdl8o.sw-cdnstream.com/hls2/01/01481/lqs0w3cdfbio_x/index-v1-a1.m3u8?t=dx4NBZRIvCy1xmaaN9zKWBs0Wheha82vHmx6Rq1cKmI&s=1695665421&e=129600&f=7408164&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
-                        "quality": "StreamWish  - 1080p",
-                        "videoUrl": "https://osegdl8o.sw-cdnstream.com/hls2/01/01481/lqs0w3cdfbio_x/index-v1-a1.m3u8?t=dx4NBZRIvCy1xmaaN9zKWBs0Wheha82vHmx6Rq1cKmI&s=1695665421&e=129600&f=7408164&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://embedwish.com",
-                            "Referer": "https://embedwish.com/e/lqs0w3cdfbio"
-                        }
-                    },
-                    {
-                        "url": "https://voe.sx/e/n6vfr1hdwebj",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-girmnrmb2ev1lay6.voe-network.net/engine/hls2-c/01/09584/n6vfr1hdwebj_,n,.urlset/master.m3u8?t=T8DI3YEjE-g8YLIpsSczGVuBhbaMyel3jK7hKGZKmCU&s=1695665424&e=14400&f=47921701&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=138.91&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
