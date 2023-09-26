@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/dark-gathering",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dark-gathering-cover.jpg"
+                            },
+                            {
                                 "url": "/media/musekinin-galaxy-tylor",
                                 "title": "The Irresponsible Galaxy Tylor",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-musekinin-galaxy-tylor-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/bungou-stray-dogs-dai-5-season",
                                 "title": "Bungo Stray Dogs 5",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-bungou-stray-dogs-dai-5-season-cover-1.png"
-                            },
-                            {
-                                "url": "/media/nobunaga-no-shinobi-anegawa-ishiyama-hen",
-                                "title": "Ninja Girl & Samurai Master 3rd",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-nobunaga-no-shinobi-anegawa-ishiyama-hen-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/musekinin-galaxy-tylor",
-                    "title": "The Irresponsible Galaxy Tylor",
+                    "url": "/media/dark-gathering",
+                    "title": "Dark Gathering",
                     "author": "",
-                    "description": "Quelle: aniSearch",
-                    "genre": "Komödie",
+                    "description": "Der Student Keitarou Gentouga hat eine besondere Gabe: Er kann Geister sehen und mit ihnen kommunizieren. Doch nach einer Begegnung mit einem bösartigen Exemplar vor zwei Jahren, bei der er selber verletzt und seine Freunde mit hineingezogen wurden, hasst er alles Übernatürliche und verlässt seine Wohnung nicht mehr. Einzig zu seiner Kindheitsfreundin, Eiko Houzuki, hält er Kontakt. Als Keitarou letztendlich beschließt, am gesellschaftlichen Leben wieder teilnehmen zu wollen, vermittelt ihm Eiko einen Nebenjob. Er soll ihrer jüngeren Cousine, Yayoi, Nachhilfeunterricht geben. Bald stellt sich heraus, dass Yayoi dieselbe Fähigkeit besitzt wie Keitarou. Allerdings liebt sie es, Geister zu treffen und tut alles dafür, um ihnen näherzukommen. Anstatt Nachhilfeunterricht zu geben, findet sich Keitarou nun immer häufiger an verfluchten Orten wieder, was mit der ursprünglichen Jobbeschreibung überhaupt nichts mehr zu tun hat. Quelle: aniSearch",
+                    "genre": "Horrorkomödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-musekinin-galaxy-tylor-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dark-gathering-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,32 +239,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/musekinin-galaxy-tylor#streams_episodes_1_11",
-                        "name": "Ep.12 Heute ist ein besonderer Tag",
+                        "url": "/media/dark-gathering#streams_episodes_1_11",
+                        "name": "Ep.12 Episode 12",
                         "episode_number": 12.0
                     },
                     {
-                        "url": "/media/musekinin-galaxy-tylor#streams_episodes_1_10",
-                        "name": "Ep.11 Heute wird auch mal morgen sein",
+                        "url": "/media/dark-gathering#streams_episodes_1_10",
+                        "name": "Ep.11 Episode 11",
                         "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=VmpPlvqAbbhKlK1&expires=1695800297&ip=FROsExcnDS9X&token=RkzEbr9zVc3_",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=VmpPlvqAbbhKlK1&expires=1695800297&ip=FROsExcnDS9X&token=RkzEbr9zVc3_"
-                    },
-                    {
-                        "url": "https://valeronevijao.com/access/eyJpdiI6IjdZRmJ5RlFJdjdiN2dCVW1qMlJDdlE9PSIsInZhbHVlIjoid0VDaEJyQ0NLNEdjbmZuL1o0Z3hiQS8wSVZUMW1GTTRiN2tMMzJmVGYvSXB3QmF4RVRXWG9COWQ3SnpuMzBCTDN6TG1aU0t4cHdFSGp2QUVuek9Ndmc9PSIsIm1hYyI6ImM0MzkyNTVmNTY0NzYzYjRiMDJhZjM3ODNjYmU0YTAwN2U1OWUyYmY4NGQyNzhiN2Y3YjU2YWMxODdhMjFmOTkiLCJ0YWciOiIifQ==?o=0",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-tgot70qvtwxjooll.voe-network.net/engine/hls2/01/09574/gcwbtdn1quwy_,n,.urlset/master.m3u8?t=4s2X4CpoTsG2mTK9ORRYBpSTWRMnvqbh7lklTBKtdMc&s=1695730295&e=14400&f=47870587&node=delivery-node-tgot70qvtwxjooll.voe-network.net&i=20.49&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -3,59 +3,8 @@
         "name": "AnimeLek (AR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/one-piece/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/one-piece-slider-animelek.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/jujutsu-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/bleach-poster.png"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/mushoku_Tensei-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/bungou-stray-dogs-5th-season/",
-                                "title": "Bungou Stray Dogs 5th Season",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/bungo-stray-dogs-atsushi-5.png"
-                            },
-                            {
-                                "url": "/anime/kanojo-okarishimasu-3rd-season/",
-                                "title": "Kanojo, Okarishimasu 3rd Season",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Kanojo-Okarishimasu-Season-3.png"
-                            },
-                            {
-                                "url": "/anime/undead-girl-murder-farce/",
-                                "title": "Undead Girl Murder Farce",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Undead-Girl-Murder-Farce.jpg"
-                            },
-                            {
-                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/Rurouni-Kenshin-2023.jpg"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-maken-ga-shihai-suru/",
-                                "title": "Nanatsu no Maken ga Shihai suru",
-                                "thumbnail_url": "https://animelek.me/uploads/sliders/nanatsu-no-maken-ga-shihai.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -293,9 +242,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://nt26no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3rjxyz2f7wraadda/v.mp4",
+                        "url": "https://nt26no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3xcv75yxixerglza/v.mp4",
                         "quality": "Vidbom: 720p",
-                        "videoUrl": "https://nt26no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3rjxyz2f7wraadda/v.mp4"
+                        "videoUrl": "https://nt26no-12.vidboo.org/6jmn3xzy3uazsalrixmafi7sa7ejwkv7nlmqabfawxtp3xcv75yxixerglza/v.mp4"
                     }
                 ],
                 "passed": true
