@@ -67,14 +67,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42165_background.jpg?v=1663885565"
                             },
                             {
-                                "url": "/anime/52211",
-                                "title": "Mashle",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42645_background.jpg?v=1680898040"
-                            },
-                            {
                                 "url": "/anime/40496",
                                 "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/15443_background.jpg?v=1600736866"
+                            },
+                            {
+                                "url": "/anime/52211",
+                                "title": "Mashle",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42645_background.jpg?v=1680898040"
                             },
                             {
                                 "url": "/anime/46569",
@@ -91,6 +91,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/70653/legendado",
+                                "title": "Ao no Orchestra",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42675_background.jpg?v=1681417296"
+                            },
+                            {
+                                "url": "/episodio/70652/legendado",
+                                "title": "Yu☆Gi☆Oh! Go Rush!!",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42309_background.jpg?v=1649098376"
+                            },
+                            {
+                                "url": "/episodio/70651/legendado",
+                                "title": "Synduality: Noir",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42752_background.jpg?v=1689272484"
+                            },
+                            {
+                                "url": "/episodio/70650/legendado",
+                                "title": "Suki na Ko ga Megane wo Wasureta",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42721_background.jpg?v=1688495289"
+                            },
                             {
                                 "url": "/episodio/70649/legendado",
                                 "title": "UFO Robo Grendizer",
@@ -188,26 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70630/legendado",
-                                "title": "UFO Robo Grendizer",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2848_background.jpg?v=1695700872"
-                            },
-                            {
-                                "url": "/episodio/70629/legendado",
-                                "title": "UFO Robo Grendizer",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2848_background.jpg?v=1695700872"
-                            },
-                            {
-                                "url": "/episodio/70628/legendado",
-                                "title": "UFO Robo Grendizer",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2848_background.jpg?v=1695700872"
-                            },
-                            {
-                                "url": "/episodio/70627/legendado",
-                                "title": "UFO Robo Grendizer",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2848_background.jpg?v=1695700872"
-                            },
-                            {
-                                "url": "/episodio/70626/legendado",
                                 "title": "UFO Robo Grendizer",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2848_background.jpg?v=1695700872"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

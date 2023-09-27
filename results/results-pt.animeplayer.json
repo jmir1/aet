@@ -3,13 +3,44 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
+                            },
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodios/secret-mission-sennyuu-sousakan-wa-zettai-ni-makenai-1x1/",
+                                "title": "Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai! Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/tHPCnpLURgztP7wIn6d0gbYNXl4-300x170-1.jpg"
+                            },
                             {
                                 "url": "/episodios/dark-gathering-1x1/",
                                 "title": "Dark Gathering Episódio 1",
@@ -154,11 +185,6 @@
                                 "url": "/episodios/sentouin-hakenshimasu-1x12/",
                                 "title": "Sentouin, Hakenshimasu! Episódio 12",
                                 "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/4tCOjnAkEOm7kzmSosiojFzxnhh-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodios/scarlet-nexus-1x18/",
-                                "title": "Scarlet Nexus Episódio 18",
-                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/67ghmFEJrceTkuS1Hfe5mvIop8O-300x170-1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -262,32 +288,34 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/apenas-um-show/",
+                    "title": "Apenas Um Show",
+                    "description": "Dois jardineiros em curso de golfe, e melhores amigos, Mordecai (a gralha azul) e Rigby (um guaxinim) passam seus dias tentando distrair-se, por qualquer meio, para a ira de Benson (uma máquina de chicletes), Saltitão (o Yeti), e Pairulito (um homem com cabeça de pirulito).\n\nTítulo original: Regular Show\nTemporadas: 8\nEpisódios: 258",
+                    "genre": "",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/dark-gathering-1x1/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodios/apenas-um-show-3x39/",
+                        "name": "Temporada ⭐ x 39 - ",
+                        "episode_number": 39.0
+                    },
+                    {
+                        "url": "/episodios/apenas-um-show-3x38/",
+                        "name": "Temporada ⭐ x 38 - ",
+                        "episode_number": 38.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n\t<title>AnimePlayer</title>\r\n\t<meta name=",
-                        "quality": "Blogger - Unknown",
-                        "videoUrl": "\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n\t<title>AnimePlayer</title>\r\n\t<meta name=",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://animeplayer.com.br"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
