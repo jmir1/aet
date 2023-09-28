@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/breaking-point/",
+                                "title": "Breaking Point",
+                                "description": "Two adopted brothers filled with resentment for each other after the loss of their mother, united in...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/TCaTy6Bqirjz3xAtAgHkfVRW5.webp"
+                            },
+                            {
+                                "url": "/pelicula/stastny-clovek/",
+                                "title": "Šťastný člověk",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/shskGk8emm5YMHja.webp"
+                            },
+                            {
+                                "url": "/pelicula/el-caso-padilla/",
+                                "title": "El caso Padilla",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/J6Wu7TtrQogIxRhzojAMOMwSKy6q.webp"
+                            },
+                            {
                                 "url": "/pelicula/forgotten-love/",
                                 "title": "Forgotten Love",
                                 "description": "Un hombre que solía ser un respetado cirujano trata de recuperar la memoria y a la hija que no lo r...",
@@ -107,12 +125,6 @@
                                 "title": "जाने जां",
                                 "description": "Cuando una madre soltera se ve implicada en una investigación criminal, su vecino (un brillante pro...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/76PdTKnzmcDFUC4YM3dbbrcxE.webp"
-                            },
-                            {
-                                "url": "/pelicula/stastny-clovek/",
-                                "title": "Šťastný člověk",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/shskGk8emm5YMHja.webp"
                             },
                             {
                                 "url": "/pelicula/acusado/",
@@ -233,18 +245,6 @@
                                 "title": "Blue Beetle",
                                 "description": "Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpod...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/our7ecKmAMXbkNsrSEkaJ136WyUjbtP.webp"
-                            },
-                            {
-                                "url": "/pelicula/spider-man-cruzando-el-multiverso-zoct/",
-                                "title": "Spider-Man: Cruzando el multiverso",
-                                "description": "Miles Morales regresa para una aventura épica que transportará al amigable vecino de Brooklyn Spid...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Jao4aZw3ORMYy4xuAKoVgxSH0p4wRftqgHkgxHacpN0N.webp"
-                            },
-                            {
-                                "url": "/pelicula/bunker-2/",
-                                "title": "Bunker",
-                                "description": "Atrapados en un búnker durante la Primera Guerra Mundial, un grupo de soldados se enfrenta a una pr...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/4Re2BmduwjjxRQ9vdTAbm.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -492,10 +492,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/forgotten-love/",
-                    "title": "Forgotten Love",
-                    "description": "Un hombre que solía ser un respetado cirujano trata de recuperar la memoria y a la hija que no lo recuerda.",
-                    "genre": "Drama, Romance",
+                    "url": "/pelicula/breaking-point/",
+                    "title": "Breaking Point",
+                    "description": "Two adopted brothers filled with resentment for each other after the loss of their mother, united in their love of breakdancing, find themselves thrust together as they embark on a journey for the Gold.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -503,7 +503,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/forgotten-love/",
+                        "url": "/pelicula/breaking-point/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -511,7 +511,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar sVDbbpWUv = \"\"; JHbrNQqn.forEach(function Oym(value) { sVDbbpWUv += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar FJPFqOw = \"\"; CMlzymG.forEach(function Oym(value) { FJPFqOw += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
