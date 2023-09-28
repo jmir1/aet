@@ -109,31 +109,16 @@
                 "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/mercy-2/",
-                    "title": "Mercy",
-                    "description": "Mercy An ex-military doctor finds herself in a deadly battle for survival when the Irish mafia seize control of the hospital at which she works. When her son is taken hostage, she is forced to rely upon her battle-hardened past and lethal skills after realizing there’s no one left to save the day but her.",
-                    "genre": "Acción, Misterio, Suspense",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8voINwqMlscROrjhN97fGkmhvEV.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mercy-2/",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

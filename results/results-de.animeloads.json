@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/ojou-to-banken-kun",
+                                "title": "A Girl & Her Guard Dog",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ojou-to-banken-kun-cover.jpg"
+                            },
+                            {
+                                "url": "/media/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
+                                "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-cover.jpg"
+                            },
+                            {
                                 "url": "/media/dark-gathering",
                                 "title": "Dark Gathering",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dark-gathering-cover.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/media/hataraku-maou-sama-dai-2-ki-zokuhen",
                                 "title": "The Devil Is a Part-Timer! II - Teil 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hataraku-maou-sama-2023-cover.jpg"
-                            },
-                            {
-                                "url": "/media/shiro-seijo-to-kuro-bokushi",
-                                "title": "Die Heilige Cecilia und Pastor Lawrence",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shiro-seijo-to-kuro-bokushi-cover.png"
-                            },
-                            {
-                                "url": "/media/bungou-stray-dogs-dai-5-season",
-                                "title": "Bungo Stray Dogs 5",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-bungou-stray-dogs-dai-5-season-cover-1.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/dark-gathering",
-                    "title": "Dark Gathering",
+                    "url": "/media/ojou-to-banken-kun",
+                    "title": "A Girl & Her Guard Dog",
                     "author": "",
-                    "description": "Der Student Keitarou Gentouga hat eine besondere Gabe: Er kann Geister sehen und mit ihnen kommunizieren. Doch nach einer Begegnung mit einem bösartigen Exemplar vor zwei Jahren, bei der er selber verletzt und seine Freunde mit hineingezogen wurden, hasst er alles Übernatürliche und verlässt seine Wohnung nicht mehr. Einzig zu seiner Kindheitsfreundin, Eiko Houzuki, hält er Kontakt. Als Keitarou letztendlich beschließt, am gesellschaftlichen Leben wieder teilnehmen zu wollen, vermittelt ihm Eiko einen Nebenjob. Er soll ihrer jüngeren Cousine, Yayoi, Nachhilfeunterricht geben. Bald stellt sich heraus, dass Yayoi dieselbe Fähigkeit besitzt wie Keitarou. Allerdings liebt sie es, Geister zu treffen und tut alles dafür, um ihnen näherzukommen. Anstatt Nachhilfeunterricht zu geben, findet sich Keitarou nun immer häufiger an verfluchten Orten wieder, was mit der ursprünglichen Jobbeschreibung überhaupt nichts mehr zu tun hat. Quelle: aniSearch",
-                    "genre": "Horrorkomödie",
+                    "description": "Nach dem frühen Tod ihrer Eltern wurde Izamu Sengaki von ihrem Großvater, dem einzig lebenden Verwandten, aufgenommen. Dort bekam sie eine neue Familie, die ihr Hoffnung schenkte. Vor allem der gutaussehende Keiya Utou, den ihr Großvater zu ihrem Beschützer ernannte, wacht seitdem mit vollem Einsatz über sie und kümmert sich um all ihre Bedürfnisse. Doch die Sengakis sind der Kopf eines traditionsreichen Yakuza-Syndikates, wodurch es für Izamu unmöglich wird, ein normales Schulleben zu führen. Um nicht länger wie eine Außenseiterin behandelt zu werden, nimmt sie sich vor, eine Oberschule zu besuchen, die weit weg von ihrem Heimatort liegt und wo niemand ihre Vergangenheit kennt. Außerdem versucht sie so, über ihre absolut unpassenden Gefühle für ihren Aufpasser hinwegzukommen und nimmt sich vor, sich möglichst schnell einen Freund zu suchen. Doch als Keiya davon erfährt, erlebt Izamu eine böse Überraschung. Denn obwohl er dafür gut zehn Jahre zu alt ist, gibt sich Keiya plötzlich als Oberschüler aus und wird zu Izamus neuem Klassenkameraden. Quelle: aniSearch",
+                    "genre": "Liebesdrama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dark-gathering-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ojou-to-banken-kun-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,21 +239,27 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/dark-gathering#streams_episodes_1_11",
-                        "name": "Ep.12 Episode 12",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/media/dark-gathering#streams_episodes_1_10",
-                        "name": "Ep.11 Episode 11",
-                        "episode_number": 11.0
+                        "url": "/media/ojou-to-banken-kun#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=qJbByQdpolcz3aj&expires=1695994803&ip=FROsE0EnDS9X&token=ahs8568rOIee",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=qJbByQdpolcz3aj&expires=1695994803&ip=FROsE0EnDS9X&token=ahs8568rOIee"
+                    },
+                    {
+                        "url": "https://strawberriesporail.com/h9jkjljzzjgf?A.Girl.And.Her.Guard.Dog.S01E01.Ger.HARDSUB.AAC.1080p.CR.WebDL.x264-DK.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-q3y2c0zkvnd4gnun.voe-network.net/engine/hls2-c/01/09610/h9jkjljzzjgf_,n,.urlset/master.m3u8?t=UHvHtLNskpDxwGmG518hK-syvzpoIQ83i47M6XNzeUA&s=1695924802&e=14400&f=48053424&node=delivery-node-kfcaqtvy3apdervv.voe-network.net&i=20.57&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

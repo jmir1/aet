@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
+                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/cover/be85768d.jpg"
+                            },
+                            {
                                 "url": "//kengan-ashura-season-2",
                                 "title": "Kengan Ashura Season 2",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Okashi na Tensei",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/okashi-na-tensei/cover/7b2a8875.jpg"
-                            },
-                            {
-                                "url": "//mononogatari-2nd-season",
-                                "title": "Mononogatari 2nd Season",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/mononogatari-2nd-season/cover/bbd350d6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
+                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/cover/be85768d.jpg"
+                            },
+                            {
                                 "url": "//kengan-ashura-season-2",
                                 "title": "Kengan Ashura Season 2",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Okashi na Tensei",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/okashi-na-tensei/cover/7b2a8875.jpg"
-                            },
-                            {
-                                "url": "//mononogatari-2nd-season",
-                                "title": "Mononogatari 2nd Season",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/mononogatari-2nd-season/cover/bbd350d6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,43 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//kengan-ashura-season-2",
-                    "title": "Kengan Ashura Season 2",
-                    "description": "Segunda temporada de la serie anime Kengan Ashura.",
-                    "genre": "Acción, Artes Marciales, Gore",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://static.animeid.tv/art/kengan-ashura-season-2/cover/a260a33b.jpg",
+                    "url": "//boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
+                    "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+                    "description": "La vida de un aventurero no siempre es glamorosa. Belgrieve descubre esto de la manera más difícil cuando un encuentro mortal le roba la pierna y la capacidad de perseguir sus sueños poco después de partir hacia la fama y la fortuna. ¡Pero el destino no ha terminado con este aventurero retirado! Mientras recolecta hierbas en el desierto, descubre a una niña abandonada y la llama Angeline y decide criarla como su hija. Angeline crece para convertirse en una aventurera de primer nivel por derecho propio, sin embargo, después de aventurarse en el mundo y hacerse un nombre, la fama, la fortuna y el poder no tienen ningún atractivo para la consumada aventurera de rango S, su deseo más sincero es nada volver a ver a su padre.",
+                    "genre": "Acción, Aventura, Fantasía, Otoño 2023",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://static.animeid.tv/art/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/cover/be85768d.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/kengan-ashura-season-2-12",
-                        "name": "Episodio 12.0",
-                        "date_upload": 1695513600000,
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/v/kengan-ashura-season-2-11",
-                        "name": "Episodio 11.0",
-                        "date_upload": 1695513600000,
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=yDA3vQ9KlzSk3W&expires=1695973117&ip=Gy5QDREnDS9X&token=gnUhQNR2Z0lI",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=yDA3vQ9KlzSk3W&expires=1695973117&ip=Gy5QDREnDS9X&token=gnUhQNR2Z0lI"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
