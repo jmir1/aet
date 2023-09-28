@@ -501,11 +501,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/forgotten-love/",
+                        "name": "Pelicula",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar sVDbbpWUv = \"\"; JHbrNQqn.forEach(function Oym(value) { sVDbbpWUv += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
