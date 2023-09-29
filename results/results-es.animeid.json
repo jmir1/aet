@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//ojou-to-banken-kun",
+                                "title": "Ojou to Banken-kun",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/ojou-to-banken-kun/cover/cda8ef23.jpg"
+                            },
+                            {
                                 "url": "//boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
                                 "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Yumemiru Danshi wa Genjitsushugisha",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/yumemiru-danshi-wa-genjitsushugisha/cover/9b2a6660.jpg"
-                            },
-                            {
-                                "url": "//okashi-na-tensei",
-                                "title": "Okashi na Tensei",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/okashi-na-tensei/cover/7b2a8875.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//ojou-to-banken-kun",
+                                "title": "Ojou to Banken-kun",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/ojou-to-banken-kun/cover/cda8ef23.jpg"
+                            },
+                            {
                                 "url": "//boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
                                 "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Yumemiru Danshi wa Genjitsushugisha",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/yumemiru-danshi-wa-genjitsushugisha/cover/9b2a6660.jpg"
-                            },
-                            {
-                                "url": "//okashi-na-tensei",
-                                "title": "Okashi na Tensei",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/okashi-na-tensei/cover/7b2a8875.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,24 +682,37 @@
             },
             "details": {
                 "result": {
-                    "url": "//boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
-                    "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-                    "description": "La vida de un aventurero no siempre es glamorosa. Belgrieve descubre esto de la manera más difícil cuando un encuentro mortal le roba la pierna y la capacidad de perseguir sus sueños poco después de partir hacia la fama y la fortuna. ¡Pero el destino no ha terminado con este aventurero retirado! Mientras recolecta hierbas en el desierto, descubre a una niña abandonada y la llama Angeline y decide criarla como su hija. Angeline crece para convertirse en una aventurera de primer nivel por derecho propio, sin embargo, después de aventurarse en el mundo y hacerse un nombre, la fama, la fortuna y el poder no tienen ningún atractivo para la consumada aventurera de rango S, su deseo más sincero es nada volver a ver a su padre.",
-                    "genre": "Acción, Aventura, Fantasía, Otoño 2023",
+                    "url": "//ojou-to-banken-kun",
+                    "title": "Ojou to Banken-kun",
+                    "description": "Senagaki Isaku será una estudiante de primer año de secundaria a partir de la primavera. Su abuelo es el tercer jefe del grupo Senagaki, una organización yakuza, por lo que quienes la rodean la temen. Sin embargo, a partir de la primavera, espera hacer amigos normales y enamorarse como una persona normal. Ella es admitida en una escuela secundaria más lejos de su ciudad natal, sin embargo, el joven líder sobreprotector del grupo Senagaki, Utou Keiya, falsifica su edad y entra a la escuela con ella a través de una entrada por la puerta trasera…?! Keiya proclama que el amor es demasiado pronto para ella aunque Isaku está perfectamente preparada. En verdad, ha tenido un amor no correspondido por Keiya durante bastante tiempo.",
+                    "genre": "Escolares, Romance, Shoujo, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/cover/be85768d.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/ojou-to-banken-kun/cover/cda8ef23.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/ojou-to-banken-kun-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1695859200000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=qOvpmGXgJWiLMO&expires=1696017389&ip=FROsExWnDS9X&token=FhpoVqwhJIlZ",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=qOvpmGXgJWiLMO&expires=1696017389&ip=FROsExWnDS9X&token=FhpoVqwhJIlZ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -192,6 +192,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/boku-no-kokoro-no-yabai-yatsu/",
+                                "title": "Boku no Kokoro no Yabai Yatsu",
+                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/04/133887.jpg"
+                            },
+                            {
+                                "url": "/anime/ai-no-idenshi/",
+                                "title": "AI no Idenshi",
+                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/136176.jpg"
+                            },
+                            {
+                                "url": "/anime/shiro-seijo-to-kuro-bokushi/",
+                                "title": "Shiro Seijo to Kuro Bokushi",
+                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/135096.jpg"
+                            },
+                            {
                                 "url": "/anime/isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita/",
                                 "title": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/04/Isekai-One-Turn-Kill-Neesan.jpg"
@@ -272,11 +287,6 @@
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/09/102250.jpg"
                             },
                             {
-                                "url": "/anime/ai-no-idenshi/",
-                                "title": "AI no Idenshi",
-                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/136176.jpg"
-                            },
-                            {
                                 "url": "/anime/suki-na-ko-ga-megane-wo-wasureta/",
                                 "title": "Suki na Ko ga Megane wo Wasureta",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/136325l.jpg"
@@ -295,11 +305,6 @@
                                 "url": "/anime/undead-girl-murder-farce/",
                                 "title": "Undead Girl Murder Farce",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/134611.jpg"
-                            },
-                            {
-                                "url": "/anime/shiro-seijo-to-kuro-bokushi/",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/135096.jpg"
                             },
                             {
                                 "url": "/anime/bang-dream-its-mygo/",
@@ -360,11 +365,6 @@
                                 "url": "/anime/liar-liar/",
                                 "title": "Liar Liar",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/134525.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-kokoro-no-yabai-yatsu/",
-                                "title": "Boku no Kokoro no Yabai Yatsu",
-                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/04/133887.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -462,29 +462,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vwaw601.cda.pl/eKe4nXczW2wqkNJ2iZpZPg/1695967700/sd79a94958e977e392933c67d637a06a88.mp4",
-                        "quality": "CDA (FujiSubs) - 720p",
-                        "videoUrl": "https://vwaw601.cda.pl/eKe4nXczW2wqkNJ2iZpZPg/1695967700/sd79a94958e977e392933c67d637a06a88.mp4"
-                    },
-                    {
-                        "url": "https://vger106.cda.pl/KT5hbt6dYssbz45NT32ybA/1695967700/hd79a94958e977e392933c67d637a06a88.mp4",
-                        "quality": "CDA (FujiSubs) - 1080p",
-                        "videoUrl": "https://vger106.cda.pl/KT5hbt6dYssbz45NT32ybA/1695967700/hd79a94958e977e392933c67d637a06a88.mp4"
-                    },
-                    {
-                        "url": "https://vwaw001.cda.pl/Bqi1TqeGD4VynaYlhTwuRg/1695967699/lq79a94958e977e392933c67d637a06a88.mp4",
-                        "quality": "CDA (FujiSubs) - 480p",
-                        "videoUrl": "https://vwaw001.cda.pl/Bqi1TqeGD4VynaYlhTwuRg/1695967699/lq79a94958e977e392933c67d637a06a88.mp4"
-                    },
-                    {
-                        "url": "https://vwaw001.cda.pl/xgvcx7k5FAckzil0FsKY6A/1695967699/vl79a94958e977e392933c67d637a06a88.mp4",
-                        "quality": "CDA (FujiSubs) - 360p",
-                        "videoUrl": "https://vwaw001.cda.pl/xgvcx7k5FAckzil0FsKY6A/1695967699/vl79a94958e977e392933c67d637a06a88.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Failed to fetch videos",
+                "passed": false
             }
         }
     }
