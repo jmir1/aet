@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sasaki-to-miyano-movie-sotsugyou-hen-sub-espanol",
+                                "title": "Sasaki to Miyano Movie: Sotsugyou-hen",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/sasaki-to-miyano-movie-sotsugyou-hen-1695951687.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/b-project-netsuretsulove-call-sub-espanol",
                                 "title": "B-Project: Netsuretsu*Love Call",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/b-project-netsuretsulove-call-1695742591.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/houkago-shounen-hanako-kun-sub-espanol",
                                 "title": "Houkago Shounen Hanako-kun",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/houkago-shounen-hanako-kun-1695739846.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-sub-espanol",
-                                "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-1695739838.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,24 +324,71 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/b-project-netsuretsulove-call-sub-espanol",
-                    "title": "B-Project: Netsuretsu*Love Call",
-                    "description": "Tercera temporada de B-Project.",
-                    "genre": "Música",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/b-project-netsuretsulove-call-1695742591.jpg?v=1.5",
+                    "url": "/anime/sasaki-to-miyano-movie-sotsugyou-hen-sub-espanol",
+                    "title": "Sasaki to Miyano Movie: Sotsugyou-hen",
+                    "description": "Película de Sasaki and Miyano",
+                    "genre": "Yaoi",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/sasaki-to-miyano-movie-sotsugyou-hen-1695951687.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/sasaki-to-miyano-movie-sotsugyou-hen-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoBDACagoKCAgDEAEYASACcgYKBAgDEAJ4sQk6B_6ioSJvwQ/fn/track.m3u8",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoBDACagoKCAgDEAEYASACcgYKBAgDEAJ4sQk6B_6ioSJvwQ/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoAzACaikSJwgBEiMKDwoICOSLzhQQ4F0QAhiJDloQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiA-N5LEMTYAhACGIkOYgQoEFoAeIkO17Cc1IEI3XI/fn/track.m3u8",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoAzACaikSJwgBEiMKDwoICOSLzhQQ4F0QAhiJDloQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiA-N5LEMTYAhACGIkOYgQoEFoAeIkO17Cc1IEI3XI/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoAjACaikSJwgBEiMKDwoICOSLzhQQ4F0QAhiJDloQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiA-N5LEMTYAhACGIkOYgQoCFoAeIkOEheLTM7U4m0/fn/track.m3u8",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoAjACaikSJwgBEiMKDwoICOSLzhQQ4F0QAhiJDloQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiA-N5LEMTYAhACGIkOYgQoCFoAeIkOEheLTM7U4m0/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoATACaikSJwgBEiMKDwoICOSLzhQQ4F0QAhiJDloQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiA-N5LEMTYAhACGIkOYgQoCFoAeIkO4zevEfxlXBo/fn/track.m3u8",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEoATACaikSJwgBEiMKDwoICOSLzhQQ4F0QAhiJDloQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiA-N5LEMTYAhACGIkOYgQoCFoAeIkO4zevEfxlXBo/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEwAmopEicIARIjCg8KCAjki84UEOBdEAIYiQ5aEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgPjeSxDE2AIQAhiJDmIEKAhaAHiJDpuTezhU86YP/fn/track.m3u8",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd439.mycdn.me/expires/1696054152065/clientType/0/srcIp/13.87.245.225/type/2/mid/6105898814111/id/5174679374495/ms/45.136.21.32/zs/43/srcAg/GECKO/urls/45.136.20.11/ct/28/sig/y7JyKB1BlmM/ondemand/CJ-VtJfNlgEwAmopEicIARIjCg8KCAjki84UEOBdEAIYiQ5aEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgPjeSxDE2AIQAhiJDmIEKAhaAHiJDpuTezhU86YP/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

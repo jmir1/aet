@@ -462,8 +462,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vwaw321.cda.pl/2yXYN1EEp-027v5_DVoexQ/1696010930/sd79a94958e977e392933c67d637a06a88.mp4",
+                        "quality": "CDA (FujiSubs) - 720p",
+                        "videoUrl": "https://vwaw321.cda.pl/2yXYN1EEp-027v5_DVoexQ/1696010930/sd79a94958e977e392933c67d637a06a88.mp4"
+                    },
+                    {
+                        "url": "https://vger106.cda.pl/iZdqb2EgO6tPerqEvcL-kw/1696010930/hd79a94958e977e392933c67d637a06a88.mp4",
+                        "quality": "CDA (FujiSubs) - 1080p",
+                        "videoUrl": "https://vger106.cda.pl/iZdqb2EgO6tPerqEvcL-kw/1696010930/hd79a94958e977e392933c67d637a06a88.mp4"
+                    },
+                    {
+                        "url": "https://vwaw801.cda.pl/Rb-HNktN8AwuOBBsrrjcWQ/1696010929/lq79a94958e977e392933c67d637a06a88.mp4",
+                        "quality": "CDA (FujiSubs) - 480p",
+                        "videoUrl": "https://vwaw801.cda.pl/Rb-HNktN8AwuOBBsrrjcWQ/1696010929/lq79a94958e977e392933c67d637a06a88.mp4"
+                    },
+                    {
+                        "url": "https://vwaw301.cda.pl/l_Ijtz8vQR4jOygL1x1RuA/1696010929/vl79a94958e977e392933c67d637a06a88.mp4",
+                        "quality": "CDA (FujiSubs) - 360p",
+                        "videoUrl": "https://vwaw301.cda.pl/l_Ijtz8vQR4jOygL1x1RuA/1696010929/vl79a94958e977e392933c67d637a06a88.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
