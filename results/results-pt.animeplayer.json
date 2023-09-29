@@ -3,27 +3,318 @@
         "name": "AnimePlayer (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/apenas-um-show/",
+                                "title": "Apenas Um Show",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/hora-de-aventura-dublado/",
+                                "title": "Hora de Aventura Dublado",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/422873-185x278.webp"
+                            },
+                            {
+                                "url": "/animes/clarencio-o-otimista/",
+                                "title": "Clarêncio, O Otimista",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/qZkAyOlDAxHtQreQE4ZzGfrSQl8-185x278.jpg"
+                            },
+                            {
+                                "url": "/animes/o-incrivel-mundo-de-gumball/",
+                                "title": "O Incrível Mundo de Gumball",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/mTc0xLkcDdV2R0G8Y6H3T0mAyxy-185x278.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodios/spy-kyoushitsu-2x12/",
+                                "title": "Spy Kyoushitsu 2 Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-34-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/rurouni-kenshin-meiji-kenkaku-romantan-1x13/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan Episódio 13",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/13-4-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/jujutsu-kaisen-2x10/",
+                                "title": "Jujutsu Kaisen 2 Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/dwk4fLKU6gXpYBdUkCgRWuhhqvA-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-1x1/",
+                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/aBUMwuX2x4v8E42ExbSOPfQyvFy-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/hataraku-maou-sama-dublado-2x8/",
+                                "title": "Hataraku Maou-sama! 2 (Dublado) Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/8-9-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/hataraku-maou-sama-dublado-2x7/",
+                                "title": "Hataraku Maou-sama! 2 (Dublado) Episódio 7",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/7-10-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/ojou-to-banken-kun-1x1/",
+                                "title": "Ojou to Banken-kun Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/g1qzGZhziK33CV6j2Edbmtq1niF-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodios/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-dublado-1x10/",
+                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou (Dublado) Episódio 10",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/10-29-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/undead-girl-murder-farce-1x13/",
+                                "title": "Undead Girl Murder Farce Episódio 13",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/13-3-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/shiro-seijo-to-kuro-bokushi-1x12/",
+                                "title": "Shiro Seijo to Kuro Bokushi Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-32-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/bleach-sennen-kessen-hen-ketsubetsu-tan-dublado-2x6/",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Dublado) Episódio 6",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/6-7-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/niehime-to-kemono-no-ou-1x24/",
+                                "title": "Niehime to Kemono no Ou Episódio 24",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/24-1-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/helck-1x12/",
+                                "title": "Helck Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-31-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/secret-mission-sennyuu-sousakan-wa-zettai-ni-makenai-1x1/",
+                                "title": "Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai! Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/tHPCnpLURgztP7wIn6d0gbYNXl4-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/dark-gathering-1x1/",
+                                "title": "Dark Gathering Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/9cc39d56-6072-4789-8ec8-50e31b8f4fce-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/suki-na-ko-ga-megane-wo-wasureta-1x13/",
+                                "title": "Suki na Ko ga Megane wo Wasureta Episódio 13",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/13-2-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/synduality-noir-1x12/",
+                                "title": "Synduality: Noir Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-30-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/ayakashi-triangle-1x12/",
+                                "title": "Ayakashi Triangle Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/9uqaAsYxnPM98G8ILpx6DdwoAUo-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/zom-100-bucket-list-of-the-dead-1x9/",
+                                "title": "Zom 100: Bucket List of the Dead Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/9-15-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/eiyuu-kyoushitsu-dublado-1x9/",
+                                "title": "Eiyuu Kyoushitsu (Dublado) Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/9-14-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/mushoku-tensei-ii-isekai-ittara-honki-dasu-dublado-2x9/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu (Dublado) Episódio 9",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/7-9-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/dark-gathering-1x12/",
+                                "title": "Dark Gathering Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-28-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/mushoku-tensei-ii-isekai-ittara-honki-dasu-2x12/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/4fvBqAYVsSLldBGsJ5D2Ex7olx4-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/eiyuu-kyoushitsu-1x12/",
+                                "title": "Eiyuu Kyoushitsu Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-27-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/shinigami-bocchan-to-kuro-maid-2x12/",
+                                "title": "Shinigami Bocchan to Kuro Maid Episódio 12",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/12-26-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/uchi-no-kaisha-no-chiisai-senpai-no-hanashi-dublado-1x8/",
+                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi (Dublado) Episódio 8",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/8-8-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/one-piece-19x1077/",
+                                "title": "One Piece Episódio 1077",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/1077-300x170.png"
+                            },
+                            {
+                                "url": "/episodios/mahou-shoujo-noble-rose-1x2/",
+                                "title": "Mahou Shoujo Noble Rose Episódio 2",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/Hentai-Mahou-Shoujo-Noble-Rose-02-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/mahou-shoujo-noble-rose-1x1/",
+                                "title": "Mahou Shoujo Noble Rose Episódio 1",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/Mahou-Shoujo-Noble-Rose-01-300x170-1.jpg"
+                            },
+                            {
+                                "url": "/episodios/bleach-sennen-kessenhen-ketsubetsutan-2x24/",
+                                "title": "Bleach: Sennen Kessenhen Ketsubetsutan Episódio 24",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/09/eEeN76dqEXQq4Czgnt2WyM9BMQk-300x170.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/animes/world-conquest-zvezda-plot/",
+                                "title": "World Conquest Zvezda Plot",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/04/q0VlnKNxqNOgIhzxXDgzpnpftyS-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/seiken-tsukai-no-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/mZRKfWbdX6i3bHrIxthpQpSYfsh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sd-gundam-world-heroes/",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/7erAYO2Uj6aKYO3BkcESbGFEs4t-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hetalia-world-stars/",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/cM00L1INzac7WWnCpokxVLVdkEW-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/03/ahDdggIiFtQh7jj42XKFbtxl4r-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/01/seMPV7akEeACgtVTfOEEpTIxjgt-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/kino-no-tabi-the-beautiful-world-the-animated-series/",
+                                "title": "Kino no Tabi: The Beautiful World – The Animated Series",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/eLeSz6xkAk6HveEXuxGFcGVffeY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/09/kJPO8BfqFIWEvSjBbAmLLVnV6Ku-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/another-world/",
+                                "title": "Another World",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/cFw0rO72AImFaCkPBvVchm0dLWH-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/rezero-starting-life-in-another-world/",
+                                "title": "Re:ZERO -Starting Life in Another World-",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/06/o3m8mtRtyDkitb00AGHgbtoTNYh-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/makai-senki-disgaea/",
+                                "title": "Makai Senki Disgaea",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/bQgbjA328PuWQP1epb75sQEkMnU-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/hack-liminality/",
+                                "title": ".hack//Liminality",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/07/hGidbV6INqbGoQ5lxGjBmnOj4r0-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/sushi-police/",
+                                "title": "Sushi Police",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/06/vSYyiifMe9k0wP2vnf0WT2O4oNE-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/re-zero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban/",
+                                "title": "Re Zero Kara Hajimeru Isekai Seikatsu – Shin Henshuu-ban",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2023/01/kFUsNsNeW5YyCosmvvSqtqFcWVY-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/leadale-no-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2022/04/oz3xb8ZpPC9SEKneBrJVK3ZinG6-185x278-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/zombieland-saga/",
+                                "title": "Zombieland Saga",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/04/e4rzeUloRTHGovb46Zobk3TimhL-150x150.jpg"
+                            },
+                            {
+                                "url": "/animes/lance-n-masques/",
+                                "title": "Lance N Masques",
+                                "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2020/10/AghKnbLP54oxREa33OlOkHO3CN3-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/animes/apenas-um-show/",
+                    "title": "Apenas Um Show",
+                    "description": "Dois jardineiros em curso de golfe, e melhores amigos, Mordecai (a gralha azul) e Rigby (um guaxinim) passam seus dias tentando distrair-se, por qualquer meio, para a ira de Benson (uma máquina de chicletes), Saltitão (o Yeti), e Pairulito (um homem com cabeça de pirulito).\n\nTítulo original: Regular Show\nTemporadas: 8\nEpisódios: 258",
+                    "genre": "",
+                    "thumbnail_url": "https://animeplayer.com.br/wp-content/uploads/2021/02/sTvXT5aXXD6S8QWqnbDnkMX1DCD-185x278.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodios/apenas-um-show-3x39/",
+                        "name": "Temporada ⭐ x 39 - ",
+                        "episode_number": 39.0
+                    },
+                    {
+                        "url": "/episodios/apenas-um-show-3x38/",
+                        "name": "Temporada ⭐ x 38 - ",
+                        "episode_number": 38.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
