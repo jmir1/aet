@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/heathcliff",
+                                "title": "Heathcliff",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933148.jpg"
+                            },
+                            {
+                                "url": "/anime/harry-bunnie",
+                                "title": "Harry & Bunnie",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933147.jpg"
+                            },
+                            {
+                                "url": "/anime/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933146.jpg"
+                            },
+                            {
                                 "url": "/anime/handy-manny",
                                 "title": "Handy Manny",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933145.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/friendzspace",
                                 "title": "FriendZSpace",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933133.jpg"
-                            },
-                            {
-                                "url": "/anime/friends-of-heartlake-city",
-                                "title": "Friends of Heartlake City",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933132.jpg"
-                            },
-                            {
-                                "url": "/anime/flash-gordon",
-                                "title": "Flash Gordon",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933131.jpg"
-                            },
-                            {
-                                "url": "/anime/fix-and-foxi",
-                                "title": "Fix and Foxi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933130.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/handy-manny",
-                    "title": "Handy Manny",
-                    "description": "A collection of sadistic hardware tools that slowly drive a lowly repairman to insanity.",
-                    "genre": "Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933145.jpg",
+                    "url": "/anime/heathcliff",
+                    "title": "Heathcliff",
+                    "description": "Scruffy Alley cat rules his neighborhood. Rejected monsters drive about doing odd jobs. Clumsy, lovable great dane gets into mischief without meaning to.",
+                    "genre": "Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933148.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/handy-manny-season-3-episode-51-valentines-day-party",
-                        "name": "Season 3 - Episode 51",
-                        "episode_number": 351.0
-                    },
-                    {
-                        "url": "/handy-manny-season-3-episode-50-mrs-loparts-attic-hoop-dream",
-                        "name": "Season 3 - Episode 50",
-                        "episode_number": 350.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnW-hSjRuysCjwTl23zBhod0IUiucOczoI1L9Iz-CceQzx9lqyahoBuxVZmUpzSbItN9pejx2IyDSB3ZL8y9-FRRzoeGqIj5PcpV_41W--jiLj5CWJ1EAHfci3xNJaoI6259_JUX1vm1esfTUnzj11Pro07nt5yjN9_tjhnBwGe1zkvZI-DtnVlQncKORNS_CqOBhRmapI8ajeJv6tsdEMSdxuE35SqsINmWhsJam901NdItxn_fMG02LasI72NjKjQF5lP3IFCPVASS_oY4qL2pu5uNyskta7bFP7ddptkhad3nWPGGDRLwP5I7rCYF4HPacGYGN3sON84ojzwYetkGrQfAqGnCUhc_U8nxr4pm85cQQJm0IzZ0iLjql23vdQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnW-hSjRuysCjwTl23zBhod0IUiucOczoI1L9Iz-CceQzx9lqyahoBuxVZmUpzSbItN9pejx2IyDSB3ZL8y9-FRRzoeGqIj5PcpV_41W--jiLj5CWJ1EAHfci3xNJaoI6259_JUX1vm1esfTUnzj11Pro07nt5yjN9_tjhnBwGe1zkvZI-DtnVlQncKORNS_CqOBhRmapI8ajeJv6tsdEMSdxuE35SqsINmWhsJam901NdItxn_fMG02LasI72NjKjQF5lP3IFCPVASS_oY4qL2pu5uNyskta7bFP7ddptkhad3nWPGGDRLwP5I7rCYF4HPacGYGN3sON84ojzwYetkGrQfAqGnCUhc_U8nxr4pm85cQQJm0IzZ0iLjql23vdQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnW-hSjRuysCjwTl23zBhod0IUiucOczoI1L9Iz-CceQzx9lqyahoBuxVZmUpzSbItN9pejx2IyDSB3ZL8y9-FRRzoeGqIj5PcpV_41W--jiLj5CWJ1EAHfci3xNJaoI67yU5OxntXz2TMFdVjk5I2bflMomne13N1aj6tR55roLyQJZcVJYazIJeAFBDiSVUZDY4BLswV9NYd0BAqVZ0AYzTlUISXYESLIiWMzan887PqKaf3lbfIlhD4jyALUFfJb5MOrg1I_zyhAJK5RwPmCoESNEuv0HdywDQVvS0gxHzmMIXawmdtiCIj0pbP0NQ3EKF9coF7MXmJd86DjqqtGouBTt5nS0fhHlDjHibTJX",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnW-hSjRuysCjwTl23zBhod0IUiucOczoI1L9Iz-CceQzx9lqyahoBuxVZmUpzSbItN9pejx2IyDSB3ZL8y9-FRRzoeGqIj5PcpV_41W--jiLj5CWJ1EAHfci3xNJaoI67yU5OxntXz2TMFdVjk5I2bflMomne13N1aj6tR55roLyQJZcVJYazIJeAFBDiSVUZDY4BLswV9NYd0BAqVZ0AYzTlUISXYESLIiWMzan887PqKaf3lbfIlhD4jyALUFfJb5MOrg1I_zyhAJK5RwPmCoESNEuv0HdywDQVvS0gxHzmMIXawmdtiCIj0pbP0NQ3EKF9coF7MXmJd86DjqqtGouBTt5nS0fhHlDjHibTJX"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

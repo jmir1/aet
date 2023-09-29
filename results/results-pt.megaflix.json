@@ -323,15 +323,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/filme/a-freira-2-2023-assistir-online/",
-                    "title": "A Freira 2",
-                    "description": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons). Versão dublada gravada em cinema com dublagem oficial (possui propagandas no vídeo).",
-                    "genre": "Mistério, Terror, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -344,31 +337,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hls.mflix.vip/videos/f1042dea6cefbada61c9cb0280a5068f/720/720p.m3u8",
-                        "quality": "Megaflix(Dublado) - 720p",
-                        "videoUrl": "https://hls.mflix.vip/videos/f1042dea6cefbada61c9cb0280a5068f/720/720p.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://megaflix.co",
-                            "Referer": "https://megaflix.co"
-                        }
-                    },
-                    {
-                        "url": "https://hls.mflix.vip/videos/f1042dea6cefbada61c9cb0280a5068f/360/360p.m3u8",
-                        "quality": "Megaflix(Dublado) - 360p",
-                        "videoUrl": "https://hls.mflix.vip/videos/f1042dea6cefbada61c9cb0280a5068f/360/360p.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://megaflix.co",
-                            "Referer": "https://megaflix.co"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

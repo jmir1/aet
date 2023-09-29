@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "6710-vasco-rossi-il-supervissuto",
+                                "title": "Vasco Rossi: Il Supervissuto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c9a32976-e1c5-45af-bf4a-8119ae9e5ce1.webp"
+                            },
+                            {
+                                "url": "6709-wilderness-fuori-controllo",
+                                "title": "Wilderness – Fuori controllo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/978f7ebf-7c40-4fa0-8244-c52b25cd121f.webp"
+                            },
+                            {
                                 "url": "6683-la-probabilita-statistica-dellamore-a-prima-vista",
                                 "title": "La probabilità statistica dell'amore a prima vista",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/9105127d-1fe5-4d14-9998-3d9ac6adb077.webp"
@@ -295,16 +305,6 @@
                                 "url": "6239-spider-man-across-the-spider-verse",
                                 "title": "Spider-Man: Across the Spider-Verse",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/e7899376-2d0d-4c7e-8d07-df32c31fe045.webp"
-                            },
-                            {
-                                "url": "6693-rapito",
-                                "title": "Rapito",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/69523396-b588-4019-985d-49e521632d88.webp"
-                            },
-                            {
-                                "url": "6649-operazione-kandahar",
-                                "title": "Operazione Kandahar",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/eda6cdcc-f649-42e4-a8d5-b272e0dc1b04.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "6709-wilderness-fuori-controllo",
+                                "title": "Wilderness – Fuori controllo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/978f7ebf-7c40-4fa0-8244-c52b25cd121f.webp"
+                            },
                             {
                                 "url": "6708-love-is-in-the-air",
                                 "title": "Love is in the Air",
@@ -610,11 +615,6 @@
                                 "url": "6649-operazione-kandahar",
                                 "title": "Operazione Kandahar",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/eda6cdcc-f649-42e4-a8d5-b272e0dc1b04.webp"
-                            },
-                            {
-                                "url": "6648-as-bestas-la-terra-della-discordia",
-                                "title": "As bestas - La terra della discordia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a200df23-54a6-4de6-8872-8eee53eaf1bd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "6683-la-probabilita-statistica-dellamore-a-prima-vista",
-                    "description": "Hadley e Oliver si innamorano l'una dell'altro su un volo da New York a Londra, ma riusciranno a ritrovarsi dopo essersi persi di vista alla dogana?",
-                    "genre": "Dramma, Romance",
+                    "url": "6710-vasco-rossi-il-supervissuto",
+                    "description": "La rockstar più amata d'Italia offre un accesso senza precedenti a dettagli intimi della sua vita personale e della sua incredibile carriera nel corso dei decenni.",
+                    "genre": "Documentario",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -944,17 +944,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "6683",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }

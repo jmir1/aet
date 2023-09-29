@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/the-matchmakers?id=6516fd0b8a20de82ffe22dd5",
+                                "title": "The Matchmakers (Los casamenteros)",
+                                "description": "Romance cómico ambientado durante la dinastía Joseon. Cuenta la historia del encuentro entre la joven viuda Jung Soon Deok y el joven viudo Shim Jung Woo, así como la lucha que ambos atraviesan juntos para casar a las cuatro jóvenes doncellas que representan a Joseon.",
+                                "genre": "Comedia, Drama",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bisLR298LOaOAfKLnWVM5x4TwlK.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/kimi-ni-wa-todokanai?id=6514d1428a9770114ddfdee3",
                                 "title": "Kimi ni wa Todokanai (No puedo alcanzarte)",
                                 "description": "Yamato, a pesar de ser popular, no tiene muchos amigos, ya que es muy tímido, es amigo de la infancia de Kakeru, que, a diferencia de él, es muy animado y tiene muchos amigos. Aunque son diferentes, los dos se llevan muy bien, pero esta amistad podría estar en peligro, Yamato lleva años enamorado de Kakeru, pero para no perder a su amigo, no puede decir lo que siente.\n\nPero, ¿ve Kakeru a Yamato sólo como un amigo?",
@@ -456,13 +463,6 @@
                                 "description": "¿Qué tienen en común un magnate de plataformas móviles sin rostro, el director ejecutivo de una productora dramática, un ex gánster, un aspirante a ídolo, un médico obstetra y ginecólogo, un director ejecutivo de entretenimiento y un profesor de arte en una escuela?\n\nEstas 7 personas estuvieron involucradas en el acalorado caso de una niña desaparecida. Mientras intentan escapar de su destino y buscar la verdad, se ven envueltos en secretos, mentiras y deseos en esta historia de retribución.",
                                 "genre": "Drama, Acción, Thriller, Misterio, Crimen",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/aOHYJImhBrRYBc5TaduKTqv50V4.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/absolute-zero?id=64ecebbf0eb5bb2e011e569c",
-                                "title": "Absolute Zero (Cero Absoluto)",
-                                "description": "(BL) Suansoon y Ongsa son novios. Ongsa tuvo un accidente grave porque regresaba corriendo para celebrar el cumpleaños de Suansoon con él. Suansoon se culpó a sí mismo y rezó para que, si podía volver al pasado, no se reuniera con Ongsa.\n\nSuansoon se encontró en el pasado y advirtió a Ongsa (edad de secundaria) sobre el futuro, pero Ongsa no le creyó y se hizo novio de Suansoon de todos modos.\n\nDiez años después, un día antes del accidente, Ongsa del futuro regresó para decirle a su yo más joven que no evitara el accidente, porque Suansoon moriría si lo hiciera. Ongsa dejó que ocurriera el accidente.\n\nSe despertó nuevamente en el pasado donde conoció a Suansoon por primera vez. Esta vez Ongsa decidió cambiar el futuro y no se acercó a Suansoon...",
-                                "genre": "Drama, Romance",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/7aTO7Tk6ZXIgvejRB92qtzNenSD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -586,17 +586,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/meant-to-be?id=643db7b4ee74ca76276562fb",
-                    "title": "Meant To Be (Destinado a Suceder)",
-                    "artist": "Kim Yu-seok",
-                    "author": "MBC",
-                    "description": "El drama describe la vida de dos mujeres, Lee Hae In y Kang Se Na, que cayeron en diferentes destinos cuando eran niñas.",
-                    "genre": "Drama, Romance, Acción, Familia, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xdzSO56WueBMW45QHWemV3D6mzJ.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

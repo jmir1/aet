@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ojou-to-banken-kun/",
+                                "title": "Ojou to Banken-kun",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/Ojou-to-Banken-kun.jpg"
+                            },
+                            {
+                                "url": "/anime/sousou-no-frieren/",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/sousou-no-frieren-ec564ae1d9.jpg"
+                            },
+                            {
                                 "url": "/anime/castlevania-nocturne/",
                                 "title": "Castlevania Nocturne",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/p25306006_b_v13_aa-scaled.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/lv1-maou-to-one-room-yuusha/",
                                 "title": "Lv1 Maou to One Room Yuusha",
                                 "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/285505.jpg"
-                            },
-                            {
-                                "url": "/anime/fate-strange-fake-whispers-of-dawn/",
-                                "title": "Fate/strange Fake Whispers of Dawn",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/fate_strange_fake_whispers_of_dawn_fr_11439.webp"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/290452.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/castlevania-nocturne/",
-                    "title": "Castlevania Nocturne",
-                    "description": "بينما تجتاح الثورة أراضي \"فرنسا\"، يحارب \"ريكتر بيلمونت\" للحفاظ على إرث عائلته ومنع ارتقاء شخصية حاكمة من مصاصي الدماء متعطشة للسُّلطة ولا تعرف الرحمة.",
-                    "genre": "مصاصو دماء, قوى خارقة, دراما, أكشن, مغامرات, خيال علمي",
+                    "url": "/anime/ojou-to-banken-kun/",
+                    "title": "Ojou to Banken-kun",
+                    "description": "لم تطلب “ايساكو” أبدًا أن تكون ابنة رئيس ياكوزا، ولكن عندما توفي والداها في حادث سيارة عندما كان عمرها 5 سنوات، أخذها جدها رجل العصابات وقام بتربيتها كجزء من العشيرة. بعد سنوات من تجنبها من قبل زملائها في المدرسة بسبب روابطها العائلية، أصبحت “ايساكو” مستعدة أخيرًا للظهور لأول مرة في المدرسة الثانوية، والعيش في حياة طبيعية، وربما حتى العثور على الحب… حتى يظهر خادم الأسرة المخلص ووصي “ايساكو” المخلص، “كيا” البالغ من العمر 26 عامًا، ويدخل إلى المدرسة الثانوية بجانبها ويتعهد بحمايتها من كل ما سبق",
+                    "genre": "شوچو, رومانسي, مدرسي, دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/p25306006_b_v13_aa-scaled.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/Ojou-to-Banken-kun.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,21 +388,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/castlevania-nocturne-الحلقة-8/",
-                        "name": "8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/castlevania-nocturne-الحلقة-7/",
-                        "name": "7",
-                        "episode_number": 7.0
+                        "url": "/episode/ojou-to-banken-kun-الحلقة-1/",
+                        "name": "1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc596.4shared.com/img/mv6dBJlUge/1729b8b8/dlink__2Fdownload_2Fmv6dBJlUge_3Fsbsr_3D5cc13f41cc4095860bc618b3947d2cbcaf4_26bip_3DMjAuMzkuNjEuMTIz_26lgfp_3D66_26bip_3DMjAuMzkuNjEuMTIz_26bip_3DMjAuMzkuNjEuMTIz/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc596.4shared.com/img/mv6dBJlUge/1729b8b8/dlink__2Fdownload_2Fmv6dBJlUge_3Fsbsr_3D5cc13f41cc4095860bc618b3947d2cbcaf4_26bip_3DMjAuMzkuNjEuMTIz_26lgfp_3D66_26bip_3DMjAuMzkuNjEuMTIz_26bip_3DMjAuMzkuNjEuMTIz/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
