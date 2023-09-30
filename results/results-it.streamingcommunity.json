@@ -944,11 +944,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "6710?e=43038",
+                        "name": "Stagione 1 episodio 5 - Supervissuto",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "6710?e=43037",
+                        "name": "Stagione 1 episodio 4 - A un passo dalla morte",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

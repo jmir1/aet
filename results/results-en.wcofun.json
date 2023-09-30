@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/heathcliff-episode-13-football-flunkies-milk-run-mayhem-lumbering-loonies-great-cop-n-cat-chase",
+                        "name": "Season 1 - Episode 13",
+                        "episode_number": 113.0
+                    },
+                    {
+                        "url": "/heathcliff-episode-12-heir-today-gone-tomorrow-mascot-rumble-its-a-snow-job-for-a-creep-heathcliff-of-sherwood-forest",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsCOGBej2hXiR9OLbWwrSM6wTrDVQc5yz95cqeB9lbaoBrtWSPsFdITqCvGI6dGuiPYSp-S1b3ZyklycEkb-IGLAQvjNkKioV5XsQDEwUEnrgJP7ts1DnHLFDTnS4AW5JKDn5y-DO3qP8vIBrd2HL3CJ_sDS34wWJ_cQ-dW98mR7YFMP8q0c4mtSghiHMJoZl0a7NyQrrdF-N7bNdIzLvFjLbNrJiph5KWjs7yuxZjoHYrXIulF_8ffLFXnhkx2K0DdZkPph27RybMWe7UfDjFu2ZvlUgYuWXWeqKwwbsh5kItvzjOlSuC4Qh3z-jkRA09LFBruQkgLyz2y53lcLT71jPFK6DClGyMn5a6dxdMGvIxUx9WOkE6GPh1tgLOy1NTea0OQfWWIHATcfm4matlYAAcM3_wlNqGQIyEiowDmA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsCOGBej2hXiR9OLbWwrSM6wTrDVQc5yz95cqeB9lbaoBrtWSPsFdITqCvGI6dGuiPYSp-S1b3ZyklycEkb-IGLAQvjNkKioV5XsQDEwUEnrgJP7ts1DnHLFDTnS4AW5JKDn5y-DO3qP8vIBrd2HL3CJ_sDS34wWJ_cQ-dW98mR7YFMP8q0c4mtSghiHMJoZl0a7NyQrrdF-N7bNdIzLvFjLbNrJiph5KWjs7yuxZjoHYrXIulF_8ffLFXnhkx2K0DdZkPph27RybMWe7UfDjFu2ZvlUgYuWXWeqKwwbsh5kItvzjOlSuC4Qh3z-jkRA09LFBruQkgLyz2y53lcLT71jPFK6DClGyMn5a6dxdMGvIxUx9WOkE6GPh1tgLOy1NTea0OQfWWIHATcfm4matlYAAcM3_wlNqGQIyEiowDmA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsCOGBej2hXiR9OLbWwrSM6wTrDVQc5yz95cqeB9lbaoBrtWSPsFdITqCvGI6dGuiPYSp-S1b3ZyklycEkb-IGLAQvjNkKioV5XsQDEwUEnrgJP7ts1DnHLFDTnS4AW5JKDn5y-DO3qP8vIBrd2HL3CJ_sDS34wWJ_cQ-dW98mR7MDWWYlUvdtR0Qd6chnvKJj0YLUycDL6JJhTA4N7H6L66UO4_Ak__0HYCcx_T5KAgu5HXuQKEy1N5K4Go2qzEtjCGLVJR58aqlS0llu0eyU4CQId3KtvboVGwUkp6i-1dw99tHQJdwDSwooV6c3y34IVUXq67fnVfg0mzDH_x9xgGIlOV8e24KSd8u3x_A2Yt1fX5P5rXVHfTCyDgKd2O-xgsyHtAyFhG6pjgs2P52XebcFem-WzEmYAKvXeGdmdo",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsCOGBej2hXiR9OLbWwrSM6wTrDVQc5yz95cqeB9lbaoBrtWSPsFdITqCvGI6dGuiPYSp-S1b3ZyklycEkb-IGLAQvjNkKioV5XsQDEwUEnrgJP7ts1DnHLFDTnS4AW5JKDn5y-DO3qP8vIBrd2HL3CJ_sDS34wWJ_cQ-dW98mR7MDWWYlUvdtR0Qd6chnvKJj0YLUycDL6JJhTA4N7H6L66UO4_Ak__0HYCcx_T5KAgu5HXuQKEy1N5K4Go2qzEtjCGLVJR58aqlS0llu0eyU4CQId3KtvboVGwUkp6i-1dw99tHQJdwDSwooV6c3y34IVUXq67fnVfg0mzDH_x9xgGIlOV8e24KSd8u3x_A2Yt1fX5P5rXVHfTCyDgKd2O-xgsyHtAyFhG6pjgs2P52XebcFem-WzEmYAKvXeGdmdo"
+                    }
+                ],
+                "passed": true
             }
         }
     }
