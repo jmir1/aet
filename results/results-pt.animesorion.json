@@ -92,6 +92,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70760/legendado",
+                                "title": "Megumi no Daigo: Kyuukoku no Orange",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42811_background.jpg?v=1696087167"
+                            },
+                            {
+                                "url": "/episodio/70759/legendado",
+                                "title": "Shadowverse Flame: Seven Shadows-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42703_background.jpg?v=1688784320"
+                            },
+                            {
+                                "url": "/episodio/70758/legendado",
+                                "title": "Cardfight!! Vanguard: will+Dress Season 3",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42560_background.jpg?v=1688784161"
+                            },
+                            {
                                 "url": "/episodio/65510/dublado",
                                 "title": "Filme Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42399_background.jpg?v=1680976366"
@@ -193,21 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70746/dublado",
-                                "title": "Kodai Ouja Kyouryuu King (Dinosaur King)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4081_background.jpg?v=1696037201"
-                            },
-                            {
-                                "url": "/episodio/70745/dublado",
-                                "title": "Kodai Ouja Kyouryuu King (Dinosaur King)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4081_background.jpg?v=1696037201"
-                            },
-                            {
-                                "url": "/episodio/70744/dublado",
-                                "title": "Kodai Ouja Kyouryuu King (Dinosaur King)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4081_background.jpg?v=1696037201"
-                            },
-                            {
-                                "url": "/episodio/70743/dublado",
                                 "title": "Kodai Ouja Kyouryuu King (Dinosaur King)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4081_background.jpg?v=1696037201"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
