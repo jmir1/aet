@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
+                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/captain_tsubasa_season_2_junior_youth-hen_11797.webp?resize=215%2C300&ssl=1"
+                            },
+                            {
+                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Shangri-La_Frontier_anime.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/seiken-gakuin-no-makentsukai/",
                                 "title": "Seiken Gakuin no Makentsukai",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_04h45m20s_001_.png?resize=215%2C300&ssl=1"
@@ -235,16 +245,6 @@
                                 "url": "/anime/mononogatari-2nd-season/",
                                 "title": "Mononogatari 2nd Season",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/135927.jpg?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/yumemiru-danshi-wa-genjitsushugisha/",
-                                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.03_17h28m27s_011_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/eiyuu-kyoushitsu/",
-                                "title": "Eiyuu Kyoushitsu",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.03_17h21m59s_010_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,36 +349,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/seiken-gakuin-no-makentsukai/",
-                    "title": "Seiken Gakuin no Makentsukai",
-                    "description": "لا تقارن معارك الممالك القديمة بمعارك الفصل الدراسي! بعد الاستيقاظ من ركود سحري دام ألف عام، وجد اللورد المظلم “ليونيس” نفسه فجأة في جسد صبي يبلغ من العمر عشر سنوات! سرعان ما يلتقي بـ “ريسيليا”، وهي فتاة تواجه “فويد”، وهي مخلوقات كادت تقضي على البشرية. عاقدة العزم على الكشف عن ألغاز هذا العصر الجديد الغريب، التحق “ليونيس” بأكاديمية “اكسكاليبور”، وهي مدرسة تدرب الطلاب على محاربة هذه الوحوش الغامضة. هل يمكن أن تحمل الـ“فويد” اي ارتباط بماضي “ليونيس”؟",
-                    "genre": "حريم, أكشن, فنتازيا, مدرسي, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
+                    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                    "description": "قصة انمي Captain Tsubasa Season 2: Junior Youth-hen تاتي إستكمالا لأحداث الموسم السابقة.",
+                    "genre": "رياضي, شونين, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_04h45m20s_001_.png?fit=424%2C593&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/captain_tsubasa_season_2_junior_youth-hen_11797.webp?fit=710%2C1000&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/seiken-gakuin-no-makentsukai-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xo25ox-03.vidboo.org/6jmnuhoe3iazsalrixpaf4hvaspyrnqz7y2ngct5g4bk7m3j5z7olztvxdqq/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://xo25ox-03.vidboo.org/6jmnuhoe3iazsalrixpaf4hvaspyrnqz7y2ngct5g4bk7m3j5z7olztvxdqq/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

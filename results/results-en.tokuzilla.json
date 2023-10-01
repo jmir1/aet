@@ -3,108 +3,28 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/watch/kamen-rider-outsiders.html",
-                                "title": "Kamen Rider Outsiders",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/power-rangers-cosmic-fury.html",
-                                "title": "Power Rangers: Cosmic Fury",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/power-rangers-cosmic-fury-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuryuu-sentai-abaranger-20th-the-unforgivable-abare.html",
-                                "title": "Bakuryuu Sentai Abaranger 20th: The Unforgivable Abare",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuryuu-sentai-abaranger-20th-the-unforgivable-abare-thumb.png"
-                            },
-                            {
-                                "url": "/watch/messages-from-space-galaxy-wars.html",
-                                "title": "Messages From Space-Galaxy Wars",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/messages-from-space-galaxy-wars-thumb.png"
-                            },
-                            {
-                                "url": "/watch/voltes-v-legacy.html",
-                                "title": "Voltes V: Legacy",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
-                            },
-                            {
-                                "url": "/watch/shoujo-commando-izumi.html",
-                                "title": "Shoujo Commando Izumi",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/shoujo-commando-izumi-thumb.png"
-                            },
-                            {
-                                "url": "/watch/super-combat-team-junretsuger.html",
-                                "title": "Super Combat Team Junretsuger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-combat-team-junretsuger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/metal-kaiser.html",
-                                "title": "Metal Kaiser",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/metal-kaiser-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kousoku-sentai-turboranger.html",
-                                "title": "Kousoku Sentai Turboranger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kousoku-sentai-turboranger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/sukeban-deka-iii-shojo-ninpo-cho-denki.html",
-                                "title": "Sukeban Deka III: Shojo Ninpo-cho Denki",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sukeban-deka-iii-shojo-ninpo-cho-denki-thumb.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/watch/kamen-rider-outsiders.html",
-                    "author": "Year 2022",
-                    "description": "Tukoz's 3rd Anniversary Celebration: Buy 1 Year, Get 1 Year Premium User! (without ads) Only $0.047/day",
-                    "genre": "Kamen Rider, Series",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/kamen-rider-outsiders.html?ep=5#watch",
-                        "name": "Episode 5",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/watch/kamen-rider-outsiders.html?ep=4#watch",
-                        "name": "Episode 4",
-                        "episode_number": 4.0
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
