@@ -92,6 +92,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70792/legendado",
+                                "title": "Hirogaru Sky! Precure",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42596_background.jpg?v=1675568567"
+                            },
+                            {
+                                "url": "/episodio/70791/legendado",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1_background.jpg?v=1649095900"
+                            },
+                            {
+                                "url": "/episodio/70790/legendado",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42814_background.jpg?v=1696107660"
+                            },
+                            {
                                 "url": "/episodio/70789/legendado",
                                 "title": "DinoZone (Dinozaurs)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
@@ -195,21 +210,6 @@
                                 "url": "/episodio/70769/dublado",
                                 "title": "DinoZone (Dinozaurs)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
-                            },
-                            {
-                                "url": "/episodio/70768/dublado",
-                                "title": "DinoZone (Dinozaurs)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
-                            },
-                            {
-                                "url": "/episodio/70767/dublado",
-                                "title": "DinoZone (Dinozaurs)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
-                            },
-                            {
-                                "url": "/episodio/70766/legendado",
-                                "title": "Detective Conan",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1498_background.jpg?v=1596926181"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

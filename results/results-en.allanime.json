@@ -47,14 +47,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148465-JHRudD6EbUVU.jpg"
                             },
                             {
-                                "url": "GoKAhRw3sy8vS3NB8<&sep><&sep>zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
-                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159831-TxAC0ujoLTK6.png"
-                            },
-                            {
                                 "url": "8Ti9Lnd3gW7TgeCXj<&sep><&sep>jujutsu-kaisen",
                                 "title": "Jujutsu Kaisen",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg"
+                            },
+                            {
+                                "url": "GoKAhRw3sy8vS3NB8<&sep><&sep>zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159831-TxAC0ujoLTK6.png"
                             },
                             {
                                 "url": "QWLhHnBT9jNj4owF6<&sep><&sep>maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii",
@@ -107,6 +107,11 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg"
                             },
                             {
+                                "url": "ReHMC7TQnch3C6z8j<&sep><&sep>sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-n1fmjRv4JQUd.jpg"
+                            },
+                            {
                                 "url": "cstcbG4EquLyDnAwN<&sep><&sep>naruto",
                                 "title": "Naruto",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1359/111463.jpg"
@@ -115,11 +120,6 @@
                                 "url": "DkKWjEA3A7m5kCJWp<&sep><&sep>hunter-x-hunter-2011-",
                                 "title": "Hunter x Hunter (2011)",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png"
-                            },
-                            {
-                                "url": "ReHMC7TQnch3C6z8j<&sep><&sep>sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-n1fmjRv4JQUd.jpg"
                             },
                             {
                                 "url": "3msX5MfDNPFYz5ZtE<&sep><&sep>temple",
@@ -146,6 +146,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "ReooPAxPMsHM4KPMY<&sep><&sep>1p",
+                                "title": "1P",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1460/119974.jpg"
+                            },
+                            {
+                                "url": "wya3joHqqvYRLqMBK<&sep><&sep>hirogaru-sky-precure",
+                                "title": "Hirogaru Sky! Precure",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157883-2CY0BMgezlca.png"
+                            },
                             {
                                 "url": "y2irm9vr8TA3Jhptb<&sep><&sep>jitsu-wa-ore-saikyou-deshita-",
                                 "title": "Jitsu wa Ore, Saikyou deshita?",
@@ -265,16 +275,6 @@
                                 "url": "nNRZio54xWHQFuoDa<&sep><&sep>shadowverse-flame-seven-shadows-hen",
                                 "title": "Shadowverse Flame: Seven Shadows-hen",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163136-Fk6VdfAlxjj0.jpg"
-                            },
-                            {
-                                "url": "XSET8NQ8dY3WAcdJh<&sep><&sep>wan-jie-zhizun-season-2",
-                                "title": "Wan Jie Zhizun Season 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1967/138810.jpg"
-                            },
-                            {
-                                "url": "QJYZNwWCYS7g5BLmj<&sep><&sep>shadowverse-flame",
-                                "title": "Shadowverse Flame",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -437,14 +437,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1078\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
+                        "name": "Episode 1078 (sub)",
+                        "episode_number": 1078.0
+                    },
+                    {
                         "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1077\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
                         "name": "Episode 1077 (sub)",
                         "episode_number": 1077.0
-                    },
-                    {
-                        "url": "{\"variables\":{\"showId\":\"ReooPAxPMsHM4KPMY\",\"translationType\":\"sub\",\"episodeString\":\"1076\"},\"query\":\"query(\\n    $showId: String!,\\n    $translationType: VaildTranslationTypeEnumType!,\\n    $episodeString: String!\\n) {\\n    episode(\\n        showId: $showId\\n        translationType: $translationType\\n        episodeString: $episodeString\\n    ) {\\n        sourceUrls\\n    }\\n}\"}",
-                        "name": "Episode 1076 (sub)",
-                        "episode_number": 1076.0
                     }
                 ],
                 "passed": true
@@ -452,9 +452,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://www4.mp4upload.com:183/d/rcx4e5pvz3b4quuoaoqu6zkyk3b5zef26qzsnvxzefnh3mbfjeqktwx7swdrrtcuhgn3jjaz/video.mp4",
+                        "url": "https://www12.mp4upload.com:183/d/q6x7lq7uz3b4quuod6qrknqtlfwxp4mlelrd7qvvkth5so4qhfghpqifn67dxisdjxuihxh7/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx4e5pvz3b4quuoaoqu6zkyk3b5zef26qzsnvxzefnh3mbfjeqktwx7swdrrtcuhgn3jjaz/video.mp4",
+                        "videoUrl": "https://www12.mp4upload.com:183/d/q6x7lq7uz3b4quuod6qrknqtlfwxp4mlelrd7qvvkth5so4qhfghpqifn67dxisdjxuihxh7/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://mp4upload.com/"
