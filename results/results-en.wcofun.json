@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/boushoku-no-berserk",
+                                "title": "Boushoku no Berserk",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933160.jpg"
+                            },
+                            {
+                                "url": "/anime/overtake-english-subbed",
+                                "title": "Overtake! English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933159.jpg"
+                            },
+                            {
+                                "url": "/anime/dekoboko-majo-no-oyako-jijou",
+                                "title": "Dekoboko Majo no Oyako Jijou",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933158.jpg"
+                            },
+                            {
+                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933157.jpg"
+                            },
+                            {
                                 "url": "/anime/management-of-a-novice-alchemist",
                                 "title": "Management of a Novice Alchemist",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933156.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/handy-manny",
                                 "title": "Handy Manny",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933145.jpg"
-                            },
-                            {
-                                "url": "/anime/ojou-to-banken-kun",
-                                "title": "Ojou to Banken-kun",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933144.jpg"
-                            },
-                            {
-                                "url": "/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",
-                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933143.jpg"
-                            },
-                            {
-                                "url": "/anime/guardians-of-the-power-masks",
-                                "title": "Guardians of the Power Masks",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933142.jpg"
-                            },
-                            {
-                                "url": "/anime/groundling-marsh",
-                                "title": "Groundling Marsh",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933141.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/management-of-a-novice-alchemist",
-                    "title": "Management of a Novice Alchemist",
-                    "description": "Shinmai Renkinjutsushi no Tenpo Keiei",
-                    "genre": "Adventure, Fantasy, Slice Of Life, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933156.jpg",
+                    "url": "/anime/boushoku-no-berserk",
+                    "title": "Boushoku no Berserk",
+                    "description": "Fate Graphite is one of the forsaken. Cursed with the skill “Gluttony,” he is ever starving, never sated… until the day he kills a dying thief and devours the man’s strength—and his soul. The true hunger of Fate’s Gluttony has awakened, and if he can learn to control his power, he will at last be the master of his own destiny.",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933160.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/management-of-a-novice-alchemist-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrHbbjkHFRdKO8BLSnvGiKQ0XSaL2zTF7q0K_W8l6MJr7ykQRR-pxMK2oHzM41Velrh_NSbR0KY8TCH_BB3dp6EisnE3MeVPykHhQJrPA0FahOnhWlSZK4UH4SnEaI36jgIaCTyKO7xrxeznizF7-ZIhELYYw2vKBxDwdZZM-8dCqzJvNUgIglQz-jXU5LYmt9EmDSYifS3LUmxhq3KuNrzY17Jv2jzQ_DxhgxmKP2S2ILpIfIVkj7MZPLhT_2xtET5faN0kVJ0FSarjA5ElXmjgb9ps_zEMhHKrtLPZdY9R8jedwRFlAb64BPuI1NnIosUq2FKX6cdRu7wMg9f6O5KSWat0c_qNUACKarq2u904XCp8N9lXgoL3lTlpQ0Xqld_PgboHkm-fJZh8cVwYu5w",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrHbbjkHFRdKO8BLSnvGiKQ0XSaL2zTF7q0K_W8l6MJr7ykQRR-pxMK2oHzM41Velrh_NSbR0KY8TCH_BB3dp6EisnE3MeVPykHhQJrPA0FahOnhWlSZK4UH4SnEaI36jgIaCTyKO7xrxeznizF7-ZIhELYYw2vKBxDwdZZM-8dCqzJvNUgIglQz-jXU5LYmt9EmDSYifS3LUmxhq3KuNrzY17Jv2jzQ_DxhgxmKP2S2ILpIfIVkj7MZPLhT_2xtET5faN0kVJ0FSarjA5ElXmjgb9ps_zEMhHKrtLPZdY9R8jedwRFlAb64BPuI1NnIosUq2FKX6cdRu7wMg9f6O5KSWat0c_qNUACKarq2u904XCp8N9lXgoL3lTlpQ0Xqld_PgboHkm-fJZh8cVwYu5w"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrHbbjkHFRdKO8BLSnvGiKQ0XSaL2zTF7q0K_W8l6MJr7ykQRR-pxMK2oHzM41Velrh_NSbR0KY8TCH_BB3dp6EisnE3MeVPykHhQJrPA0FahOnhWlSZK4UH4SnEaI36jgIaCTyKO7xrxeznizF7-ZIhELYYw2vKBxDwdZZM-8dCpUptajHsSZuf_TTUKv2ggW4VJdd-9fjySGGWndLHuOV9gaGgF3AkYDc8luW3O2oevh_7B8355DTNH2bwXuxwCQb4NvC5xKFNk6zjWPxd_3kHSD5jNNV7DzywbWM-jDID5FCf5zOI1nsc_pnPdYAKouxVSyRHwSf6aD9cJSH8s0NA0jy3GmKTGk7QPw-9fZ50m0AsPM_3rwJhipkGn-wH4kp9tbQlFsRUkDhIVRsfRIo",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrHbbjkHFRdKO8BLSnvGiKQ0XSaL2zTF7q0K_W8l6MJr7ykQRR-pxMK2oHzM41Velrh_NSbR0KY8TCH_BB3dp6EisnE3MeVPykHhQJrPA0FahOnhWlSZK4UH4SnEaI36jgIaCTyKO7xrxeznizF7-ZIhELYYw2vKBxDwdZZM-8dCpUptajHsSZuf_TTUKv2ggW4VJdd-9fjySGGWndLHuOV9gaGgF3AkYDc8luW3O2oevh_7B8355DTNH2bwXuxwCQb4NvC5xKFNk6zjWPxd_3kHSD5jNNV7DzywbWM-jDID5FCf5zOI1nsc_pnPdYAKouxVSyRHwSf6aD9cJSH8s0NA0jy3GmKTGk7QPw-9fZ50m0AsPM_3rwJhipkGn-wH4kp9tbQlFsRUkDhIVRsfRIo"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrHbbjkHFRdKO8BLSnvGiKQ0XSaL2zTF7q0K_W8l6MJr7ykQRR-pxMK2oHzM41Velrh_NSbR0KY8TCH_BB3dp6EisnE3MeVPykHhQJrPA0FahOnhWlSZK4UH4SnEaI36jgIaCTyKO7xrxeznizF7-ZIhELYYw2vKBxDwdZZM-8dCj7VTNf-NcicveGexFJThu8ioleCkTOkhfJXvTToP5AfSkyFRniqftU0x18CSS4vK8MUC5vTKmImLxrxzE19NdePZbfXNAHTgeQb-N6HaUdY6zW-40kQw1C0FGjBr15Zq5eRNS9d39N3jyVCHDM2ki0HCA3PkjgXAc2uWArvQuUBfeVpM2NgH-PKyvE2Ix5SGcnF9J-2laqtBtG7cFi30uVeUWnhZHuB5XgNiBAmOdLo",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrHbbjkHFRdKO8BLSnvGiKQ0XSaL2zTF7q0K_W8l6MJr7ykQRR-pxMK2oHzM41Velrh_NSbR0KY8TCH_BB3dp6EisnE3MeVPykHhQJrPA0FahOnhWlSZK4UH4SnEaI36jgIaCTyKO7xrxeznizF7-ZIhELYYw2vKBxDwdZZM-8dCj7VTNf-NcicveGexFJThu8ioleCkTOkhfJXvTToP5AfSkyFRniqftU0x18CSS4vK8MUC5vTKmImLxrxzE19NdePZbfXNAHTgeQb-N6HaUdY6zW-40kQw1C0FGjBr15Zq5eRNS9d39N3jyVCHDM2ki0HCA3PkjgXAc2uWArvQuUBfeVpM2NgH-PKyvE2Ix5SGcnF9J-2laqtBtG7cFi30uVeUWnhZHuB5XgNiBAmOdLo"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

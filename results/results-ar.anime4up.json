@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/boushoku-no-berserk/",
+                                "title": "Boushoku no Berserk",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h51m24s_008_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
+                                "url": "/anime/overtake/",
+                                "title": "Overtake!",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h45m20s_006_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
+                                "url": "/anime/dekoboko-majo-no-oyako-jijou/",
+                                "title": "Dekoboko Majo no Oyako Jijou",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h37m51s_003_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
                                 "title": "Captain Tsubasa Season 2: Junior Youth-hen",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/captain_tsubasa_season_2_junior_youth-hen_11797.webp?resize=215%2C300&ssl=1"
@@ -230,21 +245,6 @@
                                 "url": "/anime/watashi-no-shiawase-na-kekkon/",
                                 "title": "Watashi no Shiawase na Kekkon",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.04_17h14m34s_003_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou/",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.04_17h08m54s_002_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/okashi-na-tensei/",
-                                "title": "Okashi na Tensei",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/okashi_na_tensei_11339.webp?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/mononogatari-2nd-season/",
-                                "title": "Mononogatari 2nd Season",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/135927.jpg?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,24 +349,36 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
-                    "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                    "description": "قصة انمي Captain Tsubasa Season 2: Junior Youth-hen تاتي إستكمالا لأحداث الموسم السابقة.",
-                    "genre": "رياضي, شونين, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/boushoku-no-berserk/",
+                    "title": "Boushoku no Berserk",
+                    "description": "“فيت غرافيت” هو واحد من المهجورين. ملعونًا بمهارة «الشراهة»، فهو يتضور جوعًا، ولا يشبع أبدًا… حتى اليوم الذي يقتل فيه لصًا يحتضر ويلتهم قوة الرجل، وروحه. استيقظ الجوع الحقيقي لشراهة “فيت“، وإذا تمكن من تعلم السيطرة على قوته، فسيكون أخيرًا سيد مصيره.",
+                    "genre": "أكشن, فنتازيا, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/captain_tsubasa_season_2_junior_youth-hen_11797.webp?fit=710%2C1000&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h51m24s_008_.png?fit=409%2C533&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/boushoku-no-berserk-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://nt29no-12.vidboo.org/6jmnra6a3iazsalrixpafk7wkyjkb6bwkxgwuen6fpawvsai4mynymbo3fbq/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://nt29no-12.vidboo.org/6jmnra6a3iazsalrixpafk7wkyjkb6bwkxgwuen6fpawvsai4mynymbo3fbq/v.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

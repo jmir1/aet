@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/bleach-thousand-year-blood-war-the-separation.15392/",
+                                "title": "BLEACH: Thousand-Year Blood War - The Separation",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/BLEACH-Thousand-Year-Blood-War-The-Separation.jpg"
+                            },
+                            {
                                 "url": "/Anime/One-Piece.54191/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
@@ -510,11 +515,6 @@
                                 "url": "/Anime/Ao-no-Orchestra/",
                                 "title": "Ao no Orchestra",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/Ao-no-Orchestra.jpg"
-                            },
-                            {
-                                "url": "/Anime/yugioh-go-rush.59521/",
-                                "title": "Yu☆Gi☆Oh! Go Rush!!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/04/YuGiOh-Go-Rush.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
