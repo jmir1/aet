@@ -497,8 +497,46 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/jZs1rsIU9R8XhT-sADgXsnfSHMQ9we7F4-yc6PthunkeJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/jZs1rsIU9R8XhT-sADgXsnfSHMQ9we7F4-yc6PthunkeJxFPc"
+                    },
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/NwOLOmD0K_RO0pM-NsVV8TsMMl8ZJwDmaXDD_eun4KIeJxFPc",
+                        "quality": "Amazon ES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/NwOLOmD0K_RO0pM-NsVV8TsMMl8ZJwDmaXDD_eun4KIeJxFPc"
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a20231001m5B54UmM6oB/Yashahime 24.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a20231001m5B54UmM6oB/Yashahime 24.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.burstcloud.co/"
+                        }
+                    },
+                    {
+                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwcnuqs4binqmqlw7flj7tybayxwn7p/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwcnuqs4binqmqlw7flj7tybayxwn7p/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20231001C70J7VOJf0v/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20231001C70J7VOJf0v/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
