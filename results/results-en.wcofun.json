@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/flcl-shoegaze",
+                                "title": "FLCL: Shoegaze",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933162.jpg"
+                            },
+                            {
+                                "url": "/anime/little-baby-bum-music-time",
+                                "title": "Little Baby Bum: Music Time",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933161.jpg"
+                            },
+                            {
                                 "url": "/anime/boushoku-no-berserk",
                                 "title": "Boushoku no Berserk",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933160.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/harry-bunnie",
                                 "title": "Harry & Bunnie",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933147.jpg"
-                            },
-                            {
-                                "url": "/anime/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933146.jpg"
-                            },
-                            {
-                                "url": "/anime/handy-manny",
-                                "title": "Handy Manny",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933145.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/boushoku-no-berserk",
-                    "title": "Boushoku no Berserk",
-                    "description": "Fate Graphite is one of the forsaken. Cursed with the skill “Gluttony,” he is ever starving, never sated… until the day he kills a dying thief and devours the man’s strength—and his soul. The true hunger of Fate’s Gluttony has awakened, and if he can learn to control his power, he will at last be the master of his own destiny.",
-                    "genre": "Action, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933160.jpg",
+                    "url": "/anime/flcl-shoegaze",
+                    "title": "FLCL: Shoegaze",
+                    "description": "The fifth season of the FLCL anime series, titled FLCL: Shoegaze, is produced by Production I.G and Adult Swim’s production arm Williams Street. Shoegaze was animated by NUT, with direction by Yutaka Uemura. It premiered on October 1, 2023 in the United States on Adult Swim’s Toonami programming block.",
+                    "genre": "Action, Avant Garde, Comedy, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933162.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/flcl-shoegaze-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgcXuabPGi6BPkvCFJ25XTsXz_s1Gzce9vi_ssLWO1Byj5CyNPXMpKxKMx4HJssW7sd_9CYeUf5qfygN-RVYZNjVFefNse7xdrQHDhM33kXXXU1SDFxkpNJdfXi2eqt_VADk6AJsNJ0P7BTvQEctsfkEP1xMj8JqdKRWl-XX5yrdpjcHrZiK8ioQNE9J1BaAyhozCSQMDnPUdm8f-spq5G_4xoYkxKFsG0sIAo7gy-XBsRH1j3ZkltrrCDy3WHJzs5nJh1jX-FjPGEmxhCrKIYbNdeMkGX5XOxJG0R15c3zFGBZ6XoPJLFi7Yxwnhd6MSA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgcXuabPGi6BPkvCFJ25XTsXz_s1Gzce9vi_ssLWO1Byj5CyNPXMpKxKMx4HJssW7sd_9CYeUf5qfygN-RVYZNjVFefNse7xdrQHDhM33kXXXU1SDFxkpNJdfXi2eqt_VADk6AJsNJ0P7BTvQEctsfkEP1xMj8JqdKRWl-XX5yrdpjcHrZiK8ioQNE9J1BaAyhozCSQMDnPUdm8f-spq5G_4xoYkxKFsG0sIAo7gy-XBsRH1j3ZkltrrCDy3WHJzs5nJh1jX-FjPGEmxhCrKIYbNdeMkGX5XOxJG0R15c3zFGBZ6XoPJLFi7Yxwnhd6MSA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgcXuabPGi6BPkvCFJ25XTsXz_s1Gzce9vi_ssLWO1Byj5CyNPXMpKxKMx4HJssW7qTzE7giM6UHIALMfc_ry3IMjAU1ippPn3pQX7ALoGru93BQ75A0ToT5yVOkGpcf1L6Is0HzptbgplQr-XHhsWT-Rm8GeOdS3mda7csGoO0GESlhfAKY6Xs_FKAUZr21hwl1CqRF-bypkTM4G3Fojb4IssqYs-SGYUY2zN4JIDZZmhP6LpJY1Emh7vYPLkquA6LOTxAmRgRnWu3jR1EvjGbpIx6jcn70uvVqcl8R__hkWA_AVBtgUg1aw5jnGCVe0A",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgcXuabPGi6BPkvCFJ25XTsXz_s1Gzce9vi_ssLWO1Byj5CyNPXMpKxKMx4HJssW7qTzE7giM6UHIALMfc_ry3IMjAU1ippPn3pQX7ALoGru93BQ75A0ToT5yVOkGpcf1L6Is0HzptbgplQr-XHhsWT-Rm8GeOdS3mda7csGoO0GESlhfAKY6Xs_FKAUZr21hwl1CqRF-bypkTM4G3Fojb4IssqYs-SGYUY2zN4JIDZZmhP6LpJY1Emh7vYPLkquA6LOTxAmRgRnWu3jR1EvjGbpIx6jcn70uvVqcl8R__hkWA_AVBtgUg1aw5jnGCVe0A"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgcXuabPGi6BPkvCFJ25XTsXz_s1Gzce9vi_ssLWO1Byj5CyNPXMpKxKMx4HJssW7ot7VdV57-CD2wgklqmWu1-CHnnm0a0CK6ofLjUND3MOTjBLA8RFS8uCpfUOMGhPd0hQWP9R4RiyoSdAQRfk1eqWwHyH1HjXDJQV1dHSh7mhwaFZ-z7xkHeZlznVtJ9PrN5y1vAl_HJojsgbNxxhxxx03-jywIGDdwgouqbtoR7zwVPuGFCmnHvvosSuINaWwFtcxhyCnzNV9Z91eum3AHeshVI32Y0J4tghrPfVbYk5wqrWHdLqfHfGeassKHfntg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgcXuabPGi6BPkvCFJ25XTsXz_s1Gzce9vi_ssLWO1Byj5CyNPXMpKxKMx4HJssW7ot7VdV57-CD2wgklqmWu1-CHnnm0a0CK6ofLjUND3MOTjBLA8RFS8uCpfUOMGhPd0hQWP9R4RiyoSdAQRfk1eqWwHyH1HjXDJQV1dHSh7mhwaFZ-z7xkHeZlznVtJ9PrN5y1vAl_HJojsgbNxxhxxx03-jywIGDdwgouqbtoR7zwVPuGFCmnHvvosSuINaWwFtcxhyCnzNV9Z91eum3AHeshVI32Y0J4tghrPfVbYk5wqrWHdLqfHfGeassKHfntg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

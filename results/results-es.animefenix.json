@@ -13,12 +13,6 @@
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/5f73af6ce4a9f/hanyo-no-yashahime.jpg"
                             },
                             {
-                                "url": "/kimetsu-no-yaiba",
-                                "title": "Kimetsu no Yaiba",
-                                "description": "Estamos en la era Taisho de Japón. Tanjiro, un joven que se gana la vida vendiendo carbón, descubre un día que su familia ha sido asesinada por un demonio. Para empeorar las cosas, su hermana menor Nezuko, la única superviviente de la masacre, ha sufrido una transformación en demonio. Destrozado por los acontecimientos Tanjiro decide convertirse en un cazador de demonios para poder devolver a su hermana a la normalidad y matar al demonio que masacró a su familia.",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/5d326cee52cd4/kimetsu-no-yaiba.jpg"
-                            },
-                            {
                                 "url": "/dr-stone",
                                 "title": "Dr. Stone",
                                 "description": "Varios miles de años después de un misterioso fenómeno que convierte a toda la humanidad en piedra, el niño extraordinariamente inteligente y científico, Senku Ishigami, despierta. Frente a un mundo de piedra y al colapso total de la civilización, Senku decide usar la ciencia para reconstruir el mundo. Comenzando con su súper fuerte amigo de la infancia Taiju Oki, quien se despertó al mismo tiempo, comenzarán a reconstruir la civilización de la nada ... Representando dos millones de años de historia científica desde la Edad de Piedra hasta nuestros días, ¡la historia de aventuras de creación sin precedentes está a punto de comenzar!",
@@ -155,6 +149,12 @@
                                 "title": "Boku no Kokoro no Yabai Yatsu",
                                 "description": "Fascinado por el asesinato y todo lo macabro, Kyotaro sueña con representar sus retorcidas fantasías con sus desprevenidos compañeros de clase, pero un encuentro con Anna Yamada, la hermosa ídolo de la clase, enciende una chispa en la oscuridad de su corazón. Es una historia clásica de un chico antisocial que se enamora de una chica popular, pero tampoco son quienes parecen ser a primera vista. ¿Kyotaro y Anna desafiarán las expectativas que tienen el uno del otro y de ellos mismos?",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6416316c9f588/boku-no-kokoro-no-yabai-yatsu.jpg"
+                            },
+                            {
+                                "url": "/isekai-meikyuu-de-harem-wo",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "description": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harén de un hombre renacido!",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/62b38b1fc1df2/isekai-meikyuu-de-harem-wo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -471,15 +471,33 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/hanyo-no-yashahime",
+                    "title": "Hanyo no Yashahime",
+                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
