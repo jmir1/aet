@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/b-project-llamado-de-amor-apasionado-latino",
+                                "title": "B PROJECT: Llamado de amor apasionado Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/b-project-llamado-de-amor-apasionado-latino-1696269169.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/watashi-no-oshi-wa-akuyaku-reijou-castellano",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/watashi-no-oshi-wa-akuyaku-reijou-castellano-1696265749.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/watashi-no-oshi-wa-akuyaku-reijou-latino",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/watashi-no-oshi-wa-akuyaku-reijou-latino-1696267134.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/yosuga-no-sora-latino",
                                 "title": "Yosuga no Sora Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/yosuga-no-sora-latino-1694309119.jpg?v=1.5"
@@ -140,21 +155,6 @@
                                 "url": "/anime/horimiya-piece-latino",
                                 "title": "Horimiya: Piece Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/horimiya-piece-latino-1688085683.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/eiyuu-kyoushitsu-latino",
-                                "title": "Eiyuu Kyoushitsu Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/eiyuu-kyoushitsu-latino-1688085556.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/bungo-stray-dogs-s5-latino",
-                                "title": "Bungo Stray Dogs S5 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/bungo-stray-dogs-s5-latino-1688085328.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/full-moon-buscando-la-luna-llena-latino",
-                                "title": "Full Moon - Buscando la Luna Llena Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/full-moon-buscando-la-luna-llena-latino-1687830734.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,42 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/yosuga-no-sora-latino",
-                    "title": "Yosuga no Sora Latino",
-                    "description": "Debido a un repentino accidente, las gemelas Haruka y Sora Kasugano han perdido a sus padres. Empezando de nuevo sus vidas, regresan al hogar de su infancia, viviendo una vez más en el pintoresco pueblo rural como lo hicieron hace cuatro años. Sin embargo, volver a visitar un lugar tan nostálgico también significa rememorar todos los recuerdos que ambos vivieron juntos, ya sean los que les proporcionaron una alegría dichosa o los que les hicieron sufrir una dolorosa pena. Al encontrarse tanto con viejos conocidos como con nuevos compañeros, la historia de Haruka y Sora no hace más que enrevesarse a medida que sus vidas se ven lentamente influenciadas por diferentes actos de amor, amistad, envidia... y puede que incluso lujuria.",
-                    "genre": "Drama, Ecchi, Harem, Romance",
+                    "url": "/anime/b-project-llamado-de-amor-apasionado-latino",
+                    "title": "B PROJECT: Llamado de amor apasionado Latino",
+                    "description": "El éxito conseguido por el grupo de idols \"B-PROJECT\" en su segundo concierto en el JAPAN DOME, marcó un gran cambio para la importante compañía discográfica \"Gandara Music\" en la industria. Nuevos retos se aproximan para Tsubasa Sumisora, que trabaja como A&R. Además de \"KitaKore\", \"THRIVE\", \"MooNs\" y \"KiLLER KiNG\"; también deberá encargarse de unos artistas que se unen desde un nuevo y diferente género, los llamados \"Ultras\". La sinergia creada del encuentro entre B-PROJECT y Ultras está generando un emocionante e intenso \"Llamado de amor apasionado\" que resuena con gran intensidad. ¿Están preparados para lo que sigue?",
+                    "genre": "Música, Latino",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/yosuga-no-sora-latino-episodio-4",
-                        "name": "Yosuga no Sora Latino Capitulo 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/ver/yosuga-no-sora-latino-episodio-3",
-                        "name": "Yosuga no Sora Latino Capitulo 3",
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwx2zq7uz3b4quuod6qqqyisjfrub2penhau7bz7o2v5kvhu5pekpb723lakpj5kpt5mkcue/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwx2zq7uz3b4quuod6qqqyisjfrub2penhau7bz7o2v5kvhu5pekpb723lakpj5kpt5mkcue/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

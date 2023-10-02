@@ -291,8 +291,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://v906.streamhub.ink/hls/sc6t2nfzwaytnuzvoxnc5zj275kindb7xtaxcjqqthenm2g6ginnqg56vrlq/index-v1-a1.m3u8",
+                        "quality": "640p",
+                        "videoUrl": "https://v906.streamhub.ink/hls/sc6t2nfzwaytnuzvoxnc5zj275kindb7xtaxcjqqthenm2g6ginnqg56vrlq/index-v1-a1.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
