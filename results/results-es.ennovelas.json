@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/ella-camina-sola/",
+                                "title": "Ella camina sola",
+                                "description": "",
+                                "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/10/Ella-camina-sola.jpg"
+                            },
+                            {
+                                "url": "/series/tierra-brava/",
+                                "title": "Tierra Brava",
+                                "description": "",
+                                "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/10/Tierra-Brava-Ennovelas.jpg"
+                            },
+                            {
                                 "url": "/series/vuelve-a-mi/",
                                 "title": "Vuelve a Mí",
                                 "description": "",
@@ -203,18 +215,6 @@
                                 "title": "La Escuela de la Vida (Miseducation )",
                                 "description": "",
                                 "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/09/Miseducation-470x470.jpg"
-                            },
-                            {
-                                "url": "/series/ana-de-nadie-hz/",
-                                "title": "Ana de nadie",
-                                "description": "",
-                                "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2023/03/Ana-de-nadie.jpg"
-                            },
-                            {
-                                "url": "/series/yali-capkini-en-espanol/",
-                                "title": "Yali Capkini (En Espanol)",
-                                "description": "",
-                                "thumbnail_url": "https://t.ennovelas.net/wp-content/uploads/2022/10/MV5BOTY4ZjQwNDktMTIxZS00NTRjLTgzM2UtMGRmZGM5NGUxZTEyXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_UY1200_CR165,0,630,1200_AL_-273x520.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -246,23 +246,38 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/vuelve-a-mi/",
-                    "title": "Vuelve a Mí",
-                    "artist": "Kimberly Dos Ramos",
-                    "author": "Amarís Páez",
-                    "description": "Vuelve a Mí",
-                    "genre": "Acción, Drama, Novelas Mexicanas Completas Online Gratis, Romance, Srnovelas",
+                    "url": "/series/ella-camina-sola/",
+                    "title": "Ella camina sola",
+                    "artist": "Christopher Von Uckermann",
+                    "author": "2023",
+                    "description": "Ella camina sola",
+                    "genre": "Drama, Novelas Mexicanas Completas Online Gratis",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ella-camina-sola-capitulo-1/",
+                        "name": "T1 - E1 - Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno-03-d1-2e.vmrest.space/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65pwybcdpttdr2a72dsxiq/index-v1-a1.m3u8",
+                        "quality": " - 1080p",
+                        "videoUrl": "https://eno-03-d1-2e.vmrest.space/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65pwybcdpttdr2a72dsxiq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
