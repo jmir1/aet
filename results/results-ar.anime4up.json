@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tokyo-revengers-tenjiku-hen/",
+                                "title": "Tokyo Revengers: Tenjiku-hen",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.03_16h58m46s_001_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/toaru-ossan-no-vrmmo-katsudouki/",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.02_18h19m29s_007_.png?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/sugar-apple-fairy-tale-part-2/",
                                 "title": "Sugar Apple Fairy Tale Part 2",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/sugar-apple-fairy-tale-new-kv2.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.31_17h54m19s_005_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,36 +349,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/toaru-ossan-no-vrmmo-katsudouki/",
-                    "title": "Toaru Ossan no VRMMO Katsudouki",
-                    "description": "تم طرح نوع جديد من ألعاب الواقع الافتراضي متعددة اللاعبين يسمى «حياة حرة إضافية على الانترنيت». يسجل الدخول كفتى يُدعى «ايرث»، “تاناكا تايشي“، أعزب يبلغ 38 سنة، لديه وظيفة مكتبية منتظمة ويستمتع بلعب ألعاب الفيديو في وقت فراغه. في عالم يتمتع فيه اللاعب بحرية القيام بما يشاء، يقرر إتقان مهارة اعتبرت عديمة الفائدة! إنه يصنع جرعات يصعب صنعها كثيرًا، ويطبخ طعامًا جيدًا للغاية، ويستخدم أسلحة أصلية غريبة لمطاردة الوحوش…",
-                    "genre": "أكشن, مغامرات, كوميدي, فنتازيا, العاب, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/tokyo-revengers-tenjiku-hen/",
+                    "title": "Tokyo Revengers: Tenjiku-hen",
+                    "description": "قصة انمي Tokyo Revengers: Tenjiku-hen تتمة لاحداث الموسم السابق وتدور القصة بالعودة إلى الماضي مرة أخرى، يقسم “تاكيميتشي” على الوفاء بتعهده بأن يصبح قائد تومان، ويغير المستقبل! في هذه الأثناء، عصابة ضخمة لم يسبق لها مثيل، تنجيكو، تبدأ هجومها على تومان! إنها بداية الصراع الأعظم والأخير لـ تومان، انتفاضة كانتو!",
+                    "genre": "أكشن, دراما, خارق للعادة, شونين, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.02_18h19m29s_007_.png?fit=425%2C600&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.03_16h58m46s_001_.png?fit=428%2C598&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/toaru-ossan-no-vrmmo-katsudouki-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xor45-10.vidboo.org/6jmn2l6i3iazsalrixpafi7garxug7q32qr572cmsse4aartbagdzjnhsk7q/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://xor45-10.vidboo.org/6jmn2l6i3iazsalrixpafi7garxug7q32qr572cmsse4aartbagdzjnhsk7q/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

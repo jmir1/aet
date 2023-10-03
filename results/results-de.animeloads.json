@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/paradox-live-the-animation",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-paradox-live-the-animation-cover.png"
+                            },
+                            {
                                 "url": "/media/toaru-ossan-no-vrmmo-katsudou-ki",
                                 "title": "A Playthrough of a Certain Dude’s VRMMO Life",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-toaru-ossan-no-vrmmo-katsudou-ki-cover.png"
@@ -100,11 +105,6 @@
                                 "url": "/media/idolmster-sidem-wake-atte-mini",
                                 "title": "The IDOLM@STER SideM Wakeatte Mini!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-idolmster-sidem-wake-atte-mini-cover.jpg"
-                            },
-                            {
-                                "url": "/media/idolmster-cinderella-girls-gekijou-third-season",
-                                "title": "The IDOLM@STER: Cinderella Girls Theater 3 (TV)",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-idolmster-cinderella-girls-gekijou-third-season-cover.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/toaru-ossan-no-vrmmo-katsudou-ki",
-                    "title": "A Playthrough of a Certain Dude’s VRMMO Life",
+                    "url": "/media/paradox-live-the-animation",
+                    "title": "Paradox Live the Animation",
                     "author": "",
-                    "description": "Der 38-jährige Büroangestellte Taichi Tanaka macht sich nicht viel aus seinem Leben und verbringt seinen Lebtag als einsamer Wolf im Büro oder den eigenen vier Wänden, während er dabei die verschiedensten Videospiele in Angriff nimmt – darunter auch »One More Free Life Online«. Ebenjenes VRMMO ist die jüngste Erweiterung seiner Sammlung, weshalb er dementsprechend viel Zeit darin investiert. Allerdings ist er gewiss kein gewöhnlicher Spieler, der sich von einem Abenteuer ins nächste stürzt und am liebsten einen Boss-Gegner nach dem anderen bekämpfen will – ganz im Gegenteil! In der virtuellen Welt wird der Büroangestellte zu einem wahrhaftig genialen Koch und braut auch den ein oder andere Trank zusammen. Wäre das Meistern solcher Skills nicht schon absurd genug, so besorgt er sich seine Speise- sowie Tränke-Zutaten durch das Bekämpfen von Monstern, wobei natürlich nur selbstgebaute und somit skurril aussehende Waffen infrage kommen. Denn für Taichi zählt am Ende des Tages nur eine Sache: viel Spaß gehabt zu haben! Doch wird der Meisterkoch auch weiterhin nur auf sich allein gestellt sein oder werden ihn schon bald einige Videospiel-Kameraden auf seiner irrwitzigen Reise durch die Online-Welt begleiten ...? Quelle: aniSearch",
-                    "genre": "Abenteuer",
+                    "description": "Vor zehn Jahren verschwand der berüchtigte Club PARADOX urplötzlich von der Bildfläche. Das versetzte die Musikszene in Aufruhr, denn dort bekamen Anhänger des Phantom Live Movements, die ihre Körper mit Phantom Metals augmentieren, um Illusionen erzeugen und die Emotionen ihrer Zuschauer beeinflussen zu können, die Möglichkeit, sich regelmäßig in Rap-Battles messen zu können. Nun jedoch erhalten vier spezielle Acts dieser Bewegung die Möglichkeit, ihr Können erneut in einem Phantom Live Battle unter Beweis zu stellen. Sie sollen gegen die legendäre Rappergruppe Buraikan antreten, um nicht nur Prestige, sondern auch ein hohes Preisgeld zu gewinnen. Wird es ihnen gelingen, gegen die berühmten Herausforderer zu bestehen? Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-toaru-ossan-no-vrmmo-katsudou-ki-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-paradox-live-the-animation-cover.png",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/toaru-ossan-no-vrmmo-katsudou-ki#streams_episodes_1_0",
+                        "url": "/media/paradox-live-the-animation#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,8 +247,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=9BWgar06dacy0z&expires=1696426747&ip=GxOsD0STKxSHDN&token=bzyxNlXB8Rh3",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=9BWgar06dacy0z&expires=1696426747&ip=GxOsD0STKxSHDN&token=bzyxNlXB8Rh3"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=r0Ag8Wovd1ubmdW&expires=1696426740&ip=GxOsD0STKxSHDN&token=GJAehwVgxZUI",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=r0Ag8Wovd1ubmdW&expires=1696426740&ip=GxOsD0STKxSHDN&token=GJAehwVgxZUI"
+                    }
+                ],
+                "passed": true
             }
         }
     }

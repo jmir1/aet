@@ -267,25 +267,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65pwybcfarf42pc67n6piq/index-v1-a1.m3u8",
-                        "quality": " - 1080p",
-                        "videoUrl": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65pwybcfarf42pc67n6piq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    },
-                    {
-                        "url": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65p7kbcfarf42damp7yorq/index-v1-a1.m3u8",
-                        "quality": " - 480p",
-                        "videoUrl": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2oyq4njokjiqbthlsjois4bs72rcigpnrww65p7kbcfarf42damp7yorq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

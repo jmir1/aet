@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/paradox-live-the-animation-english-subbed",
+                                "title": "Paradox Live the Animation English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933174.jpg"
+                            },
+                            {
                                 "url": "/anime/azur-lane-queens-orders-english-subbed",
                                 "title": "Azur Lane: Queen's Orders English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933173.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/overtake-english-subbed",
                                 "title": "Overtake! English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933159.jpg"
-                            },
-                            {
-                                "url": "/anime/dekoboko-majo-no-oyako-jijou",
-                                "title": "Dekoboko Majo no Oyako Jijou",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933158.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/azur-lane-queens-orders-english-subbed",
-                    "title": "Azur Lane: Queen's Orders English Subbed",
-                    "description": "Due to severe fatigue and exhaustion, the Azur Lane’s commander collapses and enters a coma. To prevent unrest and anxiety from breaking out, the secretary ship Queen Elizabeth decides to fill in for the commander in secret alongside her longtime friend Warspite and a select few.",
-                    "genre": "Sci-fi, Slice Of Life, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933173.jpg",
+                    "url": "/anime/paradox-live-the-animation-english-subbed",
+                    "title": "Paradox Live the Animation English Subbed",
+                    "description": "Set in the near future…",
+                    "genre": "Drama, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933174.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/azur-lane-queens-orders-episode-2-english-subbed",
-                        "name": "Season 1 - Episode 2",
-                        "episode_number": 102.0
-                    },
-                    {
-                        "url": "/azur-lane-queens-orders-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtC8jK49ehoprV5gZ3JANx2VqsSf7ocMvqJfYShKnnTMPcks76aJurMmXtCE_ka9TxMsPQ3MIUw19kaUcqjdnK1OJ7JeA_cH48tY6-dCxrt034kjjcIsfRaBwH-Y_bzIyyb3G_56xITlL8pVdsYFa8fAUpN1q-f9OVtvBOxS1ZaAKC-pL4Y_dXF_5VxD7bzFp0p47LK05Z2fF4whyN_PbFGMPMLQ1ViObQ34vgx0yg8gWqpPQzLAQfUyHr16ia82Pn8CLcLwATJ9I8pNK9QCZy25wcjBeizksHSTEztVjXXeOmqS8QKyXsthyReYgwue0SevRnzPefVQ_Z9IzCvnQ6BDhqjaKDxyoGy9QNFK6Syzi2a4NrGLmfps-XJoeIcygA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtC8jK49ehoprV5gZ3JANx2VqsSf7ocMvqJfYShKnnTMPcks76aJurMmXtCE_ka9TxMsPQ3MIUw19kaUcqjdnK1OJ7JeA_cH48tY6-dCxrt034kjjcIsfRaBwH-Y_bzIyyb3G_56xITlL8pVdsYFa8fAUpN1q-f9OVtvBOxS1ZaAKC-pL4Y_dXF_5VxD7bzFp0p47LK05Z2fF4whyN_PbFGMPMLQ1ViObQ34vgx0yg8gWqpPQzLAQfUyHr16ia82Pn8CLcLwATJ9I8pNK9QCZy25wcjBeizksHSTEztVjXXeOmqS8QKyXsthyReYgwue0SevRnzPefVQ_Z9IzCvnQ6BDhqjaKDxyoGy9QNFK6Syzi2a4NrGLmfps-XJoeIcygA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtC8jK49ehoprV5gZ3JANx2VqsSf7ocMvqJfYShKnnTMPcks76aJurMmXtCE_ka9TxMsPQ3MIUw19kaUcqjdnK1OJ7JeA_cH48tY6-dCxrt034kjjcIsfRaBwH-Y_bzIyyb3G_56xITlL8pVdsYFa8f1v3zkzx8TjDhMfsx8BEJSriYo902LhFAhaAaayLFN6yEy_iXGGv5MKk2bgkFrebyMHUSvFF9llTKO6uwIyz1bJLKRzvfcBHgfjz-sFMXChx6mTqN8aUGNm0sBrET3FTywRDM5e7EJ25MMHpKsVzuyuPrLINjrNJbjuS67vt6JcnP_GOAZoxRVUaAvc_K137OUXaxjaV4M7O0HN7-kBZC0YDK2di7S1I8asJiVVste_Q",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtC8jK49ehoprV5gZ3JANx2VqsSf7ocMvqJfYShKnnTMPcks76aJurMmXtCE_ka9TxMsPQ3MIUw19kaUcqjdnK1OJ7JeA_cH48tY6-dCxrt034kjjcIsfRaBwH-Y_bzIyyb3G_56xITlL8pVdsYFa8f1v3zkzx8TjDhMfsx8BEJSriYo902LhFAhaAaayLFN6yEy_iXGGv5MKk2bgkFrebyMHUSvFF9llTKO6uwIyz1bJLKRzvfcBHgfjz-sFMXChx6mTqN8aUGNm0sBrET3FTywRDM5e7EJ25MMHpKsVzuyuPrLINjrNJbjuS67vt6JcnP_GOAZoxRVUaAvc_K137OUXaxjaV4M7O0HN7-kBZC0YDK2di7S1I8asJiVVste_Q"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtC8jK49ehoprV5gZ3JANx2VqsSf7ocMvqJfYShKnnTMPcks76aJurMmXtCE_ka9TxMsPQ3MIUw19kaUcqjdnK1OJ7JeA_cH48tY6-dCxrt034kjjcIsfRaBwH-Y_bzIyyb3G_56xITlL8pVdsYFa8fnS4EEbY-eGiymviNtgcG-XN1s_9aOXp52l0D0unatKUARh2u0jUSUHufOHonre1lCZBr-dMnPmi_f8tZ4f5gVfPQCtvJb96rAYrVs9sXZXO1ORI2Ro9jM1KswwSvvUmPUnmu_qO1iyC4mDh-QOx8BGBAUMqUu5BdGqqkV1RxAPSblIo18zE08XmBoXFqGAEvdwMOY5zm_d01H6Ep0e8CGz7FHZdEycouB2jNFnlEv9g",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtC8jK49ehoprV5gZ3JANx2VqsSf7ocMvqJfYShKnnTMPcks76aJurMmXtCE_ka9TxMsPQ3MIUw19kaUcqjdnK1OJ7JeA_cH48tY6-dCxrt034kjjcIsfRaBwH-Y_bzIyyb3G_56xITlL8pVdsYFa8fnS4EEbY-eGiymviNtgcG-XN1s_9aOXp52l0D0unatKUARh2u0jUSUHufOHonre1lCZBr-dMnPmi_f8tZ4f5gVfPQCtvJb96rAYrVs9sXZXO1ORI2Ro9jM1KswwSvvUmPUnmu_qO1iyC4mDh-QOx8BGBAUMqUu5BdGqqkV1RxAPSblIo18zE08XmBoXFqGAEvdwMOY5zm_d01H6Ep0e8CGz7FHZdEycouB2jNFnlEv9g"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
