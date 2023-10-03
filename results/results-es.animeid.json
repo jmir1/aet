@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//seijo-no-maryoku-wa-bannou-desu-2nd-season",
+                                "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/seijo-no-maryoku-wa-bannou-desu-2nd-season/cover/7e209f7e.jpg"
+                            },
+                            {
                                 "url": "//toaru-ossan-no-vrmmo-katsudouki",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Level 1 dakedo Unique Skill de Saikyou desu",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/level-1-dakedo-unique-skill-de-saikyou-desu/cover/f64de80c.jpg"
-                            },
-                            {
-                                "url": "//liar-liar",
-                                "title": "Liar Liar",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/liar-liar/cover/daf5280d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//seijo-no-maryoku-wa-bannou-desu-2nd-season",
+                                "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/seijo-no-maryoku-wa-bannou-desu-2nd-season/cover/7e209f7e.jpg"
+                            },
+                            {
                                 "url": "//toaru-ossan-no-vrmmo-katsudouki",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Level 1 dakedo Unique Skill de Saikyou desu",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/level-1-dakedo-unique-skill-de-saikyou-desu/cover/f64de80c.jpg"
-                            },
-                            {
-                                "url": "//liar-liar",
-                                "title": "Liar Liar",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/liar-liar/cover/daf5280d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,37 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//toaru-ossan-no-vrmmo-katsudouki",
-                    "title": "Toaru Ossan no VRMMO Katsudouki",
-                    "description": "Ha salido un nuevo tipo de VRMMO llamado “One More Free Life Online”. El protagonista se conecta como un avatar de chico joven llamado “Earth”. Taichi Tanaka (38 años, soltero) tiene un trabajo normal de oficina y disfruta jugando a videojuegos en su tiempo libre. En un mundo en el que el jugador es libre de hacer lo que quiera, decide dominar una habilidad que se considera inútil. Elabora pociones que son demasiado complicadas de hacer, cocina comida que es excesivamente buena y utiliza armas extrañas y originales para cazar monstruos… Una historia de aventuras sobre un hombre común de mediana edad que disfruta sin prisas de su juego sandbox VRMMO.",
-                    "genre": "Acción, Aventura, Comedia, Fantasía, Game, Otoño 2023",
+                    "url": "//seijo-no-maryoku-wa-bannou-desu-2nd-season",
+                    "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+                    "description": "Segunda temporada de la serie anime Seijo no Maryoku wa Bannou Desu.",
+                    "genre": "Fantasía, Romance, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/toaru-ossan-no-vrmmo-katsudouki/cover/c95e829d.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/seijo-no-maryoku-wa-bannou-desu-2nd-season/cover/7e209f7e.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/toaru-ossan-no-vrmmo-katsudouki-1",
-                        "name": "Episodio 1.0",
-                        "date_upload": 1696204800000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=e0mbKW09dvfYRR8&expires=1696383371&ip=GxOsEHEnDS9X&token=IJf0gcl2oViQ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=e0mbKW09dvfYRR8&expires=1696383371&ip=GxOsEHEnDS9X&token=IJf0gcl2oViQ"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
