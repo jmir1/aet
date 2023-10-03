@@ -92,6 +92,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70815/legendado",
+                                "title": "Yami Shibai 11",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42745_background.jpg?v=1689179932"
+                            },
+                            {
+                                "url": "/episodio/70814/legendado",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou.",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42806_background.jpg?v=1696017549"
+                            },
+                            {
+                                "url": "/episodio/70813/legendado",
+                                "title": "Toaru Ossan no VRMMO Katsudouki",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42802_background.jpg?v=1696015007"
+                            },
+                            {
+                                "url": "/episodio/70812/legendado",
+                                "title": "Shy",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42804_background.jpg?v=1696015407"
+                            },
+                            {
+                                "url": "/episodio/70811/legendado",
+                                "title": "Migi to Dali",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42821_background.jpg?v=1696292017"
+                            },
+                            {
+                                "url": "/episodio/70810/legendado",
+                                "title": "Kamonohashi Ron no Kindan Suiri",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42820_background.jpg?v=1696291825"
+                            },
+                            {
                                 "url": "/episodio/70809/legendado",
                                 "title": "Boushoku no Berserk",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42815_background.jpg?v=1696177235"
@@ -180,36 +210,6 @@
                                 "url": "/episodio/70793/legendado",
                                 "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70792/legendado",
-                                "title": "Hirogaru Sky! Precure",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42596_background.jpg?v=1675568567"
-                            },
-                            {
-                                "url": "/episodio/70790/legendado",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42814_background.jpg?v=1696107660"
-                            },
-                            {
-                                "url": "/episodio/70789/dublado",
-                                "title": "DinoZone (Dinozaurs)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
-                            },
-                            {
-                                "url": "/episodio/70788/dublado",
-                                "title": "DinoZone (Dinozaurs)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
-                            },
-                            {
-                                "url": "/episodio/70787/dublado",
-                                "title": "DinoZone (Dinozaurs)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
-                            },
-                            {
-                                "url": "/episodio/70786/dublado",
-                                "title": "DinoZone (Dinozaurs)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/4021_background.jpg?v=1696110330"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }

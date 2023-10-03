@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fright-krewe",
+                                "title": "Fright Krewe",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933171.jpg"
+                            },
+                            {
                                 "url": "/anime/im-in-love-with-the-villainess",
                                 "title": "I'm in Love with the Villainess",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933170.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/management-of-a-novice-alchemist",
                                 "title": "Management of a Novice Alchemist",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933156.jpg"
-                            },
-                            {
-                                "url": "/anime/insectibles",
-                                "title": "Insectibles",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933155.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/im-in-love-with-the-villainess",
-                    "title": "I'm in Love with the Villainess",
-                    "description": "Oohashi Rei, an ordinary office worker, is overworked to death and suddenly finds herself reincarnated as Rae Taylor, the heroine of her favorite otome game, Revolution. However, Rae has no interest in the game’s three original romance routes with the Bauer Kingdom’s princes. Instead, she sets her heart on Claire François, the game’s main antagonist. Using her knowledge of the game’s events that are yet to come, Rae tries to give Claire a happy ending before the coming revolution destroys any chance of it happening.",
-                    "genre": "Fantasy, Girls Love, Isekai, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933170.jpg",
+                    "url": "/anime/fright-krewe",
+                    "title": "Fright Krewe",
+                    "description": "An ancient prophecy and a Voodoo Queen put misfit teens in charge of saving New Orleans from the biggest demonic threat it’s faced in almost two centuries. But, honestly? Saving the world might be easier than becoming friends.",
+                    "genre": "Adventure, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933171.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/fright-krewe-episode-10-the-war",
+                        "name": "Season 1 - Episode 10",
+                        "episode_number": 110.0
+                    },
+                    {
+                        "url": "/fright-krewe-episode-9-the-trap",
+                        "name": "Season 1 - Episode 9",
+                        "episode_number": 109.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPYxVW3Ndsv7dAT8LFWP_TBJbygickzHDuMDqgqyOSvpTPTarIj_JSyRD2sJNCHkbq4_CN_lYvEMwG-BcgEM8rknAmzKRttzfZJyAyvx4IgyHtHNhLT_PkbQJ-wVRJsab-NhQegqQp8Rk98cE-Wbunl_uFMOtvnNyO2NDvbFhgaEceiQsy7isvYxMijB6zcoL-vDm5Pc38FJnP3-hiLWEt7EPQU2eGsBBZcCvvrlzca9hAh4WPoFat1uSrD43AKGBx",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPYxVW3Ndsv7dAT8LFWP_TBJbygickzHDuMDqgqyOSvpTPTarIj_JSyRD2sJNCHkbq4_CN_lYvEMwG-BcgEM8rknAmzKRttzfZJyAyvx4IgyHtHNhLT_PkbQJ-wVRJsab-NhQegqQp8Rk98cE-Wbunl_uFMOtvnNyO2NDvbFhgaEceiQsy7isvYxMijB6zcoL-vDm5Pc38FJnP3-hiLWEt7EPQU2eGsBBZcCvvrlzca9hAh4WPoFat1uSrD43AKGBx"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPDA1JaTeiw94OUcZuhy94Lg3kqiHzA8fMoLdoNlS99R5z3rfViTThF5_jzCbLHqJfWGe37dc3lE7hHMmgcEzUP9px0Lc3-kigZJ5Gz6Gml7vkh7ONBlTX9suoaeWhy2rKbssvhWdh2CFe7F_s23x8GqHV7iaH2dHBykCzOETy53B_r1eToNaJi4wiL-T9yYCNKLc0ndSEAG-Wox48rXHdJNHDaGIlZ19WVjFoBnCfvGaXLcMwBcbu8LPnGVkfxeEV",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPDA1JaTeiw94OUcZuhy94Lg3kqiHzA8fMoLdoNlS99R5z3rfViTThF5_jzCbLHqJfWGe37dc3lE7hHMmgcEzUP9px0Lc3-kigZJ5Gz6Gml7vkh7ONBlTX9suoaeWhy2rKbssvhWdh2CFe7F_s23x8GqHV7iaH2dHBykCzOETy53B_r1eToNaJi4wiL-T9yYCNKLc0ndSEAG-Wox48rXHdJNHDaGIlZ19WVjFoBnCfvGaXLcMwBcbu8LPnGVkfxeEV"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPHZ7U0wo8UURj5l3RCiNl_te6-SoQrpfAOGvLPtP0MNHwGMWNaC-Ik04DhypeMBFpn0Pm_lSrnG-0v7xuo4Ov4ouP_Gb6IlX6zCM3sa0LSCcx1DtQyzSl2GuEJKK4ch9-P5nglE7UGPEOsYdTirmxo6ywQL069Au2pkIrh-biVi0HZvCQ926w0JlWNtuuoioKNKNUqeHaV3qcwAxqK46H1ITT_xgwQGvjVflgjgIMNBw",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmqTRmDr0VecdwXzJJi-TwA2dIdbkT395jxpwadJ3sQPHZ7U0wo8UURj5l3RCiNl_te6-SoQrpfAOGvLPtP0MNHwGMWNaC-Ik04DhypeMBFpn0Pm_lSrnG-0v7xuo4Ov4ouP_Gb6IlX6zCM3sa0LSCcx1DtQyzSl2GuEJKK4ch9-P5nglE7UGPEOsYdTirmxo6ywQL069Au2pkIrh-biVi0HZvCQ926w0JlWNtuuoioKNKNUqeHaV3qcwAxqK46H1ITT_xgwQGvjVflgjgIMNBw"
+                    }
+                ],
+                "passed": true
             }
         }
     }
