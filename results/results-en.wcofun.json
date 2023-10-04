@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paradox-live-the-animation-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsvZTY3Zvb45_-sWJOQq7L9MyNHmn-20DacRcZRiANVJymlkvD_RlJ3VoL1UFBth96MMXBexZO1CG8A87U9CPhsITxBO51CrYE19wxTJ7J8Je9SLL5ZrdAu5iGujypcJV2GS3ZeN04aGWwEK7n8AouGE4OW4nc1U04i2dhK7odhMm_yKq03UHrvI0ojYar06eynLdwJY3SAd1ZYTVLEznRar2B3rrJtsO5M36aqUsWOVLYISnD9WAGRhOKiKOzhkw-8fXNNBohnuEcQjovd68gE28__9hKgAnz5zGZvPSeE5M-qveWH37h6fyXiPWQx3f1hdo1JCkuSU3prOkj7G1gJyhEJEVRuee9-ktxmq9Kbu",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsvZTY3Zvb45_-sWJOQq7L9MyNHmn-20DacRcZRiANVJymlkvD_RlJ3VoL1UFBth96MMXBexZO1CG8A87U9CPhsITxBO51CrYE19wxTJ7J8Je9SLL5ZrdAu5iGujypcJV2GS3ZeN04aGWwEK7n8AouGE4OW4nc1U04i2dhK7odhMm_yKq03UHrvI0ojYar06eynLdwJY3SAd1ZYTVLEznRar2B3rrJtsO5M36aqUsWOVLYISnD9WAGRhOKiKOzhkw-8fXNNBohnuEcQjovd68gE28__9hKgAnz5zGZvPSeE5M-qveWH37h6fyXiPWQx3f1hdo1JCkuSU3prOkj7G1gJyhEJEVRuee9-ktxmq9Kbu"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsvZTY3Zvb45_-sWJOQq7L9MyNHmn-20DacRcZRiANVJymlkvD_RlJ3VoL1UFBth96MMXBexZO1CG8A87U9CPhsITxBO51CrYE19wxTJ7J8Jf27MfZvgYJAKpoFVu_HZB6sHjhA82ngzTjvPBoqF9mn4yFqYt0Zy4LBHr5KkK8Geh0pBIheCRRiERh3LmrQWSOf1jL78WVAm5QJLB7yH_aPeVLIOkYF6eCXjemZKSyEZyxkAmt2dFHexjDEvQYdkn7gBfPbYFxFd97vv2elhW5QyZKve4iLFXVI7geTrfnuKmwFFbthhByE2GpXclNjUMHAeDY_Gw_dbXlvoP4atQGN9vrNOanaxTa3W5TAAjaGs",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsvZTY3Zvb45_-sWJOQq7L9MyNHmn-20DacRcZRiANVJymlkvD_RlJ3VoL1UFBth96MMXBexZO1CG8A87U9CPhsITxBO51CrYE19wxTJ7J8Jf27MfZvgYJAKpoFVu_HZB6sHjhA82ngzTjvPBoqF9mn4yFqYt0Zy4LBHr5KkK8Geh0pBIheCRRiERh3LmrQWSOf1jL78WVAm5QJLB7yH_aPeVLIOkYF6eCXjemZKSyEZyxkAmt2dFHexjDEvQYdkn7gBfPbYFxFd97vv2elhW5QyZKve4iLFXVI7geTrfnuKmwFFbthhByE2GpXclNjUMHAeDY_Gw_dbXlvoP4atQGN9vrNOanaxTa3W5TAAjaGs"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsvZTY3Zvb45_-sWJOQq7L9MyNHmn-20DacRcZRiANVJymlkvD_RlJ3VoL1UFBth96MMXBexZO1CG8A87U9CPhsITxBO51CrYE19wxTJ7J8J1mJm8WH2GsCkGctZgBYNWzFhbwH5-ZQPY0KRZ6RJg8ATAlzcEi-yYURVfVDN8xxIWHcPXynvF5IKyv-k2JkvhbYCwTUnr1JRU1lcY0eWNncryD5M-kpW5CEVWasTolrze44mGVIZ7v0UvUQUEOmPpjD1DYlUeiXkhXJlouqSEmA6YKxFaBEjqNySxSz_Lzj-a1uGDhdgOkDmRFDTtnidi1LcCYrTuMFhO-aHCmNuBcwsA2Jjzurr8Tnu03bJDOfH",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsvZTY3Zvb45_-sWJOQq7L9MyNHmn-20DacRcZRiANVJymlkvD_RlJ3VoL1UFBth96MMXBexZO1CG8A87U9CPhsITxBO51CrYE19wxTJ7J8J1mJm8WH2GsCkGctZgBYNWzFhbwH5-ZQPY0KRZ6RJg8ATAlzcEi-yYURVfVDN8xxIWHcPXynvF5IKyv-k2JkvhbYCwTUnr1JRU1lcY0eWNncryD5M-kpW5CEVWasTolrze44mGVIZ7v0UvUQUEOmPpjD1DYlUeiXkhXJlouqSEmA6YKxFaBEjqNySxSz_Lzj-a1uGDhdgOkDmRFDTtnidi1LcCYrTuMFhO-aHCmNuBcwsA2Jjzurr8Tnu03bJDOfH"
+                    }
+                ],
+                "passed": true
             }
         }
     }

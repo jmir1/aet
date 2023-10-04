@@ -57,14 +57,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/928_background.jpg?v=1596255550"
                             },
                             {
-                                "url": "/anime/1735",
-                                "title": "Naruto: Shippuuden",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/10_background.jpg?v=1604880199"
-                            },
-                            {
                                 "url": "/anime/48561",
                                 "title": "Jujutsu Kaisen 0 Movie",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42165_background.jpg?v=1663885565"
+                            },
+                            {
+                                "url": "/anime/1735",
+                                "title": "Naruto: Shippuuden",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/10_background.jpg?v=1604880199"
                             },
                             {
                                 "url": "/anime/40496",
@@ -91,6 +91,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/69948/dublado",
+                                "title": "Horimiya: Piece",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42709_background.jpg?v=1688230626"
+                            },
+                            {
+                                "url": "/episodio/69952/dublado",
+                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42714_background.jpg?v=1688237814"
+                            },
                             {
                                 "url": "/episodio/70815/legendado",
                                 "title": "Yami Shibai 11",
@@ -198,16 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70795/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70794/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70793/legendado",
                                 "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }

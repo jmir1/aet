@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//paradox-live-the-animation",
+                                "title": "Paradox Live the Animation",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/paradox-live-the-animation/cover/ba66cce9.jpg"
+                            },
+                            {
                                 "url": "//seijo-no-maryoku-wa-bannou-desu-2nd-season",
                                 "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Temple",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/temple/cover/8a4abd12.jpg"
-                            },
-                            {
-                                "url": "//level-1-dakedo-unique-skill-de-saikyou-desu",
-                                "title": "Level 1 dakedo Unique Skill de Saikyou desu",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/level-1-dakedo-unique-skill-de-saikyou-desu/cover/f64de80c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//paradox-live-the-animation",
+                                "title": "Paradox Live the Animation",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/paradox-live-the-animation/cover/ba66cce9.jpg"
+                            },
+                            {
                                 "url": "//seijo-no-maryoku-wa-bannou-desu-2nd-season",
                                 "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Temple",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/temple/cover/8a4abd12.jpg"
-                            },
-                            {
-                                "url": "//level-1-dakedo-unique-skill-de-saikyou-desu",
-                                "title": "Level 1 dakedo Unique Skill de Saikyou desu",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/level-1-dakedo-unique-skill-de-saikyou-desu/cover/f64de80c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,24 +682,37 @@
             },
             "details": {
                 "result": {
-                    "url": "//seijo-no-maryoku-wa-bannou-desu-2nd-season",
-                    "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
-                    "description": "Segunda temporada de la serie anime Seijo no Maryoku wa Bannou Desu.",
-                    "genre": "Fantasía, Romance, Otoño 2023",
+                    "url": "//paradox-live-the-animation",
+                    "title": "Paradox Live the Animation",
+                    "description": "En el futuro, los raperos llevan unos dispositivos con una substancia metálica llamada \"Phantom Metal\". Con ella se produce una reacción química con el ADN del rapero, creando ilusiones visuales conectadas con sus emociones, para producir un nuevo y espectacular tipo de concierto",
+                    "genre": "Drama, Música, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/seijo-no-maryoku-wa-bannou-desu-2nd-season/cover/7e209f7e.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/paradox-live-the-animation/cover/ba66cce9.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/paradox-live-the-animation-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1696291200000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=gv3laAB8JpCqD3X&expires=1696449427&ip=GxOsEHMnDS9X&token=XHF7S-8IBRFv",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=gv3laAB8JpCqD3X&expires=1696449427&ip=GxOsEHMnDS9X&token=XHF7S-8IBRFv"
+                    }
+                ],
+                "passed": true
             }
         }
     }
