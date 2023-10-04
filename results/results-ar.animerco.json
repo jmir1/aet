@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/16bit-sensation-another-layer/",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/9WQiKz1N9rwZJK4Kr7eMrAXEHae.jpg"
+                            },
+                            {
+                                "url": "/animes/bullbuster/",
+                                "title": "Bullbuster",
+                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/wT4v5C1Bm3xgk0Uko0BEe5frD8U.jpg"
+                            },
+                            {
                                 "url": "/animes/toaru-ossan-no-vrmmo-katsudouki/",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/sCLrdFdsweruRFLdN1DytcwHBZw.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/animes/kyoukai-no-kanata/",
                                 "title": "Kyoukai no Kanata",
                                 "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/6cmtMbEZAYm3aWzthFRk6048LFi.jpg"
-                            },
-                            {
-                                "url": "/animes/helck/",
-                                "title": "Helck",
-                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/v5wOOuYbwflgVss3D3jS6y42Ljf.jpg"
-                            },
-                            {
-                                "url": "/animes/shiro-seijo-to-kuro-bokushi/",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/9u3k65samRItu7lMeaeqxRKG5fI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,117 +169,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/toaru-ossan-no-vrmmo-katsudouki/",
-                    "title": "Toaru Ossan no VRMMO Katsudouki",
-                    "artist": "MAHO FILM",
-                    "author": "BS11",
-                    "description": "تدور أحداث القصة حول تايتشي تاناكا، وهو موظف عادي يبلغ من العمر 38 عامًا يحب ألعاب الفيديو. يقرر تايتشي تجربة لعبة واقع إفتراضي متعددة اللاعبين عبر الإنترنت تسمى “وان مور فري لايف أونلاين”. في هذه اللعبة، يختار مجموعة من المهارات التي تعتبر غير مفيدة، مثل طهي الطعام وصنع الأشياء. ومع ذلك، فإنه يستمتع بوقته في اللعبة، ويجد أشخاصًا جددًا للتفاعل معهم. لكن، يكتشف تايتشي أن اللعبة ليست كما تبدو عليه. حيث يتم تشغيلها بواسطة ذكاء إصطناعي متقدم، ويبدأ في التساؤل عما إذا كانت اللعبة مجرد لعبة بعد كل شيء.\n\nAlternative title: A Playthrough of a Certain Dude's VRMMO Life",
-                    "genre": "أكشن, خيال, كوميدي, لعبة, مغامرة",
+                    "url": "/animes/16bit-sensation-another-layer/",
+                    "title": "16bit Sensation: Another Layer",
+                    "artist": "Aniplex, Silver",
+                    "author": "BS11, Gunma TV, Tochigi TV, Tokyo MX",
+                    "description": "في عام 1992، كانت ميكو أويهارا طالبة جامعية تعمل بدوام جزئي كموظفة في محل للأجهزة الكمبيوتر. على الأقل، هذا ما كانت تعتقده في البداية. ولكن أثناء استكشافها للطابق الثاني من المحل، اكتشفت أن الشركة كانت تدير نشاطًا آخر باسم “ألكوهول سوفت”، وهي شركة متخصصة في تطوير ألعاب الكمبيوتر للبالغين. وهكذا، تم نقلها إلى وظيفة كمصممة جرافيك! وعلى الرغم من هذا التحول الغير متوقع، قررت ميكو أن تتحدى نفسها وتعمل بجد لإثبات مهاراتها من خلال إتمام اللعبة…\n\nAlternative title: 16bitセンセーション ANOTHER LAYER",
+                    "genre": "السفر عبر الزمن, حياة العمل, كوميدي",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/sCLrdFdsweruRFLdN1DytcwHBZw.jpg",
+                    "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/9WQiKz1N9rwZJK4Kr7eMrAXEHae.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/toaru-ossan-no-vrmmo-katsudouki-الحلقة-1/",
-                        "name": "Toaru Ossan no VRMMO Katsudouki الموسم 1: الحلقة 1",
-                        "episode_number": 1.001
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www12.mp4upload.com:183/d/q6xx3vhuz3b4quuodcqrezkqchmea4j3xhefjoot2tl7nyz5yomzljffeoukqddttncjvqkn/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xx3vhuz3b4quuodcqrezkqchmea4j3xhefjoot2tl7nyz5yomzljffeoukqddttncjvqkn/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ42gMXEqTwxyYA9A/fn/track.m3u8",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ42gMXEqTwxyYA9A/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://m80.uqload.io/3rfkw4kprbw2q4drdky7xivrddmxj2mu25pgzmupiisc7sdqwbb3gqhjjy2a/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m80.uqload.io/3rfkw4kprbw2q4drdky7xivrddmxj2mu25pgzmupiisc7sdqwbb3gqhjjy2a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a202310040Vn8t24wxj4/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202310040Vn8t24wxj4/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEwAmopEicIARIjCg8KCAiMgZAIEOBdEAIYxgVaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgPjtHRDE2AIQAhjGBWIEKAhaAHjGBRxloLGgJQSG/fn/track.m3u8",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEwAmopEicIARIjCg8KCAiMgZAIEOBdEAIYxgVaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgPjtHRDE2AIQAhjGBWIEKAhaAHjGBRxloLGgJQSG/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoBDACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoIFoAeMYFOQ04jwTDums/fn/track.m3u8",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoBDACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoIFoAeMYFOQ04jwTDums/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoAjACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoCFoAeMYFwAgLfDqv8i8/fn/track.m3u8",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoAjACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoCFoAeMYFwAgLfDqv8i8/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoATACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoCFoAeMYFe6xOT178d-A/fn/track.m3u8",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoATACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoCFoAeMYFe6xOT178d-A/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoAzACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoEFoAeMYFwUnAcUNJf78/fn/track.m3u8",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd294.mycdn.me/expires/1696507945330/clientType/0/srcIp/13.88.99.210/type/2/mid/7090531928624/id/5519340931632/ms/185.226.52.44/zs/43/srcAg/GECKO/urls/45.136.22.23/oq/0/ct/28/sig/axmFMqJcXeA/ondemand/CLCU7JLRoAEoAzACaikSJwgBEiMKDwoICIyBkAgQ4F0QAhjGBVoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiA-O0dEMTYAhACGMYFYgQoEFoAeMYFwUnAcUNJf78/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=5hXWbGUcvXDpGIgcuij%2BrgJOb%2BK56jwPT6bJbAJoPh8s26cuJklnMwPQxbGdCjccuswa6igchpeAzYyVh84nFAay1m18EIREe7he74ib4nJ5YC6WLY00F3zYwGOyVOGIBIEb6WBu5olXL%2FcrNLUC7G&ref=&sandbox=&t=&res=720",
-                        "quality": "GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=5hXWbGUcvXDpGIgcuij%2BrgJOb%2BK56jwPT6bJbAJoPh8s26cuJklnMwPQxbGdCjccuswa6igchpeAzYyVh84nFAay1m18EIREe7he74ib4nJ5YC6WLY00F3zYwGOyVOGIBIEb6WBu5olXL%2FcrNLUC7G&ref=&sandbox=&t=&res=720"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=5hXWbGUcvXDpGIgcuij%2BrgJOb%2BK56jwPT6bJbAJoPh8s26cuJklnMwPQxbGdCjccuswa6igchpeAzYyVh84nFAay1m18EIREe7he74ib4nJ5YC6WLY00F3zYwGOyVOGIBIEb6WBu5olXL%2FcrNLUC7G&ref=&sandbox=&t=&res=360",
-                        "quality": "GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=5hXWbGUcvXDpGIgcuij%2BrgJOb%2BK56jwPT6bJbAJoPh8s26cuJklnMwPQxbGdCjccuswa6igchpeAzYyVh84nFAay1m18EIREe7he74ib4nJ5YC6WLY00F3zYwGOyVOGIBIEb6WBu5olXL%2FcrNLUC7G&ref=&sandbox=&t=&res=360"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

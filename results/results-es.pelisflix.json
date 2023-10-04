@@ -495,7 +495,7 @@
                     "url": "/pelicula/mansion-encantada-zopd/",
                     "title": "Mansión encantada",
                     "description": "Una madre soltera llamada Gabbie y su hijo de 9 años, que buscan comenzar una nueva vida, se mudan a una mansión extrañamente asequible en Nueva Orleans, solo para descubrir que el lugar es mucho más de lo que esperaban. Desesperados por ayuda, se ponen en contacto con un sacerdote, quien, a su vez, solicita la ayuda de un científico viudo convertido en experto paranormal fallido, un psíquico de French Quartier y un historiador cascarrabias para ayudar a exorcizar la mansión.",
-                    "genre": "",
+                    "genre": "Comedia, Fantasía, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -511,7 +511,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar aMVVuTPMZJ = \"\"; AyAhntt.forEach(function Oym(value) { aMVVuTPMZJ += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar tFrqYek = \"\"; GxuwMchJp.forEach(function Oym(value) { tFrqYek += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
@@ -520,23 +520,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             }
         }

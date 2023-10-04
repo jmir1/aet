@@ -347,17 +347,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/film/amish-stud-the-eli-weaver-story-100972/",
-                    "title": "Amish Stud: The Eli Weaver Story",
-                    "author": "",
-                    "description": "Devoted wife and mother Barbara Weaver led a traditional life in her conservative Ohio Amish community. Her husband, however, gave into the “temptations of women and technology” forbidden to the community, leading a secret life online as the “Amish Stud.” Furthermore, he shared with mistresses his desire to kill his wife — something that made him the prime suspect when Barbara is found dead.\n\nQuality: HD\nRelease: 2023-09-30\nIMDb: 7.3",
-                    "genre": "TV Movie, Crime, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",

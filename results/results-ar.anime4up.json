@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season/",
+                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/bx161964-JpkEbHI8ivaP.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
+                                "url": "/anime/kamierabi/",
+                                "title": "Kamierabi",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_14h26m43s_010_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/16bit-sensation-another-layer/",
                                 "title": "16bit Sensation: Another Layer",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_14h01m20s_008_.png?resize=215%2C300&ssl=1"
@@ -235,16 +245,6 @@
                                 "url": "/anime/level-1-dakedo-unique-skill-de-saikyou-desu-مدبلج/",
                                 "title": "Level 1 dakedo Unique Skill de Saikyou desu مدبلج",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/01.jpg?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan-مدبلج/",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan مدبلج",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/بليتش-1.jpg?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/temple/",
-                                "title": "Temple",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/Ashampoo_Snap_2023.07.08_14h19m07s_004_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,24 +349,36 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/16bit-sensation-another-layer/",
-                    "title": "16bit Sensation: Another Layer",
-                    "description": "“كرس شبابك لتطوير لعبة بيشوجو رائعة تجعل اللاعبين يقعون في الحب!“ “أوهارا ميكو“، طالبة جامعية بدأت العمل بدوام جزئي في متجر كمبيوتر في عام 1992. ومع ذلك، خلف الكواليس، كان المتجر صانع ألعاب شهوانية مثيرة متخصص في ألعاب بيشوجو (لعبة فتاة جميلة). “ميكو” هي فنانة موهوبة، وتم تعيينها فجأة كمصممة جرافيك بديلة بعد فرار الموظف، وعلى الرغم من أنها لم ترسم أي صورة للبالغين R-18 من قبل! هل ستكون قادرة على إكمال هذه المهمة بنجاح ؟! مع جهاز كمبيوتر 16 بت كشريك لها، تبدأ حياتها المهنية كفنانة.",
-                    "genre": "كوميدي, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season/",
+                    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                    "description": "قصة انمي Kage no Jitsuryokusha ni Naritakute! 2nd Season تأتي إستكمالا لأحداث الموسم السابق.",
+                    "genre": "أكشن, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_14h01m20s_008_.png?fit=376%2C531&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/bx161964-JpkEbHI8ivaP.jpg?fit=460%2C649&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/kage-no-jitsuryokusha-ni-naritakute-2nd-season-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://xo39zx-04.vidboo.org/6jmnxdp23iazsalrixpqfjhhi6cjtkrkm3if7cbwji2i7k7p3gwpa7zd4ara/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://xo39zx-04.vidboo.org/6jmnxdp23iazsalrixpqfjhhi6cjtkrkm3if7cbwji2i7k7p3gwpa7zd4ara/v.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
