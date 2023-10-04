@@ -92,6 +92,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70814/dublado",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou.",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42806_background.jpg?v=1696017549"
+                            },
+                            {
+                                "url": "/episodio/69964/dublado",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
+                            },
+                            {
+                                "url": "/episodio/69847/dublado",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42403_background.jpg?v=1688318534"
+                            },
+                            {
+                                "url": "/episodio/66288/dublado",
+                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42287_background.jpg?v=1681088400"
+                            },
+                            {
+                                "url": "/episodio/69960/dublado",
+                                "title": "Eiyuu Kyoushitsu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42739_background.jpg?v=1688916013"
+                            },
+                            {
+                                "url": "/episodio/70817/legendado",
+                                "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42803_background.jpg?v=1696015196"
+                            },
+                            {
+                                "url": "/episodio/70816/legendado",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42798_background.jpg?v=1696012807"
+                            },
+                            {
                                 "url": "/episodio/69948/dublado",
                                 "title": "Horimiya: Piece",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42709_background.jpg?v=1688230626"
@@ -105,11 +140,6 @@
                                 "url": "/episodio/70815/legendado",
                                 "title": "Yami Shibai 11",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42745_background.jpg?v=1689179932"
-                            },
-                            {
-                                "url": "/episodio/70814/legendado",
-                                "title": "Watashi no Oshi wa Akuyaku Reijou.",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42806_background.jpg?v=1696017549"
                             },
                             {
                                 "url": "/episodio/70813/legendado",
@@ -178,36 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70801/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70800/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70799/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70798/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70797/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70796/legendado",
-                                "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
-                            },
-                            {
-                                "url": "/episodio/70795/legendado",
                                 "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5134_background.jpg?v=1696146407"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
