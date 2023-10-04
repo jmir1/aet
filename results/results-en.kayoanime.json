@@ -67,6 +67,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime-dual-audio-480p-720p-1080p-bluray-download/",
+                                "title": "Bleach (All Season + Thousand-Year Blood War + Movies + OVAs + Specials) 1080p Dual Audio HEVC",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2023/10/bleach-anime-220x150.jpg"
+                            },
+                            {
                                 "url": "/anime-samurai-dual-audio-480p-720p-1080p/",
                                 "title": "Samurai Champloo (Season 1) 1080p Dual Audio HEVC",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2023/10/anime-samurai-dual-audio-480p-720p-1080p-220x150.jpg"
@@ -85,11 +90,6 @@
                                 "url": "/anime-note-1080p-dual-audio/",
                                 "title": "Death Note (Season 1 + Special) 1080p Dual Audio BluRay HEVC",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2023/10/anime-note-1080p-dual-audio-220x150.jpg"
-                            },
-                            {
-                                "url": "/full-anime-dual-audio-480p-720p-1080p/",
-                                "title": "Howl’s Moving Castle 1080p Dual Audio HEVC",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2023/10/full-anime-dual-audio-480p-720p-1080p-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -168,7 +168,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
