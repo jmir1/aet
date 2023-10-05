@@ -3,19 +3,19 @@
         "name": "Serienstream (DE)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!doctype html>\r<html lang=\"de.....",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: Connect timed out",
                 "passed": false
             },
             "episodes": {

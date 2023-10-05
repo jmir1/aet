@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/beckham",
+                                "title": "Beckham (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/y9d3trMAczZWFqYvGSW6V695vf3.jpg"
+                            },
+                            {
                                 "url": "/serie/chicas-harvey-forever",
                                 "title": "¡Chicas Harvey Forever! (20182020)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5v94bS5jqPbg85Byu3owgFjoK1N.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/11-s-testigos-de-la-tragedia",
                                 "title": "11-S: Testigos de la tragedia (2021)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/t3I7jHXGEEZXImes4Uya0n4ZuTL.jpg"
-                            },
-                            {
-                                "url": "/serie/tu-tiempo-llama",
-                                "title": "Tu tiempo llama (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4SdQT2FQlls9mTTDT4h8ERTt4ys.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/chicas-harvey-forever",
-                    "title": "¡Chicas Harvey Forever! (20182020)",
-                    "description": ".",
-                    "genre": "Animación, Comedia, Action & Adventure, Kids, Familia",
+                    "url": "/serie/beckham",
+                    "title": "Beckham (2023)",
+                    "description": "Cada gol que anota es una absoluta belleza. No hay nadie que pueda hacerlo como él. Esta biografía íntima de David Beckham nos invita a conocer al hombre detrás del personaje..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/5v94bS5jqPbg85Byu3owgFjoK1N.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/y9d3trMAczZWFqYvGSW6V695vf3.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/chicas-harvey-forever/temporada/4/capitulo/13",
-                        "name": "T4 - E13: Episodio 13",
-                        "episode_number": 52.0
+                        "url": "/serie/beckham/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/chicas-harvey-forever/temporada/4/capitulo/12",
-                        "name": "T4 - E12: Episodio 12",
-                        "episode_number": 51.0
+                        "url": "/serie/beckham/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -293,14 +293,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/2bviadl9h6ym",
+                        "url": "https://voe.sx/e/4mzdb3mu8cnx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ulampvobprvdaz8k.voe-network.net/engine/hls2/01/09647/2bviadl9h6ym_,n,.urlset/master.m3u8?t=zHZUvC4QRLiv15MBDf6WaFg4GdSC5p3bMnocD0ZuqXA&s=1696507927&e=14400&f=48235838&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=40.83&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09651/4mzdb3mu8cnx_,n,.urlset/master.m3u8?t=6sF4GHyXu0Xtspv3XVV8TvfqVJL8VQe0bMfidlA-oQA&s=1696529320&e=14400&f=48255880&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=172.177&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://voe.sx/e/2bviadl9h6ym",
+                        "url": "https://voe.sx/e/4mzdb3mu8cnx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ulampvobprvdaz8k.voe-network.net/engine/hls2/01/09647/2bviadl9h6ym_,n,.urlset/master.m3u8?t=zHZUvC4QRLiv15MBDf6WaFg4GdSC5p3bMnocD0ZuqXA&s=1696507927&e=14400&f=48235838&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=40.83&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-arlsa3dqyis89afy.voe-network.net/engine/hls2/01/09651/4mzdb3mu8cnx_,n,.urlset/master.m3u8?t=6sF4GHyXu0Xtspv3XVV8TvfqVJL8VQe0bMfidlA-oQA&s=1696529320&e=14400&f=48255880&node=delivery-node-arlsa3dqyis89afy.voe-network.net&i=172.177&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/yuzukisan-chi-no-yonkyoudai",
+                                "title": "Yuzuki-san Chi no Yonkyoudai.",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3920.jpg"
+                            },
+                            {
+                                "url": "/anime/under-ninja",
+                                "title": "Under Ninja",
+                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3921.jpg"
+                            },
+                            {
                                 "url": "/anime/bullbuster",
                                 "title": "Bullbuster",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3915.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/anime/captain-tsubasa-season-2-junior-youthhen",
                                 "title": "Captain Tsubasa Season 2: Junior Youth-hen",
                                 "thumbnail_url": "https://tioanime.com/uploads/portadas/3901.jpg"
-                            },
-                            {
-                                "url": "/anime/dekoboko-majo-no-oyako-jijou",
-                                "title": "Dekoboko Majo no Oyako Jijou",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3902.jpg"
-                            },
-                            {
-                                "url": "/anime/overtake",
-                                "title": "Overtake!",
-                                "thumbnail_url": "https://tioanime.com/uploads/portadas/3903.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,10 +224,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bullbuster",
-                    "title": "Bullbuster",
-                    "description": "En la historia del anime, un joven ingeniero llamado Tetsuro Okino que ha desarrollado el nuevo robot Bullbuster es trasladado a Industrias Hato, una empresa que extermina animales dañinos. Allí, la empresa y su presidente Koji Tajima se enfrentan a una misteriosa forma de vida llamada “Kyoju”. Al ser una pequeña empresa que siempre se encuentra con poco dinero, Hato siempre debe contabilizar cada gasto, como el combustible y la mano de obra de los pilotos. Y, por supuesto, no se toleran los disparos fallidos. La empresa está siempre atascada entre sus ideales de exterminio del Kyoju y la realidad de la economía.",
-                    "genre": "Acción, Ciencia Ficción, Mecha",
+                    "url": "/anime/yuzukisan-chi-no-yonkyoudai",
+                    "title": "Yuzuki-san Chi no Yonkyoudai.",
+                    "description": "La familia lo es todo. Los cuatro hermanos Yuzuki perdieron a sus padres hace dos años y ahora se esfuerzan para sobrevivir solos. Hayato es el mayor, y lo siguen Mikoto, Minato y el pequeño Gakuto. Hayato trabaja y mantiene a la familia. Mikoto es relajado y calmado. Minato está repleto de energía y Gakuto es muy inteligente para su edad. Juntos viven, aprenden, luchan y se perdonan como buenos hermanos. ¡Conoce a la familia Yuzuki!",
+                    "genre": "Escolares, Recuentos de la vida",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -235,53 +235,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/bullbuster-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=gcGxNZyfQ9s&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=gcGxNZyfQ9s&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=hPFLbhXoEkk&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=hPFLbhXoEkk&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=1MAOzRAj9ho&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=1MAOzRAj9ho&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=GirWZjx0S5Q&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=GirWZjx0S5Q&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495"
-                    },
-                    {
-                        "url": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=CKxxuA2xMUc&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1696594336182&srcIp=40.83.5.29&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=CKxxuA2xMUc&ct=0&urls=185.226.53.28%3B45.136.20.55&clientType=0&zs=43&id=5598969596495"
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20231005e1u1BF836gC/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20231005e1u1BF836gC/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     },
@@ -431,9 +390,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vidcache.net:8161/a20231005fbblJoUStU2/video.mp4",
+                        "url": "https://vidcache.net:8161/a202310054j20E310U8r/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20231005fbblJoUStU2/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a202310054j20E310U8r/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://www.yourupload.com/"

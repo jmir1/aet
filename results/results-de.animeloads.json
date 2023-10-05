@@ -3,263 +3,29 @@
         "name": "Anime-Loads (DE)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/media/kamierabi",
-                                "title": "KamiErabi GOD.app",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kamierabi-cover.png"
-                            },
-                            {
-                                "url": "/media/16bit-sensation-another-layer",
-                                "title": "16bit Sensation: Another Layer",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-16bit-sensation-another-layer-cover.png"
-                            },
-                            {
-                                "url": "/media/konyakuhaki-sareta-reijou-o-hirotta-ore-ga-ikenai-koto-o-oshiekomu",
-                                "title": "I’m Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-konyakuhaki-sareta-reijou-o-hirotta-ore-ga-ikenai-koto-o-oshiekomu-cover.jpg"
-                            },
-                            {
-                                "url": "/media/seijo-no-maryoku-wa-bannou-desu-2",
-                                "title": "Seijo no Maryoku wa Bannou desu 2",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seijo-no-maryoku-wa-bannou-desu-2-cover.jpg"
-                            },
-                            {
-                                "url": "/media/paradox-live-the-animation",
-                                "title": "Paradox Live the Animation",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-paradox-live-the-animation-cover.png"
-                            },
-                            {
-                                "url": "/media/toaru-ossan-no-vrmmo-katsudou-ki",
-                                "title": "A Playthrough of a Certain Dude’s VRMMO Life",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-toaru-ossan-no-vrmmo-katsudou-ki-cover.png"
-                            },
-                            {
-                                "url": "/media/watashi-no-oshi-wa-akuyaku-reijou",
-                                "title": "I’m in Love with the Villainess",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-watashi-no-oshi-wa-akuyaku-reijou-cover.png"
-                            },
-                            {
-                                "url": "/media/shy",
-                                "title": "Shy",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shy-cover.jpg"
-                            },
-                            {
-                                "url": "/media/kamonohashi-ron-no-kindan-suiri",
-                                "title": "Ron Kamonohashi’s Forbidden Deductions",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kamonohashi-ron-no-kindan-suiri-cover.png"
-                            },
-                            {
-                                "url": "/media/migi-to-dali",
-                                "title": "Migi & Dali",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-migi-to-dali-cover.png"
-                            },
-                            {
-                                "url": "/media/boushoku-no-berserk",
-                                "title": "Berserk of Gluttony",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boushoku-no-berserk-cover-2.jpg"
-                            },
-                            {
-                                "url": "/media/dekoboko-majo-no-oyako-jijou",
-                                "title": "The Family Circumstances of the Irregular Witch",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dekoboko-majo-no-oyako-jijou-cover.png"
-                            },
-                            {
-                                "url": "/media/overtake",
-                                "title": "Overtake!",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-overtake-cover.png"
-                            },
-                            {
-                                "url": "/media/shangri-la-frontier-kusogee-hunter-kamigee-ni-idoman-to-su",
-                                "title": "Shangri-La Frontier",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shangri-la-frontier-cover.jpg"
-                            },
-                            {
-                                "url": "/media/captain-tsubasa-season-2-junior-youth-hen",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-captain-tsubasa-season-2-junior-youth-hen-cover.jpg"
-                            },
-                            {
-                                "url": "/media/mf-ghost",
-                                "title": "MF Ghost",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mf-ghost-cover.png"
-                            },
-                            {
-                                "url": "/media/me-gumi-no-daigo-kyuukoku-no-orange",
-                                "title": "Firefighter Daigo: Rescuer in Orange",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-me-gumi-no-daigo-kyuukoku-no-orange-cover.jpg"
-                            },
-                            {
-                                "url": "/media/sousou-no-frieren",
-                                "title": "Frieren: Nach dem Ende der Reise",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-sousou-no-frieren-cover.png"
-                            },
-                            {
-                                "url": "/media/yumemiru-danshi-wa-genjitsushugisha",
-                                "title": "The Dreaming Boy Is a Realist",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-yumemiru-danshi-wa-genjitsushugisha-cover.jpg"
-                            },
-                            {
-                                "url": "/media/ojou-to-banken-kun",
-                                "title": "A Girl & Her Guard Dog",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ojou-to-banken-kun-cover.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/media/world-dai-star",
-                                "title": "Stella of the Theater: World Dai Star",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-dai-star-cover.png"
-                            },
-                            {
-                                "url": "/media/shuumatsu-no-harem",
-                                "title": "World’s End Harem",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shuumatsu-no-harem-cover-2.png"
-                            },
-                            {
-                                "url": "/media/world-trigger-3rd-season",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-trigger-3-cover.png"
-                            },
-                            {
-                                "url": "/media/world-witches-hasshin-shimasu",
-                                "title": "World Witches: Take Off!",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-witches-take-off-cover.jpg"
-                            },
-                            {
-                                "url": "/media/world-trigger-2021",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-trigger-2-cover.jpg"
-                            },
-                            {
-                                "url": "/media/world-witches-series-501-butai-hasshin-shimasu",
-                                "title": "Strike Witches 501st Joint Fighter Wing Take Off!",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-witches-series-501-butai-hasshin-shimasu-cover.jpg"
-                            },
-                            {
-                                "url": "/media/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka",
-                                "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-cover.jpg"
-                            },
-                            {
-                                "url": "/media/seiken-tsukai-no-world-break",
-                                "title": "World Break: Aria of Curse for a Holy Swordsman",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seiken-tsukai-no-world-break-cover.jpg"
-                            },
-                            {
-                                "url": "/media/world-trigger",
-                                "title": "World Trigger",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-trigger-cover.jpg"
-                            },
-                            {
-                                "url": "/media/world-fool-news-2014",
-                                "title": "World Fool News",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-fool-news-2014-cover.jpg"
-                            },
-                            {
-                                "url": "/media/sekai-seifuku-bouryaku-no-zvezda",
-                                "title": "Sekai Seifuku: World Conquest Zvezda Plot",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-sekai-seifuku-bouryaku-no-zvezda-cover.jpg"
-                            },
-                            {
-                                "url": "/media/world-destruction-sekai-bokumetsu-no-rokunin",
-                                "title": "World Destruction: Sekai Bokumetsu no Rokunin",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-world-destruction-sekai-bokumetsu-no-rokunin-cover.jpg"
-                            },
-                            {
-                                "url": "/media/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
-                                "title": "The Great Cleric",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi-cover.png"
-                            },
-                            {
-                                "url": "/media/dr-stone-new-world",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-dr-stone-new-world-cover.png"
-                            },
-                            {
-                                "url": "/media/kami-naki-sekai-no-kamisama-katsudou",
-                                "title": "KamiKatsu: Meine Arbeit als Missionar in einer gottlosen Welt",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kami-naki-sekai-no-kamisama-katsudou-cover.jpg"
-                            },
-                            {
-                                "url": "/media/isekai-nonbiri-nouka",
-                                "title": "Farming Life in Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-isekai-nonbiri-nouka-cover.jpg"
-                            },
-                            {
-                                "url": "/media/benriya-saitou-san-isekai-ni-iku",
-                                "title": "Handyman Saitou in Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-benriya-saitou-san-isekai-ni-iku-cover.png"
-                            },
-                            {
-                                "url": "/media/saikyou-onmyouji-no-isekai-tenseiki",
-                                "title": "The Reincarnation of the Strongest Exorcist in Another World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-saikyou-onmyouji-no-isekai-tenseiki-cover.png"
-                            },
-                            {
-                                "url": "/media/hyouken-no-majutsushi-ga-sekai-o-suberu",
-                                "title": "The Iceblade Sorcerer Shall Rule the World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hyouken-no-majutsushi-ga-sekai-o-suberu-cover.png"
-                            },
-                            {
-                                "url": "/media/ningen-fushin-no-boukensha-tachi-ga-sekai-o-sukuu-you-desu",
-                                "title": "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-ningen-fushin-no-boukensha-tachi-ga-sekai-o-sukuu-you-desu-cover-2.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/media/kamierabi",
-                    "title": "KamiErabi GOD.app",
-                    "author": "",
-                    "description": "Der ambitionslose Oberschüler Goro erhält eines Tages eine Benachrichtigung auf seinem Smartphone, die ihn dazu auffordert, seinen innigsten Wunsch zu nennen. In der Annahme, dass es sich um eine Spam-Nachricht handle, tippt er gedankenlos: „Ich möchte unanständige Dinge mit Honoka, der Frau meiner Träume, tun.“ Am nächsten Tag wird er tatsächlich von Honoka in eine nahegelegene Spielhalle eingeladen, um dort die Hosen runterzulassen … Durch die Erfüllung seines Wunsches taucht das mysteriöses Mädchen Lall auf und erzählt Goro von seinem grausamen Schicksal: Ausgestattet mit einer machtvollen Fähigkeit, ist er auserwählt, Gott zu werden. Dafür muss er aber zunächst andere potenzielle Götter töten. Die erste Gegnerin, die sich ihm und seinem Wunsch entgegenstellt, ist natürlich Honoka – damit beginnt ein Battle Royale voller Fetische und schmutziger Geheimnisse! Quelle: aniSearch",
-                    "genre": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kamierabi-cover.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/kamierabi#streams_episodes_1_0",
-                        "name": "Ep.1 Episode 1",
+                        "url": "/",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=QJRmr4BWBBh9kJ&expires=1696578104&ip=FROsE0EnDS9X&token=ljN8gdlyrlUX",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=QJRmr4BWBBh9kJ&expires=1696578104&ip=FROsE0EnDS9X&token=ljN8gdlyrlUX"
-                    },
-                    {
-                        "url": "https://timberwoodanotia.com/h4fxlaugnbqs?KamiErabi.GOD.app.S01E01.GerEngSub.AAC.720p.WebDL.x264-Tanuki(Sub).mp4",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-uotoc42b3gzkmkj1.voe-network.net/engine/hls2-c/01/09646/h4fxlaugnbqs_,n,.urlset/master.m3u8?t=_k4jZfbQFVV9tc6Wo4p9abpNBb4nAuAvrvZI4xzvXm8&s=1696508103&e=14400&f=48231747&node=delivery-node-ptejpfhct13vobjp.voe-network.net&i=20.57&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

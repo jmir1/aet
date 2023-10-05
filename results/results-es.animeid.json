@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "//under-ninja",
+                                "title": "Under Ninja",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/under-ninja/cover/51634322.jpg"
+                            },
+                            {
+                                "url": "//yuzuki-san-chi-no-yonkyoudai",
+                                "title": "Yuzuki-san Chi no Yonkyoudai",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/yuzuki-san-chi-no-yonkyoudai/cover/1474b7d3.jpg"
+                            },
+                            {
                                 "url": "//kamierabi",
                                 "title": "Kamierabi",
                                 "description": "",
@@ -209,18 +221,6 @@
                                 "title": "Helck",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/helck/cover/90887975.jpg"
-                            },
-                            {
-                                "url": "//shiro-seijo-to-kuro-bokushi",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/shiro-seijo-to-kuro-bokushi/cover/041743be.jpg"
-                            },
-                            {
-                                "url": "//bungou-stray-dogs-5th-season",
-                                "title": "Bungou Stray Dogs 5th Season",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/bungou-stray-dogs-5th-season/cover/a26ca5dd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,18 @@
                     {
                         "animes": [
                             {
+                                "url": "//under-ninja",
+                                "title": "Under Ninja",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/under-ninja/cover/51634322.jpg"
+                            },
+                            {
+                                "url": "//yuzuki-san-chi-no-yonkyoudai",
+                                "title": "Yuzuki-san Chi no Yonkyoudai",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/yuzuki-san-chi-no-yonkyoudai/cover/1474b7d3.jpg"
+                            },
+                            {
                                 "url": "//kamierabi",
                                 "title": "Kamierabi",
                                 "description": "",
@@ -435,18 +447,6 @@
                                 "title": "Helck",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/helck/cover/90887975.jpg"
-                            },
-                            {
-                                "url": "//shiro-seijo-to-kuro-bokushi",
-                                "title": "Shiro Seijo to Kuro Bokushi",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/shiro-seijo-to-kuro-bokushi/cover/041743be.jpg"
-                            },
-                            {
-                                "url": "//bungou-stray-dogs-5th-season",
-                                "title": "Bungou Stray Dogs 5th Season",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/bungou-stray-dogs-5th-season/cover/a26ca5dd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,37 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//kamierabi",
-                    "title": "Kamierabi",
-                    "description": "Serie anime original del creador de NieR:Automata, Yokou Tarou, en un \"battle royale\" entre influencers dentro de un instituto, todos elegidos por un ser superior.",
-                    "genre": "Acción, Suspenso, Otoño 2023",
+                    "url": "//under-ninja",
+                    "title": "Under Ninja",
+                    "description": "ncluso a día de hoy los ninja se camuflan entre la gente llevando a cabo misiones en secreto. A algunos les va mejor que a otros y Kurô Kumogakure, un ninja nini, se pasa los días bebiendo y haciendo el vago. Sin embargo, un día recibe una misión de un superior y su vida empieza a tomar un rumbo inesperado...",
+                    "genre": "Acción, Seinen, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/kamierabi/cover/87e333ab.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/under-ninja/cover/51634322.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/kamierabi-1",
-                        "name": "Episodio 1.0",
-                        "date_upload": 1696377600000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=k3BWVyD4pacOl9O&expires=1696577952&ip=GxOsFxqnDS9X&token=7oFD1flW9HzR",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=k3BWVyD4pacOl9O&expires=1696577952&ip=GxOsFxqnDS9X&token=7oFD1flW9HzR"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
