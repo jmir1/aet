@@ -3,69 +3,28 @@
         "name": "AnimesVision (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/animes/jujutsu-kaisen-2nd-season",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://animes.vision/storage/capa/WpyWcVumukyDxU4NOxiDzhdOZksAho2sWR23Fnzx.jpg"
-                            },
-                            {
-                                "url": "/animes/bleach-sennen-kessen-hen-ketsubetsu-tan",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                                "thumbnail_url": "https://animes.vision/storage/capa/QDjPVoOMclKw3NwcGfcDb2J2OHWiQHtZnNN0bwP8.jpg"
-                            },
-                            {
-                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu",
-                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
-                                "thumbnail_url": "https://animes.vision/storage/capa/dwTv0kGg9emLXbYbINRMEBdWPBqDIjXbMc6InZbO.jpg"
-                            },
-                            {
-                                "url": "/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
-                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-                                "thumbnail_url": "https://animes.vision/storage/capa/eMth350E0jleomeIQanN3IQMaCYLK9CJCnSD6sW6.jpg"
-                            },
-                            {
-                                "url": "/animes/yumemiru-danshi-wa-genjitsushugisha",
-                                "title": "Yumemiru Danshi wa Genjitsushugisha",
-                                "thumbnail_url": "https://animes.vision/storage/capa/X8WQlczSlhTPwUuCXgw7ubGpcxuFWK3DgrUkusOU.jpg"
-                            },
-                            {
-                                "url": "/animes/jitsu-wa-ore-saikyou-deshita",
-                                "title": "Jitsu wa Ore, Saikyou deshita?",
-                                "thumbnail_url": "https://animes.vision/storage/capa/d4WPnVuHA0STtgvM7fpqWL9n507tnoFPwbJmp6kS.jpg"
-                            },
-                            {
-                                "url": "/animes/horimiya-piece",
-                                "title": "Horimiya: Piece",
-                                "thumbnail_url": "https://animes.vision/storage/capa/9uLdOdjkI8dF0cO96wLfl37kOLKzMkbYIK8Wid4A.jpg"
-                            },
-                            {
-                                "url": "/animes/eiyuu-kyoushitsu",
-                                "title": "Eiyuu Kyoushitsu",
-                                "thumbnail_url": "https://animes.vision/storage/capa/g29W6i7PJJcZgGDi9e0fgqMJjoSrMwA5TThHSWl7.jpg"
-                            },
-                            {
-                                "url": "/animes/kanojo-okarishimasu-3rd-season",
-                                "title": "Kanojo, Okarishimasu 3rd Season",
-                                "thumbnail_url": "https://animes.vision/storage/capa/Ou5ZWRc1v9D4R7M5mogJpRnrbgQAQQlUl4cpJ6Lg.jpg"
-                            },
-                            {
-                                "url": "/animes/masamune-kun-no-revenge-r",
-                                "title": "Masamune-kun no Revenge R",
-                                "thumbnail_url": "https://animes.vision/storage/capa/HsfJ6pS1z63akwG29F7nPk62ktyOPR7tVHpKXzGA.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animes/kage-no-jitsuryokusha-ni-naritakute-2/episodio-01/legendado",
+                                "title": "Episodio 01 - Kage no Jitsuryokusha ni Naritakute! 2",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/IZr0vBIs4apFDiqV3qKUXPxajQaZBff6LT5JhgNS.png"
+                            },
+                            {
+                                "url": "/animes/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-dublado/episodio-11/dublado",
+                                "title": "Episodio 11 - Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/YAv6tvmIGFu7b0T20EgWEjZUNr9Ga6qboIPEd3Z2.jpg"
+                            },
+                            {
+                                "url": "/animes/bungou-stray-dogs-5th-season-dublado/episodio-10/dublado",
+                                "title": "Episodio 10 - Bungou Stray Dogs 5th Season - Dublado",
+                                "thumbnail_url": "https://animes.vision/storage/screenshot/y2YU65DV4iJhHS1K3mEH1E0PmODzBZdhsAYx0Otq.jpg"
+                            },
                             {
                                 "url": "/animes/kamierabi/episodio-01/legendado",
                                 "title": "Episodio 01 - Kamierabi",
@@ -200,21 +159,6 @@
                                 "url": "/animes/yami-shibai-11/episodio-13/legendado",
                                 "title": "Episodio 13 - Yami Shibai 11",
                                 "thumbnail_url": "https://animes.vision/storage/screenshot/OvEfP609UKVnwKnDSDvg79ExWzXAiWj5GVAwJFU3.jpg"
-                            },
-                            {
-                                "url": "/animes/mushoku-tensei-ii-isekai-ittara-honki-dasu-dublado/episodio-10/dublado",
-                                "title": "Episodio 10 - Mushoku Tensei II: Isekai Ittara Honki Dasu - Dublado",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/32E1RUEsYiaqBDHZHS8LjMGwYqeYICYqomBbGjRP.jpg"
-                            },
-                            {
-                                "url": "/animes/boushoku-no-berserk/episodio-01/legendado",
-                                "title": "Episodio 01 - Boushoku no Berserk",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/C0D2SCyvf8nRShJqDbp7s7QGMfIvYvttJP8vAV6w.jpg"
-                            },
-                            {
-                                "url": "/animes/dekoboko-majo-no-oyako-jijou/episodio-01/legendado",
-                                "title": "Episodio 01 - Dekoboko Majo no Oyako Jijou",
-                                "thumbnail_url": "https://animes.vision/storage/screenshot/JkTpf4KvenPnxmENNQHwYUH6xO9JSgE5s1mnCEE1.png"
                             }
                         ],
                         "hasNextPage": true
@@ -434,11 +378,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/jujutsu-kaisen-2nd-season",
-                    "title": "Jujutsu Kaisen 2nd Season",
-                    "description": "Segunda temporada de Jujutsu Kaisen.\n\nTítulo em inglês: Sorcery Fight, JJK\nFoi ao ar em: de de\nTemporada: Segunda temporada de Jujutsu Kaisen.\nDuração: 23 min per ep\nFansub: Oficial",
-                    "genre": "Ação, Aventura, Escolar, Shounen",
-                    "thumbnail_url": "https://animes.vision/storage/capa/WpyWcVumukyDxU4NOxiDzhdOZksAho2sWR23Fnzx.jpg",
+                    "url": "/animes/kage-no-jitsuryokusha-ni-naritakute-2/episodio-01/legendado",
+                    "title": "Kage no Jitsuryokusha ni Naritakute! 2",
+                    "description": "Tudo tem corrido conforme o planejado, mas a hora do despertar se aproxima. Cid Kagenou e Shadow Garden investigam a Lawless City, uma fossa onde a lua vermelha paira baixa no céu e três poderosos monarcas governam as ruas. A verdadeira atração para Cid, no entanto, é aquele que consegue tirar sangue – a Rainha de Sangue, uma vampira que dorme em seu caixão há eras. Seu despertar se aproxima e Cid pode finalmente enfrentar um dia de ajuste de contas.\n\nTítulo em inglês: The Eminence in Shadow Season 2\nFoi ao ar em: de de\nDuração: 23 min per ep\nFansub: Eternal Animes",
+                    "genre": "Ação, Comédia, Fantasia, Isekai, Reincarnation",
+                    "thumbnail_url": "https://animes.vision/storage/capa/wWLG031GnPHlOSBAb9JfRUnH57zS4YOHetEI0mdj.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,14 +390,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/animes/jujutsu-kaisen-2nd-season/episodio-10/legendado",
-                        "name": "Episodio 10",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/animes/jujutsu-kaisen-2nd-season/episodio-09/legendado",
-                        "name": "Episodio 09",
-                        "episode_number": 9.0
+                        "url": "/animes/kage-no-jitsuryokusha-ni-naritakute-2/episodio-01/legendado",
+                        "name": "Episodio 01",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -461,19 +400,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn-1.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/720p/AnV-10.mp4?md5=fOAZj7KQ3aLZpD12iqy6yg&expires=1696472991",
+                        "url": "https://cdn-1.tanoshi.digital/stream/K/Kage_no_Jitsuryokusha_ni_Naritakute_2/720p/AnV-01.mp4?md5=5tun_-fC9Et3wxYeRtU2_g&expires=1696493367",
                         "quality": "GlobalVision HD 720p",
-                        "videoUrl": "https://cdn-1.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/720p/AnV-10.mp4?md5=fOAZj7KQ3aLZpD12iqy6yg&expires=1696472991"
+                        "videoUrl": "https://cdn-1.tanoshi.digital/stream/K/Kage_no_Jitsuryokusha_ni_Naritakute_2/720p/AnV-01.mp4?md5=5tun_-fC9Et3wxYeRtU2_g&expires=1696493367"
                     },
                     {
-                        "url": "https://cdn-1.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/480p/AnV-10.mp4?md5=WVAmNBMcrIRu6a7Js64xUw&expires=1696472991",
+                        "url": "https://cdn-1.tanoshi.digital/stream/K/Kage_no_Jitsuryokusha_ni_Naritakute_2/480p/AnV-01.mp4?md5=mzN4_7sbqifQkmVHCKkmOg&expires=1696493367",
                         "quality": "GlobalVision SD 480p",
-                        "videoUrl": "https://cdn-1.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/480p/AnV-10.mp4?md5=WVAmNBMcrIRu6a7Js64xUw&expires=1696472991"
+                        "videoUrl": "https://cdn-1.tanoshi.digital/stream/K/Kage_no_Jitsuryokusha_ni_Naritakute_2/480p/AnV-01.mp4?md5=mzN4_7sbqifQkmVHCKkmOg&expires=1696493367"
                     },
                     {
-                        "url": "https://cdn-1.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/1080p/AnV-10.mp4?md5=pbpt_XtGhZlPwZKUEVAcfQ&expires=1696472991",
+                        "url": "https://cdn-1.tanoshi.digital/stream/K/Kage_no_Jitsuryokusha_ni_Naritakute_2/1080p/AnV-01.mp4?md5=KfZyHo7XYCFyRl5t1YgtTw&expires=1696493367",
                         "quality": "GlobalVision FHD 1080p",
-                        "videoUrl": "https://cdn-1.tanoshi.digital/stream/J/Jujutsu_Kaisen_2/1080p/AnV-10.mp4?md5=pbpt_XtGhZlPwZKUEVAcfQ&expires=1696472991"
+                        "videoUrl": "https://cdn-1.tanoshi.digital/stream/K/Kage_no_Jitsuryokusha_ni_Naritakute_2/1080p/AnV-01.mp4?md5=KfZyHo7XYCFyRl5t1YgtTw&expires=1696493367"
                     }
                 ],
                 "passed": true

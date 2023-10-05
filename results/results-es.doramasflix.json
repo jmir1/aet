@@ -196,13 +196,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/6yluWnOyIJmdEuBLk3VAxFjiyDL.jpg"
                             },
                             {
-                                "url": "/doramas-online/goblin?id=5f2c3daaca7ff72d546e4982",
-                                "title": "Goblin (Goblin: El solitario ser inmortal)",
-                                "description": "Un ser inmortal desea terminar su existencia buscando en todo el mundo su novia que es la destinada a sacar la espada que le atraviesa el pecho y solo ella es capaz de verla, pero luego de conocerse se enamoran y  es cuando todo cambia para el ser inmortal ya que debido al amor que siente encuentra una nueva razón para mantenerse vivo pero con esto pone en peligro a su amada que además es capaz de ver fantasmas, paralelamente existe un ángel de la muerte que se enamora perdidamente de la que resulta ser la reencarnación de la hermana del ser inmortal. Durante el desarrollo de esta serie se pueden disfrutar de momentos que evocan emisiones inimaginable y definitivamente no tiene ni un solo instante desperdiciado.",
-                                "genre": "Drama, Ciencia ficción, Fantasía",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/qZMEiTsNlCQV27hHQE27ZtlPWyv.jpg"
-                            },
-                            {
                                 "url": "/doramas-online/island?id=63ae7f1b528c44509b637a6e",
                                 "title": "Island (Isla)",
                                 "description": "Won Mi Ho es la única hija de su padre que dirige el Grupo Daehan. Su actitud arrogante y egoísta hace que cometa un gran error que eventualmente enfurece a su padre y la destierra a la isla de Jeju. Allí, la asignan para trabajar como profesora de ética en una escuela secundaria. Sin que ella lo sepa, la isla es donde el mal vaga libremente. Conoce a otras personas en la isla y juntos, los personajes se unen para vivir.",
@@ -229,6 +222,13 @@
                                 "description": "Una oficinista insegura de su aspecto físico se convierte en una personalidad enmascarada de Internet por la noche, hasta que una cadena de acontecimientos funestos se apodera de su vida.",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/mKRIwsjNRoGes1hVZxU192EQZZL.jpg"
+                            },
+                            {
+                                "url": "/doramas-online/the-glory?id=63af5c66528c44509b637aeb",
+                                "title": "The Glory (La Gloria)",
+                                "description": "\"The Glory\" es una triste historia de venganza que comienza con una estudiante de secundaria que soñaba con convertirse en arquitecta. Sin embargo, abandonó la escuela debido a una brutal violencia escolar. Años más tarde, el perpetrador se casa y tiene un hijo. Una vez que el niño está en la escuela primaria, la ex víctima se convierte en su maestra y ahí es donde comienza la venganza hacia aquellos que fueron los perpetradores y espectadores de sus días de intimidación.",
+                                "genre": "Drama, Romance, Acción, Thriller, Crimen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/uS2dQ7ukij2ifLwjMBzTjqEDg2x.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -586,17 +586,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/one-piece?id=64efc2d4dde73ee36e1f7d8d",
-                    "title": "One Piece (Una Pieza)",
-                    "artist": "Iñaki Godoy",
-                    "author": "Netflix",
-                    "description": "Acompañado de su ecléctica tripulación, el joven pirata Monkey D. Luffy emprende un viaje en busca de un tesoro legendario en esta adaptación del popular manga.",
-                    "genre": "Aventura, Ciencia ficción",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yjXUvMVXHXqD6QFixQ5k1iPCM3a.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
