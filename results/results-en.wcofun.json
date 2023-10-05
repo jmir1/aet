@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kamierabi",
+                                "title": "Kamierabi",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933178.jpg"
+                            },
+                            {
                                 "url": "/anime/16bit-sensation-another-layer-english-subbed",
                                 "title": "16bit Sensation: Another Layer English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933177.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/the-simpsons-season-35",
                                 "title": "The Simpsons Season 35",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933163.jpg"
-                            },
-                            {
-                                "url": "/anime/flcl-shoegaze",
-                                "title": "FLCL: Shoegaze",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933162.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/16bit-sensation-another-layer-english-subbed",
-                    "title": "16bit Sensation: Another Layer English Subbed",
-                    "description": "Konoha Akisato is an illustrator who loves beautiful girls and bishoujo games. She works at a video game studio and aspires to become a super famous illustrator. However, reality did not work out as well as she had hoped. In the present, where mobile games are all the rage, Konoha spent her days as a sub-illustrator just coloring the back of background characters.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933177.jpg",
+                    "url": "/anime/kamierabi",
+                    "title": "Kamierabi",
+                    "description": "Gorou, a first-year high school student at a private high school in Tokyo, has no “hopes,” no “dreams,” and no “ambitions.” The world is “indifferent” to him, and he spends his boring, unchanging days with his best friend Akitsu while having a faint longing for Honoka, a classmate at the same school.",
+                    "genre": "Action, Suspense, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933178.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kamierabi-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgiE5QYxmLoaygq6fdXQ2BCmxw-OlCMg17KrnX3bI7-FCA-YuKQ3sAhz3I3-G-F1m-4cRNH_dE2LFczQNp3VRq5yMOjmwLJvPDzsV75H1XK0zfUiU5A_yMebrAN36lWEJHDaySoLrABlqi4l3xm7KGprK0Xhy-F1Y0MJ-UZn6uYqftcDl9eVnnrzreGNmOdBTTUQofd62tI0BAV_gaj2IPmtbB79-C07PKV3V2IZkuAFor6oRbEUX6qTQ2aoAP_NblSS42bXgRCz9_nHbeCv8hzB_OmXGx9qFbjTUDD4HEQ6X1qsVB2_jM6XtMgqX78oJg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgiE5QYxmLoaygq6fdXQ2BCmxw-OlCMg17KrnX3bI7-FCA-YuKQ3sAhz3I3-G-F1m-4cRNH_dE2LFczQNp3VRq5yMOjmwLJvPDzsV75H1XK0zfUiU5A_yMebrAN36lWEJHDaySoLrABlqi4l3xm7KGprK0Xhy-F1Y0MJ-UZn6uYqftcDl9eVnnrzreGNmOdBTTUQofd62tI0BAV_gaj2IPmtbB79-C07PKV3V2IZkuAFor6oRbEUX6qTQ2aoAP_NblSS42bXgRCz9_nHbeCv8hzB_OmXGx9qFbjTUDD4HEQ6X1qsVB2_jM6XtMgqX78oJg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgiE5QYxmLoaygq6fdXQ2BCmxw-OlCMg17KrnX3bI7-FCA-YuKQ3sAhz3I3-G-F1m-4cRNH_dE2LFczQNp3VRq7z9E5XmvszRD1xfL8YLS58dQJJPlKS1PrpMNRWmqKeg0rTsn-Y69AmB6py9K5QS0p4NbLF1iMyoatux7MDmcihuaA4LyYlhsSvAkUcxbqbA29jZQiQNyS9fyNgxj-r8F_wc7QJycwXRrk5__A8WzyZLPR-dCYxOqw0_3v0AtVkWMsXpfrkodH5_35CXCQCut82pMqNMu14KMftrQN6Cvq1XqfHAC6SZydlB-suwXkTaA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgiE5QYxmLoaygq6fdXQ2BCmxw-OlCMg17KrnX3bI7-FCA-YuKQ3sAhz3I3-G-F1m-4cRNH_dE2LFczQNp3VRq7z9E5XmvszRD1xfL8YLS58dQJJPlKS1PrpMNRWmqKeg0rTsn-Y69AmB6py9K5QS0p4NbLF1iMyoatux7MDmcihuaA4LyYlhsSvAkUcxbqbA29jZQiQNyS9fyNgxj-r8F_wc7QJycwXRrk5__A8WzyZLPR-dCYxOqw0_3v0AtVkWMsXpfrkodH5_35CXCQCut82pMqNMu14KMftrQN6Cvq1XqfHAC6SZydlB-suwXkTaA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgiE5QYxmLoaygq6fdXQ2BCmxw-OlCMg17KrnX3bI7-FCA-YuKQ3sAhz3I3-G-F1m-4cRNH_dE2LFczQNp3VRq5FuB6WSH-BnGXEcjFsfey7bOITmOGVi-y8dvK7K4iNT8agU4FvyRDttBPQ3Cb4XhVAPd-GM6DpMv0mT_JeJndLVCe8J4BLepIRDD3hw_jdDncOzs2EZDnE0N3JCCBChDVyIQ0795PXbbEx1fvsaU-0A4A3mrkBTHkAxHjnLoJE39FZE86cWZuGhDb5SU5aRKa5rXgxwHKhY8FG1uKIM6QqfQK3ATnMOOoZrkAdIlZmRA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgiE5QYxmLoaygq6fdXQ2BCmxw-OlCMg17KrnX3bI7-FCA-YuKQ3sAhz3I3-G-F1m-4cRNH_dE2LFczQNp3VRq5FuB6WSH-BnGXEcjFsfey7bOITmOGVi-y8dvK7K4iNT8agU4FvyRDttBPQ3Cb4XhVAPd-GM6DpMv0mT_JeJndLVCe8J4BLepIRDD3hw_jdDncOzs2EZDnE0N3JCCBChDVyIQ0795PXbbEx1fvsaU-0A4A3mrkBTHkAxHjnLoJE39FZE86cWZuGhDb5SU5aRKa5rXgxwHKhY8FG1uKIM6QqfQK3ATnMOOoZrkAdIlZmRA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

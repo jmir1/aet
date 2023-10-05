@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/kamierabi/",
+                                "title": "Kamierabi",
+                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg"
+                            },
+                            {
+                                "url": "/animes/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu/",
+                                "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/tFr8Edx1Txms9EDiyLPEC6oiDDr.jpg"
+                            },
+                            {
                                 "url": "/animes/16bit-sensation-another-layer/",
                                 "title": "16bit Sensation: Another Layer",
                                 "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/9WQiKz1N9rwZJK4Kr7eMrAXEHae.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/animes/castlevania-nocturne/",
                                 "title": "Castlevania: Nocturne",
                                 "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/09/tslJx5LPn2aXX3USGYbh0KbglnB.jpg"
-                            },
-                            {
-                                "url": "/animes/houseki-no-kuni/",
-                                "title": "Houseki no Kuni",
-                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/pUy4Dcb6UstCI64AYqLbdPISkDS.jpg"
-                            },
-                            {
-                                "url": "/animes/kyoukai-no-kanata/",
-                                "title": "Kyoukai no Kanata",
-                                "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/07/6cmtMbEZAYm3aWzthFRk6048LFi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,26 +169,94 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/16bit-sensation-another-layer/",
-                    "title": "16bit Sensation: Another Layer",
-                    "artist": "Aniplex, Silver",
-                    "author": "BS11, Gunma TV, Tochigi TV, Tokyo MX",
-                    "description": "في عام 1992، كانت ميكو أويهارا طالبة جامعية تعمل بدوام جزئي كموظفة في محل للأجهزة الكمبيوتر. على الأقل، هذا ما كانت تعتقده في البداية. ولكن أثناء استكشافها للطابق الثاني من المحل، اكتشفت أن الشركة كانت تدير نشاطًا آخر باسم “ألكوهول سوفت”، وهي شركة متخصصة في تطوير ألعاب الكمبيوتر للبالغين. وهكذا، تم نقلها إلى وظيفة كمصممة جرافيك! وعلى الرغم من هذا التحول الغير متوقع، قررت ميكو أن تتحدى نفسها وتعمل بجد لإثبات مهاراتها من خلال إتمام اللعبة…\n\nAlternative title: 16bitセンセーション ANOTHER LAYER",
-                    "genre": "السفر عبر الزمن, حياة العمل, كوميدي",
+                    "url": "/animes/kamierabi/",
+                    "title": "Kamierabi",
+                    "artist": "slowcurve, UNEND",
+                    "author": "AT-X, Fuji TV",
+                    "description": "بدأت المعركة الإلهية النهائية، ويجب يجب على طلاب المدارس الثانوية استخدام قواهم الفريدة لمواجهة بعضهم البعض للتنافس على لقب “الإله” الذي طال انتظاره. ولكن بينما يصبح كل قتال أكثر ظلمًا من سابقه، تتشكل التحالفات وتتبعها الخيانات. من سيخرج منتصرًا ويسيطر على العرش الإلهي؟\n\nAlternative title: カミエラビ",
+                    "genre": "أكشن, تشويق",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/9WQiKz1N9rwZJK4Kr7eMrAXEHae.jpg",
+                    "thumbnail_url": "https://animerco.org/wp-content/uploads/2023/10/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes/kamierabi-الحلقة-1/",
+                        "name": "Kamierabi الموسم 1: الحلقة 1",
+                        "episode_number": 1.001
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www12.mp4upload.com:183/d/q6x4x6puz3b4quuodkqqemawiiinir44drriqjdwiwahexk7g7bse6zzx5yztsyxygkqd3mw/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www12.mp4upload.com:183/d/q6x4x6puz3b4quuodkqqemawiiinir44drriqjdwiwahexk7g7bse6zzx5yztsyxygkqd3mw/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=5&sig=pnaGV7i7Dtg&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=5&sig=pnaGV7i7Dtg&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176"
+                    },
+                    {
+                        "url": "https://m30.uqload.io/3rfk5l5dr5w2q4drdkz7xkvtddhg42ty724zj3xvsconxckjhpfx4pfnkf3a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m30.uqload.io/3rfk5l5dr5w2q4drdkz7xkvtddhg42ty724zj3xvsconxckjhpfx4pfnkf3a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20231004FRw6sDG4G6K/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20231004FRw6sDG4G6K/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=4&sig=qNFXiJCR-VA&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=4&sig=qNFXiJCR-VA&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176"
+                    },
+                    {
+                        "url": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=0&sig=Swyi5spxFrw&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=0&sig=Swyi5spxFrw&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176"
+                    },
+                    {
+                        "url": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=1&sig=3SOhuB3uKlE&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=1&sig=3SOhuB3uKlE&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176"
+                    },
+                    {
+                        "url": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=2&sig=xygGVo4CqaE&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=2&sig=xygGVo4CqaE&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176"
+                    },
+                    {
+                        "url": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=3&sig=nObXkvSgRYo&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd401.mycdn.me/?expires=1696552171663&srcIp=40.84.177.251&pr=10&srcAg=GECKO&ms=45.136.20.30&type=3&sig=nObXkvSgRYo&ct=0&urls=185.226.53.93&clientType=0&zs=43&id=5529713904176"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=zdgjAK4xExhYDMFszWTocgqUJMHHJWwKWLpmG0dQ%2FkfjHZdz2okKXy8wX5eePLyu1LhKh%2Bv53849v0LS1mJRf3oZU4mgl6J4AZpCfS05bIt%2FPKN3SE6Tji5yol1EyLN%2BzYZVfYJdZ9EI4PDrcsQjbe&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=zdgjAK4xExhYDMFszWTocgqUJMHHJWwKWLpmG0dQ%2FkfjHZdz2okKXy8wX5eePLyu1LhKh%2Bv53849v0LS1mJRf3oZU4mgl6J4AZpCfS05bIt%2FPKN3SE6Tji5yol1EyLN%2BzYZVfYJdZ9EI4PDrcsQjbe&ref=&sandbox=&t=&res=360"
+                    }
+                ],
+                "passed": true
             }
         }
     }

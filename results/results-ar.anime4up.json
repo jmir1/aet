@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kizuna-no-allele/",
+                                "title": "Kizuna no Allele",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_20h40m43s_012_.png?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season/",
                                 "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/bx161964-JpkEbHI8ivaP.jpg?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/shinigami-bocchan-to-kuro-maid-2nd-season/",
                                 "title": "Shinigami Bocchan to Kuro Maid 2nd Season",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/bx139435-7cLDzwDsRqAn.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/level-1-dakedo-unique-skill-de-saikyou-desu-مدبلج/",
-                                "title": "Level 1 dakedo Unique Skill de Saikyou desu مدبلج",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/07/01.jpg?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,36 +349,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season/",
-                    "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
-                    "description": "قصة انمي Kage no Jitsuryokusha ni Naritakute! 2nd Season تأتي إستكمالا لأحداث الموسم السابق.",
-                    "genre": "أكشن, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/kizuna-no-allele/",
+                    "title": "Kizuna no Allele",
+                    "description": "قد مضت خمس سنوات منذ اختفاء “كيزونا أي” من العالم الافتراضي. على الرغم من أنها كانت ذكاء صناعيًا، لكنها أسرت قلوب معجبيها، بما في ذلك “ميراكل“، فنانة افتراضية طموحة. مع وجود “ميراكل” في أكاديمية “عدن“، مدرسة للفنانين الافتراضيين، حيث تتعرف على أصدقاء جدد وتتعلم المزيد عن الغناء والأداء والبث المباشر. هدف “ميراكل” النهائي هو الفوز بجائزة “لابان دور” المرموقة في جوائز “الشبكة الافتراضية“، وهو إنجاز حققته “كيزونا” خمس مرات متتالية. لتحقيق هذا، تعمل على تحسين تصنيف قناتِها من خلال البث والعروض، وتحاول أن تبرز بين طلاب الأكاديمية الآخرين. مصممة على تحقيق حلمها في أن تُلهِم الآخرين بنفس الطريقة التي أَلهَمتها “كيزونا“، هذه النجمة الناشئة لن تستسلم أبدا.",
+                    "genre": "موسيقي, مدرسي, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/bx161964-JpkEbHI8ivaP.jpg?fit=460%2C649&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_20h40m43s_012_.png?fit=339%2C480&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/kage-no-jitsuryokusha-ni-naritakute-2nd-season-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xo39zx-04.vidboo.org/6jmnxdp23iazsalrixpqfjhhi6cjtkrkm3if7cbwji2i7k7p3gwpa7zd4ara/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://xo39zx-04.vidboo.org/6jmnxdp23iazsalrixpqfjhhi6cjtkrkm3if7cbwji2i7k7p3gwpa7zd4ara/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }
