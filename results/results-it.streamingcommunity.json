@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "6730-everything-now",
+                                "title": "Everything Now",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d2b6a825-b9ec-49cb-a221-f113c0681fc1.webp"
+                            },
+                            {
+                                "url": "6728-beckham",
+                                "title": "Beckham",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a24ba080-dfd8-413a-954f-43c2ed1c1ec5.webp"
+                            },
+                            {
                                 "url": "6727-57-secondi",
                                 "title": "57 Secondi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/bdb0889a-3e86-47d5-aafb-593b1b321a07.webp"
@@ -40,6 +50,11 @@
                                 "url": "6710-vasco-rossi-il-supervissuto",
                                 "title": "Vasco Rossi: Il Supervissuto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/c9a32976-e1c5-45af-bf4a-8119ae9e5ce1.webp"
+                            },
+                            {
+                                "url": "6729-spy-kids-armageddon",
+                                "title": "Spy Kids: Armageddon",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1af3cb7e-0f0a-4722-b7a3-84bcb7b40f0a.webp"
                             },
                             {
                                 "url": "6724-flora-and-son",
@@ -290,21 +305,6 @@
                                 "url": "6558-hijack-sette-ore-in-alta-quota",
                                 "title": "Hijack - Sette ore in alta quota",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2bd30b18-afda-4c76-a722-86779a05f229.webp"
-                            },
-                            {
-                                "url": "6242-indiana-jones-e-il-quadrante-del-destino",
-                                "title": "Indiana Jones e il quadrante del destino",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0a8efaae-7aa9-410c-9b37-07a984243524.webp"
-                            },
-                            {
-                                "url": "6423-worlds-best",
-                                "title": "World's Best",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/2df99579-2846-4d40-bd5d-6ec4c15b5ceb.webp"
-                            },
-                            {
-                                "url": "6512-resident-evil-death-island",
-                                "title": "Resident Evil: Death Island",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/b4d02527-33bc-440b-a538-b3b198413494.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,27 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "6727-57-secondi",
-                    "description": "Quando un blogger tecnologico ottiene un'intervista con un guru della tecnologia e ferma un attacco contro di lui, trova un misterioso anello che lo riporta indietro di 57 secondi nel passato.",
-                    "genre": "Thriller, Fantascienza",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "6730-everything-now",
+                    "description": "Reduce da mesi di ricovero per un disturbo alimentare, la sedicenne Mia prepara una lista di esperienze adolescenziali da fare per recuperare il tempo perduto.",
+                    "genre": "Dramma, Commedia",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "6727",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }

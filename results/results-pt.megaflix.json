@@ -3,49 +3,8 @@
         "name": "Megaflix (PT-BR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/filme/a-freira-2-2023-assistir-online/",
-                                "title": "A Freira 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg"
-                            },
-                            {
-                                "url": "/filme/elementos-2023-assistir-online-1695449214/",
-                                "title": "Elementos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7QsY7Jo3ZgL3pa1kdo28TA7Z6qo.jpg"
-                            },
-                            {
-                                "url": "/filme/barbie-2023-assistir-online-1695773793/",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg"
-                            },
-                            {
-                                "url": "/filme/a-pequena-sereia-2023-assistir-online-1693052548/",
-                                "title": "A Pequena Sereia",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg"
-                            },
-                            {
-                                "url": "/filme/indiana-jones-e-a-reliquia-do-destino-2023-assistir-online/",
-                                "title": "Indiana Jones e A Relíquia do Destino",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg"
-                            },
-                            {
-                                "url": "/filme/ruby-marinho-monstro-adolescente-2023-assistir-online/",
-                                "title": "Ruby Marinho - Monstro Adolescente",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg"
-                            },
-                            {
-                                "url": "/filme/oppenheimer-2023-assistir-online/",
-                                "title": "Oppenheimer",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: List is empty.",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -324,11 +283,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/filme/a-freira-2-2023-assistir-online/",
-                    "title": "A Freira 2",
-                    "description": "Quatro anos após os acontecimentos na abadia de St. Carta, a Irmã Irene (Taissa Farmiga) regressa mais uma vez e depara-se com a força demoníaca de Valak, a Freira (Bonnie Aarons). Versão dublada gravada em cinema com dublagem oficial (possui propagandas no vídeo).",
-                    "genre": "Mistério, Terror, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/jv7lyPfBC1heRWtQUd1gX7Q0wSo.jpg",
+                    "url": "/serie/queer-for-fear-the-history-of-queer-horror-2022-assistir-online/",
+                    "title": "Queer for Fear: The History of Queer Horror",
+                    "description": "Um documentário de quatro partes contando a história do horror LGBTQIA+ e a relação entre o público queer e o horror, e a comunidade de horror queer como um todo.",
+                    "genre": "Documentário",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/7cSmbV0FJpvtOzlavyON3g9B1gQ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -336,71 +295,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/filme/a-freira-2-2023-assistir-online/",
-                        "name": "Filme",
-                        "episode_number": 1.0
+                        "url": "/episodio/queer-for-fear-the-history-of-queer-horror-1x4/",
+                        "name": "Queer for Fear: The History of Queer Horror 1x4",
+                        "episode_number": 104.0
+                    },
+                    {
+                        "url": "/episodio/queer-for-fear-the-history-of-queer-horror-1x3/",
+                        "name": "Queer for Fear: The History of Queer Horror 1x3",
+                        "episode_number": 103.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hls.mflix.vip/videos/8cfc8f25fb47f5b70a38b665c396de37/720/720p.m3u8",
-                        "quality": "Megaflix(Legendado) - 720p",
-                        "videoUrl": "https://hls.mflix.vip/videos/8cfc8f25fb47f5b70a38b665c396de37/720/720p.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://megaflix.co",
-                            "Referer": "https://megaflix.co"
-                        }
-                    },
-                    {
-                        "url": "https://hls.mflix.vip/videos/62f1a2effe0e6b30a3adc9bb9ff904c1/720/720p.m3u8",
-                        "quality": "Megaflix(Dublado) - 720p",
-                        "videoUrl": "https://hls.mflix.vip/videos/62f1a2effe0e6b30a3adc9bb9ff904c1/720/720p.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://megaflix.co",
-                            "Referer": "https://megaflix.co"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=wloA88MP0JtJwjL&expires=1696556210&ip=F0AsERqnDS9X&token=DVqM-VqY3wVz",
-                        "quality": "StreamTape - Legendado",
-                        "videoUrl": "https://streamtape.com/get_video?id=wloA88MP0JtJwjL&expires=1696556210&ip=F0AsERqnDS9X&token=DVqM-VqY3wVz"
-                    },
-                    {
-                        "url": "https://hls.mflix.vip/videos/8cfc8f25fb47f5b70a38b665c396de37/360/360p.m3u8",
-                        "quality": "Megaflix(Legendado) - 360p",
-                        "videoUrl": "https://hls.mflix.vip/videos/8cfc8f25fb47f5b70a38b665c396de37/360/360p.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://megaflix.co",
-                            "Referer": "https://megaflix.co"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=pYDgvmRp6rSrkeg&expires=1696556207&ip=F0AsERqnDS9X&token=s9po1dgQOB6O",
-                        "quality": "StreamTape - Dublado",
-                        "videoUrl": "https://streamtape.com/get_video?id=pYDgvmRp6rSrkeg&expires=1696556207&ip=F0AsERqnDS9X&token=s9po1dgQOB6O"
-                    },
-                    {
-                        "url": "https://hls.mflix.vip/videos/62f1a2effe0e6b30a3adc9bb9ff904c1/360/360p.m3u8",
-                        "quality": "Megaflix(Dublado) - 360p",
-                        "videoUrl": "https://hls.mflix.vip/videos/62f1a2effe0e6b30a3adc9bb9ff904c1/360/360p.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://megaflix.co",
-                            "Referer": "https://megaflix.co"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
