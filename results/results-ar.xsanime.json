@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hypnosis-mic-division-rap-battle-rhyme-anima-season-2/",
+                                "title": "Hypnosis Mic Division Rap Battle Rhyme Anima Season 2",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Hypnosis-Mic-Division-Rap-Battle-Rhyme-Anima-Season-2.jpg"
+                            },
+                            {
+                                "url": "/anime/uma-musume-pretty-derby-season-3/",
+                                "title": "Uma Musume Pretty Derby Season 3",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
+                            },
+                            {
+                                "url": "/anime/zanting-rang-wo-cha-gonglue/",
+                                "title": "Zanting Rang Wo Cha Gonglue",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Zanting-Rang-Wo-Cha-Gonglue.jpg"
+                            },
+                            {
                                 "url": "/anime/bullbuster/",
                                 "title": "Bullbuster",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Bullbuster-1.jpg"
@@ -230,21 +245,6 @@
                                 "url": "/anime/one-piece-live-action-jpn/",
                                 "title": "One Piece Live Action Jpn",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/08/one-piece-live-action-new-visual-august-31.jpg"
-                            },
-                            {
-                                "url": "/anime/one-piece-live-action/",
-                                "title": "One Piece Live Action",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/08/2.jpg"
-                            },
-                            {
-                                "url": "/anime/bastard-ankoku-no-hakaishin-season-2/",
-                                "title": "Bastard Ankoku no Hakaishin Season 2",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/132555l.jpg"
-                            },
-                            {
-                                "url": "/anime/tenchi-muyou-gxp-paradise-shidou-hen/",
-                                "title": "Tenchi Muyou! GXP Paradise Shidou-hen",
-                                "thumbnail_url": "https://v.xsanime.com/wp-content/uploads/2023/07/283593.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,13 +374,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bullbuster/",
-                    "title": "Bullbuster",
-                    "description": "تم نقل المهندس الشاب، “أوكينو تيتسورو“، إلى شركة إبادة حشرات تسمى “صناعات هاتو” مع الروبوت الجديد “بلبستر” الذي طوره بنفسه. هناك، شركة “صناعات هاتو” هي شركة صغيرة لديها القليل من المال، ورئيسها “تاجيما” ضد مخلوق غامض. هناك تكاليف وقود الروبوتات، وتكاليف عمل الطيارين، وبالطبع فإن إهدار رصاصة واحدة هو أمر غير مقبول. بين مُثُلهم العليا للإبادة وواقع الميزانيات، ما الذي يحمله المستقبل لـ”هاتو” ؟",
-                    "genre": "ميكا, أكشن, مغامرات, خيال علمي",
+                    "url": "/anime/hypnosis-mic-division-rap-battle-rhyme-anima-season-2/",
+                    "title": "Hypnosis Mic Division Rap Battle Rhyme Anima Season 2",
+                    "description": "الموسم الثاني من الانمي",
+                    "genre": "موسيقي, قوى خارقة, دراما, أكشن",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Bullbuster-1.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Hypnosis-Mic-Division-Rap-Battle-Rhyme-Anima-Season-2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,7 +388,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/bullbuster-الحلقة-1/",
+                        "url": "/episode/hypnosis-mic-division-rap-battle-rhyme-anima-season-2-الحلقة-1/",
                         "name": "1",
                         "episode_number": 1.0
                     }
@@ -396,7 +396,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
