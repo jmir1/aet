@@ -127,16 +127,16 @@
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/naruto.jpg"
                             },
                             {
-                                "url": "/kaifuku-jutsushi-no-yarinaoshi/",
-                                "title": "Kaifuku Jutsushi no Yarinaoshi",
-                                "description": "\"Los magos curadores no pueden luchar solos\". Keare, que estaba obligado por este conocimiento común, fue explotado una y otra vez por otros. Un día, se dio cuenta de lo que había más allá de la magia curativa y se convenció de que un mago curativo era la clase más fuerte. Sin embargo, cuando se dio cuenta de ese potencial, se vio privado de todo. Por lo tanto, usó magia curativa en el mundo…",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kaifuku-jutsushi-no-yarinaoshi.jpg"
-                            },
-                            {
                                 "url": "/tensei-shitara-slime-datta-ken-2nd-season/",
                                 "title": "Tensei shitara Slime Datta Ken 2nd Season",
                                 "description": "segunda temporada de That Time I Got Reincarnated as a Slime",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/tensei-shitara-slime-datta-ken-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/kaifuku-jutsushi-no-yarinaoshi/",
+                                "title": "Kaifuku Jutsushi no Yarinaoshi",
+                                "description": "\"Los magos curadores no pueden luchar solos\". Keare, que estaba obligado por este conocimiento común, fue explotado una y otra vez por otros. Un día, se dio cuenta de lo que había más allá de la magia curativa y se convenció de que un mago curativo era la clase más fuerte. Sin embargo, cuando se dio cuenta de ese potencial, se vio privado de todo. Por lo tanto, usó magia curativa en el mundo…",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kaifuku-jutsushi-no-yarinaoshi.jpg"
                             },
                             {
                                 "url": "/boku-no-hero-academia-2nd-season/",
@@ -501,7 +501,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
