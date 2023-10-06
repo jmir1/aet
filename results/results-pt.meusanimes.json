@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023-todos-os-episodios",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://animefire.net/img/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023.jpg"
+                            },
+                            {
                                 "url": "/animes/under-ninja-todos-os-episodios",
                                 "title": "Under Ninja",
                                 "thumbnail_url": "https://animefire.net/img/animes/under-ninja.webp"
@@ -50,11 +55,6 @@
                                 "url": "/animes/bullbuster-todos-os-episodios",
                                 "title": "Bullbuster",
                                 "thumbnail_url": "https://animefire.net/img/animes/bullbuster.webp"
-                            },
-                            {
-                                "url": "/animes/helck-todos-os-episodios",
-                                "title": "Helck",
-                                "thumbnail_url": "https://animefire.net/img/animes/helck.webp"
                             },
                             {
                                 "url": "/animes/under-ninja-todos-os-episodios",
@@ -126,6 +126,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023-todos-os-episodios",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) - Episódio 14",
+                                "thumbnail_url": "https://animefire.net/img/video/rurouni-kenshin-meiji-kenkaku-romantan-2023/14.webp"
+                            },
                             {
                                 "url": "/animes/under-ninja-todos-os-episodios",
                                 "title": "Under Ninja - Episódio 1",
@@ -220,11 +225,6 @@
                                 "url": "/animes/dark-gathering-todos-os-episodios",
                                 "title": "Dark Gathering - Episódio 13",
                                 "thumbnail_url": "https://animefire.net/img/video/dark-gathering/13.webp"
-                            },
-                            {
-                                "url": "/animes/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su-todos-os-episodios",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su - Episódio 1",
-                                "thumbnail_url": "https://animefire.net/img/video/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/1.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -364,22 +364,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/under-ninja-todos-os-episodios",
-                    "title": "Under Ninja",
-                    "description": "Um estudante solitário recebe o emprego de meio período de sua vida como um ninja moderno encarregado de realizar assassinatos internacionais. Após a Segunda Guerra Mundial, o Comando Aliado no Japão desenvolveu uma nova agência para ajudar a gerir o terrorismo e a violência na região do Pacífico. A agência contava com ninjas e eles foram inicialmente encarregados de cuidar dos assuntos domésticos. Eventualmente, esse programa cresceu até a sua forma atual, gerenciando 20.000 ninjas em uma série de assuntos nacionais e internacionais. Um desses ninjas é Kudo. O perdedor do ensino médio de dezessete anos está agora preparado para ser a próxima linha de defesa contra um possível aumento de assassinos estrangeiros invadindo Tóquio. (Fonte: Denpa, editado)",
-                    "genre": "acao",
-                    "thumbnail_url": "https://animefire.net/img/animes/under-ninja.webp",
+                    "url": "/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023-todos-os-episodios",
+                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                    "description": "Dez anos se passaram desde o fim de Bakumatsu, uma era de guerra que viu a revolta dos cidadãos contra o xogunato Tokugawa. Os revolucionários queriam criar um tempo de paz e um país próspero livre de opressão. A nova era de Meiji chegou, mas a paz ainda não foi alcançada. As espadas são proibidas, mas as pessoas ainda são assassinadas nas ruas. Órfãos de veteranos de guerra ficam sem ter para onde ir, enquanto o governo parece satisfeito em apenas encher seus bolsos com dinheiro. Um samurai errante, Kenshin Himura, ainda trabalha para garantir que os valores pelos quais ele lutou valem as vidas gastas para trazer a nova era. Uma vez conhecido como Hitokiri Battousai, ele era temido como o assassino mais implacável de todos os revolucionários. Agora assombrado pela culpa, Kenshin jurou nunca mais matar em expiação pelas vidas que tirou, e ele pode nunca conhecer a paz até que matar seja uma coisa do passado. Agora no 11º ano de Meiji, Kenshin se depara com Kaoru Kamiya, proprietário e instrutor chefe de um pequeno dojo sendo ameaçado de fechar suas portas. A força policial é impotente para impedir a série de assassinatos cometidos em nome de seu dojo por um homem que afirma ser o famoso Battousai. As andanças de Kenshin param por enquanto enquanto ele se junta a Kaoru para limpar os nomes de ambos. Mas quanto tempo ele pode ficar antes que seu passado o alcance?",
+                    "genre": "acao, romance",
+                    "thumbnail_url": "https://animefire.net/img/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023/14",
+                        "name": "Episódio 14",
+                        "episode_number": 14.0
+                    },
+                    {
+                        "url": "/animes/rurouni-kenshin-meiji-kenkaku-romantan-2023/13",
+                        "name": "Episódio 13",
+                        "episode_number": 13.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4_temp/rurouni-kenshin-meiji-kenkaku-romantan-2023/14/480p.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4_temp/rurouni-kenshin-meiji-kenkaku-romantan-2023/14/480p.mp4"
+                    },
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4_temp/rurouni-kenshin-meiji-kenkaku-romantan-2023/14/480p.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4_temp/rurouni-kenshin-meiji-kenkaku-romantan-2023/14/480p.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
