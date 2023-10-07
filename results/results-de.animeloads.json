@@ -9,7 +9,7 @@
                             {
                                 "url": "/media/goblin-slayer-ii",
                                 "title": "Goblin Slayer 2",
-                                "thumbnail_url": "https://www.anime-loads.org/files/noimage/w200/default.jpg"
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-goblin-slayer-ii-cover.jpg"
                             },
                             {
                                 "url": "/media/uma-musume-pretty-derby-season-3",
@@ -231,7 +231,7 @@
                     "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/noimage/w200/default.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-goblin-slayer-ii-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -247,8 +247,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=j7dgWlqddjfGXy&expires=1696750747&ip=FROsD0IZKxSHDN&token=8JtJA48j53Dw",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=j7dgWlqddjfGXy&expires=1696750747&ip=FROsD0IZKxSHDN&token=8JtJA48j53Dw"
+                    },
+                    {
+                        "url": "https://apinchcaseation.com/74ircvgo1gft?Goblin.Slayer.S02E01.GerSub.EAC3.720p.WebDL.x264-Tanuki(Sub).mp4",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-q3y2c0zkvnd4gnun.voe-network.net/engine/hls2-c/01/09657/74ircvgo1gft_,n,.urlset/master.m3u8?t=F9CRWwO0xEkp2qyP0wYOJ5rwBIcQU16vRHYt8BIJI-E&s=1696680745&e=14400&f=48288933&node=delivery-node-uacpizsol9ofqmpr.voe-network.net&i=20.168&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }
