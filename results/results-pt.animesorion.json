@@ -92,6 +92,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70847/legendado",
+                                "title": "Cardfight!! Vanguard: will+Dress Season 3",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42560_background.jpg?v=1688784161"
+                            },
+                            {
+                                "url": "/episodio/70846/legendado",
+                                "title": "Arknights: Fuyukomori Kaerimichi",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42505_background.jpg?v=1696637668"
+                            },
+                            {
+                                "url": "/episodio/70845/legendado",
+                                "title": "Kanojo mo Kanojo Season 2",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42833_background.jpg?v=1696643259"
+                            },
+                            {
+                                "url": "/episodio/70844/legendado",
+                                "title": "Hametsu no Oukoku",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42832_background.jpg?v=1696642576"
+                            },
+                            {
+                                "url": "/episodio/70843/legendado",
+                                "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42780_background.jpg?v=1696605580"
+                            },
+                            {
+                                "url": "/episodio/70842/legendado",
+                                "title": "Nanatsu no Maken ga Shihai suru",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42731_background.jpg?v=1688766704"
+                            },
+                            {
+                                "url": "/episodio/70841/legendado",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42801_background.jpg?v=1696014662"
+                            },
+                            {
+                                "url": "/episodio/70840/legendado",
+                                "title": "Zanting! Rang Wo Cha Gonglue",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42831_background.jpg?v=1696638875"
+                            },
+                            {
                                 "url": "/episodio/70839/legendado",
                                 "title": "Wan Sheng Jie",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/41761_background.jpg?v=1668265153"
@@ -170,46 +210,6 @@
                                 "url": "/episodio/70836/legendado",
                                 "title": "Tate no Yuusha no Nariagari Season 3",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/14989_background.jpg?v=1696601069"
-                            },
-                            {
-                                "url": "/episodio/70009/dublado",
-                                "title": "Bungou Stray Dogs 5th Season",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42744_background.jpg?v=1689179674"
-                            },
-                            {
-                                "url": "/episodio/70010/dublado",
-                                "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42724_background.jpg?v=1688589203"
-                            },
-                            {
-                                "url": "/episodio/70041/dublado",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42728_background.jpg?v=1688671604"
-                            },
-                            {
-                                "url": "/episodio/70039/dublado",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42726_background.jpg?v=1688671216"
-                            },
-                            {
-                                "url": "/episodio/70835/legendado",
-                                "title": "Yuzuki-san Chi no Yonkyoudai.",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42829_background.jpg?v=1696546730"
-                            },
-                            {
-                                "url": "/episodio/70834/legendado",
-                                "title": "Uma Musume: Pretty Derby Season 3",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42830_background.jpg?v=1696555295"
-                            },
-                            {
-                                "url": "/episodio/70833/legendado",
-                                "title": "Under Ninja",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42828_background.jpg?v=1696538368"
-                            },
-                            {
-                                "url": "/episodio/70832/legendado",
-                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42797_background.jpg?v=1696011934"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

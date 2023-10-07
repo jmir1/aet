@@ -193,16 +193,16 @@
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/the-daily-life-of-the-inmortal-king.jpg"
                             },
                             {
-                                "url": "/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai/",
-                                "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
-                                "description": "Síndrome de la pubertad: ciertas experiencias poco corrientes que se rumorea en Internet que son la causa del exceso de sensibilidad e inestabilidad durante la adolescencia. Este año, Sakuta Azusagawa, estudiante de segundo en una preparatoria cercana a Enoshima, conocerá a varias chicas que están pasando por ese \"síndrome de la pubertad\". Por ejemplo, en la biblioteca conoce a una salvaje chica…",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai.jpg"
-                            },
-                            {
                                 "url": "/kage-no-jitsuryokusha-ni-naritakute/",
                                 "title": "Kage no Jitsuryokusha ni Naritakute!",
                                 "description": "Cid Kagenou sueña con convertirse en la mente maestra detrás de todo, tanto héroes como villanos. Su vida anterior, como un hombre normal en la Japón moderna, no le permitía cumplir sus sueños, pero ahora que está en un mundo lleno de magia, quizás pueda alcanzarlos. Cid aparenta ser un mafioso cualquiera, mientras recluta nuevos miembros a su organización ficticia, que desea acabar con una…",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kage-no-jitsuryokusha-ni-naritakute.jpg"
+                            },
+                            {
+                                "url": "/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai/",
+                                "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+                                "description": "Síndrome de la pubertad: ciertas experiencias poco corrientes que se rumorea en Internet que son la causa del exceso de sensibilidad e inestabilidad durante la adolescencia. Este año, Sakuta Azusagawa, estudiante de segundo en una preparatoria cercana a Enoshima, conocerá a varias chicas que están pasando por ese \"síndrome de la pubertad\". Por ejemplo, en la biblioteca conoce a una salvaje chica…",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai.jpg"
                             },
                             {
                                 "url": "/boku-no-hero-academia-4th-season/",
@@ -501,7 +501,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }

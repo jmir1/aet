@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dangerous-romance/",
+                                "title": "Dangerous Romance (8/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9AkIe3cznud7lq4tCRKc4WNwGLs.jpg"
+                            },
+                            {
                                 "url": "/venus-in-the-sky/",
                                 "title": "Venus in the Sky (5/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg"
@@ -35,11 +40,6 @@
                                 "url": "/naughty-babe/",
                                 "title": "Naughty Babe (5/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg"
-                            },
-                            {
-                                "url": "/dangerous-romance/",
-                                "title": "Dangerous Romance (7/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9AkIe3cznud7lq4tCRKc4WNwGLs.jpg"
                             },
                             {
                                 "url": "/kimi-ni-wa-todokanai/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dangerous-romance/",
+                                "title": "Dangerous Romance (8/12)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9AkIe3cznud7lq4tCRKc4WNwGLs.jpg"
+                            },
+                            {
                                 "url": "/venus-in-the-sky/",
                                 "title": "Venus in the Sky (5/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg"
@@ -165,11 +170,6 @@
                                 "url": "/naughty-babe/",
                                 "title": "Naughty Babe (5/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg"
-                            },
-                            {
-                                "url": "/dangerous-romance/",
-                                "title": "Dangerous Romance (7/12)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/9AkIe3cznud7lq4tCRKc4WNwGLs.jpg"
                             },
                             {
                                 "url": "/kimi-ni-wa-todokanai/",
@@ -393,17 +393,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/venus-in-the-sky/",
-                    "title": "Venus in the Sky (5/10)",
-                    "description": "Un día, Venus conoció a un nuevo cliente, Sky. Sky se convirtió en un joven médico incesantemente de buen humor y muy enérgico a pesar de las montañas de trabajo en el hospital. Al volver a verse, no pudieron resistir los sentimientos.",
-                    "genre": "Drama, Sobrenatural, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/goblin-slayer-ii",
+                                "title": "Goblin Slayer 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/noimage/w200/default.jpg"
+                            },
+                            {
+                                "url": "/media/uma-musume-pretty-derby-season-3",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-uma-musume-pretty-derby-season-3-cover.png"
+                            },
+                            {
                                 "url": "/media/kanojo-mo-kanojo-2",
                                 "title": "Girlfriend, Girlfriend: Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kanojo-mo-kanojo-2-cover.png"
@@ -95,16 +105,6 @@
                                 "url": "/media/kamonohashi-ron-no-kindan-suiri",
                                 "title": "Ron Kamonohashi’s Forbidden Deductions",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kamonohashi-ron-no-kindan-suiri-cover.png"
-                            },
-                            {
-                                "url": "/media/migi-to-dali",
-                                "title": "Migi & Dali",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-migi-to-dali-cover.png"
-                            },
-                            {
-                                "url": "/media/boushoku-no-berserk",
-                                "title": "Berserk of Gluttony",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-boushoku-no-berserk-cover-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/kanojo-mo-kanojo-2",
-                    "title": "Girlfriend, Girlfriend: Staffel 2",
+                    "url": "/media/goblin-slayer-ii",
+                    "title": "Goblin Slayer 2",
                     "author": "",
                     "description": "*Keine Beschreibung verfügbar",
-                    "genre": "Romantische Komödie",
+                    "genre": "Action",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kanojo-mo-kanojo-2-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/noimage/w200/default.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/kanojo-mo-kanojo-2#streams_episodes_1_0",
+                        "url": "/media/goblin-slayer-ii#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,19 +247,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=6qLWOmVp7Pi4jP&expires=1696708630&ip=F0qQKRWQEy9XKxR&token=FLy3T7SxNxO6",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=6qLWOmVp7Pi4jP&expires=1696708630&ip=F0qQKRWQEy9XKxR&token=FLy3T7SxNxO6"
-                    },
-                    {
-                        "url": "https://apinchcaseation.com/wuyhzvtmlla1",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/09657/wuyhzvtmlla1_,n,.urlset/master.m3u8?t=s_PXBcuHiFRypdE7z-A5--CsWFZaD7AsvHV3YpcemfQ&s=1696638628&e=14400&f=48286025&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=172.176&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }
