@@ -167,6 +167,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/kibo-no-chikara-otona-precure-23",
+                                "title": "Kibo no Chikara ~Otona Precure 23~",
+                                "description": "Proyecto dirigido a fans adultos que representará a Yumehara Nozomi y otros personajes de Yes! Precure 5 y Yes! Precure 5 GoGo! como adultos.",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/65216f9b5815b/kibo-no-chikara-otona-precure-23.jpg"
+                            },
+                            {
                                 "url": "/flcl",
                                 "title": "FLCL",
                                 "description": "Todo comienza cuando Nandaba Naota, un chico de 12 años pero bastante maduro para su edad, y admirador de su hermano mayor, Tasuku, que ha ido a Estados Unidos a jugar baseball, se encuentra aburrido y atrapado en la cotidianeidad de la vida, acompañando a la solitaria novia de su hermano llamada Samemija Mamimi debajo de un puente en el tranquilo pueblo ficticio de Mabase, coronado por una enorme fábrica llamada Medical Mecánical en forma de plancha. Todo cambia un día en el que conoce abruptamente a una chica muy extraña que lo atropella intencionadamente y lo golpea con su bajo eléctrico en la cabeza, lo que le provoca que le salga un enorme chichón. A partir de ese momento, su vida dará un giro de 180 grados, y comienzan a suceder extrañas cosas alrededor de él; le salen cosas extrañas de la cabeza, como orejas de gato y gatillos de revólver que tiene que ocultar a sus amigos, es tragado por robots o se ve envuelto en una pelea entre Haruko y Medical Mecánica por conseguir a Atomusk, el rey pirata capaz de robar planetas enteros.",
@@ -309,12 +315,6 @@
                                 "title": "Hikikomari Kyuuketsuki no Monmon",
                                 "description": "Tres años después de su vida recluida, la vampira Terakomari Gandesblood (Komari para abreviar), se despierta y descubre que ha sido nombrada comandante del Ejército Imperial Mulnita. La cuestión es que su nueva unidad está formada únicamente por rufianes beligerantes que se rebelan contra sus superiores al menor indicio de debilidad. Aunque Komari proviene de una línea de vampiros tan poderosos como prestigiosos, su negativa a beber sangre la ha convertido en la imagen de la mediocridad: flaca, descoordinada e inepta en la magia. Con las probabilidades en su contra, ¿será suficiente la ayuda de su confiable (y ligeramente enamorada) doncella Vill para que esta reclusa se equivoque en su camino hacia el éxito? ¿O Komari se arrepentirá del día en que abandonó la seguridad de su habitación?",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6510f1cee00e1/hikikomari-kyuuketsuki-no-monmon.jpg"
-                            },
-                            {
-                                "url": "/saihate-no-paladin-tetsusabi-no-yama-no-ou",
-                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
-                                "description": "Habían pasado dos años desde que abandonó la Ciudad de los Muertos y Will tenía diecisiete años. Como señor, desarrolló \"Torch Port, un puerto fluvial de luz\", y gradualmente las actividades y sonrisas de la gente regresaron a \"Beast Woods\". Sin embargo, las flores fuera de temporada florecen profusamente y se descubre una anomalía en el bosque. Will y sus amigos se adentran en las profundidades del bosque para resolver este problema y reciben una siniestra profecía del rey del bosque. \"En las Montañas de Óxido de Hierro, ocurrirá el 'Fuego de la Calamidad Negra'. El fuego se extenderá o quemará todo en esta tierra\". ¿¡Cuál es la calamidad que duerme en la arruinada ciudad enana de Tetsusabi Sanmyaku...!?",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/6510f1431a920/saihate-no-paladin-tetsusabi-no-yama-no-ou.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -482,61 +482,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/hanyo-no-yashahime-24",
-                        "name": "Episodio  24",
-                        "episode_number": 24.0
-                    },
-                    {
-                        "url": "/ver/hanyo-no-yashahime-23",
-                        "name": "Episodio  23",
-                        "episode_number": 23.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/R80blGWA1aOlJqAY6YxHPXslYpG3_tASiWxS0FkBiqMeJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/R80blGWA1aOlJqAY6YxHPXslYpG3_tASiWxS0FkBiqMeJxFPc"
-                    },
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/kn0amNH9B6UNu2luqhHByGEcO0MlPOTmgPkEQneHZIAeJxFPc",
-                        "quality": "Amazon ES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/kn0amNH9B6UNu2luqhHByGEcO0MlPOTmgPkEQneHZIAeJxFPc"
-                    },
-                    {
-                        "url": "https://cdn.burstcloud.co/a20231007W3s3iMsx5o4/Yashahime 24.mp4",
-                        "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a20231007W3s3iMsx5o4/Yashahime 24.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.burstcloud.co/"
-                        }
-                    },
-                    {
-                        "url": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwb6l5dyrhc6bxlc5sraa4ftm2vzogs/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx77zonz3b4quuo6cxayzkyc7whbacw4zdgmwaz3gwb6l5dyrhc6bxlc5sraa4ftm2vzogs/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a202310075MHe1XvU2NW/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202310075MHe1XvU2NW/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

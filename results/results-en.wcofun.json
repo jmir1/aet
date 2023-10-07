@@ -7,6 +7,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kibou-no-chikara-otona-precure-23",
+                                "title": "Kibou no Chikara: Otona Precure '23",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933193.jpg"
+                            },
+                            {
+                                "url": "/anime/kikansha-no-mahou-wa-tokubetsu-desu",
+                                "title": "Kikansha no Mahou wa Tokubetsu desu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933192.jpg"
+                            },
+                            {
+                                "url": "/anime/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story",
+                                "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933191.jpg"
+                            },
+                            {
+                                "url": "/anime/atarashii-joushi-wa-do-tennen",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933190.jpg"
+                            },
+                            {
+                                "url": "/anime/hikikomari-kyuuketsuki-no-monmon",
+                                "title": "Hikikomari Kyuuketsuki no Monmon",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933189.jpg"
+                            },
+                            {
+                                "url": "/anime/jessicas-big-little-world",
+                                "title": "Jessicas Big Little World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933188.jpg"
+                            },
+                            {
+                                "url": "/anime/beyblade-x-english-subbed",
+                                "title": "Beyblade X English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933187.jpg"
+                            },
+                            {
                                 "url": "/anime/gundam-build-metaverse-english-subbed",
                                 "title": "Gundam Build Metaverse English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933186.jpg"
@@ -50,41 +85,6 @@
                                 "url": "/anime/kamierabi",
                                 "title": "Kamierabi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933178.jpg"
-                            },
-                            {
-                                "url": "/anime/16bit-sensation-another-layer-english-subbed",
-                                "title": "16bit Sensation: Another Layer English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933177.jpg"
-                            },
-                            {
-                                "url": "/anime/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu",
-                                "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933176.jpg"
-                            },
-                            {
-                                "url": "/anime/bullbuster-english-subbed",
-                                "title": "Bullbuster English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933175.jpg"
-                            },
-                            {
-                                "url": "/anime/paradox-live-the-animation-english-subbed",
-                                "title": "Paradox Live the Animation English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933174.jpg"
-                            },
-                            {
-                                "url": "/anime/azur-lane-queens-orders-english-subbed",
-                                "title": "Azur Lane: Queen's Orders English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933173.jpg"
-                            },
-                            {
-                                "url": "/anime/flcl-shoegaze-english-subbed",
-                                "title": "FLCL: Shoegaze English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933172.jpg"
-                            },
-                            {
-                                "url": "/anime/fright-krewe",
-                                "title": "Fright Krewe",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933171.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/gundam-build-metaverse-english-subbed",
-                    "title": "Gundam Build Metaverse English Subbed",
-                    "description": "2023 ONA series for Gundam Build Series 10th Anniversary.",
-                    "genre": "Action, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933186.jpg",
+                    "url": "/anime/kibou-no-chikara-otona-precure-23",
+                    "title": "Kibou no Chikara: Otona Precure '23",
+                    "description": "A new anime project that follows Yumehara Nozomi as an adult.",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933193.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/gundam-build-metaverse-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoRQOBtOFISLtl4Lzf-AHfBZnUMEqXh-BCJ6DbsHj9cPsEUqdkEndDc7f6_O8RYoW3JrNeLF5UJVxwkRiYrOvxQXQpbFxT02HLIsJuP8M0Nif10vdrzVhxwo3uzP4dfCkwepl0Il2r_5ePQyUR0cmgpzmYnfd6XXR1vtJlKctIMFNhtl7EXPr7X9kHS5ZSkDL2chvTtC6U68GnCFJy9fBhwhGdbcHR_uF0-KaI2R4cHMR-ppevQKFQBNs2hobfj3nZawwVQzQfHKFkhv4O1AwR8JyNO4YEoOqWNsRqModuNbJhadXNARRkj8kZfxKo_q0UbA5A2HupKIO4h8Me1wg2HzNKqNYsk_vJ11b9xVJZiASmOBTxh9xuDQqkDKRo3rPw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoRQOBtOFISLtl4Lzf-AHfBZnUMEqXh-BCJ6DbsHj9cPsEUqdkEndDc7f6_O8RYoW3JrNeLF5UJVxwkRiYrOvxQXQpbFxT02HLIsJuP8M0Nif10vdrzVhxwo3uzP4dfCkwepl0Il2r_5ePQyUR0cmgpzmYnfd6XXR1vtJlKctIMFNhtl7EXPr7X9kHS5ZSkDL2chvTtC6U68GnCFJy9fBhwhGdbcHR_uF0-KaI2R4cHMR-ppevQKFQBNs2hobfj3nZawwVQzQfHKFkhv4O1AwR8JyNO4YEoOqWNsRqModuNbJhadXNARRkj8kZfxKo_q0UbA5A2HupKIO4h8Me1wg2HzNKqNYsk_vJ11b9xVJZiASmOBTxh9xuDQqkDKRo3rPw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoRQOBtOFISLtl4Lzf-AHfBZnUMEqXh-BCJ6DbsHj9cPsEUqdkEndDc7f6_O8RYoW3JrNeLF5UJVxwkRiYrOvxQXQpbFxT02HLIsJuP8M0Nif10vdrzVhxwo3uzP4dfCk8nxa1R1I3F4IBB_iR5lfpd4ICmzbA8ay7_TFf_xFze8I7iwxM1KM1784-kM9EmAt5mTwcE0NBTyTPtZg4tVZCJJc7kJWHc4a3heVS0WregJP4oLaXd9g5mnfv0rox_OHwP4Ok9AzK335hIV71hp-WGlXExi-aykpOBowpfX5Vv0uEBFVu2rAB1x9jYcVyUiRh7PhjkgN6J_d89ZIaTRum_SRReJznbhbtUoWN5QW44_b5-fc1rxE5OA4AZwTMZYsA",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoRQOBtOFISLtl4Lzf-AHfBZnUMEqXh-BCJ6DbsHj9cPsEUqdkEndDc7f6_O8RYoW3JrNeLF5UJVxwkRiYrOvxQXQpbFxT02HLIsJuP8M0Nif10vdrzVhxwo3uzP4dfCk8nxa1R1I3F4IBB_iR5lfpd4ICmzbA8ay7_TFf_xFze8I7iwxM1KM1784-kM9EmAt5mTwcE0NBTyTPtZg4tVZCJJc7kJWHc4a3heVS0WregJP4oLaXd9g5mnfv0rox_OHwP4Ok9AzK335hIV71hp-WGlXExi-aykpOBowpfX5Vv0uEBFVu2rAB1x9jYcVyUiRh7PhjkgN6J_d89ZIaTRum_SRReJznbhbtUoWN5QW44_b5-fc1rxE5OA4AZwTMZYsA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoRQOBtOFISLtl4Lzf-AHfBZnUMEqXh-BCJ6DbsHj9cPsEUqdkEndDc7f6_O8RYoW3JrNeLF5UJVxwkRiYrOvxQXQpbFxT02HLIsJuP8M0Nif10vdrzVhxwo3uzP4dfCk9uqlWfuausqD6olouFWJNuzex_Mgsi-bZgJYU4e6XyTRK-PbwMHmtPYqA8F0FeWCKzVmJIar7AkMRq-lfwEGjmrJ2uTRLuNiUoKuJJcdWpgiOxKyl7BpwnM5lzhfWqDbJXipM7XFME7eISdwt833GTNce0-EHam41O6EqNtk_sNYMD-tNS_GxuPDhxYY59PIuOdBOjbAXkDzYImJii3FpxONL8bN6ON57_INPRfkRTzUczw25F67BI59sXJAXHZ-A",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoRQOBtOFISLtl4Lzf-AHfBZnUMEqXh-BCJ6DbsHj9cPsEUqdkEndDc7f6_O8RYoW3JrNeLF5UJVxwkRiYrOvxQXQpbFxT02HLIsJuP8M0Nif10vdrzVhxwo3uzP4dfCk9uqlWfuausqD6olouFWJNuzex_Mgsi-bZgJYU4e6XyTRK-PbwMHmtPYqA8F0FeWCKzVmJIar7AkMRq-lfwEGjmrJ2uTRLuNiUoKuJJcdWpgiOxKyl7BpwnM5lzhfWqDbJXipM7XFME7eISdwt833GTNce0-EHam41O6EqNtk_sNYMD-tNS_GxuPDhxYY59PIuOdBOjbAXkDzYImJii3FpxONL8bN6ON57_INPRfkRTzUczw25F67BI59sXJAXHZ-A"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
