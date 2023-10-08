@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/loki/",
+                                "title": "Loki",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/voHUmluYmKyleFkTu3lOXQG702u.jpg"
+                            },
+                            {
                                 "url": "/series/one-piece/",
                                 "title": "ONE PIECE",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/secret-invasion/",
                                 "title": "Secret Invasion",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/5rhoPzWGVSsqONBkNbAkMZULNoq.jpg"
-                            },
-                            {
-                                "url": "/series/the-flash/",
-                                "title": "The Flash",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rg8N7x27Ef6PvlIiioLStf9ZaIO.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,11 +264,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/one-piece/",
-                    "title": "ONE PIECE",
-                    "author": "Matt Owens, Steven Maeda",
-                    "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga..",
-                    "genre": "Action & Adventure, Sci-Fi & Fantasy",
+                    "url": "/series/loki/",
+                    "title": "Loki",
+                    "author": "Michael Waldron",
+                    "description": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+                    "genre": "Drama, Sci-Fi & Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/one-piece-1x8/",
-                        "name": "Season 1x8 : WORST IN THE EAST",
-                        "episode_number": 8.0
+                        "url": "/episode/loki-2x6/",
+                        "name": "Season 2x6 : Episode 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/episode/one-piece-1x7/",
-                        "name": "Season 1x7 : THE GIRL WITH THE SAWFISH TATTOO",
-                        "episode_number": 7.0
+                        "url": "/episode/loki-2x5/",
+                        "name": "Season 2x5 : Episode 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.net.ConnectException: Failed to connect to v906.streamhub.ink/175.110.112.7:443",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

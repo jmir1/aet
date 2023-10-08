@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70886/legendado",
+                                "title": "Bokura no Ameiro Protocol",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42843_background.jpg?v=1696716216"
+                            },
+                            {
                                 "url": "/episodio/70885/legendado",
                                 "title": "Buta no Liver wa Kanetsu Shiro",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42844_background.jpg?v=1696716624"
@@ -203,11 +208,6 @@
                             },
                             {
                                 "url": "/episodio/70863/legendado",
-                                "title": "The Girl Downstairs",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42842_background.jpg?v=1696715785"
-                            },
-                            {
-                                "url": "/episodio/70862/legendado",
                                 "title": "The Girl Downstairs",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42842_background.jpg?v=1696715785"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

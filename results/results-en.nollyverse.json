@@ -3,124 +3,12 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movie/barbie",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/barbie.jpg"
-                            },
-                            {
-                                "url": "/movie/oppenheimer",
-                                "title": "Oppenheimer",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/oppenheimer.jpg"
-                            },
-                            {
-                                "url": "/movie/mission-impossible-dead-reckoning-part-one",
-                                "title": "Mission: Impossible - Dead Reckoning Part One",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/mission-impossible-dead-reckoning-part-one.jpg"
-                            },
-                            {
-                                "url": "/movie/transformers-rise-of-the-beasts",
-                                "title": "Transformers: Rise of the Beasts",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/transformers-rise-of-the-beasts.jpg"
-                            },
-                            {
-                                "url": "/movie/spider-man-across-the-spider-verse",
-                                "title": "Spider-Man: Across the Spider-Verse",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/spider-man-across-the-spider-verse.jpg"
-                            },
-                            {
-                                "url": "/movie/fast-x",
-                                "title": "Fast X",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/fast-x.jpg"
-                            },
-                            {
-                                "url": "/movie/renfield",
-                                "title": "Renfield",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/renfield.jpg"
-                            },
-                            {
-                                "url": "/movie/john-wick-chapter-4",
-                                "title": "John Wick: Chapter 4",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/john-wick-chapter-4.jpg"
-                            },
-                            {
-                                "url": "/movie/shazam-fury-of-the-gods",
-                                "title": "Shazam! Fury of the Gods",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/shazam-fury-of-the-gods.jpg"
-                            },
-                            {
-                                "url": "/movie/65",
-                                "title": "65",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/65.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/gen-v",
-                                "title": "Gen V",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/gen-v.jpg"
-                            },
-                            {
-                                "url": "/serie/castlevania-nocturne",
-                                "title": "Castlevania: Nocturne",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/castlevania-nocturne.jpg"
-                            },
-                            {
-                                "url": "/serie/the-worst-of-evil",
-                                "title": "The Worst of Evil",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-worst-of-evil.jpg"
-                            },
-                            {
-                                "url": "/serie/fenris",
-                                "title": "Fenris",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/fenris.jpg"
-                            },
-                            {
-                                "url": "/serie/the-irrational",
-                                "title": "The Irrational",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-irrational.jpg"
-                            },
-                            {
-                                "url": "/serie/krapopolis",
-                                "title": "Krapopolis",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/krapopolis.jpg"
-                            },
-                            {
-                                "url": "/serie/song-of-the-bandits",
-                                "title": "Song of the Bandits",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/song-of-the-bandits.jpg"
-                            },
-                            {
-                                "url": "/serie/still-up",
-                                "title": "Still Up",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/still-up.jpg"
-                            },
-                            {
-                                "url": "/serie/the-continental-from-the-world-of-john-wick",
-                                "title": "The Continental: From the World of John Wick",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-continental-from-the-world-of-john-wick.jpg"
-                            },
-                            {
-                                "url": "/serie/miseducation",
-                                "title": "Miseducation",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/miseducation.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -164,10 +52,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/barbie",
-                    "title": "Barbie",
-                    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-                    "genre": "Adventure, Comedy, Fantasy",
+                    "url": "/movie/edge-of-the-world",
+                    "title": "Edge of the World",
+                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
+                    "genre": "Adventure, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -175,7 +63,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/barbie/download/",
+                        "url": "/movie/edge-of-the-world/download/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -185,24 +73,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "http://dl11.sermovie.bid/Movies/2023/Barbie.2023/Barbie.2023.HC.1080p.HDRip.AAC2.0.H.APEX.SoftSub.Sermovie.mkv",
-                        "quality": "1080p",
-                        "videoUrl": "http://dl11.sermovie.bid/Movies/2023/Barbie.2023/Barbie.2023.HC.1080p.HDRip.AAC2.0.H.APEX.SoftSub.Sermovie.mkv"
-                    },
-                    {
-                        "url": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.480p.HC.WEB-DL.x264-Pahe.FilmBan.mkv",
+                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
                         "quality": "480p",
-                        "videoUrl": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.480p.HC.WEB-DL.x264-Pahe.FilmBan.mkv"
+                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
                     },
                     {
-                        "url": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbei.2023.720p.HC.WEB-DL.x264-Pahe.FilmBan.mkv",
+                        "url": "https://dood.la/d/o16rzvmsv5u2",
                         "quality": "720p",
-                        "videoUrl": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbei.2023.720p.HC.WEB-DL.x264-Pahe.FilmBan.mkv"
-                    },
-                    {
-                        "url": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.INTERNAL.720p.10bit.HC.WEBRip.2CH.x265.HEVC-PSA.FilmBan.mkv",
-                        "quality": "720p.x265",
-                        "videoUrl": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.INTERNAL.720p.10bit.HC.WEBRip.2CH.x265.HEVC-PSA.FilmBan.mkv"
+                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
                     }
                 ],
                 "passed": true

@@ -3,29 +3,151 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/watch/ohsama-sentai-king-ohger.html",
+                                "title": "Ohsama Sentai King-Ohger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
+                                "url": "/watch/power-rangers-cosmic-fury.html",
+                                "title": "Power Rangers: Cosmic Fury",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/power-rangers-cosmic-fury-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-outsiders.html",
+                                "title": "Kamen Rider Outsiders",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-outsiders-thumb.png"
+                            },
+                            {
+                                "url": "/watch/bakuryuu-sentai-abaranger-20th-the-unforgivable-abare.html",
+                                "title": "Bakuryuu Sentai Abaranger 20th: The Unforgivable Abare",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuryuu-sentai-abaranger-20th-the-unforgivable-abare-thumb.png"
+                            },
+                            {
+                                "url": "/watch/messages-from-space-galaxy-wars.html",
+                                "title": "Messages From Space-Galaxy Wars",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/messages-from-space-galaxy-wars-thumb.png"
+                            },
+                            {
+                                "url": "/watch/voltes-v-legacy.html",
+                                "title": "Voltes V: Legacy",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/voltes-v-legacy-thumb.png"
+                            },
+                            {
+                                "url": "/watch/shoujo-commando-izumi.html",
+                                "title": "Shoujo Commando Izumi",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/shoujo-commando-izumi-thumb.png"
+                            },
+                            {
+                                "url": "/watch/super-combat-team-junretsuger.html",
+                                "title": "Super Combat Team Junretsuger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-combat-team-junretsuger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/metal-kaiser.html",
+                                "title": "Metal Kaiser",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/metal-kaiser-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kousoku-sentai-turboranger.html",
+                                "title": "Kousoku Sentai Turboranger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kousoku-sentai-turboranger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/sukeban-deka-iii-shojo-ninpo-cho-denki.html",
+                                "title": "Sukeban Deka III: Shojo Ninpo-cho Denki",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sukeban-deka-iii-shojo-ninpo-cho-denki-thumb.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/watch/ohsama-sentai-king-ohger.html",
+                    "title": "Ohsama Sentai King-Ohger",
+                    "author": "Year 2023",
+                    "description": "Ohsama Sentai King-Ohger (王様戦隊キングオージャー, Ōsama Sentai Kinguōjā, Kingship Squadron King-Ohger) is an upcoming Japanese tokusatsu television drama, the 47th installment in Toei Company’s long-running Super Sentai series and the fourth produced in the Reiwa era. This series is the first in the franchise where all of the main characters have an insect motif.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=32#watch",
+                        "name": "Episode 32",
+                        "episode_number": 32.0
+                    },
+                    {
+                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=31#watch",
+                        "name": "Episode 31",
+                        "episode_number": 31.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls32-eu.zcdn.stream/dea8d07b034cadf901557f3a01fbd407/2023-10-08/1080.m3u8?token=bb0773f05164c372da2131053deab64b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1696774101&type=edge&node=WP77F4mfWESiwgX7uo50L4QKf04BiMIhbvv6gMZT9IOeEpCmMqBwE8qY8-6pahK4bnErIhqDPcgK8sydJUwq8Evi2QHDgTOcpbl3vUDkS8esJeBAd3WXNIGRslHxpuoKMp2AIupFR5pNjegTdRTMmQTSPgqJ8U8T-bM9x8z86KI",
+                        "quality": "Chillx - 1080p",
+                        "videoUrl": "https://hls32-eu.zcdn.stream/dea8d07b034cadf901557f3a01fbd407/2023-10-08/1080.m3u8?token=bb0773f05164c372da2131053deab64b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1696774101&type=edge&node=WP77F4mfWESiwgX7uo50L4QKf04BiMIhbvv6gMZT9IOeEpCmMqBwE8qY8-6pahK4bnErIhqDPcgK8sydJUwq8Evi2QHDgTOcpbl3vUDkS8esJeBAd3WXNIGRslHxpuoKMp2AIupFR5pNjegTdRTMmQTSPgqJ8U8T-bM9x8z86KI",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https:///chillx.top/v/6UPqTYO8ia8T/"
+                        }
+                    },
+                    {
+                        "url": "https://hls32-eu.zcdn.stream/dea8d07b034cadf901557f3a01fbd407/2023-10-08/720.m3u8?token=bb0773f05164c372da2131053deab64b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1696774101&type=edge&node=WP77F4mfWESiwgX7uo50L4QKf04BiMIhbvv6gMZT9IOeEpCmMqBwE8qY8-6pahK4bnErIhqDPcgK8sydJUwq8Evi2QHDgTOcpbl3vUDkS8esJeBAd3WXNIGRslHxpuoKMp2AIupFR5pNjegTdRTMmQTSPgqJ8U8T-bM9x8z86KI",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls32-eu.zcdn.stream/dea8d07b034cadf901557f3a01fbd407/2023-10-08/720.m3u8?token=bb0773f05164c372da2131053deab64b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1696774101&type=edge&node=WP77F4mfWESiwgX7uo50L4QKf04BiMIhbvv6gMZT9IOeEpCmMqBwE8qY8-6pahK4bnErIhqDPcgK8sydJUwq8Evi2QHDgTOcpbl3vUDkS8esJeBAd3WXNIGRslHxpuoKMp2AIupFR5pNjegTdRTMmQTSPgqJ8U8T-bM9x8z86KI",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https:///chillx.top/v/6UPqTYO8ia8T/"
+                        }
+                    },
+                    {
+                        "url": "https://hls32-eu.zcdn.stream/dea8d07b034cadf901557f3a01fbd407/2023-10-08/360.m3u8?token=bb0773f05164c372da2131053deab64b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1696774101&type=edge&node=WP77F4mfWESiwgX7uo50L4QKf04BiMIhbvv6gMZT9IOeEpCmMqBwE8qY8-6pahK4bnErIhqDPcgK8sydJUwq8Evi2QHDgTOcpbl3vUDkS8esJeBAd3WXNIGRslHxpuoKMp2AIupFR5pNjegTdRTMmQTSPgqJ8U8T-bM9x8z86KI",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls32-eu.zcdn.stream/dea8d07b034cadf901557f3a01fbd407/2023-10-08/360.m3u8?token=bb0773f05164c372da2131053deab64b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1696774101&type=edge&node=WP77F4mfWESiwgX7uo50L4QKf04BiMIhbvv6gMZT9IOeEpCmMqBwE8qY8-6pahK4bnErIhqDPcgK8sydJUwq8Evi2QHDgTOcpbl3vUDkS8esJeBAd3WXNIGRslHxpuoKMp2AIupFR5pNjegTdRTMmQTSPgqJ8U8T-bM9x8z86KI",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https:///chillx.top/v/6UPqTYO8ia8T/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
