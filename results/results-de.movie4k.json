@@ -117,26 +117,15 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=64f29abb650f6041499f48c7",
-                    "title": "The Equalizer 3 - The Final Chapter",
-                    "description": "Robert McCall (Denzel Washington) plagt das eigene Gewissen. Als Auftragsmörder für die eigene Regierung hat er in der Vergangenheit viele Dinge tun müssen, die er nun nicht mehr mit seinen Wertevorstellungen übereinbringen kann. Im malerischen Süditalien versucht McCall nach einer brutalen Auseinandersetzung mit Drogenschmugglern ein neues Leben zu beginnen und sich in den Killer-Ruhestand zu begeben. Doch die Frieden ist ein trügerischer, denn schnell wird ihm klar, dass auch hier finstere Mächte das Sagen haben. Um seine neuen Freunde zu beschützen, muss er noch einmal aufmunitionieren und auf altbekannte Methoden zurückgreifen. Denn hinter alldem steckt die Mafia.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=64f29abb650f6041499f48c7",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/cover/8f551e12.jpg"
+                            },
+                            {
                                 "url": "//bokura-no-ameiro-protocol",
                                 "title": "Bokura no Ameiro Protocol",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Captain Tsubasa (2018)",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/captain-tsubasa-2018/cover/4265ee87.jpg"
-                            },
-                            {
-                                "url": "//seiken-gakuin-no-makentsukai",
-                                "title": "Seiken Gakuin no Makentsukai",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/seiken-gakuin-no-makentsukai/cover/b6af583b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/cover/8f551e12.jpg"
+                            },
+                            {
                                 "url": "//bokura-no-ameiro-protocol",
                                 "title": "Bokura no Ameiro Protocol",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Captain Tsubasa (2018)",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/captain-tsubasa-2018/cover/4265ee87.jpg"
-                            },
-                            {
-                                "url": "//seiken-gakuin-no-makentsukai",
-                                "title": "Seiken Gakuin no Makentsukai",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/seiken-gakuin-no-makentsukai/cover/b6af583b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,37 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//bokura-no-ameiro-protocol",
-                    "title": "Bokura no Ameiro Protocol",
-                    "description": "Shun Tokinoya es un estudiante de instituto que empieza a trabajar en una cafetería de e-sports, FOX ONE, después de que su padre fallezca accidentalmente. La cafetería está en graves problemas económicos, y para pagar la deuda, Shun y sus amigos entrarán en un torneo de e-sports para ganar el premio y saldar las deudas.",
-                    "genre": "Acción, Game, Otoño 2023",
+                    "url": "//kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
+                    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                    "description": "Tras graduarse de la secundaria, Rentarou Aijou confiesa sus sentimientos y es rechazado por enésima vez. Visita un santuario de emparejamiento y el dios promete cien almas gemelas en la preparatoria. Dos de ellas, Hakari Hanazono y Karane Inda, confiesan su amor el mismo día. Pero Rentarou descubre que si alguna alma gemela no logra establecer una relación con él, morirá. Ahora, en una situación de vida o muerte, decide salir con todas ellas, haciendo crecer su peculiar familia.",
+                    "genre": "Comedia, Escolares, Harem, Romance, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/bokura-no-ameiro-protocol/cover/118a24c8.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/cover/8f551e12.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/bokura-no-ameiro-protocol-1",
-                        "name": "Episodio 1.0",
-                        "date_upload": 1696636800000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=oLJr2eZwGGHv3g&expires=1696815501&ip=F0OSKRqOKxSHDN&token=C1D7yDKdYQ0y",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=oLJr2eZwGGHv3g&expires=1696815501&ip=F0OSKRqOKxSHDN&token=C1D7yDKdYQ0y"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

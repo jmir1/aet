@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-idolmster-million-live/",
+                                "title": "The iDOLM@STER Million Live!",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/1200px-TVMillionAnimeKV.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/kibou-no-chikara-otona-precure-23/",
                                 "title": "Kibou no Chikara: Otona Precure '23",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Kibou-no-Chikara-Otona-Precure-23-wp2.webp?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/",
                                 "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.28_16h13m28s_003_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/castlevania-nocturne/",
-                                "title": "Castlevania: Nocturne",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.28_14h34m19s_001_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,24 +349,36 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kibou-no-chikara-otona-precure-23/",
-                    "title": "Kibou no Chikara: Otona Precure '23",
-                    "description": "انمي جديد سيتبع يومهارا نوزومي كشخص بالغ.",
-                    "genre": "أكشن, مدرسي, فنتازيا, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/the-idolmster-million-live/",
+                    "title": "The iDOLM@STER Million Live!",
+                    "description": "القصة تتحدث عن المراحل الأولية لأداء ميراي كاسوغا والايدولز الأخريات.",
+                    "genre": "موسيقي, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Kibou-no-Chikara-Otona-Precure-23-wp2.webp?fit=546%2C800&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/1200px-TVMillionAnimeKV.jpg?fit=725%2C1024&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-idolmster-million-live-الحلقة-1/",
+                        "name": "الحلقة 00",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://nt34no-12.vidboo.org/6jmnvnes3iazsalrixoaf2hqlc6cgnwhe76c4voxbshmzi5hh75lsyyl5u3a/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://nt34no-12.vidboo.org/6jmnvnes3iazsalrixoaf2hqlc6cgnwhe76c4voxbshmzi5hh75lsyyl5u3a/v.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

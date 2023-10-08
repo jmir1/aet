@@ -247,6 +247,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/cd4f1673-2999-41bb-98b5-9527263bc2f8.webp"
                             },
                             {
+                                "url": "6739-talk-to-me",
+                                "title": "Talk to Me",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/291aaffd-544a-4c78-b77c-cb54764763f8.webp"
+                            },
+                            {
                                 "url": "6717-la-casa-dei-fantasmi",
                                 "title": "La casa dei fantasmi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f884cede-db81-43e7-8e4b-ef25124a50be.webp"
@@ -300,11 +305,6 @@
                                 "url": "6115-terrifier-2",
                                 "title": "Terrifier 2",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/6d9b9bff-2883-4d42-89ca-22ee304a0622.webp"
-                            },
-                            {
-                                "url": "6701-insidious-la-porta-rossa",
-                                "title": "Insidious - La porta rossa",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/879184f5-8f37-409b-bde9-d4695c0a20e2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "6739-talk-to-me",
+                                "title": "Talk to Me",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/291aaffd-544a-4c78-b77c-cb54764763f8.webp"
+                            },
                             {
                                 "url": "6738-assassinio-a-venezia",
                                 "title": "Assassinio a Venezia",
@@ -610,11 +615,6 @@
                                 "url": "6667-justified-city-primeval",
                                 "title": "Justified: City Primeval",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/a1316b7d-746a-4b5d-9d48-2b7174d3568d.webp"
-                            },
-                            {
-                                "url": "6666-the-equalizer-3-senza-tregua",
-                                "title": "The Equalizer 3 - Senza tregua",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/40869e2f-82f3-4e3c-9e42-438b80c14df5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.black/iframe/6730?episode_id=43098\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.black/iframe/6730?episode_id=43098\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-7754370493183604386/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-7754370493183604386/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-7754370493183604386/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-7754370493183604386/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
