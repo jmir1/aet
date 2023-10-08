@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo_11768.webp?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/the-idolmster-million-live/",
                                 "title": "The iDOLM@STER Million Live!",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/1200px-TVMillionAnimeKV.jpg?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/ojou-to-banken-kun/",
                                 "title": "Ojou to Banken-kun",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.29_13h06m17s_003_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/",
-                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.28_16h13m28s_003_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,36 +349,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-idolmster-million-live/",
-                    "title": "The iDOLM@STER Million Live!",
-                    "description": "القصة تتحدث عن المراحل الأولية لأداء ميراي كاسوغا والايدولز الأخريات.",
-                    "genre": "موسيقي, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/",
+                    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                    "description": "عند تخرُّجِهِ من المدرسة الإعدادية، تمكن “أيجو رينتارو” من الاعتراف للفتاة التي يحبها. لسوء الحظ، تم رفضه، مما يجعله الرفض رَقْم 100 على التوالي. بعد أن كسر قلبه عدة مرات، ذهب إلى الضريح ويصلي على أمل الحصول على حبيبة في المدرسة الثانوية. فجأة، يظهر إله الضريح، واعدًا “رينتارو” بأنه سيلتقي بمئة شريكة في الثانوية. بالرغم من عدم يقينه في البداية، سرعان ما يُصَدِّق “رينتارو” بالحقيقة وراء كلمات الإله عندما اعترفت له فتاتان بحبهما، “هانازونو هاكاري” و”إندا كاران“، في نفس اليوم الذي قابلوه فيه. ومع ذلك، كان هناك توضيح واحد نسي الإله إخبار “رينتارو” به، إذا فشلت أي من شريكاته في الدخول في عَلاقة به، فسوف يموتون. الآن محاصر في مسألة حياة أو موت، ليقرر “رينتارو” مواعدة جميع شريكاته. بقلب كبير جدًا بحيث يمكن حب مئة صديقة، يستفيد “رينتارو” إلى أقصى حد من حياته في الثانوية الغير متوقعة، كما تنمو عائلة “رينتارو” بشكل أكبر!",
+                    "genre": "حريم, رومانسي, كوميدي, مدرسي, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/1200px-TVMillionAnimeKV.jpg?fit=725%2C1024&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/kimi_no_koto_ga_dai_dai_dai_dai_daisuki_na_100-nin_no_kanojo_11768.webp?fit=708%2C1000&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/the-idolmster-million-live-الحلقة-1/",
-                        "name": "الحلقة 00",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://nt34no-12.vidboo.org/6jmnvnes3iazsalrixoaf2hqlc6cgnwhe76c4voxbshmzi5hh75lsyyl5u3a/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://nt34no-12.vidboo.org/6jmnvnes3iazsalrixoaf2hqlc6cgnwhe76c4voxbshmzi5hh75lsyyl5u3a/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

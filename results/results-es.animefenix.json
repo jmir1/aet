@@ -326,8 +326,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",

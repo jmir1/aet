@@ -694,12 +694,25 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1696723200000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=YZmZ64oZLwtdjL&expires=1696858684&ip=FROsE0EnDS9X&token=y3X5NJsWUPMb",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=YZmZ64oZLwtdjL&expires=1696858684&ip=FROsE0EnDS9X&token=y3X5NJsWUPMb"
+                    }
+                ],
+                "passed": true
             }
         }
     }
