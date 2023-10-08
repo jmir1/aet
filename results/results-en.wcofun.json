@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/bokura-no-ameiro-protocol",
+                                "title": "Bokura no Ameiro Protocol",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933196.jpg"
+                            },
+                            {
+                                "url": "/anime/potion-danomi-de-ikinobimasu",
+                                "title": "Potion-danomi de Ikinobimasu!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933195.jpg"
+                            },
+                            {
+                                "url": "/anime/buta-no-liver-wa-kanetsu-shiro",
+                                "title": "Buta no Liver wa Kanetsu Shiro",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933194.jpg"
+                            },
+                            {
                                 "url": "/anime/kibou-no-chikara-otona-precure-23",
                                 "title": "Kibou no Chikara: Otona Precure '23",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933193.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/under-ninja-english-subbed",
                                 "title": "Under Ninja English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933181.jpg"
-                            },
-                            {
-                                "url": "/anime/yuzuki-san-chi-no-yonkyoudai",
-                                "title": "Yuzuki-san Chi no Yonkyoudai.",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933180.jpg"
-                            },
-                            {
-                                "url": "/anime/pariah-nexus",
-                                "title": "Pariah Nexus",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933179.jpg"
-                            },
-                            {
-                                "url": "/anime/kamierabi",
-                                "title": "Kamierabi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933178.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kibou-no-chikara-otona-precure-23",
-                    "title": "Kibou no Chikara: Otona Precure '23",
-                    "description": "A new anime project that follows Yumehara Nozomi as an adult.",
-                    "genre": "Action, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933193.jpg",
+                    "url": "/anime/bokura-no-ameiro-protocol",
+                    "title": "Bokura no Ameiro Protocol",
+                    "description": "Shun Tokinoya is a second-year high school student who lives with his mother and younger sister. After his father was killed in an accident and his sister was injured, he quit the game he loved and now works at an esports café called “FOX ONE.” He spends all of his time studying and working part-time, while also socializing with his childhood gaming buddies. Suddenly, he discovers that “FOX ONE” is deeply in debt. Shun and his friends hope to win the “Xaxerion Championship” and the prize money in order to repay their debts. Shun returns to the world of online games, where he is confronted by Bakuretsu-kun, who used to play the game with him.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933196.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/bokura-no-ameiro-protocol-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnQhHf0dw5Vxfp8mvgBq0sgbf1VRcKAi2B2VM3xRwUGMKbjipZ0pPdFfwhoJrragqGhB7annlFRKE_1Mofr3fY4vfWno0tlwz3i37Jhoyo4_MuEh_Ot1gexU_h9ookdiM9ZQTUIIkobF3iDVbm2QvraZT0EPNVcFvfeG161bvCERJ4Iu4C_stxjG5R7FMN2XqA40FfQ2NE1X0gDvYvkIELUNDvKBCzk4ROU84049YX2b9mjODwSRiRq-crd1xBSzbqHBxBFo_Fv7ik8B3KYCFUZDFuke6cUZiBnOPo6J4R6H3wNq31warWMbBCB0qmFgA97yvTOe-uWhheHITsg1T8ANm-WMGz4sNlC5OFL6ptLH",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnQhHf0dw5Vxfp8mvgBq0sgbf1VRcKAi2B2VM3xRwUGMKbjipZ0pPdFfwhoJrragqGhB7annlFRKE_1Mofr3fY4vfWno0tlwz3i37Jhoyo4_MuEh_Ot1gexU_h9ookdiM9ZQTUIIkobF3iDVbm2QvraZT0EPNVcFvfeG161bvCERJ4Iu4C_stxjG5R7FMN2XqA40FfQ2NE1X0gDvYvkIELUNDvKBCzk4ROU84049YX2b9mjODwSRiRq-crd1xBSzbqHBxBFo_Fv7ik8B3KYCFUZDFuke6cUZiBnOPo6J4R6H3wNq31warWMbBCB0qmFgA97yvTOe-uWhheHITsg1T8ANm-WMGz4sNlC5OFL6ptLH"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnQhHf0dw5Vxfp8mvgBq0sgbf1VRcKAi2B2VM3xRwUGMKbjipZ0pPdFfwhoJrragqGhB7annlFRKE_1Mofr3fY4vfWno0tlwz3i37Jhoyo4_d-HGfa2USSjihj9gJMUVf8nMjMtoa36NJs0rqZNcyGGU5eXbAL_1fRl_YNAyyvpzXnxejMKByEDRb0k-L0WzBemqCa3BFQDosb1o0OC5UbAjFiLFyjIsVpPtUOYEd6FKKHn5U_QMplj6XLerzb7BblexvCDOqDROKMg9Aw83LL7ctcZpHNXx7uThhfXNKGGTFSoNpl9CqaB5PIbu4jCg37x1tun6yI0s_shV_peIlbZm7V7XDFx0Mi0eILKoJQBL",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnQhHf0dw5Vxfp8mvgBq0sgbf1VRcKAi2B2VM3xRwUGMKbjipZ0pPdFfwhoJrragqGhB7annlFRKE_1Mofr3fY4vfWno0tlwz3i37Jhoyo4_d-HGfa2USSjihj9gJMUVf8nMjMtoa36NJs0rqZNcyGGU5eXbAL_1fRl_YNAyyvpzXnxejMKByEDRb0k-L0WzBemqCa3BFQDosb1o0OC5UbAjFiLFyjIsVpPtUOYEd6FKKHn5U_QMplj6XLerzb7BblexvCDOqDROKMg9Aw83LL7ctcZpHNXx7uThhfXNKGGTFSoNpl9CqaB5PIbu4jCg37x1tun6yI0s_shV_peIlbZm7V7XDFx0Mi0eILKoJQBL"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnQhHf0dw5Vxfp8mvgBq0sgbf1VRcKAi2B2VM3xRwUGMKbjipZ0pPdFfwhoJrragqGhB7annlFRKE_1Mofr3fY4vfWno0tlwz3i37Jhoyo4_JD_w1VzOc7sKwifdNYaI-RdSPmfhKNEq-oMYNlinMGVZ2CyMWTTnk8alH4T3f7d2wat9qiPuHIKGCtO2ZtmIdfXwRrR3HAWzwfvSlMXQEMryKKoyRXPjDsfvmqcWkXeZV4xj5Jf2ID8Hy0FzIUG3euAwD24yEGM-_GIVpqxAjbPh9HV5NosjxExZLPxxSmX1N7-rjUu1uYlpTvHMprGNE1qkRS9ZcayZdwmTrDkIwnM",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnQhHf0dw5Vxfp8mvgBq0sgbf1VRcKAi2B2VM3xRwUGMKbjipZ0pPdFfwhoJrragqGhB7annlFRKE_1Mofr3fY4vfWno0tlwz3i37Jhoyo4_JD_w1VzOc7sKwifdNYaI-RdSPmfhKNEq-oMYNlinMGVZ2CyMWTTnk8alH4T3f7d2wat9qiPuHIKGCtO2ZtmIdfXwRrR3HAWzwfvSlMXQEMryKKoyRXPjDsfvmqcWkXeZV4xj5Jf2ID8Hy0FzIUG3euAwD24yEGM-_GIVpqxAjbPh9HV5NosjxExZLPxxSmX1N7-rjUu1uYlpTvHMprGNE1qkRS9ZcayZdwmTrDkIwnM"
+                    }
+                ],
+                "passed": true
             }
         }
     }
