@@ -37,6 +37,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/279594",
+                                "title": "Eiyuu Kyoushitsu - Dublado ep 11",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279594/1.jpg"
+                            },
+                            {
+                                "url": "/videos/279590",
+                                "title": "Dark Gathering ep 14",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279590/1.jpg"
+                            },
+                            {
+                                "url": "/videos/279475",
+                                "title": "Kimetsu no Yaiba 3: Katanakaji no Sato-hen - Dublado ep 4",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279475/1.jpg"
+                            },
+                            {
+                                "url": "/videos/279474",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu - Dublado ep 11",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279474/1.jpg"
+                            },
+                            {
                                 "url": "/videos/279425",
                                 "title": "MF Ghost ep 2",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279425/1.jpg"
@@ -175,26 +195,6 @@
                                 "url": "/videos/279345",
                                 "title": "Megumi no Daigo: Kyuukoku no Orange ep 2",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279345/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279341",
-                                "title": "Beyblade Burst QuadStrike - Dublado ep 10",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279341/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279339",
-                                "title": "Undead Unluck ep 1",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279339/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279333",
-                                "title": "Shadowverse Flame: Seven Shadows-hen ep 14",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279333/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279330",
-                                "title": "Yu-Gi-Oh!: Go Rush!! ep 78",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279330/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -348,44 +348,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/263139",
-                        "name": "Naruto Shippuden ep 500 - FINAL",
-                        "date_upload": 1490259240000,
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/videos/249788",
-                        "name": "Naruto Shippuden ep 499",
-                        "date_upload": 1525478400000,
-                        "episode_number": 499.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             }
         }
     }

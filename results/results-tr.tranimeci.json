@@ -3187,44 +3187,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/video/hua-jianghu-buliang-ren-6-12-bolum",
-                        "name": "Bölüm 12",
-                        "date_upload": 1683763200000,
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/video/hua-jianghu-buliang-ren-6-11-bolum",
-                        "name": "Bölüm 11",
-                        "date_upload": 1683158400000,
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://video-streaming-vip.xyz/api/v1/5d68c596d4db947ec6f1b132b8eb905f363a9255cc96e53df3fb463470d4b6a7",
-                        "quality": "720p",
-                        "videoUrl": "https://video-streaming-vip.xyz/api/v1/5d68c596d4db947ec6f1b132b8eb905f363a9255cc96e53df3fb463470d4b6a7",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://tranimeci.com/"
-                        }
-                    },
-                    {
-                        "url": "https://video-streaming-vip.xyz/api/v1/5d94763deba3d937dd95a0c2a8a6199fb17179baeb212a0f1d3e79919290b4dc",
-                        "quality": "480p",
-                        "videoUrl": "https://video-streaming-vip.xyz/api/v1/5d94763deba3d937dd95a0c2a8a6199fb17179baeb212a0f1d3e79919290b4dc",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://tranimeci.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
