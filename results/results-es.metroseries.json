@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/alem-do-tempo/",
+                                "title": "Além do Tempo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg"
+                            },
+                            {
+                                "url": "/ella-camina-sola/",
+                                "title": "Ella Camina Sola",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yV3rA5kDiTCK7tEHbXisxhQ3cSt.jpg"
+                            },
+                            {
                                 "url": "/gulcemal/",
                                 "title": "Gülcemal",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/lK55aBNoDDcOQ8Et25739YYyjRI.jpg"
@@ -47,19 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
                             },
                             {
-                                "url": "/okashi-na-tensei-saikyou-patishie-isekai-kourin/",
-                                "title": "Okashi na Tensei: Saikyou Patishie Isekai Kourin",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dPmbLLoCgvdxsG0kpm8mF9aY4fK.jpg"
-                            },
-                            {
-                                "url": "/the-irrational/",
-                                "title": "The Irrational",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg"
-                            },
-                            {
-                                "url": "/la-novia-de-estambul/",
-                                "title": "La Novia de Estambul",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/alVrRNxDGOlULYdXgnOpPrVP7KL.jpg"
+                                "url": "/niebla-de-invierno/",
+                                "title": "Niebla de invierno",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vI23w796RfqWHlRKEcN4N6bD2DY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/el-galan-la-tv-cambio-el-no/",
-                                "title": "El galán. La TV cambió, él no.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2hO8M9w1nNisfK5gD81HpW1woQy.jpg"
+                                "url": "/los-doce-reinos-capitulos-completos-latino-hd-online/",
+                                "title": "12 reinos",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/10/uYwrFazyTxfaB3RytdcRZLfN2ig-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,54 +134,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/gulcemal/",
-                    "title": "Gülcemal",
-                    "description": "Se trata del amor de Gulcemal, a quien su madre abandonó cuando era un niño y lo convirtió en un monstruo oscuro, y la hermosa Deva, que comenzó con odio y luego se deslizó hacia el torbellino de fuego, pasión y tormenta. ¿Prevalecerá el rencor que ha albergado durante años? ¿Gulcemal pasará de ser un cazador feroz a una cacería abierta en este camino lleno de costos? ¿Qué pasa con Deva? Cuando finalmente se entregue, ¿comprenderá que este amor es imposible?",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lK55aBNoDDcOQ8Et25739YYyjRI.jpg",
+                    "url": "/alem-do-tempo/",
+                    "title": "Além do Tempo",
+                    "description": "A través del tiempo, La trama se desarrolla en el siglo xix, y cuenta la historia de un amor imposible, pero tan fuerte que ni siquiera la muerte puede separar. Livia (Alinne Moraes) y Felipe (Rafael Cardoso) son de diferentes clases sociales: ella es una joven humilde, obligada a vivir en el convento de la ciudad por imposición de su madre, Emilia (Ana Beatriz Nogueira); él es un noble conde, sobrino nieto de la poderosa condesa Victoria (Irene Ravache) en la víspera de casarse con la bella Melissa (Paolla Oliveira).",
+                    "genre": "Drama, Soap",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/gulcemal-temporada-1-capitulo-10/",
-                        "name": "T1 - E10 - Episodio 10",
-                        "date_upload": 1686787200000
-                    },
-                    {
-                        "url": "/episode/gulcemal-temporada-1-capitulo-9/",
-                        "name": "T1 - E09 - Episodio 9",
-                        "date_upload": 1685577600000
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://enc2.fastream.to/hls2/01/00059/9hgqyk22dz5z_,l,o,.urlset/index-f2-v1-a1.m3u8?t=Q-RsPJHCHbZy1HcQY6uvlkBrOiZ48pHkTCXPx8fkGD0&s=1696831741&e=43200&f=299053&i=0.0&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00059/9hgqyk22dz5z_,l,o,.urlset/index-f2-v1-a1.m3u8?t=Q-RsPJHCHbZy1HcQY6uvlkBrOiZ48pHkTCXPx8fkGD0&s=1696831741&e=43200&f=299053&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/01/00059/9hgqyk22dz5z_,l,o,.urlset/index-f1-v1-a1.m3u8?t=Q-RsPJHCHbZy1HcQY6uvlkBrOiZ48pHkTCXPx8fkGD0&s=1696831741&e=43200&f=299053&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/01/00059/9hgqyk22dz5z_,l,o,.urlset/index-f1-v1-a1.m3u8?t=Q-RsPJHCHbZy1HcQY6uvlkBrOiZ48pHkTCXPx8fkGD0&s=1696831741&e=43200&f=299053&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
