@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/70899/legendado",
+                                "title": "Ao no Orchestra",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42675_background.jpg?v=1681417296"
+                            },
+                            {
+                                "url": "/episodio/70898/legendado",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42814_background.jpg?v=1696107660"
+                            },
+                            {
                                 "url": "/episodio/16094/dublado",
                                 "title": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/271_background.jpg?v=1598364996"
@@ -200,16 +210,6 @@
                                 "url": "/episodio/70883/legendado",
                                 "title": "Detective Conan",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1498_background.jpg?v=1596926181"
-                            },
-                            {
-                                "url": "/episodio/70882/legendado",
-                                "title": "The Girl Downstairs",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42842_background.jpg?v=1696715785"
-                            },
-                            {
-                                "url": "/episodio/70881/legendado",
-                                "title": "The Girl Downstairs",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42842_background.jpg?v=1696715785"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
