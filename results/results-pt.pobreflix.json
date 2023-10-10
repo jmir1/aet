@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/filmes/assistir-missao-impossivel-acerto-de-contas-parte-1-online/",
+                                "title": "Missão: Impossível – Acerto de Contas Parte 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8hjno4uE19pm0qlfUDcM8e5WK13.jpg"
+                            },
+                            {
                                 "url": "/series/assistir-loki/",
                                 "title": "Loki",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/7TaWAfUTMOAAI1SPdAihXD2RIaj.jpg"
@@ -60,11 +65,6 @@
                                 "url": "/series/assistir-the-walking-dead-daryl-dixon-online/",
                                 "title": "The Walking Dead: Daryl Dixon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
-                            },
-                            {
-                                "url": "/series/assistir-impuros-online/",
-                                "title": "Impuros",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vgdOEAAtH9hyJ5mZye8uKMaFV0X.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -444,11 +444,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/assistir-loki/",
-                    "title": "Loki",
-                    "description": "Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.\n",
-                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/7TaWAfUTMOAAI1SPdAihXD2RIaj.jpg",
+                    "url": "/filmes/assistir-missao-impossivel-acerto-de-contas-parte-1-online/",
+                    "title": "Missão: Impossível – Acerto de Contas Parte 1",
+                    "description": "Ethan Hunt e sua equipe embarcam em sua missão mais perigosa: rastrear uma nova arma aterrorizante que ameaça toda a humanidade antes que caia em mãos erradas. Com o controle do futuro e o destino do mundo em jogo e as forças sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo começa. Confrontado por um inimigo misterioso e todo-poderoso, Ethan é forçado a considerar que nada pode importar mais do que sua missão – nem mesmo a vida daqueles com quem ele mais se importa.\n",
+                    "genre": "Ação, Aventura, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8hjno4uE19pm0qlfUDcM8e5WK13.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -456,23 +456,26 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodios/assistir-loki-2x6-online/",
-                        "name": "Temporada 2 x 6 - Episódio 6",
-                        "date_upload": 1699488000000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodios/assistir-loki-2x5-online/",
-                        "name": "Temporada 2 x 5 - Episódio 5",
-                        "date_upload": 1698883200000,
-                        "episode_number": 5.0
+                        "url": "/filmes/assistir-missao-impossivel-acerto-de-contas-parte-1-online/",
+                        "name": "Filme",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/m/y/d/p/mydpn.caa.mp4?u=0&b=0",
+                        "quality": "Dublado - 480p",
+                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/m/y/d/p/mydpn.caa.mp4?u=0&b=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://painelfxtv.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
