@@ -175,16 +175,16 @@
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/komi-san-wa-comyushou-desu.jpg"
                             },
                             {
-                                "url": "/5-toubun-no-hanayome-2/",
-                                "title": "5-toubun no Hanayome ∬",
-                                "description": "Segunda temporada de 5-toubun no Hanayome.",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/5-toubun-no-hanayome-2.jpg"
-                            },
-                            {
                                 "url": "/kage-no-jitsuryokusha-ni-naritakute/",
                                 "title": "Kage no Jitsuryokusha ni Naritakute!",
                                 "description": "Cid Kagenou sueña con convertirse en la mente maestra detrás de todo, tanto héroes como villanos. Su vida anterior, como un hombre normal en la Japón moderna, no le permitía cumplir sus sueños, pero ahora que está en un mundo lleno de magia, quizás pueda alcanzarlos. Cid aparenta ser un mafioso cualquiera, mientras recluta nuevos miembros a su organización ficticia, que desea acabar con una…",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/kage-no-jitsuryokusha-ni-naritakute.jpg"
+                            },
+                            {
+                                "url": "/5-toubun-no-hanayome-2/",
+                                "title": "5-toubun no Hanayome ∬",
+                                "description": "Segunda temporada de 5-toubun no Hanayome.",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/5-toubun-no-hanayome-2.jpg"
                             },
                             {
                                 "url": "/yakusoku-no-neverland-2nd-season/",
@@ -501,7 +501,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
