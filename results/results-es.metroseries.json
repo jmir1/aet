@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/chimera/",
+                                "title": "Chimera",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1lBRXHY81ynxpTXqwKHJFGKpShE.jpg"
+                            },
+                            {
+                                "url": "/aislados-con-la-suegra/",
+                                "title": "Aislados con la suegra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/stfypoxAkG6gXU4fySq20fnbKqJ.jpg"
+                            },
+                            {
                                 "url": "/alem-do-tempo/",
                                 "title": "Além do Tempo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg"
@@ -47,19 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/7grqZHh5uURi8ZENZwS5O6xezPS.jpg"
                             },
                             {
-                                "url": "/aqui-nos-volvemos-a-encontrar/",
-                                "title": "Aquí nos volvemos a encontrar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lVZ49GipU3JCxSPHhTUCbbaP58F.jpg"
-                            },
-                            {
-                                "url": "/nam-soon-una-chica-superfuerte/",
-                                "title": "Nam-soon, una chica superfuerte",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
-                            },
-                            {
-                                "url": "/nisman-el-fiscal-la-presidenta-y-el-espia/",
-                                "title": "Nisman: El fiscal, la presidenta y el espía",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/01/AmMNOhbRCxyE2d4TGb3pxs88HQA-226x339.jpg"
+                                "url": "/asesinato-en-schull/",
+                                "title": "Asesinato en Schull",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mQALUVBqCCndu4wkO0ha6LCWKZo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/la-chica-invisible-2023/",
-                                "title": "La chica invisible (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mWhrp5dUecS6dsxVYcOpwRe2Idt.jpg"
+                                "url": "/the-republic-of-sarah/",
+                                "title": "The Republic of Sarah",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/egotOnlmUCFhEGdz1ifW1gzX6cY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,22 +134,74 @@
             },
             "details": {
                 "result": {
-                    "url": "/alem-do-tempo/",
-                    "title": "Além do Tempo",
-                    "description": "A través del tiempo, La trama se desarrolla en el siglo xix, y cuenta la historia de un amor imposible, pero tan fuerte que ni siquiera la muerte puede separar. Livia (Alinne Moraes) y Felipe (Rafael Cardoso) son de diferentes clases sociales: ella es una joven humilde, obligada a vivir en el convento de la ciudad por imposición de su madre, Emilia (Ana Beatriz Nogueira); él es un noble conde, sobrino nieto de la poderosa condesa Victoria (Irene Ravache) en la víspera de casarse con la bella Melissa (Paolla Oliveira).",
-                    "genre": "Drama, Soap",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tGhSmjzjtEuzIRNsVmdbQXaWShs.jpg",
+                    "url": "/chimera/",
+                    "title": "Chimera",
+                    "description": "키마이라 Se trata de buscar al verdadero criminal detrás de un caso moderno que parece estar relacionado con una serie de asesinatos en serie en 1984 provocados por un atentado, conocido como \"Chimera Incident\".",
+                    "genre": "Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1lBRXHY81ynxpTXqwKHJFGKpShE.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/chimera-temporada-1-capitulo-5/",
+                        "name": "T1 - E05 - Episodio 5",
+                        "date_upload": 1636761600000
+                    },
+                    {
+                        "url": "/episode/chimera-temporada-1-capitulo-4/",
+                        "name": "T1 - E04 - Episodio 4",
+                        "date_upload": 1636243200000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00059/8oivq5c6yljt_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=m-GWYAz29-yU-HTT20kFjMPrETvnei8RRjY1tCYgDwA&s=1696918148&e=43200&f=298705&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
