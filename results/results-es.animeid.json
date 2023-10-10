@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//houkago-shounen-hanako-kun",
+                                "title": "Houkago Shounen Hanako-kun",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/houkago-shounen-hanako-kun/cover/a3889310.jpg"
+                            },
+                            {
                                 "url": "//kawagoe-boys-sing",
                                 "title": "Kawagoe Boys Sing",
                                 "description": "",
@@ -215,12 +221,6 @@
                                 "title": "Watashi no Oshi wa Akuyaku Reijou",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/watashi-no-oshi-wa-akuyaku-reijou/cover/2b4358a1.jpg"
-                            },
-                            {
-                                "url": "//shy",
-                                "title": "Shy",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/shy/cover/52b67cdf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -233,6 +233,12 @@
                     {
                         "animes": [
                             {
+                                "url": "//houkago-shounen-hanako-kun",
+                                "title": "Houkago Shounen Hanako-kun",
+                                "description": "",
+                                "thumbnail_url": "https://static.animeid.tv/art/houkago-shounen-hanako-kun/cover/a3889310.jpg"
+                            },
+                            {
                                 "url": "//kawagoe-boys-sing",
                                 "title": "Kawagoe Boys Sing",
                                 "description": "",
@@ -441,12 +447,6 @@
                                 "title": "Watashi no Oshi wa Akuyaku Reijou",
                                 "description": "",
                                 "thumbnail_url": "https://static.animeid.tv/art/watashi-no-oshi-wa-akuyaku-reijou/cover/2b4358a1.jpg"
-                            },
-                            {
-                                "url": "//shy",
-                                "title": "Shy",
-                                "description": "",
-                                "thumbnail_url": "https://static.animeid.tv/art/shy/cover/52b67cdf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -682,37 +682,24 @@
             },
             "details": {
                 "result": {
-                    "url": "//kawagoe-boys-sing",
-                    "title": "Kawagoe Boys Sing",
-                    "description": "Tenshi formaba parte de un coro cuando era un niño y adora cantar, pero no tiene valor para cantar ante un público, así que se conforma con una de estudiante tranquila y sin estrés. Pero su paz se convierte en caos cuando conoce a Haruo, un antiguo director que forma un coro masculino para intentar restaurar su antiguo prestigio. Tenshi y otros chicos aceptan participar, aunque tienen sus dudas. Pese al comportamiento de Haruo, a estos chicos les encanta cantar y aspiran a ganar a nivel nacional.",
-                    "genre": "Escolares, Música, Oto, Otoño 2023",
+                    "url": "//houkago-shounen-hanako-kun",
+                    "title": "Houkago Shounen Hanako-kun",
+                    "description": "El fantasmal Hanako-kun y su ayudante mortal, Nene Yashiro, suelen estar muy ocupados resolviendo diversos incidentes sobrenaturales en la Academia Kamome, pero ¿cómo pasan el tiempo cuando tienen un descanso de todo eso? Ven a ver cómo los personajes de Hanako-kun juegan, enferman, cambian de género y descubren secretos que sacuden el mundo durante sus relajadas horas extraescolares.",
+                    "genre": "Comedia, Escolares, Parodia, Sobrenatural, Otoño 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.animeid.tv/art/kawagoe-boys-sing/cover/8f9e25ef.jpg",
+                    "thumbnail_url": "https://static.animeid.tv/art/houkago-shounen-hanako-kun/cover/a3889310.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/v/kawagoe-boys-sing-1",
-                        "name": "Episodio 1.0",
-                        "date_upload": 1696809600000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=dqz0gjrBygUkV9g&expires=1696988349&ip=FROsD0ESKxSHDN&token=6xHEV2Boy1qf",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=dqz0gjrBygUkV9g&expires=1696988349&ip=FROsD0ESKxSHDN&token=6xHEV2Boy1qf"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

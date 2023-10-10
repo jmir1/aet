@@ -470,23 +470,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://crazypatutu.com/m3/dU1meVNzVkY1N3c5RVYzMDAyRExjMjRLbE1rNmhjU2Y3OWdWSGZxak9HU0MyemMzZGthcGY0OTNVMGdiWW5mRFRjZjl4K3hlMVJPMk9TTHpuWDhZdThiMzVtSmtoYnpWQnJwOWpqK1hrdjdaSFpHdUwvOHpkVDFQNGJmbzVKSzgxZldieVVzanlndEt5dkloUU9KRjlBZlpWc0FKUnFSNWZFZU1BeUdPRGl6NDhIajB3UXZ3SGdrVEdvQWZHUjhxZTdNWk1LbmtoNGpTMTIvVkxoTVpRR1RjMUNXQ1FZRDBEN0JpRTY4YjY2TXJ0ZWhzTUx2TkN3bkV1Z0tjOUlVZG91b2R3UzVveVZwTTN2dnB3ZXBNTG1rdit4RlcrRDFyOXp2R3I4eC91bmdsaDVaRVRIS1ZocVpSZ3lranpUa0U%3D",
-                        "quality": "1080p",
-                        "videoUrl": "https://crazypatutu.com/m3/dU1meVNzVkY1N3c5RVYzMDAyRExjMjRLbE1rNmhjU2Y3OWdWSGZxak9HU0MyemMzZGthcGY0OTNVMGdiWW5mRFRjZjl4K3hlMVJPMk9TTHpuWDhZdThiMzVtSmtoYnpWQnJwOWpqK1hrdjdaSFpHdUwvOHpkVDFQNGJmbzVKSzgxZldieVVzanlndEt5dkloUU9KRjlBZlpWc0FKUnFSNWZFZU1BeUdPRGl6NDhIajB3UXZ3SGdrVEdvQWZHUjhxZTdNWk1LbmtoNGpTMTIvVkxoTVpRR1RjMUNXQ1FZRDBEN0JpRTY4YjY2TXJ0ZWhzTUx2TkN3bkV1Z0tjOUlVZG91b2R3UzVveVZwTTN2dnB3ZXBNTG1rdit4RlcrRDFyOXp2R3I4eC91bmdsaDVaRVRIS1ZocVpSZ3lranpUa0U%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://aniweek.com",
-                            "Referer": "https://aniweek.com/",
-                            "Sec-Fetch-Dest": "empty",
-                            "Sec-Fetch-Mode": "cors",
-                            "Sec-Fetch-Site": "same-origin"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalStateException: Failed to extract iframe",
+                "passed": false
             }
         }
     }
