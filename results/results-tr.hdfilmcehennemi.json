@@ -1,6 +1,6 @@
 [
     {
-        "name": "AnimePlayer (PT-BR)",
+        "name": "HDFilmCehennemi (TR)",
         "results": {
             "popular": {
                 "error": "java.net.SocketTimeoutException: timeout",
@@ -19,11 +19,15 @@
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "name": "Movie"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

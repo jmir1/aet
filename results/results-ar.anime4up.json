@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/houkago-shounen-hanako-kun/",
+                                "title": "Houkago Shounen Hanako-kun",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/houkago-shounen-hanako-kun.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/dead-mount-death-play-part-2/",
                                 "title": "Dead Mount Death Play Part 2",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/dead_mount_death_play_2nd_part_11778.webp?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/sousou-no-frieren/",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.29_15h09m44s_012_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/ragna-crimson/",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.29_14h13m00s_010_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -349,24 +349,36 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dead-mount-death-play-part-2/",
-                    "title": "Dead Mount Death Play Part 2",
-                    "description": "قصة انمي Dead Mount Death Play Part 2 تأتي إستكمالا لأحداث الموسم السابق.",
-                    "genre": "أكشن, فنتازيا, سينين, خارق للعادة, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/houkago-shounen-hanako-kun/",
+                    "title": "Houkago Shounen Hanako-kun",
+                    "description": "",
+                    "genre": "مدرسي, كوميدي, TV, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/dead_mount_death_play_2nd_part_11778.webp?fit=707%2C1000&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/houkago-shounen-hanako-kun.jpg?fit=460%2C690&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/houkago-shounen-hanako-kun-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://n48no-02.vidboo.org/6jmnqjue3iazsalrixoqfj7ubpeq5e3s6imaw6gh3umtva7dikufbtirw4tq/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://n48no-02.vidboo.org/6jmnqjue3iazsalrixoqfj7ubpeq5e3s6imaw6gh3umtva7dikufbtirw4tq/v.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

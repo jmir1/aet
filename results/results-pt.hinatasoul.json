@@ -37,6 +37,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/279889",
+                                "title": "Seiken Gakuin no Makentsukai ep 3",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279889/1.jpg"
+                            },
+                            {
+                                "url": "/videos/279851",
+                                "title": "Helck ep 14",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279851/1.jpg"
+                            },
+                            {
+                                "url": "/videos/279848",
+                                "title": "Houkago Shounen Hanako-kun ep 1",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279848/1.jpg"
+                            },
+                            {
+                                "url": "/videos/279845",
+                                "title": "Tokyo Revengers: Tenjiku-hen ep 2",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279845/1.jpg"
+                            },
+                            {
                                 "url": "/videos/279836",
                                 "title": "Seijo no Maryoku wa Bannou desu 2nd Season ep 2",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279836/1.jpg"
@@ -175,26 +195,6 @@
                                 "url": "/videos/279387",
                                 "title": "The iDOLM@STER Million Live! ep 1",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279387/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279383",
-                                "title": "Uchi no Kaisha no Chiisai Senpai no Hanashi - Dublado ep 10",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279383/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279382",
-                                "title": "Horimiya: Piece - Dublado ep 12",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279382/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279381",
-                                "title": "Hikikomari Kyuuketsuki no Monmon ep 1",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279381/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279377",
-                                "title": "Bokura no Ameiro Protocol ep 1",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279377/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -348,44 +348,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/263139",
-                        "name": "Naruto Shippuden ep 500 - FINAL",
-                        "date_upload": 1490259240000,
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/videos/249788",
-                        "name": "Naruto Shippuden ep 499",
-                        "date_upload": 1525478400000,
-                        "episode_number": 499.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

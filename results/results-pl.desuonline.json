@@ -192,6 +192,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/06/136532.jpg"
+                            },
+                            {
                                 "url": "/anime/rewrite-2nd-season/",
                                 "title": "Rewrite 2nd Season",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2021/03/Rewrite-2.jpg"
@@ -360,11 +365,6 @@
                                 "url": "/anime/tate-no-yuusha-no-nariagari-season-3/",
                                 "title": "Tate no Yuusha no Nariagari Season 3",
                                 "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/10/136926.jpg"
-                            },
-                            {
-                                "url": "/anime/mahoutsukai-no-yoru/",
-                                "title": "Mahoutsukai no Yoru",
-                                "thumbnail_url": "https://desu-online.pl/wp-content/uploads/2023/10/Witch_on_the_Holy_Night_Key_Visual.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -462,29 +462,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vwaw151.cda.pl/lfMC_30UZcRcXQsnwtrPbw/1697004548/sdbb68a9a308d7d59bb06fde16089fb15f.mp4",
-                        "quality": "CDA (FujiSubs) - 720p",
-                        "videoUrl": "https://vwaw151.cda.pl/lfMC_30UZcRcXQsnwtrPbw/1697004548/sdbb68a9a308d7d59bb06fde16089fb15f.mp4"
-                    },
-                    {
-                        "url": "https://vwaw722.cda.pl/ZqiA4DR_pFgJ4KwsWRePNQ/1697004548/hdbb68a9a308d7d59bb06fde16089fb15f.mp4",
-                        "quality": "CDA (FujiSubs) - 1080p",
-                        "videoUrl": "https://vwaw722.cda.pl/ZqiA4DR_pFgJ4KwsWRePNQ/1697004548/hdbb68a9a308d7d59bb06fde16089fb15f.mp4"
-                    },
-                    {
-                        "url": "https://vwaw604.cda.pl/t3z-NXq1nOS3mvkXOU4F-w/1697004547/lqbb68a9a308d7d59bb06fde16089fb15f.mp4",
-                        "quality": "CDA (FujiSubs) - 480p",
-                        "videoUrl": "https://vwaw604.cda.pl/t3z-NXq1nOS3mvkXOU4F-w/1697004547/lqbb68a9a308d7d59bb06fde16089fb15f.mp4"
-                    },
-                    {
-                        "url": "https://vwaw604.cda.pl/IZJ5OUKxv3J-xEJPCb6o0w/1697004547/vlbb68a9a308d7d59bb06fde16089fb15f.mp4",
-                        "quality": "CDA (FujiSubs) - 360p",
-                        "videoUrl": "https://vwaw604.cda.pl/IZJ5OUKxv3J-xEJPCb6o0w/1697004547/vlbb68a9a308d7d59bb06fde16089fb15f.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Failed to fetch videos",
+                "passed": false
             }
         }
     }

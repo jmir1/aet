@@ -276,12 +276,53 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/houkago-shounen-hanako-kun-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/shexplk7u7zu",
+                        "quality": "Voe",
+                        "videoUrl": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/09675/hiay48qs02dx_,n,.urlset/master.m3u8?t=C9PUaWydPxSpomW4yjPSMDgrkF74rW6ljRWMu9s9Pg0&s=1696984172&e=14400&f=48378028&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=172.176&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://s1.vtube.network/hls/,x5s4wedxofyki6cgaoimt6veghmeoqc4uhwkwkye2m5gj3a5kv2zcmpwhfiq,.urlset/master.m3u8",
+                        "quality": "PlusTube:HLS",
+                        "videoUrl": "https://s1.vtube.network/hls/,x5s4wedxofyki6cgaoimt6veghmeoqc4uhwkwkye2m5gj3a5kv2zcmpwhfiq,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://h8.streamvid.media/hls/,n5ajq4g5ybmne42h4veqjdjdrdcqt4eg5ecxcu2xcwwq46ksvsbnk6l4zz5q,.urlset/master.m3u8",
+                        "quality": "PlusVid:HLS",
+                        "videoUrl": "https://h8.streamvid.media/hls/,n5ajq4g5ybmne42h4veqjdjdrdcqt4eg5ecxcu2xcwwq46ksvsbnk6l4zz5q,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://h1007.streamhub.gg/hls/,sc6tuimpwiytnuzvow4s57bzxcxd7bhvnxdl7xoz5vcjuhuq4mdgblcqddtq,.urlset/master.m3u8",
+                        "quality": "PlusHub:HLS",
+                        "videoUrl": "https://h1007.streamhub.gg/hls/,sc6tuimpwiytnuzvow4s57bzxcxd7bhvnxdl7xoz5vcjuhuq4mdgblcqddtq,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=JkLJLkakp2hr66&expires=1697054170&ip=F0qQKRWQEy9XKxR&token=DiRkM68nhnwe",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=JkLJLkakp2hr66&expires=1697054170&ip=F0qQKRWQEy9XKxR&token=DiRkM68nhnwe"
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxvcohuz3b4quuocwqueycvla2jzfsw6d2vbx7in5x7fuponvvjizpvisdskwcurxm5xesc/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxvcohuz3b4quuocwqueycvla2jzfsw6d2vbx7in5x7fuponvvjizpvisdskwcurxm5xesc/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
