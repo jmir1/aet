@@ -267,6 +267,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Tokyo-Revengers-Tenjiku-hen/",
+                                "title": "Tokyo Revengers Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Tokyo-Revengers-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Duke-of-Death-and-His-Maid-Season-2-Dub/",
+                                "title": "The Duke of Death and His Maid Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/The-Duke-of-Death-and-His-Maid-Season-2-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-misfit-of-demon-king-academy-historys-strongest-demon-king-reincarnates-and-goes-to-school-with-his-descendants-season-2-dub.21085/",
+                                "title": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/The-Misfit-of-Demon-King-Academy-Historys-Strongest-Demon-King-Reincarnates-and-Goes-to-School-with-His-Descendants-Season-2-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/I-m-in-Love-with-the-Villainess-Dub/",
+                                "title": "I'm in Love with the Villainess (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-m-in-Love-with-the-Villainess-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/helck.53960/",
+                                "title": "Helck",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Helck.jpg"
+                            },
+                            {
+                                "url": "/Anime/After-school-Hanako-kun/",
+                                "title": "After-school Hanako-kun",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/After-school-Hanako-kun.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Saint-s-Magic-Power-is-Omnipotent-II/",
+                                "title": "The Saint's Magic Power is Omnipotent II",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Saint-s-Magic-Power-is-Omnipotent-II.jpg"
+                            },
+                            {
                                 "url": "/Anime/oishinbo-sub.71850/",
                                 "title": "The Gourmet",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2019/02/Oishinbo-Sub.jpg"
@@ -480,41 +515,6 @@
                                 "url": "/Anime/Firefighter-Daigo-Rescuer-in-Orange/",
                                 "title": "Firefighter Daigo: Rescuer in Orange",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Firefighter-Daigo-Rescuer-in-Orange.jpg"
-                            },
-                            {
-                                "url": "/Anime/Shadowverse-Flame-Seven-Shadows-Arc/",
-                                "title": "Shadowverse Flame: Seven Shadows Arc",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Shadowverse-Flame-Seven-Shadows-Arc.jpg"
-                            },
-                            {
-                                "url": "/Anime/cardfight-vanguard-will-dress-season-3.73597/",
-                                "title": "Cardfight!! Vanguard will+Dress Season 3",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Cardfight-Vanguard-will-Dress-Season-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/Arknights-PERISH-IN-FROST/",
-                                "title": "Arknights: PERISH IN FROST",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Arknights-PERISH-IN-FROST.jpg"
-                            },
-                            {
-                                "url": "/Anime/HYPNOSISMIC-Division-Rap-Battle-Rhyme-Anima-PLUS/",
-                                "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/HYPNOSISMIC-Division-Rap-Battle-Rhyme-Anima-PLUS.jpg"
-                            },
-                            {
-                                "url": "/Anime/Nanatsu-no-Maken-ga-Shihai-Suru/",
-                                "title": "Reign of the Seven Spellblades",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Reign-of-the-Seven-Spellblades.jpg"
-                            },
-                            {
-                                "url": "/Anime/Frieren-Beyond-Journeys-End/",
-                                "title": "Frieren: Beyond Journey’s End",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
-                            },
-                            {
-                                "url": "/Anime/Keikenzumi-na-Kimi-to-Keiken-Zero-na-Ore-ga-Otsukiai-suru-Hanashi/",
-                                "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Our-Dating-Story-The-Experienced-You-and-The-Inexperienced-Me.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
                 "passed": false
             }
         }

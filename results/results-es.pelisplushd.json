@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/ow4sqkohvesx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-cwue1hiuzak8hq6u.voe-network.net/engine/hls2/01/09663/ow4sqkohvesx_,n,.urlset/master.m3u8?t=AUp3uKURoZRxCq8tmzFoG74C_Ge37Cqe0OerLGLeeDU&s=1696984159&e=14400&f=48319315&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=20.42&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-cwue1hiuzak8hq6u.voe-network.net/engine/hls2/01/09663/ow4sqkohvesx_,n,.urlset/master.m3u8?t=_Ay-sdT2lI0aR4dET0EkOwA0uSsvFBHbAGcLyJ9nkyE&s=1697004573&e=14400&f=48319315&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=40.84&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/ow4sqkohvesx",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-cwue1hiuzak8hq6u.voe-network.net/engine/hls2/01/09663/ow4sqkohvesx_,n,.urlset/master.m3u8?t=AUp3uKURoZRxCq8tmzFoG74C_Ge37Cqe0OerLGLeeDU&s=1696984159&e=14400&f=48319315&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=20.42&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-cwue1hiuzak8hq6u.voe-network.net/engine/hls2/01/09663/ow4sqkohvesx_,n,.urlset/master.m3u8?t=_Ay-sdT2lI0aR4dET0EkOwA0uSsvFBHbAGcLyJ9nkyE&s=1697004573&e=14400&f=48319315&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=40.84&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -872,8 +872,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/the-mill/",
+                    "title": "The Mill",
+                    "artist": "",
+                    "description": "",
+                    "genre": "",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
