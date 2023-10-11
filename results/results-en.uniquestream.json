@@ -42,6 +42,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg"
                             },
                             {
+                                "url": "/movies/the-equalizer-3-2023/",
+                                "title": "The Equalizer 3 2023",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
+                            },
+                            {
                                 "url": "/tvshows/the-recruit-2022/",
                                 "title": "The Recruit 2022",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/mLbFg0u2DPYuB5CILzwWk3kdI8b.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/movies/inception/",
                                 "title": "Inception",
                                 "thumbnail_url": "https://uniquestream.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2018/04/13100324/qmDpIHrmpJINaRKAfWQfftjCdyi-185x278.jpg"
-                            },
-                            {
-                                "url": "/movies/guy-ritchies-the-covenant-2023/",
-                                "title": "Guy Ritchie’s The Covenant 2023",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -504,25 +504,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hls.uniquestream.net/media/db/shared/7454592f5724bcd4a626a722d6235727.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://hls.uniquestream.net/media/db/shared/7454592f5724bcd4a626a722d6235727.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Referer": "https://hls.uniquestream.net/media/db/master/7454592f5724bcd4a626a722d6235727.m3u8"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://sub.uniquestream.net/Extraction 2.srt",
-                                "lang": "english"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
