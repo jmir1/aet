@@ -3,11 +3,11 @@
         "name": "VVVVID (IT)",
         "results": {
             "popular": {
-                "error": "java.lang.IllegalStateException: Failed to log in",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             },
             "latest": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.IllegalStateException: Failed to log in",
                 "passed": false
             },
             "search": {

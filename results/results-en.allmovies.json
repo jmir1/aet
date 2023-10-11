@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/invasion/",
+                                "title": "Invasion",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wWFs3pl9gWHYvDElQVB4CB809m9.jpg"
+                            },
+                            {
                                 "url": "/series/loki/",
                                 "title": "Loki",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/voHUmluYmKyleFkTu3lOXQG702u.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/joe-pickett/",
                                 "title": "Joe Pickett",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/pWBCwK0lp5RLCyG89JzrhEVny47.jpg"
-                            },
-                            {
-                                "url": "/series/secret-invasion/",
-                                "title": "Secret Invasion",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5rhoPzWGVSsqONBkNbAkMZULNoq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,10 +264,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/loki/",
-                    "title": "Loki",
-                    "author": "Michael Waldron",
-                    "description": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+                    "url": "/series/invasion/",
+                    "title": "Invasion",
+                    "author": "David Weil, Simon Kinberg",
+                    "description": "Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
                     "genre": "Drama, Sci-Fi & Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/loki-2x6/",
-                        "name": "Season 2x6 : Episode 6",
-                        "episode_number": 6.0
+                        "url": "/episode/invasion-2x10/",
+                        "name": "Season 2x10 : Episode 10",
+                        "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/loki-2x5/",
-                        "name": "Season 2x5 : Episode 5",
-                        "episode_number": 5.0
+                        "url": "/episode/invasion-2x9/",
+                        "name": "Season 2x9 : Breakthrough",
+                        "episode_number": 9.0
                     }
                 ],
                 "passed": true
