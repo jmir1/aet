@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/mentiras-pasajeras/",
+                                "title": "Mentiras pasajeras",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ZM9DILD748LFlnMOhv3cX4duZT.jpg"
+                            },
+                            {
                                 "url": "/fandorin-azazello/",
                                 "title": "Fandorin. Azazello",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/glrcDb0LbR4FpeCBI0P4LUyaYNc.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg"
                             },
                             {
-                                "url": "/pacto-de-silencio/",
-                                "title": "Pacto de silencio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uGd554FjRZePfToMthpK1VqvGZ3.jpg"
-                            },
-                            {
-                                "url": "/el-pequeno-tom/",
-                                "title": "El pequeño Tom",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jnyc4q1kR4otxY2PM47uYCcnoNQ.jpg"
+                                "url": "/queer-as-folk/",
+                                "title": "Queer As Folk",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/queer-as-folk-61397-poster-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/chozen/",
-                                "title": "Chozen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nAIY28RtMkxIGSwIvBO6dNlc6NW.jpg"
+                                "url": "/mi-secreto/",
+                                "title": "Mi Secreto",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/v4lRzvk5eTtSStoRoihd6KsWfVh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,22 +134,69 @@
             },
             "details": {
                 "result": {
-                    "url": "/fandorin-azazello/",
-                    "title": "Fandorin. Azazello",
-                    "description": "Фандорин. Азазель La Revolución de Octubre no se había producido y los bolcheviques nunca habían subido al poder. Corre el año 2023, y el gobierno del Imperio Ruso está dividido entre el tzar Nikolai III y un primer ministro con visión de futuro, Dmitry Orlov. Erast Fandorin, un policía de 20 años, acaba de ser contratado en la unidad de investigaciones criminales del metro de Petrograd. Su trabajo no es muy emocionante, pero las últimas noticias sí lo son: en pleno centro de la capital, un joven y acaudalado magnate de una compañía petrolera acaba de pegarse un tiro delante de decenas de hombres. Su suicidio fue captado por las cámaras del robot patrulla. Fandorin no puede evitar sospechar que este caso es mucho más complicado de lo que parece y emprende su primera gran investigación.",
-                    "genre": "Action & Adventure, Crimen, Misterio, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/glrcDb0LbR4FpeCBI0P4LUyaYNc.jpg",
+                    "url": "/mentiras-pasajeras/",
+                    "title": "Mentiras pasajeras",
+                    "description": "Lucía, una ejecutiva de una compañía de alta tecnología en tratamientos estéticos ha luchado para alejarse todo lo posible de su origen humilde, pero justo el día en que por fin debía recibir un más que merecido ascenso, es acusada de espionaje industrial y expulsada de su puesto de trabajo.",
+                    "genre": "Comedia, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1ZM9DILD748LFlnMOhv3cX4duZT.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/mentiras-pasajeras-temporada-1-capitulo-1/",
+                        "name": "T1 - E01 - Primero",
+                        "date_upload": 1696809600000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f4-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f4-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f1-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f1-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f2-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f2-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f3-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00059/7et9bxu0kkz1_,l,n,h,x,.urlset?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0/index-f3-v1-a1.m3u8?t=-ST2u2SMB126lHDoqkyDy5GUOp3IznnGE2ruTh4nj3U&s=1697112699&e=43200&f=299202&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

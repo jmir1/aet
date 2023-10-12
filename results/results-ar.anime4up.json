@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/MV5BNGFkMGNiZjEtOGI2MS00NzBjLWI1MmEtNzZmNjhkOTg5MDc5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/houkago-shounen-hanako-kun/",
                                 "title": "Houkago Shounen Hanako-kun",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/houkago-shounen-hanako-kun.jpg?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/seiken-gakuin-no-makentsukai/",
                                 "title": "Seiken Gakuin no Makentsukai",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_04h45m20s_001_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/sousou-no-frieren/",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/09/Ashampoo_Snap_2023.09.29_15h09m44s_012_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -275,6 +275,11 @@
                                 "url": "/anime/free-movie-3-road-to-the-world-yume/",
                                 "title": "Free! Movie 3: Road to the World - Yume",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2022/12/102220.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
+                                "url": "/anime/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/MV5BNGFkMGNiZjEtOGI2MS00NzBjLWI1MmEtNzZmNjhkOTg5MDc5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg?resize=215%2C300&ssl=1"
                             },
                             {
                                 "url": "/anime/hello-world/",
@@ -349,13 +354,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/houkago-shounen-hanako-kun/",
-                    "title": "Houkago Shounen Hanako-kun",
-                    "description": "",
-                    "genre": "مدرسي, كوميدي, TV, يعرض الان, خريف 2023",
+                    "url": "/anime/good-night-world/",
+                    "title": "Good Night World",
+                    "description": "بمجرد أن يضعوا سماعاتهم فوق أذانهم مع حلول الليل ويبدأون في اللعب ينفصل أربعة أشخاص كليًا عن حياتهم حيث يشتركون جميعًا في فريق واحد غير مدركين أنهم ينتمون لعائلة واحدة لكنها مفككة في العالم الواقعي.",
+                    "genre": "فنتازيا, دراما, كوميدي, العاب, ONA, يعرض الان, خريف 2023",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/houkago-shounen-hanako-kun.jpg?fit=460%2C690&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/MV5BNGFkMGNiZjEtOGI2MS00NzBjLWI1MmEtNzZmNjhkOTg5MDc5XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg?fit=675%2C1000&ssl=1",
                     "initialized": true
                 },
                 "passed": true
@@ -363,22 +368,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/houkago-shounen-hanako-kun-الحلقة-1/",
-                        "name": "الحلقة 1",
+                        "url": "/episode/good-night-world-الحلقة-1/",
+                        "name": "الأونا 1",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://n49no-02.vidboo.org/6jmnqjue3iazsalrixoqfj7ubpeq5e3s6imaw6gh3umtva7qabcj6chltg4q/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://n49no-02.vidboo.org/6jmnqjue3iazsalrixoqfj7ubpeq5e3s6imaw6gh3umtva7qabcj6chltg4q/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
