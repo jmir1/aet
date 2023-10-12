@@ -149,8 +149,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: no player found",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m70.uqload.io/3rfklzr5r5w2q4drdku7xivvdsu4dietdybtvl2a2rkhf3qrpegsl57exoya/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m70.uqload.io/3rfklzr5r5w2q4drdku7xivvdsu4dietdybtvl2a2rkhf3qrpegsl57exoya/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

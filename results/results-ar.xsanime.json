@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone New World Part 2",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Dr.-Stone-New-World-Part-2.jpg"
+                            },
+                            {
+                                "url": "/anime/paradox-live-the-animation/",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Paradox-Live-the-Animation.jpg"
+                            },
+                            {
                                 "url": "/anime/hoshikuzu-telepath/",
                                 "title": "Hoshikuzu Telepath",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Hoshikuzu-Telepath.jpg"
@@ -235,16 +245,6 @@
                                 "url": "/anime/megumi-no-daigo-kyuukoku-no-orange/",
                                 "title": "Megumi no Daigo Kyuukoku no Orange",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/Megumi-no-Daigo-Kyuukoku-no-Orange-scaled.jpg"
-                            },
-                            {
-                                "url": "/anime/ojou-to-banken-kun/",
-                                "title": "Ojou to Banken-kun",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/Ojou-to-Banken-kun.jpg"
-                            },
-                            {
-                                "url": "/anime/sousou-no-frieren/",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/09/sousou-no-frieren-ec564ae1d9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -256,6 +256,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone New World Part 2",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Dr.-Stone-New-World-Part-2.jpg"
+                            },
                             {
                                 "url": "/anime/world-dai-star/",
                                 "title": "World Dai Star",
@@ -374,13 +379,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hoshikuzu-telepath/",
-                    "title": "Hoshikuzu Telepath",
-                    "description": "تواجه “أوميكا كونوهوشي” البالغة من العمر خمسة عشر عامًا صعوبة في التواصل الاجتماعي في المدرسة، لكنها تأمل أن تصل كلماتها يومًا ما إلى أشخاص آخرين. عندما تدخل “يوو أكوتشي” حياتها، وتدعي أنها فضائية، ستتعلم “أوميكا” المزيد عن كيف تكون اجتماعية.",
-                    "genre": "مدرسي, كوميدي, شريحة من الحياة, دراما",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Hoshikuzu-Telepath.jpg",
+                    "url": "/anime/dr-stone-new-world-part-2/",
+                    "title": "Dr. Stone New World Part 2",
+                    "description": "تكملة الموسم الثاني",
+                    "genre": "غموض, كوميدي, دراما, شونين, مغامرات, خيال علمي",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Dr.-Stone-New-World-Part-2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -388,7 +393,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/hoshikuzu-telepath-الحلقة-1/",
+                        "url": "/episode/dr-stone-new-world-part-2-الحلقة-1/",
                         "name": "1",
                         "episode_number": 1.0
                     }
@@ -396,14 +401,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc552.4shared.com/img/CoOPOYeHge/174b844c/dlink__2Fdownload_2FCoOPOYeHge_3Fsbsr_3Dc3069fa5e60ec9937b6a09ed3b52df02af5_26bip_3DMjAuMTg1LjE1OC44Ng_26lgfp_3D66_26bip_3DMjAuMTg1LjE1OC44Ng_26bip_3DMjAuMTg1LjE1OC44Ng/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc552.4shared.com/img/CoOPOYeHge/174b844c/dlink__2Fdownload_2FCoOPOYeHge_3Fsbsr_3Dc3069fa5e60ec9937b6a09ed3b52df02af5_26bip_3DMjAuMTg1LjE1OC44Ng_26lgfp_3D66_26bip_3DMjAuMTg1LjE1OC44Ng_26bip_3DMjAuMTg1LjE1OC44Ng/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
