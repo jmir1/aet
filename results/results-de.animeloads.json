@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/hikikomari-kyuuketsuki-no-monmon",
+                                "title": "Hikikomari Kyuuketsuki no Monmon",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hikikomari-kyuuketsuki-no-monmon-cover.jpg"
+                            },
+                            {
                                 "url": "/media/houkago-shounen-hanako-kun",
                                 "title": "Mein Schulgeist Hanako: After School",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-houkago-shounen-hanako-kun-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/goblin-slayer-ii",
                                 "title": "Goblin Slayer 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-goblin-slayer-ii-cover.jpg"
-                            },
-                            {
-                                "url": "/media/uma-musume-pretty-derby-season-3",
-                                "title": "Uma Musume: Pretty Derby Season 3",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-uma-musume-pretty-derby-season-3-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/houkago-shounen-hanako-kun",
-                    "title": "Mein Schulgeist Hanako: After School",
+                    "url": "/media/hikikomari-kyuuketsuki-no-monmon",
+                    "title": "Hikikomari Kyuuketsuki no Monmon",
                     "author": "",
-                    "description": "Sidestory von Toilet-Bound Hanako-kun. Quelle: aniSearch",
+                    "description": "Bereits seit drei Jahren lebt Terakomari Gandesblood, die Tochter einer einflussreichen Familie im Königreich Mulnite, als Hikikomori eingeschlossen in ihrem Zuhause. Sie ist weder fähig Magie einzusetzen noch ist sie körperlich belastbar, und auch großgewachsen ist sie nicht. Zu allem Überfluss kann sie selbst als Vampir Blut nicht ausstehen. Doch ihr Vater, der seine Tochter über alles liebt, hat für sie einen Job gefunden: Sie soll Kommandantin der 7. Einheit der Kaiserlichen Armee werden! Eine Ablehnung des Angebots ist keine Option, wird sie doch vom Herrscher höchstpersönlich dazu ernannt! Ihre Aufgabe besteht nun darin, alle drei Monate einen Krieg gegen andere Nationen zu führen und siegen! Doch besteht diese 7. Einheit nur aus Schurken und Kriminellen, die alles andere als gehorsam sind und jederzeit eine Meuterei gegen ihren Kommandanten starten könnten! Keine einfache Aufgabe für Terekomari, deren Status als wohlhabende Tochter unbedingt geheim bleiben muss! Quelle: aniSearch",
                     "genre": "Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-houkago-shounen-hanako-kun-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hikikomari-kyuuketsuki-no-monmon-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/houkago-shounen-hanako-kun#streams_episodes_1_0",
+                        "url": "/media/hikikomari-kyuuketsuki-no-monmon#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,7 +247,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

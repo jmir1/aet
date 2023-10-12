@@ -291,12 +291,57 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/i-am-your-king-2-episodio-10",
+                        "name": "Episodio 10.0",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "/ver/i-am-your-king-2-episodio-9",
+                        "name": "Episodio 9.0",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=3&sig=a4rOBy8wt44&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=3&sig=a4rOBy8wt44&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902"
+                    },
+                    {
+                        "url": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=2&sig=EvU9JEd7dYM&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=2&sig=EvU9JEd7dYM&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902"
+                    },
+                    {
+                        "url": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=1&sig=qIm_QwRIiS4&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=1&sig=qIm_QwRIiS4&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902"
+                    },
+                    {
+                        "url": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=0&sig=HInFogKlucA&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=0&sig=HInFogKlucA&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902"
+                    },
+                    {
+                        "url": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=4&sig=LOVZJ8QhG8s&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd486.mycdn.me/?expires=1697220549702&srcIp=40.86.27.83&pr=10&srcAg=GECKO&ms=45.136.22.41&type=4&sig=LOVZJ8QhG8s&ct=0&urls=185.226.53.27&clientType=0&zs=43&id=5214342023902"
+                    },
+                    {
+                        "url": "https://m70.uqload.io/3rfkjvrsr5w2q4drdku7xpxxdgycr72ew5mkk4h4u7mjmz5d52x7255zy73q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m70.uqload.io/3rfkjvrsr5w2q4drdku7xpxxdgycr72ew5mkk4h4u7mjmz5d52x7255zy73q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

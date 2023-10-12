@@ -694,12 +694,25 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/v/dr-stone-new-world-part-2-1",
+                        "name": "Episodio 1.0",
+                        "date_upload": 1697068800000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=GMbV92xmYlf1k8d&expires=1697204166&ip=F0AsEHOnDS9X&token=KCgLR_3AOcLx",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=GMbV92xmYlf1k8d&expires=1697204166&ip=F0AsEHOnDS9X&token=KCgLR_3AOcLx"
+                    }
+                ],
+                "passed": true
             }
         }
     }
