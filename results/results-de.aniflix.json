@@ -3,27 +3,27 @@
         "name": "Aniflix (DE)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
+                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
                 "passed": false
             }
         }
