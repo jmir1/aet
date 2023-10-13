@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/cocina-con-quimica",
+                                "title": "Cocina con química (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jZvBzwm8a5pBZmVhfnN8zyCTrO5.jpg"
+                            },
+                            {
                                 "url": "/serie/la-caida-de-la-casa-usher",
                                 "title": "La caída de la casa Usher (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/rmvtaUxTyGb8zaglW1q0FetxP4L.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/hannah-montana",
                                 "title": "Hannah Montana (20062011)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/usJAQAA7s9lJGGOGehIZdzKPCke.jpg"
-                            },
-                            {
-                                "url": "/serie/the-gold",
-                                "title": "The Gold (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/d5XBWAtuaO1xASyktYFA71GGMdJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-caida-de-la-casa-usher",
-                    "title": "La caída de la casa Usher (2023)",
-                    "description": "Un narrador anónimo se acerca a la casa de Usher en un \"día aburrido, oscuro y silencioso\". Esta casa, propiedad de su amigo de la infancia, Roderick Usher, es sombría y misteriosa..",
-                    "genre": "Crimen, Drama, Misterio",
+                    "url": "/serie/cocina-con-quimica",
+                    "title": "Cocina con química (2023)",
+                    "description": "En los años 50, el sueño de Elizabeth Zott de ser científica se ve en peligro porque la sociedad dicta que las mujeres solo pertenecen al ámbito doméstico. Acepta un trabajo en un programa de cocina de televisión y se propone enseñar a las amas de casa olvidadas del país algo más que recetas..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rmvtaUxTyGb8zaglW1q0FetxP4L.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jZvBzwm8a5pBZmVhfnN8zyCTrO5.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-caida-de-la-casa-usher/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/cocina-con-quimica/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     },
                     {
-                        "url": "/serie/la-caida-de-la-casa-usher/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/cocina-con-quimica/temporada/1/capitulo/1",
+                        "name": "T1 - E1: Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -293,14 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/rhpheilm3jm4",
+                        "url": "https://voe.sx/e/l8voyqqg9vkb",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-eu7doujwfdtzkhx0.voe-network.net/engine/hls2/01/09685/rhpheilm3jm4_,n,.urlset/master.m3u8?t=1kgAT2CltWvQj9R9vv_JMPOgP3MHCSTdI8BwEyJakFU&s=1697199120&e=14400&f=48426712&node=delivery-node-eu7doujwfdtzkhx0.voe-network.net&i=20.172&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/rhpheilm3jm4",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-eu7doujwfdtzkhx0.voe-network.net/engine/hls2/01/09685/rhpheilm3jm4_,n,.urlset/master.m3u8?t=1kgAT2CltWvQj9R9vv_JMPOgP3MHCSTdI8BwEyJakFU&s=1697199120&e=14400&f=48426712&node=delivery-node-eu7doujwfdtzkhx0.voe-network.net&i=20.172&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-l0ujmx54tyeka395.voe-network.net/engine/hls2/01/09687/l8voyqqg9vkb_,n,.urlset/master.m3u8?t=2yjacFnw4U5IGuxoOg1Uq1XB2JLCpQzpsCdv29QrOHo&s=1697220551&e=14400&f=48437300&node=delivery-node-l0ujmx54tyeka395.voe-network.net&i=13.88&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
