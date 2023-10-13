@@ -3,27 +3,27 @@
         "name": "Aniflix (DE)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "javax.net.ssl.SSLHandshakeException: Received fatal alert: unrecognized_name",
                 "passed": false
             }
         }
