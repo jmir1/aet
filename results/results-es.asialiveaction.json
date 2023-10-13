@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/virgin-snow-sub-espanol/",
+                                "title": "Virgin Snow",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/gQmJF65ZXA1ATp055jWlKy96Lio.jpg"
+                            },
+                            {
                                 "url": "/absolute-zero/",
                                 "title": "Absolute Zero (3/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p9XkHxVZdjVhqYGqcBKCEqxy0mI.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/love-tractor/",
                                 "title": "Love Tractor",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/4vQC2gjorIcZEIpGTiO9HyNw4xG.jpg"
-                            },
-                            {
-                                "url": "/have-a-crush-on-you/",
-                                "title": "Have a Crush On You (17/36)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/virgin-snow-sub-espanol/",
+                                "title": "Virgin Snow",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/gQmJF65ZXA1ATp055jWlKy96Lio.jpg"
+                            },
+                            {
                                 "url": "/absolute-zero/",
                                 "title": "Absolute Zero (3/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p9XkHxVZdjVhqYGqcBKCEqxy0mI.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/love-tractor/",
                                 "title": "Love Tractor",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/4vQC2gjorIcZEIpGTiO9HyNw4xG.jpg"
-                            },
-                            {
-                                "url": "/have-a-crush-on-you/",
-                                "title": "Have a Crush On You (17/36)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/kq0p174myHPjb8wOPybsBFf8a2T.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/absolute-zero/",
-                    "title": "Absolute Zero (3/10)",
-                    "description": "Suan Soon logra volver al pasado y advierte a Ong Saa (en edad de escuela secundaria) sobre el futuro, pero este no le cree y se acerca a Suan Soon de todos modos, por lo que vuelven a hacerse novios.",
-                    "genre": "Fantasía, Romance, Sobrenatural, Yaoi / BL",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/p9XkHxVZdjVhqYGqcBKCEqxy0mI.jpg",
+                    "url": "/virgin-snow-sub-espanol/",
+                    "title": "Virgin Snow",
+                    "description": "Min, un chico coreano, se muda a Japón con su padre, que es ceramista. Un día, en un santuario local, conoce a Nanae, una hermosa chica japonesa con ojos deslumbrantes que aspira a ser pintora. Min se enamora a primera vista y descubre que Nanae asiste a la escuela a la que acaba de transferirse. Su amistad se desarrolla rápidamente a pesar de su diferencia cultural y de idioma. Cuando la abuela de Min cae enferma, Min tiene que regresar a Corea y Nanae no aparece por ningún lado. ¿No le habían resultado evidentes sus verdaderos sentimientos por Nanae? ¿Por qué Nanae desapareció sin decir una palabra?",
+                    "genre": "Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/gQmJF65ZXA1ATp055jWlKy96Lio.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/0628741/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
