@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/shadowverse-flame-todos-os-episodios",
+                                "title": "Shadowverse Flame",
+                                "thumbnail_url": "https://animefire.net/img/animes/shadowverse-flame.webp"
+                            },
+                            {
                                 "url": "/animes/hunter-x-hunter-2011",
                                 "title": "Hunter x Hunter (2011)",
                                 "thumbnail_url": "https://animefire.net/img/animes/nanatsu-no-taizai-ensa-no-edinburgh-part-2.webp"
@@ -50,11 +55,6 @@
                                 "url": "/animes/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze-dublado-todos-os-episodios",
                                 "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
                                 "thumbnail_url": "https://animefire.net/img/animes/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze.webp"
-                            },
-                            {
-                                "url": "/animes/dr-stone-new-world-part-2-dublado-todos-os-episodios",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://animefire.net/img/animes/dr-stone-new-world-part-2.webp"
                             },
                             {
                                 "url": "/animes/good-night-world-dublado-todos-os-episodios",
@@ -126,6 +126,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/animes/shadowverse-flame-todos-os-episodios",
+                                "title": "Shadowverse Flame - Episódio 65",
+                                "thumbnail_url": "https://animefire.net/img/video/shadowverse-flame/65.webp"
+                            },
+                            {
+                                "url": "/animes/-dublado-todos-os-episodios",
+                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 75",
+                                "thumbnail_url": "https://animefire.net/img/video//75.webp"
+                            },
+                            {
+                                "url": "/animes/-dublado-todos-os-episodios",
+                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 74",
+                                "thumbnail_url": "https://animefire.net/img/video//74.webp"
+                            },
+                            {
+                                "url": "/animes/-dublado-todos-os-episodios",
+                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 73",
+                                "thumbnail_url": "https://animefire.net/img/video//73.webp"
+                            },
                             {
                                 "url": "/animes/-dublado-todos-os-episodios",
                                 "title": "Hunter x Hunter (2011) (Dublado) - Episódio 72",
@@ -205,26 +225,6 @@
                                 "url": "/animes/-dublado-todos-os-episodios",
                                 "title": "Hunter x Hunter (2011) (Dublado) - Episódio 57",
                                 "thumbnail_url": "https://animefire.net/img/video//57.webp"
-                            },
-                            {
-                                "url": "/animes/-dublado-todos-os-episodios",
-                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 56",
-                                "thumbnail_url": "https://animefire.net/img/video//56.webp"
-                            },
-                            {
-                                "url": "/animes/-dublado-todos-os-episodios",
-                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 55",
-                                "thumbnail_url": "https://animefire.net/img/video//55.webp"
-                            },
-                            {
-                                "url": "/animes/-dublado-todos-os-episodios",
-                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 54",
-                                "thumbnail_url": "https://animefire.net/img/video//54.webp"
-                            },
-                            {
-                                "url": "/animes/-dublado-todos-os-episodios",
-                                "title": "Hunter x Hunter (2011) (Dublado) - Episódio 53",
-                                "thumbnail_url": "https://animefire.net/img/video//53.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -363,16 +363,45 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/animes/shadowverse-flame-todos-os-episodios",
+                    "title": "Shadowverse Flame",
+                    "description": "Shadowverse Flame apresenta um novo protagonista Light Tenryu e sua história se passa no Shadovar College, uma instalação que treina jogadores profissionais do jogo Shadowverse. Tenryu Light, um estudante transferido, decide se juntar ao \"Seventh Flame\", um dos sete clubes de Shadovar. No entanto, Seventh Flame está prestes a fechar devido à falta de membros! Para evitar o fim do clube, Light decide procurar novos membros. Mas o que o espera são poderosos rivais que controlam uma grande variedade de cartas...",
+                    "genre": "fantasia",
+                    "thumbnail_url": "https://animefire.net/img/animes/shadowverse-flame.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/shadowverse-flame/65",
+                        "name": "Episódio 65",
+                        "episode_number": 65.0
+                    },
+                    {
+                        "url": "/animes/shadowverse-flame/64",
+                        "name": "Episódio 64",
+                        "episode_number": 64.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4_temp/shadowverse-flame/65/480p.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4_temp/shadowverse-flame/65/480p.mp4"
+                    },
+                    {
+                        "url": "https://s2.starwatching.net/s1/mp4_temp/shadowverse-flame/65/480p.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://s2.starwatching.net/s1/mp4_temp/shadowverse-flame/65/480p.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
