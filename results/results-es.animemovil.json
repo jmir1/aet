@@ -3,24 +3,336 @@
         "name": "AnimeMovil (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/good-night-world",
+                                "title": "Good Night World",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4059.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2",
+                                "title": "Dr. Stone: New World Part 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4058.webp"
+                            },
+                            {
+                                "url": "/loki-2nd-season",
+                                "title": "loki 2nd Season",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4057.webp"
+                            },
+                            {
+                                "url": "/houkago-shounen-hanako-kun",
+                                "title": "Houkago Shounen Hanako-kun",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4056.webp"
+                            },
+                            {
+                                "url": "/dead-mount-death-play-part-2",
+                                "title": "Dead Mount Death Play Part 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4055.webp"
+                            },
+                            {
+                                "url": "/kawagoe-boys-sing",
+                                "title": "Kawagoe Boys Sing",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4054.webp"
+                            },
+                            {
+                                "url": "/hoshikuzu-telepath",
+                                "title": "Hoshikuzu Telepath",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4053.webp"
+                            },
+                            {
+                                "url": "/flcl-shoegaze",
+                                "title": "FLCL: Shoegaze",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4052.webp"
+                            },
+                            {
+                                "url": "/nanatsu-no-taizai-mokushiroku-no-yonkishi",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4051.webp"
+                            },
+                            {
+                                "url": "/the-idolm-at-ster-million-live",
+                                "title": "The iDOLM@STER Million Live!",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4050.webp"
+                            },
+                            {
+                                "url": "/bokura-no-ameiro-protocol",
+                                "title": "Bokura no Ameiro Protocol",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4049.webp"
+                            },
+                            {
+                                "url": "/potion-danomi-de-ikinobimasu",
+                                "title": "Potion-danomi de Ikinobimasu!",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4048.webp"
+                            },
+                            {
+                                "url": "/buta-no-liver-wa-kanetsu-shiro",
+                                "title": "Buta no Liver wa Kanetsu Shiro",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4047.webp"
+                            },
+                            {
+                                "url": "/kikansha-no-mahou-wa-tokubetsu-desu",
+                                "title": "Kikansha no Mahou wa Tokubetsu desu",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4046.webp"
+                            },
+                            {
+                                "url": "/kibou-no-chikara-otona-precure-23",
+                                "title": "Kibou no Chikara: Otona Precure '23",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4045.webp"
+                            },
+                            {
+                                "url": "/atarashii-joushi-wa-do-tennen",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4044.webp"
+                            },
+                            {
+                                "url": "/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story",
+                                "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4043.webp"
+                            },
+                            {
+                                "url": "/spy-x-family-season-2",
+                                "title": "Spy x Family Season 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4042.webp"
+                            },
+                            {
+                                "url": "/hikikomari-kyuuketsuki-no-monmon",
+                                "title": "Hikikomari Kyuuketsuki no Monmon",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4041.webp"
+                            },
+                            {
+                                "url": "/saihate-no-paladin-tetsusabi-no-yama-no-ou",
+                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4040.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/good-night-world",
+                                "title": "Good Night World",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4059.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2",
+                                "title": "Dr. Stone: New World Part 2",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4058.webp"
+                            },
+                            {
+                                "url": "/world-dai-star",
+                                "title": "World Dai Star",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3919.webp"
+                            },
+                            {
+                                "url": "/dr-stone-season-3",
+                                "title": "Dr. Stone: New World",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3893.webp"
+                            },
+                            {
+                                "url": "/isekai-quartet-movie-another-world",
+                                "title": "Isekai Quartet Movie: Another World",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3781.webp"
+                            },
+                            {
+                                "url": "/shin-tennis-no-oujisama-u17-world-cup",
+                                "title": "Shin Tennis no Ouji-sama: U-17 World Cup",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3655.webp"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-the-movie-3-world-heroes-mission",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3634.webp"
+                            },
+                            {
+                                "url": "/world-trigger-3rd-season",
+                                "title": "World Trigger 3rd Season",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3515.webp"
+                            },
+                            {
+                                "url": "/hetalia-worldstars",
+                                "title": "Hetalia World★Stars",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3411.webp"
+                            },
+                            {
+                                "url": "/world-witches-hasshin-shimasu",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3403.webp"
+                            },
+                            {
+                                "url": "/sword-art-online-alicization-war-of-underworld",
+                                "title": "Sword Art Online: Alicization - War of Underworld",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/3216.webp"
+                            },
+                            {
+                                "url": "/kino-no-tabi-the-beautiful-world-the-animated-series",
+                                "title": "Kino no Tabi: The Beautiful World - The Animated Series",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2824.webp"
+                            },
+                            {
+                                "url": "/accel-world-infinite-burst",
+                                "title": "Accel World: Infinite Burst",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2570.webp"
+                            },
+                            {
+                                "url": "/musaigen-no-phantom-world",
+                                "title": "Musaigen no Phantom World",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2423.webp"
+                            },
+                            {
+                                "url": "/hetalia-the-world-twinkle",
+                                "title": "Hetalia: The World Twinkle",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2276.webp"
+                            },
+                            {
+                                "url": "/seiken-tsukai-no-world-break",
+                                "title": "Seiken Tsukai no World Break",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2186.webp"
+                            },
+                            {
+                                "url": "/infinite-stratos-2-world-purge-hen",
+                                "title": "IS: Infinite Stratos 2 - World Purge-hen",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2143.webp"
+                            },
+                            {
+                                "url": "/world-trigger",
+                                "title": "World Trigger",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/2098.webp"
+                            },
+                            {
+                                "url": "/hetalia-the-beautiful-world",
+                                "title": "Hetalia: The Beautiful World",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/1698.webp"
+                            },
+                            {
+                                "url": "/accel-world-specials",
+                                "title": "Accel World Specials",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/1574.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": {
+                    "url": "/good-night-world",
+                    "title": "Good Night World",
+                    "description": "En el juego online \"Planet\" hay un poderoso equipo de cuatro jugadores. Este equipo se llama \"La Familia Akabane\" y sus miembros son una pseudofamilia que sólo existe en el juego. Aunque no lo saben, estos cuatro jugadores son en realidad una familia rota en la vida real. Un hermano mayor encerrado. Un hermano menor de alto rendimiento. Un padre que no es respetado por sus propios hijos. Una madre que descuida su propia casa. No conocen la calidez de la familia. Tampoco saben que la calidez de su familia en línea es sólo un sentimiento pasajero. Y, sobre todo, no saben que son una familia real. Centrada en las hazañas de la familia Akabane en el juego en línea \"Planet\", la historia presenta batallas contra monstruos, enfrentamientos con otros gremios y las maquinaciones que rodean a \"Black Bird\", el objetivo final del juego. La historia da un giro importante al entrelazar el mundo real y esta familia real.",
+                    "genre": "Comedia, Drama, Fantasía",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4059.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/good-night-world-2",
+                        "name": "Episodio 2",
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/good-night-world-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/puz15cmddwub",
+                        "quality": "Voe",
+                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09683/puz15cmddwub_,n,.urlset/master.m3u8?t=vW5Yic_xZYMWRBIGofrAtgVqoO03zlOV4r2RR1mSrNY&s=1697306864&e=14400&f=48416291&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=20.185&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://s1.vtube.network/hls/,x5s4vc4eofyki6cgaoi4tifmgciakvos52rxkbuy5hkefbg5b7vom5vtaoma,.urlset/master.m3u8",
+                        "quality": "PlusTube:HLS",
+                        "videoUrl": "https://s1.vtube.network/hls/,x5s4vc4eofyki6cgaoi4tifmgciakvos52rxkbuy5hkefbg5b7vom5vtaoma,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://n22484d.streamvid.net/hls/n5ajtqnaybmne42h4vfqjezvtvwv7yr6fodjrk4du,v7htvh4wgrgauezkwzq,o3htvh4wgrdtl6ij3kq,.urlset/master.m3u8",
+                        "quality": "PlusVid:HLS",
+                        "videoUrl": "https://n22484d.streamvid.net/hls/n5ajtqnaybmne42h4vfqjezvtvwv7yr6fodjrk4du,v7htvh4wgrgauezkwzq,o3htvh4wgrdtl6ij3kq,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://pkgodbsczedt.sw-cdnstream.com/v/01/01943/vh7vt0k81q26_n/2good_n.mp4?t=AXQTI-3PaUbF5fEiSTn75kZG_WKCNSGJGAkyfVcxJt8&s=1697306862&e=129600&f=9718703&sp=300&i=0.0",
+                        "quality": "PlusWish",
+                        "videoUrl": "https://pkgodbsczedt.sw-cdnstream.com/v/01/01943/vh7vt0k81q26_n/2good_n.mp4?t=AXQTI-3PaUbF5fEiSTn75kZG_WKCNSGJGAkyfVcxJt8&s=1697306862&e=129600&f=9718703&sp=300&i=0.0"
+                    },
+                    {
+                        "url": "https://h1006.streamhub.gg/hls/,sc6t66d5wmytnuzvow4c55zovx2kzzebhx7ozcugj5tlysluwqrwq4ekhqea,.urlset/master.m3u8",
+                        "quality": "PlusHub:HLS",
+                        "videoUrl": "https://h1006.streamhub.gg/hls/,sc6t66d5wmytnuzvow4c55zovx2kzzebhx7ozcugj5tlysluwqrwq4ekhqea,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxquthuz3b4quuoc2qqa2swdhdjsol5c66njxo2mlmq53wx3w6qzyp62bvznj3z7rv4hpjq/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxquthuz3b4quuoc2qqa2swdhdjsol5c66njxo2mlmq53wx3w6qzyp62bvznj3z7rv4hpjq/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=r2AmZZpvRKfxAJ&expires=1697376864&ip=FROsD0gOKxSHDN&token=nO5nT3kuGfWL",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=r2AmZZpvRKfxAJ&expires=1697376864&ip=FROsD0gOKxSHDN&token=nO5nT3kuGfWL"
+                    }
+                ],
+                "passed": true
             }
         }
     }

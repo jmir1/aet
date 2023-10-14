@@ -182,11 +182,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg"
                             },
                             {
-                                "url": "/api/v1/titles/8559?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Wolfwalkers",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ehAKuE48okTuonq6TpsNQj8vFTC.jpg"
-                            },
-                            {
                                 "url": "/api/v1/titles/8539?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Ist das Leben nicht schön?",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6KfBwuTrnSjW16atHg9IRzE5FK6.jpg"
@@ -255,6 +250,11 @@
                                 "url": "/api/v1/titles/3337?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Evangelion: 3.0+1.01 Thrice Upon A Time",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/eadcE25WY7XlnlhPnE9HuDWeLLj.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/3229?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die Legende vom Ozeanpianisten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eYy65D3XqA6fXTJFmVrdzH48EGj.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -396,33 +396,33 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsmlszuaqklcxstra/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsvhtixs65wvgkq5a/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsmlszuaqklcxstra/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsvhtixs65wvgkq5a/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsmlszuavrbjhn2na/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsvhtixsxejuijaya/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 400p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsmlszuavrbjhn2na/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsvhtixsxejuijaya/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsmlszuaqolcxstra/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsvhtixs6fwvgkq5a/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsmlszuaqolcxstra/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsvhtixs6fwvgkq5a/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsmlszuavvbjhn2na/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsvhtixsx4juijaya/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 400p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsmlszuavvbjhn2na/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsvhtixsx4juijaya/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
