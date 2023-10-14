@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-continental-42270/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/7d1ead27d0cf87a09dbbf2d93b1a4e33.jpg"
+                            },
+                            {
                                 "url": "/film/ripe-town-101497/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/dd504ea50be823a4b8122846912920ed.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/dark-harvest-101473/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/b3aeb7df7bb9f8e4006743a85f34e54c.jpg"
-                            },
-                            {
-                                "url": "/film/lessons-in-chemistry-101470/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/bbf0ac65e255ce091850e3c6e9c96089.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -180,6 +180,10 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/film/the-continental-42270/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/7d1ead27d0cf87a09dbbf2d93b1a4e33.jpg"
+                            },
                             {
                                 "url": "/film/rupauls-drag-race-uk-52355/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/92567dbef025136e72ba9cf43183533e.jpg"
@@ -207,10 +211,6 @@
                             {
                                 "url": "/film/parallel-world-100789/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/eb51602aa23f588eaf6bb906051edffc.jpg"
-                            },
-                            {
-                                "url": "/film/the-continental-42270/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/7d1ead27d0cf87a09dbbf2d93b1a4e33.jpg"
                             },
                             {
                                 "url": "/film/deliver-us-100990/",
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/ripe-town-101497/",
-                    "title": "Ripe Town",
+                    "url": "/film/the-continental-42270/",
+                    "title": "The Continental: From the World of John Wick",
                     "author": "",
-                    "description": "In the 37th year of the Wan Li Period of the Ming Dynasty, there were successive murders in the county seat of Jiangnan County. The identities of the dead were different and unrelated to each other. The corpses were arranged in bizarre poses, and there was a sentence left at the scene of each case. As the apprentice of the first victim, Xiaohu Kuaiqu Sanren cooperated with his friends to launch an investigation. With the deepening of the investigation, the three religions and nine streams, local farmers, workers and merchants of all colors appeared one after another. Amidst the fog, an old case from ten years ago surfaced. Who would the murderer be and for what purpose?\n\nQuality: HD\nRelease: 2023-10-13\nIMDb: n/a",
-                    "genre": "Mystery, Crime",
+                    "description": "As a spin-off of the hit film trilogy John Wick. This series will focus on the hotel chain that is home to the world's league of assassins.\n\nQuality: HD\nRelease: 2023-09-22\nIMDb: n/a",
+                    "genre": "Action & Adventure, Crime",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":0,\"ids\":[\"42270_0_1\",\"42270_0_2\",\"42270_0_3\"]}",
+                        "name": "Movie",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
