@@ -145,16 +145,16 @@
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/boku-no-hero-academia-2nd-season.jpg"
                             },
                             {
-                                "url": "/ijiranaide-nagatoro-san/",
-                                "title": "Ijiranaide, Nagatoro-san",
-                                "description": "A la estudiante de secundaria Hayase Nagatoro le encanta pasar su tiempo libre haciendo una cosa, ¡y eso es intimidar a su Senpai! Después de que Nagatoro y sus amigos se topan con los dibujos del aspirante a artista, disfrutan intimidando sin piedad al tímido Senpai. Nagatoro decide continuar con su cruel juego y lo visita a diario para poder obligar a Senpai a hacer lo que le interese en ese…",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/ijiranaide-nagatoro-san.jpg"
-                            },
-                            {
                                 "url": "/tensei-shitara-slime-datta-ken/",
                                 "title": "Tensei shitara Slime Datta Ken",
                                 "description": "El solitario Satoru Mikami de treinta y siete años está atascado en un trabajo sin futuro, descontento con su vida mundana, pero después de morir a manos de un ladrón, despierta a un nuevo comienzo en un reino de fantasía ... como un monstruo limo! Mientras se aclimata a su nueva existencia, sus hazañas con los otros monstruos desencadenaron una cadena de eventos que cambiarán su nuevo mundo…",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/tensei-shitara-slime-datta-ken.jpg"
+                            },
+                            {
+                                "url": "/ijiranaide-nagatoro-san/",
+                                "title": "Ijiranaide, Nagatoro-san",
+                                "description": "A la estudiante de secundaria Hayase Nagatoro le encanta pasar su tiempo libre haciendo una cosa, ¡y eso es intimidar a su Senpai! Después de que Nagatoro y sus amigos se topan con los dibujos del aspirante a artista, disfrutan intimidando sin piedad al tímido Senpai. Nagatoro decide continuar con su cruel juego y lo visita a diario para poder obligar a Senpai a hacer lo que le interese en ese…",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/ijiranaide-nagatoro-san.jpg"
                             },
                             {
                                 "url": "/rezero-kara-hajimeru-isekai-seikatsu-2nd-season/",
@@ -501,7 +501,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
