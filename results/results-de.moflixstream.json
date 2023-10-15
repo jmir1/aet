@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/api/v1/titles/101031?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "BTS Permission to Dance On Stage - Seoul: Live Viewing",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/d5Qg9sbntjqmuswpIuF7BltuUZq.jpg"
-                            },
-                            {
                                 "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "BTS: PERMISSION TO DANCE 온 스테이지 – LA",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/101031?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "BTS Permission to Dance On Stage - Seoul: Live Viewing",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/d5Qg9sbntjqmuswpIuF7BltuUZq.jpg"
                             },
                             {
                                 "url": "/api/v1/titles/231?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
@@ -374,11 +374,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/api/v1/titles/101031?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                    "title": "BTS Permission to Dance On Stage - Seoul: Live Viewing",
-                    "description": "BTS PERMISSION TO DANCE ON STAGE – SEOUL\r Wir bringen das lang ersehnte Konzert von BTS live ins Kino. Nach ihren 4 ausverkauften Konzerten im SoFi Stadion in LA im Dezember letzten Jahres, geht “PTD On Stage” endlich weiter.\r Seid dabei, wenn RM, Jin, Suga, J-Hope, Jimin, V und Jungkook das Olympische Stadion in Seoul nach 2 Jahren endlich wieder mit Musik füllen und erlebt gemeinsam mit der ARMY die beeindruckende und mitreißende Show.\r Was können wir erwarten? Vielleicht Dynamite, Butter, PTD oder auch Fake Love, Black Swan, Spring Day... oder etwas komplett Unerwartetes? Findet es heraus und erlebt BTS auf der großen Leinwand!\r Wir übertragen am 12. März das Live-Konzert aus Seoul für euch im Kino!\r Und keine Sorge, auch im Kino gilt: We don’t need permission to dance",
-                    "genre": "Musik",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/d5Qg9sbntjqmuswpIuF7BltuUZq.jpg",
+                    "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                    "title": "BTS: PERMISSION TO DANCE 온 스테이지 – LA",
+                    "description": "Ende 2021 trat die koreanische Band BTS im SoFi-Stadion in Los Angeles auf. Dabei performten sie natürlich auch ihre größten Hits „Dynamite“, „Butter“ und „Permission to Dance“.",
+                    "genre": "Dokumentarfilm, Musik",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -386,7 +386,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/api/v1/titles/101031?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                        "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                         "name": "Film",
                         "episode_number": 1.0
                     }

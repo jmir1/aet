@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
+                            {
                                 "url": "/edens-zero-2nd-season-25-bolum-final",
                                 "title": "Edens Zero 2nd Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179260001682720462.webp"
@@ -52,11 +57,6 @@
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301.webp"
                             },
                             {
-                                "url": "/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
-                            },
-                            {
                                 "url": "/hametsu-no-oukoku",
                                 "title": "Hametsu no Oukoku",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180510001696681741.webp"
@@ -96,6 +96,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/paradox-live-the-animation",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180570001697037541.webp"
+                            },
+                            {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
                             {
                                 "url": "/mf-ghost",
                                 "title": "MF Ghost",
@@ -175,16 +185,6 @@
                                 "url": "/keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi",
                                 "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180550001696852981.webp"
-                            },
-                            {
-                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180540001696792981.webp"
-                            },
-                            {
-                                "url": "/spy-x-family-season-2",
-                                "title": "Spy x Family Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -353,16 +353,135 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/sousou-no-frieren",
+                    "title": "Sousou no Frieren",
+                    "artist": "Madhouse",
+                    "description": "Büyücü Frieren, Kahraman Himmel, Rahip Heiter ve Cengaver Eisen'den oluşan kahraman ekibi, Şeytan Kral'ı alt eder ve dağılmadan önce evin yolunu tutarlar. Döndüklerinde ise yaklaşık on yıl süren yolculuklarını yâd ederler fakat elfler için on yıl, diğerlerine kıyasla çok kısa bir zaman dilimidir. Bu yüzden Frieren yoldaşlarının yavaş yavaş birer birer öldüğüne şahit olur. Heiter ömrünün sonlarına yaklaştığında Fern adında küçük bir kızı Frieren'in çırağı yapar. Bir sürü büyü toplamak yola çıkan bu ikili, eski kahraman ekibinin ziyaret ettiği yerleri tekrar ziyaret ederek amacı olmayan bir yola koyulur. Yolculukları boyunca Frieren, rahmetli olan yoldaşlarıyla daha derin bağlar kurmak için teptiği fırsatlardan duyduğu pişmanlıklarla yavaş yavaş yüzleşir.\nDiğer adlar: Frieren: Beyond Journey's End, Frieren at the Funeral\nJaponca İsmi: 葬送のフリーレン\nStüdyo: Madhouse",
+                    "genre": "Macera, Dram, Fantastik",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341l.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sousou-no-frieren-6-bolum",
+                        "name": "6. Bölüm",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/sousou-no-frieren-5-bolum",
+                        "name": "5. Bölüm",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/a8ev6urcaaud",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/09693/5whuxc7erojv_,n,.urlset/master.m3u8?t=g6JlAdFG7YmtWXwBcHORKxbJyFzs9zw4kdTn7w6wWvI&s=1697329955&e=14400&f=48468502&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=52.248&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/5whuxc7erojv",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/09693/5whuxc7erojv_,n,.urlset/master.m3u8?t=Hvc9Ssamcc6Xl2j8WmniNbVsu7GAN4VPaA3XcVaQSIM&s=1697329953&e=14400&f=48468492&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=52.248&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=3&sig=srgn_4r1fJs&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381",
+                        "quality": "[Holy] Okru:720p",
+                        "videoUrl": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=3&sig=srgn_4r1fJs&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381"
+                    },
+                    {
+                        "url": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=3&sig=9MtfhvDUfok&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901",
+                        "quality": "[Holy] Okru:720p",
+                        "videoUrl": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=3&sig=9MtfhvDUfok&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901"
+                    },
+                    {
+                        "url": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=5&sig=9saiofWjxQ8&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381",
+                        "quality": "[Holy] Okru:1080p",
+                        "videoUrl": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=5&sig=9saiofWjxQ8&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381"
+                    },
+                    {
+                        "url": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=5&sig=1daOVezTAwE&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901",
+                        "quality": "[Holy] Okru:1080p",
+                        "videoUrl": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=5&sig=1daOVezTAwE&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901"
+                    },
+                    {
+                        "url": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=2&sig=7XXxqT4ybvU&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381",
+                        "quality": "[Holy] Okru:480p",
+                        "videoUrl": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=2&sig=7XXxqT4ybvU&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381"
+                    },
+                    {
+                        "url": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=2&sig=PyVNcwN5ZO0&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901",
+                        "quality": "[Holy] Okru:480p",
+                        "videoUrl": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=2&sig=PyVNcwN5ZO0&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=v3OfYJSqN3ka7fWUo1ffJwPzlqEebbBN4DJqv31GBgcT4qcTp8D7f%2F7j4OULTle7L5egWuQsOLVR%2BFt20YwgkQYWd9cPOI3Nl35I%2BSFFO3%2BV316at9dF24920xtkJm0D8KuIHpmEmKRQmWWycg9WItcosqD%2FpgZRtDAPO8JL8IF4BNNsSpnnMFUQ5fBRSm6%2BQ%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=v3OfYJSqN3ka7fWUo1ffJwPzlqEebbBN4DJqv31GBgcT4qcTp8D7f%2F7j4OULTle7L5egWuQsOLVR%2BFt20YwgkQYWd9cPOI3Nl35I%2BSFFO3%2BV316at9dF24920xtkJm0D8KuIHpmEmKRQmWWycg9WItcosqD%2FpgZRtDAPO8JL8IF4BNNsSpnnMFUQ5fBRSm6%2BQ%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=1&sig=GJ761lr0oEw&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381",
+                        "quality": "[Holy] Okru:360p",
+                        "videoUrl": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=1&sig=GJ761lr0oEw&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381"
+                    },
+                    {
+                        "url": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=1&sig=lDBWzO_fSPg&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901",
+                        "quality": "[Holy] Okru:360p",
+                        "videoUrl": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=1&sig=lDBWzO_fSPg&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901"
+                    },
+                    {
+                        "url": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=0&sig=FJf0rIrNdrk&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381",
+                        "quality": "[Holy] Okru:240p",
+                        "videoUrl": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=0&sig=FJf0rIrNdrk&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381"
+                    },
+                    {
+                        "url": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=0&sig=70Z8w4LVhcc&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901",
+                        "quality": "[Holy] Okru:240p",
+                        "videoUrl": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=0&sig=70Z8w4LVhcc&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901"
+                    },
+                    {
+                        "url": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=4&sig=YWDZfZXvlyE&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381",
+                        "quality": "[Holy] Okru:144p",
+                        "videoUrl": "https://vd278.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=185.226.52.28&type=4&sig=YWDZfZXvlyE&ct=0&urls=45.136.22.16&clientType=0&zs=43&id=5289843952381"
+                    },
+                    {
+                        "url": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=4&sig=dt-YVfEzX-c&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901",
+                        "quality": "[Holy] Okru:144p",
+                        "videoUrl": "https://vd398.mycdn.me/?expires=1697416347831&srcIp=52.248.87.137&pr=10&srcAg=GECKO&ms=45.136.20.27&type=4&sig=dt-YVfEzX-c&ct=0&urls=45.136.21.19&clientType=0&zs=43&id=5289840347901"
+                    },
+                    {
+                        "url": "https://m40.uqload.io/3rfkvaytr5w2q4drdkv7xl7rdavluulrs553prpnd4bwzoamxa5r3y6ibkiq/v.mp4",
+                        "quality": "[Holy] Uqload",
+                        "videoUrl": "https://m40.uqload.io/3rfkvaytr5w2q4drdkv7xl7rdavluulrs553prpnd4bwzoamxa5r3y6ibkiq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/84154c4d50ef3c285757c908d6fbacb3/5280923.mp4",
+                        "quality": "[Holy] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/84154c4d50ef3c285757c908d6fbacb3/5280923.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5280923"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/a41964e423e97038face2df34dfad19d/5280924.mp4",
+                        "quality": "[Holy] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/a41964e423e97038face2df34dfad19d/5280924.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5280924"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

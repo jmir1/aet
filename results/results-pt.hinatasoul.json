@@ -37,6 +37,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/280065",
+                                "title": "Horimiya: Piece - Dublado ep 13",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/280065/1.jpg"
+                            },
+                            {
+                                "url": "/videos/280061",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan - Dublado ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/280061/1.jpg"
+                            },
+                            {
+                                "url": "/videos/280058",
+                                "title": "Pokemon (2023) ep 24",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/280058/1.jpg"
+                            },
+                            {
+                                "url": "/videos/280057",
+                                "title": "Ragna Crimson ep 3",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/280057/1.jpg"
+                            },
+                            {
+                                "url": "/videos/280055",
+                                "title": "Bokura no Ameiro Protocol ep 2",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/280055/1.jpg"
+                            },
+                            {
                                 "url": "/videos/280053",
                                 "title": "Potion-danomi de Ikinobimasu! ep 2",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/280053/1.jpg"
@@ -170,31 +195,6 @@
                                 "url": "/videos/279968",
                                 "title": "Hataraku Maou-sama!! 2nd Season - Dublado ep 11",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279968/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279964",
-                                "title": "Tate no Yuusha no Nariagari Season 3 ep 2",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279964/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279959",
-                                "title": "Good Night World ep 12 Final",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279959/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279937",
-                                "title": "Good Night World ep 1",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279937/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279925",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) ep 15",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279925/1.jpg"
-                            },
-                            {
-                                "url": "/videos/279924",
-                                "title": "Under Ninja ep 2",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/279924/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -365,27 +365,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
