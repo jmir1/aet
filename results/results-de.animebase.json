@@ -3,28 +3,550 @@
         "name": "Anime-Base (DE)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://abload.de/img/one-piece-stream-cove0qih7.jpg"
+                            },
+                            {
+                                "url": "/anime/bleach",
+                                "title": "Bleach",
+                                "thumbnail_url": "https://img.anime2you.de/2023/05/bleach-part2-disney-729x1024.jpg"
+                            },
+                            {
+                                "url": "/anime/dragonball-z",
+                                "title": "Dragonball Z",
+                                "thumbnail_url": "https://www.animefillerlist.com/sites/default/files/styles/anime_poster/public/ab001b1cb053ec0d7b1b47b0f7bf98e71647329181_full.jpg?itok=3mh1SPvQ"
+                            },
+                            {
+                                "url": "/anime/hunter-x-hunter-2011",
+                                "title": "Hunter X Hunter (2011)",
+                                "thumbnail_url": "https://www.animefillerlist.com/sites/default/files/styles/anime_poster/public/screenshot_2017-11-10-16-31-322.png?itok=tr42cRDu"
+                            },
+                            {
+                                "url": "/anime/dragonball-super",
+                                "title": "Dragonball Super",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/10/10383.webp"
+                            },
+                            {
+                                "url": "/anime/overlord",
+                                "title": "Overlord",
+                                "thumbnail_url": "https://abload.de/img/overlord-stream-coveramfih.jpg"
+                            },
+                            {
+                                "url": "/anime/attack-on-titan",
+                                "title": "Attack on Titan",
+                                "thumbnail_url": "https://s.to/public/img/cover/attack-on-titan-stream-cover-OrLuCbV7quzSUbXYBh87VSenQowbboWv_220x330.jpg"
+                            },
+                            {
+                                "url": "/anime/detektiv-conan",
+                                "title": "Detektiv Conan",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/1/1721.webp"
+                            },
+                            {
+                                "url": "/anime/black-clover",
+                                "title": "Black Clover",
+                                "thumbnail_url": "https://www.animefillerlist.com/sites/default/files/styles/anime_poster/public/5922b447-b04f-489d-85e1-af8735a191ea.jpeg?itok=UkU5YPqp"
+                            },
+                            {
+                                "url": "/anime/my-hero-academia",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://abload.de/img/my-hero-academia-strehedec.jpg"
+                            },
+                            {
+                                "url": "/anime/my-isekai-life",
+                                "title": "My Isekai Life",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15930.webp"
+                            },
+                            {
+                                "url": "/anime/dragonball",
+                                "title": "Dragonball",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/0/468.webp"
+                            },
+                            {
+                                "url": "/anime/the-eminence-in-shadow",
+                                "title": "The Eminence in Shadow",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/16/16003_300.webp"
+                            },
+                            {
+                                "url": "/anime/fairy-tail",
+                                "title": "Fairy Tail",
+                                "thumbnail_url": "https://www.animefillerlist.com/sites/default/files/styles/anime_poster/public/nx99749-tvz2lcpdmyrp.jpg?itok=0ohn5T9g"
+                            },
+                            {
+                                "url": "/anime/boruto-naruto-next-generations",
+                                "title": "Boruto: Naruto Next Generations",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/12/12103_300.webp"
+                            },
+                            {
+                                "url": "/anime/danmachi-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+                                "title": "Danmachi: Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/9/9940.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/ragna-crimson",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17216_300.webp"
+                            },
+                            {
+                                "url": "/anime/the-eminence-in-shadow",
+                                "title": "The Eminence in Shadow",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/16/16003_300.webp"
+                            },
+                            {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://abload.de/img/one-piece-stream-cove0qih7.jpg"
+                            },
+                            {
+                                "url": "/anime/jurassic-world-neue-abenteuer",
+                                "title": "Jurassic World: Neue Abenteuer",
+                                "thumbnail_url": "https://s.to/public/img/cover/jurassic-world-neue-abenteuer-stream-cover-Dx5Mit62dz7stqHYBfTWBUbXLg9iEk63_220x330.jpg"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/14/14790.jpg"
+                            },
+                            {
+                                "url": "/anime/journal-of-mysterious-creatures",
+                                "title": "Journal of Mysterious Creatures",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1523/101986.jpg"
+                            },
+                            {
+                                "url": "/anime/undead-unluck",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17648_300.webp"
+                            },
+                            {
+                                "url": "/anime/izumo",
+                                "title": "Izumo",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/3/3214_300.webp"
+                            },
+                            {
+                                "url": "/anime/the-kingdoms-of-ruin",
+                                "title": "The Kingdoms of Ruin",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/18/18166_300.webp"
+                            },
+                            {
+                                "url": "/anime/dr-stone",
+                                "title": "Dr. Stone",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/13/13989.webp"
+                            },
+                            {
+                                "url": "/anime/interviews-mit-monster-madchen",
+                                "title": "Interviews mit Monster-Mädchen",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/11/11725.webp"
+                            },
+                            {
+                                "url": "/anime/goblin-slayer",
+                                "title": "Goblin Slayer",
+                                "thumbnail_url": "https://www.animefillerlist.com/sites/default/files/styles/anime_poster/public/goblin_slayer_0.jpg?itok=zvX4yls6"
+                            },
+                            {
+                                "url": "/anime/the-rising-of-the-shield-hero",
+                                "title": "The Rising of the Shield Hero",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12575.webp"
+                            },
+                            {
+                                "url": "/anime/the-ancient-magus-bride",
+                                "title": "The Ancient Magus' Bride",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12310.webp"
+                            },
+                            {
+                                "url": "/anime/inazuma-eleven",
+                                "title": "Inazuma Eleven",
+                                "thumbnail_url": "http://cdn.anisearch.de/images/anime/cover/full/5/5069.jpg"
+                            },
+                            {
+                                "url": "/anime/inazuma-eleven-go",
+                                "title": "Inazuma Eleven Go",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/7/7041.webp"
+                            },
+                            {
+                                "url": "/anime/shangri-la-frontier",
+                                "title": "Shangri-La Frontier",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17504_300.webp"
+                            },
+                            {
+                                "url": "/anime/in-another-world-with-my-smartphone",
+                                "title": "In Another World With My Smartphone",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12358.webp"
+                            },
+                            {
+                                "url": "/anime/idolish7",
+                                "title": "IDOLiSH7",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12167.webp"
+                            },
+                            {
+                                "url": "/anime/ich-bin-groot",
+                                "title": "Ich bin Groot",
+                                "thumbnail_url": "https://de.web.img3.acsta.net/pictures/22/06/06/08/59/0490338.jpg"
+                            },
+                            {
+                                "url": "/anime/im-quitting-heroing",
+                                "title": "I'm Quitting Heroing",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/16/16667.webp"
+                            },
+                            {
+                                "url": "/anime/tokyo-revengers",
+                                "title": "Tokyo Revengers",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15335.jpg"
+                            },
+                            {
+                                "url": "/anime/dead-mount-death-play",
+                                "title": "Dead Mount Death Play",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/18/18276_300.webp"
+                            },
+                            {
+                                "url": "/anime/horimiya-the-missing-pieces",
+                                "title": "Horimiya: The Missing Pieces",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/18/18306_300.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/worlds-end-harem",
+                                "title": "World’s End Harem",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15258.webp"
+                            },
+                            {
+                                "url": "/anime/skeleton-knight-in-another-world",
+                                "title": "Skeleton Knight in Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/16/16203.webp"
+                            },
+                            {
+                                "url": "/anime/garakowa--restore-the-world-",
+                                "title": "Garakowa -Restore the World-",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/10/10190.webp"
+                            },
+                            {
+                                "url": "/anime/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
+                                "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/16/16820.webp"
+                            },
+                            {
+                                "url": "/anime/world-trigger",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15829.webp"
+                            },
+                            {
+                                "url": "/anime/death-march-to-the-parallel-world-rhapsody",
+                                "title": "Death March to the Parallel World Rhapsody",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12080.webp"
+                            },
+                            {
+                                "url": "/anime/strike-witches-501st-joint-fighter-wing-take-off",
+                                "title": "Strike Witches 501st Joint Fighter Wing Take Off!",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/13/13740.webp"
+                            },
+                            {
+                                "url": "/anime/sekai-seifuku-world-conquest-zvezda-plot",
+                                "title": "Sekai Seifuku: World Conquest Zvezda Plot",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/9/9230.webp"
+                            },
+                            {
+                                "url": "/anime/sd-gundam-world-sangoku-souketsuden",
+                                "title": "SD Gundam World: Sangoku Souketsuden",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/14/14225_300.webp"
+                            },
+                            {
+                                "url": "/anime/in-this-corner-of-the-world",
+                                "title": "In This Corner of the World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/8/8055_300.webp"
+                            },
+                            {
+                                "url": "/anime/in-another-world-with-my-smartphone",
+                                "title": "In Another World With My Smartphone",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12358.webp"
+                            },
+                            {
+                                "url": "/anime/world-witches-take-off",
+                                "title": "World Witches: Take Off!",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15401.webp"
+                            },
+                            {
+                                "url": "/anime/kinos-reise-die-wunderschone-welt",
+                                "title": "Kinos Reise: Die wunderschöne Welt",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12382.webp"
+                            },
+                            {
+                                "url": "/anime/yu-no-a-girl-who-chants-love-at-the-bound-of-this-world",
+                                "title": "Yu-No: A Girl Who Chants Love at the Bound of This World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/12/12155.webp"
+                            },
+                            {
+                                "url": "/anime/jurassic-world-neue-abenteuer",
+                                "title": "Jurassic World: Neue Abenteuer",
+                                "thumbnail_url": "https://s.to/public/img/cover/jurassic-world-neue-abenteuer-stream-cover-Dx5Mit62dz7stqHYBfTWBUbXLg9iEk63_220x330.jpg"
+                            },
+                            {
+                                "url": "/anime/the-reincarnation-of-the-strongest-exorcist-in-another-world",
+                                "title": "The Reincarnation of the Strongest Exorcist in Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17076_300.webp"
+                            },
+                            {
+                                "url": "/anime/accel-world",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/7/7328.webp"
+                            },
+                            {
+                                "url": "/anime/summoned-to-another-world-for-a-second-time",
+                                "title": "Summoned to Another World for a Second Time",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/16/16681_300.webp"
+                            },
+                            {
+                                "url": "/anime/campfire-cooking-in-another-world-with-my-absurd-skill",
+                                "title": "Campfire Cooking in Another World with my Absurd Skill",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17802_300.webp"
+                            },
+                            {
+                                "url": "/anime/arifureta-from-commonplace-to-worlds-strongest",
+                                "title": "Arifureta: From Commonplace to World’s Strongest",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/13/13079.jpg"
+                            },
+                            {
+                                "url": "/anime/saving-80000-gold-in-another-world-for-my-retirement",
+                                "title": "Saving 80,000 Gold in Another World for My Retirement",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17549_300.webp"
+                            },
+                            {
+                                "url": "/anime/farming-life-in-another-world",
+                                "title": "Farming Life in Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17253_300.webp"
+                            },
+                            {
+                                "url": "/anime/world-break-aria-of-curse-for-a-holy-swordsman",
+                                "title": "World Break: Aria of Curse for a Holy Swordsman",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/9/9452.webp"
+                            },
+                            {
+                                "url": "/anime/re-zero---starting-life-in-another-world",
+                                "title": "Re: ZERO - Starting Life in Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/10/10572.webp"
+                            },
+                            {
+                                "url": "/anime/wanna-be-the-strongest-in-the-world",
+                                "title": "Wanna Be the Strongest in the World!",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/8/8489_300.webp"
+                            },
+                            {
+                                "url": "/anime/sd-gundam-world-heroes",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/15/15765_300.webp"
+                            },
+                            {
+                                "url": "/anime/kinos-journey",
+                                "title": "Kino’s Journey",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/1/1599.webp"
+                            },
+                            {
+                                "url": "/anime/love-after-world-domination",
+                                "title": "Love after World Domination",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/16/16136.webp"
+                            },
+                            {
+                                "url": "/anime/the-iceblade-sorcerer-shall-rule-the-world",
+                                "title": "The Iceblade Sorcerer Shall Rule the World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17335_300.webp"
+                            },
+                            {
+                                "url": "/anime/the-relative-worlds",
+                                "title": "The Relative Worlds",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/13/13934.webp"
+                            },
+                            {
+                                "url": "/anime/parallel-world-pharmacy",
+                                "title": "Parallel World Pharmacy",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/16/16537.webp"
+                            },
+                            {
+                                "url": "/anime/konosuba-an-explosion-on-this-wonderful-world",
+                                "title": "Konosuba: An Explosion on This Wonderful World!",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17417_300.webp"
+                            },
+                            {
+                                "url": "/anime/worldend",
+                                "title": "WorldEnd",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/11/11646.webp"
+                            },
+                            {
+                                "url": "/anime/restaurant-to-another-world",
+                                "title": "Restaurant to Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/11/11753.webp"
+                            },
+                            {
+                                "url": "/anime/problem-children-are-coming-from-another-world-arent-they",
+                                "title": "Problem Children are Coming from Another World, aren't they?",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/7/7971.webp"
+                            },
+                            {
+                                "url": "/anime/our-last-crusade-or-the-rise-of-a-new-world",
+                                "title": "Our Last Crusade or the Rise of a New World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/14/14698.webp"
+                            },
+                            {
+                                "url": "/anime/uncle-from-another-world",
+                                "title": "Uncle from Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/16/16420.webp"
+                            },
+                            {
+                                "url": "/anime/high-school-prodigies-have-it-easy-even-in-another-world",
+                                "title": "High School Prodigies Have It Easy Even In Another World!",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/14/14244.webp"
+                            },
+                            {
+                                "url": "/anime/the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat",
+                                "title": "The World’s Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15983.webp"
+                            },
+                            {
+                                "url": "/anime/konosuba-gods-blessing-on-this-wonderful-world",
+                                "title": "KonoSuba: God's blessing on this wonderful world!",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/11/11210.jpg"
+                            },
+                            {
+                                "url": "/anime/harem-in-the-labyrinth-of-another-world",
+                                "title": "Harem in the Labyrinth of Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15812.webp"
+                            },
+                            {
+                                "url": "/anime/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too",
+                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17627_300.webp"
+                            },
+                            {
+                                "url": "/anime/the-world-god-only-knows",
+                                "title": "The World God Only Knows",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/6/6256.webp"
+                            },
+                            {
+                                "url": "/anime/alice-in-the-country-of-hearts",
+                                "title": "Alice in the Country of Hearts",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/6/6961.webp"
+                            },
+                            {
+                                "url": "/anime/the-world-is-still-beautiful",
+                                "title": "The World Is Still Beautiful",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/9/9352.webp"
+                            },
+                            {
+                                "url": "/anime/handyman-saitou-in-another-world",
+                                "title": "Handyman Saitou in Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/17/17024_300.webp"
+                            },
+                            {
+                                "url": "/anime/myriad-colors-phantom-world",
+                                "title": "Myriad Colors Phantom World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/10/10638.webp"
+                            },
+                            {
+                                "url": "/anime/from-the-new-world",
+                                "title": "From the New World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/7/7640.webp"
+                            },
+                            {
+                                "url": "/anime/drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist",
+                                "title": "Drugstore in Another World: The Slow Life of a Cheat Pharmacist",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/14/14853.webp"
+                            },
+                            {
+                                "url": "/anime/hetalia-world-stars",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15680.webp"
+                            },
+                            {
+                                "url": "/anime/the-world-ends-with-you-the-animation",
+                                "title": "The World Ends with You: The Animation",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/15/15355.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-izakaya-japanese-food-from-another-world",
+                                "title": "Isekai Izakaya: Japanese Food From Another World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/12/12720_300.webp"
+                            },
+                            {
+                                "url": "/anime/hello-world",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/full/14/14104.webp"
+                            },
+                            {
+                                "url": "/anime/ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world",
+                                "title": "Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World",
+                                "thumbnail_url": "https://cdn.anisearch.de/images/anime/cover/16/16533_300.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/anime/one-piece",
+                    "title": "One Piece",
+                    "description": "Reichtum, Macht und Ruhm. Der Mann, der sich dies alles erkämpft hatte, war Gold Roger, der König der Piraten. Als er hingerichtet wurde, waren seine letzten Worte: „Ihr wollt meinen Schatz? Den könnt ihr haben! Sucht ihn doch! Irgendwo habe ich den größten Schatz der Welt versteckt. Dieser Schatz ist das One Piece und er liegt irgendwo auf der Grandline. Damit brach das große Piratenzeitalter an …“ Time-Skip (nach den 2 Jahren): Nach einer langen Trennungszeit und eines individuellen Trainings der jeweiligen Strohhüte, hat sich die Crew endlich auf den Weg zur Fischmenschen Insel gemacht. Doch schon der Hinweg dorthin erweist sich als eine Herrausforderung und die scheinbar so ruhige und verlassende Unterwasserwelt ist von mehr Kreaturen und mysterischen Gestalten belebt als zunächst erwartet. Angesichts der weltbekannten Fischmenschen Insel scheint zunächst alles in Ordnung, doch der Schein trügt wie so oft und so schmieden sich im Hintergrund bereits neue Abenteuer für die Strohhut Bande zusammen! Quelle: aniSearch.de Filme & Specials: One Piece - Der Film, Abenteuer auf der Spiralinsel , Chopper auf der Insel der seltsamen Tiere, Das Dead End Rennen, Der Fluch des heiligen Schwertes, Baron Omatsuri und die geheime Insel, Schloss Karakuris Metall-Soldaten, Abenteuer in Alabasta: Die Wüstenprinzessin, Chopper und das Wunder der Winterkirschblüte , Strong World, One Piece Film Z, One Piece Film Gold\nOriginal name: One Piece\nErscheinungsjahr: 1999",
+                    "genre": "Abenteuer, Action, Alltagsleben, Drama, Fantasy, Fighting-Shounen, Ganbatte, Komödie, Schwerter & Co, Magie, Alternative Welt, Monster, Slapstick, Bionische Kräfte, Martial Arts, Krieg, Tragödie, Charakterstarker Held, Tsundere, Cyborg, Tiermensch, Erwachsenwerden, Essenszubereitung",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://abload.de/img/one-piece-stream-cove0qih7.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/one-piece?selector=div.panel.episode-div-Filme-Filme-838169",
+                        "name": "Film 14: One Piece Film: Red",
+                        "episode_number": 14.0,
+                        "scanlator": "Dubbed"
+                    },
+                    {
+                        "url": "/anime/one-piece?selector=div.panel.episode-div-Filme-Filme-838170",
+                        "name": "Film 14: One Piece Film: Red",
+                        "episode_number": 14.0,
+                        "scanlator": "Subbed"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn1010.tnmr.org/hls2/02/00005/b3ixqikadyth_h/index-v1-a1.m3u8?t=Ov3M9x-54twGO2vqiRP4Zu67EejzlkGkGmn87I59PE8&s=1697371892&e=43200&f=44129&i=0.3&sp=0",
+                        "quality": "DUB Lulustream - 720p",
+                        "videoUrl": "https://cdn1010.tnmr.org/hls2/02/00005/b3ixqikadyth_h/index-v1-a1.m3u8?t=Ov3M9x-54twGO2vqiRP4Zu67EejzlkGkGmn87I59PE8&s=1697371892&e=43200&f=44129&i=0.3&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://cdn1010.tnmr.org",
+                            "Referer": "https://cdn1010.tnmr.org/hls2/02/00005/b3ixqikadyth_h/master.m3u8?t=Ov3M9x-54twGO2vqiRP4Zu67EejzlkGkGmn87I59PE8&s=1697371892&e=43200&f=44129&i=0.3&sp=0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
