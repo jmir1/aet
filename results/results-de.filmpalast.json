@@ -177,6 +177,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/das-ende-assault-on-precinct-13",
+                                "title": "Das Ende - Assault on Precinct 13",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/das-ende-assault-on-precinct-13.jpg"
+                            },
+                            {
+                                "url": "/stream/gangs-of-paris",
+                                "title": "Gangs of Paris",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/gangs-of-paris.jpg"
+                            },
+                            {
                                 "url": "/stream/the-dark-side-of-the-moon",
                                 "title": "The Dark Side of the Moon",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/the-dark-side-of-the-moon.jpg"
@@ -325,16 +335,6 @@
                                 "url": "/stream/awareness",
                                 "title": "Awareness",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/awareness.jpg"
-                            },
-                            {
-                                "url": "/stream/what-we-do-in-the-shadows-s05e09",
-                                "title": "What We Do in the Shadows S05E09",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/what-we-do-in-the-shadows-s05e09.jpg"
-                            },
-                            {
-                                "url": "/stream/olaf-jagger",
-                                "title": "Olaf Jagger",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/olaf-jagger.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,7 +537,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
