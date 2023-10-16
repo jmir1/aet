@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/love-in-translation/",
+                                "title": "Love in Translation (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
+                            },
+                            {
                                 "url": "/the-legend-and-butterfly-sub-espanol/",
                                 "title": "The Legend and Butterfly",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yDICFxmkSD5hHXMRFTWx7k5YTg0.jpg"
@@ -55,11 +60,6 @@
                                 "url": "/venus-in-the-sky/",
                                 "title": "Venus in the Sky (5/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg"
-                            },
-                            {
-                                "url": "/love-in-translation/",
-                                "title": "Love in Translation (7/8)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
                             },
                             {
                                 "url": "/mi-vecino-totoro-2/",
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/love-in-translation/",
+                                "title": "Love in Translation (Completo)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
+                            },
+                            {
                                 "url": "/the-legend-and-butterfly-sub-espanol/",
                                 "title": "The Legend and Butterfly",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yDICFxmkSD5hHXMRFTWx7k5YTg0.jpg"
@@ -185,11 +190,6 @@
                                 "url": "/venus-in-the-sky/",
                                 "title": "Venus in the Sky (5/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/l6mpgTnHJPf1ASrMlO9o0DyuuHH.jpg"
-                            },
-                            {
-                                "url": "/love-in-translation/",
-                                "title": "Love in Translation (7/8)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg"
                             },
                             {
                                 "url": "/mi-vecino-totoro-2/",
@@ -394,26 +394,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-legend-and-butterfly-sub-espanol/",
-                    "title": "The Legend and Butterfly",
-                    "description": "Oda Nobunaga y Nohime se casaron originalmente para reparar una relación hostil entre regiones vecinas. Desafortunadamente, eran como aceite y agua, lo que resultó en un matrimonio un tanto infeliz. Cuando el enemigo de Oda, Imagawa Yoshimoto, ataca a Owari con su vasto ejército, Oda queda devastado por la abrumadora brecha en la fuerza militar. Sin embargo, Nohime le anima a no desesperarse y ambos elaboran un plan táctico que les permitirá superar las adversidades.",
-                    "genre": "Acción, Drama, Histórico, Romance",
+                    "url": "/love-in-translation/",
+                    "title": "Love in Translation (Completo)",
+                    "description": "Uno quiere tener un negocio exitoso, otro quiere perseguir con éxito a una chica china. Inesperadamente, sus búsquedas desesperadas acercan a los dos.",
+                    "genre": "Comedia, Drama, Romance, Yaoi / BL",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yDICFxmkSD5hHXMRFTWx7k5YTg0.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/50idZO1WI9utb3fSrxoph4w0dv0.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/4528767/",
-                        "name": "Sub. Español",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
