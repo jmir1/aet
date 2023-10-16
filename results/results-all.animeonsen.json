@@ -243,18 +243,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "PnIDjkGouPF5eo7r",
-                    "title": "MF Ghost",
-                    "author": "Felix Film",
-                    "description": "Year 202X. Self-driving electric cars have replaced internal combustion engine-based cars, becoming ubiquitous in Japan. However, a racing circuit known as MFG, which employs traditional internal combustion cars, is garnering popularity worldwide.\n\nKanata Livington, a 19-year-old Japanese-British racer, comes to Japan after graduating from a top racing school in the United Kingdom to take part in MFG and find his missing father, Ken Katagiri. Kanata moves to the home of his late mother's friends—Mr. and Mrs. Saionji—and enters the race under his father's surname, borrowing a Toyota 86 from Ogata, the couple's family friend. Despite the overwhelming disadvantages in specs, Kanata makes it to the top 15 while racing top-tier supercars, demonstrating his phenomenal skills.\n\nTakumi Fujiwara, the legendary downhill and rally racer, turns out to be Kanata's trainer. MFG employees who are familiar with Fujiwara and former racers from the same generation begin to notice Kanata. A new whirlwind is about to set off at MFG.\n\n(Source: MAL News)",
-                    "genre": "Racing, Seinen",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PnIDjkGouPF5eo7r",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 217: Expected start of the object '{', but had 'f' instead at path: $.mal_data\nJSON input: .....:\"\",\"mal_id\":50695,\"mal_data\":false,\"available\":true,\"date_a.....",
+                "passed": false
             },
             "episodes": {
                 "result": [

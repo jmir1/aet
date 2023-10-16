@@ -3,68 +3,12 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/goosebumps",
-                                "title": "Goosebumps",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/goosebumps.jpg"
-                            },
-                            {
-                                "url": "/serie/lessons-in-chemistry",
-                                "title": "Lessons in Chemistry",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/lessons-in-chemistry.jpg"
-                            },
-                            {
-                                "url": "/serie/the-fall-of-the-house-of-usher",
-                                "title": "The Fall of the House of Usher",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-fall-of-the-house-of-usher.jpg"
-                            },
-                            {
-                                "url": "/serie/frasier",
-                                "title": "Frasier",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/frasier.jpg"
-                            },
-                            {
-                                "url": "/serie/beckham",
-                                "title": "Beckham",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/beckham.jpg"
-                            },
-                            {
-                                "url": "/serie/gen-v",
-                                "title": "Gen V",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/gen-v.jpg"
-                            },
-                            {
-                                "url": "/serie/castlevania-nocturne",
-                                "title": "Castlevania: Nocturne",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/castlevania-nocturne.jpg"
-                            },
-                            {
-                                "url": "/serie/the-worst-of-evil",
-                                "title": "The Worst of Evil",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-worst-of-evil.jpg"
-                            },
-                            {
-                                "url": "/serie/the-long-shadow",
-                                "title": "The Long Shadow",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-long-shadow.jpg"
-                            },
-                            {
-                                "url": "/serie/fenris",
-                                "title": "Fenris",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/fenris.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -108,10 +52,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/goosebumps",
-                    "title": "Goosebumps (2023-)",
-                    "description": "A group of five high schoolers embark on a shadowy and twisted journey to investigate the tragic passing three decades earlier of a teen named Harold Biddle – while also unearthing dark secrets from their parents' past.",
-                    "genre": "Adventure, Comedy, Fantasy",
+                    "url": "/movie/edge-of-the-world",
+                    "title": "Edge of the World",
+                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
+                    "genre": "Adventure, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -119,14 +63,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/goosebumps/season-1#4",
-                        "name": "Episode S1E4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/serie/goosebumps/season-1#3",
-                        "name": "Episode S1E3",
-                        "episode_number": 3.0
+                        "url": "/movie/edge-of-the-world/download/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -134,19 +73,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/1080p.x265/Goosebumps.S01E04.1080p.WEB-DL.x265-RMTeam.SoftSub.BMB.6C4E45B8.mkv",
-                        "quality": "1080p.x265",
-                        "videoUrl": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/1080p.x265/Goosebumps.S01E04.1080p.WEB-DL.x265-RMTeam.SoftSub.BMB.6C4E45B8.mkv"
+                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
+                        "quality": "480p",
+                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
                     },
                     {
-                        "url": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/720p/Goosebumps.S01E04.720p.WEB-DL.x264-BMB.SoftSub.BMB.FBF10722.mkv",
-                        "quality": "720px",
-                        "videoUrl": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/720p/Goosebumps.S01E04.720p.WEB-DL.x264-BMB.SoftSub.BMB.FBF10722.mkv"
-                    },
-                    {
-                        "url": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/480p/Goosebumps.S01E04.480p.WEB-DL.x264-RMTeam.SoftSub.BMB.2033AF25.mkv",
-                        "quality": "480px",
-                        "videoUrl": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/480p/Goosebumps.S01E04.480p.WEB-DL.x264-RMTeam.SoftSub.BMB.2033AF25.mkv"
+                        "url": "https://dood.la/d/o16rzvmsv5u2",
+                        "quality": "720p",
+                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
                     }
                 ],
                 "passed": true
