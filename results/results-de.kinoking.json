@@ -3,274 +3,12 @@
         "name": "Kinoking (DE)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movies/mavka-hueterin-des-waldes/",
-                                "title": "Mavka – Hüterin des Waldes",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g276OEQdZqapsD6x479Mc2tR9xr.jpg"
-                            },
-                            {
-                                "url": "/movies/die-drei-musketiere-dartagnan/",
-                                "title": "Die drei Musketiere – D’Artagnan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2KDO9WTDK185JIjjOcqmtc5KoOR.jpg"
-                            },
-                            {
-                                "url": "/movies/geistervilla/",
-                                "title": "Geistervilla",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ubfuYcDMeA6iKg8M7YZaU6odRXv.jpg"
-                            },
-                            {
-                                "url": "/movies/the-creator/",
-                                "title": "The Creator",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8xtAuXA6zubKpWM93H88oGLD1fN.jpg"
-                            },
-                            {
-                                "url": "/movies/the-equalizer-3-the-final-chapter/",
-                                "title": "The Equalizer 3 – The Final Chapter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5f6eESHOHirfw4sEFDsbVgx1Rrc.jpg"
-                            },
-                            {
-                                "url": "/movies/indiana-jones-und-das-rad-des-schicksals/",
-                                "title": "Indiana Jones und das Rad des Schicksals",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Z5D7T7iZgrA6XkxGxlIruqa8sW.jpg"
-                            },
-                            {
-                                "url": "/movies/big-george-foreman/",
-                                "title": "Big George Foreman",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg"
-                            },
-                            {
-                                "url": "/movies/after-everything/",
-                                "title": "After Everything",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wFdXpIxe0iKtRCedagrmekvpZ8I.jpg"
-                            },
-                            {
-                                "url": "/movies/the-nun-ii/",
-                                "title": "The Nun II",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tPynKTxF9fJrY6cdLS243Cv6TxB.jpg"
-                            },
-                            {
-                                "url": "/movies/appendage/",
-                                "title": "Appendage",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mGwDi4MuvMiQS2G9mcSXDRZjttx.jpg"
-                            },
-                            {
-                                "url": "/movies/saw-x/",
-                                "title": "Saw X",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg"
-                            },
-                            {
-                                "url": "/movies/the-retirement-plan/",
-                                "title": "The Retirement Plan",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg"
-                            },
-                            {
-                                "url": "/movies/gran-turismo/",
-                                "title": "Gran Turismo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/n0NDzuLKZwayN0TzDkgySBcqaQ2.jpg"
-                            },
-                            {
-                                "url": "/movies/maximale-ladung/",
-                                "title": "Maximale Ladung",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/mjjzfNmrykoh9S6EyWXOp86HIBg.jpg"
-                            },
-                            {
-                                "url": "/movies/inside/",
-                                "title": "Inside",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg"
-                            },
-                            {
-                                "url": "/movies/spy-kids-armageddon/",
-                                "title": "Spy Kids: Armageddon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg"
-                            },
-                            {
-                                "url": "/movies/miraculous-ladybug-cat-noir-der-film/",
-                                "title": "Miraculous: Ladybug & Cat Noir – Der Film",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iMwj6vkISQGUZ4TppBHsUrUwDiF.jpg"
-                            },
-                            {
-                                "url": "/movies/blue-beetle/",
-                                "title": "Blue Beetle",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pIV1yvdtjY0gmLLTIgjUteNY62Q.jpg"
-                            },
-                            {
-                                "url": "/movies/ride-on/",
-                                "title": "Ride On",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iTAmmiD3LixSTbuLAgBsgauZLI4.jpg"
-                            },
-                            {
-                                "url": "/movies/the-dive/",
-                                "title": "The Dive",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/o43eMkNkWBBsyxEyyUeQwl4AOe.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/episodes/star-trek-lower-decks-4x7/",
-                                "title": "Star Trek: Lower Decks: 4×7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/z1qtzDwP5dBoTixlKRXmTfFHeiV.jpg"
-                            },
-                            {
-                                "url": "/episodes/the-kardashians-4x3/",
-                                "title": "The Kardashians: 4×3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/eHUrsBqCUZ1ex9arr4zXBzA4zTy.jpg"
-                            },
-                            {
-                                "url": "/episodes/the-kardashians-4x2/",
-                                "title": "The Kardashians: 4×2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sv3HOOg8hgxFWT4r2o9JJNhFNo.jpg"
-                            },
-                            {
-                                "url": "/episodes/the-morning-show-3x6/",
-                                "title": "The Morning Show: 3×6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/lcPSpEzolEoePyWjNhaqO0LFLEZ.jpg"
-                            },
-                            {
-                                "url": "/episodes/infiltration-2x8/",
-                                "title": "Infiltration: 2×8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/qZniyfpqP2simUu1W6eKOA5au3b.jpg"
-                            },
-                            {
-                                "url": "/episodes/power-book-iv-force-2x3/",
-                                "title": "Power Book IV: Force: 2×3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9UVHrdRPNdaoMrnaY3A5KtbEmCo.jpg"
-                            },
-                            {
-                                "url": "/episodes/what-we-do-in-the-shadows-5x9/",
-                                "title": "What We Do in the Shadows: 5×9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yET0DBkhLkHXtT0Lc6GPxTnKF7Z.jpg"
-                            },
-                            {
-                                "url": "/episodes/transplant-3x10/",
-                                "title": "Transplant: 3×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pYGF6wdfqlXdrEK2X808bXvNO4C.jpg"
-                            },
-                            {
-                                "url": "/episodes/transplant-3x9/",
-                                "title": "Transplant: 3×9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7MY8Q8fkDTQiQk23noCUJY66EMO.jpg"
-                            },
-                            {
-                                "url": "/episodes/solar-opposites-4x11/",
-                                "title": "Solar Opposites: 4×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xYsLLApGuhn6hgpryTrMFnQVpuk.jpg"
-                            },
-                            {
-                                "url": "/episodes/murdoch-mysteries-5x13/",
-                                "title": "Murdoch Mysteries: 5×13",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/w13s4kQsUdzHp5VfqCTUblUnc8H.jpg"
-                            },
-                            {
-                                "url": "/episodes/murdoch-mysteries-5x12/",
-                                "title": "Murdoch Mysteries: 5×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/l0wJmsEEbi9IdewOU7q47xLnKPC.jpg"
-                            },
-                            {
-                                "url": "/episodes/fire-country-1x10/",
-                                "title": "Fire Country: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5KFIvLC1dOZLmrmRTBfxJ3s32qr.jpg"
-                            },
-                            {
-                                "url": "/episodes/fire-country-1x9/",
-                                "title": "Fire Country: 1×9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uc0FU1qtch0w28e0PEIRKScGHNv.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x12/",
-                                "title": "The Devils Plan: 1×12",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5FYh8NabRopx9UJTLqYVYBK1ETF.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x11/",
-                                "title": "The Devils Plan: 1×11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9QVBYnaWTFCHiQc2YbYbzUiekTW.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x10/",
-                                "title": "The Devils Plan: 1×10",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2yzpXEHtQWhny8D2K3YXwm0w1ep.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x9/",
-                                "title": "The Devils Plan: 1×9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pXy9pCurENmIh7qe32H6F9vQUAX.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x8/",
-                                "title": "The Devils Plan: 1×8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/52pTzAhPVWnzUzF6350NSykntt.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x7/",
-                                "title": "The Devils Plan: 1×7",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/fbtQGPSNm8HUPxAxsWfrPfoMUXJ.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x6/",
-                                "title": "The Devils Plan: 1×6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wgFJgATsLG514XLnSSr9Ge2BAvm.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x5/",
-                                "title": "The Devils Plan: 1×5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/shhkdVOSqhkdECc8qFmxZf6u2Dk.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x4/",
-                                "title": "The Devils Plan: 1×4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/80hFM4pnNVDcIlojmHZZVRPytyr.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x3/",
-                                "title": "The Devils Plan: 1×3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/6HNOeSwXJMHzWGWziYH9YYJfuDq.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x2/",
-                                "title": "The Devils Plan: 1×2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/uDEFNF3oC3SudPQ7pmyzh6svuuf.jpg"
-                            },
-                            {
-                                "url": "/episodes/데블스-플랜-1x1/",
-                                "title": "The Devils Plan: 1×1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wWLnMzA2IVfC5e9Q5hJs12T23Ne.jpg"
-                            },
-                            {
-                                "url": "/episodes/eisige-welten-ii-1x6/",
-                                "title": "Eisige Welten II: 1×6",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pUWpAO24fHgQTGQXtw3k9EMOQ1T.jpg"
-                            },
-                            {
-                                "url": "/episodes/eisige-welten-ii-1x5/",
-                                "title": "Eisige Welten II: 1×5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/52z6GReNi5TJDfYRCYewSrHtIyi.jpg"
-                            },
-                            {
-                                "url": "/episodes/eisige-welten-ii-1x4/",
-                                "title": "Eisige Welten II: 1×4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/pRieeSBts6LwyBNboBs5AoPKjUd.jpg"
-                            },
-                            {
-                                "url": "/episodes/eisige-welten-ii-1x3/",
-                                "title": "Eisige Welten II: 1×3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/aAZiAdd88BYNYRpXQb5V1sHHbtD.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -434,11 +172,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/mavka-hueterin-des-waldes/",
-                    "title": "Mavka – Hüterin des Waldes",
-                    "description": "Hinter den hohen Schwarzen Bergen liegt ein Königreich, das von fantastischen Kreaturen bevölkert wird. Seit Jahrhunderten beschützen sie eine Quelle des ewigen Lebens mit unendlichen Kräften vor der Welt der Menschen. Bis Mavka, die neue Auserwählte des Zauberwaldes, den jungen Menschen Lukash kennenlernt, der sich in die Berge verirrt hat. Entgegen den seit Jahrtausenden geltenden Regeln treffen sie sich wieder, ohne auf die Folgen zu achten, die das Königreich treffen werden …\n\nOriginaltitel: Мавка: Лісова пісня",
-                    "genre": "Abenteuer, Animation, Familie, Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/g276OEQdZqapsD6x479Mc2tR9xr.jpg",
+                    "url": "/movies/justice-league-warworld/",
+                    "title": "Justice League: Warworld",
+                    "description": "\nOriginaltitel: Justice League: Warworld",
+                    "genre": "Action, Animation, Science Fiction",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/qmevjlNDaWoEughGlXFWHbQ4TaR.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +184,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/mavka-hueterin-des-waldes/",
+                        "url": "/movies/justice-league-warworld/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-legend-and-butterfly-sub-espanol/",
+                                "title": "The Legend and Butterfly",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yDICFxmkSD5hHXMRFTWx7k5YTg0.jpg"
+                            },
+                            {
                                 "url": "/naughty-babe/",
                                 "title": "Naughty Babe (7/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg"
@@ -43,7 +48,7 @@
                             },
                             {
                                 "url": "/strong-girl-nam-soon/",
-                                "title": "Strong Girl Nam Soon (03/16)",
+                                "title": "Strong Girl Nam Soon (04/16)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
                             },
                             {
@@ -120,11 +125,6 @@
                                 "url": "/low-frequency/",
                                 "title": "Low Frequency (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
-                            },
-                            {
-                                "url": "/love-tractor/",
-                                "title": "Love Tractor",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/4vQC2gjorIcZEIpGTiO9HyNw4xG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-legend-and-butterfly-sub-espanol/",
+                                "title": "The Legend and Butterfly",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yDICFxmkSD5hHXMRFTWx7k5YTg0.jpg"
+                            },
+                            {
                                 "url": "/naughty-babe/",
                                 "title": "Naughty Babe (7/10)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg"
@@ -173,7 +178,7 @@
                             },
                             {
                                 "url": "/strong-girl-nam-soon/",
-                                "title": "Strong Girl Nam Soon (03/16)",
+                                "title": "Strong Girl Nam Soon (04/16)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/ktB3epuAUGjVE6te7udTUAHBuv2.jpg"
                             },
                             {
@@ -250,11 +255,6 @@
                                 "url": "/low-frequency/",
                                 "title": "Low Frequency (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/dUilngjzr9fd1dky7cFVXYGLUGg.jpg"
-                            },
-                            {
-                                "url": "/love-tractor/",
-                                "title": "Love Tractor",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/4vQC2gjorIcZEIpGTiO9HyNw4xG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/naughty-babe/",
-                    "title": "Naughty Babe (7/10)",
-                    "description": "Su nombre es Khondiao, pero eso no significa que quiera estar solo! Como la angustia ya no es soportable, él decide huir de la futura boda a Suiza, sin sospechar que Hia Yi intentará alcanzarlo y sufrirá un accidente automovilístico. Además, Hia Yi pierde la memoria y cuando se despierta acusa a Khondiao de ser quien desprecia la idea de casarse. ¡¿Qué le pasa, eh?!",
-                    "genre": "Comedia, Romance, Yaoi / BL",
+                    "url": "/the-legend-and-butterfly-sub-espanol/",
+                    "title": "The Legend and Butterfly",
+                    "description": "Oda Nobunaga y Nohime se casaron originalmente para reparar una relación hostil entre regiones vecinas. Desafortunadamente, eran como aceite y agua, lo que resultó en un matrimonio un tanto infeliz. Cuando el enemigo de Oda, Imagawa Yoshimoto, ataca a Owari con su vasto ejército, Oda queda devastado por la abrumadora brecha en la fuerza militar. Sin embargo, Nohime le anima a no desesperarse y ambos elaboran un plan táctico que les permitirá superar las adversidades.",
+                    "genre": "Acción, Drama, Histórico, Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/jaG8NBcLq7Wm7I8Uh5IppHJ9uFJ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/yDICFxmkSD5hHXMRFTWx7k5YTg0.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/4528767/",
+                        "name": "Sub. Español",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

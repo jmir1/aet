@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/inu-ou-sub-espanol",
+                                "title": "Inu-Ou",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/inu-ou-1697411483.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/rail-romanesque-2-sub-espanol",
                                 "title": "Rail Romanesque 2",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/rail-romanesque-2-1697307416.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/arknights-fuyukomori-kaerimichi-sub-espanol",
                                 "title": "Arknights: Fuyukomori Kaerimichi",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/arknights-fuyukomori-kaerimichi-1695740869.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-sub-espanol",
-                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-1695740851.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,13 +324,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rail-romanesque-2-sub-espanol",
-                    "title": "Rail Romanesque 2",
-                    "description": "Segunda temporada de Rail Romanesque.",
-                    "genre": "Recuerdos de la vida",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/rail-romanesque-2-1697307416.jpg?v=1.5",
+                    "url": "/anime/inu-ou-sub-espanol",
+                    "title": "Inu-Ou",
+                    "description": "Después de bucear en busca de una espada antigua en las aguas donde se libró la batalla de Dan-no-ura y cayó el clan Heike, Tomona pierde la vista y pierde a su padre. Con pocas opciones además de aprender a tocar el biwa, Tomona adquiere suficie...",
+                    "genre": "Fantasía",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/inu-ou-1697411483.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -338,12 +338,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/rail-romanesque-2-episodio-2",
-                        "name": "Episodio 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/ver/rail-romanesque-2-episodio-1",
+                        "url": "/ver/inu-ou-episodio-1",
                         "name": "Episodio 1",
                         "episode_number": 1.0
                     }
@@ -351,18 +346,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxv2zxuz3b4quuoc6qq4pczkpibhw72p5gczepjxnsvqo4atxe3xgafivowu2ju3d3z7o2a/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxv2zxuz3b4quuoc6qq4pczkpibhw72p5gczepjxnsvqo4atxe3xgafivowu2ju3d3z7o2a/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
