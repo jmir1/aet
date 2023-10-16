@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/gg4grgqrhpse",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3afnu6tmwys6nwnm.voe-network.net/engine/hls2/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=so4_v-Vs1lV2Jr2x4zHhu2nbMjPOIWZBdkGshOJNPeI&s=1697458346&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-pimjsfbdk4dnbokr.voe-network.net/engine/hls2-c/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=CttP73Bo-cSkASKxDQHrxv3wg9AVhoazWEiu8T-u530&s=1697479741&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=40.84&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/gg4grgqrhpse",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-3afnu6tmwys6nwnm.voe-network.net/engine/hls2/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=so4_v-Vs1lV2Jr2x4zHhu2nbMjPOIWZBdkGshOJNPeI&s=1697458346&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-pimjsfbdk4dnbokr.voe-network.net/engine/hls2-c/01/09693/gg4grgqrhpse_,n,.urlset/master.m3u8?t=CttP73Bo-cSkASKxDQHrxv3wg9AVhoazWEiu8T-u530&s=1697479741&e=14400&f=48467285&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=40.84&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -314,6 +314,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/inu-oh",
+                                "title": "Inu-Oh (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yKpHbtTxgJfOPyQRuB1NP04hdjV.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-inheritance",
+                                "title": "The Inheritance (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/92IuSMSPkdgS95F7uWAvhgAmNA7.jpg"
+                            },
                             {
                                 "url": "/pelicula/lore",
                                 "title": "Lore (2017)",
@@ -423,16 +433,6 @@
                                 "url": "/pelicula/suburbanos-2",
                                 "title": "Suburbanos 2 (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/9v7znYQVo0YKMLQrU9rsaIZIVNJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-curandero",
-                                "title": "El curandero (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cQ5cBYLKQ2neC5oncuNtwZudmd3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/guardianes-del-museo",
-                                "title": "Guardianes del Museo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yCMFw4UnI2jACjKzoFqnheMUzrS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -572,10 +572,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/lore",
-                    "title": "Lore (2017)",
-                    "description": "",
-                    "genre": "Suspense",
+                    "url": "/pelicula/inu-oh",
+                    "title": "Inu-Oh (2021)",
+                    "description": "Inu-Oh era un auténtico artista de Sarugaku Noh que tuvo un gran éxito en Japón durante el siglo XIV. Hoy en día es muy poco conocido a causa de la escasa información que existe sobre su obra. Ahora, casi 600 años después, este proyecto refleja la legendaria amistad entre Inu-Oh y un artista de Biwa con el que entabló una profunda amistad.",
+                    "genre": "Drama, Animación, Música, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -585,7 +585,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/lore",
+                        "url": "/pelicula/inu-oh",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -593,8 +593,23 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/1dyzasfaxn8n",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-bvomovz8fazqzzcu.voe-network.net/engine/hls2-c/01/09701/zbeqeqril9io_,n,.urlset/master.m3u8?t=8pXgPMcVLQSgMSQqkRrcUdxXmHL_907blRyo14Ejwxw&s=1697479748&e=14400&f=48508008&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=40.84&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04800/r97k25ppbd6i_h/index-v1-a1.m3u8?t=GmRom9Vweh5AAXSbQac2OfNdL1TOvleuJ4dW5_PclTU&s=1697479745&e=43200&f=24005557&srv=14&asn=8075&sp=2000",
+                        "quality": "720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04800/r97k25ppbd6i_h/index-v1-a1.m3u8?t=GmRom9Vweh5AAXSbQac2OfNdL1TOvleuJ4dW5_PclTU&s=1697479745&e=43200&f=24005557&srv=14&asn=8075&sp=2000",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/r67terj5wgnn",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     },

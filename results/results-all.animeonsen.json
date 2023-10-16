@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "z64vI6mbp0WVoiA4",
+                                "title": "Toaru Ossan no VRMMO Katsudouki",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/z64vI6mbp0WVoiA4"
+                            },
+                            {
+                                "url": "TYC9gd6utsCnbtcy",
+                                "title": "Seiken Gakuin no Makentsukai",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/TYC9gd6utsCnbtcy"
+                            },
+                            {
+                                "url": "w2zDT50yv4AgXTRm",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou.",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/w2zDT50yv4AgXTRm"
+                            },
+                            {
+                                "url": "4ni4SpgXvJ5Eg7Qa",
+                                "title": "Shy",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/4ni4SpgXvJ5Eg7Qa"
+                            },
+                            {
+                                "url": "Sduoim2Lk8ARtXox",
+                                "title": "Kamonohashi Ron no Kindan Suiri",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/Sduoim2Lk8ARtXox"
+                            },
+                            {
                                 "url": "PnIDjkGouPF5eo7r",
                                 "title": "MF Ghost",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/PnIDjkGouPF5eo7r"
@@ -80,31 +105,6 @@
                                 "url": "LQf5VCVYgecMGZob",
                                 "title": "Sousou no Frieren",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/LQf5VCVYgecMGZob"
-                            },
-                            {
-                                "url": "ejkdUevNW7MTmSmJ",
-                                "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/ejkdUevNW7MTmSmJ"
-                            },
-                            {
-                                "url": "cCKe9nfh8oMEtw70",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/cCKe9nfh8oMEtw70"
-                            },
-                            {
-                                "url": "vEcPi8ayl2aLaqa5",
-                                "title": "Tate no Yuusha no Nariagari 3rd Season",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/vEcPi8ayl2aLaqa5"
-                            },
-                            {
-                                "url": "qsihQTLmeJxip5FD",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/qsihQTLmeJxip5FD"
-                            },
-                            {
-                                "url": "AlDypiGf18hnrvai",
-                                "title": "Under Ninja",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/AlDypiGf18hnrvai"
                             }
                         ],
                         "hasNextPage": true
@@ -243,19 +243,29 @@
                 "passed": true
             },
             "details": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 217: Expected start of the object '{', but had 'f' instead at path: $.mal_data\nJSON input: .....:\"\",\"mal_id\":50695,\"mal_data\":false,\"available\":true,\"date_a.....",
-                "passed": false
+                "result": {
+                    "url": "z64vI6mbp0WVoiA4",
+                    "title": "Toaru Ossan no VRMMO Katsudouki",
+                    "author": "Maho Film",
+                    "description": "A new type of VRMMO called \"One More Free Life Online\" is out. He logs in as a young boy avatar called \"Earth.\" Taichi Tanaka (38, single) has a regular office job and enjoys playing video games in his free time. In a world where the player is free to do as they wish, he decides to master a skill that's been deemed to be useless! He makes potions that are too much of a hassle to make, cooks food that is excessively too good, and uses bizarre original weapons to hunt monsters...\n\n(Source: Alpha Manga)",
+                    "genre": "Action, Adventure, Comedy, Fantasy, Video Game",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/z64vI6mbp0WVoiA4",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "PnIDjkGouPF5eo7r/video/3",
-                        "name": "Episode 3: The Kamaboko Straight",
+                        "url": "z64vI6mbp0WVoiA4/video/3",
+                        "name": "Episode 3: Earth, Fairy-playah?",
                         "episode_number": 3.0
                     },
                     {
-                        "url": "PnIDjkGouPF5eo7r/video/2",
-                        "name": "Episode 2: The Shocking New MFG Generation",
+                        "url": "z64vI6mbp0WVoiA4/video/2",
+                        "name": "Episode 2: Earth Joins His First Party",
                         "episode_number": 2.0
                     }
                 ],
@@ -264,49 +274,45 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/PnIDjkGouPF5eo7r/3/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/z64vI6mbp0WVoiA4/3/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/PnIDjkGouPF5eo7r/3/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/z64vI6mbp0WVoiA4/3/manifest.mpd",
                         "headers": {
-                            "referer": "https://animeonsen.xyz",
-                            "user-agent": "Aniyomi/app (mobile)"
+                            "user-agent": "Aniyomi/app (mobile)",
+                            "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/en-US/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/en-US/3",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/ar-ME/3",
-                                "lang": "العربية"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/ru-RU/3",
+                                "lang": "Русский"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/de-DE/3",
-                                "lang": "Deutsch"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/es-ES/3",
-                                "lang": "Español (Spain)"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/es-LA/3",
-                                "lang": "Español"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/fr-FR/3",
-                                "lang": "Français"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/it-IT/3",
-                                "lang": "Italiano"
-                            },
-                            {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/pt-BR/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/pt-BR/3",
                                 "lang": "Português (Brasil)"
                             },
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/PnIDjkGouPF5eo7r/ru-RU/3",
-                                "lang": "Русский"
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/it-IT/3",
+                                "lang": "Italiano"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/fr-FR/3",
+                                "lang": "Français"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/es-LA/3",
+                                "lang": "Español"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/es-ES/3",
+                                "lang": "Español (Spain)"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/z64vI6mbp0WVoiA4/de-DE/3",
+                                "lang": "Deutsch"
                             }
                         ]
                     }
