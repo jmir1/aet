@@ -333,8 +333,18 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": {
+                    "url": "/animes/shingeki-no-kyojin-the-final-season-kanketsu-hen-todos-os-episodios",
+                    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+                    "author": "MAPPA",
+                    "description": "O destino do mundo está na balança quando Eren libera o poder supremo dos Titãs. Com uma determinação ardente de eliminar todos os que ameaçam Eldia, ele lidera um exército imparável de Titãs Colossais em direção a Marley. Agora, uma tripulação heterogênea de seus ex-companheiros e inimigos luta para deter sua missão mortal, a única questão é: eles podem detê-lo?\n\nNome alternativo: Attack on Titan: Final Season - The Final Chapters\nDia de lançamento: Sábado\nTipo: Legendado\nAno: 4 de março de 2023\nEpisódios: ??\nTemporada: Primavera",
+                    "genre": "Ação, Drama, Fantasia",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animefire.vip/img/animes/shingeki-no-kyojin-the-final-season-kanketsu-hen.jpg?v=1",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
@@ -347,8 +357,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://lightspeedst.net/s5/mp4_temp/shingeki-no-kyojin-the-final-season-kanketsu-hen/1/720p.mp4",
+                        "quality": "720p",
+                        "videoUrl": "https://lightspeedst.net/s5/mp4_temp/shingeki-no-kyojin-the-final-season-kanketsu-hen/1/720p.mp4"
+                    },
+                    {
+                        "url": "https://lightspeedst.net/s5/mp4_temp/shingeki-no-kyojin-the-final-season-kanketsu-hen/1/480p.mp4",
+                        "quality": "360p",
+                        "videoUrl": "https://lightspeedst.net/s5/mp4_temp/shingeki-no-kyojin-the-final-season-kanketsu-hen/1/480p.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

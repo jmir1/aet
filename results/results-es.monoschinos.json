@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/be-my-wife-s3-sub-espanol",
+                                "title": "Be My Wife S3",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s3-1697512987.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/be-my-wife-s2-sub-espanol",
+                                "title": "Be My Wife S2",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s2-1697503878.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/be-my-wife-s1-sub-espanol",
+                                "title": "Be My Wife S1",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s1-1697503707.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/inu-ou-sub-espanol",
                                 "title": "Inu-Ou",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/inu-ou-1697411483.jpg?v=1.5"
@@ -140,21 +155,6 @@
                                 "url": "/anime/paradox-live-the-animation-sub-espanol",
                                 "title": "Paradox Live the Animation",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/paradox-live-the-animation-1695740894.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kikansha-no-mahou-wa-tokubetsu-desu-sub-espanol",
-                                "title": "Kikansha no Mahou wa Tokubetsu desu",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/kikansha-no-mahou-wa-tokubetsu-desu-1695740885.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/shy-sub-espanol",
-                                "title": "Shy",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/shy-1695740876.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/arknights-fuyukomori-kaerimichi-sub-espanol",
-                                "title": "Arknights: Fuyukomori Kaerimichi",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/arknights-fuyukomori-kaerimichi-1695740869.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,13 +324,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/inu-ou-sub-espanol",
-                    "title": "Inu-Ou",
-                    "description": "Después de bucear en busca de una espada antigua en las aguas donde se libró la batalla de Dan-no-ura y cayó el clan Heike, Tomona pierde la vista y pierde a su padre. Con pocas opciones además de aprender a tocar el biwa, Tomona adquiere suficie...",
-                    "genre": "Fantasía",
+                    "url": "/anime/be-my-wife-s3-sub-espanol",
+                    "title": "Be My Wife S3",
+                    "description": "Su Luo fue secuestrada por su rival amoroso Li Yaoyao y su maestra Hada Yanxia, quienes usaron con fuerza el hechizo de alteración de apariencia para revelar su verdadero rostro. Para escapar de su control, Su Luo destruyó la cueva del Hada Yanxia ...",
+                    "genre": "Acción, Drama, Fantasía, Histórico, Artes Marciales, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/inu-ou-1697411483.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s3-1697512987.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -338,16 +338,31 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/inu-ou-episodio-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/ver/be-my-wife-s3-episodio-16",
+                        "name": "Episodio 16",
+                        "episode_number": 16.0
+                    },
+                    {
+                        "url": "/ver/be-my-wife-s3-episodio-15",
+                        "name": "Episodio 15",
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www12.mp4upload.com:183/d/q6xt7h7xz3b4quuocgqqu2yrinhtqzdci5rsqg5qloe6txquy6qtwa3fiv3odxjleqk4umdg/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xt7h7xz3b4quuocgqqu2yrinhtqzdci5rsqg5qloe6txquy6qtwa3fiv3odxjleqk4umdg/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

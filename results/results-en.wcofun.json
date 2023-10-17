@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/shy-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvW3_BDQthrPc8a8APdFUAbHsfhkR82WiFyYASrx_nYCsiQUnRZfLP4yhJ7oh4PWMYJiC_ERGma-IBBAce75G9DCVQ6wJPBws4itHbtiXbRNkmh2iW7JhP4YY3h62CMaZ7uKVHamLOOUb6pXKGKVYzVsomf25g8UaFzTVjy6mI80MQaGZ-SR9Hzhdbmo8eU9KdBjxtVoHu_meHcFtvaFEMZCqDBkPQL8ZZY2mb1KQ6EBwRfkHSndsd-8LYg3RDbyw7xBdU2RsbGmzpXjb5uAUDq4DM-_f-Q-t5hY36TLI_-wzpnrdur99-dE0FBZA4ICvLA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvW3_BDQthrPc8a8APdFUAbHsfhkR82WiFyYASrx_nYCsiQUnRZfLP4yhJ7oh4PWMYJiC_ERGma-IBBAce75G9DCVQ6wJPBws4itHbtiXbRNkmh2iW7JhP4YY3h62CMaZ7uKVHamLOOUb6pXKGKVYzVsomf25g8UaFzTVjy6mI80MQaGZ-SR9Hzhdbmo8eU9KdBjxtVoHu_meHcFtvaFEMZCqDBkPQL8ZZY2mb1KQ6EBwRfkHSndsd-8LYg3RDbyw7xBdU2RsbGmzpXjb5uAUDq4DM-_f-Q-t5hY36TLI_-wzpnrdur99-dE0FBZA4ICvLA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvW3_BDQthrPc8a8APdFUAbHsfhkR82WiFyYASrx_nYCsiQUnRZfLP4yhJ7oh4PWMYIEHbEi-DfxOkivw7gV-Mwf7HKTy_-IASkbq09K07C0rD9SYtGeQTdykRVMVxA_B7IGdD2kiEBUPKslN8ht_K5mlFeSph-y1zcpEFqQ5tUN3Cfn9BfK6BtT5s1BXPnDukXtzE8T_mYsJ_4zIdTuIyVFjmhRmJzpJruLallMeKwfZoI4CC_cM4Gos_Xc69X0asehZNnTXP3AXZrBQcpBGmJB0w8lPuaHo5QdSqbBT8PXQ0arFmet2n1_9hn-Eo8AMks",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvW3_BDQthrPc8a8APdFUAbHsfhkR82WiFyYASrx_nYCsiQUnRZfLP4yhJ7oh4PWMYIEHbEi-DfxOkivw7gV-Mwf7HKTy_-IASkbq09K07C0rD9SYtGeQTdykRVMVxA_B7IGdD2kiEBUPKslN8ht_K5mlFeSph-y1zcpEFqQ5tUN3Cfn9BfK6BtT5s1BXPnDukXtzE8T_mYsJ_4zIdTuIyVFjmhRmJzpJruLallMeKwfZoI4CC_cM4Gos_Xc69X0asehZNnTXP3AXZrBQcpBGmJB0w8lPuaHo5QdSqbBT8PXQ0arFmet2n1_9hn-Eo8AMks"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvW3_BDQthrPc8a8APdFUAbHsfhkR82WiFyYASrx_nYCsiQUnRZfLP4yhJ7oh4PWMYLUdhd8v_JxLX3JqiEprIJSaOiYs7vVmHLmybalnrKGVZ7tm5XEwkg8rPZVpkiBakWzOi_aAIwDQhPgZhS6kUDuSEtsrAU3U54yBKOOTiWx3aTQgrbRA3jLDanuQ6s35jeHLgOEKV48dkmyzHAY-jiRw6VY-IdKOUtl2cBjPk9J_J3K8NSMMKpb_w1WdsunTzoxkOpcrKnb5sD_zz_QU6OdkjM_xzCkXhMox9d6CUyjOA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvW3_BDQthrPc8a8APdFUAbHsfhkR82WiFyYASrx_nYCsiQUnRZfLP4yhJ7oh4PWMYLUdhd8v_JxLX3JqiEprIJSaOiYs7vVmHLmybalnrKGVZ7tm5XEwkg8rPZVpkiBakWzOi_aAIwDQhPgZhS6kUDuSEtsrAU3U54yBKOOTiWx3aTQgrbRA3jLDanuQ6s35jeHLgOEKV48dkmyzHAY-jiRw6VY-IdKOUtl2cBjPk9J_J3K8NSMMKpb_w1WdsunTzoxkOpcrKnb5sD_zz_QU6OdkjM_xzCkXhMox9d6CUyjOA"
+                    }
+                ],
+                "passed": true
             }
         }
     }
