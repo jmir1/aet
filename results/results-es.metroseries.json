@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/llorar-reir-ganar/",
+                                "title": "Llorar, reír, ganar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kM6CTrrlpQNKZJoIsJb9XEoloWX.jpg"
+                            },
+                            {
                                 "url": "/john-carpenters-suburban-screams/",
                                 "title": "John Carpenter's Suburban Screams",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/zVDMyECd9uRUQBcqsGIWnKkLlYb.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/7ujIvdVoaqZ98i7t68zd4JypkaR.jpg"
                             },
                             {
-                                "url": "/la-mesias/",
-                                "title": "La Mesías",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/5LhknKVoNwp9CsZo4wkJ0LYqKhe.jpg"
-                            },
-                            {
-                                "url": "/transatlantico/",
-                                "title": "Transatlántico",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9Y6QCnDoSHeGvlELdgsENZZIRTl.jpg"
+                                "url": "/deadly-class/",
+                                "title": "Clase letal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/u2GSiPazSXpyNQz0yymOUCUm944.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/vikingos-valhalla/",
-                                "title": "Vikingos: Valhalla",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/izIMqapegdEZj0YVDyFATPR8adh.jpg"
+                                "url": "/luis-miguel-la-serie/",
+                                "title": "Luis Miguel: La Serie",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/12/34FaY8qpjBAVysSfrJ1l7nrAQaD-1-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,54 +134,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/john-carpenters-suburban-screams/",
-                    "title": "John Carpenter's Suburban Screams",
-                    "description": "Cada episodio de esta antología de terror profundiza en el monstruoso mal que acecha bajo la superficie de los suburbios amigables a través de la lente de una historia aterradora. Además de los relatos de primera mano, los episodios incluyen recreaciones cinematográficas, archivos personales y cobertura de prensa histórica de la ciudad.",
-                    "genre": "Documental, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zVDMyECd9uRUQBcqsGIWnKkLlYb.jpg",
+                    "url": "/llorar-reir-ganar/",
+                    "title": "Llorar, reír, ganar",
+                    "description": "トークサバイバー！ Son humoristas y protagonizan un drama trepidante... pero si sus chistes no triunfan en las escenas improvisadas, serán expulsados de la serie.",
+                    "genre": "Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kM6CTrrlpQNKZJoIsJb9XEoloWX.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/john-carpenters-suburban-screams-temporada-1-capitulo-6/",
-                        "name": "T1 - E06 - Episodio 6",
-                        "date_upload": 1697155200000
-                    },
-                    {
-                        "url": "/episode/john-carpenters-suburban-screams-temporada-1-capitulo-5/",
-                        "name": "T1 - E05 - Episodio 5",
-                        "date_upload": 1697155200000
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://enc2.fastream.to/hls2/02/00060/djerpwr04q4a_,l,o,.urlset/index-f1-v1-a1.m3u8?t=-RFMh8BjIPpQRW5un3EzIqDm0T8pY70YNAuxUXXyVOU&s=1697479732&e=43200&f=300284&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00060/djerpwr04q4a_,l,o,.urlset/index-f1-v1-a1.m3u8?t=-RFMh8BjIPpQRW5un3EzIqDm0T8pY70YNAuxUXXyVOU&s=1697479732&e=43200&f=300284&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://enc2.fastream.to/hls2/02/00060/djerpwr04q4a_,l,o,.urlset/index-f2-v1-a1.m3u8?t=-RFMh8BjIPpQRW5un3EzIqDm0T8pY70YNAuxUXXyVOU&s=1697479732&e=43200&f=300284&i=0.0&sp=0",
-                        "quality": "Fastream:536p",
-                        "videoUrl": "https://enc2.fastream.to/hls2/02/00060/djerpwr04q4a_,l,o,.urlset/index-f2-v1-a1.m3u8?t=-RFMh8BjIPpQRW5un3EzIqDm0T8pY70YNAuxUXXyVOU&s=1697479732&e=43200&f=300284&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
