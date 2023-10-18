@@ -237,8 +237,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/media/undead-unluck#streams_episodes_1_1",
+                        "name": "Ep.2 Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/media/undead-unluck#streams_episodes_1_0",
+                        "name": "Ep.1 Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
