@@ -467,6 +467,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5f1c13bc-257a-4e63-af5d-153a743141be.webp"
                             },
                             {
+                                "url": "6730-everything-now",
+                                "title": "Everything Now",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/d2b6a825-b9ec-49cb-a221-f113c0681fc1.webp"
+                            },
+                            {
                                 "url": "6729-spy-kids-armageddon",
                                 "title": "Spy Kids: Armageddon",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/1af3cb7e-0f0a-4722-b7a3-84bcb7b40f0a.webp"
@@ -610,11 +615,6 @@
                                 "url": "6700-mr-cobbler-e-la-bottega-magica",
                                 "title": "Mr Cobbler e la bottega magica",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/60ae40ec-bff5-4198-a392-6836023741b1.webp"
-                            },
-                            {
-                                "url": "6699-full-monty-squattrinati-organizzati",
-                                "title": "Full Monty - Squattrinati organizzati",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/873fd4f4-346b-4f49-a0da-35787a60f05b.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Request timed out after 30000ms\n=========================== logs ===========================\n→ GET https://vixcloud.bz/v2/embed/167047?token=8b1c71e6b933324cc1c1920b4f8f9688&title=Addio+al+nubilato+2+-+L%E2%80%99isola+che+non+c%E2%80%99%C3%A8&referer=1&expires=1702859462&canCast=1\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8\n  accept-encoding: gzip, deflate, br\n  host: vixcloud.bz\n  accept-language: en-US,en;q=0.5\n  referer: https://streamingcommunity.black/\n  upgrade-insecure-requests: 1\n  sec-fetch-dest: iframe\n  sec-fetch-mode: navigate\n  sec-fetch-site: cross-site\n  connection: keep-alive\n============================================================\n  name='Error\n  stack='Error: Request timed out after 30000ms\n=========================== logs ===========================\n→ GET https://vixcloud.bz/v2/embed/167047?token=8b1c71e6b933324cc1c1920b4f8f9688&title=Addio+al+nubilato+2+-+L%E2%80%99isola+che+non+c%E2%80%99%C3%A8&referer=1&expires=1702859462&canCast=1\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8\n  accept-encoding: gzip, deflate, br\n  host: vixcloud.bz\n  accept-language: en-US,en;q=0.5\n  referer: https://streamingcommunity.black/\n  upgrade-insecure-requests: 1\n  sec-fetch-dest: iframe\n  sec-fetch-mode: navigate\n  sec-fetch-site: cross-site\n  connection: keep-alive\n============================================================\n    at ClientRequest.rejectOnTimeout (/tmp/playwright-java-8339207321335392621/package/lib/server/fetch.js:333:18)\n    at Object.onceWrapper (node:events:631:28)\n    at ClientRequest.emit (node:events:517:28)\n    at TLSSocket.emitRequestTimeout (node:_http_client:847:9)\n    at Object.onceWrapper (node:events:631:28)\n    at TLSSocket.emit (node:events:529:35)\n    at Socket._onTimeout (node:net:598:8)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)\n}",
                 "passed": false
             }
         }
