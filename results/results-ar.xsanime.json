@@ -398,6 +398,11 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episode/nanatsu-no-taizai-mokushiroku-no-yonkishi-الحلقة-2/",
+                        "name": "2",
+                        "episode_number": 2.0
+                    },
+                    {
                         "url": "/episode/nanatsu-no-taizai-mokushiroku-no-yonkishi-الحلقة-1/",
                         "name": "1",
                         "episode_number": 1.0
@@ -406,14 +411,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc626.4shared.com/img/h3el-2LMfa/f0ca9a5d/dlink__2Fdownload_2Fh3el-2LMfa_3Fsbsr_3D600e57e9ede6dfaf975561ee2a06f83aaf7_26bip_3DMTMuODguMTE0LjQ5_26lgfp_3D66_26bip_3DMTMuODguMTE0LjQ5_26bip_3DMTMuODguMTE0LjQ5/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc626.4shared.com/img/h3el-2LMfa/f0ca9a5d/dlink__2Fdownload_2Fh3el-2LMfa_3Fsbsr_3D600e57e9ede6dfaf975561ee2a06f83aaf7_26bip_3DMTMuODguMTE0LjQ5_26lgfp_3D66_26bip_3DMTMuODguMTE0LjQ5_26bip_3DMTMuODguMTE0LjQ5/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

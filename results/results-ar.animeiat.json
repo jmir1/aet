@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/houkago-shounen-hanako-kun",
+                                "title": "Houkago Shounen Hanako-kun الحلقة 2 مترجمة",
+                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37742/2jAp7QzkWYyah4i445.jpg"
+                            },
+                            {
                                 "url": "/anime/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu",
                                 "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu الحلقة 3 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37740/ZrM18BshLmxYfPSa30.jpg"
@@ -220,11 +225,6 @@
                                 "url": "/anime/one-piece",
                                 "title": "One piece الحلقة 1078 مترجمة",
                                 "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37695/PUe5hzy2186jq3ni65.jpg"
-                            },
-                            {
-                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su الحلقة 1 مترجمة",
-                                "thumbnail_url": "https://api.animeiat.co/storage/thumbnails/37694/7NeryPxbrnphAA1T30.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -377,12 +377,44 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "episode/houkago-shounen-hanako-kun-episode-2",
+                        "name": "Houkago Shounen Hanako-kun الحلقة 2 مترجمة",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "episode/houkago-shounen-hanako-kun-episode-1",
+                        "name": "Houkago Shounen Hanako-kun الحلقة 1 مترجمة",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Illegal base64 character 3c",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B1080p%5D.mp4",
+                        "quality": "1080p FHD",
+                        "videoUrl": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B1080p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B360p%5D.mp4",
+                        "quality": "360p SD",
+                        "videoUrl": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B360p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B480p%5D.mp4",
+                        "quality": "480p SD",
+                        "videoUrl": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B480p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B720p%5D.mp4",
+                        "quality": "720p HD",
+                        "videoUrl": "https://shahidha.net/files/37742/%5BAnimeiat.co%5DHoukago_Shounen_Hanako-kun_-_EP02%5B720p%5D.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -267,6 +267,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Kizuna-no-Allele-2nd-Season/",
+                                "title": "Kizuna no Allele 2nd Season",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Kizuna-no-Allele-2nd-Season.jpg"
+                            },
+                            {
+                                "url": "/Anime/Pokemon-Paldean-Winds/",
+                                "title": "Pokémon: Paldean Winds",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/bx168092-XD4MLkr4YQXd.jpg"
+                            },
+                            {
+                                "url": "/Anime/my-love-story-with-yamada-kun-at-lv999-dub.31546/",
+                                "title": "My Love Story with Yamada-kun at Lv999 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/My-Love-Story-with-Yamada-kun-at-Lv999-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-eminence-in-shadow-season-2-dub.47070/",
+                                "title": "The Eminence in Shadow Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Eminence-in-Shadow-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/KamiErabi-GODapp/",
+                                "title": "KamiErabi GOD.app",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
+                            },
+                            {
+                                "url": "/Anime/16bit-Sensation-Another-Layer/",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/16bit-Sensation-Another-Layer.jpg"
+                            },
+                            {
+                                "url": "/Anime/Uma-Musume-Pretty-Derby-Season-3/",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
+                            },
+                            {
                                 "url": "/Anime/the-eminence-in-shadow-season-2.87209/",
                                 "title": "The Eminence in Shadow Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Eminence-in-Shadow-Season-2.jpg"
@@ -480,41 +515,6 @@
                                 "url": "/Anime/OVERTAKE/",
                                 "title": "OVERTAKE!",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/OVERTAKE.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
-                                "title": "The Family Circumstances of the Irregular Witch",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Family-Circumstances-of-the-Irregular-Witch.jpg"
-                            },
-                            {
-                                "url": "/Anime/Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-nin-no-Kanojo/",
-                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.jpg"
-                            },
-                            {
-                                "url": "/Anime/Shangri-La-Frontier/",
-                                "title": "Shangri-La Frontier",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier.jpg"
-                            },
-                            {
-                                "url": "/Anime/One-Piece.54191/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-IDOLM-STER-Million-Live/",
-                                "title": "The IDOLM@STER Million Live!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-IDOLM-STER-Million-Live.jpg"
-                            },
-                            {
-                                "url": "/Anime/Soaring-Sky-Pretty-Cure/",
-                                "title": "Soaring Sky! Pretty Cure",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
-                            },
-                            {
-                                "url": "/Anime/Protocol-Rain/",
-                                "title": "Protocol: Rain",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Protocol-Rain.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
