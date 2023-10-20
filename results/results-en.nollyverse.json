@@ -3,64 +3,8 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/movie/barbie",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/barbie.jpg"
-                            },
-                            {
-                                "url": "/movie/oppenheimer",
-                                "title": "Oppenheimer",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/oppenheimer.jpg"
-                            },
-                            {
-                                "url": "/movie/mission-impossible-dead-reckoning-part-one",
-                                "title": "Mission: Impossible - Dead Reckoning Part One",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/mission-impossible-dead-reckoning-part-one.jpg"
-                            },
-                            {
-                                "url": "/movie/transformers-rise-of-the-beasts",
-                                "title": "Transformers: Rise of the Beasts",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/transformers-rise-of-the-beasts.jpg"
-                            },
-                            {
-                                "url": "/movie/spider-man-across-the-spider-verse",
-                                "title": "Spider-Man: Across the Spider-Verse",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/spider-man-across-the-spider-verse.jpg"
-                            },
-                            {
-                                "url": "/movie/fast-x",
-                                "title": "Fast X",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/fast-x.jpg"
-                            },
-                            {
-                                "url": "/movie/renfield",
-                                "title": "Renfield",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/renfield.jpg"
-                            },
-                            {
-                                "url": "/movie/john-wick-chapter-4",
-                                "title": "John Wick: Chapter 4",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/john-wick-chapter-4.jpg"
-                            },
-                            {
-                                "url": "/movie/shazam-fury-of-the-gods",
-                                "title": "Shazam! Fury of the Gods",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/shazam-fury-of-the-gods.jpg"
-                            },
-                            {
-                                "url": "/movie/65",
-                                "title": "65",
-                                "thumbnail_url": "https://www.nollyverse.com/movie/img/65.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -164,9 +108,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/barbie",
-                    "title": "Barbie",
-                    "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+                    "url": "/serie/goosebumps",
+                    "title": "Goosebumps (2023-)",
+                    "description": "A group of five high schoolers embark on a shadowy and twisted journey to investigate the tragic passing three decades earlier of a teen named Harold Biddle – while also unearthing dark secrets from their parents' past.",
                     "genre": "Adventure, Comedy, Fantasy",
                     "initialized": true
                 },
@@ -175,9 +119,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/barbie/download/",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/serie/goosebumps/season-1#4",
+                        "name": "Episode S1E4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/serie/goosebumps/season-1#3",
+                        "name": "Episode S1E3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -185,24 +134,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "http://dl11.sermovie.bid/Movies/2023/Barbie.2023/Barbie.2023.HC.1080p.HDRip.AAC2.0.H.APEX.SoftSub.Sermovie.mkv",
-                        "quality": "1080p",
-                        "videoUrl": "http://dl11.sermovie.bid/Movies/2023/Barbie.2023/Barbie.2023.HC.1080p.HDRip.AAC2.0.H.APEX.SoftSub.Sermovie.mkv"
+                        "url": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/1080p.x265/Goosebumps.S01E04.1080p.WEB-DL.x265-RMTeam.SoftSub.BMB.6C4E45B8.mkv",
+                        "quality": "1080p.x265",
+                        "videoUrl": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/1080p.x265/Goosebumps.S01E04.1080p.WEB-DL.x265-RMTeam.SoftSub.BMB.6C4E45B8.mkv"
                     },
                     {
-                        "url": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.480p.HC.WEB-DL.x264-Pahe.FilmBan.mkv",
-                        "quality": "480p",
-                        "videoUrl": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.480p.HC.WEB-DL.x264-Pahe.FilmBan.mkv"
+                        "url": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/720p/Goosebumps.S01E04.720p.WEB-DL.x264-BMB.SoftSub.BMB.FBF10722.mkv",
+                        "quality": "720px",
+                        "videoUrl": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/720p/Goosebumps.S01E04.720p.WEB-DL.x264-BMB.SoftSub.BMB.FBF10722.mkv"
                     },
                     {
-                        "url": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbei.2023.720p.HC.WEB-DL.x264-Pahe.FilmBan.mkv",
-                        "quality": "720p",
-                        "videoUrl": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbei.2023.720p.HC.WEB-DL.x264-Pahe.FilmBan.mkv"
-                    },
-                    {
-                        "url": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.INTERNAL.720p.10bit.HC.WEBRip.2CH.x265.HEVC-PSA.FilmBan.mkv",
-                        "quality": "720p.x265",
-                        "videoUrl": "https://dl4.fbserver.site/Movie/2023/Barbie/Barbie.2023.INTERNAL.720p.10bit.HC.WEBRip.2CH.x265.HEVC-PSA.FilmBan.mkv"
+                        "url": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/480p/Goosebumps.S01E04.480p.WEB-DL.x264-RMTeam.SoftSub.BMB.2033AF25.mkv",
+                        "quality": "480px",
+                        "videoUrl": "https://dl2.freeserverddl.click/Series/G/Goosebumps.tt17720272/S01/Soft/480p/Goosebumps.S01E04.480p.WEB-DL.x264-RMTeam.SoftSub.BMB.2033AF25.mkv"
                     }
                 ],
                 "passed": true
