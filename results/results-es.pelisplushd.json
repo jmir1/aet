@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/cadaveres",
+                                "title": "Cadáveres (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qWX71nLvoLsBNPEjddZMC75lq6I.jpg"
+                            },
+                            {
+                                "url": "/serie/las-chicas-en-llamas",
+                                "title": "Las chicas en llamas (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qjhbQMfQPcMpk9fqcB7AqGvLfHP.jpg"
+                            },
+                            {
                                 "url": "/serie/nam-soon-una-chica-superfuerte",
                                 "title": "Nam-soon, una chica superfuerte (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mS99X55DiwWqnExJMfs5m25a2ZQ.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/el-gran-vapeo-auge-y-caida-de-juul",
                                 "title": "El gran vapeo: Auge y caída de Juul (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/dI0kGcAZ3SLikVYmfxkkdbKa68d.jpg"
-                            },
-                            {
-                                "url": "/serie/somos-osos",
-                                "title": "Somos osos (20142019)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/urANgPY1gyATjqGux96rM0zZU9z.jpg"
-                            },
-                            {
-                                "url": "/serie/prisa-por-vivir",
-                                "title": "Prisa Por Vivir (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/mDKff19c5PVECPbIpcVxO3gwPnB.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/nam-soon-una-chica-superfuerte",
-                    "title": "Nam-soon, una chica superfuerte (2023)",
-                    "description": "Dotada de una fuerza sobrehumana, una joven regresa a Corea para encontrar a su familia biológica, pero se ve envuelta en un caso de drogas que podría poner a prueba su poder..",
-                    "genre": "Comedia, Drama, Dorama, Sci-Fi & Fantasy",
+                    "url": "/serie/cadaveres",
+                    "title": "Cadáveres (2023)",
+                    "description": "Cuatro detectives en cuatro períodos diferentes de Londres se encuentran investigando el mismo asesinato..",
+                    "genre": "Crimen, Misterio, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mS99X55DiwWqnExJMfs5m25a2ZQ.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qWX71nLvoLsBNPEjddZMC75lq6I.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,21 +278,32 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/nam-soon-una-chica-superfuerte/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
+                        "url": "/serie/cadaveres/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/nam-soon-una-chica-superfuerte/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/cadaveres/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/0sctmm5l7hjw",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/09722/0sctmm5l7hjw_,n,.urlset/master.m3u8?t=5Ld3wl1Abq3zaRfR4xy6gxR_hl7Xh3bFn0Ow3ijMAmo&s=1697825260&e=14400&f=48610619&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=40.84&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/0sctmm5l7hjw",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-0gg4h2l6juwtfaev.voe-network.net/engine/hls2/01/09722/0sctmm5l7hjw_,n,.urlset/master.m3u8?t=5Ld3wl1Abq3zaRfR4xy6gxR_hl7Xh3bFn0Ow3ijMAmo&s=1697825260&e=14400&f=48610619&node=delivery-node-0gg4h2l6juwtfaev.voe-network.net&i=40.84&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -866,7 +877,7 @@
                     "title": "El castigo",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true

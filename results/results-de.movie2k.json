@@ -287,8 +287,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery45.mxdcontent.net/v/a0450dc0ce30dd03614bb7d4b4e24841.mp4?s=AjA36mHUpIEIB611KmNHMQ&e=1697846917&_t=1697833676",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery45.mxdcontent.net/v/a0450dc0ce30dd03614bb7d4b4e24841.mp4?s=AjA36mHUpIEIB611KmNHMQ&e=1697846917&_t=1697833676",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=eGjv9y14xZIJqA&expires=1697895317&ip=F0AsFxgnDS9X&token=Epk7Y7sNHWRl",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=eGjv9y14xZIJqA&expires=1697895317&ip=F0AsFxgnDS9X&token=Epk7Y7sNHWRl"
+                    }
+                ],
+                "passed": true
             }
         }
     }
