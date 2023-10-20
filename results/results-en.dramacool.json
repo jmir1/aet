@@ -197,6 +197,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/drama-detail/the-girl-downstairs",
+                                "title": "Doona! (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/the-girl-downstairs-1697446887.png"
+                            },
+                            {
+                                "url": "/drama-detail/bump-up-business",
+                                "title": "Bump Up Business (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/bump-up-business-1693880028.png"
+                            },
+                            {
                                 "url": "/drama-detail/green-coach-2009",
                                 "title": "Green Coach (2009)",
                                 "thumbnail_url": "https://imagecdn.me/cover/green-coach-2009-1697768599.png"
@@ -264,7 +274,7 @@
                             {
                                 "url": "/drama-detail/one-room-angel-2023",
                                 "title": "One Room Angel (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/one-room-angel-2023-1697763259.png"
+                                "thumbnail_url": "https://imagecdn.me/cover/one-room-angel-2023-1697791576.png"
                             },
                             {
                                 "url": "/drama-detail/lie-hen-2023",
@@ -365,16 +375,6 @@
                                 "url": "/drama-detail/day-of-kidnapping-2022",
                                 "title": "The Day (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/day-of-kidnapping-2022-1693193007.png"
-                            },
-                            {
-                                "url": "/drama-detail/mr-and-mrs-chen",
-                                "title": "Mr. & Mrs. Chen (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/mr-and-mrs-chen.png"
-                            },
-                            {
-                                "url": "/drama-detail/wei-you-an-xiang-lai",
-                                "title": "Scent of Time (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/wei-you-an-xiang-lai-1697091836.png"
                             }
                         ],
                         "hasNextPage": true
@@ -499,18 +499,70 @@
                     "author": "Netflix",
                     "description": " Doo Na, a member of the girl group Dream Sweet, suddenly left the group one day and end up living in the same share house as Won Jun, a college student. Doo Na mistake him for being her sasaeng fan, and Won Jun does not know who she is. They become curious about each other. (Source: Korean = Netflix Korea) Adapted from the webtoon \"The Girl Downstairs\" (이두나!) by Min Song Ah (민송아). Episodes: 9  ",
                     "genre": "Drama, Miniseries, Neighbours, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "thumbnail_url": "https://imagecdn.me/cover/the-girl-downstairs-1697446887.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/doona-2023-episode-9.html",
+                        "name": "SUB: Episode 9",
+                        "episode_number": 9.0
+                    },
+                    {
+                        "url": "/doona-2023-episode-8.html",
+                        "name": "SUB: Episode 8",
+                        "episode_number": 8.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02063/ugw3v2fhat57_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=sBJLRS8SyNOf2_XR07mWiM9bSW2B6KE8bq9q0-RWYr4&s=1697803943&e=129600&f=10319365&srv=gdiphrclspyf&i=0.4&sp=500&p1=gdiphrclspyf&p2=gdiphrclspyf&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02063/ugw3v2fhat57_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=sBJLRS8SyNOf2_XR07mWiM9bSW2B6KE8bq9q0-RWYr4&s=1697803943&e=129600&f=10319365&srv=gdiphrclspyf&i=0.4&sp=500&p1=gdiphrclspyf&p2=gdiphrclspyf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/ugw3v2fhat57?caption_1=https://sub.draplay.info&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02063/ugw3v2fhat57_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=sBJLRS8SyNOf2_XR07mWiM9bSW2B6KE8bq9q0-RWYr4&s=1697803943&e=129600&f=10319365&srv=gdiphrclspyf&i=0.4&sp=500&p1=gdiphrclspyf&p2=gdiphrclspyf&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02063/ugw3v2fhat57_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=sBJLRS8SyNOf2_XR07mWiM9bSW2B6KE8bq9q0-RWYr4&s=1697803943&e=129600&f=10319365&srv=gdiphrclspyf&i=0.4&sp=500&p1=gdiphrclspyf&p2=gdiphrclspyf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/ugw3v2fhat57?caption_1=https://sub.draplay.info&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02063/ugw3v2fhat57_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=sBJLRS8SyNOf2_XR07mWiM9bSW2B6KE8bq9q0-RWYr4&s=1697803943&e=129600&f=10319365&srv=gdiphrclspyf&i=0.4&sp=500&p1=gdiphrclspyf&p2=gdiphrclspyf&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02063/ugw3v2fhat57_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=sBJLRS8SyNOf2_XR07mWiM9bSW2B6KE8bq9q0-RWYr4&s=1697803943&e=129600&f=10319365&srv=gdiphrclspyf&i=0.4&sp=500&p1=gdiphrclspyf&p2=gdiphrclspyf&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/ugw3v2fhat57?caption_1=https://sub.draplay.info&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=or3xrXYrZvsJrXq&expires=1697873944&ip=FROsD0ETKxSHDN&token=lvVzThwv1kiy",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=or3xrXYrZvsJrXq&expires=1697873944&ip=FROsD0ETKxSHDN&token=lvVzThwv1kiy"
+                    }
+                ],
+                "passed": true
             }
         }
     }
