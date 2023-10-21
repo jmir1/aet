@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kusuriya-no-hitorigoto/",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Kusuriya_no_Hitorigoto-cover.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/hibike-euphonium-ensemble-contest-hen/",
                                 "title": "Hibike! Euphonium: Ensemble Contest-hen",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.16_23h13m39s_002_.png?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/overtake/",
                                 "title": "Overtake!",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h45m20s_006_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/dekoboko-majo-no-oyako-jijou/",
-                                "title": "Dekoboko Majo no Oyako Jijou",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h37m51s_003_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -359,36 +359,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hibike-euphonium-ensemble-contest-hen/",
-                    "title": "Hibike! Euphonium: Ensemble Contest-hen",
-                    "description": "",
-                    "genre": "دراما, موسيقي, مدرسي, Movie, مكتمل, صيف 2023",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.16_23h13m39s_002_.png?fit=394%2C569&ssl=1",
+                    "url": "/anime/kusuriya-no-hitorigoto/",
+                    "title": "Kusuriya no Hitorigoto",
+                    "description": "في محكمة إمبراطورية في الصين القديمة، مرت بضعة أشهر منذ اختطاف فتاة تبلغ من العمر 17 عامًا تُعرف باسم “ماوماو” وإجبارها على العمل كخادمة منخفضة المستوى في قصر الإمبراطور. ومع ذلك، تمكنت من الاحتفاظ بروحها الفضولية والعملية، وتخطط أن تشتغل حتى تنتهي سنوات العبودية. في أحد الأيام، اكتشفت حقيقة أن رضيعي الإمبراطور أصيبا بمرض خطير. لتقرر اتخاذ إجراء سراً، بالاعتماد على تجربتها كصيدلانية نشأت في منطقة الضوء الأحمر الفقيرة. لكن على الرغم من محاولات “ماوماو” لعدم الكشف عن هويتها، سرعان ما لفتت انتباه “جينشي“، وهو صاحب النفوذ والذي يعترف بمواهبها. “ماوماو” تجد نفسها في البلاط الداخلي للإمبراطور، حيث تصنع اسمًا لنفسها تدريجيًا من خلال استخدام معرفتها وشخصيتها الغريبة لحل الألغاز الطبية المختلفة.",
+                    "genre": "TV, يعرض الان, خريف 2023",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Kusuriya_no_Hitorigoto-cover.jpg?fit=721%2C1024&ssl=1",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/فيلم-hibike-euphonium-ensemble-contest-hen/",
-                        "name": "الفلم 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://n48no-09.vidboo.org/6jmnvq5f3iazsalriurqfi7djj5vfimzic5cwy3esfkejvzt562a5snpptoq/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://n48no-09.vidboo.org/6jmnvq5f3iazsalriurqfi7djj5vfimzic5cwy3esfkejvzt562a5snpptoq/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

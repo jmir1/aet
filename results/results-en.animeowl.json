@@ -167,6 +167,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/kibou-no-chikara-otona-precure-23/",
+                                "title": "Kibou no Chikara: Otona Precure \\'23",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/ragna-crimson/",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/atarashii-joushi-wa-do-tennen/",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/saihate-no-paladin-tetsusabi-no-yama-no-ou/",
+                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/hikikomari-kyuuketsuki-no-monmon/",
+                                "title": "Hikikomari Kyuuketsuki no Monmon",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/spy-x-family-season-2/",
+                                "title": "Spy x Family Season 2",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/anime/minami-no-niji-no-lucy/",
                                 "title": "Minami no Niji no Lucy",
                                 "thumbnail_url": ""
@@ -284,36 +314,6 @@
                             {
                                 "url": "/anime/yuzuki-san-chi-no-yonkyoudai/",
                                 "title": "Yuzuki-san Chi no Yonkyoudai.",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/dr-stone-new-world-part-2/",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/mahoutsukai-no-yome-season-2-part-2/",
-                                "title": "Mahoutsukai no Yome Season 2 Part 2",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/",
-                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/kyoukai-senki-kyokkou-no-souki/",
-                                "title": "Kyoukai Senki: Kyokkou no Souki",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/kamierabi/",
-                                "title": "Kamierabi",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/biohazard-death-island-2/",
-                                "title": "Biohazard: Death Island",
                                 "thumbnail_url": ""
                             }
                         ],
@@ -506,7 +506,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\n<head><title>502 Bad Gateway</title></head>\n<body>\n<center><h1>502 Bad Gateway</h1></center>\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\n</body>\n</html>\n",
+                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
                 "passed": false
             }
         }
