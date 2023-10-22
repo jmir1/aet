@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/i-shall-survive-using-potions",
+                                "title": "I Shall Survive Using Potions!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933217.jpg"
+                            },
+                            {
+                                "url": "/anime/a-returners-magic-should-be-special",
+                                "title": "A Returner's Magic Should Be Special",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933216.jpg"
+                            },
+                            {
                                 "url": "/anime/the-kingdoms-of-ruin",
                                 "title": "The Kingdoms of Ruin",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933215.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/houkago-shounen-hanako-kun",
                                 "title": "Houkago Shounen Hanako-kun",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933202.jpg"
-                            },
-                            {
-                                "url": "/anime/interstellar-ella",
-                                "title": "Interstellar Ella",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933201.jpg"
-                            },
-                            {
-                                "url": "/anime/kawagoe-boys-sing-english-subbed",
-                                "title": "Kawagoe Boys Sing English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933200.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-kingdoms-of-ruin",
-                    "title": "The Kingdoms of Ruin",
-                    "description": "For ages, humans and witches had an alliance with witches using magic to help people. However, when humans eventually develop science that can at times outdo magic, the Redia Empire suddenly declares witches obsolete and orders them eradicated. The witch Chloe raised the human orphan Adonis and taught him her craft. When she is caught and executed, Adonis vows revenge against humanity.",
-                    "genre": "Action, Drama, Fantasy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933215.jpg",
+                    "url": "/anime/i-shall-survive-using-potions",
+                    "title": "I Shall Survive Using Potions!",
+                    "description": "Kaoru Nagase dies due to a dimensional energy rift between worlds, though the God of her world saves her soul and mind; giving her a new life in Reverie, a world under goddess Celestine’s jurisdiction. Kaoru asks for the power to create potions and other skills; though she most notably asks for Celestine’s friendship, to avoid loneliness.",
+                    "genre": "Action, Adventure, Fantasy, Isekai, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933217.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-kingdoms-of-ruin-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvXAuTLJ0EsEFJMXM9p2FkRqIMIgMa-Ui-_Ccc7ZU4ScGjjbm067xIFDk8gSL6N4EHgQm9j0d2ockbKlBYgIyz6RmuNbzsw3128IA9rb1oXDuSGy0OSjMW9wHIsd8pLt6OARWyPBzF-OJxvOVOQfFQ4oteAi0CC11tYIYbq-IaiZ2PMrpY9NfcILV66U6WNMJl3WEaEgjCG1lJEPF3x8-WBv94if0ASypqy63cqt3L3f4fDosEY_JT6dDwu7TATyHDSdFsrPGgi4dLBaBKMzSSuNXcNQoa3jfMnuJCsj0wqqf6OLJOl5dRsJlbU54FPS-ORPImWUxQfwAkyYxaQ_xkTj",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvXAuTLJ0EsEFJMXM9p2FkRqIMIgMa-Ui-_Ccc7ZU4ScGjjbm067xIFDk8gSL6N4EHgQm9j0d2ockbKlBYgIyz6RmuNbzsw3128IA9rb1oXDuSGy0OSjMW9wHIsd8pLt6OARWyPBzF-OJxvOVOQfFQ4oteAi0CC11tYIYbq-IaiZ2PMrpY9NfcILV66U6WNMJl3WEaEgjCG1lJEPF3x8-WBv94if0ASypqy63cqt3L3f4fDosEY_JT6dDwu7TATyHDSdFsrPGgi4dLBaBKMzSSuNXcNQoa3jfMnuJCsj0wqqf6OLJOl5dRsJlbU54FPS-ORPImWUxQfwAkyYxaQ_xkTj"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvXAuTLJ0EsEFJMXM9p2FkRqIMIgMa-Ui-_Ccc7ZU4ScGjjbm067xIFDk8gSL6N4EHgQm9j0d2ockbKlBYgIyz6Rx3bH-qFyrGrMC5Dw8JfH3BGzeWJMfCz6KhiHW7ZchzkSwu7KM-oc2v30rL-daYUOECgitLPMAg6o6cYBbLFtzWDzrACRS5-2SpM86D93aNlfjI81nkZJDiVwXiV2jUC6f_wEwIplG1CzFT84Jk7pUBJ2HNm_rHAXZ0PSJgwGrCqxODiqeh_1HnT1rEWia0yI0I-7sU8z0xZgK7tNJJFdThygYDlzwSJ_OzR6hDpS4fESF2FQI9zsum95qMd8E7e-",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvXAuTLJ0EsEFJMXM9p2FkRqIMIgMa-Ui-_Ccc7ZU4ScGjjbm067xIFDk8gSL6N4EHgQm9j0d2ockbKlBYgIyz6Rx3bH-qFyrGrMC5Dw8JfH3BGzeWJMfCz6KhiHW7ZchzkSwu7KM-oc2v30rL-daYUOECgitLPMAg6o6cYBbLFtzWDzrACRS5-2SpM86D93aNlfjI81nkZJDiVwXiV2jUC6f_wEwIplG1CzFT84Jk7pUBJ2HNm_rHAXZ0PSJgwGrCqxODiqeh_1HnT1rEWia0yI0I-7sU8z0xZgK7tNJJFdThygYDlzwSJ_OzR6hDpS4fESF2FQI9zsum95qMd8E7e-"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvXAuTLJ0EsEFJMXM9p2FkRqIMIgMa-Ui-_Ccc7ZU4ScGjjbm067xIFDk8gSL6N4EHgQm9j0d2ockbKlBYgIyz6RqxGmHjwA-G0o82vemxQnToSqv_iALfkmTbDK02p2NgcBOpCn1tf6dfO3aLDSBmQCToxh_Cpnhu5kEGMTEE_vmv0Gm2zb1mZSynBLgrF7u3LmKCjVCDn7AeDuzWmSIULCx0HHW3b4kY282ZlZda0BxzQrW67xAYOkZMmR7EfTRNCfpA6DAmgkoJripSkE5PfWo4Dn_d_SWU4KjZ3-u9RVuJxEm3Chs6TrHMEL0_Fb34JvnwYpjDSi_x6SbTsdCtiO",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsRgHHv2h4eMz44HATCebvXAuTLJ0EsEFJMXM9p2FkRqIMIgMa-Ui-_Ccc7ZU4ScGjjbm067xIFDk8gSL6N4EHgQm9j0d2ockbKlBYgIyz6RqxGmHjwA-G0o82vemxQnToSqv_iALfkmTbDK02p2NgcBOpCn1tf6dfO3aLDSBmQCToxh_Cpnhu5kEGMTEE_vmv0Gm2zb1mZSynBLgrF7u3LmKCjVCDn7AeDuzWmSIULCx0HHW3b4kY282ZlZda0BxzQrW67xAYOkZMmR7EfTRNCfpA6DAmgkoJripSkE5PfWo4Dn_d_SWU4KjZ3-u9RVuJxEm3Chs6TrHMEL0_Fb34JvnwYpjDSi_x6SbTsdCtiO"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

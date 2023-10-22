@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fairies-album-s2-sub-espanol",
+                                "title": "Fairies Album S2",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fairies-album-s2-1697929015.jpg?v=1.5"
+                            },
+                            {
+                                "url": "/anime/fairies-albums-s1-sub-espanol",
+                                "title": "Fairies Album S1",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fairies-albums-s1-1697928075.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/bikkurimen-sub-espanol",
                                 "title": "Bikkurimen",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/bikkurimen-1697778910.jpg?v=1.5"
@@ -145,16 +155,6 @@
                                 "url": "/anime/toaru-ossan-no-vrmmo-katsudouki-sub-espanol",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/toaru-ossan-no-vrmmo-katsudouki-1695741431.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/buta-no-liver-wa-kanetsu-shiro-sub-espanol",
-                                "title": "Buta no Liver wa Kanetsu Shiro",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/buta-no-liver-wa-kanetsu-shiro-1695741692.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kamierabi-sub-espanol",
-                                "title": "Kamierabi",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/kamierabi-1695741407.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,13 +324,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/bikkurimen-sub-espanol",
-                    "title": "Bikkurimen",
-                    "description": "La historia se desarrolla en un mundo donde el valor de las pegatinas de Bikkuri-Man es tan alto que hay que transportarlas en un vehículo de transporte de efectivo. También estuvo el famoso caso de robo de hace un año, llamado \"el caso de los 300...",
-                    "genre": "Comedia, Fantasía",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/bikkurimen-1697778910.jpg?v=1.5",
+                    "url": "/anime/fairies-album-s2-sub-espanol",
+                    "title": "Fairies Album S2",
+                    "description": "Tao Yao es una joven con la asombrosa habilidad de comunicarse con espíritus animales y monstruosos, ¡e incluso curar algunas almas humanas! Ha pasado mucho tiempo viajando por el país en busca de espíritus que necesiten su ayuda, ofreciendo ayud...",
+                    "genre": "Aventura, Fantasía, Misterio, Sobrenatural",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fairies-album-s2-1697929015.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -338,39 +338,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/bikkurimen-episodio-3",
-                        "name": "Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/ver/fairies-album-s2-episodio-12",
+                        "name": "Episodio 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/ver/bikkurimen-episodio-2",
-                        "name": "Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/ver/fairies-album-s2-episodio-11",
+                        "name": "Episodio 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxwaqxxz3b4quuofoqq2jawlbaslr4ng34a2gkbyjljbzbuecjb2y6nnkpap4gopvwunnj3/video.mp4",
-                        "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxwaqxxz3b4quuofoqq2jawlbaslr4ng34a2gkbyjljbzbuecjb2y6nnkpap4gopvwunnj3/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m130.uqload.io/3rfkv4sfr5w2q4drdkt7x77qlybmjxvsmh5ggf37dg7vec372qvc3ebzotmq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m130.uqload.io/3rfkv4sfr5w2q4drdkt7x77qlybmjxvsmh5ggf37dg7vec372qvc3ebzotmq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

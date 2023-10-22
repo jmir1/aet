@@ -371,12 +371,24 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/kusuriya-no-hitorigoto-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ty37ui-06.vidboo.org/6jmnv2s43iazsalriuqafz7ca2yj6lf7hbc4s66vypjb7zfh6j4vveto4jlq/v.mp4",
+                        "quality": "Vidbom: 720p",
+                        "videoUrl": "https://ty37ui-06.vidboo.org/6jmnv2s43iazsalriuqafz7ca2yj6lf7hbc4s66vypjb7zfh6j4vveto4jlq/v.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
