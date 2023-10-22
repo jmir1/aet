@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/karmas-world",
+                                "title": "Karma's World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933221.jpg"
+                            },
+                            {
                                 "url": "/anime/jungle-beat",
                                 "title": "Jungle Beat",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933220.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/good-night-world",
                                 "title": "Good Night World",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933206.jpg"
-                            },
-                            {
-                                "url": "/anime/good-night-world-english-subbed",
-                                "title": "Good Night World English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933205.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jungle-beat",
-                    "title": "Jungle Beat",
-                    "description": "Each short episode is divided into two segments – The first part involves wordless slapstick comedy among four safari explorers which introduces an animal. The second part shows (another wordless) adventure of the animal previously seen.",
-                    "genre": "Adventure, Family, Short, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933220.jpg",
+                    "url": "/anime/karmas-world",
+                    "title": "Karma's World",
+                    "description": "Lyrically gifted middle schooler Karma juggles rap dreams and rhyme schemes while using her talent, ambition and heart to solve any problem.",
+                    "genre": "Comedy, Coming-of-age story, Family, Musical, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933221.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/jungle-beat-season-7-episode-13-ostrich-opera",
-                        "name": "Season 7 - Episode 13",
-                        "episode_number": 713.0
-                    },
-                    {
-                        "url": "/jungle-beat-season-7-episode-12-rocky-rescue",
-                        "name": "Season 7 - Episode 12",
-                        "episode_number": 712.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJunwYEFUCZrmdP0q2YOPC0nXLw48fBHK5HKs4z6FSpvDuKfqtVecr0baR90b2C0CfXe1i3LEZyZofz9wIwXfU4NkMbK2RoQMfG3Ec2u3RyAC2un4LMebS8sM5bGYFn07lAg0Qudf0ayx3DaOo5pocAg4Ylo5LYhFuCYb_i511j_fTwpAE-mcQncGSzqrqizznTvxT0aJItMxXj_l_wPEPROn10BUkVP8QUI6PrhZll8Hx91ySWXXgLG839P98Tes4ZKgUoZHlidZVu9u4GST1ZnvmaMMzCCeKO3oef0owHoOOQXaHAHicVtHUYmWvGZTUdnX_3XNs8JZDiq-tSzj1Xc",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJunwYEFUCZrmdP0q2YOPC0nXLw48fBHK5HKs4z6FSpvDuKfqtVecr0baR90b2C0CfXe1i3LEZyZofz9wIwXfU4NkMbK2RoQMfG3Ec2u3RyAC2un4LMebS8sM5bGYFn07lAg0Qudf0ayx3DaOo5pocAg4Ylo5LYhFuCYb_i511j_fTwpAE-mcQncGSzqrqizznTvxT0aJItMxXj_l_wPEPROn10BUkVP8QUI6PrhZll8Hx91ySWXXgLG839P98Tes4ZKgUoZHlidZVu9u4GST1ZnvmaMMzCCeKO3oef0owHoOOQXaHAHicVtHUYmWvGZTUdnX_3XNs8JZDiq-tSzj1Xc"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJunwYEFUCZrmdP0q2YOPC0nXLw48fBHK5HKs4z6FSpvDuKfqtVecr0baR90b2C0CfXe1i3LEZyZofz9wIwXfU4Pv02giHNYrKznp0ds6Iy4g8a6kPL8ooeFrN45B8dh_qSOFyFyyFnBAHQsu9Fus5Lg3Bl23zwNYZMjxuq2xhz-XJZ_73110UI6WHFd0_u6kKtjiTPzFUr_zBidIXJF1SNXeBHe8eqTrJEm7ngFvD3nY6O40lrKTMasf1hhVMlDiIB1WDZEWdD1chvM-CQkyr7RhM4NMPlLiA4uMnB545epj4pWdfZJ35fooftumKASEIg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJunwYEFUCZrmdP0q2YOPC0nXLw48fBHK5HKs4z6FSpvDuKfqtVecr0baR90b2C0CfXe1i3LEZyZofz9wIwXfU4Pv02giHNYrKznp0ds6Iy4g8a6kPL8ooeFrN45B8dh_qSOFyFyyFnBAHQsu9Fus5Lg3Bl23zwNYZMjxuq2xhz-XJZ_73110UI6WHFd0_u6kKtjiTPzFUr_zBidIXJF1SNXeBHe8eqTrJEm7ngFvD3nY6O40lrKTMasf1hhVMlDiIB1WDZEWdD1chvM-CQkyr7RhM4NMPlLiA4uMnB545epj4pWdfZJ35fooftumKASEIg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

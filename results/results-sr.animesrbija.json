@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75"
+                            },
+                            {
                                 "url": "/anime/arknights-fuyukomori-kaerimichi",
                                 "title": "Arknights: Fuyukomori Kaerimichi",
                                 "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/53881_1696650300045.jpeg&w=1080&q=75"
@@ -200,11 +205,6 @@
                                 "url": "/anime/mieruko-chan",
                                 "title": "Mieruko-chan",
                                 "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/48483_1696477500042.jpeg&w=1080&q=75"
-                            },
-                            {
-                                "url": "/anime/zetsuen-no-tempest",
-                                "title": "Zetsuen no Tempest",
-                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/14075_1696477500042.jpeg&w=1080&q=75"
                             }
                         ],
                         "hasNextPage": false
@@ -339,14 +339,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/epizoda/one-piece-epizoda-1080",
+                        "name": "Epizoda 1080",
+                        "episode_number": 1080.0
+                    },
+                    {
                         "url": "/epizoda/one-piece-epizoda-1079",
                         "name": "Epizoda 1079",
                         "episode_number": 1079.0
-                    },
-                    {
-                        "url": "/epizoda/one-piece-epizoda-1078",
-                        "name": "Epizoda 1078",
-                        "episode_number": 1078.0
                     }
                 ],
                 "passed": true
@@ -354,16 +354,16 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1079/xsaOP - 1079_blaze.m3u8",
+                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1080/xsaOP - 1080_blaze.m3u8",
                         "quality": "Internal Player",
-                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1079/xsaOP - 1079_blaze.m3u8"
+                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1080/xsaOP - 1080_blaze.m3u8"
                     },
                     {
-                        "url": "https://be4242.rcr52.ams03.cdn112.com/hls2/02/04795/rqd5g1b6cbld_x/index-v1-a1.m3u8?t=GYP1qkxE4Kclunjv01lVq3czZK8H4lMHLthbC-SgEW4&s=1697954945&e=43200&f=23978777&srv=31&asn=8075&sp=2500",
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/04833/ebix1gvbwowv_x/index-v1-a1.m3u8?t=UZXFPuXG2j-a7CqHddB__Xt26FkW4ojgqOCi-Jte_rg&s=1697976641&e=43200&f=24169203&srv=29&asn=8075&sp=2500",
                         "quality": "Filemoon - 1080p",
-                        "videoUrl": "https://be4242.rcr52.ams03.cdn112.com/hls2/02/04795/rqd5g1b6cbld_x/index-v1-a1.m3u8?t=GYP1qkxE4Kclunjv01lVq3czZK8H4lMHLthbC-SgEW4&s=1697954945&e=43200&f=23978777&srv=31&asn=8075&sp=2500",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/04833/ebix1gvbwowv_x/index-v1-a1.m3u8?t=UZXFPuXG2j-a7CqHddB__Xt26FkW4ojgqOCi-Jte_rg&s=1697976641&e=43200&f=24169203&srv=29&asn=8075&sp=2500",
                         "headers": {
-                            "Referer": "https://filemoon.sx/e/rqd5g1b6cbld",
+                            "Referer": "https://filemoon.sx/e/ebix1gvbwowv",
                             "Origin": "https://filemoon.sx"
                         }
                     }
