@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/criatura",
+                                "title": "Criatura (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tIkUGCNtxh0LtRSuy7W6cfWu7zO.jpg"
+                            },
+                            {
                                 "url": "/serie/doona",
                                 "title": "¡Doona! (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uVJgd0E3CYfcGLz9jdUwwyRbySX.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/la-caida-de-la-casa-usher",
                                 "title": "La caída de la casa Usher (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/rmvtaUxTyGb8zaglW1q0FetxP4L.jpg"
-                            },
-                            {
-                                "url": "/serie/4-ever",
-                                "title": "4 EVER (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/6M92hXiFXWRerovw4dRZBOMhY7Z.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/doona",
-                    "title": "¡Doona! (2023)",
-                    "description": "Un universitario hace frente a la vida y los estudios mientras lidia con una situación única: su compañera de casa es una antigua (y atractiva) estrella del K-pop..",
-                    "genre": "Comedia, Drama, Dorama",
+                    "url": "/serie/criatura",
+                    "title": "Criatura (2023)",
+                    "description": "Estambul, época del Imperio otomano. La desgracia cae sobre un insensato científico y su pupilo usa métodos no aprobados para acabar su obra… sin medir las consecuencias..",
+                    "genre": "Drama, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uVJgd0E3CYfcGLz9jdUwwyRbySX.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tIkUGCNtxh0LtRSuy7W6cfWu7zO.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/doona/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
-                    },
-                    {
-                        "url": "/serie/doona/temporada/1/capitulo/8",
+                        "url": "/serie/criatura/temporada/1/capitulo/8",
                         "name": "T1 - E8: Episodio 8",
                         "episode_number": 8.0
+                    },
+                    {
+                        "url": "/serie/criatura/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,14 +293,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/tl9uphytsqvb",
+                        "url": "https://voe.sx/e/kv4a1gukktol",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09723/tl9uphytsqvb_,n,.urlset/master.m3u8?t=O_IZwSH7c03ikiozbZJXrn9X8DD-7GfPD_ZSCoEjRwQ&s=1697976627&e=14400&f=48615354&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09727/kv4a1gukktol_,n,.urlset/master.m3u8?t=PeVxQ8x8WCIJGFyo7GIJ3uzXVbfsAkq8FJhHwKrKYFM&s=1697998047&e=14400&f=48637118&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.83&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://voe.sx/e/tl9uphytsqvb",
+                        "url": "https://voe.sx/e/kv4a1gukktol",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/09723/tl9uphytsqvb_,n,.urlset/master.m3u8?t=O_IZwSH7c03ikiozbZJXrn9X8DD-7GfPD_ZSCoEjRwQ&s=1697976627&e=14400&f=48615354&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.57&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09727/kv4a1gukktol_,n,.urlset/master.m3u8?t=PeVxQ8x8WCIJGFyo7GIJ3uzXVbfsAkq8FJhHwKrKYFM&s=1697998047&e=14400&f=48637118&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.83&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
