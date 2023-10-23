@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6783-non-e-un-paese-per-vecchi",
+                                "title": "Non è un paese per vecchi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/0e65be35-d96a-4a2b-a57e-84396ca1d247.webp"
+                            },
+                            {
                                 "url": "6782-glory-road-vincere-cambia-tutto",
                                 "title": "Glory Road - Vincere cambia tutto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/5a91d3e1-6f67-47ba-82fd-089178308667.webp"
@@ -610,11 +615,6 @@
                                 "url": "6717-la-casa-dei-fantasmi",
                                 "title": "La casa dei fantasmi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.codes/images/f884cede-db81-43e7-8e4b-ef25124a50be.webp"
-                            },
-                            {
-                                "url": "6715-i-mercenari-4",
-                                "title": "I mercenari 4",
-                                "thumbnail_url": "https://cdn.streamingcommunity.codes/images/8384a2d7-b442-4f73-b461-1673a63e3231.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Request timed out after 30000ms\n=========================== logs ===========================\n→ POST https://analytics.vixcloud.bz/api/event\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: */*\n  accept-encoding: gzip, deflate, br\n  host: analytics.vixcloud.bz\n  accept-language: en-US,en;q=0.5\n  content-type: text/plain\n  content-length: 236\n  referer: https://vixcloud.bz/\n  origin: https://vixcloud.bz\n  sec-fetch-dest: empty\n  sec-fetch-mode: cors\n  sec-fetch-site: same-site\n  connection: keep-alive\n============================================================\n  name='Error\n  stack='Error: Request timed out after 30000ms\n=========================== logs ===========================\n→ POST https://analytics.vixcloud.bz/api/event\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: */*\n  accept-encoding: gzip, deflate, br\n  host: analytics.vixcloud.bz\n  accept-language: en-US,en;q=0.5\n  content-type: text/plain\n  content-length: 236\n  referer: https://vixcloud.bz/\n  origin: https://vixcloud.bz\n  sec-fetch-dest: empty\n  sec-fetch-mode: cors\n  sec-fetch-site: same-site\n  connection: keep-alive\n============================================================\n    at ClientRequest.rejectOnTimeout (/tmp/playwright-java-8529307682330987033/package/lib/server/fetch.js:333:18)\n    at Object.onceWrapper (node:events:631:28)\n    at ClientRequest.emit (node:events:517:28)\n    at TLSSocket.emitRequestTimeout (node:_http_client:847:9)\n    at Object.onceWrapper (node:events:631:28)\n    at TLSSocket.emit (node:events:529:35)\n    at Socket._onTimeout (node:net:598:8)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)\n}",
                 "passed": false
             }
         }

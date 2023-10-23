@@ -7,8 +7,134 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/online/captain-tsubasa-2018",
+                                "title": "Super Campeões",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.webp"
+                            },
+                            {
+                                "url": "/serie/online/spy-x-family",
+                                "title": "Spy x Family",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19689.webp"
+                            },
+                            {
+                                "url": "/serie/online/historia-de-horror-americana",
+                                "title": "Histórias de Terror Americana",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5543.webp"
+                            },
+                            {
+                                "url": "/serie/online/frasier",
+                                "title": "Frasier",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22493.webp"
+                            },
+                            {
+                                "url": "/serie/online/nossa-bandeira-e-a-morte",
+                                "title": "Nossa Bandeira é a Morte",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22472.webp"
+                            },
+                            {
+                                "url": "/serie/online/a-criatura",
+                                "title": "A Criatura",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22506.webp"
+                            },
+                            {
+                                "url": "/serie/online/um-lobo-como-eu",
+                                "title": "Um Lobo como Eu",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22507.webp"
+                            },
+                            {
+                                "url": "/serie/online/bosch-o-legado",
+                                "title": "Bosch: O Legado",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20373.webp"
+                            },
+                            {
+                                "url": "/serie/online/chucky",
+                                "title": "Chucky",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19537.webp"
+                            },
+                            {
+                                "url": "/serie/online/elite",
+                                "title": "Elite",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5910.webp"
+                            },
+                            {
+                                "url": "/serie/online/gen-v",
+                                "title": "Gen V",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22454.webp"
+                            },
+                            {
+                                "url": "/serie/online/loki",
+                                "title": "Loki",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19270.webp"
+                            },
+                            {
+                                "url": "/serie/online/neon",
+                                "title": "Neon",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22501.webp"
+                            },
+                            {
+                                "url": "/serie/online/star-trek-lower-decks",
+                                "title": "Star Trek: Lower Decks",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19445.webp"
+                            },
+                            {
+                                "url": "/serie/online/still-up",
+                                "title": "Still Up",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22442.webp"
+                            },
+                            {
+                                "url": "/serie/online/upload",
+                                "title": "Upload",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18781.webp"
+                            },
+                            {
+                                "url": "/serie/online/uma-questao-de-quimica",
+                                "title": "Uma Questão de Química",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22494.webp"
+                            },
+                            {
+                                "url": "/serie/online/corpos",
+                                "title": "Corpos",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22502.webp"
+                            },
+                            {
+                                "url": "/serie/online/garotas-em-chamas",
+                                "title": "Garotas em Chamas",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22503.webp"
+                            },
+                            {
+                                "url": "/serie/online/magnum-p-i-",
+                                "title": "Magnum P.I.",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5628.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -232,41 +358,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/online/sekaiichi-hatsukoi",
-                    "title": "Sekaiichi Hatsukoi",
-                    "description": "Por não concordar em se aproveitar de seus laços familiares, Ritsu Onodera sai da editora de seu pai para aceitar um emprego na Editora Marukawa. Apesar de gostar de trabalhar com literatura, Ritsu acaba sendo atribuído ao departamento de mangás shoujo, mesmo não tendo nenhuma experiência ou interesse por este tipo de material. Para piorar as coisas, ele acaba tendo uma horrível primeira impressão de seu arrogante editor-chefe, Masamune Takano. Mal sabe ele que, apesar de odiá-lo agora, ele já sentiu algo bem diferente por Takano.\n\nAno: 2011\nDuração: 24min\nNota: 7.7/10",
-                    "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4287.jpg",
+                    "url": "/serie/online/captain-tsubasa-2018",
+                    "title": "Super Campeões",
+                    "description": "Capitão Tsubasa conta a história de Tsubasa Oozora, um garoto de 11 anos que tem um grande talento pelo futebol e é reconhecido pelo seu técnico, e ex-jogador brasileiro, Roberto Hongo, que decide levar Tsubasa para o Brasil e treiná-lo para a Copa do Mundo.\n\nAno: 2018\nDuração: 22min\nNota: 8.4/10",
+                    "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "73155",
-                        "name": "Temp 2: Ep 12 - Love is a Bitter-Sweet",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "73154",
-                        "name": "Temp 2: Ep 11 - Love Makes The World Go Round",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Boolean literal for key 'released' should be unquoted.\nUse 'isLenient = true' in 'Json {}' builder to accept non-compliant JSON.\nJSON input: {\"id\":\"169496\",\"title\":\"Episode 5\",\"img\":null,\"released\":\"2023-10-29\",\"name\":\"5\",\"seen\":false}",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a-delivery50.mxdcontent.net/v/f929528956fa21e45579917d476d9897.mp4?s=fUqcPHUska8hLATrXzd4Gw&e=1698063143&_t=1698048731",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery50.mxdcontent.net/v/f929528956fa21e45579917d476d9897.mp4?s=fUqcPHUska8hLATrXzd4Gw&e=1698063143&_t=1698048731",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

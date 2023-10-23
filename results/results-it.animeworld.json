@@ -633,16 +633,53 @@
                 "passed": true
             },
             "details": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: INTERNAL_ERROR",
-                "passed": false
+                "result": {
+                    "url": "/play/one-piece-subita.qzG-LE",
+                    "title": "One Piece",
+                    "author": "Toei Animation",
+                    "description": "Monkey D. Rufy è un giovane pirata sognatore che da piccolo ha inavvertitamente mangiato il frutto del diavolo Gom Gom che lo rende \"elastico\", permettendogli di allungarsi e deformarsi a piacimento, a scapito, però, della capacità di nuotare. L'obiettivo che lo ha spinto in mare è quello ambizioso di diventare il Re dei pirati. Dovrà , dunque, ritrovare il leggendario \"One Piece\", il magnifico tesoro lasciato dal mitico pirata Gol D. Roger probabilmente sull'isola di Raftel, alla fine della Rotta Maggiore, mai ritrovato e sogno di ogni pirata.Nella sua avventura, Rufy riunirà intorno a lui una ciurma e si troverà in mezzo a situazioni bizzarre e stravaganti, tanto almeno quanto lo sono i personaggi, amici o nemici, presenti nell'universo che lo circonda, che raggiungono spesso livelli assurdi e grotteschi e che donano all'opera un'atmosfera surreale e divertente.",
+                    "genre": "Giapponese, Avventura, Azione, Commedia, Drammatico, Fantasy, Shounen, Superpoteri",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://img.animeworld.so/locandine/8056a82e973dde98ebb82abd39dc69.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: INTERNAL_ERROR",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/play/one-piece-subita.qzG-LE/RyiPt8",
+                        "name": "Episode: 1080",
+                        "episode_number": 1080.0
+                    },
+                    {
+                        "url": "/play/one-piece-subita.qzG-LE/Q3NXrm",
+                        "name": "Episode: 1079",
+                        "episode_number": 1079.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=Qwmab4mzm0s0aJp&expires=1698133149&ip=F0OSKRqOKxSHDN&token=zu679dhXhwcu",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Qwmab4mzm0s0aJp&expires=1698133149&ip=F0OSKRqOKxSHDN&token=zu679dhXhwcu"
+                    },
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/02/04833/klsq9gthfnv5_x/index-v1-a1.m3u8?t=eHvZpO2U5E-v1MebscPSqDVn5OZmMmRKyLcosUfAr4w&s=1698063148&e=43200&f=24167488&srv=28&asn=8075&sp=2500",
+                        "quality": "FileMoon - 720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/02/04833/klsq9gthfnv5_x/index-v1-a1.m3u8?t=eHvZpO2U5E-v1MebscPSqDVn5OZmMmRKyLcosUfAr4w&s=1698063148&e=43200&f=24167488&srv=28&asn=8075&sp=2500",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://filemoon.sx/e/klsq9gthfnv5/OnePiece_Ep_1080_SUB_ITA",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
