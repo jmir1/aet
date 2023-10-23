@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ramo/",
+                                "title": "Ramo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ccnWNCUKbuYd4ip7kKYFLAR8QaC.jpg"
+                            },
+                            {
                                 "url": "/garavito-la-bestia-serial/",
                                 "title": "Garavito: La bestia serial",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/f76iomjlGz18l52HOXes3ejiIKZ.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/uh7lAYsKb1N1u9zcm3wVR8TNKKs.jpg"
                             },
                             {
-                                "url": "/the-elegant-empire/",
-                                "title": "The Elegant Empire",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xIsP0ODLawVkw8BInjJbX1LQFbd.jpg"
-                            },
-                            {
-                                "url": "/the-white-lotus/",
-                                "title": "The White Lotus",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg"
+                                "url": "/good-trouble/",
+                                "title": "Good Trouble",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/b9OwPQZr4dVv7K8SrUbAYJ35uLg-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/los-secretos-de-las-hermanas-sozahdahs/",
-                                "title": "Los secretos de las hermanas Sozahdahs",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/gD4TM25TZ3cPZgvtv42GgZz5N4R.jpg"
+                                "url": "/unforgotten/",
+                                "title": "Unforgotten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xl3WLAO18TqXvYmC5bHG7gWBY3R.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,11 +134,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/garavito-la-bestia-serial/",
-                    "title": "Garavito: La bestia serial",
-                    "description": "Los investigadores que lograron la captura y condena del colombiano Luis Alfredo Garavito, el mayor asesino y violador de niños de la historia de la humanidad, narran en primera persona la morbosa crónica del Monstruo de Génova.",
-                    "genre": "Documental",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/f76iomjlGz18l52HOXes3ejiIKZ.jpg",
+                    "url": "/ramo/",
+                    "title": "Ramo",
+                    "description": "El conflicto entre las dos familias y un gran amor que florecerá entre esta lucha está a punto de suceder.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ccnWNCUKbuYd4ip7kKYFLAR8QaC.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -146,14 +146,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/garavito-la-bestia-serial-temporada-1-capitulo-4/",
-                        "name": "T1 - E04 - Episodio 4",
-                        "date_upload": 1697760000000
+                        "url": "/episode/ramo-temporada-1-capitulo-9/",
+                        "name": "T1 - E09 - Episodio 9",
+                        "date_upload": 1583798400000
                     },
                     {
-                        "url": "/episode/garavito-la-bestia-serial-temporada-1-capitulo-3/",
-                        "name": "T1 - E03 - Episodio 3",
-                        "date_upload": 1697760000000
+                        "url": "/episode/ramo-temporada-1-capitulo-8/",
+                        "name": "T1 - E08 - Episodio 8",
+                        "date_upload": 1583193600000
                     }
                 ],
                 "passed": true
@@ -161,9 +161,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s30.fastream.to/hls2/05/00060/ol81p38nx980_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KF1ZbQ9YkS4Rl8gQ4ykOrULkS2ARdfWt0t-Nji8-cVI&s=1698021021&e=43200&f=301572&i=0.0&sp=0",
+                        "url": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
                         "quality": "Fastream:360p",
-                        "videoUrl": "https://s30.fastream.to/hls2/05/00060/ol81p38nx980_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KF1ZbQ9YkS4Rl8gQ4ykOrULkS2ARdfWt0t-Nji8-cVI&s=1698021021&e=43200&f=301572&i=0.0&sp=0",
+                        "videoUrl": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
                         "headers": {
                             "Referer": "https://fastream.to/",
                             "Origin": "https://fastream.to",
@@ -171,9 +181,9 @@
                         }
                     },
                     {
-                        "url": "https://s30.fastream.to/hls2/05/00060/ol81p38nx980_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KF1ZbQ9YkS4Rl8gQ4ykOrULkS2ARdfWt0t-Nji8-cVI&s=1698021021&e=43200&f=301572&i=0.0&sp=0",
+                        "url": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
                         "quality": "Fastream:480p",
-                        "videoUrl": "https://s30.fastream.to/hls2/05/00060/ol81p38nx980_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KF1ZbQ9YkS4Rl8gQ4ykOrULkS2ARdfWt0t-Nji8-cVI&s=1698021021&e=43200&f=301572&i=0.0&sp=0",
+                        "videoUrl": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
                         "headers": {
                             "Referer": "https://fastream.to/",
                             "Origin": "https://fastream.to",
@@ -181,9 +191,9 @@
                         }
                     },
                     {
-                        "url": "https://s30.fastream.to/hls2/05/00060/ol81p38nx980_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KF1ZbQ9YkS4Rl8gQ4ykOrULkS2ARdfWt0t-Nji8-cVI&s=1698021021&e=43200&f=301572&i=0.0&sp=0",
+                        "url": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
                         "quality": "Fastream:720p",
-                        "videoUrl": "https://s30.fastream.to/hls2/05/00060/ol81p38nx980_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KF1ZbQ9YkS4Rl8gQ4ykOrULkS2ARdfWt0t-Nji8-cVI&s=1698021021&e=43200&f=301572&i=0.0&sp=0",
+                        "videoUrl": "https://s35.fastream.to/hls2/02/00060/q2woc4007a9d_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PWr8LREJTu6OnprkwTQHh7eB9c5FN1SwTGjKyX8YAJc&s=1698041382&e=43200&f=300446&i=0.0&sp=0",
                         "headers": {
                             "Referer": "https://fastream.to/",
                             "Origin": "https://fastream.to",

@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/SPY-x-FAMILY-Season-2.jpg"
                             },
                             {
+                                "url": "/Anime/The-Apothecary-Diaries/",
+                                "title": "The Apothecary Diaries",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
+                            },
+                            {
                                 "url": "/Anime/Frieren-Beyond-Journeys-End/",
                                 "title": "Frieren: Beyond Journey’s End",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/Anime/Higehiro-After-Being-Rejected-I-Shaved-and-Took-in-a-High-School-Runaway/",
                                 "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2021/03/Higehiro-After-Being-Rejected-I-Shaved-and-Took-in-a-High-School-Runaway.jpg"
-                            },
-                            {
-                                "url": "/Anime/komi-can-t-communicate-season-2.57063/",
-                                "title": "Komi Can't Communicate Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/03/Komi-Can-t-Communicate-Season-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -266,6 +266,36 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/Pokemon-Horizons-The-Series/",
+                                "title": "Pokémon Horizons: The Series",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Pokemon-Horizons-The-Series.jpg"
+                            },
+                            {
+                                "url": "/Anime/Undead-Unluck/",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Undead-Unluck.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Apothecary-Diaries/",
+                                "title": "The Apothecary Diaries",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
+                            },
+                            {
+                                "url": "/Anime/dark-gathering.20085/",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Dark-Gathering.jpg"
+                            },
+                            {
+                                "url": "/Anime/MF-GHOST/",
+                                "title": "MF GHOST",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/MF-GHOST.jpg"
+                            },
+                            {
+                                "url": "/Anime/Berserk-of-Gluttony/",
+                                "title": "Berserk of Gluttony",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Berserk-of-Gluttony.jpg"
+                            },
                             {
                                 "url": "/Anime/OVERTAKE/",
                                 "title": "OVERTAKE!",
@@ -485,36 +515,6 @@
                                 "url": "/Anime/Pokemon-Paldean-Winds/",
                                 "title": "Pokémon: Paldean Winds",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/bx168092-XD4MLkr4YQXd.jpg"
-                            },
-                            {
-                                "url": "/Anime/my-love-story-with-yamada-kun-at-lv999-dub.31546/",
-                                "title": "My Love Story with Yamada-kun at Lv999 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/My-Love-Story-with-Yamada-kun-at-Lv999-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/the-eminence-in-shadow-season-2-dub.47070/",
-                                "title": "The Eminence in Shadow Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Eminence-in-Shadow-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/KamiErabi-GODapp/",
-                                "title": "KamiErabi GOD.app",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
-                            },
-                            {
-                                "url": "/Anime/16bit-Sensation-Another-Layer/",
-                                "title": "16bit Sensation: Another Layer",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/16bit-Sensation-Another-Layer.jpg"
-                            },
-                            {
-                                "url": "/Anime/Uma-Musume-Pretty-Derby-Season-3/",
-                                "title": "Uma Musume: Pretty Derby Season 3",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/the-eminence-in-shadow-season-2.87209/",
-                                "title": "The Eminence in Shadow Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Eminence-in-Shadow-Season-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
