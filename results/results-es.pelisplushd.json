@@ -295,12 +295,12 @@
                     {
                         "url": "https://voe.sx/e/kv4a1gukktol",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09727/kv4a1gukktol_,n,.urlset/master.m3u8?t=PeVxQ8x8WCIJGFyo7GIJ3uzXVbfsAkq8FJhHwKrKYFM&s=1697998047&e=14400&f=48637118&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.83&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09727/kv4a1gukktol_,n,.urlset/master.m3u8?t=9DkccwY_VMXKNnoiDtmROZN5AKDkCwuJvQgni65WIIc&s=1698021005&e=14400&f=48637118&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.84&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/kv4a1gukktol",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09727/kv4a1gukktol_,n,.urlset/master.m3u8?t=PeVxQ8x8WCIJGFyo7GIJ3uzXVbfsAkq8FJhHwKrKYFM&s=1697998047&e=14400&f=48637118&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.83&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ir6ajpb30a4av1te.voe-network.net/engine/hls2/01/09727/kv4a1gukktol_,n,.urlset/master.m3u8?t=9DkccwY_VMXKNnoiDtmROZN5AKDkCwuJvQgni65WIIc&s=1698021005&e=14400&f=48637118&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=40.84&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -606,6 +606,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/simon/",
+                                "title": "Simón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/simon.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hombre-lobo-por-la-noche-a-color/",
+                                "title": "Hombre Lobo por la Noche a color",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hombre-lobo-por-la-noche-a-color.jpg"
+                            },
+                            {
+                                "url": "/pelicula/flashback-2023/",
+                                "title": "Flashback 2023",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/flashback-2023.jpg"
+                            },
+                            {
+                                "url": "/pelicula/disco-inferno/",
+                                "title": "Disco Inferno",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/disco-inferno.jpg"
+                            },
+                            {
+                                "url": "/pelicula/vjeran-tomic-lhomme-araignee-de-paris/",
+                                "title": "Vjeran Tomic : L'homme-araignée de Paris",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/vjeran-tomic-lhomme-araignee-de-paris.jpg"
+                            },
+                            {
                                 "url": "/pelicula/candy-cruz/",
                                 "title": "Candy Cruz",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/candy-cruz.jpg"
@@ -679,31 +704,6 @@
                                 "url": "/pelicula/el-golpe-de-millones/",
                                 "title": "El Golpe de Millones",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/el-golpe-de-millones.jpg"
-                            },
-                            {
-                                "url": "/pelicula/crypto-boy/",
-                                "title": "Crypto Boy",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/crypto-boy.jpg"
-                            },
-                            {
-                                "url": "/pelicula/kandasamys-the-baby/",
-                                "title": "Kandasamys: The Baby",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kandasamys-the-baby.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-asesinos-de-la-luna/",
-                                "title": "Los asesinos de la luna",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-asesinos-de-la-luna.jpg"
-                            },
-                            {
-                                "url": "/pelicula/radical/",
-                                "title": "Radical",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/radical.jpg"
-                            },
-                            {
-                                "url": "/pelicula/woman-in-the-maze/",
-                                "title": "Woman in the Maze",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/woman-in-the-maze.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -873,11 +873,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/candy-cruz/",
-                    "title": "Candy Cruz",
+                    "url": "/pelicula/simon/",
+                    "title": "Simón",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -887,7 +887,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/candy-cruz/",
+                        "url": "/pelicula/simon/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

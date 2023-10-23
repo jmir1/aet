@@ -445,39 +445,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s32.fastream.to/hls2/04/00060/9k0k7ltf140h_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Q-bYMtnlDkfXTqQL6ETMHD6XSnsrYdp42fR3WSeJFEc&s=1697998038&e=43200&f=301279&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s32.fastream.to/hls2/04/00060/9k0k7ltf140h_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=Q-bYMtnlDkfXTqQL6ETMHD6XSnsrYdp42fR3WSeJFEc&s=1697998038&e=43200&f=301279&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/04/00060/9k0k7ltf140h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Q-bYMtnlDkfXTqQL6ETMHD6XSnsrYdp42fR3WSeJFEc&s=1697998038&e=43200&f=301279&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s32.fastream.to/hls2/04/00060/9k0k7ltf140h_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=Q-bYMtnlDkfXTqQL6ETMHD6XSnsrYdp42fR3WSeJFEc&s=1697998038&e=43200&f=301279&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/04/00060/9k0k7ltf140h_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Q-bYMtnlDkfXTqQL6ETMHD6XSnsrYdp42fR3WSeJFEc&s=1697998038&e=43200&f=301279&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s32.fastream.to/hls2/04/00060/9k0k7ltf140h_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=Q-bYMtnlDkfXTqQL6ETMHD6XSnsrYdp42fR3WSeJFEc&s=1697998038&e=43200&f=301279&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

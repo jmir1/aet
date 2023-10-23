@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shangri-la-frontier-latino",
+                                "title": "Shangri-La Frontier Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/shangri-la-frontier-latino-1698002690.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/rick-y-morty-s7-latino",
                                 "title": "Rick y Morty S7 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/rick-y-morty-s7-latino-1697963427.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/kanojo-ga-koushaku-tei-ni-itta-riyuu-latino",
                                 "title": "Kanojo ga Koushaku-tei ni Itta Riyuu Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/kanojo-ga-koushaku-tei-ni-itta-riyuu-latino-1681151358.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen-latino",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kimetsu-no-yaiba-katanakaji-no-sato-hen-latino-1681055417.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rick-y-morty-s7-latino",
-                    "title": "Rick y Morty S7 Latino",
-                    "description": "En el primer episodio de esta séptima temporada que al igual que su predecesora estara compuesta de 10 episodios, veremos como Poopybutthole se la pasa de fiesta con sus amigos en la casa de los Smiths, y Rick intenta ayudarlo, mientras suceden cosas con el Predador y Hugh Jackman.",
-                    "genre": "Acción, Aventura, Ciencia Ficción",
+                    "url": "/anime/shangri-la-frontier-latino",
+                    "title": "Shangri-La Frontier Latino",
+                    "description": "\"¿Cuándo fue la última vez que jugué un juego que no fuera una basura?\" Este es un mundo en el futuro cercano donde los juegos que usan pantallas se consideran retro, y muchos juegos de realidad virtual no llegan a un mínimo de calidad: son los llamados \"juegos basura\". A aquellos que dedican sus vidas a completar estos juegos se les llama \"cazadores de juegos basura\", y Rakuro Hizutome es uno de ellos. El juego que ha elegido abordar a continuación es Shangri-La Frontier, un juego que goza de una gran crítica y más de 30 millones de jugadores. ¡La mejor historia de aventuras escrita por el jugador más fuerte de \"juegos basura\" está a punto de comenzar!",
+                    "genre": "Acción, Aventura, Fantasía, Shonen",
                     "initialized": true
                 },
                 "passed": true
@@ -335,8 +335,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/rick-y-morty-s7-latino-episodio-1",
-                        "name": "Rick y Morty S7 Latino Capitulo 1",
+                        "url": "/ver/shangri-la-frontier-latino-episodio-1",
+                        "name": "Shangri-La Frontier Latino Capitulo 1",
                         "episode_number": 1.0
                     }
                 ],
@@ -345,69 +345,77 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://m180.uqload.io/3rfkx5nlrzw2q4drdkqpxjfnd22ozpkybc7buw3rmrg5tsfn6yjt2hm7sdcq/v.mp4",
+                        "url": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ4hwReYXFA8T-40A/fn/track.m3u8",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ4hwReYXFA8T-40A/fn/track.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxupa7wz3b4quuoe2qrokcci4qsofsy2zrd2pfd2uhwv2pgttfxpzfvvadunhjyuzj37vc3/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxupa7wz3b4quuoe2qrokcci4qsofsy2zrd2pfd2uhwv2pgttfxpzfvvadunhjyuzj37vc3/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m120.uqload.io/3rfkvy5drzw2q4drdkqpxkfjl34hh646othotrvdxv47o25cntbo47y3hzfq/v.mp4",
                         "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m180.uqload.io/3rfkx5nlrzw2q4drdkqpxjfnd22ozpkybc7buw3rmrg5tsfn6yjt2hm7sdcq/v.mp4",
+                        "videoUrl": "https://m120.uqload.io/3rfkvy5drzw2q4drdkqpxkfjl34hh646othotrvdxv47o25cntbo47y3hzfq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
                     },
                     {
-                        "url": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoAzACaikSJwgBEiMKDwoICNDI1QcQ4F0QAhifBVoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAmJccEMTYAhACGJ8FYgQoEFoAeJ8FbqduNTFSSyA/fn/track.m3u8",
+                        "url": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoAzACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoEFoAeIoGPPAFSmifpPI/fn/track.m3u8",
                         "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoAzACaikSJwgBEiMKDwoICNDI1QcQ4F0QAhifBVoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAmJccEMTYAhACGJ8FYgQoEFoAeJ8FbqduNTFSSyA/fn/track.m3u8",
+                        "videoUrl": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoAzACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoEFoAeIoGPPAFSmifpPI/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoATACaikSJwgBEiMKDwoICNDI1QcQ4F0QAhifBVoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAmJccEMTYAhACGJ8FYgQoCFoAeJ8FguagihS-MAE/fn/track.m3u8",
+                        "url": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoATACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoCFoAeIoGr-vc0rA9oRw/fn/track.m3u8",
                         "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoATACaikSJwgBEiMKDwoICNDI1QcQ4F0QAhifBVoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAmJccEMTYAhACGJ8FYgQoCFoAeJ8FguagihS-MAE/fn/track.m3u8",
+                        "videoUrl": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoATACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoCFoAeIoGr-vc0rA9oRw/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoAjACaikSJwgBEiMKDwoICNDI1QcQ4F0QAhifBVoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAmJccEMTYAhACGJ8FYgQoCFoAeJ8F4UnjJ29pWOU/fn/track.m3u8",
+                        "url": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoAjACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoCFoAeIoG-V2oqxd5tiE/fn/track.m3u8",
                         "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoAjACaikSJwgBEiMKDwoICNDI1QcQ4F0QAhifBVoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAmJccEMTYAhACGJ8FYgQoCFoAeJ8F4UnjJ29pWOU/fn/track.m3u8",
+                        "videoUrl": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoAjACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoCFoAeIoG-V2oqxd5tiE/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoBDACagoKCAgDEAEYASACcgYKBAgDEAJ4vwN3ClpzXgw1ew/fn/track.m3u8",
+                        "url": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoBDACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoIFoAeIoGGatvCi0O5_M/fn/track.m3u8",
                         "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEoBDACagoKCAgDEAEYASACcgYKBAgDEAJ4vwN3ClpzXgw1ew/fn/track.m3u8",
+                        "videoUrl": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEoBDACaikSJwgBEiMKDwoICJjO8ggQ4F0QAhiKBloQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiAsNggEMTYAhACGIoGYgQoIFoAeIoGGatvCi0O5_M/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEwAmopEicIARIjCg8KCAjQyNUHEOBdEAIYnwVaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgJiXHBDE2AIQAhifBWIEKAhaAHifBXuhvPysRjwc/fn/track.m3u8",
+                        "url": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEwAmopEicIARIjCg8KCAiYzvIIEOBdEAIYigZaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgLDYIBDE2AIQAhiKBmIEKAhaAHiKBsf6hY4mAig4/fn/track.m3u8",
                         "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://vd484.mycdn.me/expires/1698084525210/clientType/0/srcIp/23.102.140.60/type/2/mid/8049677044446/id/5260515805918/ms/45.136.22.28/zs/43/srcAg/GECKO/urls/45.136.21.75/oq/0/ct/28/sig/xeZw_vngqy0/ondemand/CN6VtPmMmQEwAmopEicIARIjCg8KCAjQyNUHEOBdEAIYnwVaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgJiXHBDE2AIQAhifBWIEKAhaAHifBXuhvPysRjwc/fn/track.m3u8",
+                        "videoUrl": "https://vd462.mycdn.me/expires/1698107498961/clientType/0/srcIp/4.227.9.20/type/2/mid/8051446385374/id/5263506803422/ms/185.226.52.56/zs/43/srcAg/GECKO/urls/185.226.53.40/oq/0/ct/28/sig/u7i6RAoy0M0/ondemand/CN6V0IuYmQEwAmopEicIARIjCg8KCAiYzvIIEOBdEAIYigZaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgLDYIBDE2AIQAhiKBmIEKAhaAHiKBsf6hY4mAig4/fn/track.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20231022IlkDvIPUye5/video.mp4",
+                        "url": "https://vidcache.net:8161/a2023102252ew5OWQSEc/video.mp4",
                         "quality": "yourupload - Original",
-                        "videoUrl": "https://vidcache.net:8161/a20231022IlkDvIPUye5/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a2023102252ew5OWQSEc/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://www4.mp4upload.com:183/d/rcxqjdpwz3b4quuoe2qqqj2dk5vvt6sm3wz4vrid4rcgatgy72hda5crljct2uemimzi7y7p/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 720p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxqjdpwz3b4quuoe2qqqj2dk5vvt6sm3wz4vrid4rcgatgy72hda5crljct2uemimzi7y7p/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
                         }
                     }
                 ],
