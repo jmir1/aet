@@ -276,12 +276,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/serie/el-rey-de-la-colina/temporada/12/capitulo/22",
+                        "name": "T12 - E22: Episodio 22",
+                        "episode_number": 235.0
+                    },
+                    {
+                        "url": "/serie/el-rey-de-la-colina/temporada/12/capitulo/21",
+                        "name": "T12 - E21: Episodio 21",
+                        "episode_number": 234.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/pyuuv7gvqzlv",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09742/pyuuv7gvqzlv_,n,.urlset/master.m3u8?t=B9C7TL1OnNm6gQ19RHCyQpygvQJYCu2Ce1WAktyteyc&s=1698127749&e=14400&f=48712298&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=40.86&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/pyuuv7gvqzlv",
+                        "quality": "Voex",
+                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/09742/pyuuv7gvqzlv_,n,.urlset/master.m3u8?t=B9C7TL1OnNm6gQ19RHCyQpygvQJYCu2Ce1WAktyteyc&s=1698127749&e=14400&f=48712298&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=40.86&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     },

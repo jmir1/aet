@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/little-amadeus",
+                                "title": "Little Amadeus",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933233.jpg"
+                            },
+                            {
+                                "url": "/anime/lilybuds",
+                                "title": "Lilybuds",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933232.jpg"
+                            },
+                            {
+                                "url": "/anime/lego-jurassic-world-the-secret-exhibit",
+                                "title": "Lego Jurassic World: The Secret Exhibit",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933231.jpg"
+                            },
+                            {
+                                "url": "/anime/legendary-place",
+                                "title": "Legendary Place",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933230.jpg"
+                            },
+                            {
                                 "url": "/anime/lazoo",
                                 "title": "Lazoo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933229.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/jojo-gran-gran",
                                 "title": "JoJo & Gran Gran",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933218.jpg"
-                            },
-                            {
-                                "url": "/anime/i-shall-survive-using-potions",
-                                "title": "I Shall Survive Using Potions!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933217.jpg"
-                            },
-                            {
-                                "url": "/anime/a-returners-magic-should-be-special",
-                                "title": "A Returner's Magic Should Be Special",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933216.jpg"
-                            },
-                            {
-                                "url": "/anime/the-kingdoms-of-ruin",
-                                "title": "The Kingdoms of Ruin",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933215.jpg"
-                            },
-                            {
-                                "url": "/anime/scavengers-reign",
-                                "title": "Scavengers Reign",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933214.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -104,22 +104,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/lazoo",
-                    "title": "Lazoo",
-                    "description": "Welcome to Lazoo – the land of make and do. Zuzi and her friends Hoshi, Zargatron, Miku and Ori live in Lazooville and spend every day together playing, exploring and figuring things out with hands-on creating, lots of teamwork and fun.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933229.jpg",
+                    "url": "/anime/little-amadeus",
+                    "title": "Little Amadeus",
+                    "description": "Young Mozart’s boyhood adventures and musical life.",
+                    "genre": "Family, History, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933233.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/little-amadeus-episode-13-never-kiss-an-empress",
+                        "name": "Season 1 - Episode 13",
+                        "episode_number": 113.0
+                    },
+                    {
+                        "url": "/little-amadeus-episode-12-street-musicians",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqyUQnxaTbXEpPi4eZYsD7FVG0K64ZfLPrSAi40j0ZuPHQYtvw8yPAADjJwsqeQ5At_fyoi-NUn69tzAJpYQdxiNdi75GXQb2HHtpI4G3sPVgP02oOuVgjuK3L8efv9doL5tnjLnj2HiN8fQM953Yv2-3x9rq7XUC6BN3xbYoZQFndiKkd3qWbtqWICD2khsrbckrcO4v2m4W1umbwKIaeCoDypmCxUZR6GHYvZmaOAG3Elgby1uWl58DiY6aG3ehCKz-AZTmyDH6askqlvp8nIn4EBifOagiVPETYNKWjFX-JYxZMyD-IDQkyQsmvAjV22Us2Gg_6SnJdZo_ej7LkXSWhp9hyE6h6soyDN3ea6t",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqyUQnxaTbXEpPi4eZYsD7FVG0K64ZfLPrSAi40j0ZuPHQYtvw8yPAADjJwsqeQ5At_fyoi-NUn69tzAJpYQdxiNdi75GXQb2HHtpI4G3sPVgP02oOuVgjuK3L8efv9doL5tnjLnj2HiN8fQM953Yv2-3x9rq7XUC6BN3xbYoZQFndiKkd3qWbtqWICD2khsrbckrcO4v2m4W1umbwKIaeCoDypmCxUZR6GHYvZmaOAG3Elgby1uWl58DiY6aG3ehCKz-AZTmyDH6askqlvp8nIn4EBifOagiVPETYNKWjFX-JYxZMyD-IDQkyQsmvAjV22Us2Gg_6SnJdZo_ej7LkXSWhp9hyE6h6soyDN3ea6t"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqyUQnxaTbXEpPi4eZYsD7FVG0K64ZfLPrSAi40j0ZuPHQYtvw8yPAADjJwsqeQ5At_fyoi-NUn69tzAJpYQdxiNdi75GXQb2HHtpI4G3sPVdzc_8h36py-A8zW1fO97Qsh_iZ36XB2DFjPfav68YQGEhSptNefN1D1m4-2opj8WxURpHpxuq30HcQC5sXUqHGTpUhM0xkkb-yBIlZAzk1hbDWp78k9mgssDXkpeVrS-6tUMVregc_DNiox-lpwhI6HmU0NEdaWqLOskzwEi1SHxHgeMyBYeVC9ufsx-WrZKNgGHNCEDKZpLua4tPhvh46jiJKMDf5nsQlp3gLvx_CjseqAHJmidPCGHprJjL0-U",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqyUQnxaTbXEpPi4eZYsD7FVG0K64ZfLPrSAi40j0ZuPHQYtvw8yPAADjJwsqeQ5At_fyoi-NUn69tzAJpYQdxiNdi75GXQb2HHtpI4G3sPVdzc_8h36py-A8zW1fO97Qsh_iZ36XB2DFjPfav68YQGEhSptNefN1D1m4-2opj8WxURpHpxuq30HcQC5sXUqHGTpUhM0xkkb-yBIlZAzk1hbDWp78k9mgssDXkpeVrS-6tUMVregc_DNiox-lpwhI6HmU0NEdaWqLOskzwEi1SHxHgeMyBYeVC9ufsx-WrZKNgGHNCEDKZpLua4tPhvh46jiJKMDf5nsQlp3gLvx_CjseqAHJmidPCGHprJjL0-U"
+                    }
+                ],
+                "passed": true
             }
         }
     }
