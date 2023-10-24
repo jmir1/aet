@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/el-rey-de-la-colina",
+                                "title": "El rey de la colina (19972010)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg"
+                            },
+                            {
                                 "url": "/serie/tiny-toons-looniversidad",
                                 "title": "Tiny Toons: Looniversidad (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/xI6MI3WjqL8cpN64zFGHgIfBFCd.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/pesadillas",
                                 "title": "Pesadillas (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/xwEJNfeNBvjn9nhVECtCQB92JTB.jpg"
-                            },
-                            {
-                                "url": "/serie/cocina-con-quimica",
-                                "title": "Cocina con química (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jZvBzwm8a5pBZmVhfnN8zyCTrO5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,46 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/tiny-toons-looniversidad",
-                    "title": "Tiny Toons: Looniversidad (2023)",
-                    "description": "Los Tiny Toons se inscriben en Looniversity Acme, la más importante institución de aprendizaje superior local..",
+                    "url": "/serie/el-rey-de-la-colina",
+                    "title": "El rey de la colina (19972010)",
+                    "description": "King of the Hill (El rey de la colina en España y Los reyes de la colina en Hispanoamérica) fue una sitcom costumbrista/satírica animada de televisión que se emite en Estados Unidos. Representa a la \"típica\" familia tejana, los Hills (Reyes en Hispanoamérica) compuesta por Hank (Hector en Latinoamérica), el personaje central de la comedia. Se trata de un hombre trabajador, fiel, orgulloso de ser tejano y con el sentido común necesario para sobrevivir en el mundo en el que vive. Está casado con Peggy, una ingenua profesora sustituta de español, y tienen un hijo de 12 años, Bobby (Beto en Hispanoamérica), que es la alegría y el orgullo de sus padres. Son en general una familia conservadora, temerosa de Dios y orgullosa de su herencia texana. Los Hills viven en la ciudad ficticia Arlen, una zona residencial, y a menudo se relacionan con sus vecinos, con quien Hank pasa gran parte del tiempo bebiendo cerveza. Dale Gribble (Diego) es uno de sus mejores amigos. Está casado con Nancy y tienen un hijo, Joseph. Boomhauer (Benavides) es el personaje más curioso de la serie y solo sabe pronunciar su nombre. Bill (Blas), el cuarto del grupo, es el más inteligente de todos y es amigo de Hank desde que iban al instituto..",
                     "genre": "Animación, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xI6MI3WjqL8cpN64zFGHgIfBFCd.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zlhfyZeTs7MDCrXDLQfLHxfwcUd.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/serie/tiny-toons-looniversidad/temporada/1/capitulo/10",
-                        "name": "T1 - E10: Episodio 10",
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/serie/tiny-toons-looniversidad/temporada/1/capitulo/9",
-                        "name": "T1 - E9: Episodio 9",
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/id2ryhppr2vm",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-r06p3qcvnmwoch4f.voe-network.net/engine/hls2-c/01/09741/id2ryhppr2vm_,n,.urlset/master.m3u8?t=19XKZBYRPyOOLIkO_WQPkpwDwEkeNqNeR3gcYDR4Lh0&s=1698084456&e=14400&f=48706248&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=13.88&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/id2ryhppr2vm",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-r06p3qcvnmwoch4f.voe-network.net/engine/hls2-c/01/09741/id2ryhppr2vm_,n,.urlset/master.m3u8?t=19XKZBYRPyOOLIkO_WQPkpwDwEkeNqNeR3gcYDR4Lh0&s=1698084456&e=14400&f=48706248&node=delivery-node-ir6ajpb30a4av1te.voe-network.net&i=13.88&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     },
@@ -606,6 +584,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/ouija-witch/",
+                                "title": "Ouija Witch",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ouija-witch.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mercy-road/",
+                                "title": "Mercy Road",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mercy-road.jpg"
+                            },
+                            {
+                                "url": "/pelicula/scary-tales-dead-zone/",
+                                "title": "Scary Tales: Dead Zone",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/scary-tales-dead-zone.jpg"
+                            },
+                            {
                                 "url": "/pelicula/simon/",
                                 "title": "Simón",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/simon.jpg"
@@ -689,21 +682,6 @@
                                 "url": "/pelicula/materia-gris/",
                                 "title": "Materia Gris",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/materia-gris.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sayen-la-ruta-seca/",
-                                "title": "Sayen: La ruta seca",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sayen-la-ruta-seca.jpg"
-                            },
-                            {
-                                "url": "/pelicula/papas-a-la-antigua/",
-                                "title": "Papás a la antigua",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/papas-a-la-antigua.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-golpe-de-millones/",
-                                "title": "El Golpe de Millones",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-golpe-de-millones.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -873,11 +851,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/simon/",
-                    "title": "Simón",
+                    "url": "/pelicula/ouija-witch/",
+                    "title": "Ouija Witch",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -887,7 +865,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/simon/",
+                        "url": "/pelicula/ouija-witch/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
