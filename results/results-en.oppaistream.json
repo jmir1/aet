@@ -303,14 +303,8 @@
                 "passed": true
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "details": {
                 "result": {
