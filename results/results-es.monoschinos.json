@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dog-signal-sub-espanol",
+                                "title": "Dog Signal",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/dog-signal-1698176010.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/fairies-album-s2-sub-espanol",
                                 "title": "Fairies Album S2",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fairies-album-s2-1697929015.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/flcl-shoegaze-sub-espanol",
                                 "title": "FLCL: Shoegaze",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/flcl-shoegaze-1695741439.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/toaru-ossan-no-vrmmo-katsudouki-sub-espanol",
-                                "title": "Toaru Ossan no VRMMO Katsudouki",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/toaru-ossan-no-vrmmo-katsudouki-1695741431.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,13 +324,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/fairies-album-s2-sub-espanol",
-                    "title": "Fairies Album S2",
-                    "description": "Tao Yao es una joven con la asombrosa habilidad de comunicarse con espíritus animales y monstruosos, ¡e incluso curar algunas almas humanas! Ha pasado mucho tiempo viajando por el país en busca de espíritus que necesiten su ayuda, ofreciendo ayud...",
-                    "genre": "Aventura, Fantasía, Misterio, Sobrenatural",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fairies-album-s2-1697929015.jpg?v=1.5",
+                    "url": "/anime/dog-signal-sub-espanol",
+                    "title": "Dog Signal",
+                    "description": "El trabajo de un adiestrador de perros es unir a los perros y a las personas. Miyu Samura, un joven indeciso, conoce a Shinichiro Niwa, un adiestrador de perros que hace milagros, mientras pasea al perro que le impone su exnovia. ¡El encuentro casua...",
+                    "genre": "Josei, Recuerdos de la vida",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/dog-signal-1698176010.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
@@ -338,21 +338,34 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/fairies-album-s2-episodio-12",
-                        "name": "Episodio 12",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/ver/fairies-album-s2-episodio-11",
-                        "name": "Episodio 11",
-                        "episode_number": 11.0
+                        "url": "/ver/dog-signal-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxxhx7wz3b4quuoekquymckcs5m3pjlzdy6focufyi2ksgqfnuqxhsfombcskng42dcnjo6/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxxhx7wz3b4quuoekquymckcs5m3pjlzdy6focufyi2ksgqfnuqxhsfombcskng42dcnjo6/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m100.uqload.io/3rfkkh4frzw2q4drdkrpxpn2lynbtx26iddcuevwko6mtj6thtwyy6mf5b3q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m100.uqload.io/3rfkkh4frzw2q4drdkrpxpn2lynbtx26iddcuevwko6mtj6thtwyy6mf5b3q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
