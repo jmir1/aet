@@ -15,11 +15,11 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.MissingFieldException: Fields [_id, altNames, synopsis, image, tvStatus, genre] are required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.DetailsResponseDto', but they were missing at path: $",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'episodes' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.EpisodeResponseDto', but it was missing at path: $",
                 "passed": false
             },
             "videos": {

@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/xI6MI3WjqL8cpN64zFGHgIfBFCd.jpg"
                             },
                             {
-                                "url": "/swap-shop-mercadillo-radiofonico/",
-                                "title": "Swap Shop: Mercadillo radiofónico",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/flacWSBN4sGWzILbtmoDCgbZwrm.jpg"
+                                "url": "/trom/",
+                                "title": "Trom",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bj4aUYJtFJaD2PvLjdzMd88xmbb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/abbott-elementary/",
-                                "title": "Abbott Elementary",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/AsaunUQLjC4tnRVALu0D4jtzwFy.jpg"
+                                "url": "/classroom-of-the-elite/",
+                                "title": "Classroom of the Elite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/acBS88Il9K3laU1ckSs6uV4qxF1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/el-poder-de-las-princesas-temporada-2-capitulo-12/",
+                        "name": "T2 - E12 - Episodio 12",
+                        "date_upload": 1698019200000
+                    },
+                    {
+                        "url": "/episode/el-poder-de-las-princesas-temporada-2-capitulo-11/",
+                        "name": "T2 - E11 - Episodio 11",
+                        "date_upload": 1698019200000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

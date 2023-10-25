@@ -187,16 +187,16 @@
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/5-toubun-no-hanayome-2.jpg"
                             },
                             {
-                                "url": "/yakusoku-no-neverland-2nd-season/",
-                                "title": "Yakusoku no Neverland 2nd Season",
-                                "description": "Segunda temporada de Yakusoku no Neverland.",
-                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/yakusoku-no-neverland-2nd-season.jpg"
-                            },
-                            {
                                 "url": "/the-daily-life-of-the-inmortal-king/",
                                 "title": "The Daily Life of the Immortal King",
                                 "description": "Como genio de la cultivación que ha logrado un nuevo reino cada dos años desde que tenía un año, Wang Ling es una existencia casi invencible con una destreza mucho más allá de su control. Pero ahora que tiene dieciséis años, se enfrenta a su mayor batalla: la escuela secundaria. Con un desafío tras otro apareciendo, sus planes para una vida secundaria discreta parecen estar cada vez más",
                                 "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/the-daily-life-of-the-inmortal-king.jpg"
+                            },
+                            {
+                                "url": "/yakusoku-no-neverland-2nd-season/",
+                                "title": "Yakusoku no Neverland 2nd Season",
+                                "description": "Segunda temporada de Yakusoku no Neverland.",
+                                "thumbnail_url": "https://cdn.jkdesu.com/assets/images/animes/image/yakusoku-no-neverland-2nd-season.jpg"
                             },
                             {
                                 "url": "/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai/",
@@ -501,7 +501,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
