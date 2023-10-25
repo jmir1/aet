@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/my-home-hero/",
+                                "title": "My Home Hero (02/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cJtyFrPpQvqqnLNGtnqDctn9nhE.jpg"
+                            },
+                            {
                                 "url": "/only-friends/",
                                 "title": "Only Friends (11/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/once-upon-a-crime/",
                                 "title": "Once Upon a Crime",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg"
-                            },
-                            {
-                                "url": "/imparable-sub-espanol/",
-                                "title": "Imparable",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3fyx6TSk18D5Sgt47t75msbNVqn.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/my-home-hero/",
+                                "title": "My Home Hero (02/10)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cJtyFrPpQvqqnLNGtnqDctn9nhE.jpg"
+                            },
+                            {
                                 "url": "/only-friends/",
                                 "title": "Only Friends (11/12)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/once-upon-a-crime/",
                                 "title": "Once Upon a Crime",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg"
-                            },
-                            {
-                                "url": "/imparable-sub-espanol/",
-                                "title": "Imparable",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/3fyx6TSk18D5Sgt47t75msbNVqn.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -394,20 +394,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/only-friends/",
-                    "title": "Only Friends (11/12)",
-                    "description": "Mew se ha centrado en sus estudios, sin reservar tiempo para las relaciones. Al enterarse de la inocencia de su amigo, Boston le presenta a Top. Lo que Boston pretendía que fuera algo de una noche para su amigo, empieza siendo el inicio de un noviazgo entre Mew y Top, él no está contento con el giro de los acontecimientos. Por otra parte, Sand quiere una relación exclusiva con Ray, pero Ray siente algo por Mew y no está interesado en llegar a un acuerdo. El informático Nick encuentra un video sexual en el teléfono de Boston y termina en una relación de amigos con beneficios con él, sin embargo, Nick quiere algo más.",
-                    "genre": "Drama, Romance, Yaoi / BL",
+                    "url": "/my-home-hero/",
+                    "title": "My Home Hero (02/10)",
+                    "description": "Tetsuo Tosu, un asalariado normal y corriente, descubre que su hija, Reika, ha sido maltratada físicamente por su novio, Matori Nobuto. Tratando de saber más sobre él, Tetsuo descubre el plan de Matori para extorsionar a los ricos abuelos de Reika, y descubre que es miembro de un sindicato del crimen, con un historial de asesinatos de sus antiguas novias. Lleno de rabia y miedo al pensar que Reika está en peligro, Tetsuo acaba matando a Nobuto, y con la ayuda de su esposa, Kasen, se deshace con éxito del cuerpo. Ahora, cuando los miembros del sindicato comienzan a cuestionar la repentina desaparición de Nobuto, Tetsuo y Kasen deben trabajar juntos para garantizar la seguridad de su hija y evitar que se vea envuelta en el predicamento",
+                    "genre": "Drama, Misterio, Psicológico",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/xVCkYP92OSq03bCqDJb7WhsKQfd.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/cJtyFrPpQvqqnLNGtnqDctn9nhE.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/paste/2928910/",
+                        "name": "Episodio 02",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/paste/2228909/",
+                        "name": "Episodio 01",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

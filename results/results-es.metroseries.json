@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/mX2ufYlYGEIyieypljCfYgAYcd0.jpg"
                             },
                             {
-                                "url": "/libre-de-reir/",
-                                "title": "Libre de reír",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/A4dlv2PzrMNeM4bgzamcvK3bWlf.jpg"
+                                "url": "/rebelde-capitulos-completos-latino-hd-online/",
+                                "title": "Rebelde",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2022/07/iehrrb9CmYCiV1hXp5pdGQQmGNe-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-confession-killer/",
-                                "title": "The Confession Killer",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/hj7MnIRkdHNGEXuMzCofJpcHKsa-226x339.jpg"
+                                "url": "/hasta-que-la-plata-nos-separe-2022/",
+                                "title": "Hasta que la plata nos separe (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wWlPY4zmuJDelcOwb4ph9lGo5Ew.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,11 +144,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/absolutni-debiutanci-temporada-1-capitulo-6/",
+                        "name": "T1 - E06 - Episodio 6",
+                        "date_upload": 1698192000000
+                    },
+                    {
+                        "url": "/episode/absolutni-debiutanci-temporada-1-capitulo-5/",
+                        "name": "T1 - E05 - Episodio 5",
+                        "date_upload": 1698192000000
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/JbdZNM4HLgpOHu3x0Mkqzo1A8Nd3jf6k.webp&w=640&q=75"
                             },
                             {
-                                "url": "/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM.webp&w=640&q=75"
-                            },
-                            {
                                 "url": "/anime/7jqPPiEY05LfDcDH7sAaoEnyZQZD63zJ",
                                 "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/7jqPPiEY05LfDcDH7sAaoEnyZQZD63zJ.jpg&w=640&q=75"
+                            },
+                            {
+                                "url": "/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM.webp&w=640&q=75"
                             },
                             {
                                 "url": "/anime/5oatKDlqk6OZSTIWOoQo4OgzYU1P5VGE",
@@ -281,14 +281,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/XQWlvF7rL7705IwnnrPpZb5c44Wa2odx/4",
+                        "name": "Ep. 4 - Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
                         "url": "/watch/XQWlvF7rL7705IwnnrPpZb5c44Wa2odx/3",
                         "name": "Ep. 3 - Episode 3",
                         "episode_number": 3.0
-                    },
-                    {
-                        "url": "/watch/XQWlvF7rL7705IwnnrPpZb5c44Wa2odx/2",
-                        "name": "Ep. 2 - Episode 2",
-                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -296,9 +296,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://animeui.infura-ipfs.io/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://animeui.infura-ipfs.io/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Tokyo",
-                        "videoUrl": "https://animeui.infura-ipfs.io/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://animeui.infura-ipfs.io/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -307,27 +307,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://fleek.ipfs.io/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://fleek.ipfs.io/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Noshiro",
-                        "videoUrl": "https://fleek.ipfs.io/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://fleek.ipfs.io/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -336,27 +328,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://dweb.link/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://dweb.link/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Web",
-                        "videoUrl": "https://dweb.link/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://dweb.link/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -365,27 +349,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://gateway.ipfs.io/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://gateway.ipfs.io/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Osaka",
-                        "videoUrl": "https://gateway.ipfs.io/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://gateway.ipfs.io/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -394,27 +370,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://cloudflare-ipfs.com/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://cloudflare-ipfs.com/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Nara",
-                        "videoUrl": "https://cloudflare-ipfs.com/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://cloudflare-ipfs.com/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -423,27 +391,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://ipfs.c4rex.co/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://ipfs.c4rex.co/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Sendai",
-                        "videoUrl": "https://ipfs.c4rex.co/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://ipfs.c4rex.co/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -452,27 +412,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://cf-ipfs.com/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://cf-ipfs.com/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Nagoya",
-                        "videoUrl": "https://cf-ipfs.com/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://cf-ipfs.com/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -481,27 +433,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     },
                     {
-                        "url": "https://ipfs.w3s.link/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "url": "https://ipfs.w3s.link/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "quality": "Kyoto",
-                        "videoUrl": "https://ipfs.w3s.link/ipfs/QmZDQ1gYnCWRVXrGRwoiwLpzekjAhRSLT2QmBP46atRKA3",
+                        "videoUrl": "https://ipfs.w3s.link/ipfs/QmPS7eYh8w4mMvPEKwAYiixvNsesdqKEhWs6J3hWrHFYVZ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -510,20 +454,12 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/c992e030761e70a60a72ce92ed5ecf543f33571246ec6cb6723d3670.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/a6d46fcd19173c8f631ff6eba16f139f36723074ef0314462a0dfde9.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/b657a36367cc08247b870a20718c50c5bf9ffd1b44fe6177904f74e8.ass",
-                                "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bc3c505e00badfb0b7ca041781ca45f6b79c0166638f70d5b1ace23a.ass",
+                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 4/1c5b7165361d4e4596295bdabed4b91f06713a2ca2d7af6ef770968f.ass",
                                 "lang": "French"
-                            },
-                            {
-                                "url": "https://animeui.com/api/subtitles/Kage no Jitsuryokusha ni Naritakute! 2nd season/Episode 3/bf4ff38b2fcd08c484d0e4a282ee67aa8188589560e8ff0d21f3daad.ass",
-                                "lang": "Brazilian Portuguese"
                             }
                         ]
                     }
