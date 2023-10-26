@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/pluto/",
+                                "title": "Pluto",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/F9WRErOXgAA9RCW.jpg?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/kin-no-kuni-mizu-no-kuni/",
                                 "title": "Kin no Kuni Mizu no Kuni",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Kin_no_Kuni_Mizu_no_Kuni-cover.jpg?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/migi-to-dali/",
                                 "title": "Migi to Dali",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.02_14h21m00s_002_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/boushoku-no-berserk/",
-                                "title": "Boushoku no Berserk",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.01_14h51m24s_008_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -359,13 +359,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kin-no-kuni-mizu-no-kuni/",
-                    "title": "Kin no Kuni Mizu no Kuni",
-                    "description": "كان يا ما كان دولتان جارتان على خلافٍ شديد نشبت بينهما حربٌ ضروس اضطرَّت الآلهة للتدخل مِن أجل عقد هدنةٍ ولإحلال السلام أمرتهم بما يلي: الدولة أ سترسل أجمل نسائها للدولة ب والدولة ب سترسل أذكى رجالها للدولة أ ثمَّ سيتزوَّج كلٌّ منهما مِن بلد الآخر.",
-                    "genre": "فنتازيا, رومانسي, جوسي, Movie, مكتمل, شتاء 2023",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Kin_no_Kuni_Mizu_no_Kuni-cover.jpg?fit=400%2C589&ssl=1",
+                    "url": "/anime/pluto/",
+                    "title": "Pluto",
+                    "description": "الروبوت السويسري الأسطوري مونبلان الشهير بخدمته العسكرية في الحرب الآسيوية التاسعة والثلاثين قد قُتِل بعنف. يحزن البشر والروبوتات في جميع أنحاء العالم على هذه الشخصية العزيزة عليهم. نمت شعبية مونبلان فقط في السنوات التي أعقبت الحرب، بفضل تفانيه في الحفاظ على الطبيعة وشخصيته المحبة. ذات مرة بعد أن كان زميلًا مخضرما في الحرب، تم إرسال محقق اليوروبول الآلي “غيسيشت” للتحقيق في وفاة “مونبلان” المأساوية. في سعيه، كشف غيسيشت عن دليل على كيان غامض يعرف فقط باسم بلوتو. كما علم بمؤامرة لتفكيك الروبوتات الثمانية المتخصصة من جميع أنحاء العالم الذين شاركوا في الحرب. يتسابق غيسيشت مع الزمن لإنقاذ أولئك الذين ما زالوا باقين، ويتصارع مع ذاكرته وأخلاقه وعالمه المليء بالكراهية، ويحاول يائسًا الدفاع عن التعايش الهش بين البشر والروبوتات.",
+                    "genre": "أكشن, غموض, خيال علمي, نفسي, سينين, ONA, يعرض الان, خريف 2023",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/F9WRErOXgAA9RCW.jpg?fit=691%2C1024&ssl=1",
                     "initialized": true
                 },
                 "passed": true
@@ -373,22 +373,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/فيلم-kin-no-kuni-mizu-no-kuni/",
-                        "name": "الفلم 1",
-                        "episode_number": 1.0
+                        "url": "/episode/pluto-الحلقة-7/",
+                        "name": "الأونا 7",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/episode/pluto-الحلقة-6/",
+                        "name": "الأونا 6",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://nx60no4-13.vidboo.org/6jmnwvkp3iazsalriuqqfz7bimirqiyk53623yqnsxzgudlfznhenmrxtrja/v.mp4",
-                        "quality": "Vidbom: 720p",
-                        "videoUrl": "https://nx60no4-13.vidboo.org/6jmnwvkp3iazsalriuqqfz7bimirqiyk53623yqnsxzgudlfznhenmrxtrja/v.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

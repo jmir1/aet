@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/pluto/",
+                                "title": "Pluto",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/PLUTO.jpg"
+                            },
+                            {
                                 "url": "/anime/kusuriya-no-hitorigoto/",
                                 "title": "Kusuriya no Hitorigoto",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Kusuriya-no-Hitorigoto.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
                                 "title": "Captain Tsubasa Season 2 Junior Youth hen",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Captain-Tsubasa-Season-2-Junior-Youth-hen.jpg"
-                            },
-                            {
-                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
-                                "title": "Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Shangri-La-Frontier-Kusoge-Hunter-Kamige-ni-Idoman-to-su.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -384,31 +384,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kusuriya-no-hitorigoto/",
-                    "title": "Kusuriya no Hitorigoto",
-                    "description": "في محكمة إمبراطورية في الصين القديمة، مرت بضعة أشهر منذ اختطاف فتاة تبلغ من العمر 17 عامًا تُعرف باسم “ماوماو” وإجبارها على العمل كخادمة منخفضة المستوى في قصر الإمبراطور. ومع ذلك، تمكنت من الاحتفاظ بروحها الفضولية والعملية، وتخطط أن تشتغل حتى تنتهي سنوات العبودية. في أحد الأيام، اكتشفت حقيقة أن رضيعي الإمبراطور أصيبا بمرض خطير. لتقرر اتخاذ إجراء سراً، بالاعتماد على تجربتها كصيدلانية نشأت في منطقة الضوء الأحمر الفقيرة. لكن على الرغم من محاولات “ماوماو” لعدم الكشف عن هويتها، سرعان ما لفتت انتباه “جينشي“، وهو صاحب النفوذ والذي يعترف بمواهبها. “ماوماو” تجد نفسها في البلاط الداخلي للإمبراطور، حيث تصنع اسمًا لنفسها تدريجيًا من خلال استخدام معرفتها وشخصيتها الغريبة لحل الألغاز الطبية المختلفة.",
-                    "genre": "غموض, دراما, تاريخي",
+                    "url": "/anime/pluto/",
+                    "title": "Pluto",
+                    "description": "الروبوت السويسري الأسطوري مونبلان الشهير بخدمته العسكرية في الحرب الآسيوية التاسعة والثلاثين قد قُتِل بعنف يحزن البشر والروبوتات في جميع أنحاء العالم على هذه الشخصية العزيزة عليهم نمت شعبية مونبلان فقط في السنوات التي أعقبت الحرب بفضل تفانيه في الحفاظ على الطبيعة وشخصيته المحبة ذات مرة بعد أن كان زميلًا مخضرما في الحرب تم إرسال محقق اليوروبول الآلي غيسيشت للتحقيق في وفاة مونبلان المأساوية في سعيه كشف غيسيشت عن دليل على كيان غامض يعرف فقط باسم بلوتو.",
+                    "genre": "ميكا, غموض, شرطة, نفسي, سينين, أكشن, خيال علمي",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Kusuriya-no-Hitorigoto.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/PLUTO.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/kusuriya-no-hitorigoto-الحلقة-4/",
-                        "name": "4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/episode/kusuriya-no-hitorigoto-الحلقة-3/",
-                        "name": "3",
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
