@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/marsupilami-2000",
+                                "title": "Marsupilami (2000)",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933246.jpg"
+                            },
+                            {
+                                "url": "/anime/marcus-level",
+                                "title": "Marcus Level",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933245.jpg"
+                            },
+                            {
                                 "url": "/anime/luo-bao-bei",
                                 "title": "Luo Bao Bei",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933244.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/lego-jurassic-world-the-secret-exhibit",
                                 "title": "Lego Jurassic World: The Secret Exhibit",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933231.jpg"
-                            },
-                            {
-                                "url": "/anime/legendary-place",
-                                "title": "Legendary Place",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933230.jpg"
-                            },
-                            {
-                                "url": "/anime/lazoo",
-                                "title": "Lazoo",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933229.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/luo-bao-bei",
-                    "title": "Luo Bao Bei",
-                    "description": "The story is about a 7-year-old Luo Bao Bei as she navigates childhood and the world around her. Fantasy and dreams add elements of surrealism.",
-                    "genre": "Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933244.jpg",
+                    "url": "/anime/marsupilami-2000",
+                    "title": "Marsupilami (2000)",
+                    "description": "An animated series based on the French comic strip by Franquin. The marsupilami is a small, clever animal with an incredibly long tail, which he puts to use in a variety of ways. Most of the episodes involve marsupilami protecting himself and his friends from hunters and other predators.",
+                    "genre": "Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933246.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/marsupilami-2000-episode-20-the-marsupilami-in-the-store",
+                        "name": "Season 1 - Episode 20",
+                        "episode_number": 120.0
+                    },
+                    {
+                        "url": "/marsupilami-2000-episode-19-the-marsupilami",
+                        "name": "Season 1 - Episode 19",
+                        "episode_number": 119.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjmzZxGPIWRa0Yr3ejA7gEr6bjz1q0eB0lyUkRNyDWTOx12eLBP-QhmOic2eclAKL91WrRtEl2Z6rvNB0-WUBztFGUw0GRxH0w9_ugQ3GEuh95b-ym34o058xsFeoEZ0cdni64fOOQCN5E493986vTmreJN1Iq4VfbwZN1EfUM8An4HxPMjL2Ijmc-xyY1kyao7E3k1c_Gv0wbjQbGnqhCe7CcxCVBPaS6A9Rsp8JPWIT5eQzJTqB69myUrqIUITY5_AHMQyj1Hf0wuE9q253lvUz2acZ7IVLSTNWYsq4eDCJfXYhaKpfchh5E1FqaGb-PzRllBIUbpnUcMz86V5IE0BTDNxpZQeezwLlQqJeAexX0eVJDFHlokUoVC7hRM9vg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjmzZxGPIWRa0Yr3ejA7gEr6bjz1q0eB0lyUkRNyDWTOx12eLBP-QhmOic2eclAKL91WrRtEl2Z6rvNB0-WUBztFGUw0GRxH0w9_ugQ3GEuh95b-ym34o058xsFeoEZ0cdni64fOOQCN5E493986vTmreJN1Iq4VfbwZN1EfUM8An4HxPMjL2Ijmc-xyY1kyao7E3k1c_Gv0wbjQbGnqhCe7CcxCVBPaS6A9Rsp8JPWIT5eQzJTqB69myUrqIUITY5_AHMQyj1Hf0wuE9q253lvUz2acZ7IVLSTNWYsq4eDCJfXYhaKpfchh5E1FqaGb-PzRllBIUbpnUcMz86V5IE0BTDNxpZQeezwLlQqJeAexX0eVJDFHlokUoVC7hRM9vg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjmzZxGPIWRa0Yr3ejA7gEr6bjz1q0eB0lyUkRNyDWTOx12eLBP-QhmOic2eclAKL91WrRtEl2Z6rvNB0-WUBztFGUw0GRxH0w9_ugQ3GEuh95b-ym34o058xsFeoEZ0cY79PVnmp5Ut9s0xcm6RlLgQ15uS-cSQlPZPXt6j8qvxJxHp1uPa6PhKKnAbHdfU8774l9esEWHTp7K9c8nr4CjEAs1LeklxI8f-tnjuIXvbuFjuI_85xqsHnqnXK3t0A4df5SSbK2mHqh1XBgUd5DEMuOm047jAPKGnoKkRvoZJDYsJrG0BtJ6SDpZLAR4hxg-apBFy-wANpcIcpzBbClTSE26GHFGPXww4dCRlcsP2DhBtrsRLqT47eeuj7V9dNw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjmzZxGPIWRa0Yr3ejA7gEr6bjz1q0eB0lyUkRNyDWTOx12eLBP-QhmOic2eclAKL91WrRtEl2Z6rvNB0-WUBztFGUw0GRxH0w9_ugQ3GEuh95b-ym34o058xsFeoEZ0cY79PVnmp5Ut9s0xcm6RlLgQ15uS-cSQlPZPXt6j8qvxJxHp1uPa6PhKKnAbHdfU8774l9esEWHTp7K9c8nr4CjEAs1LeklxI8f-tnjuIXvbuFjuI_85xqsHnqnXK3t0A4df5SSbK2mHqh1XBgUd5DEMuOm047jAPKGnoKkRvoZJDYsJrG0BtJ6SDpZLAR4hxg-apBFy-wANpcIcpzBbClTSE26GHFGPXww4dCRlcsP2DhBtrsRLqT47eeuj7V9dNw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjmzZxGPIWRa0Yr3ejA7gEr6bjz1q0eB0lyUkRNyDWTOx12eLBP-QhmOic2eclAKL91WrRtEl2Z6rvNB0-WUBztFGUw0GRxH0w9_ugQ3GEuh95b-ym34o058xsFeoEZ0ccoRlwqB1nk5WdLJofn9agx87N1eyECNZ3ok2OIr0J_StmRlYI2qn6wckhC4XR5s6_igTMCPiTvGS6sd7LvzYvgsrSy-46H54HgyqBXVT6Ki5lA2Q2FUPxoaSI9_xBSpINoY9ncyAX1ohw7UQNcRv1dqlKjNx8RTxAUxdmiK0Os8QoW6eSDmlp01od8UtHR1sxEFMtmJ0Ww54okNF2HEapfTvvTjPjdr0dbVK_cvoMuIwlWizSAJiQpcuLD3dtDhYQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjmzZxGPIWRa0Yr3ejA7gEr6bjz1q0eB0lyUkRNyDWTOx12eLBP-QhmOic2eclAKL91WrRtEl2Z6rvNB0-WUBztFGUw0GRxH0w9_ugQ3GEuh95b-ym34o058xsFeoEZ0ccoRlwqB1nk5WdLJofn9agx87N1eyECNZ3ok2OIr0J_StmRlYI2qn6wckhC4XR5s6_igTMCPiTvGS6sd7LvzYvgsrSy-46H54HgyqBXVT6Ki5lA2Q2FUPxoaSI9_xBSpINoY9ncyAX1ohw7UQNcRv1dqlKjNx8RTxAUxdmiK0Os8QoW6eSDmlp01od8UtHR1sxEFMtmJ0Ww54okNF2HEapfTvvTjPjdr0dbVK_cvoMuIwlWizSAJiQpcuLD3dtDhYQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -259,38 +259,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/dilek-tasi-capitulo-7/",
+                        "name": "T - E7 - Capitulo 7",
+                        "episode_number": 7.0
+                    },
+                    {
                         "url": "/dilek-tasi-capitulo-6/",
                         "name": "T - E6 - Capitulo 6",
                         "episode_number": 6.0
-                    },
-                    {
-                        "url": "/dilek-tasi-capitulo-5/",
-                        "name": "T - E5 - Capitulo 5",
-                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m60.uqload.io/3rfkitrnr5w2q4drdku7xnnjl3u7vj2y66vptgvgs5snuvbd3aoho4dsov6a/v.mp4",
-                        "quality": "Uqload Uqload",
-                        "videoUrl": "https://m60.uqload.io/3rfkitrnr5w2q4drdku7xnnjl3u7vj2y66vptgvgs5snuvbd3aoho4dsov6a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://eno-02-d3-2c.vmrest.space/hls/xqx2ocnpnjokjiqbthpcjocf4ymbl4a6rp42opb27pxsmtoi5bispsfer2jq/index-v1-a1.m3u8",
-                        "quality": " - 720p",
-                        "videoUrl": "https://eno-02-d3-2c.vmrest.space/hls/xqx2ocnpnjokjiqbthpcjocf4ymbl4a6rp42opb27pxsmtoi5bispsfer2jq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

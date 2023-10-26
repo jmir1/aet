@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-vida-en-nuestro-planeta/",
+                                "title": "La vida en nuestro planeta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/euKKnIRTJvKUF6miggTYg7K0jSO.jpg"
+                            },
+                            {
                                 "url": "/absolutni-debiutanci/",
                                 "title": "Absolutni debiutanci",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/qQMXBtpP1MPeKBeyFzsISPckEnS.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/oUlPgVUVfwcSnlnYrV6rIicWNOo.jpg"
                             },
                             {
-                                "url": "/deer-squad/",
-                                "title": "Deer Squad",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mX2ufYlYGEIyieypljCfYgAYcd0.jpg"
-                            },
-                            {
-                                "url": "/the-fear-index/",
-                                "title": "The Fear Index",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bJO7R5FojRDJlssFZQrVqF3bvtv.jpg"
+                                "url": "/habitacion-309/",
+                                "title": "Habitacion 309",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/deliver-us/",
-                                "title": "Deliver Us",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rG3K9XED9aLe2x4VFUS6wslvXbo.jpg"
+                                "url": "/irresistible/",
+                                "title": "Irrésistible",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sN65vnt10IqsytvI9e1mC0NkbpJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,11 +134,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/absolutni-debiutanci/",
-                    "title": "Absolutni debiutanci",
-                    "description": "Absolute Beginners - Principiantes totales El último verano en la costa de dos amigos que se preparan para estudiar en la escuela de cine da un giro tras la llegada de un joven que despierta deseos sorprendentes.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qQMXBtpP1MPeKBeyFzsISPckEnS.jpg",
+                    "url": "/la-vida-en-nuestro-planeta/",
+                    "title": "La vida en nuestro planeta",
+                    "description": "Life on Our Planet La extraordinaria travesía de conquistar, adaptarse y sobrevivir en la Tierra a lo largo de miles de millones de años cobra vida en esta serie documental sobre la naturaleza.",
+                    "genre": "Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/euKKnIRTJvKUF6miggTYg7K0jSO.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -146,21 +146,112 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/absolutni-debiutanci-temporada-1-capitulo-6/",
-                        "name": "T1 - E06 - Episodio 6",
+                        "url": "/episode/la-vida-en-nuestro-planeta-temporada-1-capitulo-8/",
+                        "name": "T1 - E08 - Capítulo 8: La Edad de Hielo y Fuego",
                         "date_upload": 1698192000000
                     },
                     {
-                        "url": "/episode/absolutni-debiutanci-temporada-1-capitulo-5/",
-                        "name": "T1 - E05 - Episodio 5",
+                        "url": "/episode/la-vida-en-nuestro-planeta-temporada-1-capitulo-7/",
+                        "name": "T1 - E07 - Capítulo 7: Herederos de la Tierra",
                         "date_upload": 1698192000000
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00060/xftxe9461psa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=QQJiu_r7DNSAgM4s4PBAS9oginp9UrtjDsnfSNjsNuU&s=1698300575&e=43200&f=301997&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00060/xftxe9461psa_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=QQJiu_r7DNSAgM4s4PBAS9oginp9UrtjDsnfSNjsNuU&s=1698300575&e=43200&f=301997&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00060/xftxe9461psa_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=QQJiu_r7DNSAgM4s4PBAS9oginp9UrtjDsnfSNjsNuU&s=1698300575&e=43200&f=301997&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00060/xftxe9461psa_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=QQJiu_r7DNSAgM4s4PBAS9oginp9UrtjDsnfSNjsNuU&s=1698300575&e=43200&f=301997&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/01/00060/xftxe9461psa_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=QQJiu_r7DNSAgM4s4PBAS9oginp9UrtjDsnfSNjsNuU&s=1698300575&e=43200&f=301997&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/01/00060/xftxe9461psa_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=QQJiu_r7DNSAgM4s4PBAS9oginp9UrtjDsnfSNjsNuU&s=1698300575&e=43200&f=301997&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/04/00060/c7937tlro2d5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=upwl7kFHpMMSi88wAl0j7U-eZxXMVo2F5cLznUuhSDc&s=1698300577&e=43200&f=301996&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s29.fastream.to/hls2/04/00060/c7937tlro2d5_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=upwl7kFHpMMSi88wAl0j7U-eZxXMVo2F5cLznUuhSDc&s=1698300577&e=43200&f=301996&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/04/00060/c7937tlro2d5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=upwl7kFHpMMSi88wAl0j7U-eZxXMVo2F5cLznUuhSDc&s=1698300577&e=43200&f=301996&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s29.fastream.to/hls2/04/00060/c7937tlro2d5_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=upwl7kFHpMMSi88wAl0j7U-eZxXMVo2F5cLznUuhSDc&s=1698300577&e=43200&f=301996&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/04/00060/c7937tlro2d5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=upwl7kFHpMMSi88wAl0j7U-eZxXMVo2F5cLznUuhSDc&s=1698300577&e=43200&f=301996&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s29.fastream.to/hls2/04/00060/c7937tlro2d5_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=upwl7kFHpMMSi88wAl0j7U-eZxXMVo2F5cLznUuhSDc&s=1698300577&e=43200&f=301996&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/05/00060/s0idujk1u4ai_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ymkzldwyoXNjtDy9C00YbPj2U6Zj7apVsnRKyiNON0E&s=1698300580&e=43200&f=301998&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s29.fastream.to/hls2/05/00060/s0idujk1u4ai_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ymkzldwyoXNjtDy9C00YbPj2U6Zj7apVsnRKyiNON0E&s=1698300580&e=43200&f=301998&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/05/00060/s0idujk1u4ai_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ymkzldwyoXNjtDy9C00YbPj2U6Zj7apVsnRKyiNON0E&s=1698300580&e=43200&f=301998&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s29.fastream.to/hls2/05/00060/s0idujk1u4ai_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=ymkzldwyoXNjtDy9C00YbPj2U6Zj7apVsnRKyiNON0E&s=1698300580&e=43200&f=301998&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/05/00060/s0idujk1u4ai_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ymkzldwyoXNjtDy9C00YbPj2U6Zj7apVsnRKyiNON0E&s=1698300580&e=43200&f=301998&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s29.fastream.to/hls2/05/00060/s0idujk1u4ai_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=ymkzldwyoXNjtDy9C00YbPj2U6Zj7apVsnRKyiNON0E&s=1698300580&e=43200&f=301998&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

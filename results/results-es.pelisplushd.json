@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/la-vida-en-nuestro-planeta",
+                                "title": "La vida en nuestro planeta (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/euKKnIRTJvKUF6miggTYg7K0jSO.jpg"
+                            },
+                            {
                                 "url": "/serie/el-plan-del-diablo",
                                 "title": "El plan del diablo (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/q8ED7O2RM5pXCafMQuBKragWqPz.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/alphonse",
                                 "title": "Alphonse (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg"
-                            },
-                            {
-                                "url": "/serie/frasier",
-                                "title": "Frasier (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gQAjtgjgb5VAQXJog1bZgY5cjL2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/el-plan-del-diablo",
-                    "title": "El plan del diablo (2023)",
-                    "description": "Los concursantes se enfrentan en juegos de ingenio y estrategia, luchando por ser coronados ganadores e irse a casa con el premio final..",
-                    "genre": "Reality",
+                    "url": "/serie/la-vida-en-nuestro-planeta",
+                    "title": "La vida en nuestro planeta (2023)",
+                    "description": "La extraordinaria travesía de conquistar, adaptarse y sobrevivir en la Tierra a lo largo de miles de millones de años cobra vida en esta serie documental sobre la naturaleza..",
+                    "genre": "Documental",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/q8ED7O2RM5pXCafMQuBKragWqPz.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/euKKnIRTJvKUF6miggTYg7K0jSO.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/el-plan-del-diablo/temporada/1/capitulo/12",
-                        "name": "T1 - E12: Episodio 12",
-                        "episode_number": 12.0
+                        "url": "/serie/la-vida-en-nuestro-planeta/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/el-plan-del-diablo/temporada/1/capitulo/11",
-                        "name": "T1 - E11: Episodio 11",
-                        "episode_number": 11.0
+                        "url": "/serie/la-vida-en-nuestro-planeta/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -293,14 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/tn3wirhcyuzv",
+                        "url": "https://voe.sx/e/am5ndcydjtd1",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/09748/tn3wirhcyuzv_,n,.urlset/master.m3u8?t=dF0nihaA5mr2mia4loazSKjERR9QA4Vd-EAHzSF1BXE&s=1698280133&e=14400&f=48743806&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=40.84&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/tn3wirhcyuzv",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-hi4zdpbsr1orrs1a.voe-network.net/engine/hls2/01/09748/tn3wirhcyuzv_,n,.urlset/master.m3u8?t=dF0nihaA5mr2mia4loazSKjERR9QA4Vd-EAHzSF1BXE&s=1698280133&e=14400&f=48743806&node=delivery-node-hi4zdpbsr1orrs1a.voe-network.net&i=40.84&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-4u0gl25us0c52i51.voe-network.net/engine/hls2-c/01/09756/am5ndcydjtd1_,n,.urlset/master.m3u8?t=9mZdgwddzKte-oeMxdgD2sUMo3lRyLBlCOA9RcjYy3E&s=1698300578&e=14400&f=48781761&node=delivery-node-aenweewvyripecad.voe-network.net&i=104.45&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -314,6 +309,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/el-banco-de-dave",
+                                "title": "El banco de Dave (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vJRPxN7aT9RS4Mdn5LdUKoD9CS0.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-lado-dulce-de-la-traicion",
+                                "title": "El lado dulce de la traición (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2GlfW6wbvUvX7Z2dUv4ZI70TjLe.jpg"
+                            },
+                            {
+                                "url": "/pelicula/london-confidential",
+                                "title": "London Confidential (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mtJbSbMUqwIJBJvFBRD7oYRknua.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-ingeniero",
+                                "title": "El Ingeniero (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7EJdyAY5INMtxGLfjG7zFLMACwr.jpg"
+                            },
                             {
                                 "url": "/pelicula/vjeran-tomic-el-hombre-arana-de-paris",
                                 "title": "Vjeran Tomic: El hombre araña de Paris (2023)",
@@ -413,26 +428,6 @@
                                 "url": "/pelicula/sonido-de-libertad",
                                 "title": "Sonido De Libertad (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w342/apxaWDCqjPrVc1v5HiKW2r10yiL.jpg"
-                            },
-                            {
-                                "url": "/pelicula/juego-limpio",
-                                "title": "Juego limpio (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/f9DEQQTeNPLBQvy40AGdcoD3hGE.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bailarina",
-                                "title": "Bailarina (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/OmpAFNNjYRPao0PKPvMrgOh6bp.jpg"
-                            },
-                            {
-                                "url": "/pelicula/contrarreloj",
-                                "title": "Contrarreloj (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/sf8bmlofyWyRaaaWC9gR79It8qO.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-equalizer",
-                                "title": "The equalizer (2014)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/8nOE7FrxZZENVR9ewE9X8W22rgp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -572,10 +567,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/vjeran-tomic-el-hombre-arana-de-paris",
-                    "title": "Vjeran Tomic: El hombre araña de Paris (2023)",
-                    "description": "En sus propias palabras, el ladrón que robó el Museo de Arte Moderno de París en 2010 revela cómo orquestó el mayor golpe en la historia de Francia.",
-                    "genre": "Crimen, Documental",
+                    "url": "/pelicula/el-banco-de-dave",
+                    "title": "El banco de Dave (2023)",
+                    "description": "Basado en las experiencias de la vida real de Dave Fishwick; 'Bank of Dave' cuenta la historia de cómo un hombre de Burnley de clase trabajadora y un millonario hecho a sí mismo lucharon para establecer un banco comunitario.",
+                    "genre": "Drama, Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -585,7 +580,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/vjeran-tomic-el-hombre-arana-de-paris",
+                        "url": "/pelicula/el-banco-de-dave",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -595,18 +590,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/iwbdhrs6axlc",
+                        "url": "https://voe.sx/e/ibknxdze3wkq",
                         "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/09727/q2enn54egcv3_,n,.urlset/master.m3u8?t=73B6oNpkMUro3D6B2QEXSseUsLidE38ex9ifigTlXRw&s=1698280141&e=14400&f=48749957&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=40.84&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04831/gfmwoz9lh70d_h/index-v1-a1.m3u8?t=xETMJzuxgHyZweSCiEM0D6XFYUMAHaWEYaND0DfhHkA&s=1698280136&e=43200&f=24243504&srv=11&asn=8075&sp=2000",
-                        "quality": "720p",
-                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04831/gfmwoz9lh70d_h/index-v1-a1.m3u8?t=xETMJzuxgHyZweSCiEM0D6XFYUMAHaWEYaND0DfhHkA&s=1698280136&e=43200&f=24243504&srv=11&asn=8075&sp=2000",
-                        "headers": {
-                            "Referer": "https://filemoon.sx/e/im8jx7anqe6c",
-                            "Origin": "https://filemoon.sx"
-                        }
+                        "videoUrl": "https://delivery-node-l7kjbveqiywy9liy.voe-network.net/engine/hls2/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=-lZNHjeDnNu1sSQ7Eh5In25tticdEfFc58KQMxLZP50&s=1698300582&e=14400&f=48784256&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=104.45&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
