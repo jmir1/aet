@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/principiantes-totales",
+                                "title": "Principiantes totales (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qQMXBtpP1MPeKBeyFzsISPckEnS.jpg"
+                            },
+                            {
                                 "url": "/serie/la-vida-en-nuestro-planeta",
                                 "title": "La vida en nuestro planeta (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/euKKnIRTJvKUF6miggTYg7K0jSO.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/a-todos-les-gustan-los-diamantes",
                                 "title": "A todos les gustan los diamantes (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/hWcAtsCv8cETLzh7wHDZ4qKtzRP.jpg"
-                            },
-                            {
-                                "url": "/serie/alphonse",
-                                "title": "Alphonse (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kd4xpSQZmrrnSlK0SLdF6iqDkEk.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-vida-en-nuestro-planeta",
-                    "title": "La vida en nuestro planeta (2023)",
-                    "description": "La extraordinaria travesía de conquistar, adaptarse y sobrevivir en la Tierra a lo largo de miles de millones de años cobra vida en esta serie documental sobre la naturaleza..",
-                    "genre": "Documental",
+                    "url": "/serie/principiantes-totales",
+                    "title": "Principiantes totales (2023)",
+                    "description": "El último verano en la costa de dos amigos que se preparan para estudiar en la escuela de cine da un giro tras la llegada de un joven que despierta deseos sorprendentes..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/euKKnIRTJvKUF6miggTYg7K0jSO.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qQMXBtpP1MPeKBeyFzsISPckEnS.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-vida-en-nuestro-planeta/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/principiantes-totales/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
                     },
                     {
-                        "url": "/serie/la-vida-en-nuestro-planeta/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/principiantes-totales/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -293,9 +293,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/am5ndcydjtd1",
+                        "url": "https://voe.sx/e/pgtfgdvmmaji",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-aenweewvyripecad.voe-network.net/engine/hls2/01/09756/am5ndcydjtd1_,n,.urlset/master.m3u8?t=G46Mgw54t3IPlrkCjYfKeb9-FWJNLx9UcGcnNsiW3GM&s=1698322366&e=14400&f=48781761&node=delivery-node-aenweewvyripecad.voe-network.net&i=20.42&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/09758/pgtfgdvmmaji_,n,.urlset/master.m3u8?t=SMTiSmhc7fqkK4Ly4vLZAhgZCdAlIqSUqvnyulj3oVE&s=1698343804&e=14400&f=48794416&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=172.176&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -592,7 +592,7 @@
                     {
                         "url": "https://voe.sx/e/ibknxdze3wkq",
                         "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-l7kjbveqiywy9liy.voe-network.net/engine/hls2/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=MHexbc11PhzZxBsYRTTXjYakMJwk5d0NzrCPeEzRoaQ&s=1698322369&e=14400&f=48784256&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=20.42&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-hwccpji6jnkvfwfi.voe-network.net/engine/hls2-c/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=9NO7UxeV1_9YhECp8nIvnbAqxO6dlibaPRsUJOrxKTg&s=1698343809&e=14400&f=48784256&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=172.176&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
