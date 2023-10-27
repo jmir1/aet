@@ -295,7 +295,7 @@
                     {
                         "url": "https://voe.sx/e/pgtfgdvmmaji",
                         "quality": "Voex",
-                        "videoUrl": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/09758/pgtfgdvmmaji_,n,.urlset/master.m3u8?t=SMTiSmhc7fqkK4Ly4vLZAhgZCdAlIqSUqvnyulj3oVE&s=1698343804&e=14400&f=48794416&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=172.176&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/09758/pgtfgdvmmaji_,n,.urlset/master.m3u8?t=vPr_Xwh1wX2zpvsKjM9HCyp9QkMJVVDyAFwCwhtr-ac&s=1698366657&e=14400&f=48794416&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=20.168&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -592,7 +592,7 @@
                     {
                         "url": "https://voe.sx/e/ibknxdze3wkq",
                         "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-hwccpji6jnkvfwfi.voe-network.net/engine/hls2-c/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=9NO7UxeV1_9YhECp8nIvnbAqxO6dlibaPRsUJOrxKTg&s=1698343809&e=14400&f=48784256&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=172.176&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-l7kjbveqiywy9liy.voe-network.net/engine/hls2/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=q5v4rbJDcjR6kkNWQkr6AtkpIkhqohxWcyzGmPQNk4I&s=1698366663&e=14400&f=48784256&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=20.168&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true
@@ -606,6 +606,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/american-horror-house/",
+                                "title": "American Horror House",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-horror-house.jpg"
+                            },
+                            {
+                                "url": "/pelicula/treinta-dias-de-noche/",
+                                "title": "Treinta días de noche",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/treinta-dias-de-noche.jpg"
+                            },
+                            {
+                                "url": "/pelicula/london-confidential/",
+                                "title": "London Confidential",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/london-confidential.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-lado-dulce-de-la-traicion/",
+                                "title": "El lado dulce de la traición",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-lado-dulce-de-la-traicion.jpg"
+                            },
                             {
                                 "url": "/pelicula/the-royal-hotel/",
                                 "title": "The Royal Hotel",
@@ -685,26 +705,6 @@
                                 "url": "/pelicula/hombre-lobo-por-la-noche-a-color/",
                                 "title": "Hombre Lobo por la Noche a color",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/hombre-lobo-por-la-noche-a-color.jpg"
-                            },
-                            {
-                                "url": "/pelicula/flashback-2023/",
-                                "title": "Flashback 2023",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/flashback-2023.jpg"
-                            },
-                            {
-                                "url": "/pelicula/disco-inferno/",
-                                "title": "Disco Inferno",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/disco-inferno.jpg"
-                            },
-                            {
-                                "url": "/pelicula/vjeran-tomic-lhomme-araignee-de-paris/",
-                                "title": "Vjeran Tomic : L'homme-araignée de Paris",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/vjeran-tomic-lhomme-araignee-de-paris.jpg"
-                            },
-                            {
-                                "url": "/pelicula/candy-cruz/",
-                                "title": "Candy Cruz",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/candy-cruz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -874,11 +874,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-royal-hotel/",
-                    "title": "The Royal Hotel",
+                    "url": "/pelicula/american-horror-house/",
+                    "title": "American Horror House",
                     "artist": "",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -888,7 +888,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-royal-hotel/",
+                        "url": "/pelicula/american-horror-house/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
