@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/longing-for-you/",
+                                "title": "Longing For You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wOHyVs6UtJLYWmaMbiyqBLowNC.jpg"
+                            },
+                            {
+                                "url": "/my-dear-gangster-oppa/",
+                                "title": "My Dear Gangster Oppa (1/8)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/i8xxTtVnTk1uAVcdB1rUpxRJgI3.jpg"
+                            },
+                            {
                                 "url": "/kisaragi-station/",
                                 "title": "Kisaragi Station",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/fkH85I3onRvT2E2Fod4G3mjim4h.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/jun-and-jun/",
                                 "title": "Jun and Jun (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg"
-                            },
-                            {
-                                "url": "/hidden-agenda/",
-                                "title": "Hidden Agenda (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
-                            },
-                            {
-                                "url": "/nami-yo-kiite-kure/",
-                                "title": "Nami yo Kiite Kure (08/08)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/aka4Op1mauKDWfiUtc6yxC7zAS4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -137,6 +137,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/longing-for-you/",
+                                "title": "Longing For You",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/wOHyVs6UtJLYWmaMbiyqBLowNC.jpg"
+                            },
+                            {
+                                "url": "/my-dear-gangster-oppa/",
+                                "title": "My Dear Gangster Oppa (1/8)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/i8xxTtVnTk1uAVcdB1rUpxRJgI3.jpg"
+                            },
+                            {
                                 "url": "/kisaragi-station/",
                                 "title": "Kisaragi Station",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/fkH85I3onRvT2E2Fod4G3mjim4h.jpg"
@@ -245,16 +255,6 @@
                                 "url": "/jun-and-jun/",
                                 "title": "Jun and Jun (Completo)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/c2Y2qj6cYj2IdNF8YnPJOJRqZJv.jpg"
-                            },
-                            {
-                                "url": "/hidden-agenda/",
-                                "title": "Hidden Agenda (Completo)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/eNYtrJOoeQjjst7NqtuOOowlw5l.jpg"
-                            },
-                            {
-                                "url": "/nami-yo-kiite-kure/",
-                                "title": "Nami yo Kiite Kure (08/08)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/aka4Op1mauKDWfiUtc6yxC7zAS4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,27 +393,12 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/kisaragi-station/",
-                    "title": "Kisaragi Station",
-                    "description": "Haruna Tsunematsu (Yuri Tsunematsu) está estudiando folklore en la universidad y decide que el tema de su tesis de graduación será la leyenda urbana de la «Estación Kisaragi», que ha sido un tema candente en Internet desde 2004.",
-                    "genre": "Drama, Fantasía, Histórico, Horror, Psicológico, Sobrenatural",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185_and_h278_face/fkH85I3onRvT2E2Fod4G3mjim4h.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paste/0228922/",
-                        "name": "Sub. Español",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
