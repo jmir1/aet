@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/animaniacs",
+                                "title": "Animaniacs (19931998)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg"
+                            },
+                            {
+                                "url": "/serie/tore",
+                                "title": "Tore (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/9GNkPp7bZyOtOIBPkf085mno5Qm.jpg"
+                            },
+                            {
                                 "url": "/serie/terapia-de-sebastian-fitzek",
                                 "title": "Terapia (de Sebastian Fitzek) (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/elO2UHZCPC3ZKhvkT5JxoZgmy75.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/vivir-100-anos-los-secretos-de-las-zonas-azules",
                                 "title": "Vivir 100 años: Los secretos de las zonas azules (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/aI22aHKtFHQ5r6AVu0uf7q9UUAn.jpg"
-                            },
-                            {
-                                "url": "/serie/aguas-profundas",
-                                "title": "Aguas profundas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1QKUtDUWZyNbg97M88xHEKEr1gy.jpg"
-                            },
-                            {
-                                "url": "/serie/fright-krewe",
-                                "title": "Fright Krewe (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/sISqpC2ywqE6qNVWKUOTWUsYmjA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/terapia-de-sebastian-fitzek",
-                    "title": "Terapia (de Sebastian Fitzek) (2023)",
-                    "description": "Sin testigos, sin pistas ni cadáver, la hija de 13 años del célebre psiquiatra Viktor Larenz, Josy, ha desaparecido en circunstancias inexplicables. Dos años después, aparece una misteriosa mujer que obliga a Viktor a enfrentarse a la desaparición de su hija y lo lleva al límite psicológicamente..",
-                    "genre": "Drama, Misterio",
+                    "url": "/serie/animaniacs",
+                    "title": "Animaniacs (2020)",
+                    "description": "Los hermanos Warner, Yakko y Wakko, y Dot, se lo pasan genial causando estragos y caos en las vidas de todos los que conocen. Después de regresar a su amada casa, Warner Bros. Water Tower, los Animaniacs no pierden tiempo en causar caos y confusión cómica mientras corren sueltos por el estudio y más allá, convirtiendo el mundo en su patio de recreo personal. Junto a Yakko, Wakko y Dot, los personajes favoritos de los fans, Pinky and the Brain, también regresarán para continuar su búsqueda de la dominación mundial..",
+                    "genre": "Animación, Comedia",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/elO2UHZCPC3ZKhvkT5JxoZgmy75.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/bYHu47S3yBPbWvlh4YbIYJ5e8X1.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,27 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/terapia-de-sebastian-fitzek/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/animaniacs/temporada/3/capitulo/13",
+                        "name": "T3 - E13: Episodio 13",
+                        "episode_number": 99.0
                     },
                     {
-                        "url": "/serie/terapia-de-sebastian-fitzek/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/animaniacs/temporada/3/capitulo/12",
+                        "name": "T3 - E12: Episodio 12",
+                        "episode_number": 98.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/984st5rq2jct",
-                        "quality": "Voex",
-                        "videoUrl": "https://delivery-node-znj6okjw16mo8ccl.voe-network.net/engine/hls2/01/09766/984st5rq2jct_,n,.urlset/master.m3u8?t=5X_lkJStBGO2o3XYtSIuJeUnIm-Ysm0Vj2O3xgD9ag4&s=1698453026&e=14400&f=48830248&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=40.75&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -592,7 +586,7 @@
                     {
                         "url": "https://voe.sx/e/ibknxdze3wkq",
                         "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=JnnLoKLG0g2D1-5B4Qru8EGjmT8YxHsgIRActYRsVFM&s=1698453030&e=14400&f=48784256&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=40.75&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/09753/1rmygy3qpgyt_,n,.urlset/master.m3u8?t=AKgyEYyPBaSIjt4T5SCVLO6xMtC6xcuBbNdvDARZUMQ&s=1698473460&e=14400&f=48784256&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=172.177&sp=2500&asn=8075"
                     }
                 ],
                 "passed": true

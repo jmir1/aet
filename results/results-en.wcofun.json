@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mirette-investigates",
+                                "title": "Mirette Investigates",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933254.jpg"
+                            },
+                            {
+                                "url": "/anime/messy-goes-to-okido",
+                                "title": "Messy Goes to Okido",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933253.jpg"
+                            },
+                            {
+                                "url": "/anime/meine-freundin-conni",
+                                "title": "Meine Freundin Conni",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933252.jpg"
+                            },
+                            {
                                 "url": "/anime/me-and-my-robot",
                                 "title": "Me and My Robot",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933251.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/lola-virginia",
                                 "title": "Lola & Virginia",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933239.jpg"
-                            },
-                            {
-                                "url": "/anime/lizzie",
-                                "title": "Lizzie",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933238.jpg"
-                            },
-                            {
-                                "url": "/anime/little-krishna",
-                                "title": "Little Krishna",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933237.jpg"
-                            },
-                            {
-                                "url": "/anime/after-school-hanako-kun",
-                                "title": "After-School Hanako-kun",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933236.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/me-and-my-robot",
-                    "title": "Me and My Robot",
-                    "description": "Me and my Robot explores the everyday life of a bunch of kids in a high-tech robotic school. There, Eugene, his robot C.H.I.P. and their friends live fantastic and exciting adventures using their imagination, technology and the infinite skills of C.H.I.P. to get out of tricky situations.",
-                    "genre": "Adventure, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933251.jpg",
+                    "url": "/anime/mirette-investigates",
+                    "title": "Mirette Investigates",
+                    "description": "The show revolves on the international adventures of a young detective named Mirette and her talking feline assistant Jean-Pat who travels with her travel-agent father and solves mysteries.",
+                    "genre": "Adventure, Comedy, Mystery, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933254.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mirette-investigates-episode-6-what-time-is-it-in-paris",
+                        "name": "Season 1 - Episode 6",
+                        "episode_number": 106.0
+                    },
+                    {
+                        "url": "/mirette-investigates-episode-5-two-mirette-arent-better-than-one",
+                        "name": "Season 1 - Episode 5",
+                        "episode_number": 105.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJitwSRC_BSPlWZRsaxaNo61WKepdYRMqSm9qTU6FiTJJEcuJ-4alPem8VyN4wLeCMW5W1MfQxk3W2b1_QW7EEXgXJJr6HccuJhdjI8ekzwJpWmY8JPUkYRdAASkVHVqtSY4DpoJIF_ycVf55EtOscwgffAe8CMLkHoAlgnjg1YtbyqlbJ9FsAowpG59OdTWmJKS6JHBavnhsrU877rbY2Dv0S5HZiAqy_fhJ268WfSwigCGPHKge4mo_GAsOOuC4QuIEKS6kvO1-3QzCbs5n78_4GuqfUscrc94lGhC6kudHuJ3bEQ5Wt5E6FjE3UsYD91OJ1LCMRhTsvzcQp0NTeO6c179yqNLdbnvaHTGDPootCmKxrPYNeGQsBIec_iJRYQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJitwSRC_BSPlWZRsaxaNo61WKepdYRMqSm9qTU6FiTJJEcuJ-4alPem8VyN4wLeCMW5W1MfQxk3W2b1_QW7EEXgXJJr6HccuJhdjI8ekzwJpWmY8JPUkYRdAASkVHVqtSY4DpoJIF_ycVf55EtOscwgffAe8CMLkHoAlgnjg1YtbyqlbJ9FsAowpG59OdTWmJKS6JHBavnhsrU877rbY2Dv0S5HZiAqy_fhJ268WfSwigCGPHKge4mo_GAsOOuC4QuIEKS6kvO1-3QzCbs5n78_4GuqfUscrc94lGhC6kudHuJ3bEQ5Wt5E6FjE3UsYD91OJ1LCMRhTsvzcQp0NTeO6c179yqNLdbnvaHTGDPootCmKxrPYNeGQsBIec_iJRYQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJitwSRC_BSPlWZRsaxaNo61WKepdYRMqSm9qTU6FiTJJEcuJ-4alPem8VyN4wLeCMW5W1MfQxk3W2b1_QW7EEXgXJJr6HccuJhdjI8ekzwJpWmY8JPUkYRdAASkVHVqtSUsdB8MhKPmEksyd9iM17gSJsi3lNRZDEMsZepC_Ompg1Hmh33rLuUI8xjXXS6ME6KG_kXrOsBwE0kKYLfHYJ2vQ7GSh-26kuoyEudvclmVCFeph4ogbLPH0pMW8okUZoCv65w9xpWrBanaYRssEb0P2QCNqYBK4XEKwrqvgjAi7TiOrf1ZYeNS0AR-v7tCxXnLwNYsP_V8aJgxO4otkGI0GF1Qoj9OxXaHWmlmZkJ3s",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJitwSRC_BSPlWZRsaxaNo61WKepdYRMqSm9qTU6FiTJJEcuJ-4alPem8VyN4wLeCMW5W1MfQxk3W2b1_QW7EEXgXJJr6HccuJhdjI8ekzwJpWmY8JPUkYRdAASkVHVqtSUsdB8MhKPmEksyd9iM17gSJsi3lNRZDEMsZepC_Ompg1Hmh33rLuUI8xjXXS6ME6KG_kXrOsBwE0kKYLfHYJ2vQ7GSh-26kuoyEudvclmVCFeph4ogbLPH0pMW8okUZoCv65w9xpWrBanaYRssEb0P2QCNqYBK4XEKwrqvgjAi7TiOrf1ZYeNS0AR-v7tCxXnLwNYsP_V8aJgxO4otkGI0GF1Qoj9OxXaHWmlmZkJ3s"
+                    }
+                ],
+                "passed": true
             }
         }
     }
