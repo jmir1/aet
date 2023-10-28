@@ -3,12 +3,259 @@
         "name": "AnimeSAGA (HI)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movies/spider-man-across-the-spider-verse/",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+                            },
+                            {
+                                "url": "/movies/suzume/",
+                                "title": "Suzume",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg"
+                            },
+                            {
+                                "url": "/movies/black-clover-sword-of-the-wizard-king/",
+                                "title": "Black Clover: Sword of the Wizard King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg"
+                            },
+                            {
+                                "url": "/movies/elemental/",
+                                "title": "Elemental",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+                            },
+                            {
+                                "url": "/movies/mavka-the-forest-song/",
+                                "title": "Mavka: The Forest Song",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg"
+                            },
+                            {
+                                "url": "/movies/miraculous-ladybug-cat-noir-the-movie/",
+                                "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg"
+                            },
+                            {
+                                "url": "/movies/zom-100-bucket-list-of-the-dead/",
+                                "title": "Zom 100: Bucket List of the Dead",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg"
+                            },
+                            {
+                                "url": "/tvshows/my-hero-academia/",
+                                "title": "My Hero Academia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ivOLM47yJt90P19RH1NvJrAJz9F.jpg"
+                            },
+                            {
+                                "url": "/tvshows/demon-slayer-kimetsu-no-yaiba/",
+                                "title": "Demon Slayer: Kimetsu no Yaiba",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg"
+                            },
+                            {
+                                "url": "/tvshows/chainsaw-man/",
+                                "title": "Chainsaw Man",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
+                            },
+                            {
+                                "url": "/tvshows/jujutsu-kaisen/",
+                                "title": "Jujutsu Kaisen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hFWP5HkbVEe40hrXgtCeQxoccHE.jpg"
+                            },
+                            {
+                                "url": "/tvshows/rent-a-girlfriend/",
+                                "title": "Rent-a-Girlfriend",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg"
+                            },
+                            {
+                                "url": "/tvshows/the-daily-life-of-the-immortal-king/",
+                                "title": "The Daily Life of the Immortal King",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/yNBH6iQMxvM67kXxzXvDukczQHI.jpg"
+                            },
+                            {
+                                "url": "/tvshows/lookism/",
+                                "title": "Lookism",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/qkoM63HDuCOSwxGfb0pljrgns9I.jpg"
+                            },
+                            {
+                                "url": "/tvshows/the-legend-of-vox-machina/",
+                                "title": "The Legend of Vox Machina",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4fqfhmVNOHe2nLcligiVMtMnfeM.jpg"
+                            },
+                            {
+                                "url": "/tvshows/one-piece/",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg"
+                            },
+                            {
+                                "url": "/tvshows/baki-hanma/",
+                                "title": "Baki Hanma",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/x145FSI9xJ6UbkxfabUsY2SFbu3.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodes/jujutsu-kaisen-1x30/",
+                                "title": "Jujutsu Kaisen: 2×6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5sVDG2UKlryQ3YhAMzSHKwXE0nF.jpg"
+                            },
+                            {
+                                "url": "/episodes/im-in-love-with-the-villainess-season-1-episode-4/",
+                                "title": "I’m in Love with the Villainess!: Season 1 Episode 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/5fHQgRzNfIpKvCOeIZGLlFsmu3x.jpg"
+                            },
+                            {
+                                "url": "/episodes/the-maid-i-hired-recently-is-mysterious-season-1-episode-7/",
+                                "title": "The Maid I Hired Recently Is Mysterious: Season 1 Episode 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/bXy3wcuv7RW3sudX6SGkCFKJzEl.jpg"
+                            },
+                            {
+                                "url": "/episodes/my-tiny-senpai-1x11/",
+                                "title": "My Tiny Senpai: 1×11",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/2Qza0dYWcRR5CXjNpmPO0N0tAi.jpg"
+                            },
+                            {
+                                "url": "/episodes/shangri-la-frontier-season-1-episode-1/",
+                                "title": "Shangri-La Frontier: Season 1 Episode 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cwOMKeIPzHO8Op8FezrL3oOHaDT.jpg"
+                            },
+                            {
+                                "url": "/episodes/my-hero-academia-season-2-episode-25/",
+                                "title": "My Hero Academia: Season 2 Episode 25",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tRaD9tu1Qjq9kcdgN4UHYgKzlqa.jpg"
+                            },
+                            {
+                                "url": "/episodes/my-hero-academia-season-2-episode-24/",
+                                "title": "My Hero Academia: Season 2 Episode 24",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3D3vfbtDmMHsbse73NYfUK3ShU8.jpg"
+                            },
+                            {
+                                "url": "/episodes/my-hero-academia-season-2-episode-23/",
+                                "title": "My Hero Academia: Season 2 Episode 23",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/edmDKyqrYDtp53b5uCylfS5gFY9.jpg"
+                            },
+                            {
+                                "url": "/episodes/my-hero-academia-season-2-episode-22/",
+                                "title": "My Hero Academia: Season 2 Episode 22",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/viz7Ei6dxSmLXQwvVbodQvUfhxf.jpg"
+                            },
+                            {
+                                "url": "/episodes/captain-laserhawk-a-blood-dragon-remix-season-1-episode-6/",
+                                "title": "Captain Laserhawk: A Blood Dragon Remix: Season 1 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/9IWlXSACzM2QIVn32fls5zjkdvL.jpg"
+                            },
+                            {
+                                "url": "/episodes/captain-laserhawk-a-blood-dragon-remix-season-1-episode-5/",
+                                "title": "Captain Laserhawk: A Blood Dragon Remix: Season 1 Episode 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/cXEy01hyWIaAdgmpjxI2xwteEOk.jpg"
+                            },
+                            {
+                                "url": "/episodes/captain-laserhawk-a-blood-dragon-remix-season-1-episode-4/",
+                                "title": "Captain Laserhawk: A Blood Dragon Remix: Season 1 Episode 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/7SyS0KowuRvKV8MufZMwYqrnLXo.jpg"
+                            },
+                            {
+                                "url": "/episodes/captain-laserhawk-a-blood-dragon-remix-season-1-episode-3/",
+                                "title": "Captain Laserhawk: A Blood Dragon Remix: Season 1 Episode 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mBtf84jvFkJYwGeJoBN42CZbevF.jpg"
+                            },
+                            {
+                                "url": "/episodes/captain-laserhawk-a-blood-dragon-remix-season-1-episode-2/",
+                                "title": "Captain Laserhawk: A Blood Dragon Remix: Season 1 Episode 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dxvyoGupG1JihdAgD2gNLjOkAok.jpg"
+                            },
+                            {
+                                "url": "/episodes/captain-laserhawk-a-blood-dragon-remix-season-1-episode-1/",
+                                "title": "Captain Laserhawk: A Blood Dragon Remix: Season 1 Episode 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/won5DzaQa3AIjZBsf9Iu8Dfjudk.jpg"
+                            },
+                            {
+                                "url": "/episodes/transformers-war-for-cybertron-kingdom-season-1-episode-6/",
+                                "title": "Transformers: War for Cybertron: Kingdom: Season 1 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/afmnknzduOORLHDei3NxB0u8O8H.jpg"
+                            },
+                            {
+                                "url": "/episodes/transformers-war-for-cybertron-kingdom-season-1-episode-5/",
+                                "title": "Transformers: War for Cybertron: Kingdom: Season 1 Episode 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8RX6FBxBCqL7NAb3oKBf66AuvcO.jpg"
+                            },
+                            {
+                                "url": "/episodes/transformers-war-for-cybertron-kingdom-season-1-episode-4/",
+                                "title": "Transformers: War for Cybertron: Kingdom: Season 1 Episode 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/iO6R1McAqDDPWNLgjjTPbi5xPP2.jpg"
+                            },
+                            {
+                                "url": "/episodes/transformers-war-for-cybertron-kingdom-season-1-episode-3/",
+                                "title": "Transformers: War for Cybertron: Kingdom: Season 1 Episode 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/FVDtAAlXf458KYpyZrxLM9RskR.jpg"
+                            },
+                            {
+                                "url": "/episodes/transformers-war-for-cybertron-kingdom-season-1-episode-2/",
+                                "title": "Transformers: War for Cybertron: Kingdom: Season 1 Episode 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3RHrTHfsR5b2dpZxUt2glLCoY4n.jpg"
+                            },
+                            {
+                                "url": "/episodes/transformers-war-for-cybertron-kingdom-season-1-episode-1/",
+                                "title": "Transformers: War for Cybertron: Kingdom: Season 1 Episode 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/3PPInkGWk81WrYpgt8tjPAs6CyP.jpg"
+                            },
+                            {
+                                "url": "/episodes/jujutsu-kaisen-1x29/",
+                                "title": "Jujutsu Kaisen: 2×5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/grC7giVMYsSFkPWHiols5INEIoa.jpg"
+                            },
+                            {
+                                "url": "/episodes/ronja-the-robbers-daughter-season-1-episode-6/",
+                                "title": "Ronja the Robber’s Daughter: Season 1 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xVEbaoWHOO4AE6eSmVo1VcT9kf5.jpg"
+                            },
+                            {
+                                "url": "/episodes/ronja-the-robbers-daughter-season-1-episode-5/",
+                                "title": "Ronja the Robber’s Daughter: Season 1 Episode 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ofSye07G07ESQenBKdqx5PNUbym.jpg"
+                            },
+                            {
+                                "url": "/episodes/ronja-the-robbers-daughter-season-1-episode-4/",
+                                "title": "Ronja the Robber’s Daughter: Season 1 Episode 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/sRORjKzJLyCGxGhFGzY1zUA5Yfu.jpg"
+                            },
+                            {
+                                "url": "/episodes/ronja-the-robbers-daughter-season-1-episode-3/",
+                                "title": "Ronja the Robber’s Daughter: Season 1 Episode 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/ykX9oBhgZLYMXBltLjUclNpTHtZ.jpg"
+                            },
+                            {
+                                "url": "/episodes/ronja-the-robbers-daughter-season-1-episode-2/",
+                                "title": "Ronja the Robber’s Daughter: Season 1 Episode 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/z9xEw0yTC1Zhe4pHmmJAdicRxd9.jpg"
+                            },
+                            {
+                                "url": "/episodes/ronja-the-robbers-daughter-season-1-episode-1/",
+                                "title": "Ronja the Robber’s Daughter: Season 1 Episode 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/hzcAiyLUiUS8X6jMp1UVALNNsbd.jpg"
+                            },
+                            {
+                                "url": "/episodes/handyman-saitou-in-another-world-season-1-episode-6/",
+                                "title": "Handyman Saitou in Another World: Season 1 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/dmQBOatCS9Z3bOZJD2jG5l2Vjpj.jpg"
+                            },
+                            {
+                                "url": "/episodes/code-geass-lelouch-of-the-rebellion-season-1-episode-7/",
+                                "title": "Code Geass: Lelouch of the Rebellion: Season 1 Episode 7",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/q0oKVMegrokZ4B5sJYAv5aMy00q.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -172,11 +419,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/rezero-starting-life-in-another-world/",
-                    "title": "Re:ZERO -Starting Life in Another World-",
-                    "description": "Natsuki Subaru, an ordinary high school student, is on his way home from the convenience store when he finds himself transported to another world. As he’s lost and confused in a new world where he doesn’t even know left from right, the only person to reach out to him was a beautiful girl with silver hair. Determined to repay her somehow for saving him from his own despair, Subaru agrees to help the girl find something she’s looking for.\n\nOriginal title: Re:ゼロから始める異世界生活\nFirst air date: Apr. 04, 2016\nLast air date: Mar. 24, 2021\nSeasons: 1\nEpisodes: 50",
-                    "genre": "Fan Hindi Dub",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+                    "url": "/movies/spider-man-across-the-spider-verse/",
+                    "title": "Spider-Man: Across the Spider-Verse",
+                    "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.\n\nOriginal title: Spider-Man: Across the Spider-Verse",
+                    "genre": "Action, Adventure, Animation, Hindi Dub, Movie, Science Fiction",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -184,9 +431,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/rezero-starting-life-in-another-world-season-1-episode-1/",
-                        "name": "Season 1 x 1 - The End of the Beginning and the Beginning of the End",
-                        "date_upload": 1459728000000,
+                        "url": "/movies/spider-man-across-the-spider-verse/",
+                        "name": "Movie",
                         "episode_number": 1.0
                     }
                 ],

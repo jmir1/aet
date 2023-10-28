@@ -946,16 +946,44 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6793",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "6793?e=43310",
+                        "name": "Stagione 1 episodio 4 - Episodio 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "6793?e=43309",
+                        "name": "Stagione 1 episodio 3 - Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/167387?type=video&rendition=720p&token=Qj70PpJqWyrO71eMmkBatQ&expires=1703700435&canCast=1&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/167387?type=video&rendition=720p&token=Qj70PpJqWyrO71eMmkBatQ&expires=1703700435&canCast=1&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.bz/v2/playlist/167387?type=subtitle&rendition=ita&token=oTCI3cdkAH5-ttJLGjdslA&expires=1703700435&canCast=1&n=1",
+                                "lang": "Italian"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://vixcloud.bz/v2/playlist/167387?type=video&rendition=480p&token=SGWaNkV5UH1DQRzwvqqp7g&expires=1703700435&canCast=1&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.bz/v2/playlist/167387?type=video&rendition=480p&token=SGWaNkV5UH1DQRzwvqqp7g&expires=1703700435&canCast=1&n=1",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://vixcloud.bz/v2/playlist/167387?type=subtitle&rendition=ita&token=oTCI3cdkAH5-ttJLGjdslA&expires=1703700435&canCast=1&n=1",
+                                "lang": "Italian"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

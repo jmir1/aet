@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/api/v1/titles/133851?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "BTS World Tour: Love Yourself - Japan Edition",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/dA0MVEjNOP3GmWigu6Cs3I399Zt.jpg"
+                            },
+                            {
                                 "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "BTS: PERMISSION TO DANCE 온 스테이지 – LA",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/api/v1/titles/40758?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Into the Forest of Fireflies' Light",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7ZTL7uAfqGygKM2gJGYm36y46NU.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/39689?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Gabriel's Inferno: Part III",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -374,11 +374,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                    "title": "BTS: PERMISSION TO DANCE 온 스테이지 – LA",
-                    "description": "Ende 2021 trat die koreanische Band BTS im SoFi-Stadion in Los Angeles auf. Dabei performten sie natürlich auch ihre größten Hits „Dynamite“, „Butter“ und „Permission to Dance“.",
+                    "url": "/api/v1/titles/133851?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                    "title": "BTS World Tour: Love Yourself - Japan Edition",
+                    "description": "",
                     "genre": "Dokumentarfilm, Musik",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/7QKRPYPlCPoeKEIv4H6xe50xIUM.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/dA0MVEjNOP3GmWigu6Cs3I399Zt.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -386,7 +386,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/api/v1/titles/38861?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                        "url": "/api/v1/titles/133851?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                         "name": "Film",
                         "episode_number": 1.0
                     }
