@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"id\":507089,\"media_type\":\"movie\"}",
+                                "title": "Five Nights at Freddy's",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//A4j8S6moJS2zNtRR8oWF08gRnL5.jpg"
+                            },
+                            {
                                 "url": "{\"id\":299054,\"media_type\":\"movie\"}",
                                 "title": "Expend4bles",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg"
@@ -22,16 +27,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//NNxYkU70HPurnNCSiCjYAmacwm.jpg"
                             },
                             {
-                                "url": "{\"id\":507089,\"media_type\":\"movie\"}",
-                                "title": "Five Nights at Freddy's",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//A4j8S6moJS2zNtRR8oWF08gRnL5.jpg"
-                            },
-                            {
-                                "url": "{\"id\":968051,\"media_type\":\"movie\"}",
-                                "title": "The Nun II",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
-                            },
-                            {
                                 "url": "{\"id\":807172,\"media_type\":\"movie\"}",
                                 "title": "The Exorcist: Believer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//qVKirUdmoex8SdfUk8WDDWwrcCh.jpg"
@@ -40,6 +35,11 @@
                                 "url": "{\"id\":926393,\"media_type\":\"movie\"}",
                                 "title": "The Equalizer 3",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
+                            },
+                            {
+                                "url": "{\"id\":968051,\"media_type\":\"movie\"}",
+                                "title": "The Nun II",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
                             },
                             {
                                 "url": "{\"id\":1034062,\"media_type\":\"movie\"}",
@@ -224,9 +224,9 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":299054,\"media_type\":\"movie\"}",
-                    "description": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.\n\nRelease date: 2023-09-15",
-                    "genre": "Action, Adventure, Thriller",
+                    "url": "{\"id\":507089,\"media_type\":\"movie\"}",
+                    "description": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.\n\nRelease date: 2023-10-25",
+                    "genre": "Horror, Thriller",
                     "initialized": true
                 },
                 "passed": true
@@ -234,9 +234,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/299054",
+                        "url": "/movie/507089",
                         "name": "Movie",
-                        "date_upload": 1694736000000,
+                        "date_upload": 1698192000000,
                         "episode_number": 1.0
                     }
                 ],
@@ -245,9 +245,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://q9mm4.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc62efb5c06bde4ba42467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b1022a18937c011e3091fb40811c2f6ec/h/eb4/cabda,653d2dc7.m3u8",
+                        "url": "https://y4jjr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0bc02ea05c1cbdfef3110c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd137c116a4594aaf5a449df0e83f15/h/e4/beef,653d8228.m3u8",
                         "quality": "Vidplay - 1080p",
-                        "videoUrl": "https://q9mm4.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc62efb5c06bde4ba42467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b1022a18937c011e3091fb40811c2f6ec/h/eb4/cabda,653d2dc7.m3u8",
+                        "videoUrl": "https://y4jjr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0bc02ea05c1cbdfef3110c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd137c116a4594aaf5a449df0e83f15/h/e4/beef,653d8228.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -256,115 +256,35 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919484.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924834.vtt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919760.vtt",
-                                "lang": "Brazillian Portuguese"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919711.vtt",
-                                "lang": "Bulgarian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919529.vtt",
-                                "lang": "Chinese (BG code)"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921780.vtt",
-                                "lang": "Croatian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921791.vtt",
-                                "lang": "Czech"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919428.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924894.vtt",
                                 "lang": "Danish"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12922462.vtt",
-                                "lang": "Dutch"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919555.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924846.vtt",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919664.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924861.vtt",
                                 "lang": "Farsi/Persian"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919447.vtt",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919795.vtt",
-                                "lang": "Greek"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919736.vtt",
-                                "lang": "Hebrew"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919829.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924872.vtt",
                                 "lang": "Indonesian"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921779.vtt",
-                                "lang": "Japanese"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919806.vtt",
-                                "lang": "Malay"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921783.vtt",
-                                "lang": "Persian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920537.vtt",
-                                "lang": "Portuguese (Brazilian)"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920544.vtt",
-                                "lang": "Romanian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919726.vtt",
-                                "lang": "Serbian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919678.vtt",
-                                "lang": "Sinhala"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919585.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924882.vtt",
                                 "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921788.vtt",
-                                "lang": "Swedish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920738.vtt",
-                                "lang": "Thai"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919842.vtt",
-                                "lang": "Turkish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919608.vtt",
-                                "lang": "Vietnamese"
                             }
                         ]
                     },
                     {
-                        "url": "https://q9mm4.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc62efb5c06bde4ba42467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b1022a18937c011e3091fb40811c2f6ec/h/eb3/cabda,653d2dc7.m3u8",
+                        "url": "https://y4jjr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0bc02ea05c1cbdfef3110c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd137c116a4594aaf5a449df0e83f15/h/e3/beef,653d8228.m3u8",
                         "quality": "Vidplay - 720p",
-                        "videoUrl": "https://q9mm4.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc62efb5c06bde4ba42467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b1022a18937c011e3091fb40811c2f6ec/h/eb3/cabda,653d2dc7.m3u8",
+                        "videoUrl": "https://y4jjr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0bc02ea05c1cbdfef3110c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd137c116a4594aaf5a449df0e83f15/h/e3/beef,653d8228.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -373,115 +293,35 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919484.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924834.vtt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919760.vtt",
-                                "lang": "Brazillian Portuguese"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919711.vtt",
-                                "lang": "Bulgarian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919529.vtt",
-                                "lang": "Chinese (BG code)"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921780.vtt",
-                                "lang": "Croatian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921791.vtt",
-                                "lang": "Czech"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919428.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924894.vtt",
                                 "lang": "Danish"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12922462.vtt",
-                                "lang": "Dutch"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919555.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924846.vtt",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919664.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924861.vtt",
                                 "lang": "Farsi/Persian"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919447.vtt",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919795.vtt",
-                                "lang": "Greek"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919736.vtt",
-                                "lang": "Hebrew"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919829.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924872.vtt",
                                 "lang": "Indonesian"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921779.vtt",
-                                "lang": "Japanese"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919806.vtt",
-                                "lang": "Malay"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921783.vtt",
-                                "lang": "Persian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920537.vtt",
-                                "lang": "Portuguese (Brazilian)"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920544.vtt",
-                                "lang": "Romanian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919726.vtt",
-                                "lang": "Serbian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919678.vtt",
-                                "lang": "Sinhala"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919585.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924882.vtt",
                                 "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921788.vtt",
-                                "lang": "Swedish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920738.vtt",
-                                "lang": "Thai"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919842.vtt",
-                                "lang": "Turkish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919608.vtt",
-                                "lang": "Vietnamese"
                             }
                         ]
                     },
                     {
-                        "url": "https://q9mm4.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc62efb5c06bde4ba42467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b1022a18937c011e3091fb40811c2f6ec/h/eb1/cabda,653d2dc7.m3u8",
+                        "url": "https://y4jjr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0bc02ea05c1cbdfef3110c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd137c116a4594aaf5a449df0e83f15/h/e1/beef,653d8228.m3u8",
                         "quality": "Vidplay - 360p",
-                        "videoUrl": "https://q9mm4.vidrock2.store/_v1/12a3c523f8105800ed8c394685aeeb0bc62efb5c06bde4ba42467baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b1022a18937c011e3091fb40811c2f6ec/h/eb1/cabda,653d2dc7.m3u8",
+                        "videoUrl": "https://y4jjr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0bc02ea05c1cbdfef3110c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a57f0720afd137c116a4594aaf5a449df0e83f15/h/e1/beef,653d8228.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -490,108 +330,28 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919484.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924834.vtt",
                                 "lang": "Arabic"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919760.vtt",
-                                "lang": "Brazillian Portuguese"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919711.vtt",
-                                "lang": "Bulgarian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919529.vtt",
-                                "lang": "Chinese (BG code)"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921780.vtt",
-                                "lang": "Croatian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921791.vtt",
-                                "lang": "Czech"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919428.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924894.vtt",
                                 "lang": "Danish"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12922462.vtt",
-                                "lang": "Dutch"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919555.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924846.vtt",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919664.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924861.vtt",
                                 "lang": "Farsi/Persian"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919447.vtt",
-                                "lang": "French"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919795.vtt",
-                                "lang": "Greek"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919736.vtt",
-                                "lang": "Hebrew"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919829.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924872.vtt",
                                 "lang": "Indonesian"
                             },
                             {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921779.vtt",
-                                "lang": "Japanese"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919806.vtt",
-                                "lang": "Malay"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921783.vtt",
-                                "lang": "Persian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920537.vtt",
-                                "lang": "Portuguese (Brazilian)"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920544.vtt",
-                                "lang": "Romanian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919726.vtt",
-                                "lang": "Serbian"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919678.vtt",
-                                "lang": "Sinhala"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919585.vtt",
+                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12924882.vtt",
                                 "lang": "Spanish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12921788.vtt",
-                                "lang": "Swedish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12920738.vtt",
-                                "lang": "Thai"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919842.vtt",
-                                "lang": "Turkish"
-                            },
-                            {
-                                "url": "https://s3.bunnycdn.ru/sub/cache3/subtitle/12919608.vtt",
-                                "lang": "Vietnamese"
                             }
                         ]
                     },
@@ -600,7 +360,7 @@
                         "quality": "Filemoon - Not Foundp",
                         "videoUrl": "Not Found",
                         "headers": {
-                            "Referer": "https://filemoon.sx/e/iplxm6yqr29f?t=4xnZAfEhB1cPzA%3D%3D&ads=0&src=vidsrc",
+                            "Referer": "https://filemoon.sx/e/slo93d1lfssl?t=4xnZAfEvAFwOzQ%3D%3D&ads=0&src=vidsrc",
                             "Origin": "https://filemoon.sx"
                         }
                     }
