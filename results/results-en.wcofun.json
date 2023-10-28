@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/me-and-my-robot",
+                                "title": "Me and My Robot",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933251.jpg"
+                            },
+                            {
                                 "url": "/anime/curses",
                                 "title": "Curses!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933250.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/after-school-hanako-kun",
                                 "title": "After-School Hanako-kun",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933236.jpg"
-                            },
-                            {
-                                "url": "/anime/little-j-big-cuz",
-                                "title": "Little J & Big Cuz",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933235.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/curses",
-                    "title": "Curses!",
-                    "description": "When a generations- long family curse turns Alex Vanderhouven to stone, it’s up to his two kids, Pandora and Russ, and his wife Sky, to return artifacts stolen by their ancestors to their rightful homes to finally lift the curse for good.",
-                    "genre": "Action, Adventure, Kids, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933250.jpg",
+                    "url": "/anime/me-and-my-robot",
+                    "title": "Me and My Robot",
+                    "description": "Me and my Robot explores the everyday life of a bunch of kids in a high-tech robotic school. There, Eugene, his robot C.H.I.P. and their friends live fantastic and exciting adventures using their imagination, technology and the infinite skills of C.H.I.P. to get out of tricky situations.",
+                    "genre": "Adventure, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933251.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/curses-episode-10-the-ruby-hourglass-the-obsidian-sphere",
-                        "name": "Season 1 - Episode 10",
-                        "episode_number": 110.0
-                    },
-                    {
-                        "url": "/curses-episode-9-the-aztec-necklace",
-                        "name": "Season 1 - Episode 9",
-                        "episode_number": 109.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnYTKTg3GE6JKI2jtnNHxMvf3WWNnrw_Wre_I9H3pEpWupbc5UUOwyZM0ko9NlRzoWdqppUmP9T3tSD4WlLGkEMHBGfpNcsAuK6r2iefd-Tn9aOCCk5znSTWfpS-LAMpPsSJoxHXc8ZtWMe1OwtkfyeVkxYHC8hJgXDI4PtZoYn4pATIX0-pe0uaa3Am7N_tPQ17VaVc6Qs8KuHePfa6V_UujklD5gZjyKYVVWsyMkAVCbBNvp1tVQA4omzlXDgTHo1ywOvs4KxPiaUOtEZ_Mhi7ollNxhHHMFc89My3jqIP",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnYTKTg3GE6JKI2jtnNHxMvf3WWNnrw_Wre_I9H3pEpWupbc5UUOwyZM0ko9NlRzoWdqppUmP9T3tSD4WlLGkEMHBGfpNcsAuK6r2iefd-Tn9aOCCk5znSTWfpS-LAMpPsSJoxHXc8ZtWMe1OwtkfyeVkxYHC8hJgXDI4PtZoYn4pATIX0-pe0uaa3Am7N_tPQ17VaVc6Qs8KuHePfa6V_UujklD5gZjyKYVVWsyMkAVCbBNvp1tVQA4omzlXDgTHo1ywOvs4KxPiaUOtEZ_Mhi7ollNxhHHMFc89My3jqIP"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnYTKTg3GE6JKI2jtnNHxMvf3WWNnrw_Wre_I9H3pEpWRNCc3pRZzfryMT3uRHr8Aw93-V_iep2ojFC5Tqnk8aiK8SNTrzVkTZIF5ESibQNbuRGRFOKE1ote-YQRh0Q_SGDFzOCbxuHUJs0B0qNwgWH3ZN7DSnr6MyumhbbQVNSgP-H1jGewY5spwLDJb74-6mWR3dFCYUEqW1pmtFhgxUlTlaeQOIg3amGWqERpYqvaP6onWHEkZCr0E5IRTeUoK3q4NHlFO-yrC28OMrW0cU66f0tplpa13KxZgx2KXZ71",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnYTKTg3GE6JKI2jtnNHxMvf3WWNnrw_Wre_I9H3pEpWRNCc3pRZzfryMT3uRHr8Aw93-V_iep2ojFC5Tqnk8aiK8SNTrzVkTZIF5ESibQNbuRGRFOKE1ote-YQRh0Q_SGDFzOCbxuHUJs0B0qNwgWH3ZN7DSnr6MyumhbbQVNSgP-H1jGewY5spwLDJb74-6mWR3dFCYUEqW1pmtFhgxUlTlaeQOIg3amGWqERpYqvaP6onWHEkZCr0E5IRTeUoK3q4NHlFO-yrC28OMrW0cU66f0tplpa13KxZgx2KXZ71"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnYTKTg3GE6JKI2jtnNHxMvf3WWNnrw_Wre_I9H3pEpWxGBJwLdCJo6gSHidtTpGeG8u23HHIIndaChV3E764b0zZqLRu_CqTmU0B0ENP2HVmAhQ1Jg08F5cuo9XNl9FLv7I1MG3AmsncDA0YAv2yKyCJFh9tX4GGpbp8OLe3RTR3V3hH87yzSRIfpkbiVwNu8b9CtY1jSr46dmm4VT6TxnFD9Kyt-ZTIIonYeGyQ466HRyJRegC3tNdGKqYZ4bnqUj87OO1X9MXyQhEq2tQp6__iF3uN4gFpbbz_eiOeg7V",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnYTKTg3GE6JKI2jtnNHxMvf3WWNnrw_Wre_I9H3pEpWxGBJwLdCJo6gSHidtTpGeG8u23HHIIndaChV3E764b0zZqLRu_CqTmU0B0ENP2HVmAhQ1Jg08F5cuo9XNl9FLv7I1MG3AmsncDA0YAv2yKyCJFh9tX4GGpbp8OLe3RTR3V3hH87yzSRIfpkbiVwNu8b9CtY1jSr46dmm4VT6TxnFD9Kyt-ZTIIonYeGyQ466HRyJRegC3tNdGKqYZ4bnqUj87OO1X9MXyQhEq2tQp6__iF3uN4gFpbbz_eiOeg7V"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

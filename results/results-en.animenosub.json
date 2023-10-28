@@ -117,6 +117,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/undead-unluck/",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/Undead-Unluck-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/the-rising-of-the-shield-hero-season-3-dub/",
+                                "title": "The Rising of the Shield Hero Season 3 DUB",
+                                "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/1697807520-9033-136926.jpg"
+                            },
+                            {
+                                "url": "/anime/frieren-beyond-journeys-end-dub/",
+                                "title": "Frieren: Beyond Journey’s End DUB",
+                                "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/Frieren-Beyond-Journeys-End-DUB-poster.jpg"
+                            },
+                            {
                                 "url": "/anime/girlfriend-girlfriend-season-2/",
                                 "title": "Girlfriend, Girlfriend Season 2",
                                 "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/1696580679-2988-137100.jpg"
@@ -125,11 +140,6 @@
                                 "url": "/anime/the-kingdoms-of-ruin/",
                                 "title": "The Kingdoms of Ruin",
                                 "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/The-Kingdoms-of-Ruin-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/undead-unluck/",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/Undead-Unluck-poster.jpg"
                             },
                             {
                                 "url": "/anime/arknights-perish-in-frost/",
@@ -205,16 +215,6 @@
                                 "url": "/anime/dr-stone-new-world-part-2-dub/",
                                 "title": "Dr. Stone: New World Part 2 DUB",
                                 "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/Dr.-Stone-New-World-Part-2-DUB-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/dr-stone-new-world-part-2/",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/10/1697121648-3997-138696.jpg"
-                            },
-                            {
-                                "url": "/anime/my-daughter-left-the-nest-and-returned-an-s-rank-adventurer/",
-                                "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
-                                "thumbnail_url": "https://animenosub.com/wp-content/uploads/2023/09/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer-poster-768x1092.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,19 +316,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "Not Found",
-                        "quality": "RAW - FileMoon - Not Foundp",
-                        "videoUrl": "Not Found",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://filemoon.sx/e/qaebj8vsn5qf",
-                            "Origin": "https://filemoon.sx"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
