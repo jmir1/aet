@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mr-magoo",
+                                "title": "Mr. Magoo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933265.jpg"
+                            },
+                            {
+                                "url": "/anime/mouk",
+                                "title": "Mouk",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933264.jpg"
+                            },
+                            {
+                                "url": "/anime/monster-math-squad",
+                                "title": "Monster Math Squad",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933263.jpg"
+                            },
+                            {
                                 "url": "/anime/monster-high-2022-tv-series",
                                 "title": "Monster High 2022 (TV Series)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933262.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/curses",
                                 "title": "Curses!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933250.jpg"
-                            },
-                            {
-                                "url": "/anime/pluto",
-                                "title": "Pluto",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933249.jpg"
-                            },
-                            {
-                                "url": "/anime/maxi",
-                                "title": "MaXi",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933248.jpg"
-                            },
-                            {
-                                "url": "/anime/mashas-spooky-stories",
-                                "title": "Masha's Spooky Stories",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933247.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/monster-high-2022-tv-series",
-                    "title": "Monster High 2022 (TV Series)",
-                    "description": "Clawdeen Wolf arrives at Monster High with a dark secret. With the help of her friends Draculaura and Frankie Stein, she is able to embrace her true monster heart and save the school from total destruction.",
-                    "genre": "Adventure, Comedy, Family, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933262.jpg",
+                    "url": "/anime/mr-magoo",
+                    "title": "Mr. Magoo",
+                    "description": "Mr. Quincy Magoo was a near sighted man who gets himself in trouble by not seeing what’s what very well.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933265.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mr-magoo-disc-2",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    },
+                    {
+                        "url": "/mr-magoo-disc-1",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJlwisVpsw3wYKLQ0cPKK92bEpMn9ttedbtnZwn852oMpbVeOd7EzkG4dcTrti66GE88f9cSyxhh8G_fCOaGBVqsZsUIl1QkbGFXQhL-n7a0rtCM0u4D4N4xgs5mN8zpC-bW8iiiRa4VGAn0Yepz4kIpQ6Erv1ieeiGXyAMHw3JS8jfYxTrkKuFntIYoZ0_2OfOT-10skF2tiQ7LVWVCLOyOKbg1flb99510I4ldMCfQxlDHWODVbi8jtE-mJkCtHzpqy3oVAHHHNQap_HKn0LfKYYXnZGXm15a2U-fPyelrwJeXjjOknXBzHq_HZRsp7Nw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJlwisVpsw3wYKLQ0cPKK92bEpMn9ttedbtnZwn852oMpbVeOd7EzkG4dcTrti66GE88f9cSyxhh8G_fCOaGBVqsZsUIl1QkbGFXQhL-n7a0rtCM0u4D4N4xgs5mN8zpC-bW8iiiRa4VGAn0Yepz4kIpQ6Erv1ieeiGXyAMHw3JS8jfYxTrkKuFntIYoZ0_2OfOT-10skF2tiQ7LVWVCLOyOKbg1flb99510I4ldMCfQxlDHWODVbi8jtE-mJkCtHzpqy3oVAHHHNQap_HKn0LfKYYXnZGXm15a2U-fPyelrwJeXjjOknXBzHq_HZRsp7Nw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJlwisVpsw3wYKLQ0cPKK92bEpMn9ttedbtnZwn852oMpbVeOd7EzkG4dcTrti66GE3wdrnw5Ia8Gs5E-1qaPGX1045YeAJ_BoN1WuReAJpzSxFNhENyYdkRVRm5UoaFvxVNUzL-hhIubMNzcWqy6jx9bt_8QVTVqb6llelUeoblliiBCvh_fUtjMqp-2DKbTCj_5LPDuMNIHcnT46qScPTV63L7eZjwGclcaamT1NTJDyZjNc65mdoAdR-sq5GU0-jF1udJGt0fK3O0HiOwxDONAJjcHM5mkLvzKpVcr8fte",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJlwisVpsw3wYKLQ0cPKK92bEpMn9ttedbtnZwn852oMpbVeOd7EzkG4dcTrti66GE3wdrnw5Ia8Gs5E-1qaPGX1045YeAJ_BoN1WuReAJpzSxFNhENyYdkRVRm5UoaFvxVNUzL-hhIubMNzcWqy6jx9bt_8QVTVqb6llelUeoblliiBCvh_fUtjMqp-2DKbTCj_5LPDuMNIHcnT46qScPTV63L7eZjwGclcaamT1NTJDyZjNc65mdoAdR-sq5GU0-jF1udJGt0fK3O0HiOwxDONAJjcHM5mkLvzKpVcr8fte"
+                    }
+                ],
+                "passed": true
             }
         }
     }

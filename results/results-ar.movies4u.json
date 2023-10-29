@@ -3,23 +3,23 @@
         "name": "موفيز فور يو (AR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 523",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
