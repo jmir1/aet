@@ -67,6 +67,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/kusuriya-no-hitorigoto-episodio-4/",
+                                "title": "Kusuriya no Hitorigoto – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/4TxuQebvoqtVWU0mVQ9PkQ3UrkR.jpg"
+                            },
+                            {
+                                "url": "/episodio/bokura-no-ameiro-protocol-episodio-4/",
+                                "title": "Bokura no Ameiro Protocol – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/euAV7XYDuc5quguOkbgRkuefK1i.jpg"
+                            },
+                            {
+                                "url": "/episodio/potion-danomi-de-ikinobimasu-episodio-4/",
+                                "title": "Potion-danomi de Ikinobimasu! – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/7nA5sWAetdcCIp7WiyV5IutSTY8.jpg"
+                            },
+                            {
+                                "url": "/episodio/buta-no-liver-wa-kanetsu-shiro-episodio-4/",
+                                "title": "Buta no Liver wa Kanetsu Shiro – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/eclmoK8Xck051uvAirhQIJ5e8Oa.jpg"
+                            },
+                            {
                                 "url": "/episodio/ragna-crimson-episodio-5/",
                                 "title": "Ragna Crimson – Episódio 5",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/hzzsrz57kym1G2GeXsTX7itMQSx.jpg"
@@ -195,26 +215,6 @@
                                 "url": "/episodio/yuzuki-san-chi-no-yonkyoudai-episodio-4/",
                                 "title": "Yuzuki-san Chi no Yonkyoudai – Episódio 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/x4W4kDPfXBmT50FEpIH344yy3m7.jpg"
-                            },
-                            {
-                                "url": "/episodio/mahoutsukai-no-yome-2-part-2-episodio-4/",
-                                "title": "Mahoutsukai no Yome 2 Part 2 – Episódio 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/4HYFoOr0sZ5v3WAOwcT59CA7m2j.jpg"
-                            },
-                            {
-                                "url": "/episodio/dr-stone-new-world-part-2-episodio-3/",
-                                "title": "Dr. Stone: New World Part 2 – Episódio 3",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/mHFWnsigkolhX6GyhV8Z4wb9rtp.jpg"
-                            },
-                            {
-                                "url": "/episodio/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-episodio-5/",
-                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta – Episódio 5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/jqLIFYhx5X88JtnipayTTxoEby1.jpg"
-                            },
-                            {
-                                "url": "/episodio/pluto-dublado-episodio-8/",
-                                "title": "Pluto Dublado – Episódio 8",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/4MwhSERQkacvjJwfTF6qHYEMftI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -349,8 +349,27 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://wht.nuplink.net/pool/pub/cc/d2/b6/aa978ee3621796b16c5687c703ccd2b6/925457971?token=ae1043d5bf82ba0db85ab89ab0a3aee4&ts=1698539522&ht=video/mp4",
+                        "quality": "Player - 720p",
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/cc/d2/b6/aa978ee3621796b16c5687c703ccd2b6/925457971?token=ae1043d5bf82ba0db85ab89ab0a3aee4&ts=1698539522&ht=video/mp4"
+                    },
+                    {
+                        "url": "https://s-delivery33.mxdcontent.net/v/8f19bbe95b2a71fdb6336d9eaf10decf.mp4?s=0OA9Irybdx-yBWkpCyLk2w&e=1698561124&_t=1698542721",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery33.mxdcontent.net/v/8f19bbe95b2a71fdb6336d9eaf10decf.mp4?s=0OA9Irybdx-yBWkpCyLk2w&e=1698561124&_t=1698542721",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=e3er6dRdAVC2Qo&expires=1698609523&ip=GxOsEHEnDS9X&token=NbD7IuzPNotT",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=e3er6dRdAVC2Qo&expires=1698609523&ip=GxOsEHEnDS9X&token=NbD7IuzPNotT"
+                    }
+                ],
+                "passed": true
             }
         }
     }
