@@ -117,6 +117,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/animeukr/anime-series/17628-bla-svyata-dva-ta-chorniy-svyaschennik-1-sezon.html",
+                                "title": "Біла свята діва та чорний священник",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/7b/12a812b114d1ea7d0d72ef5dac81ac.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/18333-arknait-preliudiia-do-svitanku-2-sezon.html",
+                                "title": "Аркнайт: Прелюдія до Світанку",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/bf/0bf39abf446b4752052762d1446c46.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/17477-magichna-bytva-2-sezon.html",
+                                "title": "Магічна битва",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/fb/0fb046fd071e54e6d4f6b7d5acc8b8.jpg"
+                            },
+                            {
                                 "url": "/animeukr/anime-series/18365-korolvstva-ruyin-1-sezon.html",
                                 "title": "Королівства руїн",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/23/fd942ded8d63f2a8769a14de1ad4dc.jpg"
@@ -135,11 +150,6 @@
                                 "url": "/animeukr/anime-series/18506-vitvki-bogv-1-sezon.html",
                                 "title": "Витівки богів",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/c0/b1f7eca3acf70a068b9abcef95034d.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/17477-magichna-bytva-2-sezon.html",
-                                "title": "Магічна битва",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/fb/0fb046fd071e54e6d4f6b7d5acc8b8.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-solo/18505-krishtaleve-nebo-vchorashnogo-dnya.html",
@@ -247,14 +257,14 @@
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/34/179751a92aca8fa50efacaffe420d4.jpg"
                             },
                             {
-                                "url": "/animeukr/anime-series/18481-legenda-pro-geroiv-galaktyky-4-sezon.html",
-                                "title": "Легенда про героїв галактики",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/59/84926810c7a1d61a44bf80f2eebce6.jpg"
-                            },
-                            {
                                 "url": "/animeukr/anime-series/18480-legenda-pro-geroyiv-galaktiki-3-sezon.html",
                                 "title": "Легенда про героїв галактики",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/62/4791b49d9d6ef5c1c828587a27fc3a.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/18481-legenda-pro-geroiv-galaktyky-4-sezon.html",
+                                "title": "Легенда про героїв галактики",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/59/84926810c7a1d61a44bf80f2eebce6.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-solo/18482-legenda-pro-geroyiv-galaktiki-ya-zavoyuyu-more-zrok.html",
@@ -305,16 +315,6 @@
                                 "url": "/animeukr/anime-series/17625-temne-zbrannya-1-sezon.html",
                                 "title": "Темне зібрання",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/c9/3c2cfb0c416523889560c08c7f3b0e.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/18333-arknait-preliudiia-do-svitanku-2-sezon.html",
-                                "title": "Аркнайт: Прелюдія до Світанку",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/bf/0bf39abf446b4752052762d1446c46.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/18318-shodzhennia-v-tini-2-sezon.html",
-                                "title": "Сходження в тіні",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/56/1b1c6188b13f125d451f3e9034ac1c.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -393,20 +393,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://ashdi.vip/vod/20699",
-                        "name": "Серія 220 QTV"
-                    },
-                    {
-                        "url": "https://ashdi.vip/vod/20698",
-                        "name": "Серія 219 QTV"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

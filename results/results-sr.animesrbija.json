@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/one-piece",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/21.jpeg&w=1080&q=75"
+                            },
+                            {
                                 "url": "/anime/arknights-fuyukomori-kaerimichi",
                                 "title": "Arknights: Fuyukomori Kaerimichi",
                                 "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/53881_1696650300045.jpeg&w=1080&q=75"
@@ -200,11 +205,6 @@
                                 "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi",
                                 "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
                                 "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/51794_1697255100063.jpeg&w=1080&q=75"
-                            },
-                            {
-                                "url": "/anime/seiken-gakuin-no-makentsukai",
-                                "title": "Seiken Gakuin no Makentsukai",
-                                "thumbnail_url": "https://www.animesrbija.com/_next/image?url=/assets/posters/50184_1696650300045.jpeg&w=1080&q=75"
                             }
                         ],
                         "hasNextPage": false
@@ -339,14 +339,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/epizoda/one-piece-epizoda-1081",
+                        "name": "Epizoda 1081",
+                        "episode_number": 1081.0
+                    },
+                    {
                         "url": "/epizoda/one-piece-epizoda-1080",
                         "name": "Epizoda 1080",
                         "episode_number": 1080.0
-                    },
-                    {
-                        "url": "/epizoda/one-piece-epizoda-1079",
-                        "name": "Epizoda 1079",
-                        "episode_number": 1079.0
                     }
                 ],
                 "passed": true
@@ -354,18 +354,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1080/xsaOP - 1080_blaze.m3u8",
+                        "url": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1081/xsaOP - 1081_blaze.m3u8",
                         "quality": "Internal Player",
-                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1080/xsaOP - 1080_blaze.m3u8"
-                    },
-                    {
-                        "url": "Not Found",
-                        "quality": "Filemoon - Not Foundp",
-                        "videoUrl": "Not Found",
-                        "headers": {
-                            "Referer": "https://filemoon.sx/e/ebix1gvbwowv",
-                            "Origin": "https://filemoon.sx"
-                        }
+                        "videoUrl": "https://cdn.asgold.pp.ua/file/AS-Stream/AS/xsaOP/xsaOP - 1081/xsaOP - 1081_blaze.m3u8"
                     }
                 ],
                 "passed": true

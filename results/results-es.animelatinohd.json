@@ -335,18 +335,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "Not Found",
-                        "quality": "[Lat] Not Foundp",
-                        "videoUrl": "Not Found",
-                        "headers": {
-                            "Referer": "https://filemoon.sx/e/gi3zuxkizi4g/FLM64TLALMTBH",
-                            "Origin": "https://filemoon.sx"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
