@@ -393,11 +393,20 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 503",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ashdi.vip/vod/20699",
+                        "name": "Серія 220 QTV"
+                    },
+                    {
+                        "url": "https://ashdi.vip/vod/20698",
+                        "name": "Серія 219 QTV"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
