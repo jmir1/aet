@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/aRB2gClaWlFhaOus7htFuEg2eo3.jpg"
                             },
                             {
-                                "url": "/monster-rancher-capitulos-completos-latino-hd-online/",
-                                "title": "Monster Rancher",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/cHR195Iaom6dxjHj7TYM0mOVtj2-226x339.jpg"
+                                "url": "/fullmetal-alchemist-capitulos-completos-latino-hd-online/",
+                                "title": "FullMetal Alchemist",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/11/lbxy33N4AN4bt0Z4ODQMtB96Ytd-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/desapariciones-vivos-o-muertos/",
-                                "title": "Desapariciones ¿Vivos O Muertos?",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pTSzU9gWSsbosFD9nblTIPG4gur.jpg"
+                                "url": "/you/",
+                                "title": "You",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/9qZUrhcFVI9MNznVJxdfcrmifof-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -147,51 +147,22 @@
                 "result": [
                     {
                         "url": "/episode/la-hora-marcada-temporada-1-capitulo-9/",
-                        "name": "T1 - E09 - Episodio 9",
-                        "date_upload": 1703203200000
+                        "name": "T01 - E09 - Episodio 9",
+                        "date_upload": 1703203200000,
+                        "episode_number": 9.0
                     },
                     {
                         "url": "/episode/la-hora-marcada-temporada-1-capitulo-8/",
-                        "name": "T1 - E08 - Episodio 8",
-                        "date_upload": 1702598400000
+                        "name": "T01 - E08 - Episodio 8",
+                        "date_upload": 1702598400000,
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=v-in-x6amr77lELSP2O_adllovXRF6YhIWepErET_UA&s=1698667928&e=43200&f=302491&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=v-in-x6amr77lELSP2O_adllovXRF6YhIWepErET_UA&s=1698667928&e=43200&f=302491&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=v-in-x6amr77lELSP2O_adllovXRF6YhIWepErET_UA&s=1698667928&e=43200&f=302491&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=v-in-x6amr77lELSP2O_adllovXRF6YhIWepErET_UA&s=1698667928&e=43200&f=302491&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=v-in-x6amr77lELSP2O_adllovXRF6YhIWepErET_UA&s=1698667928&e=43200&f=302491&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=v-in-x6amr77lELSP2O_adllovXRF6YhIWepErET_UA&s=1698667928&e=43200&f=302491&i=0.0&sp=0",
-                        "headers": {
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
