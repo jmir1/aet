@@ -57,9 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/aRB2gClaWlFhaOus7htFuEg2eo3.jpg"
                             },
                             {
-                                "url": "/fullmetal-alchemist-capitulos-completos-latino-hd-online/",
-                                "title": "FullMetal Alchemist",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/11/lbxy33N4AN4bt0Z4ODQMtB96Ytd-226x339.jpg"
+                                "url": "/los-juicios-de-gabriel-fernandez/",
+                                "title": "Los juicios de Gabriel Fernandez",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hPVOPTYpUz3YayTgmLDd6ztrzW6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/you/",
-                                "title": "You",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/9qZUrhcFVI9MNznVJxdfcrmifof-226x339.jpg"
+                                "url": "/planeta-nocturno-a-todo-color/",
+                                "title": "Planeta nocturno: a todo color",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nNPezHMni7kGhGCWGTh07yZVvvI.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -161,8 +161,39 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=qTXpN8uq1LqANpUkAlRpCTZA3NGnjqpuMlWddF00VYQ&s=1698712213&e=43200&f=302491&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=qTXpN8uq1LqANpUkAlRpCTZA3NGnjqpuMlWddF00VYQ&s=1698712213&e=43200&f=302491&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=qTXpN8uq1LqANpUkAlRpCTZA3NGnjqpuMlWddF00VYQ&s=1698712213&e=43200&f=302491&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=qTXpN8uq1LqANpUkAlRpCTZA3NGnjqpuMlWddF00VYQ&s=1698712213&e=43200&f=302491&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=qTXpN8uq1LqANpUkAlRpCTZA3NGnjqpuMlWddF00VYQ&s=1698712213&e=43200&f=302491&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s25.fastream.to/hls2/04/00060/lrxvx3ejx6id_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=qTXpN8uq1LqANpUkAlRpCTZA3NGnjqpuMlWddF00VYQ&s=1698712213&e=43200&f=302491&i=0.0&sp=0",
+                        "headers": {
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

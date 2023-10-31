@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/gran-turismo/",
+                                "title": "Gran Turismo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/n0NDzuLKZwayN0TzDkgySBcqaQ2.jpg"
+                            },
+                            {
                                 "url": "/movies/killers-of-the-flower-moon/",
                                 "title": "Killers of the Flower Moon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/lPRtpUsO402yA1s1hKwFeh8W85g.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/movies/the-creator/",
                                 "title": "The Creator",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/8xtAuXA6zubKpWM93H88oGLD1fN.jpg"
-                            },
-                            {
-                                "url": "/movies/indiana-jones-und-das-rad-des-schicksals/",
-                                "title": "Indiana Jones und das Rad des Schicksals",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Z5D7T7iZgrA6XkxGxlIruqa8sW.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -116,6 +116,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodes/the-gilded-age-2x1/",
+                                "title": "The Gilded Age: 2×1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/8yAtOKwgUi2oRFBoMb0denyqugk.jpg"
+                            },
                             {
                                 "url": "/episodes/sebastian-fitzeks-die-therapie-1x6/",
                                 "title": "Sebastian Fitzeks Die Therapie: 1×6",
@@ -260,11 +265,6 @@
                                 "url": "/episodes/family-law-2x6/",
                                 "title": "Family Law: 2×6",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/rtffyznXB0ZbQ9tukj9WeQ7gFEp.jpg"
-                            },
-                            {
-                                "url": "/episodes/family-law-2x5/",
-                                "title": "Family Law: 2×5",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/mnS8H93GYFSYqk22iLqMm9fCZn2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -434,11 +434,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/killers-of-the-flower-moon/",
-                    "title": "Killers of the Flower Moon",
-                    "description": "Als im Oklahoma der 1920er Öl auf dem Land von Osage County entdeckt wird, werden die dortigen Bewohner einer nach dem anderen ermordet, bis das FBI eingreift, um das Geheimnis zu lüften.\n\nOriginal title: Killers of the Flower Moon",
-                    "genre": "Drama, Krimi, Thriller",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/lPRtpUsO402yA1s1hKwFeh8W85g.jpg",
+                    "url": "/movies/gran-turismo/",
+                    "title": "Gran Turismo",
+                    "description": "Eine wahre Geschichte eines jugendlichen Gran Turismo-Spielers wird erzählt, wie aus ihm ein echter professioneller Rennfahrer wird. Über eine Reihe Härtetests von Nissan-Wettbewerben geht sein größter Wunsch in Erfüllung.\n\nOriginal title: Gran Turismo",
+                    "genre": "Action, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/n0NDzuLKZwayN0TzDkgySBcqaQ2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +446,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/killers-of-the-flower-moon/",
+                        "url": "/movies/gran-turismo/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
