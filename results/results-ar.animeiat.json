@@ -392,8 +392,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 389: Expected start of the array '[', but had '{' instead at path: $.data.sources\nJSON input: .....0T23:54:22.000000Z\",\"sources\":{\"oldfile\":\"https:\\/\\/api.anim.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B1080p%5D.mp4",
+                        "quality": "1080p FHD",
+                        "videoUrl": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B1080p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B360p%5D.mp4",
+                        "quality": "360p SD",
+                        "videoUrl": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B360p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B480p%5D.mp4",
+                        "quality": "480p SD",
+                        "videoUrl": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B480p%5D.mp4"
+                    },
+                    {
+                        "url": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B720p%5D.mp4",
+                        "quality": "720p HD",
+                        "videoUrl": "https://shahidha.net/files/37789/%5BAnimeiat.co%5DKusuriya_no_Hitorigoto_-_EP04%5B720p%5D.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
