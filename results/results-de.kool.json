@@ -57,11 +57,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/p326HzS4sraShiQu6NsvG70pOe6.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=678512&type=movie",
-                                "title": "Sound of Freedom",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=939335&type=movie",
                                 "title": "Muzzle - K-9 Narcotics Unit",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/qXChf7MFL36BgoLkiB3BzXiwW82.jpg"
@@ -75,6 +70,11 @@
                                 "url": "/data/watch/?_id=1139087&type=movie",
                                 "title": "Once Upon a Studio",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/hr8ZtwdbtjBquxlTCrczr685K5T.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=678512&type=movie",
+                                "title": "Sound of Freedom",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=354912&type=movie",
@@ -662,11 +662,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/uoXC8LdLIjF3wyXNGVSwQ6JMaDb.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=1146147&type=movie",
-                                "title": "A Really Haunted Loud House",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/30we4NrF5F1FcBDklBGXvCDn1pG.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=1064835&type=movie",
                                 "title": "The Seven Deadly Sins: Grudge of Edinburgh – Teil 2",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/p9WwpYRfKz3LcGva19v1SXsln1h.jpg"
@@ -695,6 +690,11 @@
                                 "url": "/data/watch/?_id=882569&type=movie",
                                 "title": "Guy Ritchie's Der Pakt",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/4PWcn93sLyMgPnIvz9H27lhofHX.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=663712&type=movie",
+                                "title": "Terrifier 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=1150537&type=movie",
@@ -751,14 +751,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jzP5rPwwNqUGERlrUzKKljfyulf.jpg"
                             },
                             {
-                                "url": "https://www.kool.to/data/watch/?_id=397567&type=movie",
-                                "title": "Along with the Gods: The Two Worlds",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg"
-                            },
-                            {
                                 "url": "https://www.kool.to/data/watch/?_id=604605&type=movie",
                                 "title": "Hello World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg"
+                            },
+                            {
+                                "url": "https://www.kool.to/data/watch/?_id=397567&type=movie",
+                                "title": "Along with the Gods: The Two Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=158852&type=movie",
@@ -866,6 +866,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/fNjXixdL1IOSWk7g9msKyfpPKdx.jpg"
                             },
                             {
+                                "url": "https://www.kool.to/data/watch/?_id=518764&type=movie",
+                                "title": "Animal World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg"
+                            },
+                            {
                                 "url": "https://www.kool.to/data/watch/?_id=285&type=movie",
                                 "title": "Pirates of the Caribbean - Am Ende der Welt",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/gNiS5L0qxRlkPdHcRtFo23rwPMT.jpg"
@@ -874,11 +879,6 @@
                                 "url": "https://www.kool.to/data/watch/?_id=1022811&type=movie",
                                 "title": "Battlefield Fall of The World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/zjXcsX3ASORpBWcfsEbkNUshfcD.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=518764&type=movie",
-                                "title": "Animal World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kxc25B05Gq4CbCoWbyTFf9iF0wn.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=457955&type=movie",
@@ -987,8 +987,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<head><title>404 Not Found</title></head>\r",
+                        "quality": "Filemoon - </center>\r\n</body>\r\n</html>\r\np",
+                        "videoUrl": "<head><title>404 Not Found</title></head>\r",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/iebst6v8k0fo",
+                            "Origin": "https://filemoon.sx"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

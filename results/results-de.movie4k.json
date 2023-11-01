@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/data/watch/?_id=651ea8d8acfc4d6be2484d8b",
-                                "title": "The Creator",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/15D3HElzUBSsA5WlfDZviynD7U.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=64f29abb650f6041499f48c7",
                                 "title": "The Equalizer 3 - The Final Chapter",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/5f6eESHOHirfw4sEFDsbVgx1Rrc.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=651ea8d8acfc4d6be2484d8b",
+                                "title": "The Creator",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/15D3HElzUBSsA5WlfDZviynD7U.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=652e34860e53e92ad72d4f3e",
@@ -27,14 +27,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/lPRtpUsO402yA1s1hKwFeh8W85g.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=65214bd43a19bba939fbd0f6",
-                                "title": "Der Exorzist: Bekenntnis",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/f2djbCWrUGaABuGmGmoVCiGz169.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=641ccfa5c503f08683ced0c9",
                                 "title": "John Wick Kapitel 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/lmSuwYGrrMy8p4kVEzCb9GM4waP.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=65214bd43a19bba939fbd0f6",
+                                "title": "Der Exorzist: Bekenntnis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/f2djbCWrUGaABuGmGmoVCiGz169.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=6510ed370e5bf513c56a034d",
@@ -67,6 +67,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/4w2rEFKQLuheyWoLNi46jYkgXrl.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
+                                "title": "Five Nights at Freddys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=64b0afcbb351ff06769e5885",
                                 "title": "Mission: Impossible - Dead Reckoning Teil Eins",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/nMKfS9wO7jT5l5iqAJ6M0QIlRKu.jpg"
@@ -87,24 +92,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/vg9fpwAXhJhMJplX5CTH4UeA2uA.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=643009acc503f08683ef18b2",
-                                "title": "Der Super Mario Bros. Film",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/aMUbRQs7Vj77SVUqFieN72setAH.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=653558ab0e53e92ad72d7330",
-                                "title": "King of Killers",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/x5AreOAgkTBzUSL58o4jsYortw2.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=64cf024f535e22445cffd05f",
-                                "title": "Gran Turismo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/n0NDzuLKZwayN0TzDkgySBcqaQ2.jpg"
+                                "url": "/data/watch/?_id=653b63820e53e92ad72d9374",
+                                "title": "57 Seconds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/maY6wEd1axlP89er5ltyAtcEmRB.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=653834300e53e92ad72d832c",
                                 "title": "What the Waters Left Behind: Scars",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/r8iVj6J7aLHcSkEwYBlTOBEAPQR.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=643009acc503f08683ef18b2",
+                                "title": "Der Super Mario Bros. Film",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/aMUbRQs7Vj77SVUqFieN72setAH.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -113,112 +113,20 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=651ea8d8acfc4d6be2484d8b",
-                    "title": "The Creator",
-                    "description": "Die Welt in der Zukunft: Die Menschen führen einen erbitterten Krieg gegen Künstliche Intelligenzen. Währenddessen hat Ex-Agent Joshua (John David Washington) aber ganz andere Sorgen, denn seine Ehefrau Maya (Gemma Chan) ist verschwunden. Doch manchmal hat sich das Universum gegen einen verschworen und schickt einen Spezialauftrag, der über das Schicksal der Menschheit entscheiden könnte. Joshua soll den sogenannten „Schöpfer“ ausfindig machen, einen K.I.-Entwickler, der eine mysteriöse Waffe erschaffen haben soll. Diese könnte den Krieg beenden – aber auch die gesamte Menschheit auslöschen. Joshua und sein Team von fähigen Elitesoldaten müssen sich tief ins K.I.-Gebiet vorwagen und machen inmitten des grausigen Kriegsgeschehens eine überraschende Entdeckung: Die mysteriöse Waffe gibt es tatsächlich, nur in so nicht erwarteter Gestalt. Sie sieht aus wie ein kleines Kind, das in Wahrheit jedoch auch eine K.I. ist.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=651ea8d8acfc4d6be2484d8b",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=r9QoDRvxA6IbBPL&expires=1698889015&ip=GxOsFxqnDS9X&token=O_9nFPSqUNhj",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=r9QoDRvxA6IbBPL&expires=1698889015&ip=GxOsFxqnDS9X&token=O_9nFPSqUNhj"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=8dyx6JQVk1FjOW&expires=1698889011&ip=GxOsFxqnDS9X&token=8nQ-4RKAPOhL",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8dyx6JQVk1FjOW&expires=1698889011&ip=GxOsFxqnDS9X&token=8nQ-4RKAPOhL"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=V7kgOQzZaaHKwPK&expires=1698889008&ip=GxOsFxqnDS9X&token=ycDqBZy1BYQD",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=V7kgOQzZaaHKwPK&expires=1698889008&ip=GxOsFxqnDS9X&token=ycDqBZy1BYQD"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=RDZx78r7VGHJ2Z&expires=1698889004&ip=GxOsFxqnDS9X&token=BVDLY2NTdHJo",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=RDZx78r7VGHJ2Z&expires=1698889004&ip=GxOsFxqnDS9X&token=BVDLY2NTdHJo"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=2Db6WG2Vq9SZ9pP&expires=1698889004&ip=GxOsFxqnDS9X&token=djD7LlKKHhUz",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=2Db6WG2Vq9SZ9pP&expires=1698889004&ip=GxOsFxqnDS9X&token=djD7LlKKHhUz"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=697jgqmB2Zuppg&expires=1698889004&ip=GxOsFxqnDS9X&token=c7ne-jFMdcI8",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=697jgqmB2Zuppg&expires=1698889004&ip=GxOsFxqnDS9X&token=c7ne-jFMdcI8"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=x9QjKrWX8kCw4K&expires=1698889001&ip=GxOsFxqnDS9X&token=4t4HZx1VsWoV",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=x9QjKrWX8kCw4K&expires=1698889001&ip=GxOsFxqnDS9X&token=4t4HZx1VsWoV"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=7P1JWXl3mPSAXD9&expires=1698888996&ip=GxOsFxqnDS9X&token=aKsMxR85tanh",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=7P1JWXl3mPSAXD9&expires=1698888996&ip=GxOsFxqnDS9X&token=aKsMxR85tanh"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=qKOz3zR0zjFZ6p&expires=1698888996&ip=GxOsFxqnDS9X&token=v7103hiVdj41",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=qKOz3zR0zjFZ6p&expires=1698888996&ip=GxOsFxqnDS9X&token=v7103hiVdj41"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=Orr1z7pdokIZbqY&expires=1698888990&ip=GxOsFxqnDS9X&token=dUJhBVtyO7zu",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Orr1z7pdokIZbqY&expires=1698888990&ip=GxOsFxqnDS9X&token=dUJhBVtyO7zu"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=jWx4MYYwkoFz0xk&expires=1698888990&ip=GxOsFxqnDS9X&token=YfWvzCDL3jVF",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jWx4MYYwkoFz0xk&expires=1698888990&ip=GxOsFxqnDS9X&token=YfWvzCDL3jVF"
-                    },
-                    {
-                        "url": "https://voe.sx/wz6tqf1jf2bf",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-tlrb1vs6yeporajd.voe-network.net/engine/hls2/01/09728/wz6tqf1jf2bf_,n,.urlset/master.m3u8?t=RHOlU4kjRniXUJxTfATg1OZey2MDaogVhqqZGkL67K8&s=1698818984&e=14400&f=48644525&node=delivery-node-tlrb1vs6yeporajd.voe-network.net&i=40.84&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=rKApyyAA9WIya2&expires=1698888983&ip=GxOsFxqnDS9X&token=F1QqU2zsHchP",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=rKApyyAA9WIya2&expires=1698888983&ip=GxOsFxqnDS9X&token=F1QqU2zsHchP"
-                    },
-                    {
-                        "url": "https://voe.sx/lpyuxsvgkafk",
-                        "quality": "Voe",
-                        "videoUrl": "https://delivery-node-dxpdxatbb5gs9ftl.voe-network.net/engine/hls2/01/09718/lpyuxsvgkafk_,n,.urlset/master.m3u8?t=cSVdwI6pS8U09W8StvdWJ0pSVpNPhnPSJdmaKGM3Ru8&s=1698818974&e=14400&f=48591302&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=40.84&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=xrrZaGb8LzCkW4o&expires=1698888968&ip=GxOsFxqnDS9X&token=EfCII6l1ZLMo",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xrrZaGb8LzCkW4o&expires=1698888968&ip=GxOsFxqnDS9X&token=EfCII6l1ZLMo"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=vWYvLe13LRcbk7&expires=1698888968&ip=GxOsFxqnDS9X&token=C9xZg2SpW_Z8",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vWYvLe13LRcbk7&expires=1698888968&ip=GxOsFxqnDS9X&token=C9xZg2SpW_Z8"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

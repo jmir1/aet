@@ -295,43 +295,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://a4.mp4upload.com:183/d/xkx4h36xz3b4quuookxrqkcsdcrv3pmmhua5zm7z55c4vpfmtk6grjdkjghodod42yahzasz/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a4.mp4upload.com:183/d/xkx4h36xz3b4quuookxrqkcsdcrv3pmmhua5zm7z55c4vpfmtk6grjdkjghodod42yahzasz/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=4&sig=24jD0_bhHmA&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=4&sig=24jD0_bhHmA&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=0&sig=AA10rZanPH0&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=0&sig=AA10rZanPH0&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=1&sig=1xel60DLrjY&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=1&sig=1xel60DLrjY&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=2&sig=nFZ7WtDxkK0&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=2&sig=nFZ7WtDxkK0&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675"
-                    },
-                    {
-                        "url": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=3&sig=7nU7_UyG1zw&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd390.mycdn.me/?expires=1698905352129&srcIp=23.102.141.55&pr=10&srcAg=GECKO&ms=45.136.20.19&type=3&sig=7nU7_UyG1zw&ct=0&urls=185.226.53.42&clientType=0&zs=43&id=1692836825675"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
