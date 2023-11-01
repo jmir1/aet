@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tensei-shitara-slime-datta-ken-coleus-no-yume/",
+                                "title": "Tensei Shitara Slime Datta Ken Coleus no Yume",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Tensei-Shitara-Slime-Datta-Ken-Coleus-no-Yume.jpg"
+                            },
+                            {
                                 "url": "/anime/b-project-netsuretsu-love-call/",
                                 "title": "B-Project Netsuretsu Love Call",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/B-PROJECT-Netsuretsu-Love-Cal.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/boushoku-no-berserk/",
                                 "title": "Boushoku no Berserk",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Boushoku-no-Berserk.jpg"
-                            },
-                            {
-                                "url": "/anime/overtake/",
-                                "title": "Overtake",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Overtake.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -384,13 +384,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/b-project-netsuretsu-love-call/",
-                    "title": "B-Project Netsuretsu Love Call",
-                    "description": "الموسم الثالث من الأنمي",
-                    "genre": "موسيقي, خيال, دراما",
+                    "url": "/anime/tensei-shitara-slime-datta-ken-coleus-no-yume/",
+                    "title": "Tensei Shitara Slime Datta Ken Coleus no Yume",
+                    "description": "أوفات تقع أحداثها بين الموسم الأول و الثاني.",
+                    "genre": "ايسيكاي, فانتازيا, سحري, أكشن, شونين, مغامرات",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/B-PROJECT-Netsuretsu-Love-Cal.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Tensei-Shitara-Slime-Datta-Ken-Coleus-no-Yume.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -398,27 +398,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/b-project-netsuretsu-love-call-الحلقة-4/",
-                        "name": "4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/episode/b-project-netsuretsu-love-call-الحلقة-3/",
-                        "name": "3",
-                        "episode_number": 3.0
+                        "url": "/episode/tensei-shitara-slime-datta-ken-coleus-no-yume-الحلقة-1/",
+                        "name": "1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc701.4shared.com/img/ejp0qOL6jq/d7e6ea5a/dlink__2Fdownload_2Fejp0qOL6jq_3Fsbsr_3Df2e6c74920dd55ce9e927dae7b20b23faf8_26bip_3DMTM4LjkxLjg3LjU2_26lgfp_3D66_26bip_3DMTM4LjkxLjg3LjU2_26bip_3DMTM4LjkxLjg3LjU2/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc701.4shared.com/img/ejp0qOL6jq/d7e6ea5a/dlink__2Fdownload_2Fejp0qOL6jq_3Fsbsr_3Df2e6c74920dd55ce9e927dae7b20b23faf8_26bip_3DMTM4LjkxLjg3LjU2_26lgfp_3D66_26bip_3DMTM4LjkxLjg3LjU2_26bip_3DMTM4LjkxLjg3LjU2/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

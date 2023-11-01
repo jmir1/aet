@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/the-eminence-in-shadow-season-2.87209/",
+                                "title": "The Eminence in Shadow Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Eminence-in-Shadow-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness/",
+                                "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness.jpg"
+                            },
+                            {
+                                "url": "/Anime/BULLBUSTER/",
+                                "title": "BULLBUSTER",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/BULLBUSTER.jpg"
+                            },
+                            {
                                 "url": "/Anime/gegege-no-kitarou-1968.44691/",
                                 "title": "Cackling Kitarou",
                                 "thumbnail_url": "https://static.anmedm.com/media/uploads/11-27-2014/35967854527398l.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/Reign-of-the-Seven-Spellblades-Dub/",
                                 "title": "Reign of the Seven Spellblades (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Reign-of-the-Seven-Spellblades-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/dark-gathering.20085/",
-                                "title": "Dark Gathering",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Dark-Gathering.jpg"
-                            },
-                            {
-                                "url": "/Anime/MF-GHOST/",
-                                "title": "MF GHOST",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/MF-GHOST.jpg"
-                            },
-                            {
-                                "url": "/Anime/Berserk-of-Gluttony/",
-                                "title": "Berserk of Gluttony",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Berserk-of-Gluttony.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
