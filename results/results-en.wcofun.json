@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/unicorn-academy",
+                                "title": "Unicorn Academy",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933278.jpg"
+                            },
+                            {
                                 "url": "/anime/onimusha",
                                 "title": "Onimusha",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933277.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/monster-math-squad",
                                 "title": "Monster Math Squad",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933263.jpg"
-                            },
-                            {
-                                "url": "/anime/monster-high-2022-tv-series",
-                                "title": "Monster High 2022 (TV Series)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933262.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/onimusha",
-                    "title": "Onimusha",
-                    "description": "This reimagined adaptation of the classic video game franchise features the character of Musashi Miyamoto, modeled on Toshiro Mifune.",
-                    "genre": "Action, Adventure, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933277.jpg",
+                    "url": "/anime/unicorn-academy",
+                    "title": "Unicorn Academy",
+                    "description": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
+                    "genre": "Adventure, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933278.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/unicorn-academy-episode-9-mended-hearts",
+                        "name": "Season 1 - Episode 9",
+                        "episode_number": 109.0
+                    },
+                    {
+                        "url": "/unicorn-academy-episode-8-ravenzellas-revenge",
+                        "name": "Season 1 - Episode 8",
+                        "episode_number": 108.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvgqWCss284AIj-wY__j9UfjyyDZD6bWO2Z9DqTYFTyVOC574LidRrWDIZ7ORrG-Qou_T7YtaIPU7FTutkuEschxO5CBIBuM9cpzyH56LxOavHhE6MppjdlHE9_onY3GKx6-gxil9FdkVp6IxWVDjO4cXoLwLdIhOuKzlvrrWxTa6pd_Uqtsk3GzUoP2LzFYihpMlVLsfEb7pRBg0mVtY515ABEBdsjvJcoGBDWLlwaqcWbe5bfpREPFEgCyc2TOpe6mpoAjPH99v9ZxjkpCuHRy8gZAUp5aSZlieptNCxxd",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvgqWCss284AIj-wY__j9UfjyyDZD6bWO2Z9DqTYFTyVOC574LidRrWDIZ7ORrG-Qou_T7YtaIPU7FTutkuEschxO5CBIBuM9cpzyH56LxOavHhE6MppjdlHE9_onY3GKx6-gxil9FdkVp6IxWVDjO4cXoLwLdIhOuKzlvrrWxTa6pd_Uqtsk3GzUoP2LzFYihpMlVLsfEb7pRBg0mVtY515ABEBdsjvJcoGBDWLlwaqcWbe5bfpREPFEgCyc2TOpe6mpoAjPH99v9ZxjkpCuHRy8gZAUp5aSZlieptNCxxd"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvgqWCss284AIj-wY__j9UfjyyDZD6bWO2Z9DqTYFTyVARdkgOLRun_AHPiV8reGjwG5InluHmhtBpmfbeIa60mE95S_PILmw2KHn-3kAy4STe53b9BqPdncrun9cvnBBhyYVtRZ2OJSHUFq-CX7X8DsQE6BSPT6EhpYxpaQVAtUNGpMxrlYhCaD4r4pENn3h2h8GZPkamiHWHWab4xT5-nbuCTETgazEvgcUTB0bE6ONJxnGsqhiPB3yJ95QrKN8sdQz01nVRuH5G-NgQ1Pt2Vq-1mWZeEIbSK2zqMQZZfD",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvgqWCss284AIj-wY__j9UfjyyDZD6bWO2Z9DqTYFTyVARdkgOLRun_AHPiV8reGjwG5InluHmhtBpmfbeIa60mE95S_PILmw2KHn-3kAy4STe53b9BqPdncrun9cvnBBhyYVtRZ2OJSHUFq-CX7X8DsQE6BSPT6EhpYxpaQVAtUNGpMxrlYhCaD4r4pENn3h2h8GZPkamiHWHWab4xT5-nbuCTETgazEvgcUTB0bE6ONJxnGsqhiPB3yJ95QrKN8sdQz01nVRuH5G-NgQ1Pt2Vq-1mWZeEIbSK2zqMQZZfD"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvgqWCss284AIj-wY__j9UfjyyDZD6bWO2Z9DqTYFTyVS8WK4EBlAqH1Fq2_cc4vvH8V_7heWQ60NOiAuJ0_XiSuWrBZJEtqQmQEHLeovC8TWzG2TdDFN97i5tWd5v3vH97KteeoofCz9ydihuGLflIoJqRu6EcrLgAgdXbr0-ZYGy-ixSpeE-aNcj0zSHuwkGJnd_S5g0oHed-QcH_H3poPmsIfqtThMxrpJGxJc5tDN2Ij_CuYWSFIkdcrP8RWJ4LW0Ga1YahWzvE6c9Y8XrxBXAgQ8UZEh63FZoPXPu15",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvgqWCss284AIj-wY__j9UfjyyDZD6bWO2Z9DqTYFTyVS8WK4EBlAqH1Fq2_cc4vvH8V_7heWQ60NOiAuJ0_XiSuWrBZJEtqQmQEHLeovC8TWzG2TdDFN97i5tWd5v3vH97KteeoofCz9ydihuGLflIoJqRu6EcrLgAgdXbr0-ZYGy-ixSpeE-aNcj0zSHuwkGJnd_S5g0oHed-QcH_H3poPmsIfqtThMxrpJGxJc5tDN2Ij_CuYWSFIkdcrP8RWJ4LW0Ga1YahWzvE6c9Y8XrxBXAgQ8UZEh63FZoPXPu15"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/onimusha/",
+                                "title": "Onimusha",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Onimusha.jpg"
+                            },
+                            {
                                 "url": "/anime/tensei-shitara-slime-datta-ken-coleus-no-yume/",
                                 "title": "Tensei Shitara Slime Datta Ken Coleus no Yume",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Tensei-Shitara-Slime-Datta-Ken-Coleus-no-Yume.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/tokyo-revengers-tenjiku-hen/",
                                 "title": "Tokyo Revengers Tenjiku hen",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Tokyo-Revengers-Tenjiku-hen.jpg"
-                            },
-                            {
-                                "url": "/anime/boushoku-no-berserk/",
-                                "title": "Boushoku no Berserk",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Boushoku-no-Berserk.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -384,36 +384,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/tensei-shitara-slime-datta-ken-coleus-no-yume/",
-                    "title": "Tensei Shitara Slime Datta Ken Coleus no Yume",
-                    "description": "أوفات تقع أحداثها بين الموسم الأول و الثاني.",
-                    "genre": "ايسيكاي, فانتازيا, سحري, أكشن, شونين, مغامرات",
+                    "url": "/anime/onimusha/",
+                    "title": "Onimusha",
+                    "description": "هذه السلسلة الطموحة ستركز على “مياموتو موساشي“، الذي تم اقتباس شخصيته من “توشيرو ميفوني“، نجم السينما الياباني المعروف حول العالم. إنها بداية سلسلة مكثفة مليئة بالأكشن الواقعي حيث يقوم نَصْل “موساشي” بقطع الشر، كما يعبر أرض تعاني من الفقر.",
+                    "genre": "ساموراي, خارق للطبيعة, دراما, تاريخي, أكشن",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Tensei-Shitara-Slime-Datta-Ken-Coleus-no-Yume.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Onimusha.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/tensei-shitara-slime-datta-ken-coleus-no-yume-الحلقة-1/",
-                        "name": "1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc564.4shared.com/img/ZfiY57Y0ku/6d05d32e/dlink__2Fdownload_2FZfiY57Y0ku_3Fsbsr_3D7f1adfea7df6f669aa8758e52aee9a22af9_26bip_3DMTMuODguOTguODY_26lgfp_3D66_26bip_3DMTMuODguOTguODY_26bip_3DMTMuODguOTguODY/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc564.4shared.com/img/ZfiY57Y0ku/6d05d32e/dlink__2Fdownload_2FZfiY57Y0ku_3Fsbsr_3D7f1adfea7df6f669aa8758e52aee9a22af9_26bip_3DMTMuODguOTguODY_26lgfp_3D66_26bip_3DMTMuODguOTguODY_26bip_3DMTMuODguOTguODY/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
