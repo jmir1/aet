@@ -3,27 +3,27 @@
         "name": "AnimeLove (IT)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: www.animelove.tv: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: www.animelove.tv",
                 "passed": false
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: www.animelove.tv",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: www.animelove.tv",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: www.animelove.tv",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.net.UnknownHostException: www.animelove.tv",
                 "passed": false
             }
         }

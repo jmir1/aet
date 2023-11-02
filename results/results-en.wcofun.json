@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/onimusha",
+                                "title": "Onimusha",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933277.jpg"
+                            },
+                            {
                                 "url": "/anime/paprika",
                                 "title": "Paprika",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933276.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/monster-high-2022-tv-series",
                                 "title": "Monster High 2022 (TV Series)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933262.jpg"
-                            },
-                            {
-                                "url": "/anime/monster-by-mistake",
-                                "title": "Monster by Mistake",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933261.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/paprika",
-                    "title": "Paprika",
-                    "description": "Stan and Olivia, the Paprika twins look a lot alike, but their personalities couldn’t be further apart! Between the two of them, they form a wildly cheerful duo, overflowing with energy and imagination! Along with their friends Bigfoot, Puff, Podium and Magma, they can turn the smallest, everyday event into a grand adventure!",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933276.jpg",
+                    "url": "/anime/onimusha",
+                    "title": "Onimusha",
+                    "description": "This reimagined adaptation of the classic video game franchise features the character of Musashi Miyamoto, modeled on Toshiro Mifune.",
+                    "genre": "Action, Adventure, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933277.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/paprika-episode-26-the-shopkeeper-hide-and-seek-podiums-job-the-stories-the-teams-pearls-siren-the-morning-huggy-hellos-bigfoots-house-the-teacher-the-keepsake",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    },
-                    {
-                        "url": "/paprika-episode-25-the-hugs-the-game-the-move",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqlh1Z3XFUQFypzwKw2mFJI0Tfs5ZFUm2iT5SAwRfahN1xGAXzMFZhVLHl3WNhuzOSnn2nLfpwbggF9PHRVJx6QQIoMpCOZ5uqH1ze8-B_G5gM-mnIk_G7OTQs8_NAgflK49Bhe7sbNjPdV9_ySXVczSpwFYgS8G3jO6FvNOj2WNSBLmtLkNAsV-eovliOCO_Gz48aBhGFm7pZi0YlUEfMsFcf0_nvO8Y5QEZvAS3SAmwChtNF5M_VhH13V5lU1p_tip0IdxZViyuliISsj6HObIT8ghYCH9WIHX1jVPooZN8wyc_iDOfQYyjhSt70X6Tw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqlh1Z3XFUQFypzwKw2mFJI0Tfs5ZFUm2iT5SAwRfahN1xGAXzMFZhVLHl3WNhuzOSnn2nLfpwbggF9PHRVJx6QQIoMpCOZ5uqH1ze8-B_G5gM-mnIk_G7OTQs8_NAgflK49Bhe7sbNjPdV9_ySXVczSpwFYgS8G3jO6FvNOj2WNSBLmtLkNAsV-eovliOCO_Gz48aBhGFm7pZi0YlUEfMsFcf0_nvO8Y5QEZvAS3SAmwChtNF5M_VhH13V5lU1p_tip0IdxZViyuliISsj6HObIT8ghYCH9WIHX1jVPooZN8wyc_iDOfQYyjhSt70X6Tw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqlh1Z3XFUQFypzwKw2mFJI0Tfs5ZFUm2iT5SAwRfahN1xGAXzMFZhVLHl3WNhuzOXPY-AZikrKh2RxYyiNhXzQJvKDoBF5Kr3BjSgoDNlbR3UooXHmW3WhSfk_X_j8SIGmQEipvU12O6jgJSPvf8w5UjD9HN7wyBt4sQajKpPLfHZSLjMVTatCBLBu6_ldqCKFlcJXukCZtmw0JHnfwFZT-D5ysGCV1x-dw9mxK4vhmhBNCetJWoD3ZneLIk_w7ijeGRODttMJ3lys5-OvCEeYYKa6iIEcQitAhFmbn9Ha27bl9NHKZUJu_Us1f8AUCbA",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqlh1Z3XFUQFypzwKw2mFJI0Tfs5ZFUm2iT5SAwRfahN1xGAXzMFZhVLHl3WNhuzOXPY-AZikrKh2RxYyiNhXzQJvKDoBF5Kr3BjSgoDNlbR3UooXHmW3WhSfk_X_j8SIGmQEipvU12O6jgJSPvf8w5UjD9HN7wyBt4sQajKpPLfHZSLjMVTatCBLBu6_ldqCKFlcJXukCZtmw0JHnfwFZT-D5ysGCV1x-dw9mxK4vhmhBNCetJWoD3ZneLIk_w7ijeGRODttMJ3lys5-OvCEeYYKa6iIEcQitAhFmbn9Ha27bl9NHKZUJu_Us1f8AUCbA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqlh1Z3XFUQFypzwKw2mFJI0Tfs5ZFUm2iT5SAwRfahN1xGAXzMFZhVLHl3WNhuzOQ4Xt9WRazMLEMakgQyA7aRU_0k2XrdExWlmbwIQtD5lBRZYRt2HG2_Ilc1yU8xpL3ZMY8lZzn2FBrasA6d6_JBZIVEh-dx6MmP6Uw-Syey_YKDnSdkgyg9M1zPrEBJxYlyQhPZIC01jWahf5QAn2hUV3-rFtvj4laJ2bhaEKipeOwqNoWNARRs5qhNUOU1IGFEGLVqNM2ylnzUAnB2IatR1pYD1aSvNajbidiE-RA1b",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJqlh1Z3XFUQFypzwKw2mFJI0Tfs5ZFUm2iT5SAwRfahN1xGAXzMFZhVLHl3WNhuzOQ4Xt9WRazMLEMakgQyA7aRU_0k2XrdExWlmbwIQtD5lBRZYRt2HG2_Ilc1yU8xpL3ZMY8lZzn2FBrasA6d6_JBZIVEh-dx6MmP6Uw-Syey_YKDnSdkgyg9M1zPrEBJxYlyQhPZIC01jWahf5QAn2hUV3-rFtvj4laJ2bhaEKipeOwqNoWNARRs5qhNUOU1IGFEGLVqNM2ylnzUAnB2IatR1pYD1aSvNajbidiE-RA1b"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
