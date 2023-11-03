@@ -396,12 +396,29 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/onimusha-الحلقة-8/",
+                        "name": "8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/onimusha-الحلقة-7/",
+                        "name": "7",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc698.4shared.com/img/Gf2rEHjofa/f6b83898/dlink__2Fdownload_2FGf2rEHjofa_3Fsbsr_3D9b7738e8d7689e196f6ccc80dc85e3ccaf9_26bip_3DMjAuODEuMTU5Ljc4_26lgfp_3D66_26bip_3DMjAuODEuMTU5Ljc4_26bip_3DMjAuODEuMTU5Ljc4/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc698.4shared.com/img/Gf2rEHjofa/f6b83898/dlink__2Fdownload_2FGf2rEHjofa_3Fsbsr_3D9b7738e8d7689e196f6ccc80dc85e3ccaf9_26bip_3DMjAuODEuMTU5Ljc4_26lgfp_3D66_26bip_3DMjAuODEuMTU5Ljc4_26bip_3DMjAuODEuMTU5Ljc4/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
