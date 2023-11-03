@@ -3,28 +3,382 @@
         "name": "GoAnimes (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/invencivel/",
+                                "title": "Invencível",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uZaLC2IxPgGI68m2W0eva8pPvaI.jpg"
+                            },
+                            {
+                                "url": "/series/goblin-slayer-dublado/",
+                                "title": "Goblin Slayer Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/94VRygpNQ73Y5FyAyUkojwPpJ1P.jpg"
+                            },
+                            {
+                                "url": "/series/tate-no-yuusha-no-nariagari-dublado/",
+                                "title": "Tate no Yuusha no Nariagari Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xQWjXusKIWTtcbLulmf2dNR6d2w.jpg"
+                            },
+                            {
+                                "url": "/series/sousou-no-frieren-dublado/",
+                                "title": "Sousou no Frieren Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/emkFUiJt79DyBod9eYUm0SENrNA.jpg"
+                            },
+                            {
+                                "url": "/series/bleach-dublado/",
+                                "title": "Bleach (Dublado)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/guyS28A4IxwoMXIq3Xj9AszMefP.jpg"
+                            },
+                            {
+                                "url": "/series/undead-unluck/",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vcd9WHPHOEoiFEbz2EBN58IT7ab.jpg"
+                            },
+                            {
+                                "url": "/series/tate-no-yuusha-no-nariagari/",
+                                "title": "Tate no Yuusha no Nariagari",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xQWjXusKIWTtcbLulmf2dNR6d2w.jpg"
+                            },
+                            {
+                                "url": "/series/goblin-slayer/",
+                                "title": "Goblin Slayer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/94VRygpNQ73Y5FyAyUkojwPpJ1P.jpg"
+                            },
+                            {
+                                "url": "/series/hametsu-no-oukoku/",
+                                "title": "Hametsu no Oukoku",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uHSFGSZFR1VH3nG5x48gImWePeL.jpg"
+                            },
+                            {
+                                "url": "/series/arknights-reimei-zensou/",
+                                "title": "Arknights: Reimei Zensou",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tIuJ4F98PL1esGkdRcxOhsmyrA.jpg"
+                            },
+                            {
+                                "url": "/series/keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi/",
+                                "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wNa0zWQFA8yg7d46SnWRoyUURkd.jpg"
+                            },
+                            {
+                                "url": "/series/kanojo-mo-kanojo/",
+                                "title": "Kanojo mo Kanojo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dyIJfz0YcM6WiFqev1jkIqY1ka9.jpg"
+                            },
+                            {
+                                "url": "/series/sousou-no-frieren/",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/episodio/assistir-sousou-no-frieren-episodio-9/",
+                                "title": "Assistir Sousou no Frieren – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9CaxBHDfy6FeHI7bFGMCCIvcuXl.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi-episodio-5/",
+                                "title": "Assistir Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi. – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xpP8b5fVOeSouDPZa0kqY7ph5ux.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-goblin-slayer-2-episodio-5/",
+                                "title": "Assistir Goblin Slayer 2 – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yQHkNQfyZLJe9SMAAQ9zElH3Mvd.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-tate-no-yuusha-no-nariagari-3-episodio-5/",
+                                "title": "Assistir Tate no Yuusha no Nariagari 3 – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6x4r829HeaF9X9y119AHrcp8WIe.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-invencivel-2-episodio-1/",
+                                "title": "Assistir Invencível 2 – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/u4DNejee7zd9UJBMj6eqHocyykP.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-seiken-gakuin-no-makentsukai-episodio-6/",
+                                "title": "Assistir Seiken Gakuin no Makentsukai – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/c7jjHZ7kvpm5yBaE9n1Ihu89doD.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-rurouni-kenshin-2023-episodio-18/",
+                                "title": "Assistir Rurouni Kenshin (2023) – Episódio 18",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dw07AFrS39hM5W9Vmq4nxtwXJBr.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-under-ninja-episodio-5/",
+                                "title": "Assistir Under Ninja – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/AtGcWvdu8YULgTPuHct10GqvnMz.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-jujutsu-kaisen-2-episodio-15/",
+                                "title": "Assistir Jujutsu Kaisen 2 – Episódio 15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dWjhu0LVj6OKoJLc0MM8cVbq9ZB.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-ojou-to-banken-kun-episodio-6/",
+                                "title": "Assistir Ojou to Banken-kun – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dZUdlHmbFAphFjITsm6zGfOAzgS.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-yuzuki-san-chi-no-yonkyoudai-episodio-5/",
+                                "title": "Assistir Yuzuki-san Chi no Yonkyoudai – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wdHuiah55dP2kwTSen56a6TLCDh.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-mahoutsukai-no-yome-2-episodio-17/",
+                                "title": "Assistir Mahoutsukai no Yome 2 – Episódio 17",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fjYsARisjooQfxahVrr1XBlpcbB.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-dr-stone-new-world-episodio-15/",
+                                "title": "Assistir Dr. Stone: New World – Episódio 15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pZylgjW0Ri4n5FpicRrPEDeLtxn.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta-episodio-6/",
+                                "title": "Assistir Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta – Episódio 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7uOfs815IQIjVkPOfw8VJXHJ3De.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-onimusha-episodio-8/",
+                                "title": "Assistir Onimusha – Episódio 8",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/f7iE54moxIeNBdhb686gcH1lO8s.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-onimusha-episodio-1/",
+                                "title": "Assistir Onimusha – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bP02iyPOy20ZM2pk4rDAXxRoAil.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-prison-school-episodio-12/",
+                                "title": "Assistir Prison School – Episódio 12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6iPioDaSObBY8xgVnmqFthgKH8D.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-prison-school-episodio-1/",
+                                "title": "Assistir Prison School – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ij2KISRjoG7rRO8pmqK9fo5V4Pi.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-kage-no-jitsuryokusha-ni-naritakute-2-episodio-5/",
+                                "title": "Assistir Kage no Jitsuryokusha ni Naritakute! 2 – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3hRRRJ1kNinqJ8DKTBLKXxa6qGl.jpg"
+                            },
+                            {
+                                "url": "/episodio/kinsou-no-vermeil-s1-episodio-12-legendado-hd/",
+                                "title": "Kinsou no Vermeil S1: Episódio 12 – Legendado HD",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1Z04aY0TxTXYrJDTinbVcqhBC8u.jpg"
+                            },
+                            {
+                                "url": "/episodio/kinsou-no-vermeil-episodio-1-legendado-hd/",
+                                "title": "Kinsou no Vermeil: Episódio 1 Legendado HD",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dhONOCIDfb7GO6vBT8UeBm57sN7.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-kamierabi-god-app-episodio-5/",
+                                "title": "Assistir KamiErabi GOD.app – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vN0CeQ9jg4dKf8TOM388iOGyYWi.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-16bit-sensation-another-layer-episodio-5/",
+                                "title": "Assistir 16bit Sensation: Another Layer – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eBpGvW1i7YzrqwssLTDZxADAcD9.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-uma-musume-pretty-derby-3-episodio-5/",
+                                "title": "Assistir Uma Musume: Pretty Derby 3 – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/r8RbGPqexaPZeXQmALfudkeiG7t.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-episodio-5/",
+                                "title": "Assistir Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3Mb7oYQbnvnN4RtTEVY81qYWGGC.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-bullbuster-episodio-5/",
+                                "title": "Assistir Bullbuster – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/x7iy97288f8ndl1fjX9uWdNtqDD.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-nande-koko-ni-sensei-ga-episodio-13/",
+                                "title": "Assistir Nande Koko ni Sensei ga!? – Episódio 13",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2PxGN839jaho4wHHiTslz9gPMqs.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-nande-koko-ni-sensei-ga-episodio-1/",
+                                "title": "Assistir Nande Koko ni Sensei ga!? – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3FkavfncGuaQ5G2bsld1qT6LdoB.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-helck-episodio-17/",
+                                "title": "Assistir Helck – Episódio 17",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9Dd8pqbfb9wOnliIDO5gt6W52si.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-tokyo-revengers-episodio-42/",
+                                "title": "Assistir Tokyo Revengers – Episódio 42",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wc5EhpZ5FvPZL17bPAkJUSbwiTo.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-houkago-shounen-hanako-kun-episodio-4/",
+                                "title": "Assistir Houkago Shounen Hanako-kun – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/UP8zmroStKYjSBrXX5nj82gw36.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-nanatsu-no-taizai-mokushiroku-no-yonkishi-episodio-4/",
+                                "title": "Assistir Nanatsu no Taizai: Mokushiroku no Yonkishi – Episódio 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/shsZqSkqo5CWN6ecZstG7dOgYGb.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-seijo-no-maryoku-wa-bannou-desu-2-episodio-5/",
+                                "title": "Assistir Seijo no Maryoku wa Bannou Desu 2 – Episódio 5",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cgIDnsFMbHwJlDMxuTXLsl7gZ9N.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-tensei-shitara-slime-datta-ken-coleus-no-yume-ova-3/",
+                                "title": "Assistir Tensei shitara Slime Datta Ken: Coleus no Yume – OVA 3",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dkG6PuzVH0MyVIyQdkQH9uytJ7J.jpg"
+                            },
+                            {
+                                "url": "/episodio/assistir-tensei-shitara-slime-datta-ken-coleus-no-yume-ova-2/",
+                                "title": "Assistir Tensei shitara Slime Datta Ken: Coleus no Yume – OVA 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8AthDFMSY4sg6vWJ6XkW5W0QPFu.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/good-night-world/",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/s2XAv44lepXrZNWJ4vnIJf3dW5l.jpg"
+                            },
+                            {
+                                "url": "/filme/one-piece-3d2y-dublado/",
+                                "title": "One Piece 3D2Y Dublado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/h0NA9WT75qGDd3kv0EPHyQujDl8.jpg"
+                            },
+                            {
+                                "url": "/filme/boku-no-hero-academia-the-movie-3-world-heroes-mission/",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes’ Mission",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/AsTlA7dj2ySGY1pzGSD0MoHFhEF.jpg"
+                            },
+                            {
+                                "url": "/series/accel-world/",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/eNodkllQPCOrWlPCRfPUc9Deyo2.jpg"
+                            },
+                            {
+                                "url": "/filme/isekai-quartet-movie-another-world/",
+                                "title": "Isekai Quartet Movie: Another World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/s4yCmDrUF2W25dxwfUFpka7GxTz.jpg"
+                            },
+                            {
+                                "url": "/series/musaigen-no-phantom-world/",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/fWWwe6Z38MBFAorzFPqlajd8GFN.jpg"
+                            },
+                            {
+                                "url": "/filme/hello-world/",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/fXmV6lRAPHs8GYx8VLJ0pPst67.jpg"
+                            },
+                            {
+                                "url": "/series/world-trigger/",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/lchqxvVvOeSfkpuvVAIxaDm8Mth.jpg"
+                            },
+                            {
+                                "url": "/filme/one-piece-3d2y/",
+                                "title": "One Piece 3D2Y",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/caUI7YlhVXykFWQ7Ul7RQ2wQRpv.jpg"
+                            },
+                            {
+                                "url": "/series/isekai-yakkyoku/",
+                                "title": "Isekai Yakkyoku",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/wTAFOapph8SekSZ0B54du97AsKn.jpg"
+                            },
+                            {
+                                "url": "/series/leadale-daichi-nite/",
+                                "title": "Leadale no Daichi nite",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/mjWi1eSSNevcqpu9FCPAUWznAFm.jpg"
+                            },
+                            {
+                                "url": "/series/seiken-tsukai-world-break/",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rSaDz2XHebffjYfhqIjpE8oEB3i.jpg"
+                            },
+                            {
+                                "url": "/series/world-destruction/",
+                                "title": "World Destruction",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kJPO8BfqFIWEvSjBbAmLLVnV6Ku.jpg"
+                            },
+                            {
+                                "url": "/series/zombieland-saga/",
+                                "title": "Zombieland Saga",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/feFVTKah6f9AGTkDmThxUIFCfOq.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/series/invencivel/",
+                    "title": "Invencível",
+                    "description": "Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.\n\nTítulo original: Invincible\nTemporadas: 2\nEpisódios: 9",
+                    "genre": "Ação, Aventura, Drama, Super Poderes",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/uZaLC2IxPgGI68m2W0eva8pPvaI.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodio/assistir-invencivel-2-episodio-1/",
+                        "name": "Temporada 2 x 1 - Episódio 1 (Estreia)",
+                        "date_upload": 1698969600000,
+                        "episode_number": 1.0
+                    },
+                    {
+                        "url": "/episodio/assistir-invencivel-episodio-9/",
+                        "name": "Temporada 1 x 9 - Eve Atômica",
+                        "date_upload": 1690156800000,
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://wht.nuplink.net/pool/pub/3f/b3/06/b25f3af448e0affdd0e1a8dbd13fb306/540828239?token=13cd91f7425989abecd0d4b69e317b37&ts=1699024860&ht=video/mp4",
+                        "quality": "GoAnimes - 720p",
+                        "videoUrl": "https://wht.nuplink.net/pool/pub/3f/b3/06/b25f3af448e0affdd0e1a8dbd13fb306/540828239?token=13cd91f7425989abecd0d4b69e317b37&ts=1699024860&ht=video/mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -287,31 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv12.dropload.io/hls2/01/00079/s4qgb8uekiu8_h/index-v1-a1.m3u8?t=4VGIQS6aD2zoeERiA6IJJRzBHbFVqxitDhHHxaG0-ng&s=1699013584&e=21600&f=395573&srv=srv11&i=13.83&sp=0&p1=srv11&p2=srv11",
-                        "quality": "Dropload:304p ",
-                        "videoUrl": "https://srv12.dropload.io/hls2/01/00079/s4qgb8uekiu8_h/index-v1-a1.m3u8?t=4VGIQS6aD2zoeERiA6IJJRzBHbFVqxitDhHHxaG0-ng&s=1699013584&e=21600&f=395573&srv=srv11&i=13.83&sp=0&p1=srv11&p2=srv11",
-                        "headers": {
-                            "origin": "https://dropload.io",
-                            "referer": "https://dropload.io/"
-                        }
-                    },
-                    {
-                        "url": "https://s-delivery36.mxdcontent.net/v/8951ba754cd008f49929a64d045bb8b8.mp4?s=10tLL53RMU6JRbUtFH7pIQ&e=1699035187&_t=1699023340",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery36.mxdcontent.net/v/8951ba754cd008f49929a64d045bb8b8.mp4?s=10tLL53RMU6JRbUtFH7pIQ&e=1699035187&_t=1699023340",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=1dy8V4XQaaFeZBa&expires=1699083588&ip=F0AsFxOnDS9X&token=KDU_h7H2gBL8",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1dy8V4XQaaFeZBa&expires=1699083588&ip=F0AsFxOnDS9X&token=KDU_h7H2gBL8"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             }
         }
     }

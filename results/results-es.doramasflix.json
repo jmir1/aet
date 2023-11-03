@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/only-for-love?id=65453696cb908e0cc14cd4f2",
+                                "title": "Only for Love (Solo por amor)",
+                                "description": "Zheng Shu Yi, una reportera que se destaca en su trabajo y está decidida a conseguir una historia de primera plana, se ha esforzado por conseguir una entrevista exclusiva con el alto ejecutivo financiero Shi Yan. Su historia de amor florece gracias a un error. Zheng Shu Yi ha escrito numerosos informes a través de su investigación en profundidad de varias industrias, mientras que Shi Yan busca constantemente empresas emergentes socialmente responsables en las que invertir, ya que espera devolver a la sociedad todo lo que pueda. Shi Yan descubre que las opiniones de Zheng Shu Yi transmitidas a través de sus informes coinciden con las suyas, por lo que acepta dejarla escribir una serie de informes sobre su empresa. Los dos eventualmente abren nuevas oportunidades en sus carreras y también encuentran el amor.",
+                                "genre": "Drama",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/t5P4tXxvPt2K8sVUBU0Flzg3IDV.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/love-is-panacea?id=6543d93bcb908e0cc14c8662",
                                 "title": "Love is Panacea (Amor es panacea)",
                                 "description": "Cuando Gu Yunzheng, profesor asociado de neurocirugía, emprende una misión de ayuda médica en Lakaya, conoce a Su Wei'an, una \"desertora\" que abandonó su carrera médica para convertirse en empresaria. Desde discutir todo el tiempo hasta enamorarse, poco a poco descubre que todo su comportamiento anormal es causado por una enfermedad genética llamada enfermedad de Huntington. El amor por su amada le hace empatizar con la tristeza y la desesperación de esta enfermedad incurable que enfrentan 30.000 pacientes y sus familias en todo el país. Finalmente, Gu Yunzheng decide abandonar su prometedora carrera y dedicar su vida a la investigación para curar esta rara enfermedad, luchando junto a su amante para sacar luz de la oscuridad.",
@@ -456,13 +463,6 @@
                                 "description": "Al final del primer año de secundaria, Futaba Yoshioka conoce a Kou Tanaka, quien fue su primer amor. En sus días de escuela secundaria, asistieron a la misma escuela, pero de repente él se transfirió a otra escuela. Tres años después, aparece nuevamente frente a ella con el apellido diferente de Kou Mabuchi. Su personalidad también parece haber cambiado de cálida a fría. Es como una persona totalmente diferente a la de hace tres años. Futaba Yoshioka se entera poco a poco de lo que le pasó a Kou Mabuchi durante los últimos tres años y vuelve a sentir algo por él.",
                                 "genre": "Drama, Romance, Comedia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/9P6xHTz0nDWIOLiSQTWdtr4GGf3.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/strong-girl-nam-soon?id=651b1e7c2ad5a4a0becc0380",
-                                "title": "Strong Girl Nam-soon (Nam-soon, una chica superfuerte)",
-                                "description": "Kang Nam Soon tiene una fuerza sobrehumana. Desapareció cuando era niña en Mongolia. Ahora, como adulta, viene a Gangnam, Seúl, Corea del Sur, para encontrar a sus padres. Finalmente conoce a su madre Hwang Geum Joo. Su madre es una mujer rica y residente de Gangnam. Después de perder a su hija, Hwang Geum Joo intentó encontrarla y también trató de vivir una vida recta, obsesionada con hacer buenas obras.. La abuela y la madre también nacieron con una fuerza sobrehumana como Kang Nam Soon.\n\nDe alguna manera, Kang Nam Soon, su madre Hwang Geum Joo y su abuela Gil Joong Gan se involucran en un caso de drogas que tiene lugar en Gangnam. El detective Kang Hee Sik comienza a trabajar con las 3 mujeres en el caso de las drogas. Kang Nam Soon también se siente atraído por el detective Kang Hee Sik.",
-                                "genre": "Drama, Romance, Comedia, Acción, Ciencia ficción",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/mS99X55DiwWqnExJMfs5m25a2ZQ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -596,17 +596,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/elegant-empire?id=64d3cb35bbc4b32fb2bb54fe",
-                    "title": "Elegant Empire (Imperio Elegante)",
-                    "artist": "Kim Jin-woo",
-                    "author": "KBS2",
-                    "description": "Un hombre y una mujer se vengan desesperadamente pero con elegancia después de ser pisoteados por un poder enorme.\n\nKi Joon es un presidente inteligente y guapo de WJ Entertainment. Es un rico romántico del siglo que parece perfecto por fuera, pero también es un hombre ambicioso con un oscuro secreto que no puede contar a los demás. Su esposa, Shin Ju Kyung, pudo salir de la pobreza al casarse con Ki Joon, al igual que la Cenicienta del cuento de hadas. Es una madre perfecta y una esposa encantadora con una gran carrera hasta que un incidente inesperado le roba todo. Jung Woo Hyeok, un actor novato en NA Entertainment que continúa su carrera como actor después de superar la miseria de su incompetente agencia, extraña a su mentora, Ju Kyung, quien desapareció repentinamente. Por el momento, Seo Hee Jae, que se parece a Ju Kyung, entra a NA Entertainment. Woo Hyuk se confunde cuando ve a Hee Jae y ella se acerca intencionalmente a Ki Joon.\n\n¿Quién destruyó su vida y cómo recuperará la vida perfecta que perdió?",
-                    "genre": "Drama, Romance, Acción, Thriller, Familia, Misterio, Crimen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/w4HHWY2sZrwPvvA9qy4dpYPSVPp.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

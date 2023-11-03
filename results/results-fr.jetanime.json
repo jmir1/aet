@@ -42,6 +42,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/keiken-zumi-na-kimi-to-our-dating-story-the-experienced-you-and-the-inexperienced-me",
+                                "title": "Keiken Zumi Na Kimi To – Our Dating Story: The Experienced You and The Inexperienced Me: Saison 1 Episode 5",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/xpP8b5fVOeSouDPZa0kqY7ph5ux-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/goblin-slayer",
+                                "title": "GOBLIN SLAYER: Saison 2 Episode 5",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/yQHkNQfyZLJe9SMAAQ9zElH3Mvd-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/tate-no-yuusha-no-nariagari-the-rising-of-the-shield-hero",
+                                "title": "Tate No Yuusha No Nariagari – The Rising of the Shield Hero: Saison 3 Episode 5",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/6x4r829HeaF9X9y119AHrcp8WIe-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/under-ninja",
+                                "title": "UNDER NINJA: Saison 1 Episode 5",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/r4j09OTuiwGVyhZ9S2YdHnIwo96-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/kenshin-le-vagabond",
+                                "title": "Kenshin le vagabond: Saison 1 Episode 18",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/o44C2II5YBBGAMib0T2YwP7byne-1-300x170.jpg"
+                            },
+                            {
                                 "url": "/serie/tensei-shitara-slime-datta-ken-coleus-no-yume-oav",
                                 "title": "Tensei Shitara Slime Datta Ken : Coleus No Yume OAV : Saison 1 Episode 3",
                                 "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/Tensura-OVA-300x170.jpg"
@@ -165,31 +190,6 @@
                                 "url": "/serie/seiken-gakuin-no-maken-tsukai-the-demon-sword-master-of-excalibur-academy",
                                 "title": "Seiken Gakuin No Maken Tsukai – The Demon Sword Master of Excalibur Academy: Saison 1 Episode 5",
                                 "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/10/dPRAXgXIAWykfDZN4tiOB3IQ38r-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/toaru-ossan-no-vrmmo-katsudouki-a-playthrough-of-a-certain-dudes-vrmmo-life",
-                                "title": "Toaru Ossan No VRMMO Katsudouki – A Playthrough of a Certain Dude’s VRMMO Life: Saison 1 Episode 5",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/10/ldo6zsqFSpBbnBjjVdIeOWK10nu-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/watashi-no-oshi-wa-akuyaku-reijou-im-in-love-with-the-villainess",
-                                "title": "Watashi No Oshi Wa Akuyaku Reijou – I’m in Love with the Villainess: Saison 1 Episode 4",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/10/5fHQgRzNfIpKvCOeIZGLlFsmu3x-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/shy",
-                                "title": "SHY: Saison 1 Episode 5",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/10/tCdQcexnhOhMonoVKYvzSkMpLIw-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/stardust-telepath",
-                                "title": "Hoshikuzu Telepath – Stardust Telepath: Saison 1 Episode 4",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/10/mvE3BrmX4hA7cRjN9g9vcZ6Rld0-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/ron-kamonohashis-forbidden-deductions",
-                                "title": "Kamonohashi Ron No Kindan Suiri – Ron Kamonohashi’s Forbidden Deductions: Saison 1 Episode 5",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/10/aNLHYsmjfie5EBuWi82ZURQwXeo-1-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -386,7 +386,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
