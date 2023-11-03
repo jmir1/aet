@@ -408,8 +408,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr1---sn-a5mlrnls.googlevideo.com/videoplayback?expire=1699042306&ei=guNEZaK3H5ORsfIPm5-dwA0&ip=13.86.227.240&id=06f8924f49e167a8&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=ue&mm=31&mn=sn-a5mlrnls&ms=au&mv=m&mvi=1&pl=17&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.319&lmt=1679837073503964&mt=1699013347&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=ANLwegAwRQIgBjSNKNcvO3sCKRhu4fYZnlnKb3e9QsDCovMqsGDqXOoCIQDyHrDTFsHMvgAN5XxbCvG3GqaNJ3vMlL6AmVH47fbJsA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhAMxOAtorsPCZ6LgmlCYhbitRVCyRvq--l6iD_ygQ9kSzAiBBy_mDbmnSlE4myiZBIoQN9K5ywmg6a2rycINJDfgI-Q%3D%3D",
+                        "quality": "Blogspot 480p",
+                        "videoUrl": "https://rr1---sn-a5mlrnls.googlevideo.com/videoplayback?expire=1699042306&ei=guNEZaK3H5ORsfIPm5-dwA0&ip=13.86.227.240&id=06f8924f49e167a8&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=ue&mm=31&mn=sn-a5mlrnls&ms=au&mv=m&mvi=1&pl=17&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1419.319&lmt=1679837073503964&mt=1699013347&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=ANLwegAwRQIgBjSNKNcvO3sCKRhu4fYZnlnKb3e9QsDCovMqsGDqXOoCIQDyHrDTFsHMvgAN5XxbCvG3GqaNJ3vMlL6AmVH47fbJsA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhAMxOAtorsPCZ6LgmlCYhbitRVCyRvq--l6iD_ygQ9kSzAiBBy_mDbmnSlE4myiZBIoQN9K5ywmg6a2rycINJDfgI-Q%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
