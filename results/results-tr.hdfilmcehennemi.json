@@ -270,31 +270,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vo-uo-6-oc-44.vmrange.lat/hls/xqx2jgtgmrokjiqbthxcj7anxwq3i3x3swdzupuzgwjmtu6s5lyqflkfy7oa/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 480p",
-                        "videoUrl": "https://vo-uo-6-oc-44.vmrange.lat/hls/xqx2jgtgmrokjiqbthxcj7anxwq3i3x3swdzupuzgwjmtu6s5lyqflkfy7oa/index-v1-a1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-5yli7cebjptv.html"
-                        }
-                    },
-                    {
-                        "url": "https://vo-uo-6-oc-44.vmrange.lat/hls/xqx2jgtgmrokjiqbthxcj7anxwq3i3x3swdzupuzg73mtu6s5lyrahszyqva/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 800p",
-                        "videoUrl": "https://vo-uo-6-oc-44.vmrange.lat/hls/xqx2jgtgmrokjiqbthxcj7anxwq3i3x3swdzupuzg73mtu6s5lyrahszyqva/index-v1-a1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-5yli7cebjptv.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: No videos available xD",
+                "passed": false
             }
         }
     }
