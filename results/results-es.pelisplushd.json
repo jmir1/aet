@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/los-pequenos-tom-jerry",
+                                "title": "Los pequeños Tom & Jerry (19901994)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pApniCXhegDnhxQda7RcpG8gFP0.jpg"
+                            },
+                            {
+                                "url": "/serie/las-aventuras-de-tom-y-jerry",
+                                "title": "Las aventuras de Tom y Jerry (20062008)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/gthxkV1MHAwqsVNLIU93MDm3ApL.jpg"
+                            },
+                            {
                                 "url": "/serie/samurai-de-ojos-azules",
                                 "title": "Samurái de ojos azules (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/terapia-de-sebastian-fitzek",
                                 "title": "Terapia (de Sebastian Fitzek) (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/elO2UHZCPC3ZKhvkT5JxoZgmy75.jpg"
-                            },
-                            {
-                                "url": "/serie/el-pajaro-loco-y-sus-amigos",
-                                "title": "El Pájaro Loco y sus amigos (1999)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ptD1ZFlzi3T0Mijus6YBePYYVKN.jpg"
-                            },
-                            {
-                                "url": "/serie/principiantes-totales",
-                                "title": "Principiantes totales (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/qQMXBtpP1MPeKBeyFzsISPckEnS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/samurai-de-ojos-azules",
-                    "title": "Samurái de ojos azules (2023)",
-                    "description": "La convirtieron en una paria en el Japón del periodo Edo. Ahora, una joven espadachina sedienta de venganza recorre un camino sangriento hacia su destino..",
-                    "genre": "Animación, Drama, Action & Adventure",
+                    "url": "/serie/los-pequenos-tom-jerry",
+                    "title": "Los pequeños Tom & Jerry (19901994)",
+                    "description": "La serie muestra a los personajes Tom Y Jerry en su versión infantil, viviendo el mismo tipo de aventuras que sus versiones adultas, en esta serie las perecuaciones se volvieron más elaboradas, pero un poco menos violentas..",
+                    "genre": "Animación",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/pApniCXhegDnhxQda7RcpG8gFP0.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,65 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/samurai-de-ojos-azules/temporada/1/capitulo/8",
-                        "name": "T1 - E8: Episodio 8",
-                        "episode_number": 8.0
+                        "url": "/serie/los-pequenos-tom-jerry/temporada/4/capitulo/13",
+                        "name": "T4 - E13: Episodio 13",
+                        "episode_number": 65.0
                     },
                     {
-                        "url": "/serie/samurai-de-ojos-azules/temporada/1/capitulo/7",
-                        "name": "T1 - E7: Episodio 7",
-                        "episode_number": 7.0
+                        "url": "/serie/los-pequenos-tom-jerry/temporada/4/capitulo/12",
+                        "name": "T4 - E12: Episodio 12",
+                        "episode_number": 64.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/b926ywq1j1ts",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-a79mrweueb6w1hym.voe-network.net/engine/hls2-c/01/09819/b926ywq1j1ts_,n,.urlset/master.m3u8?t=l7ksIiMxXes2MGmeMPbv_OzpY48G6fX-4VFxC9Mx1vQ&s=1699057787&e=14400&f=49099538&node=delivery-node-becdlpmh0urm9kbg.voe-network.net&i=20.171&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://vjtoovwcpmg3.lions-vidcdn.com/hls2/01/00819/l8wnxtagllvm_n/index-v1-a1.m3u8?t=Y1BT077EjIIk9P8EBjfeuETCXYIOVLezuO0kjyfB-rM&s=1699057785&e=129600&f=4099460&srv=lIUpfQ3JQm2U&i=0.4&sp=1500&p1=lIUpfQ3JQm2U&p2=lIUpfQ3JQm2U&asn=8075",
-                        "quality": "FileLions:720p",
-                        "videoUrl": "https://vjtoovwcpmg3.lions-vidcdn.com/hls2/01/00819/l8wnxtagllvm_n/index-v1-a1.m3u8?t=Y1BT077EjIIk9P8EBjfeuETCXYIOVLezuO0kjyfB-rM&s=1699057785&e=129600&f=4099460&srv=lIUpfQ3JQm2U&i=0.4&sp=1500&p1=lIUpfQ3JQm2U&p2=lIUpfQ3JQm2U&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://filelions.to",
-                            "Referer": "https://filelions.to/v/l8wnxtagllvm"
-                        }
-                    },
-                    {
-                        "url": "https://fx028jt34t.sw-cdnstream.com/hls2/01/02197/s1fq7tn69av8_,n,h,.urlset/index-f2-v1-a1.m3u8?t=GUhYGHa-_SIYeVEKG8yWQjDPBO0jNUpmwVy154U3rPc&s=1699057782&e=129600&f=10989967&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://fx028jt34t.sw-cdnstream.com/hls2/01/02197/s1fq7tn69av8_,n,h,.urlset/index-f2-v1-a1.m3u8?t=GUhYGHa-_SIYeVEKG8yWQjDPBO0jNUpmwVy154U3rPc&s=1699057782&e=129600&f=10989967&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/s1fq7tn69av8"
-                        }
-                    },
-                    {
-                        "url": "https://fx028jt34t.sw-cdnstream.com/hls2/01/02197/s1fq7tn69av8_,n,h,.urlset/index-f1-v1-a1.m3u8?t=GUhYGHa-_SIYeVEKG8yWQjDPBO0jNUpmwVy154U3rPc&s=1699057782&e=129600&f=10989967&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://fx028jt34t.sw-cdnstream.com/hls2/01/02197/s1fq7tn69av8_,n,h,.urlset/index-f1-v1-a1.m3u8?t=GUhYGHa-_SIYeVEKG8yWQjDPBO0jNUpmwVy154U3rPc&s=1699057782&e=129600&f=10989967&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/s1fq7tn69av8"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=3oWqKKmOXyidQB1&expires=1699127784&ip=FROsD0ESKxSHDN&token=b4hs3qrYT5Sm",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=3oWqKKmOXyidQB1&expires=1699127784&ip=FROsD0ESKxSHDN&token=b4hs3qrYT5Sm"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -631,12 +587,12 @@
                     {
                         "url": "https://voe.sx/e/y5ymsjvhvsqk",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-gtupx7xebmvs8fa1.voe-network.net/engine/hls2/01/09791/o3csy80xafjl_,n,.urlset/master.m3u8?t=o8dvY5COdzWMJ4lDz7tZFPvHs2TOehVzT-ZmbF-5VCs&s=1699057793&e=14400&f=49097836&node=delivery-node-gtupx7xebmvs8fa1.voe-network.net&i=20.171&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-gtupx7xebmvs8fa1.voe-network.net/engine/hls2/01/09791/o3csy80xafjl_,n,.urlset/master.m3u8?t=AIpyUjjcNPSZscDUtfvMLTQyhxpEdTat0wpQUB0iFi0&s=1699078583&e=14400&f=49097836&node=delivery-node-gtupx7xebmvs8fa1.voe-network.net&i=20.171&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://ees45cuz.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=URJohiWDCJboswngNKgHSotiWeGW7Uzqi8UdZ3Gkymk&s=1699057789&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "url": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=X9wa9dUqP09dqS4qvV8qdeuzbky1dzhnkIWjoYOMvQs&s=1699078579&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
                         "quality": "StreamWish:1040p",
-                        "videoUrl": "https://ees45cuz.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=URJohiWDCJboswngNKgHSotiWeGW7Uzqi8UdZ3Gkymk&s=1699057789&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "videoUrl": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=X9wa9dUqP09dqS4qvV8qdeuzbky1dzhnkIWjoYOMvQs&s=1699078579&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -645,9 +601,9 @@
                         }
                     },
                     {
-                        "url": "https://ees45cuz.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=URJohiWDCJboswngNKgHSotiWeGW7Uzqi8UdZ3Gkymk&s=1699057789&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "url": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=X9wa9dUqP09dqS4qvV8qdeuzbky1dzhnkIWjoYOMvQs&s=1699078579&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://ees45cuz.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=URJohiWDCJboswngNKgHSotiWeGW7Uzqi8UdZ3Gkymk&s=1699057789&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "videoUrl": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=X9wa9dUqP09dqS4qvV8qdeuzbky1dzhnkIWjoYOMvQs&s=1699078579&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -656,9 +612,9 @@
                         }
                     },
                     {
-                        "url": "https://ees45cuz.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=URJohiWDCJboswngNKgHSotiWeGW7Uzqi8UdZ3Gkymk&s=1699057789&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "url": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=X9wa9dUqP09dqS4qvV8qdeuzbky1dzhnkIWjoYOMvQs&s=1699078579&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://ees45cuz.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=URJohiWDCJboswngNKgHSotiWeGW7Uzqi8UdZ3Gkymk&s=1699057789&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "videoUrl": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02173/a4yrcom3fi1b_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=X9wa9dUqP09dqS4qvV8qdeuzbky1dzhnkIWjoYOMvQs&s=1699078579&e=129600&f=10987913&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -785,8 +741,164 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/pelicula/all-the-world-is-sleeping/",
+                                "title": "All the World Is Sleeping",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/all-the-world-is-sleeping.jpg"
+                            },
+                            {
+                                "url": "/pelicula/worlds-best/",
+                                "title": "World's Best",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/worlds-best.jpg"
+                            },
+                            {
+                                "url": "/pelicula/war-of-the-worlds-the-attack/",
+                                "title": "War of the Worlds: The Attack",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds-the-attack.jpg"
+                            },
+                            {
+                                "url": "/pelicula/war-of-the-worlds-annihilation/",
+                                "title": "War of the Worlds: Annihilation",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds-annihilation.jpg"
+                            },
+                            {
+                                "url": "/pelicula/small-world/",
+                                "title": "Small World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/small-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dinosaur-world/",
+                                "title": "Dinosaur World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dinosaur-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/were-all-going-to-the-worlds-fair/",
+                                "title": "We’re All Going to the World’s Fair",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/we-re-all-going-to-the-world-s-fair.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-wonderful-world-of-disney-magical-holiday-celebration/",
+                                "title": "The Wonderful World of Disney: Magical Holiday Celebration",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-wonderful-world-of-disney-magical-holiday-celebration.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ashita-sekai-ga-owaru-to-shitemo/",
+                                "title": "The Relative Worlds",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-relative-worlds.jpg"
+                            },
+                            {
+                                "url": "/pelicula/ancestral-world/",
+                                "title": "Ancestral World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ancestral-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/cagefighter/",
+                                "title": "Cagefighter: Worlds Collide",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/cagefighter-worlds-collide.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-blazing-world/",
+                                "title": "The Blazing World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-blazing-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/justin-bieber-our-world/",
+                                "title": "Justin Bieber: Our World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justin-bieber-our-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-war-of-the-worlds-2021/",
+                                "title": "War of the Worlds",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/war-of-the-worlds.jpg"
+                            },
+                            {
+                                "url": "/pelicula/edge-of-the-world/",
+                                "title": "Edge of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/edge-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/miraculous-world-shanghai-the-legend-of-ladydragon/",
+                                "title": "Miraculous World Shanghai, la leyenda de Ladydragon",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miraculous-world-shanghai-la-leyenda-de-ladydragon.jpg"
+                            },
+                            {
+                                "url": "/pelicula/justice-society-world-war-ii/",
+                                "title": "Justice Society: World War II",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/justice-society-world-war-ii.jpg"
+                            },
+                            {
+                                "url": "/pelicula/shoplifters-of-the-world/",
+                                "title": "Shoplifters of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shoplifters-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/die-adern-der-welt/",
+                                "title": "Veins of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/veins-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/fireball-visitors-from-darker-worlds/",
+                                "title": "Fireball: Visitors From Darker Worlds",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/fireball-visitors-from-darker-worlds.jpg"
+                            },
+                            {
+                                "url": "/pelicula/olumlu-dunya/",
+                                "title": "Mortal World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mortal-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/a-feral-world/",
+                                "title": "A Feral World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-feral-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/taylor-swift-the-1989-world-tour-live/",
+                                "title": "Taylor Swift: The 1989 World Tour Live",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/taylor-swift-the-1989-world-tour-live.jpg"
+                            },
+                            {
+                                "url": "/pelicula/brave-blue-world/",
+                                "title": "Brave Blue World: Racing to Solve Our Water Crisis",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/brave-blue-world-racing-to-solve-our-water-crisis.jpg"
+                            },
+                            {
+                                "url": "/pelicula/shakira-en-concierto-el-dorado-world-tour/",
+                                "title": "Shakira en Concierto: El Dorado World Tour",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shakira-en-concierto-el-dorado-world-tour.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mad-world/",
+                                "title": "Mad World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mad-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/trolls-2-world-tour/",
+                                "title": "Trolls 2: World Tour",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/trolls-2-world-tour.jpg"
+                            },
+                            {
+                                "url": "/pelicula/goodbye-world/",
+                                "title": "Goodbye World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/goodbye-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/attack-on-titan-part-2/",
+                                "title": "Attack on Titan 2: End of the World",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/attack-on-titan-2-end-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-thinning-new-world-order/",
+                                "title": "The Thinning: New World Order",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-thinning-new-world-order.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
@@ -814,9 +926,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=IHv48FFOraqC4xuqp3fopri8VvCGFivm9qSr_FrsyTM&s=1699057797&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "url": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=oX2bpu4ApjPoaAmvWAzYO2wQwsFtwrenntIpzX6G6jI&s=1699078585&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
                         "quality": "[SUB] StreamWish:1080p",
-                        "videoUrl": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=IHv48FFOraqC4xuqp3fopri8VvCGFivm9qSr_FrsyTM&s=1699057797&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "videoUrl": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=oX2bpu4ApjPoaAmvWAzYO2wQwsFtwrenntIpzX6G6jI&s=1699078585&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -825,9 +937,9 @@
                         }
                     },
                     {
-                        "url": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=IHv48FFOraqC4xuqp3fopri8VvCGFivm9qSr_FrsyTM&s=1699057797&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "url": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=oX2bpu4ApjPoaAmvWAzYO2wQwsFtwrenntIpzX6G6jI&s=1699078585&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=IHv48FFOraqC4xuqp3fopri8VvCGFivm9qSr_FrsyTM&s=1699057797&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "videoUrl": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=oX2bpu4ApjPoaAmvWAzYO2wQwsFtwrenntIpzX6G6jI&s=1699078585&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -836,9 +948,9 @@
                         }
                     },
                     {
-                        "url": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=IHv48FFOraqC4xuqp3fopri8VvCGFivm9qSr_FrsyTM&s=1699057797&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "url": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=oX2bpu4ApjPoaAmvWAzYO2wQwsFtwrenntIpzX6G6jI&s=1699078585&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=IHv48FFOraqC4xuqp3fopri8VvCGFivm9qSr_FrsyTM&s=1699057797&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "videoUrl": "https://jj4o1241.sw-cdnstream.com/hls2/01/02163/xghquducn5t6_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=oX2bpu4ApjPoaAmvWAzYO2wQwsFtwrenntIpzX6G6jI&s=1699078585&e=129600&f=10815503&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
