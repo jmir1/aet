@@ -62,14 +62,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/8JzIydonVEIf8jlF3t18iWDmgh7.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=299054&type=movie",
-                                "title": "The Expendables 4",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/p1TCV7St44sjwunaGSQ73vdFFkS.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=575264&type=movie",
                                 "title": "Mission: Impossible - Dead Reckoning Teil Eins",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nrQiVtkneYx9doR1ARG6HDrImpv.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=299054&type=movie",
+                                "title": "The Expendables 4",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/p1TCV7St44sjwunaGSQ73vdFFkS.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=678512&type=movie",
@@ -602,6 +602,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=138544&type=movie",
+                                "title": "Ghost Horror House",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/sZzJwqbrfKvGXTIhXGDwlJUEtM5.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=455476&type=movie",
                                 "title": "Saint Seiya: Die Krieger des Zodiac - Der Film",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7eEBKYTLplXuWVjwnAZVNnhSETi.jpg"
@@ -700,11 +705,6 @@
                                 "url": "/data/watch/?_id=758323&type=movie",
                                 "title": "The Pope's Exorcist",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/aXakRTy8kzaMwmQzmp14ERsDF5I.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=507086&type=movie",
-                                "title": "Jurassic World - Ein neues Zeitalter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lYfWPFEIXdtDuTh5jKfkxptN0eF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -987,8 +987,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/00199/iebst6v8k0fo_x/master.m3u8?t=YCRmUNhXc2HMbQMLJhmNaWQY_FOOZzOkL71LzmjagTo&s=1699186216&e=43200&f=997203&srv=21&asn=8075&sp=2500",
+                        "quality": "Filemoon - Video",
+                        "videoUrl": "https://be6721.rcr72.waw04.cdn112.com/hls2/01/00199/iebst6v8k0fo_x/master.m3u8?t=YCRmUNhXc2HMbQMLJhmNaWQY_FOOZzOkL71LzmjagTo&s=1699186216&e=43200&f=997203&srv=21&asn=8075&sp=2500",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/iebst6v8k0fo",
+                            "Origin": "https://filemoon.sx",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

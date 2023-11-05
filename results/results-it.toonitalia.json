@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/reborn-as-a-vending-machine-i-now-wander-the-dungeon/",
+                                "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg"
+                            },
+                            {
+                                "url": "/horimiya-the-missing-pieces/",
+                                "title": "Horimiya: The Missing Pieces",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/nnGb4NYOyRfCl5DKYPIK9A0Cgww.jpg"
+                            },
+                            {
+                                "url": "/transformers-cybertron/",
+                                "title": "Transformers: Cybertron",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/ul8l6uP1nUeFKQXiElI6pHzMeat.jpg"
+                            },
+                            {
+                                "url": "/beast-machines-transformers/",
+                                "title": "Beast Machines: Transformers",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/dJdLFsRJZ91I1BEK2xUjwXG4NLs.jpg"
+                            },
+                            {
                                 "url": "/gurugu/",
                                 "title": "Gurugu",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/Gurugu.jpg"
@@ -35,26 +55,6 @@
                                 "url": "/blue-eye-samurai/",
                                 "title": "BLUE EYE SAMURAI",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
-                            },
-                            {
-                                "url": "/burn-up-excess/",
-                                "title": "BURN-UP EXCESS",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/cfUVYOURN7o3MjVvYlMogdVyTtF.jpg"
-                            },
-                            {
-                                "url": "/school-rumble/",
-                                "title": "School Rumble",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/uuldZxy7SRvSvOfRBZObKTMfmtP.jpg"
-                            },
-                            {
-                                "url": "/shaggy-e-scooby-doo/",
-                                "title": "Shaggy e Scooby-Doo",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/5pGwh9BKmw6Ciy5EvXqm9aKPZWT.jpg"
-                            },
-                            {
-                                "url": "/onimusha/",
-                                "title": "Onimusha",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/ei2Ugx4VK0S70aRZz3dGXlF8pi1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -124,31 +124,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/gurugu/",
-                    "title": "Gurugu",
-                    "description": "Gurugù è una creatura primitiva che scopre un mondo in divenire, pieno di nuove sorprese ogni giorno… Gurugu streaming ita.\nScheda della serieTitolo: GuruguGenere: Animazione, ItalianaCast: Franco SorichettiAnno: 2001Nazione: ITVoto: 6.1Voti: 12",
-                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/Gurugu.jpg",
+                    "url": "/reborn-as-a-vending-machine-i-now-wander-the-dungeon/",
+                    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+                    "description": "Un uomo assetato si avvicina a un distributore automatico. In quell’istante un camion fuori controllo incidentalmente lo urta facendolo cadere. Il giovane interviene cercando di salvare il distributore dalla caduta morendo nel tentativo. Al suo risveglio si ritrova in un altro mondo con le sembianze di un distributore automatico… Reborn as a Vending Machine, I Now Wander the Dungeon streaming ita.\nScheda della serieTitolo: Reborn as a Vending Machine, I Now Wander the DungeonGenere: Sci-Fi & Fantasy, Action & Adventure, Commedia, AnimazioneCast: Kaede Hondo, Jun FukuyamaAnno: 2023Nazione: JPVoto: 6.5Voti: 15",
+                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/gurugu/#25",
-                        "name": "Stagione 01 - Episodi 26",
-                        "episode_number": 1.026
-                    },
-                    {
-                        "url": "/gurugu/#24",
-                        "name": "Stagione 01 - Episodi 25",
-                        "episode_number": 1.025
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

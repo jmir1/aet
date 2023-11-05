@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/past-lives-in-einem-anderen-leben/",
+                                "title": "Past Lives – In einem anderen Leben",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/xgxVmlJT2E0Gi6aqsS1tnAmimY2.jpg"
+                            },
+                            {
+                                "url": "/blackberry-klick-einer-generation/",
+                                "title": "BlackBerry – Klick einer Generation",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/a3V6OelcWMDI8sG6f2pqBUF58lz.jpg"
+                            },
+                            {
                                 "url": "/der-killer-2/",
                                 "title": "Der Killer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/tSV1iy369FUr5yJTDHnd4i2wClL.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/retribution/",
                                 "title": "Retribution",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/e0HpnKxi6vS0k5qVcwZtkoDBYri.jpg"
-                            },
-                            {
-                                "url": "/gran-turismo/",
-                                "title": "Gran Turismo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/n0NDzuLKZwayN0TzDkgySBcqaQ2.jpg"
-                            },
-                            {
-                                "url": "/meg-2-die-tiefe/",
-                                "title": "Meg 2: Die Tiefe",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/Am5TE1HPdIFAGBv4CDISxHooHoX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,14 +264,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/der-killer-2/",
-                    "title": "Der Killer",
-                    "author": "David Fincher",
-                    "description": "Ein einsamer Mann arbeitet als Auftragsmörder. Er geht methodisch vor, zeigt keine Gewissensbisse und ist kaltherzig. Doch das ändert sich, Zweifel kommen bei ihm auf. Je länger er auf sein nächstes Ziel wartet, desto mehr denkt er, dass er den Verstand und seine Ruhe verliert. Bald muss er sich vor seinen Kunden verantworten. Ein Ausstieg aus dieser Welt kommt jedoch nicht in Frage. Daraufhin wird der Jäger zum Gejagten.",
-                    "genre": "Krimi",
+                    "url": "/past-lives-in-einem-anderen-leben/",
+                    "title": "Past Lives – In einem anderen Leben",
+                    "author": "Celine Song",
+                    "description": "Vor 24 Jahren verließ Nora als zwölf Jahre altes Mädchen mit ihren Eltern Korea und damit auch ihren Jugendfreund Hae Sung. Zwölf Jahre später fanden sich die beiden über das Internet wieder. Doch zu mehr als täglichen Nachrichten und stundenlangen Video-Calls kam es nie. Sie wollte ihre neue Heimat in New York, wo sie gerade als Dramatikerin erste Schritte wagte, nicht verlassen. Ihn zog es durch sein Maschinenbaustudium für ein Auslandssemester …",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSV1iy369FUr5yJTDHnd4i2wClL.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgxVmlJT2E0Gi6aqsS1tnAmimY2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -279,7 +279,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "https://meinecloud.click/movie/tt1136617",
+                        "url": "https://meinecloud.click/movie/tt13238346",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -287,8 +287,23 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: mixdrop.co: Name or service not known",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv11.dropload.io/hls2/01/00080/s0j6leltf8hy_h/index-v1-a1.m3u8?t=QXMVbNIev2fbLao2xYLZ1C2JV4UhtdebB_86qXQGbMA&s=1699186209&e=21600&f=404678&i=20.171&sp=0",
+                        "quality": "Dropload:720p ",
+                        "videoUrl": "https://srv11.dropload.io/hls2/01/00080/s0j6leltf8hy_h/index-v1-a1.m3u8?t=QXMVbNIev2fbLao2xYLZ1C2JV4UhtdebB_86qXQGbMA&s=1699186209&e=21600&f=404678&i=20.171&sp=0",
+                        "headers": {
+                            "origin": "https://dropload.io",
+                            "referer": "https://dropload.io/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=PyPw7YOM80U043K&expires=1699256210&ip=FROsD0ESKxSHDN&token=zf3qUw0ywzDb",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=PyPw7YOM80U043K&expires=1699256210&ip=FROsD0ESKxSHDN&token=zf3qUw0ywzDb"
+                    }
+                ],
+                "passed": true
             }
         }
     }
