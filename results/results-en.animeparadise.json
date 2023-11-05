@@ -3,89 +3,8 @@
         "name": "AnimeParadise (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "{\"slug\":\"kimetsu-no-yaiba-yuukaku-hen\",\"id\":\"xKy7XheZlohKLg7D\"}",
-                                "title": "Kimetsu no Yaiba: Yuukaku-hen",
-                                "thumbnail_url": "https://media.kitsu.io/anime/44081/poster_image/4b749200e30cbdb20ab4ef2c6961688b.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"kimetsu-no-yaiba-mugen-ressha-hen\",\"id\":\"NmC47BFLcakR4vNU\"}",
-                                "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
-                                "thumbnail_url": "https://media.kitsu.io/anime/45249/poster_image/2ec6301aa7db25544d2f18edd73d23fe.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"kimetsu-no-yaiba-katanakaji-no-satohen\",\"id\":\"7kSNKpRTb6yvemdk\"}",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://media.kitsu.io/anime/45866/poster_image/a5022affc85af72ccd5790c874e31a89.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"jujutsu-kaisen\",\"id\":\"IKgbjdf8gZs0u4Fh\"}",
-                                "title": "Jujutsu Kaisen",
-                                "thumbnail_url": "https://media.kitsu.io/anime/42765/poster_image/5f099d83883544fc6200be91706d70e0.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"jujutsu-kaisen-2\",\"id\":\"E8rjQS8jYwW2K6pF\"}",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://media.kitsu.io/anime/45857/poster_image/6a6b5472cd1b1414796c70733fe332b3.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"spy-x-family\",\"id\":\"MFiYzMq0l7D6fXrN\"}",
-                                "title": "SPY×FAMILY",
-                                "thumbnail_url": "https://media.kitsu.io/anime/45398/poster_image/cc0bbc0dd2a123fb79b041078fce6f89.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"chainsaw-man\",\"id\":\"L9ZkZbe8ioz6OgGs\"}",
-                                "title": "Chainsaw Man",
-                                "thumbnail_url": "https://media.kitsu.io/anime/43806/poster_image/cefec27a530ff9faac1b2fc238acad13.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"spy-x-family-part-2\",\"id\":\"lsek0Wlt8n6vwcLv\"}",
-                                "title": "SPY x FAMILY Part 2",
-                                "thumbnail_url": "https://media.kitsu.io/anime/45619/poster_image/5cca71b653a3a63b294581aa7b82722f.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"boku-no-hero-academia\",\"id\":\"8CRFGI7GCB8g00d1\"}",
-                                "title": "Boku no Hero Academia",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/11469/original.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"boku-no-hero-academia-6th-season\",\"id\":\"lxU8t9HdJj0RpkC4\"}",
-                                "title": "Boku no Hero Academia 6",
-                                "thumbnail_url": "https://media.kitsu.io/anime/45240/poster_image/e34cc4ad3b176c5bdb2f754d82e09de4.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"one-piece\",\"id\":\"ASa7g4dGZREXdtzA\"}",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/12/original.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"boku-no-hero-academia-5th-season\",\"id\":\"T7wZTwshYPaqY8Ud\"}",
-                                "title": "Boku no Hero Academia 5th Season",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/43108/original.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"death-note\",\"id\":\"Wt3KyfXyy1qKPhNi\"}",
-                                "title": "Death Note",
-                                "thumbnail_url": "https://media.kitsu.io/anime/poster_images/1376/original.png"
-                            },
-                            {
-                                "url": "{\"slug\":\"oshi-no-ko\",\"id\":\"BQEo0ZQM09J3VsmW\"}",
-                                "title": "[Oshi no Ko]",
-                                "thumbnail_url": "https://media.kitsu.io/anime/46170/poster_image/69740efb4ce6d03bf1e8cee121ff77f8.jpg"
-                            },
-                            {
-                                "url": "{\"slug\":\"jujutsu-kaisen-movie-0\",\"id\":\"sA2bWUWV9swO1Vwv\"}",
-                                "title": "Jujutsu Kaisen 0 Movie",
-                                "thumbnail_url": "https://media.kitsu.io/anime/44212/poster_image/a77559a7906747abee627cc2db970d77.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -144,7 +63,7 @@
                             {
                                 "url": "{\"slug\":\"arknights-fuyukomori-kaerimichi\",\"id\":\"Vr5qzxpmXVe3N0fj\"}",
                                 "title": "Arknights: Fuyukomori Kaerimichi",
-                                "thumbnail_url": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/46880/poster_image/07e6f87bb02005b7f33fa21e173f8af7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20231105%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20231105T110454Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=df9be69871eaedd4c701f66cf03ecd6869492d47c039bf3a9cce995284befe57"
+                                "thumbnail_url": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/46880/poster_image/07e6f87bb02005b7f33fa21e173f8af7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20231105%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20231105T170441Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=32ed70b83a094a6540ad71956feb1e1e86e49d37d676da0b22188a918c025269"
                             },
                             {
                                 "url": "{\"slug\":\"hikikomari-kyuuketsuki-no-monmon\",\"id\":\"CbWy3nzOmLjQtO54\"}",
@@ -259,9 +178,9 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"slug\":\"kimetsu-no-yaiba-yuukaku-hen\",\"id\":\"xKy7XheZlohKLg7D\"}",
-                    "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n(Source: Funimation)\n\nNote:\n- The first episode aired with a runtime of ~47 minutes.\n- The last episode aired with a runtime of ~33 minutes.",
-                    "genre": "Action, Adventure, Fantasy, Supernatural",
+                    "url": "{\"slug\":\"houkago-shounen-hanako-kun\",\"id\":\"RBo3dsxhuWiXAAaB\"}",
+                    "description": "The ghostly Hanako-kun and his mortal assistant, Nene Yashiro, usually have their hands full resolving various supernatural incidents in Kamome Academy, but how do they spend their time when they get a break from all that?\n\n(Source: Yen Press)\nNote: The episodes were streamed two days ahead of the Japanese broadcast on Crunchyroll  beginning on Oct 11, 2023 at 3:00 JST. The regular TV broadcast started on Oct 13, 2023 at 1:58 JST.",
+                    "genre": "Comedy, Slice of Life, Supernatural",
                     "initialized": true
                 },
                 "passed": true
@@ -269,14 +188,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/33630a9f-a7cf-e1b9-10e8-9c6755acfe34?origin=xKy7XheZlohKLg7D",
-                        "name": "Ep. 11 - No Matter How Many Lives",
-                        "episode_number": 11.0
+                        "url": "/watch/2b6c61cc-b849-43e2-85f6-47d28deda1cc?origin=RBo3dsxhuWiXAAaB",
+                        "name": "Ep. 4 - Truth of the Mokke / Kamome Monster Nursery School",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/watch/9b94aa5d-e81a-d89f-cd00-f85a56f644b1?origin=xKy7XheZlohKLg7D",
-                        "name": "Ep. 10 - Never Give Up",
-                        "episode_number": 10.0
+                        "url": "/watch/fc7dc02f-8037-41d8-86c8-240f0238e201?origin=RBo3dsxhuWiXAAaB",
+                        "name": "Ep. 3 - Apparition Fever / A Mokke Came Home With Me!",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -284,9 +203,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://api.animeparadise.moe/stream/storage/Zzg0yZB8y4cqae7",
+                        "url": "https://api.animeparadise.moe/stream/storage/vY6LQADOB2i4xo6",
                         "quality": "1080p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/Zzg0yZB8y4cqae7",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/vY6LQADOB2i4xo6",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -295,27 +214,27 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "url": "https://api.animeparadise.moe/stream/file/11Ykd79nXFNI3ezvZCn5GPFtKIS1X3b0m",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "url": "https://api.animeparadise.moe/stream/file/1QqsPqWRXuvLlgL_ipplZ_QPH9bCXZsJZ",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "url": "https://api.animeparadise.moe/stream/file/1UXZJ9q4nwFKyVPbRFO5_jxNF294enTfC",
                                 "lang": "Portuguese"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "url": "https://api.animeparadise.moe/stream/file/1iyYUwr1CnOLDHhil5fUdTOG9bsGTdN9b",
                                 "lang": "Spanish"
                             }
                         ]
                     },
                     {
-                        "url": "https://api.animeparadise.moe/stream/storage/kL4exVO1PYtO2bQ",
+                        "url": "https://api.animeparadise.moe/stream/storage/G9108go3PXt11Zd",
                         "quality": "720p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/kL4exVO1PYtO2bQ",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/G9108go3PXt11Zd",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -324,27 +243,27 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "url": "https://api.animeparadise.moe/stream/file/11Ykd79nXFNI3ezvZCn5GPFtKIS1X3b0m",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "url": "https://api.animeparadise.moe/stream/file/1QqsPqWRXuvLlgL_ipplZ_QPH9bCXZsJZ",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "url": "https://api.animeparadise.moe/stream/file/1UXZJ9q4nwFKyVPbRFO5_jxNF294enTfC",
                                 "lang": "Portuguese"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "url": "https://api.animeparadise.moe/stream/file/1iyYUwr1CnOLDHhil5fUdTOG9bsGTdN9b",
                                 "lang": "Spanish"
                             }
                         ]
                     },
                     {
-                        "url": "https://api.animeparadise.moe/stream/storage/WG4v6e1v8Msb3QB",
+                        "url": "https://api.animeparadise.moe/stream/storage/7pDJrR3BD3IAqLQ",
                         "quality": "480p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/WG4v6e1v8Msb3QB",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/7pDJrR3BD3IAqLQ",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -353,27 +272,27 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "url": "https://api.animeparadise.moe/stream/file/11Ykd79nXFNI3ezvZCn5GPFtKIS1X3b0m",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "url": "https://api.animeparadise.moe/stream/file/1QqsPqWRXuvLlgL_ipplZ_QPH9bCXZsJZ",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "url": "https://api.animeparadise.moe/stream/file/1UXZJ9q4nwFKyVPbRFO5_jxNF294enTfC",
                                 "lang": "Portuguese"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "url": "https://api.animeparadise.moe/stream/file/1iyYUwr1CnOLDHhil5fUdTOG9bsGTdN9b",
                                 "lang": "Spanish"
                             }
                         ]
                     },
                     {
-                        "url": "https://api.animeparadise.moe/stream/storage/VGo0w6W9W1IKpee",
+                        "url": "https://api.animeparadise.moe/stream/storage/zpBJbpoJgKtY18P",
                         "quality": "360p",
-                        "videoUrl": "https://api.animeparadise.moe/stream/storage/VGo0w6W9W1IKpee",
+                        "videoUrl": "https://api.animeparadise.moe/stream/storage/zpBJbpoJgKtY18P",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -382,19 +301,19 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1JCtGG5OtLsS1ZTWBwCFNnbyAp4RKgdYA",
+                                "url": "https://api.animeparadise.moe/stream/file/11Ykd79nXFNI3ezvZCn5GPFtKIS1X3b0m",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1rTSIsOCJiMpss5AenXOuyGP95HUsArnN",
+                                "url": "https://api.animeparadise.moe/stream/file/1QqsPqWRXuvLlgL_ipplZ_QPH9bCXZsJZ",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1ibN_67JSihuVEU2BJYgvfNDjV5CRXmcU",
+                                "url": "https://api.animeparadise.moe/stream/file/1UXZJ9q4nwFKyVPbRFO5_jxNF294enTfC",
                                 "lang": "Portuguese"
                             },
                             {
-                                "url": "https://api.animeparadise.moe/stream/file/1hGqyrMYKL-BvSwD4vbt_R3k0PtFfpMIY",
+                                "url": "https://api.animeparadise.moe/stream/file/1iyYUwr1CnOLDHhil5fUdTOG9bsGTdN9b",
                                 "lang": "Spanish"
                             }
                         ]
