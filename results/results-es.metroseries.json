@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/erin-y-aaron/",
+                                "title": "Erin y Aaron",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/44QCq45NAugdXyVEFpxbVnLogSr.jpg"
+                            },
+                            {
                                 "url": "/cecilia-la-incomparable/",
                                 "title": "Cecilia, la incomparable",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/2MVf1EwApDtLGOU2OKkXj6Ck17b.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/iuxH52TvBkPTBvdjgOEJ6RKvOPR.jpg"
                             },
                             {
-                                "url": "/el-poltergeist-de-enfield/",
-                                "title": "El poltergeist de Enfield",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ctGC872WaKvkgIwvgu6MX6uxzga.jpg"
-                            },
-                            {
-                                "url": "/cenizas-del-pasado/",
-                                "title": "Cenizas del pasado",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/AurLEp91XVWnkgRsn5dR5vkPFYM.jpg"
+                                "url": "/sabrina-la-bruja-adolescente-capitulos-completos-latino-hd-online/",
+                                "title": "Sabrina, cosas de brujas",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/mdGMWqp6tqdUL3mzuQqj6LoCnSv-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/la-maldicion-de-hill-house/",
-                                "title": "La Maldición de Hill House",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/38PkhBGRQtmVx2drvPik3F42qHO.jpg"
+                                "url": "/neon/",
+                                "title": "Neon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jyRYoy12Lhf5tDHMbVvM32KHtRM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/cecilia-la-incomparable/",
-                    "title": "Cecilia, la incomparable",
-                    "description": "Un drama musical que profundizará en la extraordinaria vida de Cecilia Pantoja, desde su infancia en Tomé hasta su éxito arrollador en Viña del Mar, su gira por España y la historia frustrada de su primer gran amor; de la fama y la fortuna a perderlo todo y caer en la ruina; desde el inmenso amor del pueblo hasta soportar golpizas y prejuicios por su orientación sexual; y de disfrutar de total libertad en el escenario a aterrizar en la cárcel, sin poder volver a cantar nunca más.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/2MVf1EwApDtLGOU2OKkXj6Ck17b.jpg",
+                    "url": "/erin-y-aaron/",
+                    "title": "Erin y Aaron",
+                    "description": "Erin & Aaron Puede que sus nombres sean parecidos, pero ellos no podrían ser más distintos. Gracias a la música, los hermanastros Erin y Aaron aprenden a vivir en armonía.",
+                    "genre": "Comedia, Drama, Familia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/44QCq45NAugdXyVEFpxbVnLogSr.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/cecilia-la-incomparable-temporada-1-capitulo-2/",
-                        "name": "T01 - E02 - Episodio 2",
-                        "date_upload": 1696550400000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/cecilia-la-incomparable-temporada-1-capitulo-1/",
-                        "name": "T01 - E01 - Episodio 1",
-                        "date_upload": 1696464000000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

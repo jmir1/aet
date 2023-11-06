@@ -959,39 +959,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vixcloud.bz/v2/playlist/167626?type=video&rendition=720p&token=oDZU83r1R3mHWByuy-xJtQ&expires=1704434970&canCast=1&n=1",
-                        "quality": "720p",
-                        "videoUrl": "https://vixcloud.bz/v2/playlist/167626?type=video&rendition=720p&token=oDZU83r1R3mHWByuy-xJtQ&expires=1704434970&canCast=1&n=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.bz/v2/playlist/167626?type=subtitle&rendition=auto-forced&token=zNrWmqDmLV2CFNh7zGoxGA&expires=1704434970&canCast=1&n=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.bz/v2/playlist/167626?type=subtitle&rendition=ita&token=zNrWmqDmLV2CFNh7zGoxGA&expires=1704434970&canCast=1&n=1",
-                                "lang": "Italian"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://vixcloud.bz/v2/playlist/167626?type=video&rendition=480p&token=8QxTl3b8JXTnXAKppHbjMw&expires=1704434970&canCast=1&n=1",
-                        "quality": "480p",
-                        "videoUrl": "https://vixcloud.bz/v2/playlist/167626?type=video&rendition=480p&token=8QxTl3b8JXTnXAKppHbjMw&expires=1704434970&canCast=1&n=1",
-                        "subtitleTracks": [
-                            {
-                                "url": "https://vixcloud.bz/v2/playlist/167626?type=subtitle&rendition=auto-forced&token=zNrWmqDmLV2CFNh7zGoxGA&expires=1704434970&canCast=1&n=1",
-                                "lang": "Italian [Forced]"
-                            },
-                            {
-                                "url": "https://vixcloud.bz/v2/playlist/167626?type=subtitle&rendition=ita&token=zNrWmqDmLV2CFNh7zGoxGA&expires=1704434970&canCast=1&n=1",
-                                "lang": "Italian"
-                            }
-                        ]
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
