@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shingeki-no-kyojin-the-final-season-part-3/",
+                                "title": "Shingeki no Kyojin: The Final Season Part 3",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/03/Shingeki-no-Kyojin-The-Final-Season-Part-3-poster.jpg"
+                            },
+                            {
                                 "url": "/anime/dark-gathering/",
                                 "title": "Dark Gathering",
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/07/1688919391-9751-136736.jpg"
@@ -150,11 +155,6 @@
                                 "url": "/anime/spy-x-family-season-2-dub/",
                                 "title": "Spy x Family Season 2 DUB",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/Spy-x-Family-Season-2-DUB-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/shingeki-no-kyojin-the-final-season-part-3/",
-                                "title": "Shingeki no Kyojin: The Final Season Part 3",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/03/Shingeki-no-Kyojin-The-Final-Season-Part-3-poster.jpg"
                             },
                             {
                                 "url": "/anime/shangri-la-frontier/",
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2mj73zmsxduv4ozg636da/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2mj73zmsxduv4ozg636da/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3zmsxduvryacbdkoq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3zmsxduvryacbdkoq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
