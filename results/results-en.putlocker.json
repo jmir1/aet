@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/fear-the-walking-dead-39491/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/4b9badc8daba8cc72ea5f456b28a40f1.jpg"
+                            },
+                            {
                                 "url": "/film/only-for-love-102394/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/c39f025838b349c548d6d222b138f636.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/ape-vs-mecha-ape-102361/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/7bb347c60203a6f816d53e8166930716.jpg"
-                            },
-                            {
-                                "url": "/film/little-bird-the-big-quest-102364/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/f453d08961f8b891fa41177717370b6b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/only-for-love-102394/",
-                    "title": "Only for Love",
+                    "url": "/film/fear-the-walking-dead-39491/",
+                    "title": "Fear the Walking Dead",
                     "author": "",
-                    "description": "Zheng Shu Yi, a reporter who excels at her job and is determined to land a front-page story, has tried very hard to earn an exclusive interview with top financial executive Shi Yan. Their love story then blossoms due to a mistake. Zheng Shu Yi has written numerous reports through her in-depth research of various industries while Shi Yan is constantly looking for socially responsible start-ups to invest in as he hopes to give back to society as much as he can. Shi Yan finds that Zheng Shu Yi's opinions conveyed through her reports coincide with his own, so he agrees to let her write a series of reports on their company. The two eventually open up new opportunities in their career and also find love.\n\nQuality: HD\nRelease: 2023-11-03\nIMDb: n/a",
-                    "genre": "Drama",
+                    "description": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.\n\nQuality: HD\nRelease: 2015-08-23\nIMDb: 6.8",
+                    "genre": "Drama, Horror, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":8,\"ids\":[\"39491_8_1\",\"39491_8_2\",\"39491_8_3\"]}",
+                        "name": "Episode 8: ",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "{\"ep_num\":7,\"ids\":[\"39491_7_1\",\"39491_7_2\",\"39491_7_3\"]}",
+                        "name": "Episode 7: ",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
