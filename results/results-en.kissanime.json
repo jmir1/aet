@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/ron-kamonohashi-s-forbidden-deductions.29145/",
+                                "title": "Ron Kamonohashi's Forbidden Deductions",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Ron-Kamonohashi-s-Forbidden-Deductions.jpg"
+                            },
+                            {
+                                "url": "/Anime/Migi-amp-Dali/",
+                                "title": "Migi&Dali",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Migi-amp-Dali.jpg"
+                            },
+                            {
+                                "url": "/Anime/Stardust-Telepath/",
+                                "title": "Stardust Telepath",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Stardust-Telepath.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
                                 "title": "The Family Circumstances of the Irregular Witch",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Family-Circumstances-of-the-Irregular-Witch.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/jujutsu-kaisen-2nd-season.65332/",
                                 "title": "JUJUTSU KAISEN Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/05/Jujutsu-Kaisen-2nd-Season.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Ancient-Magus-Bride-Season-2-Part-2/",
-                                "title": "The Ancient Magus' Bride Season 2 Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Ancient-Magus-Bride-Season-2-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dr-STONE-New-World-Part-2/",
-                                "title": "Dr. STONE New World Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dr-STONE-New-World-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer/",
-                                "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
