@@ -347,56 +347,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=iQXCj8ZFKqfPYpniXGr4gkkqfs28e1fmzhjOyNSaXTk&s=1699337332&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=iQXCj8ZFKqfPYpniXGr4gkkqfs28e1fmzhjOyNSaXTk&s=1699337332&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/7p1n9t06fa5y?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=eaMAvgplGRsjqR&expires=1699407333&ip=GHEsDRqAKxSHDN&token=GG335FkSubdY",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=eaMAvgplGRsjqR&expires=1699407333&ip=GHEsDRqAKxSHDN&token=GG335FkSubdY"
-                    },
-                    {
-                        "url": "https://dood.yt/e/mpmavok64m48?c1_file=https://sub.draplay2.pro&c1_label=English",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://de520lo.video-delivery.net/u5kj7ktmq7e3sdgge4lqaoygiuqkfbpytt67ed2obsrf3n55pzhgdowfgzpq/9qdvsiq0sy~FQ01nHph3U?token=zhuu7128rlmpsafucc2pkdze&expiry=1699337333479",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.yt/"
-                        }
-                    },
-                    {
-                        "url": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=iQXCj8ZFKqfPYpniXGr4gkkqfs28e1fmzhjOyNSaXTk&s=1699337332&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "StreamWish - 720p",
-                        "videoUrl": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=iQXCj8ZFKqfPYpniXGr4gkkqfs28e1fmzhjOyNSaXTk&s=1699337332&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/7p1n9t06fa5y?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=iQXCj8ZFKqfPYpniXGr4gkkqfs28e1fmzhjOyNSaXTk&s=1699337332&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "StreamWish - 480p",
-                        "videoUrl": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=iQXCj8ZFKqfPYpniXGr4gkkqfs28e1fmzhjOyNSaXTk&s=1699337332&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/7p1n9t06fa5y?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
