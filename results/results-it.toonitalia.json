@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/sonic-x/",
+                                "title": "Sonic X",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/mudrU2unvo34g65WvCrFRz2GSpc.jpg"
+                            },
+                            {
+                                "url": "/sonic-boom/",
+                                "title": "Sonic Boom",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/7Dyz0Lw5vbffyq90kLjL5scPs9C.jpg"
+                            },
+                            {
                                 "url": "/reborn-as-a-vending-machine-i-now-wander-the-dungeon/",
                                 "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg"
@@ -45,16 +55,6 @@
                                 "url": "/the-scooby-doo-show/",
                                 "title": "The Scooby-Doo Show",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/79JX7jbjDj7DO0husbiNLdndz0T.jpg"
-                            },
-                            {
-                                "url": "/duck-dodgers/",
-                                "title": "Duck Dodgers",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg"
-                            },
-                            {
-                                "url": "/blue-eye-samurai/",
-                                "title": "BLUE EYE SAMURAI",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -124,20 +124,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/reborn-as-a-vending-machine-i-now-wander-the-dungeon/",
-                    "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
-                    "description": "Un uomo assetato si avvicina a un distributore automatico. In quell’istante un camion fuori controllo incidentalmente lo urta facendolo cadere. Il giovane interviene cercando di salvare il distributore dalla caduta morendo nel tentativo. Al suo risveglio si ritrova in un altro mondo con le sembianze di un distributore automatico… Reborn as a Vending Machine, I Now Wander the Dungeon streaming ita.\nScheda della serieTitolo: Reborn as a Vending Machine, I Now Wander the DungeonGenere: Sci-Fi & Fantasy, Action & Adventure, Commedia, AnimazioneCast: Kaede Hondo, Jun FukuyamaAnno: 2023Nazione: JPVoto: 6.5Voti: 15",
-                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg",
+                    "url": "/sonic-x/",
+                    "title": "Sonic X",
+                    "description": "Una missione andata nel verso sbagliato trasporta Sonic, i suoi amici, il dottor Eggman e gli Smeraldi del Caos in un’altra dimensione: la Terra. Sonic X streaming ita.\nScheda della serieTitolo: Sonic XGenere: Famiglia, Commedia, Action & Adventure, AnimazioneCast: Tanuki Sugino, Yukari Hikida, Soichiro Tanaka, Kujira, Ken Narita, Jouji Nakata, Chikao Ohtsuka, Bin Shimada, Ryo Hirohashi, Rumi Ochiai, Koji Yusa, Etsuko Kozakura, Sayaka Aoki, Nobutoshi Canna, Taeko Kawata, Sanae Kobayashi, Jun ichi KanemaruAnno: 2003Nazione: JPVoto: 7.547Voti: 256",
+                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/11/mudrU2unvo34g65WvCrFRz2GSpc.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sonic-x/#77",
+                        "name": "Stagione 03 - Episodi 78",
+                        "episode_number": 3.078
+                    },
+                    {
+                        "url": "/sonic-x/#76",
+                        "name": "Stagione 03 - Episodi 77",
+                        "episode_number": 3.077
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
