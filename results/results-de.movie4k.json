@@ -117,16 +117,108 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
+                    "title": "Five Nights at Freddys",
+                    "description": "Eigentlich hat der Sicherheitsbeamte Mike Schmidt (Josh Hutcherson) ja schon genügend Probleme am Hals. Deshalb ist er zunächst froh, eine neue Stelle als Nachwächter bei „Freddy Fazbear's Pizza“ antreten zu können. Schließlich ist das Familienrestaurant schon seit Jahren geschlossen – und so verspricht der Job ganz besonders unspektakulär zu werden. Wobei sich Mike nie die Frage gestellt hat, warum eine längst verrammelte Pizzeria überhaupt einen Nachtwächter braucht? Die Antwort gibt es gleich in der ersten Nacht: Irgendwann erwachen die animatronischen Tier-Maskottchen Freddy Fazbear, Bonnie, Chica und Foxy zum Leben – und töten jeden, der sich nach Mitternacht noch in das Gebäude wagt! Offenbar waren sie auch der Grund, warum „Freddy Fazbear's Pizza“ überhaupt schließen musste – aber das hat Mike natürlich niemand verraten…\n\nKinoadaption des beliebten Indie-Horrorspiels \"Five Nights at Freddy's\", in dem es darum geht, Nachtschichten in einer Pizzeria zu überleben.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=bRwQ26APogTPywG&expires=1699387007&ip=FROsE0EnDS9X&token=TLuw-gWFpOmO",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=bRwQ26APogTPywG&expires=1699387007&ip=FROsE0EnDS9X&token=TLuw-gWFpOmO"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=wDvRxaAzwbTJ908&expires=1699387007&ip=FROsE0EnDS9X&token=vLht0sBwGj9m",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wDvRxaAzwbTJ908&expires=1699387007&ip=FROsE0EnDS9X&token=vLht0sBwGj9m"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Mr3wKwQp0Kum3AD&expires=1699387007&ip=FROsE0EnDS9X&token=7q0Ye11gWQXR",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Mr3wKwQp0Kum3AD&expires=1699387007&ip=FROsE0EnDS9X&token=7q0Ye11gWQXR"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=JpL6x3ZXReFjz90&expires=1699387006&ip=FROsE0EnDS9X&token=AKZLVT8NgrT_",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=JpL6x3ZXReFjz90&expires=1699387006&ip=FROsE0EnDS9X&token=AKZLVT8NgrT_"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=vWgjmG96kMc4GKg&expires=1699387006&ip=FROsE0EnDS9X&token=7nme-jUzUMV6",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=vWgjmG96kMc4GKg&expires=1699387006&ip=FROsE0EnDS9X&token=7nme-jUzUMV6"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=3xVlWLgo0WC6al&expires=1699387006&ip=FROsE0EnDS9X&token=y6y_BHwDvPa9",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=3xVlWLgo0WC6al&expires=1699387006&ip=FROsE0EnDS9X&token=y6y_BHwDvPa9"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=j4jJ0yw8Kwtz1L6&expires=1699387006&ip=FROsE0EnDS9X&token=A9ypN6iJaG93",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=j4jJ0yw8Kwtz1L6&expires=1699387006&ip=FROsE0EnDS9X&token=A9ypN6iJaG93"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=bk4JerABdJHPXQq&expires=1699387005&ip=FROsE0EnDS9X&token=K-Ky8tRHABq1",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=bk4JerABdJHPXQq&expires=1699387005&ip=FROsE0EnDS9X&token=K-Ky8tRHABq1"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Zze2QoZOLXhqq0j&expires=1699387005&ip=FROsE0EnDS9X&token=BTyOSyGeCZVi",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Zze2QoZOLXhqq0j&expires=1699387005&ip=FROsE0EnDS9X&token=BTyOSyGeCZVi"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=JoqlJxr9kMSjKBP&expires=1699387005&ip=FROsE0EnDS9X&token=BJQytpYtNNHl",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=JoqlJxr9kMSjKBP&expires=1699387005&ip=FROsE0EnDS9X&token=BJQytpYtNNHl"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6meLbbrooZFL76&expires=1699387005&ip=FROsE0EnDS9X&token=WlnTpl_mCux9",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6meLbbrooZFL76&expires=1699387005&ip=FROsE0EnDS9X&token=WlnTpl_mCux9"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=YBv3A8j9Y7CvJx4&expires=1699387005&ip=FROsE0EnDS9X&token=zHnGbBvEcXoY",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=YBv3A8j9Y7CvJx4&expires=1699387005&ip=FROsE0EnDS9X&token=zHnGbBvEcXoY"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=JpL6x3ZXReFjz90&expires=1699387004&ip=FROsE0EnDS9X&token=I4IrhhrOUL8w",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=JpL6x3ZXReFjz90&expires=1699387004&ip=FROsE0EnDS9X&token=I4IrhhrOUL8w"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=k0A3Y0JgXKCOJy9&expires=1699387003&ip=FROsE0EnDS9X&token=PxiicmtCfd6z",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=k0A3Y0JgXKCOJy9&expires=1699387003&ip=FROsE0EnDS9X&token=PxiicmtCfd6z"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ayej3VbKQ9CxK4P&expires=1699387003&ip=FROsE0EnDS9X&token=j52oDZUutC8z",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=ayej3VbKQ9CxK4P&expires=1699387003&ip=FROsE0EnDS9X&token=j52oDZUutC8z"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=3BKmewplKdSdk32&expires=1699387003&ip=FROsE0EnDS9X&token=1EGk5BpGpIux",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=3BKmewplKdSdk32&expires=1699387003&ip=FROsE0EnDS9X&token=1EGk5BpGpIux"
+                    }
+                ],
+                "passed": true
             }
         }
     }
