@@ -7,8 +7,8 @@
                     {
                         "animes": [
                             {
-                                "url": "/قمر-نهاري/",
-                                "title": "قمر نهاري Moon in the Day"
+                                "url": "/سندريلا-مجددا/",
+                                "title": "سندريلا مجددا Cinderella Again"
                             },
                             {
                                 "url": "/مغنية-على-جزيرة-مهجورة/",
@@ -75,16 +75,16 @@
                                 "title": "حياة هيوشيم المستقلة Hyo Shim’s Independent Life"
                             },
                             {
-                                "url": "/هروب-السبعة-حرب-النجاة/",
-                                "title": "هروب السبعة: حرب النجاة The Escape of the Seven: War for Survival"
-                            },
-                            {
                                 "url": "/أغنية-السيف/",
                                 "title": "أغنية السيف Song of the Bandits"
                             },
                             {
                                 "url": "/متجر-الأيدول/",
                                 "title": "متجر الأيدول Boss-dol Mart"
+                            },
+                            {
+                                "url": "/هروب-السبعة-حرب-النجاة/",
+                                "title": "هروب السبعة: حرب النجاة The Escape of the Seven: War for Survival"
                             },
                             {
                                 "url": "/يوميات-أرثدال-سيف-أرامون-arthdal-chronicles-the-sword-of-aramun/",
@@ -255,50 +255,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/قمر-نهاري/",
-                    "description": "",
-                    "genre": "",
-                    "thumbnail_url": "",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/قمر-نهاري-الحلقة-02/",
-                        "name": "02 : الحلقة"
-                    },
-                    {
-                        "url": "/قمر-نهاري-الحلقة-01/",
-                        "name": "01 : الحلقة"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://psd1.youdbox.site/d/jcwur5dtxm3qv3jsx2piqlo2hwdg4uuzcxemyrtme4dfsqmoueyvzsrebr5xb2cij33swweq/video.mp4",
-                        "quality": "Yodbox: mirror",
-                        "videoUrl": "https://psd1.youdbox.site/d/jcwur5dtxm3qv3jsx2piqlo2hwdg4uuzcxemyrtme4dfsqmoueyvzsrebr5xb2cij33swweq/video.mp4"
-                    },
-                    {
-                        "url": "https://nt47no-12.viid3bo.space/6jmnvsbv3iazsalriusaf4hyl5oidikxpujqbru4drq3jitapz4hnvahg3ea/v.mp4",
-                        "quality": "Vidbom: 480p",
-                        "videoUrl": "https://nt47no-12.viid3bo.space/6jmnvsbv3iazsalriusaf4hyl5oidikxpujqbru4drq3jitapz4hnvahg3ea/v.mp4"
-                    },
-                    {
-                        "url": "https://m110.uqload.io/3rfkvq3trzw2q4drdknpxipulergcbz6bea53lcntqkr37vm2gr6x7ioikca/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m110.uqload.io/3rfkvq3trzw2q4drdknpxipulergcbz6bea53lcntqkr37vm2gr6x7ioikca/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
