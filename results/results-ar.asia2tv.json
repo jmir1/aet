@@ -11,46 +11,6 @@
                                 "title": "سندريلا مجددا Cinderella Again"
                             },
                             {
-                                "url": "/مغنية-على-جزيرة-مهجورة/",
-                                "title": "مغنية على جزيرة مهجورة Castaway Diva"
-                            },
-                            {
-                                "url": "/وسطاء-الزواج/",
-                                "title": "وسطاء الزواج The Matchmakers"
-                            },
-                            {
-                                "url": "/زواج-الانتقام-المثالي/",
-                                "title": "زواج الانتقام المثالي Perfect Marriage Revenge"
-                            },
-                            {
-                                "url": "/لعبة-التريليون/",
-                                "title": "لعبة التريليون Trillion Game"
-                            },
-                            {
-                                "url": "/أهي-الذئب/",
-                                "title": "أهي الذئب Is She the Wolf"
-                            },
-                            {
-                                "url": "/يعيش-الشر/",
-                                "title": "يعيش الشر Evilive"
-                            },
-                            {
-                                "url": "/يوم-جيد-لتصبحي-كلبة/",
-                                "title": "يوم جيد لتصبحي كلبة A Good Day to Be a Dog"
-                            },
-                            {
-                                "url": "/الفتاة-القوية-نامسون/",
-                                "title": "الفتاة القوية نامسون Strong Girl Namsoon"
-                            },
-                            {
-                                "url": "/دونا/",
-                                "title": "دونا Doona!"
-                            },
-                            {
-                                "url": "/الربيع-الأزرق/",
-                                "title": "الربيع الأزرق Ao Haru Ride"
-                            },
-                            {
                                 "url": "/أسوأ-شر/",
                                 "title": "أسوأ شر The Worst Evil"
                             },
@@ -75,16 +35,16 @@
                                 "title": "حياة هيوشيم المستقلة Hyo Shim’s Independent Life"
                             },
                             {
+                                "url": "/هروب-السبعة-حرب-النجاة/",
+                                "title": "هروب السبعة: حرب النجاة The Escape of the Seven: War for Survival"
+                            },
+                            {
                                 "url": "/أغنية-السيف/",
                                 "title": "أغنية السيف Song of the Bandits"
                             },
                             {
                                 "url": "/متجر-الأيدول/",
                                 "title": "متجر الأيدول Boss-dol Mart"
-                            },
-                            {
-                                "url": "/هروب-السبعة-حرب-النجاة/",
-                                "title": "هروب السبعة: حرب النجاة The Escape of the Seven: War for Survival"
                             },
                             {
                                 "url": "/يوميات-أرثدال-سيف-أرامون-arthdal-chronicles-the-sword-of-aramun/",
@@ -173,6 +133,46 @@
                             {
                                 "url": "/التصويت-القاتل/",
                                 "title": "التصويت القاتل The Killing Vote"
+                            },
+                            {
+                                "url": "/متحرك/",
+                                "title": "متحرك Moving"
+                            },
+                            {
+                                "url": "/أعز-ما-عندي/",
+                                "title": "أعز ما عندي My Dearest"
+                            },
+                            {
+                                "url": "/الاستجابة-01-2/",
+                                "title": "الاستجابة 01 2 The First Responders"
+                            },
+                            {
+                                "url": "/الطالبة-الأفضل/",
+                                "title": "الطالبة الأفضل Saiko no Seito"
+                            },
+                            {
+                                "url": "/الحب-الخفي/",
+                                "title": "الحب الخفي Hidden Love"
+                            },
+                            {
+                                "url": "/أعظم-معلمة/",
+                                "title": "أعظم معلمة Saiko no kyoushi"
+                            },
+                            {
+                                "url": "/البائع-الخارق-2/",
+                                "title": "البائع الخارق 2 The Uncanny Counter"
+                            },
+                            {
+                                "url": "/الحب-الأول-2/",
+                                "title": "الحب الأول Hatsukoi Zarari"
+                            },
+                            {
+                                "url": "/سيندريلا-الصيف/",
+                                "title": "سيندريلا الصيف Manatsu no Cinderella"
+                            },
+                            {
+                                "url": "/ليست-غيرها/",
+                                "title": "ليست غيرها Not Others"
                             }
                         ],
                         "hasNextPage": true
@@ -255,11 +255,18 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/سندريلا-مجددا/",
+                    "title": "سندريلا مجددا Cinderella Again",
+                    "description": "Kumada-Rinka : في دور Hagino Shion Honda-Kyoya : في دور Hasegawa Souma Mizutani-Kaho : في دور Akiyama Mitsuki Yanai-Yumena : في دور Ito Kaoru Wakabayashi-Jiei : في دور Sahara Masahiro Shimamura-Ryunosuke : في دور Umino Yuji",
+                    "genre": "اليابان, خيالي, رومانسي, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/11/FeRl9hLaAAAs-3P-17.jpeg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
