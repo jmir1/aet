@@ -7,8 +7,134 @@
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/online/found",
+                                "title": "Found",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
+                            },
+                            {
+                                "url": "/serie/online/magnum-p-i-",
+                                "title": "Magnum P.I.",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5628.webp"
+                            },
+                            {
+                                "url": "/serie/online/onimusha",
+                                "title": "Onimusha",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22517.webp"
+                            },
+                            {
+                                "url": "/serie/online/rick-and-morty",
+                                "title": "Rick e Morty",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
+                            },
+                            {
+                                "url": "/serie/online/uma-maldicao-de-familia",
+                                "title": "Uma Maldição de Família",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22523.webp"
+                            },
+                            {
+                                "url": "/serie/online/spy-x-family",
+                                "title": "Spy x Family",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19689.webp"
+                            },
+                            {
+                                "url": "/serie/online/fear-the-walking-dead",
+                                "title": "Fear the Walking Dead",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3736.webp"
+                            },
+                            {
+                                "url": "/serie/online/shingeki-no-kyojin",
+                                "title": "Attack on Titan",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5952.webp"
+                            },
+                            {
+                                "url": "/serie/online/star-trek-lower-decks",
+                                "title": "Star Trek: Lower Decks",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19445.webp"
+                            },
+                            {
+                                "url": "/serie/online/uma-questao-de-quimica",
+                                "title": "Uma Questão de Química",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22494.webp"
+                            },
+                            {
+                                "url": "/serie/online/american-horror-stories",
+                                "title": "American Horror Stories",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19411.webp"
+                            },
+                            {
+                                "url": "/serie/online/doce-misterio",
+                                "title": "Doce Mistério",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22516.webp"
+                            },
+                            {
+                                "url": "/serie/online/upload",
+                                "title": "Upload",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18781.webp"
+                            },
+                            {
+                                "url": "/serie/online/samurai-de-olhos-azuis",
+                                "title": "Samurai de Olhos Azuis",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22520.webp"
+                            },
+                            {
+                                "url": "/serie/online/invencivel",
+                                "title": "Invencível",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19285.webp"
+                            },
+                            {
+                                "url": "/serie/online/gen-v",
+                                "title": "Gen V",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22454.webp"
+                            },
+                            {
+                                "url": "/serie/online/loki",
+                                "title": "Loki",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19270.webp"
+                            },
+                            {
+                                "url": "/serie/online/companheiros-de-viagem",
+                                "title": "Companheiros de Viagem",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-irrational",
+                                "title": "The Irrational",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22444.webp"
+                            },
+                            {
+                                "url": "/serie/online/frasier",
+                                "title": "Frasier",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22493.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -232,10 +358,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/online/sekaiichi-hatsukoi",
-                    "title": "Sekaiichi Hatsukoi",
-                    "description": "Por não concordar em se aproveitar de seus laços familiares, Ritsu Onodera sai da editora de seu pai para aceitar um emprego na Editora Marukawa. Apesar de gostar de trabalhar com literatura, Ritsu acaba sendo atribuído ao departamento de mangás shoujo, mesmo não tendo nenhuma experiência ou interesse por este tipo de material. Para piorar as coisas, ele acaba tendo uma horrível primeira impressão de seu arrogante editor-chefe, Masamune Takano. Mal sabe ele que, apesar de odiá-lo agora, ele já sentiu algo bem diferente por Takano.\n\nAno: 2011\nDuração: 24min\nNota: 7.7/10",
-                    "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4287.jpg",
+                    "url": "/serie/online/found",
+                    "title": "Found",
+                    "description": "Em qualquer ano, mais de 600.000 pessoas estão desaparecidas nos EUA desses casos relatados, mais da metade das pessoas desaparecidas são pessoas de cor, com muita facilidade negligenciada pelo sistema. Gabi Mosely, uma ex -pessoa desaparecida, agora é especializada em relações públicas e lidera uma equipe de gerenciamento de crises que procura essas pessoas desaparecidas. Mas sem o conhecimento de qualquer um, Mosely está escondendo um segredo sombrio dela.\n\nAno: 2023\nDuração: 43min\nNota: 6.6/10",
+                    "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -243,14 +369,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "73155",
-                        "name": "Temp 2: Ep 12 - Love is a Bitter-Sweet",
-                        "episode_number": 12.0
+                        "url": "168841",
+                        "name": "Temp 1: Ep 5 - Missing While Undocumented",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "73154",
-                        "name": "Temp 2: Ep 11 - Love Makes The World Go Round",
-                        "episode_number": 11.0
+                        "url": "168840",
+                        "name": "Temp 1: Ep 4 - Missing While a Pawn",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -258,12 +384,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://a-delivery50.mxdcontent.net/v/f929528956fa21e45579917d476d9897.mp4?s=Ip49JKUX3vvoJPGP2Z_tkA&e=1699402232&_t=1699389062",
+                        "url": "https://s-delivery28.mxdcontent.net/v/5d02cb5ba1b67941ec87d040253477cd.mp4?s=EIbcnofiOAKr0cJOhyNjEA&e=1699425069&_t=1699409740",
                         "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://a-delivery50.mxdcontent.net/v/f929528956fa21e45579917d476d9897.mp4?s=Ip49JKUX3vvoJPGP2Z_tkA&e=1699402232&_t=1699389062",
+                        "videoUrl": "https://s-delivery28.mxdcontent.net/v/5d02cb5ba1b67941ec87d040253477cd.mp4?s=EIbcnofiOAKr0cJOhyNjEA&e=1699425069&_t=1699409740",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
-                        }
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/231925-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
                     }
                 ],
                 "passed": true
