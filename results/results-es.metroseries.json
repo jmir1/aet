@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/el-caso-bettencourt-el-escandalo-de-la-mujer-mas-rica-del-mundo/",
+                                "title": "El caso Bettencourt: El escándalo de la mujer más rica del mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yVSBBA82TMakoLhGfL7MbSWXf8p.jpg"
+                            },
+                            {
                                 "url": "/papa-en-apuros/",
                                 "title": "Papá En Apuros",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/3GA8raye5xFywN95fDceLQzs5Oz.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
                             },
                             {
-                                "url": "/romancero/",
-                                "title": "Romancero",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rHu3EQq7wzmnSAZ0JyQUfF0BRZN.jpg"
-                            },
-                            {
-                                "url": "/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari/",
-                                "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/OTMUvMGFAsIDnFj0k5Im8SRcZb.jpg"
+                                "url": "/love-is-in-the-air/",
+                                "title": "Love is in the air",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zTjNzf2Ad5nFTzJ4zWI6jWaCDqH.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/vegas/",
-                                "title": "Vegas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oWRTzL0lRr7h0ChZAMFdIuYyCvl.jpg"
+                                "url": "/blanca/",
+                                "title": "Blanca",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ygLft4UvzyeMUZegHNwcCKo7TgG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/papa-en-apuros/",
-                    "title": "Papá En Apuros",
-                    "description": "Un padre marinero que intentará sacar adelante a sus cuatro hijos y que tiene la difícil misión de buscar a una mujer que pueda ayudarle a cuidar a los niños.",
-                    "genre": "Comedia, Familia, Soap",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3GA8raye5xFywN95fDceLQzs5Oz.jpg",
+                    "url": "/el-caso-bettencourt-el-escandalo-de-la-mujer-mas-rica-del-mundo/",
+                    "title": "El caso Bettencourt: El escándalo de la mujer más rica del mundo",
+                    "description": "L’affaire Bettencourt: Scandale chez la femme la plus riche du monde ¿Cómo es posible que el conflicto entre la mujer más rica del mundo y su hija se convirtiera en un escándalo nacional? Esta docuserie presenta todas las claves.",
+                    "genre": "Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yVSBBA82TMakoLhGfL7MbSWXf8p.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/papa-en-apuros-temporada-1-capitulo-10/",
-                        "name": "T01 - E10 - Episodio 10",
-                        "date_upload": 1698969600000,
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/episode/papa-en-apuros-temporada-1-capitulo-9/",
-                        "name": "T01 - E09 - Episodio 9",
-                        "date_upload": 1698883200000,
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
