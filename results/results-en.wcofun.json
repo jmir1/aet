@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/akuma-kun-ona-english-subbed",
+                                "title": "Akuma-kun (ONA) English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933284.jpg"
+                            },
+                            {
                                 "url": "/anime/ejen-ali",
                                 "title": "Ejen Ali",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933283.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/nfl-rush-zone-season-of-the-guardians",
                                 "title": "NFL Rush Zone: Season of the Guardians",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933269.jpg"
-                            },
-                            {
-                                "url": "/anime/my-magic-pet-morphle",
-                                "title": "My Magic Pet Morphle",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933268.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/ejen-ali",
-                    "title": "Ejen Ali",
-                    "description": "A boy accidentally becomes a MATA agent after using Infinity Retinal Intelligent System (I.R.I.S) which is a prototype device created by Meta Advance Tactical Agency (M.A.T.A). The I.R.I.S. is controlled by neuro-signals enabling the wearer to perform actions programmed by the computer. After the incident, Ali and his uncle, Bakar cooperate in M.A.T.A missions.",
-                    "genre": "Action, Adventure, Spy fiction, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933283.jpg",
+                    "url": "/anime/akuma-kun-ona-english-subbed",
+                    "title": "Akuma-kun (ONA) English Subbed",
+                    "description": "When Mr. Satou, a company employee at the world’s largest electronics company, is called upon by his boss to tutor his only son in exchange for a high ranking position within the organization, things couldn’t have been peachier. At least, that’s what he thought…",
+                    "genre": "Horror, Supernatural, Suspense, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933284.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ejen-ali-season-3-episode-13-mission-champion",
-                        "name": "Season 3 - Episode 13",
-                        "episode_number": 313.0
-                    },
-                    {
-                        "url": "/ejen-ali-season-3-episode-12-mission-sting",
-                        "name": "Season 3 - Episode 12",
-                        "episode_number": 312.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkIwO5JIIC6jqDO6_AhAWPf9EgnTaa-rsjzdel31Grh4RQSEaLT5e4ixfoE2BULhTrACT1PyM1Xd1gGK4VJS9awae8DkzYD7smu3Wf1nPbNic5BltgxEWdVeudFRhY_YXG_ze2ZuClxW3qagZymaRwOpz2_y4F8kOZOXejj0s_ztW_2YE7xr-n_bCHCphYsh4eQ-7bHG1UjHfdO-NJZ7_VPZ_MSsa0z0Y2joubFPyjJtc1QuS2pU2RN2NMxU0GqbBCUxUhUZI8fICG9FEEzcrX5zwhFGcVVfilUPLNip9rzps1L7I3ay7vi7g-a4c8O4Lw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkIwO5JIIC6jqDO6_AhAWPf9EgnTaa-rsjzdel31Grh4RQSEaLT5e4ixfoE2BULhTrACT1PyM1Xd1gGK4VJS9awae8DkzYD7smu3Wf1nPbNic5BltgxEWdVeudFRhY_YXG_ze2ZuClxW3qagZymaRwOpz2_y4F8kOZOXejj0s_ztW_2YE7xr-n_bCHCphYsh4eQ-7bHG1UjHfdO-NJZ7_VPZ_MSsa0z0Y2joubFPyjJtc1QuS2pU2RN2NMxU0GqbBCUxUhUZI8fICG9FEEzcrX5zwhFGcVVfilUPLNip9rzps1L7I3ay7vi7g-a4c8O4Lw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkIwO5JIIC6jqDO6_AhAWPf9EgnTaa-rsjzdel31Grh4RQSEaLT5e4ixfoE2BULhToCxQ-mAB0YH-QL8fLC2TuxcKBuIs1RL15b8EAj0UA46RMVqEoP37Dgxv9v4RarwMTPR81hXRIUIOOsqoiKYNssO7zMK7uhC7CcfLSfvULoUFkHxiaXf8oQ0XEoSSY6ViWKDdaYptXNndWNcS8SxtPp7OAyfZ98oDgYCN7GoN0jLUKmZKkDgrg7Z1WelnxU8OPjLLz4jvmLhreuKEkiU5fZh_V63oytykjqnMiCKrGqZXizQqHw8ZrUeoSOQWyTKjg",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkIwO5JIIC6jqDO6_AhAWPf9EgnTaa-rsjzdel31Grh4RQSEaLT5e4ixfoE2BULhToCxQ-mAB0YH-QL8fLC2TuxcKBuIs1RL15b8EAj0UA46RMVqEoP37Dgxv9v4RarwMTPR81hXRIUIOOsqoiKYNssO7zMK7uhC7CcfLSfvULoUFkHxiaXf8oQ0XEoSSY6ViWKDdaYptXNndWNcS8SxtPp7OAyfZ98oDgYCN7GoN0jLUKmZKkDgrg7Z1WelnxU8OPjLLz4jvmLhreuKEkiU5fZh_V63oytykjqnMiCKrGqZXizQqHw8ZrUeoSOQWyTKjg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkIwO5JIIC6jqDO6_AhAWPf9EgnTaa-rsjzdel31Grh4RQSEaLT5e4ixfoE2BULhTnN1excPKIosQdry2oOUntr12Vhp8XrF6O-jH1yhV4zWburJOPIdsMgW5rXGLi27qvN9-9gZRaK4TWt05TJw9ZUZJs_uhVfWScpw0_Nd0L-zTwY66QHL48I-nkyN3ceLh2Z8qGypsCqe0mf8aLU374wuw311PHQ_0hKkHxfJjsjaA93DauPq3JmhOEBmNENRAVnJSJ9URcIXGRm7T8d_9c77OU5620TqSgmCQGIpp5Z1ftcZF1f8tjxbbe2DPoWFvw",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkIwO5JIIC6jqDO6_AhAWPf9EgnTaa-rsjzdel31Grh4RQSEaLT5e4ixfoE2BULhTnN1excPKIosQdry2oOUntr12Vhp8XrF6O-jH1yhV4zWburJOPIdsMgW5rXGLi27qvN9-9gZRaK4TWt05TJw9ZUZJs_uhVfWScpw0_Nd0L-zTwY66QHL48I-nkyN3ceLh2Z8qGypsCqe0mf8aLU374wuw311PHQ_0hKkHxfJjsjaA93DauPq3JmhOEBmNENRAVnJSJ9URcIXGRm7T8d_9c77OU5620TqSgmCQGIpp5Z1ftcZF1f8tjxbbe2DPoWFvw"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
