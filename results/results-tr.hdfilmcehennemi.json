@@ -187,6 +187,11 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/transformers-rise-of-the-beasts-4_list.jpg"
                             },
                             {
+                                "url": "/butcher-s-crossing/",
+                                "title": "Butchers Crossing",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/butcher-s-crossing_list.jpg"
+                            },
+                            {
                                 "url": "/elevator-game/",
                                 "title": "Asansör Oyunu",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/elevator-game_list.jpg"
@@ -230,11 +235,6 @@
                                 "url": "/you-hurt-my-feelings-1/",
                                 "title": "You Hurt My Feelings",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/you-hurt-my-feelings_list.jpg"
-                            },
-                            {
-                                "url": "/if-you-were-the-last/",
-                                "title": "If You Were the Last",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/if-you-were-the-last_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -269,8 +269,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: No videos available xD",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://puf-04-od9-s1.vmrest.space/hls/xqx2o5bimrokjiqbthzcjl2n4tn2j2mvjgi5xazqoea5pwoltw34jenhy3sa/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 480p",
+                        "videoUrl": "https://puf-04-od9-s1.vmrest.space/hls/xqx2o5bimrokjiqbthzcjl2n4tn2j2mvjgi5xazqoea5pwoltw34jenhy3sa/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-f95b8osn1cga.html"
+                        }
+                    },
+                    {
+                        "url": "https://puf-04-od9-s1.vmrest.space/hls/xqx2o5bimrokjiqbthzcjl2n4tn2j2mvjgi5xazqons5pwoltw3uo3l7uvrq/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 900p",
+                        "videoUrl": "https://puf-04-od9-s1.vmrest.space/hls/xqx2o5bimrokjiqbthzcjl2n4tn2j2mvjgi5xazqons5pwoltw3uo3l7uvrq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-f95b8osn1cga.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
