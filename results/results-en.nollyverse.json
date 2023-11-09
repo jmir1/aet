@@ -3,68 +3,12 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/serie/lawmen-bass-reeves",
-                                "title": "Lawmen: Bass Reeves",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/lawmen-bass-reeves.jpg"
-                            },
-                            {
-                                "url": "/serie/blue-eye-samurai",
-                                "title": "BLUE EYE SAMURAI",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/blue-eye-samurai.jpg"
-                            },
-                            {
-                                "url": "/serie/all-the-light-we-cannot-see",
-                                "title": "All the Light We Cannot See",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/all-the-light-we-cannot-see.jpg"
-                            },
-                            {
-                                "url": "/serie/pluto",
-                                "title": "PLUTO",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/pluto.jpg"
-                            },
-                            {
-                                "url": "/serie/life-on-our-planet",
-                                "title": "Life on Our Planet",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/life-on-our-planet.jpg"
-                            },
-                            {
-                                "url": "/serie/planet-earth-iii",
-                                "title": "Planet Earth III",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/planet-earth-iii.jpg"
-                            },
-                            {
-                                "url": "/serie/doona",
-                                "title": "Doona!",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/doona.jpg"
-                            },
-                            {
-                                "url": "/serie/bodies",
-                                "title": "Bodies",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/bodies.jpg"
-                            },
-                            {
-                                "url": "/serie/scavengers-reign",
-                                "title": "Scavengers Reign",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/scavengers-reign.jpg"
-                            },
-                            {
-                                "url": "/serie/goosebumps",
-                                "title": "Goosebumps",
-                                "thumbnail_url": "https://www.nollyverse.com/serie/img/goosebumps.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -108,10 +52,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/lawmen-bass-reeves",
-                    "title": "Lawmen: Bass Reeves (2023-)",
-                    "description": "The story of Bass Reeves, the legendary lawman of the wild West, is brought to life. Reeves worked in the post-Reconstruction era as a federal peace officer in the Indian Territory, capturing over 3,000 of the most dangerous criminals without ever being wounded—and is believed to be the inspiration for The Lone Ranger.",
-                    "genre": "Drama, Western",
+                    "url": "/movie/edge-of-the-world",
+                    "title": "Edge of the World",
+                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
+                    "genre": "Adventure, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -119,13 +63,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/lawmen-bass-reeves/season-1#2",
-                        "name": "Episode S1E2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/serie/lawmen-bass-reeves/season-1#1",
-                        "name": "Episode S1E1",
+                        "url": "/movie/edge-of-the-world/download/",
+                        "name": "Movie",
                         "episode_number": 1.0
                     }
                 ],
@@ -134,9 +73,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl1.fm6x.top/06/05/Lawmen.Bass.Reeves.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
-                        "quality": "720p.x265",
-                        "videoUrl": "https://dl1.fm6x.top/06/05/Lawmen.Bass.Reeves.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                        "url": "https://yts.mx/torrent/download/F04C7FBA645F34B9C4387F4EA0AA8EC92DE52DDB",
+                        "quality": "BLURAY 1080p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/F04C7FBA645F34B9C4387F4EA0AA8EC92DE52DDB"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/4D29BBE78AE3A896E47D557C503606ABA7B69269",
+                        "quality": "WEB 1080p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/4D29BBE78AE3A896E47D557C503606ABA7B69269"
+                    },
+                    {
+                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
+                        "quality": "480p",
+                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
+                    },
+                    {
+                        "url": "https://dood.la/d/o16rzvmsv5u2",
+                        "quality": "720p",
+                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/23383E27BDFF3A908FA54D0633914B0FD4103D7D",
+                        "quality": "BLURAY 720p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/23383E27BDFF3A908FA54D0633914B0FD4103D7D"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/05CD61AB8927BC94C5FFDDD759B62162A0B9CBE4",
+                        "quality": "WEB 720p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/05CD61AB8927BC94C5FFDDD759B62162A0B9CBE4"
                     }
                 ],
                 "passed": true

@@ -138,8 +138,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55puunc73gecruapqw2amwq/index-v1-a1.m3u8",
+                        "quality": "SuperVideo - 360p",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55puunc73gecruapqw2amwq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55pu7ks73gecrubp3n67pbq/index-v1-a1.m3u8",
+                        "quality": "SuperVideo - 720p",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55pu7ks73gecrubp3n67pbq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
