@@ -537,17 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=Rnzj3DY9QgdK8nKk1TKw20A4r6F6Yff0B2B_AqZTges&s=1699618261&e=43200&f=10995342&i=0.0&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=Rnzj3DY9QgdK8nKk1TKw20A4r6F6Yff0B2B_AqZTges&s=1699618261&e=43200&f=10995342&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-blue-giant-مترجم/",
+                                "title": "فيلم Blue Giant مترجم",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Blue-Giant-movie-223x315.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-kin-no-kuni-mizu-no-kuni-مترجم/",
                                 "title": "فيلم Kin no Kuni Mizu no Kuni مترجم",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Kin-no-Kuni-Mizu-no-Kuni-223x335.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-kamiarizuki-no-kodomo/",
                                 "title": "فيلم Kamiarizuki no Kodomo",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2022/02/117088l-223x316.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-princess-principal-crown-handler-movie-2/",
-                                "title": "فيلم Princess Principal: Crown Handler Movie 2",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2022/01/116570l-223x315.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -384,13 +384,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-kin-no-kuni-mizu-no-kuni-مترجم/",
-                    "title": "فيلم Kin no Kuni Mizu no Kuni مترجم",
-                    "description": "كان يا ما كان دولتان جارتان على خلافٍ شديد نشبت بينهما حربٌ ضروس اضطرَّت الآلهة للتدخل مِن أجل عقد هدنةٍ ولإحلال السلام أمرتهم بما يلي: الدولة أ سترسل أجمل نسائها للدولة ب والدولة ب سترسل أذكى رجالها للدولة أ ثمَّ سيتزوَّج كلٌّ منهما مِن بلد الآخر.",
+                    "url": "/movie/فيلم-blue-giant-مترجم/",
+                    "title": "فيلم Blue Giant مترجم",
+                    "description": "“سأصبح بالتأكيد أفضل عازف جاز في العالم!” تتبع القصة “داي مياموتو”، وهو عضو في نادي كرة السلة. أثناء التحاقه بالمدرسة الإعدادية، يومًا ما، يأخذه أحد الأصدقاء إلى عرض مباشر لموسيقى الجاز، مما يلهمه بشدة. بعد ذلك، بدأ بالعزف على بوق “تينور ساكسفون” بنفسه، مع عدم قدرته على قراءة النوتة الموسيقية. ماطر أو مشمس، ليلاً أو نهارًا، يستمر “داي” في التدريب. خلال أدائه الأول، تعرض لانتقادات من قبل الجمهور، ومع ذلك، فإن “داي” ينفخ بشغف في الـ“ساكسفون” الخاص به. لتبدأ حكاية مسيرته لبلوغ هدفه بدون تردد أو نظر إلى الخلف.",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Kin-no-Kuni-Mizu-no-Kuni.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/11/Blue-Giant-movie.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -398,21 +398,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-kin-no-kuni-mizu-no-kuni-مترجم/",
-                        "name": "Kin no Kuni Mizu no Kuni مترجم"
+                        "url": "/movie/فيلم-blue-giant-مترجم/",
+                        "name": "Blue Giant مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc602.4shared.com/img/iUx7eRTNku/84379eda/dlink__2Fdownload_2FiUx7eRTNku_3Fsbsr_3D38f21ac247cbbe7fe789e7217845150cafa_26bip_3DNTIuMTU3LjE0LjE2Mg_26lgfp_3D66_26bip_3DNTIuMTU3LjE0LjE2Mg_26bip_3DNTIuMTU3LjE0LjE2Mg/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc602.4shared.com/img/iUx7eRTNku/84379eda/dlink__2Fdownload_2FiUx7eRTNku_3Fsbsr_3D38f21ac247cbbe7fe789e7217845150cafa_26bip_3DNTIuMTU3LjE0LjE2Mg_26lgfp_3D66_26bip_3DNTIuMTU3LjE0LjE2Mg_26bip_3DNTIuMTU3LjE0LjE2Mg/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
