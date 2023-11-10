@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/drama-detail/my-demon",
+                                "title": "My Demon (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/my-demon-1698215138.png"
+                            },
+                            {
+                                "url": "/drama-detail/a-very-lucky-day",
+                                "title": "A Bloody Lucky Day (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/a-very-lucky-day-1698828424.png"
+                            },
+                            {
                                 "url": "/drama-detail/diva-on-a-desert-island",
                                 "title": "Castaway Diva (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/diva-on-a-desert-island-1697510294.png"
@@ -175,16 +185,6 @@
                                 "url": "/drama-detail/shadow-detective-season-2",
                                 "title": "Shadow Detective Season 2 (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/shadow-detective-season-2-1687626486.png"
-                            },
-                            {
-                                "url": "/drama-detail/ive-been-waiting-for-you-for-a-long-time",
-                                "title": "Longing for You (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/ive-been-waiting-for-you-for-a-long-time-1689056284.png"
-                            },
-                            {
-                                "url": "/drama-detail/-strangers",
-                                "title": "Not Others (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/-strangers-1688451956.png"
                             }
                         ],
                         "hasNextPage": true
@@ -494,77 +494,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/drama-detail/diva-on-a-desert-island",
-                    "title": "Castaway Diva (2023)",
-                    "author": "Netflix tvN TVING",
-                    "description": " Follows the story of a woman who is rescued on a deserted island after going missing 15-years ago. Mok Ha is a girl who has always dreamt of becoming a singer. During middle school, Mok Ha goes missing and ends up on a deserted island, where she manages to survive alone for 15-years. For Mok Ha, being rescued from her solitary life is one thing; adjusting to modern society is another! (Source: Allkpop) Episodes: 12  ",
-                    "genre": "Comedy, life, Musical, Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://imagecdn.me/cover/diva-on-a-desert-island-1697510294.png",
+                    "url": "/drama-detail/my-demon",
+                    "title": "My Demon (2023)",
+                    "author": "SBS Netflix",
+                    "description": " Do Do Hee is the successor of the Future Group. She has an arrogant and cool-headed personality, who doesn’t trust in anyone. She is cynical about love. Do Do Hee gets involved with a demon named Jung Koo Won and makes a contract marriage with him. She faces big changes in her life. Jung Koo Won is a demon. He can live for eternity by making dangerous, but sweet deals with humans who endure hellish lives. He looks down upon humans and he has prowled over this world like an apex predator for 200 years. He gets involved with Do Do Hee and somehow loses his power all of a sudden. He then enters into a contract marriage with her. To prevent his own extinction, he must protect Do Do Hee who has taken all of his power. Their relationship develops romantically. (Source: AsianWiki) Episodes: 16  ",
+                    "genre": "Action, Cohabitation, Comedy, Demon, Fantasy, Romance, Suspense, Thriller",
+                    "thumbnail_url": "https://imagecdn.me/cover/my-demon-1698215138.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/castaway-diva-2023-episode-4.html",
-                        "name": "SUB: Episode 4",
-                        "date_upload": 1699172643000,
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/castaway-diva-2023-episode-3.html",
-                        "name": "SUB: Episode 3",
-                        "date_upload": 1699083996000,
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PFol9i949pNVcOMn-RbCXdKiZi2JSb8idjxrOtLJLlo&s=1699576202&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PFol9i949pNVcOMn-RbCXdKiZi2JSb8idjxrOtLJLlo&s=1699576202&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/7p1n9t06fa5y?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PFol9i949pNVcOMn-RbCXdKiZi2JSb8idjxrOtLJLlo&s=1699576202&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "StreamWish - 720p",
-                        "videoUrl": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PFol9i949pNVcOMn-RbCXdKiZi2JSb8idjxrOtLJLlo&s=1699576202&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/7p1n9t06fa5y?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PFol9i949pNVcOMn-RbCXdKiZi2JSb8idjxrOtLJLlo&s=1699576202&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "StreamWish - 480p",
-                        "videoUrl": "https://xrec99e0.sw-cdnstream.com/hls2/01/02212/7p1n9t06fa5y_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PFol9i949pNVcOMn-RbCXdKiZi2JSb8idjxrOtLJLlo&s=1699576202&e=129600&f=11064732&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/7p1n9t06fa5y?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=eaMAvgplGRsjqR&expires=1699646204&ip=FROsFxqnDS9X&token=o5zW_5Z2hkHr",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=eaMAvgplGRsjqR&expires=1699646204&ip=FROsFxqnDS9X&token=o5zW_5Z2hkHr"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/akuma-kun-episode-12-english-dubbed",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    },
+                    {
+                        "url": "/akuma-kun-episode-11-english-dubbed",
+                        "name": "Season 1 - Episode 11",
+                        "episode_number": 111.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsfe2Ax_UbBIE5Wd_cEbvO68ndksvCTVADarGmHWabfo-PRUBePyeTQ70_-7sG14L95yRHfS1PG8LXOaYgHyA9ABB8s9DRkrSeGC90Tbvo4PWLdHIivmbmWy99uAgG7qpvyOUIKfrhkdyELyHBPoXowh1wNcbxVNjeo9q6N-CKEU58m2J_5bYxD6VTfIQErOQkl_awWjRAIdBnCHCpxqJOQ_cNM57T9ydZwX-APMthjjgn15EBkgSpHrK5JiUrGt63EfYw-Bxu7E9sHOqlADEGYgt9v0mrA0uE2iITfihXMAdcWkzBRclHPFAjsleuE0xsT4ELvxYBjQd0AUpBd53w8",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsfe2Ax_UbBIE5Wd_cEbvO68ndksvCTVADarGmHWabfo-PRUBePyeTQ70_-7sG14L95yRHfS1PG8LXOaYgHyA9ABB8s9DRkrSeGC90Tbvo4PWLdHIivmbmWy99uAgG7qpvyOUIKfrhkdyELyHBPoXowh1wNcbxVNjeo9q6N-CKEU58m2J_5bYxD6VTfIQErOQkl_awWjRAIdBnCHCpxqJOQ_cNM57T9ydZwX-APMthjjgn15EBkgSpHrK5JiUrGt63EfYw-Bxu7E9sHOqlADEGYgt9v0mrA0uE2iITfihXMAdcWkzBRclHPFAjsleuE0xsT4ELvxYBjQd0AUpBd53w8"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsfe2Ax_UbBIE5Wd_cEbvO68ndksvCTVADarGmHWabfo-PRUBePyeTQ70_-7sG14L95yRHfS1PG8LXOaYgHyA9DNuva4M3ye12HJrG7FTw1oeFHoalDN-LxgxcW8QtC677lRd9iEv7LOZ8kBYLDKzwBr03luEBXBT-x2kRey4_7Zlm_xrl4QZd-s6NYi9ISkTQy6CfBZaR81HQSmrmrCKu1EdG18M8rRUHrldAR4BdIHEl1dM9210mOuCRw4FMSziFtmziFv6bpf2bvbeaTu_AX-qeJXJwI9VA_0Je7Hm_YJsSZWyUP5fLyv8T4nF5GLI11UBGvEKCEO1bWDw7OH72o",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsfe2Ax_UbBIE5Wd_cEbvO68ndksvCTVADarGmHWabfo-PRUBePyeTQ70_-7sG14L95yRHfS1PG8LXOaYgHyA9DNuva4M3ye12HJrG7FTw1oeFHoalDN-LxgxcW8QtC677lRd9iEv7LOZ8kBYLDKzwBr03luEBXBT-x2kRey4_7Zlm_xrl4QZd-s6NYi9ISkTQy6CfBZaR81HQSmrmrCKu1EdG18M8rRUHrldAR4BdIHEl1dM9210mOuCRw4FMSziFtmziFv6bpf2bvbeaTu_AX-qeJXJwI9VA_0Je7Hm_YJsSZWyUP5fLyv8T4nF5GLI11UBGvEKCEO1bWDw7OH72o"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsfe2Ax_UbBIE5Wd_cEbvO68ndksvCTVADarGmHWabfo-PRUBePyeTQ70_-7sG14L95yRHfS1PG8LXOaYgHyA9DxUYp-zZ4NPEbwXGxpPSfEQbssFB5NOhNbKQ_tBhGN68IO_RgOaHNs3Qx7Pttl5zNrMxcIDhw2DtQZdQzQu37Jh5zsMhzaSzSmL51l1789x69B8KaW7_U4YXwZRBlTwJcSSwO-Tki8AxAJOrA2lY0T_LN4Rb4u5iofrv3oyfAhwOVHp83QIzbHbG1EVX83yenDzcwGIu-l5fYLpW6F3xeVXvu9n06l-Yq1CO3xulSCATlDDkn8MCxBGDjkYJYsK9Y",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJsfe2Ax_UbBIE5Wd_cEbvO68ndksvCTVADarGmHWabfo-PRUBePyeTQ70_-7sG14L95yRHfS1PG8LXOaYgHyA9DxUYp-zZ4NPEbwXGxpPSfEQbssFB5NOhNbKQ_tBhGN68IO_RgOaHNs3Qx7Pttl5zNrMxcIDhw2DtQZdQzQu37Jh5zsMhzaSzSmL51l1789x69B8KaW7_U4YXwZRBlTwJcSSwO-Tki8AxAJOrA2lY0T_LN4Rb4u5iofrv3oyfAhwOVHp83QIzbHbG1EVX83yenDzcwGIu-l5fYLpW6F3xeVXvu9n06l-Yq1CO3xulSCATlDDkn8MCxBGDjkYJYsK9Y"
+                    }
+                ],
+                "passed": true
             }
         }
     }
