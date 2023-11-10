@@ -543,8 +543,14 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -565,30 +571,6 @@
                                 "genre": "Action, Romance, School-Life, Combats, Isekai",
                                 "status": 2,
                                 "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/accel-world.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/arifureta//saison1/vostfr",
-                                "title": "Arifureta Saison 1",
-                                "description": "Parmi les élèves de sa classe transportsés dans un autre monde, Hajime Nagumo est un étudiant ordinaire sans ambitions. À cause de son manque d'entrain, il est surnommé \"l'Incompétent\" par ses camarades de classe. Cette classe a été invoquée pour sauver un pays de la destruction. Tous les élèves de la classe ont été bénis par des caractéristiques et des compétences uniques, excepté Hajime avec sa profession de \"Synergist\" et ses statistiques médiocres. Pour mettre un mot sur cette profession de \"Synergist\", il s'agit de la classe d'artisan. Un jour, alors qu'il explorait un donjon avec sa classe, il se fait trahir par l'un de ses camarades et tombe dans les profondeurs de l'abîme.",
-                                "genre": "Action, Aventure, Drame, Ecchi, Fantasy, Romance, Isekai",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arifureta.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/arifureta//saison2/vostfr",
-                                "title": "Arifureta Saison 2",
-                                "description": "Parmi les élèves de sa classe transportsés dans un autre monde, Hajime Nagumo est un étudiant ordinaire sans ambitions. À cause de son manque d'entrain, il est surnommé \"l'Incompétent\" par ses camarades de classe. Cette classe a été invoquée pour sauver un pays de la destruction. Tous les élèves de la classe ont été bénis par des caractéristiques et des compétences uniques, excepté Hajime avec sa profession de \"Synergist\" et ses statistiques médiocres. Pour mettre un mot sur cette profession de \"Synergist\", il s'agit de la classe d'artisan. Un jour, alors qu'il explorait un donjon avec sa classe, il se fait trahir par l'un de ses camarades et tombe dans les profondeurs de l'abîme.",
-                                "genre": "Action, Aventure, Drame, Ecchi, Fantasy, Romance, Isekai",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arifureta.jpg",
-                                "initialized": true
-                            },
-                            {
-                                "url": "/catalogue/arifureta//oav/vostfr",
-                                "title": "Arifureta OAV",
-                                "description": "Parmi les élèves de sa classe transportsés dans un autre monde, Hajime Nagumo est un étudiant ordinaire sans ambitions. À cause de son manque d'entrain, il est surnommé \"l'Incompétent\" par ses camarades de classe. Cette classe a été invoquée pour sauver un pays de la destruction. Tous les élèves de la classe ont été bénis par des caractéristiques et des compétences uniques, excepté Hajime avec sa profession de \"Synergist\" et ses statistiques médiocres. Pour mettre un mot sur cette profession de \"Synergist\", il s'agit de la classe d'artisan. Un jour, alors qu'il explorait un donjon avec sa classe, il se fait trahir par l'un de ses camarades et tombe dans les profondeurs de l'abîme.",
-                                "genre": "Action, Aventure, Drame, Ecchi, Fantasy, Romance, Isekai",
-                                "thumbnail_url": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arifureta.jpg",
                                 "initialized": true
                             },
                             {
@@ -660,9 +642,9 @@
                         }
                     },
                     {
-                        "url": "https://videos2-h.sendvid.com/hls/bd/cc/po9rn5vq.mp4/index-v1-a1.m3u8?validfrom=1699546316&validto=1699560716&rate=200k&ip=20.109.60.242&hdl=-1&hash=leDiAjsntq6Mh671tyxcc4FL1xM%3D",
+                        "url": "https://videos2-h.sendvid.com/hls/bd/cc/po9rn5vq.mp4/index-v1-a1.m3u8?validfrom=1699569003&validto=1699583403&rate=200k&ip=172.177.72.63&hdl=-1&hash=hMsBLhN5%2Fv7EX6rSISeYdW6HEbY%3D",
                         "quality": "(VOSTFR) Sendvid:480p ",
-                        "videoUrl": "https://videos2-h.sendvid.com/hls/bd/cc/po9rn5vq.mp4/index-v1-a1.m3u8?validfrom=1699546316&validto=1699560716&rate=200k&ip=20.109.60.242&hdl=-1&hash=leDiAjsntq6Mh671tyxcc4FL1xM%3D",
+                        "videoUrl": "https://videos2-h.sendvid.com/hls/bd/cc/po9rn5vq.mp4/index-v1-a1.m3u8?validfrom=1699569003&validto=1699583403&rate=200k&ip=172.177.72.63&hdl=-1&hash=hMsBLhN5%2Fv7EX6rSISeYdW6HEbY%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",

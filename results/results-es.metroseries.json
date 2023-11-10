@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/waco-the-aftermath/",
+                                "title": "Waco: The Aftermath",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7xaVVAAhMJhc5VIRpRa48DLsRru.jpg"
+                            },
+                            {
                                 "url": "/akuma-kun/",
                                 "title": "Akuma Kun",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/3frWTreENCV0ZQfLnNRYnCBwRUC.jpg"
@@ -52,14 +57,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/pYuYTHAArZmdT5KinpGIzK4tQxo.jpg"
                             },
                             {
-                                "url": "/en-llamas/",
-                                "title": "En llamas",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hIIuHSyYpD3lSOj197ujHookMWI.jpg"
-                            },
-                            {
-                                "url": "/ill-be-gone-in-the-dark/",
-                                "title": "I'll Be Gone in the Dark",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wP8ypum7Jpy1UBfR6HLxdvMkqX6.jpg"
+                                "url": "/ot-el-reencuentro/",
+                                "title": "OT el reencuentro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qHgWkdu6jSUXFQ9eRIeUVDkiCiv.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/red-election/",
-                                "title": "Red Election",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jKDJ5yN3wzBkREMKBgY5mXf439t.jpg"
+                                "url": "/y-el-ultimo-hombre/",
+                                "title": "Y: El último hombre",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xcqV8XIAP6vhFFNW2ICV6a0qIJ2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/akuma-kun/",
-                    "title": "Akuma Kun",
-                    "description": "悪魔くん Akuma Kun, un chico criado por un demonio, y Mefisto III, su socio medio humano, investigan casos paranormales para resolver asesinatos y misterios.",
-                    "genre": "Animación, Crimen, Misterio, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3frWTreENCV0ZQfLnNRYnCBwRUC.jpg",
+                    "url": "/waco-the-aftermath/",
+                    "title": "Waco: The Aftermath",
+                    "description": "La masacre de Waco: Las secuelas, Explore the wide-ranging fallout succeeding the tragic events that took place in Waco, TX: the trials of the surviving members of the Branch Davidian sect and the rise of homegrown terrorist, Timothy McVeigh.",
+                    "genre": "Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7xaVVAAhMJhc5VIRpRa48DLsRru.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/akuma-kun-temporada-1-capitulo-12/",
-                        "name": "T01 - E12 - Sacrificio",
-                        "date_upload": 1699488000000,
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/episode/akuma-kun-temporada-1-capitulo-11/",
-                        "name": "T01 - E11 - Juego",
-                        "date_upload": 1699488000000,
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

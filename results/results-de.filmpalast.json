@@ -177,6 +177,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/milli-vanilli",
+                                "title": "Milli Vanilli",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/milli-vanilli.jpg"
+                            },
+                            {
+                                "url": "/stream/dumb-money-schnelles-geld",
+                                "title": "Dumb Money - Schnelles Geld",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/dumb-money-schnelles-geld.jpg"
+                            },
+                            {
+                                "url": "/stream/the-marvels",
+                                "title": "The Marvels",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-marvels.jpg"
+                            },
+                            {
+                                "url": "/stream/the-baker",
+                                "title": "The Baker",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-baker.jpg"
+                            },
+                            {
+                                "url": "/stream/money-shot-the-pornhub-story",
+                                "title": "Money Shot: The Pornhub Story",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/money-shot-the-pornhub-story.jpg"
+                            },
+                            {
+                                "url": "/stream/cocaine-shark",
+                                "title": "Cocaine Shark",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cocaine-shark.jpg"
+                            },
+                            {
                                 "url": "/stream/cyberbunker-the-criminal-underworld",
                                 "title": "Cyberbunker: The Criminal Underworld",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/cyberbunker-the-criminal-underworld.jpg"
@@ -305,36 +335,6 @@
                                 "url": "/stream/blue-eye-samurai-s01e07",
                                 "title": "Blue Eye Samurai S01E07",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e07.jpg"
-                            },
-                            {
-                                "url": "/stream/blue-eye-samurai-s01e06",
-                                "title": "Blue Eye Samurai S01E06",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e06.jpg"
-                            },
-                            {
-                                "url": "/stream/blue-eye-samurai-s01e05",
-                                "title": "Blue Eye Samurai S01E05",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e05.jpg"
-                            },
-                            {
-                                "url": "/stream/blue-eye-samurai-s01e04",
-                                "title": "Blue Eye Samurai S01E04",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e04.jpg"
-                            },
-                            {
-                                "url": "/stream/blue-eye-samurai-s01e03",
-                                "title": "Blue Eye Samurai S01E03",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e03.jpg"
-                            },
-                            {
-                                "url": "/stream/blue-eye-samurai-s01e02",
-                                "title": "Blue Eye Samurai S01E02",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e02.jpg"
-                            },
-                            {
-                                "url": "/stream/blue-eye-samurai-s01e01",
-                                "title": "Blue Eye Samurai S01E01",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/blue-eye-samurai-s01e01.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=2bvi1dFT3YyC_5RQYzb9blOzwpzW2yDfjAwe25wtJak&s=1699576189&e=43200&f=10995342&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=2bvi1dFT3YyC_5RQYzb9blOzwpzW2yDfjAwe25wtJak&s=1699576189&e=43200&f=10995342&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
