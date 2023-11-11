@@ -102,6 +102,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/reign-of-the-seven-spellblades-season-1-episode-15/",
+                                "title": "Reign of the Seven Spellblades: Season 1 Episode 15",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/4NnIP7L5VVTg7ilyS1G3sV9vhoZ.jpg"
+                            },
+                            {
+                                "url": "/episodes/frieren-beyond-journeys-end-season-1-episode-6/",
+                                "title": "Frieren: Beyond Journey’s End: Season 1 Episode 6",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/p7ZDx4J3K4IRyu7LitvOdyC0vtV.jpg"
+                            },
+                            {
                                 "url": "/episodes/akuma-kun-season-1-episode-12/",
                                 "title": "Akuma Kun: Season 1 Episode 12",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/2ktmrxz6vVSMG8c2S0wRHdzpt7t.jpg"
@@ -240,16 +250,6 @@
                                 "url": "/episodes/naruto-season-episode-44/",
                                 "title": "Naruto: Season 5 Episode 125",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/ymK2WOSxSqfbDLZcfaNNcct72C8.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-43/",
-                                "title": "Naruto: Season 5 Episode 124",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/6EqomLTN0nkUP3QzPh8ewtNuwri.jpg"
-                            },
-                            {
-                                "url": "/episodes/naruto-season-episode-42/",
-                                "title": "Naruto: Season 5 Episode 123",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/zptoFobcfVxLqq0OyavsE7D8nhg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -439,7 +439,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
