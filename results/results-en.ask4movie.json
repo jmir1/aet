@@ -3,12 +3,118 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/r-i-p-d-2013/",
+                                "title": "R.I.P.D. (2013)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/R.I.P.D.-2013-Cover.jpg"
+                            },
+                            {
+                                "url": "/traffik-2018/",
+                                "title": "Traffik (2018)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Traffik-2018-Cover.jpg"
+                            },
+                            {
+                                "url": "/transporter-3-2008/",
+                                "title": "Transporter 3 (2008)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Transporter-3-2008-Cover.jpg"
+                            },
+                            {
+                                "url": "/slumdog-millionaire-2008/",
+                                "title": "Slumdog Millionaire (2008)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Slumdog-Millionaire-2008-Cover.jpg"
+                            },
+                            {
+                                "url": "/sinister-2012/",
+                                "title": "Sinister (2012)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Sinister-2012-Cover.jpg"
+                            },
+                            {
+                                "url": "/i-frankenstein-2014/",
+                                "title": "I, Frankenstein (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/I-Frankenstein-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/samson-2018/",
+                                "title": "Samson (2018)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Samson-2018-Cover.jpg"
+                            },
+                            {
+                                "url": "/hercules-1997/",
+                                "title": "Hercules (1997)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Hercules-1997-Cover.jpg"
+                            },
+                            {
+                                "url": "/operation-dunkirk-2017/",
+                                "title": "Operation Dunkirk (2017)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Operation-Dunkirk-2017-Cover.jpg"
+                            },
+                            {
+                                "url": "/clash-of-the-titans-2010/",
+                                "title": "Clash of the Titans (2010)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Clash-of-the-Titans-2010-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-lion-king-1½-2004/",
+                                "title": "The Lion King 1½ (2004)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/The-Lion-King-1½-2004-Cover.jpg"
+                            },
+                            {
+                                "url": "/super-troopers-2-2018/",
+                                "title": "Super Troopers 2 (2018)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Super-Troopers-2-2018-Cover.jpg"
+                            },
+                            {
+                                "url": "/flight-2012/",
+                                "title": "Flight (2012)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Flight-2012-Cover.jpg"
+                            },
+                            {
+                                "url": "/carrie-2013/",
+                                "title": "Carrie (2013)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Carrie-2013-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-queens-corgi-2019/",
+                                "title": "The Queen’s Corgi (2019)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/The-Queens-Corgi-2019-Cover.jpg"
+                            },
+                            {
+                                "url": "/first-blood-1982/",
+                                "title": "First Blood (1982)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/First-Blood-1982-Cover.jpg"
+                            },
+                            {
+                                "url": "/kung-fu-hustle-2004/",
+                                "title": "Kung Fu Hustle (2004)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Kung-Fu-Hustle-2004-Coover.jpg"
+                            },
+                            {
+                                "url": "/paw-patrol-the-movie-2021/",
+                                "title": "PAW Patrol: The Movie (2021)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/PAW-Patrol-The-Movie-2021-Cover.jpg"
+                            },
+                            {
+                                "url": "/step-up-all-in-2014/",
+                                "title": "Step Up All In (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Step-Up-All-In-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/kidnapping-mr-heineken-2015/",
+                                "title": "Kidnapping Mr. Heineken (2015)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Kidnapping-Mr.-Heineken-2015-Cover.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -122,9 +228,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/underworld-2003/",
-                    "description": "Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while falling in love with Michael, a human who is sought by werewolves for unknown reasons.",
-                    "genre": "Action, Fantasy, Thriller",
+                    "url": "/r-i-p-d-2013/",
+                    "description": "A cop killed by his own partner joins RIPD, an afterlife law enforcement department working to apprehend various monsters disguised as humans living on earth, and gets paired up with a smart-mouthed veteran.",
+                    "genre": "Action, Adventure, Comedy",
                     "initialized": true
                 },
                 "passed": true
