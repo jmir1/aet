@@ -109,7 +109,7 @@
                 "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
@@ -138,34 +138,34 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=3&sig=m8PZQF9VuN0&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368",
+                        "url": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=e5z47V2Neu4&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368",
                         "quality": "Okru:720p",
-                        "videoUrl": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=3&sig=m8PZQF9VuN0&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=e5z47V2Neu4&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368"
                     },
                     {
-                        "url": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=2&sig=qynengcSvwU&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368",
+                        "url": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=pJOm3mpDos0&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368",
                         "quality": "Okru:480p",
-                        "videoUrl": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=2&sig=qynengcSvwU&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=pJOm3mpDos0&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368"
                     },
                     {
-                        "url": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=1&sig=kKvHz5wxZfs&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368",
+                        "url": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=csgvC2xCG-E&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368",
                         "quality": "Okru:360p",
-                        "videoUrl": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=1&sig=kKvHz5wxZfs&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=csgvC2xCG-E&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368"
                     },
                     {
-                        "url": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=0&sig=pMt6VMsKn4E&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368",
+                        "url": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=LbYNIu2X8EY&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368",
                         "quality": "Okru:240p",
-                        "videoUrl": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=0&sig=pMt6VMsKn4E&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=LbYNIu2X8EY&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368"
                     },
                     {
-                        "url": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=4&sig=rhsb2WMvDgc&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368",
+                        "url": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=3jbYH3ZpJGQ&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368",
                         "quality": "Okru:144p",
-                        "videoUrl": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=4&sig=rhsb2WMvDgc&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=3jbYH3ZpJGQ&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368"
                     },
                     {
-                        "url": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=5&sig=Iw_x9B4HuVM&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368",
+                        "url": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=8Hifw2IZgHI&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368",
                         "quality": "Okru:1080p",
-                        "videoUrl": "https://vd462.mycdn.me/?expires=1699812561123&srcIp=20.75.95.206&pr=10&srcAg=GECKO&ms=185.226.52.56&type=5&sig=Iw_x9B4HuVM&ct=0&urls=45.136.22.80&clientType=0&zs=43&id=5763520072368"
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1699835746736&srcIp=20.57.46.18&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=8Hifw2IZgHI&ct=0&urls=185.226.52.56%3B185.226.53.91&clientType=0&zs=43&id=5763520072368"
                     }
                 ],
                 "passed": true
