@@ -598,31 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery31.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=TVWymbNA07Bozw9Y9mTpiw&e=1699790943&_t=1699770619",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://s-delivery31.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=TVWymbNA07Bozw9Y9mTpiw&e=1699790943&_t=1699770619",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=vq_5zlg5vWbVtOzl3ULE_w&e=1699790944&_t=1699777425",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=vq_5zlg5vWbVtOzl3ULE_w&e=1699790944&_t=1699777425",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "passed": false
             }
         }
     }

@@ -145,35 +145,23 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/download/471363/One-Piece-S01E1083.html",
+                        "name": "Season 01 - S01E1083",
+                        "episode_number": 1083.0,
+                        "scanlator": "57.75 MB"
+                    },
+                    {
                         "url": "/download/469856/One-Piece-S01E1082.html",
                         "name": "Season 01 - S01E1082",
                         "episode_number": 1082.0,
                         "scanlator": "57.39 MB"
-                    },
-                    {
-                        "url": "/download/462584/One-Piece-S01E1081.html",
-                        "name": "Season 01 - S01E1081",
-                        "episode_number": 1081.0,
-                        "scanlator": "57.56 MB"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ckxzx3cmo.rkdnfsdnfknsknaskdnasklnd1.online/cdn/zone1/Anime/One_Piece/Season_01/One_Piece_S01E1082_KimoiTV.com.mp4",
-                        "quality": "Video",
-                        "videoUrl": "https://ckxzx3cmo.rkdnfsdnfknsknaskdnasklnd1.online/cdn/zone1/Anime/One_Piece/Season_01/One_Piece_S01E1082_KimoiTV.com.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Host": "ckxzx3cmo.rkdnfsdnfknsknaskdnasklnd1.online",
-                            "Referer": "https://kimoitv.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch video",
+                "passed": false
             }
         }
     }
