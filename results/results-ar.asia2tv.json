@@ -95,16 +95,16 @@
                                 "title": "متجر الأيدول Boss-dol Mart"
                             },
                             {
+                                "url": "/يوميات-أرثدال-سيف-أرامون-arthdal-chronicles-the-sword-of-aramun/",
+                                "title": "يوميات أرثدال: سيف أرامون Arthdal Chronicles: The Sword Of Aramun"
+                            },
+                            {
                                 "url": "/شرطة-نهر-الهان/",
                                 "title": "شرطة نهر الهان Han River Police"
                             },
                             {
                                 "url": "/يوم-الاختطاف/",
                                 "title": "يوم الاختطاف The Day"
-                            },
-                            {
-                                "url": "/يوميات-أرثدال-سيف-أرامون-arthdal-chronicles-the-sword-of-aramun/",
-                                "title": "يوميات أرثدال: سيف أرامون Arthdal Chronicles: The Sword Of Aramun"
                             },
                             {
                                 "url": "/قطة-وهمية/",
@@ -151,12 +151,12 @@
                                 "title": "مقدر لك Destined With You"
                             },
                             {
-                                "url": "/تألق-الحب/",
-                                "title": "تألق الحب Halation Love"
-                            },
-                            {
                                 "url": "/موعد-الزواج-المتوقع/",
                                 "title": "موعد الزواج المتوقع Kekkon Yoteibi"
+                            },
+                            {
+                                "url": "/تألق-الحب/",
+                                "title": "تألق الحب Halation Love"
                             },
                             {
                                 "url": "/حبيبتي-الملاكمة/",
@@ -266,11 +266,20 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ww1.asia2tv.pw/%D8%A7%D9%84%D8%AA%D9%81%D8%AA-%D8%A5%D9%84%D9%8A%D9%91-%D9%8A%D8%A7-%D9%85%D9%88%D9%83%D8%A7%D9%8A-%D9%83%D9%88%D9%86-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-10-%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B/",
+                        "name": "%D9%88%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B : الحلقة"
+                    },
+                    {
+                        "url": "/التفت-إليّ-يا-موكاي-كون-الحلقة-09/",
+                        "name": "09 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: ww1.asia2tv.pwhttps: Name or service not known",
                 "passed": false
             }
         }
