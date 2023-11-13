@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/mr-robot/",
+                                "title": "Mr. Robot",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
+                            },
+                            {
                                 "url": "/series/invasion/",
                                 "title": "Invasion",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/wWFs3pl9gWHYvDElQVB4CB809m9.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/hijack/",
                                 "title": "Hijack",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
-                            },
-                            {
-                                "url": "/series/joe-pickett/",
-                                "title": "Joe Pickett",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pWBCwK0lp5RLCyG89JzrhEVny47.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/invasion/",
-                    "title": "Invasion",
-                    "author": "David Weil, Simon Kinberg",
-                    "description": "Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
-                    "genre": "Drama, Sci-Fi & Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/mr-robot/",
+                    "title": "Mr. Robot",
+                    "author": "Sam Esmail",
+                    "description": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+                    "genre": "Crime, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -278,13 +278,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/invasion-2x10/",
-                        "name": "Season 2x10 : Episode 10",
+                        "url": "/episode/mr-robot-1x10/",
+                        "name": "Season 1x10 : eps1.9_zer0-day.avi",
                         "episode_number": 10.0
                     },
                     {
-                        "url": "/episode/invasion-2x9/",
-                        "name": "Season 2x9 : Breakthrough",
+                        "url": "/episode/mr-robot-1x9/",
+                        "name": "Season 1x9 : eps1.8_m1rr0r1ng.qt",
                         "episode_number": 9.0
                     }
                 ],

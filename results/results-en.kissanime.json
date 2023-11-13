@@ -267,6 +267,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/MF-GHOST/",
+                                "title": "MF GHOST",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/MF-GHOST.jpg"
+                            },
+                            {
+                                "url": "/Anime/dark-gathering.20085/",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Dark-Gathering.jpg"
+                            },
+                            {
+                                "url": "/Anime/berserk-of-gluttony.35993/",
+                                "title": "Berserk of Gluttony",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Berserk-of-Gluttony.jpg"
+                            },
+                            {
+                                "url": "/Anime/OVERTAKE/",
+                                "title": "OVERTAKE!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/OVERTAKE.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
                                 "title": "The Family Circumstances of the Irregular Witch",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Family-Circumstances-of-the-Irregular-Witch.jpg"
@@ -495,26 +515,6 @@
                                 "url": "/Anime/bleach-thousand-year-blood-war-the-separation-dub.72560/",
                                 "title": "BLEACH: Thousand-Year Blood War - The Separation",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/BLEACH-Thousand-Year-Blood-War-The-Separation-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/oishinbo-sub.71850/",
-                                "title": "The Gourmet",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2019/02/Oishinbo-Sub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2/",
-                                "title": "Heaven Official's Blessing Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/the-eminence-in-shadow-season-2-dub.47070/",
-                                "title": "The Eminence in Shadow Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Eminence-in-Shadow-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/KamiErabi-GODapp/",
-                                "title": "KamiErabi GOD.app",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

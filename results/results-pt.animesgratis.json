@@ -17,6 +17,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg"
                             },
                             {
+                                "url": "/animes/edens-zero/",
+                                "title": "Edens Zero",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/2sJPpcEd83mILobIlDG1Jexu9bj.jpg"
+                            },
+                            {
                                 "url": "/animes/gundam-build-metaverse/",
                                 "title": "Gundam Build Metaverse",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/wqUeG1zbzRtti0HBdAvFBeo7iIu.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen-dublado/",
                                 "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen Dublado",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/wVwHZpElD4knChmr9ircNUfQwyg.jpg"
-                            },
-                            {
-                                "url": "/animes/kimetsu-no-yaiba-mugen-ressha-hen-tv/",
-                                "title": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/1tADD33ujMSstMSCDxTn6QaFAuV.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -314,19 +314,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://wht.nuplink.net/pool/pub/c0/d1/31/d99a27e15e064d220ece8d3469c0d131/427550003?token=6d0dd5032661fcbf6eab522002b8b0c6&ts=1699835059&ht=video/mp4",
-                        "quality": "Player - 720p",
-                        "videoUrl": "https://wht.nuplink.net/pool/pub/c0/d1/31/d99a27e15e064d220ece8d3469c0d131/427550003?token=6d0dd5032661fcbf6eab522002b8b0c6&ts=1699835059&ht=video/mp4"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=bQlJVL4L4AsPVd2&expires=1699905475&ip=F0qQKRWQE19XKxR&token=SuY-m7HT_Z-2",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=bQlJVL4L4AsPVd2&expires=1699905475&ip=F0qQKRWQE19XKxR&token=SuY-m7HT_Z-2"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
