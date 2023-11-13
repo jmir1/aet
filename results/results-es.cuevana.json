@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/20745/dragon-ball-z-la-batalla-mas-grande-de-este-mundo-esta-por-comenzar",
+                                "title": "Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar",
+                                "thumbnail_url": "https://pelisimg.online/cover/dragon-ball-z-la-batalla-mas-grande-de-este-mundo-esta-por-comenzar.jpg"
+                            },
+                            {
+                                "url": "/20746/dragon-ball-z-el-hombre-mas-fuerte-de-este-mundo",
+                                "title": "Dragon Ball Z: El Hombre más Fuerte de este Mundo",
+                                "thumbnail_url": "https://pelisimg.online/cover/dragon-ball-z-el-hombre-mas-fuerte-de-este-mundo.jpg"
+                            },
+                            {
                                 "url": "/20743/furia-de-leyenda",
                                 "title": "Furia de leyenda",
                                 "thumbnail_url": "https://pelisimg.online/cover/furia-de-leyenda.jpg"
@@ -215,16 +225,6 @@
                                 "url": "/20690/soul-mates",
                                 "title": "Soul Mates",
                                 "thumbnail_url": "https://pelisimg.online/cover/soul-mates.jpg"
-                            },
-                            {
-                                "url": "/20691/she-came-to-me",
-                                "title": "Llego a mí",
-                                "thumbnail_url": "https://pelisimg.online/cover/she-came-to-me.jpg"
-                            },
-                            {
-                                "url": "/20692/cortocircuito-2",
-                                "title": "Cortocircuito 2",
-                                "thumbnail_url": "https://pelisimg.online/cover/cortocircuito-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/20743/furia-de-leyenda",
-                    "title": "Furia de leyenda",
-                    "description": "En Shanghai, la Academia de Artes Marciales entrena a los jóvenes que aún creen en su país para convertirlos en luchadores. El maestro Huo, fundador de la Academia, es un obstáculo para los japoneses, por lo que deciden asesinarlo. Mientras, Chen Zen, uno de los alumnos de Huo regresa de su entrenamiento en Japón. Al enterarse de la muerte de su maestro, decide investigar lo ocurrido y restablecer la reputación de la Academia...",
-                    "genre": "Acción",
-                    "thumbnail_url": "https://pelisimg.online/cover/furia-de-leyenda.jpg",
+                    "url": "/20745/dragon-ball-z-la-batalla-mas-grande-de-este-mundo-esta-por-comenzar",
+                    "title": "Dragon Ball Z: La Batalla más Grande de este Mundo está por Comenzar",
+                    "description": "Turles, otro Saiyajin que se salvó de la destrucción del planeta Vegeta, llega a la Tierra. Él siembra la semilla de un árbol sagrado que consume toda la vida del planeta para luego comerse sus frutos y obtener más poder. Goku y los Guerreros Z pelean ante Turles y sus hombres para poder impedir lo que planean.",
+                    "genre": "Acción, , Animación, , Ciencia ficción",
+                    "thumbnail_url": "https://pelisimg.online/cover/dragon-ball-z-la-batalla-mas-grande-de-este-mundo-esta-por-comenzar.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/20743/furia-de-leyenda",
+                        "url": "/20745/dragon-ball-z-la-batalla-mas-grande-de-este-mundo-esta-por-comenzar",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=90oKBym1oGUZde&expires=1699968942&ip=GxOsEREnDS9X&token=N_-LxUZd-Va6",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=90oKBym1oGUZde&expires=1699968942&ip=GxOsEREnDS9X&token=N_-LxUZd-Va6"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -735,6 +741,12 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
+                                "url": "/ver-serie/jurassic-world-campamento-cretacico",
+                                "title": "Jurassic World: Campamento Cretácico",
+                                "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/fireball-visitantes-de-mundos-oscuros",
                                 "title": "Fireball: Visitantes de mundos oscuros",
                                 "description": "De los directores Werner Herzog y Clive Oppenheimer, este documental explora cómo los meteoritos y las estrellas fugaces han despertado nuestra curiosidad por otros mundos, haciéndonos repensar el destino de la humanidad.",
@@ -745,12 +757,6 @@
                                 "title": "W Dos Mundos",
                                 "description": "Oh Yeon Joo (Han Hyo Joo) es una cirujana cardiotorácica en sus 30 cuyo padre se dedica a escribir el webtoon más famoso de Corea \"W\". El autor (Kim Eui Sung), harto ya del personaje de Kang Chul (Lee Jong Suk), decide que es hora de matarlo. Sin embargo, por sucesos inesperados, ella se traslada al mundo ficticio donde vive Kang Chul y lo salva. De ahí en adelante Oh Yeon Joo intentará averiguar qué sucede realmente para que ambos mundos se unan y por qué su padre está empeñado en matar al personaje principal de su obra. Kang Chul es campeón olímpico de medalla de oro. Desde muy joven se hizo un heredero. Es una persona inteligente que está acostumbrado a pensar con la cabeza fría y tener ideas claras antes de actuar. Oh Yeon Joo es una médico residente de segundo año en especialidad de medicina cardiotorácica. Es una persona de gran corazón, pero que actúa antes de pensar. El drama se desarrolla en un universo paralelo.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
-                            },
-                            {
-                                "url": "/ver-serie/jurassic-world-campamento-cretacico",
-                                "title": "Jurassic World: Campamento Cretácico",
-                                "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/el-portal-del-mas-alla",
@@ -827,28 +833,17 @@
                     {
                         "url": "https://voe.sx/e/y081dd1vwn1b",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-gi44ckdfnm99vidr.voe-network.net/engine/hls2/01/08714/y081dd1vwn1b_,n,.urlset/master.m3u8?t=cQDZXayQxQT5hzuAOPguV5vuXH7whNhxyD-EZKQ8sEQ&s=1699877546&e=14400&f=43570833&node=delivery-node-gi44ckdfnm99vidr.voe-network.net&i=40.76&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://ettwcr5y.sw-cdnstream.com/hls2/01/00157/s59edfyk9mya_x/index-v1-a1.m3u8?t=cX8x9pk6Ca3CEbYTSF-bLZ3Hd7ROEUWdPRjKfNjjyXQ&s=1699877543&e=129600&f=785914&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "[LAT] StreamWish:648p",
-                        "videoUrl": "https://ettwcr5y.sw-cdnstream.com/hls2/01/00157/s59edfyk9mya_x/index-v1-a1.m3u8?t=cX8x9pk6Ca3CEbYTSF-bLZ3Hd7ROEUWdPRjKfNjjyXQ&s=1699877543&e=129600&f=785914&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/s59edfyk9mya"
-                        }
+                        "videoUrl": "https://delivery-node-girmnrmb2ev1lay6.voe-network.net/engine/hls2-c/01/08714/y081dd1vwn1b_,n,.urlset/master.m3u8?t=Fz_QU7qCNEMHn9jAxu4FB7FmxtWxS8tlHfroVUuvqIo&s=1699898980&e=14400&f=43570833&node=delivery-node-gi44ckdfnm99vidr.voe-network.net&i=40.67&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/62zgdb8cz8pe",
                         "quality": "[ENG] Voe:720p",
-                        "videoUrl": "https://delivery-node-8s8wso5f4w7ft6sg.voe-network.net/engine/hls2/01/08714/62zgdb8cz8pe_,n,.urlset/master.m3u8?t=1EAy9t0c_ZfDy--tuIE_LYvCYrX3osYfyY7J4Rs4dbg&s=1699877551&e=14400&f=43570863&node=delivery-node-8s8wso5f4w7ft6sg.voe-network.net&i=40.76&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-8s8wso5f4w7ft6sg.voe-network.net/engine/hls2/01/08714/62zgdb8cz8pe_,n,.urlset/master.m3u8?t=6g_i-IE11UKkYsNjHsQy7gOAlpExQFgmH3mRz7HtK3Y&s=1699898984&e=14400&f=43570863&node=delivery-node-8s8wso5f4w7ft6sg.voe-network.net&i=40.67&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://ytfm7fgsp1.sw-cdnstream.com/hls2/01/00157/5xh39tf77g9x_x/index-v1-a1.m3u8?t=Ha7R2dMS3ZEZoSpRuZdHE83ZiBw9jPmugz6LU10U3R0&s=1699877547&e=129600&f=785931&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=8075",
+                        "url": "https://ytfm7fgsp1.sw-cdnstream.com/hls2/01/00157/5xh39tf77g9x_x/index-v1-a1.m3u8?t=R_56E9fNkQBWgd19coSCMuZe12iRYNK-uTQJDhbQTec&s=1699898981&e=129600&f=785931&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=8075",
                         "quality": "[CAST] StreamWish:648p",
-                        "videoUrl": "https://ytfm7fgsp1.sw-cdnstream.com/hls2/01/00157/5xh39tf77g9x_x/index-v1-a1.m3u8?t=Ha7R2dMS3ZEZoSpRuZdHE83ZiBw9jPmugz6LU10U3R0&s=1699877547&e=129600&f=785931&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=8075",
+                        "videoUrl": "https://ytfm7fgsp1.sw-cdnstream.com/hls2/01/00157/5xh39tf77g9x_x/index-v1-a1.m3u8?t=R_56E9fNkQBWgd19coSCMuZe12iRYNK-uTQJDhbQTec&s=1699898981&e=129600&f=785931&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",

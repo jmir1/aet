@@ -167,6 +167,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/shy/",
+                                "title": "Shy",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/seiken-gakuin-no-makentsukai/",
+                                "title": "Seiken Gakuin no Makentsukai",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/hoshikuzu-telepath/",
+                                "title": "Hoshikuzu Telepath",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/migi-to-dali/",
+                                "title": "Migi to Dali",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/kamonohashi-ron-no-kindan-suiri/",
+                                "title": "Kamonohashi Ron no Kindan Suiri",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/kawagoe-boys-sing/",
+                                "title": "Kawagoe Boys Sing",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/anime/tousouchuu-great-mission/",
                                 "title": "Tousouchuu: Great Mission",
                                 "thumbnail_url": ""
@@ -284,36 +314,6 @@
                             {
                                 "url": "/anime/dekoboko-majo-no-oyako-jijou/",
                                 "title": "Dekoboko Majo no Oyako Jijou",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/overtake/",
-                                "title": "Overtake!",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/ochibi-san/",
-                                "title": "Ochibi-san",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/akuma-kun-ona-2/",
-                                "title": "Akuma-kun (ONA)",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/pokemon-shinsaku-anime/",
-                                "title": "Pokemon (Shinsaku Anime)",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/shadowverse-flame-seven-shadows-hen/",
-                                "title": "Shadowverse Flame: Seven Shadows-hen",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/megumi-no-daigo-kyuukoku-no-orange/",
-                                "title": "Megumi no Daigo: Kyuukoku no Orange",
                                 "thumbnail_url": ""
                             }
                         ],
@@ -511,7 +511,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\n<head><title>502 Bad Gateway</title></head>\n<body>\n<center><h1>502 Bad Gateway</h1></center>\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\n</body>\n</html>\n",
                 "passed": false
             }
         }

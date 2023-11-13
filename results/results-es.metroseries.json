@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/amor-aqui-y-ahora/",
+                                "title": "Amor, aquí y ahora",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/found/",
                                 "title": "Found",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/bake-off-celebrity-el-gran-pastelero-colombia/",
-                                "title": "Bake Off Celebrity, El Gran Pastelero: Colombia",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/not-quite-narwhal/",
-                                "title": "Not Quite Narwhal",
+                                "url": "/la-fortuna/",
+                                "title": "La Fortuna",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/el-motivo/",
-                                "title": "El Motivo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sUl3WDHBjAQn0Wsf4zUeE7XHSRt.jpg"
+                                "url": "/como-vivir-contigo-mismo/",
+                                "title": "Cómo vivir contigo mismo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fLo2TqZ4UHHZU0UJbhi3lraCJNu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/found/",
-                    "title": "Found",
-                    "description": "Encontrados, En un año cualquiera, más de 600.000 personas son reportadas como desaparecidas en Estados Unidos. De estos casos reportados, más de la mitad de las personas desaparecidas son personas de color, que el sistema descuida con demasiada facilidad. Gabi Mosely, una ex persona desaparecida, ahora se especializa en relaciones públicas y lidera un equipo de gestión de crisis que busca a estas personas desaparecidas. Pero sin que nadie lo sepa, Mosely esconde un oscuro secreto.",
-                    "genre": "Crimen, Drama",
+                    "url": "/amor-aqui-y-ahora/",
+                    "title": "Amor, aquí y ahora",
+                    "description": "此時此刻 Esta serie antológica ambientada en la época de la pandemia presenta 10 historias únicas de pasión y desamor.",
+                    "genre": "Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/found-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Episodio 5",
-                        "date_upload": 1698710400000,
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/episode/found-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - Episodio 4",
-                        "date_upload": 1698105600000,
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

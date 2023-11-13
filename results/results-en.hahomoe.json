@@ -52,9 +52,9 @@
                                 "thumbnail_url": "https://haho.moe/images/anime/se0o4krtp-5d5346f073351238707778.jpg"
                             },
                             {
-                                "url": "/anime/yutcbp1j?s=srt-d",
-                                "title": "Cream Lemon",
-                                "thumbnail_url": "https://haho.moe/images/anime/sldyjfjwj-5bfaa805d1e8e990129285.jpg"
+                                "url": "/anime/mw3oyszz?s=srt-d",
+                                "title": "Kounai Shasei",
+                                "thumbnail_url": "https://haho.moe/images/anime/az51a2bqc-5c3e16b879c85510583108.jpg"
                             },
                             {
                                 "url": "/anime/9pp8kf1r?s=srt-d",
@@ -62,9 +62,9 @@
                                 "thumbnail_url": "https://haho.moe/images/anime/mjw5n9mzj-6538c9dad47c7260195420.jpg"
                             },
                             {
-                                "url": "/anime/mw3oyszz?s=srt-d",
-                                "title": "Kounai Shasei",
-                                "thumbnail_url": "https://haho.moe/images/anime/az51a2bqc-5c3e16b879c85510583108.jpg"
+                                "url": "/anime/yutcbp1j?s=srt-d",
+                                "title": "Cream Lemon",
+                                "thumbnail_url": "https://haho.moe/images/anime/sldyjfjwj-5bfaa805d1e8e990129285.jpg"
                             },
                             {
                                 "url": "/anime/yl0kpmos?s=srt-d",
@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://haho.moe/images/anime/jn1bvnp1y-64f510ca9d368577201028.jpg"
                             },
                             {
-                                "url": "/anime/6l9oy91j?s=srt-d",
-                                "title": "Private Emotion",
-                                "thumbnail_url": "https://haho.moe/images/anime/jkas5u0l5-5dcc8b66bfa59166168832.jpg"
-                            },
-                            {
                                 "url": "/anime/nrk6pb8d?s=srt-d",
                                 "title": "Ura Jutaijima",
                                 "thumbnail_url": "https://haho.moe/images/anime/trwuz4sjd-5e9f0f4278a11112494771.jpg"
+                            },
+                            {
+                                "url": "/anime/6l9oy91j?s=srt-d",
+                                "title": "Private Emotion",
+                                "thumbnail_url": "https://haho.moe/images/anime/jkas5u0l5-5dcc8b66bfa59166168832.jpg"
                             },
                             {
                                 "url": "/anime/cimm4pna?s=srt-d",
@@ -102,19 +102,14 @@
                                 "thumbnail_url": "https://haho.moe/images/anime/ov5r5w7z8-5d8485d81cb4e810754976.jpg"
                             },
                             {
-                                "url": "/anime/pboobemt?s=srt-d",
-                                "title": "Ane wa Yanmama Junyuuchuu",
-                                "thumbnail_url": "https://haho.moe/images/anime/8bawopox2-5edd23c125c24237066321.jpg"
-                            },
-                            {
-                                "url": "/anime/7ct7twnq?s=srt-d",
-                                "title": "Futabu!!",
-                                "thumbnail_url": "https://haho.moe/images/anime/zezeyt5m3-5c0721e2584b6873568012.jpg"
-                            },
-                            {
                                 "url": "/anime/crxblwi7?s=srt-d",
                                 "title": "Kokuhaku......",
                                 "thumbnail_url": "https://haho.moe/images/anime/yyflpytym-645fc46d3e156914489238.jpg"
+                            },
+                            {
+                                "url": "/anime/pboobemt?s=srt-d",
+                                "title": "Ane wa Yanmama Junyuuchuu",
+                                "thumbnail_url": "https://haho.moe/images/anime/8bawopox2-5edd23c125c24237066321.jpg"
                             },
                             {
                                 "url": "/anime/yd6wsiyf?s=srt-d",
@@ -122,9 +117,14 @@
                                 "thumbnail_url": "https://haho.moe/images/anime/pbh3k7p0d-6517f6e8d828c430226213.jpg"
                             },
                             {
-                                "url": "/anime/ysie7dft?s=srt-d",
-                                "title": "Tsundero Series",
-                                "thumbnail_url": "https://haho.moe/images/anime/hlcn4rz5k-64fde5f49ba5c564881867.jpg"
+                                "url": "/anime/vgdyhpy7?s=srt-d",
+                                "title": "Boku ni Sefure ga Dekita Riyuu",
+                                "thumbnail_url": "https://haho.moe/images/anime/l0mgboukk-6341c1bc73353402840555.jpg"
+                            },
+                            {
+                                "url": "/anime/7ct7twnq?s=srt-d",
+                                "title": "Futabu!!",
+                                "thumbnail_url": "https://haho.moe/images/anime/zezeyt5m3-5c0721e2584b6873568012.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -327,12 +327,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/jftzqybp/2",
+                        "name": "Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/anime/jftzqybp/1",
+                        "name": "Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s1.filegasm.com/0c6cd8ce6a93d7d2?download_token=eb3c8fbfaadfa9121d8132dfdfbdb433f53aa81253cf3c0d79af957afadf5b70",
+                        "quality": "360p",
+                        "videoUrl": "https://s1.filegasm.com/0c6cd8ce6a93d7d2?download_token=eb3c8fbfaadfa9121d8132dfdfbdb433f53aa81253cf3c0d79af957afadf5b70"
+                    },
+                    {
+                        "url": "https://s1.filegasm.com/6afc123c62fd8745?download_token=0fd680277f6f81bb6d6aa09143cf736dde9cef9325cc0e5943507e7b248a85cc",
+                        "quality": "480p",
+                        "videoUrl": "https://s1.filegasm.com/6afc123c62fd8745?download_token=0fd680277f6f81bb6d6aa09143cf736dde9cef9325cc0e5943507e7b248a85cc"
+                    }
+                ],
+                "passed": true
             }
         }
     }

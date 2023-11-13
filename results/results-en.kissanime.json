@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Stardust-Telepath/",
+                                "title": "Stardust Telepath",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Stardust-Telepath.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub/",
                                 "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-Dub.jpg"
@@ -510,11 +515,6 @@
                                 "url": "/Anime/Bikkurimen/",
                                 "title": "Bikkurimen",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Bikkurimen.jpg"
-                            },
-                            {
-                                "url": "/Anime/BEYBLADE-X/",
-                                "title": "BEYBLADE X",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/BEYBLADE-X.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
