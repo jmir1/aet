@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/wreck-psico-pato/",
+                                "title": "Wreck: Psico Pato",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/amor-aqui-y-ahora/",
                                 "title": "Amor, aquí y ahora",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/llamas-gemelas-como-apagar-el-fuego/",
-                                "title": "Llamas Gemelas: Cómo apagar el fuego",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/icarly-latino/",
-                                "title": "iCarly",
+                                "url": "/secrets-of-playboy/",
+                                "title": "Secrets of Playboy",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/tore/",
-                                "title": "Tore",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9GNkPp7bZyOtOIBPkf085mno5Qm.jpg"
+                                "url": "/women-of-the-movement/",
+                                "title": "Women of the Movement",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pL9prhQYEPKoNOniVJcJjEaozdY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,25 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/amor-aqui-y-ahora/",
-                    "title": "Amor, aquí y ahora",
-                    "description": "此時此刻 Esta serie antológica ambientada en la época de la pandemia presenta 10 historias únicas de pasión y desamor.",
-                    "genre": "Drama",
+                    "url": "/wreck-psico-pato/",
+                    "title": "Wreck: Psico Pato",
+                    "description": "El Sacramentum es un crucero de lujo cuya tripulación está formada por un grupo de jóvenes que se embarcan en busca de fiestas. Entre ellos está Jamie, un veinteañero que se une a la tripulación bajo una identidad ficticia para descubrir la verdad sobre el suicidio de su hermana en el último viaje del barco. Allí descubrirá un macabro juego dirigido por una organización en la sombra impulsada por la codicia y la sed de sangre, donde los pasajeros luchan por no caer en manos del villano más carismático: Quacky, el psicopato.",
+                    "genre": "Comedia, Misterio",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/amor-aqui-y-ahora-temporada-1-capitulo-1/",
-                        "name": "T01 - E01 - Amor en directo",
-                        "date_upload": 1699574400000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
