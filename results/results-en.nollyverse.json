@@ -3,8 +3,64 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/pain-hustlers",
+                                "title": "Pain Hustlers",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/pain-hustlers.jpg"
+                            },
+                            {
+                                "url": "/movie/oppenheimer",
+                                "title": "Oppenheimer",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/oppenheimer.jpg"
+                            },
+                            {
+                                "url": "/movie/barbie",
+                                "title": "Barbie",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/barbie.jpg"
+                            },
+                            {
+                                "url": "/movie/mission-impossible-dead-reckoning-part-one",
+                                "title": "Mission: Impossible - Dead Reckoning Part One",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/mission-impossible-dead-reckoning-part-one.jpg"
+                            },
+                            {
+                                "url": "/movie/transformers-rise-of-the-beasts",
+                                "title": "Transformers: Rise of the Beasts",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/transformers-rise-of-the-beasts.jpg"
+                            },
+                            {
+                                "url": "/movie/spider-man-across-the-spider-verse",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/spider-man-across-the-spider-verse.jpg"
+                            },
+                            {
+                                "url": "/movie/fast-x",
+                                "title": "Fast X",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/fast-x.jpg"
+                            },
+                            {
+                                "url": "/movie/renfield",
+                                "title": "Renfield",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/renfield.jpg"
+                            },
+                            {
+                                "url": "/movie/john-wick-chapter-4",
+                                "title": "John Wick: Chapter 4",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/john-wick-chapter-4.jpg"
+                            },
+                            {
+                                "url": "/movie/shazam-fury-of-the-gods",
+                                "title": "Shazam! Fury of the Gods",
+                                "thumbnail_url": "https://www.nollyverse.com/movie/img/shazam-fury-of-the-gods.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -108,10 +164,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/lawmen-bass-reeves",
-                    "title": "Lawmen: Bass Reeves (2023-)",
-                    "description": "The story of Bass Reeves, the legendary lawman of the wild West, is brought to life. Reeves worked in the post-Reconstruction era as a federal peace officer in the Indian Territory, capturing over 3,000 of the most dangerous criminals without ever being wounded—and is believed to be the inspiration for The Lone Ranger.",
-                    "genre": "Drama, Western",
+                    "url": "/movie/pain-hustlers",
+                    "title": "Pain Hustlers",
+                    "description": "After losing her job, a single mom falls into a lucrative but ultimately dangerous scheme selling prescription drugs.",
+                    "genre": "Crime, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -119,13 +175,8 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/lawmen-bass-reeves/season-1#2",
-                        "name": "Episode S1E2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/serie/lawmen-bass-reeves/season-1#1",
-                        "name": "Episode S1E1",
+                        "url": "/movie/pain-hustlers/download/",
+                        "name": "Movie",
                         "episode_number": 1.0
                     }
                 ],
@@ -134,9 +185,44 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://dl1.fm6x.top/06/05/Lawmen.Bass.Reeves.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+                        "url": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.1080p.WEB-DL.6CH.YIFY.mkv",
+                        "quality": "1080p",
+                        "videoUrl": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.1080p.WEB-DL.6CH.YIFY.mkv"
+                    },
+                    {
+                        "url": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA.mkv",
+                        "quality": "1080p.x265",
+                        "videoUrl": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.1080p.10bit.WEBRip.6CH.x265.HEVC.PSA.mkv"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/F1549C75FC9C73DDB234A193AE364F5264513657",
+                        "quality": "WEB 1080p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/F1549C75FC9C73DDB234A193AE364F5264513657"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/1944091BF1F11C327878E5057BDF51790329B7C2",
+                        "quality": "WEB 1080p.x265",
+                        "videoUrl": "https://yts.mx/torrent/download/1944091BF1F11C327878E5057BDF51790329B7C2"
+                    },
+                    {
+                        "url": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.480p.WEB-DL.ZarFilm.mkv",
+                        "quality": "480p",
+                        "videoUrl": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.480p.WEB-DL.ZarFilm.mkv"
+                    },
+                    {
+                        "url": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.720p.WEB-DL.EDITH.mkv",
+                        "quality": "720p",
+                        "videoUrl": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.720p.WEB-DL.EDITH.mkv"
+                    },
+                    {
+                        "url": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.720p.10bit.WEBRip.6CH.x265.HEVC.PSA.mkv",
                         "quality": "720p.x265",
-                        "videoUrl": "https://dl1.fm6x.top/06/05/Lawmen.Bass.Reeves.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                        "videoUrl": "https://dl1.uploding.sbs/Movies5/2023/Pain.Hustlers.2023/Pain.Hustlers.2023.720p.10bit.WEBRip.6CH.x265.HEVC.PSA.mkv"
+                    },
+                    {
+                        "url": "https://yts.mx/torrent/download/13D6FA312B73A420ED59781916139C7429B190DE",
+                        "quality": "WEB 720p.x264",
+                        "videoUrl": "https://yts.mx/torrent/download/13D6FA312B73A420ED59781916139C7429B190DE"
                     }
                 ],
                 "passed": true

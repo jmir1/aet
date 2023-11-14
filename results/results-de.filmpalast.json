@@ -177,6 +177,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/susi-und-strolch",
+                                "title": "Susi und Strolch",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/susi-und-strolch.jpg"
+                            },
+                            {
+                                "url": "/stream/diamond-heist-ein-unmoglicher-auftrag",
+                                "title": "Diamond Heist - Ein unmöglicher Auftrag",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/diamond-heist-ein-unmoglicher-auftrag.jpg"
+                            },
+                            {
+                                "url": "/stream/fear-the-walking-dead-s08e10",
+                                "title": "Fear the Walking Dead S08E10",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fear-the-walking-dead-s08e10.jpg"
+                            },
+                            {
+                                "url": "/stream/drei-amigos",
+                                "title": "Drei Amigos!",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/drei-amigos.jpg"
+                            },
+                            {
                                 "url": "/stream/santa-bootcamp",
                                 "title": "Santa Bootcamp",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/santa-bootcamp.jpg"
@@ -315,26 +335,6 @@
                                 "url": "/stream/lawmen-bass-reeves-s01e01",
                                 "title": "Lawmen: Bass Reeves S01E01",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/lawmen-bass-reeves-s01e01.jpg"
-                            },
-                            {
-                                "url": "/stream/das-tier-2",
-                                "title": "Das Tier 2",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/das-tier-2.jpg"
-                            },
-                            {
-                                "url": "/stream/diabolik",
-                                "title": "Diabolik",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/diabolik.jpg"
-                            },
-                            {
-                                "url": "/stream/wolfkin",
-                                "title": "Wolfkin",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/wolfkin.jpg"
-                            },
-                            {
-                                "url": "/stream/die-claus-familie-3",
-                                "title": "Die Claus-Familie 3",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-claus-familie-3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=oAya68Sr2UklT3WpdPNpdCl-xo9dn9-RizjBSa70Zkw&s=1699921821&e=43200&f=10995342&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=oAya68Sr2UklT3WpdPNpdCl-xo9dn9-RizjBSa70Zkw&s=1699921821&e=43200&f=10995342&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

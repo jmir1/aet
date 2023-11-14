@@ -167,6 +167,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/b-project-netsuretsulove-call/",
+                                "title": "B-Project: Netsuretsu*Love Call",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/dead-mount-death-play-part-2/",
+                                "title": "Dead Mount Death Play Part 2",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/toaru-ossan-no-vrmmo-katsudouki/",
+                                "title": "Toaru Ossan no VRMMO Katsudouki",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/watashi-no-oshi-wa-akuyaku-reijou/",
+                                "title": "Watashi no Oshi wa Akuyaku Reijou.",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/anime/shy/",
                                 "title": "Shy",
                                 "thumbnail_url": ""
@@ -294,26 +314,6 @@
                             {
                                 "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
                                 "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/",
-                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/mf-ghost/",
-                                "title": "MF Ghost",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/boushoku-no-berserk/",
-                                "title": "Boushoku no Berserk",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/dekoboko-majo-no-oyako-jijou/",
-                                "title": "Dekoboko Majo no Oyako Jijou",
                                 "thumbnail_url": ""
                             }
                         ],
@@ -511,7 +511,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\n<head><title>502 Bad Gateway</title></head>\n<body>\n<center><h1>502 Bad Gateway</h1></center>\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\n</body>\n</html>\n",
+                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
                 "passed": false
             }
         }
