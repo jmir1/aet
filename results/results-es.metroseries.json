@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/suburraeterna/",
+                                "title": "Suburræterna",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/drenge/",
+                                "title": "Drenge",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/pictoline-la-vida-secreta-de-tu-mente/",
+                                "title": "Pictoline: La Vida Secreta de tu Mente",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/salvese-quien-pueda/",
+                                "title": "¡Sálvese quien pueda!",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/wreck-psico-pato/",
                                 "title": "Wreck: Psico Pato",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -37,28 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/vigilante-2023/",
-                                "title": "Vigilante (2023)",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/ultimas-ferias/",
-                                "title": "Últimas Férias",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/hero-inside/",
-                                "title": "Hero Inside",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/robbie-williams/",
-                                "title": "Robbie Williams",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/secrets-of-playboy/",
-                                "title": "Secrets of Playboy",
+                                "url": "/kamikaze/",
+                                "title": "Kamikaze",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/g-i-joe-capitulos-completos-latino-hd-online/",
-                                "title": "G.I. Joe",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/yH0kMqMK8AMtt0aNNE2NEIUiFgq-226x339.jpg"
+                                "url": "/dead-still/",
+                                "title": "Dead Still",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ovnE6Xw4eqOBOcYvg27bOgc66GM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/wreck-psico-pato/",
-                    "title": "Wreck: Psico Pato",
-                    "description": "El Sacramentum es un crucero de lujo cuya tripulación está formada por un grupo de jóvenes que se embarcan en busca de fiestas. Entre ellos está Jamie, un veinteañero que se une a la tripulación bajo una identidad ficticia para descubrir la verdad sobre el suicidio de su hermana en el último viaje del barco. Allí descubrirá un macabro juego dirigido por una organización en la sombra impulsada por la codicia y la sed de sangre, donde los pasajeros luchan por no caer en manos del villano más carismático: Quacky, el psicopato.",
-                    "genre": "Comedia, Misterio",
+                    "url": "/suburraeterna/",
+                    "title": "Suburræterna",
+                    "description": "Mientras el caos impera en Roma, las tensiones con clanes criminales emergentes ponen en peligro las alianzas consolidadas. Nuevo giro del universo de ‘Suburra’.",
+                    "genre": "Crimen, Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/suburraeterna-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Episodio 8",
+                        "date_upload": 1699920000000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/suburraeterna-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Episodio 7",
+                        "date_upload": 1699920000000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

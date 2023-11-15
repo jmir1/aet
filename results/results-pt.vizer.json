@@ -227,6 +227,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/all-rise",
+                                "title": "All Rise",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3942.webp"
+                            },
+                            {
+                                "url": "/serie/online/30-monedas",
+                                "title": "30 Moedas",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19148.webp"
+                            },
+                            {
+                                "url": "/serie/online/rick-and-morty",
+                                "title": "Rick e Morty",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-curse",
                                 "title": "The Curse",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "Vigilante",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22527.webp"
-                            },
-                            {
-                                "url": "/serie/online/patrulha-do-destino",
-                                "title": "Patrulha do Destino",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4684.webp"
-                            },
-                            {
-                                "url": "/serie/online/all-rise",
-                                "title": "All Rise",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3942.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-winter-king",
-                                "title": "The Winter King",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22423.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
