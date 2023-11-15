@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/pettonton.html",
+                                "title": "Pettonton",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/pettonton-thumb.png"
+                            },
+                            {
                                 "url": "/watch/batten-robomaru-the-special.html",
                                 "title": "Batten Robomaru The Special",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/batten-robomaru-the-special-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/secret-x-heroine-phantomirage-weve-become-a-movie.html",
                                 "title": "Secret x Heroine Phantomirage!: ~We’ve Become a Movie~",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/secret-x-heroine-phantomirage-weve-become-a-movie-thumb.png"
-                            },
-                            {
-                                "url": "/watch/magical-x-heroine-magimajo-pures.html",
-                                "title": "Magical x Heroine Magimajo Pures!",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/magical-x-heroine-magimajopures-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/batten-robomaru-the-special.html",
-                    "title": "Batten Robomaru The Special",
+                    "url": "/watch/pettonton.html",
+                    "title": "Pettonton",
                     "author": "Year 1983",
-                    "description": "Batten Robomaru The Special is the second installment of the Toei Fushigi Comedy Series, and features the titular character Robomaru crash-landing on Earth, specifically Karinto New Town.",
-                    "genre": "Movie, Other",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/batten-robomaru-the-special-thumb.png",
+                    "description": "Pettonton created by Shotaro Ishinomori and produced by Toei. It ran for 46 episodes between October 1983 and August 1984. Pettonton is a green mysterious space alien, discarded on Earth by an UFO (not unlike E.T.).",
+                    "genre": "Other, Series",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/pettonton-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,9 +159,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/batten-robomaru-the-special.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/pettonton.html?ep=46#watch",
+                        "name": "Episode 46",
+                        "episode_number": 46.0
+                    },
+                    {
+                        "url": "/watch/pettonton.html?ep=45#watch",
+                        "name": "Episode 45",
+                        "episode_number": 45.0
                     }
                 ],
                 "passed": true

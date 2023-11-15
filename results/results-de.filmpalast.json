@@ -177,6 +177,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/vier-fauste-gegen-rio",
+                                "title": "Vier Fäuste gegen Rio",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/vier-fauste-gegen-rio.jpg"
+                            },
+                            {
+                                "url": "/stream/der-profi-2",
+                                "title": "Der Profi 2",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/der-profi-2.jpg"
+                            },
+                            {
+                                "url": "/stream/christmas-time",
+                                "title": "Christmas Time",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/christmas-time.jpg"
+                            },
+                            {
+                                "url": "/stream/bottoms",
+                                "title": "Bottoms",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/bottoms.jpg"
+                            },
+                            {
+                                "url": "/stream/last-days",
+                                "title": "Last Days",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/last-days.jpg"
+                            },
+                            {
+                                "url": "/stream/stimme-der-dunkelheit",
+                                "title": "Stimme der Dunkelheit",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/stimme-der-dunkelheit.jpg"
+                            },
+                            {
                                 "url": "/stream/susi-und-strolch",
                                 "title": "Susi und Strolch",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/susi-und-strolch.jpg"
@@ -305,36 +335,6 @@
                                 "url": "/stream/the-marvels",
                                 "title": "The Marvels",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/the-marvels.jpg"
-                            },
-                            {
-                                "url": "/stream/the-baker",
-                                "title": "The Baker",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-baker.jpg"
-                            },
-                            {
-                                "url": "/stream/money-shot-the-pornhub-story",
-                                "title": "Money Shot: The Pornhub Story",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/money-shot-the-pornhub-story.jpg"
-                            },
-                            {
-                                "url": "/stream/cocaine-shark",
-                                "title": "Cocaine Shark",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cocaine-shark.jpg"
-                            },
-                            {
-                                "url": "/stream/cyberbunker-the-criminal-underworld",
-                                "title": "Cyberbunker: The Criminal Underworld",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cyberbunker-the-criminal-underworld.jpg"
-                            },
-                            {
-                                "url": "/stream/lawmen-bass-reeves-s01e02",
-                                "title": "Lawmen: Bass Reeves S01E02",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/lawmen-bass-reeves-s01e02.jpg"
-                            },
-                            {
-                                "url": "/stream/lawmen-bass-reeves-s01e01",
-                                "title": "Lawmen: Bass Reeves S01E01",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/lawmen-bass-reeves-s01e01.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,17 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=KZdpHC1_dtXNYF2d0478BqC_rR0iK7_VLeEm4Q-zq-k&s=1700008242&e=43200&f=10995342&i=0.0&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=KZdpHC1_dtXNYF2d0478BqC_rR0iK7_VLeEm4Q-zq-k&s=1700008242&e=43200&f=10995342&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

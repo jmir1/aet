@@ -227,6 +227,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/007-estrada-para-o-milhao",
+                                "title": "007: Estrada para o Milhão",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22528.webp"
+                            },
+                            {
+                                "url": "/serie/online/fear-the-walking-dead",
+                                "title": "Fear the Walking Dead",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3736.webp"
+                            },
+                            {
+                                "url": "/serie/online/companheiros-de-viagem",
+                                "title": "Companheiros de Viagem",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
+                            },
+                            {
+                                "url": "/serie/online/beacon-23",
+                                "title": "Beacon 23",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22530.webp"
+                            },
+                            {
                                 "url": "/serie/online/all-rise",
                                 "title": "All Rise",
                                 "status": 1,
@@ -293,12 +317,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20373.webp"
                             },
                             {
-                                "url": "/serie/online/007-estrada-para-o-milhao",
-                                "title": "007: Estrada para o Milhão",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22528.webp"
-                            },
-                            {
                                 "url": "/serie/online/uma-questao-de-quimica",
                                 "title": "Uma Questão de Química",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "Invencível",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19285.webp"
-                            },
-                            {
-                                "url": "/serie/online/loki",
-                                "title": "Loki",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19270.webp"
-                            },
-                            {
-                                "url": "/serie/online/meu-papai-ainda-e-noel",
-                                "title": "Meu Papai (Ainda) é Noel",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22076.webp"
-                            },
-                            {
-                                "url": "/serie/online/vigilante",
-                                "title": "Vigilante",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22527.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
