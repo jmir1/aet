@@ -177,6 +177,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/of-an-age",
+                                "title": "Of an Age",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/of-an-age.jpg"
+                            },
+                            {
                                 "url": "/stream/vier-fauste-gegen-rio",
                                 "title": "Vier Fäuste gegen Rio",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/vier-fauste-gegen-rio.jpg"
@@ -330,11 +335,6 @@
                                 "url": "/stream/dumb-money-schnelles-geld",
                                 "title": "Dumb Money - Schnelles Geld",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/dumb-money-schnelles-geld.jpg"
-                            },
-                            {
-                                "url": "/stream/the-marvels",
-                                "title": "The Marvels",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-marvels.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=g0FiJR9EDPf2W_yFrpaLIg_iVhfDXqAkTs2sCMalDnQ&s=1700050301&e=43200&f=10995342&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=g0FiJR9EDPf2W_yFrpaLIg_iVhfDXqAkTs2sCMalDnQ&s=1700050301&e=43200&f=10995342&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
