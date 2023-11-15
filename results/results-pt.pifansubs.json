@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/bingwit/",
+                                "title": "Bingwit",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/40mwVoQw2ERm5AAhUZ34aII37b7-185x278.jpg"
+                            },
+                            {
                                 "url": "/tvshows/beyond-the-star/",
                                 "title": "Beyond The Star",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/3fd6KGl7bKbvkA9jLTMREp9NrxJ-185x278.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/movies/hippopotamus/",
                                 "title": "Hippopotamus",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/10/yasm5UQbY6llpwoClIaRSkxOfW5-185x278.jpg"
-                            },
-                            {
-                                "url": "/movies/old-narcissus/",
-                                "title": "Old Narcissus",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/10/fKsigW54LR0YVeJfOnstOCefEwe-185x278.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodes/absolute-zero-1x8/",
+                                "title": "Absolute Zero: 1×8",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/lpQW0pjeaULGNq8KPXwuuBUzYRY-300x170.jpg"
+                            },
                             {
                                 "url": "/episodes/my-universe-1x13/",
                                 "title": "My Universe: 1×13",
@@ -210,11 +215,6 @@
                                 "url": "/episodes/i-feel-you-linger-in-the-air-1x12/",
                                 "title": "I Feel You Linger In The Air: 1×12",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/6Bq85Hqvmnhi9FxfMXuQhALnenX-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/twins-the-series-1x1/",
-                                "title": "Twins The Series: 1×1",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/mqKkr9dGe5zNUTmG1m7ZcfgfakM-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -269,11 +269,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/beyond-the-star/",
-                    "title": "Beyond The Star",
-                    "description": "A história da KJ Agency, uma agência conhecida, planeja criar e produzir uma série. Incluindo o desenvolvimento de artistas, portanto, reunindo jovens que têm sonhos de se juntar ao projeto “Beyond The Star” para desenvolver capacidades em todos os aspectos do setor do entretenimento, no processo para se tornar superstars, sempre haverá obstáculos. Amor, compromisso ou sonhos, quais são os mais importantes?\n\nTítulo Original: เส้นทางรักพิชิตดวงดาว\nTemporadas: 1\nEpisódios: 8",
-                    "genre": "Drama, Romance",
-                    "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/3fd6KGl7bKbvkA9jLTMREp9NrxJ-200x300.jpg",
+                    "url": "/movies/bingwit/",
+                    "title": "Bingwit",
+                    "description": "Salem é uma mulher ambiciosa que usa seu corpo para atrair três homens – seu marido político Domingo, o funcionário Medel/Arnel e seu brinquedinho Aldon – até que Medel/Arnel e Aldon se apaixonam!\n\nTítulo Original: Bingwit",
+                    "genre": "+18, Adulto, Drama, Romance",
+                    "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/40mwVoQw2ERm5AAhUZ34aII37b7-200x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -281,28 +281,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/beyond-the-star-1x1/",
-                        "name": "Temporada 1 x 1 - Episódio 1",
-                        "date_upload": 1699660800000,
+                        "url": "/movies/bingwit/",
+                        "name": "Filme",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/N/v/C/7/NvC7n.aaa.mp4",
-                        "quality": "JWPlayer",
-                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/N/v/C/7/NvC7n.aaa.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://pifansubs.club",
-                            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

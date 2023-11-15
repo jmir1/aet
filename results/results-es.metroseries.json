@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/lawmen-bass-reeves/",
+                                "title": "Lawmen: Bass Reeves",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/fellow-travelers/",
+                                "title": "Fellow Travelers",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/el-adn-del-delito/",
+                                "title": "El ADN del delito",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/suburraeterna/",
                                 "title": "Suburræterna",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -42,23 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/waco-the-aftermath/",
-                                "title": "Waco: The Aftermath",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/akuma-kun/",
-                                "title": "Akuma Kun",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/breretour/",
-                                "title": "Breretour",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/kamikaze/",
-                                "title": "Kamikaze",
+                                "url": "/bojack-horseman/",
+                                "title": "BoJack Horseman",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/las-chicas-gilmore/",
-                                "title": "Las chicas Gilmore",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/pQ10vmeR32IJKbTOzzuaTscKV9Q-226x339.jpg"
+                                "url": "/icarly-revival-2021/",
+                                "title": "iCarly (2021)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tM4P2RNIIFzFJi7UngNVB80sRCp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/suburraeterna/",
-                    "title": "Suburræterna",
-                    "description": "Mientras el caos impera en Roma, las tensiones con clanes criminales emergentes ponen en peligro las alianzas consolidadas. Nuevo giro del universo de ‘Suburra’.",
-                    "genre": "Crimen, Drama",
+                    "url": "/lawmen-bass-reeves/",
+                    "title": "Lawmen: Bass Reeves",
+                    "description": "Hombres de Ley: Bass Reeves La historia de Bass Reeves, el legendario agente de la ley del salvaje Oeste, cobra vida. Reeves trabajó en la época posterior a la Reconstrucción como agente federal de la paz en el Territorio Indio, capturando a más de 3.000 de los criminales más peligrosos sin resultar nunca herido, y se cree que sirvió de inspiración para El Llanero Solitario.",
+                    "genre": "Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/suburraeterna-temporada-1-capitulo-8/",
-                        "name": "T01 - E08 - Episodio 8",
-                        "date_upload": 1699920000000,
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/suburraeterna-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - Episodio 7",
-                        "date_upload": 1699920000000,
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
