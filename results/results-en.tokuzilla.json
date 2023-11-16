@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/dokincho-nemurin.html",
+                                "title": "Dokincho! Nemurin",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/dokincho-nemurin-thumb.png"
+                            },
+                            {
                                 "url": "/watch/pettonton-special.html",
                                 "title": "Pettonton Special",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/pettonton-special-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/avataro-sentai-donbrothers-vs-avataro-sentai-donburies.html",
                                 "title": "Avataro Sentai Donbrothers vs. Avataro Sentai Donburies",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/avataro-sentai-donbrothers-vs-avataro-sentai-donburies-thumb.png"
-                            },
-                            {
-                                "url": "/watch/police-x-heroine-lovepatrina.html",
-                                "title": "Police x Heroine Lovepatrina!",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/police-x-heroine-lovepatrina-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/pettonton-special.html",
-                    "title": "Pettonton Special",
+                    "url": "/watch/dokincho-nemurin.html",
+                    "title": "Dokincho! Nemurin",
                     "author": "Year 1984",
-                    "description": "Pettonton Special is a green mysterious space alien, discarded on Earth by an UFO. The story depicts how he became best friends with Negita, and various other experiences with other friends.",
-                    "genre": "Movie, Other",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/pettonton-special-thumb.png",
+                    "description": "Dokincho! Nemurin is the fourth entry in the Toei Fushigi Comedy Series created by Shotaro Ishinomori and produced by Toei.",
+                    "genre": "Other, Series",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/dokincho-nemurin-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,9 +159,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/pettonton-special.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/dokincho-nemurin.html?ep=31#watch",
+                        "name": "Episode 31",
+                        "episode_number": 31.0
+                    },
+                    {
+                        "url": "/watch/dokincho-nemurin.html?ep=30#watch",
+                        "name": "Episode 30",
+                        "episode_number": 30.0
                     }
                 ],
                 "passed": true
