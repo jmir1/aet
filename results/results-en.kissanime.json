@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/the-eminence-in-shadow-season-2-dub.47070/",
+                                "title": "The Eminence in Shadow Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Eminence-in-Shadow-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/KamiErabi-GODapp/",
+                                "title": "KamiErabi GOD.app",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
+                            },
+                            {
+                                "url": "/Anime/16bit-Sensation-Another-Layer/",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/16bit-Sensation-Another-Layer.jpg"
+                            },
+                            {
+                                "url": "/Anime/Kizuna-no-Allele-2nd-Season/",
+                                "title": "Kizuna no Allele 2nd Season",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Kizuna-no-Allele-2nd-Season.jpg"
+                            },
+                            {
+                                "url": "/Anime/Uma-Musume-Pretty-Derby-Season-3/",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
+                            },
+                            {
                                 "url": "/Anime/the-eminence-in-shadow-season-2.87209/",
                                 "title": "The Eminence in Shadow Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Eminence-in-Shadow-Season-2.jpg"
@@ -490,31 +515,6 @@
                                 "url": "/Anime/Soaring-Sky-Pretty-Cure/",
                                 "title": "Soaring Sky! Pretty Cure",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
-                            },
-                            {
-                                "url": "/Anime/Protocol-Rain/",
-                                "title": "Protocol: Rain",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Protocol-Rain.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
-                            },
-                            {
-                                "url": "/Anime/i-shall-survive-using-potions.26519/",
-                                "title": "I Shall Survive Using Potions!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-Shall-Survive-Using-Potions.jpg"
-                            },
-                            {
-                                "url": "/Anime/butareba-the-story-of-a-man-turned-into-a-pig.18382/",
-                                "title": "Butareba -The Story of a Man Turned into a Pig-",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Butareba-The-Story-of-a-Man-Turned-into-a-Pig.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Returner-s-Magic-Should-Be-Special/",
-                                "title": "A Returner's Magic Should Be Special",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/A-Returner-s-Magic-Should-Be-Special.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
