@@ -545,45 +545,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/e3rnwyro8tgb",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-oxccnn9nkkcxh4ir.voe-network.net/engine/hls2-c/01/09869/e3rnwyro8tgb_,n,.urlset/master.m3u8?t=YCP7gmbzPCAWh9Vyzr89Y_YsZK3bjhpzd8lGT4tyuhA&s=1700071756&e=14400&f=49349425&node=delivery-node-unvmoyay2i0b8cnh.voe-network.net&i=20.109&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=ny5OMI4vAyTcXRVnkOPRgQ%2F25Ne0o7ySFDK4aipkwE1van5EyUR%2FGzRzf9fLrsPx7AZ7oOHQOk5U3Meav%2B2GM3VPUvXR9jZoEuyVIMbL2i5ytY%2B9TOK589Ht2SNf%2FZSeHkk1fuHLIxb7URq%2Fg9AVS%2B&ref=&sandbox=&t=&res=720",
-                        "quality": "GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=ny5OMI4vAyTcXRVnkOPRgQ%2F25Ne0o7ySFDK4aipkwE1van5EyUR%2FGzRzf9fLrsPx7AZ7oOHQOk5U3Meav%2B2GM3VPUvXR9jZoEuyVIMbL2i5ytY%2B9TOK589Ht2SNf%2FZSeHkk1fuHLIxb7URq%2Fg9AVS%2B&ref=&sandbox=&t=&res=720"
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=ny5OMI4vAyTcXRVnkOPRgQ%2F25Ne0o7ySFDK4aipkwE1van5EyUR%2FGzRzf9fLrsPx7AZ7oOHQOk5U3Meav%2B2GM3VPUvXR9jZoEuyVIMbL2i5ytY%2B9TOK589Ht2SNf%2FZSeHkk1fuHLIxb7URq%2Fg9AVS%2B&ref=&sandbox=&t=&res=360",
-                        "quality": "GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=ny5OMI4vAyTcXRVnkOPRgQ%2F25Ne0o7ySFDK4aipkwE1van5EyUR%2FGzRzf9fLrsPx7AZ7oOHQOk5U3Meav%2B2GM3VPUvXR9jZoEuyVIMbL2i5ytY%2B9TOK589Ht2SNf%2FZSeHkk1fuHLIxb7URq%2Fg9AVS%2B&ref=&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=280bAbkdmWsZ8xW&expires=1700141756&ip=FROsD0AAKxSHDN&token=MpyxuSz8zKaf",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=280bAbkdmWsZ8xW&expires=1700141756&ip=FROsD0AAKxSHDN&token=MpyxuSz8zKaf"
-                    },
-                    {
-                        "url": "https://m7.vudeo.co/2vp3vbec6mvjdohilnxbx2oey5yqxn4hti6k7vevsglpjh3v35piipnakyqq/v.mp4",
-                        "quality": "Vudeo",
-                        "videoUrl": "https://m7.vudeo.co/2vp3vbec6mvjdohilnxbx2oey5yqxn4hti6k7vevsglpjh3v35piipnakyqq/v.mp4",
-                        "headers": {
-                            "referer": "https://vudeo.co/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/714a3c15be1680bdeabb1a5255ecde6f/5317882.mp4",
-                        "quality": "Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/714a3c15be1680bdeabb1a5255ecde6f/5317882.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5317882"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

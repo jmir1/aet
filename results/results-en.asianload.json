@@ -57,7 +57,7 @@
                                 "thumbnail_url": "https://imagecdn.me/cover/strong-woman-kang-nam-soon-1694503307.png"
                             },
                             {
-                                "url": "/videos/a-good-day-to-be-a-dog-2023-episode-5",
+                                "url": "/videos/a-good-day-to-be-a-dog-2023-episode-6",
                                 "title": "A Good Day to Be a Dog (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/a-good-day-to-be-a-dog-1695712381.png"
                             },
@@ -349,7 +349,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Request timed out after 30000ms\n=========================== logs ===========================\n→ GET https://dwish.pro/wish/images/favicon/favicon-16x16.png\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: image/avif,image/webp,*/*\n  accept-encoding: gzip, deflate, br\n  host: dwish.pro\n  accept-language: en-US,en;q=0.5\n  referer: https://dwish.pro/e/08satzww1pqi?caption_1=https://sub.draplay2.pro&sub_1=English\n  sec-fetch-dest: image\n  sec-fetch-mode: no-cors\n  sec-fetch-site: same-origin\n  connection: keep-alive\n  cookie: lang=1\n============================================================\n  name='Error\n  stack='Error: Request timed out after 30000ms\n=========================== logs ===========================\n→ GET https://dwish.pro/wish/images/favicon/favicon-16x16.png\n  user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0\n  accept: image/avif,image/webp,*/*\n  accept-encoding: gzip, deflate, br\n  host: dwish.pro\n  accept-language: en-US,en;q=0.5\n  referer: https://dwish.pro/e/08satzww1pqi?caption_1=https://sub.draplay2.pro&sub_1=English\n  sec-fetch-dest: image\n  sec-fetch-mode: no-cors\n  sec-fetch-site: same-origin\n  connection: keep-alive\n  cookie: lang=1\n============================================================\n    at ClientRequest.rejectOnTimeout (/tmp/playwright-java-48311374978356462/package/lib/server/fetch.js:333:18)\n    at Object.onceWrapper (node:events:631:28)\n    at ClientRequest.emit (node:events:517:28)\n    at TLSSocket.emitRequestTimeout (node:_http_client:847:9)\n    at Object.onceWrapper (node:events:631:28)\n    at TLSSocket.emit (node:events:529:35)\n    at Socket._onTimeout (node:net:598:8)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)\n}",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
