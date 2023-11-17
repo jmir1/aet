@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/tvshows/pit-babe/",
+                                "title": "Pit Babe",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/qYOc2wXriD98soT8KhEj9sRDjAl-185x278.jpg"
+                            },
+                            {
                                 "url": "/movies/lets-eat-together-aki-and-haru/",
                                 "title": "Lets Eat Together: Aki and Haru",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/rrqwpxnXIqMGIpNozb5vePyqaZU-185x278.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/tvshows/shadow/",
                                 "title": "Shadow",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/10/kp52W21vXn0GqtHcVxjWKO1svt4-185x278.jpg"
-                            },
-                            {
-                                "url": "/tvshows/my-dear-gangster-oppa/",
-                                "title": "My Dear Gangster Oppa",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/10/i8xxTtVnTk1uAVcdB1rUpxRJgI3-185x278.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodes/pit-babe-1x1/",
+                                "title": "Pit Babe: 1×1",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/9WyIdy5B0VKLiqAB6cQcFFRJwhd-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodes/last-twilight-1x2/",
+                                "title": "Last Twilight: 1×2",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/3MdIwd9PD9fqpFEWAz1H0ilofeO-300x170.jpg"
+                            },
                             {
                                 "url": "/episodes/one-room-angel-1x5/",
                                 "title": "One Room Angel: 1×5",
@@ -205,16 +215,6 @@
                                 "url": "/episodes/my-universe-1x12/",
                                 "title": "My Universe: 1×12",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/kTx9tZ6r3zVCVFLBnZnWU36ciCg-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/venus-in-the-sky-1x10/",
-                                "title": "Venus in the Sky: 1×10",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/bc73b95Qk90YTSRBDYITwwQSB5k-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/mr-cinderella-2-1x7/",
-                                "title": "Mr Cinderella 2: 1×7",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/baQKv8FWV9uNfooUivyKaSZnGWy-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -269,11 +269,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/lets-eat-together-aki-and-haru/",
-                    "title": "Lets Eat Together: Aki and Haru",
-                    "description": "Uma história comovente entre os colegas de quarto Aki e Haru, dois estudantes universitários que têm personalidades e preocupações diferentes, mas compartilham o amor pela comida.\n\nTítulo Original: Aki wa Haru to Gohan wo Tabetai",
-                    "genre": "Comédia, Romance",
-                    "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/rrqwpxnXIqMGIpNozb5vePyqaZU-212x300.jpg",
+                    "url": "/tvshows/pit-babe/",
+                    "title": "Pit Babe",
+                    "description": "\n\nTítulo Original: พิษเบ๊บ\nTemporadas: 1\nEpisódios: 14",
+                    "genre": "Drama, Romance",
+                    "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/qYOc2wXriD98soT8KhEj9sRDjAl-200x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -281,16 +281,28 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/lets-eat-together-aki-and-haru/",
-                        "name": "Filme",
+                        "url": "/episodes/pit-babe-1x1/",
+                        "name": "Temporada 1 x 1 - Episódio 1",
+                        "date_upload": 1700179200000,
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/f/8/j/d/f8jdo.aaa.mp4",
+                        "quality": "JWPlayer",
+                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/f/8/j/d/f8jdo.aaa.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://pifansubs.club",
+                            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
