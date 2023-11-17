@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/chase-the-truth?id=655663ab6a60e54f2fdb1f32",
+                                "title": "Chase The Truth (Persigue la Verdad)",
+                                "description": "Hace cinco años, el sindicato criminal \"Lobos del Noroeste\" fue aniquilado por la policía, pero el líder del grupo, Gumulan, la columna vertebral de la vieja arma y los agentes encubiertos enviados por la policía, como Lin Ke, desaparecieron y fue difícil saber si están vivos o muertos.\n\nCinco años después, resurgió el grupo \"Lobo del Noroeste\", el detective de policía Chu Yi Han se infiltra en una organización criminal con la esperanza de encontrar a su madre. Pero por casualidad, se encuentra con Gu Lin Na quienes poco a poco profundizan en el núcleo del sindicato del crimen.",
+                                "genre": "Crimen, Drama, Misterio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/weHHbqI3uDotKE2Il0dDPDrITDk.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/kakegurui?id=654d8fdf2e2666c761a47532",
                                 "title": "Kakegurui (Kakegurui)",
                                 "description": "Niños de familias influyentes en la política y los negocios asisten a la Academia Privada Hyakkaouque se estableció por primera vez hace 122 años.\n\nEs una institución para privilegiados con un expediente muy peculiar: cuando eres hijo o hija de los más acaudalados, lo que te distingue no es la destreza atlética ni la inteligencia superior, sino leer a tu oponente en el arte de la negociación. ¿Y qué mejor forma para mejorar esas habilidades que con un riguroso programa de apuestas?. Los estudiantes que ganan los juegos están en el lado gobernante y los estudiantes que pierden se convierten en esclavos. Un día, una chica misteriosa, Jabami Yumeko, es transferida a la Academia Privada Hyakkaou. Parece pura y bonita,  pero es una maníaca del juego a la que le encantan las apuestas altas y busca la emoción de correr riesgos calculados.",
@@ -456,13 +463,6 @@
                                 "description": "Sobre un empleado de oficina de 35 años llamado Mukai-kun, aunque guapo y exitoso, Satoru Mukai de repente se da cuenta de que ha estado soltero durante diez años y no tiene idea de cómo iniciar una nueva relación, añadiendo que todavía tiene un vínculo persistente con su última exnovia, Miwako. En el trabajo, Mukai-kun comienza a fijarse en Nakatani-san, una empleada temporal.\n\nAtrapado entre un viejo amor, que no puede dejar ir, y un nuevo encuentro, Mukai-kun comienza su juego de amor de \"encontrar las diferencias\".",
                                 "genre": "Drama, Romance, Comedia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/7ArD2c4RpCL5ITzkm8AnKhU1aTY.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/yes-her-majesty?id=65309c326c21c9fb7bf2d97d",
-                                "title": "Yes, Her Majesty (Si, Su Majestad)",
-                                "description": "Después de 3 días en coma debido a un incidente en el que estuvo a punto de ahogarse, la gobernante del Gran Yan, la emperatriz Yue Li Zheng, finalmente se despierta, lamentablemente sin sus recuerdos. Pronto volverá a trabajar leyendo memoriales y ocupándose de cuestiones relevantes relacionadas con la Corte Real.\n\nSe dice que su consorte, Li Shi Hao, la rescató de ahogarse ese día, pero la emperatriz tiene la sensación de que algo anda mal y que las personas que la rodean, incluido su consorte, le ocultan un secreto. Cuando finalmente recupera sus recuerdos y descubre la verdad, queda atónita pero también se embarca en un maravilloso viaje hacia el amor verdadero mientras experimenta la crueldad de las luchas de poder dentro de la Corte Real.",
-                                "genre": "Drama, Romance, Aventura, Misterio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/gVi61xHBGLbajEuqhYh48d14wMd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -596,17 +596,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/love-is-panacea?id=6543d93bcb908e0cc14c8662",
-                    "title": "Love is Panacea (Amor es panacea)",
-                    "artist": "Luo Yunxi",
-                    "author": "CCTV-8",
-                    "description": "Cuando Gu Yunzheng, profesor asociado de neurocirugía, emprende una misión de ayuda médica en Lakaya, conoce a Su Wei'an, una \"desertora\" que abandonó su carrera médica para convertirse en empresaria. Desde discutir todo el tiempo hasta enamorarse, poco a poco descubre que todo su comportamiento anormal es causado por una enfermedad genética llamada enfermedad de Huntington. El amor por su amada le hace empatizar con la tristeza y la desesperación de esta enfermedad incurable que enfrentan 30.000 pacientes y sus familias en todo el país. Finalmente, Gu Yunzheng decide abandonar su prometedora carrera y dedicar su vida a la investigación para curar esta rara enfermedad, luchando junto a su amante para sacar luz de la oscuridad.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7NxE8VuxyeEHtGsTzvIk2V6Dqd.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

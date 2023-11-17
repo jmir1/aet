@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-new-pink-panther-show",
+                                "title": "The New Pink Panther Show",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933296.jpg"
+                            },
+                            {
+                                "url": "/anime/the-twisted-timeline-of-sammy-raj",
+                                "title": "The Twisted Timeline of Sammy & Raj",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933295.jpg"
+                            },
+                            {
                                 "url": "/anime/pet-squad",
                                 "title": "Pet Squad",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933294.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/dog-signal",
                                 "title": "Dog Signal",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933281.jpg"
-                            },
-                            {
-                                "url": "/anime/the-apothecary-diaries",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933280.jpg"
-                            },
-                            {
-                                "url": "/anime/blue-eye-samurai",
-                                "title": "Blue Eye Samurai",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933279.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/pet-squad",
-                    "title": "Pet Squad",
-                    "description": "Three unlikely heroes, a cat, a dog and a hamster, battle evil in their city.",
-                    "genre": "Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933294.jpg",
+                    "url": "/anime/the-new-pink-panther-show",
+                    "title": "The New Pink Panther Show",
+                    "description": "The New Pink Panther Show (1971–1974) featured a new opening and closing sequence and theme song, pitting the attention-seeking Aardvark against the panther. The show’s new title song, “Pantherly Pride”, was written by Doug Goodwin and played over the opening sequence. It aired The Ant and the Aardvark, as well as Roland and Rattfink, Hoot Kloot or The Blue Racer, as well as reruns of The Inspector. Only eight new Pink Panther cartoons were produced over this three-year period.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933296.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pet-squad-episode-26-spoilt-in-space",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    },
-                    {
-                        "url": "/pet-squad-episode-25-it-came-from-down-under",
-                        "name": "Season 1 - Episode 25",
-                        "episode_number": 125.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJthG2X6kI6GI7MWBfGzfqqI5N2HWqDJYKnQvtyuFwlJnETdS2QgB-_7dbMOhm5det8w6QFGbTKRqM1LSW3-Qqvzc9U4Xuo1i8hgcCzYJf-aMWf7Swl0Km5U6fXqtjf7QQ9tULJSaLSqS3D6DU5fMMWXE0r9n30yGvtzwwhzPEheFfafdJo6C1T1LsRhQj67_MIdiW1Nwd_9uw5EP-eD4MjyiDxIzAz6jqP-1O6aw1aT2jGTpAWRF84MMU7ZxC9jAfC27ZYTO6wXobZ4Yg0NT4xC9xPCoUXDloprlP0w_5MJL6PeC6fQLhTvJTyT9Ts0DHz7b0MpzpveSGilQ751E-Q4",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJthG2X6kI6GI7MWBfGzfqqI5N2HWqDJYKnQvtyuFwlJnETdS2QgB-_7dbMOhm5det8w6QFGbTKRqM1LSW3-Qqvzc9U4Xuo1i8hgcCzYJf-aMWf7Swl0Km5U6fXqtjf7QQ9tULJSaLSqS3D6DU5fMMWXE0r9n30yGvtzwwhzPEheFfafdJo6C1T1LsRhQj67_MIdiW1Nwd_9uw5EP-eD4MjyiDxIzAz6jqP-1O6aw1aT2jGTpAWRF84MMU7ZxC9jAfC27ZYTO6wXobZ4Yg0NT4xC9xPCoUXDloprlP0w_5MJL6PeC6fQLhTvJTyT9Ts0DHz7b0MpzpveSGilQ751E-Q4"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJthG2X6kI6GI7MWBfGzfqqI5N2HWqDJYKnQvtyuFwlJnETdS2QgB-_7dbMOhm5det8w6QFGbTKRqM1LSW3-QqvyKI76xvSEjWllBHeLfKJi4uH0EkSFPZiAQgadmIenHyrPLdFN1_2cONcKA_-l3fgza8vuR7GIGdGsfv-1HMMkQBQnaVs8A8Dvw5AhM2ulZY-CxkyLT1QHL6AUGXqRfr47RQV9Gpi_bKRs5XaY1OOX7twIQpqEtxfm-64c8T-vAnPSshEy9o-YGRToogOPCiQbZyI8feTnD6YiPV0_jIKDhPjKc4Row3Rxy7QHFzQunwvBaQqDIFEiT090RIFKuF5Q",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJthG2X6kI6GI7MWBfGzfqqI5N2HWqDJYKnQvtyuFwlJnETdS2QgB-_7dbMOhm5det8w6QFGbTKRqM1LSW3-QqvyKI76xvSEjWllBHeLfKJi4uH0EkSFPZiAQgadmIenHyrPLdFN1_2cONcKA_-l3fgza8vuR7GIGdGsfv-1HMMkQBQnaVs8A8Dvw5AhM2ulZY-CxkyLT1QHL6AUGXqRfr47RQV9Gpi_bKRs5XaY1OOX7twIQpqEtxfm-64c8T-vAnPSshEy9o-YGRToogOPCiQbZyI8feTnD6YiPV0_jIKDhPjKc4Row3Rxy7QHFzQunwvBaQqDIFEiT090RIFKuF5Q"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6863-best-christmas-ever",
+                                "title": "Best. Christmas. Ever!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4e983ecf-5adf-4474-8534-7e434965d0d9.webp"
+                            },
+                            {
                                 "url": "6816-hunger-games-la-ballata-dellusignolo-e-del-serpente",
                                 "title": "Hunger Games - La ballata dell'usignolo e del serpente",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/cf1b8143-f368-420f-9b59-cd3091de34d5.webp"
@@ -300,11 +305,6 @@
                                 "url": "6685-freestyle",
                                 "title": "Freestyle",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b6978424-1862-4eab-99ce-5c5934c70420.webp"
-                            },
-                            {
-                                "url": "6684-the-ferragnez-speciale-sanremo",
-                                "title": "The Ferragnez Speciale Sanremo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c3a3a7ab-768d-42e6-9298-698ff240ec07.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -527,6 +527,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/8f1f5231-6d8f-4f93-9323-69e44de60abe.webp"
                             },
                             {
+                                "url": "6807-ferry-la-serie",
+                                "title": "Ferry: La serie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1373d25b-e779-460c-af88-50e342cc21d4.webp"
+                            },
+                            {
                                 "url": "6806-walker-independence",
                                 "title": "Walker Independence",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/8552729a-dc86-46fa-bed4-aeb6cc8c7933.webp"
@@ -610,11 +615,6 @@
                                 "url": "6789-dampyr",
                                 "title": "Dampyr",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/4bf3d6eb-aa21-46a7-9b53-3516e64aabd5.webp"
-                            },
-                            {
-                                "url": "6788-mad-heidi",
-                                "title": "Mad Heidi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/320a4896-4834-43ff-9d9b-ae89baa768ae.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "6816-hunger-games-la-ballata-dellusignolo-e-del-serpente",
-                    "description": "Anni prima di diventare il tirannico presidente di Panem, il diciottenne Coriolanus Snow è l’ultima speranza per il buon nome della sua casata in declino: un’orgogliosa famiglia caduta in disgrazia nel dopoguerra di Capitol City. Con l’avvicinarsi della decima edizione degli Hunger Games, il giovane Snow teme per la sua reputazione poiché nominato mentore di Lucy Grey Baird, la ragazza tributo del miserabile Distretto 12. Ma quando Lucy Grey magnetizza l’intera nazione di Panem cantando con aria di sfida alla cerimonia della mietitura, Snow comprende che potrebbe ribaltare la situazione a suo favore. Unendo i loro istinti per lo spettacolo e l’astuzia politica, Snow e Lucy mireranno alla sopravvivenza dando vita a una corsa contro il tempo che decreterà chi è l’usignolo e chi il serpente.",
-                    "genre": "Azione, Fantascienza, Avventura",
+                    "url": "6863-best-christmas-ever",
+                    "description": "Quando uno scherzo del destino riunisce le loro famiglie per Natale, Charlotte cerca di dimostrare che la vita della sua vecchia amica Jackie non è così perfetta come sembra.",
+                    "genre": "Commedia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6816",
+                        "url": "6863",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6863\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6863\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-12525720508296634098/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-12525720508296634098/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-12525720508296634098/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-12525720508296634098/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/upload/",
+                                "title": "Upload",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6TPGDrU9MyWbn2TpggJphVAVXiq.jpg"
+                            },
+                            {
                                 "url": "/series/mr-robot/",
                                 "title": "Mr. Robot",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/top-boy/",
                                 "title": "Top Boy",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/qp0M2rt56S2gayLqx3SRV70Vv3N.jpg"
-                            },
-                            {
-                                "url": "/series/hijack/",
-                                "title": "Hijack",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/szDEqqarPi3YqiPLevm7LObYrDJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/mr-robot/",
-                    "title": "Mr. Robot",
-                    "author": "Sam Esmail",
-                    "description": "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
-                    "genre": "Crime, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/upload/",
+                    "title": "Upload",
+                    "author": "Greg Daniels",
+                    "description": "In 2033, people who are near death can be “uploaded” into virtual reality hotels run by 6 tech firms. Cash-strapped Nora lives in Brooklyn and works customer service for the luxurious “Lakeview” digital afterlife. When L.A. party-boy/coder Nathan’s self-driving car crashes, his high-maintenance girlfriend uploads him permanently into Nora’s VR world.",
+                    "genre": "Comedy, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/mr-robot-1x10/",
-                        "name": "Season 1x10 : eps1.9_zer0-day.avi",
-                        "episode_number": 10.0
+                        "url": "/episode/upload-3x8/",
+                        "name": "Season 3x8 : Flesh and Blood",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/mr-robot-1x9/",
-                        "name": "Season 1x9 : eps1.8_m1rr0r1ng.qt",
-                        "episode_number": 9.0
+                        "url": "/episode/upload-3x7/",
+                        "name": "Season 3x7 : Upload Day",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

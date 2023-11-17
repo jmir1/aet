@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/criminal-code",
+                                "title": "Criminal Code",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22537.webp"
+                            },
+                            {
+                                "url": "/serie/online/anderson-the-spider-silva",
+                                "title": "Anderson the Spider Silva",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22536.webp"
+                            },
+                            {
+                                "url": "/serie/online/assassinato-no-fim-do-mundo",
+                                "title": "Assassinato no Fim do Mundo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
+                            },
+                            {
+                                "url": "/serie/online/vigilante",
+                                "title": "Vigilante",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22527.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-crown",
+                                "title": "The Crown",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4336.webp"
+                            },
+                            {
                                 "url": "/serie/online/007-estrada-para-o-milhao",
                                 "title": "007: Estrada para o Milhão",
                                 "status": 1,
@@ -315,36 +345,6 @@
                                 "title": "Bosch: O Legado",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20373.webp"
-                            },
-                            {
-                                "url": "/serie/online/uma-questao-de-quimica",
-                                "title": "Uma Questão de Química",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22494.webp"
-                            },
-                            {
-                                "url": "/serie/online/arrepios",
-                                "title": "Arrepios",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22496.webp"
-                            },
-                            {
-                                "url": "/serie/online/for-all-mankind",
-                                "title": "For all Mankind",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4320.webp"
-                            },
-                            {
-                                "url": "/serie/online/upload",
-                                "title": "Upload",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18781.webp"
-                            },
-                            {
-                                "url": "/serie/online/invencivel",
-                                "title": "Invencível",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19285.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -495,16 +495,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21296.webp"
                             },
                             {
-                                "url": "/serie/online/hyouken-no-majutsushi-ga-sekai-wo-suberu",
-                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
-                            },
-                            {
                                 "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
                                 "title": "Kaminaki Sekai no Kamisama Katsudou",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
+                            },
+                            {
+                                "url": "/serie/online/hyouken-no-majutsushi-ga-sekai-wo-suberu",
+                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
                             },
                             {
                                 "url": "/serie/online/isekai-ojisan",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
