@@ -495,16 +495,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21296.webp"
                             },
                             {
-                                "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
-                                "title": "Kaminaki Sekai no Kamisama Katsudou",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
-                            },
-                            {
                                 "url": "/serie/online/hyouken-no-majutsushi-ga-sekai-wo-suberu",
                                 "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
+                            },
+                            {
+                                "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
                             },
                             {
                                 "url": "/serie/online/isekai-ojisan",
@@ -598,8 +598,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery31.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=DlrbPpuLUjtNi3EHHWD6Jw&e=1700222985&_t=1700204106",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery31.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=DlrbPpuLUjtNi3EHHWD6Jw&e=1700222985&_t=1700204106",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=veMWhcLJ4lpcI43tgHIKNg&e=1700222986&_t=1700203629",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=veMWhcLJ4lpcI43tgHIKNg&e=1700222986&_t=1700203629",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

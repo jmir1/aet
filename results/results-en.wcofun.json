@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/tear-along-the-dotted-line",
+                                "title": "Tear Along the Dotted Line",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933298.jpg"
+                            },
+                            {
+                                "url": "/anime/power-rangers-cosmic-fury",
+                                "title": "Power Rangers: Cosmic Fury",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933297.jpg"
+                            },
+                            {
                                 "url": "/anime/the-new-pink-panther-show",
                                 "title": "The New Pink Panther Show",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933296.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/ejen-ali",
                                 "title": "Ejen Ali",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933283.jpg"
-                            },
-                            {
-                                "url": "/anime/kusuriya-no-hitorigoto",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933282.jpg"
-                            },
-                            {
-                                "url": "/anime/dog-signal",
-                                "title": "Dog Signal",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933281.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-new-pink-panther-show",
-                    "title": "The New Pink Panther Show",
-                    "description": "The New Pink Panther Show (1971–1974) featured a new opening and closing sequence and theme song, pitting the attention-seeking Aardvark against the panther. The show’s new title song, “Pantherly Pride”, was written by Doug Goodwin and played over the opening sequence. It aired The Ant and the Aardvark, as well as Roland and Rattfink, Hoot Kloot or The Blue Racer, as well as reruns of The Inspector. Only eight new Pink Panther cartoons were produced over this three-year period.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933296.jpg",
+                    "url": "/anime/tear-along-the-dotted-line",
+                    "title": "Tear Along the Dotted Line",
+                    "description": "A cartoonist in Rome with his armadillo-for-a-conscience reflects on his path in life and a would-be love as he and his friends travel outside the city.",
+                    "genre": "Comedy, Drama, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933298.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/tear-along-the-dotted-line-episode-6-catharsis",
+                        "name": "Season 1 - Episode 6",
+                        "episode_number": 106.0
+                    },
+                    {
+                        "url": "/tear-along-the-dotted-line-episode-5-dont-ask-dont-tell",
+                        "name": "Season 1 - Episode 5",
+                        "episode_number": 105.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJglc2qKLTbdU3gmjvuUcVRPOJfWUEaUFrsQm8PELb9NkxmJG1dG_o_Cph66p8tpp87e9_sHZ4g2MKEkUxfe1KNYIT2vIFAmxb42EYZjWrIB7ncLf27S4jvhpRsAkvGopNBHH13BSgfZ3QxmV1eHBlYqGUGHhSsLL04s94UsB7WrUUtn3h---_V-1vE0cx5sy1FS_WrguBZFcMXESYfbGwQNxElPpJ-VOMRkdnGlJ-M_S1VO_GlnaE-0HYURqsZoiOXY9RVRLai0AEHr765FmljPhocrD5oXDlIFb4DNPEAW8v6gAaqjg4_IM52NdCcBziqU_S3DVIizt41aG07ZOv3Cbv5pvdvbri1pEoqMDFX4x",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJglc2qKLTbdU3gmjvuUcVRPOJfWUEaUFrsQm8PELb9NkxmJG1dG_o_Cph66p8tpp87e9_sHZ4g2MKEkUxfe1KNYIT2vIFAmxb42EYZjWrIB7ncLf27S4jvhpRsAkvGopNBHH13BSgfZ3QxmV1eHBlYqGUGHhSsLL04s94UsB7WrUUtn3h---_V-1vE0cx5sy1FS_WrguBZFcMXESYfbGwQNxElPpJ-VOMRkdnGlJ-M_S1VO_GlnaE-0HYURqsZoiOXY9RVRLai0AEHr765FmljPhocrD5oXDlIFb4DNPEAW8v6gAaqjg4_IM52NdCcBziqU_S3DVIizt41aG07ZOv3Cbv5pvdvbri1pEoqMDFX4x"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJglc2qKLTbdU3gmjvuUcVRPOJfWUEaUFrsQm8PELb9NkxmJG1dG_o_Cph66p8tpp87e9_sHZ4g2MKEkUxfe1KNYIT2vIFAmxb42EYZjWrIB7ncLf27S4jvhpRsAkvGopNJF6aTN6fDG5hwEBXhEf7q9E9YyBGZXxW_tiI_-2rnBgmJIxkNhhMBWuZnHnbmkdrxWkvNRhyBimCwJB5wuYlIMoejALnMwBbGB0nlK9qAdXSSyeX2xzwipKyJgFS9-41A9Tj_lKJVBE1uHQmOO9xaYcjLkemG0cNYABj1eMkuKfcwz80TtwDYQ4gfyt1jqkLNcfdQHnD4XM-GFYYODY1Yd1fz_D4sGLx-EKOanULb1V",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJglc2qKLTbdU3gmjvuUcVRPOJfWUEaUFrsQm8PELb9NkxmJG1dG_o_Cph66p8tpp87e9_sHZ4g2MKEkUxfe1KNYIT2vIFAmxb42EYZjWrIB7ncLf27S4jvhpRsAkvGopNJF6aTN6fDG5hwEBXhEf7q9E9YyBGZXxW_tiI_-2rnBgmJIxkNhhMBWuZnHnbmkdrxWkvNRhyBimCwJB5wuYlIMoejALnMwBbGB0nlK9qAdXSSyeX2xzwipKyJgFS9-41A9Tj_lKJVBE1uHQmOO9xaYcjLkemG0cNYABj1eMkuKfcwz80TtwDYQ4gfyt1jqkLNcfdQHnD4XM-GFYYODY1Yd1fz_D4sGLx-EKOanULb1V"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJglc2qKLTbdU3gmjvuUcVRPOJfWUEaUFrsQm8PELb9NkxmJG1dG_o_Cph66p8tpp87e9_sHZ4g2MKEkUxfe1KNYIT2vIFAmxb42EYZjWrIB7ncLf27S4jvhpRsAkvGopNGZ4eSDQF7y2djVrFdRZNQznlWO-6VdEhp-EFiTpKFw54hD2EkdxNFKCYvfOLqpigAqGUnzdOvSVfGsADpL89N_PdMeE4NlvPlCmBR2rjpDyVfN68ipeP2pHXrldMNCcOox-jKTLWHaOyPcmS39Y1bnTIo0A4oISrxQm61zCB_8p9N7QoRJQvEVIcNyi4rnBZxwBJmJukyMmsYzK-o8CnPsdQoXVtLoOAp9dtuE36l1I",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJglc2qKLTbdU3gmjvuUcVRPOJfWUEaUFrsQm8PELb9NkxmJG1dG_o_Cph66p8tpp87e9_sHZ4g2MKEkUxfe1KNYIT2vIFAmxb42EYZjWrIB7ncLf27S4jvhpRsAkvGopNGZ4eSDQF7y2djVrFdRZNQznlWO-6VdEhp-EFiTpKFw54hD2EkdxNFKCYvfOLqpigAqGUnzdOvSVfGsADpL89N_PdMeE4NlvPlCmBR2rjpDyVfN68ipeP2pHXrldMNCcOox-jKTLWHaOyPcmS39Y1bnTIo0A4oISrxQm61zCB_8p9N7QoRJQvEVIcNyi4rnBZxwBJmJukyMmsYzK-o8CnPsdQoXVtLoOAp9dtuE36l1I"
+                    }
+                ],
+                "passed": true
             }
         }
     }
