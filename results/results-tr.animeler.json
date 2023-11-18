@@ -3,28 +3,458 @@
         "name": "Animeler (TR)",
         "results": {
             "popular": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'image' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.tr.animeler.dto.SimpleAnimeDto', but it was missing at path: $.data[0]",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/battle-through-the-heavens-5-sezon/",
+                                "title": "Battle Through The Heavens 5. Sezon",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/btth-s5-new.webp"
+                            },
+                            {
+                                "url": "/anime/jue-shi-wu-hun/",
+                                "title": "Jue Shi Wu Hun",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/Peerless-Martial-Spirit.webp"
+                            },
+                            {
+                                "url": "/anime/seiken-gakuin-no-makentsukai/",
+                                "title": "Seiken Gakuin no Makentsukai",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/f59fdc716eb28406b4560885ca5c0ac4.jpg"
+                            },
+                            {
+                                "url": "/anime/douluo-dalu-ii-jueshi-tangmen/",
+                                "title": "Douluo Dalu II: Jueshi Tangmen",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/123844l.jpg"
+                            },
+                            {
+                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan/",
+                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/136203l.jpg"
+                            },
+                            {
+                                "url": "/anime/eiyuu-kyoushitsu/",
+                                "title": "Eiyuu Kyoushitsu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/136000l.jpg"
+                            },
+                            {
+                                "url": "/anime/shen-yin-wangzuo/",
+                                "title": "Shen Yin Wangzuo",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/shen-yin-wangzuo-2-6c9aeec407.jpg"
+                            },
+                            {
+                                "url": "/anime/wushen-zhuzai/",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/7cc7658be2c7983fa049fc4c1a960507.jpg"
+                            },
+                            {
+                                "url": "/anime/wanmei-shijie/",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/1b2c0f0047595fb35709ef0950ae164c.jpg"
+                            },
+                            {
+                                "url": "/anime/yao-shen-ji-6-sezon/",
+                                "title": "Yao Shen Ji 6. Sezon",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/7e029e93af47282c2d4a4ed457309763.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/136174l.jpg"
+                            },
+                            {
+                                "url": "/anime/ling-jian-zun-4-sezon/",
+                                "title": "Ling Jian Zun 4. Sezon",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/image_search_1681455837071-768x1077-1.webp"
+                            },
+                            {
+                                "url": "/anime/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/132441l.jpg"
+                            },
+                            {
+                                "url": "/anime/aishang-ta-de-liyou/",
+                                "title": "Aishang Ta De Liyou",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/58ebc890759e2b847d01f36b22e333ae.jpg"
+                            },
+                            {
+                                "url": "/anime/tunshi-xingkong-2-sezon/",
+                                "title": "Tunshi Xingkong 2. Sezon"
+                            },
+                            {
+                                "url": "/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta/",
+                                "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/2c1726673f01a355c08a18c7a24985c4.jpg"
+                            },
+                            {
+                                "url": "/anime/xingchen-bian-5-sezon/",
+                                "title": "Xingchen Bian 5. Sezon",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/452b2a79acf0ab5f6bee7392a890fb59.jpg"
+                            },
+                            {
+                                "url": "/anime/ragna-crimson/",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/131318l.jpg"
+                            },
+                            {
+                                "url": "/anime/five-elements-god-of-war-wuhang-zhanshen/",
+                                "title": "Five Elements God of War (Wuhang Zhanshen)",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/Five-Elements-God-of-War.webp"
+                            },
+                            {
+                                "url": "/anime/jitsu-wa-ore-saikyou-deshita/",
+                                "title": "Jitsu wa Ore, Saikyou deshita?",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/127714l.jpg"
+                            },
+                            {
+                                "url": "/anime/douluo-dalu-2nd-season/",
+                                "title": "Douluo Dalu 2nd Season",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/douluo-dalu-2nd-season.jpg"
+                            },
+                            {
+                                "url": "/anime/ancient-lords/",
+                                "title": "Ancient Lords",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/f1cca90a9f263e263d4123c23092c887.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-shoukan-wa-nidome-desu/",
+                                "title": "Isekai Shoukan wa Nidome desu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/0b33c18c0b10216548b93015c02210e0.jpg"
+                            },
+                            {
+                                "url": "/anime/one-hundred-thousand-years-of-gas-refining/",
+                                "title": "One Hundred Thousand Years Of Gas Refining",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/3e8fe9fa86ae777a8d587fe884b415b0.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'image' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.tr.animeler.dto.SimpleAnimeDto', but it was missing at path: $.data[0]",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/wanmei-shijie/",
+                                "title": "Wanmei Shijie",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/1b2c0f0047595fb35709ef0950ae164c.jpg"
+                            },
+                            {
+                                "url": "/anime/keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi/",
+                                "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/6433307d527eb09936365bebcdf00698.jpg"
+                            },
+                            {
+                                "url": "/anime/hametsu-no-oukoku/",
+                                "title": "Hametsu no Oukoku",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/da831a800ec7f09fa4bd41838975c10c.jpg"
+                            },
+                            {
+                                "url": "/anime/douluo-dalu-ii-jueshi-tangmen/",
+                                "title": "Douluo Dalu II: Jueshi Tangmen",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/123844l.jpg"
+                            },
+                            {
+                                "url": "/anime/seiken-gakuin-no-makentsukai/",
+                                "title": "Seiken Gakuin no Makentsukai",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/f59fdc716eb28406b4560885ca5c0ac4.jpg"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/134703l.jpg"
+                            },
+                            {
+                                "url": "/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/",
+                                "title": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/30a9de56b86b9b2f851b44d44d2f5bb1.jpg"
+                            },
+                            {
+                                "url": "/anime/shen-yin-wangzuo/",
+                                "title": "Shen Yin Wangzuo",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/shen-yin-wangzuo-2-6c9aeec407.jpg"
+                            },
+                            {
+                                "url": "/anime/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu/",
+                                "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/7c429e7011a93025c15dd0e4f0eb5761-1.jpg"
+                            },
+                            {
+                                "url": "/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season/",
+                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/617851794bd4f8e40c4a63a35f8bf215-1.jpg"
+                            },
+                            {
+                                "url": "/anime/ore-wo-suki-nano-wa-omae-dake-ka-yo/",
+                                "title": "Ore wo Suki nano wa Omae dake ka yo",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/102797l.jpg"
+                            },
+                            {
+                                "url": "/anime/tunshi-xingkong-4th-season/",
+                                "title": "Tunshi Xingkong 4th Season",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/f2de85e5351a167bc5a5782e51e04076.jpg"
+                            },
+                            {
+                                "url": "/anime/toaru-ossan-no-vrmmo-katsudouki/",
+                                "title": "Toaru Ossan no VRMMO Katsudouki",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/1602987096130be74791374840a3ab86.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/335d35ba027bb0619cbc17b0d6e8dd46.jpg"
+                            },
+                            {
+                                "url": "/anime/boushoku-no-berserk/",
+                                "title": "Boushoku no Berserk",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/b8b2d76e3db2fd6d26ae0a540966a248.jpg"
+                            },
+                            {
+                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/pic_poster_m.jpg"
+                            },
+                            {
+                                "url": "/anime/transcending-the-nine-heavens-aoshi-jiuchong-tian/",
+                                "title": "Transcending the Nine Heavens (Aoshi Jiuchong Tian)",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/49a7dd61e3771beb68821bf565e9a69b.jpg"
+                            },
+                            {
+                                "url": "/anime/the-invincible-shi-fang-wu-sheng/",
+                                "title": "The Invincible (Shi Fang Wu Sheng)",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/139309l.jpg"
+                            },
+                            {
+                                "url": "/anime/wushen-zhuzai/",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/7cc7658be2c7983fa049fc4c1a960507.jpg"
+                            },
+                            {
+                                "url": "/anime/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/422670a855efae8d8d8fafb59d43c197.jpg"
+                            },
+                            {
+                                "url": "/anime/battle-through-the-heavens-5-sezon/",
+                                "title": "Battle Through The Heavens 5. Sezon",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/btth-s5-new.webp"
+                            },
+                            {
+                                "url": "/anime/ragna-crimson/",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/131318l.jpg"
+                            },
+                            {
+                                "url": "/anime/kikansha-no-mahou-wa-tokubetsu-desu/",
+                                "title": "Kikansha no Mahou wa Tokubetsu desu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/692efd6a54c60eb25cde27d0968ee102.jpg"
+                            },
+                            {
+                                "url": "/anime/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story/",
+                                "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/a44b612a4f219e1f5289ed6f12257e4a.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'image' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.tr.animeler.dto.SimpleAnimeDto', but it was missing at path: $.data[0]",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/mushoku-tensei-ii-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/136174l.jpg"
+                            },
+                            {
+                                "url": "/anime/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito/",
+                                "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/534f84337651cbf628b6b5763395b5ad.jpg"
+                            },
+                            {
+                                "url": "/anime/kaminaki-sekai-no-kamisama-katsudou/",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/ea82bf860735baec3d244cb53b1abf22.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-wa-smartphone-to-tomo-ni-2/",
+                                "title": "Isekai wa Smartphone to Tomo ni. 2",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/fd3f2b04c727b95be1c7bd71830a2789.jpg"
+                            },
+                            {
+                                "url": "/anime/my-road-to-killing-god-in-another-world/",
+                                "title": "My Road to Killing God in Another World",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/1-2-193x278-1.jpg"
+                            },
+                            {
+                                "url": "/anime/dr-stone-new-world/",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/a7c61834a7f277f2820176d6d3aefcaf.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-meikyuu-de-harem-wo/",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/362a6f25996a502148dec90dc0a8b12d.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu/",
+                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+                            },
+                            {
+                                "url": "/anime/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-ω/",
+                                "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω"
+                            },
+                            {
+                                "url": "/anime/world-dai-star/",
+                                "title": "World Dai Star",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/104d1f6b82608cd840320b6fbcca6c17.jpg"
+                            },
+                            {
+                                "url": "/anime/tang-yin-is-in-another-world/",
+                                "title": "Tang Yin is in another world",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/Tang-Yin-is-in-another-world.jpg"
+                            },
+                            {
+                                "url": "/anime/i-can-destroy-the-cultivation-world-with-one-move/",
+                                "title": "I can Destroy the Cultivation World with one Move",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/One-Move-to-Explode-the-Cultivation-Realm-Season-1.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-meikyuu-de-harem-wo-specials/",
+                                "title": "Isekai Meikyuu de Harem wo Specials",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/89a9c3b873163c4025d710da16707889.jpg"
+                            },
+                            {
+                                "url": "/anime/immortal-swordsman-in-the-reverse-world/",
+                                "title": "Immortal Swordsman in The Reverse World"
+                            },
+                            {
+                                "url": "/anime/saikyou-onmyouji-no-isekai-tenseiki/",
+                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/e0d403e9fd7b962bbc053b2f461834e3.jpg"
+                            },
+                            {
+                                "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen/",
+                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
+                            },
+                            {
+                                "url": "/anime/the-world-of-fantasy/",
+                                "title": "The World of Fantasy"
+                            },
+                            {
+                                "url": "/anime/zhu-tian-ji/",
+                                "title": "Zhu Tian Ji"
+                            },
+                            {
+                                "url": "/anime/dr-stone-new-world-part-2/",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/138696l.jpg"
+                            },
+                            {
+                                "url": "/anime/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu/",
+                                "title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/6d88507edc94d96d39ddaa7f42c6e6e6.jpg"
+                            },
+                            {
+                                "url": "/anime/arifureta-shokugyou-de-sekai-saikyou-2-sezon/",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2. Sezon"
+                            },
+                            {
+                                "url": "/anime/isekai-yakkyoku/",
+                                "title": "Isekai Yakkyoku",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/8550fa9649406cbd2fa05826438e1747.jpg"
+                            },
+                            {
+                                "url": "/anime/hyouken-no-majutsushi-ga-sekai-wo-suberu/",
+                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+                                "thumbnail_url": "https://animeler.me/wp-content/uploads/10ee424856b1204919bb8e305bc795ee.jpg"
+                            },
+                            {
+                                "url": "/anime/wo-de-yi-jie-zhi-lu/",
+                                "title": "Wo De Yi Jie Zhi Lu"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"tr.....",
-                "passed": false
+                "result": {
+                    "url": "/anime/battle-through-the-heavens-5-sezon/",
+                    "title": "Battle Through The Heavens 5. Sezon",
+                    "artist": "Motion Magic",
+                    "author": "China Literature Limited, Tencent Penguin Pictures, Wanda Media",
+                    "description": "Doupo Cangqiong serisinin 5. sezonu.\n\nNative: 斗破苍穹年番\nDiğer İsimleri: Fights Break Sphere, Battle Through The Heavens, Battle Through The Heavens 5th Season, Doupo Cangqiong: Nian Fan\nRate: PG-13 - Teens 13 or older\nYayınlandı: Jul 31, 2022 to ?\nSüre: 24 min per ep",
+                    "genre": "Aksiyon, Dövüş Sanatları, Fantastik, Macera",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://animeler.me/wp-content/uploads/btth-s5-new.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"tr.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/izle/battle-through-the-heavens-5-sezon-70-bolum/",
+                        "name": "Bölüm 70",
+                        "date_upload": 1699759294000,
+                        "episode_number": 70.0
+                    },
+                    {
+                        "url": "/izle/battle-through-the-heavens-5-sezon-69-bolum/",
+                        "name": "Bölüm 69",
+                        "date_upload": 1699153350000,
+                        "episode_number": 69.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: No video available.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/e3rnwyro8tgb",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-unvmoyay2i0b8cnh.voe-network.net/engine/hls2/01/09869/e3rnwyro8tgb_,n,.urlset/master.m3u8?t=4iUx_MkdGvorOUGd7fgTYwBOe5HtKISu5AhftewmjKY&s=1700330861&e=14400&f=49349425&node=delivery-node-unvmoyay2i0b8cnh.voe-network.net&i=172.183&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=bpMfOI3opma1GuiZP86szA2JDr6wy2hebVcUQ3nJPU4jC5%2Ff%2FBRLiRzu%2Bk%2F76CvbOhvD2Y6gdBoVERp9SUzAIqNILFyKTi3gF81dRMAYQowP3D10NVUembIcMsquEqCE0JNbdkBFqkBbGcU64gi69G6YTTZsTeMHpJfNO0%2B3FXBg%3D%3D&ref=&sandbox=&t=&res=720",
+                        "quality": "GDRIVE 720p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=bpMfOI3opma1GuiZP86szA2JDr6wy2hebVcUQ3nJPU4jC5%2Ff%2FBRLiRzu%2Bk%2F76CvbOhvD2Y6gdBoVERp9SUzAIqNILFyKTi3gF81dRMAYQowP3D10NVUembIcMsquEqCE0JNbdkBFqkBbGcU64gi69G6YTTZsTeMHpJfNO0%2B3FXBg%3D%3D&ref=&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=bpMfOI3opma1GuiZP86szA2JDr6wy2hebVcUQ3nJPU4jC5%2Ff%2FBRLiRzu%2Bk%2F76CvbOhvD2Y6gdBoVERp9SUzAIqNILFyKTi3gF81dRMAYQowP3D10NVUembIcMsquEqCE0JNbdkBFqkBbGcU64gi69G6YTTZsTeMHpJfNO0%2B3FXBg%3D%3D&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=bpMfOI3opma1GuiZP86szA2JDr6wy2hebVcUQ3nJPU4jC5%2Ff%2FBRLiRzu%2Bk%2F76CvbOhvD2Y6gdBoVERp9SUzAIqNILFyKTi3gF81dRMAYQowP3D10NVUembIcMsquEqCE0JNbdkBFqkBbGcU64gi69G6YTTZsTeMHpJfNO0%2B3FXBg%3D%3D&ref=&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=280bAbkdmWsZ8xW&expires=1700400862&ip=F0qQKRWZD19XKxR&token=mViWxMitDdO6",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=280bAbkdmWsZ8xW&expires=1700400862&ip=F0qQKRWZD19XKxR&token=mViWxMitDdO6"
+                    },
+                    {
+                        "url": "https://m7.vudeo.co/2vp3vbec6mvjdohilnxbx2oey5yqxn4hti6k7vevsglpij5pqoffv36tlqzq/v.mp4",
+                        "quality": "Vudeo",
+                        "videoUrl": "https://m7.vudeo.co/2vp3vbec6mvjdohilnxbx2oey5yqxn4hti6k7vevsglpij5pqoffv36tlqzq/v.mp4",
+                        "headers": {
+                            "referer": "https://vudeo.co/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/07362ec71fe18d001767ff89ed1a4424/5317882.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/07362ec71fe18d001767ff89ed1a4424/5317882.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5317882"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

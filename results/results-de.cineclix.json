@@ -3,160 +3,24 @@
         "name": "CineClix (DE)",
         "results": {
             "popular": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/api/v1/titles/1188?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Auf Teufel Komm Raus: Die Wilde Welt Des John McAfee",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/igWaKrhkWshIfv3BWTwgtEGEpLy.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/1386?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "El Superbeasto",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/xcANLZHnoOxywSsHsyuXvdO6uHy.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/1437?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Garp und wie er die Welt sah",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/tv6cJ9MJxavNrQEj7VGLGxlbQde.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/1446?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Girls United - Der große Showdown",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vEEudhyfW8natlbZgLgdcKo55rj.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/1952?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Das Ding aus einer anderen Welt",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kTzovf3vjpUPE4snzKRpf6xzP1H.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/2619?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Jurassic World - Das gefallene Königreich",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/gIbpCh7nMvLOMxBmkWC6MeQgVr1.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/2620?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Jurassic World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fryDtXgd6Cf4oqNlNPHas0GWDNM.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/2621?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Jurassic World - Ein neues Zeitalter",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/lYfWPFEIXdtDuTh5jKfkxptN0eF.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/2623?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Vergessene Welt: Jurassic Park",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zZgk9X8YWlUBZv7ZqkCRQv5hxzL.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/2694?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "The Rebels Of World War II - Operation Avalanche",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/cNv7mCEhIUdgYd9P8eYeuqi5c2D.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/2883?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "When You Finish Saving the World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3130?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Der Beste der Welt",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/eAKWVuwX9NxO11WFjgObEWUiq8W.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3503?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "In 80 Tagen um die Welt",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pwYJWmZcbxFc1uGZTcPMNbZxMkw.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3631?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Mel Brooks - Die verrückte Geschichte der Welt",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ywmaTE1MV0xMroXvAvZ8FavESFQ.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3666?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Mumbai-Mafia: Die Polizei gegen die Unterwelt",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3681?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "New World Order X - Das Ende der Menschheit",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wbh0quCmalXld6nXxbOYfN4BUaY.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3712?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "One Piece: Strong World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/4201?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Zorniges Land",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/1cFR3JRHnFnIrMqFw5B5mJLVLeV.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/4277?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Strange World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/4526?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Miraculous World: New York, United Heroez",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4LrFeFXwktxiaLBsf4cMnhFRL4c.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/api/v1/titles/1188?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                    "title": "Auf Teufel Komm Raus: Die Wilde Welt Des John McAfee",
-                    "description": "Anhand von aufschlussreichen, ungeschnittenen Aufnahmen und Interviews mit dem Computerpionier John McAfee enthüllt diese Doku neue Details über seine wilden Jahre auf der Flucht.",
-                    "genre": "Dokumentarfilm",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/igWaKrhkWshIfv3BWTwgtEGEpLy.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/api/v1/titles/1188?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55puunc73g62tndsmt2v3hq/index-v1-a1.m3u8",
-                        "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55puunc73g62tndsmt2v3hq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55pu7ks73g62tnbuuwtew5a/index-v1-a1.m3u8",
-                        "quality": "SuperVideo - 720p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpegrw3pg4a3gyvdcx5njqtqdqsd6zzwewd55pu7ks73g62tnbuuwtew5a/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html\n    lang.....",
+                "passed": false
             }
         }
     }

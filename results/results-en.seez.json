@@ -3,11 +3,11 @@
         "name": "Seez (EN)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: seez.su: Name or service not known",
+                "error": "java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: seez.su",
+                "error": "java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0",
                 "passed": false
             },
             "details": {

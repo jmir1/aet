@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/el-maleficio/",
+                                "title": "El Maleficio",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/como-se-crea-una-atraccion/",
                                 "title": "Cómo se crea una atracción",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/scott-pilgrim-da-el-salto/",
-                                "title": "Scott Pilgrim da el salto",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/la-ley-de-comey/",
-                                "title": "La ley de Comey",
+                                "url": "/embrujadas-2018/",
+                                "title": "Embrujadas (2018)",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/ines-del-alma-mia/",
-                                "title": "Inés del alma mía",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/q3lUWZSxNo7TWNxHwqHs0PQTkGA.jpg"
+                                "url": "/star-trek-la-serie-original-capitulos-completos-latino-hd-online/",
+                                "title": "Star Trek: La serie original",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/3ATqzWYDbWOV2RBLWNwA43InT60-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/como-se-crea-una-atraccion/",
-                    "title": "Cómo se crea una atracción",
-                    "description": "Detrás de las Atracciones, Behind The Attraction se adentra en la historia de cómo surgieron las populares atracciones y destinos de Disney, cómo han cambiado con el tiempo y cómo los fans siguen obsesionados con ellas.",
-                    "genre": "Documental",
+                    "url": "/el-maleficio/",
+                    "title": "El Maleficio",
+                    "description": "La trama de desarrolla en torno a Enrique de Martino (Fernando Colunga), un empresario exitoso, atractivo y misterioso, cuyo grandeza se encuentra enmarcada por un oscuro y bien guardado secreto., En contraste está Beatriz Almazar, una mujer de corazón generoso y dedicada a su familia, los caminos de Enrique y Beatriz se entrelazan de manera sorpresiva guiados por lo que creen una coincidencia orquestada por el destino.",
+                    "genre": "Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/como-se-crea-una-atraccion-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Space Mountain",
-                        "date_upload": 1626825600000,
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/episode/como-se-crea-una-atraccion-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - The Twilight Zone Tower of Terror",
-                        "date_upload": 1626825600000,
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
