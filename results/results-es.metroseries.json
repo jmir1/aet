@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-vanishing-triangle/",
+                                "title": "The Vanishing Triangle",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/ojitos-de-huevo/",
+                                "title": "Ojitos de huevo",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/scott-pilgrim-da-el-salto/",
+                                "title": "Scott Pilgrim da el salto",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/fuera-de-cobertura/",
                                 "title": "Fuera de Cobertura",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -42,23 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/como-se-convirtieron-en-capos-de-la-mafia/",
-                                "title": "Cómo se convirtieron en capos de la mafia",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/la-patrulla-canina/",
-                                "title": "La Patrulla Canina",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/el-mal/",
-                                "title": "El mal",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/niebla-de-invierno/",
-                                "title": "Niebla de invierno",
+                                "url": "/digimon-adventure-capitulos-completos-latino-hd-online/",
+                                "title": "Digimon",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/vikingane/",
-                                "title": "Vikingane",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xCt02AL7i395Nwfq8jbq1C54mvX.jpg"
+                                "url": "/mind-over-murder/",
+                                "title": "Mind Over Murder",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oZoXVoWEbvuuOOWPwgNRUpsYyhM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,21 +134,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/fuera-de-cobertura/",
-                    "title": "Fuera de Cobertura",
-                    "description": "Un espacio dedicado al periodismo en su estado más puro, el que revela algo desconocido, inédito y oculto: las historias que mueven el mundo. Con un vídeo como llamada de auxilio, el equipo del programa se adentra, cámara en mano, en los grandes temas periodísticos, realidades universales y difíciles de grabar, pero que nos pueden llegar a afectar a todos.",
-                    "genre": "Documental",
+                    "url": "/the-vanishing-triangle/",
+                    "title": "The Vanishing Triangle",
+                    "description": "Después de que la periodista de investigación Lisa Wallace publica un artículo sobre el asesinato de su madre, otras chicas empiezan a desaparecer; ella y el detective David Burkely investigan por toda Irlanda, buscando a las chicas desaparecidas mientras el asesino se burla de Lisa. Inspirada en hechos reales.",
+                    "genre": "Crimen, Drama, Misterio",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-vanishing-triangle-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Episodio 3",
+                        "date_upload": 1698883200000,
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episode/the-vanishing-triangle-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Episodio 2",
+                        "date_upload": 1698278400000,
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "6821-killers-of-the-flower-moon",
+                                "title": "Killers of the Flower Moon",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bc66b844-03a6-4181-bc8f-5d3b703634bd.webp"
+                            },
+                            {
+                                "url": "6864-i-nuovi-ricchi",
+                                "title": "I nuovi ricchi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3faac3aa-f7ec-427e-99d5-5c72aa533c35.webp"
+                            },
+                            {
                                 "url": "6863-best-christmas-ever",
                                 "title": "Best. Christmas. Ever!",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/4e983ecf-5adf-4474-8534-7e434965d0d9.webp"
@@ -295,16 +305,6 @@
                                 "url": "6738-assassinio-a-venezia",
                                 "title": "Assassinio a Venezia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c15aefd1-50ea-4ce5-9f61-7096971b4039.webp"
-                            },
-                            {
-                                "url": "6725-after-5",
-                                "title": "After 5",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/55f17f92-f3bb-4c37-8b4b-dde48ba84f67.webp"
-                            },
-                            {
-                                "url": "6685-freestyle",
-                                "title": "Freestyle",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b6978424-1862-4eab-99ce-5c5934c70420.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "6865-the-tourist",
+                                "title": "The Tourist",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f36f1740-e8b2-462b-bc25-da17225c595c.webp"
+                            },
                             {
                                 "url": "6862-sempre-amici",
                                 "title": "Sempre amici",
@@ -610,11 +615,6 @@
                                 "url": "6790-old-dads",
                                 "title": "Old Dads",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c74005aa-c1bf-46ba-918a-854ce70c6073.webp"
-                            },
-                            {
-                                "url": "6789-dampyr",
-                                "title": "Dampyr",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4bf3d6eb-aa21-46a7-9b53-3516e64aabd5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "6863-best-christmas-ever",
-                    "description": "Quando uno scherzo del destino riunisce le loro famiglie per Natale, Charlotte cerca di dimostrare che la vita della sua vecchia amica Jackie non è così perfetta come sembra.",
-                    "genre": "Commedia",
+                    "url": "6821-killers-of-the-flower-moon",
+                    "description": "All’inizio del XX secolo, la scoperta del petrolio trasformò l’esistenza degli Osage che diventarono da un giorno all’altro immensamente ricchi. L’improvviso benessere di questi nativi americani attirò l’interesse dei bianchi che iniziarono a manipolare, estorcere e sottrarre con l’inganno i beni degli Osage fino a ricorrere all’omicidio. Una storia d’amore e tradimenti, delitti e misteri in un intrigo avvincente per la scoperta della verità.",
+                    "genre": "Dramma, Crime, Storia",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6863",
+                        "url": "6821",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6863\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6863\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17661520957854654218/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17661520957854654218/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17661520957854654218/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17661520957854654218/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
