@@ -136,29 +136,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700357729&ip=F0qQKRWZD19XKxR&token=LRes_O027ks9",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700357729&ip=F0qQKRWZD19XKxR&token=LRes_O027ks9"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=x2r7vxQblPikkxm&expires=1700357729&ip=F0qQKRWZD19XKxR&token=vpGmAqMpON1X",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=x2r7vxQblPikkxm&expires=1700357729&ip=F0qQKRWZD19XKxR&token=vpGmAqMpON1X"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700357729&ip=F0qQKRWZD19XKxR&token=LRes_O027ks9",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700357729&ip=F0qQKRWZD19XKxR&token=LRes_O027ks9"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=QaKOV6qAxYU06L8&expires=1700357729&ip=F0qQKRWZD19XKxR&token=kI-ZmoZ9L2x3",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=QaKOV6qAxYU06L8&expires=1700357729&ip=F0qQKRWZD19XKxR&token=kI-ZmoZ9L2x3"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -179,8 +179,24 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.cha116.workers.dev/285778750f5e46545439e273a3fe9ae0/driveleech.org/Monarch.Legacy.of.Monsters.S01E02.Departure.1080p.ATVP.W.mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  3.5GB ",
+                        "videoUrl": "https://0.cha116.workers.dev/285778750f5e46545439e273a3fe9ae0/driveleech.org/Monarch.Legacy.of.Monsters.S01E02.Departure.1080p.ATVP.W.mkv"
+                    },
+                    {
+                        "url": "https://0.asd29.workers.dev/8ff273421dcde33e5d97e37ee2236cb9/driveleech.org/Monarch.Legacy.of.Monsters.S01E02.Departure.1080p.ATVP.W.mkv",
+                        "quality": "1080p - CF 1 Worker 2 -  3.5GB ",
+                        "videoUrl": "https://0.asd29.workers.dev/8ff273421dcde33e5d97e37ee2236cb9/driveleech.org/Monarch.Legacy.of.Monsters.S01E02.Departure.1080p.ATVP.W.mkv"
+                    },
+                    {
+                        "url": "https://0.shibu67.workers.dev/35e1f1876ce6a1755dba1f7fe4632b9f/driveleech.org/Monarch.Legacy.of.Monsters.S01E02.Departure.1080p.ATVP.W.mkv",
+                        "quality": "1080p - CF 1 Worker 3 -  3.5GB ",
+                        "videoUrl": "https://0.shibu67.workers.dev/35e1f1876ce6a1755dba1f7fe4632b9f/driveleech.org/Monarch.Legacy.of.Monsters.S01E02.Departure.1080p.ATVP.W.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

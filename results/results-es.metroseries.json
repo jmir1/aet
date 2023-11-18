@@ -57,8 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/les-innocents/",
-                                "title": "Les innocents",
+                                "url": "/la-ley-de-comey/",
+                                "title": "La ley de Comey",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/b-positive/",
-                                "title": "B Positive",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kpahHIuvaUJgTSiNMhz3yjgsAtq.jpg"
+                                "url": "/ines-del-alma-mia/",
+                                "title": "Inés del alma mía",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/q3lUWZSxNo7TWNxHwqHs0PQTkGA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/como-se-crea-una-atraccion-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - Space Mountain",
+                        "date_upload": 1626825600000,
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/episode/como-se-crea-una-atraccion-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - The Twilight Zone Tower of Terror",
+                        "date_upload": 1626825600000,
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

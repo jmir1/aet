@@ -347,17 +347,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/film/serve-the-people-102805/",
-                    "title": "Serve the People",
-                    "author": "",
-                    "description": "Mu-kwang volunteers to be a kitchen police of Sa-taek, the divisional commander, dreaming of success. One day, Mu-kwang meets Su-ryeon by chance, who is a young and beautiful wife of the commander. Soon, he feels a strong attraction by her.\n\nQuality: HD\nRelease: 2022-02-23\nIMDb: n/a",
-                    "genre": "Romance, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
