@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/five-nights-at-freddys/",
+                                "title": "Five Nights at Freddy’s",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg"
+                            },
+                            {
+                                "url": "/movies/ip-man-the-awakening/",
+                                "title": "Ip Man: The Awakening",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ejF3BiPRnuBmSzedOz8Z7e2b0m1.jpg"
+                            },
+                            {
                                 "url": "/movies/oppenheimer/",
                                 "title": "Oppenheimer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
@@ -35,11 +45,6 @@
                                 "url": "/movies/killers-of-the-flower-moon/",
                                 "title": "Killers of the Flower Moon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/lPRtpUsO402yA1s1hKwFeh8W85g.jpg"
-                            },
-                            {
-                                "url": "/movies/five-nights-at-freddys/",
-                                "title": "Five Nights at Freddy’s",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg"
                             },
                             {
                                 "url": "/movies/werewolf-by-night/",
@@ -100,11 +105,6 @@
                                 "url": "/movies/doggy-style/",
                                 "title": "Doggy Style",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/bwlkqCzZRgYn5LC6hW22tR6WFL2.jpg"
-                            },
-                            {
-                                "url": "/movies/the-island-auge-um-auge/",
-                                "title": "The Island – Auge um Auge",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/dVaafnNTgV5MARsvOGfIURqAbZg.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -434,11 +434,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/oppenheimer/",
-                    "title": "Oppenheimer",
-                    "description": "Als dem Physiker Julius Robert Oppenheimer während des Zweiten Weltkriegs die wissenschaftliche Leitung des Manhattan-Projekts übertragen wird, können er uns seine Ehefrau Kitty sich nicht vorstellen, welche Auswirkungen Oppenheimers Arbeit nicht nur auf ihr Leben, sondern auf die ganze Welt haben wird. Im Los Alamos National Laboratory in New Mexico sollen er und sein Team unter der Aufsicht von Lt. Leslie Groves eine Nuklearwaffe entwickeln – was ihnen auch gelingt. Oppenheimer wird zum „Vater der Atombombe“ ausgerufen, doch dass seine tödliche Erfindung bald folgenschwer in Hiroshima und Nagasaki eingesetzt wird, lässt Oppenheimer Abstand von dem Projekt nehmen. Als der Krieg zu Ende geht, setzt sich Robert Oppenheimer als Berater der US-amerikanischen Atomenergiebehörde, die von Lewis Strauss mitbegründet wurde, für eine internationale Kontrolle von Kernenergie und gegen ein nukleares Wettrüsten ein – und gerät ins Visier des FBI.\n\nOriginal title: Oppenheimer",
-                    "genre": "Drama, Historie",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                    "url": "/movies/five-nights-at-freddys/",
+                    "title": "Five Nights at Freddy’s",
+                    "description": "Mike Schmidt ist der Hauptprotagonist in Five Nights at Freddy’s. Er wird Sicherheitsbeamter in Freddy Fazbear’s Pizza, in der sich des Nachts vier Animatronics verselbstständigen und den dort arbeitenden Nachtwächter bedrohen.\n\nOriginal title: Five Nights at Freddy's",
+                    "genre": "Horror, Thriller",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -446,7 +446,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/oppenheimer/",
+                        "url": "/movies/five-nights-at-freddys/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -454,14 +454,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://fs1.filehosted.net/file/1MHf/pso-oppenheimer-ts-1080p.mkv.mp4",
-                        "quality": "Filehosted",
-                        "videoUrl": "https://fs1.filehosted.net/file/1MHf/pso-oppenheimer-ts-1080p.mkv.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
