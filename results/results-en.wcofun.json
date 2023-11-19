@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/remy-boo-episode-52-super-boo-ster",
+                        "name": "Season 1 - Episode 52",
+                        "episode_number": 152.0
+                    },
+                    {
+                        "url": "/remy-boo-episode-51-remy-boo-delivery-crew",
+                        "name": "Season 1 - Episode 51",
+                        "episode_number": 151.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnKSZ0n3XWX38CJa66gXARMibAx1muei8-p2-Wn-eMS17nzGbaqk1QFbhBon-xr3pEvvQzeMDQ_nGoeEMU-_J7E-vlMjuPX-Cj4fXncaE-hLMgfCNVwYPdbItE2l03qIRGxA0SxoR810dHJX9rTkXRpyQ2xJ2ak8uto93jaJeXBSTqkSHlSbHX7Kd3Rej5UfHeDUrzu4g3Dc0XdsJ8_ebhuHiBOKjYxQTRdkNNApwgiKYL2YzC-e3e1H98ERLSrbmDfrOapIjj3islKIDZFywct5d7SuUlTRChVmsZLEveuOoOuWOFs-SzJqUCvhCPobJk0vujesSeq2QGyA-rIhi9Y",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnKSZ0n3XWX38CJa66gXARMibAx1muei8-p2-Wn-eMS17nzGbaqk1QFbhBon-xr3pEvvQzeMDQ_nGoeEMU-_J7E-vlMjuPX-Cj4fXncaE-hLMgfCNVwYPdbItE2l03qIRGxA0SxoR810dHJX9rTkXRpyQ2xJ2ak8uto93jaJeXBSTqkSHlSbHX7Kd3Rej5UfHeDUrzu4g3Dc0XdsJ8_ebhuHiBOKjYxQTRdkNNApwgiKYL2YzC-e3e1H98ERLSrbmDfrOapIjj3islKIDZFywct5d7SuUlTRChVmsZLEveuOoOuWOFs-SzJqUCvhCPobJk0vujesSeq2QGyA-rIhi9Y"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnKSZ0n3XWX38CJa66gXARMibAx1muei8-p2-Wn-eMS17nzGbaqk1QFbhBon-xr3pEvvQzeMDQ_nGoeEMU-_J7EWAmEjoceXuZtirWMCaLVNicX5nCxWJBXfgcz592-dmDQTrTsuCkgi-aGgwlHqNTfsoopvpnwaraCL3Kkk3mZn8xoLo4zgi9WaAW3aBL4Oo6u0WxyJZV3xaEq_Cwc7KhpqNjEyFHsi3ZFcJLDp99Wea0w94gcVWdZ0cPf8RPZGIbCCGY6CDiAz5MbrJLs8OlRfGghsZ4BNtB-o_G1CEWC9AdvSbIud9m84FO7TJwUcSiu_b71-hE4WcHqporjtX8g",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnKSZ0n3XWX38CJa66gXARMibAx1muei8-p2-Wn-eMS17nzGbaqk1QFbhBon-xr3pEvvQzeMDQ_nGoeEMU-_J7EWAmEjoceXuZtirWMCaLVNicX5nCxWJBXfgcz592-dmDQTrTsuCkgi-aGgwlHqNTfsoopvpnwaraCL3Kkk3mZn8xoLo4zgi9WaAW3aBL4Oo6u0WxyJZV3xaEq_Cwc7KhpqNjEyFHsi3ZFcJLDp99Wea0w94gcVWdZ0cPf8RPZGIbCCGY6CDiAz5MbrJLs8OlRfGghsZ4BNtB-o_G1CEWC9AdvSbIud9m84FO7TJwUcSiu_b71-hE4WcHqporjtX8g"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnKSZ0n3XWX38CJa66gXARMibAx1muei8-p2-Wn-eMS17nzGbaqk1QFbhBon-xr3pEvvQzeMDQ_nGoeEMU-_J7EAvHSWvEoed4XHr9XdHLqGmY5o8mTlbWPbhv9vYmvLmHwc1UibjLqudNGkS63ctaD10TVbWsgF8KOe1LDv-enGdGXgzu6vyKA0ceDv4tP4wNU5EQmtIDkjAVC7wj3prL1wgwe8IvB7wbkQNHOY-_3MyOJ2GpZLbGXG_O5FTSB4SZoEtrCMgYR4bnhyNTvcVPTARVLTy_M5gxZyur2w5XAt48CWr7W-twr36mPK_cy2ttzUMrWK0v3TSm9jkXzU4NI",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnKSZ0n3XWX38CJa66gXARMibAx1muei8-p2-Wn-eMS17nzGbaqk1QFbhBon-xr3pEvvQzeMDQ_nGoeEMU-_J7EAvHSWvEoed4XHr9XdHLqGmY5o8mTlbWPbhv9vYmvLmHwc1UibjLqudNGkS63ctaD10TVbWsgF8KOe1LDv-enGdGXgzu6vyKA0ceDv4tP4wNU5EQmtIDkjAVC7wj3prL1wgwe8IvB7wbkQNHOY-_3MyOJ2GpZLbGXG_O5FTSB4SZoEtrCMgYR4bnhyNTvcVPTARVLTy_M5gxZyur2w5XAt48CWr7W-twr36mPK_cy2ttzUMrWK0v3TSm9jkXzU4NI"
+                    }
+                ],
+                "passed": true
             }
         }
     }

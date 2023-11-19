@@ -307,14 +307,14 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/44/0f/440f62e68ca62b339b712bd3051e2133/440f62e68ca62b339b712bd3051e2133.jpg"
                             },
                             {
-                                "url": "/dark-gathering-18482",
-                                "title": "Dark Gathering",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/ae/ab/aeab1a310c9728970572deb6d79ae7b1/aeab1a310c9728970572deb6d79ae7b1.jpg"
-                            },
-                            {
                                 "url": "/a-returners-magic-should-be-special-18600",
                                 "title": "Kikansha no Mahou wa Tokubetsu desu",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/f7/7c/f77c2a8d9163d22b4c8c5376189c56c1/f77c2a8d9163d22b4c8c5376189c56c1.jpg"
+                            },
+                            {
+                                "url": "/dark-gathering-18482",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/ae/ab/aeab1a310c9728970572deb6d79ae7b1/aeab1a310c9728970572deb6d79ae7b1.jpg"
                             },
                             {
                                 "url": "/dr-stone-3rd-season-part-2-18574",
@@ -628,21 +628,124 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/one-piece-100?ep=109555",
+                        "name": "Ep. 1084: Episode 1084",
+                        "episode_number": 1084.0
+                    },
+                    {
                         "url": "/watch/one-piece-100?ep=109336",
                         "name": "Ep. 1083: The World That Moves On! A New Organization, Cross Guild!",
                         "episode_number": 1083.0
-                    },
-                    {
-                        "url": "/watch/one-piece-100?ep=109214",
-                        "name": "Ep. 1082: The Coming of the New Era! The Red-Haired's Imperial Rage",
-                        "episode_number": 1082.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to extract videos.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno.tendoloads.com/_v6/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4fcecb1ef86ce4ca6cf97f5abc7a7d0face06f8ec2fcf4b20a389b8d5f29ced4e43f9ae4016c6634e8620e8cb03e16c3393f7bf22db11bdb273fe7d06a0c36ead462d2fe0a8f1ddda14d42cd30dbcb1d09/index-f1-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 1080p - sub",
+                        "videoUrl": "https://eno.tendoloads.com/_v6/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4fcecb1ef86ce4ca6cf97f5abc7a7d0face06f8ec2fcf4b20a389b8d5f29ced4e43f9ae4016c6634e8620e8cb03e16c3393f7bf22db11bdb273fe7d06a0c36ead462d2fe0a8f1ddda14d42cd30dbcb1d09/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/d0/76/d076225133e59d5d721fbe5247be77b3/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ec.netmagcdn.com:2228/hls-playback/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4f07c2170834bfcab2b395cf72d8712a1df5a54cb5db3bd213967c9b2eed1aec82b6700200712355d3e7f0a162f0b2056d83aa3d84567ec566f028cf718bee17a7be0d3652867df1222dfd5fc71b335f12ff31995fdb1c50f9f8ea4173577d173e/index-f1-v1-a1.m3u8",
+                        "quality": "MegaCloud - 1080p - sub",
+                        "videoUrl": "https://ec.netmagcdn.com:2228/hls-playback/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4f07c2170834bfcab2b395cf72d8712a1df5a54cb5db3bd213967c9b2eed1aec82b6700200712355d3e7f0a162f0b2056d83aa3d84567ec566f028cf718bee17a7be0d3652867df1222dfd5fc71b335f12ff31995fdb1c50f9f8ea4173577d173e/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/d0/76/d076225133e59d5d721fbe5247be77b3/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.tendoloads.com/_v6/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4fcecb1ef86ce4ca6cf97f5abc7a7d0face06f8ec2fcf4b20a389b8d5f29ced4e43f9ae4016c6634e8620e8cb03e16c3393f7bf22db11bdb273fe7d06a0c36ead462d2fe0a8f1ddda14d42cd30dbcb1d09/index-f2-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 720p - sub",
+                        "videoUrl": "https://eno.tendoloads.com/_v6/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4fcecb1ef86ce4ca6cf97f5abc7a7d0face06f8ec2fcf4b20a389b8d5f29ced4e43f9ae4016c6634e8620e8cb03e16c3393f7bf22db11bdb273fe7d06a0c36ead462d2fe0a8f1ddda14d42cd30dbcb1d09/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/d0/76/d076225133e59d5d721fbe5247be77b3/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.tendoloads.com/_v6/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4fcecb1ef86ce4ca6cf97f5abc7a7d0face06f8ec2fcf4b20a389b8d5f29ced4e43f9ae4016c6634e8620e8cb03e16c3393f7bf22db11bdb273fe7d06a0c36ead462d2fe0a8f1ddda14d42cd30dbcb1d09/index-f3-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 360p - sub",
+                        "videoUrl": "https://eno.tendoloads.com/_v6/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4fcecb1ef86ce4ca6cf97f5abc7a7d0face06f8ec2fcf4b20a389b8d5f29ced4e43f9ae4016c6634e8620e8cb03e16c3393f7bf22db11bdb273fe7d06a0c36ead462d2fe0a8f1ddda14d42cd30dbcb1d09/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/d0/76/d076225133e59d5d721fbe5247be77b3/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ec.netmagcdn.com:2228/hls-playback/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4f07c2170834bfcab2b395cf72d8712a1df5a54cb5db3bd213967c9b2eed1aec82b6700200712355d3e7f0a162f0b2056d83aa3d84567ec566f028cf718bee17a7be0d3652867df1222dfd5fc71b335f12ff31995fdb1c50f9f8ea4173577d173e/index-f2-v1-a1.m3u8",
+                        "quality": "MegaCloud - 720p - sub",
+                        "videoUrl": "https://ec.netmagcdn.com:2228/hls-playback/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4f07c2170834bfcab2b395cf72d8712a1df5a54cb5db3bd213967c9b2eed1aec82b6700200712355d3e7f0a162f0b2056d83aa3d84567ec566f028cf718bee17a7be0d3652867df1222dfd5fc71b335f12ff31995fdb1c50f9f8ea4173577d173e/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/d0/76/d076225133e59d5d721fbe5247be77b3/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://ec.netmagcdn.com:2228/hls-playback/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4f07c2170834bfcab2b395cf72d8712a1df5a54cb5db3bd213967c9b2eed1aec82b6700200712355d3e7f0a162f0b2056d83aa3d84567ec566f028cf718bee17a7be0d3652867df1222dfd5fc71b335f12ff31995fdb1c50f9f8ea4173577d173e/index-f3-v1-a1.m3u8",
+                        "quality": "MegaCloud - 360p - sub",
+                        "videoUrl": "https://ec.netmagcdn.com:2228/hls-playback/d1cefab048f5510fce0005e0ac3af191875ed4788113f801cffc686c7ed9d8f6610e62182ccdf9a23eade9c7327eea4f07c2170834bfcab2b395cf72d8712a1df5a54cb5db3bd213967c9b2eed1aec82b6700200712355d3e7f0a162f0b2056d83aa3d84567ec566f028cf718bee17a7be0d3652867df1222dfd5fc71b335f12ff31995fdb1c50f9f8ea4173577d173e/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/d0/76/d076225133e59d5d721fbe5247be77b3/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

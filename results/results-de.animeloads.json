@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/edens-zero-2",
+                                "title": "Edens Zero: Season 2",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-edens-zero-2-cover.jpg"
+                            },
+                            {
                                 "url": "/media/hataraku-oniisan-no-2",
                                 "title": "Working Buddies! 2!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hataraku-oniisan-no-2-cover.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/media/kawagoe-boys-sing",
                                 "title": "Kawagoe Boys Sing: Now or Never",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-kawagoe-boys-sing-cover.png"
-                            },
-                            {
-                                "url": "/media/hoshikuzu-telepath",
-                                "title": "Stardust Telepath",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hoshikuzu-telepath-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/hataraku-oniisan-no-2",
-                    "title": "Working Buddies! 2!",
+                    "url": "/media/edens-zero-2",
+                    "title": "Edens Zero: Season 2",
                     "author": "",
-                    "description": "Die zweite Staffel von Working Buddies! Quelle: aniSearch",
-                    "genre": "Komödie",
+                    "description": "Mit Drakken Joe steht die Crew der Edens Zero erstmals einem Mitglied der berühmt-berüchtigten Oración Seis Galáctica gegenüber. Die Mission lautet, Drakken Joes Raumschiff, die Belial Gore, zu infiltrieren. Die Überraschung ist groß, als die Crew herausfindet, dass sich innerhalb dieses Raumschiffs eine ganze Stadt befindet. Das macht es für die Feinde glücklicherweise schwieriger, Eindringlinge zu identifizieren. Der Weg der Crew führt sie aber nicht sofort direkt zu Drakken Joe, denn vorher wird noch die Stadt besichtigt. Aus einer gemütlichen Erkundungstour wird jedoch nichts, denn Drakken Joe erscheint plötzlich auf allen Bildschirmen der Stadt und lässt die Crew wissen, über ihr Eindringen von Anfang an im Bilde gewesen zu sein. Zur selben Zeit wird die Edens Zero von drei von Drakken Joes stärksten Handlangern – Seth Anderson, Diego Reyes und Maria Slime – angegriffen. Diese haben sich Zutritt zum Schiff verschafft und wollen die darin befindlichen Crewmitglieder als Geiseln nehmen. Und auch die Element 4, Drakken Joes Spezialeinheit, macht sich einsatzbereit ... Quelle: aniSearch",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-hataraku-oniisan-no-2-cover.jpg",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-edens-zero-2-cover.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -239,32 +239,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/hataraku-oniisan-no-2#streams_episodes_1_11",
-                        "name": "Ep.12 Pizzabuden-Kumpels!",
-                        "episode_number": 12.0
+                        "url": "/media/edens-zero-2#streams_episodes_1_24",
+                        "name": "Ep.25 Episode 25",
+                        "episode_number": 25.0
                     },
                     {
-                        "url": "/media/hataraku-oniisan-no-2#streams_episodes_1_10",
-                        "name": "Ep.11 Karaoke-Kumpels!",
-                        "episode_number": 11.0
+                        "url": "/media/edens-zero-2#streams_episodes_1_23",
+                        "name": "Ep.24 Episode 24",
+                        "episode_number": 24.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=mQkgXeKQamubwr3&expires=1700424038&ip=GxOsEHWnDS9X&token=h2M5-PDu5NrB",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=mQkgXeKQamubwr3&expires=1700424038&ip=GxOsEHWnDS9X&token=h2M5-PDu5NrB"
-                    },
-                    {
-                        "url": "https://denisegrowthwide.com/access/eyJpdiI6IkFYYVBySHBnRDRONzVEZ3VxQUhvQ1E9PSIsInZhbHVlIjoiTTIvcktNNEdhQTRXbTJLbnJXekQvM1RuMHhBZ2NxcDIxalhRckZYQW9DTk1WWDdPRWNSdytGcFRMT2V6bUl3VThWV0U4ODdTY21qOUQvblErU0FSbnc9PSIsIm1hYyI6ImRhODc0ZjhhNTE3ODNlZjY3MmMwMTQ1NDdlMTRkYWFmNjJhZDAyOGMzMThhMmRjMjRjZjM1ZDk1NjUzMDFiYmUiLCJ0YWciOiIifQ==?o=0",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/09761/9hlcts3tgvev_,n,.urlset/master.m3u8?t=BFhjlyaDZhPumcD9nqZnTP8p8sdDyMN6iokKCwf3O90&s=1700354037&e=14400&f=48809103&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=40.71&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
