@@ -147,8 +147,8 @@
                                 "thumbnail_url": ""
                             },
                             {
-                                "url": "/anime/tate-no-yuusha-no-nariagari-season-3/",
-                                "title": "Tate no Yuusha no Nariagari Season 3",
+                                "url": "/anime/arknights-fuyukomori-kaerimichi/",
+                                "title": "Arknights: Fuyukomori Kaerimichi",
                                 "thumbnail_url": ""
                             },
                             {
@@ -166,6 +166,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/yugioh-go-rush/",
+                                "title": "Yu☆Gi☆Oh!: Go Rush!!",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/captain-tsubasa-season-2-junior-youth-hen/",
+                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/anime/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": ""
+                            },
                             {
                                 "url": "/anime/the-idolm-at-ster-million-live/",
                                 "title": "The iDOLM@STER Million Live!",
@@ -299,21 +314,6 @@
                             {
                                 "url": "/anime/keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi/",
                                 "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/sousou-no-frieren/",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/tate-no-yuusha-no-nariagari-season-3/",
-                                "title": "Tate no Yuusha no Nariagari Season 3",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/anime/mahoutsukai-no-yome-season-2-part-2/",
-                                "title": "Mahoutsukai no Yome Season 2 Part 2",
                                 "thumbnail_url": ""
                             }
                         ],
@@ -511,7 +511,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'e' instead at path: $\nJSON input: error code: 502",
                 "passed": false
             }
         }

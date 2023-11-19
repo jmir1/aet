@@ -3,85 +3,24 @@
         "name": "Aniweek (KO)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/c/닥터 스톤 NEW WORLD",
-                                "title": "닥터 스톤 NEW WORLD",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2304/5e46671968a8cbcb78234d8c768a5e93_1680808389_9939.jpg"
-                            },
-                            {
-                                "url": "/c/신 테니스의 왕자 U-17 WORLD CUP",
-                                "title": "신 테니스의 왕자 U-17 WORLD CUP",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2207/7bb9b0f834587f44794b22782bb18858_1657205985_46.jpg"
-                            },
-                            {
-                                "url": "/c/소드 아트 온라인 앨리시제이션 War of Underworld (2020)",
-                                "title": "소드 아트 온라인 앨리시제이션 War of Underworld (2020)",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2008/24f713b3a176f7e8c7152c4353cb19fd_1597510062_5083.jpg"
-                            },
-                            {
-                                "url": "/c/소드 아트 온라인 앨리시제이션 War of Underworld",
-                                "title": "소드 아트 온라인 앨리시제이션 War of Underworld",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2008/24f713b3a176f7e8c7152c4353cb19fd_1597510184_2375.jpg"
-                            },
-                            {
-                                "url": "/c/닥터 스톤 NEW WORLD 2쿨",
-                                "title": "닥터 스톤 NEW WORLD 2쿨",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2310/5112a50ea26f136a93fb114cb7e019eb_1697155327_5448.jpg"
-                            },
-                            {
-                                "url": "/c/진격의 거인 OAD8-Lost in the cruel world",
-                                "title": "진격의 거인 OAD8-Lost in the cruel world",
-                                "thumbnail_url": "https://aniweek.com/data/editor/2303/dcc8882580734009d6fdac7c1167513e_1680136121_2795.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 520",
+                "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/e/닥터 스톤 NEW WORLD 11화(完)",
-                        "name": "닥터 스톤 NEW WORLD 11화(完)",
-                        "date_upload": 1688947200000,
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/e/닥터 스톤 NEW WORLD 10화",
-                        "name": "닥터 스톤 NEW WORLD 10화",
-                        "date_upload": 1688947200000,
-                        "episode_number": 10.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://anibeast.com/m3/SU9nRmNLaTRSTldhQVJzOTFPK2pOTW4yandZZjA3MHNhb1dqeEdnMlZSaEM5bzFTVmxxdUFNT3NxYUFRNE41QnQ4V0xqSVhsZi9tTlczdit6b0NtVjdrQ3c2NTJoUGxJTFYxMzNXcTlSbzBES1AzWHkreG1IcDNCSzR3UkQxejBSM0ViREp2T3pBQzN0WlJSUnovNkppNHBZKzNRblZjTGRvTkpaa09rYjhmdWZXdCtKdHBFMk5sR0hOK2pLZ0NsQlFVVVFUUFNOL0wyVkt4QmI2dUY2eHZpeWQwZnM2UUZUSmdhMUpvdjZmdzZkRHcwTytoczNRR3BOdTEzZml0a0dtZnNINjlpZG1KUUhNSms1SDd1Y2F5dTIxQ01JQlNmWDNXRDFEUmtpcS9CRzhrSytkTG9rcDExeVJrcTdOcGI%3D",
-                        "quality": "1080p",
-                        "videoUrl": "https://anibeast.com/m3/SU9nRmNLaTRSTldhQVJzOTFPK2pOTW4yandZZjA3MHNhb1dqeEdnMlZSaEM5bzFTVmxxdUFNT3NxYUFRNE41QnQ4V0xqSVhsZi9tTlczdit6b0NtVjdrQ3c2NTJoUGxJTFYxMzNXcTlSbzBES1AzWHkreG1IcDNCSzR3UkQxejBSM0ViREp2T3pBQzN0WlJSUnovNkppNHBZKzNRblZjTGRvTkpaa09rYjhmdWZXdCtKdHBFMk5sR0hOK2pLZ0NsQlFVVVFUUFNOL0wyVkt4QmI2dUY2eHZpeWQwZnM2UUZUSmdhMUpvdjZmdzZkRHcwTytoczNRR3BOdTEzZml0a0dtZnNINjlpZG1KUUhNSms1SDd1Y2F5dTIxQ01JQlNmWDNXRDFEUmtpcS9CRzhrSytkTG9rcDExeVJrcTdOcGI%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anibeast.com",
-                            "Referer": "https://anibeast.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             }
         }
     }
