@@ -3,94 +3,53 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/hua-jianghu-buliang-ren-6",
-                                "title": "Hua Jianghu Buliang Ren 6",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hua-jianghu_-buliang-ren-6_1754.webp"
-                            },
-                            {
-                                "url": "/series/tokyo-revengers-3sezon",
-                                "title": "Tokyo Revengers 3.Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tokyo-revengers_-tenjiku-hen_1134.webp"
-                            },
-                            {
-                                "url": "/series/swallowed-star-4",
-                                "title": "Swallowed Star 4",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tunshi-xingkong-4_1288.webp"
-                            },
-                            {
-                                "url": "/series/maou-gakuin-no-futekigousha-2-sezon",
-                                "title": "Maou Gakuin no Futekigousha 2 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_maou-gakuin-no-futekigousha-2-sezon_1731.webp"
-                            },
-                            {
-                                "url": "/series/isekai-wa-smartphone-to-tomo-ni-s2",
-                                "title": "Isekai wa Smartphone to Tomo ni S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_in-another-world-with-my-smartphone-2_1736.webp"
-                            },
-                            {
-                                "url": "/series/kimetsu-no-yaiba-katanakaji-no-sato-hen",
-                                "title": "Kimetsu no Yaiba Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kimetsu-no-yaiba-katanakaji-no-sato-hen_1602.webp"
-                            },
-                            {
-                                "url": "/series/bai-lian-cheng-shen",
-                                "title": "Bai Lian Cheng Shen",
-                                "thumbnail_url": "https://tranimaci.com/image/series_bai-lian-cheng-shen_1774.webp"
-                            },
-                            {
-                                "url": "/series/starting-from-gu-huo-bird-dragon-city-hegemony",
-                                "title": "Starting from Gu Huo Bird Dragon City Hegemony",
-                                "thumbnail_url": "https://tranimaci.com/image/20221210173146-4959.webp"
-                            },
-                            {
-                                "url": "/series/yao-shen-ji-7",
-                                "title": "Yao Shen Ji 7",
-                                "thumbnail_url": "https://tranimaci.com/image/todg-s7.webp"
-                            },
-                            {
-                                "url": "/series/yuan-long-3-sezon",
-                                "title": "Yuan Long 3 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_yuan-long-3_1727.webp"
-                            },
-                            {
-                                "url": "/series/xingchen-bian-an-xing-jie-pian",
-                                "title": "Xingchen Bian An Xing Jie Pian",
-                                "thumbnail_url": "https://tranimaci.com/image/series_xingchen-bian-an-xing-jie-pian_1220.webp"
-                            },
-                            {
-                                "url": "/series/oshi-no-ko",
-                                "title": "Oshi no Ko",
-                                "thumbnail_url": "https://tranimaci.com/image/series_oshi-no-ko_1790.webp"
-                            },
-                            {
-                                "url": "/series/zhu-xian",
-                                "title": "Zhu Xian",
-                                "thumbnail_url": "https://tranimaci.com/image/series_zhu-xian_1333.webp"
-                            },
-                            {
-                                "url": "/series/mahoutsukai-no-yome-season-2-part-2",
-                                "title": "Mahoutsukai no Yome SEASON 2 Part 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_the-ancient-magus-bride-season-2-part-2_1071.webp"
-                            },
-                            {
-                                "url": "/series/kage-no-jitsuryokusha-ni-naritakute-season-2",
-                                "title": "Kage no Jitsuryokusha ni Naritakute! Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kage-no-jitsuryokusha-ni-naritakute-season-2_1228.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: INTERNAL_ERROR",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/dark-gathering",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://tranimaci.com/image/series_dark-gathering_1413.webp"
+                            },
+                            {
+                                "url": "/series/mf-ghost",
+                                "title": "MF GHOST",
+                                "thumbnail_url": "https://tranimaci.com/image/series_mf-ghost_1887.webp"
+                            },
+                            {
+                                "url": "/series/boushoku-no-berserk",
+                                "title": "Boushoku no Berserk",
+                                "thumbnail_url": "https://tranimaci.com/image/series_boushoku-no-berserk_1252.webp"
+                            },
+                            {
+                                "url": "/series/overtake",
+                                "title": "OVERTAKE!",
+                                "thumbnail_url": "https://tranimaci.com/image/series_overtake_1824.webp"
+                            },
+                            {
+                                "url": "/series/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo_1888.webp"
+                            },
+                            {
+                                "url": "/series/dekoboko-majo-no-oyako-jijou",
+                                "title": "Dekoboko Majo no Oyako Jijou",
+                                "thumbnail_url": "https://tranimaci.com/image/series_dekoboko-majo-no-oyako-jijou_1648.webp"
+                            },
+                            {
+                                "url": "/series/huyao-xiao-hongniang_-wu-mu",
+                                "title": "Huyao Xiao Hongniang: Wu Mu",
+                                "thumbnail_url": "https://tranimaci.com/image/series_huyao-xiao-hongniang_-wu-mu_1338.jpg"
+                            },
+                            {
+                                "url": "/series/jian-gu",
+                                "title": "Jian Gu",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jian-gu_1846.jpg"
+                            },
                             {
                                 "url": "/series/shangri-la-frontier",
                                 "title": "Shangri-La Frontier",
@@ -152,11 +111,6 @@
                                 "thumbnail_url": "https://tranimaci.com/image/series_dou-po-cangqiong-nian-fan-2_1335.webp"
                             },
                             {
-                                "url": "/series/jian-gu",
-                                "title": "Jian Gu",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jian-gu_1846.jpg"
-                            },
-                            {
                                 "url": "/series/bokura-no-ameiro-protocol",
                                 "title": "Bokura no Ameiro Protocol",
                                 "thumbnail_url": "https://tranimaci.com/image/series_protocol_-rain_1278.webp"
@@ -180,41 +134,6 @@
                                 "url": "/series/kikansha-no-mahou-wa-tokubetsu-desu",
                                 "title": "Kikansha no Mahou wa Tokubetsu desu",
                                 "thumbnail_url": "https://tranimaci.com/image/series_kikansha-no-mahou-wa-tokubetsu-desu_1804.webp"
-                            },
-                            {
-                                "url": "/series/tearmoon-teikoku-monogatari",
-                                "title": "Tearmoon Teikoku Monogatari",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tearmoon-teikoku-monogatari_1882.webp"
-                            },
-                            {
-                                "url": "/series/atarashii-joushi-wa-do-tennen",
-                                "title": "Atarashii Joushi wa Do Tennen",
-                                "thumbnail_url": "https://tranimaci.com/image/series_atarashii-joushi-wa-do-tennen_1179.webp"
-                            },
-                            {
-                                "url": "/series/spy-x-family-season-2",
-                                "title": "SPY x FAMILY-Season-2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_spy-x-family-season-2_1184.webp"
-                            },
-                            {
-                                "url": "/series/ragna-crimson",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://tranimaci.com/image/series_ragna-crimson_1102.webp"
-                            },
-                            {
-                                "url": "/series/saihate-no-paladin",
-                                "title": "Saihate no Paladin",
-                                "thumbnail_url": "https://tranimaci.com/image/series_saihate-no-paladin_1556.webp"
-                            },
-                            {
-                                "url": "/series/hikikomari-kyuuketsuki-no-monmon",
-                                "title": "Hikikomari Kyuuketsuki no Monmon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hikikomari-kyuuketsuki-no-monmon_1819.webp"
-                            },
-                            {
-                                "url": "/series/kibou-no-chikara-otona-precure-23",
-                                "title": "Kibou no Chikara Otona Precure 23",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kibou-no-chikara-otona-precure-23_1573.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -228,14 +147,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/hua-jianghu-buliang-ren-6",
-                    "title": "Hua Jianghu Buliang Ren 6",
-                    "artist": "Tencent Penguin Pictures,Rocen",
-                    "description": "The sixth season of Hua Jianghu: Buliang Ren.\n\nDurum: Devam Ediyor\nYayın Tarihi: 01/03/2023\nEklenme Tarihi: 10/03/2023\nSüre: Ort. 0 dakika\nTip: Anime\nBölümler: 12\nSansür: Var\nStudio: Tencent Penguin Pictures,Rocen\n",
-                    "genre": "",
+                    "url": "/series/dark-gathering",
+                    "title": "Dark Gathering",
+                    "artist": "OLM,Pony Canyon,Shueisha",
+                    "description": "Huzursuz bir ruhla yaşadığı yıkıcı karşılaşmanın ardından, hayaletlerden korkan medyum Keitarou Gentouga başka hayalet felaketlerinden kaçınmak için içine kapanır. Ancak hiç kimse lanetli bir ada değildir ve Keitarou sonunda dahi çocuk Yayoi Houzuki'ye özel öğretmen olarak yarı zamanlı bir iş bularak toplumla yeniden bütünleşir. Yayoi sadece akademik bir dahi değildir. Annesinin kaybolmasının ardındaki kötü ruhu bulmaya kararlı, yetenekli bir medyumdur ve Keitarou'yu grotesk doğaüstü fenomenlerle dolu korkunç dünyasına çekmeye son derece kararlıdır.\n\nDurum: Devam Ediyor\nYayın Tarihi: 09/07/2023\nEklenme Tarihi: 09/07/2023\nSüre: Ort. 23 dakika\nTip: Anime\nBölümler: 25\nSansür: Var\nStudio: OLM,Pony Canyon,Shueisha\n",
+                    "genre": "Horror, Supernatural",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://tranimaci.com/image/series_hua-jianghu_-buliang-ren-6_1754.webp",
+                    "thumbnail_url": "https://tranimaci.com/image/series_dark-gathering_1413.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -243,16 +162,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/hua-jianghu-buliang-ren-6-12-bolum",
-                        "name": "Bölüm 12",
-                        "date_upload": 1683763200000,
-                        "episode_number": 12.0
+                        "url": "/video/dark-gathering-20-bolum",
+                        "name": "Bölüm 20",
+                        "date_upload": 1700352000000,
+                        "episode_number": 20.0
                     },
                     {
-                        "url": "/video/hua-jianghu-buliang-ren-6-11-bolum",
-                        "name": "Bölüm 11",
-                        "date_upload": 1683158400000,
-                        "episode_number": 11.0
+                        "url": "/video/dark-gathering-19-bolum",
+                        "name": "Bölüm 19",
+                        "date_upload": 1699747200000,
+                        "episode_number": 19.0
                     }
                 ],
                 "passed": true
@@ -260,18 +179,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/5d68c596d4db947ec6f1b132b8eb905f363a9255cc96e53df3fb463470d4b6a7",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/ecc05c7ce9ddc6c04e45f4c9ae4dee1f7ea8400b8a74c1ee6f30ee7c94e61894",
                         "quality": "720p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/5d68c596d4db947ec6f1b132b8eb905f363a9255cc96e53df3fb463470d4b6a7",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/ecc05c7ce9ddc6c04e45f4c9ae4dee1f7ea8400b8a74c1ee6f30ee7c94e61894",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://tranimaci.com/"
                         }
                     },
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/5d94763deba3d937dd95a0c2a8a6199fb17179baeb212a0f1d3e79919290b4dc",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/35dfbabc08ee2c57ba758fa27b3b1c1995f6e238f08b0224d66394ee87a10d8e",
+                        "quality": "1080p",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/35dfbabc08ee2c57ba758fa27b3b1c1995f6e238f08b0224d66394ee87a10d8e",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://tranimaci.com/"
+                        }
+                    },
+                    {
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/489d0f07b795e0b0c6cd0511434a60aa1f53b7ed3a9b9be3d294d19a6b760252",
                         "quality": "480p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/5d94763deba3d937dd95a0c2a8a6199fb17179baeb212a0f1d3e79919290b4dc",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/489d0f07b795e0b0c6cd0511434a60aa1f53b7ed3a9b9be3d294d19a6b760252",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://tranimaci.com/"

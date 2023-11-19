@@ -511,7 +511,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had 'e' instead at path: $\nJSON input: error code: 502",
+                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
                 "passed": false
             }
         }

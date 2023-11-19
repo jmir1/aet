@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ben-10/",
+                                "title": "Ben 10",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/ese-programa-del-que-usted-me-habla/",
                                 "title": "Ese programa del que usted me habla",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/esposas-e-hijas/",
-                                "title": "Esposas e hijas",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/marte/",
-                                "title": "Marte",
+                                "url": "/degrassi-la-nueva-generacion/",
+                                "title": "Degrassi: la nueva generación",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/la-universidad-para-sordos/",
-                                "title": "La universidad para sordos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/90QWtnLPfI5nJltVz0tmp2N8sEY.jpg"
+                                "url": "/el-oro-pirata-de-la-isla-de-adak/",
+                                "title": "El oro pirata de la isla de Adak",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xaq3mnifkknC8cGA7I65W3bTmu0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/ese-programa-del-que-usted-me-habla/",
-                    "title": "Ese programa del que usted me habla",
-                    "description": "Programa diario de humor y actualidad de media hora de duración de lunes a viernes, presentado por María Gómez, acompañada de Marta Flich y Alberto Casado, este espacio pretende tratar con irreverencia, ingenio e inteligencia la actualidad de día.",
-                    "genre": "Comedia, Talk",
-                    "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+                    "url": "/ben-10/",
+                    "description": "",
+                    "genre": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/ese-programa-del-que-usted-me-habla-temporada-1-capitulo-30/",
-                        "name": "T01 - E30 - Episodio 30",
-                        "date_upload": 1561334400000,
-                        "episode_number": 30.0
-                    },
-                    {
-                        "url": "/episode/ese-programa-del-que-usted-me-habla-temporada-1-capitulo-29/",
-                        "name": "T01 - E29 - Episodio 29",
-                        "date_upload": 1560729600000,
-                        "episode_number": 29.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
