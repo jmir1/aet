@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-curse-2023/",
+                                "title": "The Curse (2023)",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/el-naufragio-de-una-diva/",
+                                "title": "El naufragio de una diva",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/el-maleficio/",
                                 "title": "El Maleficio",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -47,18 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/the-vanishing-triangle/",
-                                "title": "The Vanishing Triangle",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/ojitos-de-huevo/",
-                                "title": "Ojitos de huevo",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/embrujadas-2018/",
-                                "title": "Embrujadas (2018)",
+                                "url": "/mila-en-el-multiverso/",
+                                "title": "Mila en el multiverso",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/star-trek-la-serie-original-capitulos-completos-latino-hd-online/",
-                                "title": "Star Trek: La serie original",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/3ATqzWYDbWOV2RBLWNwA43InT60-226x339.jpg"
+                                "url": "/i-am-a-stalker/",
+                                "title": "I Am a Stalker",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zp0QTE42EncOiwNFdvRqawAvXGZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,25 @@
             },
             "details": {
                 "result": {
-                    "url": "/el-maleficio/",
-                    "title": "El Maleficio",
-                    "description": "La trama de desarrolla en torno a Enrique de Martino (Fernando Colunga), un empresario exitoso, atractivo y misterioso, cuyo grandeza se encuentra enmarcada por un oscuro y bien guardado secreto., En contraste está Beatriz Almazar, una mujer de corazón generoso y dedicada a su familia, los caminos de Enrique y Beatriz se entrelazan de manera sorpresiva guiados por lo que creen una coincidencia orquestada por el destino.",
-                    "genre": "Drama",
+                    "url": "/the-curse-2023/",
+                    "title": "The Curse (2023)",
+                    "description": "La maldición Una supuesta maldición perturba la relación de una pareja de recién casados mientras intentan concebir un hijo y coprotagonizan su problemático nuevo programa de televisión.",
+                    "genre": "Comedia",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/the-curse-2023-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - Episodio 1",
+                        "date_upload": 1699747200000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

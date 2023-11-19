@@ -113,20 +113,72 @@
                 "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
+                    "title": "Five Nights at Freddys",
+                    "description": "Eigentlich hat der Sicherheitsbeamte Mike Schmidt (Josh Hutcherson) ja schon genügend Probleme am Hals. Deshalb ist er zunächst froh, eine neue Stelle als Nachwächter bei „Freddy Fazbear's Pizza“ antreten zu können. Schließlich ist das Familienrestaurant schon seit Jahren geschlossen – und so verspricht der Job ganz besonders unspektakulär zu werden. Wobei sich Mike nie die Frage gestellt hat, warum eine längst verrammelte Pizzeria überhaupt einen Nachtwächter braucht? Die Antwort gibt es gleich in der ersten Nacht: Irgendwann erwachen die animatronischen Tier-Maskottchen Freddy Fazbear, Bonnie, Chica und Foxy zum Leben – und töten jeden, der sich nach Mitternacht noch in das Gebäude wagt! Offenbar waren sie auch der Grund, warum „Freddy Fazbear's Pizza“ überhaupt schließen musste – aber das hat Mike natürlich niemand verraten…\n\nKinoadaption des beliebten Indie-Horrorspiels \"Five Nights at Freddy's\", in dem es darum geht, Nachtschichten in einer Pizzeria zu überleben.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=rBem3oMMjqH8BB&expires=1700424066&ip=FROsE0MnDS9X&token=K8b6bKMBJ9Xz",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=rBem3oMMjqH8BB&expires=1700424066&ip=FROsE0MnDS9X&token=K8b6bKMBJ9Xz"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700424065&ip=FROsE0MnDS9X&token=aajDnNKIYgiu",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700424065&ip=FROsE0MnDS9X&token=aajDnNKIYgiu"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6mqXQb7wlvIL7z&expires=1700424065&ip=FROsE0MnDS9X&token=eLRfjxLoD36_",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6mqXQb7wlvIL7z&expires=1700424065&ip=FROsE0MnDS9X&token=eLRfjxLoD36_"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=MZ9yAjgqb6Um8xW&expires=1700424065&ip=FROsE0MnDS9X&token=QeIatR5eBOzr",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=MZ9yAjgqb6Um8xW&expires=1700424065&ip=FROsE0MnDS9X&token=QeIatR5eBOzr"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=aoOJLkMjJwTxyjl&expires=1700424063&ip=FROsE0MnDS9X&token=V6hsurasyVB-",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aoOJLkMjJwTxyjl&expires=1700424063&ip=FROsE0MnDS9X&token=V6hsurasyVB-"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700424063&ip=FROsE0MnDS9X&token=8acmVmfLeogc",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700424063&ip=FROsE0MnDS9X&token=8acmVmfLeogc"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=x2r7vxQblPikkxm&expires=1700424063&ip=FROsE0MnDS9X&token=9d5KRruUuVqf",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=x2r7vxQblPikkxm&expires=1700424063&ip=FROsE0MnDS9X&token=9d5KRruUuVqf"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700424062&ip=FROsE0MnDS9X&token=Rre66S9JqhvS",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=6xpJoeawZ2h9Xg6&expires=1700424062&ip=FROsE0MnDS9X&token=Rre66S9JqhvS"
+                    }
+                ],
+                "passed": true
             }
         }
     }

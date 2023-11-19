@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/remy-boo",
+                                "title": "Remy & Boo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933305.jpg"
+                            },
+                            {
+                                "url": "/anime/the-daltons",
+                                "title": "The Daltons",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933304.jpg"
+                            },
+                            {
+                                "url": "/anime/time-traveler-luke",
+                                "title": "Time Traveler Luke",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933303.jpg"
+                            },
+                            {
+                                "url": "/anime/tex-avery-screwball-classics",
+                                "title": "Tex Avery Screwball Classics",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933302.jpg"
+                            },
+                            {
                                 "url": "/anime/scott-pilgrim-takes-off",
                                 "title": "Scott Pilgrim Takes Off",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933301.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/dora-the-explorer-2023",
                                 "title": "Dora the Explorer (2023)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933290.jpg"
-                            },
-                            {
-                                "url": "/anime/dog-loves-books",
-                                "title": "Dog Loves Books",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933289.jpg"
-                            },
-                            {
-                                "url": "/anime/chip-chilla",
-                                "title": "Chip Chilla",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933288.jpg"
-                            },
-                            {
-                                "url": "/anime/best-ed",
-                                "title": "Best Ed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933287.jpg"
-                            },
-                            {
-                                "url": "/anime/pumpkin-reports",
-                                "title": "Pumpkin Reports",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933286.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/scott-pilgrim-takes-off",
-                    "title": "Scott Pilgrim Takes Off",
-                    "description": "The series, set in Toronto, Canada, serves as an alternate retelling of the original Scott Pilgrim graphic novel series. Like in the original series, Scott Pilgrim, a bassist in an indie band, falls in love with Ramona Flowers, a mysterious delivery girl, attracting the attention of Ramona’s seven evil exes. Things take an unexpected turn, however, when Scott actually loses his battle against Ramona’s first evil ex and is seemingly killed. As everyone’s lives, including those of Ramona’s evil exes, change drastically as a result, Ramona learns that Scott may still be alive and decides to investigate his disappearance.",
-                    "genre": "Action, Adventure, Comedy, Fantasy, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933301.jpg",
+                    "url": "/anime/remy-boo",
+                    "title": "Remy & Boo",
+                    "description": "Set in a cozy seaside town, Remy & Boo explores the unique friendship between an adventurous six-year-old girl and her unique best friend Boo, a big, squishy, pink robot. Fueled by Remy’s indomitable spirit and Boo’s can-do attitude, their days in Dolphin Bay are filled with new adventures, both big and small, powered by their two incredible imaginations.",
+                    "genre": "Adventure, Animated, Children's television series, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933305.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/scott-pilgrim-takes-off-episode-8-the-world-vs-scott-pilgrim",
-                        "name": "Season 1 - Episode 8",
-                        "episode_number": 108.0
-                    },
-                    {
-                        "url": "/scott-pilgrim-takes-off-episode-7-2-scott-2-pilgrim",
-                        "name": "Season 1 - Episode 7",
-                        "episode_number": 107.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtnTcQDsWUWOKaxB55D-p98vIHZC8jZnTVQg1NVCJpkLD6bvlpzG00SZM-Y1hR_ggxpHYPTwjdx1cOLXdlYe9UHCEkHUqzSTSP8WMulmdB8uc_dPw9xEdoS1COOXSluIIZfjKVXNwQCeB1JdTR_U3o3ioM-qh6CDDSNnpghJXchC27CkZxaCXPI9WANve66aEO8nAzAp0C3J6DrFVkGOKBSuL6ZIKJpwHKcPPn-9arsk-uJTXkxPE_qPrzMNjQfgHxLMk5wla07xNoZtuCF12SQRFDKxSpllPuLsVEgJ8ODimnfZHDaDrhSq9bXBjYaKeA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtnTcQDsWUWOKaxB55D-p98vIHZC8jZnTVQg1NVCJpkLD6bvlpzG00SZM-Y1hR_ggxpHYPTwjdx1cOLXdlYe9UHCEkHUqzSTSP8WMulmdB8uc_dPw9xEdoS1COOXSluIIZfjKVXNwQCeB1JdTR_U3o3ioM-qh6CDDSNnpghJXchC27CkZxaCXPI9WANve66aEO8nAzAp0C3J6DrFVkGOKBSuL6ZIKJpwHKcPPn-9arsk-uJTXkxPE_qPrzMNjQfgHxLMk5wla07xNoZtuCF12SQRFDKxSpllPuLsVEgJ8ODimnfZHDaDrhSq9bXBjYaKeA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtnTcQDsWUWOKaxB55D-p98vIHZC8jZnTVQg1NVCJpkLD6bvlpzG00SZM-Y1hR_gg1JeFS2Uo8VkWU5Hl-8e4UPpbJwYYIWW0WCPyrL7TxNosrWwdrKkXO4bNHwEY_2mc6qr1EpjuxwNX0Jt_Rlkq0fDJ8o-5JuDBnUGHEfFRX7AZLw25NZNInG5f16OIhta26p3WZEwLOBWFhSJ-3Okq4INhyzQSN85aVT1DrdFFTYTkIi_KN28QeEAdRFVPrBMj90Tl8NpS-PSEycrJinFBiA5sVDkV9y6OWOVb5hX7OahQ6w-wWKQ4zCS-dmUr0uf8g",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtnTcQDsWUWOKaxB55D-p98vIHZC8jZnTVQg1NVCJpkLD6bvlpzG00SZM-Y1hR_gg1JeFS2Uo8VkWU5Hl-8e4UPpbJwYYIWW0WCPyrL7TxNosrWwdrKkXO4bNHwEY_2mc6qr1EpjuxwNX0Jt_Rlkq0fDJ8o-5JuDBnUGHEfFRX7AZLw25NZNInG5f16OIhta26p3WZEwLOBWFhSJ-3Okq4INhyzQSN85aVT1DrdFFTYTkIi_KN28QeEAdRFVPrBMj90Tl8NpS-PSEycrJinFBiA5sVDkV9y6OWOVb5hX7OahQ6w-wWKQ4zCS-dmUr0uf8g"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtnTcQDsWUWOKaxB55D-p98vIHZC8jZnTVQg1NVCJpkLD6bvlpzG00SZM-Y1hR_gg_4NfvwVmJEtf90j1gzzHrgjh7Tjq3nglHMEsfGDKj1R4AUQb8KNy6DPursBrnoppbMB9Hyof_AJftbIC3XUAOFmncT24HDIKhJUiUSxOfmQlcKvvlmX_2IgDmVS4ECVR06c0T5lg_qUCaa2sDXhc8SItc2Aobl0aPmLLstH7zSoSLE5pVG1NmDtjKalY0ndjXZDIYQ0HUo1gOIb1zSLMEvS-0K_G4CxcvhrPwTPwjaB",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJtnTcQDsWUWOKaxB55D-p98vIHZC8jZnTVQg1NVCJpkLD6bvlpzG00SZM-Y1hR_gg_4NfvwVmJEtf90j1gzzHrgjh7Tjq3nglHMEsfGDKj1R4AUQb8KNy6DPursBrnoppbMB9Hyof_AJftbIC3XUAOFmncT24HDIKhJUiUSxOfmQlcKvvlmX_2IgDmVS4ECVR06c0T5lg_qUCaa2sDXhc8SItc2Aobl0aPmLLstH7zSoSLE5pVG1NmDtjKalY0ndjXZDIYQ0HUo1gOIb1zSLMEvS-0K_G4CxcvhrPwTPwjaB"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
