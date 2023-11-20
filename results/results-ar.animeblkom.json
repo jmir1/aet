@@ -3,205 +3,23 @@
         "name": "أنمي بالكوم (AR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/fullmetal-alchemist-brotherhood",
-                                "title": "Fullmetal Alchemist: Brotherhood",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61638/Fullmetal-Alchemist-Brotherhood-poster-150.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/71487/164a716526901b.jpg"
-                            },
-                            {
-                                "url": "/movie/kimetsu-no-yaiba-movie-mugen-ressha-hen",
-                                "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65247/kimetsu-no-yaiba-movie-mugen-ressha-hen-poster-3811.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                                "thumbnail_url": "https://animeblkom.net/uploads/71587/164aded4b7c77e.jpg"
-                            },
-                            {
-                                "url": "/anime/hunter-x-hunter-2011",
-                                "title": "Hunter x Hunter (2011)",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61502/Hunter-x-Hunter-2011-poster-12.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-tv",
-                                "title": "Jujutsu Kaisen (TV)",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65145/jujutsu-kaisen-tv-poster-3709.jpg"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/69833/135099l.jpg"
-                            },
-                            {
-                                "url": "/anime/hajime-no-ippo",
-                                "title": "Hajime no Ippo",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61582/Hajime-no-Ippo-poster-93.jpg"
-                            },
-                            {
-                                "url": "/anime/steinsgate",
-                                "title": "Steins;Gate",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61514/Steins-Gate-poster-24.jpg"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-yuukaku-hen",
-                                "title": "Kimetsu no Yaiba: Yuukaku-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65342/kimetsu-no-yaiba-yuukaku-hen-poster-3906.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61500/Bleach-poster-9.jpg"
-                            },
-                            {
-                                "url": "/movie/koe-no-katachi",
-                                "title": "Koe no Katachi",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62276/koe-no-katachi-poster-796.jpg"
-                            },
-                            {
-                                "url": "/movie/howl-no-ugoku-shiro",
-                                "title": "Howl no Ugoku Shiro",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63483/howl-no-ugoku-shiro-poster-2005.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen",
-                                "title": "Bleach: Sennen Kessen-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65465/bleach-sennen-kessen-hen-poster-4029.jpg"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
-                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65317/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season-poster-3881.jpg"
-                            },
-                            {
-                                "url": "/anime/death-note",
-                                "title": "Death Note",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61513/Death-Note-poster-23.jpg"
-                            },
-                            {
-                                "url": "/anime/kaguya-sama-wa-kokurasetai-ultra-romantic",
-                                "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65390/kaguya-sama-wa-kokurasetai-ultra-romantic-poster-3954.jpg"
-                            },
-                            {
-                                "url": "/anime/monster",
-                                "title": "Monster",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61593/Monster-poster-104.jpg"
-                            },
-                            {
-                                "url": "/movie/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
-                                "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/70068/164428edbd617a.jpg"
-                            },
-                            {
-                                "url": "/anime/dragon-ball-super",
-                                "title": "Dragon Ball Super",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61499/Dragon-Ball-Super-poster-8.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/world-trigger",
-                                "title": "World Trigger",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61775/World-Trigger-poster-289.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-3rd-season",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65335/world-trigger-3rd-season-poster-3899.jpg"
-                            },
-                            {
-                                "url": "/anime/world-dai-star",
-                                "title": "World Dai Star",
-                                "thumbnail_url": "https://animeblkom.net/uploads/70149/16445516256e71.jpg"
-                            },
-                            {
-                                "url": "/anime/world-destruction-sekai-bokumetsu-no-rokunin",
-                                "title": "World Destruction: Sekai Bokumetsu no Rokunin",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62882/world-destruction-sekai-bokumetsu-no-rokunin-poster-1403.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-2nd-season",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65194/world-trigger-2nd-season-poster-3758.jpg"
-                            },
-                            {
-                                "url": "/anime/seiken-tsukai-no-world-break",
-                                "title": "Seiken Tsukai no World Break",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62633/seiken-tsukai-no-world-break-poster-1156.jpg"
-                            },
-                            {
-                                "url": "/special/aoi-sekai-no-chuushin-de",
-                                "title": "Aoi Sekai no Chuushin de",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62485/aoi-sekai-no-chuushin-de-poster-1005.jpg"
-                            },
-                            {
-                                "url": "/anime/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-zaj",
-                                "title": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
-                                "thumbnail_url": "https://animeblkom.net/uploads/64963/shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka-5d83696a5be4c-poster-3514.jpg"
-                            },
-                            {
-                                "url": "/anime/kino-no-tabi-the-beautiful-world",
-                                "title": "Kino no Tabi: The Beautiful World",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63599/kino-no-tabi-the-beautiful-world-poster-2121.jpg"
-                            },
-                            {
-                                "url": "/anime/kino-no-tabi-the-beautiful-world-the-animated-series",
-                                "title": "Kino no Tabi: The Beautiful World - The Animated Series",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63906/kino-no-tabi-the-beautiful-world-the-animated-series-poster-2435.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/fullmetal-alchemist-brotherhood",
-                    "title": "Fullmetal Alchemist: Brotherhood (anime)",
-                    "artist": "irie, yasuhiro",
-                    "author": "Bones",
-                    "description": "يفقد الأخوان “ألفونس” و “أدوارد” أمهما إثر مرض عضال.. عندها يقومان بإستخدام قوة الخيمياء المحرمة لإرجاع روح أمهما.تفشل تلك العملية حيث يفقد الأخ الأكبر “إدوارد” رجله اليسرى بينما يتخلى أخوه الأصغر عن روحه كي يقوم بحماية أخوه كنتيجة حتمية لإستخدامها شيئاً محرماً. يُضحي “إدوارد” بيده اليمنى حتى لا ينتقل أخوه لعالم لا عودة منه ويقسم حينها بأن يحصل على حجر الفلاسفة حتى يستطيعا العودة لسابق عهدهما ويحافظ على روح أخيه حتى لو أضطر لأن يكون مجرد حالة خيميائه تقوم بإستخدامها الأبحاث العسكرية.",
-                    "genre": "أكشن, مغامرة, دراما, خيال, سحر, عسكري, شونين",
-                    "thumbnail_url": "https://animeblkom.net/uploads/61638/Fullmetal-Alchemist-Brotherhood-poster-150.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/fullmetal-alchemist-brotherhood/64",
-                        "name": "64 :الحلقة",
-                        "episode_number": 64.0
-                    },
-                    {
-                        "url": "/watch/fullmetal-alchemist-brotherhood/63",
-                        "name": "63 :الحلقة",
-                        "episode_number": 63.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
