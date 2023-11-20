@@ -42,6 +42,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/overtake",
+                                "title": "OVERTAKE!: Saison 1 Episode 8",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/5Rk3MH3DY4MEyuS9IOaYdsz7lXL-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/mf-ghost",
+                                "title": "MF GHOST: Saison 1 Episode 8",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/4pYE2eCIKcAi11kNShXcd4qjuLr-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/witch-family",
+                                "title": "Dekoboko Majo No Oyako Jijou – Witch Family!: Saison 1 Episode 9",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/4bSUnlymIijw1Yeum0wOZ1Zjjo3-1-300x170.jpg"
+                            },
+                            {
+                                "url": "/serie/dark-gathering",
+                                "title": "Dark Gathering: Saison 1 Episode 20",
+                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/foS0eulIDcHXE3u69wyHDP55ddv-1-300x170.jpg"
+                            },
+                            {
                                 "url": "/serie/berserk-of-gluttony",
                                 "title": "Boushoku No Berserk – Berserk of Gluttony: Saison 1 Episode 8",
                                 "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/vojWlwsbZUaTnSp5ZALrY53bU9m-1-300x170.jpg"
@@ -170,26 +190,6 @@
                                 "url": "/serie/our-dating-story-the-experienced-you-and-the-inexperienced-me",
                                 "title": "Keiken Zumi Na Kimi To – Our Dating Story: The Experienced You and The Inexperienced Me: Saison 1 Episode 7",
                                 "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/vDm6rTKCkHSdawWwCmIiWgNNJFJ-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/hypnosismic-division-rap-battle-rhyme-anima",
-                                "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima: Saison 2 Episode 7",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/Image_pr3Fsentation-300x170.webp"
-                            },
-                            {
-                                "url": "/serie/the-rising-of-the-shield-hero",
-                                "title": "Tate No Yuusha No Nariagari – The Rising of the Shield Hero: Saison 3 Episode 7",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/vR4lOB162O60hXPTT8pSuybfMjr-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/goblin-slayer",
-                                "title": "GOBLIN SLAYER: Saison 2 Episode 7",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/fuBqOTfQPBz6RGyiBUSK31KldD9-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/kenshin-le-vagabond",
-                                "title": "Kenshin le vagabond: Saison 1 Episode 20",
-                                "thumbnail_url": "https://ssl.jetanimes.com/wp-content/uploads/2023/11/buPwsDU86F0mukAVKyOdA9jGt0B-1-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -386,7 +386,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }

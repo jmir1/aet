@@ -3,27 +3,27 @@
         "name": "Hstream (EN)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: hstream.moe: No address associated with hostname",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: hstream.moe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: hstream.moe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: hstream.moe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: hstream.moe",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: hstream.moe",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
