@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-family-chantel-49369/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/f7907f72583573898446822f76423843.jpg"
+                            },
+                            {
                                 "url": "/film/the-jester-101080/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/5a0a5a3e6c608c13de37c3ca95f6363c.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/planet-earth-iii-101848/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/7e7972070a826d0a82c88015816b319a.jpg"
-                            },
-                            {
-                                "url": "/film/estonia-101596/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/8ac2fbedd678e8f9a9577b4f8f4402c0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/the-jester-101080/",
-                    "title": "The Jester",
+                    "url": "/film/the-family-chantel-49369/",
+                    "title": "The Family Chantel",
                     "author": "",
-                    "description": "A malevolent being known as The Jester terrorizes the inhabitants of a small town on Halloween night, including two estranged sisters who must come together to find a way to defeat this evil entity.\n\nQuality: HDRIP\nRelease: 2023-09-20\nIMDb: 5.1",
-                    "genre": "Horror, Thriller, Mystery",
+                    "description": "The lives of 90 Day Fiancé: Happily Ever After? fan-favorites Pedro and Chantel and their lively in-laws. Buckle up as they try to move past their differences and come together as an extended family.\n\nQuality: HD\nRelease: 2019-07-22\nIMDb: 3.5",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":20,\"ids\":[\"49369_20_1\",\"49369_20_2\",\"49369_20_3\"]}",
+                        "name": "Episode 20: ",
+                        "episode_number": 20.0
+                    },
+                    {
+                        "url": "{\"ep_num\":19,\"ids\":[\"49369_19_1\",\"49369_19_2\",\"49369_19_3\"]}",
+                        "name": "Episode 19: ",
+                        "episode_number": 19.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
