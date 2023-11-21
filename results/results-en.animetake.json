@@ -3,7 +3,7 @@
         "name": "AnimeTake (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
@@ -241,13 +241,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/w/42333100439/",
+                        "url": "/w/58637100439/",
                         "name": "Episode 1",
                         "date_upload": 1696377600000,
                         "episode_number": 1.0
                     },
                     {
-                        "url": "/w/42333100440/",
+                        "url": "/w/58637100440/",
                         "name": "Episode 2",
                         "date_upload": 1696982400000,
                         "episode_number": 2.0
@@ -268,9 +268,9 @@
                         }
                     },
                     {
-                        "url": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3smze2dybmzoct44uvwtpnle2gcwybm/video.mp4",
+                        "url": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3sfjsri6dhnwz7rc4x336nw54mvevqs/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3smze2dybmzoct44uvwtpnle2gcwybm/video.mp4",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3sfjsri6dhnwz7rc4x336nw54mvevqs/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://mp4upload.com/"

@@ -596,17 +596,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/weaving-a-tale-of-love?id=6050ffa3b366522e2a54ed06",
-                    "title": "Weaving a Tale of Love (Tejiendo una historia de amor)",
-                    "artist": "Guli Nazha",
-                    "author": "Hunan Television",
-                    "description": "n the reign of Emperor Taizong (627—649), which was called the Prosperity of Zhenguan, former clothing maker An is framed and imprisoned. When she was in danger, she entrusts her young daughter Liu Li to an old friend in the palace. Liu Li grows up in the palace and becomes a medical officer, responsible for epidemic prevention.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kVy1nZqNRflU74Na0CVovxWho0W.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
