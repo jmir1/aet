@@ -117,9 +117,9 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/im-in-love-with-the-villainess/",
-                                "title": "I’m in Love with the Villainess",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696237655-7988-137711.jpg"
+                                "url": "/anime/the-demon-sword-master-of-excalibur-academy/",
+                                "title": "The Demon Sword Master of Excalibur Academy",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/09/The-Demon-Sword-Master-of-Excalibur-Academy-poster-1.jpg"
                             },
                             {
                                 "url": "/anime/a-playthrough-of-a-certain-dudes-vrmmo-life/",
@@ -127,14 +127,14 @@
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/A-Playthrough-of-a-Certain-Dudes-VRMMO-Life-poster.jpg"
                             },
                             {
+                                "url": "/anime/im-in-love-with-the-villainess/",
+                                "title": "I’m in Love with the Villainess",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696237655-7988-137711.jpg"
+                            },
+                            {
                                 "url": "/anime/shy/",
                                 "title": "SHY",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/Shy-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/the-demon-sword-master-of-excalibur-academy/",
-                                "title": "The Demon Sword Master of Excalibur Academy",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/09/The-Demon-Sword-Master-of-Excalibur-Academy-poster-1.jpg"
                             },
                             {
                                 "url": "/anime/dead-mount-death-play-part-2/",
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2mj73y5wiidh3tnbsbbkq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2mj73y5wiidh3tnbsbbkq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3y5wiidht4i34vvyq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3y5wiidht4i34vvyq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
