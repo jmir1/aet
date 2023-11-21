@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "6900-river-wild",
+                                "title": "River Wild",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/47cc8237-57e3-42a8-9a91-ed31843be68f.webp"
+                            },
+                            {
+                                "url": "6899-come-far-saltare-un-oleodotto",
+                                "title": "Come far saltare un oleodotto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/caa5ce94-c7bc-433b-a9d5-352280476afb.webp"
+                            },
+                            {
                                 "url": "6897-brado",
                                 "title": "Brado",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3c47a6fc-6eac-4af6-b109-08cc9a42e4e4.webp"
@@ -605,16 +615,6 @@
                                 "url": "6830-manchester-by-the-sea",
                                 "title": "Manchester by the Sea",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c1c46b42-d4c3-413f-838f-04d41dd66d46.webp"
-                            },
-                            {
-                                "url": "6829-galline-in-fuga",
-                                "title": "Galline in fuga",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/cee77fe1-1603-44b7-877d-debd8219af04.webp"
-                            },
-                            {
-                                "url": "6828-the-burning-girls",
-                                "title": "The Burning Girls",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/94d7e241-b43a-47e6-a096-62a43c44a777.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6890\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6890\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-8971754416995439687/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-8971754416995439687/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-8971754416995439687/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-8971754416995439687/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

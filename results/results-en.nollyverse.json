@@ -7,8 +7,64 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984",
+                                "title": "The Railway Men - The Untold Story of Bhopal 1984",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-railway-men-the-untold-story-of-bhopal-1984.jpg"
+                            },
+                            {
+                                "url": "/serie/scott-pilgrim-takes-off",
+                                "title": "Scott Pilgrim Takes Off",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/scott-pilgrim-takes-off.jpg"
+                            },
+                            {
+                                "url": "/serie/monarch-legacy-of-monsters",
+                                "title": "Monarch: Legacy of Monsters",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/monarch-legacy-of-monsters.jpg"
+                            },
+                            {
+                                "url": "/serie/a-murder-at-the-end-of-the-world",
+                                "title": "A Murder at the End of the World",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/a-murder-at-the-end-of-the-world.jpg"
+                            },
+                            {
+                                "url": "/serie/ncis-sydney",
+                                "title": "NCIS: Sydney",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/ncis-sydney.jpg"
+                            },
+                            {
+                                "url": "/serie/the-curse",
+                                "title": "The Curse",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-curse.jpg"
+                            },
+                            {
+                                "url": "/serie/beacon-23",
+                                "title": "Beacon 23",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/beacon-23.jpg"
+                            },
+                            {
+                                "url": "/serie/the-buccaneers",
+                                "title": "The Buccaneers",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/the-buccaneers.jpg"
+                            },
+                            {
+                                "url": "/serie/vigilante",
+                                "title": "Vigilante",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/vigilante.jpg"
+                            },
+                            {
+                                "url": "/serie/lawmen-bass-reeves",
+                                "title": "Lawmen: Bass Reeves",
+                                "thumbnail_url": "https://www.nollyverse.com/serie/img/lawmen-bass-reeves.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -52,10 +108,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/edge-of-the-world",
-                    "title": "Edge of the World",
-                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
-                    "genre": "Adventure, Drama",
+                    "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984",
+                    "title": "The Railway Men - The Untold Story of Bhopal 1984 (2023-)",
+                    "description": "India, 1984. After a deadly gas leaks from a factory in Bhopal, brave railway workers risk their lives to save others in the face of an unspeakable disaster.",
+                    "genre": "Drama, History, Thriller",
                     "initialized": true
                 },
                 "passed": true
@@ -63,9 +119,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/edge-of-the-world/download/",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984/season-1#4",
+                        "name": "Episode S1E4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/serie/the-railway-men-the-untold-story-of-bhopal-1984/season-1#3",
+                        "name": "Episode S1E3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -73,34 +134,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://yts.mx/torrent/download/F04C7FBA645F34B9C4387F4EA0AA8EC92DE52DDB",
-                        "quality": "BLURAY 1080p.x264",
-                        "videoUrl": "https://yts.mx/torrent/download/F04C7FBA645F34B9C4387F4EA0AA8EC92DE52DDB"
+                        "url": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+                        "quality": "1080p.x265",
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
                     },
                     {
-                        "url": "https://yts.mx/torrent/download/4D29BBE78AE3A896E47D557C503606ABA7B69269",
-                        "quality": "WEB 1080p.x264",
-                        "videoUrl": "https://yts.mx/torrent/download/4D29BBE78AE3A896E47D557C503606ABA7B69269"
-                    },
-                    {
-                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
-                        "quality": "480p",
-                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
-                    },
-                    {
-                        "url": "https://dood.la/d/o16rzvmsv5u2",
-                        "quality": "720p",
-                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
-                    },
-                    {
-                        "url": "https://yts.mx/torrent/download/23383E27BDFF3A908FA54D0633914B0FD4103D7D",
-                        "quality": "BLURAY 720p.x264",
-                        "videoUrl": "https://yts.mx/torrent/download/23383E27BDFF3A908FA54D0633914B0FD4103D7D"
-                    },
-                    {
-                        "url": "https://yts.mx/torrent/download/05CD61AB8927BC94C5FFDDD759B62162A0B9CBE4",
-                        "quality": "WEB 720p.x264",
-                        "videoUrl": "https://yts.mx/torrent/download/05CD61AB8927BC94C5FFDDD759B62162A0B9CBE4"
+                        "url": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv",
+                        "quality": "720p.x265",
+                        "videoUrl": "https://dl3.fm6x.sbs/Series_05/The.Railway.Men.The.Untold.Story.of.Bhopal/The.Railway.Men.The.Untold.Story.of.Bhopal.1984.S01E04.HINDI.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
                     }
                 ],
                 "passed": true
