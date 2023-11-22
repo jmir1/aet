@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/blue-giant-sub-espanol",
+                                "title": "Blue Giant",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/blue-giant-1700615140.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/scott-pilgrim-da-el-salto-sub-espanol",
                                 "title": "Scott Pilgrim da el salto",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/scott-pilgrim-da-el-salto-1700243425.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/bullbuster-sub-espanol",
                                 "title": "Bullbuster",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/bullbuster-1695742579.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/captain-tsubasa-season-2-junior-youth-hen-sub-espanol",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/captain-tsubasa-season-2-junior-youth-hen-1695742531.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,79 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/scott-pilgrim-da-el-salto-sub-espanol",
-                    "title": "Scott Pilgrim da el salto",
-                    "description": "Las aventuras de un rockero independiente de Toronto de veintitantos años para conseguir y conservar trabajos, evitar que lo echen de su apartamento y sobrevivir a los encuentros con los 7 ex de la nueva chica de la que está enamorado.",
-                    "genre": "Música",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/scott-pilgrim-da-el-salto-1700243425.jpg?v=1.5",
+                    "url": "/anime/blue-giant-sub-espanol",
+                    "title": "Blue Giant",
+                    "description": "\"¡Definitivamente me convertiré en el mejor jugador de Jazz del mundo!\" Blue Giant sigue a Dai Miyamoto, miembro del club de baloncesto. Un día, mientras asistía a la escuela secundaria, un amigo lo lleva a una actuación de jazz en vivo, lo q...",
+                    "genre": "Seinen",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/blue-giant-1700615140.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/scott-pilgrim-da-el-salto-episodio-8",
-                        "name": "Episodio 8",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/ver/scott-pilgrim-da-el-salto-episodio-7",
-                        "name": "Episodio 7",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=3&sig=XRGOzCVcUn0&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=3&sig=XRGOzCVcUn0&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=3&sig=XRGOzCVcUn0&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=3&sig=XRGOzCVcUn0&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=2&sig=ORjfECMQzLw&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=2&sig=ORjfECMQzLw&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=1&sig=62leGiGDrio&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=1&sig=62leGiGDrio&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=0&sig=wqGoebp098w&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=0&sig=wqGoebp098w&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=4&sig=xdxFB4x-jQE&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=4&sig=xdxFB4x-jQE&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=5&sig=uYV-UI5Wyfg&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1700699580563&srcIp=20.55.15.20&pr=10&srcAg=GECKO&ms=95.142.206.135&type=5&sig=uYV-UI5Wyfg&ct=0&urls=45.136.20.67%3B185.226.53.16&clientType=0&zs=43&id=5381931797023"
-                    },
-                    {
-                        "url": "https://m110.uqload.io/3rfkx5inrvw2q4drdkg7x5vmbtgjtgq2aad634b5sfhgbclemiq3ezk6d7kq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m110.uqload.io/3rfkx5inrvw2q4drdkg7x5vmbtgjtgq2aad634b5sfhgbclemiq3ezk6d7kq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

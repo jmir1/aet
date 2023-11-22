@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/fear-the-walking-dead",
+                                "title": "Fear the Walking Dead",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3736.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-lazarus-project",
                                 "title": "The Lazarus Project",
                                 "status": 1,
@@ -309,12 +315,6 @@
                                 "title": "007: Estrada para o Milhão",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22528.webp"
-                            },
-                            {
-                                "url": "/serie/online/fear-the-walking-dead",
-                                "title": "Fear the Walking Dead",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3736.webp"
                             },
                             {
                                 "url": "/serie/online/companheiros-de-viagem",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
                 "passed": false
             }
         }
