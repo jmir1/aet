@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "6898-squid-game-la-sfida",
+                                "title": "Squid Game: La sfida",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9adcd12c-7084-4bbc-b3f6-ccf08bd20d77.webp"
+                            },
+                            {
+                                "url": "6818-wish",
+                                "title": "Wish",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b49ad63e-56f2-4477-a6e2-fc714b6696cc.webp"
+                            },
+                            {
+                                "url": "6901-fallimento",
+                                "title": "Fallimento",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7ac084d9-d9ff-4a6e-9d13-2ea8cbe442c0.webp"
+                            },
+                            {
                                 "url": "6890-scivolando-sulla-neve",
                                 "title": "Scivolando sulla Neve",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/e5699fb7-9104-4cb8-b127-6222ddeec28f.webp"
@@ -290,21 +305,6 @@
                                 "url": "6757-the-continental-dal-mondo-di-john-wick",
                                 "title": "The Continental: Dal mondo di John Wick",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ec336c2f-ca7c-4ad9-89ab-0dc9198b1a69.webp"
-                            },
-                            {
-                                "url": "6729-spy-kids-armageddon",
-                                "title": "Spy Kids: Armageddon",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1af3cb7e-0f0a-4722-b7a3-84bcb7b40f0a.webp"
-                            },
-                            {
-                                "url": "6724-flora-and-son",
-                                "title": "Flora and Son",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/349193e1-63e5-4bff-9892-68f3670c27d1.webp"
-                            },
-                            {
-                                "url": "6826-sly",
-                                "title": "Sly",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a7083177-17d9-4c0a-9de7-9d7f3843fcde.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "6890-scivolando-sulla-neve",
-                    "description": "Eddie Garrick è un uomo di buon cuore che non crede più nella magia del Natale. Mentre è con sua figlia di nove anni, Charlotte, durante la Vigilia, fa amicizia con un misterioso individuo vestito di rosso di nome Nick.",
-                    "genre": "Fantasy, Commedia, Famiglia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "6898-squid-game-la-sfida",
+                    "description": "Immersi nel mondo di \"Squid Game\", 456 concorrenti reali mettono alla prova le loro abilità e il loro carattere per aggiudicarsi un premio di 4,56 milioni di dollari.",
+                    "genre": "Reality",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6890",
+                        "url": "6898",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6890\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6890\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-13063623282205577538/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-13063623282205577538/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-13063623282205577538/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-13063623282205577538/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

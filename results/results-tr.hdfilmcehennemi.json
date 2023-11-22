@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/dizi/culprits/",
+                                "title": "Culprits",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/culprits_list.jpg"
+                            },
+                            {
+                                "url": "/neighboring-sounds/",
+                                "title": "O Som ao Redor",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/neighboring-sounds_list.jpg"
+                            },
+                            {
                                 "url": "/tripped-up/",
                                 "title": "Tripped Up",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/tripped-up_list.jpg"
@@ -135,16 +145,6 @@
                                 "url": "/hd-1-beacon-point-izle-4/",
                                 "title": "Beacon Point",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/hd-1-beacon-point-izle_list.jpg"
-                            },
-                            {
-                                "url": "/good-bye-lenin/",
-                                "title": "Elveda Lenin!",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/good-bye-lenin_list.jpg"
-                            },
-                            {
-                                "url": "/the-librarian-quest-for-the-spear/",
-                                "title": "Efsane Avcısı",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-librarian-quest-for-the-spear_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,6 +156,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/back-on-the-strip/",
+                                "title": "Back on the Strip",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/back-on-the-strip_list.jpg"
+                            },
                             {
                                 "url": "/leo/",
                                 "title": "Leo",
@@ -230,11 +235,6 @@
                                 "url": "/the-queenstown-kings/",
                                 "title": "The Kings of Queenstown",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-queenstown-kings_list.jpg"
-                            },
-                            {
-                                "url": "/foe/",
-                                "title": "Foe",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/foe_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,14 +414,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/tripped-up/",
-                    "title": "Tripped Up",
-                    "artist": "Leah Lewis, Ashley Moore, Ariel Winter, Jo Ellen Pellman, Gil Perez-Abraham, Judy Gold, Justin Guarini, Vanessa Williams",
-                    "description": "Şef Lizzy, bir yemek festivalinde yarışmak için en iyi üç arkadaşıyla birlikte yola çıkar. Bir kariyer hamlesi olarak başlayan olayar, hızla yiyecek, eğlence ve arkadaşlık bağlarıyla dolu çılgın bir talihsizliğe dönüşür.",
-                    "genre": "Komedi",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/tripped-up.jpg",
+                    "url": "/dizi/culprits/",
+                    "title": "Culprits",
+                    "artist": "Nathan Stewart-Jarrett, Gemma Arterton, Eddie Izzard, Kirby Howell-Baptiste, Niamh Algar, Kamel El Basha, Tara Abboud, Ned Dennehy, Kevin Vidal",
+                    "description": "Gizli bir suç geçmişi bulunan bir aile babası, bir katilin onları hedef almaya başlamasıyla ekibiyle yeniden bir araya gelir.",
+                    "genre": "Komedi, Suç, Gerilim",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/culprits.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -429,9 +427,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/tripped-up/",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/dizi/culprits/sezon-1/bolum-8/",
+                        "name": "1. Sezon 8. Bölüm",
+                        "date_upload": 1699401600000,
+                        "episode_number": 1.008
+                    },
+                    {
+                        "url": "/dizi/culprits/sezon-1/bolum-7/",
+                        "name": "1. Sezon 7. Bölüm",
+                        "date_upload": 1699401600000,
+                        "episode_number": 1.007
                     }
                 ],
                 "passed": true
@@ -439,25 +444,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s230.rapidrame.com/hls2/01/00018/npr9055h9q3e_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bnMvIgM87Mk00poh5GDpUmihbZ9gIIQyftM4J35Rp_Y&s=1700590286&e=1199998800&f=92025&srv=s131&i=0.0&sp=0&p1=s230&p2=s230",
-                        "quality": "Rapidrame - 1072p",
-                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00018/npr9055h9q3e_,l,n,.urlset/index-f2-v1-a1.m3u8?t=bnMvIgM87Mk00poh5GDpUmihbZ9gIIQyftM4J35Rp_Y&s=1700590286&e=1199998800&f=92025&srv=s131&i=0.0&sp=0&p1=s230&p2=s230",
+                        "url": "https://yterso-9ode-2xoped.westrons.space/hls/xqx2pgrimrokjiqbthzcjoaew4i2c2nun7lcsyfrbqhoneg7t7zkymxhndga/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 900p",
+                        "videoUrl": "https://yterso-9ode-2xoped.westrons.space/hls/xqx2pgrimrokjiqbthzcjoaew4i2c2nun7lcsyfrbqhoneg7t7zkymxhndga/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
-                            "Origin": "https://www.hdfilmcehennemi.de",
-                            "Referer": "https://www.hdfilmcehennemi.de/playerr/npr9055h9q3e"
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-qpf9gr4f8909.html"
                         }
                     },
                     {
-                        "url": "https://s230.rapidrame.com/hls2/01/00018/npr9055h9q3e_,l,n,.urlset/index-f1-v1-a1.m3u8?t=bnMvIgM87Mk00poh5GDpUmihbZ9gIIQyftM4J35Rp_Y&s=1700590286&e=1199998800&f=92025&srv=s131&i=0.0&sp=0&p1=s230&p2=s230",
-                        "quality": "Rapidrame - 480p",
-                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00018/npr9055h9q3e_,l,n,.urlset/index-f1-v1-a1.m3u8?t=bnMvIgM87Mk00poh5GDpUmihbZ9gIIQyftM4J35Rp_Y&s=1700590286&e=1199998800&f=92025&srv=s131&i=0.0&sp=0&p1=s230&p2=s230",
+                        "url": "https://s305.rapidrame.com/hls2/01/00018/4bi2w5jj7ntu_,l,n,.urlset/index-f2-v1-a1.m3u8?t=vgb_WjAu3KIYAYC0QR9LE7_6Be1tL0jZ1oLEVRL5HD4&s=1700613275&e=1199998800&f=91793&i=0.0&sp=0",
+                        "quality": "Rapidrame - 1080p",
+                        "videoUrl": "https://s305.rapidrame.com/hls2/01/00018/4bi2w5jj7ntu_,l,n,.urlset/index-f2-v1-a1.m3u8?t=vgb_WjAu3KIYAYC0QR9LE7_6Be1tL0jZ1oLEVRL5HD4&s=1700613275&e=1199998800&f=91793&i=0.0&sp=0",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://www.hdfilmcehennemi.de",
-                            "Referer": "https://www.hdfilmcehennemi.de/playerr/npr9055h9q3e"
+                            "Referer": "https://www.hdfilmcehennemi.de/playerr/4bi2w5jj7ntu"
+                        }
+                    },
+                    {
+                        "url": "https://s305.rapidrame.com/hls2/01/00018/4bi2w5jj7ntu_,l,n,.urlset/index-f1-v1-a1.m3u8?t=vgb_WjAu3KIYAYC0QR9LE7_6Be1tL0jZ1oLEVRL5HD4&s=1700613275&e=1199998800&f=91793&i=0.0&sp=0",
+                        "quality": "Rapidrame - 480p",
+                        "videoUrl": "https://s305.rapidrame.com/hls2/01/00018/4bi2w5jj7ntu_,l,n,.urlset/index-f1-v1-a1.m3u8?t=vgb_WjAu3KIYAYC0QR9LE7_6Be1tL0jZ1oLEVRL5HD4&s=1700613275&e=1199998800&f=91793&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://www.hdfilmcehennemi.de",
+                            "Referer": "https://www.hdfilmcehennemi.de/playerr/4bi2w5jj7ntu"
                         }
                     }
                 ],
