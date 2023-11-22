@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ricky-zoom",
+                                "title": "Ricky Zoom",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933310.jpg"
+                            },
+                            {
+                                "url": "/anime/resident-evil-infinite-darkness",
+                                "title": "Resident Evil: Infinite Darkness",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933309.jpg"
+                            },
+                            {
+                                "url": "/anime/ranger-rob",
+                                "title": "Ranger Rob",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933308.jpg"
+                            },
+                            {
+                                "url": "/anime/rainbow-ruby",
+                                "title": "Rainbow Ruby",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933307.jpg"
+                            },
+                            {
                                 "url": "/anime/q-force",
                                 "title": "Q-Force",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933306.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/the-twisted-timeline-of-sammy-raj",
                                 "title": "The Twisted Timeline of Sammy & Raj",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933295.jpg"
-                            },
-                            {
-                                "url": "/anime/pet-squad",
-                                "title": "Pet Squad",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933294.jpg"
-                            },
-                            {
-                                "url": "/anime/peanuts",
-                                "title": "Peanuts",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933293.jpg"
-                            },
-                            {
-                                "url": "/anime/pip-and-posy",
-                                "title": "Pip and Posy",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933292.jpg"
-                            },
-                            {
-                                "url": "/anime/misterjaw",
-                                "title": "Misterjaw",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933291.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/q-force",
-                    "title": "Q-Force",
-                    "description": "This series is about a group of undervalued LGBTQ superspies, and is centered on a gay secret agent who is like James Bond, Steve Marywhether (also known as Agent Mary), as they try to prove themselves on personal and professional adventures. One day, Mary decides to prove himself to the American Intelligence Agency (AIA), solve a case, and get the approval of the agency, but they have to add a new member to their team, a straight guy.",
-                    "genre": "Action, Adventure, Comedy, Crime, Fantasy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933306.jpg",
+                    "url": "/anime/ricky-zoom",
+                    "title": "Ricky Zoom",
+                    "description": "From Hasbro’s Entertainment One comes Ricky Zoom, a CGI preschool series about a red motorbike named Ricky. Along with his bike buddies, Ricky races around the sports track, tries new stunts at the park, and zooms into adventures.",
+                    "genre": "Adventure, Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933310.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/q-force-episode-10-the-hole",
-                        "name": "Season 1 - Episode 10",
-                        "episode_number": 110.0
-                    },
-                    {
-                        "url": "/q-force-episode-9-the-coeur-de-la-mer",
-                        "name": "Season 1 - Episode 9",
-                        "episode_number": 109.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv2ely9KL0nnJVDN4yXaX_c19SrZY_Kst1UxI8gXIlJfXk5uVVm8nSmD7WZNBKP9Hle0pbyJcBAjQ_yQxP4zNaWNAaFO2Wwv0cxznErnXU8ldQRq0QN7xNv7BYU7Os7zYge8QtWqWkCHlVhDjDRulG16l3zwtvPduCcPGpohB6Zg17Xq0QZAZeoyuDELgeTkBI5XMFvksXuD7PlQSwDUIBB8oD_dRiTQBYbfja34ut_XycqHXz0NTxWtgC_-L20REWd8RxLVYZVGfLBIRNsmZfQZDYdt2flcRmur3gjNQcKq",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv2ely9KL0nnJVDN4yXaX_c19SrZY_Kst1UxI8gXIlJfXk5uVVm8nSmD7WZNBKP9Hle0pbyJcBAjQ_yQxP4zNaWNAaFO2Wwv0cxznErnXU8ldQRq0QN7xNv7BYU7Os7zYge8QtWqWkCHlVhDjDRulG16l3zwtvPduCcPGpohB6Zg17Xq0QZAZeoyuDELgeTkBI5XMFvksXuD7PlQSwDUIBB8oD_dRiTQBYbfja34ut_XycqHXz0NTxWtgC_-L20REWd8RxLVYZVGfLBIRNsmZfQZDYdt2flcRmur3gjNQcKq"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv2ely9KL0nnJVDN4yXaX_c19SrZY_Kst1UxI8gXIlJfXk5uVVm8nSmD7WZNBKP9HtrUfqB7k9M649Rim6esYSJj1HW92Y0s5NiGNv84A02oFZsB6s3RaHZ4fw9QvYrw-GQxfKOFhBM1BW-sUtEw63thTR1_TgF6OaJL_0D_pyiaD6c7nZ-TmweHPIP-ZyMX-iXyYTSuah2elWq4OSZPL6gxMeTWEKMEF2_yQtMOWfiDbRBUIbDedjfg-AlITyoIIb_52dn9c4B4ZTM6qm82sPDAGV8opvwZhoUQzMwCEqcS",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv2ely9KL0nnJVDN4yXaX_c19SrZY_Kst1UxI8gXIlJfXk5uVVm8nSmD7WZNBKP9HtrUfqB7k9M649Rim6esYSJj1HW92Y0s5NiGNv84A02oFZsB6s3RaHZ4fw9QvYrw-GQxfKOFhBM1BW-sUtEw63thTR1_TgF6OaJL_0D_pyiaD6c7nZ-TmweHPIP-ZyMX-iXyYTSuah2elWq4OSZPL6gxMeTWEKMEF2_yQtMOWfiDbRBUIbDedjfg-AlITyoIIb_52dn9c4B4ZTM6qm82sPDAGV8opvwZhoUQzMwCEqcS"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv2ely9KL0nnJVDN4yXaX_c19SrZY_Kst1UxI8gXIlJfXk5uVVm8nSmD7WZNBKP9HmOuX9JmBjeDerH_qsHT2ozFfcNLEAxFo6ZSTidmJANh92Bsahiz4w-U9b0zLckZeaJJllrSS_kuplvaxCmTJ31k6eba7GRaazOOmxlP8vCV4YL72Xz3uQTA172xEyivWnda8no7GvP7HKzVsjcW3dNWVOEHM3YRaujVAV6MhqKo-iEcyCyWXgVpz27JkMLIYC2KgmZA9e2o9ff5WyiRVBaBYE2DRIKDHQSP5I8_A8J3",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv2ely9KL0nnJVDN4yXaX_c19SrZY_Kst1UxI8gXIlJfXk5uVVm8nSmD7WZNBKP9HmOuX9JmBjeDerH_qsHT2ozFfcNLEAxFo6ZSTidmJANh92Bsahiz4w-U9b0zLckZeaJJllrSS_kuplvaxCmTJ31k6eba7GRaazOOmxlP8vCV4YL72Xz3uQTA172xEyivWnda8no7GvP7HKzVsjcW3dNWVOEHM3YRaujVAV6MhqKo-iEcyCyWXgVpz27JkMLIYC2KgmZA9e2o9ff5WyiRVBaBYE2DRIKDHQSP5I8_A8J3"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
