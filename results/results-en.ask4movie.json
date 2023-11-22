@@ -3,8 +3,64 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/channel/selling-sunset-2019/",
+                                "title": "Selling Sunset (2019...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Selling-Sunset-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/loki-2021-8/",
+                                "title": "Loki (2021 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Loki-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-tailor-aka-terzi-2023/",
+                                "title": "The Tailor aka Terzi...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/05/The-Tailor-Season-1-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/american-horror-story-2011-4/",
+                                "title": "American Horror Stor...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/American-Horror-Story-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-walking-dead-dead-city-2023/",
+                                "title": "The Walking Dead: De...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/06/The-Walking-Dead-Dead-City-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/lupin-2021-4/",
+                                "title": "Lupin (2021 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Lupin-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/ahsoka-2023-1/",
+                                "title": "Ahsoka (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/08/Ahsoka-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-wheel-of-time-2021/",
+                                "title": "The Wheel of Time (2...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/The-Wheel-of-Time-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/sex-education-2019-8/",
+                                "title": "Sex Education (2019-2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Sex-Education-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/special-ops-lioness-2023/",
+                                "title": "Special Ops: Lioness...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/09/Special-Ops-Lioness-2023-Thumbnail-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -228,16 +284,27 @@
             },
             "details": {
                 "result": {
-                    "url": "/r-i-p-d-2013/",
-                    "description": "A cop killed by his own partner joins RIPD, an afterlife law enforcement department working to apprehend various monsters disguised as humans living on earth, and gets paired up with a smart-mouthed veteran.",
-                    "genre": "Action, Adventure, Comedy",
+                    "url": "/channel/selling-sunset-2019/",
+                    "description": "The elite real estate brokers at The Oppenheim Group sell the luxe life to affluent buyers in LA. The drama ramps up when a new agent joins the team.",
+                    "genre": "Reality-TV",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt9817298/7/11",
+                        "name": "Season 7 Ep. 11",
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt9817298/7/10",
+                        "name": "Season 7 Ep. 10",
+                        "episode_number": 10.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",

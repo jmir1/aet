@@ -137,6 +137,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/19401/prestame-tus-ojos.html",
+                                "title": "Préstame tus ojos",
+                                "description": "Una joven agorafóbica debe tratar de ayudar remotamente a una misteriosa chica perseguida por un par de asesinos imparables....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19401.jpg"
+                            },
+                            {
+                                "url": "/pelicula/19400/unica-superviviente.html",
+                                "title": "Única superviviente",
+                                "description": "El 24 de agosto de 1981, los recién casados Larisa y Vladimir Savitsky subieron a bordo del avión siguiendo el vuelo Komsomolsk-on-Amur - Blagoveshchensk. 30 minutos antes del aterrizaje, la aeronave civil AN-24 colisionó con otra aeronave y se partió en pedazos a una altura de más de 5 kilóme...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19400.jpg"
+                            },
+                            {
+                                "url": "/pelicula/19399/radar-las-aventuras-del-perro-bionico.html",
+                                "title": "R.A.D.A.R. Las aventu",
+                                "description": "Un niño y su perro con poderes biónicos salvan un pequeño pueblo de dos ladrones torpes. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19399.jpg"
+                            },
+                            {
                                 "url": "/pelicula/19398/la-magia-de-la-navidad.html",
                                 "title": "La magia de la Navida",
                                 "description": "Eddie Garrick, un policía divorciado de Nueva York, es un buen hombre al que no le gusta la Navidad. Cuando está pasando el rato con su hija Charlotte de nueve años en Nochebuena, se hace amigo de un hombre misterioso con traje rojo llamado Nick....",
@@ -237,24 +255,6 @@
                                 "title": "Allelujah",
                                 "description": "La historia de una sala geriátrica en un pequeño hospital de Yorkshire amenazada con el cierre....",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19382.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19381/doble-vida.html",
-                                "title": "Doble vida",
-                                "description": "Una viuda se entera por la amante de su difunto esposo que su muerte no fue un accidente. Ambas mujeres trabajan juntas para desenmascarar la verdad detrás del hombre que ambas amaban....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19381.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19380/el-templo.html",
-                                "title": "El templo",
-                                "description": "El heredero de un imperio hotelero (Christopher Abbott) y la dominatrix que lo ha preparado para el éxito (Margaret Qualley) se enfrentan en una habitación de hotel mientras él intenta terminar su relación....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19380.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19379/la-ira-de-becky.html",
-                                "title": "La ira de Becky",
-                                "description": "Becky ha estado viviendo fuera de la red durante dos años. Luego se encuentra enfrentándose cara a cara con Darryl (Scott), el líder de una organización fascista, en vísperas de un ataque organizado. Secuela de Becky (2020)....",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19379.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dood.ws/e/aq6kuo21b1bo",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgjk2ph4knr7ia/lnj0sgtz6o~2nmlA7qjNg?token=faa3a98f24ktc5woxwz3px7v&expiry=1700633363123",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
