@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/The-Ancient-Magus-Bride-Season-2-Part-2/",
+                                "title": "The Ancient Magus' Bride Season 2 Part 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Ancient-Magus-Bride-Season-2-Part-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Dr-STONE-New-World-Part-2/",
+                                "title": "Dr. STONE New World Part 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dr-STONE-New-World-Part-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer/",
+                                "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer.jpg"
+                            },
+                            {
                                 "url": "/Anime/Heaven-Official-s-Blessing-Season-2-Dub/",
                                 "title": "Heaven Official's Blessing Season 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2-Dub.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-nin-no-Kanojo/",
                                 "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.jpg"
-                            },
-                            {
-                                "url": "/Anime/shangri-la-frontier.80188/",
-                                "title": "Shangri-La Frontier",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier.jpg"
-                            },
-                            {
-                                "url": "/Anime/Captain-Tsubasa-Junior-Youth-Arc/",
-                                "title": "Captain Tsubasa: Junior Youth Arc",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Captain-Tsubasa-Junior-Youth-Arc.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-IDOLM-STER-Million-Live/",
-                                "title": "The IDOLM@STER Million Live!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-IDOLM-STER-Million-Live.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -527,14 +527,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/",
-                                "title": "Dr. STONE New World Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dr-STONE-New-World-Part-2-Dub.jpg"
-                            },
-                            {
                                 "url": "/Anime/Dr-STONE-New-World-Part-2/",
                                 "title": "Dr. STONE New World Part 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dr-STONE-New-World-Part-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/",
+                                "title": "Dr. STONE New World Part 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dr-STONE-New-World-Part-2-Dub.jpg"
                             },
                             {
                                 "url": "/Anime/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World-Dub/",
@@ -1063,21 +1063,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s40.openstream.io/hls/qvsbeqvpmxblgwsztszkayobkpuyp4r5d2gabsqipqizkvae6stvdgxsopuq/index-v1-a1.m3u8",
-                        "quality": "Oserver - 720p",
-                        "videoUrl": "https://s40.openstream.io/hls/qvsbeqvpmxblgwsztszkayobkpuyp4r5d2gabsqipqizkvae6stvdgxsopuq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s40.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

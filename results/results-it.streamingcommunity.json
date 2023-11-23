@@ -67,6 +67,16 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/7338a7ae-b34c-4d8c-bcec-73eaf621ad2f.webp"
                             },
                             {
+                                "url": "6905-leo",
+                                "title": "Leo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4d306daf-d2b8-4227-853d-6073865aa3c7.webp"
+                            },
+                            {
+                                "url": "6907-stamped-from-the-beginning-la-storia-del-razzismo-negli-stati-uniti",
+                                "title": "Stamped from the Beginning: la storia del razzismo negli Stati Uniti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/982ec3cb-4967-4478-b1c6-17077c0ebcb8.webp"
+                            },
+                            {
                                 "url": "6896-blanco-bruciasse-il-cielo",
                                 "title": "Blanco - Bruciasse il cielo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5122384c-ea1d-41bd-8e25-48c4d9154955.webp"
@@ -295,16 +305,6 @@
                                 "url": "6732-cimitero-vivente-le-origini",
                                 "title": "Cimitero vivente - Le origini",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/8ad07f4d-5c88-412b-80bf-94a0523e6232.webp"
-                            },
-                            {
-                                "url": "6855-nessuno-ti-salvera",
-                                "title": "Nessuno ti salverà",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e86eb42a-3d2b-4e10-91e0-1c789b11c042.webp"
-                            },
-                            {
-                                "url": "6757-the-continental-dal-mondo-di-john-wick",
-                                "title": "The Continental: Dal mondo di John Wick",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ec336c2f-ca7c-4ad9-89ab-0dc9198b1a69.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "6908-indomabili",
+                                "title": "Indomabili",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/185fa8e9-a843-406f-a424-fe737742eff1.webp"
+                            },
+                            {
+                                "url": "6906-see-you-on-venus-ci-vediamo-su-venere",
+                                "title": "See You on Venus - Ci vediamo su Venere",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/88813667-8ae1-4011-996a-e2ebca81f5bb.webp"
+                            },
                             {
                                 "url": "6902-ugly-betty",
                                 "title": "Ugly Betty",
@@ -605,16 +615,6 @@
                                 "url": "6834-the-accountant",
                                 "title": "The Accountant",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/0443146f-29ad-43c7-9545-1f633867f474.webp"
-                            },
-                            {
-                                "url": "6833-papa-scatenato",
-                                "title": "Papà scatenato",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3ddc0233-fbc8-4ca3-8bd9-cd9bb965ec88.webp"
-                            },
-                            {
-                                "url": "6832-the-killer",
-                                "title": "The Killer",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/0646ec49-2b9f-4fe2-aae3-2e3c1d65a050.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6898?episode_id=43821\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6898?episode_id=43821\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-5041458164467204169/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-5041458164467204169/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-5041458164467204169/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-5041458164467204169/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

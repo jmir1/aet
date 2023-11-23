@@ -168,8 +168,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.cha35.workers.dev/505584be67a3054fa7e423922651f6c5/driveleech.org/My.Daemon.S01E13.At.All.Cost.1080p.NF.WEBDL.MULTi.DDP5.1.Atmos.H.264YAGAMi.mkv",
+                        "quality": "1080p - CF 1 Worker 1 -  1.78GB ",
+                        "videoUrl": "https://0.cha35.workers.dev/505584be67a3054fa7e423922651f6c5/driveleech.org/My.Daemon.S01E13.At.All.Cost.1080p.NF.WEBDL.MULTi.DDP5.1.Atmos.H.264YAGAMi.mkv"
+                    },
+                    {
+                        "url": "https://0.shibu101.workers.dev/32011628b7d42f2064da61c9a75159cb/driveleech.org/My.Daemon.S01E13.At.All.Cost.1080p.NF.WEBDL.MULTi.DDP5.1.Atmos.H.264YAGAMi.mkv",
+                        "quality": "1080p - CF 1 Worker 2 -  1.78GB ",
+                        "videoUrl": "https://0.shibu101.workers.dev/32011628b7d42f2064da61c9a75159cb/driveleech.org/My.Daemon.S01E13.At.All.Cost.1080p.NF.WEBDL.MULTi.DDP5.1.Atmos.H.264YAGAMi.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }
