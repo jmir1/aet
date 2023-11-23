@@ -466,8 +466,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ds2play.com/e/kymuhjcriafn",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://re511lo.video-delivery.net/u5kj6vepwde3sdgge4zampipivhzput4pzy3hiw6za4jw4wvbif46q76p7sa/ht4n7yv9oo~LZStRtpjfE?token=4c7kuj8ewrtmhljiyxij6r0q&expiry=1700741529012",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://ds2play.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
