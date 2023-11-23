@@ -336,12 +336,49 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/blue-giant-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=3&sig=fgWAoTVcqUE&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=3&sig=fgWAoTVcqUE&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=2&sig=opoexkpRTWs&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=2&sig=opoexkpRTWs&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=1&sig=npDR7olNA1M&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=1&sig=npDR7olNA1M&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=0&sig=iN-5WUwSol0&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=0&sig=iN-5WUwSol0&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=4&sig=XfAbVwsVPxo&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=4&sig=XfAbVwsVPxo&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=5&sig=ODh-iclXyi4&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1700785886943&srcIp=20.81.159.85&pr=10&srcAg=GECKO&ms=95.142.206.138&type=5&sig=ODh-iclXyi4&ct=0&urls=45.136.22.43%3B185.226.53.14&clientType=0&zs=43&id=5404960360991"
+                    }
+                ],
+                "passed": true
             }
         }
     }

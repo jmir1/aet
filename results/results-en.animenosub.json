@@ -117,14 +117,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/uma-musume-pretty-derby-season-3/",
-                                "title": "Uma Musume: Pretty Derby Season 3",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/Uma-Musume-Pretty-Derby-Season-3-poster.jpg"
+                                "url": "/anime/kamierabi-god-app/",
+                                "title": "KamiErabi GOD.app",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/KamiErabi-GOD.app-poster.jpg"
                             },
                             {
                                 "url": "/anime/16bit-sensation-another-layer/",
                                 "title": "16bit Sensation: Another Layer",
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/16bit-Sensation-Another-Layer-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/uma-musume-pretty-derby-season-3/",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/Uma-Musume-Pretty-Derby-Season-3-poster.jpg"
                             },
                             {
                                 "url": "/anime/the-eminence-in-shadow-season-2-dub/",
@@ -210,11 +215,6 @@
                                 "url": "/anime/free-the-final-stroke-zenpen/",
                                 "title": "Free!: The Final Stroke – Zenpen",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2022/02/1644605542-7605-keyvisual03.jpg"
-                            },
-                            {
-                                "url": "/anime/migi-to-dali/",
-                                "title": "Migi to Dali",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696174043-3018-134817.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2mj73ztqz725vivdianpq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2mj73ztqz725vivdianpq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztqz725va2bxicpa/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://eno-05-d1-2s.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztqz725va2bxicpa/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

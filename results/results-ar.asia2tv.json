@@ -299,8 +299,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=lA6vociWkEk&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=3&sig=lA6vociWkEk&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=ngLwbp9larc&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=2&sig=ngLwbp9larc&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=dmjkwq5yhwA&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=1&sig=dmjkwq5yhwA&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=gxOBuaLYwHo&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=0&sig=gxOBuaLYwHo&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651"
+                    },
+                    {
+                        "url": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=if9tQ2d75wU&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-13.vkuser.net/?expires=1700785933641&srcIp=172.183.88.179&pr=10&srcAg=GECKO&ms=95.142.206.140&type=4&sig=if9tQ2d75wU&ct=0&urls=185.226.52.60%3B185.226.53.34&clientType=0&zs=43&id=5466091686651"
+                    },
+                    {
+                        "url": "https://m180.uqload.io/3rfkumqnrvw2q4drdkg7xifkd644ekcbbm562g56wr6hbjufjn6rqscdzfiq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m180.uqload.io/3rfkumqnrvw2q4drdkg7xifkd644ekcbbm562g56wr6hbjufjn6rqscdzfiq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
