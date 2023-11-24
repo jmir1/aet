@@ -598,8 +598,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery31.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=rc_M8mI9Mak7P7Lw-K3YHg&e=1700870884&_t=1700857694",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery31.mxdcontent.net/v/eb05939fa70e31b77212c405400fd05d.mp4?s=rc_M8mI9Mak7P7Lw-K3YHg&e=1700870884&_t=1700857694",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=jKocqj3IjHdP9RiDqegnRA&e=1700870884&_t=1700858805",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=jKocqj3IjHdP9RiDqegnRA&e=1700870884&_t=1700858805",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

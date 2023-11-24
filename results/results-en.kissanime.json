@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Keikenzumi-na-Kimi-to-Keiken-Zero-na-Ore-ga-Otsukiai-suru-Hanashi/",
+                                "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Our-Dating-Story-The-Experienced-You-and-The-Inexperienced-Me.jpg"
+                            },
+                            {
+                                "url": "/Anime/goblin-slayer-ii.62400/",
+                                "title": "GOBLIN SLAYER II",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/GOBLIN-SLAYER-II.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-rising-of-the-shield-hero-season-3.69162/",
+                                "title": "The Rising of the Shield Hero Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Rising-of-the-Shield-Hero-Season-3.jpg"
+                            },
+                            {
                                 "url": "/Anime/IDOLiSH7-the-Movie-LIVE-4bit-BEYOND-THE-PERIOD-Day-2/",
                                 "title": "IDOLiSH7 the Movie LIVE 4bit BEYOND THE PERIOD Day 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/IDOLiSH7-the-Movie-LIVE-4bit-BEYOND-THE-PERIOD-Day-2.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/A-Playthrough-of-a-Certain-Dude-s-VRMMO-Life/",
                                 "title": "A Playthrough of a Certain Dude's VRMMO Life",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/A-Playthrough-of-a-Certain-Dude-s-VRMMO-Life.jpg"
-                            },
-                            {
-                                "url": "/Anime/i-m-in-love-with-the-villainess.75510/",
-                                "title": "I'm in Love with the Villainess",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-in-Love-with-the-Villainess.jpg"
-                            },
-                            {
-                                "url": "/Anime/SHY/",
-                                "title": "SHY",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/SHY.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dead-Mount-Death-Play-Part-2/",
-                                "title": "Dead Mount Death Play Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dead-Mount-Death-Play-Part-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
