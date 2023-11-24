@@ -3,13 +3,104 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/jujutsu-kaisen-2nd-season",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941.webp"
+                            },
+                            {
+                                "url": "/tokyo-revengers-tenjiku-hen",
+                                "title": "Tokyo Revengers: Tenjiku-hen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180450001696443302.webp"
+                            },
+                            {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
+                            {
+                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179840001688805541.webp"
+                            },
+                            {
+                                "url": "/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
+                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180460001696532101.webp"
+                            },
+                            {
+                                "url": "/tate-no-yuusha-no-nariagari-season-3",
+                                "title": "Tate no Yuusha no Nariagari Season 3",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180480001696606622.webp"
+                            },
+                            {
+                                "url": "/goblin-slayer-ii",
+                                "title": "Goblin Slayer II",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180490001696609382.webp"
+                            },
+                            {
+                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180540001696792981.webp"
+                            },
+                            {
+                                "url": "/ragna-crimson",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301.webp"
+                            },
+                            {
+                                "url": "/mahoutsukai-no-yome-season-2-part-2",
+                                "title": "Mahoutsukai no Yome Season 2 Part 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180470001696685701.webp"
+                            },
+                            {
+                                "url": "/spy-x-family-season-2",
+                                "title": "Spy x Family Season 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181.webp"
+                            },
+                            {
+                                "url": "/hametsu-no-oukoku",
+                                "title": "Hametsu no Oukoku",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180510001696681741.webp"
+                            },
+                            {
+                                "url": "/edens-zero-2nd-season-25-bolum-final",
+                                "title": "Edens Zero 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179260001682720462.webp"
+                            },
+                            {
+                                "url": "/captain-tsubasa-season-2-junior-youth-hen",
+                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180440001696341901.webp"
+                            },
+                            {
+                                "url": "/kanojo-okarishimasu-3rd-season",
+                                "title": "Kanojo, Okarishimasu 3rd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179880001688887502.webp"
+                            },
+                            {
+                                "url": "/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
+                                "title": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179900001688907301.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/jujutsu-kaisen-2nd-season",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941.webp"
+                            },
                             {
                                 "url": "/tokyo-revengers-tenjiku-hen",
                                 "title": "Tokyo Revengers: Tenjiku-hen",
@@ -94,11 +185,6 @@
                                 "url": "/kyokou-suiri-season-2",
                                 "title": "Kyokou Suiri Season 2",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180120001689716582.webp"
-                            },
-                            {
-                                "url": "/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
-                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180460001696532101.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -107,17 +193,173 @@
                 "passed": true
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '{' instead at path: $\nJSON input: {}",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/accel-world",
+                                "title": "Accel World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/14.webp"
+                            },
+                            {
+                                "url": "/accel-world-infiniteburst",
+                                "title": "Accel World: Infinite∞Burst",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17594.webp"
+                            },
+                            {
+                                "url": "/another-world",
+                                "title": "Another World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17033.webp"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16876.webp"
+                            },
+                            {
+                                "url": "/arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17633.webp"
+                            },
+                            {
+                                "url": "/boku-no-hero-academia-the-movie-3-world-heroes-mission",
+                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17660.webp"
+                            },
+                            {
+                                "url": "/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore",
+                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17511.webp"
+                            },
+                            {
+                                "url": "/chou-yuu-sekai-being-the-reality",
+                                "title": "Chou Yuu Sekai: Being the Reality",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/12318.webp"
+                            },
+                            {
+                                "url": "/choujin-koukousei-tachi-wa-isekai-demo-yoyuu-de-ikinuku-you-desu",
+                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16975.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world",
+                                "title": "Dr. Stone: New World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179330001680810181.webp"
+                            },
+                            {
+                                "url": "/dr-stone-new-world-part-2",
+                                "title": "Dr. Stone: New World Part 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180620001697365981.webp"
+                            },
+                            {
+                                "url": "/drifters",
+                                "title": "Drifters",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/9024.webp"
+                            },
+                            {
+                                "url": "/el-hazard-the-wanderers",
+                                "title": "El Hazard: The Wanderers",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/2760.webp"
+                            },
+                            {
+                                "url": "/fire-tripper",
+                                "title": "Fire Tripper",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/2741.webp"
+                            },
+                            {
+                                "url": "/glass-no-hana-to-kowasu-sekai",
+                                "title": "Glass no Hana to Kowasu Sekai",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/7935.webp"
+                            },
+                            {
+                                "url": "/good-night-world",
+                                "title": "Good Night World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180690001698239462.webp"
+                            },
+                            {
+                                "url": "/heart-no-kuni-no-alice-wonderful-wonder-world",
+                                "title": "Heart no Kuni no Alice: Wonderful Wonder World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/1582.webp"
+                            },
+                            {
+                                "url": "/hello-world",
+                                "title": "Hello World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17132.webp"
+                            },
+                            {
+                                "url": "/hetalia-world-series",
+                                "title": "Hetalia World Series",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/1386.webp"
+                            },
+                            {
+                                "url": "/hetalia-worldstars",
+                                "title": "Hetalia World★Stars",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17409.webp"
+                            },
+                            {
+                                "url": "/isekai-izakaya-japanese-food-from-another-world",
+                                "title": "Isekai Izakaya: Japanese Food From Another World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16784.webp"
+                            },
+                            {
+                                "url": "/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu",
+                                "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/14571.webp"
+                            },
+                            {
+                                "url": "/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-",
+                                "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17430.webp"
+                            },
+                            {
+                                "url": "/isekai-meikyuu-de-harem-wo",
+                                "title": "Isekai Meikyuu de Harem wo",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17775.webp"
+                            },
+                            {
+                                "url": "/isekai-ojisan",
+                                "title": "Isekai Ojisan",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17772.webp"
+                            },
+                            {
+                                "url": "/isekai-quartet-movie-another-world",
+                                "title": "Isekai Quartet Movie: Another World",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179410001681206421.webp"
+                            },
+                            {
+                                "url": "/isekai-shokudou-restaurant-to-another-world",
+                                "title": "Isekai Shokudou (Restaurant to Another World)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/11243.webp"
+                            },
+                            {
+                                "url": "/isekai-wa-smartphone-to-tomo-ni",
+                                "title": "Isekai wa Smartphone to Tomo ni",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/12262.webp"
+                            },
+                            {
+                                "url": "/isekai-yakkyoku",
+                                "title": "Isekai Yakkyoku",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17787.webp"
+                            },
+                            {
+                                "url": "/jigokudou-reikai-tsuushin",
+                                "title": "Jigokudou Reikai Tsuushin",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/17071.webp"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
-                    "url": "/tokyo-revengers-tenjiku-hen",
-                    "title": "Tokyo Revengers: Tenjiku-hen",
-                    "artist": "LIDENFILMS",
-                    "description": "Tokyo Revengers animesinin 3. sezonudur.\nDiğer adlar: \nJaponca İsmi: 東京リベンジャーズ 天竺編\nStüdyo: LIDENFILMS",
-                    "genre": "Aksiyon, Dram, Doğaüstü-Güçler",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/180450001696443302l.webp",
+                    "url": "/jujutsu-kaisen-2nd-season",
+                    "title": "Jujutsu Kaisen 2nd Season",
+                    "artist": "MAPPA",
+                    "description": "Jujutsu Kaisen serisinin 2. sezonudur.\nDiğer adlar: Sorcery Fight, JJK\nJaponca İsmi: 呪術廻戦\nStüdyo: MAPPA",
+                    "genre": "Aksiyon, Fantastik",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -125,14 +367,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/tokyo-revengers-tenjiku-hen-8-bolum",
-                        "name": "8. Bölüm",
-                        "episode_number": 8.0
+                        "url": "/jujutsu-kaisen-2nd-season-18-bolum",
+                        "name": "18. Bölüm",
+                        "episode_number": 18.0
                     },
                     {
-                        "url": "/tokyo-revengers-tenjiku-hen-7-bolum",
-                        "name": "7. Bölüm",
-                        "episode_number": 7.0
+                        "url": "/jujutsu-kaisen-2nd-season-17-bolum",
+                        "name": "17. Bölüm",
+                        "episode_number": 17.0
                     }
                 ],
                 "passed": true
@@ -140,110 +382,84 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/wyz2ars8lva8",
-                        "quality": "[YuushaSubs] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-uud0pxc7yjqzic58.voe-network.net/engine/hls2/01/09942/poe8wwsttzal_,n,.urlset/master.m3u8?t=KzrjlMOfH8N_FvHIDe_FZaUvj-zq6yFlm7COh-Vs7-U&s=1700763031&e=14400&f=49712917&node=delivery-node-uud0pxc7yjqzic58.voe-network.net&i=40.76&sp=2500&asn=8075"
+                        "url": "https://voe.sx/e/nttx3ol5ddho",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-shkasxtt2y7ccdhk.voe-network.net/engine/hls2-c/01/09949/nttx3ol5ddho_,n,.urlset/master.m3u8?t=mPSm-Z3mLSEaebvPfprw8wzX9qzTQoIfmifHJcycEX4&s=1700785891&e=14400&f=49749143&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=c%2BOkuy6Zi2O2bOF1SaKlBwSsy5YW9p7hcbIaP6C5vSlik7taALoDxwgEuI%2FXWMktb7ePotjdAS8bCeIeG2b04%2FUIrCxx5QFH0Ij4URC9qu00CMPeudOXgq5onPgAxdj%2BPQZDBioTFVPvfUa2IY3bW6Eta5B0b8PcDmKPbhKYRfQR1ARZ0Zecj0JDXUq%2FnLqWk%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
-                        "quality": "[YuushaSubs] GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=c%2BOkuy6Zi2O2bOF1SaKlBwSsy5YW9p7hcbIaP6C5vSlik7taALoDxwgEuI%2FXWMktb7ePotjdAS8bCeIeG2b04%2FUIrCxx5QFH0Ij4URC9qu00CMPeudOXgq5onPgAxdj%2BPQZDBioTFVPvfUa2IY3bW6Eta5B0b8PcDmKPbhKYRfQR1ARZ0Zecj0JDXUq%2FnLqWk%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
+                        "url": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=3&sig=3IE-V5-P9o8&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237",
+                        "quality": "[Holy] Okru:720p",
+                        "videoUrl": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=3&sig=3IE-V5-P9o8&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237"
                     },
                     {
-                        "url": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=3&sig=aIhfvDyulS8&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030",
-                        "quality": "[YuushaSubs] Okru:720p",
-                        "videoUrl": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=3&sig=aIhfvDyulS8&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/U2RtSTJuODhiYVNXaW1mcllLTjY3S2x6YkU4RWxYZzJOSEtmWjVuY2hMNmtmbFZLTjFQa0xjSSsxWTQ2dnZNUHBsdm5CaU83WlN2VkRDWHdDOXdZVnd1SzNXVHduS3N5eTJlRjdPYjN5OHhjWFRnZGttemJZMmN2VEhuZEN3clhkYXU3Rk5SR29DVlgxb0R4YkpuOUNRUnBZVmN1RTRTNmcvSXpqTGNpUnA5Z3VzcjA0SFRhSFdBVUdPR1piMC9UNjczOXh2dFR0Wm5BdHdwMjNuZXJEV3IzWFJLRDRFbkhGdTZSU3JQOGFPVDdyYU5SK0JMRFQwTWY4Q1FUZENkdTBoM1BoZ3k0c2xoM2FGSFd6dEdFSnlUSGVMbXNTeG9DcEpENVE2RlZQZms9",
-                        "quality": "[YuushaSubs] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/U2RtSTJuODhiYVNXaW1mcllLTjY3S2x6YkU4RWxYZzJOSEtmWjVuY2hMNmtmbFZLTjFQa0xjSSsxWTQ2dnZNUHBsdm5CaU83WlN2VkRDWHdDOXdZVnd1SzNXVHduS3N5eTJlRjdPYjN5OHhjWFRnZGttemJZMmN2VEhuZEN3clhkYXU3Rk5SR29DVlgxb0R4YkpuOUNRUnBZVmN1RTRTNmcvSXpqTGNpUnA5Z3VzcjA0SFRhSFdBVUdPR1piMC9UNjczOXh2dFR0Wm5BdHdwMjNuZXJEV3IzWFJLRDRFbkhGdTZSU3JQOGFPVDdyYU5SK0JMRFQwTWY4Q1FUZENkdTBoM1BoZ3k0c2xoM2FGSFd6dEdFSnlUSGVMbXNTeG9DcEpENVE2RlZQZms9",
+                        "url": "https://anizmplayer.com/hls/aktNc3pZMTZWRzB2YWVEVGg4VzFCVFZtMmRiRnlDUGtkSWxxMU5ZRGRYWFJscnVxWG1FR2xyVStWOEFuZ1BJZzh3OUd5T0ZvS2FHbHdScjI1MkRMYjkxckdHbFVMTHNRazZkMGxCYXNDMGd5L29JRHM4VnF1M1RuMTkxRVpJTU03aEdVbGo4NVM2UXJPUzIzQjQyaHZtWUhWKzkzdktHTzA1SnEyVW5DSFFOQWczRllZT3F3cGsvQUxqc003Q01xMFpQM3ZyQXA2S0JYUmhZZlB4SW5sc0hlUXh2aElyR2ZIWkZ1dDI2NFlIMjRMR0RKMTBtSjBXRFA1dWRMY2pWUTRwREVla1MwUFNuTWd2cnY1ZktCYldnSWNJUytFUFdTMXZvY2s0d3gzcGM9",
+                        "quality": "[Holy] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/aktNc3pZMTZWRzB2YWVEVGg4VzFCVFZtMmRiRnlDUGtkSWxxMU5ZRGRYWFJscnVxWG1FR2xyVStWOEFuZ1BJZzh3OUd5T0ZvS2FHbHdScjI1MkRMYjkxckdHbFVMTHNRazZkMGxCYXNDMGd5L29JRHM4VnF1M1RuMTkxRVpJTU03aEdVbGo4NVM2UXJPUzIzQjQyaHZtWUhWKzkzdktHTzA1SnEyVW5DSFFOQWczRllZT3F3cGsvQUxqc003Q01xMFpQM3ZyQXA2S0JYUmhZZlB4SW5sc0hlUXh2aElyR2ZIWkZ1dDI2NFlIMjRMR0RKMTBtSjBXRFA1dWRMY2pWUTRwREVla1MwUFNuTWd2cnY1ZktCYldnSWNJUytFUFdTMXZvY2s0d3gzcGM9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/5ac56688a8d2676806a7bed9d6ec02ce"
+                            "Referer": "https://anizmplayer.com/video/fbf5a0f7b2ac2ffd30e433d6c394eb8f"
                         }
                     },
                     {
-                        "url": "https://www12.mp4upload.com:183/d/q6xtuehrz3b4quuogoqroz2slmq7zik3d7jbi3athnsdhi2gqj37bk45zqhtel63ldunwu5g/video.mp4",
-                        "quality": "[YuushaSubs] Mp4Upload - 1080p",
-                        "videoUrl": "https://www12.mp4upload.com:183/d/q6xtuehrz3b4quuogoqroz2slmq7zik3d7jbi3athnsdhi2gqj37bk45zqhtel63ldunwu5g/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Origin": "https://anizm.net",
-                            "referer": "https://mp4upload.com/"
-                        }
+                        "url": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=5&sig=VsLrEYIucCI&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237",
+                        "quality": "[Holy] Okru:1080p",
+                        "videoUrl": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=5&sig=VsLrEYIucCI&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237"
                     },
                     {
-                        "url": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=5&sig=5IhI9oTFNOo&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030",
-                        "quality": "[YuushaSubs] Okru:1080p",
-                        "videoUrl": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=5&sig=5IhI9oTFNOo&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/U2RtSTJuODhiYVNXaW1mcllLTjY3S2x6YkU4RWxYZzJOSEtmWjVuY2hMNmtmbFZLTjFQa0xjSSsxWTQ2dnZNUFlScnhWMWQ1aXg4VENJckd6WEl6YzJKYXFCWjJDQ0FTeVRvZVNLTDU1cU9JbUFGSWVIbU1JK1FBSVorNnZ1R2pIQ29pOW9HRHFUb0RrdVJFb05tYWgvVEp4ZFk5MUJQN2VjRXhuUWdKUWM5aUw4QTZaZkt0c0lGMWZDWFdibTlYc2haa1RpUmZpdkJxcnk5T0dKVy9aM0lHNUZKNktUc0w2MGs0VlVuYXlrKzU0TUdnZVVPanUydzZDZEE2Z3ZpdXE3ZzZLZm5xdERndWJBN2t5YlZ6T3RtcFRUWVZLQnkvRllibG43aHBycy9ZQU5SN0hGZXBpbEhmd1ZCSVZkbDQ%3D",
-                        "quality": "[YuushaSubs] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/U2RtSTJuODhiYVNXaW1mcllLTjY3S2x6YkU4RWxYZzJOSEtmWjVuY2hMNmtmbFZLTjFQa0xjSSsxWTQ2dnZNUFlScnhWMWQ1aXg4VENJckd6WEl6YzJKYXFCWjJDQ0FTeVRvZVNLTDU1cU9JbUFGSWVIbU1JK1FBSVorNnZ1R2pIQ29pOW9HRHFUb0RrdVJFb05tYWgvVEp4ZFk5MUJQN2VjRXhuUWdKUWM5aUw4QTZaZkt0c0lGMWZDWFdibTlYc2haa1RpUmZpdkJxcnk5T0dKVy9aM0lHNUZKNktUc0w2MGs0VlVuYXlrKzU0TUdnZVVPanUydzZDZEE2Z3ZpdXE3ZzZLZm5xdERndWJBN2t5YlZ6T3RtcFRUWVZLQnkvRllibG43aHBycy9ZQU5SN0hGZXBpbEhmd1ZCSVZkbDQ%3D",
+                        "url": "https://anizmplayer.com/hls/aktNc3pZMTZWRzB2YWVEVGg4VzFCVFZtMmRiRnlDUGtkSWxxMU5ZRGRYWFJscnVxWG1FR2xyVStWOEFuZ1BJZ01Rc3ZGbEpteWhSdllHRUZpS1ZVb0RNTlIyUVRPMU1mcVFlS1pIbjdKeGNNQVBnQllpcWdUZXk0YzcrRzFUclpMM3pIYVlGNGlLWjc1QlhDUWJNZmRoUlo1UzQzai9kNWNwZDkwVzlzRFhxVmZGK051ZWhRcXZyWHNwMVk3dEZsK3FQVWVlT2dpN1FSL2VrT0pjcGJiekFqNThnMTBLcmtzczEwZURGNngveHhreHNuT2hnNnFTRzJERjVVOElRUlRjajVQZloxZC9ORFBhTTFxRUh4MkQ5aXVYeW82TGJxZFV4dExiM2dWN0hmQ001Tm5tZmgwTGJlTmlldzVvc1o%3D",
+                        "quality": "[Holy] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/aktNc3pZMTZWRzB2YWVEVGg4VzFCVFZtMmRiRnlDUGtkSWxxMU5ZRGRYWFJscnVxWG1FR2xyVStWOEFuZ1BJZ01Rc3ZGbEpteWhSdllHRUZpS1ZVb0RNTlIyUVRPMU1mcVFlS1pIbjdKeGNNQVBnQllpcWdUZXk0YzcrRzFUclpMM3pIYVlGNGlLWjc1QlhDUWJNZmRoUlo1UzQzai9kNWNwZDkwVzlzRFhxVmZGK051ZWhRcXZyWHNwMVk3dEZsK3FQVWVlT2dpN1FSL2VrT0pjcGJiekFqNThnMTBLcmtzczEwZURGNngveHhreHNuT2hnNnFTRzJERjVVOElRUlRjajVQZloxZC9ORFBhTTFxRUh4MkQ5aXVYeW82TGJxZFV4dExiM2dWN0hmQ001Tm5tZmgwTGJlTmlldzVvc1o%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/5ac56688a8d2676806a7bed9d6ec02ce"
+                            "Referer": "https://anizmplayer.com/video/fbf5a0f7b2ac2ffd30e433d6c394eb8f"
                         }
                     },
                     {
-                        "url": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=2&sig=MtIiygvSOb0&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030",
-                        "quality": "[YuushaSubs] Okru:480p",
-                        "videoUrl": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=2&sig=MtIiygvSOb0&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030"
+                        "url": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=2&sig=jYHWG6oJyT8&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237",
+                        "quality": "[Holy] Okru:480p",
+                        "videoUrl": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=2&sig=jYHWG6oJyT8&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/U2RtSTJuODhiYVNXaW1mcllLTjY3S2x6YkU4RWxYZzJOSEtmWjVuY2hMNmtmbFZLTjFQa0xjSSsxWTQ2dnZNUE83RUc1eHZ5bGsvWmJ4M3pTNGlvVC9kZU41aG12S00vTDZhT3RDWU1BdDd2UnFTQjloNFpVRmdjdkF2ZUxFYjA4VUJab29UQTFyNzVHdmhVbk41eHRJbFJocFpacVhsLytJa3FjbFM1U05ZUFoxSFhVWnVsY2wzbXhEbkNBRDExU0dHaitaOVRGeEx6Znh5OHZuaGkySjE0R0ZPZ1VrVHBKUE5HOEllb2NsWXVMS29hMjhLZWwvMGxtek94WTUvZFZlc2xWRjNnR3pYclNVWXJWOVg0WVhRdzkwQ21GaUdjWTNObkpORlBzVW89",
-                        "quality": "[YuushaSubs] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/U2RtSTJuODhiYVNXaW1mcllLTjY3S2x6YkU4RWxYZzJOSEtmWjVuY2hMNmtmbFZLTjFQa0xjSSsxWTQ2dnZNUE83RUc1eHZ5bGsvWmJ4M3pTNGlvVC9kZU41aG12S00vTDZhT3RDWU1BdDd2UnFTQjloNFpVRmdjdkF2ZUxFYjA4VUJab29UQTFyNzVHdmhVbk41eHRJbFJocFpacVhsLytJa3FjbFM1U05ZUFoxSFhVWnVsY2wzbXhEbkNBRDExU0dHaitaOVRGeEx6Znh5OHZuaGkySjE0R0ZPZ1VrVHBKUE5HOEllb2NsWXVMS29hMjhLZWwvMGxtek94WTUvZFZlc2xWRjNnR3pYclNVWXJWOVg0WVhRdzkwQ21GaUdjWTNObkpORlBzVW89",
+                        "url": "https://anizmplayer.com/hls/aktNc3pZMTZWRzB2YWVEVGg4VzFCVFZtMmRiRnlDUGtkSWxxMU5ZRGRYWFJscnVxWG1FR2xyVStWOEFuZ1BJZ2hiaG15Qk9vS0wwSFFNZjB2VlJ1RkhQL3FoZjNIeGtIY1ZHLzdhNlNhQjdJaGhhcmx1QzdKK3RndldkemJTaHgza243NVFFZG1XR1lWSW1QbzVqNjNDRS9WQnBhODZSZEtZcHJHSmJ5S1NyOVZmOTI2NjdhRzlhbXFVMGRSSDdKdDNiT1RmVkJoKzd4TVNwQ055N2I5Nm5DR2pRSXhvcTlQbk5YQ0RVYTM2cUIxMlQ1NTRZdXFqS09MbWJpUWN0eUozK1dSKzhsdU9FUjFVaENtWWJvSWRPM0E2L1RGbU1oODRNZ29jc25zakk9",
+                        "quality": "[Holy] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/aktNc3pZMTZWRzB2YWVEVGg4VzFCVFZtMmRiRnlDUGtkSWxxMU5ZRGRYWFJscnVxWG1FR2xyVStWOEFuZ1BJZ2hiaG15Qk9vS0wwSFFNZjB2VlJ1RkhQL3FoZjNIeGtIY1ZHLzdhNlNhQjdJaGhhcmx1QzdKK3RndldkemJTaHgza243NVFFZG1XR1lWSW1QbzVqNjNDRS9WQnBhODZSZEtZcHJHSmJ5S1NyOVZmOTI2NjdhRzlhbXFVMGRSSDdKdDNiT1RmVkJoKzd4TVNwQ055N2I5Nm5DR2pRSXhvcTlQbk5YQ0RVYTM2cUIxMlQ1NTRZdXFqS09MbWJpUWN0eUozK1dSKzhsdU9FUjFVaENtWWJvSWRPM0E2L1RGbU1oODRNZ29jc25zakk9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/5ac56688a8d2676806a7bed9d6ec02ce"
+                            "Referer": "https://anizmplayer.com/video/fbf5a0f7b2ac2ffd30e433d6c394eb8f"
                         }
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=c%2BOkuy6Zi2O2bOF1SaKlBwSsy5YW9p7hcbIaP6C5vSlik7taALoDxwgEuI%2FXWMktb7ePotjdAS8bCeIeG2b04%2FUIrCxx5QFH0Ij4URC9qu00CMPeudOXgq5onPgAxdj%2BPQZDBioTFVPvfUa2IY3bW6Eta5B0b8PcDmKPbhKYRfQR1ARZ0Zecj0JDXUq%2FnLqWk%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[YuushaSubs] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=c%2BOkuy6Zi2O2bOF1SaKlBwSsy5YW9p7hcbIaP6C5vSlik7taALoDxwgEuI%2FXWMktb7ePotjdAS8bCeIeG2b04%2FUIrCxx5QFH0Ij4URC9qu00CMPeudOXgq5onPgAxdj%2BPQZDBioTFVPvfUa2IY3bW6Eta5B0b8PcDmKPbhKYRfQR1ARZ0Zecj0JDXUq%2FnLqWk%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=VsyAP8k%2FL3d0Ug5zbRAuIwQWfVtZPB39ob0lijyXOIXuFg1ZVVoWTb9Jxn8lVtWI2aM9My8olcaIJCvrp%2Bm8TAQL8Jluv4sd3W%2Bd10ninEnneS9ppfslL8QULFREUOMHPZrOw1hHh4ESw%2BWJJ%2B92JM2aYiPmI8JzJrvIzxJsKa%2Fg%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=VsyAP8k%2FL3d0Ug5zbRAuIwQWfVtZPB39ob0lijyXOIXuFg1ZVVoWTb9Jxn8lVtWI2aM9My8olcaIJCvrp%2Bm8TAQL8Jluv4sd3W%2Bd10ninEnneS9ppfslL8QULFREUOMHPZrOw1hHh4ESw%2BWJJ%2B92JM2aYiPmI8JzJrvIzxJsKa%2Fg%3D%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
                     },
                     {
-                        "url": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=1&sig=hsxCDJyGayM&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030",
-                        "quality": "[YuushaSubs] Okru:360p",
-                        "videoUrl": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=1&sig=hsxCDJyGayM&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030"
+                        "url": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=1&sig=s1b0hPxvQZQ&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237",
+                        "quality": "[Holy] Okru:360p",
+                        "videoUrl": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=1&sig=s1b0hPxvQZQ&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237"
                     },
                     {
-                        "url": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=0&sig=kWMyjv8AJ_E&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030",
-                        "quality": "[YuushaSubs] Okru:240p",
-                        "videoUrl": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=0&sig=kWMyjv8AJ_E&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030"
+                        "url": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=0&sig=nwtt75u19EY&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237",
+                        "quality": "[Holy] Okru:240p",
+                        "videoUrl": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=0&sig=nwtt75u19EY&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237"
                     },
                     {
-                        "url": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=4&sig=a_hD3UAb3XE&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030",
-                        "quality": "[YuushaSubs] Okru:144p",
-                        "videoUrl": "https://vd486.mycdn.me/?expires=1700849418654&srcIp=40.76.119.164&pr=10&srcAg=GECKO&ms=45.136.22.41&type=4&sig=a_hD3UAb3XE&ct=0&urls=185.226.53.12&clientType=0&zs=43&id=5659105299030"
+                        "url": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=4&sig=dJ3GO7tLygo&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237",
+                        "quality": "[Holy] Okru:144p",
+                        "videoUrl": "https://ok6-15.vkuser.net/?expires=1700872289615&srcIp=20.172.2.99&pr=10&srcAg=GECKO&ms=95.142.206.142&type=4&sig=dJ3GO7tLygo&ct=0&urls=45.136.20.72%3B45.136.22.7&clientType=0&zs=43&id=5486533610237"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20231123M70KeOqKtMg/video.mp4",
-                        "quality": "[YuushaSubs] YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20231123M70KeOqKtMg/video.mp4",
+                        "url": "https://video.sibnet.ru/v/33c4ebc3b71353aed3ac506821ca50f0/5334977.mp4",
+                        "quality": "[Holy] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/33c4ebc3b71353aed3ac506821ca50f0/5334977.mp4",
                         "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Origin": "https://anizm.net",
-                            "Referer": "https://anizm.net/",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/8c77a5e1a29d6a7c0ea5de03c9f98807/5333558.mp4",
-                        "quality": "[YuushaSubs] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/8c77a5e1a29d6a7c0ea5de03c9f98807/5333558.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5333558"
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5334977"
                         }
                     }
                 ],
