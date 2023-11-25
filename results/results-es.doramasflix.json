@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/i-may-love-you?id=65613f650aa1d01ce502212c",
+                                "title": "I May Love You (Puedo Amarte)",
+                                "description": "Durante varios años, la guionista Tang Xin ha estado enamorada de su manager Tang Yu pero... ¡Él está enamorado de su mejor amiga Tang Ding Ding!\n\nHa estado reprimiendo sus emociones, esperando que nadie descubra su secreto. Todo eso cambia un fatídico día cuando su mejor amiga finalmente le dice a Tang Yu que no está interesada en él. Tang Xin se arma de valor para confesarle sus verdaderos sentimientos a su jefe. ¡Quién la rechaza rápidamente!\n\nAbatida, Tang Xin decide pasar página y entrega su renuncia. Pero Tang Yu no quiere que Tang Xin deje la empresa e intenta convencerla de que se quede.",
+                                "genre": "Drama, Romance, Comedia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/1E8ZdUx5Cqk37EwEG9yuESKJ1sa.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/7-days-before-valentine?id=65600d340aa1d01ce501d18e",
                                 "title": "7 Days Before Valentine (7 días antes de San Valentín)",
                                 "description": "(BL) La vida amorosa de Sunshine está cayendo rápidamente. El mismo día que intenta decidir qué hacer con su vida, el destino envía a alguien con poderes especiales para restaurar su relación anterior en siete días. Sin embargo, nada en este mundo es gratis. Cada uno debe pagar algo a cambio y esa persona le está enseñando una lección muy cara.",
@@ -456,13 +463,6 @@
                                 "description": "La distancia más lejana del mundo no es la que hay entre la vida y la muerte, ni debe estar separada una de otra. Es estar frente a ti y no saber mi amor por ti.\n\nLa diseñadora de interiores Su Ying sufrió una traición emocional. Durante seis años, solo se centró en el desarrollo de su carrera hasta que volvió a encontrarse con su antiguo dueño, Qin Yun Sheng debido a que la casa necesita ser renovada.\n\nA medida que aumentaron los contactos, Su Ying gradualmente abrió su corazón, pero luego descubrió que Qin Yun Sheng todavía extrañaba a su difunta ex novia, Mi Su. Al final, bajo la influencia del coraje y el optimismo de Su Ying, Qin Yun Sheng gradualmente dejó atrás el pasado y salió de la sombra de la muerte de su ex novia. Su Ying también logró un salto profesional y se convirtió en una persona con valor comercial y sentimientos.",
                                 "genre": "Drama, Romance, Comedia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/80HzqsmRnC9gR0w7AcOXkH9qGGz.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/my-dear-gangster-oppa?id=653a80a0c5a0935cab412587",
-                                "title": "My Dear Gangster Oppa (Mi Querido Gangster Oppa)",
-                                "description": "(🌈BL) Guy es un estudiante de ciencias sociales introvertido que está enamorado de su apuesto amigo desde hace mucho tiempo, pero este le agrada a todo el mundo. Sintiendo que no puede competir por su afecto, se sumerge en \"The Legend of Saga\", un juego en línea en el que juega con el personaje \"idealize\". Allí se hace amigo de \"thegreatmirae\", un lindo sanador que claramente siente debilidad por él... y que resulta ser un gángster de la vida real. ¿Podría este tipo duro ser el amante ideal que estaba buscando después de fracasar en el mundo real?\n",
-                                "genre": "Drama",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/i8xxTtVnTk1uAVcdB1rUpxRJgI3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -596,17 +596,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/elegant-empire?id=64d3cb35bbc4b32fb2bb54fe",
-                    "title": "Elegant Empire (Imperio Elegante)",
-                    "artist": "Kim Jin-woo",
-                    "author": "KBS2",
-                    "description": "Un hombre y una mujer se vengan desesperadamente pero con elegancia después de ser pisoteados por un poder enorme.\n\nKi Joon es un presidente inteligente y guapo de WJ Entertainment. Es un rico romántico del siglo que parece perfecto por fuera, pero también es un hombre ambicioso con un oscuro secreto que no puede contar a los demás. Su esposa, Shin Ju Kyung, pudo salir de la pobreza al casarse con Ki Joon, al igual que la Cenicienta del cuento de hadas. Es una madre perfecta y una esposa encantadora con una gran carrera hasta que un incidente inesperado le roba todo. Jung Woo Hyeok, un actor novato en NA Entertainment que continúa su carrera como actor después de superar la miseria de su incompetente agencia, extraña a su mentora, Ju Kyung, quien desapareció repentinamente. Por el momento, Seo Hee Jae, que se parece a Ju Kyung, entra a NA Entertainment. Woo Hyuk se confunde cuando ve a Hee Jae y ella se acerca intencionalmente a Ki Joon.\n\n¿Quién destruyó su vida y cómo recuperará la vida perfecta que perdió?",
-                    "genre": "Drama, Romance, Acción, Thriller, Familia, Misterio, Crimen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/w4HHWY2sZrwPvvA9qy4dpYPSVPp.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
