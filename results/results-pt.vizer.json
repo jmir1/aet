@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/shining-vale",
+                                "title": "Shining Vale",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19645.webp"
+                            },
+                            {
                                 "url": "/serie/online/fargo",
                                 "title": "Fargo",
                                 "status": 1,
@@ -285,12 +291,6 @@
                                 "title": "The Lazarus Project",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21844.webp"
-                            },
-                            {
-                                "url": "/serie/online/shining-vale",
-                                "title": "Shining Vale",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19645.webp"
                             },
                             {
                                 "url": "/serie/online/the-curse",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }

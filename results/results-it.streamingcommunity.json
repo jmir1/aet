@@ -317,6 +317,36 @@
                     {
                         "animes": [
                             {
+                                "url": "6942-the-divine-fury",
+                                "title": "The Divine Fury",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4c1a3315-ef97-49bc-87c7-f94aa6a85dfa.webp"
+                            },
+                            {
+                                "url": "6941-street-fighter-sfida-finale",
+                                "title": "Street Fighter - Sfida finale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d407cda7-076f-4158-9811-3037d29edcc8.webp"
+                            },
+                            {
+                                "url": "6940-spy",
+                                "title": "Spy",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/80a7de9d-9d15-4e3f-9ea9-6e1066153ce7.webp"
+                            },
+                            {
+                                "url": "6939-mortal-kombat-distruzione-totale",
+                                "title": "Mortal Kombat - Distruzione totale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/786a09ea-7ca4-449f-a929-c6115ba65683.webp"
+                            },
+                            {
+                                "url": "6938-lo-spaventapassere",
+                                "title": "Lo spaventapassere",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/25b6bc69-977d-4ccc-a946-5ee1f01bc941.webp"
+                            },
+                            {
+                                "url": "6937-lesercito-delle-12-scimmie",
+                                "title": "L'esercito delle 12 scimmie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7d820d6d-31fc-4166-ae09-7319f5b15de5.webp"
+                            },
+                            {
                                 "url": "6936-batman",
                                 "title": "Batman",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9fe660fe-df9b-45ff-8d0e-b47d7b65d0a6.webp"
@@ -585,36 +615,6 @@
                                 "url": "6866-believer-2",
                                 "title": "Believer 2",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/bb59291b-1ead-4e0c-b3dd-48d1f0461e17.webp"
-                            },
-                            {
-                                "url": "6865-the-tourist",
-                                "title": "The Tourist",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f36f1740-e8b2-462b-bc25-da17225c595c.webp"
-                            },
-                            {
-                                "url": "6862-sempre-amici",
-                                "title": "Sempre amici",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3672394f-d5d1-4e45-9521-6fc9f97e3875.webp"
-                            },
-                            {
-                                "url": "6858-sharp-objects",
-                                "title": "Sharp Objects",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/caeccb1f-d965-4002-9238-7620b8119571.webp"
-                            },
-                            {
-                                "url": "6857-nuovo-cinema-paradiso",
-                                "title": "Nuovo Cinema Paradiso",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/2cd3dd76-ecba-409a-8fb0-6c4c8cc2aca7.webp"
-                            },
-                            {
-                                "url": "6855-nessuno-ti-salvera",
-                                "title": "Nessuno ti salverà",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e86eb42a-3d2b-4e10-91e0-1c789b11c042.webp"
-                            },
-                            {
-                                "url": "6854-ogni-cosa-e-segreta",
-                                "title": "Ogni cosa è segreta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/2559e49a-0455-4176-a31b-716c52e76fa0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17927849371649683566/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17927849371649683566/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17927849371649683566/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17927849371649683566/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
