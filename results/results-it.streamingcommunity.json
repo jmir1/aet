@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6944-invincibile",
+                                "title": "Invincibile",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/52424ba0-8d57-49c9-b1f9-b28b7d46d895.webp"
+                            },
+                            {
                                 "url": "6942-the-divine-fury",
                                 "title": "The Divine Fury",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/4c1a3315-ef97-49bc-87c7-f94aa6a85dfa.webp"
@@ -610,11 +615,6 @@
                                 "url": "6867-rustin",
                                 "title": "Rustin",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3892851c-389f-46aa-99a7-cdc632f4dd92.webp"
-                            },
-                            {
-                                "url": "6866-believer-2",
-                                "title": "Believer 2",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bb59291b-1ead-4e0c-b3dd-48d1f0461e17.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17927849371649683566/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17927849371649683566/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17927849371649683566/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17927849371649683566/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-9647686220876672077/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-9647686220876672077/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-9647686220876672077/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-9647686220876672077/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

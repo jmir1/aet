@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/eine-billion-dollar/",
+                                "title": "Eine Billion Dollar",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/enviado-especial/",
                                 "title": "Enviado especial",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/divina-comida-mexico/",
-                                "title": "Divina Comida México",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/o-menino-maluquinho/",
-                                "title": "O Menino Maluquinho",
+                                "url": "/barom-one-capitulos-completos-latino-hd-online/",
+                                "title": "Barom One",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/shots-fired/",
-                                "title": "Shots Fired",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tuU3hzxQWfybSjEZp9Jrl9bpAQj.jpg"
+                                "url": "/the-undertaker/",
+                                "title": "The undertaker",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/udUDIAcdjFS3dkbjkjpb8tQgALe.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,21 +134,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/enviado-especial/",
-                    "title": "Enviado especial",
-                    "description": "El mundo está cambiando vertiginosamente. Si te preguntas cómo y por qué quizá aquí encuentres respuestas. El periodista Jalis de la Serna se convierte en observador de la sociedad.",
-                    "genre": "Documental",
+                    "url": "/eine-billion-dollar/",
+                    "title": "Eine Billion Dollar",
+                    "description": "La vida del mensajero en bicicleta sin un centavo John Salvatore Fontanelli cambia repentinamente cuando se entera de su herencia de un billón de dólares. El problema: tiene que salvar el futuro del mundo.",
+                    "genre": "Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/eine-billion-dollar-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Episodio 2",
+                        "date_upload": 1700697600000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/eine-billion-dollar-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - Episodio 1",
+                        "date_upload": 1700697600000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

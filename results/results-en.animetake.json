@@ -762,8 +762,58 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to fetch videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.online",
+                            "Referer": "https://playtaku.online/streaming.php?id=MTQ4MDY2"
+                        }
+                    },
+                    {
+                        "url": "https://www3.mp4upload.com:183/d/r2xv7aohz3b4quuousxb4psqj2lolrazu2f3csru5rr2cyhsuzy6i74ej5njm5md4qlyqvhi/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www3.mp4upload.com:183/d/r2xv7aohz3b4quuousxb4psqj2lolrazu2f3csru5rr2cyhsuzy6i74ej5njm5md4qlyqvhi/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.online",
+                            "Referer": "https://playtaku.online/streaming.php?id=MTQ4MDY2"
+                        }
+                    },
+                    {
+                        "url": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.online",
+                            "Referer": "https://playtaku.online/streaming.php?id=MTQ4MDY2"
+                        }
+                    },
+                    {
+                        "url": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www017.vipanicdn.net/streamhls/7535d827335b080a3d42563a507463c7/ep.1.1677705707.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://playtaku.online",
+                            "Referer": "https://playtaku.online/streaming.php?id=MTQ4MDY2"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -3,27 +3,27 @@
         "name": "Gogoanime (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.UnknownHostException: gogoanimehd.io: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: gogoanimehd.io",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.UnknownHostException: gogoanimehd.io",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: gogoanimehd.io",
                 "passed": false
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: gogoanimehd.io",
                 "passed": false
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to extract videos",
+                "error": "java.net.UnknownHostException: gogoanimehd.io",
                 "passed": false
             }
         }
