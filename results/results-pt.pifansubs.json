@@ -67,6 +67,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodes/what-did-you-eat-yesterday-2-1x8/",
+                                "title": "What Did You Eat Yesterday 2: 1×8",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/4s6xbqmXpE1SFFSkcilL9GsD0tu-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodes/twins-the-series-1x4/",
                                 "title": "Twins The Series: 1×4",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/mqKkr9dGe5zNUTmG1m7ZcfgfakM-300x170.jpg"
@@ -210,11 +215,6 @@
                                 "url": "/episodes/what-did-you-eat-yesterday-2-1x6/",
                                 "title": "What Did You Eat Yesterday 2: 1×6",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/4s6xbqmXpE1SFFSkcilL9GsD0tu-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodes/a-breeze-of-love-1x8/",
-                                "title": "A Breeze of Love: 1×8",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/AcanxcP5Dn7ElxsNLgiTbzxFIPy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -296,19 +296,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ak2.rmbl.ws/s8/2/P/j/k/l/Pjklo.aaa.mp4",
-                        "quality": "JWPlayer",
-                        "videoUrl": "https://ak2.rmbl.ws/s8/2/P/j/k/l/Pjklo.aaa.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://pifansubs.club",
-                            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

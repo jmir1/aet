@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/fargo",
+                                "title": "Fargo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3975.webp"
+                            },
+                            {
                                 "url": "/serie/online/invencivel",
                                 "title": "Invencível",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "007: Estrada para o Milhão",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22528.webp"
-                            },
-                            {
-                                "url": "/serie/online/companheiros-de-viagem",
-                                "title": "Companheiros de Viagem",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

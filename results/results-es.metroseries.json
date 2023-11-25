@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/enviado-especial/",
+                                "title": "Enviado especial",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/ololade/",
+                                "title": "Olóládé",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/las-vidas-de-felix/",
+                                "title": "Las vidas de Felix",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/una-familia-normal/",
+                                "title": "Una familia normal",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/the-village-2023/",
                                 "title": "The Village (2023)",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -37,28 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/el-juego-del-calamar-el-desafio/",
-                                "title": "El juego del calamar: El desafío",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/dreamland-2023/",
-                                "title": "Dreamland (2023)",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/viajes-increibles-de-animales/",
-                                "title": "Viajes increíbles de animales",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/tooth-pari-when-love-bites/",
-                                "title": "Tooth Pari: When Love Bites",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/bastions/",
-                                "title": "Bastions",
+                                "url": "/o-menino-maluquinho/",
+                                "title": "O Menino Maluquinho",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/jimmy-savile-a-british-horror-story/",
-                                "title": "Jimmy Savile: A British Horror Story",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/2ZEA9sDHYjlizdkQhO5mFDLlm13.jpg"
+                                "url": "/secretos-del-matrimonio-nada-es-para-siempre/",
+                                "title": "Secretos del matrimonio: Nada es para siempre",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zovMz4Ph8g0vh3egXAMgFZIlzgM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,34 +134,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-village-2023/",
-                    "title": "The Village (2023)",
-                    "description": "Terror en la aldea, Un thriller de terror sobre Gautham, un urbanita varado y sus tres compañeros improbables que se enfrentan a un pueblo espeluznante para rescatar a su familia desaparecida en una noche.",
-                    "genre": "Misterio, Sci-Fi & Fantasy",
+                    "url": "/enviado-especial/",
+                    "title": "Enviado especial",
+                    "description": "El mundo está cambiando vertiginosamente. Si te preguntas cómo y por qué quizá aquí encuentres respuestas. El periodista Jalis de la Serna se convierte en observador de la sociedad.",
+                    "genre": "Documental",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/the-village-2023-temporada-1-capitulo-6/",
-                        "name": "T01 - E06 - Episodio 6",
-                        "date_upload": 1700784000000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episode/the-village-2023-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Episodio 5",
-                        "date_upload": 1700784000000,
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
