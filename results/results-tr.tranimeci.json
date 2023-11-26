@@ -3,94 +3,78 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/hua-jianghu-buliang-ren-6",
-                                "title": "Hua Jianghu Buliang Ren 6",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hua-jianghu_-buliang-ren-6_1754.webp"
-                            },
-                            {
-                                "url": "/series/tokyo-revengers-3sezon",
-                                "title": "Tokyo Revengers 3.Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tokyo-revengers_-tenjiku-hen_1134.webp"
-                            },
-                            {
-                                "url": "/series/swallowed-star-4",
-                                "title": "Swallowed Star 4",
-                                "thumbnail_url": "https://tranimaci.com/image/series_tunshi-xingkong-4_1288.webp"
-                            },
-                            {
-                                "url": "/series/maou-gakuin-no-futekigousha-2-sezon",
-                                "title": "Maou Gakuin no Futekigousha 2 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_maou-gakuin-no-futekigousha-2-sezon_1731.webp"
-                            },
-                            {
-                                "url": "/series/isekai-wa-smartphone-to-tomo-ni-s2",
-                                "title": "Isekai wa Smartphone to Tomo ni S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_in-another-world-with-my-smartphone-2_1736.webp"
-                            },
-                            {
-                                "url": "/series/kimetsu-no-yaiba-katanakaji-no-sato-hen",
-                                "title": "Kimetsu no Yaiba Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kimetsu-no-yaiba-katanakaji-no-sato-hen_1602.webp"
-                            },
-                            {
-                                "url": "/series/bai-lian-cheng-shen",
-                                "title": "Bai Lian Cheng Shen",
-                                "thumbnail_url": "https://tranimaci.com/image/series_bai-lian-cheng-shen_1774.webp"
-                            },
-                            {
-                                "url": "/series/starting-from-gu-huo-bird-dragon-city-hegemony",
-                                "title": "Starting from Gu Huo Bird Dragon City Hegemony",
-                                "thumbnail_url": "https://tranimaci.com/image/20221210173146-4959.webp"
-                            },
-                            {
-                                "url": "/series/yao-shen-ji-7",
-                                "title": "Yao Shen Ji 7",
-                                "thumbnail_url": "https://tranimaci.com/image/todg-s7.webp"
-                            },
-                            {
-                                "url": "/series/yuan-long-3-sezon",
-                                "title": "Yuan Long 3 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_yuan-long-3_1727.webp"
-                            },
-                            {
-                                "url": "/series/xingchen-bian-an-xing-jie-pian",
-                                "title": "Xingchen Bian An Xing Jie Pian",
-                                "thumbnail_url": "https://tranimaci.com/image/series_xingchen-bian-an-xing-jie-pian_1220.webp"
-                            },
-                            {
-                                "url": "/series/oshi-no-ko",
-                                "title": "Oshi no Ko",
-                                "thumbnail_url": "https://tranimaci.com/image/series_oshi-no-ko_1790.webp"
-                            },
-                            {
-                                "url": "/series/zhu-xian",
-                                "title": "Zhu Xian",
-                                "thumbnail_url": "https://tranimaci.com/image/series_zhu-xian_1333.webp"
-                            },
-                            {
-                                "url": "/series/jiu-tian-xuan-di-jue-3",
-                                "title": "Jiu Tian Xuan Di Jue 3",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jiu-tian-xuan-di-jue-3_1841.webp"
-                            },
-                            {
-                                "url": "/series/jiu-tian-xuan-di-jue-2",
-                                "title": "Jiu Tian Xuan Di Jue 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jiu-tian-xuan-di-jue-2_1447.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "okhttp3.internal.http2.StreamResetException: stream was reset: INTERNAL_ERROR",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/shangri-la-frontier",
+                                "title": "Shangri-La Frontier",
+                                "thumbnail_url": "https://tranimaci.com/image/series_shangri-la-frontier_1011.webp"
+                            },
+                            {
+                                "url": "/series/captain-tsubasa-season-2-junior-youth-hen",
+                                "title": "Captain Tsubasa Season 2 Junior Youth Hen",
+                                "thumbnail_url": "https://tranimaci.com/image/series_captain-tsubasa-season-2-junior-youth-hen_1942.webp"
+                            },
+                            {
+                                "url": "/series/the-legend-of-sword-domain",
+                                "title": "The Legend Of Sword Domain",
+                                "thumbnail_url": "https://tranimaci.com/image/series_the-legend-of-sword-domain_1723.webp"
+                            },
+                            {
+                                "url": "/series/shi-fang-wu-sheng-the-invincible",
+                                "title": "Shi Fang Wu Sheng (The Invincible)",
+                                "thumbnail_url": "https://tranimaci.com/image/series_the-invincible_1137.jpg"
+                            },
+                            {
+                                "url": "/series/the-galaxy-emperor-gaishi-dizun",
+                                "title": "The Galaxy Emperor [Gaishi Dizun]",
+                                "thumbnail_url": "https://tranimaci.com/image/series_gaishi-dizun_1460.webp"
+                            },
+                            {
+                                "url": "/series/qi-hou-bilu-spirits-in-chinese-brushes",
+                                "title": "Qi Hou Bilu (Spirits In Chinese Brushes)",
+                                "thumbnail_url": "https://tranimaci.com/image/series_spirits-in-chinese-brushes_1826.webp"
+                            },
+                            {
+                                "url": "/series/jue-shi-wu-hun",
+                                "title": "Jue Shi Wu Hun",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jue-shi-wu-hun_1981.webp"
+                            },
+                            {
+                                "url": "/series/wushen-zhuzai",
+                                "title": "Wushen Zhuzai",
+                                "thumbnail_url": "https://tranimaci.com/image/series_wushen-zhuzai_1891.webp"
+                            },
+                            {
+                                "url": "/series/legend-of-martial-immortal",
+                                "title": "Legend of Martial Immortal",
+                                "thumbnail_url": "https://tranimaci.com/image/Legend-of-Martial-Immortal.webp"
+                            },
+                            {
+                                "url": "/series/dou-po-cangqiong-nian-fan-2",
+                                "title": "Dou Po Cangqiong Nian Fan 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_dou-po-cangqiong-nian-fan-2_1335.webp"
+                            },
+                            {
+                                "url": "/series/the-idolmster-million-live",
+                                "title": "The IDOLM@STER Million Live!",
+                                "thumbnail_url": "https://tranimaci.com/image/series_the-idolmster-million-live_1036.webp"
+                            },
+                            {
+                                "url": "/series/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece_1872.webp"
+                            },
+                            {
+                                "url": "/series/hirogaru-sky-precure",
+                                "title": "Hirogaru Sky! Precure",
+                                "thumbnail_url": "https://tranimaci.com/image/series_hirogaru-sky-precure_1850.webp"
+                            },
                             {
                                 "url": "/series/bokura-no-ameiro-protocol",
                                 "title": "Bokura no Ameiro Protocol",
@@ -150,71 +134,6 @@
                                 "url": "/series/kibou-no-chikara-otona-precure-23",
                                 "title": "Kibou no Chikara Otona Precure 23",
                                 "thumbnail_url": "https://tranimaci.com/image/series_kibou-no-chikara-otona-precure-23_1573.webp"
-                            },
-                            {
-                                "url": "/series/megumi-no-daigo-kyuukoku-no-orange",
-                                "title": "Megumi no Daigo Kyuukoku no Orange",
-                                "thumbnail_url": "https://tranimaci.com/image/series_megumi-no-daigo-kyuukoku-no-orange_1572.webp"
-                            },
-                            {
-                                "url": "/series/wang-zhe-da-shixiong",
-                                "title": "Wang Zhe Da Shixiong",
-                                "thumbnail_url": "https://tranimaci.com/image/series_wang-zhe-da-shixiong_1376.jpg"
-                            },
-                            {
-                                "url": "/series/zhenwu-dianfeng-2",
-                                "title": "Zhenwu Dianfeng 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_zhenwu-dianfeng-2_1930.webp"
-                            },
-                            {
-                                "url": "/series/the-magic-chef-of-ice-and-fire",
-                                "title": "The Magic Chef of Ice and Fire",
-                                "thumbnail_url": "https://tranimaci.com/image/series_the-magic-chef-of-ice-and-fire_1972.webp"
-                            },
-                            {
-                                "url": "/series/wan-jie-duzun-2-sezon",
-                                "title": "Wan Jie Duzun 2 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_wan-jie-duzun-2-sezon_1915.webp"
-                            },
-                            {
-                                "url": "/series/bu-si-bu-mie-the-eternal-strife",
-                                "title": "Bu Si Bu Mie (The Eternal Strife)",
-                                "thumbnail_url": "https://tranimaci.com/image/series_bu-si-bu-mie-the-eternal-strife_1894.jpg"
-                            },
-                            {
-                                "url": "/series/soul-land-2-the-unrivaled-tang-sect",
-                                "title": "Soul Land 2 The Unrivaled Tang Sect",
-                                "thumbnail_url": "https://tranimaci.com/image/series_douluo-dalu-2-jueshi-tangmen_1741.webp"
-                            },
-                            {
-                                "url": "/series/one-hundred-thousand-years-of-qi-refining",
-                                "title": "One Hundred Thousand Years of Qi Refining",
-                                "thumbnail_url": "https://tranimaci.com/image/20230311113649-9807.webp"
-                            },
-                            {
-                                "url": "/series/nitian-xie-shen-2023",
-                                "title": "Nitian Xie Shen (2023)",
-                                "thumbnail_url": "https://tranimaci.com/image/series_nitian-xie-shen-2023_1117.webp"
-                            },
-                            {
-                                "url": "/series/wu-dong-qian-kun-4-sezon",
-                                "title": "Wu Dong Qian Kun 4 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_wu-dong-qiankun-4_1735.jpg"
-                            },
-                            {
-                                "url": "/series/kanojo-mo-kanojo-s2",
-                                "title": "Kanojo mo Kanojo S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kanojo-mo-kanojo-s2_1642.webp"
-                            },
-                            {
-                                "url": "/series/hametsu-no-oukoku",
-                                "title": "Hametsu no Oukoku",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hametsu-no-oukoku_1955.webp"
-                            },
-                            {
-                                "url": "/series/hypnosis-mic-division-rap-battle-rhyme-anima-s2",
-                                "title": "Hypnosis Mic -Division Rap Battle- Rhyme Anima S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_hypnosis-mic-division-rap-battle-rhyme-anima-s2_1217.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -228,14 +147,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/hua-jianghu-buliang-ren-6",
-                    "title": "Hua Jianghu Buliang Ren 6",
-                    "artist": "Tencent Penguin Pictures,Rocen",
-                    "description": "The sixth season of Hua Jianghu: Buliang Ren.\n\nDurum: Devam Ediyor\nYayın Tarihi: 01/03/2023\nEklenme Tarihi: 10/03/2023\nSüre: Ort. 0 dakika\nTip: Anime\nBölümler: 12\nSansür: Var\nStudio: Tencent Penguin Pictures,Rocen\n",
-                    "genre": "",
+                    "url": "/series/shangri-la-frontier",
+                    "title": "Shangri-La Frontier",
+                    "artist": "C2C Kodansha",
+                    "description": "\"En son ne zaman boktan olmayan bir oyun oynadım?\" Bu, yakın gelecekte ekran kullanan oyunların retro olarak sınıflandırıldığı bir dünya. En son VR teknolojisine ayak uyduramayan her şey \"boktan oyun\" olarak adlandırılıyor ve çok sayıda boktan oyunun çıktığını görüyorsunuz. Hayatlarını bu oyunları temizlemeye adayanlara \"boktan oyun avcıları\" deniyor ve Rakuro Hizutome de onlardan biri. Sıradaki oyun olarak seçtiği Shangri-La Frontier, toplam otuz milyon oyuncusu olan \"tanrı katında bir oyun\". Çevrimiçi arkadaşlar. Geniş bir dünya... Rakiplerle karşılaşmalar... Bunlar Rakuro'nun ve diğer tüm oyuncuların kaderini değiştiriyor! En güçlü \"boktan oyun\" oyuncusunun en iyi oyun macerası hikayesi şimdi başlıyor!\n\nDurum: Devam Ediyor\nYayın Tarihi: 30/09/2023\nEklenme Tarihi: 01/10/2023\nSüre: Ort. 76 dakika\nTip: Anime\nBölümler: 12\nSansür: Var\nStudio: C2C Kodansha\n",
+                    "genre": "Action, Comedy, Adventure, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://tranimaci.com/image/series_hua-jianghu_-buliang-ren-6_1754.webp",
+                    "thumbnail_url": "https://tranimaci.com/image/series_shangri-la-frontier_1011.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -243,16 +162,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/hua-jianghu-buliang-ren-6-12-bolum",
-                        "name": "Bölüm 12",
-                        "date_upload": 1683763200000,
-                        "episode_number": 12.0
+                        "url": "/video/shangri-la-frontier-9-bolum",
+                        "name": "Bölüm 9",
+                        "date_upload": 1700956800000,
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/video/hua-jianghu-buliang-ren-6-11-bolum",
-                        "name": "Bölüm 11",
-                        "date_upload": 1683158400000,
-                        "episode_number": 11.0
+                        "url": "/video/shangri-la-frontier-8-bolum",
+                        "name": "Bölüm 8",
+                        "date_upload": 1700352000000,
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true
@@ -260,18 +179,27 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/5d68c596d4db947ec6f1b132b8eb905f363a9255cc96e53df3fb463470d4b6a7",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/314e516ad8f3773f005ad37e5544c4fc936dd8d07ee7b333cca97edf9e619f0b",
                         "quality": "720p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/5d68c596d4db947ec6f1b132b8eb905f363a9255cc96e53df3fb463470d4b6a7",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/314e516ad8f3773f005ad37e5544c4fc936dd8d07ee7b333cca97edf9e619f0b",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://tranimaci.com/"
                         }
                     },
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/5d94763deba3d937dd95a0c2a8a6199fb17179baeb212a0f1d3e79919290b4dc",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/86c9e57c0b154e9a1906d5fe1fc0cd827d3105fbd1ceb89a9baeb2749e78c09f",
+                        "quality": "1080p",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/86c9e57c0b154e9a1906d5fe1fc0cd827d3105fbd1ceb89a9baeb2749e78c09f",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://tranimaci.com/"
+                        }
+                    },
+                    {
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/bc869adaf9cba391b5cdd7879ddef45ad4d14559525154f7d2fef444354925bc",
                         "quality": "480p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/5d94763deba3d937dd95a0c2a8a6199fb17179baeb212a0f1d3e79919290b4dc",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/bc869adaf9cba391b5cdd7879ddef45ad4d14559525154f7d2fef444354925bc",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Referer": "https://tranimaci.com/"
