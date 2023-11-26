@@ -67,6 +67,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/wushen-zhuzai/",
+                                "title": "Wu Shen Zhu Zai",
+                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2022/12/111213l-214x300.jpg"
+                            },
+                            {
+                                "url": "/series/shi-fang-wu-sheng/",
+                                "title": "Shi Fang Wu Sheng",
+                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/11/1699781242-9508-139309.jpg"
+                            },
+                            {
+                                "url": "/series/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo/",
+                                "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/10/1697479572-3731-136764-212x300.jpg"
+                            },
+                            {
+                                "url": "/series/battle-through-the-heavens-nian-fan/",
+                                "title": "Battle Through The Heavens: Nian Fan (5.Sezon)",
+                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2022/04/BTTH-Nian-Fan-214x300.jpg"
+                            },
+                            {
+                                "url": "/series/boushoku-no-berserk/",
+                                "title": "Boushoku no Berserk",
+                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/10/138462l-213x300.webp"
+                            },
+                            {
                                 "url": "/series/shangri-la-frontier/",
                                 "title": "Shangri-La Frontier",
                                 "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/10/137010-207x300.webp"
@@ -82,11 +107,6 @@
                                 "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/03/Legend-of-Xianwu-1-768x1365-1-e1695565584170-188x300.webp"
                             },
                             {
-                                "url": "/series/battle-through-the-heavens-nian-fan/",
-                                "title": "Battle Through The Heavens: Nian Fan (5.Sezon)",
-                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2022/04/BTTH-Nian-Fan-214x300.jpg"
-                            },
-                            {
                                 "url": "/series/kusuriya-no-hitorigoto/",
                                 "title": "Kusuriya no Hitorigoto",
                                 "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/10/Kusuriya-no-Hitorigoto-212x300.jpg"
@@ -95,26 +115,6 @@
                                 "url": "/series/i-have-refined-qi-for-3000-years-3-sezon/",
                                 "title": "I Have Refined Qi For 3000 Years! 3. Sezon",
                                 "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/11/I-Have-Refined-Qi-For-3000-Years-33.webp"
-                            },
-                            {
-                                "url": "/series/a-returners-magic-should-be-special/",
-                                "title": "A Returner’s Magic Should Be Special",
-                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/09/138532-212x300.webp"
-                            },
-                            {
-                                "url": "/series/potion-danomi-de-ikinobimasu/",
-                                "title": "Potion-danomi de Ikinobimasu!",
-                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/10/Potion-danomi-de-Ikinobimasu-211x300.jpg"
-                            },
-                            {
-                                "url": "/series/hikikomari-kyuuketsuki-no-monmon/",
-                                "title": "Hikikomari Kyuuketsuki no Monmon",
-                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/11/Hikikomari-Kyuuketsuki-no-Monmon-212x300.jpg"
-                            },
-                            {
-                                "url": "/series/ragna-crimson/",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://asyaanimelari.com/wp-content/uploads/2023/10/131318l-212x300.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -213,8 +213,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/bd092b7dec8c9ccbd97cf3099380ae69/5338786.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/bd092b7dec8c9ccbd97cf3099380ae69/5338786.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5338786"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=d3gvjIocf3oSd6A7wbb61AYgMnfakDyzgSMYU%2BoCGMLfT5tn45BURztSH6rUTriGl4wjUq5P%2Fdi0ewWZH8iFCcBKfES3L49edw2dAeT6uM8hxyLk81PIt2%2BLTmPKynmRsVLLrkAI%2FFGcH7jwavD1P5&ref=&sandbox=&t=&res=360",
+                        "quality": "GDRIVE 360p - Gdrive",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=d3gvjIocf3oSd6A7wbb61AYgMnfakDyzgSMYU%2BoCGMLfT5tn45BURztSH6rUTriGl4wjUq5P%2Fdi0ewWZH8iFCcBKfES3L49edw2dAeT6uM8hxyLk81PIt2%2BLTmPKynmRsVLLrkAI%2FFGcH7jwavD1P5&ref=&sandbox=&t=&res=360"
+                    }
+                ],
+                "passed": true
             }
         }
     }
