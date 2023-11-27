@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sesame-street-season-45",
+                                "title": "Sesame Street Season 45",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933321.jpg"
+                            },
+                            {
                                 "url": "/anime/the-nutty-boy",
                                 "title": "The Nutty Boy",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933320.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/q-force",
                                 "title": "Q-Force",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933306.jpg"
-                            },
-                            {
-                                "url": "/anime/remy-boo",
-                                "title": "Remy & Boo",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933305.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-nutty-boy",
-                    "title": "The Nutty Boy",
-                    "description": "Nutty Boy is an out-of-the-box kid with big ideas who loves involving everyone in his adventures – even though they don’t usually go as planned!",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933320.jpg",
+                    "url": "/anime/sesame-street-season-45",
+                    "title": "Sesame Street Season 45",
+                    "description": "The dancing and musical fun never stops on Sesame Street! In this new season there’s more music, more dancing, and more interactive fun! And, as always there are dazzling celebrities and hilarious spoofs like Cookie’s Crumby Pictures along with Super Grover 2.0 and Elmo the Musical. What are you waiting for – get on board!",
+                    "genre": "Adventure, Animation, Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933321.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sesame-street-season-45-episode-26-everyday-magic",
+                        "name": "Season 45 - Episode 26",
+                        "episode_number": 4526.0
+                    },
+                    {
+                        "url": "/sesame-street-season-45-episode-25-grover-does-it-all",
+                        "name": "Season 45 - Episode 25",
+                        "episode_number": 4525.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_92xbS9gyCNxkOfboo4tuQQslGkr0K68oSk4NhaRF_NZuXBGLaezuTsLnFOHwCL8Ot9CWunSDXqXJlAJjqNWCas_d4mI_wN3V_D2k8-Cxqif73rcX-IoG2agw4yLjv8BV9T5ujK3TEVN_P06e1flbU0Q-eZch4dYWxSRmdTif9tzrqtdBJ_m6mASba1JmWWKO7_jQVPPuMhMDvnuot235dAK-rO-OE3BGsqZS5lh8uN57tHbVlbvFBJtPaTEZrtGIRlugXQi27sXeBTfoi74Xj4Jb1M5sgGhlVLuPWIfvRgruh4wAoCC1WwIe2ExHjbRfiLhzMBDr_YCnMYCP3Hi14K6WF93fZnIutQ-2N9Eid3Jw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_92xbS9gyCNxkOfboo4tuQQslGkr0K68oSk4NhaRF_NZuXBGLaezuTsLnFOHwCL8Ot9CWunSDXqXJlAJjqNWCas_d4mI_wN3V_D2k8-Cxqif73rcX-IoG2agw4yLjv8BV9T5ujK3TEVN_P06e1flbU0Q-eZch4dYWxSRmdTif9tzrqtdBJ_m6mASba1JmWWKO7_jQVPPuMhMDvnuot235dAK-rO-OE3BGsqZS5lh8uN57tHbVlbvFBJtPaTEZrtGIRlugXQi27sXeBTfoi74Xj4Jb1M5sgGhlVLuPWIfvRgruh4wAoCC1WwIe2ExHjbRfiLhzMBDr_YCnMYCP3Hi14K6WF93fZnIutQ-2N9Eid3Jw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_92xbS9gyCNxkOfboo4tuQQslGkr0K68oSk4NhaRF_NZuXBGLaezuTsLnFOHwCL8Ot9CWunSDXqXJlAJjqNWCas_d4mI_wN3V_D2k8-Cxqif_KDRU6q_gaCzbuGumZ7BDUmj8L6RElr9jxaa98t4iv0sJrEoUXCXcrD3MR-4BKggkR1_LQ88OKPTHY4yPeuOavKwz2-jkmLFd7nnEbA_FzmRtIVVVnQQ_RBbqXhks-3jnhujDJZz5t1UxxQPiRJwJ59OW639eERuWSi1cM5sYtzG_pddi-6Fyz2yBc6qt5V52dJ5_63nM3mVqZixQEG3kzdT6QwNyla620ySLN6ll_TpLVQvxjiSuSmJehsI6hGKQ",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_92xbS9gyCNxkOfboo4tuQQslGkr0K68oSk4NhaRF_NZuXBGLaezuTsLnFOHwCL8Ot9CWunSDXqXJlAJjqNWCas_d4mI_wN3V_D2k8-Cxqif_KDRU6q_gaCzbuGumZ7BDUmj8L6RElr9jxaa98t4iv0sJrEoUXCXcrD3MR-4BKggkR1_LQ88OKPTHY4yPeuOavKwz2-jkmLFd7nnEbA_FzmRtIVVVnQQ_RBbqXhks-3jnhujDJZz5t1UxxQPiRJwJ59OW639eERuWSi1cM5sYtzG_pddi-6Fyz2yBc6qt5V52dJ5_63nM3mVqZixQEG3kzdT6QwNyla620ySLN6ll_TpLVQvxjiSuSmJehsI6hGKQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_92xbS9gyCNxkOfboo4tuQQslGkr0K68oSk4NhaRF_NZuXBGLaezuTsLnFOHwCL8Ot9CWunSDXqXJlAJjqNWCas_d4mI_wN3V_D2k8-CxqifzADEGiY1vo8_cnN_LDKoKB6x_FMFgzg0y31_7VLgnnjSA3vrjZwutiosMySHbRqJ3JDcQTKv0wUTS7EGh0AfHIU2k4YXHtORh7fH5KzEW1e7lT2LlSx7ergnG8thvHS_Fn48yRUhqBeQk_0frYDcP6npg-ySD3g8NjP0_ML9e8AtBPFp_hZ-EY9iHMcGWg8_rjLBv7lI8cT5cErpZGS32v34WM54XkxNFt_JZBX408BN-i3DNPYlHmgws0-K29cmA",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_92xbS9gyCNxkOfboo4tuQQslGkr0K68oSk4NhaRF_NZuXBGLaezuTsLnFOHwCL8Ot9CWunSDXqXJlAJjqNWCas_d4mI_wN3V_D2k8-CxqifzADEGiY1vo8_cnN_LDKoKB6x_FMFgzg0y31_7VLgnnjSA3vrjZwutiosMySHbRqJ3JDcQTKv0wUTS7EGh0AfHIU2k4YXHtORh7fH5KzEW1e7lT2LlSx7ergnG8thvHS_Fn48yRUhqBeQk_0frYDcP6npg-ySD3g8NjP0_ML9e8AtBPFp_hZ-EY9iHMcGWg8_rjLBv7lI8cT5cErpZGS32v34WM54XkxNFt_JZBX408BN-i3DNPYlHmgws0-K29cmA"
+                    }
+                ],
+                "passed": true
             }
         }
     }

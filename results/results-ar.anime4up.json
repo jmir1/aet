@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/rakudai-majo-fuuka-to-yami-no-majo/",
+                                "title": "Rakudai Majo: Fuuka to Yami no Majo",
+                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/11/rakudai_majo_fuuka_to_yami_no_majo_11071.webp?resize=215%2C300&ssl=1"
+                            },
+                            {
                                 "url": "/anime/my-daemon/",
                                 "title": "My Daemon",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/11/Ashampoo_Snap_2023.11.26_14h24m51s_001_.png?resize=215%2C300&ssl=1"
@@ -240,11 +245,6 @@
                                 "url": "/anime/16bit-sensation-another-layer/",
                                 "title": "16bit Sensation: Another Layer",
                                 "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_14h01m20s_008_.png?resize=215%2C300&ssl=1"
-                            },
-                            {
-                                "url": "/anime/uma-musume-pretty-derby-season-3/",
-                                "title": "Uma Musume: Pretty Derby Season 3",
-                                "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/10/Ashampoo_Snap_2023.10.04_13h48m58s_006_.png?resize=215%2C300&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -359,13 +359,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/my-daemon/",
-                    "title": "My Daemon",
-                    "description": "النوع: ONA\nبداية العرض: 2023\nحالة الأنمي: مكتمل\nعدد الحلقات: 13\nمدة الحلقة: 23 دقيقة\nالموسم: شتاء 2023\nالمصدر: اصلي\n\nيشرع صبي طيب القلب وصديقه مخلوق \"الديمون\" الصغير في رحلة عبر \"اليابان\" خلال فترة ما بعد نهاية العالم لمحاولة إنقاذ والدته، بينما تلوح قوى الشر في الأفق.",
-                    "genre": "أكشن, مغامرات, فنتازيا, ONA, مكتمل, شتاء 2023",
+                    "url": "/anime/rakudai-majo-fuuka-to-yami-no-majo/",
+                    "title": "Rakudai Majo: Fuuka to Yami no Majo",
+                    "description": "النوع: Movie\nبداية العرض: 2023\nحالة الأنمي: مكتمل\nعدد الحلقات: 1\nمدة الحلقة: 59 دقيقة\nالموسم: ربيع 2023\nالمصدر: كتاب\n\nتحتوي السلسلة الأصلية على قصص عن مغامرات، الحب الأول، الصداقة وسر عائلة “فوكا“، ساحرة صغيرة في التدريب.",
+                    "genre": "فنتازيا, Movie, مكتمل, ربيع 2023",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/11/Ashampoo_Snap_2023.11.26_14h24m51s_001_.png?fit=445%2C623&ssl=1",
+                    "thumbnail_url": "https://i0.wp.com/anime4up.cam/wp-content/uploads/2023/11/rakudai_majo_fuuka_to_yami_no_majo_11071.webp?fit=707%2C1000&ssl=1",
                     "initialized": true
                 },
                 "passed": true
@@ -373,21 +373,34 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/my-daemon-الحلقة-13-والاخيرة/",
-                        "name": "الحلقة 13",
-                        "episode_number": 13.0
-                    },
-                    {
-                        "url": "/episode/my-daemon-الحلقة-12/",
-                        "name": "الحلقة 12",
-                        "episode_number": 12.0
+                        "url": "/episode/فيلم-rakudai-majo-fuuka-to-yami-no-majo/",
+                        "name": "الفلم",
+                        "episode_number": 0.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxrsrhrz3b4quuojwqqejkhdcpkibstjq4bwxae6gvualrbaiajg7kh7gxnklnjirrswwlu/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxrsrhrz3b4quuojwqqejkhdcpkibstjq4bwxae6gvualrbaiajg7kh7gxnklnjirrswwlu/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m150.uqload.io/3rfkvz4errw2q4drdkcpxpnnbjwgl2gx4h55oxi64i7oxv3umdvxmbzqh32a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m150.uqload.io/3rfkvz4errw2q4drdkcpxpnnbjwgl2gx4h55oxi64i7oxv3umdvxmbzqh32a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
