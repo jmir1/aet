@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-nutty-boy",
+                                "title": "The Nutty Boy",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933320.jpg"
+                            },
+                            {
                                 "url": "/anime/sesame-street-season-44",
                                 "title": "Sesame Street Season 44",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933319.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/remy-boo",
                                 "title": "Remy & Boo",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933305.jpg"
-                            },
-                            {
-                                "url": "/anime/the-daltons",
-                                "title": "The Daltons",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933304.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sesame-street-season-44",
-                    "title": "Sesame Street Season 44",
-                    "description": "It’s Season 44 of Sesame Street and we’ve pulled out all the stops! From hilarious new segments like “Cookie’s Crumby Pictures” parodying coming attractions of popular movies, to the arrival of Sesame Street’s newest resident, “Armando,” (Ismael Cruz Córdova). There are new “Elmo the Musical” segments; new animations, and, as always, new spoofs, and celebrity appearances! Get ready, Get Set, Go!",
-                    "genre": "Adventure, Animation, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933319.jpg",
+                    "url": "/anime/the-nutty-boy",
+                    "title": "The Nutty Boy",
+                    "description": "Nutty Boy is an out-of-the-box kid with big ideas who loves involving everyone in his adventures – even though they don’t usually go as planned!",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933320.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/sesame-street-season-44-episode-26-every-plant-that-ever-was",
-                        "name": "Season 44 - Episode 26",
-                        "episode_number": 4426.0
-                    },
-                    {
-                        "url": "/sesame-street-season-44-episode-25-lights-camera-bert",
-                        "name": "Season 44 - Episode 25",
-                        "episode_number": 4425.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_9jCjsPBRZ_bv9qiX33RHBGSbY0xU88M3hicxQZgNmkEvRuisktz2BH7wRy3oIxMfXk95uqLLskNxHT1FmBF4OtEeVmB-ob2aQbzfrtDO_xCFJK1D83K34zggXOoJxQEzq06Z51UduUrKAQDew0synCith9qOjhieYV3inrbXdu73AqILeVKfxeCQog317J0g9K6bWVC51EQDclndfDVuu0o_lAjkT9Wkcg9Om0KP7CC_vwgV_ufmv9PVXO9-5b7Setu6vNTOLJ-Z5UNL0KENR_F_kBprTq8cF2qTFRAI6hg6jWZe85TnzAEAXzHllkoto",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_9jCjsPBRZ_bv9qiX33RHBGSbY0xU88M3hicxQZgNmkEvRuisktz2BH7wRy3oIxMfXk95uqLLskNxHT1FmBF4OtEeVmB-ob2aQbzfrtDO_xCFJK1D83K34zggXOoJxQEzq06Z51UduUrKAQDew0synCith9qOjhieYV3inrbXdu73AqILeVKfxeCQog317J0g9K6bWVC51EQDclndfDVuu0o_lAjkT9Wkcg9Om0KP7CC_vwgV_ufmv9PVXO9-5b7Setu6vNTOLJ-Z5UNL0KENR_F_kBprTq8cF2qTFRAI6hg6jWZe85TnzAEAXzHllkoto"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_9jCjsPBRZ_bv9qiX33RHBGSbY0xU88M3hicxQZgNmkEvRuisktz2BH7wRy3oIxMfXk95uqLLskNxHT1FmBF4Ot3ZCk6wlsbt_zX5k-AokdJKhn_N-QyUE1qh-e7p_7EGUy2BTuPPUiEwRdreTd7WZK3zmm5L3jJ3RrkOtaSnArsmpxMT3YZUeVxXpOJ2ArNAbwFWVJfF7XrPuOFx0pReqkKN7cofIsr_pcqJv-1V5crVSpMrQRzi8t_G2yg_OFvMRqpoiEtNt9A-Aa6Xer5w2Bvi2ql9BBX2EXM5j-aolW98PEXl3FkFFZ3Nf8WchA_As",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJp4reZP3gBbizkNxXNmdG_9jCjsPBRZ_bv9qiX33RHBGSbY0xU88M3hicxQZgNmkEvRuisktz2BH7wRy3oIxMfXk95uqLLskNxHT1FmBF4Ot3ZCk6wlsbt_zX5k-AokdJKhn_N-QyUE1qh-e7p_7EGUy2BTuPPUiEwRdreTd7WZK3zmm5L3jJ3RrkOtaSnArsmpxMT3YZUeVxXpOJ2ArNAbwFWVJfF7XrPuOFx0pReqkKN7cofIsr_pcqJv-1V5crVSpMrQRzi8t_G2yg_OFvMRqpoiEtNt9A-Aa6Xer5w2Bvi2ql9BBX2EXM5j-aolW98PEXl3FkFFZ3Nf8WchA_As"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
