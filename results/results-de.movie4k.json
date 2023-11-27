@@ -22,14 +22,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/lmSuwYGrrMy8p4kVEzCb9GM4waP.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=641f72eac503f08683d379d9",
-                                "title": "Rheingold",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/6vdcG03SXerh3PXmfl9wkVJtccK.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
                                 "title": "Five Nights at Freddys",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=641f72eac503f08683d379d9",
+                                "title": "Rheingold",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/6vdcG03SXerh3PXmfl9wkVJtccK.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=6552215cdb16049d587f1287",
@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/66mkZQkRO6BtyfX7qH7jCEZDaHo.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=6195193258607cdfb9fa2de9",
-                                "title": "Harry Potter und der Stein der Weisen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=652e34860e53e92ad72d4f3e",
                                 "title": "The Black Demon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=6195193258607cdfb9fa2de9",
+                                "title": "Harry Potter und der Stein der Weisen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=6195193258607cdfb9fa316f",
@@ -117,15 +117,26 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=64f29abb650f6041499f48c7",
+                    "title": "The Equalizer 3 - The Final Chapter",
+                    "description": "Robert McCall (Denzel Washington) plagt das eigene Gewissen. Als Auftragsmörder für die eigene Regierung hat er in der Vergangenheit viele Dinge tun müssen, die er nun nicht mehr mit seinen Wertevorstellungen übereinbringen kann. Im malerischen Süditalien versucht McCall nach einer brutalen Auseinandersetzung mit Drogenschmugglern ein neues Leben zu beginnen und sich in den Killer-Ruhestand zu begeben. Doch die Frieden ist ein trügerischer, denn schnell wird ihm klar, dass auch hier finstere Mächte das Sagen haben. Um seine neuen Freunde zu beschützen, muss er noch einmal aufmunitionieren und auf altbekannte Methoden zurückgreifen. Denn hinter alldem steckt die Mafia.",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=64f29abb650f6041499f48c7",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

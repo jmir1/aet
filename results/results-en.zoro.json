@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/32/c8/32c83e2ad4a43229996356840db3982c/32c83e2ad4a43229996356840db3982c.jpg"
                             },
                             {
-                                "url": "/naruto-677",
-                                "title": "Naruto",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg"
-                            },
-                            {
                                 "url": "/jujutsu-kaisen-2nd-season-18413",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/b5/1f/b51f863b05f30576cf9d85fa9b911bb5/b51f863b05f30576cf9d85fa9b911bb5.png"
+                            },
+                            {
+                                "url": "/naruto-677",
+                                "title": "Naruto",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg"
                             },
                             {
                                 "url": "/spy-x-family-17977",
@@ -322,14 +322,14 @@
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/fc/ab/fcab763a96e424734062cb120a0864d4/fcab763a96e424734062cb120a0864d4.jpg"
                             },
                             {
-                                "url": "/dark-gathering-18482",
-                                "title": "Dark Gathering",
-                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/ae/ab/aeab1a310c9728970572deb6d79ae7b1/aeab1a310c9728970572deb6d79ae7b1.jpg"
-                            },
-                            {
                                 "url": "/the-100-girlfriends-who-really-really-really-really-really-love-you-18580",
                                 "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
                                 "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/91/8c/918c8b3557757782fcaf782ebe86d97f/918c8b3557757782fcaf782ebe86d97f.png"
+                            },
+                            {
+                                "url": "/dark-gathering-18482",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://img.flawlessfiles.com/_r/300x400/100/ae/ab/aeab1a310c9728970572deb6d79ae7b1/aeab1a310c9728970572deb6d79ae7b1.jpg"
                             },
                             {
                                 "url": "/super-dragon-ball-heroes-big-bang-mission-17970",
@@ -641,8 +641,111 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to extract videos.",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://eno.tendoloads.com/_v6/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a3863c6a5d4d88495a1e49b5355d881f4b36cb2bde886cdd118b95932241ef075990583b7171c0d112c7d6569481dff0bd71953bc179c93d70cf9a29a0dc425ae319bbc02bb47cf8b0c941f80b50e2cfab6d/index-f1-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 1080p - sub",
+                        "videoUrl": "https://eno.tendoloads.com/_v6/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a3863c6a5d4d88495a1e49b5355d881f4b36cb2bde886cdd118b95932241ef075990583b7171c0d112c7d6569481dff0bd71953bc179c93d70cf9a29a0dc425ae319bbc02bb47cf8b0c941f80b50e2cfab6d/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/ad/1b/ad1b4e37079f3fe666b91d0f8aedd5f6/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a386635645db65f7b8bc46dad0a6951466b8ebc9249d6982d0ef220520792b312d3cbb8de81807e21dca49ee941dbb98805fafc3b822dfbcb96f118c6ea349706b43c904e4f071509818384ca5298e935c05b11509897bc7ca002cdeed3091e50a7e/index-f1-v1-a1.m3u8",
+                        "quality": "MegaCloud - 1080p - sub",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a386635645db65f7b8bc46dad0a6951466b8ebc9249d6982d0ef220520792b312d3cbb8de81807e21dca49ee941dbb98805fafc3b822dfbcb96f118c6ea349706b43c904e4f071509818384ca5298e935c05b11509897bc7ca002cdeed3091e50a7e/index-f1-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/ad/1b/ad1b4e37079f3fe666b91d0f8aedd5f6/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.tendoloads.com/_v6/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a3863c6a5d4d88495a1e49b5355d881f4b36cb2bde886cdd118b95932241ef075990583b7171c0d112c7d6569481dff0bd71953bc179c93d70cf9a29a0dc425ae319bbc02bb47cf8b0c941f80b50e2cfab6d/index-f2-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 720p - sub",
+                        "videoUrl": "https://eno.tendoloads.com/_v6/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a3863c6a5d4d88495a1e49b5355d881f4b36cb2bde886cdd118b95932241ef075990583b7171c0d112c7d6569481dff0bd71953bc179c93d70cf9a29a0dc425ae319bbc02bb47cf8b0c941f80b50e2cfab6d/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/ad/1b/ad1b4e37079f3fe666b91d0f8aedd5f6/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eno.tendoloads.com/_v6/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a3863c6a5d4d88495a1e49b5355d881f4b36cb2bde886cdd118b95932241ef075990583b7171c0d112c7d6569481dff0bd71953bc179c93d70cf9a29a0dc425ae319bbc02bb47cf8b0c941f80b50e2cfab6d/index-f3-v1-a1.m3u8",
+                        "quality": "Vidstreaming - 360p - sub",
+                        "videoUrl": "https://eno.tendoloads.com/_v6/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a3863c6a5d4d88495a1e49b5355d881f4b36cb2bde886cdd118b95932241ef075990583b7171c0d112c7d6569481dff0bd71953bc179c93d70cf9a29a0dc425ae319bbc02bb47cf8b0c941f80b50e2cfab6d/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/ad/1b/ad1b4e37079f3fe666b91d0f8aedd5f6/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a386635645db65f7b8bc46dad0a6951466b8ebc9249d6982d0ef220520792b312d3cbb8de81807e21dca49ee941dbb98805fafc3b822dfbcb96f118c6ea349706b43c904e4f071509818384ca5298e935c05b11509897bc7ca002cdeed3091e50a7e/index-f2-v1-a1.m3u8",
+                        "quality": "MegaCloud - 720p - sub",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a386635645db65f7b8bc46dad0a6951466b8ebc9249d6982d0ef220520792b312d3cbb8de81807e21dca49ee941dbb98805fafc3b822dfbcb96f118c6ea349706b43c904e4f071509818384ca5298e935c05b11509897bc7ca002cdeed3091e50a7e/index-f2-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/ad/1b/ad1b4e37079f3fe666b91d0f8aedd5f6/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://eb.netmagcdn.com:2228/hls-playback/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a386635645db65f7b8bc46dad0a6951466b8ebc9249d6982d0ef220520792b312d3cbb8de81807e21dca49ee941dbb98805fafc3b822dfbcb96f118c6ea349706b43c904e4f071509818384ca5298e935c05b11509897bc7ca002cdeed3091e50a7e/index-f3-v1-a1.m3u8",
+                        "quality": "MegaCloud - 360p - sub",
+                        "videoUrl": "https://eb.netmagcdn.com:2228/hls-playback/56865ff5c7451ba44451652fd77acf0417398ad47991f23829a0b1b6592670cd5081e6bbd93d5b34cc50ab13be99a386635645db65f7b8bc46dad0a6951466b8ebc9249d6982d0ef220520792b312d3cbb8de81807e21dca49ee941dbb98805fafc3b822dfbcb96f118c6ea349706b43c904e4f071509818384ca5298e935c05b11509897bc7ca002cdeed3091e50a7e/index-f3-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megacloud.tv",
+                            "Referer": "https://megacloud.tv/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://ccb.megaresources.co/ad/1b/ad1b4e37079f3fe666b91d0f8aedd5f6/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

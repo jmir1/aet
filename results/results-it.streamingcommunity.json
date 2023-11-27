@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6961-criminal-minds",
+                                "title": "Criminal Minds",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/70d6e2a0-2b03-4318-952c-31a132868963.webp"
+                            },
+                            {
                                 "url": "6959-skylines",
                                 "title": "Skylines",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/65e44598-f7b3-4a53-ab98-156cb65b934f.webp"
@@ -610,11 +615,6 @@
                                 "url": "6881-tre-manifesti-a-ebbing-missouri",
                                 "title": "Tre manifesti a Ebbing, Missouri",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/207c5dc7-a62f-4742-8f56-a480df84027f.webp"
-                            },
-                            {
-                                "url": "6880-i-due-superpiedi-quasi-piatti",
-                                "title": "I due superpiedi quasi piatti",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9f03a537-0033-488f-993e-6abf729f6124.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6935\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-11214324417275435365/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-11214324417275435365/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-11214324417275435365/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-11214324417275435365/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

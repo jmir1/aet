@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/homens-da-lei-bass-reeves",
+                                "title": "Homens da Lei: Bass Reeves",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
+                            },
+                            {
                                 "url": "/serie/online/shining-vale",
                                 "title": "Shining Vale",
                                 "status": 1,
@@ -303,12 +309,6 @@
                                 "title": "Rick e Morty",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
-                            },
-                            {
-                                "url": "/serie/online/homens-da-lei-bass-reeves",
-                                "title": "Homens da Lei: Bass Reeves",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
                             },
                             {
                                 "url": "/serie/online/criminal-code",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

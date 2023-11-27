@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspxr7kskptoimrk7q/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspxr7kskptoimrk7q/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspxr7kskfxwxhfkea/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspxr7kskfxwxhfkea/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
