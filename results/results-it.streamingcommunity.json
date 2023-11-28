@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "6966-chiamami-aquila",
+                                "title": "Chiamami aquila",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/97281d50-6859-4523-bd09-f2a6a70982a0.webp"
+                            },
+                            {
+                                "url": "6965-casablanca",
+                                "title": "Casablanca",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e63c29ae-9309-4a28-b4cd-2add2f2e6837.webp"
+                            },
+                            {
                                 "url": "6964-la-parola-ai-giurati",
                                 "title": "La parola ai giurati",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/2776ad66-07b1-4d33-8c8b-2f578342d160.webp"
@@ -605,16 +615,6 @@
                                 "url": "6884-prometheus",
                                 "title": "Prometheus",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/cbe94ed9-696f-461b-ab2b-c883e5114a94.webp"
-                            },
-                            {
-                                "url": "6883-ip-man-il-risveglio",
-                                "title": "Ip Man: Il Risveglio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f420e602-14d6-45c1-b15d-67ba3774308f.webp"
-                            },
-                            {
-                                "url": "6882-piggy",
-                                "title": "Piggy",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b901be67-2601-46fb-a10b-e197c3cdfe6a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6963?episode_id=44312\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6963?episode_id=44312\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-9599728939955541993/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-9599728939955541993/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-9599728939955541993/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-9599728939955541993/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

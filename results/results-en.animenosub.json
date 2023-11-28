@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2022/03/1648046353-5537-EP-4_5.jpg"
                             },
                             {
-                                "url": "/anime/the-demon-sword-master-of-excalibur-academy/",
-                                "title": "The Demon Sword Master of Excalibur Academy",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/09/The-Demon-Sword-Master-of-Excalibur-Academy-poster-1.jpg"
-                            },
-                            {
                                 "url": "/anime/invincible-season-2/",
                                 "title": "Invincible Season 2",
                                 "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/11/Invincible-Season-2-DUB.jpg"
+                            },
+                            {
+                                "url": "/anime/the-demon-sword-master-of-excalibur-academy/",
+                                "title": "The Demon Sword Master of Excalibur Academy",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/09/The-Demon-Sword-Master-of-Excalibur-Academy-poster-1.jpg"
                             },
                             {
                                 "url": "/anime/hanma-baki-son-of-ogre-2nd-season/",
@@ -117,14 +117,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/im-in-love-with-the-villainess/",
-                                "title": "I’m in Love with the Villainess",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696237655-7988-137711.jpg"
+                                "url": "/anime/the-demon-sword-master-of-excalibur-academy/",
+                                "title": "The Demon Sword Master of Excalibur Academy",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/09/The-Demon-Sword-Master-of-Excalibur-Academy-poster-1.jpg"
                             },
                             {
                                 "url": "/anime/a-playthrough-of-a-certain-dudes-vrmmo-life/",
                                 "title": "A Playthrough of a Certain Dude’s VRMMO Life",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/A-Playthrough-of-a-Certain-Dudes-VRMMO-Life-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/im-in-love-with-the-villainess/",
+                                "title": "I’m in Love with the Villainess",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696237655-7988-137711.jpg"
                             },
                             {
                                 "url": "/anime/shy/",
@@ -210,11 +215,6 @@
                                 "url": "/anime/protocol-rain/",
                                 "title": "Protocol: Rain",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696676750-8449-138465.jpg"
-                            },
-                            {
-                                "url": "/anime/the-apothecary-diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Apothecary-Diaries-poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspxtfu5rhlirgneaq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspxtfu5rhlirgneaq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspxtfu5riw4jwx6za/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspxtfu5riw4jwx6za/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
