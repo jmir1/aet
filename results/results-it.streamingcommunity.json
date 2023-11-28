@@ -97,6 +97,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/cf1b8143-f368-420f-9b59-cd3091de34d5.webp"
                             },
                             {
+                                "url": "6968-a-murder-at-the-end-of-the-world",
+                                "title": "A Murder at the End of the World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/55ae5b70-bde7-4117-ad1a-99cf191f04dc.webp"
+                            },
+                            {
                                 "url": "6861-il-codice-del-crimine",
                                 "title": "Il codice del crimine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/0bdccca3-af9e-4023-97d0-9912024317dc.webp"
@@ -300,11 +305,6 @@
                                 "url": "6765-do-ut-des",
                                 "title": "Do Ut Des",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/dbc795fb-34ed-4158-a538-ba78d23b0537.webp"
-                            },
-                            {
-                                "url": "6727-57-secondi",
-                                "title": "57 Secondi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bdb0889a-3e86-47d5-aafb-593b1b321a07.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "6968-a-murder-at-the-end-of-the-world",
+                                "title": "A Murder at the End of the World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/55ae5b70-bde7-4117-ad1a-99cf191f04dc.webp"
+                            },
                             {
                                 "url": "6967-il-diario-di-bridget-jones",
                                 "title": "Il diario di Bridget Jones",
@@ -610,11 +615,6 @@
                                 "url": "6886-santa-maradona",
                                 "title": "Santa Maradona",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/e1800cf0-f786-4ba9-8222-2ef138dcf847.webp"
-                            },
-                            {
-                                "url": "6885-doppio-amore",
-                                "title": "Doppio amore",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/79800e4e-f7d1-473b-9189-530891497367.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -735,6 +735,11 @@
                                 "url": "117-the-end-of-the-fing-world",
                                 "title": "The End of the F***ing World",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a9ddf0f1-e2b7-48fc-8c58-176ed5bd7fa4.webp"
+                            },
+                            {
+                                "url": "6968-a-murder-at-the-end-of-the-world",
+                                "title": "A Murder at the End of the World",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/55ae5b70-bde7-4117-ad1a-99cf191f04dc.webp"
                             },
                             {
                                 "url": "2277-la-fine-del-mondo",
@@ -920,11 +925,6 @@
                                 "url": "4135-freaks-out",
                                 "title": "Freaks Out",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/e36e2ac1-86fc-4553-87de-3665a796a6bb.webp"
-                            },
-                            {
-                                "url": "4762-unombra-negli-occhi",
-                                "title": "Un'ombra negli occhi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8d39ab26-f596-422b-99f8-3972c73996eb.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6963?episode_id=44312\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6963?episode_id=44312\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-12501152198871714875/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-12501152198871714875/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-12501152198871714875/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-12501152198871714875/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6963?episode_id=44312\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6963?episode_id=44312\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16479439380639382958/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16479439380639382958/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16479439380639382958/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16479439380639382958/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
