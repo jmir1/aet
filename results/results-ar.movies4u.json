@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-in-the-land-of-saints-and-sinners-2023-مترجم",
+                                "title": "   In the Land of Saints and Sinners 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-kane-2023-مترجم",
                                 "title": "   Kane 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/eb1d141d8f21d833069ecf29800d42f1.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-dream-scenario-2023-مدبلج",
                                 "title": "   Dream Scenario 2023 مدبلج",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/b12143a92b4c13dce5a4d5b841632386.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-dr-qin-2023-مترجم",
-                                "title": "   Dr.Qin 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/a109e42995be5bbd58ccab31d07eb5a5.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-kane-2023-مترجم",
-                    "title": "  Kane 2023 ",
-                    "description": "مشاهدة فيلم الجريمة والدراما والاثارة Kane 2023 مترجم بجودة 1080p WEB-DL مشاهدة اون لاين مباشرة وتحميل مباشر يعمل بيني مع زعيم الجريمة في المدرسة القديمة آبي، ويتمتع آبي بشخصيات متعددة ويخوض حرب عصابات مع فرانكي سيئ السمعة. كين هو أكثر شخصيات آبي دموية، الـ 24 ساعة القادمة ستكون قاتلة. اليوم هو يوم جيد للموت.",
+                    "url": "/movie/مشاهدة-فيلم-in-the-land-of-saints-and-sinners-2023-مترجم",
+                    "title": "  In the Land of Saints and Sinners 2023 ",
+                    "description": "",
                     "genre": "دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/m/eb1d141d8f21d833069ecf29800d42f1.jpg",
+                    "thumbnail_url": "https://cdn.egybest.vip/",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-kane-2023-مترجم",
-                        "name": "  Kane 2023 ",
+                        "url": "/movie/مشاهدة-فيلم-in-the-land-of-saints-and-sinners-2023-مترجم",
+                        "name": "  In the Land of Saints and Sinners 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

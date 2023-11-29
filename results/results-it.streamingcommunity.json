@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6977-bad-surgeon-il-caso-paolo-macchiarini",
+                                "title": "Bad Surgeon: il caso Paolo Macchiarini",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/efd00c33-d738-416c-a25f-600508cd7ab7.webp"
+                            },
+                            {
                                 "url": "6963-doctor-who-specials",
                                 "title": "Doctor Who: Specials",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b3d8afe2-b5a0-460c-91f6-499efaf5242e.webp"
@@ -300,11 +305,6 @@
                                 "url": "6753-lesorcista-il-credente",
                                 "title": "L’esorcista - Il credente",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/be967388-5c01-4470-bf1c-debcf6ef250f.webp"
-                            },
-                            {
-                                "url": "6728-beckham",
-                                "title": "Beckham",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a24ba080-dfd8-413a-954f-43c2ed1c1ec5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "6978-scooby-doo-mystery-incorporated",
+                                "title": "Scooby-Doo! Mystery Incorporated",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c66f2558-256b-41ae-b39a-51762aa1e8ee.webp"
+                            },
                             {
                                 "url": "6975-the-librarian-2-ritorno-alle-miniere-di-re-salomone",
                                 "title": "The Librarian 2 - Ritorno alle miniere di Re Salomone",
@@ -610,11 +615,6 @@
                                 "url": "6895-una-storia-damore-e-di-desiderio",
                                 "title": "Una storia d'amore e di desiderio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/e02f4076-3f16-481d-a7b3-f2590a0a3ee2.webp"
-                            },
-                            {
-                                "url": "6894-camp-unestate-indimenticabile",
-                                "title": "Camp – Un’estate indimenticabile",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4763e2ce-5848-44a8-a12a-665226885ece.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,8 +934,8 @@
             },
             "details": {
                 "result": {
-                    "url": "6963-doctor-who-specials",
-                    "description": "Il Dottore è coinvolto in una lotta all'ultimo sangue mentre un'astronave si schianta su Londra. Ma mentre la battaglia porta scompiglio, il destino converge verso la vecchia amica del Dottore, Donna.",
+                    "url": "6977-bad-surgeon-il-caso-paolo-macchiarini",
+                    "description": "Il dottor Paolo Macchiarini è famoso nel mondo per i suoi rivoluzionari trapianti di trachea basati su cellule staminali. C'è solo un problema: i suoi pazienti continuano a morire.",
                     "genre": "Documentario",
                     "status": 1,
                     "status_name": "ONGOING",
@@ -946,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6963?e=44312",
-                        "name": "Stagione 1 episodio 1 - The Star Beast",
-                        "episode_number": 1.0
+                        "url": "6977?e=44501",
+                        "name": "Stagione 1 episodio 3 - Episodio 3",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "6977?e=44499",
+                        "name": "Stagione 1 episodio 2 - Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6977?episode_id=44501\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.care/iframe/6977?episode_id=44501\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17290660568150753469/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17290660568150753469/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17290660568150753469/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17290660568150753469/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
