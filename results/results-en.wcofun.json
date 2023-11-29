@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/rastamouse",
+                                "title": "Rastamouse",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933336.jpg"
+                            },
+                            {
+                                "url": "/anime/rahan-2008",
+                                "title": "Rahan 2008",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933335.jpg"
+                            },
+                            {
+                                "url": "/anime/the-mouse-factory",
+                                "title": "The Mouse Factory",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933334.jpg"
+                            },
+                            {
                                 "url": "/anime/love-flops",
                                 "title": "Love Flops",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933333.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/sesame-street-season-45",
                                 "title": "Sesame Street Season 45",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933321.jpg"
-                            },
-                            {
-                                "url": "/anime/the-nutty-boy",
-                                "title": "The Nutty Boy",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933320.jpg"
-                            },
-                            {
-                                "url": "/anime/sesame-street-season-44",
-                                "title": "Sesame Street Season 44",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933319.jpg"
-                            },
-                            {
-                                "url": "/anime/shirt-tales",
-                                "title": "Shirt Tales",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933318.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/love-flops",
-                    "title": "Love Flops",
-                    "description": "One day before he heads to school, Asahi Kashiwagi watches a fortune telling program on television. Every prediction turns out to be true when he encounters five girls along the way, with each one eventually giving him a love confession. Asahi now has to find a way to deal with this unexpected situation.",
-                    "genre": "Action, Comedy, Ecchi, Harem, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933333.jpg",
+                    "url": "/anime/rastamouse",
+                    "title": "Rastamouse",
+                    "description": "Rastamouse is a British animated stop motion children’s TV series created by Genevieve Webster and Michael De Souza and produced by Three Stones Media/The Rastamouse Company for CBeebies. The show follows crime busting mouse reggae band Da Easy Crew, who split their time between making music and solving mysteries for Da President of Mouseland.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933336.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/love-flops-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoqdRgqWuWYY-Yt8ySR4dkrbkKeaqlFNPW01iiEOBBZ_oU7l9aVnG65S4AC_rV6fPMduRB7v-ptG7-8tsKU_6r3ULpwzIzEOzBWqIMexXQYGGjwY6unLcrdctYOm_lXfPw_nLESRBFs4OeQ9XPL4-zC00UVX_d8ln0NK6cjvcLP9Prye33p58lOF5Zqag-HzU3kFIScVK_YyYjaV9tiJQJUBGolHc9-tNzkfneMf3Q7d15409JSZVUkgtiP8qfV7uniHbwGENOl77q-dHiW23sr8_HyYsLcwPckthB_tey1Px90_mFxex15SAIbP5a6XI2EO8yYXyc2_3WQZ8osWsJXnbyNjLokfT8BquH1bvFPn",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoqdRgqWuWYY-Yt8ySR4dkrbkKeaqlFNPW01iiEOBBZ_oU7l9aVnG65S4AC_rV6fPMduRB7v-ptG7-8tsKU_6r3ULpwzIzEOzBWqIMexXQYGGjwY6unLcrdctYOm_lXfPw_nLESRBFs4OeQ9XPL4-zC00UVX_d8ln0NK6cjvcLP9Prye33p58lOF5Zqag-HzU3kFIScVK_YyYjaV9tiJQJUBGolHc9-tNzkfneMf3Q7d15409JSZVUkgtiP8qfV7uniHbwGENOl77q-dHiW23sr8_HyYsLcwPckthB_tey1Px90_mFxex15SAIbP5a6XI2EO8yYXyc2_3WQZ8osWsJXnbyNjLokfT8BquH1bvFPn"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoqdRgqWuWYY-Yt8ySR4dkrbkKeaqlFNPW01iiEOBBZ_oU7l9aVnG65S4AC_rV6fPMduRB7v-ptG7-8tsKU_6r3ULpwzIzEOzBWqIMexXQYGh8T5TOe1whxOTtv67Ke5KhdRRGozj0s8IdQnUfM77nOfcVECRPF9jHONX7VQGvXxeHUcz4BMWYiBqn-drUnF15x_k6DWUd1Ak_0qS5QObsFt1q57xH5ifNtku5hEGhhqcX0IswEY2nmp-WJ_T0A1Z4NGgv4knWxJO4EFpB07iWXiK5DT0Jlf-LMbBpC5wx89PM0sFktYHRN3Yozcouj4EqQs7OQF5fLpXQrHvFvFJql7FjCYDYwtthhM8SdeIs5F",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoqdRgqWuWYY-Yt8ySR4dkrbkKeaqlFNPW01iiEOBBZ_oU7l9aVnG65S4AC_rV6fPMduRB7v-ptG7-8tsKU_6r3ULpwzIzEOzBWqIMexXQYGh8T5TOe1whxOTtv67Ke5KhdRRGozj0s8IdQnUfM77nOfcVECRPF9jHONX7VQGvXxeHUcz4BMWYiBqn-drUnF15x_k6DWUd1Ak_0qS5QObsFt1q57xH5ifNtku5hEGhhqcX0IswEY2nmp-WJ_T0A1Z4NGgv4knWxJO4EFpB07iWXiK5DT0Jlf-LMbBpC5wx89PM0sFktYHRN3Yozcouj4EqQs7OQF5fLpXQrHvFvFJql7FjCYDYwtthhM8SdeIs5F"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoqdRgqWuWYY-Yt8ySR4dkrbkKeaqlFNPW01iiEOBBZ_oU7l9aVnG65S4AC_rV6fPMduRB7v-ptG7-8tsKU_6r3ULpwzIzEOzBWqIMexXQYGGRX_NOtah-fQRlPn4G15LwZ3aRSXAitJhJNOfRk89knwU-KMQSC1ul1hM9v_NwipQ5z0E34ZA_V7NtuZ2KsLtdjuW26g2Jygp8ukP-cyQhGjStwI2gEBqkygjOvEI5NW6kKJ0_yxNovMLZYvCTmVfVaQHc1N4evu3aEstbj3z_8E7oRIlWg4bjH-kY3L2EaJ_O3dBDNIVlHR53c-KyG9uUNLvowNVmjsIfdD0sEw5cE",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoqdRgqWuWYY-Yt8ySR4dkrbkKeaqlFNPW01iiEOBBZ_oU7l9aVnG65S4AC_rV6fPMduRB7v-ptG7-8tsKU_6r3ULpwzIzEOzBWqIMexXQYGGRX_NOtah-fQRlPn4G15LwZ3aRSXAitJhJNOfRk89knwU-KMQSC1ul1hM9v_NwipQ5z0E34ZA_V7NtuZ2KsLtdjuW26g2Jygp8ukP-cyQhGjStwI2gEBqkygjOvEI5NW6kKJ0_yxNovMLZYvCTmVfVaQHc1N4evu3aEstbj3z_8E7oRIlWg4bjH-kY3L2EaJ_O3dBDNIVlHR53c-KyG9uUNLvowNVmjsIfdD0sEw5cE"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

@@ -3,34 +3,23 @@
         "name": "HDFilme (DE)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilme.fun",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "javax.net.ssl.SSLHandshakeException: Remote host terminated the handshake",
                 "passed": false
             }
         }
