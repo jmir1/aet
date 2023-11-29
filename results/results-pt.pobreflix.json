@@ -464,18 +464,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hugh.cdn.rumble.cloud/video/s8/2/8/R/5/n/8R5no.caa.mp4?u=0&b=0",
-                        "quality": "Dublado - 480p",
-                        "videoUrl": "https://hugh.cdn.rumble.cloud/video/s8/2/8/R/5/n/8R5no.caa.mp4?u=0&b=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://painelfxtv.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
