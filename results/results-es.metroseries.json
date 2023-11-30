@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/pombo/",
+                                "title": "Pombo",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/onmyoji/",
                                 "title": "Onmyoji",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/el-reemplazo-del-chef-chico/",
-                                "title": "El reemplazo del chef Chico",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/cuentos-para-viernes-por-la-noche/",
-                                "title": "Cuentos para viernes por la noche",
+                                "url": "/ruxx/",
+                                "title": "Ruxx",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/criminales/",
-                                "title": "Criminales",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1eIMPJfXSq0dwcSQoiWE0tcnGBD.jpg"
+                                "url": "/la-novia-gitana/",
+                                "title": "La Novia Gitana",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/i5dE5ndiFfGxGVkSdW29jbTdulj.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,10 +134,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/onmyoji/",
-                    "title": "Onmyoji",
-                    "description": "陰陽師 En la opulenta corte imperial, Minamoto Hiromasa se hace amigo del místico Abe Seimei, con el que resuelve casos complicados relacionados con el mundo de los demonios.",
-                    "genre": "Animación, Drama, Misterio, Sci-Fi & Fantasy",
+                    "url": "/pombo/",
+                    "title": "Pombo",
+                    "description": "Una mirada intima a la vida de la creadora de contenido que promete ser un viaje revelador de los secretos más escondidos para los seguidores. \"Pombo\" relatará las etapas finales del embarazo y los primeros días de vida de Vega, su segunda hija con Pablo Castellano, tras su nacimiento.",
+                    "genre": "Documental, Reality",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
@@ -146,16 +146,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/onmyoji-temporada-1-capitulo-13/",
-                        "name": "T01 - E13 - El demonio interior",
-                        "date_upload": 1701129600000,
-                        "episode_number": 13.0
+                        "url": "/episode/pombo-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - Todo lo que nos une",
+                        "date_upload": 1701216000000,
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/episode/onmyoji-temporada-1-capitulo-12/",
-                        "name": "T01 - E12 - La ceremonia del señor Taizan",
-                        "date_upload": 1701129600000,
-                        "episode_number": 12.0
+                        "url": "/episode/pombo-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Un parón inesperado",
+                        "date_upload": 1701216000000,
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true

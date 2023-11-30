@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/leo-the-wildlife-ranger",
+                                "title": "Leo the Wildlife Ranger",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933337.jpg"
+                            },
+                            {
                                 "url": "/anime/rastamouse",
                                 "title": "Rastamouse",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933336.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/jungle-agent",
                                 "title": "Jungle Agent",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933322.jpg"
-                            },
-                            {
-                                "url": "/anime/sesame-street-season-45",
-                                "title": "Sesame Street Season 45",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933321.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/rastamouse",
-                    "title": "Rastamouse",
-                    "description": "Rastamouse is a British animated stop motion children’s TV series created by Genevieve Webster and Michael De Souza and produced by Three Stones Media/The Rastamouse Company for CBeebies. The show follows crime busting mouse reggae band Da Easy Crew, who split their time between making music and solving mysteries for Da President of Mouseland.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933336.jpg",
+                    "url": "/anime/leo-the-wildlife-ranger",
+                    "title": "Leo the Wildlife Ranger",
+                    "description": "Join Leo and friends as they go on exciting adventures around the world and explore exotic locations and learn fun facts about animals and nature!",
+                    "genre": "Adventure, Animation, Kids, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933337.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/leo-the-wildlife-ranger-episode-30-clouded-leopard",
+                        "name": "Season 1 - Episode 30",
+                        "episode_number": 130.0
+                    },
+                    {
+                        "url": "/leo-the-wildlife-ranger-episode-29-marvellous-spatuletail",
+                        "name": "Season 1 - Episode 29",
+                        "episode_number": 129.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmCizHQ0hJDFNRbgNuUIdSKzzcKyKkLCemS2j76dPCKT1LgeI1tgtnpBynZ94mYnvXuMrHXJsz3EYV4NGfyNLOgcR9QQi4wzoq28mpu1jehYcvbbM2XGuyA4R-R2rn8OjTGcKECveCuYIA8_QEOllMRLbP_xolnqvAlQYH9IgEFuMJKy_R1aoCpSlCQoOgDTC5iYhXr-ozFEmd8JyXCGXwAoNiEmOd2bLmx5-QXsqqI8MWfZd8tk1n5uLDuZNe8GgV_hfgAs0l_OMnBV6_iCknLt9u2p-Gi1DtteLJp3pkjPuAEyN3X23Fx62qHFoNMEUw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmCizHQ0hJDFNRbgNuUIdSKzzcKyKkLCemS2j76dPCKT1LgeI1tgtnpBynZ94mYnvXuMrHXJsz3EYV4NGfyNLOgcR9QQi4wzoq28mpu1jehYcvbbM2XGuyA4R-R2rn8OjTGcKECveCuYIA8_QEOllMRLbP_xolnqvAlQYH9IgEFuMJKy_R1aoCpSlCQoOgDTC5iYhXr-ozFEmd8JyXCGXwAoNiEmOd2bLmx5-QXsqqI8MWfZd8tk1n5uLDuZNe8GgV_hfgAs0l_OMnBV6_iCknLt9u2p-Gi1DtteLJp3pkjPuAEyN3X23Fx62qHFoNMEUw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmCizHQ0hJDFNRbgNuUIdSKzzcKyKkLCemS2j76dPCKT1LgeI1tgtnpBynZ94mYnvUcjRJRRTAlxxZYcPjOD5VL0OTsG2ubCETRpyyeZpPVBZCkSl__P1x3jJD_FbAhbnoW64U9SzU27ELVLgzEI4bktxfs2Sfjtq7yMYVLCy0X0iznMfsK1t2flBy23V1y81_cLPBOMm2zJDvr_QlElFBMvRikj9ajDEeiSGVtFZFKt5bVDCURJpVIWUKbgs9r80EI53QktOn6QXFbN_s-HIGXRqJTffDR9qmY63XPIK0d5NKsavhCWPih_ksi880Iisg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmCizHQ0hJDFNRbgNuUIdSKzzcKyKkLCemS2j76dPCKT1LgeI1tgtnpBynZ94mYnvUcjRJRRTAlxxZYcPjOD5VL0OTsG2ubCETRpyyeZpPVBZCkSl__P1x3jJD_FbAhbnoW64U9SzU27ELVLgzEI4bktxfs2Sfjtq7yMYVLCy0X0iznMfsK1t2flBy23V1y81_cLPBOMm2zJDvr_QlElFBMvRikj9ajDEeiSGVtFZFKt5bVDCURJpVIWUKbgs9r80EI53QktOn6QXFbN_s-HIGXRqJTffDR9qmY63XPIK0d5NKsavhCWPih_ksi880Iisg"
+                    }
+                ],
+                "passed": true
             }
         }
     }
