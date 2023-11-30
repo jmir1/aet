@@ -267,6 +267,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Ganbare-Genki/",
+                                "title": "Genki The Boy Champ",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/03/Genki-The-Boy-Champ.jpg"
+                            },
+                            {
+                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2-Dub/",
+                                "title": "Heaven Official's Blessing Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-eminence-in-shadow-season-2-dub.47070/",
+                                "title": "The Eminence in Shadow Season 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Eminence-in-Shadow-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/KamiErabi-GODapp/",
+                                "title": "KamiErabi GOD.app",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
+                            },
+                            {
+                                "url": "/Anime/16bit-Sensation-Another-Layer/",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/16bit-Sensation-Another-Layer.jpg"
+                            },
+                            {
+                                "url": "/Anime/Kizuna-no-Allele-2nd-Season/",
+                                "title": "Kizuna no Allele 2nd Season",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Kizuna-no-Allele-2nd-Season.jpg"
+                            },
+                            {
+                                "url": "/Anime/Uma-Musume-Pretty-Derby-Season-3/",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/Onmyoji-Dub/",
+                                "title": "Onmyoji (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Onmyouji-Dub.jpg"
+                            },
+                            {
                                 "url": "/Anime/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness/",
                                 "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness.jpg"
@@ -475,46 +515,6 @@
                                 "url": "/Anime/Soaring-Sky-Pretty-Cure/",
                                 "title": "Soaring Sky! Pretty Cure",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
-                            },
-                            {
-                                "url": "/Anime/Protocol-Rain/",
-                                "title": "Protocol: Rain",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Protocol-Rain.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
-                            },
-                            {
-                                "url": "/Anime/butareba-the-story-of-a-man-turned-into-a-pig.18382/",
-                                "title": "Butareba -The Story of a Man Turned into a Pig-",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Butareba-The-Story-of-a-Man-Turned-into-a-Pig.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Returner-s-Magic-Should-Be-Special/",
-                                "title": "A Returner's Magic Should Be Special",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/A-Returner-s-Magic-Should-Be-Special.jpg"
-                            },
-                            {
-                                "url": "/Anime/Tearmoon-Empire/",
-                                "title": "Tearmoon Empire",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Tearmoon-Empire.jpg"
-                            },
-                            {
-                                "url": "/Anime/My-New-Boss-is-Goofy/",
-                                "title": "My New Boss is Goofy",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/My-New-Boss-is-Goofy.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Faraway-Paladin-The-Lord-of-Rust-Mountains/",
-                                "title": "The Faraway Paladin: The Lord of Rust Mountains",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Faraway-Paladin-The-Lord-of-Rust-Mountains.jpg"
-                            },
-                            {
-                                "url": "/Anime/the-vexations-of-a-shut-in-vampire-princess.79999/",
-                                "title": "The Vexations of a Shut-In Vampire Princess",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Vexations-of-a-Shut-In-Vampire-Princess.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/drama-detail/sweet-home-season-2",
+                                "title": "Sweet Home Season 2 (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/sweet-home-season-2-1701315283.png"
+                            },
+                            {
                                 "url": "/drama-detail/tell-me-you-love-me",
                                 "title": "Tell Me That You Love Me (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/tell-me-you-love-me-1698640655.png"
@@ -180,11 +185,6 @@
                                 "url": "/drama-detail/the-police-station-next-to-fire-station-season-2",
                                 "title": "The First Responders Season 2 (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/the-police-station-next-to-fire-station-season-2-1690871883.png"
-                            },
-                            {
-                                "url": "/drama-detail/moving-2021",
-                                "title": "Moving (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/moving-2021-1689145846.png"
                             }
                         ],
                         "hasNextPage": true
@@ -196,6 +196,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/sparks-2023-episode-20.html",
+                                "title": "Sparks (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/sparks-1698207216.png"
+                            },
+                            {
+                                "url": "/dramatic-self-help-strategy-2023-episode-6.html",
+                                "title": "Dramatic Self-Help Strategy (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/dramatic-self-help-strategy-1696578553.png"
+                            },
+                            {
+                                "url": "/fei-chai-xiao-wu-zuo-2023-episode-18.html",
+                                "title": "Fei Chai Xiao Wu Zuo (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/fei-chai-xiao-wu-zuo-1697096641.png"
+                            },
+                            {
+                                "url": "/gifted-season-2-2023-episode-7.html",
+                                "title": "Gifted Season 2 (2023)",
+                                "thumbnail_url": "https://imagecdn.me/cover/gifted-season-2-2023-1698121378.png"
+                            },
                             {
                                 "url": "/7-days-before-valentine-2023-episode-2.html",
                                 "title": "7 Days Before Valentine (2023)",
@@ -355,26 +375,6 @@
                                 "url": "/the-matchmakers-2023-episode-9.html",
                                 "title": "The Matchmakers (2023)",
                                 "thumbnail_url": "https://imagecdn.me/cover/the-battle-of-marriage-1697510435.png"
-                            },
-                            {
-                                "url": "/country-princess-2003-episode-17.html",
-                                "title": "Country Princess (2003)",
-                                "thumbnail_url": "https://imagecdn.me/cover/country-princess-2003-1701178338.png"
-                            },
-                            {
-                                "url": "/bubble-up-2022-episode-10.html",
-                                "title": "Bubble Up (2022)",
-                                "thumbnail_url": "https://imagecdn.me/cover/bubble-up-2022-1701178075.png"
-                            },
-                            {
-                                "url": "/paripi-komei-2023-episode-6.html",
-                                "title": "Paripi Komei (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/paripi-komei-1695716946.png"
-                            },
-                            {
-                                "url": "/uchi-no-bengoshi-wa-te-ga-kakaru-2023-episode-7.html",
-                                "title": "Uchi no Bengoshi wa Te ga Kakaru (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/uchi-no-bengoshi-wa-te-ga-kakaru-1697097068.png"
                             }
                         ],
                         "hasNextPage": true
@@ -494,84 +494,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/drama-detail/tell-me-you-love-me",
-                    "title": "Tell Me That You Love Me (2023)",
-                    "author": "Disney Plus",
-                    "description": "Cha Jin Woo has a hearing impairment. He is not comfortable speaking due to his disability. Cha Jin Woo is used to expressing his feelings through drawings instead of speaking. He happens to meet Jung Mo Eun. She is an aspiring actress and expresses her feelings through words. Cha Jin Woo and Jung Mo Eun fall in love with each other.\n(Source: AsianWiki)",
-                    "genre": "Childhood, Cold Man, Drama, life, melodrama, Romance",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://imagecdn.me/cover/tell-me-you-love-me-1698640655.png",
+                    "url": "/drama-detail/sweet-home-season-2",
+                    "title": "Sweet Home Season 2 (2023)",
+                    "author": "Netflix",
+                    "description": "Residents of Green Home Apartments, including Cha Hyun Soo, fight against monsters to leave their base and venture out into the world. At a baseball stadium, survivors from all over begin to live together. They are threatened by the monsters outside and also by the monstrous desires of the people among them.\n(Source: AsianWiki)\nAdapted from a webtoon “Sweet Home” (스위트홈) by Kim Carnby (김칸비) and Hwang Young Chan (황영찬).",
+                    "genre": "Action, Drama, Horror, Monster, Sci-fi",
+                    "thumbnail_url": "https://imagecdn.me/cover/sweet-home-season-2-1701315283.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/tell-me-that-you-love-me-2023-episode-2.html",
-                        "name": "SUB: Episode 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/tell-me-that-you-love-me-2023-episode-1.html",
-                        "name": "SUB: Episode 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://r7nim14weg.sw-cdnstream.com/hls2/01/02389/tacgj60k8jeg_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PRp501wPJ3bkTFPzD_iL7ALlBkLIinIxUjp5bLAJF1M&s=1701304299&e=129600&f=11945116&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8075",
-                        "quality": "StreamWish - 1080p",
-                        "videoUrl": "https://r7nim14weg.sw-cdnstream.com/hls2/01/02389/tacgj60k8jeg_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=PRp501wPJ3bkTFPzD_iL7ALlBkLIinIxUjp5bLAJF1M&s=1701304299&e=129600&f=11945116&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/tacgj60k8jeg?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://r7nim14weg.sw-cdnstream.com/hls2/01/02389/tacgj60k8jeg_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PRp501wPJ3bkTFPzD_iL7ALlBkLIinIxUjp5bLAJF1M&s=1701304299&e=129600&f=11945116&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8075",
-                        "quality": "StreamWish - 720p",
-                        "videoUrl": "https://r7nim14weg.sw-cdnstream.com/hls2/01/02389/tacgj60k8jeg_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=PRp501wPJ3bkTFPzD_iL7ALlBkLIinIxUjp5bLAJF1M&s=1701304299&e=129600&f=11945116&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/tacgj60k8jeg?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://r7nim14weg.sw-cdnstream.com/hls2/01/02389/tacgj60k8jeg_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PRp501wPJ3bkTFPzD_iL7ALlBkLIinIxUjp5bLAJF1M&s=1701304299&e=129600&f=11945116&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8075",
-                        "quality": "StreamWish - 480p",
-                        "videoUrl": "https://r7nim14weg.sw-cdnstream.com/hls2/01/02389/tacgj60k8jeg_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=PRp501wPJ3bkTFPzD_iL7ALlBkLIinIxUjp5bLAJF1M&s=1701304299&e=129600&f=11945116&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://dwish.pro",
-                            "Referer": "https://dwish.pro/e/tacgj60k8jeg?caption_1=https://sub.draplay2.pro&sub_1=English"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=zwLa2DxpY6sYM2x&expires=1701374301&ip=GHEsDRqAKxSHDN&token=oRKm8UasUPT2",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=zwLa2DxpY6sYM2x&expires=1701374301&ip=GHEsDRqAKxSHDN&token=oRKm8UasUPT2"
-                    },
-                    {
-                        "url": "https://ds2play.com/e/4qn9amo137y5?c1_file=https://sub.draplay2.pro&c1_label=English",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://ki871cx.video-delivery.net/u5kj67tdyle3sdgge4oqkia6i47clr34mccuzr57txgdmhaz4jkf3dep2cda/r7ggi0nixm~5LHEAzG3no?token=dt7113d1w97gmp4976gnocwj&expiry=1701304300780",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://ds2play.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
