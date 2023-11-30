@@ -3,25 +3,86 @@
         "name": "Tokuzilla (EN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/watch/kamen-rider-geats-4-aces-and-the-black-fox.html",
+                                "title": "Kamen Rider Geats: 4 Aces and the Black Fox",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-geats-4-aces-and-the-black-fox-thumb.png"
+                            },
+                            {
+                                "url": "/watch/ninja-captor.html",
+                                "title": "Ninja Captor",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninja-captor-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kiva-adventure-battle-dvd-you-can-also-be-kiva.html",
+                                "title": "Kamen Rider Kiva: Adventure Battle DVD ~You Can Also be Kiva~",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-adventure-battle-dvd-you-can-also-be-kiva-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard-vs-kamen-rider-legend.html",
+                                "title": "Kamen Rider Gotchard VS Kamen Rider Legend",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-vs-kamen-rider-legend-thumb.png"
+                            },
+                            {
+                                "url": "/watch/ohsama-sentai-king-ohger.html",
+                                "title": "Ohsama Sentai King-Ohger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kabuto-hyper-battle.html",
+                                "title": "Kamen Rider Kabuto Hyper Battle Video",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kabuto-hyper-battle-thumb.png"
+                            },
+                            {
+                                "url": "/watch/captain-ultra.html",
+                                "title": "Captain Ultra",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/captain-ultra-thumb.png"
+                            },
+                            {
+                                "url": "/watch/omoikkiri-tanteidan-hadogumi.html",
+                                "title": "Omoikkiri Tanteidan Hadogumi",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/omoikkiri-tanteidan-hadogumi-thumb.png"
+                            },
+                            {
+                                "url": "/watch/monarch-legacy-of-monsters.html",
+                                "title": "Monarch: Legacy of Monsters",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/monarch-legacy-of-monsters-thumb.png"
+                            },
+                            {
+                                "url": "/watch/morimori-bokkun.html",
+                                "title": "Morimori Bokkun",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/morimori-bokkun-thumb.png"
+                            },
+                            {
+                                "url": "/watch/katteni-kamitaman.html",
+                                "title": "Katteni! Kamitaman",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/katteni-kamitaman-thumb.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
