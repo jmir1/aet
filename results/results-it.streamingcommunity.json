@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "6980-fringe-la-serie-completa",
+                                "title": "Fringe: La serie completa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ab872221-0cfe-41e4-98ab-7e12a3b8707d.webp"
+                            },
+                            {
                                 "url": "6978-scooby-doo-mystery-incorporated",
                                 "title": "Scooby-Doo! Mystery Incorporated",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c66f2558-256b-41ae-b39a-51762aa1e8ee.webp"
@@ -610,11 +615,6 @@
                                 "url": "6897-brado",
                                 "title": "Brado",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3c47a6fc-6eac-4af6-b109-08cc9a42e4e4.webp"
-                            },
-                            {
-                                "url": "6896-blanco-bruciasse-il-cielo",
-                                "title": "Blanco - Bruciasse il cielo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5122384c-ea1d-41bd-8e25-48c4d9154955.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6977?episode_id=44501\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6977?episode_id=44501\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-1284533713277635396/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-1284533713277635396/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-1284533713277635396/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-1284533713277635396/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6977?episode_id=44501\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6977?episode_id=44501\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-5315436515004633185/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-5315436515004633185/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-5315436515004633185/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-5315436515004633185/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
