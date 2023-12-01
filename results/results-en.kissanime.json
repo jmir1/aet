@@ -267,6 +267,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/goblin-slayer-ii.62400/",
+                                "title": "GOBLIN SLAYER II",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/GOBLIN-SLAYER-II.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-rising-of-the-shield-hero-season-3.69162/",
+                                "title": "The Rising of the Shield Hero Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Rising-of-the-Shield-Hero-Season-3.jpg"
+                            },
+                            {
                                 "url": "/Anime/Ninjala/",
                                 "title": "Ninjala",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/01/Ninjala.jpg"
@@ -505,16 +515,6 @@
                                 "url": "/Anime/Migi-amp-Dali/",
                                 "title": "Migi&Dali",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Migi-amp-Dali.jpg"
-                            },
-                            {
-                                "url": "/Anime/Stardust-Telepath/",
-                                "title": "Stardust Telepath",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Stardust-Telepath.jpg"
-                            },
-                            {
-                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
