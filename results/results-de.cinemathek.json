@@ -486,7 +486,7 @@
                 "result": {
                     "url": "/filme/versus-the-final-knockout/",
                     "title": "Versus – The Final Knockout",
-                    "description": "Der junge Martial-Arts-Kämpfer Victor Stroev, der in der Szene unter dem Namen Russian Hammer bekannt ist, möchte seine Karriere mit dem Titel des Weltmeisters krönen. Doch ein schwerer Autounfall zerstört die kühnen Pläne. Sein Widersacher Shark, der es außerdem auf Victors Freundin Vera abgesehen hat, fordert ihn zu einem Kampf auf. Shark möchte Victor endgültig vernichten. Aber er ist ein ehrgeiziger Kämpfer und wird alles geben, um sein Land und die Frau seines Lebens stolz zu machen.\n",
+                    "description": "Der junge Martial-Arts-Kämpfer Victor Stroev, der in der Szene unter dem Namen Russian Hammer bekannt ist, möchte seine Karriere mit dem Titel des Weltmeisters krönen. Doch ein schwerer Autounfall zerstört die kühnen Pläne. Sein Widersacher Shark, der es außerdem auf Victors Freundin Vera abgesehen hat, fordert ihn zu einem Kampf auf. Shark möchte Victor endgültig vernichten. Aber er ist ein ehrgeiziger Kämpfer und wird alles geben, um sein Land und die Frau seines Lebens stolz zu machen.\n\nOriginaltitel: Молот",
                     "genre": "Action, Drama",
                     "thumbnail_url": "https://cinemathek.net/wp-content/uploads/2023/11/xulSx6Boj5c24mPkYRrU93x7dnq-200x300.jpg",
                     "initialized": true
@@ -504,8 +504,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=dg2Kbd6rOofkOye&expires=1701460895&ip=FROsD0AAKxSHDN&token=sAh7AJ_XIvPl",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=dg2Kbd6rOofkOye&expires=1701460895&ip=FROsD0AAKxSHDN&token=sAh7AJ_XIvPl"
+                    },
+                    {
+                        "url": "https://7f12638xuz.sw-cdnstream.com/hls2/01/01824/ozb7u93ei45t_x/index-v1-a1.m3u8?t=cXgHsyxbAJQT9mWlldqJoNqlgYaGXgIkevpe_DUjYn8&s=1701390896&e=129600&f=9122704&srv=pyradpcbsdns&i=0.0&sp=500&p1=pyradpcbsdns&p2=pyradpcbsdns&asn=8075",
+                        "quality": "StreamWish - 808p",
+                        "videoUrl": "https://7f12638xuz.sw-cdnstream.com/hls2/01/01824/ozb7u93ei45t_x/index-v1-a1.m3u8?t=cXgHsyxbAJQT9mWlldqJoNqlgYaGXgIkevpe_DUjYn8&s=1701390896&e=129600&f=9122704&srv=pyradpcbsdns&i=0.0&sp=500&p1=pyradpcbsdns&p2=pyradpcbsdns&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.com",
+                            "Referer": "https://streamwish.com/e/ozb7u93ei45t"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
