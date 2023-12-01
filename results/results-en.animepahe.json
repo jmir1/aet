@@ -248,24 +248,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/1bdcd0e2801a164c0d05eea34018c644f41062de57392b6b28f34dd966f68a03?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_22_1080p_SubsPlease.mp4&token=Dq4nKgQjzmDnYNjTqos3xQ&expires=1701425377",
-                        "quality": "SubsPlease · 1080p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/1bdcd0e2801a164c0d05eea34018c644f41062de57392b6b28f34dd966f68a03?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_22_1080p_SubsPlease.mp4&token=Dq4nKgQjzmDnYNjTqos3xQ&expires=1701425377"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/40c8c26c1cc18ce4456bf7bc37287a0ef1aa4a8f8334709023bf9fe7780e434b?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_22_720p_SubsPlease.mp4&token=g5zzgerJILA2Om6J7htgxg&expires=1701425376",
-                        "quality": "SubsPlease · 720p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/40c8c26c1cc18ce4456bf7bc37287a0ef1aa4a8f8334709023bf9fe7780e434b?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_22_720p_SubsPlease.mp4&token=g5zzgerJILA2Om6J7htgxg&expires=1701425376"
-                    },
-                    {
-                        "url": "https://na-99.files.nextcdn.org/get/99/01/7baca41721c9b2f6def18f42b6d9fdeac03668b1853cc5d850e8e239443bb554?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_22_360p_SubsPlease.mp4&token=3PUutEYG2fBoc4xYiYMg-w&expires=1701425375",
-                        "quality": "SubsPlease · 360p",
-                        "videoUrl": "https://na-99.files.nextcdn.org/get/99/01/7baca41721c9b2f6def18f42b6d9fdeac03668b1853cc5d850e8e239443bb554?file=AnimePahe_Rurouni_Kenshin_-_Meiji_Kenkaku_Romantan_2023_-_22_360p_SubsPlease.mp4&token=3PUutEYG2fBoc4xYiYMg-w&expires=1701425375"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Failed to extract the stream uri from kwik.",
+                "passed": false
             }
         }
     }
