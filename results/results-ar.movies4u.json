@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-it-s-a-wonderful-knife-2023-مترجم",
+                                "title": "   It’s a Wonderful Knife 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-ghost-babe-2023-مترجم",
+                                "title": "   Ghost Babe 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/m/41b1ceb9aeac20eb056b76d8c1915bd9.jpg"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-the-hoot-owl-2022-مترجم",
+                                "title": "   The Hoot Owl 2022 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-bad-cgi-gator-2023-مترجم",
+                                "title": "   Bad CGI Gator 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-dark-paradise-2023-مترجم",
                                 "title": "   Dark Paradise 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/048b8a3b882d18aab4dbe301753b7dd5.jpg"
@@ -165,26 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-bhagavanth-kesari-2023-مترجم",
                                 "title": "   Bhagavanth Kesari 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/44e6fd0dd6dd8cf263e5940d50724d01.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-last-call-for-istanbul-2023-مدبلج",
-                                "title": "   Last Call for Istanbul 2023 مدبلج",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/6d899901d6c40191a6ecbafe814e556e.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-super-daddy-مترجم",
-                                "title": "   Super Daddy ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/0f8695260d5eb9e7dbcf0310991c40e9.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-لف-وارجع-تاني-2023",
-                                "title": "   لف وارجع تاني 2023",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/2125ae34fb128dd8f8cf338cc13910e6.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-the-killer-2023-مدبلج",
-                                "title": "   The Killer 2023 مدبلج",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/b093017ef127f200ce0c88a158f84d20.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-dark-paradise-2023-مترجم",
-                    "title": "  Dark Paradise 2023 ",
-                    "description": "مشاهدة فيلم الدراما والكوميديا Dark Paradise 2023 مترجم بجودة 1080p WEB-DL مشاهدة اون لاين مباشرة وتحميل مباشر بعد وفاة والد كارمن البالغة من العمر 27 عامًا، تبدأ الهياكل الأمنية لحياتها السابقة في الانهيار، كما تتدهور أيضًا علاقتها بأخيها غير الشقيق فيكتور، وتواجه ظلام الكون وفراغه.",
-                    "genre": "كوميديا",
+                    "url": "/movie/مشاهدة-فيلم-it-s-a-wonderful-knife-2023-مترجم",
+                    "title": "  It’s a Wonderful Knife 2023 ",
+                    "description": "",
+                    "genre": "دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/m/048b8a3b882d18aab4dbe301753b7dd5.jpg",
+                    "thumbnail_url": "https://cdn.egybest.vip/",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-dark-paradise-2023-مترجم",
-                        "name": "  Dark Paradise 2023 ",
+                        "url": "/movie/مشاهدة-فيلم-it-s-a-wonderful-knife-2023-مترجم",
+                        "name": "  It’s a Wonderful Knife 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
