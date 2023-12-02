@@ -67,6 +67,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/undead-unluck-episodio-9/",
+                                "title": "Undead Unluck – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/1UFrVRt8POVlnYPOPkQRuLuXkiU.jpg"
+                            },
+                            {
+                                "url": "/episodio/rail-romanesque-2-episodio-2/",
+                                "title": "Rail Romanesque 2 – Episódio 2",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/j0U0STQjzWECDl4KYB5eCi7X6o2.jpg"
+                            },
+                            {
+                                "url": "/episodio/rail-romanesque-2-episodio-1/",
+                                "title": "Rail Romanesque 2 – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/gsJisUFkIGelhHXeRmhUSjz2v4e.jpg"
+                            },
+                            {
+                                "url": "/episodio/kanojo-mo-kanojo-2-episodio-9/",
+                                "title": "Kanojo mo Kanojo 2 – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/3XoiAakOBbSY7IXCGxXfNnsuJw7.jpg"
+                            },
+                            {
+                                "url": "/episodio/hametsu-no-oukoku-episodio-9/",
+                                "title": "Hametsu no Oukoku – Episódio 9",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/2yF7i9j0ZzTyTvfWn4PecWs3kfc.jpg"
+                            },
+                            {
                                 "url": "/episodio/sousou-no-frieren-episodio-13/",
                                 "title": "Sousou no Frieren – Episódio 13",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/vbGdQvJVn9jE9U1ByPzmFta1Hwh.jpg"
@@ -190,31 +215,6 @@
                                 "url": "/episodio/kagejitsu-episodio-17/",
                                 "title": "Kagejitsu! – Episódio 17",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/evh6Fwl2oYBsYGIHPqkdaiiJv9w.jpg"
-                            },
-                            {
-                                "url": "/episodio/onmyoji-dublado-episodio-13/",
-                                "title": "Onmyoji Dublado – Episódio 13",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/1bRuPrTIA1MJXK2sstjpkKl84lk.jpg"
-                            },
-                            {
-                                "url": "/episodio/onmyoji-dublado-episodio-1/",
-                                "title": "Onmyoji Dublado – Episódio 1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/17Dry9l467CuaMtGiFoA7KXfQwz.jpg"
-                            },
-                            {
-                                "url": "/episodio/helck-episodio-21/",
-                                "title": "Helck – Episódio 21",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/ytrBNnKLc2RppqRiSzFEu8UdPBs.jpg"
-                            },
-                            {
-                                "url": "/episodio/seijo-no-maryoku-wa-bannou-desu-2-episodio-9/",
-                                "title": "Seijo no Maryoku wa Bannou desu 2 – Episódio 9",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/6aoPh9lGyESxPdZuChibHudYFzH.jpg"
-                            },
-                            {
-                                "url": "/episodio/onmyoji-episodio-13/",
-                                "title": "Onmyoji – Episódio 13",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/o7ZtJQNLkzTIrwSYo9GKlmAZJUh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -344,8 +344,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery30.mxdcontent.net/v/f292fe1aae776acb780f482f9fdfe2d1.mp4?s=lHJq8vaizrEUisNh-5fSDg&e=1701498624&_t=1701478809",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery30.mxdcontent.net/v/f292fe1aae776acb780f482f9fdfe2d1.mp4?s=lHJq8vaizrEUisNh-5fSDg&e=1701498624&_t=1701478809",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=wVdXbpWBOeuJb4D&expires=1701547022&ip=G0WsD0MQKxSHDN&token=0-FodcrHbkhE",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wVdXbpWBOeuJb4D&expires=1701547022&ip=G0WsD0MQKxSHDN&token=0-FodcrHbkhE"
+                    }
+                ],
+                "passed": true
             }
         }
     }

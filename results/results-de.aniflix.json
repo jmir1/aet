@@ -3,7 +3,7 @@
         "name": "Aniflix (DE)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Cannot find object to call __adopt__: browser-context@aced11dedb03d32be5331d1be3bca170",
                 "passed": false
             },
             "latest": {

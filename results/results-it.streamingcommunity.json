@@ -9,12 +9,12 @@
                             {
                                 "url": "6987-family-switch",
                                 "title": "Family Switch",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1b77a868-1698-4e01-b90e-142b849dcf63.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/187ab6e2-dbc6-424a-99b5-bb6cc25be7e6.webp"
                             },
                             {
                                 "url": "6986-troppo-cattivi-un-natale-troppo-cattivo",
                                 "title": "Troppo cattivi - Un Natale troppo cattivo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c7dbe143-8f4a-4281-8c4d-0f42ef8b618c.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ae265808-896d-474a-8d65-a277aed0881e.webp"
                             },
                             {
                                 "url": "6981-obliterated-una-notte-da-panico",
@@ -75,11 +75,6 @@
                                 "url": "6898-squid-game-la-sfida",
                                 "title": "Squid Game: La sfida",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9adcd12c-7084-4bbc-b3f6-ccf08bd20d77.webp"
-                            },
-                            {
-                                "url": "6818-wish",
-                                "title": "Wish",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b49ad63e-56f2-4477-a6e2-fc714b6696cc.webp"
                             },
                             {
                                 "url": "6901-fallimento",
@@ -305,6 +300,11 @@
                                 "url": "6741-invito-a-un-assassinio",
                                 "title": "Invito a un assassinio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b3575390-0f74-4fdf-bdcb-6b0939274fbe.webp"
+                            },
+                            {
+                                "url": "6797-sorella-morte",
+                                "title": "Sorella Morte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fb8d16a3-a071-4e08-aaef-5eccda143479.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-9818911337405443329/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-9818911337405443329/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-9818911337405443329/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-9818911337405443329/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
