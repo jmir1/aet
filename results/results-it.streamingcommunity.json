@@ -317,6 +317,21 @@
                     {
                         "animes": [
                             {
+                                "url": "6992-dangerous-game-the-legacy-murders",
+                                "title": "Dangerous Game: The Legacy Murders",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b9c9bf87-a4df-42b3-b567-df95d5a44908.webp"
+                            },
+                            {
+                                "url": "6991-come-una-moglie",
+                                "title": "Come una moglie",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6e1aa301-c243-4d4b-bbb6-780ffe07a066.webp"
+                            },
+                            {
+                                "url": "6988-kids-vs-aliens",
+                                "title": "Kids vs. Aliens",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/88e4b99e-7585-438c-9336-642909196f8a.webp"
+                            },
+                            {
                                 "url": "6985-se-mi-lasci-ti-cancello",
                                 "title": "Se mi lasci ti cancello",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d7c07a25-1aa4-4d94-a1b8-34b4d1440189.webp"
@@ -600,21 +615,6 @@
                                 "url": "6906-see-you-on-venus-ci-vediamo-su-venere",
                                 "title": "See You on Venus - Ci vediamo su Venere",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/88813667-8ae1-4011-996a-e2ebca81f5bb.webp"
-                            },
-                            {
-                                "url": "6905-leo",
-                                "title": "Leo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4d306daf-d2b8-4227-853d-6073865aa3c7.webp"
-                            },
-                            {
-                                "url": "6902-ugly-betty",
-                                "title": "Ugly Betty",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5d75b8ea-b764-4399-b303-e0ef9192003c.webp"
-                            },
-                            {
-                                "url": "6900-river-wild",
-                                "title": "River Wild",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/47cc8237-57e3-42a8-9a91-ed31843be68f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-6508427365184902372/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-6508427365184902372/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-6508427365184902372/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-6508427365184902372/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
