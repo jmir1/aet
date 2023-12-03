@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/مرحبًا-بكم-في-سامدالري/",
+                                "title": "مرحبًا بكم في سامدالري Welcome to Samdalri"
+                            },
+                            {
                                 "url": "/كوريا-الجنوبية/",
                                 "title": "كوريا الجنوبية My Man Is Cupid"
                             },
@@ -55,20 +59,20 @@
                                 "title": "احرقي ذلك المنزل Burn the House Down"
                             },
                             {
-                                "url": "/حب-بلا-وجه/",
-                                "title": "حب بلا وجه Faceless Love"
-                            },
-                            {
                                 "url": "/ڤيڤانت/",
                                 "title": "ڤيڤانت Vivant"
                             },
                             {
-                                "url": "/التفت-إليّ-يا-موكاي-كون/",
-                                "title": "التفت إليّ يا موكاي كون Mirame Mukai-kun"
+                                "url": "/حب-بلا-وجه/",
+                                "title": "حب بلا وجه Faceless Love"
                             },
                             {
                                 "url": "/حرب-غوريو-وخيتان/",
                                 "title": "حرب غوريو وخيتان Goryeo-Khitan War"
+                            },
+                            {
+                                "url": "/التفت-إليّ-يا-موكاي-كون/",
+                                "title": "التفت إليّ يا موكاي كون Mirame Mukai-kun"
                             },
                             {
                                 "url": "/و-تستمر-الحياة/",
@@ -123,12 +127,12 @@
                                 "title": "فتاة القناع Mask Girl"
                             },
                             {
-                                "url": "/أسوأ-شر/",
-                                "title": "أسوأ شر The Worst Evil"
-                            },
-                            {
                                 "url": "/مشروع-الزواج/",
                                 "title": "مشروع الزواج Operation Proposal"
+                            },
+                            {
+                                "url": "/أسوأ-شر/",
+                                "title": "أسوأ شر The Worst Evil"
                             },
                             {
                                 "url": "/خطة-الشيطان/",
@@ -159,10 +163,6 @@
                                 "title": "متجر الأيدول Boss-dol Mart"
                             },
                             {
-                                "url": "/يوم-الاختطاف/",
-                                "title": "يوم الاختطاف The Day"
-                            },
-                            {
                                 "url": "/يوميات-أرثدال-سيف-أرامون-arthdal-chronicles-the-sword-of-aramun/",
                                 "title": "يوميات أرثدال: سيف أرامون Arthdal Chronicles: The Sword Of Aramun"
                             },
@@ -171,8 +171,8 @@
                                 "title": "شرطة نهر الهان Han River Police"
                             },
                             {
-                                "url": "/قطة-وهمية/",
-                                "title": "قطة وهمية Imaginary Cat"
+                                "url": "/يوم-الاختطاف/",
+                                "title": "يوم الاختطاف The Day"
                             }
                         ],
                         "hasNextPage": true
@@ -276,22 +276,82 @@
             },
             "details": {
                 "result": {
-                    "url": "/كوريا-الجنوبية/",
-                    "title": "كوريا الجنوبية My Man Is Cupid",
-                    "description": "تتحدث دراما “جني” عن جني الذي قطع أجنحته في الخطأ منذ ٥٠٠ عام، والذي يصير متواجداً على الأرض. بعد ذلك، يقع في حب طبيبة بيطرية بعد أن أصابها بسهمه الخاص. Jang-Dong-Yoon : في دور Cheon Sang Hyuk Nana : في دور Oh Baek Ryun Park-Ki-Woong : في دور Seo Jae Hee Moon-Ye-Jin : في دور Yoon Si Ah Kwon-Ah-Reum : في دور So Hee Kim-Do-Ah : في دور Jeong Ah",
-                    "genre": "كوريا الجنوبية, خيالي, رومانسي, كوميدي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/12/ezgif-2-8b637a97af.jpeg",
+                    "url": "/مرحبًا-بكم-في-سامدالري/",
+                    "title": "مرحبًا بكم في سامدالري Welcome to Samdalri",
+                    "description": "دراما “مرحبًا بكم في سامدالري” تتناول قصة جو يونغ بيل الذي قدم بعد وفاة والدته التي كانت تعمل كحنيو بسبب تقرير جوي خاطئ في سن مبكرة، فقرر أن يصبح متنبئًا جويًا لحماية الكبار. بالإضافة إلى ذ Ji-Chang-Wook : في دور Cho Yong Pil Shin-Hye-Sun : في دور Cho Sam Dal Shin-Dong-Mi : في دور Cho Jin Dal Kang-Mi-Na : في دور Cho Hae Dal Kim-Mi-Kyung : في دور أم Cho Yong Pil Kang-Young-Seok : في دور Boo Sang Do",
+                    "genre": "كوريا الجنوبية, حياة, درامي, رومانسي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/12/XdeQRq_4f.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/مرحبًا-بكم-في-سامدالري-الحلقة-01/",
+                        "name": "01 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=5&sig=M7lX6Yn3t-U&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=5&sig=M7lX6Yn3t-U&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=3&sig=TzgcCh6TSYk&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=3&sig=TzgcCh6TSYk&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=2&sig=Ki-xoDVZ_tA&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=2&sig=Ki-xoDVZ_tA&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=1&sig=qZjPdFJexvI&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=1&sig=qZjPdFJexvI&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=0&sig=fTB9iGxLDNU&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=0&sig=fTB9iGxLDNU&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661"
+                    },
+                    {
+                        "url": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=4&sig=yvzuSHinHsU&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1701650057265&srcIp=13.88.99.132&pr=10&srcAg=GECKO&ms=95.142.206.131&type=4&sig=yvzuSHinHsU&ct=0&urls=45.136.22.38%3B185.226.52.56&clientType=0&zs=43&id=5539917269661"
+                    },
+                    {
+                        "url": "https://xovmry6flrcf.lions-vidcdn.com/hls2/01/00940/e5qv4tkydmbb_n/index-v1-a1.m3u8?t=jRb8jAr2PZsREnNWsoA6SDY0BwxXhReAktHzLMC5rBI&s=1701563658&e=129600&f=4700603&srv=daorbwtz9xmz9zk6&i=0.4&sp=1500&p1=daorbwtz9xmz9zk6&p2=daorbwtz9xmz9zk6&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://xovmry6flrcf.lions-vidcdn.com/hls2/01/00940/e5qv4tkydmbb_n/index-v1-a1.m3u8?t=jRb8jAr2PZsREnNWsoA6SDY0BwxXhReAktHzLMC5rBI&s=1701563658&e=129600&f=4700603&srv=daorbwtz9xmz9zk6&i=0.4&sp=1500&p1=daorbwtz9xmz9zk6&p2=daorbwtz9xmz9zk6&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.site",
+                            "Referer": "https://filelions.site/v/e5qv4tkydmbb"
+                        }
+                    },
+                    {
+                        "url": "https://noaz53-11.scroe20.shop/6jmnxxlv3mazsalriuzafj5rik3rt4r5hxee4bmti3ewerghs62xgyixroba/v.mp4",
+                        "quality": "Vidbom: 480p",
+                        "videoUrl": "https://noaz53-11.scroe20.shop/6jmnxxlv3mazsalriuzafj5rik3rt4r5hxee4bmti3ewerghs62xgyixroba/v.mp4"
+                    },
+                    {
+                        "url": "https://m180.uqload.io/3rfkucbtrrw2q4drdkapx4fza5kt2ajw2rf66wemhk7ivmcoytt7a3bq4bma/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m180.uqload.io/3rfkucbtrrw2q4drdkapx4fza5kt2ajw2rf66wemhk7ivmcoytt7a3bq4bma/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

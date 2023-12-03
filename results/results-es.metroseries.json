@@ -57,8 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/pam-tommy/",
-                                "title": "Pam & Tommy",
+                                "url": "/a-world-of-calm/",
+                                "title": "A World of Calm",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/sonic-boom/",
-                                "title": "Sonic Boom",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/sonic-boom-61310-poster-226x339.jpg"
+                                "url": "/the-midnight-gospel/",
+                                "title": "The Midnight Gospel",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/me3kxfiFRkdto6SmDQv0nczjfmP.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/bookie-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Episodio 2",
+                        "date_upload": 1701302400000,
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/episode/bookie-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - Episodio 1",
+                        "date_upload": 1701302400000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
