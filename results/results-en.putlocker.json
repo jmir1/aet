@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/doctor-who-39521/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/0114544d004eb29bddafd0cde3130550.jpg"
+                            },
+                            {
                                 "url": "/film/destined-to-meet-you-103465/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/369f27034604435c9544c6409c6cf600.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/lego-masters-60179/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/bea8c983fd9780ba3274ae9c8974b5f5.jpg"
-                            },
-                            {
-                                "url": "/film/rupauls-drag-race-uk-52355/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/92567dbef025136e72ba9cf43183533e.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/destined-to-meet-you-103465/",
-                    "title": "Destined to Meet You",
+                    "url": "/film/doctor-who-39521/",
+                    "title": "Doctor Who",
                     "author": "",
-                    "description": "Jin Rong Rong, the resolute general manager of Jinchao Group, met Gu Cong Bei, a singer of a bar, on the way to secretly inspect the operation of the business district. After a drunken night Jin Rong Rong learned that Gu Cong Bei was still a college student, and with zero love experience, she pretended to be calm and claimed to be responsible for him. Coincidentally when Jin Rong Rong went to the blind date bureau she unexpectedly found out that Gu Cong Bei was the third son of the Gu family, and was also in need of marriage, so she decided to choose him as her marriage partner. What she didn't know was that Gu Cong Bei was purposely trying to get close to her.\n\nQuality: HD\nRelease: 2022-05-13\nIMDb: n/a",
-                    "genre": "Comedy, Drama",
+                    "description": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living – more of a hobby actually, and the Doctor's very, very good at it.\n\nQuality: HD\nRelease: 2005-03-26\nIMDb: 8.6",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":0,\"ids\":[\"39521_0_1\",\"39521_0_2\",\"39521_0_3\"]}",
+                        "name": "Movie",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

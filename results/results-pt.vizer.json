@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/captain-tsubasa-2018",
+                                "title": "Super Campeões",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.webp"
+                            },
+                            {
+                                "url": "/serie/online/found",
+                                "title": "Found",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
+                            },
+                            {
+                                "url": "/serie/online/homens-da-lei-bass-reeves",
+                                "title": "Homens da Lei: Bass Reeves",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
+                            },
+                            {
+                                "url": "/serie/online/one-piece",
+                                "title": "One Piece",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19081.webp"
+                            },
+                            {
+                                "url": "/serie/online/spy-x-family",
+                                "title": "Spy x Family",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19689.webp"
+                            },
+                            {
                                 "url": "/serie/online/sweet-home",
                                 "title": "Sweet Home",
                                 "status": 2,
@@ -311,40 +341,10 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22544.webp"
                             },
                             {
-                                "url": "/serie/online/found",
-                                "title": "Found",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
-                            },
-                            {
-                                "url": "/serie/online/captain-tsubasa-2018",
-                                "title": "Super Campeões",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.webp"
-                            },
-                            {
-                                "url": "/serie/online/spy-x-family",
-                                "title": "Spy x Family",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19689.webp"
-                            },
-                            {
                                 "url": "/serie/online/companheiros-de-viagem",
                                 "title": "Companheiros de Viagem",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-curse",
-                                "title": "The Curse",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
-                            },
-                            {
-                                "url": "/serie/online/rick-and-morty",
-                                "title": "Rick e Morty",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -495,16 +495,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21296.webp"
                             },
                             {
-                                "url": "/serie/online/hyouken-no-majutsushi-ga-sekai-wo-suberu",
-                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
-                            },
-                            {
                                 "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
                                 "title": "Kaminaki Sekai no Kamisama Katsudou",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
+                            },
+                            {
+                                "url": "/serie/online/hyouken-no-majutsushi-ga-sekai-wo-suberu",
+                                "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
                             },
                             {
                                 "url": "/serie/online/isekai-ojisan",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
