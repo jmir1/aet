@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/medium/",
+                                "title": "Medium",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/bookie/",
                                 "title": "Bookie",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/criminales/",
-                                "title": "Criminales",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/a-world-of-calm/",
-                                "title": "A World of Calm",
+                                "url": "/3/",
+                                "title": "3%",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-midnight-gospel/",
-                                "title": "The Midnight Gospel",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/me3kxfiFRkdto6SmDQv0nczjfmP.jpg"
+                                "url": "/aci-alta-capacidad-intelectual/",
+                                "title": "ACI: Alta Capacidad Intelectual",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iCHQydu62idOEgPSDivxLS9pq9u.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,34 +134,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/bookie/",
-                    "title": "Bookie",
-                    "description": "Un corredor de apuestas veterano lucha por sobrevivir a la inminente legalización de las apuestas deportivas, clientes, familiares, compañeros de trabajo cada vez más inestables y un estilo de vida que lo lleva por todos los rincones de Los Ángeles, altos y bajos.",
-                    "genre": "Comedia",
+                    "url": "/medium/",
+                    "title": "Medium",
+                    "description": "Se inspira en la vida de la medium Allison Dubois. Patricia Arquette interpreta a una mujer casada y madre de tres hijas que intenta comprender sus dotes de medium y su capacidad para comunicarse con los muertos. Su marido (Jake Weber) es un hombre cariñoso que la apoya incondicionalmente. Ambos luchan para encontrar el equilibrio entre la vida familiar y el sobrenatural don de Allison. El fiscal Devalos (Miguel Sandoval) la contrata para utilizar sus poderes en la resolución de casos criminales. (FILMAFFINITY)",
+                    "genre": "Crimen, Drama, Misterio, Sci-Fi & Fantasy",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/bookie-temporada-1-capitulo-2/",
-                        "name": "T01 - E02 - Episodio 2",
-                        "date_upload": 1701302400000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/bookie-temporada-1-capitulo-1/",
-                        "name": "T01 - E01 - Episodio 1",
-                        "date_upload": 1701302400000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

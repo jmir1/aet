@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-oregon-2023-مترجم",
+                                "title": "   Oregon 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/m/482585111f17f8e83d89d17555341870.jpg"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-it-s-a-wonderful-knife-2023-مترجم",
                                 "title": "   It’s a Wonderful Knife 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/"
@@ -180,11 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-leave-the-world-behind-مترجم",
                                 "title": "   Leave the World Behind ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/5fbd29eb9c684280ffbb150ef7ed774e.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-hitmen-2023-مدبلج",
-                                "title": "   Hitmen 2023 مدبلج",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/84b94f840f7d9bd8d9383b24412f5b55.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-it-s-a-wonderful-knife-2023-مترجم",
-                    "title": "  It’s a Wonderful Knife 2023 ",
-                    "description": "",
-                    "genre": "دراما",
+                    "url": "/movie/مشاهدة-فيلم-oregon-2023-مترجم",
+                    "title": "  Oregon 2023 ",
+                    "description": "مشاهدة فيلم الكوميديا والدراما Oregon 2023 مترجم بجودة 1080p WEB-DL مشاهدة اون لاين مباشرة وتحميل مباشر صيف 1985، اسطنبول. يريد هاكان وجاي إعادة شريط موسيقي إلى صديقتهما سيلين قبل مغادرتهما. الأمور لن تسير كما هو مخطط لها.",
+                    "genre": "كوميديا",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/",
+                    "thumbnail_url": "https://cdn.egybest.vip/m/482585111f17f8e83d89d17555341870.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-it-s-a-wonderful-knife-2023-مترجم",
-                        "name": "  It’s a Wonderful Knife 2023 ",
+                        "url": "/movie/مشاهدة-فيلم-oregon-2023-مترجم",
+                        "name": "  Oregon 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
