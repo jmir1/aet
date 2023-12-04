@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7000-la-fantastica-signora-maisel",
+                                "title": "La fantastica signora Maisel",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f676ef6c-8712-4f29-b457-a915e8c3c202.webp"
+                            },
+                            {
                                 "url": "6999-scott-pilgrim-la-serie",
                                 "title": "Scott Pilgrim: La serie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b1957123-f4be-4b62-82c0-b375c68543d2.webp"
@@ -610,11 +615,6 @@
                                 "url": "6915-chefs-table-bbq",
                                 "title": "Chef's Table: BBQ",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/4cd57ecb-76c3-404c-8034-8b2965ce6a98.webp"
-                            },
-                            {
-                                "url": "6914-amazing-fabio-de-luigi",
-                                "title": "Amazing - Fabio De Luigi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/397cd67b-f031-4285-bbfc-9dae6213eaab.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-8346034560424780967/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-8346034560424780967/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-8346034560424780967/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-8346034560424780967/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

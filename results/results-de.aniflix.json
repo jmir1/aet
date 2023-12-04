@@ -3,7 +3,7 @@
         "name": "Aniflix (DE)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Object doesn't exist: route@de0d5776fb62fc65979fe13b017e49cd",
                 "passed": false
             },
             "latest": {
