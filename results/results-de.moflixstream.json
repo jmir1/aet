@@ -384,11 +384,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/api/v1/titles/152148?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.lang.Exception: No videos!",
                 "passed": false
             }
         }
