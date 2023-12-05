@@ -177,6 +177,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/fargo-s05e03",
+                                "title": "Fargo S05E03",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fargo-s05e03.jpg"
+                            },
+                            {
+                                "url": "/stream/fargo-s05e02",
+                                "title": "Fargo S05E02",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fargo-s05e02.jpg"
+                            },
+                            {
+                                "url": "/stream/fargo-s05e01",
+                                "title": "Fargo S05E01",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/fargo-s05e01.jpg"
+                            },
+                            {
+                                "url": "/stream/relax-im-from-the-future",
+                                "title": "Relax, I'm from the Future",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/relax-im-from-the-future.jpg"
+                            },
+                            {
+                                "url": "/stream/in-search-of-the-last-action-heroes",
+                                "title": "In Search of the Last Action Heroes",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/in-search-of-the-last-action-heroes.jpg"
+                            },
+                            {
+                                "url": "/stream/traummann-furs-weihnachtsfest-gesucht",
+                                "title": "Traummann fürs Weihnachtsfest gesucht",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/traummann-furs-weihnachtsfest-gesucht.jpg"
+                            },
+                            {
+                                "url": "/stream/rumble-through-the-dark",
+                                "title": "Rumble Through the Dark",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/rumble-through-the-dark.jpg"
+                            },
+                            {
+                                "url": "/stream/lawmen-bass-reeves-s01e06",
+                                "title": "Lawmen: Bass Reeves S01E06",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/lawmen-bass-reeves-s01e06.jpg"
+                            },
+                            {
                                 "url": "/stream/meet-you-in-scotland",
                                 "title": "Meet You In Scotland",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/meet-you-in-scotland.jpg"
@@ -295,46 +335,6 @@
                                 "url": "/stream/the-winter-witch",
                                 "title": "The Winter Witch",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/the-winter-witch.jpg"
-                            },
-                            {
-                                "url": "/stream/die-gangster-gang-schurkische-weihnachten",
-                                "title": "Die Gangster Gang - Schurkische Weihnachten",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-gangster-gang-schurkische-weihnachten.jpg"
-                            },
-                            {
-                                "url": "/stream/annabelle-und-die-fliegenden-rentiere",
-                                "title": "Annabelle und die fliegenden Rentiere",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/annabelle-und-die-fliegenden-rentiere.jpg"
-                            },
-                            {
-                                "url": "/stream/vengeance-pfad-der-vergeltung",
-                                "title": "Vengeance - Pfad der Vergeltung",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/vengeance-pfad-der-vergeltung.jpg"
-                            },
-                            {
-                                "url": "/stream/stumme-zeugin",
-                                "title": "Stumme Zeugin",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/stumme-zeugin.jpg"
-                            },
-                            {
-                                "url": "/stream/the-roundup-no-way-out",
-                                "title": "The Roundup: No Way Out",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-roundup-no-way-out.jpg"
-                            },
-                            {
-                                "url": "/stream/family-switch",
-                                "title": "Family Switch",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/family-switch.jpg"
-                            },
-                            {
-                                "url": "/stream/landschaft-mit-unsichtbarer-hand",
-                                "title": "Landschaft mit Unsichtbarer Hand",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/landschaft-mit-unsichtbarer-hand.jpg"
-                            },
-                            {
-                                "url": "/stream/4-dinos-in-new-york",
-                                "title": "4 Dinos in New York",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/4-dinos-in-new-york.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=Gz003Pq2_Fj1VmYdKB6RSW5tZFS2THyKXW47Cd3D4qc&s=1701736346&e=43200&f=10995342&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=Gz003Pq2_Fj1VmYdKB6RSW5tZFS2THyKXW47Cd3D4qc&s=1701736346&e=43200&f=10995342&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
