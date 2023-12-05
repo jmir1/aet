@@ -3,13 +3,28 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/Migi-amp-Dali-Dub/",
+                                "title": "Migi&Dali (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
+                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
+                            },
+                            {
+                                "url": "/Anime/Dead-Mount-Death-Play-Part-2-Dub/",
+                                "title": "Dead Mount Death Play Part 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dead-Mount-Death-Play-Part-2-Dub.jpg"
+                            },
                             {
                                 "url": "/Anime/dr-slump-arale-chan.85246/",
                                 "title": "Dr. Slump: Arale-chan",
@@ -19,16 +34,6 @@
                                 "url": "/Anime/DOG-SIGNAL/",
                                 "title": "DOG SIGNAL",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/DOG-SIGNAL.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dead-Mount-Death-Play-Part-2-Dub/",
-                                "title": "Dead Mount Death Play Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dead-Mount-Death-Play-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Migi-amp-Dali-Dub/",
-                                "title": "Migi&Dali (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg"
                             },
                             {
                                 "url": "/Anime/SHY-Dub/",
@@ -254,11 +259,6 @@
                                 "url": "/Anime/My-New-Boss-is-Goofy/",
                                 "title": "My New Boss is Goofy",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/My-New-Boss-is-Goofy.jpg"
-                            },
-                            {
-                                "url": "/Anime/One-Piece.54191/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/dr-slump-arale-chan.85246/",
-                    "title": "Dr. Slump: Arale-chan",
-                    "description": "Dr. Slump creates a little android girl, Arale, who is very stong, happy, and totally common senseless. They live in Penguin Village where the strangest things happen (e.g., the dawn is announced by a little pig wearing a basquee).\n\nUser rating: 90%",
-                    "genre": "Comedy, Shounen, Slice Of Life",
+                    "url": "/Anime/Migi-amp-Dali-Dub/",
+                    "title": "Migi&Dali (Dub)",
+                    "description": "Under the table is the angel's secret. The boy's name was Hitori. A stork brought the angel into the lives of a middle-aged couple who were not blessed with children. His parents were kind, his house spacious, and his meals hot. But to protect the happiness he had received, Hitori continued to hide an important secret from his parents... (Source: Anime News Network)\n\nUser rating: 96%",
+                    "genre": "Drama, Mystery, Slice Of Life",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/uploads/7-15-2013/78062354538381l.jpg",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,22 +792,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/dr-slump-arale-chan.85246/Episode-154?id=142466",
-                        "name": "Dr. Slump: Arale-chan - Episode 154",
-                        "date_upload": 1516838400000,
-                        "episode_number": 154.0
+                        "url": "/Anime/Migi-amp-Dali-Dub/Episode-004?id=187618",
+                        "name": "Migi&Dali (Dub) - Episode 004",
+                        "date_upload": 1701734400000,
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/Anime/dr-slump-arale-chan.85246/Episode-152?id=142465",
-                        "name": "Dr. Slump: Arale-chan - Episode 152",
-                        "date_upload": 1516838400000,
-                        "episode_number": 152.0
+                        "url": "/Anime/Migi-amp-Dali-Dub/Episode-003?id=187609",
+                        "name": "Migi&Dali (Dub) - Episode 003",
+                        "date_upload": 1701734400000,
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
