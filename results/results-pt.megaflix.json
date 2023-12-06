@@ -349,8 +349,53 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls.mflix.vip/videos/375894db573e4f956d7a9dce002496be/720/720p.m3u8",
+                        "quality": "Megaflix(Legendado) - 720p",
+                        "videoUrl": "https://hls.mflix.vip/videos/375894db573e4f956d7a9dce002496be/720/720p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co",
+                            "Referer": "https://megaflix.co"
+                        }
+                    },
+                    {
+                        "url": "https://hls.mflix.vip/videos/0c0d14a4ccba0af4eee995da3bee65cb/720/720p.m3u8",
+                        "quality": "Megaflix(Dublado) - 720p",
+                        "videoUrl": "https://hls.mflix.vip/videos/0c0d14a4ccba0af4eee995da3bee65cb/720/720p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co",
+                            "Referer": "https://megaflix.co"
+                        }
+                    },
+                    {
+                        "url": "https://hls.mflix.vip/videos/375894db573e4f956d7a9dce002496be/360/360p.m3u8",
+                        "quality": "Megaflix(Legendado) - 360p",
+                        "videoUrl": "https://hls.mflix.vip/videos/375894db573e4f956d7a9dce002496be/360/360p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co",
+                            "Referer": "https://megaflix.co"
+                        }
+                    },
+                    {
+                        "url": "https://hls.mflix.vip/videos/0c0d14a4ccba0af4eee995da3bee65cb/360/360p.m3u8",
+                        "quality": "Megaflix(Dublado) - 360p",
+                        "videoUrl": "https://hls.mflix.vip/videos/0c0d14a4ccba0af4eee995da3bee65cb/360/360p.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://megaflix.co",
+                            "Referer": "https://megaflix.co"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
