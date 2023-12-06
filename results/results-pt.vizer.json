@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/assassinato-no-fim-do-mundo",
+                                "title": "Assassinato no Fim do Mundo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
+                            },
+                            {
                                 "url": "/serie/online/rick-and-morty",
                                 "title": "Rick e Morty",
                                 "status": 1,
@@ -309,12 +315,6 @@
                                 "title": "For all Mankind",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4320.webp"
-                            },
-                            {
-                                "url": "/serie/online/assassinato-no-fim-do-mundo",
-                                "title": "Assassinato no Fim do Mundo",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
                             },
                             {
                                 "url": "/serie/online/monarch-legado-de-monstros",
@@ -598,31 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=0hhPrHrPxV5U6Nr5DDD_9A&e=1701886333&_t=1701871552",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=0hhPrHrPxV5U6Nr5DDD_9A&e=1701886333&_t=1701871552",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=EONn_c_TqJo0rcGw9XmCuA&e=1701886334&_t=1701870594",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=EONn_c_TqJo0rcGw9XmCuA&e=1701886334&_t=1701870594",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "passed": false
             }
         }
     }
