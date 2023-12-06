@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/boonie-cubs-episode-15-kitty-the-tiger-the-magic-words",
+                        "name": "Season 1 - Episode 15",
+                        "episode_number": 115.0
+                    },
+                    {
+                        "url": "/boonie-cubs-episode-14-tiki-the-weatherman-herbys-helpful-apples",
+                        "name": "Season 1 - Episode 14",
+                        "episode_number": 114.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVOz0-8U3n67W4t9pM33rabZrKgaejQG5KSVRKRwoJnyQxwmfYrlZ0c7JefcT9JmEVJAv4aWo5C22LmXgSqU4bu7tYGyO02_YuY6LM40gQaY5UmSd7qL1Q2hk2knxTI6W6GYt5rMqvY9eIf-4OSN2m2cWVHNrLVPZH8AdV08WLf7c5_7DxzFmmJIRNcTnKrxcXTHcOzcewP5spoxNdwWgt6hg9K2T9Fp8lVN8wTn8N8pCvJBFeS1QvoAZWcXgNQ_kw_5SMd4eYW0u66r6DIn21uggYp-uRlo8qWmv_tqAMSmtw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVOz0-8U3n67W4t9pM33rabZrKgaejQG5KSVRKRwoJnyQxwmfYrlZ0c7JefcT9JmEVJAv4aWo5C22LmXgSqU4bu7tYGyO02_YuY6LM40gQaY5UmSd7qL1Q2hk2knxTI6W6GYt5rMqvY9eIf-4OSN2m2cWVHNrLVPZH8AdV08WLf7c5_7DxzFmmJIRNcTnKrxcXTHcOzcewP5spoxNdwWgt6hg9K2T9Fp8lVN8wTn8N8pCvJBFeS1QvoAZWcXgNQ_kw_5SMd4eYW0u66r6DIn21uggYp-uRlo8qWmv_tqAMSmtw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVOz0-8U3n67W4t9pM33rabZrKgaejQG5KSVRKRwoJnyQ1TAMeuBrG1rwDtnuxkWt01jbphTM6hY66rFxoRa-bSAf2lHoLuQ6dp_xCS7BbGobsBRcJmTSvIPwO9At9Apw25ZOjOl0eSfODo7Fn-2h8IyYUbHYDuq_xKXaXm3cw2rv0IH3tqXmAQMeFIlgB-8uiOE2AynuKZBuLWlVJ4gwECSIxoPr3CW5E-p6hZbAle_tRnU3VZnKZfiOzznkgrblaac6ipXMqIPTVGXJpdvaMtQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkUx1yrPXAHUcgMWCrsGbVOz0-8U3n67W4t9pM33rabZrKgaejQG5KSVRKRwoJnyQ1TAMeuBrG1rwDtnuxkWt01jbphTM6hY66rFxoRa-bSAf2lHoLuQ6dp_xCS7BbGobsBRcJmTSvIPwO9At9Apw25ZOjOl0eSfODo7Fn-2h8IyYUbHYDuq_xKXaXm3cw2rv0IH3tqXmAQMeFIlgB-8uiOE2AynuKZBuLWlVJ4gwECSIxoPr3CW5E-p6hZbAle_tRnU3VZnKZfiOzznkgrblaac6ipXMqIPTVGXJpdvaMtQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }

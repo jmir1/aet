@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-caja-de-arena/",
+                                "title": "La caja de arena",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/mi-adorable-demonio/",
+                                "title": "Mi adorable demonio",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/medium/",
                                 "title": "Medium",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -47,18 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/pombo/",
-                                "title": "Pombo",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/onmyoji/",
-                                "title": "Onmyoji",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/z-x-code-reunion/",
-                                "title": "Z/X: Code Reunion",
+                                "url": "/mask-singer-adivina-quien-canta/",
+                                "title": "Mask Singer: Adivina quién canta",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/sr-ejemplar-el-enigma-de-eirik/",
-                                "title": "¿Sr. Ejemplar?: El enigma de Eirik",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/w7OYbHyrJymDL8DutHCuSj2pFFv.jpg"
+                                "url": "/casa-buho/",
+                                "title": "Casa Búho",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lE5OYF0axjCVtrxLMetA8i8QpZ8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,21 +134,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/medium/",
-                    "title": "Medium",
-                    "description": "Se inspira en la vida de la medium Allison Dubois. Patricia Arquette interpreta a una mujer casada y madre de tres hijas que intenta comprender sus dotes de medium y su capacidad para comunicarse con los muertos. Su marido (Jake Weber) es un hombre cariñoso que la apoya incondicionalmente. Ambos luchan para encontrar el equilibrio entre la vida familiar y el sobrenatural don de Allison. El fiscal Devalos (Miguel Sandoval) la contrata para utilizar sus poderes en la resolución de casos criminales. (FILMAFFINITY)",
-                    "genre": "Crimen, Drama, Misterio, Sci-Fi & Fantasy",
+                    "url": "/la-caja-de-arena/",
+                    "title": "La caja de arena",
+                    "description": "Alguien decide quitarse la vida saltando desde lo alto de un edificio. ¿Quién era? ¿Por qué lo hizo? ¿Se podría haber evitado? Así arranca ‘La caja de arena’, una serie sobre acoso escolar que desgrana las semanas anteriores a este terrible suceso. Un complejo puzle que se va completando a través de seis puntos de vista diferentes, los de cada uno de los jóvenes implicados. Una historia impactante, desgarradora, pero que deja un espacio a la esperanza recordándonos que el acoso escolar es cosa de todos.",
+                    "genre": "Drama, Familia",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

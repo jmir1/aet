@@ -3,11 +3,11 @@
         "name": "AllMoviesForYou (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
@@ -24,6 +24,7 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/",
                         "episode_number": 1.0
                     }
                 ],
