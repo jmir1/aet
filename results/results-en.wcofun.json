@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/boonie-cubs",
+                                "title": "Boonie Cubs",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933347.jpg"
+                            },
+                            {
+                                "url": "/anime/lego-friends-the-next-chapter",
+                                "title": "LEGO Friends: The Next Chapter",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933346.jpg"
+                            },
+                            {
                                 "url": "/anime/sesame-street-season-54",
                                 "title": "Sesame Street Season 54",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933345.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/onmyoji",
                                 "title": "Onmyoji",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933332.jpg"
-                            },
-                            {
-                                "url": "/anime/popeye-and-son",
-                                "title": "Popeye and Son",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933331.jpg"
-                            },
-                            {
-                                "url": "/anime/onmyouji",
-                                "title": "Onmyouji",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933330.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sesame-street-season-54",
-                    "title": "Sesame Street Season 54",
-                    "description": "Curriculum in 54th Season Focuses on Helping Children Develop a Healthy Sense of Self and Belonging",
-                    "genre": "Children's television series, Educational, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933345.jpg",
+                    "url": "/anime/boonie-cubs",
+                    "title": "Boonie Cubs",
+                    "description": "The childhood adventures of the famous Boonie Bear brothers Briar and Bramble, along with their friends; Vick, Tiki, Herbert, Warren, Violet, Luna Loo, and all the rest. At Pine Tree Kindergarten, under the guidance of the wise owl Miss Olivia and the outdoorsy Coach Mack, the cubs learn valuable life lessons and have a ton of fun along the way.",
+                    "genre": "Animation, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933347.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/sesame-street-season-54-episode-3-proud-of-my-name",
-                        "name": "Season 54 - Episode 3",
-                        "episode_number": 5403.0
-                    },
-                    {
-                        "url": "/sesame-street-season-54-episode-2-the-oct-dough-pus",
-                        "name": "Season 54 - Episode 2",
-                        "episode_number": 5402.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnF1030ZVXdm09iOyhriSRfgzdGrZRkg9cM_vCLeYzAzhDumLdP6ZwGkre0rKZeRpkLia8T7148QKMKYFRzxbKO0j-wm6dKjk7fxA__7OjlJTfaSrgPuNWpNxatL2k61sHF4FFP7w3WKseJsI5Ud-t4rqOTyPBhp0q26oxv7PDPOMDtWLcn930TlMx9uWUdVtfW2Ok9LFz8634fWLao8T-9OIYcpoeIdUF79yKO08KWSy-wtNWyyRF-EI_hHdX0THcmT112hPN4r596n90suEpSstLHjPm4tZWYObbTZwLQ8jZ6gzx8-mw4QLEK0w8_853OO0uhh4J3YxUDUnUtU_IFkwDPrc21UCDSFo8ZcLwgza7GBmIB6bZTBptqo7A74Lg2q74s7RbkEYnq6DTbXgb4",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnF1030ZVXdm09iOyhriSRfgzdGrZRkg9cM_vCLeYzAzhDumLdP6ZwGkre0rKZeRpkLia8T7148QKMKYFRzxbKO0j-wm6dKjk7fxA__7OjlJTfaSrgPuNWpNxatL2k61sHF4FFP7w3WKseJsI5Ud-t4rqOTyPBhp0q26oxv7PDPOMDtWLcn930TlMx9uWUdVtfW2Ok9LFz8634fWLao8T-9OIYcpoeIdUF79yKO08KWSy-wtNWyyRF-EI_hHdX0THcmT112hPN4r596n90suEpSstLHjPm4tZWYObbTZwLQ8jZ6gzx8-mw4QLEK0w8_853OO0uhh4J3YxUDUnUtU_IFkwDPrc21UCDSFo8ZcLwgza7GBmIB6bZTBptqo7A74Lg2q74s7RbkEYnq6DTbXgb4"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnF1030ZVXdm09iOyhriSRfgzdGrZRkg9cM_vCLeYzAzhDumLdP6ZwGkre0rKZeRpkLia8T7148QKMKYFRzxbKO0j-wm6dKjk7fxA__7OjlJTfaSrgPuNWpNxatL2k61sHF4FFP7w3WKseJsI5Ud-t6ovNLZ83t3o0-SRzqzy0wKubcGyVweR57pvddSsKILuFjg4oc5jApyAL60dSHlj1s32QodoExOsQZ8s2fquR9t77Vsy8saXYQi9XTVlm9EyFV6RFhQ2-loDL9QLfOUueKnz-nsJhiUOMBkfpTvVMEn0gNb85ZTQbcpt9WY0xxfFV0dHZYRjtnefXUEtG9Pgz0aBAF1zMrFcfgOu8zZe89OgicAxSdJ8ag_zvj4bE86TA",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnF1030ZVXdm09iOyhriSRfgzdGrZRkg9cM_vCLeYzAzhDumLdP6ZwGkre0rKZeRpkLia8T7148QKMKYFRzxbKO0j-wm6dKjk7fxA__7OjlJTfaSrgPuNWpNxatL2k61sHF4FFP7w3WKseJsI5Ud-t6ovNLZ83t3o0-SRzqzy0wKubcGyVweR57pvddSsKILuFjg4oc5jApyAL60dSHlj1s32QodoExOsQZ8s2fquR9t77Vsy8saXYQi9XTVlm9EyFV6RFhQ2-loDL9QLfOUueKnz-nsJhiUOMBkfpTvVMEn0gNb85ZTQbcpt9WY0xxfFV0dHZYRjtnefXUEtG9Pgz0aBAF1zMrFcfgOu8zZe89OgicAxSdJ8ag_zvj4bE86TA"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
