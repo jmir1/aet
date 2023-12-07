@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7004-pace-a-marsiglia-blood-coast",
+                                "title": "Pace a Marsiglia - Blood Coast",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3ccbab00-12d9-4bb3-b26d-8e97d99f5ecc.webp"
+                            },
+                            {
+                                "url": "7001-come-sempre-a-natale",
+                                "title": "Come sempre a Natale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9a92a87d-4b8d-47fa-8b5d-4744b4551723.webp"
+                            },
+                            {
                                 "url": "6987-family-switch",
                                 "title": "Family Switch",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/187ab6e2-dbc6-424a-99b5-bb6cc25be7e6.webp"
@@ -295,16 +305,6 @@
                                 "url": "6755-la-caduta-della-casa-degli-usher",
                                 "title": "La caduta della casa degli Usher",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d8e6b557-2be3-4f4b-bd83-238501dce795.webp"
-                            },
-                            {
-                                "url": "6747-dark-harvest",
-                                "title": "Dark Harvest",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/77489869-82c4-47e5-a0ac-fa9a5f256024.webp"
-                            },
-                            {
-                                "url": "6746-the-burial",
-                                "title": "The Burial",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/933280f3-fd0c-4ad4-9b44-ca5b52a4302f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7003-il-boemo",
+                                "title": "Il Boemo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6910b1d1-7f2d-49d7-a580-f8cc4fc76737.webp"
+                            },
+                            {
+                                "url": "7002-nine-days",
+                                "title": "Nine Days",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e5bbb0d-98f8-404c-90d6-d56f985be28f.webp"
+                            },
                             {
                                 "url": "7000-la-fantastica-signora-maisel",
                                 "title": "La fantastica signora Maisel",
@@ -605,16 +615,6 @@
                                 "url": "6919-la-terapia-di-sebastian-fitzek",
                                 "title": "La terapia di Sebastian Fitzek",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d82f9d68-555d-4c6e-ab0e-69ab753c19fa.webp"
-                            },
-                            {
-                                "url": "6918-noi-siamo-angeli",
-                                "title": "Noi siamo angeli",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7ba01633-1fba-4c7a-b233-68cae2ccfda9.webp"
-                            },
-                            {
-                                "url": "6917-occupied",
-                                "title": "Occupied",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1b4bb690-a8ef-4823-a27f-b9b0c03016f6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "6987-family-switch",
-                    "description": "Una famiglia precipita nel caos pochi giorni prima di Natale, quando un raro evento cosmico fa sì che i genitori si scambino i corpi con i figli adolescenti.",
-                    "genre": "Fantasy, Commedia, Famiglia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7004-pace-a-marsiglia-blood-coast",
+                    "description": "Mentre un feroce spacciatore cerca di dominare su Marsiglia, un capitano di polizia ribelle e la sua temeraria squadra accolgono una nuova recluta con un piano tutto suo.",
+                    "genre": "Crime, Action & Adventure",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6987",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "7004?e=44758",
+                        "name": "Stagione 1 episodio 6 - L'inseguimento",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "7004?e=44757",
+                        "name": "Stagione 1 episodio 5 - Legami di sangue",
+                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/6987\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-8487200954160923702/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-8487200954160923702/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-8487200954160923702/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-8487200954160923702/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7004?episode_id=44758\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7004?episode_id=44758\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14338213994062753714/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14338213994062753714/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14338213994062753714/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14338213994062753714/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

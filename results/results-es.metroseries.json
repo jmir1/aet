@@ -57,8 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/lie-with-me/",
-                                "title": "Lie With Me",
+                                "url": "/la-familia-p-luche-capitulos-completos-latino-hd-online/",
+                                "title": "La familia P. Luche",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/salvado-por-la-campana/",
-                                "title": "Salvado por la Campana",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mBIDRtrj1iX2NQYTRPwRJwwQR9Y.jpg"
+                                "url": "/clarice/",
+                                "title": "Clarice",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7OFxU0bBO0HDL4klXmM1ahJPbv8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/la-caja-de-arena-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - Aarón",
+                        "date_upload": 1701561600000,
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/la-caja-de-arena-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Irene",
+                        "date_upload": 1701561600000,
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
