@@ -267,6 +267,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Dr-STONE-New-World-Part-2/",
+                                "title": "Dr. STONE New World Part 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dr-STONE-New-World-Part-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer/",
+                                "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/My-Daughter-Left-the-Nest-and-Returned-an-S-Rank-Adventurer.jpg"
+                            },
+                            {
                                 "url": "/Anime/KamiErabi-GODapp/",
                                 "title": "KamiErabi GOD.app",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/KamiErabi-GODapp.jpg"
@@ -505,16 +515,6 @@
                                 "url": "/Anime/Management-of-Novice-Alchemist-Dub/",
                                 "title": "Management of Novice Alchemist (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Management-of-Novice-Alchemist-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Kingdoms-of-Ruin-Dub/",
-                                "title": "The Kingdoms of Ruin (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Kingdoms-of-Ruin-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/GOBLIN-SLAYER-II-Dub/",
-                                "title": "GOBLIN SLAYER II (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/GOBLIN-SLAYER-II-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -527,14 +527,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/",
-                                "title": "Dr. STONE New World Part 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dr-STONE-New-World-Part-2-Dub.jpg"
-                            },
-                            {
                                 "url": "/Anime/Dr-STONE-New-World-Part-2/",
                                 "title": "Dr. STONE New World Part 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dr-STONE-New-World-Part-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Dr-STONE-New-World-Part-2-Dub/",
+                                "title": "Dr. STONE New World Part 2 (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dr-STONE-New-World-Part-2-Dub.jpg"
                             },
                             {
                                 "url": "/Anime/I-Got-a-Cheat-Ability-in-a-Different-World-and-Became-Extraordinary-Even-in-the-Real-World-Dub/",
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

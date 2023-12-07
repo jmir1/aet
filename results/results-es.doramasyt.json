@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/the-devils-plan-sub-espanol",
+                                "title": "The Devil's Plan",
+                                "description": "The Devil's Plan",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/the-devils-plan-1701972152.jpg"
+                            },
+                            {
                                 "url": "/dorama/el-plan-del-diablo-latino-sub-espanol",
                                 "title": "El plan del diablo Latino",
                                 "description": "El plan del diablo Latino",
@@ -179,12 +185,6 @@
                                 "title": "L-Pop Latino",
                                 "description": "L-Pop Latino",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/l-pop-latino-1695915168.jpg"
-                            },
-                            {
-                                "url": "/dorama/twinkling-watermelon-sub-espanol",
-                                "title": "Twinkling Watermelon",
-                                "description": "Twinkling Watermelon",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/twinkling-watermelon-1695912158.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,68 +280,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/el-plan-del-diablo-latino-sub-espanol",
-                    "title": "El plan del diablo Latino (0)",
+                    "url": "/dorama/the-devils-plan-sub-espanol",
+                    "title": "The Devil's Plan (0)",
                     "description": "Un programa de entretenimiento de supervivencia y juegos mentales que otorga hasta 500 millones de wones coreanos al ganador. Los participantes, incluidas celebridades, personas influyentes y reclutas de este juego, comienzan con la sugerencia del diablo de quitarse las máscaras sociales y revelar la verdadera identidad. ",
                     "genre": "K-Drama, Reality Show",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/el-plan-del-diablo-latino-episodio-12",
-                        "name": "Episodio 12.0",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/ver/el-plan-del-diablo-latino-episodio-11",
-                        "name": "Episodio 11.0",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=3&sig=cI66V0RQuk4&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=3&sig=cI66V0RQuk4&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135"
-                    },
-                    {
-                        "url": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=2&sig=sOZF3AjS3fY&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=2&sig=sOZF3AjS3fY&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135"
-                    },
-                    {
-                        "url": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=1&sig=f2XkHavIkOg&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=1&sig=f2XkHavIkOg&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135"
-                    },
-                    {
-                        "url": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=0&sig=6uJ0-1gmJSU&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=0&sig=6uJ0-1gmJSU&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135"
-                    },
-                    {
-                        "url": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=4&sig=IxPtUfUESO0&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd314.mycdn.me/?expires=1702037539009&srcIp=13.91.68.222&pr=10&srcAg=GECKO&ms=185.226.53.23&type=4&sig=IxPtUfUESO0&ct=0&urls=45.136.22.41&clientType=0&zs=43&id=5473855343135"
-                    },
-                    {
-                        "url": "https://m170.uqload.io/3rfkxrlsrrw2q4drdj6pvifqdj5pa4a6ezz4c4wiqubbppoedcazfsoaozga/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m170.uqload.io/3rfkxrlsrrw2q4drdj6pvifqdj5pa4a6ezz4c4wiqubbppoedcazfsoaozga/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
