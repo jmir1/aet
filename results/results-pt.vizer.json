@@ -441,16 +441,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21651.webp"
                             },
                             {
-                                "url": "/serie/online/saikyou-onmyouji-no-isekai-tenseiki",
-                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22160.webp"
-                            },
-                            {
                                 "url": "/serie/online/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
                                 "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21302.webp"
+                            },
+                            {
+                                "url": "/serie/online/saikyou-onmyouji-no-isekai-tenseiki",
+                                "title": "Saikyou Onmyouji no Isekai Tenseiki",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22160.webp"
                             },
                             {
                                 "url": "/serie/online/accel-world",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
