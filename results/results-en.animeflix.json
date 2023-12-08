@@ -139,39 +139,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "[{\"quality\":\"720\",\"url\":\"https://episodes.animeflix.mobi/getlink/v/bcIyIjAMG7IYKO/F5cXqQQnLnEtZmxiSNX6iwmIrIB5H8iWfPl9M6x1ognPA9qYvtoO/3HVg3TR5hAlGMbJU6I5gnXHvVtpKk/D/wap9aR+pq9uSdnz31Ajv2HvaOQAnKxRRhLMH4KokCV30WU3BqzD4ZNe07FcMHa/tLGgZaaz3O79z6j6NWji/tC6FxXE7Cf7XsorkK5IeF6InKrqHuMDbi3LRcAbmvmmRMM1cPTpD8YUJ2TKAjWoyAil/DV:BYBl5Gm5lnfji+F25dsXBQ==\",\"name\":\"⌈ Episode 8 ⌋\"},{\"quality\":\"1080\",\"url\":\"https://episodes.animeflix.mobi/getlink/v+LtCR43ZZ8OT+xlYt7bqjFo1AsanQIkn8fXtge+2XCyPpsYkNgsinwxh7wcDf0E34JZsPklLMoK45ZLyQmDlMTcvRaiLIAjgAknnBc5IRbdsDrLiDgAerspO2P8OYihQcQTw8rozm2XgwZgVFGNpwiw23va1xwbahGL/JWQkaSJMi2T0H6c7Cn9ssne443Xa0n2pMhWgHitIcxRM7/c0sI+J3ieCYDqzFttnZz7rvnsNqnnkWtR2IOhXldMzpQw:+NfS1/BGT762K0mlZq/Rhw==\",\"name\":\"⌈ Episode 8 ⌋\"}]",
-                        "name": "⌈ Episode 8 ⌋",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "[{\"quality\":\"720\",\"url\":\"https://episodes.animeflix.mobi/getlink/j5MKgmnWBRA84AURGyJvXjeEFRxl9kReOG9zlFmaT8uIAQQIV88CV6iTYtc8MSABSgj39TGDASaXVHmPuBeKWrh8s/9UD/3O95PWrYpOmvoJSsUImqxYz12JZaQh4SMPY0fctmMNn9N73bkuxpa9+gZQ3LEN+0+S+JUrmoqW8iBbN4zMUcjWGlkP94rSrsmuyU7rAwOBvS74AFQMN1wVni2VMq4RXfWqKjwupnPOxCjlGOYt77sRcwOgKpHsjvQS:Uw/NYmU5W4rLJbGeen43eQ==\",\"name\":\"⌈ Episode 7 ⌋\"},{\"quality\":\"1080\",\"url\":\"https://episodes.animeflix.mobi/getlink/v8VQSlwBUTrgkVXRl/1eoNgWO/+2Vh5pirhEwSW5kU6wctlUUQbAn4mbPFwnybmwsivqgMPjtvODE/4Zl9XkXbJCnCiM5d/p0hsgIY14uzFy7FL4tnY1tgJuIovtfE2l9LtFVU87KQaGODyjiem27QgrvyXjFmU3VirMqVjMHERmRgifuAt6vVXrYXP3g4XQxHNQnyuPYeD/6rJUnzCJHtL7VUogi+s6VYlb5TVYartGCFXztnAQWKI86wfHJvSc:INmZWVt059K88fJLIQTzig==\",\"name\":\"⌈ Episode 7 ⌋\"}]",
-                        "name": "⌈ Episode 7 ⌋",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://0.shibu74.workers.dev/da50c45d09081c40aeae69b1148bbcb0/driveleech.org/Onimusha.S01E08.1080p.NF.WEBDL[HINDIJAPANESE]ANIMEFLIX.MOBI.mkv",
-                        "quality": "1080p - CF 1 Worker 2 -  380.7MB ",
-                        "videoUrl": "https://0.shibu74.workers.dev/da50c45d09081c40aeae69b1148bbcb0/driveleech.org/Onimusha.S01E08.1080p.NF.WEBDL[HINDIJAPANESE]ANIMEFLIX.MOBI.mkv"
-                    },
-                    {
-                        "url": "https://05.huih20.workers.dev/2bda193719a3616f00b91ac71f559f4a/driveleech.org/Onimusha.S01E08.1080p.NF.WEBDL[HINDIJAPANESE]ANIMEFLIX.MOBI.mkv",
-                        "quality": "1080p - CF 1 Worker 1 -  380.7MB ",
-                        "videoUrl": "https://05.huih20.workers.dev/2bda193719a3616f00b91ac71f559f4a/driveleech.org/Onimusha.S01E08.1080p.NF.WEBDL[HINDIJAPANESE]ANIMEFLIX.MOBI.mkv"
-                    },
-                    {
-                        "url": "https://0.asd78.workers.dev/38a0761667e4b81a594d2dcfdabbee91/driveleech.org/Onimusha.S01E08.720p.NF.WEBDL[HINDIJAPANESE]ANIMEFLIX.MOBI.mkv",
-                        "quality": "720p - CF 1 Worker 1 -  243.1MB ",
-                        "videoUrl": "https://0.asd78.workers.dev/38a0761667e4b81a594d2dcfdabbee91/driveleech.org/Onimusha.S01E08.720p.NF.WEBDL[HINDIJAPANESE]ANIMEFLIX.MOBI.mkv"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the array '[', but had 'EOF' instead at path: $\nJSON input: ",
+                "passed": false
             }
         }
     }

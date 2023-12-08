@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Keikenzumi-na-Kimi-to-Keiken-Zero-na-Ore-ga-Otsukiai-suru-Hanashi/",
+                                "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Our-Dating-Story-The-Experienced-You-and-The-Inexperienced-Me.jpg"
+                            },
+                            {
+                                "url": "/Anime/goblin-slayer-ii.62400/",
+                                "title": "GOBLIN SLAYER II",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/GOBLIN-SLAYER-II.jpg"
+                            },
+                            {
+                                "url": "/Anime/the-rising-of-the-shield-hero-season-3.69162/",
+                                "title": "The Rising of the Shield Hero Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Rising-of-the-Shield-Hero-Season-3.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-Ancient-Magus-Bride-Season-2-Part-2-Dub/",
                                 "title": "The Ancient Magus' Bride Season 2 Part 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Ancient-Magus-Bride-Season-2-Part-2-Dub.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/B-PROJECT-NetsuretsuLove-Call/",
                                 "title": "B-PROJECT: Netsuretsu*Love Call",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/B-PROJECT-Netsuretsu-Love-Call.jpg"
-                            },
-                            {
-                                "url": "/Anime/SHY/",
-                                "title": "SHY",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/SHY.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dead-Mount-Death-Play-Part-2/",
-                                "title": "Dead Mount Death Play Part 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Dead-Mount-Death-Play-Part-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Kawagoe-Boys-Sing/",
-                                "title": "Kawagoe Boys Sing",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Kawagoe-Boys-Sing.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
