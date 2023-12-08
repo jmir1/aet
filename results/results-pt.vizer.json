@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/the-curse",
+                                "title": "The Curse",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
+                            },
+                            {
                                 "url": "/serie/online/doce-misterio",
                                 "title": "Doce Mistério",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Meu Papai (Ainda) é Noel",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22076.webp"
-                            },
-                            {
-                                "url": "/serie/online/slow-horses",
-                                "title": "Slow Horses",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19657.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
                 "passed": false
             }
         }
