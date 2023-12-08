@@ -3,8 +3,64 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/channel/the-artful-dodger-2023/",
+                                "title": "The Artful Dodger (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Artful-Dodger-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/obliterated-2023/",
+                                "title": "Obliterated (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Obliterated-2023-Tumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-curse-2023/",
+                                "title": "The Curse (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Curse-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/a-murder-at-the-end-of-the-world-2023/",
+                                "title": "A Murder at the End ...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/lawmen-bass-reeves-2023/",
+                                "title": "Lawmen: Bass Reeves ...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Lawmen-Bass-Reeves-2023-thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/fellow-travelers-2023/",
+                                "title": "Fellow Travelers (20...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Fellow-Travelers-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/monarch-legacy-of-monsters-2023/",
+                                "title": "Monarch: Legacy of M...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/for-all-mankind-2019-7/",
+                                "title": "For All Mankind (201...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/For-All-Mankind-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/lessons-in-chemistry-2023/",
+                                "title": "Lessons in Chemistry...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Lessons-in-Chemistry-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/a-nearly-normal-family-aka-en-helt-vanlig-familj-2023/",
+                                "title": "A Nearly Normal Fami...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Nearly-Normal-Family-2023-Thumbnail-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -228,16 +284,27 @@
             },
             "details": {
                 "result": {
-                    "url": "/a-separation-2011/",
-                    "description": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer’s disease.",
-                    "genre": "Drama",
+                    "url": "/channel/the-artful-dodger-2023/",
+                    "description": "Set in 1850s Australia the series follows adult double life of Charles Dickens’ famous prince of thieves Dodger now a surgeon, but who can’t shake his predilection for crime.",
+                    "genre": "Crime, Drama, History",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt20285780/1/8",
+                        "name": "Season 1 Ep. 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt20285780/1/7",
+                        "name": "Season 1 Ep. 7",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",

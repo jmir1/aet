@@ -549,16 +549,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20045.webp"
                             },
                             {
-                                "url": "/serie/online/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
-                                "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20354.webp"
-                            },
-                            {
                                 "url": "/serie/online/shinsekai-yori",
                                 "title": "Shinsekai Yori",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19742.webp"
+                            },
+                            {
+                                "url": "/serie/online/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+                                "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20354.webp"
                             },
                             {
                                 "url": "/serie/online/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
