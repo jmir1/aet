@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/la-banda-analogica/",
+                                "title": "La banda analógica",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/la-ii-guerra-mundial-desde-el-frente/",
                                 "title": "La II Guerra Mundial: Desde el frente",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/la-caja-de-arena/",
-                                "title": "La caja de arena",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/the-last-movie-stars/",
-                                "title": "The Last Movie Stars",
+                                "url": "/the-woman-in-the-wall/",
+                                "title": "The Woman in the Wall",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-blacklist/",
-                                "title": "The Blacklist",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/11/htJzeRcYI2ewMm4PTrg98UMXShe-226x339.jpg"
+                                "url": "/salon-de-te-la-moderna/",
+                                "title": "Salón de té La Moderna",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nGxO0XYOKlIsiRyKwVLMHbBKHwR.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/la-ii-guerra-mundial-desde-el-frente/",
-                    "title": "La II Guerra Mundial: Desde el frente",
-                    "description": "World War II: From the Frontlines Esta docuserie muestra la II Guerra Mundial como nunca antes a través de imágenes de archivo restauradas y testimonios de personas de los dos bandos del conflicto.",
-                    "genre": "Documental, War & Politics",
+                    "url": "/la-banda-analogica/",
+                    "title": "La banda analógica",
+                    "description": "Analog Squad ทีมรักนักหลอก Tras enterarse de la enfermedad de su padre, al que lleva muchos años sin ver, un hombre de mediana edad forma una familia falsa para reunirse con él por última vez.",
+                    "genre": "Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/la-banda-analogica-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - La vida sigue",
+                        "date_upload": 1701907200000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/la-banda-analogica-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Típico",
+                        "date_upload": 1701907200000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

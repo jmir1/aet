@@ -267,6 +267,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Shadowverse-Flame-Seven-Shadows-Arc/",
+                                "title": "Shadowverse Flame: Seven Shadows Arc",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/07/Shadowverse-Flame-Seven-Shadows-Arc.jpg"
+                            },
+                            {
+                                "url": "/Anime/Undead-Unluck/",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Undead-Unluck.jpg"
+                            },
+                            {
+                                "url": "/Anime/Pokemon-Horizons-The-Series/",
+                                "title": "Pokémon Horizons: The Series",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Pokemon-Horizons-The-Series.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Kingdoms-of-Ruin/",
+                                "title": "The Kingdoms of Ruin",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Kingdoms-of-Ruin.jpg"
+                            },
+                            {
+                                "url": "/Anime/HYPNOSISMIC-Division-Rap-Battle-Rhyme-Anima-PLUS/",
+                                "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/HYPNOSISMIC-Division-Rap-Battle-Rhyme-Anima-PLUS.jpg"
+                            },
+                            {
+                                "url": "/Anime/frieren-beyond-journeys-end.11511/",
+                                "title": "Frieren: Beyond Journey’s End",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
+                            },
+                            {
                                 "url": "/Anime/Keikenzumi-na-Kimi-to-Keiken-Zero-na-Ore-ga-Otsukiai-suru-Hanashi/",
                                 "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Our-Dating-Story-The-Experienced-You-and-The-Inexperienced-Me.jpg"
@@ -485,36 +515,6 @@
                                 "url": "/Anime/Dead-Mount-Death-Play-Part-2-Dub/",
                                 "title": "Dead Mount Death Play Part 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dead-Mount-Death-Play-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/dr-slump-arale-chan.85246/",
-                                "title": "Dr. Slump: Arale-chan",
-                                "thumbnail_url": "https://static.anmedm.com/media/uploads/7-15-2013/78062354538381l.jpg"
-                            },
-                            {
-                                "url": "/Anime/DOG-SIGNAL/",
-                                "title": "DOG SIGNAL",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/DOG-SIGNAL.jpg"
-                            },
-                            {
-                                "url": "/Anime/SHY-Dub/",
-                                "title": "SHY (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/SHY-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/I-m-in-Love-with-the-Villainess-Dub/",
-                                "title": "I'm in Love with the Villainess (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-m-in-Love-with-the-Villainess-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/i-m-in-love-with-the-villainess.75510/",
-                                "title": "I'm in Love with the Villainess",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-in-Love-with-the-Villainess.jpg"
-                            },
-                            {
-                                "url": "/Anime/B-PROJECT-NetsuretsuLove-Call/",
-                                "title": "B-PROJECT: Netsuretsu*Love Call",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/B-PROJECT-Netsuretsu-Love-Call.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
