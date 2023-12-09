@@ -3,7 +3,7 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
@@ -121,6 +121,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/leave-the-world-behind-2023/",
+                                "title": "Leave the World Behind (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/leave-the-world-behind-ending-explained-6565945d23a6e29061209-1200.jpg"
+                            },
+                            {
                                 "url": "/april-and-the-extraordinary-world-2015/",
                                 "title": "April and the Extraordinary World (2015)",
                                 "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/April-and-the-Extraordinary-World-2015.jpg"
@@ -214,11 +219,6 @@
                                 "url": "/running-with-the-devil-the-wild-world-of-john-mcafee-2022-1/",
                                 "title": "Running with the Devil: The Wild World of John McAfee (2022)",
                                 "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/09/Running-with-the-Devil-The-Wild-World-of-John-McAfee-2022-cover.jpg"
-                            },
-                            {
-                                "url": "/i-dont-feel-at-home-in-this-world-anymore-2017-1/",
-                                "title": "I Don’t Feel at Home in This World Anymore (2017)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/08/I-dont-feel-at-home-cover.jpg"
                             }
                         ],
                         "hasNextPage": false

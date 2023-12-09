@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7016-un-piccolo-batman-per-un-grande-bat-natale",
+                                "title": "Un piccolo Batman per un grande Bat-Natale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c7bb471-b023-45ea-9f64-0b3cf05117b0.webp"
+                            },
+                            {
                                 "url": "6817-wonka",
                                 "title": "Wonka",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/73fa05fc-c4bb-4643-95fc-78131fd8e33e.webp"
@@ -207,6 +212,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/dbade9d6-6d36-44e9-b434-adf863e63d19.webp"
                             },
                             {
+                                "url": "7015-silver-e-il-libro-dei-sogni",
+                                "title": "Silver e il Libro dei Sogni",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/582494a2-a4be-4417-8402-05fe6aa8906c.webp"
+                            },
+                            {
                                 "url": "6914-amazing-fabio-de-luigi",
                                 "title": "Amazing - Fabio De Luigi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/397cd67b-f031-4285-bbfc-9dae6213eaab.webp"
@@ -295,16 +305,6 @@
                                 "url": "6791-bodies",
                                 "title": "Bodies",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ea05165e-5460-4c5c-ae3a-8470ac9a9f9d.webp"
-                            },
-                            {
-                                "url": "6786-laltra-zoey",
-                                "title": "L'altra Zoey",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/58125744-d6c0-4f98-b121-fdabcf5a91fa.webp"
-                            },
-                            {
-                                "url": "6810-nyad-oltre-loceano",
-                                "title": "NYAD - Oltre l'oceano",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b7415b68-7d00-4da8-a33d-3bfe43cec1f1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7015-silver-e-il-libro-dei-sogni",
+                                "title": "Silver e il Libro dei Sogni",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/582494a2-a4be-4417-8402-05fe6aa8906c.webp"
+                            },
                             {
                                 "url": "7014-il-mondo-dietro-di-te",
                                 "title": "Il mondo dietro di te",
@@ -502,6 +507,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/2776ad66-07b1-4d33-8c8b-2f578342d160.webp"
                             },
                             {
+                                "url": "6963-doctor-who-specials",
+                                "title": "Doctor Who: Specials",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b3d8afe2-b5a0-460c-91f6-499efaf5242e.webp"
+                            },
+                            {
                                 "url": "6962-monarch-legacy-of-monsters",
                                 "title": "Monarch: Legacy of Monsters",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/492dce32-a143-4fdd-aa87-37d6aa95cf03.webp"
@@ -605,16 +615,6 @@
                                 "url": "6936-batman",
                                 "title": "Batman",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9fe660fe-df9b-45ff-8d0e-b47d7b65d0a6.webp"
-                            },
-                            {
-                                "url": "6935-elf-me",
-                                "title": "Elf Me",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7c716f0c-c51c-4c2d-b568-80113c0a340d.webp"
-                            },
-                            {
-                                "url": "6934-mi-presenti-i-tuoi",
-                                "title": "Mi presenti i tuoi?",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/0b3f5ed9-b987-4a9e-81bc-7dc5fad68b78.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "6817-wonka",
-                    "description": "Basato sullo straordinario protagonista de La Fabbrica di Cioccolato, il romanzo per bambini più iconico dell’autore Roald Dahl nonché uno dei libri per bambini più venduti di tutti i tempi, Wonka racconta la meravigliosa storia di come il più grande inventore, mago e cioccolataio del mondo sia diventato l'amato Willy Wonka che conosciamo oggi.",
-                    "genre": "Fantasy, Commedia, Famiglia",
+                    "url": "7016-un-piccolo-batman-per-un-grande-bat-natale",
+                    "description": "Questo Natale, Damian Wayne vuole essere un supereroe come suo padre: l'unico e inimitabile Batman. Quando Damian viene lasciato a casa da solo mentre Batman affronta i peggiori supercriminali di Gotham alla vigilia di Natale, si imbatte in un piano malvagio per rubare il Natale e coglie al volo l'occasione di salvare la situazione.",
+                    "genre": "Azione, Commedia, Famiglia, Animazione",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -944,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "6817",
+                        "url": "7016",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -952,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7016\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7016\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-15602814392000404162/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-15602814392000404162/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-15602814392000404162/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-15602814392000404162/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
