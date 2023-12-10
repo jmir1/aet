@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-nin-no-Kanojo/",
+                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Family-Circumstances-of-the-Irregular-Witch/",
+                                "title": "The Family Circumstances of the Irregular Witch",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Family-Circumstances-of-the-Irregular-Witch.jpg"
+                            },
+                            {
+                                "url": "/Anime/shangri-la-frontier.80188/",
+                                "title": "Shangri-La Frontier",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier.jpg"
+                            },
+                            {
+                                "url": "/Anime/Captain-Tsubasa-Junior-Youth-Arc/",
+                                "title": "Captain Tsubasa: Junior Youth Arc",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Captain-Tsubasa-Junior-Youth-Arc.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-IDOLM-STER-Million-Live/",
+                                "title": "The IDOLM@STER Million Live!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-IDOLM-STER-Million-Live.jpg"
+                            },
+                            {
                                 "url": "/Anime/One-Piece.54191/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
@@ -490,31 +515,6 @@
                                 "url": "/Anime/16bit-Sensation-Another-Layer/",
                                 "title": "16bit Sensation: Another Layer",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/16bit-Sensation-Another-Layer.jpg"
-                            },
-                            {
-                                "url": "/Anime/Kizuna-no-Allele-2nd-Season/",
-                                "title": "Kizuna no Allele 2nd Season",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Kizuna-no-Allele-2nd-Season.jpg"
-                            },
-                            {
-                                "url": "/Anime/Uma-Musume-Pretty-Derby-Season-3/",
-                                "title": "Uma Musume: Pretty Derby Season 3",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2/",
-                                "title": "Heaven Official's Blessing Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness/",
-                                "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/I-m-Giving-the-Disgraced-Noble-Lady-I-Rescued-a-Crash-Course-in-Naughtiness.jpg"
-                            },
-                            {
-                                "url": "/Anime/BULLBUSTER/",
-                                "title": "BULLBUSTER",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/BULLBUSTER.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,8 +1063,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s47.openstream.io/hls/qvsbhdvlmxblgwsztszkaz6gk5h5nxq5ij4uplmmtysisbl3pzc4z4jjndra/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s47.openstream.io/hls/qvsbhdvlmxblgwsztszkaz6gk5h5nxq5ij4uplmmtysisbl3pzc4z4jjndra/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s47.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

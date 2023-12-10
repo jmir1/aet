@@ -2305,22 +2305,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://pink.vido.lol/5caze27hmkrz4fib4rcek2q42wkfplzqtmyszfyqpnw3vrsqwfw7xsetn63a/11459_S1_EP39.mp4",
-                        "quality": "FRAnime (Vido)",
-                        "videoUrl": "https://pink.vido.lol/5caze27hmkrz4fib4rcek2q42wkfplzqtmyszfyqpnw3vrsqwfw7xsetn63a/11459_S1_EP39.mp4"
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/cf57c756e989d20230258d63fc6d4b99/4776463.mp4",
-                        "quality": "Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/cf57c756e989d20230258d63fc6d4b99/4776463.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4776463"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

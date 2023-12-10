@@ -3,24 +3,308 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/channel/monarch-legacy-of-monsters-2023/",
+                                "title": "Monarch: Legacy of M...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/fargo-2014/",
+                                "title": "Fargo (2014 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Fargo-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-curse-2023/",
+                                "title": "The Curse (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Curse-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/squid-game-the-challenge-2023/",
+                                "title": "Squid Game: The Chal...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/slow-horses-2022/",
+                                "title": "Slow Horses (2022 &#...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Slow-Horses-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/for-all-mankind-2019-7/",
+                                "title": "For All Mankind (201...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/For-All-Mankind-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/fellow-travelers-2023/",
+                                "title": "Fellow Travelers (20...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Fellow-Travelers-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-artful-dodger-2023/",
+                                "title": "The Artful Dodger (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Artful-Dodger-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/obliterated-2023/",
+                                "title": "Obliterated (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Obliterated-2023-Tumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/a-murder-at-the-end-of-the-world-2023/",
+                                "title": "A Murder at the End ...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Thumbnail-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/a-separation-2011/",
+                                "title": "A Separation (2011)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/A-Separation-2011.jpg"
+                            },
+                            {
+                                "url": "/the-worlds-end-2013/",
+                                "title": "The World’s End (2013)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Worlds-End-2013-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-legend-of-hercules-2014/",
+                                "title": "The Legend of Hercules (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Legend-of-Hercules-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/transporter-2-2005/",
+                                "title": "Transporter 2 (2005)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Transporter-2-2005-Cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-rise-of-the-lycans-2009/",
+                                "title": "Underworld: Rise of the Lycans (2009)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Underworld-Rise-of-the-Lycans-2009-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-mountain-ii-2016/",
+                                "title": "The Mountain II (2016)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Mountain-II-2016-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-nut-job-2014/",
+                                "title": "The Nut Job (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Nut-Job-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/wrong-turn-2003/",
+                                "title": "Wrong Turn (2003)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Wrong-Turn-2003-Cover.jpg"
+                            },
+                            {
+                                "url": "/tron-legacy-2010/",
+                                "title": "TRON: Legacy (2010)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/TRON-Legacy-2010-Cover.jpg"
+                            },
+                            {
+                                "url": "/woman-in-gold-2015/",
+                                "title": "Woman in Gold (2015)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Woman-in-Gold-2015-Cover.jpg"
+                            },
+                            {
+                                "url": "/tinker-bell-and-the-pirate-fairy-2014/",
+                                "title": "Tinker Bell and the Pirate Fairy (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Tinker-Bell-and-the-Pirate-Fairy-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-water-diviner-2014/",
+                                "title": "The Water Diviner (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Water-Diviner-2014-COver.jpg"
+                            },
+                            {
+                                "url": "/the-loft-2014/",
+                                "title": "The Loft (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Loft-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/time-freak-2018/",
+                                "title": "Time Freak (2018)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Time-Freak-2018-COver.jpg"
+                            },
+                            {
+                                "url": "/the-best-of-me-2014/",
+                                "title": "The Best of Me (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Best-of-Me-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-babadook-2014/",
+                                "title": "The Babadook (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Babadook-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-case-for-christ-2017/",
+                                "title": "The Case for Christ (2017)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Case-for-Christ-2017-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-girl-with-all-the-gifts-2016/",
+                                "title": "The Girl with All the Gifts (2016)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Girl-with-All-the-Gifts-2016-COver.jpg"
+                            },
+                            {
+                                "url": "/science-fiction-volume-one-the-osiris-child-2016/",
+                                "title": "Science Fiction Volume One: The Osiris Child (2016)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Science-Fiction-Volume-One-The-Osiris-Child-2016-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-courier-2019/",
+                                "title": "The Courier (2019)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Courier-2019-Cover.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/leave-the-world-behind-2023/",
+                                "title": "Leave the World Behind (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/leave-the-world-behind-ending-explained-6565945d23a6e29061209-1200.jpg"
+                            },
+                            {
+                                "url": "/april-and-the-extraordinary-world-2015/",
+                                "title": "April and the Extraordinary World (2015)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/April-and-the-Extraordinary-World-2015.jpg"
+                            },
+                            {
+                                "url": "/the-worlds-end-2013/",
+                                "title": "The World’s End (2013)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Worlds-End-2013-Cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-rise-of-the-lycans-2009/",
+                                "title": "Underworld: Rise of the Lycans (2009)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Underworld-Rise-of-the-Lycans-2009-Cover.jpg"
+                            },
+                            {
+                                "url": "/channel/a-murder-at-the-end-of-the-world-2023/",
+                                "title": "A Murder at the End of the World (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Season-1.jpg"
+                            },
+                            {
+                                "url": "/a-murder-at-the-end-of-the-world-season-1/",
+                                "title": "A Murder at the End of the World (Season 1)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Season-1.jpg"
+                            },
+                            {
+                                "url": "/the-continental-from-the-world-of-john-wick-season-1/",
+                                "title": "The Continental: From the World of John Wick (Season 1)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Continental-From-the-World-of-John-Wick-2023-Season-1.jpg"
+                            },
+                            {
+                                "url": "/channel/the-continental-from-the-world-of-john-wick-2023/",
+                                "title": "The Continental: From the World of John Wick (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Continental-From-the-World-of-John-Wick-2023-Cover-scaled.jpg"
+                            },
+                            {
+                                "url": "/underworld-2003/",
+                                "title": "Underworld (2003)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/10/Underworld-2003-Cover.jpg"
+                            },
+                            {
+                                "url": "/justice-league-warworld-2023/",
+                                "title": "Justice League: Warworld (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/09/Justice-League-Warworld-2023-Cover.jpg"
+                            },
+                            {
+                                "url": "/channel/star-trek-strange-new-worlds-2022/",
+                                "title": "Star Trek: Strange New Worlds (2022 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/06/Star-Trek-Strange-New-Worlds-Cover.jpg"
+                            },
+                            {
+                                "url": "/star-trek-strange-new-worlds-season-2/",
+                                "title": "Star Trek: Strange New Worlds (Season 2)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/06/Star-Trek-Strange-New-Worlds-Season-2.jpg"
+                            },
+                            {
+                                "url": "/when-you-finish-saving-the-world-2023/",
+                                "title": "When You Finish Saving The World (2023)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/01/When-You-Finish-Saving-The-World-2023-cover.jpg"
+                            },
+                            {
+                                "url": "/the-loneliest-boy-in-the-world-2022-1/",
+                                "title": "The Loneliest Boy In The World (2022)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/The-Loneliest-Boy-In-The-World-2022-cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-awakening-2012-1/",
+                                "title": "Underworld: Awakening (2012)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/10/Underworld-Awakening-2012-cover.jpg"
+                            },
+                            {
+                                "url": "/channel/war-of-the-worlds-2019-1/",
+                                "title": "War of the Worlds (2019–2022)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2021/06/War-of-the-Worlds-cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-evolution-2006-1/",
+                                "title": "Underworld: Evolution (2006)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/10/Underworld-Evolution-2006-cover.jpg"
+                            },
+                            {
+                                "url": "/the-lost-world-jurassic-park-1997-1/",
+                                "title": "The Lost World: Jurassic Park (1997)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/09/The-Lost-World-Jurassic-Park-1997-cover.jpg"
+                            },
+                            {
+                                "url": "/war-of-the-worlds-season-4/",
+                                "title": "War of the Worlds (Season 3)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/09/War-of-worlds-Season-3.jpg"
+                            },
+                            {
+                                "url": "/running-with-the-devil-the-wild-world-of-john-mcafee-2022-1/",
+                                "title": "Running with the Devil: The Wild World of John McAfee (2022)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/09/Running-with-the-Devil-The-Wild-World-of-John-McAfee-2022-cover.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": {
+                    "url": "/channel/monarch-legacy-of-monsters-2023/",
+                    "description": "Set after the battle between Godzilla and the Titans, revealing that monsters are real, follows one family’s journey to uncover its buried secrets and a legacy linking them to Monarch.",
+                    "genre": "Action, Adventure, Sci-Fi",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt17220216/1/5",
+                        "name": "Season 1 Ep. 5",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt17220216/1/4",
+                        "name": "Season 1 Ep. 4",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
