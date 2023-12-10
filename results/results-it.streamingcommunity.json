@@ -32,6 +32,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9a92a87d-4b8d-47fa-8b5d-4744b4551723.webp"
                             },
                             {
+                                "url": "7020-silent-night-il-silenzio-della-vendetta",
+                                "title": "Silent Night - Il silenzio della vendetta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8b9ebcd7-fac8-4b58-9202-06fc9c548fe1.webp"
+                            },
+                            {
                                 "url": "6987-family-switch",
                                 "title": "Family Switch",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/187ab6e2-dbc6-424a-99b5-bb6cc25be7e6.webp"
@@ -130,6 +135,11 @@
                                 "url": "6864-i-nuovi-ricchi",
                                 "title": "I nuovi ricchi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3faac3aa-f7ec-427e-99d5-5c72aa533c35.webp"
+                            },
+                            {
+                                "url": "7019-thanksgiving",
+                                "title": "Thanksgiving",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ab9ba1e6-ad5b-4062-add5-767d514f12ce.webp"
                             },
                             {
                                 "url": "6962-monarch-legacy-of-monsters",
@@ -295,16 +305,6 @@
                                 "url": "6828-the-burning-girls",
                                 "title": "The Burning Girls",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/94d7e241-b43a-47e6-a096-62a43c44a777.webp"
-                            },
-                            {
-                                "url": "6794-neon",
-                                "title": "Neon",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b707649b-9d0f-4c64-935f-f90b6ac9caa0.webp"
-                            },
-                            {
-                                "url": "6791-bodies",
-                                "title": "Bodies",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ea05165e-5460-4c5c-ae3a-8470ac9a9f9d.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7019-thanksgiving",
+                                "title": "Thanksgiving",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ab9ba1e6-ad5b-4062-add5-767d514f12ce.webp"
+                            },
                             {
                                 "url": "7018-kung-fu-master",
                                 "title": "Kung-Fu Master!",
@@ -610,11 +615,6 @@
                                 "url": "6940-spy",
                                 "title": "Spy",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/80a7de9d-9d15-4e3f-9ea9-6e1066153ce7.webp"
-                            },
-                            {
-                                "url": "6938-lo-spaventapassere",
-                                "title": "Lo spaventapassere",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/25b6bc69-977d-4ccc-a946-5ee1f01bc941.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7016\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7016\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-6892798562720411655/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-6892798562720411655/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-6892798562720411655/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-6892798562720411655/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
