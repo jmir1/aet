@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/yowamushi-pedal-s2-latino",
+                                "title": "Yowamushi Pedal S2 Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/yowamushi-pedal-s2-latino-1702175756.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/world-trigger-s2-latino",
                                 "title": "World Trigger S2 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/world-trigger-s2-latino-1701998612.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/jujutsu-kaisen-s2-latino",
                                 "title": "Jujutsu Kaisen S2 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/jujutsu-kaisen-s2-latino-1690490946.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/la-melancolia-de-haruhi-suzumiya-castellano",
-                                "title": "La Melancolía De Haruhi Suzumiya Castellano",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/la-melancolia-de-haruhi-suzumiya-castellano-1689451510.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,93 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/world-trigger-s2-latino",
-                    "title": "World Trigger S2 Latino",
-                    "description": "Después de detener con éxito la invasión de Aftokrator, la Agencia de Defensa Fronteriza prepara una misión en la dimensión del Vecino. Sin embargo, como en expediciones de exploración anteriores, sólo los equipos de rango A seguramente asegurarán un lugar. A medida que continúan las guerras de rango B, Osamu Mikumo y el resto de Tamakoma-2 luchan rápidamente hasta la cima en un intento de obtener un ascenso antes de que comience la operación. Mientras tanto, un nuevo barco Vecino se acerca al Cuartel Fronterizo. Al darse cuenta de que los atacantes están apuntando al barco de expedición fronteriza, se envían fuerzas apresuradamente para combatirlos. Sin embargo, con menos escuadrones disponibles debido a las guerras de rangos en curso, la organización se desorganiza. Esta última ofensiva de los Vecinos envuelve en incertidumbre el destino del importante barco de expedición.",
-                    "genre": "Acción, Ciencia Ficción, Shonen",
+                    "url": "/anime/yowamushi-pedal-s2-latino",
+                    "title": "Yowamushi Pedal S2 Latino",
+                    "description": "La historia continúa siguiendo a Onoda, Naruko, Imaizumi y todo el equipo de Sohoku mientras compiten en el segundo y tercer día del Interescolar. A pesar de enfrentar desafíos y quedarse rezagados, el equipo de Sohoku se esfuerza al máximo para alcanzar a las escuelas rivales, especialmente Hakone y Kyoto Fushimi. Sin embargo, la amenazante cercanía de la Escuela Hiroshima Kureminami y Eikichi Machimiya los obliga a actuar con cautela. En la búsqueda de la meta y la victoria en la competencia, las \"estrellas\" de cada equipo ponen en acción todas sus fuerzas. Para sorpresa de todos, la final será disputada entre los novatos de cada escuela. ¿Podrá Onoda demostrar su valía y asegurar la victoria?",
+                    "genre": "Deportes, Drama",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/world-trigger-s2-latino-episodio-1",
-                        "name": "World Trigger S2 Latino Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ41gO0T_d5ZsCnaQ/fn/track.m3u8",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoBTACagoKCAg3EAEYASACcgYKBAg3EAJ41gO0T_d5ZsCnaQ/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxvvwpqz3b4quuoisqrwy2ijumjprmk6uxiey764k7fbgackcnvr7vs7azeslvt67zcetyx/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxvvwpqz3b4quuoisqrwy2ijumjprmk6uxiey764k7fbgackcnvr7vs7azeslvt67zcetyx/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m170.uqload.io/3rfkvd3errw2q4drdj6pvi5tditkg6xdqdjljgsw2mxle2bb2z2qvfwb2tua/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m170.uqload.io/3rfkvd3errw2q4drdj6pvi5tditkg6xdqdjljgsw2mxle2bb2z2qvfwb2tua/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoAzACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoEFoAeMAFMQFz0-4-spg/fn/track.m3u8",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoAzACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYI2AYQ4AMQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoEFoAeMAFMQFz0-4-spg/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoATACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoCFoAeMAFDjvfMy6MIy4/fn/track.m3u8",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoATACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYIqAMQ8AEQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoCFoAeMAFDjvfMy6MIy4/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoAjACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoCFoAeMAFKMbJ89qZx50/fn/track.m3u8",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoAjACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYIgAUQ6AIQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoCFoAeMAFKMbJ89qZx50/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoBDACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoIFoAeMAF8hv2NAbNK9c/fn/track.m3u8",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEoBDACaikSJwgBEiMKDwoICICghwgQ4F0QAhjABVoQCgYIgAoQ0AUQGCgZWgIQAnIeEhwIAhIYChAKCQiA8M0dEMTYAhACGMAFYgQoIFoAeMAF8hv2NAbNK9c/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEwAmopEicIARIjCg8KCAiAoIcIEOBdEAIYwAVaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgPDNHRDE2AIQAhjABWIEKAhaAHjABb0kN_wqxDRr/fn/track.m3u8",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://vd252.mycdn.me/expires/1702254881840/clientType/0/srcIp/13.91.68.167/type/2/mid/8185644321502/id/5484909169374/ms/45.136.21.53/zs/43/srcAg/GECKO/urls/185.226.53.23/oq/0/ct/28/sig/EzrvulI5hdI/ondemand/CN6VwPDQnwEwAmopEicIARIjCg8KCAiAoIcIEOBdEAIYwAVaEAoGCIACEJABEBgoGVoCEAJyHhIcCAISGAoQCgkIgPDNHRDE2AIQAhjABWIEKAhaAHjABb0kN_wqxDRr/fn/track.m3u8",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-silent-night-2023-مترجم",
+                                "title": "   Silent Night 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-satria-dewa-gatotkaca-2022-مترجم",
+                                "title": "   Satria Dewa: Gatotkaca 2022 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-the-sacrifice-game-2023-مترجم",
+                                "title": "   The Sacrifice Game 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-farang-2023-مترجم",
+                                "title": "   Farang 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-fast-charlie-2023-مترجم",
                                 "title": "   Fast Charlie 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/40c849cb02d761d354bd9cbe9ec52b17.jpg"
@@ -165,26 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-dealing-with-christmas-2023-مترجم",
                                 "title": "   Dealing With Christmas 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/50de0c9a1ed654a0ac74c78e0482f10e.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-the-marvels-مدبلج",
-                                "title": "   The Marvels مدبلج",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/ec49206300ee455433840bcb0c1dc5a6.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-lonesome-soldier-2023-مترجم",
-                                "title": "   Lonesome Soldier 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-manodrome-2023-مترجم",
-                                "title": "   Manodrome 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-lonesome-soldier-2023-مدبلج",
-                                "title": "   Lonesome Soldier 2023 مدبلج",
-                                "thumbnail_url": "https://cdn.egybest.vip/"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-fast-charlie-2023-مترجم",
-                    "title": "  Fast Charlie 2023 ",
-                    "description": "مشاهدة فيلم الاكشن والجريمة والدراما Fast Charlie 2023 مترجم بجودة 1080p WEB-DL مشاهدة اون لاين مباشرة وتحميل مباشر يتناول العمل قصة القاتل المأجور المخلص تشارلي سويفت، والذي يدخل في معركة كبيرة ودائرة من الانتقام حينما يتعرض زعيم العصابة الخاصة به للقتل.",
+                    "url": "/movie/مشاهدة-فيلم-silent-night-2023-مترجم",
+                    "title": "  Silent Night 2023 ",
+                    "description": "",
                     "genre": "دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/m/40c849cb02d761d354bd9cbe9ec52b17.jpg",
+                    "thumbnail_url": "https://cdn.egybest.vip/",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-fast-charlie-2023-مترجم",
-                        "name": "  Fast Charlie 2023 ",
+                        "url": "/movie/مشاهدة-فيلم-silent-night-2023-مترجم",
+                        "name": "  Silent Night 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
