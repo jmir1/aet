@@ -203,8 +203,45 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/720p.mp4?expires=1702361368&token=tnh_VDOkFCfGJdNxdq6xdQ",
+                        "quality": "Blkom - 720p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/720p.mp4?expires=1702361368&token=tnh_VDOkFCfGJdNxdq6xdQ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/1080p.mp4?expires=1702361368&token=_oSDAzohBtxzqFzwfXadeg",
+                        "quality": "Blkom - 1080p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/1080p.mp4?expires=1702361368&token=_oSDAzohBtxzqFzwfXadeg",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/480p.mp4?expires=1702361368&token=8RxhLCKBM6X89WEa56w_BA",
+                        "quality": "Blkom - 480p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/480p.mp4?expires=1702361368&token=8RxhLCKBM6X89WEa56w_BA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/360p.mp4?expires=1702361368&token=JmyocvV7FDlVkqFQEZkeGQ",
+                        "quality": "Blkom - 360p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/6572870596b5b/360p.mp4?expires=1702361368&token=JmyocvV7FDlVkqFQEZkeGQ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

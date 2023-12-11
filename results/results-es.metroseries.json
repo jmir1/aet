@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/blaze-y-los-monster-machines/",
+                                "title": "Blaze y los Monster Machines",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/curso-del-73/",
                                 "title": "Curso del 73",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/the-couple-next-door/",
-                                "title": "The Couple Next Door",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/la-roca/",
-                                "title": "La Roca",
+                                "url": "/conversaciones-entre-amigos/",
+                                "title": "Conversaciones entre amigos",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/roar/",
-                                "title": "Roar",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1LfTFs5NLbbqe9DlajYdfw8eHyD.jpg"
+                                "url": "/las-kardashian-2022/",
+                                "title": "Las Kardashian (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/ozG4vhWrb5KYZHUfhl9c3IJjfOg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,34 +134,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/curso-del-73/",
-                    "title": "Curso del 73",
-                    "description": "En Curso del 73 de Antena 3 el alumnado se someterá al lema del San Severo: estudio, disciplina y constancia pero desde la perspectiva de los años 70.",
-                    "genre": "",
+                    "url": "/blaze-y-los-monster-machines/",
+                    "title": "Blaze y los Monster Machines",
+                    "description": "¡Blaze es el gran héroe y campeón de las pistas de carreras de Ciudad Axle! Donde quiera que haya problemas, él es la solución, ya que puede hacer cosas que ningún otro camión puede. Tiene súper velocidad, que le permite acelerar para ir más rápido que cualquier otro camión monstruo.",
+                    "genre": "Animación, Familia, Kids",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/curso-del-73-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Fin de curso",
-                        "date_upload": 1348963200000,
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/episode/curso-del-73-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - Noche de acampada",
-                        "date_upload": 1348358400000,
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
