@@ -17,13 +17,13 @@
                                 "thumbnail_url": ""
                             },
                             {
-                                "url": "/anime/tian-guan-ci-fu-2nd-season/",
-                                "title": "Tian Guan Ci Fu 2nd Season",
+                                "url": "/anime/kusuriya-no-hitorigoto/",
+                                "title": "Kusuriya no Hitorigoto",
                                 "thumbnail_url": ""
                             },
                             {
-                                "url": "/anime/kusuriya-no-hitorigoto/",
-                                "title": "Kusuriya no Hitorigoto",
+                                "url": "/anime/tian-guan-ci-fu-2nd-season/",
+                                "title": "Tian Guan Ci Fu 2nd Season",
                                 "thumbnail_url": ""
                             },
                             {
@@ -407,14 +407,14 @@
                                 "thumbnail_url": "https://anime-owl.net/cover/arifureta-shokugyou-de-sekai-saikyou.jpg"
                             },
                             {
-                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu/",
-                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
-                                "thumbnail_url": "https://anime-owl.net/cover/rezero-kara-hajimeru-isekai-seikatsu.jpg"
-                            },
-                            {
                                 "url": "/anime/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito/",
                                 "title": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
                                 "thumbnail_url": "https://anime-owl.net/cover/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito.jpg"
+                            },
+                            {
+                                "url": "/anime/rezero-kara-hajimeru-isekai-seikatsu/",
+                                "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+                                "thumbnail_url": "https://anime-owl.net/cover/rezero-kara-hajimeru-isekai-seikatsu.jpg"
                             },
                             {
                                 "url": "/anime/tondemo-skill-de-isekai-hourou-meshi/",
@@ -511,8 +511,47 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: vidstreaming.io: Name or service not known",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyMzgzMTYyNjAxLCJpcCI6IjE3Mi4xODMuMTA3LjI0NCIsImlhdCI6MTcwMjM4MzE2Mn0.IpprPVnD4rdnfWdSs45fkuCb1Z42XFybYq7GRxrUr4Q&service=1",
+                        "quality": "Luffy - Deafult - Sub",
+                        "videoUrl": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyMzgzMTYyNjAxLCJpcCI6IjE3Mi4xODMuMTA3LjI0NCIsImlhdCI6MTcwMjM4MzE2Mn0.IpprPVnD4rdnfWdSs45fkuCb1Z42XFybYq7GRxrUr4Q&service=1",
+                        "headers": {
+                            "host": "monkey-d-luffy.site",
+                            "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "accept-language": "en-US,en;q=0.5",
+                            "accept-encoding": "gzip, deflate, br",
+                            "referer": "https://portablegaming.co/",
+                            "cache-control": "max-age=600",
+                            "sec-fetch-dest": "video",
+                            "sec-fetch-mode": "no-cors",
+                            "sec-fetch-site": "cross-site",
+                            "range": "bytes=0-",
+                            "connection": "keep-alive"
+                        }
+                    },
+                    {
+                        "url": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyMzgzMTYyNjAxLCJpcCI6IjE3Mi4xODMuMTA3LjI0NCIsImlhdCI6MTcwMjM4MzE2Mn0.IpprPVnD4rdnfWdSs45fkuCb1Z42XFybYq7GRxrUr4Q&service=2",
+                        "quality": "Kaido - Deafult - Sub",
+                        "videoUrl": "https://monkey-d-luffy.site/v1/files?resolution=default&id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbmltZV9pZCI6Ik1qRTJOek01IiwidGltZXN0YW1wIjoxNzAyMzgzMTYyNjAxLCJpcCI6IjE3Mi4xODMuMTA3LjI0NCIsImlhdCI6MTcwMjM4MzE2Mn0.IpprPVnD4rdnfWdSs45fkuCb1Z42XFybYq7GRxrUr4Q&service=2",
+                        "headers": {
+                            "host": "monkey-d-luffy.site",
+                            "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
+                            "accept-language": "en-US,en;q=0.5",
+                            "accept-encoding": "gzip, deflate, br",
+                            "referer": "https://portablegaming.co/",
+                            "cache-control": "max-age=600",
+                            "sec-fetch-dest": "video",
+                            "sec-fetch-mode": "no-cors",
+                            "sec-fetch-site": "cross-site",
+                            "range": "bytes=0-",
+                            "connection": "keep-alive"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
