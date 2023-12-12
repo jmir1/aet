@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "VfMHealtSGw2zVmi",
+                                "title": "Dog Signal",
+                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/VfMHealtSGw2zVmi"
+                            },
+                            {
                                 "url": "JgCt29t9MebiRSdQ",
                                 "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. 2nd Season Specials",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/JgCt29t9MebiRSdQ"
@@ -100,11 +105,6 @@
                                 "url": "2krKEih1YANkqpWe",
                                 "title": "Bokura no Ameiro Protocol",
                                 "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/2krKEih1YANkqpWe"
-                            },
-                            {
-                                "url": "J0YRJuPeuN71oMWe",
-                                "title": "Potion-danomi de Ikinobimasu!",
-                                "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/J0YRJuPeuN71oMWe"
                             }
                         ],
                         "hasNextPage": true
@@ -244,14 +244,14 @@
             },
             "details": {
                 "result": {
-                    "url": "JgCt29t9MebiRSdQ",
-                    "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. 2nd Season Specials",
-                    "author": "A-1 Pictures",
-                    "description": "Episodes 14–16 of OreImo 2 which finish adapting the OreImo novels.",
-                    "genre": "Comedy, Otaku Culture, Romance",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/JgCt29t9MebiRSdQ",
+                    "url": "VfMHealtSGw2zVmi",
+                    "title": "Dog Signal",
+                    "author": "Fugaku",
+                    "description": "A dog trainer's job is to bring dogs and people together. Miyu Samura, an indecisive young man, meets Shinichiro Niwa, a miracle-working dog trainer, while walking the dog forced on him by his ex-girlfriend. The chance encounter will greatly change Miyu's life! Thus begins the story about the growth of a new dog trainer!\n\n(Source: MAL News)",
+                    "genre": "Adult Cast, Josei, Pets, Slice of Life, Workplace",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://api.animeonsen.xyz/v4/image/210x300/VfMHealtSGw2zVmi",
                     "initialized": true
                 },
                 "passed": true
@@ -259,14 +259,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "JgCt29t9MebiRSdQ/video/3",
-                        "name": "Episode 3: My Little Sister Can't Be This Cute.",
-                        "episode_number": 3.0
+                        "url": "VfMHealtSGw2zVmi/video/8",
+                        "name": "Episode 8: Exclusive",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "JgCt29t9MebiRSdQ/video/2",
-                        "name": "Episode 2: My Little Sister Is This Cute",
-                        "episode_number": 2.0
+                        "url": "VfMHealtSGw2zVmi/video/7",
+                        "name": "Episode 7: Things I Want to Protect",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -274,17 +274,21 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/JgCt29t9MebiRSdQ/3/manifest.mpd",
+                        "url": "https://cdn.animeonsen.xyz/video/mp4-dash/VfMHealtSGw2zVmi/8/manifest.mpd",
                         "quality": "Default (720p)",
-                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/JgCt29t9MebiRSdQ/3/manifest.mpd",
+                        "videoUrl": "https://cdn.animeonsen.xyz/video/mp4-dash/VfMHealtSGw2zVmi/8/manifest.mpd",
                         "headers": {
                             "user-agent": "Aniyomi/app (mobile)",
                             "referer": "https://animeonsen.xyz"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://api.animeonsen.xyz/v4/subtitles/JgCt29t9MebiRSdQ/en-US/3",
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/VfMHealtSGw2zVmi/en-US/8",
                                 "lang": "English"
+                            },
+                            {
+                                "url": "https://api.animeonsen.xyz/v4/subtitles/VfMHealtSGw2zVmi/zh-CN/8",
+                                "lang": "中文 (Simplified)"
                             }
                         ]
                     }
