@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/homens-da-lei-bass-reeves",
+                                "title": "Homens da Lei: Bass Reeves",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
+                            },
+                            {
+                                "url": "/serie/online/rick-and-morty",
+                                "title": "Rick e Morty",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
+                            },
+                            {
+                                "url": "/serie/online/companheiros-de-viagem",
+                                "title": "Companheiros de Viagem",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-curse",
+                                "title": "The Curse",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-couple-next-door",
+                                "title": "The Couple Next Door",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22554.webp"
+                            },
+                            {
                                 "url": "/serie/online/hilda",
                                 "title": "Hilda",
                                 "status": 1,
@@ -245,12 +275,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22539.webp"
                             },
                             {
-                                "url": "/serie/online/the-curse",
-                                "title": "The Curse",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
-                            },
-                            {
                                 "url": "/serie/online/doce-misterio",
                                 "title": "Doce Mistério",
                                 "status": 1,
@@ -263,18 +287,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
                             },
                             {
-                                "url": "/serie/online/rick-and-morty",
-                                "title": "Rick e Morty",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
-                            },
-                            {
-                                "url": "/serie/online/companheiros-de-viagem",
-                                "title": "Companheiros de Viagem",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
-                            },
-                            {
                                 "url": "/serie/online/captain-tsubasa-2018",
                                 "title": "Super Campeões",
                                 "status": 2,
@@ -285,12 +297,6 @@
                                 "title": "Found",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
-                            },
-                            {
-                                "url": "/serie/online/homens-da-lei-bass-reeves",
-                                "title": "Homens da Lei: Bass Reeves",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
                             },
                             {
                                 "url": "/serie/online/one-piece",
@@ -339,12 +345,6 @@
                                 "title": "Uma Família Quase Perfeita",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22548.webp"
-                            },
-                            {
-                                "url": "/serie/online/os-bucaneiros",
-                                "title": "Os Bucaneiros",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22525.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -549,16 +549,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20045.webp"
                             },
                             {
-                                "url": "/serie/online/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
-                                "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20354.webp"
-                            },
-                            {
                                 "url": "/serie/online/shinsekai-yori",
                                 "title": "Shinsekai Yori",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19742.webp"
+                            },
+                            {
+                                "url": "/serie/online/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+                                "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20354.webp"
                             },
                             {
                                 "url": "/serie/online/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
