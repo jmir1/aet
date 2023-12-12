@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/axegrinder-5-blood-vengeance/",
+                                "title": "Axegrinder 5 Blood Vengeance",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/axegrinder-5-blood-vengeance_list.jpg"
+                            },
+                            {
+                                "url": "/the-haunted-village-jinn/",
+                                "title": "Lanet Ervah Cinleri",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-haunted-village-jinn_list.jpg"
+                            },
+                            {
+                                "url": "/johnny/",
+                                "title": "Johnny",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/johnny_list.jpg"
+                            },
+                            {
                                 "url": "/the-threat-next-door/",
                                 "title": "The Threat Next Door",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-threat-next-door_list.jpg"
@@ -130,21 +145,6 @@
                                 "url": "/vay-basima-gelenler-2-bucuk/",
                                 "title": "Vay Başıma Gelenler 2 Buçuk",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/vay-basima-gelenler-2-bucuk_list.jpg"
-                            },
-                            {
-                                "url": "/the-lord-of-the-seagull/",
-                                "title": "Martıların Efendisi",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-lord-of-the-seagull_list.jpg"
-                            },
-                            {
-                                "url": "/rhinegold/",
-                                "title": "Ren Altını",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/rhinegold_list.jpg"
-                            },
-                            {
-                                "url": "/jungleland-izle-hdf-hdf-4/",
-                                "title": "Jungleland: Rüyaya Yolculuk",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/jungleland-izle_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,6 +156,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/shin-godzilla/",
+                                "title": "Shin Godzilla",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/shin-godzilla_list.jpg"
+                            },
                             {
                                 "url": "/mission-impossible-7-8/",
                                 "title": "Mission: Impossible - Ölümcül Hesaplaşma Birinci Bölüm",
@@ -230,11 +235,6 @@
                                 "url": "/your-christmas-or-mine-2-hdfc/",
                                 "title": "Your Christmas or Mine 2",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/your-christmas-or-mine-2-hdfc_list.jpg"
-                            },
-                            {
-                                "url": "/your-christmas-or-mine-84/",
-                                "title": "Your Christmas Or Mine?",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/your-christmas-or-mine_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,14 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-threat-next-door/",
-                    "title": "The Threat Next Door",
-                    "artist": "Shiva Negar, Kimberly-Sue Murray, Johnathan Sousa, Amber Goldfarb, Tammy Isbell, Milton Barnes",
-                    "description": "Kocasından ayrılırken zorlu işi ve kızı Daphne'yi idare etmek arasında denge kurmaya çalışan hastane araştırmacısı Maria, a rkadaş canlısı yeni komşusu Eve'i bebek bakıcılığı yapması için görevlendirir. Ancak Maria çok geçmeden Havva'nın gizli amaçları olduğunu öğrenir ve Daphne'nin kendisine ait olması için elinden geleni yapar.",
-                    "genre": "Gerilim",
+                    "url": "/axegrinder-5-blood-vengeance/",
+                    "title": "Axegrinder 5 Blood Vengeance",
+                    "artist": "Andrea Martina, Jeremiah Benjamin, Sally Mullins, Veronica Ricci, Apricot Pitts",
+                    "description": "Freddy Palmer'ın son katliamının tek sağ kalanı, cinayetlerden sorumlu tutulur ve akıl hastanesine yatırılır. Kısa sürede kaçar ve bir kadın punk rock grubuyla saklanarak, kadınlar Palmer'ı ormanındaki öldürme alanında avlamak için bir ekip oluştururlar.",
+                    "genre": "Korku",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-threat-next-door.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/axegrinder-5-blood-vengeance.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -429,7 +429,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-threat-next-door/",
+                        "url": "/axegrinder-5-blood-vengeance/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -439,69 +439,91 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMJRzTXlFMO1WS14karFjWq1UMaRURz80VZRjWE1UMNpXSx40RGlWTUdWP:1702321813:20.55.15.17:f7a0178e0a8abb0f8e4647ee9b9c8f599947dc8f7315d52f085bb304af97d7ae/./720/index.m3u8",
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./720/index.m3u8",
                         "quality": "[Altyazı] XBet - 720p",
-                        "videoUrl": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMJRzTXlFMO1WS14karFjWq1UMaRURz80VZRjWE1UMNpXSx40RGlWTUdWP:1702321813:20.55.15.17:f7a0178e0a8abb0f8e4647ee9b9c8f599947dc8f7315d52f085bb304af97d7ae/./720/index.m3u8",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./720/index.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://trstx.org",
-                            "Referer": "https://trstx.org/movie/076d30eeb88e8391e636c7867c439e13/iframe"
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
                         }
                     },
                     {
-                        "url": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaBFzTXZFba1mUqpFRGtmTqV1dPdUUy4UbFBjWqFkeZpGbo5kaNdnT6dWP:1702321811:20.55.15.17:34b45cbc765364668d3c146004ad80987ced6978b41a7cdcad9e7bc9305908a8/./720/index.m3u8",
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./720/index.m3u8",
                         "quality": "[Dublaj] XBet - 720p",
-                        "videoUrl": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaBFzTXZFba1mUqpFRGtmTqV1dPdUUy4UbFBjWqFkeZpGbo5kaNdnT6dWP:1702321811:20.55.15.17:34b45cbc765364668d3c146004ad80987ced6978b41a7cdcad9e7bc9305908a8/./720/index.m3u8",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./720/index.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://trstx.org",
-                            "Referer": "https://trstx.org/movie/076d30eeb88e8391e636c7867c439e13/iframe"
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
                         }
                     },
                     {
-                        "url": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMJRzTXlFMO1WS14karFjWq1UMaRURz80VZRjWE1UMNpXSx40RGlWTUdWP:1702321813:20.55.15.17:f7a0178e0a8abb0f8e4647ee9b9c8f599947dc8f7315d52f085bb304af97d7ae/./480/index.m3u8",
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./1080/index.m3u8",
+                        "quality": "[Altyazı] XBet - 1080p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./480/index.m3u8",
                         "quality": "[Altyazı] XBet - 482p",
-                        "videoUrl": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMJRzTXlFMO1WS14karFjWq1UMaRURz80VZRjWE1UMNpXSx40RGlWTUdWP:1702321813:20.55.15.17:f7a0178e0a8abb0f8e4647ee9b9c8f599947dc8f7315d52f085bb304af97d7ae/./480/index.m3u8",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./480/index.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://trstx.org",
-                            "Referer": "https://trstx.org/movie/076d30eeb88e8391e636c7867c439e13/iframe"
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
                         }
                     },
                     {
-                        "url": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMJRzTXlFMO1WS14karFjWq1UMaRURz80VZRjWE1UMNpXSx40RGlWTUdWP:1702321813:20.55.15.17:f7a0178e0a8abb0f8e4647ee9b9c8f599947dc8f7315d52f085bb304af97d7ae/./360/index.m3u8",
-                        "quality": "[Altyazı] XBet - 360p",
-                        "videoUrl": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMJRzTXlFMO1WS14karFjWq1UMaRURz80VZRjWE1UMNpXSx40RGlWTUdWP:1702321813:20.55.15.17:f7a0178e0a8abb0f8e4647ee9b9c8f599947dc8f7315d52f085bb304af97d7ae/./360/index.m3u8",
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./360/index.m3u8",
+                        "quality": "[Altyazı] XBet - 358p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbOh2TEFVNZpnVrl1VNJzTEtWeadkWr1keRFTW6FEMNpGZp1UbKxmWXlUP:1702345092:20.109.60.245:2553c36616584a0989c2ac008191466c2322ac74ec3686a6e2c6d5db0735d3cf/./360/index.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://trstx.org",
-                            "Referer": "https://trstx.org/movie/076d30eeb88e8391e636c7867c439e13/iframe"
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
                         }
                     },
                     {
-                        "url": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaBFzTXZFba1mUqpFRGtmTqV1dPdUUy4UbFBjWqFkeZpGbo5kaNdnT6dWP:1702321811:20.55.15.17:34b45cbc765364668d3c146004ad80987ced6978b41a7cdcad9e7bc9305908a8/./480/index.m3u8",
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./1080/index.m3u8",
+                        "quality": "[Dublaj] XBet - 1080p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./480/index.m3u8",
                         "quality": "[Dublaj] XBet - 482p",
-                        "videoUrl": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaBFzTXZFba1mUqpFRGtmTqV1dPdUUy4UbFBjWqFkeZpGbo5kaNdnT6dWP:1702321811:20.55.15.17:34b45cbc765364668d3c146004ad80987ced6978b41a7cdcad9e7bc9305908a8/./480/index.m3u8",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./480/index.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://trstx.org",
-                            "Referer": "https://trstx.org/movie/076d30eeb88e8391e636c7867c439e13/iframe"
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
                         }
                     },
                     {
-                        "url": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaBFzTXZFba1mUqpFRGtmTqV1dPdUUy4UbFBjWqFkeZpGbo5kaNdnT6dWP:1702321811:20.55.15.17:34b45cbc765364668d3c146004ad80987ced6978b41a7cdcad9e7bc9305908a8/./360/index.m3u8",
-                        "quality": "[Dublaj] XBet - 360p",
-                        "videoUrl": "https://cdn0.trstx.org/stream/6a9121af370f35f14e42d1c1d24e7030/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaBFzTXZFba1mUqpFRGtmTqV1dPdUUy4UbFBjWqFkeZpGbo5kaNdnT6dWP:1702321811:20.55.15.17:34b45cbc765364668d3c146004ad80987ced6978b41a7cdcad9e7bc9305908a8/./360/index.m3u8",
+                        "url": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./360/index.m3u8",
+                        "quality": "[Dublaj] XBet - 358p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/9d03876a3ff06290005f0cab95208f00/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVBJjTqlkeZRlWs1ERs1mWUpUaPRVWz0ERKxmWXVFMadUUw40RFl3TEFUP:1702345091:20.109.60.245:097dd517667cf0e9a5606e10c86ee8abf7351f0374d98acd755c77c0a07909e9/./360/index.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://trstx.org",
-                            "Referer": "https://trstx.org/movie/076d30eeb88e8391e636c7867c439e13/iframe"
+                            "Referer": "https://trstx.org/movie/d6b2f0634ad3ff8cc8b2c6f0add61a22/iframe"
                         }
                     }
                 ],
