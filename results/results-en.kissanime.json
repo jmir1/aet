@@ -267,6 +267,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
+                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
+                            },
+                            {
+                                "url": "/Anime/Tokyo-Revengers-Tenjiku-hen/",
+                                "title": "Tokyo Revengers Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Tokyo-Revengers-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/love-flops-dub.59711/",
+                                "title": "Love Flops (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Love-Flops-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Migi-amp-Dali-Dub/",
+                                "title": "Migi&Dali (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/helck.53960/",
+                                "title": "Helck",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/06/Helck.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Saint-s-Magic-Power-is-Omnipotent-II/",
+                                "title": "The Saint's Magic Power is Omnipotent II",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Saint-s-Magic-Power-is-Omnipotent-II.jpg"
+                            },
+                            {
+                                "url": "/Anime/Paradox-Live-THE-ANIMATION/",
+                                "title": "Paradox Live THE ANIMATION",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Paradox-Live-THE-ANIMATION.jpg"
+                            },
+                            {
                                 "url": "/Anime/BLUE-GIANT/",
                                 "title": "BLUE GIANT",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/BLUE-GIANT.jpg"
@@ -280,11 +315,6 @@
                                 "url": "/Anime/Dead-Mount-Death-Play-Part-2-Dub/",
                                 "title": "Dead Mount Death Play Part 2 (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Dead-Mount-Death-Play-Part-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Migi-amp-Dali-Dub/",
-                                "title": "Migi&Dali (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Migi-amp-Dali-Dub.jpg"
                             },
                             {
                                 "url": "/Anime/SHY-Dub/",
@@ -485,36 +515,6 @@
                                 "url": "/Anime/One-Piece.54191/",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
-                            },
-                            {
-                                "url": "/Anime/Soaring-Sky-Pretty-Cure/",
-                                "title": "Soaring Sky! Pretty Cure",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
-                            },
-                            {
-                                "url": "/Anime/Protocol-Rain/",
-                                "title": "Protocol: Rain",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Protocol-Rain.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
-                            },
-                            {
-                                "url": "/Anime/i-shall-survive-using-potions.26519/",
-                                "title": "I Shall Survive Using Potions!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-Shall-Survive-Using-Potions.jpg"
-                            },
-                            {
-                                "url": "/Anime/butareba-the-story-of-a-man-turned-into-a-pig.18382/",
-                                "title": "Butareba -The Story of a Man Turned into a Pig-",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Butareba-The-Story-of-a-Man-Turned-into-a-Pig.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Returner-s-Magic-Should-Be-Special/",
-                                "title": "A Returner's Magic Should Be Special",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/A-Returner-s-Magic-Should-Be-Special.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -523,8 +523,14 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
                 "result": {
