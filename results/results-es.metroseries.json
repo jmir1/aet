@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/los-farad/",
+                                "title": "Los Farad",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/bajo-presion-la-seleccion-femenina-de-ee-uu-y-el-mundial-de-futbol/",
+                                "title": "Bajo presión: La selección femenina de EE. UU. y el Mundial de fútbol",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/lego-friends-el-nuevo-capitulo/",
+                                "title": "Lego Friends: El nuevo capítulo",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/blaze-y-los-monster-machines/",
                                 "title": "Blaze y los Monster Machines",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -42,23 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/mi-vida-con-los-chicos-walter/",
-                                "title": "Mi vida con los chicos Walter",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/mismatch/",
-                                "title": "Mismatch",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/isabel-preylser-mi-navidad/",
-                                "title": "Isabel Preylser, mi Navidad",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/conversaciones-entre-amigos/",
-                                "title": "Conversaciones entre amigos",
+                                "url": "/atlanta/",
+                                "title": "Atlanta",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-strain/",
-                                "title": "The Strain",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/Af9R1cq2miQoBznzbAC1rfHombd-226x339.jpg"
+                                "url": "/ridley-jones/",
+                                "title": "Ridley Jones",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6BzkRAldoqpolMuAmNa9XnbMw83.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,21 +134,34 @@
             },
             "details": {
                 "result": {
-                    "url": "/blaze-y-los-monster-machines/",
-                    "title": "Blaze y los Monster Machines",
-                    "description": "¡Blaze es el gran héroe y campeón de las pistas de carreras de Ciudad Axle! Donde quiera que haya problemas, él es la solución, ya que puede hacer cosas que ningún otro camión puede. Tiene súper velocidad, que le permite acelerar para ir más rápido que cualquier otro camión monstruo.",
-                    "genre": "Animación, Familia, Kids",
+                    "url": "/los-farad/",
+                    "title": "Los Farad",
+                    "description": "Un joven que durante la década de los 80 sueña con montar un gimnasio en Marbella, pero en su afán por ello acaba en la industria del tráfico de armas.",
+                    "genre": "Crimen, Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/los-farad-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - La decisión final",
+                        "date_upload": 1702339200000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/los-farad-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Una nueva especie de Farad",
+                        "date_upload": 1702339200000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

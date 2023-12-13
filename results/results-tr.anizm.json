@@ -3,7 +3,7 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
@@ -298,12 +298,17 @@
                     {
                         "url": "https://voe.sx/e/otm4bqync4rm",
                         "quality": "[RaionSubs] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-ulampvobprvdaz8k.voe-network.net/engine/hls2/01/10078/otm4bqync4rm_,n,.urlset/master.m3u8?t=O514-kMuZAme3bZA4tT_qejYbYQknm4AmThbYJ0E6kA&s=1702447840&e=14400&f=50393983&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=13.88&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-ulampvobprvdaz8k.voe-network.net/engine/hls2/01/10078/otm4bqync4rm_,n,.urlset/master.m3u8?t=CTmGFhENJxZcNYIDdeYx-PHsEf35DmX8C-5R15fkcCA&s=1702469559&e=14400&f=50393983&node=delivery-node-ulampvobprvdaz8k.voe-network.net&i=20.75&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://videos2-h.sendvid.com/hls/c0/89/cx5c6979.mp4/index-v1-a1.m3u8?validfrom=1702440641&validto=1702455041&rate=250k&ip=13.88.99.143&hdl=-1&hash=TAs6Um18db2GKJ0EaMszd%2F2zYjo%3D",
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=%2BXtBE7t8fhv%2BWNYAXjyQowN1wnHNGgoFIGqzoueDuFmoxjRKlLrTkwfnTybX6YtXPfv3p6bZc19qXXucfP%2Bps8jtd2HHEgBetXvTy%2B2OAGtfWLBtbmVs5zQZ41qwAPj8BHide3kGKY8hucdh2TmvIikL78KYMyVT5drLNsQ8y%2FdHZNch0tfvGwAaGfyNGI3as%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
+                        "quality": "[RaionSubs] GDRIVE 720p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=%2BXtBE7t8fhv%2BWNYAXjyQowN1wnHNGgoFIGqzoueDuFmoxjRKlLrTkwfnTybX6YtXPfv3p6bZc19qXXucfP%2Bps8jtd2HHEgBetXvTy%2B2OAGtfWLBtbmVs5zQZ41qwAPj8BHide3kGKY8hucdh2TmvIikL78KYMyVT5drLNsQ8y%2FdHZNch0tfvGwAaGfyNGI3as%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://videos2-h.sendvid.com/hls/c0/89/cx5c6979.mp4/index-v1-a1.m3u8?validfrom=1702462360&validto=1702476760&rate=250k&ip=20.75.95.247&hdl=-1&hash=9RP5v7D4MLxknt6fYLQYKOxQL30%3D",
                         "quality": "[RaionSubs] Sendvid:720p ",
-                        "videoUrl": "https://videos2-h.sendvid.com/hls/c0/89/cx5c6979.mp4/index-v1-a1.m3u8?validfrom=1702440641&validto=1702455041&rate=250k&ip=13.88.99.143&hdl=-1&hash=TAs6Um18db2GKJ0EaMszd%2F2zYjo%3D",
+                        "videoUrl": "https://videos2-h.sendvid.com/hls/c0/89/cx5c6979.mp4/index-v1-a1.m3u8?validfrom=1702462360&validto=1702476760&rate=250k&ip=20.75.95.247&hdl=-1&hash=9RP5v7D4MLxknt6fYLQYKOxQL30%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Origin": "https://sendvid.com",
@@ -313,14 +318,14 @@
                         }
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=V9IYGTjerfsQ%2BIZZ27syCwuOGYsHUQ4av0ckDY9Qg%2F1Zpcof%2Fhi%2F3Mtb4kFIU4ERQQt0xtGRwE7A2SLn2YEjsHVSaICav7bqX5%2BbuD6LvxBK27eMzzOASaHU2%2FMJKZ%2FRdNeid92KPg6mXhN8ka6D2rvKMgdQP8s6RD95zxCQRvBKjDf%2FA7TdVUkIxAe%2BipGUA%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=%2BXtBE7t8fhv%2BWNYAXjyQowN1wnHNGgoFIGqzoueDuFmoxjRKlLrTkwfnTybX6YtXPfv3p6bZc19qXXucfP%2Bps8jtd2HHEgBetXvTy%2B2OAGtfWLBtbmVs5zQZ41qwAPj8BHide3kGKY8hucdh2TmvIikL78KYMyVT5drLNsQ8y%2FdHZNch0tfvGwAaGfyNGI3as%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
                         "quality": "[RaionSubs] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=V9IYGTjerfsQ%2BIZZ27syCwuOGYsHUQ4av0ckDY9Qg%2F1Zpcof%2Fhi%2F3Mtb4kFIU4ERQQt0xtGRwE7A2SLn2YEjsHVSaICav7bqX5%2BbuD6LvxBK27eMzzOASaHU2%2FMJKZ%2FRdNeid92KPg6mXhN8ka6D2rvKMgdQP8s6RD95zxCQRvBKjDf%2FA7TdVUkIxAe%2BipGUA%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=%2BXtBE7t8fhv%2BWNYAXjyQowN1wnHNGgoFIGqzoueDuFmoxjRKlLrTkwfnTybX6YtXPfv3p6bZc19qXXucfP%2Bps8jtd2HHEgBetXvTy%2B2OAGtfWLBtbmVs5zQZ41qwAPj8BHide3kGKY8hucdh2TmvIikL78KYMyVT5drLNsQ8y%2FdHZNch0tfvGwAaGfyNGI3as%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=qvV0XV2VpkcLdj&expires=1702517855&ip=F0AsFxgnDS9X&token=ACTxk9_0cV3O",
+                        "url": "https://streamtape.com/get_video?id=qvV0XV2VpkcLdj&expires=1702539563&ip=FROsEHMnDS9X&token=eOF7gGJLdAcd",
                         "quality": "[RaionSubs] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=qvV0XV2VpkcLdj&expires=1702517855&ip=F0AsFxgnDS9X&token=ACTxk9_0cV3O"
+                        "videoUrl": "https://streamtape.com/get_video?id=qvV0XV2VpkcLdj&expires=1702539563&ip=FROsEHMnDS9X&token=eOF7gGJLdAcd"
                     }
                 ],
                 "passed": true

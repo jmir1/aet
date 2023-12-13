@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-the-portrait-2023-مترجم",
+                                "title": "   The Portrait 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/m/db172b80082d6403200c900015b84942.jpg"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-a-wine-country-christmas-2023-مترجم",
+                                "title": "   A Wine Country Christmas 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/m/b6c78442b4ac6c844d9e1a9785fc3036.jpg"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-all-souls-2023-مترجم",
                                 "title": "   All Souls 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/"
@@ -175,16 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-barbie-2023-مترجم",
                                 "title": "   Barbie 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/be2fa1e6f52d8ecf50946e32f6e2cbd2.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-blue-beetle-2023-مترجم",
-                                "title": "   Blue Beetle 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/99dc1e783f2ea8449546162e93475ecd.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-a-haunting-in-venice-2023-مترجم",
-                                "title": "   A Haunting in Venice 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/664deec07fd9f93ea357afc8d9841885.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-all-souls-2023-مترجم",
-                    "title": "  All Souls 2023 ",
-                    "description": "",
-                    "genre": "دراما",
+                    "url": "/movie/مشاهدة-فيلم-the-portrait-2023-مترجم",
+                    "title": "  The Portrait 2023 ",
+                    "description": "مشاهدة فيلم الرعب والغموض والاثارة The Portrait 2023 مترجم بجودة 720p HDCAM مشاهدة اون لاين مباشرة وتحميل مباشر بعد أن تعرض زوجها لحادث مأساوي، أصبحت الزوجة المخلصة مهووسة بصورة غامضة تشبهه كما كان؛ ولكن عندما يبدأ في ترويعها، يجب عليها أن تقرر ما إذا كانت ممسوسة أم أنها تفقد عقلها.",
+                    "genre": "غموض",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/",
+                    "thumbnail_url": "https://cdn.egybest.vip/m/db172b80082d6403200c900015b84942.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-all-souls-2023-مترجم",
-                        "name": "  All Souls 2023 ",
+                        "url": "/movie/مشاهدة-فيلم-the-portrait-2023-مترجم",
+                        "name": "  The Portrait 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
