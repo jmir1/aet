@@ -3,64 +3,8 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/channel/monarch-legacy-of-monsters-2023/",
-                                "title": "Monarch: Legacy of M...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-THumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/fargo-2014/",
-                                "title": "Fargo (2014 – )",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Fargo-thumb-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/the-curse-2023/",
-                                "title": "The Curse (2023 – )",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Curse-2023-THumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/squid-game-the-challenge-2023/",
-                                "title": "Squid Game: The Chal...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-Thumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/slow-horses-2022/",
-                                "title": "Slow Horses (2022 &#...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Slow-Horses-thumb-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/for-all-mankind-2019-7/",
-                                "title": "For All Mankind (201...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/For-All-Mankind-thumb-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/fellow-travelers-2023/",
-                                "title": "Fellow Travelers (20...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Fellow-Travelers-2023-THumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/the-artful-dodger-2023/",
-                                "title": "The Artful Dodger (2023)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Artful-Dodger-2023-Thumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/obliterated-2023/",
-                                "title": "Obliterated (2023 – )",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Obliterated-2023-Tumbnail-150x150.jpg"
-                            },
-                            {
-                                "url": "/channel/a-murder-at-the-end-of-the-world-2023/",
-                                "title": "A Murder at the End ...",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Thumbnail-150x150.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
@@ -284,27 +228,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/channel/monarch-legacy-of-monsters-2023/",
-                    "description": "Set after the battle between Godzilla and the Titans, revealing that monsters are real, follows one family’s journey to uncover its buried secrets and a legacy linking them to Monarch.",
-                    "genre": "Action, Adventure, Sci-Fi",
+                    "url": "/a-separation-2011/",
+                    "description": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer’s disease.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "https://vidsrc.to/embed/tv/tt17220216/1/5",
-                        "name": "Season 1 Ep. 5",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "https://vidsrc.to/embed/tv/tt17220216/1/4",
-                        "name": "Season 1 Ep. 4",
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
