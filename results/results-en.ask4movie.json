@@ -3,12 +3,118 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/a-separation-2011/",
+                                "title": "A Separation (2011)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/A-Separation-2011.jpg"
+                            },
+                            {
+                                "url": "/the-worlds-end-2013/",
+                                "title": "The World’s End (2013)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Worlds-End-2013-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-legend-of-hercules-2014/",
+                                "title": "The Legend of Hercules (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Legend-of-Hercules-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/transporter-2-2005/",
+                                "title": "Transporter 2 (2005)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Transporter-2-2005-Cover.jpg"
+                            },
+                            {
+                                "url": "/underworld-rise-of-the-lycans-2009/",
+                                "title": "Underworld: Rise of the Lycans (2009)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Underworld-Rise-of-the-Lycans-2009-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-mountain-ii-2016/",
+                                "title": "The Mountain II (2016)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Mountain-II-2016-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-nut-job-2014/",
+                                "title": "The Nut Job (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Nut-Job-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/wrong-turn-2003/",
+                                "title": "Wrong Turn (2003)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Wrong-Turn-2003-Cover.jpg"
+                            },
+                            {
+                                "url": "/tron-legacy-2010/",
+                                "title": "TRON: Legacy (2010)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/TRON-Legacy-2010-Cover.jpg"
+                            },
+                            {
+                                "url": "/woman-in-gold-2015/",
+                                "title": "Woman in Gold (2015)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Woman-in-Gold-2015-Cover.jpg"
+                            },
+                            {
+                                "url": "/tinker-bell-and-the-pirate-fairy-2014/",
+                                "title": "Tinker Bell and the Pirate Fairy (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Tinker-Bell-and-the-Pirate-Fairy-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-water-diviner-2014/",
+                                "title": "The Water Diviner (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Water-Diviner-2014-COver.jpg"
+                            },
+                            {
+                                "url": "/the-loft-2014/",
+                                "title": "The Loft (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Loft-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/time-freak-2018/",
+                                "title": "Time Freak (2018)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Time-Freak-2018-COver.jpg"
+                            },
+                            {
+                                "url": "/the-best-of-me-2014/",
+                                "title": "The Best of Me (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Best-of-Me-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-babadook-2014/",
+                                "title": "The Babadook (2014)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Babadook-2014-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-case-for-christ-2017/",
+                                "title": "The Case for Christ (2017)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Case-for-Christ-2017-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-girl-with-all-the-gifts-2016/",
+                                "title": "The Girl with All the Gifts (2016)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Girl-with-All-the-Gifts-2016-COver.jpg"
+                            },
+                            {
+                                "url": "/science-fiction-volume-one-the-osiris-child-2016/",
+                                "title": "Science Fiction Volume One: The Osiris Child (2016)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Science-Fiction-Volume-One-The-Osiris-Child-2016-Cover.jpg"
+                            },
+                            {
+                                "url": "/the-courier-2019/",
+                                "title": "The Courier (2019)",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Courier-2019-Cover.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -122,9 +228,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/leave-the-world-behind-2023/",
-                    "description": "A family’s getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
-                    "genre": "Drama, Thriller",
+                    "url": "/a-separation-2011/",
+                    "description": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer’s disease.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true

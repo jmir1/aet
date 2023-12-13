@@ -299,8 +299,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://psd1.youdbox.site/d/jcwsrilsxm3qv3jsqcpnkpubn7l2ebgejixfmptna2sgnpx3vyawnkwnk3c23tjhkbgvutkr/video.mp4",
+                        "quality": "Yodbox: mirror",
+                        "videoUrl": "https://psd1.youdbox.site/d/jcwsrilsxm3qv3jsqcpnkpubn7l2ebgejixfmptna2sgnpx3vyawnkwnk3c23tjhkbgvutkr/video.mp4"
+                    },
+                    {
+                        "url": "https://m150.uqload.io/3rfkwi42snw2q4drdj4pvjxrbz755yj3aebf75by5jsuyvyyxr6md5okxv4a/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m150.uqload.io/3rfkwi42snw2q4drdj4pvjxrbz755yj3aebf75by5jsuyvyyxr6md5okxv4a/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

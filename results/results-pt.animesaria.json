@@ -306,7 +306,7 @@
                 "result": {
                     "url": "/anime/32/neon_genesis_evangelion_the_end_of_evangelion",
                     "title": "Neon Genesis Evangelion: The End of Evangelion",
-                    "description": "Com o anjo final derrotado, Nerv tem um último inimigo a ser enfrentado - os humanos sob o comando de Seele. Deixado em profunda depressão próximo ao final da série original, um indeciso Shinji Ikari luta com o ultimato que lhe é apresentado: aceitar completamente a existência da humanidade ou renunciar à individualidade da humanidade. Enquanto isso, no centro de um Nerv comprometido, Gendou Ikari e Rei Ayanami se aproximam de Lilith na tentativa de realizar seus próprios ideais em relação ao futuro do mundo. The End of Evangelion serve como um final alternativo para os episódios finais de polarização de Neon Genesis Evangelion. Com o destino do universo em jogo, a batalha final climática se aproxima. [Escrito por MAL Rewrite]\n\nTítulos Alternativos: Neon Genesis Evangelion: O Fim do Evangelho, Shinseiki Evangelion Gekijouban: The End of Evangelion, Neon Genesis Evangelion: The End of Evangelion, 新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION\nTipo: Filme\nAno: 1997\n",
+                    "description": "Com o anjo final derrotado, Nerv tem um último inimigo a ser enfrentado - os humanos sob o comando de Seele. Deixado em profunda depressão próximo ao final da série original, um indeciso Shinji Ikari luta com o ultimato que lhe é apresentado: aceitar completamente a existência da humanidade ou renunciar à individualidade da humanidade. Enquanto isso, no centro de um Nerv comprometido, Gendou Ikari e Rei Ayanami se aproximam de Lilith na tentativa de realizar seus próprios ideais em relação ao futuro do mundo. The End of Evangelion serve como um final alternativo para os episódios finais de polarização de Neon Genesis Evangelion. Com o destino do universo em jogo, a batalha final climática se aproxima. [Escrito por MAL Rewrite]\n\nTítulos Alternativos: Neon Genesis Evangelion: O Fim do Evangelho, Shinseiki Evangelion Gekijouban: The End of Evangelion, Neon Genesis Evangelion: The End of Evangelion, 新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION\nTipo: Filme\nAno: 1997\nMídia: 1\n",
                     "genre": "Drama, Ficção Científica, Mecha, Psicológico, Vanguarda",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -316,8 +316,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/32/neon_genesis_evangelion_the_end_of_evangelion/episodio/1/dublado",
+                        "name": "Episódio 1",
+                        "episode_number": 1.0,
+                        "scanlator": "dublado"
+                    },
+                    {
+                        "url": "/anime/32/neon_genesis_evangelion_the_end_of_evangelion/episodio/1/legendado",
+                        "name": "Episódio 1",
+                        "episode_number": 1.0,
+                        "scanlator": "legendado"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
