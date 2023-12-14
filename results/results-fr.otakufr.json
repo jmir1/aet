@@ -67,15 +67,36 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": {
+                    "url": "/anime/100-man-no-inochi-no-ue-ni-ore-wa-tatte-iru/",
+                    "author": "",
+                    "description": "L’histoire se centre sur Yusuke Yotsuya, un lycéen presque sans ami qui n’est inscrit dans aucun club.\n\nUn jour, lui et ses camarades de classes Shindou Iu et Hakozaki Kusue se retrouve dans un autre monde où ils vont devoir travailler ensemble pour survivre.\n\nEn arrivant, ils vont à la rencontre du Game Master, une personne leur donnant une quête limitée dans le temps. Pour les aider dans cette quête, il confère également à Iu et Kusue les rôles de magicien et de guerrier, tandis que Yotsuya se voit attribuer au hasard le rôle de fermier.\n\nC’est ainsi que débute l’aventure de trois lycéens obligés de terminer des quêtes dans ce monde s’ils veulent rester en vie et protéger le monde réel des démons et des monstres qu’ils rencontrent.\n\nAutre Nom: I'm Standing on 1,000,000 Lives / I'm Standing on a Million Lives\nAuteur:\nRéalisateur:\nType: Serie\nSortie initiale: 2020\nDurée: 24min",
+                    "genre": "Action, Aventure, Comedie, Drame, Fantastique, Harem, Samurai, Shounen",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/100-man-no-inochi-no-ue-ni-ore-wa-tatte-iru-24-vostfr/",
+                        "name": "100-man no Inochi no Ue ni Ore wa Tatte Iru 24 Vostfr",
+                        "date_upload": 1632441600000,
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/episode/100-man-no-inochi-no-ue-ni-ore-wa-tatte-iru-23-vostfr/",
+                        "name": "100-man no Inochi no Ue ni Ore wa Tatte Iru 23 Vostfr",
+                        "date_upload": 1631836800000,
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to extract videos",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             }
         }
