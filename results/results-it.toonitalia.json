@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/il-minatore-dello-spazio/",
+                                "title": "Il minatore dello spazio",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/12/pgObeFQvhOguBDZwTweRrSHb1zH.jpg"
+                            },
+                            {
                                 "url": "/shin-getter-robot-contro-neo-getter-robot/",
                                 "title": "Shin Getter Robot contro Neo Getter Robot",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/12/f9ffEEynCScv6XjSs9sAFhxUep1.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/il-club-della-magia/",
                                 "title": "Il club della magia!",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/12/fJIRsIhsPQB9J3VSNwhQOFE6JYl.jpg"
-                            },
-                            {
-                                "url": "/film-anime/diario-di-una-schiappa-a-natale-si-salvi-chi-puo-2023/",
-                                "title": "Diario di una schiappa a Natale – Si salvi chi puo! 2023",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/12/diario-di-una-schiappa-a-natale---si-salvi-chi-puo!-2023.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -124,20 +124,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/shin-getter-robot-contro-neo-getter-robot/",
-                    "title": "Shin Getter Robot contro Neo Getter Robot",
-                    "description": "L’Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un’epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l’estinzione ed ora la squadra Getter rimane l’unico baluardo difensivo della Terra. Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L’unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l’autodistruzione… Dalla devastante esploslone del Getter-1 sono passati due anni. L’Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario. Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d’occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell’esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico. La battaglia è stata vinta ma ora ricomincia la guerra contro l’impero invasore. Shin Getter Robot contro Neo Getter Robot streaming ita.\nScheda della serieTitolo: Shin Getter Robot contro Neo Getter RobotGenere: Sci-Fi & Fantasy, Animazione, Action & AdventureCast: Naoya Uchida, Hideo Ishikawa, Naoya Uchida, Takahiro Sakurai, Toshiharu SakuraiAnno: 2000Nazione: JPVoto: 7.7Voti: 3",
-                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/12/f9ffEEynCScv6XjSs9sAFhxUep1.jpg",
+                    "url": "/il-minatore-dello-spazio/",
+                    "title": "Il minatore dello spazio",
+                    "description": "Nanbu Ushiwaka, nato e crescuto nello spazio, sogna di divenire astronauta seguendo le orme del padre. Purtroppo a causa di un incidente, Nanbu rimane solo nello spazio… cosa gli succederà? Il minatore dello spazio streaming ita.\nScheda della serieTitolo: Il minatore dello spazioGenere: Animazione, Action & Adventure, Sci-Fi & FantasyCast: Kappei Yamaguchi, Akio OtsukaAnno: 1994Nazione: JPVoto: 6Voti: 25",
+                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2023/12/pgObeFQvhOguBDZwTweRrSHb1zH.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/il-minatore-dello-spazio/#1",
+                        "name": "Stagione 01 - Episodi 02",
+                        "episode_number": 1.002
+                    },
+                    {
+                        "url": "/il-minatore-dello-spazio/#0",
+                        "name": "Stagione 01 - Episodi 01",
+                        "episode_number": 1.001
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
