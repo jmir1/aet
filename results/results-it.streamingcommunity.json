@@ -127,6 +127,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/cb258ef4-3960-4d0d-bda4-2262d43f9038.webp"
                             },
                             {
+                                "url": "7060-one-trillion-dollars",
+                                "title": "One Trillion Dollars",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/425e2048-1c74-4bd9-ab41-c83c4c91a361.webp"
+                            },
+                            {
                                 "url": "6976-napoleon",
                                 "title": "Napoleon",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/200d73fe-1eea-4b12-8271-76e726ac7cf8.webp"
@@ -300,11 +305,6 @@
                                 "url": "6803-nuovo-olimpo",
                                 "title": "Nuovo Olimpo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c4cf68bb-655c-44b8-85da-02a4a387c27b.webp"
-                            },
-                            {
-                                "url": "6919-la-terapia-di-sebastian-fitzek",
-                                "title": "La terapia di Sebastian Fitzek",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d82f9d68-555d-4c6e-ab0e-69ab753c19fa.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7063-compagni-di-viaggio",
+                                "title": "Compagni di viaggio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a444a688-5221-4178-ba11-563bf297fb5a.webp"
+                            },
+                            {
+                                "url": "7062-e-adesso-sesso",
+                                "title": "E adesso sesso",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/18d7d06c-76c3-4904-810e-504942d19ac2.webp"
+                            },
+                            {
+                                "url": "7061-waco",
+                                "title": "Waco",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a0d69af1-96e6-4bba-bc23-22cc2f62618e.webp"
+                            },
+                            {
+                                "url": "7060-one-trillion-dollars",
+                                "title": "One Trillion Dollars",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/425e2048-1c74-4bd9-ab41-c83c4c91a361.webp"
+                            },
                             {
                                 "url": "7058-un-safari-per-natale",
                                 "title": "Un safari per Natale",
@@ -384,7 +404,7 @@
                             {
                                 "url": "7043-rh",
                                 "title": "RH+",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/13c01362-fcea-406a-afce-26c22d12d674.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f0abffd3-bf3f-44a3-a549-b6baf5143824.webp"
                             },
                             {
                                 "url": "7042-lara-croft-tomb-raider",
@@ -475,6 +495,11 @@
                                 "url": "7021-camera-cafe",
                                 "title": "Camera Café",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d6a31f7f-56fb-4899-bb57-49336c30b74c.webp"
+                            },
+                            {
+                                "url": "7020-silent-night-il-silenzio-della-vendetta",
+                                "title": "Silent Night - Il silenzio della vendetta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8b9ebcd7-fac8-4b58-9202-06fc9c548fe1.webp"
                             },
                             {
                                 "url": "7019-thanksgiving",
@@ -590,31 +615,6 @@
                                 "url": "6991-come-una-moglie",
                                 "title": "Come una moglie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/6e1aa301-c243-4d4b-bbb6-780ffe07a066.webp"
-                            },
-                            {
-                                "url": "6988-kids-vs-aliens",
-                                "title": "Kids vs. Aliens",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/88e4b99e-7585-438c-9336-642909196f8a.webp"
-                            },
-                            {
-                                "url": "6985-se-mi-lasci-ti-cancello",
-                                "title": "Se mi lasci ti cancello",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d7c07a25-1aa4-4d94-a1b8-34b4d1440189.webp"
-                            },
-                            {
-                                "url": "6984-tenacious-d-e-il-destino-del-rock",
-                                "title": "Tenacious D e il destino del rock",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c6d885f-7111-4336-8a08-3e0ad3685856.webp"
-                            },
-                            {
-                                "url": "6983-buon-natale-da-candy-cane-lane",
-                                "title": "Buon Natale da Candy Cane Lane",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a58d352d-66e6-4593-9253-6d1fe7d57b1e.webp"
-                            },
-                            {
-                                "url": "6982-james-may-oh-cook",
-                                "title": "James May: Oh Cook!",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/050a3f94-3bc6-4fcc-875b-b31c4983e3ed.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7053?episode_id=45365\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.broker/iframe/7053?episode_id=45365\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14510161899030150866/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14510161899030150866/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14510161899030150866/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14510161899030150866/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

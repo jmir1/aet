@@ -227,6 +227,48 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/bookie",
+                                "title": "Bookie",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
+                            },
+                            {
+                                "url": "/serie/online/os-bucaneiros",
+                                "title": "Os Bucaneiros",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22525.webp"
+                            },
+                            {
+                                "url": "/serie/online/assassinato-no-fim-do-mundo",
+                                "title": "Assassinato no Fim do Mundo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
+                            },
+                            {
+                                "url": "/serie/online/virgin-river",
+                                "title": "Virgin River",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18696.webp"
+                            },
+                            {
+                                "url": "/serie/online/marselha-em-perigo",
+                                "title": "Marselha em Perigo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22552.webp"
+                            },
+                            {
+                                "url": "/serie/online/frasier",
+                                "title": "Frasier",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22493.webp"
+                            },
+                            {
+                                "url": "/serie/online/minha-vida-com-a-familia-walter",
+                                "title": "Minha Vida com a Família Walter",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22553.webp"
+                            },
+                            {
                                 "url": "/serie/online/homens-da-lei-bass-reeves",
                                 "title": "Homens da Lei: Bass Reeves",
                                 "status": 1,
@@ -281,12 +323,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22516.webp"
                             },
                             {
-                                "url": "/serie/online/assassinato-no-fim-do-mundo",
-                                "title": "Assassinato no Fim do Mundo",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
-                            },
-                            {
                                 "url": "/serie/online/captain-tsubasa-2018",
                                 "title": "Super Campeões",
                                 "status": 2,
@@ -309,42 +345,6 @@
                                 "title": "Spy x Family",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19689.webp"
-                            },
-                            {
-                                "url": "/serie/online/sweet-home",
-                                "title": "Sweet Home",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19172.webp"
-                            },
-                            {
-                                "url": "/serie/online/scott-pilgrim-a-serie",
-                                "title": "Scott Pilgrim: A Série",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22540.webp"
-                            },
-                            {
-                                "url": "/serie/online/shining-vale",
-                                "title": "Shining Vale",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19645.webp"
-                            },
-                            {
-                                "url": "/serie/online/explosivos",
-                                "title": "Explosivos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22550.webp"
-                            },
-                            {
-                                "url": "/serie/online/bookie",
-                                "title": "Bookie",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
-                            },
-                            {
-                                "url": "/serie/online/uma-familia-quase-perfeita",
-                                "title": "Uma Família Quase Perfeita",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22548.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

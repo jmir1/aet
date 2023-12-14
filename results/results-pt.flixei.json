@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/pequena-solange/online/gratis",
+                                "title": "Pequena Solange",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40081.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/uma-aventura-de-natal/online/gratis",
+                                "title": "Uma Aventura de Natal",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40080.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/meu-nome-e-gal/online/gratis",
+                                "title": "Meu Nome é Gal",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40079.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/nao-odeie/online/gratis",
                                 "title": "Não Odeie",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40077.jpg"
@@ -265,21 +280,6 @@
                                 "url": "/assistir/filme/tire-5-cartas/online/gratis",
                                 "title": "Tire 5 Cartas",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40053.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/os-reis-de-queenstown/online/gratis",
-                                "title": "Os Reis de Queenstown",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40052.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/rustin/online/gratis",
-                                "title": "Rustin",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40051.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/nos-vemos-em-venus/online/gratis",
-                                "title": "Nos Vemos Em Vênus",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40050.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1756,8 +1756,41 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=u5hbcXMcki_b4zf1KW6AWw&e=1702535491&_t=1702514844",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=u5hbcXMcki_b4zf1KW6AWw&e=1702535491&_t=1702514844",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=Yj963mYkzi29pIpy5_rVEQ&e=1702535491&_t=1702516615",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=Yj963mYkzi29pIpy5_rVEQ&e=1702535491&_t=1702516615",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1702583891&ip=G0WsDROZKxSHDN&token=-xLiJE9DETRn",
+                        "quality": "Streamtape(LEGENDADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=7Pz4kdwpkpUJP3&expires=1702583891&ip=G0WsDROZKxSHDN&token=-xLiJE9DETRn"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1702583889&ip=G0WsDROZKxSHDN&token=pXzP32rLJaDT",
+                        "quality": "Streamtape(DUBLADO)",
+                        "videoUrl": "https://streamtape.com/get_video?id=pLdKKRAqgasX44&expires=1702583889&ip=G0WsDROZKxSHDN&token=pXzP32rLJaDT"
+                    }
+                ],
+                "passed": true
             }
         }
     }

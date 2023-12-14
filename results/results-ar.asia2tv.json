@@ -7,6 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "/يوم-واحد/",
+                                "title": "يوم واحد One Day"
+                            },
+                            {
+                                "url": "/ذيبان-في-الحب/",
+                                "title": "ذيبان في الحب Thaibaan in Love"
+                            },
+                            {
                                 "url": "/بطل-منزلي/",
                                 "title": "بطل منزلي My Home Hero"
                             },
@@ -165,14 +173,6 @@
                             {
                                 "url": "/أسوأ-شر/",
                                 "title": "أسوأ شر The Worst Evil"
-                            },
-                            {
-                                "url": "/خطة-الشيطان/",
-                                "title": "خطة الشيطان The Devil’s Plan"
-                            },
-                            {
-                                "url": "/كتاب-اللوتس-الغامض/",
-                                "title": "كتاب اللوتس الغامض Mysterious Lotus Casebook"
                             }
                         ],
                         "hasNextPage": true
@@ -276,11 +276,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/بطل-منزلي/",
-                    "title": "بطل منزلي My Home Hero",
-                    "description": "قصة الدراما تدور حول رجل يخرق القانون، لكن عندما يلاحظ جرحاً على وجه ابنته، يقرر التتبع لها حتى يعرف السبب. بإذن الوقت، يتحول من رجل يحترم القانون إلى رجل عصابات. Sasaki-Kuranosuke : في دور Tosu Tetsuo Takahashi-Kyohei : في دور Majima Kyoichi Saito-Asuka : في دور Tosu Reika Kimura-Tae : في دور Tosu Kasen Fuchikami-Yasushi : في دور Takeda Naito-Shuichiro : في دور Matori Nobuto",
-                    "genre": "اليابان, إثارة, عائلي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/12/mindra_main_E3839EE382A4E3839BE383BCE383A0E38392E383BCE383ADE383BC_E3839BE3829AE382B9E382BFE383BCE38392E38299E382B7E38299E383A5E382A2E383ABEFBC88E38395E383ABE38392E38299E383AAE383B3E382AFE38299EFBC89.png",
+                    "url": "/يوم-واحد/",
+                    "title": "يوم واحد One Day",
+                    "description": "ثلاث شخصيات متجمعين من مساراتهم المختلفة يمارسون تحقيق في حادثة قتل فاقد للذاكرة، ومذيعة أخبار، وطباخ. Ninomiya-Kazunari : في دور Suguroji Seiji Nakatani-Miki : في دور Kurauchi Kikyo Osawa-Takao : في دور Tachiaoi Tokio Eguchi-Yosuke : في دور Mitsutani Mansaku Nakagawa-Taishi : في دور Fuehana Mizuki Fukumoto-Riko : في دور Tachiaoi Sako",
+                    "genre": "اليابان, إثارة, حياة, غموض, كوميدي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/12/o1080107315350551961.png",
                     "initialized": true
                 },
                 "passed": true
@@ -288,33 +288,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/بطل-منزلي-الحلقة-02/",
-                        "name": "02 : الحلقة"
-                    },
-                    {
-                        "url": "/بطل-منزلي-الحلقة-01/",
+                        "url": "/يوم-واحد-الحلقة-01/",
                         "name": "01 : الحلقة"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://psd1.youdbox.site/d/jcwsrilsxm3qv3jsqcpnkpubn7l2ebgejixfmptna2sgnpx3vyawnkwnk3c23tjhkbgvutkr/video.mp4",
-                        "quality": "Yodbox: mirror",
-                        "videoUrl": "https://psd1.youdbox.site/d/jcwsrilsxm3qv3jsqcpnkpubn7l2ebgejixfmptna2sgnpx3vyawnkwnk3c23tjhkbgvutkr/video.mp4"
-                    },
-                    {
-                        "url": "https://m150.uqload.io/3rfkwi42snw2q4drdj4pvjxrbz755yj3aebf75by5jsuyvyyxr6md5okxv4a/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m150.uqload.io/3rfkwi42snw2q4drdj4pvjxrbz755yj3aebf75by5jsuyvyyxr6md5okxv4a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
