@@ -92,6 +92,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74354/legendado",
+                                "title": "Under Ninja",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42828_background.jpg?v=1696538368"
+                            },
+                            {
+                                "url": "/episodio/74353/legendado",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42726_background.jpg?v=1688671216"
+                            },
+                            {
+                                "url": "/episodio/74352/legendado",
+                                "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42837_background.jpg?v=1696699055"
+                            },
+                            {
                                 "url": "/episodio/74351/legendado",
                                 "title": "One Piece: Taose! Kaizoku Ganzack",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/254_background.jpg?v=1702612750"
@@ -195,21 +210,6 @@
                                 "url": "/episodio/74333/dublado",
                                 "title": "Filme Pokemon Movie 18: Ring no Choumajin Hoopa",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/9550_background.jpg?v=1702535220"
-                            },
-                            {
-                                "url": "/episodio/74332/dublado",
-                                "title": "Filme Pokemon Movie 17: Hakai no Mayu to Diancie",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/28879_background.jpg?v=1702534949"
-                            },
-                            {
-                                "url": "/episodio/74331/dublado",
-                                "title": "Filme Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/7960_background.jpg?v=1702534744"
-                            },
-                            {
-                                "url": "/episodio/74330/dublado",
-                                "title": "Filme Pokemon Movie 15: Kyurem vs. Seikenshi",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/7450_background.jpg?v=1702534450"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\r\n\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

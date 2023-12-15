@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sindbad-the-7-galaxies",
+                                "title": "Sindbad & the 7 Galaxies",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933350.jpg"
+                            },
+                            {
+                                "url": "/anime/shutterbugs",
+                                "title": "Shutterbugs",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933349.jpg"
+                            },
+                            {
                                 "url": "/anime/dark-gathering-english-dubbed",
                                 "title": "Dark Gathering English Dubbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933348.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/rahan-2008",
                                 "title": "Rahan 2008",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933335.jpg"
-                            },
-                            {
-                                "url": "/anime/the-mouse-factory",
-                                "title": "The Mouse Factory",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933334.jpg"
-                            },
-                            {
-                                "url": "/anime/love-flops",
-                                "title": "Love Flops",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933333.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/dark-gathering-english-dubbed",
-                    "title": "Dark Gathering English Dubbed",
-                    "description": "Spirits have always been attracted to Keitarou Gentouga due to his strong spiritual presence. A traumatic encounter with one had caused his right hand to be cursed, forcing him to wear a glove at all times. Now a college freshman, Keitarou is trying to live as normal a life as possible. With the encouragement of his childhood friend Eiko Houzuki, he becomes a private tutor. Since he is at the top of his intake class, his first client is the tutoring firm’s most promising student, Yayoi Houzuki.",
-                    "genre": "Horror, Supernatural, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933348.jpg",
+                    "url": "/anime/sindbad-the-7-galaxies",
+                    "title": "Sindbad & the 7 Galaxies",
+                    "description": "Sindbad and the and Galaxies is a comedy adventure animated TV series for kids 4-11 years in which Sindbad and his friends Zac, Lana and Lee save the 7 Galaxies from disaster, after school.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933350.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/dark-gathering-episode-1-english-dubbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJj6nMtIGbZqGt5yInLgcOpg2MJQRfHkKWaOBAzar2qzerUmvlyKnuETU_nJ3HRMTNP8ynbxWUgb2avt9kDHaHhalqYYPTAKTukxbmBE7tLM6IJsKEMAHQ9LAZj1lR1lzRyDAseSaH9LGMeJWS0O727W8oJo4ZjGPsQL3RNc63EL9OxVCx-8t1E_r3asjk_5UWuuwRt7NmaHZdPQerwsJhevuXMZOI8Ty2GGM5f8GTgeD8dRT4r_tW9CFaG8ZJsCaKrbruU2Ac7qxY3Ow4Wj-WruqtM-SzRtkulT_tzNlQqCfXIFK7JYgr6Q71Hz_PytnhLgXsdfJGIXml59I8Gw1_7nCgCQgUWeQYdpE3DvTP4v2eG2R76H0-vLUGOjmE7wssQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJj6nMtIGbZqGt5yInLgcOpg2MJQRfHkKWaOBAzar2qzerUmvlyKnuETU_nJ3HRMTNP8ynbxWUgb2avt9kDHaHhalqYYPTAKTukxbmBE7tLM6IJsKEMAHQ9LAZj1lR1lzRyDAseSaH9LGMeJWS0O727W8oJo4ZjGPsQL3RNc63EL9OxVCx-8t1E_r3asjk_5UWuuwRt7NmaHZdPQerwsJhevuXMZOI8Ty2GGM5f8GTgeD8dRT4r_tW9CFaG8ZJsCaKrbruU2Ac7qxY3Ow4Wj-WruqtM-SzRtkulT_tzNlQqCfXIFK7JYgr6Q71Hz_PytnhLgXsdfJGIXml59I8Gw1_7nCgCQgUWeQYdpE3DvTP4v2eG2R76H0-vLUGOjmE7wssQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJj6nMtIGbZqGt5yInLgcOpg2MJQRfHkKWaOBAzar2qzerUmvlyKnuETU_nJ3HRMTNP8ynbxWUgb2avt9kDHaHhalqYYPTAKTukxbmBE7tLM6IJsKEMAHQ9LAZj1lR1lzR4OOrXQi9RDqM5VE69V2x-9kXQIqR7WJ9Hpvok2Ryt-qFgyupNnWIyvBQmwYS_vymauHBN8ZmH5fRJMxlEeCsqFnNf8K19fQd2ZzJkYX_DLysXhlYT0RXw8dE8cOYsJQjgTttMIbBY91PwYGlXYUu2teHQvXeb7kJVXhXEKKRWQisaY9Vaz9Rx6lxpcfpXVLxt6lna7y0pFMazlK4p3OVHj61tpdw_e15iZ7RbXW3p3lle-z-VI4iaV8ucVaheDuDg",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJj6nMtIGbZqGt5yInLgcOpg2MJQRfHkKWaOBAzar2qzerUmvlyKnuETU_nJ3HRMTNP8ynbxWUgb2avt9kDHaHhalqYYPTAKTukxbmBE7tLM6IJsKEMAHQ9LAZj1lR1lzR4OOrXQi9RDqM5VE69V2x-9kXQIqR7WJ9Hpvok2Ryt-qFgyupNnWIyvBQmwYS_vymauHBN8ZmH5fRJMxlEeCsqFnNf8K19fQd2ZzJkYX_DLysXhlYT0RXw8dE8cOYsJQjgTttMIbBY91PwYGlXYUu2teHQvXeb7kJVXhXEKKRWQisaY9Vaz9Rx6lxpcfpXVLxt6lna7y0pFMazlK4p3OVHj61tpdw_e15iZ7RbXW3p3lle-z-VI4iaV8ucVaheDuDg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJj6nMtIGbZqGt5yInLgcOpg2MJQRfHkKWaOBAzar2qzerUmvlyKnuETU_nJ3HRMTNP8ynbxWUgb2avt9kDHaHhalqYYPTAKTukxbmBE7tLM6IJsKEMAHQ9LAZj1lR1lzR5hbBT_PIZGD0KMrYqGSrlKP4q5aTU5kO6qi8mcdMeBZWaicu5d_6tdoTY6xYbU-wQSWir9vxUyStKwEhIHaEzeszktPw3bXdOA0kIlZbbkMas-10zE49kZHTlAqCpaSYGN7xzF_pbENZQ2Mu-vUaGpjt88EswtxrX5QufL4VUmQkKLI8oZTGqKIs8DEUMUVNbKbScUsIPM2fO2K7yCzcwuwE71dAJ1Ft4d1w2GaApdJNTXLBx7pH02jQRlAUnpJTw",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJj6nMtIGbZqGt5yInLgcOpg2MJQRfHkKWaOBAzar2qzerUmvlyKnuETU_nJ3HRMTNP8ynbxWUgb2avt9kDHaHhalqYYPTAKTukxbmBE7tLM6IJsKEMAHQ9LAZj1lR1lzR5hbBT_PIZGD0KMrYqGSrlKP4q5aTU5kO6qi8mcdMeBZWaicu5d_6tdoTY6xYbU-wQSWir9vxUyStKwEhIHaEzeszktPw3bXdOA0kIlZbbkMas-10zE49kZHTlAqCpaSYGN7xzF_pbENZQ2Mu-vUaGpjt88EswtxrX5QufL4VUmQkKLI8oZTGqKIs8DEUMUVNbKbScUsIPM2fO2K7yCzcwuwE71dAJ1Ft4d1w2GaApdJNTXLBx7pH02jQRlAUnpJTw"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

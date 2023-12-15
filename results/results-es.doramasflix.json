@@ -437,13 +437,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/iLrKRd4z9AwFNhnfpB6LpRctW7L.jpg"
                             },
                             {
-                                "url": "/doramas-online/secret-playlist?id=654c230382f554a16f9ffdeb",
-                                "title": "Secret Playlist (Playlist Secreta)",
-                                "description": "Basado en un popular webtoon, un drama romántico que trata sobre la relación secreta entre idols y YouTubers.\n\nHanju es una estudiante universitaria común y corriente... excepto por el hecho de que también es la prometedora artista de portada de Metube, PLII. Cuando Levi, miembro del popular grupo masculino, se da cuenta de PLII y solicita colaborar, Hanju hará cualquier cosa para ocultar su identidad secreta.\n\nPero a medida que los dos se acercan más trabajando en un proyecto de clase, la tapadera de Hanju comienza a desmoronarse. ¿Levi descubrirá su secreto?",
-                                "genre": "Drama, Romance, Comedia, Music",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/iwt7lKBi9spIjtwA3JaxWOdC36T.jpg"
-                            },
-                            {
                                 "url": "/doramas-online/love-like-a-k-drama?id=654c1ed682f554a16f9ffdc7",
                                 "title": "Love Like a K-Drama (Ama Como Un K-Drama)",
                                 "description": "¿Se enamorarán las personas cuando actúen juntas en un K-drama romántico?\n\nLove Like a K-Drama es un reality show de citas que se centra en cuatro actores coreanos y cuatro actrices japonesas que se unen para vivir y formar parejas para intentar conseguir papeles principales en seis mini K-dramas, junto con comentarios animados de los maestros de ceremonias del estudio.\n\n¿Podrán pasar la audición con la persona que aman o tendrán que presenciar cómo su interés romántico besa a sus competidores?",
@@ -463,6 +456,13 @@
                                 "description": "Recogí a un asesino.\n\nEl taxista despreocupado, Oh Taek, se cruza con un joven con largo recorrido a Mokpo mientras se ofrece a pagar un precio alto. Pronto, Oh Teak se da cuenta de que el hombre en su asiento trasero es un asesino en serie y comienza una ola de horror.",
                                 "genre": "Drama, Thriller, Misterio, Crimen",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/7ihwTl4I5RJYHmYQrdxcBEZwPSe.jpg"
+                            },
+                            {
+                                "url": "/doramas-online/goryeo-khitan-war?id=654bdadc82f554a16f9ffcf6",
+                                "title": "Goryeo-Khitan War (Guerra Goryeo-Khitan)",
+                                "description": "Un drama histórico que trata sobre el segundo y tercer período de la Guerra Goryeo-Khitan. El rey Hyeonjong de Goryeo y su maestro político, el comandante en jefe Gang Gam Chan, unen al pueblo de Goryeo y lideran una guerra contra Khitan.",
+                                "genre": "Drama, Acción, War, Política",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ybRecSKX9AyzZTNbs7EeyxrbLAG.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -601,8 +601,17 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/doramas-online/elegant-empire?id=64d3cb35bbc4b32fb2bb54fe",
+                    "title": "Elegant Empire (Imperio Elegante)",
+                    "artist": "Kim Jin-woo",
+                    "author": "KBS2",
+                    "description": "Un hombre y una mujer se vengan desesperadamente pero con elegancia después de ser pisoteados por un poder enorme.\n\nKi Joon es un presidente inteligente y guapo de WJ Entertainment. Es un rico romántico del siglo que parece perfecto por fuera, pero también es un hombre ambicioso con un oscuro secreto que no puede contar a los demás. Su esposa, Shin Ju Kyung, pudo salir de la pobreza al casarse con Ki Joon, al igual que la Cenicienta del cuento de hadas. Es una madre perfecta y una esposa encantadora con una gran carrera hasta que un incidente inesperado le roba todo. Jung Woo Hyeok, un actor novato en NA Entertainment que continúa su carrera como actor después de superar la miseria de su incompetente agencia, extraña a su mentora, Ju Kyung, quien desapareció repentinamente. Por el momento, Seo Hee Jae, que se parece a Ju Kyung, entra a NA Entertainment. Woo Hyuk se confunde cuando ve a Hee Jae y ella se acerca intencionalmente a Ki Joon.\n\n¿Quién destruyó su vida y cómo recuperará la vida perfecta que perdió?",
+                    "genre": "Drama, Romance, Acción, Thriller, Familia, Misterio, Crimen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/w4HHWY2sZrwPvvA9qy4dpYPSVPp.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
