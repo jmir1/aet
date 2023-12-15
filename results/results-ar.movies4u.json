@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/مشاهدة-فيلم-secret-woman-2023-مترجم",
+                                "title": "   Secret Woman 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-shenfenbuxiang-2023-مترجم",
+                                "title": "   ShenFenBuXiang 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-the-man-s-secret-2023-مترجم",
+                                "title": "   The Man’s Secret 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
+                                "url": "/movie/مشاهدة-فيلم-paper-bride-2023-مترجم",
+                                "title": "   Paper bride 2023 ",
+                                "thumbnail_url": "https://cdn.egybest.vip/"
+                            },
+                            {
                                 "url": "/movie/مشاهدة-فيلم-headless-2023-مترجم",
                                 "title": "   Headless 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/b499e170923b29078841f9fb22467671.jpg"
@@ -165,26 +185,6 @@
                                 "url": "/movie/مشاهدة-فيلم-retribution-2023-مترجم",
                                 "title": "   Retribution 2023 ",
                                 "thumbnail_url": "https://cdn.egybest.vip/m/196d9204dc1c1c272130acc62b134af3.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-the-expendables-4-2023-مترجم",
-                                "title": "   The Expendables 4 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/e830075695e105719f1c651b607119b4.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-silver-and-the-book-of-dreams-2023-مترجم",
-                                "title": "   Silver and the Book of Dreams 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/5e12331472cff276b95dbe731ea86768.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-mast-mein-rehne-ka-2023-مترجم",
-                                "title": "   Mast Mein Rehne Ka 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/66ea70decee3ce013791c83ac244c372.jpg"
-                            },
-                            {
-                                "url": "/movie/مشاهدة-فيلم-the-kill-room-2023-مترجم",
-                                "title": "   The Kill Room 2023 ",
-                                "thumbnail_url": "https://cdn.egybest.vip/m/e4db1646938a3109c51917feea03d11b.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -204,13 +204,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/مشاهدة-فيلم-headless-2023-مترجم",
-                    "title": "  Headless 2023 ",
-                    "description": "مشاهدة فيلم الاكشن Headless 2023 مترجم بجودة 1080p WEB-DL مشاهدة اون لاين مباشرة وتحميل مباشر تدور أحداث هذا الفيلم خلال فترة جمهورية الصين ويحكي قصة مو يوان الذي كان على حافة الموت. في ذهنه خلق هوية جديدة لنفسه باعتباره ضابط الشرطة، تشاو رن",
-                    "genre": "اكشن",
+                    "url": "/movie/مشاهدة-فيلم-secret-woman-2023-مترجم",
+                    "title": "  Secret Woman 2023 ",
+                    "description": "",
+                    "genre": "دراما",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.egybest.vip/m/b499e170923b29078841f9fb22467671.jpg",
+                    "thumbnail_url": "https://cdn.egybest.vip/",
                     "initialized": true
                 },
                 "passed": true
@@ -218,15 +218,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/مشاهدة-فيلم-headless-2023-مترجم",
-                        "name": "  Headless 2023 ",
+                        "url": "/movie/مشاهدة-فيلم-secret-woman-2023-مترجم",
+                        "name": "  Secret Woman 2023 ",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

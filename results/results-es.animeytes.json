@@ -217,6 +217,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/tv/under-ninja/",
+                                "title": "Under Ninja",
+                                "thumbnail_url": "https://i1.wp.com/animeyt.es/wp-content/uploads/2023/09/uenxChOdxyZg.jpg"
+                            },
+                            {
+                                "url": "/tv/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://i1.wp.com/animeyt.es/wp-content/uploads/2023/07/kwBoFMmzfhyF.jpg"
+                            },
+                            {
+                                "url": "/tv/jujutsu-kaisen-temporada-2/",
+                                "title": "Jujutsu Kaisen Temporada 2",
+                                "thumbnail_url": "https://i0.wp.com/animeyt.es/wp-content/uploads/2023/07/UiFYybuGIwJK.jpg"
+                            },
+                            {
+                                "url": "/tv/ojou-to-banken-kun/",
+                                "title": "Ojou to Banken-kun",
+                                "thumbnail_url": "https://i1.wp.com/animeyt.es/wp-content/uploads/2023/09/BneVpwrkFnQb.jpg"
+                            },
+                            {
                                 "url": "/tv/goblin-slayer-temporada-2-audio-latino/",
                                 "title": "Goblin Slayer Temporada 2 (Audio Latino)",
                                 "thumbnail_url": "https://i1.wp.com/animeyt.es/wp-content/uploads/2023/12/Kd1543TRXiuTf1Us.jpg"
@@ -230,11 +250,6 @@
                                 "url": "/tv/mahoutsukai-no-yome-temporada-2/",
                                 "title": "Mahoutsukai no Yome Temporada 2",
                                 "thumbnail_url": "https://i3.wp.com/animeyt.es/wp-content/uploads/2023/09/IZiGaBmJoJgo.jpg"
-                            },
-                            {
-                                "url": "/tv/jujutsu-kaisen-temporada-2/",
-                                "title": "Jujutsu Kaisen Temporada 2",
-                                "thumbnail_url": "https://i0.wp.com/animeyt.es/wp-content/uploads/2023/07/UiFYybuGIwJK.jpg"
                             },
                             {
                                 "url": "/tv/dr-stone-temporada-3-audio-latino/",
@@ -400,21 +415,6 @@
                                 "url": "/tv/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/",
                                 "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
                                 "thumbnail_url": "https://i3.wp.com/animeyt.es/wp-content/uploads/2023/09/zEJJyJAdahdR.jpg"
-                            },
-                            {
-                                "url": "/tv/captain-tsubasa-temporada-2-junior-youth-hen/",
-                                "title": "Captain Tsubasa Temporada 2: Junior Youth-hen",
-                                "thumbnail_url": "https://i1.wp.com/animeyt.es/wp-content/uploads/2023/09/bFxIyIzisejA.jpg"
-                            },
-                            {
-                                "url": "/tv/spy-x-family-temporada-2/",
-                                "title": "Spy x Family Temporada 2",
-                                "thumbnail_url": "https://i0.wp.com/animeyt.es/wp-content/uploads/2023/09/kPBhIYEAgeYu.jpg"
-                            },
-                            {
-                                "url": "/tv/bokura-no-ameiro-protocol/",
-                                "title": "Bokura no Ameiro Protocol",
-                                "thumbnail_url": "https://i1.wp.com/animeyt.es/wp-content/uploads/2023/10/j51gf56j1gf56h1g6f5.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -470,12 +470,54 @@
                 "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/anime/jujutsu-kaisen-temporada-2-capitulo-21/",
+                        "name": "Episode 21",
+                        "episode_number": 21.0
+                    },
+                    {
+                        "url": "/anime/jujutsu-kaisen-temporada-2-capitulo-20/",
+                        "name": "Episode 20",
+                        "episode_number": 20.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=3&sig=wfoGgzz1e9Q&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=3&sig=wfoGgzz1e9Q&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655"
+                    },
+                    {
+                        "url": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=4&sig=7bFv5d4c3EU&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=4&sig=7bFv5d4c3EU&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655"
+                    },
+                    {
+                        "url": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=0&sig=yfBEaziAVtI&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=0&sig=yfBEaziAVtI&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655"
+                    },
+                    {
+                        "url": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=1&sig=e9uLFiiL9ao&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=1&sig=e9uLFiiL9ao&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655"
+                    },
+                    {
+                        "url": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=2&sig=POyLEjVqlu4&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=2&sig=POyLEjVqlu4&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655"
+                    },
+                    {
+                        "url": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=5&sig=U3LhlklfUmI&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-8.vkuser.net/?expires=1702686744141&srcIp=20.75.94.33&pr=10&srcAg=GECKO&ms=95.142.206.135&type=5&sig=U3LhlklfUmI&ct=0&urls=45.136.21.50%3B45.136.22.37&clientType=0&zs=43&id=5732013181655"
+                    }
+                ],
+                "passed": true
             }
         }
     }

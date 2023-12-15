@@ -117,6 +117,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/jujutsu-kaisen-2nd-season-dubbed/",
+                                "title": "Jujutsu Kaisen 2nd Season DUB",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/Jujutsu-Kaisen-2nd-Season-DUB-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/rurouni-kenshin-meiji-kenkaku-romantan-2023/",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/07/1688632218-3127-136532.jpg"
+                            },
+                            {
+                                "url": "/anime/under-ninja/",
+                                "title": "Under Ninja",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/1696497974-9434-137896.jpg"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season-sub/",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/06/Jujutsu-Kaisen-2nd-Season-poster-2.jpg"
+                            },
+                            {
                                 "url": "/anime/ojou-to-banken-kun/",
                                 "title": "Ojou to Banken-kun",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/09/1695912382-3762-138479.jpg"
@@ -125,11 +145,6 @@
                                 "url": "/anime/the-yuzuki-familys-four-sons/",
                                 "title": "The Yuzuki Family’s Four Sons",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Yuzuki-Familys-Four-Sons-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season-sub/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/06/Jujutsu-Kaisen-2nd-Season-poster-2.jpg"
                             },
                             {
                                 "url": "/anime/the-ancient-magus-bride-season-2-part-2/",
@@ -200,21 +215,6 @@
                                 "url": "/anime/undead-unluck-dub/",
                                 "title": "Undead Unluck DUB",
                                 "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/12/Undead-Unluck-DUB-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/nanatsu-no-taizai-mokushiroku-no-yonkishi/",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696748432-8129-138530.jpg"
-                            },
-                            {
-                                "url": "/anime/tokyo-revengers-tenjiku-hen-uncensored/",
-                                "title": "Tokyo Revengers: Tenjiku-hen (Uncensored)",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696337402-7720-138322.jpg"
-                            },
-                            {
-                                "url": "/anime/helck/",
-                                "title": "Helck",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/07/Helck-poster2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspysji32yzcrvczjq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspysji32yzcrvczjq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspysji3257vibcusq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspysji3257vibcusq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
