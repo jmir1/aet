@@ -139,16 +139,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3720.webp"
                             },
                             {
-                                "url": "/serie/online/prison-break-em-busca-da-verdade",
-                                "title": "Prison Break: Em Busca da Verdade",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18600.webp"
-                            },
-                            {
                                 "url": "/serie/online/rick-and-morty",
                                 "title": "Rick e Morty",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
+                            },
+                            {
+                                "url": "/serie/online/prison-break-em-busca-da-verdade",
+                                "title": "Prison Break: Em Busca da Verdade",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18600.webp"
                             },
                             {
                                 "url": "/serie/online/dois-homens-e-meio",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
