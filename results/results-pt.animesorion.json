@@ -92,6 +92,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74351/legendado",
+                                "title": "One Piece: Taose! Kaizoku Ganzack",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/254_background.jpg?v=1702612750"
+                            },
+                            {
+                                "url": "/episodio/74350/dublado",
+                                "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2626_background.jpg?v=1702608189"
+                            },
+                            {
+                                "url": "/episodio/74349/dublado",
+                                "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2626_background.jpg?v=1702608189"
+                            },
+                            {
+                                "url": "/episodio/74348/dublado",
+                                "title": "Pokemon: Mewtwo! Ware wa Koko ni Ari",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2626_background.jpg?v=1702608189"
+                            },
+                            {
                                 "url": "/episodio/74347/dublado",
                                 "title": "Filme Doraemon Movie 30: Nobita no Ningyo Daikaisen",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5675_background.jpg?v=1701766928"
@@ -190,26 +210,6 @@
                                 "url": "/episodio/74330/dublado",
                                 "title": "Filme Pokemon Movie 15: Kyurem vs. Seikenshi",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/7450_background.jpg?v=1702534450"
-                            },
-                            {
-                                "url": "/episodio/74329/dublado",
-                                "title": "Filme Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/7082_background.jpg?v=1702534187"
-                            },
-                            {
-                                "url": "/episodio/74328/dublado",
-                                "title": "Filme Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6742_background.jpg?v=1702533770"
-                            },
-                            {
-                                "url": "/episodio/74327/dublado",
-                                "title": "Filme Pokemon Movie 13: Genei no Hasha Zoroark",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5923_background.jpg?v=1702533275"
-                            },
-                            {
-                                "url": "/episodio/74326/dublado",
-                                "title": "Filme Pokemon Movie 12: Arceus Choukoku no Jikuu e",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/5332_background.jpg?v=1702532686"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"\r\n\" under radix 16",
                 "passed": false
             }
         }

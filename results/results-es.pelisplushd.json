@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/yu-yu-hakusho",
+                                "title": "Yu Yu Hakusho (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3KpjEpUvoSpwsUBJVmfzfHALcYg.jpg"
+                            },
+                            {
                                 "url": "/serie/si-yo-fuera-luisa-sonza",
                                 "title": "Si yo fuera Luísa Sonza (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/the-village",
                                 "title": "The Village (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uW3jogp1ieOldHTxWMFmCvOKEow.jpg"
-                            },
-                            {
-                                "url": "/serie/el-juego-del-calamar-el-desafio",
-                                "title": "El juego del calamar: El desafío (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/AvOcYB2lcqRFvhq3ybJlcXgpRRu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/si-yo-fuera-luisa-sonza",
-                    "title": "Si yo fuera Luísa Sonza (2023)",
-                    "description": "La cantante pop brasileña Luísa Sonza habla sobre su vida amorosa y profesional, las polémicas que la rodean y la creación de su nuevo álbum..",
-                    "genre": "Documental",
+                    "url": "/serie/yu-yu-hakusho",
+                    "title": "Yu Yu Hakusho (2023)",
+                    "description": "¿Su plato favorito? El ramen. ¿Su técnica insignia? La Reigan. Un adolescente rebelde debe aprender a usar sus nuevos poderes para proteger a sus seres queridos..",
+                    "genre": "Drama, Sci-Fi & Fantasy",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/uQPWq2D9GrsjMONgtdQKtlKAVqb.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3KpjEpUvoSpwsUBJVmfzfHALcYg.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/si-yo-fuera-luisa-sonza/temporada/1/capitulo/3",
-                        "name": "T1 - E3: Episodio 3",
-                        "episode_number": 3.0
+                        "url": "/serie/yu-yu-hakusho/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/serie/si-yo-fuera-luisa-sonza/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/yu-yu-hakusho/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -293,47 +293,58 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/vkspwexuy12b",
+                        "url": "https://voe.sx/e/3a8ilwgxvzqw",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/10091/vkspwexuy12b_,n,.urlset/master.m3u8?t=_CbHlXwq2EAH3YGQcKj9ArcmYgKzu60jtXRVzy4mAsk&s=1702600376&e=14400&f=50458709&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=52.157&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/10092/3a8ilwgxvzqw_,n,.urlset/master.m3u8?t=MY_xvlgR3IzzH7_iw88TSdI2nUrs_XQKht33ERMHgUA&s=1702620574&e=14400&f=50462915&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://7c0tyw05nq.sw-cdnstream.com/hls2/01/02533/qikqpyasrpj5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=OBUFAjyDiiFcQ33R7jpGT54dy4xMN2oD0IlCwAkZKEI&s=1702600367&e=129600&f=12665608&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://7c0tyw05nq.sw-cdnstream.com/hls2/01/02533/qikqpyasrpj5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=OBUFAjyDiiFcQ33R7jpGT54dy4xMN2oD0IlCwAkZKEI&s=1702600367&e=129600&f=12665608&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/qikqpyasrpj5"
-                        }
-                    },
-                    {
-                        "url": "https://7c0tyw05nq.sw-cdnstream.com/hls2/01/02533/qikqpyasrpj5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=OBUFAjyDiiFcQ33R7jpGT54dy4xMN2oD0IlCwAkZKEI&s=1702600367&e=129600&f=12665608&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://7c0tyw05nq.sw-cdnstream.com/hls2/01/02533/qikqpyasrpj5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=OBUFAjyDiiFcQ33R7jpGT54dy4xMN2oD0IlCwAkZKEI&s=1702600367&e=129600&f=12665608&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/qikqpyasrpj5"
-                        }
-                    },
-                    {
-                        "url": "https://ogmmqkka4mkk.enaak-cdn.com/hls2/01/00978/f0d0h1likjkk_o/master.m3u8?t=5LvNj6jWO4BcC3LKNTRBFz2V0v5RPXep9ttADnTip0w&s=1702600373&e=129600&f=4890151&srv=sfjxn4v7wrco&i=0.4&sp=1500&p1=sfjxn4v7wrco&p2=sfjxn4v7wrco&asn=8075",
-                        "quality": "FileLions:Video",
-                        "videoUrl": "https://ogmmqkka4mkk.enaak-cdn.com/hls2/01/00978/f0d0h1likjkk_o/master.m3u8?t=5LvNj6jWO4BcC3LKNTRBFz2V0v5RPXep9ttADnTip0w&s=1702600373&e=129600&f=4890151&srv=sfjxn4v7wrco&i=0.4&sp=1500&p1=sfjxn4v7wrco&p2=sfjxn4v7wrco&asn=8075",
+                        "url": "https://b2hpwfawl05t.enaak-cdn.com/hls2/01/00978/meh0ljpk27z7_o/index-v1-a1.m3u8?t=4fPgDc61MNyf4VNtSMi5yl8EVEhmabE2jk4IL_pVbpk&s=1702620571&e=129600&f=4891381&srv=xmlk2n6a7ior&i=0.4&sp=1500&p1=xmlk2n6a7ior&p2=xmlk2n6a7ior&asn=8075",
+                        "quality": "FileLions:1080p",
+                        "videoUrl": "https://b2hpwfawl05t.enaak-cdn.com/hls2/01/00978/meh0ljpk27z7_o/index-v1-a1.m3u8?t=4fPgDc61MNyf4VNtSMi5yl8EVEhmabE2jk4IL_pVbpk&s=1702620571&e=129600&f=4891381&srv=xmlk2n6a7ior&i=0.4&sp=1500&p1=xmlk2n6a7ior&p2=xmlk2n6a7ior&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://filelions.to",
-                            "Referer": "https://filelions.to/v/f0d0h1likjkk"
+                            "Referer": "https://filelions.to/v/meh0ljpk27z7"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=LYMrrRLa63IRLvV&expires=1702670373&ip=G0WsD0MQKxSHDN&token=2q6QBYPbA-H6",
+                        "url": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=sO4JeAvxKYEDSRelt3MNkZie3cqxcrWyRj9pdRGtb-A&s=1702620568&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=sO4JeAvxKYEDSRelt3MNkZie3cqxcrWyRj9pdRGtb-A&s=1702620568&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/cruw1a6vbftd"
+                        }
+                    },
+                    {
+                        "url": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=sO4JeAvxKYEDSRelt3MNkZie3cqxcrWyRj9pdRGtb-A&s=1702620568&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=sO4JeAvxKYEDSRelt3MNkZie3cqxcrWyRj9pdRGtb-A&s=1702620568&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/cruw1a6vbftd"
+                        }
+                    },
+                    {
+                        "url": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=sO4JeAvxKYEDSRelt3MNkZie3cqxcrWyRj9pdRGtb-A&s=1702620568&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=sO4JeAvxKYEDSRelt3MNkZie3cqxcrWyRj9pdRGtb-A&s=1702620568&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/cruw1a6vbftd"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=8JjoQqkzLLIXWm&expires=1702690570&ip=FROsD0ETKxSHDN&token=bh1OPu6lZZoY",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LYMrrRLa63IRLvV&expires=1702670373&ip=G0WsD0MQKxSHDN&token=2q6QBYPbA-H6"
+                        "videoUrl": "https://streamtape.com/get_video?id=8JjoQqkzLLIXWm&expires=1702690570&ip=FROsD0ETKxSHDN&token=bh1OPu6lZZoY"
                     }
                 ],
                 "passed": true

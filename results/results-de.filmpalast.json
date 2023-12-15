@@ -177,6 +177,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/voll-ins-leben",
+                                "title": "Voll ins Leben",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/voll-ins-leben.jpg"
+                            },
+                            {
+                                "url": "/stream/ich-bin-der-abgrund",
+                                "title": "Ich bin der Abgrund",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/ich-bin-der-abgrund.jpg"
+                            },
+                            {
+                                "url": "/stream/mission-babybar-eine-tierische-tour",
+                                "title": "Mission Babybär - Eine tierische Tour",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/mission-babybar-eine-tierische-tour.jpg"
+                            },
+                            {
+                                "url": "/stream/weihnachten-wie-im-bilderbuch",
+                                "title": "Weihnachten wie im Bilderbuch",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/weihnachten-wie-im-bilderbuch.jpg"
+                            },
+                            {
+                                "url": "/stream/headspace-aliens-im-kopf",
+                                "title": "Headspace - Aliens im Kopf",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/headspace-aliens-im-kopf.jpg"
+                            },
+                            {
+                                "url": "/stream/die-hollywood-verschworung",
+                                "title": "Die Hollywood-Verschwörung",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/die-hollywood-verschworung.jpg"
+                            },
+                            {
+                                "url": "/stream/the-moon",
+                                "title": "The Moon",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-moon.jpg"
+                            },
+                            {
+                                "url": "/stream/interview",
+                                "title": "Interview",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/interview.jpg"
+                            },
+                            {
                                 "url": "/stream/fargo-s05e05",
                                 "title": "Fargo S05E05",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/fargo-s05e05.jpg"
@@ -295,46 +335,6 @@
                                 "url": "/stream/influencer-trau-niemandem-dem-du-folgst",
                                 "title": "Influencer: Trau niemandem, dem Du folgst",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/influencer-trau-niemandem-dem-du-folgst.jpg"
-                            },
-                            {
-                                "url": "/stream/trolls-3-gemeinsam-stark",
-                                "title": "Trolls 3 - Gemeinsam Stark",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/trolls-3-gemeinsam-stark.jpg"
-                            },
-                            {
-                                "url": "/stream/gregs-tagebuch-zu-weihnachten-keine-panik",
-                                "title": "Gregs Tagebuch: Zu Weihnachten keine Panik",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/gregs-tagebuch-zu-weihnachten-keine-panik.jpg"
-                            },
-                            {
-                                "url": "/stream/merry-little-batman",
-                                "title": "Merry Little Batman",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/merry-little-batman.jpg"
-                            },
-                            {
-                                "url": "/stream/silber-und-das-buch-der-traume",
-                                "title": "Silber und das Buch der Träume",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/silber-und-das-buch-der-traume.jpg"
-                            },
-                            {
-                                "url": "/stream/leave-the-world-behind",
-                                "title": "Leave the World Behind",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/leave-the-world-behind.jpg"
-                            },
-                            {
-                                "url": "/stream/weihnachten-bei-dir-oder-mir-2",
-                                "title": "Weihnachten bei dir oder mir? 2",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/weihnachten-bei-dir-oder-mir-2.jpg"
-                            },
-                            {
-                                "url": "/stream/monarch-legacy-of-monsters-s01e05",
-                                "title": "Monarch - Legacy of Monsters S01E05",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/monarch-legacy-of-monsters-s01e05.jpg"
-                            },
-                            {
-                                "url": "/stream/the-walking-dead-daryl-dixon-s01e06",
-                                "title": "The Walking Dead: Daryl Dixon S01E06",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-walking-dead-daryl-dixon-s01e06.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=yxOTjRKmoR8lY608GSaNQRZN2ZPKTvY22PeSGPGVZL0&s=1702620607&e=43200&f=10995342&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s27.wolfstream.tv/hls2/01/02199/95brzdh4iu4j_h/master.m3u8?t=yxOTjRKmoR8lY608GSaNQRZN2ZPKTvY22PeSGPGVZL0&s=1702620607&e=43200&f=10995342&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
