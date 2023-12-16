@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/space-racers",
+                                "title": "Space Racers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933352.jpg"
+                            },
+                            {
+                                "url": "/anime/kid-e-cats",
+                                "title": "Kid-E-Cats",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933351.jpg"
+                            },
+                            {
                                 "url": "/anime/sindbad-the-7-galaxies",
                                 "title": "Sindbad & the 7 Galaxies",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933350.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/leo-the-wildlife-ranger",
                                 "title": "Leo the Wildlife Ranger",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933337.jpg"
-                            },
-                            {
-                                "url": "/anime/rastamouse",
-                                "title": "Rastamouse",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933336.jpg"
-                            },
-                            {
-                                "url": "/anime/rahan-2008",
-                                "title": "Rahan 2008",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933335.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sindbad-the-7-galaxies",
-                    "title": "Sindbad & the 7 Galaxies",
-                    "description": "Sindbad and the and Galaxies is a comedy adventure animated TV series for kids 4-11 years in which Sindbad and his friends Zac, Lana and Lee save the 7 Galaxies from disaster, after school.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933350.jpg",
+                    "url": "/anime/space-racers",
+                    "title": "Space Racers",
+                    "description": "Join the students at Stardust Space Academy, while they go on missions to learn new facts while having fun. With engaging and fun characters the leader of the Space Racers, and Hawk.",
+                    "genre": "Family, Sci-fi, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933352.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/space-racers-season-2-episode-40-polar-opposites",
+                        "name": "Season 2 - Episode 40",
+                        "episode_number": 240.0
+                    },
+                    {
+                        "url": "/space-racers-season-2-episode-39-space-girl-explorers",
+                        "name": "Season 2 - Episode 39",
+                        "episode_number": 239.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgIXZbDCM2pafCCD6aLzWF0hVEkyeHfX3PgKPH4c0-GOeFWp-DBn89vQj6iC7iMeBGyJTfWhHj6DFO8RDVIEWChizqVOKQpBsZXkJA34D7nKqPvJkCQ0X182PYgKX15BIpVVxeZ4GuV3Rl5gxkElgAy-xfj-MkWAHvwAK7vCt01RpBEHWkUifL5At7Q8yzFfu-K-n0NC1KK4ChkHWYOxqtqamYFPyWUBr-JKo_WHSoxEt2igN11aYVAfy_p1X3NXVPrGqLFcTrkzytn5xQi0Fd8LnKghwqagBt2cdk3PlEIvuPqBiGEvU6NdHonguv-ycA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgIXZbDCM2pafCCD6aLzWF0hVEkyeHfX3PgKPH4c0-GOeFWp-DBn89vQj6iC7iMeBGyJTfWhHj6DFO8RDVIEWChizqVOKQpBsZXkJA34D7nKqPvJkCQ0X182PYgKX15BIpVVxeZ4GuV3Rl5gxkElgAy-xfj-MkWAHvwAK7vCt01RpBEHWkUifL5At7Q8yzFfu-K-n0NC1KK4ChkHWYOxqtqamYFPyWUBr-JKo_WHSoxEt2igN11aYVAfy_p1X3NXVPrGqLFcTrkzytn5xQi0Fd8LnKghwqagBt2cdk3PlEIvuPqBiGEvU6NdHonguv-ycA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgIXZbDCM2pafCCD6aLzWF0hVEkyeHfX3PgKPH4c0-GOeFWp-DBn89vQj6iC7iMeBD9uRah0VnPt1OpRH2lC-OenjfjCIPsediBqx-v_Azg2iNzzEv3BdliUIpTDyoiBDtfv8fDgSUD29DcQQaY2um5X86Rm7im34CGgTfkxK9EkYo6HHZnqQsVfoViZqmCwaAxzbhcJ-lSbdIBNvQZ3P6vGosLxLAno6O_Db-3uWj0Y18jtzpVCNzp0K3WkgkFf6ug_qBpvWojtGoC7azcCU98U19jy6JNrfqtEQR8tNrWnZDRrfI_n9gm5HhAzxrymrg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJgIXZbDCM2pafCCD6aLzWF0hVEkyeHfX3PgKPH4c0-GOeFWp-DBn89vQj6iC7iMeBD9uRah0VnPt1OpRH2lC-OenjfjCIPsediBqx-v_Azg2iNzzEv3BdliUIpTDyoiBDtfv8fDgSUD29DcQQaY2um5X86Rm7im34CGgTfkxK9EkYo6HHZnqQsVfoViZqmCwaAxzbhcJ-lSbdIBNvQZ3P6vGosLxLAno6O_Db-3uWj0Y18jtzpVCNzp0K3WkgkFf6ug_qBpvWojtGoC7azcCU98U19jy6JNrfqtEQR8tNrWnZDRrfI_n9gm5HhAzxrymrg"
+                    }
+                ],
+                "passed": true
             }
         }
     }

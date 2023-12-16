@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-kingdoms-of-ruin-c952",
+                                "title": "Hametsu no Oukoku",
+                                "thumbnail_url": "https://kickassanime.am/image/poster/the-kingdoms-of-ruin-c952-f0c8-hq.webp"
+                            },
+                            {
                                 "url": "/girlfriend-girlfriend-season-2-02d8",
                                 "title": "Kanojo mo Kanojo Season 2",
                                 "thumbnail_url": "https://kickassanime.am/image/poster/girlfriend-girlfriend-season-2-02d8-620c-hq.webp"
@@ -310,11 +315,6 @@
                                 "url": "/aoshi-jiuchong-tian-4a3c",
                                 "title": "Aoshi Jiuchong Tian",
                                 "thumbnail_url": "https://kickassanime.am/image/poster/aoshi-jiuchong-tian-dd91-hq.webp"
-                            },
-                            {
-                                "url": "/dead-mount-death-play-part-2-8e0d",
-                                "title": "Dead Mount Death Play Part 2",
-                                "thumbnail_url": "https://kickassanime.am/image/poster/dead-mount-death-play-part-2-8e0d-8f93-hq.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -513,37 +513,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/attack-on-titan-fa99",
-                    "title": "Shingeki no Kyojin",
-                    "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal Titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Eren, his adopted sister Mikasa Ackerman, and his childhood friend Armin Arlert join the brutal war against the Titans and race to discover a way of defeating them before the last walls are breached.\n\nAvailable Dub Languages: Japanese\nSeason: Spring\nYear: 2013",
-                    "genre": "Action, Award Winning, Drama, Gore, Military, Shounen, Survival, Suspense",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://kickassanime.am/image/poster/attack-on-titan-fa99-333f-hq.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>openresty/1.21.4.1</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/attack-on-titan-fa99/ep-25-9c6cda",
-                        "name": "Ep. 25 - The Wall - Raid on Stohess District (3)",
-                        "episode_number": 25.0,
-                        "scanlator": "Japanese"
-                    },
-                    {
-                        "url": "/attack-on-titan-fa99/ep-24-209bea",
-                        "name": "Ep. 24 - Mercy - Raid on Stohess District (2)",
-                        "episode_number": 24.0,
-                        "scanlator": "Japanese"
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>openresty/1.21.4.1</center>\r\n</body>\r\n</html>\r\n",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
                 "passed": false
             }
         }

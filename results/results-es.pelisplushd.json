@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/tom-swift",
+                                "title": "Tom Swift (2022)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg"
+                            },
+                            {
                                 "url": "/serie/yu-yu-hakusho",
                                 "title": "Yu Yu Hakusho (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3KpjEpUvoSpwsUBJVmfzfHALcYg.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/viajes-increibles-de-animales",
                                 "title": "Viajes increíbles de animales (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/A25kmu7dzJJ5m3sLdn8hd52fqeU.jpg"
-                            },
-                            {
-                                "url": "/serie/the-village",
-                                "title": "The Village (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/uW3jogp1ieOldHTxWMFmCvOKEow.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,90 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/yu-yu-hakusho",
-                    "title": "Yu Yu Hakusho (2023)",
-                    "description": "¿Su plato favorito? El ramen. ¿Su técnica insignia? La Reigan. Un adolescente rebelde debe aprender a usar sus nuevos poderes para proteger a sus seres queridos..",
-                    "genre": "Drama, Sci-Fi & Fantasy",
+                    "url": "/serie/tom-swift",
+                    "title": "Tom Swift (2022)",
+                    "description": "Tom Swift se ve inmerso en un mundo de conspiraciones de ciencia ficción y fenómenos inexplicables después de la impactante desaparición de su padre. Tom emprende una búsqueda para desentrañar la verdad, dejando atrás las comodidades de su estilo de vida adinerado habitual, mientras lucha por mantenerse un paso por delante de un grupo de escala Illuminati empeñado en detenerlo..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3KpjEpUvoSpwsUBJVmfzfHALcYg.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/serie/yu-yu-hakusho/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/serie/yu-yu-hakusho/temporada/1/capitulo/4",
-                        "name": "T1 - E4: Episodio 4",
-                        "episode_number": 4.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/3a8ilwgxvzqw",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/10092/3a8ilwgxvzqw_,n,.urlset/master.m3u8?t=logSUuFxHU7tWV4Icg8ByRyDeeJB87a3Em3uYYCsxKk&s=1702663722&e=14400&f=50462915&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=20.102&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=bpjHTOGr5cpIbCbABvn56d1JYO0FBVqiz_vSV3ew6W8&s=1702663718&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
-                        "quality": "StreamWish:1080p",
-                        "videoUrl": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=bpjHTOGr5cpIbCbABvn56d1JYO0FBVqiz_vSV3ew6W8&s=1702663718&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/cruw1a6vbftd"
-                        }
-                    },
-                    {
-                        "url": "https://b2hpwfawl05t.enaak-cdn.com/hls2/01/00978/meh0ljpk27z7_n/index-v1-a1.m3u8?t=TatPmK021aHPAgQVqQcUsU_iGJiVbYKjdAfAVYVQSDA&s=1702663720&e=129600&f=4891381&srv=xmlk2n6a7ior&i=0.4&sp=1500&p1=xmlk2n6a7ior&p2=xmlk2n6a7ior&asn=8075",
-                        "quality": "FileLions:720p",
-                        "videoUrl": "https://b2hpwfawl05t.enaak-cdn.com/hls2/01/00978/meh0ljpk27z7_n/index-v1-a1.m3u8?t=TatPmK021aHPAgQVqQcUsU_iGJiVbYKjdAfAVYVQSDA&s=1702663720&e=129600&f=4891381&srv=xmlk2n6a7ior&i=0.4&sp=1500&p1=xmlk2n6a7ior&p2=xmlk2n6a7ior&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://filelions.to",
-                            "Referer": "https://filelions.to/v/meh0ljpk27z7"
-                        }
-                    },
-                    {
-                        "url": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=bpjHTOGr5cpIbCbABvn56d1JYO0FBVqiz_vSV3ew6W8&s=1702663718&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=bpjHTOGr5cpIbCbABvn56d1JYO0FBVqiz_vSV3ew6W8&s=1702663718&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/cruw1a6vbftd"
-                        }
-                    },
-                    {
-                        "url": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=bpjHTOGr5cpIbCbABvn56d1JYO0FBVqiz_vSV3ew6W8&s=1702663718&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://lgmks4ic.sw-cdnstream.com/hls2/01/02534/cruw1a6vbftd_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=bpjHTOGr5cpIbCbABvn56d1JYO0FBVqiz_vSV3ew6W8&s=1702663718&e=129600&f=12670303&srv=eydw2qqg9x3o&i=0.4&sp=500&p1=eydw2qqg9x3o&p2=eydw2qqg9x3o&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/cruw1a6vbftd"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=8JjoQqkzLLIXWm&expires=1702733720&ip=FROsD0ATKxSHDN&token=AP1TB0IlHyLc",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8JjoQqkzLLIXWm&expires=1702733720&ip=FROsD0ATKxSHDN&token=AP1TB0IlHyLc"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     },
@@ -651,6 +585,71 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/hitmen-1094481/",
+                                "title": "Hitmen",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hitmen-1094481.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-duelo-1189927/",
+                                "title": "El duelo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-duelo-1189927.jpg"
+                            },
+                            {
+                                "url": "/pelicula/escaping-paradise/",
+                                "title": "Escaping Paradise",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/escaping-paradise.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-harbinger-974191/",
+                                "title": "The Harbinger",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-harbinger-974191.jpg"
+                            },
+                            {
+                                "url": "/pelicula/glassboy/",
+                                "title": "Glassboy",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/glassboy.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-shift-1108658/",
+                                "title": "The Shift",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-shift-1108658.jpg"
+                            },
+                            {
+                                "url": "/pelicula/plus-que-jamais/",
+                                "title": "Plus que jamais",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/plus-que-jamais.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tshyllw/",
+                                "title": "تشيللو",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tshyllw.jpg"
+                            },
+                            {
+                                "url": "/pelicula/der-fuchs/",
+                                "title": "Der Fuchs",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/der-fuchs.jpg"
+                            },
+                            {
+                                "url": "/pelicula/kane/",
+                                "title": "Kane",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kane.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-version-persa/",
+                                "title": "La versión persa",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-version-persa.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-squad-1205901/",
+                                "title": "The Squad",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-squad-1205901.jpg"
+                            },
+                            {
+                                "url": "/pelicula/taylor-swift-or-the-eras-tour/",
+                                "title": "TAYLOR SWIFT | THE ERAS TOUR",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/taylor-swift-or-the-eras-tour.jpg"
+                            },
+                            {
                                 "url": "/pelicula/unicorns/",
                                 "title": "Unicorns",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/unicorns.jpg"
@@ -684,71 +683,6 @@
                                 "url": "/pelicula/una-navidad-en-montana/",
                                 "title": "Una Navidad en Montana",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/una-navidad-en-montana.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-mundo-maravilloso-de-willy/",
-                                "title": "Willy's Wonderland",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-mundo-maravilloso-de-willy.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-libro-de-los-deseos/",
-                                "title": "El libro de los deseos",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-libro-de-los-deseos.jpg"
-                            },
-                            {
-                                "url": "/pelicula/when-i-think-of-christmas/",
-                                "title": "When I Think of Christmas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/when-i-think-of-christmas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/12-horas-para-el-fin-del-mundo/",
-                                "title": "12 Horas para el Fin del Mundo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/12-horas-para-el-fin-del-mundo.jpg"
-                            },
-                            {
-                                "url": "/pelicula/doctor-who-the-giggle/",
-                                "title": "Doctor Who: The Giggle",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/doctor-who-the-giggle.jpg"
-                            },
-                            {
-                                "url": "/pelicula/paprika-el-reino-de-los-suenos/",
-                                "title": "Paprika: El reino de los sueños",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/paprika-el-reino-de-los-suenos.jpg"
-                            },
-                            {
-                                "url": "/pelicula/jack-mimoun-et-les-secrets-de-val-verde/",
-                                "title": "Jack Mimoun et les secrets de Val Verde",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jack-mimoun-et-les-secrets-de-val-verde.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-informante/",
-                                "title": "La informante",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-informante.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-sexto-bus/",
-                                "title": "El Sexto Bus",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-sexto-bus.jpg"
-                            },
-                            {
-                                "url": "/pelicula/jak-si-nevzit-princeznu/",
-                                "title": "Jak si nevzít princeznu",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/jak-si-nevzit-princeznu.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-club-de-apuestas/",
-                                "title": "El Club de Apuestas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-club-de-apuestas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/una-navidad-casi-perfecta/",
-                                "title": "Una Navidad Casi Perfecta",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/una-navidad-casi-perfecta.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-diario-de-greg-navidad-sin-salida/",
-                                "title": "El diario de Greg: ¡Navidad sin salida!",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-diario-de-greg-navidad-sin-salida.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -918,11 +852,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/unicorns/",
-                    "title": "Unicorns",
+                    "url": "/pelicula/hitmen-1094481/",
+                    "title": "Hitmen",
                     "artist": "",
                     "description": "",
-                    "genre": "Romance",
+                    "genre": "Crimen, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -932,7 +866,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/unicorns/",
+                        "url": "/pelicula/hitmen-1094481/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
