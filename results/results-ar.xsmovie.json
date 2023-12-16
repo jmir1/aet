@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movie/فيلم-psycho-pass-providence-مترجم/",
+                                "title": "فيلم Psycho-Pass Providence مترجم",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Psycho-Pass-Providence-223x314.jpg"
+                            },
+                            {
                                 "url": "/movie/فيلم-doraemon-movie-42-nobita-to-sora-no-utopia-مترجم/",
                                 "title": "فيلم Doraemon Movie 42 Nobita to Sora no Utopia مترجم",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Doraemon-Nobita-to-Sora-no-Utopia-223x313.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/movie/فيلم-entotsu-machi-no-poupelle-مترجم/",
                                 "title": "فيلم Entotsu Machi no Poupelle مترجم",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2022/04/251295-223x316.jpg"
-                            },
-                            {
-                                "url": "/movie/فيلم-summer-ghost/",
-                                "title": "فيلم Summer Ghost",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2022/03/196a41a48b78501e130d88e382d3ebf0-223x315.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -384,13 +384,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/فيلم-doraemon-movie-42-nobita-to-sora-no-utopia-مترجم/",
-                    "title": "فيلم Doraemon Movie 42 Nobita to Sora no Utopia مترجم",
-                    "description": "",
+                    "url": "/movie/فيلم-psycho-pass-providence-مترجم/",
+                    "title": "فيلم Psycho-Pass Providence مترجم",
+                    "description": "يناير 2118 تتلقى كبير مفتشي إدارة التحقيقات الجنائية أكاني تسونيموري تقريرًا عن حادث على متن سفينة أجنبية تم اكتشاف جثة البروفيسور ميليسيا سترونسكايا وراء الحادث يقف مجموعة تُعرف بـ \"قُطَّاع السلام\" وهي منظمة عسكرية أجنبية وتهديد خارجي جديد يستهدف أوراق البحث الخاصة بالأستاذ المعروفة باسم \"وثيقة سترونسكايا\".",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Doraemon-Nobita-to-Sora-no-Utopia.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Psycho-Pass-Providence.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -398,15 +398,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/فيلم-doraemon-movie-42-nobita-to-sora-no-utopia-مترجم/",
-                        "name": "Doraemon Movie 42 Nobita to Sora no Utopia مترجم"
+                        "url": "/movie/فيلم-psycho-pass-providence-مترجم/",
+                        "name": "Psycho-Pass Providence مترجم"
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dc595.4shared.com/img/V3lan9-ige/f91b23ef/dlink__2Fdownload_2FV3lan9-ige_3Fsbsr_3D5338a227084ac28003745416372e1aecaff_26bip_3DMTMuODMuMTIzLjE5MQ_26lgfp_3D66_26bip_3DMTMuODMuMTIzLjE5MQ_26bip_3DMTMuODMuMTIzLjE5MQ/preview.mp4",
+                        "quality": "Default: If you want to change the quality go to extension settings",
+                        "videoUrl": "https://dc595.4shared.com/img/V3lan9-ige/f91b23ef/dlink__2Fdownload_2FV3lan9-ige_3Fsbsr_3D5338a227084ac28003745416372e1aecaff_26bip_3DMTMuODMuMTIzLjE5MQ_26lgfp_3D66_26bip_3DMTMuODMuMTIzLjE5MQ_26bip_3DMTMuODMuMTIzLjE5MQ/preview.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/uf-ya-es-navidad",
+                                "title": "¡Uf! ¡Ya es Navidad! (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7kvXK5jqFWUslbL8P2CwL49FmOU.jpg"
+                            },
+                            {
+                                "url": "/serie/carol-y-el-fin-del-mundo",
+                                "title": "Carol y el fin del mundo (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpj3PVhYoOFbcK72XyrrHcT0wj4.jpg"
+                            },
+                            {
                                 "url": "/serie/tom-swift",
                                 "title": "Tom Swift (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg"
@@ -115,16 +125,6 @@
                                 "url": "/serie/una-familia-normal",
                                 "title": "Una familia normal (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5xmbBXhPXTSdBG6JXSlKawYVKS2.jpg"
-                            },
-                            {
-                                "url": "/serie/soy-tu-fan-la-fiesta-continua",
-                                "title": "Soy tu fan. La fiesta continua (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/iKiT90Sbbon3y4oaiMUXlgiYC8R.jpg"
-                            },
-                            {
-                                "url": "/serie/viajes-increibles-de-animales",
-                                "title": "Viajes increíbles de animales (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/A25kmu7dzJJ5m3sLdn8hd52fqeU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -136,6 +136,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/serie/carol-y-el-fin-del-mundo",
+                                "title": "Carol y el fin del mundo (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpj3PVhYoOFbcK72XyrrHcT0wj4.jpg"
+                            },
                             {
                                 "url": "/pelicula/la-primera-navidad-del-mundo",
                                 "title": "La primera Navidad del mundo (2023)",
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/la-mafia-de-mumbai-la-policia-contra-el-hampa",
                                 "title": "La mafia de Mumbai: La policía contra el hampa (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg"
-                            },
-                            {
-                                "url": "/serie/los-hombres-que-vendieron-la-copa-del-mundo",
-                                "title": "Los hombres que vendieron la Copa del Mundo (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/1xyLEp4Q4ez4AYcvSPwItW4voLp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,24 +264,79 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/tom-swift",
-                    "title": "Tom Swift (2022)",
-                    "description": "Tom Swift se ve inmerso en un mundo de conspiraciones de ciencia ficción y fenómenos inexplicables después de la impactante desaparición de su padre. Tom emprende una búsqueda para desentrañar la verdad, dejando atrás las comodidades de su estilo de vida adinerado habitual, mientras lucha por mantenerse un paso por delante de un grupo de escala Illuminati empeñado en detenerlo..",
-                    "genre": "Drama",
+                    "url": "/serie/uf-ya-es-navidad",
+                    "title": "¡Uf! ¡Ya es Navidad! (2023)",
+                    "description": "Soltera, treintañera y presionada, Thando miente a su familia diciéndoles que tiene novio. Con solo 24 días para que sea Navidad, ¿conseguirá encontrar uno a tiempo?.",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7kvXK5jqFWUslbL8P2CwL49FmOU.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/serie/uf-ya-es-navidad/temporada/1/capitulo/6",
+                        "name": "T1 - E6: Episodio 6",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/serie/uf-ya-es-navidad/temporada/1/capitulo/5",
+                        "name": "T1 - E5: Episodio 5",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/ibfroy1pl95w",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-znj6okjw16mo8ccl.voe-network.net/engine/hls2/01/10100/ibfroy1pl95w_,n,.urlset/master.m3u8?t=MegnW9puV4hhIKL-9ze70I4g0_-_1fMT-rkvNNG3Hj0&s=1702706900&e=14400&f=50501295&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=20.55&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://bngrhjfpfgg2.enaak-cdn.com/hls2/01/00981/l8p5eb1mzuzw_n/index-v1-a1.m3u8?t=kQ4J8JubOzJeAZC6aTop92xh_E5lDEQhlSeHMynIOXE&s=1702706898&e=129600&f=4908313&srv=U5oFs70jMNh6&i=0.4&sp=1500&p1=U5oFs70jMNh6&p2=U5oFs70jMNh6&asn=8075",
+                        "quality": "FileLions:720p",
+                        "videoUrl": "https://bngrhjfpfgg2.enaak-cdn.com/hls2/01/00981/l8p5eb1mzuzw_n/index-v1-a1.m3u8?t=kQ4J8JubOzJeAZC6aTop92xh_E5lDEQhlSeHMynIOXE&s=1702706898&e=129600&f=4908313&srv=U5oFs70jMNh6&i=0.4&sp=1500&p1=U5oFs70jMNh6&p2=U5oFs70jMNh6&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.to",
+                            "Referer": "https://filelions.to/v/l8p5eb1mzuzw"
+                        }
+                    },
+                    {
+                        "url": "https://vypd0e87z8.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f2-v1-a1.m3u8?t=CWzhU5AxfRh8wyoGPMkDdeQw4HpkayjZHTFuveA-GVc&s=1702706896&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://vypd0e87z8.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f2-v1-a1.m3u8?t=CWzhU5AxfRh8wyoGPMkDdeQw4HpkayjZHTFuveA-GVc&s=1702706896&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/lq9flbrnd70o"
+                        }
+                    },
+                    {
+                        "url": "https://vypd0e87z8.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f1-v1-a1.m3u8?t=CWzhU5AxfRh8wyoGPMkDdeQw4HpkayjZHTFuveA-GVc&s=1702706896&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://vypd0e87z8.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f1-v1-a1.m3u8?t=CWzhU5AxfRh8wyoGPMkDdeQw4HpkayjZHTFuveA-GVc&s=1702706896&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/lq9flbrnd70o"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=4d64Kr1LRXFKKVJ&expires=1702776898&ip=FROsE0MnDS9X&token=dRSu1-XjNr8h",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=4d64Kr1LRXFKKVJ&expires=1702776898&ip=FROsE0MnDS9X&token=dRSu1-XjNr8h"
+                    }
+                ],
+                "passed": true
             }
         }
     },

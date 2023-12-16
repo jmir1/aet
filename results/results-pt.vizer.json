@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/the-crown",
+                                "title": "The Crown",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4336.webp"
+                            },
+                            {
+                                "url": "/serie/online/carol-e-o-fim-do-mundo",
+                                "title": "Carol e o Fim do Mundo",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22555.webp"
+                            },
+                            {
+                                "url": "/serie/online/reacher",
+                                "title": "Reacher",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19621.webp"
+                            },
+                            {
+                                "url": "/serie/online/for-all-mankind",
+                                "title": "For all Mankind",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4320.webp"
+                            },
+                            {
+                                "url": "/serie/online/monarch-legado-de-monstros",
+                                "title": "Monarch - Legado de Monstros",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22539.webp"
+                            },
+                            {
                                 "url": "/serie/online/bookie",
                                 "title": "Bookie",
                                 "status": 1,
@@ -305,18 +335,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3772.webp"
                             },
                             {
-                                "url": "/serie/online/for-all-mankind",
-                                "title": "For all Mankind",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4320.webp"
-                            },
-                            {
-                                "url": "/serie/online/monarch-legado-de-monstros",
-                                "title": "Monarch - Legado de Monstros",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22539.webp"
-                            },
-                            {
                                 "url": "/serie/online/doce-misterio",
                                 "title": "Doce Mistério",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "Super Campeões",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.webp"
-                            },
-                            {
-                                "url": "/serie/online/found",
-                                "title": "Found",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
-                            },
-                            {
-                                "url": "/serie/online/one-piece",
-                                "title": "One Piece",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19081.webp"
-                            },
-                            {
-                                "url": "/serie/online/spy-x-family",
-                                "title": "Spy x Family",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19689.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

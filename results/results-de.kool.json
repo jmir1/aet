@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "/data/watch/?_id=854648&type=movie",
-                                "title": "Robot Apocalypse",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zpbgktIR7GkOS83PBAzLlzLSQ5W.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=466420&type=movie",
                                 "title": "Killers of the Flower Moon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/lgAYW1cKDtP0ug7VGcGsRomeKGn.jpg"
@@ -187,14 +182,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/vZGB7c6e51GW8f6tumxAQL2FKO6.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=346698&type=movie",
+                                "title": "Barbie",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6WP6FD932ce3H3Xi2UU5CVI7ilL.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=1060090&type=movie",
                                 "title": "The Collective",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/Ah9H6Sj434nJiZpTPQrovHaEePV.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=575264&type=movie",
-                                "title": "Mission: Impossible - Dead Reckoning Teil Eins",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nrQiVtkneYx9doR1ARG6HDrImpv.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=502356&type=movie",
@@ -222,14 +217,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6StOen1aNmVTnu31Atj6bWxorQZ.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=575264&type=movie",
+                                "title": "Mission: Impossible - Dead Reckoning Teil Eins",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nrQiVtkneYx9doR1ARG6HDrImpv.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=667538&type=movie",
                                 "title": "Transformers: Aufstieg der Bestien",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/t87CjXc2GGWG5b3VEUKaKBWwjps.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=346698&type=movie",
-                                "title": "Barbie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/6WP6FD932ce3H3Xi2UU5CVI7ilL.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=1172029&type=movie",
@@ -565,6 +560,11 @@
                                 "url": "/data/watch/?_id=1192578&type=movie",
                                 "title": "Elijo creer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/tAX05FIcjnllogMa2r0FmamNhpU.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=1160164&type=movie",
+                                "title": "TAYLOR SWIFT | THE ERAS TOUR",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/jf3YO8hOqGHCupsREf5qymYq1n.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=820525&type=movie",
@@ -968,9 +968,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/data/watch/?_id=854648&type=movie",
-                    "title": "Robot Apocalypse",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/zpbgktIR7GkOS83PBAzLlzLSQ5W.jpg",
+                    "url": "/data/watch/?_id=466420&type=movie",
+                    "title": "Killers of the Flower Moon",
+                    "description": "Die USA in den 1920er Jahren: Auf dem Gebiet der Osage Nation im Bundesstaat Oklahoma wurde jede Menge Öl gefunden, weswegen die dort lebenden indigenen Völker Nordamerikas zu großem Reichtum gelangt sind. Doch auch die Weißen Siedler haben es auf das schwarze Gold abgesehen, allen voran der einflussreiche Rancher William Hale und dessen Neffe Ernest Burkhart, der mit der Osage Mollie verheiratet ist. Unter den Angehörigen des Osage-Stammes kommt es plötzlich zu immer mehr Todesfällen, die irgendwie im Zusammenhang mit den begehrten Ölbohrrechten zu stehen scheinen. Dies löst eine groß angelegte Untersuchung einer völlig neuen Polizeieinheit – dem FBI – aus. Tom White, ehemaliger Texas Ranger und Gesetzeshüter alter Schule, leitet die Ermittlungen für die neue Bundesbehörde und stößt dabei in ein Wespennest aus Korruption und Mord...",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/lgAYW1cKDtP0ug7VGcGsRomeKGn.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -978,7 +979,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=854648&name=Robot Apocalypse&type=movie",
+                        "url": "/kool-cluster/mediahubmx-source.json?id=466420&name=Killers of the Flower Moon&type=movie",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -986,8 +987,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=J90O4r1781sjkdP&expires=1702776901&ip=GHEsDRqAKxSHDN&token=FOWZ0ii6Qh9X",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=J90O4r1781sjkdP&expires=1702776901&ip=GHEsDRqAKxSHDN&token=FOWZ0ii6Qh9X"
+                    }
+                ],
+                "passed": true
             }
         }
     }
