@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "{\"id\":854648,\"media_type\":\"movie\"}",
-                                "title": "Robot Apocalypse",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//zpbgktIR7GkOS83PBAzLlzLSQ5W.jpg"
-                            },
-                            {
                                 "url": "{\"id\":466420,\"media_type\":\"movie\"}",
                                 "title": "Killers of the Flower Moon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
@@ -105,6 +100,11 @@
                                 "url": "{\"id\":287903,\"media_type\":\"movie\"}",
                                 "title": "Krampus",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//sAolMRD9rFSTU7tssfFuLEJJa7w.jpg"
+                            },
+                            {
+                                "url": "{\"id\":951546,\"media_type\":\"movie\"}",
+                                "title": "Reign of Chaos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//nTMmpvR9TyV631tpFr4FtYxG0FC.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -224,9 +224,9 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":854648,\"media_type\":\"movie\"}",
-                    "description": "An expert hacker is targeted by a sentient AI after she realizes the threat it poses, and she must try to stay off its radar long enough to stop it.\n\nRelease date: 2021-07-26",
-                    "genre": "Science Fiction, Action",
+                    "url": "{\"id\":466420,\"media_type\":\"movie\"}",
+                    "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.\n\nRelease date: 2023-10-18",
+                    "genre": "Crime, Drama, History",
                     "initialized": true
                 },
                 "passed": true
@@ -234,9 +234,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/854648",
+                        "url": "/movie/466420",
                         "name": "Movie",
-                        "date_upload": 1627257600000,
+                        "date_upload": 1697587200000,
                         "episode_number": 1.0
                     }
                 ],

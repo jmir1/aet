@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/yu-yu-hakusho/",
+                                "title": "Yu Yu Hakusho",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/carol-y-el-fin-del-mundo/",
                                 "title": "Carol y el fin del mundo",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/curso-del-63/",
-                                "title": "Curso del 63",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/chuubyou-gekihatsu-boy/",
-                                "title": "Chuubyou Gekihatsu Boy",
+                                "url": "/van-helsing/",
+                                "title": "Van Helsing",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/come-ama-mata/",
-                                "title": "Come, ama, mata",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pQ2gG6wlbjwiuLLBisAEOpbHlgj.jpg"
+                                "url": "/vegas/",
+                                "title": "Vegas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oWRTzL0lRr7h0ChZAMFdIuYyCvl.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,16 @@
             },
             "details": {
                 "result": {
-                    "url": "/carol-y-el-fin-del-mundo/",
-                    "title": "Carol y el fin del mundo",
-                    "description": "Carol & the End of the World, Con un apocalipsis planetario inminente, una mujer a la que le cuesta asumir el fin de los días intenta buscarle sentido a la vida durante sus últimos meses en la Tierra.",
-                    "genre": "Animación, Comedia",
-                    "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+                    "url": "/yu-yu-hakusho/",
+                    "description": "",
+                    "genre": "",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/carol-y-el-fin-del-mundo-temporada-1-capitulo-10/",
-                        "name": "T01 - E10 - Episodio 10",
-                        "date_upload": 1702598400000,
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/episode/carol-y-el-fin-del-mundo-temporada-1-capitulo-9/",
-                        "name": "T01 - E09 - Episodio 9",
-                        "date_upload": 1702598400000,
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

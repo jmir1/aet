@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/starship-troopers-invasion/",
-                                "title": "Yıldız Gemisi Askerleri: İstila",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/starship-troopers-invasion_list.jpg"
-                            },
-                            {
                                 "url": "/familia/",
                                 "title": "Familia",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/familia_list.jpg"
+                            },
+                            {
+                                "url": "/starship-troopers-invasion/",
+                                "title": "Yıldız Gemisi Askerleri: İstila",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/starship-troopers-invasion_list.jpg"
                             },
                             {
                                 "url": "/aged/",
@@ -122,6 +122,11 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/secrets-beneath-the-floorboards_list.jpg"
                             },
                             {
+                                "url": "/the-cello/",
+                                "title": "The Cello",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/the-cello_list.jpg"
+                            },
+                            {
                                 "url": "/lars-and-the-real-girl/",
                                 "title": "Gerçek Sevgili",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/lars-and-the-real-girl_list.jpg"
@@ -140,11 +145,6 @@
                                 "url": "/conscience/",
                                 "title": "Vicdan",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/conscience_list.jpg"
-                            },
-                            {
-                                "url": "/fig-jam/",
-                                "title": "İncir Reçeli",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/fig-jam_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,6 +156,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/red-rooms/",
+                                "title": "Red Rooms",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/red-rooms_list.jpg"
+                            },
                             {
                                 "url": "/aged/",
                                 "title": "Aged",
@@ -230,11 +235,6 @@
                                 "url": "/welcome-to-mama-s/",
                                 "title": "Welcome to Mamas",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/welcome-to-mama-s_list.jpg"
-                            },
-                            {
-                                "url": "/robin-roberts-presents-mahalia/",
-                                "title": "Robin Roberts Presents Mahalia",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/robin-roberts-presents-mahalia_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,14 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/starship-troopers-invasion/",
-                    "title": "Yıldız Gemisi Askerleri: İstila",
-                    "artist": "Luci Christian, Justin Doran, Emily Neves, Jovan Jackson, Karl Glusman",
-                    "description": "Çok uzaklarda bir federasyon birliği yıldız savaşcısı olarak bilinen cesur John A. Warden tarafından korunmaktadır. Böcekler tarafından saldırıya uğrayınca Alesia Saldırı Gemisi buradakileri sağ salim dünyaya getirmek için mücadele verir",
-                    "genre": "Animasyon, Aksiyon, Bilim Kurgu",
+                    "url": "/familia/",
+                    "title": "Familia",
+                    "artist": "Daniel Giménez Cacho, Ilse Salas, Cassandra Ciangherotti, Natalia Solián, Maribel Verdú, Brian Shortall, Adolfo Madera, Ángeles Cruz",
+                    "description": "Tuhaf bir aile ve onları sonsuza dek değiştirecek bir karar ile birlikte bu film, hayatın karmaşıklığını konu alıyor.",
+                    "genre": "Dram, Aile",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/starship-troopers-invasion.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/familia.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -429,7 +429,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/starship-troopers-invasion/",
+                        "url": "/familia/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -439,54 +439,73 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://weststor-56-e2-1u9.vmrest.space/hls/xqx2ojwcpnokjiqbth5cpjibuvdso3po6ilti5jnivtlkisnt76algpvac2a/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 900p",
-                        "videoUrl": "https://weststor-56-e2-1u9.vmrest.space/hls/xqx2ojwcpnokjiqbth5cpjibuvdso3po6ilti5jnivtlkisnt76algpvac2a/index-v1-a1.m3u8",
+                        "url": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2j4hqmzokjiqbtegcl6km5avnzyxlm4em2qmchx62ddy6ankeqwe2d2qa/index-v1.m3u8",
+                        "quality": "Vidmoly - 480p",
+                        "videoUrl": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2j4hqmzokjiqbtegcl6km5avnzyxlm4em2qmchx62ddy6ankeqwe2d2qa/index-v1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-lutne8hokvhw.html"
+                            "Referer": "https://vidmoly.to/embed-0893tyb42p17.html"
                         }
                     },
                     {
-                        "url": "https://s169.rapidrame.com/hls2/01/00016/sny09y16pyjg_,l,n,.urlset/index-f2-v1-a2.m3u8?t=6qaMxv_ZUv49CfyR-udpS6E4ll2RPJkuRm-OPZOt260&s=1702706937&e=1199998800&f=80189&i=0.0&sp=0",
+                        "url": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2j4hqmzokjiqbtegcl6km5avnzyxlm4em2qmch6m2ddy6ankd4r7rwb4a/index-v1.m3u8",
+                        "quality": "Vidmoly - 900p",
+                        "videoUrl": "https://v0edod-edc93-sd12dad.moly.cloud/hls/xqx2j4hqmzokjiqbtegcl6km5avnzyxlm4em2qmch6m2ddy6ankd4r7rwb4a/index-v1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-0893tyb42p17.html"
+                        }
+                    },
+                    {
+                        "url": "https://s230.rapidrame.com/hls2/01/00018/sgul3q9wp94f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=L2LzggDOjX3HkzrQWdp8f2wYRcTlbIidOrAYr-ORGg8&s=1702728685&e=1199998800&f=92437&srv=s137&i=0.0&sp=0&p1=s230&p2=s230",
                         "quality": "Rapidrame - 1080p",
-                        "videoUrl": "https://s169.rapidrame.com/hls2/01/00016/sny09y16pyjg_,l,n,.urlset/index-f2-v1-a2.m3u8?t=6qaMxv_ZUv49CfyR-udpS6E4ll2RPJkuRm-OPZOt260&s=1702706937&e=1199998800&f=80189&i=0.0&sp=0",
+                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00018/sgul3q9wp94f_,l,n,.urlset/index-f2-v1-a1.m3u8?t=L2LzggDOjX3HkzrQWdp8f2wYRcTlbIidOrAYr-ORGg8&s=1702728685&e=1199998800&f=92437&srv=s137&i=0.0&sp=0&p1=s230&p2=s230",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://www.hdfilmcehennemi.de",
-                            "Referer": "https://www.hdfilmcehennemi.de/playerr/sny09y16pyjg"
+                            "Referer": "https://www.hdfilmcehennemi.de/playerr/sgul3q9wp94f"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://www.hdfilmcehennemi.de/srt/00016/sny09y16pyjg_English.vtt",
+                                "url": "https://www.hdfilmcehennemi.de/srt/00018/sgul3q9wp94f_English.vtt",
                                 "lang": "İngilizce Altyazı"
                             },
                             {
-                                "url": "https://www.hdfilmcehennemi.de/srt/00016/sny09y16pyjg_Turkish.vtt",
+                                "url": "https://www.hdfilmcehennemi.de/srt/00018/sgul3q9wp94f_Turkish.vtt",
+                                "lang": "Türkçe"
+                            },
+                            {
+                                "url": "https://www.hdfilmcehennemi.de/srt/00018/sgul3q9wp94f_Turkish2.vtt",
                                 "lang": "Türkçe Altyazı"
                             }
                         ]
                     },
                     {
-                        "url": "https://s169.rapidrame.com/hls2/01/00016/sny09y16pyjg_,l,n,.urlset/index-f1-v1-a2.m3u8?t=6qaMxv_ZUv49CfyR-udpS6E4ll2RPJkuRm-OPZOt260&s=1702706937&e=1199998800&f=80189&i=0.0&sp=0",
+                        "url": "https://s230.rapidrame.com/hls2/01/00018/sgul3q9wp94f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=L2LzggDOjX3HkzrQWdp8f2wYRcTlbIidOrAYr-ORGg8&s=1702728685&e=1199998800&f=92437&srv=s137&i=0.0&sp=0&p1=s230&p2=s230",
                         "quality": "Rapidrame - 480p",
-                        "videoUrl": "https://s169.rapidrame.com/hls2/01/00016/sny09y16pyjg_,l,n,.urlset/index-f1-v1-a2.m3u8?t=6qaMxv_ZUv49CfyR-udpS6E4ll2RPJkuRm-OPZOt260&s=1702706937&e=1199998800&f=80189&i=0.0&sp=0",
+                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00018/sgul3q9wp94f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=L2LzggDOjX3HkzrQWdp8f2wYRcTlbIidOrAYr-ORGg8&s=1702728685&e=1199998800&f=92437&srv=s137&i=0.0&sp=0&p1=s230&p2=s230",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://www.hdfilmcehennemi.de",
-                            "Referer": "https://www.hdfilmcehennemi.de/playerr/sny09y16pyjg"
+                            "Referer": "https://www.hdfilmcehennemi.de/playerr/sgul3q9wp94f"
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://www.hdfilmcehennemi.de/srt/00016/sny09y16pyjg_English.vtt",
+                                "url": "https://www.hdfilmcehennemi.de/srt/00018/sgul3q9wp94f_English.vtt",
                                 "lang": "İngilizce Altyazı"
                             },
                             {
-                                "url": "https://www.hdfilmcehennemi.de/srt/00016/sny09y16pyjg_Turkish.vtt",
+                                "url": "https://www.hdfilmcehennemi.de/srt/00018/sgul3q9wp94f_Turkish.vtt",
+                                "lang": "Türkçe"
+                            },
+                            {
+                                "url": "https://www.hdfilmcehennemi.de/srt/00018/sgul3q9wp94f_Turkish2.vtt",
                                 "lang": "Türkçe Altyazı"
                             }
                         ]
