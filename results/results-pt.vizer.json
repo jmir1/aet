@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/reacher",
+                                "title": "Reacher",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19621.webp"
+                            },
+                            {
+                                "url": "/serie/online/bookie",
+                                "title": "Bookie",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-crown",
                                 "title": "The Crown",
                                 "status": 1,
@@ -239,12 +251,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22555.webp"
                             },
                             {
-                                "url": "/serie/online/reacher",
-                                "title": "Reacher",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19621.webp"
-                            },
-                            {
                                 "url": "/serie/online/for-all-mankind",
                                 "title": "For all Mankind",
                                 "status": 1,
@@ -255,12 +261,6 @@
                                 "title": "Monarch - Legado de Monstros",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22539.webp"
-                            },
-                            {
-                                "url": "/serie/online/bookie",
-                                "title": "Bookie",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
                             },
                             {
                                 "url": "/serie/online/os-bucaneiros",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
