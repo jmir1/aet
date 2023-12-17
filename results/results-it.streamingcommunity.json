@@ -24,7 +24,7 @@
                             {
                                 "url": "7065-ragazzi-madre-liliade",
                                 "title": "Ragazzi Madre: L'iliade",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1a254328-38cf-4dbb-b411-a216b23695cb.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5a82891e-5475-453b-930f-5af35b139be4.webp"
                             },
                             {
                                 "url": "7064-yu-yu-hakusho",
@@ -100,6 +100,11 @@
                                 "url": "7001-come-sempre-a-natale",
                                 "title": "Come sempre a Natale",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9a92a87d-4b8d-47fa-8b5d-4744b4551723.webp"
+                            },
+                            {
+                                "url": "7139-benvenuti-a-samdal-ri",
+                                "title": "Benvenuti a Samdal-ri",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4a9d56fd-af2b-42f1-94b6-6c4a1e418282.webp"
                             },
                             {
                                 "url": "7020-silent-night-il-silenzio-della-vendetta",
@@ -300,11 +305,6 @@
                                 "url": "6896-blanco-bruciasse-il-cielo",
                                 "title": "Blanco - Bruciasse il cielo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5122384c-ea1d-41bd-8e25-48c4d9154955.webp"
-                            },
-                            {
-                                "url": "6996-the-buccaneers",
-                                "title": "The Buccaneers",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/38418ca2-eb42-4a23-8eb6-8a2d16bceaf0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7140-vivant",
+                                "title": "VIVANT",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1a8a46d5-e1bc-48be-9b64-41a7af7f2a0f.webp"
+                            },
+                            {
+                                "url": "7139-benvenuti-a-samdal-ri",
+                                "title": "Benvenuti a Samdal-ri",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4a9d56fd-af2b-42f1-94b6-6c4a1e418282.webp"
+                            },
                             {
                                 "url": "7138-quel-pazzo-venerdi",
                                 "title": "Quel pazzo venerdì",
@@ -605,16 +615,6 @@
                                 "url": "7073-natale-con-vista",
                                 "title": "Natale con vista",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/dce2e33a-3f8d-47a9-abef-597bd39e0d57.webp"
-                            },
-                            {
-                                "url": "7072-un-regalo-di-natale-per-daisy",
-                                "title": "Un regalo di Natale per Daisy",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/cf85463d-8541-4327-b48c-80e468861e08.webp"
-                            },
-                            {
-                                "url": "7071-i-colori-del-natale",
-                                "title": "I colori del Natale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5846f54f-2210-4344-a345-f25451e7acf6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-11367497955716371215/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-11367497955716371215/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-11367497955716371215/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-11367497955716371215/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

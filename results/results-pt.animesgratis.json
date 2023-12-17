@@ -37,6 +37,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/aH2BWSafIrkOnmCWIro8pPDO5xl.jpg"
                             },
                             {
+                                "url": "/animes/megami-no-cafe-terrace/",
+                                "title": "Megami no Café Terrace",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/oI7OrbdEcrTCz9BUOMT75lJRPmt.jpg"
+                            },
+                            {
+                                "url": "/animes/solo-leveling/",
+                                "title": "Solo Leveling",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/zn7hOslLYG1U2m06jGJJln8Ry7t.jpg"
+                            },
+                            {
                                 "url": "/animes/kimetsu-no-yaiba-katanakaji-no-sato-hen/",
                                 "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/6gD7G8HQay1X8mHiFVttWJ3czYb.jpg"
@@ -45,16 +55,6 @@
                                 "url": "/animes/black-clover/",
                                 "title": "Black Clover",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/xoqmJpO3jGxEldDCItXuGj2MVTV.jpg"
-                            },
-                            {
-                                "url": "/animes/sugar-apple-fairy-tale-part-2/",
-                                "title": "Sugar Apple Fairy Tale Part 2",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rtjFTXwKhQOZGYCxhFNwQ7HvzjC.jpg"
-                            },
-                            {
-                                "url": "/animes/gundam-build-metaverse/",
-                                "title": "Gundam Build Metaverse",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/wqUeG1zbzRtti0HBdAvFBeo7iIu.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -66,6 +66,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/shangri-la-frontier-episodio-12/",
+                                "title": "Shangri-La Frontier – Episódio 12",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/tHXL56D7Rj7UwxMdwVQ5hgUNnZG.jpg"
+                            },
                             {
                                 "url": "/episodio/one-piece-episodio-1088/",
                                 "title": "One Piece – Episódio 1088",
@@ -210,11 +215,6 @@
                                 "url": "/episodio/ojou-to-banken-kun-episodio-12/",
                                 "title": "Ojou to Banken-kun – Episódio 12",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/pSMMuxHyZeQWWVq7YXrFqTTrcCz.jpg"
-                            },
-                            {
-                                "url": "/episodio/yuzuki-san-chi-no-yonkyoudai-episodio-11/",
-                                "title": "Yuzuki-san Chi no Yonkyoudai – Episódio 11",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/kdJFShcjPCYlA7qQkmHNlthZnyu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -270,6 +270,11 @@
                                 "url": "/animes/dr-stone-new-world/",
                                 "title": "Dr. Stone: New World",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w92/3mhFxFzTF0faJwPM0937qTxYHeU.jpg"
+                            },
+                            {
+                                "url": "/animes/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga/",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xN8IudZwwL6nNNQKAOCASBKtoA9.jpg"
                             },
                             {
                                 "url": "/animes/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-dublado/",
@@ -349,8 +354,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04429/71hjywmxxiv3_h/index-v1-a1.m3u8?t=sNIfjnuM7iv1iNVrx2Nw2pjeHhQgkS8asSC08dh74S0&s=1702815044&e=43200&f=22149626&srv=42&asn=10310&sp=2000",
+                        "quality": "Filemoon - 720p",
+                        "videoUrl": "https://be7713.rcr82.waw05.cdn112.com/hls2/01/04429/71hjywmxxiv3_h/index-v1-a1.m3u8?t=sNIfjnuM7iv1iNVrx2Nw2pjeHhQgkS8asSC08dh74S0&s=1702815044&e=43200&f=22149626&srv=42&asn=10310&sp=2000",
+                        "headers": {
+                            "Referer": "https://filemoon.sx/e/71hjywmxxiv3?poster=https://image.tmdb.org/t/p/w1280/iW2MUNhIwJr8YM5qdpNrc2Cdy8V.jpg",
+                            "Origin": "https://filemoon.sx",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

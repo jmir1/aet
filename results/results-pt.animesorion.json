@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42287_background.jpg?v=1681088400"
                             },
                             {
-                                "url": "/anime/51535",
-                                "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42310_background.jpg?v=1677897657"
-                            },
-                            {
                                 "url": "/anime/34572",
                                 "title": "Black Clover",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/123_background.jpg?v=1596255550"
+                            },
+                            {
+                                "url": "/anime/51535",
+                                "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42310_background.jpg?v=1677897657"
                             },
                             {
                                 "url": "/anime/48316",
@@ -91,6 +91,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/74359/legendado",
+                                "title": "Filme One Piece: Yume no Soccer Ou!",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/260_background.jpg?v=1702809261"
+                            },
+                            {
+                                "url": "/episodio/74358/legendado",
+                                "title": "One Piece: Jango no Dance Carnival",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/259_background.jpg?v=1702808564"
+                            },
+                            {
+                                "url": "/episodio/74357/legendado",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1_background.jpg?v=1649095900"
+                            },
+                            {
+                                "url": "/episodio/74356/legendado",
+                                "title": "One Piece: Episode of Alabasta - Prologue",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/9913_background.jpg?v=1702804401"
+                            },
                             {
                                 "url": "/episodio/74355/dublado",
                                 "title": "One Piece: Heart of Gold",
@@ -190,26 +210,6 @@
                                 "url": "/episodio/74337/dublado",
                                 "title": "Filme Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1298_background.jpg?v=1702538332"
-                            },
-                            {
-                                "url": "/episodio/54229/dublado",
-                                "title": "Filme Shinseiki Evangelion Movie: Shi to Shinsei",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1350_background.jpg?v=1666231575"
-                            },
-                            {
-                                "url": "/episodio/48540/dublado",
-                                "title": "Filme Pokemon Movie 21: Minna no Monogatari",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/39514_background.jpg?v=1651942996"
-                            },
-                            {
-                                "url": "/episodio/74335/dublado",
-                                "title": "Filme Pokemon Movie 20: Kimi ni Kimeta!",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11923_background.jpg?v=1702535789"
-                            },
-                            {
-                                "url": "/episodio/74334/dublado",
-                                "title": "Filme Pokemon Movie 19: Volcanion to Karakuri no Magearna",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/10706_background.jpg?v=1702535515"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"\r\n\" under radix 16",
                 "passed": false
             }
         }

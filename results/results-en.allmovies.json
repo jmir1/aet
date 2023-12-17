@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/beacon-23/",
+                                "title": "Beacon 23",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/iflPBIRvxeyXw1RlTqmI7yGtbP5.jpg"
+                            },
+                            {
                                 "url": "/series/scott-pilgrim-takes-off/",
                                 "title": "Scott Pilgrim Takes Off",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/nHROk2C6bv8LqtvyYd0tCMURbxC.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/all-american-homecoming/",
                                 "title": "All American: Homecoming",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/6kehchi6qhbVmBQq6AJjWuLmOOA.jpg"
-                            },
-                            {
-                                "url": "/series/black-mirror/",
-                                "title": "Black Mirror",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,34 +264,23 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/scott-pilgrim-takes-off/",
-                    "title": "Scott Pilgrim Takes Off",
-                    "author": "BenDavid Grabinski, Bryan Lee O'Malley",
-                    "description": "Scott Pilgrim meets the girl of his dreams, Ramona Flowers, only to find out her seven evil exes stand in the way of their love.",
-                    "genre": "Action & Adventure, Animation, Comedy, Sci-Fi & Fantasy",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/beacon-23/",
+                    "title": "Beacon 23",
+                    "author": "Zak Penn",
+                    "description": "Aster Calyx and Halan Kai Nelson are inextricably drawn to Beacon 23. Navigating one threat after another, they unravel the beacon’s mysteries, just in time to face their most powerful enemy.",
+                    "genre": "Drama, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/scott-pilgrim-takes-off-1x8/",
-                        "name": "Season 1x8 : The World Vs Scott Pilgrim",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "/episode/scott-pilgrim-takes-off-1x7/",
-                        "name": "Season 1x7 : 2 Scott 2 Pilgrim",
-                        "episode_number": 7.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

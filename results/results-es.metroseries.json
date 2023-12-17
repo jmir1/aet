@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/essex-county/",
+                                "title": "Essex County",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/avalancha-en-los-dolomitas/",
                                 "title": "Avalancha en los Dolomitas",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/bajo-presion-la-seleccion-femenina-de-ee-uu-y-el-mundial-de-futbol/",
-                                "title": "Bajo presión: La selección femenina de EE. UU. y el Mundial de fútbol",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/como-atrape-a-mi-asesino/",
-                                "title": "Cómo atrapé a mi asesino",
+                                "url": "/mcgregor-forever/",
+                                "title": "McGregor Forever",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/broken/",
-                                "title": "Broken",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/11/fxKncYUZR87xq13096vGQPsmtlX-226x339.jpg"
+                                "url": "/genius/",
+                                "title": "Genius",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rfsHp5FZg54ckjVcXcYrxdjlRX3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/avalancha-en-los-dolomitas/",
-                    "title": "Avalancha en los Dolomitas",
-                    "description": "Blackout - Vite sospese Un terremoto aísla un hotel de lujo y el valle de montaña en el que se encuentra, provocando un apagón general.",
-                    "genre": "Drama, Misterio",
+                    "url": "/essex-county/",
+                    "title": "Essex County",
+                    "description": "Basado en la novela gráfica de Jeff Lemire. Cuatro personajes dispares unidos por líneas de sangre. Los personajes principales van y vienen en la vida de cada uno, tejiendo lentamente conexiones entre ellos que finalmente los salvan y redimin.",
+                    "genre": "Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/essex-county-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - Episodio 5",
+                        "date_upload": 1681603200000,
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/episode/essex-county-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - Episodio 4",
+                        "date_upload": 1680998400000,
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
