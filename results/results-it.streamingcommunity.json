@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7143-fargo",
+                                "title": "Fargo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ccf301ca-ab00-4c03-a331-e915045e9c44.webp"
+                            },
+                            {
+                                "url": "7142-alphonse",
+                                "title": "Alphonse",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/17d25d19-6b0c-4e87-bfdd-2579e5e30912.webp"
+                            },
+                            {
                                 "url": "7140-vivant",
                                 "title": "VIVANT",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1a8a46d5-e1bc-48be-9b64-41a7af7f2a0f.webp"
@@ -605,16 +615,6 @@
                                 "url": "7075-previsioni-damore",
                                 "title": "Previsioni d’amore",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b202e558-9ab4-4f1b-8003-44aa94b49062.webp"
-                            },
-                            {
-                                "url": "7074-il-liceo-voltaire",
-                                "title": "Il liceo Voltaire",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6de609e5-46a1-4ef3-a5b6-1d2222fa4df8.webp"
-                            },
-                            {
-                                "url": "7073-natale-con-vista",
-                                "title": "Natale con vista",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/dce2e33a-3f8d-47a9-abef-597bd39e0d57.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-11367497955716371215/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-11367497955716371215/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-11367497955716371215/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-11367497955716371215/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

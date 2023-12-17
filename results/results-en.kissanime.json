@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/One-Piece.54191/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
+                            },
+                            {
                                 "url": "/Anime/SPY-x-FAMILY-Season-2/",
                                 "title": "SPY x FAMILY Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/SPY-x-FAMILY-Season-2.jpg"
@@ -510,11 +515,6 @@
                                 "url": "/Anime/I-m-in-Love-with-the-Villainess-Dub/",
                                 "title": "I'm in Love with the Villainess (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-m-in-Love-with-the-Villainess-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/B-PROJECT-NetsuretsuLove-Call/",
-                                "title": "B-PROJECT: Netsuretsu*Love Call",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/B-PROJECT-Netsuretsu-Love-Call.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1048,36 +1048,23 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/Anime/One-Piece.54191/Episode-1088?id=187838",
+                        "name": "One Piece - Episode 1088",
+                        "date_upload": 1702771200000,
+                        "episode_number": 1088.0
+                    },
+                    {
                         "url": "/Anime/One-Piece.54191/Episode-1087?id=187724",
                         "name": "One Piece - Episode 1087",
                         "date_upload": 1702166400000,
                         "episode_number": 1087.0
-                    },
-                    {
-                        "url": "/Anime/One-Piece.54191/Episode-1086?id=187554",
-                        "name": "One Piece - Episode 1086",
-                        "date_upload": 1701561600000,
-                        "episode_number": 1086.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s47.openstream.io/hls/qvsbhdvlmxblgwsztszkaz6gk5h5nxq5ij4uplmmtysisbl3pzcub3orndra/index-v1-a1.m3u8",
-                        "quality": "Oserver - 720p",
-                        "videoUrl": "https://s47.openstream.io/hls/qvsbhdvlmxblgwsztszkaz6gk5h5nxq5ij4uplmmtysisbl3pzcub3orndra/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s47.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

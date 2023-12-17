@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-24-bolum-final",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179840001688805541.webp"
+                            },
+                            {
                                 "url": "/goblin-slayer-ii",
                                 "title": "Goblin Slayer II",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180490001696609382.webp"
@@ -45,11 +50,6 @@
                                 "url": "/kage-no-jitsuryokusha-ni-naritakute-2nd-season",
                                 "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180460001696532101.webp"
-                            },
-                            {
-                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179840001688805541.webp"
                             },
                             {
                                 "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
@@ -96,6 +96,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-24-bolum-final",
+                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179840001688805541.webp"
+                            },
                             {
                                 "url": "/tian-guan-cifu-er",
                                 "title": "Tian Guan Cifu Er",
@@ -180,11 +185,6 @@
                                 "url": "/jujutsu-kaisen-2nd-season",
                                 "title": "Jujutsu Kaisen 2nd Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941.webp"
-                            },
-                            {
-                                "url": "/saihate-no-paladin-tetsusabi-no-yama-no-ou",
-                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180810001699780137.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -353,106 +353,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/goblin-slayer-ii",
-                    "title": "Goblin Slayer II",
-                    "artist": "LIDENFILMS",
-                    "description": "Goblin Slayer animesinin ikinci sezonu.\nDiğer adlar: Goblin Slayer 2nd Season\nJaponca İsmi: ゴブリンスレイヤーⅡ\nStüdyo: LIDENFILMS",
-                    "genre": "Aksiyon, Macera, Fantastik",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/180490001696609382l.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/goblin-slayer-ii-11-bolum",
-                        "name": "11. Bölüm",
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/goblin-slayer-ii-10-bolum",
-                        "name": "10. Bölüm",
-                        "episode_number": 10.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/mkupnxnpcbyl",
-                        "quality": "[YuushaSubs] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-jfz54ijskijzgera.voe-network.net/engine/hls2/01/10102/waxzwgnkq2b4_,n,.urlset/master.m3u8?t=hg5LtHOsK-0n5_HK6w_ZLxr-SdmcQwC-5VrVwVQ52Ic&s=1702815185&e=14400&f=50536609&node=delivery-node-jfz54ijskijzgera.voe-network.net&i=172.183&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/VCtRcjk5REZoQ1VYbHZFYStmaEtrbkdUdGswazFKbGprdWZaWTJORTVpVmVCTTVrZDhBVHcwSFlDNnkzRnUxT0dNb2VOZ3VLRU8vQ0tUV0pUUTlvR0dzMllQTm1YSUhtQ01BMWNVMEhkYXdBcWh1OFllRGlGeVg0cHdYOTE1ZmhXRjJCWTlnRmV6dm1vbFA0SDBkeUdTZGVQeis1UDNnTDh4bUV6M016ZWI0S3dQU0hRYTZzZkpTZVBObis3ZUVHdW50S3cySnFnODkwODFGNitoeDhBSU5PZjNkcUFJM0pIcXQ1VXplT3hiSGx3SWhrMEtHc2h0R1g4MUJsZG9sa2dRSTdMczZlUDJhMlNOOFhBRnBWcXhiTERMVUlvaS9xOVV1S3dHTDBFSWc9",
-                        "quality": "[YuushaSubs] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/VCtRcjk5REZoQ1VYbHZFYStmaEtrbkdUdGswazFKbGprdWZaWTJORTVpVmVCTTVrZDhBVHcwSFlDNnkzRnUxT0dNb2VOZ3VLRU8vQ0tUV0pUUTlvR0dzMllQTm1YSUhtQ01BMWNVMEhkYXdBcWh1OFllRGlGeVg0cHdYOTE1ZmhXRjJCWTlnRmV6dm1vbFA0SDBkeUdTZGVQeis1UDNnTDh4bUV6M016ZWI0S3dQU0hRYTZzZkpTZVBObis3ZUVHdW50S3cySnFnODkwODFGNitoeDhBSU5PZjNkcUFJM0pIcXQ1VXplT3hiSGx3SWhrMEtHc2h0R1g4MUJsZG9sa2dRSTdMczZlUDJhMlNOOFhBRnBWcXhiTERMVUlvaS9xOVV1S3dHTDBFSWc9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/97508bc27879d2afa995fc79d555ac6d"
-                        }
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/VCtRcjk5REZoQ1VYbHZFYStmaEtrbkdUdGswazFKbGprdWZaWTJORTVpVmVCTTVrZDhBVHcwSFlDNnkzRnUxT1VLTXdQYzZmdE1zbk1qWGlsWXZCR2tHcUJzTXdyZHVIcTRBNkQzWFFiMk85QzVTZnN0dmZZMVo0ZitqSGVFTmc4MEg2SWZTUHdhZFowNStNaFBhc3JoVWhTcndzRktGUE1yTC8zM2xsM0l4QS9SRDFzTHVHMG9GRlhScHBwKytKSCt1ZFBmdVV0VDBCTzcrNXZYUEt2b3N0SmFkd2NBelV6cHhXSjVUT29IODhiU3QwQ082ZlhBajRYZmxtamZTRFJwaUgzUUw2cHh1MWpjUUp3MStHSy9BeFlycVFFbmU1aThwbDVzL291Nm8yTXR4N2JmUWc5bkhta0d1U2VIWDI%3D",
-                        "quality": "[YuushaSubs] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/VCtRcjk5REZoQ1VYbHZFYStmaEtrbkdUdGswazFKbGprdWZaWTJORTVpVmVCTTVrZDhBVHcwSFlDNnkzRnUxT1VLTXdQYzZmdE1zbk1qWGlsWXZCR2tHcUJzTXdyZHVIcTRBNkQzWFFiMk85QzVTZnN0dmZZMVo0ZitqSGVFTmc4MEg2SWZTUHdhZFowNStNaFBhc3JoVWhTcndzRktGUE1yTC8zM2xsM0l4QS9SRDFzTHVHMG9GRlhScHBwKytKSCt1ZFBmdVV0VDBCTzcrNXZYUEt2b3N0SmFkd2NBelV6cHhXSjVUT29IODhiU3QwQ082ZlhBajRYZmxtamZTRFJwaUgzUUw2cHh1MWpjUUp3MStHSy9BeFlycVFFbmU1aThwbDVzL291Nm8yTXR4N2JmUWc5bkhta0d1U2VIWDI%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/97508bc27879d2afa995fc79d555ac6d"
-                        }
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/VCtRcjk5REZoQ1VYbHZFYStmaEtrbkdUdGswazFKbGprdWZaWTJORTVpVmVCTTVrZDhBVHcwSFlDNnkzRnUxT1Y2dkVsL3lyOU5UTVZxUzc2UVFQUyt5bTBNK0o5cEYyQlZFUVhOVzBxOG9qbWRLa3lYTnhoY3djT2V2Mm1sZ0JpTVpHK3RRZ1IvOXVHa0JUdXV3ekxjOCt0ZEpFdUhrUVd4eTVaZHZHOWc5R2tmd1pOWkZkUVBtUWwwVG5PMzlhbVplOFVLRW1XTHpNZ2xBYlpLM2NQOVc2YjdnbE1kSXAzc1hHR1FQKzZxdTlPaVZOZG1YS25yeHVtNXRkaFZaNzYyMVFYRm55Ym1waXFsSTZoTUcwKzdkRGg3VVhYdmtYZS9BZkp0TXRuVFk9",
-                        "quality": "[YuushaSubs] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/VCtRcjk5REZoQ1VYbHZFYStmaEtrbkdUdGswazFKbGprdWZaWTJORTVpVmVCTTVrZDhBVHcwSFlDNnkzRnUxT1Y2dkVsL3lyOU5UTVZxUzc2UVFQUyt5bTBNK0o5cEYyQlZFUVhOVzBxOG9qbWRLa3lYTnhoY3djT2V2Mm1sZ0JpTVpHK3RRZ1IvOXVHa0JUdXV3ekxjOCt0ZEpFdUhrUVd4eTVaZHZHOWc5R2tmd1pOWkZkUVBtUWwwVG5PMzlhbVplOFVLRW1XTHpNZ2xBYlpLM2NQOVc2YjdnbE1kSXAzc1hHR1FQKzZxdTlPaVZOZG1YS25yeHVtNXRkaFZaNzYyMVFYRm55Ym1waXFsSTZoTUcwKzdkRGg3VVhYdmtYZS9BZkp0TXRuVFk9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/97508bc27879d2afa995fc79d555ac6d"
-                        }
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=1N0cGlnZ5ImuJRk37JbcQgq1acYe%2BC9lJyM%2BfrOmRBRYA1tcqKmVrcGI5x0wlw7UuPXXVJAdZ9ZRqdziDYFvn%2B3X47tJ72JDpPLppITYFQNeW6Gdr8dwqfhwR6GXnaZYyoej%2FUtg1rbG%2BkL%2FaceuXHRjkQAsaRotdYjTVR67K%2F5j%2FSZ5Qd0aBlaxZdQFW%2FkVM%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[YuushaSubs] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=1N0cGlnZ5ImuJRk37JbcQgq1acYe%2BC9lJyM%2BfrOmRBRYA1tcqKmVrcGI5x0wlw7UuPXXVJAdZ9ZRqdziDYFvn%2B3X47tJ72JDpPLppITYFQNeW6Gdr8dwqfhwR6GXnaZYyoej%2FUtg1rbG%2BkL%2FaceuXHRjkQAsaRotdYjTVR67K%2F5j%2FSZ5Qd0aBlaxZdQFW%2FkVM%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "/embed/novideo.mp4",
-                        "quality": "[YuushaSubs] YourUpload",
-                        "videoUrl": "/embed/novideo.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Origin": "https://anizm.net",
-                            "Referer": "https://anizm.net/",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://m150.uqload.io/3rfkvbhksnw2q4drdj5pvinjlyauylqravaso5prqkhrpnddarcnlfoo5gaq/v.mp4",
-                        "quality": "[YuushaSubs] Uqload",
-                        "videoUrl": "https://m150.uqload.io/3rfkvbhksnw2q4drdj5pvinjlyauylqravaso5prqkhrpnddarcnlfoo5gaq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/287d82dc44ed03ecb9449956baa32b37/5367171.mp4",
-                        "quality": "[YuushaSubs] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/287d82dc44ed03ecb9449956baa32b37/5367171.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5367171"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
+                "passed": false
             }
         }
     }

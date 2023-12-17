@@ -276,8 +276,19 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/beacon-23-1x8/",
+                        "name": "Season 1x8 : Adamantine",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/beacon-23-1x7/",
+                        "name": "Season 1x7 : End Transmission",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
