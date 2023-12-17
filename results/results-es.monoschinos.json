@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/fox-spirit-matchmaker-sub-espanol",
+                                "title": "Fox Spirit Matchmaker",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fox-spirit-matchmaker-1702770493.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/psycho-pass-movie-providence-sub-espanol",
                                 "title": "Psycho-Pass Movie: Providence",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/psycho-pass-movie-providence-1702608132.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/be-my-wife-s2-sub-espanol",
                                 "title": "Be My Wife S2",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s2-1697503878.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/be-my-wife-s1-sub-espanol",
-                                "title": "Be My Wife S1",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s1-1697503707.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,69 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/psycho-pass-movie-providence-sub-espanol",
-                    "title": "Psycho-Pass Movie: Providence",
-                    "description": "21 de enero de 18. La inspectora jefe del Departamento de Investigación Criminal, Akane Tsunemori, recibe un informe de un incidente en un barco extranjero: se ha descubierto el cuerpo de la profesora Milicia Stronskaya. Detrás del incidente hay un...",
-                    "genre": "Acción, Ciencia Ficción, Misterio",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/psycho-pass-movie-providence-1702608132.jpg?v=1.5",
+                    "url": "/anime/fox-spirit-matchmaker-sub-espanol",
+                    "title": "Fox Spirit Matchmaker",
+                    "description": "En un mundo en el que youkais y humanos pueden coexistir e incluso enamorarse entre ellos, muchos youkais ven como sus humanos amados mueren antes que ellos debido a que tienen una esperanza de vida mucho más corta. Cuando un humano renace, los recu...",
+                    "genre": "Acción, Comedia, Sobrenatural, Histórico, Romance",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fox-spirit-matchmaker-1702770493.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/psycho-pass-movie-providence-episodio-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=hIDB-k0ks_c&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=3&sig=hIDB-k0ks_c&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=DWMbOHuyfCc&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=2&sig=DWMbOHuyfCc&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=NjegsGZZlik&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=1&sig=NjegsGZZlik&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=olEbZ3A0aOQ&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=0&sig=olEbZ3A0aOQ&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=dRCsdPA_Szo&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=4&sig=dRCsdPA_Szo&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447"
-                    },
-                    {
-                        "url": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=snHWRgaY884&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447",
-                        "quality": "Okru:1080p",
-                        "videoUrl": "https://ok6-14.vkuser.net/?expires=1702836483721&srcIp=172.183.131.195&pr=10&srcAg=GECKO&ms=95.142.206.141&type=5&sig=snHWRgaY884&ct=0&urls=45.136.20.38%3B185.226.52.22&clientType=0&zs=43&id=5510438652447"
-                    },
-                    {
-                        "url": "https://m150.uqload.io/3rfkvouisnw2q4drdj47v47vdvmnxgsxnfdrw6lbmrinxt5kcuhq5zlyz4oq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m150.uqload.io/3rfkvouisnw2q4drdj47v47vdvmnxgsxnfdrw6lbmrinxt5kcuhq5zlyz4oq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

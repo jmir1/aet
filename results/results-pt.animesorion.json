@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74355/dublado",
+                                "title": "One Piece: Heart of Gold",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/11379_background.jpg?v=1702762326"
+                            },
+                            {
                                 "url": "/episodio/74354/legendado",
                                 "title": "Under Ninja",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42828_background.jpg?v=1696538368"
@@ -205,11 +210,6 @@
                                 "url": "/episodio/74334/dublado",
                                 "title": "Filme Pokemon Movie 19: Volcanion to Karakuri no Magearna",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/10706_background.jpg?v=1702535515"
-                            },
-                            {
-                                "url": "/episodio/74333/dublado",
-                                "title": "Filme Pokemon Movie 18: Ring no Choumajin Hoopa",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/9550_background.jpg?v=1702535220"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\r\n\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

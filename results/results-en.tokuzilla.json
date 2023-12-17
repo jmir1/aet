@@ -172,8 +172,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls28-eu.zcdn.stream/0789c17f2fa1efe5da287d291db5aa60/2023-12-15/360.m3u8?token=37ec77de537ef3d125bc3ae4c8b991c1&client=d41d8cd98f00b204e9800998ecf8427e&expires=1702802107&type=edge&node=nhVRxEg_brc4aN7wutua9-Dak4Wqw0v6lzjunjucQy1fStGZLdm25S8FSr3Veal32htvwNN5QVCzgaRFGeKluDvjs5GVXZWWe34eCxUkAUGQEw9iN9-Hz3_Vcsy8NqszgeZPw0vBFagguR_wbasW84urj_wqVYhhUU2uSnTHQnlaSTXlhJlL3o9zmQVU0yr9",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls28-eu.zcdn.stream/0789c17f2fa1efe5da287d291db5aa60/2023-12-15/360.m3u8?token=37ec77de537ef3d125bc3ae4c8b991c1&client=d41d8cd98f00b204e9800998ecf8427e&expires=1702802107&type=edge&node=nhVRxEg_brc4aN7wutua9-Dak4Wqw0v6lzjunjucQy1fStGZLdm25S8FSr3Veal32htvwNN5QVCzgaRFGeKluDvjs5GVXZWWe34eCxUkAUGQEw9iN9-Hz3_Vcsy8NqszgeZPw0vBFagguR_wbasW84urj_wqVYhhUU2uSnTHQnlaSTXlhJlL3o9zmQVU0yr9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://chillx.top",
+                            "Referer": "https://chillx.top/v/oOUy7RhMBhz8/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
