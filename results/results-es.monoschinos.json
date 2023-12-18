@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-daily-life-of-the-immortal-king-4th-season-sub-espanol",
+                                "title": "The Daily Life of the Immortal King 4th Season",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/the-daily-life-of-the-immortal-king-4th-season-1702841517.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/fox-spirit-matchmaker-sub-espanol",
                                 "title": "Fox Spirit Matchmaker",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fox-spirit-matchmaker-1702770493.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/be-my-wife-s3-sub-espanol",
                                 "title": "Be My Wife S3",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s3-1697512987.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/be-my-wife-s2-sub-espanol",
-                                "title": "Be My Wife S2",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/be-my-wife-s2-1697503878.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,24 +324,74 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/fox-spirit-matchmaker-sub-espanol",
-                    "title": "Fox Spirit Matchmaker",
-                    "description": "En un mundo en el que youkais y humanos pueden coexistir e incluso enamorarse entre ellos, muchos youkais ven como sus humanos amados mueren antes que ellos debido a que tienen una esperanza de vida mucho más corta. Cuando un humano renace, los recu...",
-                    "genre": "Acción, Comedia, Sobrenatural, Histórico, Romance",
+                    "url": "/anime/the-daily-life-of-the-immortal-king-4th-season-sub-espanol",
+                    "title": "The Daily Life of the Immortal King 4th Season",
+                    "description": "Cuarta temporada de The Daily Life of the Immortal King",
+                    "genre": "Aventura, Comedia, Fantasía, Romance",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fox-spirit-matchmaker-1702770493.jpg?v=1.5",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/the-daily-life-of-the-immortal-king-4th-season-1702841517.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/the-daily-life-of-the-immortal-king-4th-season-episodio-2",
+                        "name": "Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/ver/the-daily-life-of-the-immortal-king-4th-season-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=3&sig=3tJIa6Pe2VY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=3&sig=3tJIa6Pe2VY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=3&sig=3tJIa6Pe2VY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=3&sig=3tJIa6Pe2VY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=2&sig=NbMzQ0zLhdE&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=2&sig=NbMzQ0zLhdE&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=1&sig=Dn2EhI674fY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=1&sig=Dn2EhI674fY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=0&sig=Haa51xRIi1M&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=0&sig=Haa51xRIi1M&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223"
+                    },
+                    {
+                        "url": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=4&sig=-F2KIak04WY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-11.vkuser.net/?expires=1702945975337&srcIp=13.90.174.193&pr=10&srcAg=GECKO&ms=95.142.206.138&type=4&sig=-F2KIak04WY&ct=0&urls=45.136.20.30%3B185.226.53.25&clientType=0&zs=43&id=5524198984223"
+                    },
+                    {
+                        "url": "https://m170.uqload.io/3rfkvhxesnw2q4drdj57vlvyb5ydkgpmglnmjap5v7swide26ipud2tcnuxa/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m170.uqload.io/3rfkvhxesnw2q4drdj57vlvyb5ydkgpmglnmjap5v7swide26ipud2tcnuxa/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

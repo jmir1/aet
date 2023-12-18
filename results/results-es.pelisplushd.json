@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/pokemon-paldean-winds",
+                                "title": "Pokémon: Paldean Winds (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4X0nwj5iUbaRhe50Wd8xv55KzJw.jpg"
+                            },
+                            {
                                 "url": "/serie/uf-ya-es-navidad",
                                 "title": "¡Uf! ¡Ya es Navidad! (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7kvXK5jqFWUslbL8P2CwL49FmOU.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/el-reemplazo-del-chef-chico",
                                 "title": "El reemplazo del chef Chico (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/dacGvcXdTc0zh1MU0EGRUheYoUW.jpg"
-                            },
-                            {
-                                "url": "/serie/una-familia-normal",
-                                "title": "Una familia normal (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5xmbBXhPXTSdBG6JXSlKawYVKS2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/uf-ya-es-navidad",
-                    "title": "¡Uf! ¡Ya es Navidad! (2023)",
-                    "description": "Soltera, treintañera y presionada, Thando miente a su familia diciéndoles que tiene novio. Con solo 24 días para que sea Navidad, ¿conseguirá encontrar uno a tiempo?.",
-                    "genre": "Comedia, Drama",
+                    "url": "/serie/pokemon-paldean-winds",
+                    "title": "Pokémon: Paldean Winds (2023)",
+                    "description": "Siga a varios estudiantes de la academia a medida que avanzan, crecen y aprenden mientras asisten a la escuela..",
+                    "genre": "Animación, Comedia, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7kvXK5jqFWUslbL8P2CwL49FmOU.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/4X0nwj5iUbaRhe50Wd8xv55KzJw.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,65 +278,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/uf-ya-es-navidad/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/pokemon-paldean-winds/temporada/1/capitulo/4",
+                        "name": "T1 - E4: Episodio 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/serie/uf-ya-es-navidad/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/pokemon-paldean-winds/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/ibfroy1pl95w",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-mog6ovqzlvtaexua.voe-network.net/engine/hls2-c/01/10100/ibfroy1pl95w_,n,.urlset/master.m3u8?t=36RRt-4PQiA4KajAMz-AKANvugvmXi0GPTR3doZRoNg&s=1702836517&e=14400&f=50501295&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=20.109&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://soqzlgevoq9t.enaak-cdn.com/hls2/01/00981/l8p5eb1mzuzw_n/index-v1-a1.m3u8?t=1xZZyTrdKVkUE36vyslvitvn3DR5vGbpBLF7jLbrxpE&s=1702836515&e=129600&f=4908313&srv=U5oFs70jMNh6&i=0.4&sp=1500&p1=U5oFs70jMNh6&p2=U5oFs70jMNh6&asn=8075",
-                        "quality": "FileLions:720p",
-                        "videoUrl": "https://soqzlgevoq9t.enaak-cdn.com/hls2/01/00981/l8p5eb1mzuzw_n/index-v1-a1.m3u8?t=1xZZyTrdKVkUE36vyslvitvn3DR5vGbpBLF7jLbrxpE&s=1702836515&e=129600&f=4908313&srv=U5oFs70jMNh6&i=0.4&sp=1500&p1=U5oFs70jMNh6&p2=U5oFs70jMNh6&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://filelions.to",
-                            "Referer": "https://filelions.to/v/l8p5eb1mzuzw"
-                        }
-                    },
-                    {
-                        "url": "https://sc0ikg0x.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f2-v1-a1.m3u8?t=iOQtJs-R4QhirYZ8pWVmlGctGHM60opD5pHxUsc9rgQ&s=1702836483&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
-                        "quality": "StreamWish:720p",
-                        "videoUrl": "https://sc0ikg0x.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f2-v1-a1.m3u8?t=iOQtJs-R4QhirYZ8pWVmlGctGHM60opD5pHxUsc9rgQ&s=1702836483&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/lq9flbrnd70o"
-                        }
-                    },
-                    {
-                        "url": "https://sc0ikg0x.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f1-v1-a1.m3u8?t=iOQtJs-R4QhirYZ8pWVmlGctGHM60opD5pHxUsc9rgQ&s=1702836483&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
-                        "quality": "StreamWish:480p",
-                        "videoUrl": "https://sc0ikg0x.sw-cdnstream.com/hls2/01/02543/lq9flbrnd70o_,n,h,.urlset/index-f1-v1-a1.m3u8?t=iOQtJs-R4QhirYZ8pWVmlGctGHM60opD5pHxUsc9rgQ&s=1702836483&e=129600&f=12719736&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/lq9flbrnd70o"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=4d64Kr1LRXFKKVJ&expires=1702906515&ip=FROsD0AAKxSHDN&token=2_vthfSc4TkM",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=4d64Kr1LRXFKKVJ&expires=1702906515&ip=FROsD0AAKxSHDN&token=2_vthfSc4TkM"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -640,6 +596,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/violet-evergarden-gaiden-la-eternidad-y-la-muneca-de-recuerdos-automaticos/",
+                                "title": "Violet Evergarden Gaiden: la eternidad y la muñeca de recuerdos automáticos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/violet-evergarden-gaiden-la-eternidad-y-la-muneca-de-recuerdos-automaticos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/wedding-daze/",
+                                "title": "Wedding Daze",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/wedding-daze.jpg"
+                            },
+                            {
+                                "url": "/pelicula/pijamada-de-locos/",
+                                "title": "Pijamada de locos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pijamada-de-locos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/campamento-navideno/",
+                                "title": "Campamento navideño",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/campamento-navideno.jpg"
+                            },
+                            {
+                                "url": "/pelicula/finestkind/",
+                                "title": "Finestkind",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/finestkind.jpg"
+                            },
+                            {
                                 "url": "/pelicula/los-delincuentes/",
                                 "title": "Los delincuentes",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/los-delincuentes.jpg"
@@ -713,31 +694,6 @@
                                 "url": "/pelicula/plus-que-jamais/",
                                 "title": "Plus que jamais",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/plus-que-jamais.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tshyllw/",
-                                "title": "تشيللو",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tshyllw.jpg"
-                            },
-                            {
-                                "url": "/pelicula/der-fuchs/",
-                                "title": "Der Fuchs",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/der-fuchs.jpg"
-                            },
-                            {
-                                "url": "/pelicula/kane/",
-                                "title": "Kane",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kane.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-version-persa/",
-                                "title": "La versión persa",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-version-persa.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-squad-1205901/",
-                                "title": "The Squad",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-squad-1205901.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -907,11 +863,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/los-delincuentes/",
-                    "title": "Los delincuentes",
+                    "url": "/pelicula/violet-evergarden-gaiden-la-eternidad-y-la-muneca-de-recuerdos-automaticos/",
+                    "title": "Violet Evergarden Gaiden: la eternidad y la muñeca de recuerdos automáticos",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia, Drama",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -921,7 +877,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/los-delincuentes/",
+                        "url": "/pelicula/violet-evergarden-gaiden-la-eternidad-y-la-muneca-de-recuerdos-automaticos/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -931,31 +887,31 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://chdswwbjwqkz.sw-cdnstream.com/hls2/01/02543/1ftinkb4bpow_,n,h,.urlset/index-f2-v1-a1.m3u8?t=r8vhP0nm_Nxk6YKpw1e9YXIjJdqv7j7Fhp7TA7hQpUM&s=1702836523&e=129600&f=12719742&srv=jnZReQ0zch6Y&i=0.4&sp=500&p1=jnZReQ0zch6Y&p2=jnZReQ0zch6Y&asn=8075",
+                        "url": "https://xm3p6iqx.sw-cdnstream.com/hls2/01/02554/0to3lc6o3d73_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fPUq5rGCqYb3KMDks8cxnauHoKX0K7PMnbq4IUHZm18&s=1702859563&e=129600&f=12772724&srv=d37u0lcbz47s&i=0.4&sp=500&p1=d37u0lcbz47s&p2=d37u0lcbz47s&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://chdswwbjwqkz.sw-cdnstream.com/hls2/01/02543/1ftinkb4bpow_,n,h,.urlset/index-f2-v1-a1.m3u8?t=r8vhP0nm_Nxk6YKpw1e9YXIjJdqv7j7Fhp7TA7hQpUM&s=1702836523&e=129600&f=12719742&srv=jnZReQ0zch6Y&i=0.4&sp=500&p1=jnZReQ0zch6Y&p2=jnZReQ0zch6Y&asn=8075",
+                        "videoUrl": "https://xm3p6iqx.sw-cdnstream.com/hls2/01/02554/0to3lc6o3d73_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fPUq5rGCqYb3KMDks8cxnauHoKX0K7PMnbq4IUHZm18&s=1702859563&e=129600&f=12772724&srv=d37u0lcbz47s&i=0.4&sp=500&p1=d37u0lcbz47s&p2=d37u0lcbz47s&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/1ftinkb4bpow"
+                            "Referer": "https://wishembed.pro/e/0to3lc6o3d73"
                         }
                     },
                     {
-                        "url": "https://chdswwbjwqkz.sw-cdnstream.com/hls2/01/02543/1ftinkb4bpow_,n,h,.urlset/index-f1-v1-a1.m3u8?t=r8vhP0nm_Nxk6YKpw1e9YXIjJdqv7j7Fhp7TA7hQpUM&s=1702836523&e=129600&f=12719742&srv=jnZReQ0zch6Y&i=0.4&sp=500&p1=jnZReQ0zch6Y&p2=jnZReQ0zch6Y&asn=8075",
+                        "url": "https://xm3p6iqx.sw-cdnstream.com/hls2/01/02554/0to3lc6o3d73_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fPUq5rGCqYb3KMDks8cxnauHoKX0K7PMnbq4IUHZm18&s=1702859563&e=129600&f=12772724&srv=d37u0lcbz47s&i=0.4&sp=500&p1=d37u0lcbz47s&p2=d37u0lcbz47s&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://chdswwbjwqkz.sw-cdnstream.com/hls2/01/02543/1ftinkb4bpow_,n,h,.urlset/index-f1-v1-a1.m3u8?t=r8vhP0nm_Nxk6YKpw1e9YXIjJdqv7j7Fhp7TA7hQpUM&s=1702836523&e=129600&f=12719742&srv=jnZReQ0zch6Y&i=0.4&sp=500&p1=jnZReQ0zch6Y&p2=jnZReQ0zch6Y&asn=8075",
+                        "videoUrl": "https://xm3p6iqx.sw-cdnstream.com/hls2/01/02554/0to3lc6o3d73_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fPUq5rGCqYb3KMDks8cxnauHoKX0K7PMnbq4IUHZm18&s=1702859563&e=129600&f=12772724&srv=d37u0lcbz47s&i=0.4&sp=500&p1=d37u0lcbz47s&p2=d37u0lcbz47s&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/1ftinkb4bpow"
+                            "Referer": "https://wishembed.pro/e/0to3lc6o3d73"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=GQq2LYD6XQHYA0&expires=1702906525&ip=FROsD0AAKxSHDN&token=mgeqE3gyUXBv",
+                        "url": "https://streamtape.com/get_video?id=dLmZwBg8ZdhkvMk&expires=1702929564&ip=F0AsF0AnDS9X&token=ExMJmIAOJ5XU",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=GQq2LYD6XQHYA0&expires=1702906525&ip=FROsD0AAKxSHDN&token=mgeqE3gyUXBv"
+                        "videoUrl": "https://streamtape.com/get_video?id=dLmZwBg8ZdhkvMk&expires=1702929564&ip=F0AsF0AnDS9X&token=ExMJmIAOJ5XU"
                     }
                 ],
                 "passed": true

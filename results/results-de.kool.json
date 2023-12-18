@@ -977,21 +977,15 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=466420&name=Killers of the Flower Moon&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=J90O4r1781sjkdP&expires=1702906486&ip=FROsEHMnDS9X&token=zV3iYlSMnw23",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=J90O4r1781sjkdP&expires=1702906486&ip=FROsEHMnDS9X&token=zV3iYlSMnw23"
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true

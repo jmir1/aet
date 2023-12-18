@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42848_background.jpg?v=1696805104"
                             },
                             {
-                                "url": "/anime/54362",
-                                "title": "Hametsu no Oukoku",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42832_background.jpg?v=1696642576"
-                            },
-                            {
                                 "url": "/anime/40357",
                                 "title": "Tate no Yuusha no Nariagari Season 3",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/14989_background.jpg?v=1696601069"
+                            },
+                            {
+                                "url": "/anime/54362",
+                                "title": "Hametsu no Oukoku",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42832_background.jpg?v=1696642576"
                             }
                         ],
                         "hasNextPage": false
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"\r\n\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

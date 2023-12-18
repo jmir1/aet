@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/the-voice-uk-38634/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/11de4ffc3f5c3d91ca7320a1f0c73596.jpg"
+                            },
+                            {
                                 "url": "/film/paper-dolls-103486/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/0fe63583e02bb608a94f55db644e1ebe.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/snap-and-spark-103957/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/7013f31ce3280e07ef96fb8e74ff569f.jpg"
-                            },
-                            {
-                                "url": "/film/deaths-game-103954/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/5988389bc300ba90246818f5099a2f7d.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -348,11 +348,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/film/paper-dolls-103486/",
-                    "title": "Paper Dolls",
+                    "url": "/film/the-voice-uk-38634/",
+                    "title": "The Voice UK",
                     "author": "",
-                    "description": "At the cusp of the new millennium, five aspiring singers are thrust into the spotlight in pursuit of pop-stardom and fame.\n\nQuality: HD\nRelease: 2023-12-03\nIMDb: 7.6",
-                    "genre": "Drama, Music",
+                    "description": "A vocal contest reality series featuring people with real talent and great voices. Only the very best singers make it through the the blind auditions, the decisions from the four celebrity coaches are based solely on the voices they hear - and nothing else.\n\nQuality: HD\nRelease: 2012-03-24\nIMDb: 5.6",
+                    "genre": "Reality",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -360,11 +360,17 @@
                 "passed": true
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "{\"ep_num\":0,\"ids\":[\"38634_0_1\",\"38634_0_2\",\"38634_0_3\"]}",
+                        "name": "Movie",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

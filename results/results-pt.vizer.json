@@ -459,16 +459,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3595.webp"
                             },
                             {
-                                "url": "/serie/online/isekai-nonbiri-nouka",
-                                "title": "Isekai Nonbiri Nouka",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22147.webp"
-                            },
-                            {
                                 "url": "/serie/online/isekai-yakkyoku",
                                 "title": "Isekai Yakkyoku",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21891.webp"
+                            },
+                            {
+                                "url": "/serie/online/isekai-nonbiri-nouka",
+                                "title": "Isekai Nonbiri Nouka",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22147.webp"
                             },
                             {
                                 "url": "/serie/online/tensei-kenja-no-isekai-life-daini-no-shokugyo-wo-ete-sekai-saikyou-ni-narimashita",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
