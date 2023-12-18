@@ -693,18 +693,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ds2play.com/e/6pfotg0p1h8f",
-                        "quality": "Dood mirror",
-                        "videoUrl": "https://lop271m.video-delivery.net/u5kj65w36le3sdgge6jqwyagjz2frvbyq47skyq7tg6kiwzppsa6hlu5hwdq/gyvdt7fdzj~jko75IARLi?token=2qnsl29j7yo9se62fhnw8hfk&expiry=1702859555210",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://ds2play.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

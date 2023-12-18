@@ -252,6 +252,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/h4BoV9d1rNIWfjlTwZtNbaCkGwn.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=634649&type=movie",
+                                "title": "Spider-Man: No Way Home",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=360920&type=movie",
                                 "title": "Der Grinch",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/n9BfoE3v2DYa6sl93uAaDXBAM7P.jpg"
@@ -295,11 +300,6 @@
                                 "url": "/data/watch/?_id=753342&type=movie",
                                 "title": "Napoleon",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/pula9kiMIgNku5EyDrcyyaofj4S.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=634649&type=movie",
-                                "title": "Spider-Man: No Way Home",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/iNKf4D0AzOj9GLq8ZyG3WZaqibL.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=940551&type=movie",
@@ -811,6 +811,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/xI35piSTR2Z0WKkPgX841RQqns8.jpg"
                             },
                             {
+                                "url": "https://www.kool.to/data/watch/?_id=20329&type=movie",
+                                "title": "Death Note - L: Change the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qgOCMBMN3rYLMlmyS5fOMddc8Cx.jpg"
+                            },
+                            {
                                 "url": "https://www.kool.to/data/watch/?_id=919689&type=movie",
                                 "title": "War Of The Worlds - Die Vernichtung",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nZEW24Tnp8m6wRKmfTuXA7FZYJe.jpg"
@@ -844,11 +849,6 @@
                                 "url": "https://www.kool.to/data/watch/?_id=1036956&type=movie",
                                 "title": "Jurassic World: Neue Abenteuer: Verborgenes Abenteuer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/7ZeqXAT3EXu9uhFXwhyKlH4NAlM.jpg"
-                            },
-                            {
-                                "url": "https://www.kool.to/data/watch/?_id=20329&type=movie",
-                                "title": "Death Note - L: Change the World",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/qgOCMBMN3rYLMlmyS5fOMddc8Cx.jpg"
                             },
                             {
                                 "url": "https://www.kool.to/data/watch/?_id=270413&type=movie",
@@ -977,15 +977,21 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/kool-cluster/mediahubmx-source.json?id=466420&name=Killers of the Flower Moon&type=movie",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://www.kool.to",
-                        "quality": "TV",
-                        "videoUrl": "https://www.kool.to"
+                        "url": "https://streamtape.com/get_video?id=J90O4r1781sjkdP&expires=1702949802&ip=FROsE0MnDS9X&token=Ev0bf2_U7JDD",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=J90O4r1781sjkdP&expires=1702949802&ip=FROsE0MnDS9X&token=Ev0bf2_U7JDD"
                     }
                 ],
                 "passed": true
