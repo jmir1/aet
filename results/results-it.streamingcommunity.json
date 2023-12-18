@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7168-island",
+                                "title": "ISLAND",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d847b4e3-b882-41f8-84a0-a3e9dd2f8c3b.webp"
+                            },
+                            {
                                 "url": "7165-fantozzi-subisce-ancora",
                                 "title": "Fantozzi subisce ancora",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/14c3baf5-05e2-48b8-8ee1-7b4b008f4bb7.webp"
@@ -324,7 +329,7 @@
                             {
                                 "url": "7164-il-natale-piu-dolce-di-sempre",
                                 "title": "Il Natale più dolce di sempre",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/507cb87e-6ec7-4a05-b0f1-c49723a17ae3.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9f3e89a8-4dd2-4952-a869-7e9893c07fd8.webp"
                             },
                             {
                                 "url": "7163-man-in-love",
@@ -334,7 +339,7 @@
                             {
                                 "url": "7162-the-code",
                                 "title": "The Code",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3d9cb96f-9af8-473e-a8a1-149a7396ff30.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/87d8222d-c30c-4464-959a-c12c0c2a1a67.webp"
                             },
                             {
                                 "url": "7161-lelefante-del-mago",
@@ -610,11 +615,6 @@
                                 "url": "7099-la-befana-vien-di-pintus",
                                 "title": "La Befana vien di Pintus",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b794d23f-f88f-4646-9f38-a43aa3174f24.webp"
-                            },
-                            {
-                                "url": "7098-il-seme",
-                                "title": "Il seme",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c8293847-0a5e-4a9b-acb3-85410bf2bbdb.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-5157214790918022313/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-5157214790918022313/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-5157214790918022313/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-5157214790918022313/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7078?episode_id=45472\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17574842411047796687/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17574842411047796687/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17574842411047796687/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17574842411047796687/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
