@@ -3,7 +3,7 @@
         "name": "AnimeTake (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
@@ -29,11 +29,6 @@
                                 "url": "/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/",
                                 "title": "Attack on Titan: The Final Season - Final Chapters",
                                 "thumbnail_url": "https://animetake.tv/cache/images/shingeki-no-kyojin-the-final-season-kanketsu-hen.jpg"
-                            },
-                            {
-                                "url": "/anime/b-project-netsuretsu-love-call/",
-                                "title": "B-Project: Netsuretsu*Love Call",
-                                "thumbnail_url": "https://animetake.tv/cache/images/b-project-netsuretsu-love-call.jpg"
                             },
                             {
                                 "url": "/anime/beyblade-x/",
@@ -159,6 +154,11 @@
                                 "url": "/anime/im-giving-the-disgraced-noble-lady-i-rescued-a-crash-course-in-naughtiness/",
                                 "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
                                 "thumbnail_url": "https://animetake.tv/cache/images/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga.jpg"
+                            },
+                            {
+                                "url": "/anime/journey-to-bloom/",
+                                "title": "Journey to Bloom",
+                                "thumbnail_url": "https://animetake.tv/cache/images/journey-to-bloom.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -268,9 +268,9 @@
                         }
                     },
                     {
-                        "url": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3snamjswbpusasafljee26fzc7nv4x4/video.mp4",
+                        "url": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3soytdp4gpjzoxrom4tzb62qmwlzsqy/video.mp4",
                         "quality": "Mp4Upload - 1080p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3snamjswbpusasafljee26fzc7nv4x4/video.mp4",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxzfzxuz3b4quuodgqraykviacfrxl4pqzae4fio3soytdp4gpjzoxrom4tzb62qmwlzsqy/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://mp4upload.com/"

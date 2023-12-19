@@ -227,6 +227,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/captain-tsubasa-2018",
+                                "title": "Super Campeões",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.webp"
+                            },
+                            {
+                                "url": "/serie/online/one-piece",
+                                "title": "One Piece",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19081.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-curse",
+                                "title": "The Curse",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
+                            },
+                            {
+                                "url": "/serie/online/companheiros-de-viagem",
+                                "title": "Companheiros de Viagem",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
+                            },
+                            {
+                                "url": "/serie/online/homens-da-lei-bass-reeves",
+                                "title": "Homens da Lei: Bass Reeves",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
+                            },
+                            {
                                 "url": "/serie/online/reacher",
                                 "title": "Reacher",
                                 "status": 1,
@@ -299,28 +329,10 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22553.webp"
                             },
                             {
-                                "url": "/serie/online/homens-da-lei-bass-reeves",
-                                "title": "Homens da Lei: Bass Reeves",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
-                            },
-                            {
                                 "url": "/serie/online/rick-and-morty",
                                 "title": "Rick e Morty",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
-                            },
-                            {
-                                "url": "/serie/online/companheiros-de-viagem",
-                                "title": "Companheiros de Viagem",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-curse",
-                                "title": "The Curse",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
                             },
                             {
                                 "url": "/serie/online/the-couple-next-door",
@@ -333,18 +345,6 @@
                                 "title": "Hilda",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3772.webp"
-                            },
-                            {
-                                "url": "/serie/online/doce-misterio",
-                                "title": "Doce Mistério",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22516.webp"
-                            },
-                            {
-                                "url": "/serie/online/captain-tsubasa-2018",
-                                "title": "Super Campeões",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3828.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }

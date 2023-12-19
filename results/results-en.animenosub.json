@@ -117,14 +117,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/anime/shy/",
-                                "title": "SHY",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/Shy-poster.jpg"
+                                "url": "/anime/im-in-love-with-the-villainess/",
+                                "title": "I’m in Love with the Villainess",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696237655-7988-137711.jpg"
                             },
                             {
                                 "url": "/anime/a-playthrough-of-a-certain-dudes-vrmmo-life/",
                                 "title": "A Playthrough of a Certain Dude’s VRMMO Life",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/A-Playthrough-of-a-Certain-Dudes-VRMMO-Life-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/shy/",
+                                "title": "SHY",
+                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/Shy-poster.jpg"
                             },
                             {
                                 "url": "/anime/migi-to-dali/",
@@ -210,11 +215,6 @@
                                 "url": "/anime/protocol-rain/",
                                 "title": "Protocol: Rain",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696676750-8449-138465.jpg"
-                            },
-                            {
-                                "url": "/anime/the-apothecary-diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Apothecary-Diaries-poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspahrq6h2hgrmys5q/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspahrq6h2hgrmys5q/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspahrq6h7xwcu3jva/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspahrq6h7xwcu3jva/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
