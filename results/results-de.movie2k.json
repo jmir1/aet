@@ -287,8 +287,40 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv10.dropload.io/hls2/01/00098/hwqeojt180n4_h/index-v1-a1.m3u8?t=XJfJzrcLH9jomhdH6FCIBkVUWceIO8NCUqiWB1poTHE&s=1703009229&e=21600&f=491879&i=74.249&sp=0",
+                        "quality": "Dropload:358p ",
+                        "videoUrl": "https://srv10.dropload.io/hls2/01/00098/hwqeojt180n4_h/index-v1-a1.m3u8?t=XJfJzrcLH9jomhdH6FCIBkVUWceIO8NCUqiWB1poTHE&s=1703009229&e=21600&f=491879&i=74.249&sp=0",
+                        "headers": {
+                            "origin": "https://dropload.io",
+                            "referer": "https://dropload.io/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/5ae0ff82a143a5a4192794e91f012d01.mp4?s=So6-DqsdSeY6hWIFltiNVQ&e=1703030831&_t=1703015231",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/5ae0ff82a143a5a4192794e91f012d01.mp4?s=So6-DqsdSeY6hWIFltiNVQ&e=1703030831&_t=1703015231",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Do6B9YpW7jFk008&expires=1703079231&ip=GHEsDRqAKxSHDN&token=F_qhK_B8aYqp",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Do6B9YpW7jFk008&expires=1703079231&ip=GHEsDRqAKxSHDN&token=F_qhK_B8aYqp"
+                    },
+                    {
+                        "url": "https://dood.to/e/iuscq8l9s9vu",
+                        "quality": "Doodstream",
+                        "videoUrl": "https://ld491ff.video-delivery.net/u5kj7fe76he3sdgge6eqwpydln2xgjwpownbjdqispio5rjabbmeg6szh7uq/h30eltxz3e~TILimxa5Ik?token=xpero2a4vbi75ca091qyyfgi&expiry=1703009232332",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.to/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/spy-x-family-season-2",
+                                "title": "Spy x Family Season 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181.webp"
+                            },
+                            {
                                 "url": "/rurouni-kenshin-meiji-kenkaku-romantan-2023-24-bolum-final",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179840001688805541.webp"
@@ -57,11 +62,6 @@
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180540001696792981.webp"
                             },
                             {
-                                "url": "/spy-x-family-season-2",
-                                "title": "Spy x Family Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181.webp"
-                            },
-                            {
                                 "url": "/mahoutsukai-no-yome-season-2-part-2",
                                 "title": "Mahoutsukai no Yome Season 2 Part 2",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180470001696685701.webp"
@@ -96,6 +96,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
+                                "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180850001700128507.webp"
+                            },
+                            {
+                                "url": "/overtake",
+                                "title": "Overtake!",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180870001700919781.webp"
+                            },
+                            {
+                                "url": "/spy-x-family-season-2",
+                                "title": "Spy x Family Season 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181.webp"
+                            },
                             {
                                 "url": "/kanojo-mo-kanojo-season-2",
                                 "title": "Kanojo mo Kanojo Season 2",
@@ -170,21 +185,6 @@
                                 "url": "/kawaisugi-crisis",
                                 "title": "Kawaisugi Crisis",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/179520001681712341.webp"
-                            },
-                            {
-                                "url": "/kawaisugi-crisis",
-                                "title": "Kawaisugi Crisis",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179520001681712341.webp"
-                            },
-                            {
-                                "url": "/hoshikuzu-telepath",
-                                "title": "Hoshikuzu Telepath",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180560001696964702.webp"
-                            },
-                            {
-                                "url": "/hoshikuzu-telepath",
-                                "title": "Hoshikuzu Telepath",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180560001696964702.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -353,16 +353,130 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/spy-x-family-season-2",
+                    "title": "Spy x Family Season 2",
+                    "artist": "Wit Studio, CloverWorks",
+                    "description": "Spy x Family animesinin 2. sezonudur.\nDiğer adlar: \nJaponca İsmi: SPY×FAMILY Season 2\nStüdyo: Wit Studio, CloverWorks",
+                    "genre": "Aksiyon, Komedi",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/180530001696770181l.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/spy-x-family-season-2-11-bolum",
+                        "name": "11. Bölüm",
+                        "episode_number": 11.0
+                    },
+                    {
+                        "url": "/spy-x-family-season-2-10-bolum",
+                        "name": "10. Bölüm",
+                        "episode_number": 10.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/o2qiien6nlbl",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-clhgmyals7krrwkn.voe-network.net/engine/hls2-c/01/10121/9detq5kx2nyf_,n,.urlset/master.m3u8?t=3EHjeFcVp7Esq-VQMkM290GxTmB23dS9nX0Qz-rqgeE&s=1703009326&e=14400&f=50609059&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=20.49&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://voe.sx/e/9detq5kx2nyf",
+                        "quality": "[Holy] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-clhgmyals7krrwkn.voe-network.net/engine/hls2-c/01/10121/9detq5kx2nyf_,n,.urlset/master.m3u8?t=QXjkcsQ5KihFxFPNNtxk8ta3yBhBOwMuXXJoZhJBLRA&s=1703009325&e=14400&f=50609042&node=delivery-node-zpbpgwnslqqivqwb.voe-network.net&i=20.49&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=Ub%2FpOA3MqhJ6WK2dA27Kqw5xwQoU18w0o8mCOmZnXurbXSKKWxOo6Z5OLkKp%2Fw2EnuBLf%2Bt%2F0wKxlU1QGhgP3cJteaJR49V6Lm9F29%2FX9MiehGFaS7ITEfrvtgW8qovzY5ubRax5Ez30CJFFQIsDHVA1hqARX7mjdCNritUw%2BNm5rHCrx0NrfUVpdJFN3RK1M%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
+                        "quality": "[Holy] GDRIVE 720p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=Ub%2FpOA3MqhJ6WK2dA27Kqw5xwQoU18w0o8mCOmZnXurbXSKKWxOo6Z5OLkKp%2Fw2EnuBLf%2Bt%2F0wKxlU1QGhgP3cJteaJR49V6Lm9F29%2FX9MiehGFaS7ITEfrvtgW8qovzY5ubRax5Ez30CJFFQIsDHVA1hqARX7mjdCNritUw%2BNm5rHCrx0NrfUVpdJFN3RK1M%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/dVp3OUV6UG96SVJYRk9iMlRMYnlVTVBKMnhFY0prZ2xsWmw0d2JOZ2JXa2JFVFdwU0N4OGowRmNoV0VYVEZGb1lSZllhcFgzbmh2d290NGs3SnI4MUV3dWc4UFhuNzczQnF3TldTd29ReC94dnczWmhMVUNoMVRDZkIrMU9CQ1hWOSs4UnpzTEVNR0VhUWVLSDEvYW5BYWw1SDZGMGtIYkhoWWcrQUU0NkVscllQWWV4R2hjK3hTdU9pbXpscjRBMzlUY0hyTlJwZXl2cHVzVldZZmxRaGk4aVdVcXllM2lHUnYySFU1L0JXcG5TYWRSZXloMXRoYWsweWYzYU9HTVRiQ0Zod2RSSy9NYmpLVEJMYkVhcGwzcVFBV1JVeWRTVGsyVkJkczE4ekU9",
+                        "quality": "[Holy] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/dVp3OUV6UG96SVJYRk9iMlRMYnlVTVBKMnhFY0prZ2xsWmw0d2JOZ2JXa2JFVFdwU0N4OGowRmNoV0VYVEZGb1lSZllhcFgzbmh2d290NGs3SnI4MUV3dWc4UFhuNzczQnF3TldTd29ReC94dnczWmhMVUNoMVRDZkIrMU9CQ1hWOSs4UnpzTEVNR0VhUWVLSDEvYW5BYWw1SDZGMGtIYkhoWWcrQUU0NkVscllQWWV4R2hjK3hTdU9pbXpscjRBMzlUY0hyTlJwZXl2cHVzVldZZmxRaGk4aVdVcXllM2lHUnYySFU1L0JXcG5TYWRSZXloMXRoYWsweWYzYU9HTVRiQ0Zod2RSSy9NYmpLVEJMYkVhcGwzcVFBV1JVeWRTVGsyVkJkczE4ekU9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/52e4229844ff14a7d24b72dfcc6856f9"
+                        }
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxsjk7tz3b4quuol6qrqzswcs5hltq2hwrg5qmpbskz64eitmu7lec3fncrtupfqkvkqbm6/video.mp4",
+                        "quality": "[Holy] Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxsjk7tz3b4quuol6qrqzswcs5hltq2hwrg5qmpbskz64eitmu7lec3fncrtupfqkvkqbm6/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Origin": "https://anizm.net",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxspk7tz3b4quuol6qqgicjkj6d5ylrv2cm74kloa6fayoxggetkjjs4363ktpxk5wtyta7/video.mp4",
+                        "quality": "[Holy] Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxspk7tz3b4quuol6qqgicjkj6d5ylrv2cm74kloa6fayoxggetkjjs4363ktpxk5wtyta7/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Origin": "https://anizm.net",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/dVp3OUV6UG96SVJYRk9iMlRMYnlVTVBKMnhFY0prZ2xsWmw0d2JOZ2JXa2JFVFdwU0N4OGowRmNoV0VYVEZGb0Y4MGIxcHJCQU5HODk4TTRaNmVpM0x5K2VkWHJ1Z0RhckU3ZHhHaG0zUlNVT3pRRjFJeUltT1labVc3eGZqVzhSNlJldEtDQWlURWxId2Qwcyt2NTg2RmFYbUtmczlIZnQ1Ynk2ZWQvYk14RElOVloxcGZ3K2hsSEpuY0x1WENsZlFmSHM2VzNqcjFIWThJeFJjM0ExNTJHMmFqT3ppZmlKYzB1ZCtTcDhGNnNUR09ubDgydklvenJXTDVXeXNhUEdzcS90RmxVOVBQWE1SSm1XalZKWkFjenVVUmhZVWdCb08wZ05YRDJMeEhobkhtdDZyRzMrSGRuVGJNaWRvaHQ%3D",
+                        "quality": "[Holy] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/dVp3OUV6UG96SVJYRk9iMlRMYnlVTVBKMnhFY0prZ2xsWmw0d2JOZ2JXa2JFVFdwU0N4OGowRmNoV0VYVEZGb0Y4MGIxcHJCQU5HODk4TTRaNmVpM0x5K2VkWHJ1Z0RhckU3ZHhHaG0zUlNVT3pRRjFJeUltT1labVc3eGZqVzhSNlJldEtDQWlURWxId2Qwcyt2NTg2RmFYbUtmczlIZnQ1Ynk2ZWQvYk14RElOVloxcGZ3K2hsSEpuY0x1WENsZlFmSHM2VzNqcjFIWThJeFJjM0ExNTJHMmFqT3ppZmlKYzB1ZCtTcDhGNnNUR09ubDgydklvenJXTDVXeXNhUEdzcS90RmxVOVBQWE1SSm1XalZKWkFjenVVUmhZVWdCb08wZ05YRDJMeEhobkhtdDZyRzMrSGRuVGJNaWRvaHQ%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/52e4229844ff14a7d24b72dfcc6856f9"
+                        }
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/dVp3OUV6UG96SVJYRk9iMlRMYnlVTVBKMnhFY0prZ2xsWmw0d2JOZ2JXa2JFVFdwU0N4OGowRmNoV0VYVEZGb042eTBLbFU4V3lPeTBYc3FnaUtJTDh6OXNjZTE3ZkdNVkEvUkVoNUkvL3dtRHdRb3pId3lnaXVsYXl5WWVvKzA2NjRRclNkeU5DazRkRkEzK0srOC9uaktqZWxWUFJxRU1qREdKRk9BcGdLblFvNlgxQ0FYaGp6Q25DY3NKbHlIQ0ZsWVdQeEQxK2VWUURlU0h2ZUNqdS9wNWtwRVhzRnJoREVzUXB5UWowczJTNlAwRWhINWErTGpEb3FXdmVadURoVUUyTGtSUXFtK0JucksxUndKbTFkajJlS3NBSkRrV0ZXYUZRTkN3Slk9",
+                        "quality": "[Holy] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/dVp3OUV6UG96SVJYRk9iMlRMYnlVTVBKMnhFY0prZ2xsWmw0d2JOZ2JXa2JFVFdwU0N4OGowRmNoV0VYVEZGb042eTBLbFU4V3lPeTBYc3FnaUtJTDh6OXNjZTE3ZkdNVkEvUkVoNUkvL3dtRHdRb3pId3lnaXVsYXl5WWVvKzA2NjRRclNkeU5DazRkRkEzK0srOC9uaktqZWxWUFJxRU1qREdKRk9BcGdLblFvNlgxQ0FYaGp6Q25DY3NKbHlIQ0ZsWVdQeEQxK2VWUURlU0h2ZUNqdS9wNWtwRVhzRnJoREVzUXB5UWowczJTNlAwRWhINWErTGpEb3FXdmVadURoVUUyTGtSUXFtK0JucksxUndKbTFkajJlS3NBSkRrV0ZXYUZRTkN3Slk9",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://anizmplayer.com",
+                            "Referer": "https://anizmplayer.com/video/52e4229844ff14a7d24b72dfcc6856f9"
+                        }
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=FWAh40P5itYvvsdTPJSklgMruFgC57HgtwS8rfocUmuboAXX%2B77LLkSk2w7oQk53LxH%2BchWzQcw9rg%2Fex9cnWh%2B%2B0XO0Y%2FGBVy9rL6sXghcL%2FierhEKy46q5x0LHtiH9918z6VTQDOUt7aPTR4a71VflNq52XS8C4sRGQgV7OOATEY08gKf0USf8YcU1WEcz0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=FWAh40P5itYvvsdTPJSklgMruFgC57HgtwS8rfocUmuboAXX%2B77LLkSk2w7oQk53LxH%2BchWzQcw9rg%2Fex9cnWh%2B%2B0XO0Y%2FGBVy9rL6sXghcL%2FierhEKy46q5x0LHtiH9918z6VTQDOUt7aPTR4a71VflNq52XS8C4sRGQgV7OOATEY08gKf0USf8YcU1WEcz0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=Ub%2FpOA3MqhJ6WK2dA27Kqw5xwQoU18w0o8mCOmZnXurbXSKKWxOo6Z5OLkKp%2Fw2EnuBLf%2Bt%2F0wKxlU1QGhgP3cJteaJR49V6Lm9F29%2FX9MiehGFaS7ITEfrvtgW8qovzY5ubRax5Ez30CJFFQIsDHVA1hqARX7mjdCNritUw%2BNm5rHCrx0NrfUVpdJFN3RK1M%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=Ub%2FpOA3MqhJ6WK2dA27Kqw5xwQoU18w0o8mCOmZnXurbXSKKWxOo6Z5OLkKp%2Fw2EnuBLf%2Bt%2F0wKxlU1QGhgP3cJteaJR49V6Lm9F29%2FX9MiehGFaS7ITEfrvtgW8qovzY5ubRax5Ez30CJFFQIsDHVA1hqARX7mjdCNritUw%2BNm5rHCrx0NrfUVpdJFN3RK1M%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/b419660ba4af9976f2b76775312a2af1/5369996.mp4",
+                        "quality": "[Holy] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/b419660ba4af9976f2b76775312a2af1/5369996.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5369996"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/b0a8fe92f806f357ae084d9be61a2171/5369995.mp4",
+                        "quality": "[Holy] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/b0a8fe92f806f357ae084d9be61a2171/5369995.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5369995"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

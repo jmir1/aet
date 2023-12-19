@@ -3,27 +3,27 @@
         "name": "Multimovies (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: multimovies.live: No address associated with hostname",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: multimovies.live",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: multimovies.live",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: multimovies.live",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: multimovies.live",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.net.UnknownHostException: multimovies.live",
                 "passed": false
             }
         }
