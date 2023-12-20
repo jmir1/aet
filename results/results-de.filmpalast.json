@@ -537,27 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://c1.flyeyes.pics/hls/n5ajr7y2y5mne42h4wcalfbhqrvabycj7v3mrxb6d,lapyde3iicu7ceszu4a,qepyde3iic7uvne7vca,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://c1.flyeyes.pics/hls/n5ajr7y2y5mne42h4wcalfbhqrvabycj7v3mrxb6d,lapyde3iicu7ceszu4a,qepyde3iic7uvne7vca,.urlset/master.m3u8"
-                    },
-                    {
-                        "url": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=kvy6t-ja3l2HUzgrEHnFJluVUsABBU6jFa1pcFIck3A&s=1703052506&e=43200&f=11188495&i=0.0&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=kvy6t-ja3l2HUzgrEHnFJluVUsABBU6jFa1pcFIck3A&s=1703052506&e=43200&f=11188495&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=O79yLDkaoVuZJ7O&expires=1703122480&ip=FROsE0EnDS9X&token=lYkrC8VzPdcv",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=O79yLDkaoVuZJ7O&expires=1703122480&ip=FROsE0EnDS9X&token=lYkrC8VzPdcv"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
