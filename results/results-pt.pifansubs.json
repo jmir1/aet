@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/doi-boy/",
+                                "title": "Doi Boy",
+                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/12/nFjNdswa8V8OyhwmhX31JB6ENkG-185x278.jpg"
+                            },
+                            {
                                 "url": "/tvshows/night-dream/",
                                 "title": "Night Dream",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/12/xURCCx5cVuGkwOLitLoh1IcYzVL-185x278.jpg"
@@ -50,11 +55,6 @@
                                 "url": "/tvshows/vip-only/",
                                 "title": "VIP Only",
                                 "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/f7HJlanpyrs3Or3ZBtDU8B8pLbx-185x278.jpg"
-                            },
-                            {
-                                "url": "/tvshows/7-days-before-valentine/",
-                                "title": "7 Days Before Valentine",
-                                "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/11/eyPb4jeD8voKbnViwGMubdz1Vw9-185x278.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -269,11 +269,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/night-dream/",
-                    "title": "Night Dream",
-                    "description": "Night, um estudante sênior de Literatura, ainda não conseguia completar seu projeto final de romance porque não entendia o conceito de amor. Ele teve a chance de reencontrar Dream, o dono do Tokyo Boy e seu amigo próximo do ensino médio, de quem havia perdido contato por anos, e nunca soube o motivo pelo qual Dream saiu de sua vida. Então, Dream e Night reacenderam sua amizade. Night nem tentou perguntar a Dream sobre seu paradeiro. Ele simplesmente pediu a Dream para nunca mais abandoná-lo sem explicação.\n\nDepois disso, Dream ajudou Night a encontrar o significado do amor para seu trabalho. Ele ajudou Night a perceber o que é o amor, algo que Night sempre soube, mas ele simplesmente não aceitava: Dream é seu amor. Foi a Covardia que impediu Night de avançar, fazendo-o erguer uma parede de ferro e negar seus sentimentos. Ainda assim, não importava o quanto ele tentasse, seus sentimentos por Dream se tornavam mais fortes a cada dia. Fortes e óbvios a ponto de ele não poder mais reprimi-los, mas parecia que era tarde demais… porque Dream estava prestes a deixar sua vida novamente…\n\nTítulo Original: คืนฝันของฉันและเธอ\nTemporadas: 1\nEpisódios: 10",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/12/xURCCx5cVuGkwOLitLoh1IcYzVL-225x300.jpg",
+                    "url": "/movies/doi-boy/",
+                    "title": "Doi Boy",
+                    "description": "\n\nTítulo Original: ดอยบอย",
+                    "genre": "Drama, Romance, Thriller",
+                    "thumbnail_url": "https://pifansubs.club/wp-content/uploads/2023/12/nFjNdswa8V8OyhwmhX31JB6ENkG-200x300.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -281,28 +281,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes/night-dream-1x1/",
-                        "name": "Temporada 1 x 1 - Episódio 1",
-                        "date_upload": 1702684800000,
+                        "url": "/movies/doi-boy/",
+                        "name": "Filme",
                         "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ak2.rmbl.ws/s8/2/M/R/2/K/MR2Ko.caa.1.mp4?u=0",
-                        "quality": "JWPlayer",
-                        "videoUrl": "https://ak2.rmbl.ws/s8/2/M/R/2/K/MR2Ko.caa.1.mp4?u=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://pifansubs.club",
-                            "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
