@@ -92,6 +92,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74401/legendado",
+                                "title": "Filme Psycho-Pass Movie: Providence",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42748_background.jpg?v=1703030456"
+                            },
+                            {
+                                "url": "/episodio/74400/legendado",
+                                "title": "B-Project: Netsuretsu*Love Call",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16633_background.jpg?v=1697117492"
+                            },
+                            {
+                                "url": "/episodio/74399/legendado",
+                                "title": "B-Project: Netsuretsu*Love Call",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16633_background.jpg?v=1697117492"
+                            },
+                            {
+                                "url": "/episodio/74398/legendado",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42798_background.jpg?v=1696012807"
+                            },
+                            {
+                                "url": "/episodio/74397/legendado",
+                                "title": "Seijo no Maryoku wa Bannou desu 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42803_background.jpg?v=1696015196"
+                            },
+                            {
+                                "url": "/episodio/74396/legendado",
+                                "title": "Seiken Gakuin no Makentsukai",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42805_background.jpg?v=1696015587"
+                            },
+                            {
                                 "url": "/episodio/21104/dublado",
                                 "title": "Eyeshield 21",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1341_background.jpg?v=1611585337"
@@ -180,36 +210,6 @@
                                 "url": "/episodio/74388/legendado",
                                 "title": "MF Ghost",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42812_background.jpg?v=1696107334"
-                            },
-                            {
-                                "url": "/episodio/74387/legendado",
-                                "title": "Overtake!",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42817_background.jpg?v=1696177467"
-                            },
-                            {
-                                "url": "/episodio/74386/legendado",
-                                "title": "Zanting! Rang Wo Cha Gonglue",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42831_background.jpg?v=1696638875"
-                            },
-                            {
-                                "url": "/episodio/74385/legendado",
-                                "title": "Dark Gathering",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42740_background.jpg?v=1689006457"
-                            },
-                            {
-                                "url": "/episodio/74384/legendado",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42835_background.jpg?v=1696677380"
-                            },
-                            {
-                                "url": "/episodio/74383/legendado",
-                                "title": "Buta no Liver wa Kanetsu Shiro",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42844_background.jpg?v=1696716624"
-                            },
-                            {
-                                "url": "/episodio/74382/legendado",
-                                "title": "Dead Mount Death Play Part 2",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42669_background.jpg?v=1696894297"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
