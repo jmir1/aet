@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/maestro/",
+                                "title": "Maestro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+                            },
+                            {
                                 "url": "/godzilla-minus-one/",
                                 "title": "Godzilla Minus One",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/pEoyuZ1bL8DZ5U7pvCDLvbeJXXf.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/die-drei-musketiere-dartagnan/",
                                 "title": "Die drei Musketiere – D’Artagnan",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/2KDO9WTDK185JIjjOcqmtc5KoOR.jpg"
-                            },
-                            {
-                                "url": "/the-creator/",
-                                "title": "The Creator",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/rlVvT6nRET9D5RiVkCkQ3P7BmOQ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,14 +264,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/godzilla-minus-one/",
-                    "title": "Godzilla Minus One",
-                    "author": "Takashi Yamazaki",
-                    "description": "„Godzilla Minus One“ spielt kurz nach dem Zweiten Weltkrieg. Nicht zuletzt aufgrund der Atombomben-Abwürfe über Hiroshima und Nagasaki liegt Japan zu jener Zeit in Schutt und Asche – und wurde quasi auf 0 gesetzt. Godzilla sorgt nun dafür, dass das Land an einen neuen Tiefpunkt gelangt. Minus 1.",
-                    "genre": "Action",
+                    "url": "/maestro/",
+                    "title": "Maestro",
+                    "author": "Bradley Cooper",
+                    "description": "Diese unerschrockene Liebesgeschichte handelt von der lebenslangen komplexen Beziehung zwischen der Musiklegende Leonard Bernstein und Felicia Montealegre Cohn Bernstein.",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEoyuZ1bL8DZ5U7pvCDLvbeJXXf.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -279,7 +279,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "https://meinecloud.click/movie/tt23289160",
+                        "url": "https://meinecloud.click/movie/tt5535276",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -289,26 +289,35 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://srv10.dropload.io/hls2/01/00098/hwqeojt180n4_h/index-v1-a1.m3u8?t=Hi0fFnzZgoOZJgTgFH47QgB3pF4yA9LQJ3Npyv9Llc0&s=1703095722&e=21600&f=491879&i=20.97&sp=0",
-                        "quality": "Dropload:358p ",
-                        "videoUrl": "https://srv10.dropload.io/hls2/01/00098/hwqeojt180n4_h/index-v1-a1.m3u8?t=Hi0fFnzZgoOZJgTgFH47QgB3pF4yA9LQJ3Npyv9Llc0&s=1703095722&e=21600&f=491879&i=20.97&sp=0",
+                        "url": "https://srv13.dropload.io/hls2/01/00099/t9dmic13svaj_h/index-v1-a1.m3u8?t=G9w8oFdMgmNorr8WD98dpfYGxWWkLaopmmBKE8LBC4s&s=1703118664&e=21600&f=498399&i=74.249&sp=0",
+                        "quality": "Dropload:720p ",
+                        "videoUrl": "https://srv13.dropload.io/hls2/01/00099/t9dmic13svaj_h/index-v1-a1.m3u8?t=G9w8oFdMgmNorr8WD98dpfYGxWWkLaopmmBKE8LBC4s&s=1703118664&e=21600&f=498399&i=74.249&sp=0",
                         "headers": {
                             "origin": "https://dropload.io",
                             "referer": "https://dropload.io/"
                         }
                     },
                     {
-                        "url": "https://s-delivery49.mxdcontent.net/v/5ae0ff82a143a5a4192794e91f012d01.mp4?s=DcB2bJJo_iZVH_V9Lp3_rQ&e=1703117324&_t=1703097163",
+                        "url": "https://s-delivery31.mxdcontent.net/v/09c7f6dc4536d4072541c3a46f12a0cb.mp4?s=y_W0sj8OqO3AXmfpVAvFTQ&e=1703140266&_t=1703127664",
                         "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/5ae0ff82a143a5a4192794e91f012d01.mp4?s=DcB2bJJo_iZVH_V9Lp3_rQ&e=1703117324&_t=1703097163",
+                        "videoUrl": "https://s-delivery31.mxdcontent.net/v/09c7f6dc4536d4072541c3a46f12a0cb.mp4?s=y_W0sj8OqO3AXmfpVAvFTQ&e=1703140266&_t=1703127664",
                         "headers": {
                             "Referer": "https://mixdrop.co/"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=Do6B9YpW7jFk008&expires=1703165754&ip=FROsF0EnDS9X&token=cHRRJKOVFr_r",
+                        "url": "https://streamtape.com/get_video?id=OAepaVLRXytgkw&expires=1703188666&ip=GHEsDRqAKxSHDN&token=ZK-UbNB9oe51",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=Do6B9YpW7jFk008&expires=1703165754&ip=FROsF0EnDS9X&token=cHRRJKOVFr_r"
+                        "videoUrl": "https://streamtape.com/get_video?id=OAepaVLRXytgkw&expires=1703188666&ip=GHEsDRqAKxSHDN&token=ZK-UbNB9oe51"
+                    },
+                    {
+                        "url": "https://dood.to/e/nvtmhmein9pf",
+                        "quality": "Doodstream",
+                        "videoUrl": "https://ws298a.video-delivery.net/u5kj7n6wbpdlsdgge4equoaalrxsoe2az332z6zbzm77jjgeaf52oarioyha/743wjhca94~EwEZf6MrwB?token=r96rflenb2ps7xjs8nl0z2gj&expiry=1703118667519",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.to/"
+                        }
                     }
                 ],
                 "passed": true
