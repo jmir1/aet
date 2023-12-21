@@ -142,6 +142,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ikenaikyo-sub-indo/",
+                                "title": "Ikenaikyo",
+                                "thumbnail_url": "https://otakudesu.cam/wp-content/uploads/2023/10/Konyaku-Haki-sareta-Reijou-wo-Hirotta-Ore-ga-Ikenai-Koto-wo-Oshiekomu.jpg"
+                            },
+                            {
                                 "url": "/anime/kizuna-lele-s2-sub-indo/",
                                 "title": "Kizuna no Allele Season 2",
                                 "thumbnail_url": "https://otakudesu.cam/wp-content/uploads/2023/10/Kizuna-no-Allele-Season-2.jpg"
@@ -260,11 +265,6 @@
                                 "url": "/anime/tearmoon-empire-story-sub-indo/",
                                 "title": "Tearmoon Teikoku Monogatari",
                                 "thumbnail_url": "https://otakudesu.cam/wp-content/uploads/2023/10/Tearmoon-Teikoku-Monogatari.jpg"
-                            },
-                            {
-                                "url": "/anime/kikansha-tokubetsu-desu-sub-indo/",
-                                "title": "Kikansha no Mahou wa Tokubetsu desu",
-                                "thumbnail_url": "https://otakudesu.cam/wp-content/uploads/2023/10/Kikansha-no-Mahou-wa-Tokubetsu-desu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -389,8 +389,82 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/00976/h9v3vmopdmgr_h/index-v1-a1.m3u8?t=NuQ7gz39eI30CS6BBnAYbNbFRK8x80_gcfGq__nG0NU&s=1703160709&e=129600&f=4882807&srv=igmu0dpqksk0&i=0.4&sp=1500&p1=igmu0dpqksk0&p2=igmu0dpqksk0&asn=8075",
+                        "quality": "FileLions - 360p",
+                        "videoUrl": "https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/00976/h9v3vmopdmgr_h/index-v1-a1.m3u8?t=NuQ7gz39eI30CS6BBnAYbNbFRK8x80_gcfGq__nG0NU&s=1703160709&e=129600&f=4882807&srv=igmu0dpqksk0&i=0.4&sp=1500&p1=igmu0dpqksk0&p2=igmu0dpqksk0&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.live",
+                            "Referer": "https://filelions.live/v/h9v3vmopdmgr"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/Icikiwir/Icikiwir/Otakudesu.io_BKYYTY--ONA01_360p.mp4",
+                        "quality": "DesuStream - 360p",
+                        "videoUrl": "https://archive.org/download/Icikiwir/Icikiwir/Otakudesu.io_BKYYTY--ONA01_360p.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://rr4---sn-npoe7nss.googlevideo.com/videoplayback?expire=1703189510&ei=hiuEZbbNFbGLsfIPi_6AoAo&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=f4fa870c70fb0bc6&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=cP&mm=31&mn=sn-npoe7nss&ms=au&mv=m&mvi=4&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1266.996&lmt=1702676337259319&mt=1703160298&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAPjrLZ4GEEIkttVnvbPH8WndfPce-OHPCIM2HWxCIxsRAiAeDB68DAFGbZu8u8VDnuVcdjxOMV6A7Wb5r3p7DZdxoA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRgIhAOy6t4n_yWnAcz7IZr_02LZy8H44Ul5GZS6kRK6GhpLfAiEAir8te3niXYl6nBOZcTZzFjPTUnBfmtprSbLwSRu5VN4%3D",
+                        "quality": "DesuStream - 480p",
+                        "videoUrl": "https://rr4---sn-npoe7nss.googlevideo.com/videoplayback?expire=1703189510&ei=hiuEZbbNFbGLsfIPi_6AoAo&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=f4fa870c70fb0bc6&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=cP&mm=31&mn=sn-npoe7nss&ms=au&mv=m&mvi=4&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1266.996&lmt=1702676337259319&mt=1703160298&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAPjrLZ4GEEIkttVnvbPH8WndfPce-OHPCIM2HWxCIxsRAiAeDB68DAFGbZu8u8VDnuVcdjxOMV6A7Wb5r3p7DZdxoA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRgIhAOy6t4n_yWnAcz7IZr_02LZy8H44Ul5GZS6kRK6GhpLfAiEAir8te3niXYl6nBOZcTZzFjPTUnBfmtprSbLwSRu5VN4%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/00976/z52e4kzytsfl_h/index-v1-a1.m3u8?t=Yech1vrg_znyKxuXugtvNB4TSj7Bww9_8Q2Vj8eYFtc&s=1703160709&e=129600&f=4882809&srv=igmu0dpqksk0&i=0.4&sp=1500&p1=igmu0dpqksk0&p2=igmu0dpqksk0&asn=8075",
+                        "quality": "FileLions - 480p",
+                        "videoUrl": "https://uokbs3ftcvlt.enaak-cdn.com/hls2/01/00976/z52e4kzytsfl_h/index-v1-a1.m3u8?t=Yech1vrg_znyKxuXugtvNB4TSj7Bww9_8Q2Vj8eYFtc&s=1703160709&e=129600&f=4882809&srv=igmu0dpqksk0&i=0.4&sp=1500&p1=igmu0dpqksk0&p2=igmu0dpqksk0&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.live",
+                            "Referer": "https://filelions.live/v/z52e4kzytsfl"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/Icikiwir/Icikiwir/Otakudesu.io_BKYYTY--ONA01_480p.mp4",
+                        "quality": "DesuStream - 480p",
+                        "videoUrl": "https://archive.org/download/Icikiwir/Icikiwir/Otakudesu.io_BKYYTY--ONA01_480p.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://pikao7r5wkee.enaak-cdn.com/hls2/01/00976/t9ty1ka5mp8v_h/index-v1-a1.m3u8?t=byS6Aq4f5PimWlLz_49QCd-kgo4Y_ktmpWKvrKSR3sA&s=1703160712&e=129600&f=4882811&srv=igmu0dpqksk0&i=0.4&sp=1500&p1=igmu0dpqksk0&p2=igmu0dpqksk0&asn=8075",
+                        "quality": "FileLions - 720p",
+                        "videoUrl": "https://pikao7r5wkee.enaak-cdn.com/hls2/01/00976/t9ty1ka5mp8v_h/index-v1-a1.m3u8?t=byS6Aq4f5PimWlLz_49QCd-kgo4Y_ktmpWKvrKSR3sA&s=1703160712&e=129600&f=4882811&srv=igmu0dpqksk0&i=0.4&sp=1500&p1=igmu0dpqksk0&p2=igmu0dpqksk0&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.live",
+                            "Referer": "https://filelions.live/v/t9ty1ka5mp8v"
+                        }
+                    },
+                    {
+                        "url": "https://rr1---sn-npoe7ns6.googlevideo.com/videoplayback?expire=1703189512&ei=iCuEZbSVI_bFn88Pic-W6Ag&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=246c79f25f0aff78&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=N3&mm=31&mn=sn-npoe7ns6&ms=au&mv=m&mvi=1&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1267.020&lmt=1702588840123937&mt=1703160298&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAI9MjuP9B09z0ymV5oM8M46MxRGEJcfRQXS9-IVINfPAAiBaOTko227Kn2LrIO6TWO393b2Gs68117o4LzVYqqCZnA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIhAM32-rNTjz7MmL7LKMykuQbojmT1oYXgGjSUw3h1TVMRAiBtRvvwOc3ZkIh2_vTWuIODN_0bJdjW_WT2BhLq-DjdNw%3D%3D",
+                        "quality": "DesuStream - 720p",
+                        "videoUrl": "https://rr1---sn-npoe7ns6.googlevideo.com/videoplayback?expire=1703189512&ei=iCuEZbSVI_bFn88Pic-W6Ag&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=246c79f25f0aff78&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=N3&mm=31&mn=sn-npoe7ns6&ms=au&mv=m&mvi=1&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1267.020&lmt=1702588840123937&mt=1703160298&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAI9MjuP9B09z0ymV5oM8M46MxRGEJcfRQXS9-IVINfPAAiBaOTko227Kn2LrIO6TWO393b2Gs68117o4LzVYqqCZnA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIhAM32-rNTjz7MmL7LKMykuQbojmT1oYXgGjSUw3h1TVMRAiBtRvvwOc3ZkIh2_vTWuIODN_0bJdjW_WT2BhLq-DjdNw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/Icikiwir/Icikiwir/Otakudesu.io_BKYYTY--ONA01_720p.mp4",
+                        "quality": "DesuStream - 720p",
+                        "videoUrl": "https://archive.org/download/Icikiwir/Icikiwir/Otakudesu.io_BKYYTY--ONA01_720p.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

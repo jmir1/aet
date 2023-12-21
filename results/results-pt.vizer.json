@@ -598,8 +598,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=CeZ8yQ8hAmmvCMs_Bxydsg&e=1703182314&_t=1703163649",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=CeZ8yQ8hAmmvCMs_Bxydsg&e=1703182314&_t=1703163649",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=OJWt0dKUjrE5jAAnUylSCA&e=1703182314&_t=1703163757",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=OJWt0dKUjrE5jAAnUylSCA&e=1703182314&_t=1703163757",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
