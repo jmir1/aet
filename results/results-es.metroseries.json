@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/cindy-la-regia-la-serie/",
+                                "title": "Cindy la Regia: La serie",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/percy-jackson-y-los-dioses-del-olimpo/",
                                 "title": "Percy Jackson y los dioses del Olimpo",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/1670/",
-                                "title": "1670",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/hostages-bnei-aruba/",
-                                "title": "Hostages (Bnei Aruba)",
+                                "url": "/de-brutas-nada/",
+                                "title": "De brutas, nada",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/a-por-gotti/",
-                                "title": "A por Gotti",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/sfhxVG05LeWqwyMPxPJnQRfDgL5.jpg"
+                                "url": "/rupauls-drag-race-all-stars/",
+                                "title": "Rupaul's Drag Race All Stars",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nQ6MjgKPujYPRQkwP7KoZe349GC.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/percy-jackson-y-los-dioses-del-olimpo/",
-                    "title": "Percy Jackson y los dioses del Olimpo",
-                    "description": "Percy Jackson and the Olympians, Percy Jackson está en una peligrosa misión. Evadiendo monstruos y superando dioses, debe cruzar el país para devolver el rayo maestro de Zeus y evitar una guerra. Con la ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo llevará a responderse cómo encajar en un mundo en el que se siente fuera de lugar y a descubrir cuál es su destino.",
-                    "genre": "Action & Adventure, Drama, Familia, Sci-Fi & Fantasy",
+                    "url": "/cindy-la-regia-la-serie/",
+                    "title": "Cindy la Regia: La serie",
+                    "description": "Cindy, una aguda e inquieta adolescente, crece feliz en la alta sociedad de San Pedro Garza García en Nuevo León. Cuando ella y sus amigas de toda la vida entran por primera vez a una preparatoria mixta, Cindy se cuestiona el rol de \"princesa\" y la búsqueda del “príncipe azul” que le han enseñado siempre. En las aventuras de su primer año, Cindy aprende que complacer a los demás no importa tanto como encontrarse a sí misma.",
+                    "genre": "Comedia, Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/percy-jackson-y-los-dioses-del-olimpo-temporada-1-capitulo-2/",
-                        "name": "T01 - E02 - Me convierto en señor supremo del lavabo",
-                        "date_upload": 1702944000000,
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/episode/percy-jackson-y-los-dioses-del-olimpo-temporada-1-capitulo-1/",
-                        "name": "T01 - E01 - Pulverizo accidentalmente a mi profesora de introducción al álgebra",
-                        "date_upload": 1702944000000,
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
