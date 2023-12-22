@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7251-segnali-dal-futuro",
+                                "title": "Segnali dal futuro",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9238abe2-6e81-4faf-a38f-f500601a567f.webp"
+                            },
+                            {
                                 "url": "7250-regine-dellafrica-njinga",
                                 "title": "Regine dell'Africa: Njinga",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9592fe09-4ab5-44bf-9c9f-379fe8045aca.webp"
@@ -610,11 +615,6 @@
                                 "url": "7182-scusate-il-ritardo",
                                 "title": "Scusate il ritardo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ba0d31da-4f58-4d4c-8b8e-6559a060fb9c.webp"
-                            },
-                            {
-                                "url": "7181-a-mano-disarmata",
-                                "title": "A mano disarmata",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ca898ea2-f339-466b-b1d7-97ae075fc0e4.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7246?episode_id=46143\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7246?episode_id=46143\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-6147212295036377752/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-6147212295036377752/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-6147212295036377752/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-6147212295036377752/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7246?episode_id=46143\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7246?episode_id=46143\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-13603134921023141782/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-13603134921023141782/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-13603134921023141782/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-13603134921023141782/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
