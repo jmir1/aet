@@ -3,114 +3,8 @@
         "name": "أنمي بالكوم (AR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/muv-luv-alternative-total-eclipse",
-                                "title": "Muv-Luv Alternative: Total Eclipse",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62781/muv-luv-alternative-total-eclipse-poster-1302.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/71487/164a716526901b.jpg"
-                            },
-                            {
-                                "url": "/anime/fullmetal-alchemist-brotherhood",
-                                "title": "Fullmetal Alchemist: Brotherhood",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61638/Fullmetal-Alchemist-Brotherhood-poster-150.jpg"
-                            },
-                            {
-                                "url": "/movie/detective-conan-movie-26-kurogane-no-submarine",
-                                "title": "Detective Conan Movie 26: Kurogane no Submarine",
-                                "thumbnail_url": "https://animeblkom.net/uploads/74071/1656f746755ce8.jpg"
-                            },
-                            {
-                                "url": "/anime/hunter-x-hunter-2011",
-                                "title": "Hunter x Hunter (2011)",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61502/Hunter-x-Hunter-2011-poster-12.jpg"
-                            },
-                            {
-                                "url": "/movie/kimetsu-no-yaiba-movie-mugen-ressha-hen",
-                                "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65247/kimetsu-no-yaiba-movie-mugen-ressha-hen-poster-3811.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen-ketsubetsu-tan",
-                                "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-                                "thumbnail_url": "https://animeblkom.net/uploads/71587/164aded4b7c77e.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-tv",
-                                "title": "Jujutsu Kaisen (TV)",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65145/jujutsu-kaisen-tv-poster-3709.jpg"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-katanakaji-no-sato-hen",
-                                "title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/69833/135099l.jpg"
-                            },
-                            {
-                                "url": "/movie/koe-no-katachi",
-                                "title": "Koe no Katachi",
-                                "thumbnail_url": "https://animeblkom.net/uploads/62276/koe-no-katachi-poster-796.jpg"
-                            },
-                            {
-                                "url": "/anime/steinsgate",
-                                "title": "Steins;Gate",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61514/Steins-Gate-poster-24.jpg"
-                            },
-                            {
-                                "url": "/anime/kimetsu-no-yaiba-yuukaku-hen",
-                                "title": "Kimetsu no Yaiba: Yuukaku-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65342/kimetsu-no-yaiba-yuukaku-hen-poster-3906.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach",
-                                "title": "Bleach",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61500/Bleach-poster-9.jpg"
-                            },
-                            {
-                                "url": "/movie/howl-no-ugoku-shiro",
-                                "title": "Howl no Ugoku Shiro",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63483/howl-no-ugoku-shiro-poster-2005.jpg"
-                            },
-                            {
-                                "url": "/anime/hajime-no-ippo",
-                                "title": "Hajime no Ippo",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61582/Hajime-no-Ippo-poster-93.jpg"
-                            },
-                            {
-                                "url": "/anime/bleach-sennen-kessen-hen",
-                                "title": "Bleach: Sennen Kessen-hen",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65465/bleach-sennen-kessen-hen-poster-4029.jpg"
-                            },
-                            {
-                                "url": "/anime/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
-                                "title": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season",
-                                "thumbnail_url": "https://animeblkom.net/uploads/65317/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season-poster-3881.jpg"
-                            },
-                            {
-                                "url": "/anime/death-note",
-                                "title": "Death Note",
-                                "thumbnail_url": "https://animeblkom.net/uploads/61513/Death-Note-poster-23.jpg"
-                            },
-                            {
-                                "url": "/movie/tonari-no-totoro",
-                                "title": "Tonari no Totoro",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63490/tonari-no-totoro-poster-2013.jpg"
-                            },
-                            {
-                                "url": "/movie/sen-to-chihiro-no-kamikakushi",
-                                "title": "Sen to Chihiro no Kamikakushi",
-                                "thumbnail_url": "https://animeblkom.net/uploads/63377/sen-to-chihiro-no-kamikakushi-poster-1898.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -174,13 +68,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/muv-luv-alternative-total-eclipse",
-                    "title": "Muv-Luv Alternative: Total Eclipse (anime)",
-                    "artist": "andou, masaomi",
-                    "author": "Satelight",
-                    "description": "منذ عام 1973, و غزو الفضائيين المعروفين بإسم بيتا على الأرض يقودها إلى الهلاك. بعد ما واجه البشريون هجومات عدة من قبل الفضائين, قرروا أن يتطوروا روبوت على شكل أذرع و يجعلهم كأدوات لدفاع في العالم أجمع. كل هذه المحاولات, ستبطئ من هجومات البيتا, و لكن هذا لن يوقفهم. 30 عاماً من الحروب و الغزو و البشريون لا يملكون أي امل في النصر. في 2001, تواجه اليابان مصاعب في تطوير محاربين متطورين للجيل القادم, تتطوع أمريكا أن تساعد في تطويره ليكون مشروع مشترك بين الدولتين.",
-                    "genre": "أكشن, ميكا, عسكري, خيال علمي",
-                    "thumbnail_url": "https://animeblkom.net/uploads/62781/muv-luv-alternative-total-eclipse-poster-1302.jpg",
+                    "url": "/anime/world-trigger",
+                    "title": "World Trigger (anime)",
+                    "artist": "hongou, mitsuru",
+                    "author": "Toei Animation",
+                    "description": "بوابة من بعد اخر قد فتحت و انبعث منها مخلوقات ضخمة لا تقهر تهدد حياة البشرية جميعها لم يتبقى للارض للدفاع عنها سوى مجموعة غامضة من المحاربين بطلنا كوغا ريوما ذو الشعر الابيض امل البشرية الوحيد الذي لديه قوة خارقة ينضم لهذه المجموعة و يحاولون معا ان يهزموا هذه المخلوقات و اغلاق البعد الذي يتصل بينهم و بين الوحوش العملاقة",
+                    "genre": "أكشن, مدرسي, خيال علمي, شونين, خارق للطبيعة",
+                    "thumbnail_url": "https://animeblkom.net/uploads/61775/World-Trigger-poster-289.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -188,14 +82,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/muv-luv-alternative-total-eclipse/24",
-                        "name": "24 :الحلقة",
-                        "episode_number": 24.0
+                        "url": "/watch/world-trigger/73",
+                        "name": "73 :الحلقة",
+                        "episode_number": 73.0
                     },
                     {
-                        "url": "/watch/muv-luv-alternative-total-eclipse/23",
-                        "name": "23 :الحلقة",
-                        "episode_number": 23.0
+                        "url": "/watch/world-trigger/72",
+                        "name": "72 :الحلقة",
+                        "episode_number": 72.0
                     }
                 ],
                 "passed": true
@@ -203,27 +97,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/088/642b64143431b/720p.mp4?expires=1703268549&token=MM6_d5_B4FaRZHVmNUTOyA",
+                        "url": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/720p.mp4?expires=1703290364&token=DZ_B-hjgL_MOfNT718Vduw",
                         "quality": "Blkom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/088/642b64143431b/720p.mp4?expires=1703268549&token=MM6_d5_B4FaRZHVmNUTOyA",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/720p.mp4?expires=1703290364&token=DZ_B-hjgL_MOfNT718Vduw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/088/642b64143431b/480p.mp4?expires=1703268549&token=JUumB41OlkNbmsE5qgKxkA",
+                        "url": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/1080p.mp4?expires=1703290364&token=oRS5QZ4YUlqBQJdm-aluqQ",
+                        "quality": "Blkom - 1080p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/1080p.mp4?expires=1703290364&token=oRS5QZ4YUlqBQJdm-aluqQ",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/480p.mp4?expires=1703290364&token=Zt3MwDlNhYABMeg1XzNWCw",
                         "quality": "Blkom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/088/642b64143431b/480p.mp4?expires=1703268549&token=JUumB41OlkNbmsE5qgKxkA",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/480p.mp4?expires=1703290364&token=Zt3MwDlNhYABMeg1XzNWCw",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://animeblkom.net"
                         }
                     },
                     {
-                        "url": "https://cdn1.vid4up.xyz/videos/088/642b64143431b/360p.mp4?expires=1703268549&token=uDIImLFA7m8VhwDsOD6jQA",
+                        "url": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/360p.mp4?expires=1703290364&token=966jQbWI7NpSIknqGEHUww",
                         "quality": "Blkom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/088/642b64143431b/360p.mp4?expires=1703268549&token=uDIImLFA7m8VhwDsOD6jQA",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/046/64297fbe82945/360p.mp4?expires=1703290364&token=966jQbWI7NpSIknqGEHUww",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "referer": "https://animeblkom.net"

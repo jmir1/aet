@@ -57,8 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/the-hollow-capitulos-completos-latino-hd-online/",
-                                "title": "The Hollow",
+                                "url": "/memory-hole/",
+                                "title": "Memory Hole",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/miracle-workers/",
-                                "title": "Miracle Workers",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/01/xGMpRYcFICWRbD6L8l6VT7I6EkA-226x339.jpg"
+                                "url": "/rupaul-reinas-del-drag-reino-unido/",
+                                "title": "RuPaul: Reinas del drag: Reino Unido",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/vfp8MyIE8DYRajF5ClMp5DXKGc1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -144,8 +144,15 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/muerte-bajo-cero-2021-temporada-1-capitulo-1/",
+                        "name": "T01 - E01 - La fiesta de Navidad",
+                        "date_upload": 1639008000000,
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
