@@ -495,16 +495,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21296.webp"
                             },
                             {
-                                "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
-                                "title": "Kaminaki Sekai no Kamisama Katsudou",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
-                            },
-                            {
                                 "url": "/serie/online/hyouken-no-majutsushi-ga-sekai-wo-suberu",
                                 "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
+                            },
+                            {
+                                "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
                             },
                             {
                                 "url": "/serie/online/isekai-ojisan",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

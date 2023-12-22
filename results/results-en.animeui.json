@@ -22,6 +22,11 @@
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/JbdZNM4HLgpOHu3x0Mkqzo1A8Nd3jf6k.webp&w=640&q=75"
                             },
                             {
+                                "url": "/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM.webp&w=640&q=75"
+                            },
+                            {
                                 "url": "/anime/iAWTSzrn5xMIbuInMAjiOlDZDc4dttAv",
                                 "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/iAWTSzrn5xMIbuInMAjiOlDZDc4dttAv.webp&w=640&q=75"
@@ -32,14 +37,14 @@
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/vPF42p0Ym82zXiHXNDqhUz5dyWOo3RiZ.webp&w=640&q=75"
                             },
                             {
-                                "url": "/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/JXQJtsS4U5Vy7pxlqApkBADazY8a24nM.webp&w=640&q=75"
-                            },
-                            {
                                 "url": "/anime/RvMqUWzrATGStOW7zCh86uvadGFExxJr",
                                 "title": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/RvMqUWzrATGStOW7zCh86uvadGFExxJr.webp&w=640&q=75"
+                            },
+                            {
+                                "url": "/anime/mzXT06Z9MRFHZR7cvd3AtTgXlwIsXUZL",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/mzXT06Z9MRFHZR7cvd3AtTgXlwIsXUZL.webp&w=640&q=75"
                             },
                             {
                                 "url": "/anime/UgYaozhK61fOFmFcXnX5bCZlm5eW1Bgz",
@@ -50,11 +55,6 @@
                                 "url": "/anime/5oatKDlqk6OZSTIWOoQo4OgzYU1P5VGE",
                                 "title": "Ragna Crimson",
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/5oatKDlqk6OZSTIWOoQo4OgzYU1P5VGE.webp&w=640&q=75"
-                            },
-                            {
-                                "url": "/anime/mzXT06Z9MRFHZR7cvd3AtTgXlwIsXUZL",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/mzXT06Z9MRFHZR7cvd3AtTgXlwIsXUZL.webp&w=640&q=75"
                             }
                         ],
                         "hasNextPage": false
@@ -281,14 +281,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/S01pCCko9vqY8LysYQ6V6quVPLEjWBfF/22",
+                        "name": "Ep. 22 - Metamorphosis, Part 2",
+                        "episode_number": 22.0
+                    },
+                    {
                         "url": "/watch/S01pCCko9vqY8LysYQ6V6quVPLEjWBfF/21",
                         "name": "Ep. 21 - Metamorphosis",
                         "episode_number": 21.0
-                    },
-                    {
-                        "url": "/watch/S01pCCko9vqY8LysYQ6V6quVPLEjWBfF/20",
-                        "name": "Ep. 20 - Right and Wrong, Part 3",
-                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
@@ -296,9 +296,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://animeui.infura-ipfs.io/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://animeui.infura-ipfs.io/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Tokyo",
-                        "videoUrl": "https://animeui.infura-ipfs.io/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://animeui.infura-ipfs.io/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -307,47 +307,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://fleek.ipfs.io/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://fleek.ipfs.io/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Noshiro",
-                        "videoUrl": "https://fleek.ipfs.io/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://fleek.ipfs.io/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -356,47 +356,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://dweb.link/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://dweb.link/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Web",
-                        "videoUrl": "https://dweb.link/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://dweb.link/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -405,47 +405,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://gateway.ipfs.io/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://gateway.ipfs.io/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Osaka",
-                        "videoUrl": "https://gateway.ipfs.io/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://gateway.ipfs.io/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -454,47 +454,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://cloudflare-ipfs.com/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://cloudflare-ipfs.com/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Nara",
-                        "videoUrl": "https://cloudflare-ipfs.com/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://cloudflare-ipfs.com/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -503,47 +503,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://ipfs.c4rex.co/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://ipfs.c4rex.co/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Sendai",
-                        "videoUrl": "https://ipfs.c4rex.co/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://ipfs.c4rex.co/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -552,47 +552,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://cf-ipfs.com/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://cf-ipfs.com/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Nagoya",
-                        "videoUrl": "https://cf-ipfs.com/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://cf-ipfs.com/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -601,47 +601,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://ipfs.w3s.link/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "url": "https://ipfs.w3s.link/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "quality": "Kyoto",
-                        "videoUrl": "https://ipfs.w3s.link/ipfs/QmcpdcEhHSGFbm8ky9FJEzMFuaENubt9kcYELtNkowcHts",
+                        "videoUrl": "https://ipfs.w3s.link/ipfs/QmP35zpCa1qmf92oX5rw9KCKV5sCAQFrJ2dfnSN7DArA2k",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -650,39 +650,39 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/fb83a539562cd561674aa7d2d83d358c7b5daaeca2f6dc369eb8ad4f.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/51b1d3bb33d15f97218741bd97cf2cc316d6d146d32b6939b927c719.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c81675e6768f33387fbd2eeedd05f6d787b865df470b51324f595bab.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/867a5aa9edbcf956da50a602fbf83e37a2d7e3ea46ff1c9c071387e2.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/9fb273f40374da5dce9236defcfa748c74f8ba3c1298a814c7da5007.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/76bc743a2879c69fb6f30dae1f8e437733dcbf76cd5527b648088555.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/73536e216866803d95050d5bd7ca4c2a97e2e7348ba873b92f8511bb.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/03efd3372fee3f7b39b27397ea8f99c558e9bbbec4ba0aafee0d029c.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/1a486564789bba46aea97630ed2db2a9133adc56daf8aba0f1224f92.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/cc7529163e42f59e171143372c2fd249dbc9b4ccce4d97cd4dec1057.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c28d710bd76e6eaa452e6fd2eb1ae7a5cdd6ce1b4742112175bd0dd5.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/a72d2742088a817c4e1f6f94d264017f658ae3aa332532bc69823bfc.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5fa9fb888a6743bdd8f77615123d3610833fb543c4b96858d94e0828.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/8a8eb1a2dc29b0559538161e282e2ce3d15402232970aaba42fbc836.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/5cd185d5f61975ac0358235f5eca96444ad173fa239a8455b0b99b1a.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/9adca388f93a4b467be5c4b57d6347e6e4e20371be01008050d0fb0c.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 21/c86bd86594c2b1feadf5443dc66e75a258f427f5604c4c5d1770d081.ass",
+                                "url": "https://animeui.com/api/subtitles/Jujutsu Kaisen 2nd Season/Episode 22/4f2ef32dd4ea5060e3cd2503e60d4f544003f920ff4904feee606755.ass",
                                 "lang": "Arabic"
                             }
                         ]

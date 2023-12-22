@@ -52,6 +52,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/lPRtpUsO402yA1s1hKwFeh8W85g.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=6195193258607cdfb9fa171e",
+                                "title": "Schulmädchen-Report 5. Teil - Was Eltern wirklich wissen sollten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yARD8zy28uJEzitUGD5mxyvU8yl.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=651ea8d8acfc4d6be2484d8b",
                                 "title": "The Creator",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/15D3HElzUBSsA5WlfDZviynD7U.jpg"
@@ -60,16 +65,6 @@
                                 "url": "/data/watch/?_id=6510ed370e5bf513c56a034d",
                                 "title": "The Expendables 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/66mkZQkRO6BtyfX7qH7jCEZDaHo.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6195193258607cdfb9fa171e",
-                                "title": "Schulmädchen-Report 5. Teil - Was Eltern wirklich wissen sollten",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/yARD8zy28uJEzitUGD5mxyvU8yl.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=657de9380792caf38c5a3fe5",
-                                "title": "It's a Wonderful Knife",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1h39ep1iXOZOZirOK8trKCHYZm3.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=641f72eac503f08683d379d9",
@@ -82,19 +77,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/az4OVqXbFVaHoZlktcm7oCm0LZo.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
-                                "title": "Five Nights at Freddys",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=6195193258607cdfb9fa7486",
-                                "title": "Kevin - Allein zu Haus",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tucPXepVvatN83KXZy6vPWN8EAQ.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=63a0ab30a573603799cd1cdb",
-                                "title": "Avatar: The Way of Water",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+                                "url": "/data/watch/?_id=657de9380792caf38c5a3fe5",
+                                "title": "It's a Wonderful Knife",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/1h39ep1iXOZOZirOK8trKCHYZm3.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=6578db85b6a95161dee439f9",
@@ -102,9 +87,24 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300/wTeKSsDikXsEQ2Uqd08cxACXIuL.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=6195193258607cdfb9fa3ee4",
-                                "title": "John Wick",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg"
+                                "url": "/data/watch/?_id=653fac5d0e53e92ad72da663",
+                                "title": "Five Nights at Freddys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/xA0wrPuZYGuiprTajHJ6RzS7umo.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=63a0ab30a573603799cd1cdb",
+                                "title": "Avatar: The Way of Water",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=6195193258607cdfb9fa7486",
+                                "title": "Kevin - Allein zu Haus",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/tucPXepVvatN83KXZy6vPWN8EAQ.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=6195193258607cdfb9fa2de9",
+                                "title": "Harry Potter und der Stein der Weisen",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -136,14 +136,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=MPLLx142alsGZK&expires=1703252062&ip=FROsD0AAKxSHDN&token=hVlETNUEt5v7",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MPLLx142alsGZK&expires=1703252062&ip=FROsD0AAKxSHDN&token=hVlETNUEt5v7"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

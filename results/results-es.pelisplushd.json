@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/los-hombres-son-hombres",
+                                "title": "Los hombres son hombres (2020)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/x9shOpcBwRyirwLRbvPRM3j1bR6.jpg"
+                            },
+                            {
                                 "url": "/serie/percy-jackson-y-los-dioses-del-olimpo",
                                 "title": "Percy Jackson y los dioses del Olimpo (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/australia-faraway-downs",
                                 "title": "Australia: Faraway Downs (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/qzIEI9MKp0Adi1j3G0wWllDaZlT.jpg"
-                            },
-                            {
-                                "url": "/serie/anderson-spider-silva",
-                                "title": "Anderson Spider Silva (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/nHuz4pAeJ6kbSap1GALUJpsWuhM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -136,6 +136,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/world-trigger",
+                                "title": "World Trigger (2014)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/nLqkR8Pe0IVRCgSK0dYUkqvXr0r.jpg"
+                            },
                             {
                                 "url": "/pelicula/portales",
                                 "title": "Portales (2021)",
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/llaman-a-la-puerta",
                                 "title": "Llaman a la puerta (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-buscamundos",
-                                "title": "Los Buscamundos (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kqLhRxIjBbWG83PLcQWUGd1gNF3.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/percy-jackson-y-los-dioses-del-olimpo",
-                    "title": "Percy Jackson y los dioses del Olimpo (2023)",
-                    "description": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajenoy si logrará entender su destino..",
-                    "genre": "Drama, Sci-Fi & Fantasy, Action & Adventure, Familia",
+                    "url": "/serie/los-hombres-son-hombres",
+                    "title": "Los hombres son hombres (2020)",
+                    "description": "Seo Hyun-Joo trabaja como líder de un equipo de planificación de webcomic. Ella declara que planea permanecer soltera, pero recibe confesiones de dos hombres: Hwang Ji-Woo y Park Do-Gyeom. Hwang Ji-Woo es el director ejecutivo de una empresa farmacéutica. Tiene una personalidad fría y una excelente capacidad para los negocios. Park Do-Gyeom es un popular escritor de webcómics. Es una persona sociable. Él y Seo Hyun-Joo crecieron como hermanos, pero él ha estado enamorado de Seo Hyun-Joo durante mucho tiempo..",
+                    "genre": "Comedia, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/x9shOpcBwRyirwLRbvPRM3j1bR6.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/percy-jackson-y-los-dioses-del-olimpo/temporada/1/capitulo/2",
-                        "name": "T1 - E2: Episodio 2",
-                        "episode_number": 2.0
+                        "url": "/serie/los-hombres-son-hombres/temporada/1/capitulo/16",
+                        "name": "T1 - E16: Episodio 16",
+                        "episode_number": 16.0
                     },
                     {
-                        "url": "/serie/percy-jackson-y-los-dioses-del-olimpo/temporada/1/capitulo/1",
-                        "name": "T1 - E1: Episodio 1",
-                        "episode_number": 1.0
+                        "url": "/serie/los-hombres-son-hombres/temporada/1/capitulo/15",
+                        "name": "T1 - E15: Episodio 15",
+                        "episode_number": 15.0
                     }
                 ],
                 "passed": true
@@ -293,47 +293,47 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/waljlkcnhqnb",
+                        "url": "https://voe.sx/e/zrheuz0wbqci",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-9ddjdsmbspw6aqcl.voe-network.net/engine/hls2-c/01/10135/waljlkcnhqnb_,n,.urlset/master.m3u8?t=3ZUUpeb02zSC7KU1tnxFA4v2lTY0tHayXjmxmwpOu3I&s=1703182058&e=14400&f=50675180&node=delivery-node-hp7ggvzgmt9khcvf.voe-network.net&i=40.71&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-8wuwubr3gnw1dqyx.voe-network.net/engine/hls2/01/10139/zrheuz0wbqci_,n,.urlset/master.m3u8?t=ybOzOLARnjsDpa4SProkPqQBjgCi6l1dOhphndR_cC8&s=1703205077&e=14400&f=50695344&node=delivery-node-8wuwubr3gnw1dqyx.voe-network.net&i=40.67&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://u5ggf9cbmfby.enaak-cdn.com/hls2/01/01000/m4jbwlfsgklk_n/index-v1-a1.m3u8?t=cqPWde-shb8XIu_aFNd5JR-z3goCTGnRIJaSxTv6JOk&s=1703182056&e=129600&f=5002937&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "url": "https://lgdv7rsrciea.enaak-cdn.com/hls2/01/01003/7eqhauaq8d2f_n/index-v1-a1.m3u8?t=K65dpxfipQ6xP3rnVcRuvLoCsHkHh5BCc_Qc1f7-ACY&s=1703205074&e=129600&f=5015794&srv=z5luteqzjxw3&i=0.4&sp=1500&p1=z5luteqzjxw3&p2=z5luteqzjxw3&asn=8075",
                         "quality": "FileLions:720p",
-                        "videoUrl": "https://u5ggf9cbmfby.enaak-cdn.com/hls2/01/01000/m4jbwlfsgklk_n/index-v1-a1.m3u8?t=cqPWde-shb8XIu_aFNd5JR-z3goCTGnRIJaSxTv6JOk&s=1703182056&e=129600&f=5002937&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "videoUrl": "https://lgdv7rsrciea.enaak-cdn.com/hls2/01/01003/7eqhauaq8d2f_n/index-v1-a1.m3u8?t=K65dpxfipQ6xP3rnVcRuvLoCsHkHh5BCc_Qc1f7-ACY&s=1703205074&e=129600&f=5015794&srv=z5luteqzjxw3&i=0.4&sp=1500&p1=z5luteqzjxw3&p2=z5luteqzjxw3&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://filelions.to",
-                            "Referer": "https://filelions.to/v/m4jbwlfsgklk"
+                            "Referer": "https://filelions.to/v/7eqhauaq8d2f"
                         }
                     },
                     {
-                        "url": "https://uojerj8d75.sw-cdnstream.com/hls2/01/02578/jkkibpzkj61d_,n,h,.urlset/index-f2-v1-a1.m3u8?t=gba2UG6KEeB23hWf8z-WxvRbqB-pzT4zoZUG5B7hh20&s=1703182053&e=129600&f=12892830&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
+                        "url": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02583/ajckmsfqek7y_,n,h,.urlset/index-f2-v1-a1.m3u8?t=OegAZsdu0UwNTw1SWA6ry-01etsSGOg3_tCvb0jwNPQ&s=1703205072&e=129600&f=12915035&srv=f69t8rrUiIwx&i=0.4&sp=500&p1=f69t8rrUiIwx&p2=f69t8rrUiIwx&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://uojerj8d75.sw-cdnstream.com/hls2/01/02578/jkkibpzkj61d_,n,h,.urlset/index-f2-v1-a1.m3u8?t=gba2UG6KEeB23hWf8z-WxvRbqB-pzT4zoZUG5B7hh20&s=1703182053&e=129600&f=12892830&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
+                        "videoUrl": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02583/ajckmsfqek7y_,n,h,.urlset/index-f2-v1-a1.m3u8?t=OegAZsdu0UwNTw1SWA6ry-01etsSGOg3_tCvb0jwNPQ&s=1703205072&e=129600&f=12915035&srv=f69t8rrUiIwx&i=0.4&sp=500&p1=f69t8rrUiIwx&p2=f69t8rrUiIwx&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/jkkibpzkj61d"
+                            "Referer": "https://streamwish.to/e/ajckmsfqek7y"
                         }
                     },
                     {
-                        "url": "https://uojerj8d75.sw-cdnstream.com/hls2/01/02578/jkkibpzkj61d_,n,h,.urlset/index-f1-v1-a1.m3u8?t=gba2UG6KEeB23hWf8z-WxvRbqB-pzT4zoZUG5B7hh20&s=1703182053&e=129600&f=12892830&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
+                        "url": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02583/ajckmsfqek7y_,n,h,.urlset/index-f1-v1-a1.m3u8?t=OegAZsdu0UwNTw1SWA6ry-01etsSGOg3_tCvb0jwNPQ&s=1703205072&e=129600&f=12915035&srv=f69t8rrUiIwx&i=0.4&sp=500&p1=f69t8rrUiIwx&p2=f69t8rrUiIwx&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://uojerj8d75.sw-cdnstream.com/hls2/01/02578/jkkibpzkj61d_,n,h,.urlset/index-f1-v1-a1.m3u8?t=gba2UG6KEeB23hWf8z-WxvRbqB-pzT4zoZUG5B7hh20&s=1703182053&e=129600&f=12892830&srv=vjH4rPD27yut&i=0.4&sp=500&p1=vjH4rPD27yut&p2=vjH4rPD27yut&asn=8075",
+                        "videoUrl": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02583/ajckmsfqek7y_,n,h,.urlset/index-f1-v1-a1.m3u8?t=OegAZsdu0UwNTw1SWA6ry-01etsSGOg3_tCvb0jwNPQ&s=1703205072&e=129600&f=12915035&srv=f69t8rrUiIwx&i=0.4&sp=500&p1=f69t8rrUiIwx&p2=f69t8rrUiIwx&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/jkkibpzkj61d"
+                            "Referer": "https://streamwish.to/e/ajckmsfqek7y"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=3OWKRPArbJcr9X&expires=1703252055&ip=GxOsEHWnDS9X&token=FPWaNC476xQz",
+                        "url": "https://streamtape.com/get_video?id=vLVeRA2Y36t4ml3&expires=1703275074&ip=GxOsEREnDS9X&token=FY0JIIIK_Ti2",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=3OWKRPArbJcr9X&expires=1703252055&ip=GxOsEHWnDS9X&token=FPWaNC476xQz"
+                        "videoUrl": "https://streamtape.com/get_video?id=vLVeRA2Y36t4ml3&expires=1703275074&ip=GxOsEREnDS9X&token=FY0JIIIK_Ti2"
                     }
                 ],
                 "passed": true
@@ -631,12 +631,12 @@
                     {
                         "url": "https://voe.sx/e/mfh4pr6ebqyk",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-l7kjbveqiywy9liy.voe-network.net/engine/hls2/01/10074/ynlgx8pg6xqc_,n,.urlset/master.m3u8?t=34XKbCcuTQDSVsnVa9o11bBRBFTcO1tdHN5k4xJ0rdE&s=1703182062&e=14400&f=50599300&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=40.71&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-l7kjbveqiywy9liy.voe-network.net/engine/hls2/01/10074/ynlgx8pg6xqc_,n,.urlset/master.m3u8?t=r3_95ytzo3lT93QFcuqLj-WSHxhTfJQKLndtuOG1Pks&s=1703205083&e=14400&f=50599300&node=delivery-node-l7kjbveqiywy9liy.voe-network.net&i=40.67&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://q7k6ad0empwu.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=UNPGDo1a5WxX_7OuaZg8LGDZhUyb2yI54PKj6UwQLlU&s=1703182059&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "url": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=eCLbBOlzZ2WF9nfs8AK-yNObmxivvga994hJyGc_8tk&s=1703205078&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://q7k6ad0empwu.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=UNPGDo1a5WxX_7OuaZg8LGDZhUyb2yI54PKj6UwQLlU&s=1703182059&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "videoUrl": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f2-v1-a1.m3u8?t=eCLbBOlzZ2WF9nfs8AK-yNObmxivvga994hJyGc_8tk&s=1703205078&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -645,9 +645,9 @@
                         }
                     },
                     {
-                        "url": "https://q7k6ad0empwu.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=UNPGDo1a5WxX_7OuaZg8LGDZhUyb2yI54PKj6UwQLlU&s=1703182059&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "url": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=eCLbBOlzZ2WF9nfs8AK-yNObmxivvga994hJyGc_8tk&s=1703205078&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://q7k6ad0empwu.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=UNPGDo1a5WxX_7OuaZg8LGDZhUyb2yI54PKj6UwQLlU&s=1703182059&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
+                        "videoUrl": "https://c0dayncqb6y4.sw-cdnstream.com/hls2/01/02532/6joiwyk607i5_,n,h,.urlset/index-f1-v1-a1.m3u8?t=eCLbBOlzZ2WF9nfs8AK-yNObmxivvga994hJyGc_8tk&s=1703205078&e=129600&f=12824909&srv=aefmbelzkxkf&i=0.4&sp=500&p1=aefmbelzkxkf&p2=aefmbelzkxkf&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
@@ -656,9 +656,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=MJKGXXAZQMFmKj1&expires=1703252063&ip=GxOsEHWnDS9X&token=78cVNzcVK_v3",
+                        "url": "https://streamtape.com/get_video?id=MJKGXXAZQMFmKj1&expires=1703275084&ip=GxOsEREnDS9X&token=nMX7FI0wEoQp",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MJKGXXAZQMFmKj1&expires=1703252063&ip=GxOsEHWnDS9X&token=78cVNzcVK_v3"
+                        "videoUrl": "https://streamtape.com/get_video?id=MJKGXXAZQMFmKj1&expires=1703275084&ip=GxOsEREnDS9X&token=nMX7FI0wEoQp"
                     }
                 ],
                 "passed": true
@@ -672,6 +672,56 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/innocence/",
+                                "title": "Innocence",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/innocence.jpg"
+                            },
+                            {
+                                "url": "/pelicula/christmas-carole/",
+                                "title": "Christmas Carole",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/christmas-carole.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tequila-re-pasado/",
+                                "title": "Tequila Re-Pasado",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tequila-re-pasado.jpg"
+                            },
+                            {
+                                "url": "/pelicula/maestro/",
+                                "title": "Maestro",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/maestro.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-fierecilla-indomable-2/",
+                                "title": "La Fierecilla Indomable 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-fierecilla-indomable-2.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hui-buh-und-das-hexenschloss/",
+                                "title": "Hui Buh und das Hexenschloss",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hui-buh-und-das-hexenschloss.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lauras-stern/",
+                                "title": "Lauras Stern",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lauras-stern.jpg"
+                            },
+                            {
+                                "url": "/pelicula/condors-nest/",
+                                "title": "Condor's Nest",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/condors-nest.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lucas-y-el-espiritu-de-la-navidad/",
+                                "title": "Lucas y el espíritu de la Navidad",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lucas-y-el-espiritu-de-la-navidad.jpg"
+                            },
+                            {
+                                "url": "/pelicula/hermano-de-jorel-especial-de-navidad-hermano-de-noel/",
+                                "title": "Hermano de Jorel especial de navidad: Hermano de Noel",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hermano-de-jorel-especial-de-navidad-hermano-de-noel.jpg"
+                            },
                             {
                                 "url": "/pelicula/liga-de-la-justicia-x-rwby-superheroes-y-cazadores-parte-1/",
                                 "title": "Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1",
@@ -721,56 +771,6 @@
                                 "url": "/pelicula/una-navidad-para-chueco/",
                                 "title": "Una Navidad para Chueco",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/una-navidad-para-chueco.jpg"
-                            },
-                            {
-                                "url": "/pelicula/opponent/",
-                                "title": "Opponent",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/opponent.jpg"
-                            },
-                            {
-                                "url": "/pelicula/unicornios/",
-                                "title": "Unicornios",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/unicornios.jpg"
-                            },
-                            {
-                                "url": "/pelicula/youre-all-gonna-die/",
-                                "title": "You're All Gonna Die",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/youre-all-gonna-die.jpg"
-                            },
-                            {
-                                "url": "/pelicula/operation-black-ops/",
-                                "title": "Operation Black Ops",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/operation-black-ops.jpg"
-                            },
-                            {
-                                "url": "/pelicula/las-chicas-estan-bien/",
-                                "title": "Las chicas están bien",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-chicas-estan-bien.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-unlikely-pilgrimage-of-harold-fry/",
-                                "title": "The Unlikely Pilgrimage of Harold Fry",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-unlikely-pilgrimage-of-harold-fry.jpg"
-                            },
-                            {
-                                "url": "/pelicula/godzilla-minus-one/",
-                                "title": "Godzilla: Minus One",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/godzilla-minus-one.jpg"
-                            },
-                            {
-                                "url": "/pelicula/pobres-criaturas/",
-                                "title": "Pobres criaturas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/pobres-criaturas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/outrage/",
-                                "title": "Outrage",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/outrage.jpg"
-                            },
-                            {
-                                "url": "/pelicula/wintertide/",
-                                "title": "Wintertide",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/wintertide.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -940,11 +940,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/liga-de-la-justicia-x-rwby-superheroes-y-cazadores-parte-1/",
-                    "title": "Liga de la Justicia x RWBY: Superhéroes y Cazadores: Parte 1",
+                    "url": "/pelicula/innocence/",
+                    "title": "Innocence",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Crimen, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -954,7 +954,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/liga-de-la-justicia-x-rwby-superheroes-y-cazadores-parte-1/",
+                        "url": "/pelicula/innocence/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -964,14 +964,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://jcsbarevnx.sw-cdnstream.com/hls2/01/00114/3l3b992kqp3p_n/index-v1-a1.m3u8?t=T-Ge6LH7aQRSm0BxJz0bc7-1wTRshL5jatdfw55DznY&s=1703182066&e=129600&f=853490&srv=pvtvfcheurxf&i=0.4&sp=500&p1=pvtvfcheurxf&p2=pvtvfcheurxf&asn=8075",
-                        "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://jcsbarevnx.sw-cdnstream.com/hls2/01/00114/3l3b992kqp3p_n/index-v1-a1.m3u8?t=T-Ge6LH7aQRSm0BxJz0bc7-1wTRshL5jatdfw55DznY&s=1703182066&e=129600&f=853490&srv=pvtvfcheurxf&i=0.4&sp=500&p1=pvtvfcheurxf&p2=pvtvfcheurxf&asn=8075",
+                        "url": "https://zqvnzsxicfeh.sw-cdnstream.com/hls2/01/00768/mwgm4r7dom3c_x/index-v1-a1.m3u8?t=-Y77-_Pf43nPKQYQGkH1diikO4HdXiEg27xUNm-qKFQ&s=1703205085&e=129600&f=3840532&srv=epugqgjfnpuz&i=0.4&sp=500&p1=epugqgjfnpuz&p2=epugqgjfnpuz&asn=8075",
+                        "quality": "[SUB] StreamWish:536p",
+                        "videoUrl": "https://zqvnzsxicfeh.sw-cdnstream.com/hls2/01/00768/mwgm4r7dom3c_x/index-v1-a1.m3u8?t=-Y77-_Pf43nPKQYQGkH1diikO4HdXiEg27xUNm-qKFQ&s=1703205085&e=129600&f=3840532&srv=epugqgjfnpuz&i=0.4&sp=500&p1=epugqgjfnpuz&p2=epugqgjfnpuz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/8hci3nl91cuf"
+                            "Referer": "https://wishembed.pro/e/mwgm4r7dom3c"
                         }
                     }
                 ],

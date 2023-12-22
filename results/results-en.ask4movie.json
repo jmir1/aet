@@ -7,114 +7,8 @@
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/grown-ups-2010/",
-                                "title": "Grown Ups (2010)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Grown-Ups-2010-Cover.jpg"
-                            },
-                            {
-                                "url": "/no-strings-attached-2011/",
-                                "title": "No Strings Attached (2011)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/No-Strings-Attached-2011-COver.jpg"
-                            },
-                            {
-                                "url": "/hulk-2003/",
-                                "title": "Hulk (2003)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Hulk-2003-COver.jpg"
-                            },
-                            {
-                                "url": "/outlaw-king-2018/",
-                                "title": "Outlaw King (2018)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Outlaw-King-2018-Cover.jpg"
-                            },
-                            {
-                                "url": "/northmen-a-viking-saga-2014/",
-                                "title": "Northmen: A Viking Saga (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Northmen-A-Viking-Saga-2014-Cover.jpg"
-                            },
-                            {
-                                "url": "/mortdecai-2015/",
-                                "title": "Mortdecai (2015)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Mortdecai-2015-Cover.jpg"
-                            },
-                            {
-                                "url": "/redirected-2014/",
-                                "title": "Redirected (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Redirected-2014-Cover.jpg"
-                            },
-                            {
-                                "url": "/serenity-2005/",
-                                "title": "Serenity (2005)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Serenity-2005-Cover.jpg"
-                            },
-                            {
-                                "url": "/the-guest-2014/",
-                                "title": "The Guest (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Guest-2014-Cover.jpg"
-                            },
-                            {
-                                "url": "/the-internship-2013/",
-                                "title": "The Internship (2013)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Internship-2013-Cover.jpg"
-                            },
-                            {
-                                "url": "/the-water-diviner-2014/",
-                                "title": "The Water Diviner (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Water-Diviner-2014-COver.jpg"
-                            },
-                            {
-                                "url": "/the-loft-2014/",
-                                "title": "The Loft (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Loft-2014-Cover.jpg"
-                            },
-                            {
-                                "url": "/woman-in-gold-2015/",
-                                "title": "Woman in Gold (2015)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Woman-in-Gold-2015-Cover.jpg"
-                            },
-                            {
-                                "url": "/wrong-turn-2003/",
-                                "title": "Wrong Turn (2003)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Wrong-Turn-2003-Cover.jpg"
-                            },
-                            {
-                                "url": "/the-nut-job-2014/",
-                                "title": "The Nut Job (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Nut-Job-2014-Cover.jpg"
-                            },
-                            {
-                                "url": "/underworld-rise-of-the-lycans-2009/",
-                                "title": "Underworld: Rise of the Lycans (2009)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Underworld-Rise-of-the-Lycans-2009-Cover.jpg"
-                            },
-                            {
-                                "url": "/transporter-2-2005/",
-                                "title": "Transporter 2 (2005)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Transporter-2-2005-Cover.jpg"
-                            },
-                            {
-                                "url": "/the-legend-of-hercules-2014/",
-                                "title": "The Legend of Hercules (2014)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/The-Legend-of-Hercules-2014-Cover.jpg"
-                            },
-                            {
-                                "url": "/everything-everywhere-all-at-once-2022-1/",
-                                "title": "Everything Everywhere All at Once (2022)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/05/Everything-Everywhere-All-at-Once-Cover.jpg"
-                            },
-                            {
-                                "url": "/coda-2021-2/",
-                                "title": "CODA (2021)",
-                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2021/08/Coda-cover.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -228,16 +122,26 @@
             },
             "details": {
                 "result": {
-                    "url": "/grown-ups-2010/",
-                    "description": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
-                    "genre": "Comedy",
+                    "url": "/carol-the-end-of-the-world-season-1/",
+                    "description": "As a planetary apocalypse looms, a woman struggling to embrace end-times chaos searches for meaning in her last months on Earth.",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt29629770/1/10",
+                        "name": "Ep. 10",
+                        "episode_number": 10.0
+                    },
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt29629770/1/9",
+                        "name": "Ep. 9",
+                        "episode_number": 9.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
