@@ -537,7 +537,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
