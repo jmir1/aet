@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/kanojo-mo-kanojo-season-2-ger-sub/",
+                                "title": "Kanojo mo Kanojo Season 2 Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/09/v58572-370x208.jpg"
+                            },
+                            {
+                                "url": "/hypnosis-mic-division-rap-battle-rhyme-anima-ger-sub-2/",
+                                "title": "Hypnosis Mic: Division Rap Battle – Rhyme Anima Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/09/v66825-370x208.jpg"
+                            },
+                            {
                                 "url": "/ooyukiumi-no-kaina-ger-sub/",
                                 "title": "Ooyukiumi no Kaina Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/v59670-370x208.jpg"
@@ -175,16 +185,6 @@
                                 "url": "/xian-wang-de-richang-shenghuo-4-ger-sub/",
                                 "title": "Xian Wang de Richang Shenghuo 4 Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/12/v67416-370x208.jpg"
-                            },
-                            {
-                                "url": "/bokura-no-ameiro-protocol-ger-sub/",
-                                "title": "Bokura no Ameiro Protocol Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/10/v65002-370x208.jpg"
-                            },
-                            {
-                                "url": "/ragna-crimson-ger-sub/",
-                                "title": "Ragna Crimson Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/09/v55211-370x208.jpg"
                             },
                             {
                                 "url": "/tate-no-yuusha-no-nariagari-season-3-ger-dub/",
@@ -439,13 +439,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/ooyukiumi-no-kaina-ger-sub/",
-                    "title": "Ooyukiumi no Kaina Ger Sub",
-                    "description": "Die Story spielt in einer Welt, in der das Land vom eindringenden Großen Schneemeer verschluckt wird. Die Menschen fristen ein hartes Leben oberhalb des Tenmaku, das sich von den Wurzeln bis zu den Wipfeln der riesigen Orbitalbäume erstreckt. Im Mittelpunkt stehen Kaina, ein Junge, der oberhalb des Tenmaku lebt, und Liliha, die Prinzessin des kleinen Landes Atland im Schneemeer.",
-                    "genre": "Fantasy",
+                    "url": "/kanojo-mo-kanojo-season-2-ger-sub/",
+                    "title": "Kanojo mo Kanojo Season 2 Ger Sub",
+                    "description": "Sommerferien, Feste, Badeanzüge und vieles mehr stehen für Naoya und seine Freundinnen an!",
+                    "genre": "Comedy, Harem, Romance, School, Shounen",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2022/12/59670.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2023/09/58572.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -453,12 +453,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ooyukiumi-no-kaina-ger-sub/?link=11",
-                        "name": "Movie",
-                        "episode_number": 100.0
+                        "url": "/kanojo-mo-kanojo-season-2-ger-sub/?link=11",
+                        "name": "Ep. 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/ooyukiumi-no-kaina-ger-sub/?link=10",
+                        "url": "/kanojo-mo-kanojo-season-2-ger-sub/?link=10",
                         "name": "Ep. 11",
                         "episode_number": 11.0
                     }
@@ -466,8 +466,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www6.mp4upload.com:183/d/sgxxqp7tz3b4quuok2qr2k2ejta74lo5dy2idtx3xl2dylrp4a6jbk3vxnhj5uxjfl56ma4e/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www6.mp4upload.com:183/d/sgxxqp7tz3b4quuok2qr2k2ejta74lo5dy2idtx3xl2dylrp4a6jbk3vxnhj5uxjfl56ma4e/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

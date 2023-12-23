@@ -537,22 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://c1.flyeyes.pics/hls/n5ajr7y2y5mne42h4wcalfbhqrvabycj7v3mrxb6d,lapydajbhss6yw2goma,qepydajbhswhtoxpc7q,.urlset/master.m3u8",
-                        "quality": "StreamVid",
-                        "videoUrl": "https://c1.flyeyes.pics/hls/n5ajr7y2y5mne42h4wcalfbhqrvabycj7v3mrxb6d,lapydajbhss6yw2goma,qepydajbhswhtoxpc7q,.urlset/master.m3u8"
-                    },
-                    {
-                        "url": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=4-9SuOTSJKbDizsEdICAw6cdX-us4tpGufwp9L614LQ&s=1703311706&e=43200&f=11188495&i=20.171&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=4-9SuOTSJKbDizsEdICAw6cdX-us4tpGufwp9L614LQ&s=1703311706&e=43200&f=11188495&i=20.171&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }
