@@ -107,6 +107,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/73fa05fc-c4bb-4643-95fc-78131fd8e33e.webp"
                             },
                             {
+                                "url": "7252-la-seconda-guerra-mondiale-voci-dal-fronte",
+                                "title": "La Seconda Guerra Mondiale: voci dal fronte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4cccdd94-bac5-463c-bed1-3e017d1423e0.webp"
+                            },
+                            {
                                 "url": "7094-babbo-natale-amore-mio",
                                 "title": "Babbo Natale amore mio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a0f2dcf9-9ca0-4e92-a79e-03e42a99cd2c.webp"
@@ -300,11 +305,6 @@
                                 "url": "7019-thanksgiving",
                                 "title": "Thanksgiving",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ab9ba1e6-ad5b-4062-add5-767d514f12ce.webp"
-                            },
-                            {
-                                "url": "6962-monarch-legacy-of-monsters",
-                                "title": "Monarch: Legacy of Monsters",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/492dce32-a143-4fdd-aa87-37d6aa95cf03.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7254-capitano-fall",
+                                "title": "Capitano Fall",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1b7fe6f0-c047-4673-b4e0-f57134aa7bc9.webp"
+                            },
+                            {
+                                "url": "7253-archer",
+                                "title": "Archer",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b97d8335-d0c3-47a1-9a36-1eace2c6c59e.webp"
+                            },
+                            {
+                                "url": "7252-la-seconda-guerra-mondiale-voci-dal-fronte",
+                                "title": "La Seconda Guerra Mondiale: voci dal fronte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4cccdd94-bac5-463c-bed1-3e017d1423e0.webp"
+                            },
                             {
                                 "url": "7251-segnali-dal-futuro",
                                 "title": "Segnali dal futuro",
@@ -600,21 +615,6 @@
                                 "url": "7185-bianco-rosso-e-verdone",
                                 "title": "Bianco, rosso e Verdone",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/587ac694-bfd9-44bc-842c-62291cfdaf62.webp"
-                            },
-                            {
-                                "url": "7184-me-contro-te-il-concerto",
-                                "title": "Me Contro Te - Il concerto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1f55752c-cf4f-44ad-8482-0857d4ccdef5.webp"
-                            },
-                            {
-                                "url": "7183-a-bolu",
-                                "title": "A Bolu",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/415767a6-2a73-4f6b-92ea-52c8cb3aba12.webp"
-                            },
-                            {
-                                "url": "7182-scusate-il-ritardo",
-                                "title": "Scusate il ritardo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ba0d31da-4f58-4d4c-8b8e-6559a060fb9c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -740,6 +740,11 @@
                                 "url": "6968-a-murder-at-the-end-of-the-world",
                                 "title": "A Murder at the End of the World",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/55ae5b70-bde7-4117-ad1a-99cf191f04dc.webp"
+                            },
+                            {
+                                "url": "7252-la-seconda-guerra-mondiale-voci-dal-fronte",
+                                "title": "La Seconda Guerra Mondiale: voci dal fronte",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4cccdd94-bac5-463c-bed1-3e017d1423e0.webp"
                             },
                             {
                                 "url": "2277-la-fine-del-mondo",
@@ -920,11 +925,6 @@
                                 "url": "3203-la-nave-matta-di-mister-roberts",
                                 "title": "La nave matta di Mister Roberts",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5af095cf-7f9b-4c03-8d92-ee22d4ce2142.webp"
-                            },
-                            {
-                                "url": "3305-the-rifleman",
-                                "title": "The Rifleman",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8cc7c4b7-868d-4702-a2a3-72aabb064849.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7246?episode_id=46143\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7246?episode_id=46143\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-13603134921023141782/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-13603134921023141782/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-13603134921023141782/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-13603134921023141782/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

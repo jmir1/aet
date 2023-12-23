@@ -227,6 +227,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/bookie",
+                                "title": "Bookie",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
+                            },
+                            {
+                                "url": "/serie/online/reacher",
+                                "title": "Reacher",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19621.webp"
+                            },
+                            {
+                                "url": "/serie/online/what-if-",
+                                "title": "E Se...?",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19426.webp"
+                            },
+                            {
+                                "url": "/serie/online/for-all-mankind",
+                                "title": "For all Mankind",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4320.webp"
+                            },
+                            {
+                                "url": "/serie/online/monarch-legado-de-monstros",
+                                "title": "Monarch - Legado de Monstros",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22539.webp"
+                            },
+                            {
+                                "url": "/serie/online/gyeongseong-creature",
+                                "title": "Gyeongseong Creature",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22557.webp"
+                            },
+                            {
                                 "url": "/serie/online/slow-horses",
                                 "title": "Slow Horses",
                                 "status": 1,
@@ -275,18 +311,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
                             },
                             {
-                                "url": "/serie/online/reacher",
-                                "title": "Reacher",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19621.webp"
-                            },
-                            {
-                                "url": "/serie/online/bookie",
-                                "title": "Bookie",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
-                            },
-                            {
                                 "url": "/serie/online/the-crown",
                                 "title": "The Crown",
                                 "status": 1,
@@ -297,18 +321,6 @@
                                 "title": "Carol e o Fim do Mundo",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22555.webp"
-                            },
-                            {
-                                "url": "/serie/online/for-all-mankind",
-                                "title": "For all Mankind",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4320.webp"
-                            },
-                            {
-                                "url": "/serie/online/monarch-legado-de-monstros",
-                                "title": "Monarch - Legado de Monstros",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22539.webp"
                             },
                             {
                                 "url": "/serie/online/os-bucaneiros",
@@ -333,18 +345,6 @@
                                 "title": "Frasier",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22493.webp"
-                            },
-                            {
-                                "url": "/serie/online/minha-vida-com-a-familia-walter",
-                                "title": "Minha Vida com a Família Walter",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22553.webp"
-                            },
-                            {
-                                "url": "/serie/online/rick-and-morty",
-                                "title": "Rick e Morty",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/5508.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
