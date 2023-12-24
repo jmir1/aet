@@ -92,6 +92,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74478/legendado",
+                                "title": "Kikansha no Mahou wa Tokubetsu desu",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42840_background.jpg?v=1696715284"
+                            },
+                            {
+                                "url": "/episodio/74477/legendado",
+                                "title": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42839_background.jpg?v=1696714897"
+                            },
+                            {
+                                "url": "/episodio/74476/legendado",
+                                "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42834_background.jpg?v=1696675734"
+                            },
+                            {
+                                "url": "/episodio/74475/legendado",
+                                "title": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42834_background.jpg?v=1696675734"
+                            },
+                            {
+                                "url": "/episodio/74474/legendado",
+                                "title": "Kanojo mo Kanojo Season 2",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42833_background.jpg?v=1696643259"
+                            },
+                            {
+                                "url": "/episodio/74473/legendado",
+                                "title": "Atarashii Joushi wa Do Tennen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42841_background.jpg?v=1696715534"
+                            },
+                            {
+                                "url": "/episodio/74472/legendado",
+                                "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42742_background.jpg?v=1696693230"
+                            },
+                            {
+                                "url": "/episodio/74471/legendado",
+                                "title": "Shadowverse Flame: Seven Shadows-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42703_background.jpg?v=1688784320"
+                            },
+                            {
                                 "url": "/episodio/74470/legendado",
                                 "title": "Goblin Slayer II",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
@@ -170,46 +210,6 @@
                                 "url": "/episodio/43987/legendado",
                                 "title": "Shichisei no Subaru",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
-                            },
-                            {
-                                "url": "/episodio/43986/legendado",
-                                "title": "Shichisei no Subaru",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
-                            },
-                            {
-                                "url": "/episodio/43985/legendado",
-                                "title": "Shichisei no Subaru",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
-                            },
-                            {
-                                "url": "/episodio/43984/legendado",
-                                "title": "Shichisei no Subaru",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
-                            },
-                            {
-                                "url": "/episodio/70893/legendado",
-                                "title": "Hirogaru Sky! Precure",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42596_background.jpg?v=1675568567"
-                            },
-                            {
-                                "url": "/episodio/74462/legendado",
-                                "title": "16bit Sensation: Another Layer",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42826_background.jpg?v=1696467507"
-                            },
-                            {
-                                "url": "/episodio/74461/legendado",
-                                "title": "Bullbuster",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42824_background.jpg?v=1696459920"
-                            },
-                            {
-                                "url": "/episodio/74460/legendado",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42854_background.jpg?v=1696894976"
-                            },
-                            {
-                                "url": "/episodio/74459/legendado",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42733_background.jpg?v=1697149304"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

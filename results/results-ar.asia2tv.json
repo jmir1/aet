@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/كل-لحظة-ثمينة/",
+                                "title": "كل لحظة ثمينة Tatoe Anata wo Wasurete mo"
+                            },
+                            {
                                 "url": "/معالم-بي-تي-إس-ما-وراء-النجم/",
                                 "title": "معالم بي تي إس: ما وراء النجم BTS Monuments: Beyond the Star"
                             },
@@ -23,12 +27,12 @@
                                 "title": "لعبة الموت Death’s Game"
                             },
                             {
-                                "url": "/يوم-واحد/",
-                                "title": "يوم واحد One Day"
-                            },
-                            {
                                 "url": "/ذيبان-في-الحب/",
                                 "title": "ذيبان في الحب Thaibaan in Love"
+                            },
+                            {
+                                "url": "/يوم-واحد/",
+                                "title": "يوم واحد One Day"
                             },
                             {
                                 "url": "/بطل-منزلي/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/قمر-نهاري/",
                                 "title": "قمر نهاري Moon in the Day"
-                            },
-                            {
-                                "url": "/الصفقة-المثالية/",
-                                "title": "الصفقة المثالية The Perfect Deal"
                             }
                         ],
                         "hasNextPage": true
@@ -276,22 +276,65 @@
             },
             "details": {
                 "result": {
-                    "url": "/معالم-بي-تي-إس-ما-وراء-النجم/",
-                    "title": "معالم بي تي إس: ما وراء النجم BTS Monuments: Beyond the Star",
-                    "description": "دراما “مخلوق جيونغسونغ” تتحدث عن “جانغ تاي سانغ” رجلًا ثريًا معروفًا في منطقة بوكتشون في جيونغسونغ كأكثر رجلًا جذبًا ومصدر ثقيل للمعلومات. لديه مواهب متنوعة، بما في ذلك التف Park-Seo-Joon : في دور Jang Tae Sang Han-So-Hee : في دور Yun Chae Ok Kim-Su-Hyun : في دور Maeda Kim-Hae-Sook : في دور Na Wol Daek Jo-Han-Chul : في دور Yoon Jong Won Wi-Ha-Joon : في دور Kwon Joon Taek",
-                    "genre": "كوريا الجنوبية, كوميدي, نفسي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/12/RBAWEg_3f.jpg",
+                    "url": "/كل-لحظة-ثمينة/",
+                    "title": "كل لحظة ثمينة Tatoe Anata wo Wasurete mo",
+                    "description": "كونو ميري، شابة تتخلى عن حلمها للإنضمام إلى مدينة جديدة، حيث تلتقي بآوكي سورا، الشاب البسيط الذي يملك عربة طعام. عندما تبدأ ميري في الوقوع في حب سورا، تجد أنه قد نسيها وتستطيع الكشف عن ماض Hotta-Mayu : في دور Kono Miri Hagiwara-Riku : في دور Aoki Sora Kazama-Shunsuke : في دور Toyama Tamotsu Okada-Yui : في دور Fujikawa Sana Hata-Mei : في دور Miyashita Akane Dan-Rei : في دور Aoki Risako",
+                    "genre": "كوريا الجنوبية, درامي, رومانسي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2023/12/630576.jpeg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/كل-لحظة-ثمينة-الحلقة-03/",
+                        "name": "03 : الحلقة"
+                    },
+                    {
+                        "url": "/كل-لحظة-ثمينة-الحلقة-02/",
+                        "name": "02 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://12kbrnhtqb58.enaak-cdn.com/hls2/01/00993/623o4rmx11o4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=YASrhBpVBKB-YWGKDXV0kbgbXJMHKiDbF7D8mevlouM&s=1703378049&e=129600&f=5037860&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://12kbrnhtqb58.enaak-cdn.com/hls2/01/00993/623o4rmx11o4_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=YASrhBpVBKB-YWGKDXV0kbgbXJMHKiDbF7D8mevlouM&s=1703378049&e=129600&f=5037860&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.site",
+                            "Referer": "https://filelions.site/v/qm9lfv458yb6"
+                        }
+                    },
+                    {
+                        "url": "https://12kbrnhtqb58.enaak-cdn.com/hls2/01/00993/623o4rmx11o4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YASrhBpVBKB-YWGKDXV0kbgbXJMHKiDbF7D8mevlouM&s=1703378049&e=129600&f=5037860&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://12kbrnhtqb58.enaak-cdn.com/hls2/01/00993/623o4rmx11o4_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=YASrhBpVBKB-YWGKDXV0kbgbXJMHKiDbF7D8mevlouM&s=1703378049&e=129600&f=5037860&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.site",
+                            "Referer": "https://filelions.site/v/qm9lfv458yb6"
+                        }
+                    },
+                    {
+                        "url": "https://12kbrnhtqb58.enaak-cdn.com/hls2/01/00993/623o4rmx11o4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=YASrhBpVBKB-YWGKDXV0kbgbXJMHKiDbF7D8mevlouM&s=1703378049&e=129600&f=5037860&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://12kbrnhtqb58.enaak-cdn.com/hls2/01/00993/623o4rmx11o4_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=YASrhBpVBKB-YWGKDXV0kbgbXJMHKiDbF7D8mevlouM&s=1703378049&e=129600&f=5037860&srv=dQEsp5YhqQXe&i=0.4&sp=1500&p1=dQEsp5YhqQXe&p2=dQEsp5YhqQXe&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.site",
+                            "Referer": "https://filelions.site/v/qm9lfv458yb6"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

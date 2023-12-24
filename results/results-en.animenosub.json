@@ -117,6 +117,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/protocol-rain/",
+                                "title": "Protocol: Rain",
+                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696676750-8449-138465.jpg"
+                            },
+                            {
+                                "url": "/anime/the-apothecary-diaries/",
+                                "title": "The Apothecary Diaries",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Apothecary-Diaries-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/i-shall-survive-using-potions/",
+                                "title": "I Shall Survive Using Potions!",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696702155-7600-138184.jpg"
+                            },
+                            {
+                                "url": "/anime/butareba-the-story-of-a-man-who-turned-into-a-pig/",
+                                "title": "Butareba -The Story of a Man Who Turned into a Pig-",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/Butareba-The-Story-of-a-Man-Who-Turned-into-a-Pig-poster.jpg"
+                            },
+                            {
                                 "url": "/anime/a-returners-magic-should-be-special/",
                                 "title": "A Returner’s Magic Should Be Special",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/A-Returners-Magic-Should-Be-Special-poster.jpg"
@@ -127,19 +147,9 @@
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/Tearmoon-Empire-poster.jpg"
                             },
                             {
-                                "url": "/anime/the-apothecary-diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Apothecary-Diaries-poster.jpg"
-                            },
-                            {
                                 "url": "/anime/spy-x-family-season-2/",
                                 "title": "Spy x Family Season 2",
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/1696676298-8853-138482.jpg"
-                            },
-                            {
-                                "url": "/anime/butareba-the-story-of-a-man-who-turned-into-a-pig/",
-                                "title": "Butareba -The Story of a Man Who Turned into a Pig-",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/Butareba-The-Story-of-a-Man-Who-Turned-into-a-Pig-poster.jpg"
                             },
                             {
                                 "url": "/anime/the-faraway-paladin-the-lord-of-rust-mountains/",
@@ -205,16 +215,6 @@
                                 "url": "/anime/jujutsu-kaisen-2nd-season-dubbed/",
                                 "title": "Jujutsu Kaisen 2nd Season DUB",
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/Jujutsu-Kaisen-2nd-Season-DUB-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/under-ninja/",
-                                "title": "Under Ninja",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/1696497974-9434-137896.jpg"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-2nd-season/",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/06/Jujutsu-Kaisen-2nd-Season-poster-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,8 +316,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspxr7lwbpaccjfipa/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 480p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbspxr7lwbpaccjfipa/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    },
+                    {
+                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspxr7lwbbw6ywhvmq/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytspxr7lwbbw6ywhvmq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
