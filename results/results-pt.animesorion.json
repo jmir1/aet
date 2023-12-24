@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74480/legendado",
+                                "title": "Spy x Family Season 2",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42511_background.jpg?v=1696715154"
+                            },
+                            {
+                                "url": "/episodio/74479/legendado",
+                                "title": "Buta no Liver wa Kanetsu Shiro",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42844_background.jpg?v=1696716624"
+                            },
+                            {
                                 "url": "/episodio/74478/legendado",
                                 "title": "Kikansha no Mahou wa Tokubetsu desu",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42840_background.jpg?v=1696715284"
@@ -198,16 +208,6 @@
                             },
                             {
                                 "url": "/episodio/43989/legendado",
-                                "title": "Shichisei no Subaru",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
-                            },
-                            {
-                                "url": "/episodio/43988/legendado",
-                                "title": "Shichisei no Subaru",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
-                            },
-                            {
-                                "url": "/episodio/43987/legendado",
                                 "title": "Shichisei no Subaru",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12825_background.jpg?v=1648418568"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
