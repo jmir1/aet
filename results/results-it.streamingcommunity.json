@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "7294-last-light-il-crollo-serie",
+                                "title": "Last light: il crollo (serie)",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/395f6db9-b0cc-4c3c-8f92-05ad29c6ae6d.webp"
+                            },
+                            {
+                                "url": "7293-scuro-web",
+                                "title": "Scuro / Web",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/abe3b5b9-2776-4b12-baad-8bb91dd704ff.webp"
+                            },
+                            {
+                                "url": "7292-deadwood",
+                                "title": "Deadwood",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c1d704ab-b190-4b02-bcc0-2bd28f31c6ab.webp"
+                            },
+                            {
+                                "url": "7291-star-trek-prodigy",
+                                "title": "Star Trek: Prodigy",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c7315a1e-2166-41a8-a310-00128de804df.webp"
+                            },
+                            {
                                 "url": "7290-rosemarys-baby",
                                 "title": "Rosemary's Baby",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1e4dff69-8db9-4a68-a406-e3205539c07e.webp"
@@ -595,26 +615,6 @@
                                 "url": "7226-lo-sceicco",
                                 "title": "Lo sceicco",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b54522cb-c8bb-46cf-9779-bf0d436db4fb.webp"
-                            },
-                            {
-                                "url": "7225-la-voce-che-hai-dentro",
-                                "title": "La voce che hai dentro",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8351471c-63c1-40a2-b64e-17c3177b57d3.webp"
-                            },
-                            {
-                                "url": "7223-shrekkati-per-le-feste",
-                                "title": "Shrekkati per le feste",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/450d5eba-4b44-41d8-93b2-0c4dec1aa877.webp"
-                            },
-                            {
-                                "url": "7222-day-of-the-dead-bloodline",
-                                "title": "Day of the dead: bloodline",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5557a531-00ef-4240-8cbb-4386109ac54e.webp"
-                            },
-                            {
-                                "url": "7221-signal",
-                                "title": "Signal",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d8a2411c-e9f2-442d-890b-21e98b3a1d21.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7286\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7286\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16293894852530171472/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16293894852530171472/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16293894852530171472/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16293894852530171472/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
