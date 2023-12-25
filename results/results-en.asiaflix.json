@@ -205,12 +205,86 @@
                 "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.MissingFieldException: Field 'episodes' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.EpisodeResponseDto', but it was missing at path: $",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB",
+                        "name": "Episode 25",
+                        "episode_number": 25.0,
+                        "scanlator": "Subbed"
+                    },
+                    {
+                        "url": "/streaming.php?id=MzgzMDgw&title=Hidden+Love+%282023%29+episode+24&typesub=SUB",
+                        "name": "Episode 24",
+                        "episode_number": 24.0,
+                        "scanlator": "Subbed"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: Failed to get Videos",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.720.m3u8",
+                        "quality": "Default Server - 720p",
+                        "videoUrl": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.720.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://draplay.info",
+                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.1080.m3u8",
+                        "quality": "Default Server - 1080p",
+                        "videoUrl": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.1080.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://draplay.info",
+                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.480.m3u8",
+                        "quality": "Default Server - 480p",
+                        "videoUrl": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.480.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://draplay.info",
+                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.360.m3u8",
+                        "quality": "Default Server - 360p",
+                        "videoUrl": "https://hls121.searchmovieapi.com/streamhls2024/d0e62db2337a812291594d4d2ced1071/ep.25.v2.1695112751.360.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://draplay.info",
+                            "Referer": "https://draplay.info/streaming.php?id=MzgzMDgx&title=Hidden+Love+%282023%29+episode+25&typesub=SUB"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=D4YqrvO63kc6Vq&expires=1703534355&ip=FROsE0MnDS9X&token=XtmRcdClOPXe",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=D4YqrvO63kc6Vq&expires=1703534355&ip=FROsE0MnDS9X&token=XtmRcdClOPXe"
+                    },
+                    {
+                        "url": "https://apq5wfuf.sw-cdnstream.com/hls2/01/00819/3tosdo456b8r_o/index-v1-a1.m3u8?t=h595jsnNSH04fODdzgowZnT8H-2Gh9qIed6uNdeoAhI&s=1703464356&e=129600&f=4099541&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://apq5wfuf.sw-cdnstream.com/hls2/01/00819/3tosdo456b8r_o/index-v1-a1.m3u8?t=h595jsnNSH04fODdzgowZnT8H-2Gh9qIed6uNdeoAhI&s=1703464356&e=129600&f=4099541&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/3tosdo456b8r?caption_1=https://sub.draplay2.pro&sub_1=English"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
