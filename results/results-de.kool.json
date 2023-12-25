@@ -272,11 +272,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nddTKKAu6z771duaxr1D32pHZ8j.jpg"
                             },
                             {
-                                "url": "/data/watch/?_id=753342&type=movie",
-                                "title": "Napoleon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pula9kiMIgNku5EyDrcyyaofj4S.jpg"
-                            },
-                            {
                                 "url": "/data/watch/?_id=603692&type=movie",
                                 "title": "John Wick: Kapitel 4",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/uDFv0wYODTdRUvljRMs3LaX9nq3.jpg"
@@ -315,6 +310,11 @@
                                 "url": "/data/watch/?_id=565770&type=movie",
                                 "title": "Blue Beetle",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/h4BoV9d1rNIWfjlTwZtNbaCkGwn.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=753342&type=movie",
+                                "title": "Napoleon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pula9kiMIgNku5EyDrcyyaofj4S.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=335977&type=movie",
@@ -977,18 +977,18 @@
                 "passed": true
             },
             "episodes": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "videos": {
                 "result": [
                     {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=695721&name=Die Tribute von Panem: Das Lied von Vogel und Schlange&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true
-            },
-            "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
             }
         }
     }
