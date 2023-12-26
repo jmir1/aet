@@ -227,6 +227,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/found",
+                                "title": "Found",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
+                            },
+                            {
+                                "url": "/serie/online/investigacao-criminal-sydney",
+                                "title": "Investigação Criminal: Sydney",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22533.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-curse",
+                                "title": "The Curse",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
+                            },
+                            {
                                 "url": "/serie/online/what-if-",
                                 "title": "E Se...?",
                                 "status": 1,
@@ -311,12 +329,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19081.webp"
                             },
                             {
-                                "url": "/serie/online/the-curse",
-                                "title": "The Curse",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
-                            },
-                            {
                                 "url": "/serie/online/companheiros-de-viagem",
                                 "title": "Companheiros de Viagem",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "The Crown",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4336.webp"
-                            },
-                            {
-                                "url": "/serie/online/carol-e-o-fim-do-mundo",
-                                "title": "Carol e o Fim do Mundo",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22555.webp"
-                            },
-                            {
-                                "url": "/serie/online/os-bucaneiros",
-                                "title": "Os Bucaneiros",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22525.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }

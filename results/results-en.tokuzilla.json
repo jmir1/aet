@@ -172,20 +172,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://hls28-eu.zcdn.stream/e2d1d54d2910d8ca276cd3c10f1f52c3/2023-12-23/480.m3u8?token=7a4a1d2b16afb8d55d155e116dc30d0b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1703621476&type=edge&node=CVvsIMDFLG9frDsbv-FB6P483ZskdpW3wRJEB2l8-9G3mvCLM1UN56UTXxcGCCWeO86AcayNXdeKqGgItx6i7L34zt4BizlSgLC63dXu8QsCIoWGAfA6GP44M8M1nzzct9xXLYVFr-C0uDBKtC2palCTbZtoDWTjdGZ_RhHnURr93EX3iWjpTdo0mvBI3p47",
-                        "quality": "Chillx - 480p",
-                        "videoUrl": "https://hls28-eu.zcdn.stream/e2d1d54d2910d8ca276cd3c10f1f52c3/2023-12-23/480.m3u8?token=7a4a1d2b16afb8d55d155e116dc30d0b&client=d41d8cd98f00b204e9800998ecf8427e&expires=1703621476&type=edge&node=CVvsIMDFLG9frDsbv-FB6P483ZskdpW3wRJEB2l8-9G3mvCLM1UN56UTXxcGCCWeO86AcayNXdeKqGgItx6i7L34zt4BizlSgLC63dXu8QsCIoWGAfA6GP44M8M1nzzct9xXLYVFr-C0uDBKtC2palCTbZtoDWTjdGZ_RhHnURr93EX3iWjpTdo0mvBI3p47",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://chillx.top",
-                            "Referer": "https://chillx.top/v/IXRZAT3p46T6/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: chillx.top: Name or service not known",
+                "passed": false
             }
         }
     }

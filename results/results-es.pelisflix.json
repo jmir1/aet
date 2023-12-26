@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/tack-och-forlat/",
+                                "title": "Tack och förlåt",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8ERu9DNZlAOH4cKhZCgPDHYEZWMpuTkso1NovqdGRSd.webp"
+                            },
+                            {
                                 "url": "/pelicula/red-stone/",
                                 "title": "Red Stone",
                                 "description": "Un peligroso asesino a sueldo (Neal McDonough) tiene la tarea de perseguir a un adolescente que fue ...",
@@ -239,12 +245,6 @@
                                 "title": "Christmas Joy",
                                 "description": "Joy Holbrook es una investigadora del mercado que busca promocionar dentro de su firma. Justo cuando...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yVOtWYzRloKm6vM6Ae13.webp"
-                            },
-                            {
-                                "url": "/pelicula/condors-nest/",
-                                "title": "Condor's Nest",
-                                "description": "El veterano de guerra estadounidense Will Spalding ha rastreado al sádico coronel nazi que ejecutó...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/DpJVdvXr8hqTos4pyROcoglZF.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/red-stone/",
-                    "title": "Red Stone",
-                    "description": "Un peligroso asesino a sueldo (Neal McDonough) tiene la tarea de perseguir a un adolescente que fue testigo del asesinato de su hermano mayor a manos de un despiadado señor del crimen sureño (Michael Cudlitz). El pistolero contratado debe localizar al niño antes que los secuaces de los rivales o el FBI. A medida que pasan las horas, el asesino a sueldo comienza a cuestionar sus caminos mortales y debe elegir a qué lado pertenece...",
-                    "genre": "Crimen, Suspense",
+                    "url": "/pelicula/tack-och-forlat/",
+                    "title": "Tack och förlåt",
+                    "description": "",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/red-stone/",
+                        "url": "/pelicula/tack-och-forlat/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mrSLyNs = \"\"; DYeibsqJhA.forEach(function Oym(value) { mrSLyNs += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar pmApGBefk = \"\"; AuSWXjLV.forEach(function Oym(value) { pmApGBefk += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
