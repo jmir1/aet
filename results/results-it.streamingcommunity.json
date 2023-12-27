@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7328-cattiva-coscienza",
+                                "title": "Cattiva coscienza",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/50b9d719-435b-41c8-8973-958656fb5f79.webp"
+                            },
+                            {
                                 "url": "7326-nudi-e-crudi",
                                 "title": "Nudi e crudi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/926eee2c-e918-4d5b-80d9-3158c7b1ef30.webp"
@@ -610,11 +615,6 @@
                                 "url": "7262-the-tourist",
                                 "title": "The Tourist",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/21c52309-e6c8-4ce5-99b3-c4bf8d8b8ac3.webp"
-                            },
-                            {
-                                "url": "7261-the-gold",
-                                "title": "The Gold",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/44802c49-ac62-4eb2-9cd8-1a0eab6d0d00.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-18010616831411650050/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-18010616831411650050/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-18010616831411650050/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-18010616831411650050/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

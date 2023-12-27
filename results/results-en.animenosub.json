@@ -117,6 +117,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/uma-musume-pretty-derby-season-3/",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/Uma-Musume-Pretty-Derby-Season-3-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/16bit-sensation-another-layer/",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/10/16bit-Sensation-Another-Layer-poster.jpg"
+                            },
+                            {
                                 "url": "/anime/jashin-chan-dropkick-seikimatsu-hen/",
                                 "title": "Jashin-chan Dropkick “Seikimatsu-hen”",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/12/Jashin-chan-Dropkick-Seikimatsu-hen-poster.jpg"
@@ -205,16 +215,6 @@
                                 "url": "/anime/the-apothecary-diaries/",
                                 "title": "The Apothecary Diaries",
                                 "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Apothecary-Diaries-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/i-shall-survive-using-potions/",
-                                "title": "I Shall Survive Using Potions!",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696702155-7600-138184.jpg"
-                            },
-                            {
-                                "url": "/anime/butareba-the-story-of-a-man-who-turned-into-a-pig/",
-                                "title": "Butareba -The Story of a Man Who Turned into a Pig-",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/10/Butareba-The-Story-of-a-Man-Who-Turned-into-a-Pig-poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,25 +316,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbsozv72d3dheaq4xha/index-v1-a1.m3u8",
-                        "quality": "SUB - VidMoly - 480p",
-                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7srbsozv72d3dheaq4xha/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    },
-                    {
-                        "url": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytsozv72d3oawljbkaa/index-v1-a1.m3u8",
-                        "quality": "SUB - VidMoly - 1080p",
-                        "videoUrl": "https://dv-so-2-oc-4.vmrange.lat/hls/xqx2jzvyn5okjiqbtgpcjpsh4cgqquykhaz5mpg7sytsozv72d3oawljbkaa/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
