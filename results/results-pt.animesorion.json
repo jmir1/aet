@@ -28,7 +28,7 @@
                             },
                             {
                                 "url": "/anime/54918",
-                                "title": "Tokyo Revengers: Tenjiku-hen (Season 3)",
+                                "title": "Tokyo Revengers: Tenjiku-hen",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42822_background.jpg?v=1696404482"
                             },
                             {
@@ -91,6 +91,41 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/74511/legendado",
+                                "title": "Filme Jeremy no Ki",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/9984_background.jpg?v=1703646558"
+                            },
+                            {
+                                "url": "/episodio/74510/legendado",
+                                "title": "Tokyo Revengers: Tenjiku-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42822_background.jpg?v=1696404482"
+                            },
+                            {
+                                "url": "/episodio/74509/legendado",
+                                "title": "Paradox Live the Animation",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42798_background.jpg?v=1696012807"
+                            },
+                            {
+                                "url": "/episodio/74508/legendado",
+                                "title": "Dark Gathering",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42740_background.jpg?v=1689006457"
+                            },
+                            {
+                                "url": "/episodio/73809/dublado",
+                                "title": "Shy",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42804_background.jpg?v=1696015407"
+                            },
+                            {
+                                "url": "/episodio/74271/dublado",
+                                "title": "MF Ghost",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42812_background.jpg?v=1696107334"
+                            },
+                            {
+                                "url": "/episodio/74270/dublado",
+                                "title": "MF Ghost",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42812_background.jpg?v=1696107334"
+                            },
                             {
                                 "url": "/episodio/74507/legendado",
                                 "title": "Yu☆Gi☆Oh! Duel Monsters: Battle City Special",
@@ -173,41 +208,6 @@
                             },
                             {
                                 "url": "/episodio/73742/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/73489/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/73236/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/72889/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/72378/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/71599/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/71271/legendado",
-                                "title": "Goblin Slayer II",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
-                            },
-                            {
-                                "url": "/episodio/71108/legendado",
                                 "title": "Goblin Slayer II",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/19515_background.jpg?v=1696600613"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
