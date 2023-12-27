@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar pmApGBefk = \"\"; AuSWXjLV.forEach(function Oym(value) { pmApGBefk += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar FOoWIzktmN = \"\"; PfALzVJEC.forEach(function Oym(value) { FOoWIzktmN += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
@@ -538,23 +538,23 @@
         "name": "Seriesflix (ES)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: seriesflix.video: Temporary failure in name resolution",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: seriesflix.video",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: seriesflix.video",
                 "passed": false
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "java.net.UnknownHostException: seriesflix.video",
                 "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.UnknownHostException: seriesflix.video",
                 "passed": false
             }
         }

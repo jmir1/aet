@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-blue-racer",
+                                "title": "The Blue Racer",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933381.jpg"
+                            },
+                            {
                                 "url": "/anime/the-houndcats",
                                 "title": "The Houndcats",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933380.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/superkitties",
                                 "title": "Superkitties",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933366.jpg"
-                            },
-                            {
-                                "url": "/anime/challenge-of-the-superfriends",
-                                "title": "Challenge of the Superfriends 1978",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933365.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-houndcats",
-                    "title": "The Houndcats",
-                    "description": "A crack team of five specialists use daring to battle crime in this “Mission: Impossible” takeoff using animated animals.",
-                    "genre": "Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933380.jpg",
+                    "url": "/anime/the-blue-racer",
+                    "title": "The Blue Racer",
+                    "description": "Japanese Beetle helps the lonely Blue Racer make friends with humans. Beetle tries everything from making him a pet who can sing and do tricks, disguising him as a dog, and joining a hippie parade. However, all plans fail.",
+                    "genre": "Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933381.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-houndcats-episode-13-the-call-me-madame-x-mission",
-                        "name": "Season 1 - Episode 13",
-                        "episode_number": 113.0
-                    },
-                    {
-                        "url": "/the-houndcats-episode-12-is-there-a-doctor-in-the-greenhouse-mission",
-                        "name": "Season 1 - Episode 12",
-                        "episode_number": 112.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvxDStLdzPZcmR4z4LyUswdUJK4ExKGrLc4qb3qQoI7SzWnU0hQnsDZN9Ho_Af6t5PujoE6UE50WlOJSUSntCbGkMLqSc5fgkWKKwSECJtTX9vNRlQhZVKqnOFXISFx2W4JB4Z6ZbIJWNFoXul2S-NV2Ja7Ure9Mm8qa3pp_8aIyIZWxQv13Tz0V6zh6QlDbcYGtCuMbN-QwobJm6dXAoi7Fhf3Vl5Pt8Yk6OCiLEqCXETW2jcHScGWMcslWq_x5XEQI242r3yhAUZCga3j0mXd_MumF0Hv0FlTZpPCLuPDSvw5bxmLj5-C3Tzg7RGZL_1B_m_KKYRs_8bUJ9XVmutdCAdL_u1gv7bkOGm3tR0JQ",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvxDStLdzPZcmR4z4LyUswdUJK4ExKGrLc4qb3qQoI7SzWnU0hQnsDZN9Ho_Af6t5PujoE6UE50WlOJSUSntCbGkMLqSc5fgkWKKwSECJtTX9vNRlQhZVKqnOFXISFx2W4JB4Z6ZbIJWNFoXul2S-NV2Ja7Ure9Mm8qa3pp_8aIyIZWxQv13Tz0V6zh6QlDbcYGtCuMbN-QwobJm6dXAoi7Fhf3Vl5Pt8Yk6OCiLEqCXETW2jcHScGWMcslWq_x5XEQI242r3yhAUZCga3j0mXd_MumF0Hv0FlTZpPCLuPDSvw5bxmLj5-C3Tzg7RGZL_1B_m_KKYRs_8bUJ9XVmutdCAdL_u1gv7bkOGm3tR0JQ"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvxDStLdzPZcmR4z4LyUswdUJK4ExKGrLc4qb3qQoI7SzWnU0hQnsDZN9Ho_Af6t5PujoE6UE50WlOJSUSntCbGkMLqSc5fgkWKKwSECJtTXnyYEjbofHtBy_jqIpw7ngFvhkL2raTQxyFa7M-NzQKNZb1Yy66cSt3CSjceAo3zHNj4LDp8zjt-3ZHbeirgpwSEAJeH10AJoItweaxsp72Aa1zqTBWyearVJW-4S_WQnkqzeWePDXR1yIOs-qPBqv2lr__C6nl_tD4lAZ_QSVy9TQGpmCK1kaBgSbf9diItqoLqw6uqdrXrRFbL6HPT9HqJ9GSnRvh_12pQm--WBP2HPhf1OLLTTC1Z4tsST3BuH",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvxDStLdzPZcmR4z4LyUswdUJK4ExKGrLc4qb3qQoI7SzWnU0hQnsDZN9Ho_Af6t5PujoE6UE50WlOJSUSntCbGkMLqSc5fgkWKKwSECJtTXnyYEjbofHtBy_jqIpw7ngFvhkL2raTQxyFa7M-NzQKNZb1Yy66cSt3CSjceAo3zHNj4LDp8zjt-3ZHbeirgpwSEAJeH10AJoItweaxsp72Aa1zqTBWyearVJW-4S_WQnkqzeWePDXR1yIOs-qPBqv2lr__C6nl_tD4lAZ_QSVy9TQGpmCK1kaBgSbf9diItqoLqw6uqdrXrRFbL6HPT9HqJ9GSnRvh_12pQm--WBP2HPhf1OLLTTC1Z4tsST3BuH"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

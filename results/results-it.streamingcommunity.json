@@ -317,13 +317,33 @@
                     {
                         "animes": [
                             {
+                                "url": "7324-airport-security-animali",
+                                "title": "Airport security: animali",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/397e90d6-0602-4aa4-bdeb-30fb50bbfd42.webp"
+                            },
+                            {
+                                "url": "7323-airport-security-nord-europa",
+                                "title": "Airport Security: Nord Europa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/cfe98785-d8f6-4f17-8ef8-78d31a5d74b2.webp"
+                            },
+                            {
+                                "url": "7322-cucina-in-balcone-con-ruben",
+                                "title": "Cucina in balcone con Ruben",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6ba0d0d5-c097-4e5f-a93d-c169fcb4ae89.webp"
+                            },
+                            {
+                                "url": "7321-mean-girls-2",
+                                "title": "Mean Girls 2",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/39f4c8e8-b247-4fb6-815c-082911abcebd.webp"
+                            },
+                            {
                                 "url": "7320-black-sun",
                                 "title": "仮面ライダーBLACK SUN",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/51aa5b17-3aec-4077-b373-d17732110bc6.webp"
                             },
                             {
-                                "url": "7319-a-tale-of-two-sisters",
-                                "title": "A Tale of Two Sisters",
+                                "url": "7319-two-sisters",
+                                "title": "Two Sisters",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/91187528-e2b1-4d08-97f3-9717af862e16.webp"
                             },
                             {
@@ -595,26 +615,6 @@
                                 "url": "7259-digman",
                                 "title": "Digman!",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/421467bc-e4f3-4f44-90e7-d971c652ccd0.webp"
-                            },
-                            {
-                                "url": "7258-escaping-twin-flames-in-fuga-dallamore-eterno",
-                                "title": "Escaping Twin Flames: in fuga dall'amore eterno",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/abeca828-3c53-4335-a0d2-2b3f456fba9b.webp"
-                            },
-                            {
-                                "url": "7257-hack-my-home",
-                                "title": "Hack My Home",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e9712107-5508-4ef9-b70c-719ee9225290.webp"
-                            },
-                            {
-                                "url": "7256-the-devils-plan",
-                                "title": "The Devil’s Plan",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ac02b075-b3d8-4e22-b064-1b72c066d36e.webp"
-                            },
-                            {
-                                "url": "7254-capitano-fall",
-                                "title": "Capitano Fall",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1b7fe6f0-c047-4673-b4e0-f57134aa7bc9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-311457319366514358/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-311457319366514358/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-311457319366514358/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-311457319366514358/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

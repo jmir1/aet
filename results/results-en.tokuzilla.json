@@ -172,8 +172,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: chillx.top: Name or service not known",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls28-eu.zcdn.stream/e2d1d54d2910d8ca276cd3c10f1f52c3/2023-12-23/480.m3u8?token=8c5b85e4e64a00b6361ab54371465d97&client=d41d8cd98f00b204e9800998ecf8427e&expires=1703665819&type=edge&node=ltgalHfuTBxLNEHYNE-K6YqOjwYRuQ6AR7sivGt0o-jeEtTjB4N8oYqi71l2eBMnYs2XSPBlIeaRQFeAuoD6hWjmXhC4pjw_bTI-3ckLQECPB20BiEufp8CbP5hGKP9XEHsPhR1Y_t93R0EfNVQjZ3CP19XBUFNrCA8NfB_1liYXcpkO6bBaJq0fzXT37skg",
+                        "quality": "Chillx - 480p",
+                        "videoUrl": "https://hls28-eu.zcdn.stream/e2d1d54d2910d8ca276cd3c10f1f52c3/2023-12-23/480.m3u8?token=8c5b85e4e64a00b6361ab54371465d97&client=d41d8cd98f00b204e9800998ecf8427e&expires=1703665819&type=edge&node=ltgalHfuTBxLNEHYNE-K6YqOjwYRuQ6AR7sivGt0o-jeEtTjB4N8oYqi71l2eBMnYs2XSPBlIeaRQFeAuoD6hWjmXhC4pjw_bTI-3ckLQECPB20BiEufp8CbP5hGKP9XEHsPhR1Y_t93R0EfNVQjZ3CP19XBUFNrCA8NfB_1liYXcpkO6bBaJq0fzXT37skg",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerx.stream",
+                            "Referer": "https://playerx.stream/v/IXRZAT3p46T6/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
