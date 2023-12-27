@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/majo-minarai-wo-sagashite-sub-espanol",
+                                "title": "Majo Minarai wo Sagashite",
+                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/majo-minarai-wo-sagashite-1703665188.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/jashin-chan-dropkick-seikimatsu-hen-sub-espanol",
                                 "title": "Jashin-chan Dropkick \"Seikimatsu-hen\"",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/jashin-chan-dropkick-seikimatsu-hen-1703613225.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/fairies-albums-s1-sub-espanol",
                                 "title": "Fairies Album S1",
                                 "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/fairies-albums-s1-1697928075.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/bikkurimen-sub-espanol",
-                                "title": "Bikkurimen",
-                                "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/bikkurimen-1697778910.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,69 +324,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/jashin-chan-dropkick-seikimatsu-hen-sub-espanol",
-                    "title": "Jashin-chan Dropkick \"Seikimatsu-hen\"",
-                    "description": "Los objetos que caen del espacio han reducido a Jinbouchou a ruinas. Jashin-chan, guiado por las estrellas, se dirige al sur para derrotar a Yurine Hanazono, la gobernante de esta violenta ciudad. Cuando llega a Takamori, al pie de la hermosa cordill...",
-                    "genre": "Comedia, Sobrenatural",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/jashin-chan-dropkick-seikimatsu-hen-1703613225.jpg?v=1.5",
+                    "url": "/anime/majo-minarai-wo-sagashite-sub-espanol",
+                    "title": "Majo Minarai wo Sagashite",
+                    "description": "Tres mujeres que crecieron viendo la serie “La mágica Do-Re-Mi” se embarcan juntas en un viaje mágico que cambiará sus vidas. Sora de Nagoya, Mire de Tokio y Reika de Onomichi son tres mujeres que aparentemente no tienen nada en común, ni eda...",
+                    "genre": "Comedia, Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://monoschinos2.com/thumbs/imagen/majo-minarai-wo-sagashite-1703665188.jpg?v=1.5",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/jashin-chan-dropkick-seikimatsu-hen-episodio-1",
-                        "name": "Episodio 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=3&sig=bD6WLxQ1WyI&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=3&sig=bD6WLxQ1WyI&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541"
-                    },
-                    {
-                        "url": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=3&sig=bD6WLxQ1WyI&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541",
-                        "quality": "Okru:720p",
-                        "videoUrl": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=3&sig=bD6WLxQ1WyI&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541"
-                    },
-                    {
-                        "url": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=2&sig=JCLTHTy47RY&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541",
-                        "quality": "Okru:480p",
-                        "videoUrl": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=2&sig=JCLTHTy47RY&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541"
-                    },
-                    {
-                        "url": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=1&sig=dYJlst76wKw&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541",
-                        "quality": "Okru:360p",
-                        "videoUrl": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=1&sig=dYJlst76wKw&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541"
-                    },
-                    {
-                        "url": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=0&sig=u5uLOXfZNho&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541",
-                        "quality": "Okru:240p",
-                        "videoUrl": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=0&sig=u5uLOXfZNho&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541"
-                    },
-                    {
-                        "url": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=4&sig=NaXBVrqvYTo&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd466.mycdn.me/?expires=1703743811869&srcIp=52.159.137.226&pr=10&srcAg=GECKO&ms=185.226.52.80&type=4&sig=NaXBVrqvYTo&ct=0&urls=45.136.21.35&clientType=0&zs=43&id=6103058090541"
-                    },
-                    {
-                        "url": "https://m50.uqload.io/3rfkpdcwsnw2q4drdjzpv4xykkwxncnvx2nlbgir6gjjcthsf3fmsggdzzkq/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m50.uqload.io/3rfkpdcwsnw2q4drdjzpv4xykkwxncnvx2nlbgir6gjjcthsf3fmsggdzzkq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
