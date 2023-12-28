@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7334-cake-star-pasticcerie-in-sfida",
+                                "title": "Cake star - Pasticcerie in sfida",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d5dfed39-9193-4bbb-8e0e-b17be9aabcd0.webp"
+                            },
+                            {
+                                "url": "7333-airport-security-spagna",
+                                "title": "Airport Security: Spagna",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f011884b-3ed9-466d-9fa4-c8f5e92a49f3.webp"
+                            },
+                            {
                                 "url": "7332-spie-al-ristorante",
                                 "title": "Spie al ristorante",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5d8bf081-be1d-47b0-ae7b-e0678349abb9.webp"
@@ -605,16 +615,6 @@
                                 "url": "7268-frasier",
                                 "title": "Frasier",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/724aa0b0-03cc-4f8a-8af4-37a7a3f48db2.webp"
-                            },
-                            {
-                                "url": "7267-vesper",
-                                "title": "Vesper",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b9d1a35b-c356-43f8-a7c1-fb0bd88b2620.webp"
-                            },
-                            {
-                                "url": "7266-la-figlia-del-prigioniero",
-                                "title": "La figlia del prigioniero",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1aa99604-303a-49ea-8ca8-b87b3f0e8753.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14142807618093334136/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14142807618093334136/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14142807618093334136/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14142807618093334136/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

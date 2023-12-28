@@ -598,31 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=4E95I4TQRN1hLOZ2Tc1BzA&e=1703765363&_t=1703749751",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=4E95I4TQRN1hLOZ2Tc1BzA&e=1703765363&_t=1703749751",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=mGP_BB5xSN9oBbk6LGJZ9A&e=1703765364&_t=1703751920",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=mGP_BB5xSN9oBbk6LGJZ9A&e=1703765364&_t=1703751920",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "passed": false
             }
         }
     }
