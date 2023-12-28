@@ -267,6 +267,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/firefighter-daigo-rescuer-in-orange.24068/",
+                                "title": "Firefighter Daigo: Rescuer in Orange",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Firefighter-Daigo-Rescuer-in-Orange.jpg"
+                            },
+                            {
+                                "url": "/Anime/16bit-Sensation-Another-Layer/",
+                                "title": "16bit Sensation: Another Layer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/16bit-Sensation-Another-Layer.jpg"
+                            },
+                            {
+                                "url": "/Anime/Uma-Musume-Pretty-Derby-Season-3/",
+                                "title": "Uma Musume: Pretty Derby Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Uma-Musume-Pretty-Derby-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2/",
+                                "title": "Heaven Official's Blessing Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2.jpg"
+                            },
+                            {
                                 "url": "/Anime/Odekake-Kozame/",
                                 "title": "A Little Shark Going Out",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
@@ -495,26 +515,6 @@
                                 "url": "/Anime/Pokemon-Horizons-The-Series/",
                                 "title": "Pokémon Horizons: The Series",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Pokemon-Horizons-The-Series.jpg"
-                            },
-                            {
-                                "url": "/Anime/Undead-Unluck/",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Undead-Unluck.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Kingdoms-of-Ruin/",
-                                "title": "The Kingdoms of Ruin",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Kingdoms-of-Ruin.jpg"
-                            },
-                            {
-                                "url": "/Anime/HYPNOSISMIC-Division-Rap-Battle-Rhyme-Anima-PLUS/",
-                                "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/HYPNOSISMIC-Division-Rap-Battle-Rhyme-Anima-PLUS.jpg"
-                            },
-                            {
-                                "url": "/Anime/frieren-beyond-journeys-end.11511/",
-                                "title": "Frieren: Beyond Journey’s End",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
