@@ -11,14 +11,11 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "description": "\n\n",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "passed": false
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
                 "passed": false
             },
             "videos": {

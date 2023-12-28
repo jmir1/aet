@@ -287,31 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv06.dropload.io/hls2/01/00100/khzu60a55m13_h/https://srv06.dropload.io/hls2/01/00100/khzu60a55m13_h/index-v1-a1.m3u8?t=067XZZ5nm0gYuu0SfB50YcD7Kka17AMLPz32kGd25YM&s=1703765486&e=21600&f=504459&i=20.55&sp=0",
-                        "quality": "Dropload:400p ",
-                        "videoUrl": "https://srv06.dropload.io/hls2/01/00100/khzu60a55m13_h/https://srv06.dropload.io/hls2/01/00100/khzu60a55m13_h/index-v1-a1.m3u8?t=067XZZ5nm0gYuu0SfB50YcD7Kka17AMLPz32kGd25YM&s=1703765486&e=21600&f=504459&i=20.55&sp=0",
-                        "headers": {
-                            "origin": "https://dropload.io",
-                            "referer": "https://dropload.io/"
-                        }
-                    },
-                    {
-                        "url": "https://s-delivery51.mxdcontent.net/v/241a5b9cc05423ff19956e4574589f84.mp4?s=rCnLy9BHhPWYRGxIBX0OnQ&e=1703787088&_t=1703768125",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery51.mxdcontent.net/v/241a5b9cc05423ff19956e4574589f84.mp4?s=rCnLy9BHhPWYRGxIBX0OnQ&e=1703787088&_t=1703768125",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=XjZ8kZ6WZ2UPlg&expires=1703835488&ip=FROsE0MnDS9X&token=G2keTZbJ0FVV",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=XjZ8kZ6WZ2UPlg&expires=1703835488&ip=FROsE0MnDS9X&token=G2keTZbJ0FVV"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }

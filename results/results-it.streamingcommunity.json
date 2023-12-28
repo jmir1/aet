@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7336-enzo-jannacci-vengo-anchio",
+                                "title": "Enzo Jannacci - Vengo anch'io",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9e3f8aad-e131-4881-98e0-422071cea1be.webp"
+                            },
+                            {
+                                "url": "7335-elon-musk-il-mondo-ai-miei-piedi",
+                                "title": "Elon Musk – Il mondo ai miei piedi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/80fdb43c-eab4-4fd7-bf27-854980ed1bb3.webp"
+                            },
+                            {
                                 "url": "7334-cake-star-pasticcerie-in-sfida",
                                 "title": "Cake star - Pasticcerie in sfida",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d5dfed39-9193-4bbb-8e0e-b17be9aabcd0.webp"
@@ -605,16 +615,6 @@
                                 "url": "7270-marcelo-martello-marshmallow",
                                 "title": "Marcelo, Martello, Marshmallow",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ac8a1777-99a5-4d52-905d-717f6d6caa4a.webp"
-                            },
-                            {
-                                "url": "7269-la-chimica-della-morte",
-                                "title": "La chimica della morte",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1e6aa766-0a08-4b7d-9eea-1b1320e62094.webp"
-                            },
-                            {
-                                "url": "7268-frasier",
-                                "title": "Frasier",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/724aa0b0-03cc-4f8a-8af4-37a7a3f48db2.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14142807618093334136/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14142807618093334136/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14142807618093334136/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14142807618093334136/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16459620485050645229/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16459620485050645229/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16459620485050645229/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16459620485050645229/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

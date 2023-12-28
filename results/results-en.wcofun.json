@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/pokemon-concierge-english-subbed",
+                                "title": "Pokemon Concierge English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933385.jpg"
+                            },
+                            {
+                                "url": "/anime/pokemon-concierge",
+                                "title": "Pokemon Concierge",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933384.jpg"
+                            },
+                            {
+                                "url": "/anime/the-drakers",
+                                "title": "The Drakers",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933383.jpg"
+                            },
+                            {
                                 "url": "/anime/the-dogfather-1974",
                                 "title": "The Dogfather 1974",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933382.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/teletubbies-2022",
                                 "title": "Teletubbies (2022)",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933370.jpg"
-                            },
-                            {
-                                "url": "/anime/tee-and-mo",
-                                "title": "Tee and Mo",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933369.jpg"
-                            },
-                            {
-                                "url": "/anime/tara-duncan-2021",
-                                "title": "Tara Duncan (2021)",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933368.jpg"
-                            },
-                            {
-                                "url": "/anime/supernatural-academy",
-                                "title": "Supernatural Academy",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933367.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-dogfather-1974",
-                    "title": "The Dogfather 1974",
-                    "description": "The Dogfather was a series of 17 cartoons produced by DePatie-Freleng Enterprises and released between 1974 and 1976. It is the final theatrical cartoon series made by DePatie-Freleng.",
-                    "genre": "Comedy, Short, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933382.jpg",
+                    "url": "/anime/pokemon-concierge-english-subbed",
+                    "title": "Pokemon Concierge English Subbed",
+                    "description": "Follow the story of Haru, a concierge at the Pokémon Resort, and her interactions with Pokémon and their owners who visit as guests.",
+                    "genre": "Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933385.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-dogfather-1974-episode-17-medicur",
-                        "name": "Season 1 - Episode 17",
-                        "episode_number": 117.0
-                    },
-                    {
-                        "url": "/the-dogfather-1974-episode-16-rockhounds",
-                        "name": "Season 1 - Episode 16",
-                        "episode_number": 116.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP0uNvIk2PlRhCS5Xsy8C90JY_sOx0bKdYFGlISZxqOVEJdYa8m2MLO1FK9uqJxEohtapQX7Xr27VM7Xf_LvvIWR0FjjVQTcZHTIblEx_krb53fijW9PWgS1Z1R61jKcjClMJbOQCYNibC7s3AnLjNYbxi_HRasnE3ycfzkh6en5b-cEUB7erGc_qGdprSSMMYCd-G1lTvo2vpEpKt0Iw3g4YBYup58NPfFz9U9XgsTtNqDjTB8m20dE75pBhJOsTe",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP0uNvIk2PlRhCS5Xsy8C90JY_sOx0bKdYFGlISZxqOVEJdYa8m2MLO1FK9uqJxEohtapQX7Xr27VM7Xf_LvvIWR0FjjVQTcZHTIblEx_krb53fijW9PWgS1Z1R61jKcjClMJbOQCYNibC7s3AnLjNYbxi_HRasnE3ycfzkh6en5b-cEUB7erGc_qGdprSSMMYCd-G1lTvo2vpEpKt0Iw3g4YBYup58NPfFz9U9XgsTtNqDjTB8m20dE75pBhJOsTe"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP1SDGZpyr29Jh-bYDGiRX9hT9qrMPUXk3sBgfkkaLo3uEeJAD3qVVNqbvCUpMItZVsEnnXxkpyqRVml71X8x02fLHV9l01FzgV9YEdJ2c1VYc5jAJKusmd28q8UmVzcpUZHWnGBCrmWZ-Ln1_KgBy1Q3NwEb2GcB1bEYf6qcQLsAZM7OqZQqTtsEDE20ryYHMfLKvsZ9CWWUqwE2FeZAZQuDWVhSML5E1SCWERtChnc7AddNT1BIgJL3ynGjhfKA6",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP1SDGZpyr29Jh-bYDGiRX9hT9qrMPUXk3sBgfkkaLo3uEeJAD3qVVNqbvCUpMItZVsEnnXxkpyqRVml71X8x02fLHV9l01FzgV9YEdJ2c1VYc5jAJKusmd28q8UmVzcpUZHWnGBCrmWZ-Ln1_KgBy1Q3NwEb2GcB1bEYf6qcQLsAZM7OqZQqTtsEDE20ryYHMfLKvsZ9CWWUqwE2FeZAZQuDWVhSML5E1SCWERtChnc7AddNT1BIgJL3ynGjhfKA6"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
