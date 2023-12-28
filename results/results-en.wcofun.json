@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-dogfather-1974-episode-17-medicur",
+                        "name": "Season 1 - Episode 17",
+                        "episode_number": 117.0
+                    },
+                    {
+                        "url": "/the-dogfather-1974-episode-16-rockhounds",
+                        "name": "Season 1 - Episode 16",
+                        "episode_number": 116.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP0uNvIk2PlRhCS5Xsy8C90JY_sOx0bKdYFGlISZxqOVEJdYa8m2MLO1FK9uqJxEohtapQX7Xr27VM7Xf_LvvIWR0FjjVQTcZHTIblEx_krb53fijW9PWgS1Z1R61jKcjClMJbOQCYNibC7s3AnLjNYdM0VlOD5hW8o1ygWO6c8rsiociSJClhLYTxHNCKDK-Qpvc3gPd3ZvoBI9eMBNRFIdhG5SL3DIwIkjfgzmLUY8nNynccNVZXLWxVJmTQo9PA",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP0uNvIk2PlRhCS5Xsy8C90JY_sOx0bKdYFGlISZxqOVEJdYa8m2MLO1FK9uqJxEohtapQX7Xr27VM7Xf_LvvIWR0FjjVQTcZHTIblEx_krb53fijW9PWgS1Z1R61jKcjClMJbOQCYNibC7s3AnLjNYdM0VlOD5hW8o1ygWO6c8rsiociSJClhLYTxHNCKDK-Qpvc3gPd3ZvoBI9eMBNRFIdhG5SL3DIwIkjfgzmLUY8nNynccNVZXLWxVJmTQo9PA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP1SDGZpyr29Jh-bYDGiRX9hT9qrMPUXk3sBgfkkaLo3uEeJAD3qVVNqbvCUpMItZVsEnnXxkpyqRVml71X8x02fLHV9l01FzgV9YEdJ2c1VYc5jAJKusmd28q8UmVzcpUZHWnGBCrmWZ-Ln1_KgBy1WGbr-0404a463oeZ_w6LiYUdB3qbPm4wvm3PqGIIhgCbewudVWgjQr7zsUkX7psMY0GKhUr4kkHME0Ku-hOhl6Hr8AyCbBqdU-WEzqgy9Gj",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJochd1k3XvJMdZoY7g5gD3XjEpzqZ8-13qFZrltk4-ur2o_LVIwlFc4ea2u_CU8gtDjDy6wtH84xqR8nYnpLY1T8KAb6Bl3BYZWMkTQkmvOP1SDGZpyr29Jh-bYDGiRX9hT9qrMPUXk3sBgfkkaLo3uEeJAD3qVVNqbvCUpMItZVsEnnXxkpyqRVml71X8x02fLHV9l01FzgV9YEdJ2c1VYc5jAJKusmd28q8UmVzcpUZHWnGBCrmWZ-Ln1_KgBy1WGbr-0404a463oeZ_w6LiYUdB3qbPm4wvm3PqGIIhgCbewudVWgjQr7zsUkX7psMY0GKhUr4kkHME0Ku-hOhl6Hr8AyCbBqdU-WEzqgy9Gj"
+                    }
+                ],
+                "passed": true
             }
         }
     }

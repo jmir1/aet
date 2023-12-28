@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "7332-spie-al-ristorante",
+                                "title": "Spie al ristorante",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5d8bf081-be1d-47b0-ae7b-e0678349abb9.webp"
+                            },
+                            {
+                                "url": "7331-star-wars-young-jedi-adventures",
+                                "title": "Star Wars: Young Jedi Adventures",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b05e9b44-1476-4dee-a7f1-4f73f385183a.webp"
+                            },
+                            {
+                                "url": "7330-prank-and-the-city",
+                                "title": "Prank And The City",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a725f8fd-6786-4bc7-af91-0ac2f17d2802.webp"
+                            },
+                            {
+                                "url": "7329-i-soliti-idioti",
+                                "title": "I soliti idioti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/0eeb902a-9fae-4c0e-a42c-4d660ee2c1aa.webp"
+                            },
+                            {
                                 "url": "7328-cattiva-coscienza",
                                 "title": "Cattiva coscienza",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/50b9d719-435b-41c8-8973-958656fb5f79.webp"
@@ -595,26 +615,6 @@
                                 "url": "7266-la-figlia-del-prigioniero",
                                 "title": "La figlia del prigioniero",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1aa99604-303a-49ea-8ca8-b87b3f0e8753.webp"
-                            },
-                            {
-                                "url": "7265-joe-pickett",
-                                "title": "Joe Pickett",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3780ac26-72ae-47c7-9426-d2e5a3013734.webp"
-                            },
-                            {
-                                "url": "7264-the-old-way",
-                                "title": "The Old Way",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c424597f-43b7-4530-8f5d-52d67c0c4dec.webp"
-                            },
-                            {
-                                "url": "7263-the-ambush",
-                                "title": "The Ambush",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8359d254-8060-4843-8c89-0dfd8d878b2f.webp"
-                            },
-                            {
-                                "url": "7262-the-tourist",
-                                "title": "The Tourist",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/21c52309-e6c8-4ce5-99b3-c4bf8d8b8ac3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7300\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-18010616831411650050/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-18010616831411650050/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-18010616831411650050/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-18010616831411650050/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

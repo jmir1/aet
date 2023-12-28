@@ -977,18 +977,18 @@
                 "passed": true
             },
             "episodes": {
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "videos": {
                 "result": [
                     {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=695721&name=Die Tribute von Panem: Das Lied von Vogel und Schlange&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true
-            },
-            "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
             }
         }
     }
