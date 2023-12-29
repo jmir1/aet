@@ -177,6 +177,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/tot-begraben",
+                                "title": "Tot & begraben",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/tot-begraben.jpg"
+                            },
+                            {
+                                "url": "/stream/polder-tokyo-heidi",
+                                "title": "Polder - Tokyo Heidi",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/polder-tokyo-heidi.jpg"
+                            },
+                            {
+                                "url": "/stream/das-geheimnis-des-grunen-hugels",
+                                "title": "Das Geheimnis des grünen Hügels",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/das-geheimnis-des-grunen-hugels.jpg"
+                            },
+                            {
                                 "url": "/stream/fargo-s05e07",
                                 "title": "Fargo S05E07",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/fargo-s05e07.jpg"
@@ -320,21 +335,6 @@
                                 "url": "/stream/rebel-moon-teil-1-kind-des-feuers",
                                 "title": "Rebel Moon Teil 1: Kind des Feuers",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/rebel-moon-teil-1-kind-des-feuers.jpg"
-                            },
-                            {
-                                "url": "/stream/saltburn",
-                                "title": "Saltburn",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/saltburn.jpg"
-                            },
-                            {
-                                "url": "/stream/the-hyperions-die-superheldenakademie",
-                                "title": "The Hyperions - Die Superheldenakademie",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/the-hyperions-die-superheldenakademie.jpg"
-                            },
-                            {
-                                "url": "/stream/monarch-legacy-of-monsters-s01e07",
-                                "title": "Monarch - Legacy of Monsters S01E07",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/monarch-legacy-of-monsters-s01e07.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,22 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://c1.flyeyes.pics/hls/n5ajr7y2y5mne42h4wcalfbhqrvabycj7v3mrxb6d,lapyfp2fm3ujplabfga,qepyfp2fm33yrnpmabq,.urlset/master.m3u8",
+                        "quality": "StreamVid",
+                        "videoUrl": "https://c1.flyeyes.pics/hls/n5ajr7y2y5mne42h4wcalfbhqrvabycj7v3mrxb6d,lapyfp2fm3ujplabfga,qepyfp2fm33yrnpmabq,.urlset/master.m3u8"
+                    },
+                    {
+                        "url": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=VhMTclr1QSqflcqengEW9evRHTDISG8Q8y67A0Xofog&s=1703809559&e=43200&f=11188495&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=VhMTclr1QSqflcqengEW9evRHTDISG8Q8y67A0Xofog&s=1703809559&e=43200&f=11188495&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

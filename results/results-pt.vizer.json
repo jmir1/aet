@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/a-concierge-pokemon",
+                                "title": "A Concierge Pokémon",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22561.webp"
+                            },
+                            {
                                 "url": "/serie/online/what-if-",
                                 "title": "E Se...?",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Homens da Lei: Bass Reeves",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-crown",
-                                "title": "The Crown",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4336.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
