@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/its-a-wonderful-knife/",
+                                "title": "It's a Wonderful Knife",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7EuAyhpEZFHh36RadRAddnDiuXq.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-marsh-kings-daughter/",
+                                "title": "The Marsh King's Daughter",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/jDM6mYkvO2LY1jk8HfJq0AZ3UyFJxEnG8Z.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-drop/",
                                 "title": "The Drop",
                                 "description": "",
@@ -233,18 +245,6 @@
                                 "title": "El Misterio del Bosque",
                                 "description": "Anja Grimm regresa a la remota zona forestal donde su padre desapareció sin dejar rastro cuando ell...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/MfIywTwd6TcTvcPpuQtxSqXHK.webp"
-                            },
-                            {
-                                "url": "/pelicula/theres-something-in-the-barn-zzrl/",
-                                "title": "There's Something in the Barn",
-                                "description": "Una familia estadounidense cumple su sueño de regresar después de heredar una remota cabaña en la...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/BiUJ8knaCNFqeIGzGQ0P43ROQJqWKBIcJsLIDZI.webp"
-                            },
-                            {
-                                "url": "/pelicula/pelicula-71-zdjy/",
-                                "title": "’71",
-                                "description": "En 1971, un joven y desorientado soldado británico llamado Yann Demange, se extravía tras un motí...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yPIEcgD6zhznA5Ruq0It.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-drop/",
-                    "title": "The Drop",
+                    "url": "/pelicula/its-a-wonderful-knife/",
+                    "title": "It's a Wonderful Knife",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Comedia, Suspense, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-drop/",
+                        "url": "/pelicula/its-a-wonderful-knife/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar vPYtIxxel = \"\"; sbVanGMtE.forEach(function Oym(value) { vPYtIxxel += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar eTBLBtXRmW = \"\"; WOnkptT.forEach(function Oym(value) { eTBLBtXRmW += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

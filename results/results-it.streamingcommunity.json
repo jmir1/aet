@@ -327,11 +327,6 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e0349e4-223c-4a00-a7ed-fe9c0424cacf.webp"
                             },
                             {
-                                "url": "7353-lora-del-diavolo",
-                                "title": "L'ora del diavolo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fa826a51-1500-4797-aa61-6eec7f444460.webp"
-                            },
-                            {
                                 "url": "7352-wanted",
                                 "title": "Wanted",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/8de69599-badd-4e94-a3a2-5fcd95721bec.webp"
@@ -339,7 +334,7 @@
                             {
                                 "url": "7351-split",
                                 "title": "SPLIT",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7c623b10-bb27-4501-b87e-4b7f142da7ee.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/dbdd13f6-2ac3-499f-bd08-80989e5bf5a2.webp"
                             },
                             {
                                 "url": "7350-crank-high-voltage",
@@ -615,6 +610,11 @@
                                 "url": "7292-deadwood",
                                 "title": "Deadwood",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c1d704ab-b190-4b02-bcc0-2bd28f31c6ab.webp"
+                            },
+                            {
+                                "url": "7291-star-trek-prodigy",
+                                "title": "Star Trek: Prodigy",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c7315a1e-2166-41a8-a310-00128de804df.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -942,11 +942,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "6979?e=48032",
+                        "name": "Stagione 1 episodio 8 - Un elefante in via d'estinzione",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "6979?e=48031",
+                        "name": "Stagione 1 episodio 7 - L'ultima vergine dell'Occidente",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-13010932508976529995/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-13010932508976529995/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-13010932508976529995/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-13010932508976529995/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

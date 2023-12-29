@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/berlin/",
+                                "title": "Berlín",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/nadie-es-perfecto/",
                                 "title": "Nadie es perfecto",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/the-convict/",
-                                "title": "The Convict",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/joran-the-princess-of-snow-and-blood/",
-                                "title": "Joran The Princess of Snow and Blood",
+                                "url": "/honour/",
+                                "title": "Honour",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/rehenes/",
-                                "title": "Rehenes",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/aLMH6RQnVgyAj4Avw08tCxiADr1.jpg"
+                                "url": "/dont-look-deeper/",
+                                "title": "Don't Look Deeper",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/v1bZu7mjkiDwTweN7S98pUB3hEm.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,10 +134,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/nadie-es-perfecto/",
-                    "title": "Nadie es perfecto",
-                    "description": "Not So Pretty Una investigación sobre la industria de la belleza.",
-                    "genre": "Documental",
+                    "url": "/berlin/",
+                    "title": "Berlín",
+                    "description": "La casa de papel: Berlín En sus días de gloria, Berlín y una banda de ladrones se reunieron en París para ejecutar un ambicioso golpe: robar 44 millones de euros en joyas en una noche.",
+                    "genre": "Action & Adventure, Crimen, Drama",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
@@ -146,16 +146,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/nadie-es-perfecto-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - Episodio 4",
-                        "date_upload": 1649894400000,
-                        "episode_number": 4.0
+                        "url": "/episode/berlin-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Un elefante en peligro de extinción",
+                        "date_upload": 1703808000000,
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/nadie-es-perfecto-temporada-1-capitulo-3/",
-                        "name": "T01 - E03 - Episodio 3",
-                        "date_upload": 1649894400000,
-                        "episode_number": 3.0
+                        "url": "/episode/berlin-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - La última virgen de occidente",
+                        "date_upload": 1703808000000,
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
