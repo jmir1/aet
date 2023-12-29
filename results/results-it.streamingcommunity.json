@@ -12,6 +12,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/463c2411-510c-407e-80e4-4bb102f5ed19.webp"
                             },
                             {
+                                "url": "7356-raffa",
+                                "title": "Raffa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9607d16b-3516-4357-8b66-15bd2cf77be1.webp"
+                            },
+                            {
                                 "url": "7300-grazie-e-scusa",
                                 "title": "Grazie. E scusa.",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/efbfb189-2281-4549-b17b-40f08652c4ef.webp"
@@ -300,11 +305,6 @@
                                 "url": "6898-squid-game-la-sfida",
                                 "title": "Squid Game: La sfida",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9adcd12c-7084-4bbc-b3f6-ccf08bd20d77.webp"
-                            },
-                            {
-                                "url": "6901-fallimento",
-                                "title": "Fallimento",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7ac084d9-d9ff-4a6e-9d13-2ea8cbe442c0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-13010932508976529995/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-13010932508976529995/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-13010932508976529995/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-13010932508976529995/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16095712150614759490/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16095712150614759490/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16095712150614759490/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16095712150614759490/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

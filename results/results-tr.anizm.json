@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/jujutsu-kaisen-2nd-season-23-bolum-final",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941.webp"
+                            },
+                            {
                                 "url": "/ragna-crimson",
                                 "title": "Ragna Crimson",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301.webp"
@@ -45,11 +50,6 @@
                                 "url": "/goblin-slayer-ii-12-bolum-final",
                                 "title": "Goblin Slayer II",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180490001696609382.webp"
-                            },
-                            {
-                                "url": "/jujutsu-kaisen-2nd-season",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941.webp"
                             },
                             {
                                 "url": "/tate-no-yuusha-no-nariagari-season-3-12-bolum-final",
@@ -96,6 +96,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/jujutsu-kaisen-2nd-season-23-bolum-final",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/179820001688660941.webp"
+                            },
+                            {
+                                "url": "/pokemon-concierge-4-bolum-final",
+                                "title": "Pokemon Concierge",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180970001703854021.webp"
+                            },
                             {
                                 "url": "/ragna-crimson",
                                 "title": "Ragna Crimson",
@@ -175,16 +185,6 @@
                                 "url": "/boushoku-no-berserk-12-bolum-final",
                                 "title": "Boushoku no Berserk",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180760001698961141.webp"
-                            },
-                            {
-                                "url": "/kusuriya-no-hitorigoto",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180680001698001141.webp"
-                            },
-                            {
-                                "url": "/kusuriya-no-hitorigoto",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180680001698001141.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -353,130 +353,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/ragna-crimson",
-                    "title": "Ragna Crimson",
-                    "artist": "SILVER LINK.",
-                    "description": "Ejderhaların gökyüzüne, denize ve karaya hükmettiği bir dünyada, onlarla savaşıp kazanmak isteyenlerin normal insan gücünün sınırlarını aşması gerekir. Ne pahasına olursa olsun zafere ulaşmak isteyen ejderha avcısı Ragna, gizemli Crimson ile güçlerini birleştirir. Crimson'ın motivasyonları belirsiz olabilir ama amaçları aynıdır: Ejderha hükümdarlarını yok etmek.\nDiğer adlar: \nJaponca İsmi: ラグナクリムゾン\nStüdyo: SILVER LINK.",
-                    "genre": "Aksiyon, Fantastik",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301l.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ragna-crimson-12-bolum",
-                        "name": "12. Bölüm",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/ragna-crimson-11-bolum",
-                        "name": "11. Bölüm",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/t86zq9kqjwoy",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-wloai1tokrifgjb6.voe-network.net/engine/hls2-c/01/10175/8ozc3krk2bjg_,n,.urlset/master.m3u8?t=aPnYj9IHEtrts5MsLBOaPwty6jCKPpUKmrFrVWlR5xk&s=1703851834&e=14400&f=50877080&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.97&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/8ozc3krk2bjg",
-                        "quality": "[Holy] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-wloai1tokrifgjb6.voe-network.net/engine/hls2-c/01/10175/8ozc3krk2bjg_,n,.urlset/master.m3u8?t=aPnYj9IHEtrts5MsLBOaPwty6jCKPpUKmrFrVWlR5xk&s=1703851834&e=14400&f=50877078&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=20.97&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=3&sig=uSJ128rN_DE&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278",
-                        "quality": "[Holy] Okru:720p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=3&sig=uSJ128rN_DE&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/ZjVqTVJ6b1ZxSjAwN1g0NVB1dm9HdzRWclB5dS9Xd0gxdHhpdFlBVG5PK0ZsTHV0dlFxVXE5VW8rRDU5SW1yTnBRbDRoUmN4cVROT01YWVd5M1p4WVZoQ2tvZDBvSWlLYjVwOGFOOFV6OFN0ZGtxUW5YTkxpV1cvbDVzL1RlR2ZrOVFPK2JvZVJpaHpNem45WmlkTzBwUzlpNm1Fc0lCZWwyUjFDelpmekhoWlZ5S3NrOGtDZFBEMFU0ZndrVjFoejdvcVVsQUY5dm9vb1FCanZKR3J2ZXlIaHNUYXdJdG8xVzl2dHdEaUpmbEhEOVl5OVlXQ0ZCdExiQ1FCQktyRjluMFdneUFua3JWcnlMNHg5MnBQb3ZJUHBpSTlUYkFQZUxma3BFVGNzdUU9",
-                        "quality": "[Holy] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/ZjVqTVJ6b1ZxSjAwN1g0NVB1dm9HdzRWclB5dS9Xd0gxdHhpdFlBVG5PK0ZsTHV0dlFxVXE5VW8rRDU5SW1yTnBRbDRoUmN4cVROT01YWVd5M1p4WVZoQ2tvZDBvSWlLYjVwOGFOOFV6OFN0ZGtxUW5YTkxpV1cvbDVzL1RlR2ZrOVFPK2JvZVJpaHpNem45WmlkTzBwUzlpNm1Fc0lCZWwyUjFDelpmekhoWlZ5S3NrOGtDZFBEMFU0ZndrVjFoejdvcVVsQUY5dm9vb1FCanZKR3J2ZXlIaHNUYXdJdG8xVzl2dHdEaUpmbEhEOVl5OVlXQ0ZCdExiQ1FCQktyRjluMFdneUFua3JWcnlMNHg5MnBQb3ZJUHBpSTlUYkFQZUxma3BFVGNzdUU9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/60ed7323eab8ecee9e4942c8bc3f4585"
-                        }
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=5&sig=4hKSx9339jg&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278",
-                        "quality": "[Holy] Okru:1080p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=5&sig=4hKSx9339jg&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/ZjVqTVJ6b1ZxSjAwN1g0NVB1dm9HdzRWclB5dS9Xd0gxdHhpdFlBVG5PK0ZsTHV0dlFxVXE5VW8rRDU5SW1yTklLOFJHazBrcDB4NnRYdXNCR01IWW0weDdrZUhoNGdNbFFpQldvUzVsd0t2Vndsc2FQNmN4NU5xNk5BVWUzQmtVUTQxVndYOFZWelYyUldUMWhHSEJ6REFmNTJ6VVp4RnhrK3ZEbi9xQzFnREovTHh6V1duTmFjTHkyb01TWU9zVzB0cEtBdzBtdmxSU0cveHJsNGdicnVXdGhnQVhMcEZLcmRBY0tFUnVVbUJ2cm5sZUVIcHlueDJ6L3paOFRKY04rVzU2ZXdIV1I4QXhVdUgxeWFKQ3lUWnlVeTdWTHI3M1VTSjN2S2JZSXVpaHlsOUFyUGxHem9pUVpWTmpNMGQ%3D",
-                        "quality": "[Holy] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/ZjVqTVJ6b1ZxSjAwN1g0NVB1dm9HdzRWclB5dS9Xd0gxdHhpdFlBVG5PK0ZsTHV0dlFxVXE5VW8rRDU5SW1yTklLOFJHazBrcDB4NnRYdXNCR01IWW0weDdrZUhoNGdNbFFpQldvUzVsd0t2Vndsc2FQNmN4NU5xNk5BVWUzQmtVUTQxVndYOFZWelYyUldUMWhHSEJ6REFmNTJ6VVp4RnhrK3ZEbi9xQzFnREovTHh6V1duTmFjTHkyb01TWU9zVzB0cEtBdzBtdmxSU0cveHJsNGdicnVXdGhnQVhMcEZLcmRBY0tFUnVVbUJ2cm5sZUVIcHlueDJ6L3paOFRKY04rVzU2ZXdIV1I4QXhVdUgxeWFKQ3lUWnlVeTdWTHI3M1VTSjN2S2JZSXVpaHlsOUFyUGxHem9pUVpWTmpNMGQ%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/60ed7323eab8ecee9e4942c8bc3f4585"
-                        }
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=2&sig=fFMnYLoHPH0&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278",
-                        "quality": "[Holy] Okru:480p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=2&sig=fFMnYLoHPH0&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/ZjVqTVJ6b1ZxSjAwN1g0NVB1dm9HdzRWclB5dS9Xd0gxdHhpdFlBVG5PK0ZsTHV0dlFxVXE5VW8rRDU5SW1yTnFORnJCKytvU0lGZW1kdDlzWWpMaXhIdm1GaHVQSmNoUkhObTBDZTZ4RnphcHVLMForQlp3ZDBlVXI0RmZxSEloV0FGWjRUYnkrTTJPK0xPaHltdG1KUGhaN2tkUVE5aGpnN2JmWlpqUERubnZtT0MyQ3daNU00R2ZFZ2g2RzRmT1hadnl3UjBCRklGdlQ0RkQ3NExRd2ZSYkowd2dkL0c4YXVZQm1pWE4zVEpxYjVoSDMwUmIxenk0OXptaGh5UkYzdEF1M2V4NGtNeWIvSEpMa0NIT05rWTRtdHBBU1Jyam9tS0NxMG8wOHM9",
-                        "quality": "[Holy] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/ZjVqTVJ6b1ZxSjAwN1g0NVB1dm9HdzRWclB5dS9Xd0gxdHhpdFlBVG5PK0ZsTHV0dlFxVXE5VW8rRDU5SW1yTnFORnJCKytvU0lGZW1kdDlzWWpMaXhIdm1GaHVQSmNoUkhObTBDZTZ4RnphcHVLMForQlp3ZDBlVXI0RmZxSEloV0FGWjRUYnkrTTJPK0xPaHltdG1KUGhaN2tkUVE5aGpnN2JmWlpqUERubnZtT0MyQ3daNU00R2ZFZ2g2RzRmT1hadnl3UjBCRklGdlQ0RkQ3NExRd2ZSYkowd2dkL0c4YXVZQm1pWE4zVEpxYjVoSDMwUmIxenk0OXptaGh5UkYzdEF1M2V4NGtNeWIvSEpMa0NIT05rWTRtdHBBU1Jyam9tS0NxMG8wOHM9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/60ed7323eab8ecee9e4942c8bc3f4585"
-                        }
-                    },
-                    {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=nfx%2Fi2FJCODtympHgGQLmw6Ac507DMpp7NKGljJZsaUGRJ4Cg%2FVAP2I9566d34%2B37YM9AmFPPEAo%2FzsVuFi3AL910Cbxi4akoDkTt0ObVi8wSp8TcGB%2Bkalh0DJI2cSOTO7sNRivN6YsEwIHBCTe9PjdGynOIn4070egWxKU%2Begx1Se6hRHGlC0GSFnBUKMVQ%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Holy] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=nfx%2Fi2FJCODtympHgGQLmw6Ac507DMpp7NKGljJZsaUGRJ4Cg%2FVAP2I9566d34%2B37YM9AmFPPEAo%2FzsVuFi3AL910Cbxi4akoDkTt0ObVi8wSp8TcGB%2Bkalh0DJI2cSOTO7sNRivN6YsEwIHBCTe9PjdGynOIn4070egWxKU%2Begx1Se6hRHGlC0GSFnBUKMVQ%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=1&sig=aA4xbPzyROE&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278",
-                        "quality": "[Holy] Okru:360p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=1&sig=aA4xbPzyROE&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=0&sig=3IBqnkx8SAo&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278",
-                        "quality": "[Holy] Okru:240p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=0&sig=3IBqnkx8SAo&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=4&sig=Je1KHHYr7Ow&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278",
-                        "quality": "[Holy] Okru:144p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1703938219064&srcIp=20.97.191.254&pr=10&srcAg=GECKO&ms=185.226.53.88&type=4&sig=Je1KHHYr7Ow&ct=0&urls=45.136.22.10&clientType=0&zs=43&id=5980692679278"
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/e34cbe110dca95f4a3c9e14748057bc5/5380122.mp4",
-                        "quality": "[Holy] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/e34cbe110dca95f4a3c9e14748057bc5/5380122.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5380122"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/b0f9eb4afc84d4932d87e84f5621ae7c/5380123.mp4",
-                        "quality": "[Holy] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/b0f9eb4afc84d4932d87e84f5621ae7c/5380123.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5380123"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: No fansubs available! Have you filtered them out?",
+                "passed": false
             }
         }
     }
