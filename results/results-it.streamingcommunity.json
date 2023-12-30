@@ -317,6 +317,26 @@
                     {
                         "animes": [
                             {
+                                "url": "7360-golia",
+                                "title": "Golia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/15cded86-5a10-4b1f-b170-f13259d70222.webp"
+                            },
+                            {
+                                "url": "7359-my-country-the-new-age",
+                                "title": "My Country: The New Age",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/36574f41-4fa7-4c96-b8dd-78bc304a1348.webp"
+                            },
+                            {
+                                "url": "7358-hand-of-god",
+                                "title": "Hand of God",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5052ab6b-973a-40ff-a5c8-4c87c66a40fb.webp"
+                            },
+                            {
+                                "url": "7357-condor",
+                                "title": "Condor",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5f433fa6-8adb-46e1-ab57-c2834d382cbb.webp"
+                            },
+                            {
                                 "url": "7355-gone-baby-gone",
                                 "title": "Gone Baby Gone",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/87d79a06-b7c2-451a-b89f-ddc78104f2ff.webp"
@@ -595,26 +615,6 @@
                                 "url": "7295-miu404",
                                 "title": "MIU404",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/fc0e23c7-584f-41c9-a789-5c0bd54ab208.webp"
-                            },
-                            {
-                                "url": "7294-last-light-il-crollo",
-                                "title": "Last Light: Il crollo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bbd586bf-05d0-4442-9ece-892404de9781.webp"
-                            },
-                            {
-                                "url": "7293-dark-web",
-                                "title": "Dark/Web",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f15578f4-04cb-4e3a-a695-8df27e3ecfd7.webp"
-                            },
-                            {
-                                "url": "7292-deadwood",
-                                "title": "Deadwood",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c1d704ab-b190-4b02-bcc0-2bd28f31c6ab.webp"
-                            },
-                            {
-                                "url": "7291-star-trek-prodigy",
-                                "title": "Star Trek: Prodigy",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c7315a1e-2166-41a8-a310-00128de804df.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16095712150614759490/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16095712150614759490/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16095712150614759490/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16095712150614759490/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-4721510197737721539/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-4721510197737721539/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-4721510197737721539/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-4721510197737721539/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

@@ -227,6 +227,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/dr-death",
+                                "title": "Dr. Death",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19414.webp"
+                            },
+                            {
+                                "url": "/serie/online/night-court",
+                                "title": "Night Court",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22184.webp"
+                            },
+                            {
+                                "url": "/serie/online/la-casa-de-papel-berlim",
+                                "title": "La Casa de Papel: Berlim",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22562.webp"
+                            },
+                            {
                                 "url": "/serie/online/for-all-mankind",
                                 "title": "For all Mankind",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "Assassinato no Fim do Mundo",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
-                            },
-                            {
-                                "url": "/serie/online/one-piece",
-                                "title": "One Piece",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19081.webp"
-                            },
-                            {
-                                "url": "/serie/online/companheiros-de-viagem",
-                                "title": "Companheiros de Viagem",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22511.webp"
-                            },
-                            {
-                                "url": "/serie/online/homens-da-lei-bass-reeves",
-                                "title": "Homens da Lei: Bass Reeves",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22522.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

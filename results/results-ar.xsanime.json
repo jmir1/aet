@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/burn-the-witch-0-8/",
+                                "title": "Burn the Witch #0.8",
+                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Burn-the-Witch-0.8.jpg"
+                            },
+                            {
                                 "url": "/anime/boku-no-hero-academia-ua-heroes-battle/",
                                 "title": "Boku no Hero Academia UA Heroes Battle",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Boku-no-Hero-Academia-Yuuei-Heroes-Battle.jpg"
@@ -240,11 +245,6 @@
                                 "url": "/anime/toaru-ossan-no-vrmmo-katsudouki/",
                                 "title": "Toaru Ossan no VRMMO Katsudouki",
                                 "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/Toaru-Ossan-no-VRMMO-Katsudouki.jpg"
-                            },
-                            {
-                                "url": "/anime/shy/",
-                                "title": "SHY",
-                                "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/10/SHY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -384,13 +384,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/boku-no-hero-academia-ua-heroes-battle/",
-                    "title": "Boku no Hero Academia UA Heroes Battle",
-                    "description": "المسرح هذه المرة هو مسكن UA قبل آرك تدريب أنديفار للموسم الخامس مباشرةً! في منتصف الشتاء، تتكشف معركة باردة ساخنة وعاصفة في تحالف المرتفعات! تظهر ميريو توجاتا في السنة الثالثة فجأة حيث يشعر طلاب السنة الأولى في الفصل أ بالملل أثناء منعهم من الخروج. أحضر معه لعبة الورق \"يوي معركة الأبطال\" التي أنشأتها فئة الدعم. عندما يختار كل طالب البطاقات وينضم إلى المعركة الشرسة، يبدو أن اللعبة تحتوي على ما هو أكثر مما تراه العين. وفي النهاية من سيخرج منتصرا؟",
-                    "genre": "مدرسي, قوى خارقة, أكشن, شونين, مغامرات",
+                    "url": "/anime/burn-the-witch-0-8/",
+                    "title": "Burn the Witch #0.8",
+                    "description": "في هذه الحلقة الخاصة نشهد كيف تتورط بالغو باركس صديقة نويل مع أحد التنانين مما يؤدي إلى اكتشاف أسرار أكبر عن هذا العالم وعلاقته بسلسلة بليتش.",
+                    "genre": "سحري, خيال, دراما, أكشن, شونين",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Boku-no-Hero-Academia-Yuuei-Heroes-Battle.jpg",
+                    "thumbnail_url": "https://x.xsanime.com/wp-content/uploads/2023/12/Burn-the-Witch-0.8.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -398,7 +398,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/اونا-boku-no-hero-academia-ua-heroes-battle-الحلقة-1/",
+                        "url": "/episode/burn-the-witch-0-8-الحلقة-الخاصة-1/",
                         "name": "1",
                         "episode_number": 1.0
                     }
@@ -406,14 +406,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dc693.4shared.com/img/x6qyV1Irfa/2e12462d/dlink__2Fdownload_2Fx6qyV1Irfa_3Fsbsr_3D905613df2f194fb749d2d16df932ae60b01_26bip_3DMjAuOTcuMTg5LjE3_26lgfp_3D66_26bip_3DMjAuOTcuMTg5LjE3_26bip_3DMjAuOTcuMTg5LjE3/preview.mp4",
-                        "quality": "Default: If you want to change the quality go to extension settings",
-                        "videoUrl": "https://dc693.4shared.com/img/x6qyV1Irfa/2e12462d/dlink__2Fdownload_2Fx6qyV1Irfa_3Fsbsr_3D905613df2f194fb749d2d16df932ae60b01_26bip_3DMjAuOTcuMTg5LjE3_26lgfp_3D66_26bip_3DMjAuOTcuMTg5LjE3_26bip_3DMjAuOTcuMTg5LjE3/preview.mp4"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }
