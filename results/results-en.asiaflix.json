@@ -197,118 +197,21 @@
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "6450da3c3b4dbd001391f365",
-                                "title": "Next World: Watashitachi no Mirai (2015)",
-                                "thumbnail_url": "https://imagecdn.me/cover/next-world-watashitachi-no-mirai-2015-1682388482.png"
-                            },
-                            {
-                                "url": "6405b95154a200001718607a",
-                                "title": "The World of My 17 (2020)",
-                                "thumbnail_url": "https://imagecdn.me/cover/a-girl-s-world.png"
-                            },
-                            {
-                                "url": "6405b90454a2000017184b8b",
-                                "title": "Reunited Worlds (2017)",
-                                "thumbnail_url": "https://imagecdn.me/cover/reunited-worlds.png"
-                            },
-                            {
-                                "url": "6405b8cd54a200001718347c",
-                                "title": "Till the World Ends (2022)",
-                                "thumbnail_url": "https://imagecdn.me/cover/till-the-world-ends-1665082617.png"
-                            },
-                            {
-                                "url": "6405b8d954a2000017183a33",
-                                "title": "Kimi to Sekai ga Owaru Hi ni: Season 1 (2021)",
-                                "thumbnail_url": "https://imagecdn.me/cover/kimi-to-sekai-ga-owaru-hi-ni-season-1-2021.png"
-                            },
-                            {
-                                "url": "6405b95454a20000171860b6",
-                                "title": "The World of the Married (2020)",
-                                "thumbnail_url": "https://imagecdn.me/cover/the-married-life.png"
-                            },
-                            {
-                                "url": "6405b8fe54a20000171848c5",
-                                "title": "Next Stop Your World (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/next-stop-your-world-1676604073.png"
-                            },
-                            {
-                                "url": "6405b9df54a2000017187852",
-                                "title": "Return the World to You",
-                                "thumbnail_url": "https://imagecdn.me/cover/return-the-world-to-you.png"
-                            },
-                            {
-                                "url": "6405b9ce54a200001718731c",
-                                "title": "Who Rules The World (2022)",
-                                "thumbnail_url": "https://imagecdn.me/cover/who-rules-the-world.png"
-                            },
-                            {
-                                "url": "6405b94454a2000017185d57",
-                                "title": "Ten Miles of Peach Blossoms",
-                                "thumbnail_url": "https://imagecdn.me/cover/ten-miles-of-peach-blossoms.png"
-                            },
-                            {
-                                "url": "6405b94954a2000017185f47",
-                                "title": "The Coolest World (2021)",
-                                "thumbnail_url": "https://imagecdn.me/cover/the-coolest-world.png"
-                            },
-                            {
-                                "url": "6405b9cd54a20000171872aa",
-                                "title": "Zettai BL ni Naru Sekai vs Zettai BL ni Naritakunai Otoko (2021)",
-                                "thumbnail_url": "https://imagecdn.me/cover/zettai-bl-ni-naru-sekai-vs-zettai-bl-ni-naritakunai-otoko-2021.png"
-                            },
-                            {
-                                "url": "6405b98b54a200001718659e",
-                                "title": "The Legendary School: Three Lives Three Worlds Tao Hua Yuan (2017)",
-                                "thumbnail_url": "https://imagecdn.me/cover/the-legendary-school-three-lives-three-worlds-tao-hua-yuan.png"
-                            },
-                            {
-                                "url": "6405b8d954a2000017183a17",
-                                "title": "Kimi to Sekai ga Owaru Hi ni: Season 2 (2021)",
-                                "thumbnail_url": "https://imagecdn.me/cover/kimi-to-sekai-ga-owaru-hi-ni-season-2-2021.png"
-                            },
-                            {
-                                "url": "6405b9c254a2000017186da2",
-                                "title": "The World (2016)",
-                                "thumbnail_url": "https://imagecdn.me/cover/the-world-2016.jpg"
-                            },
-                            {
-                                "url": "6405b85554a2000017180687",
-                                "title": "Bokura no Micro na Shuumatsu (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/bokura-no-micro-na-shuumatsu-2023-1675075864.png"
-                            },
-                            {
-                                "url": "64a28e0b0a95b400184445c6",
-                                "title": "Divine Destiny (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/divine-destiny-2023-1688355917.png"
-                            },
-                            {
-                                "url": "6405b9cc54a200001718725d",
-                                "title": "Zettai BL ni Naru Sekai VS Zettai BL ni Naritakunai Otoko 2 (2022)",
-                                "thumbnail_url": "https://imagecdn.me/cover/zettai-bl-ni-naru-sekai-vs-zettai-bl-ni-naritakunai-otoko-2-2022.png"
-                            },
-                            {
-                                "url": "640d7fb820f232001833ae11",
-                                "title": "Qing Shi Xiao Kuang Yi (2023)",
-                                "thumbnail_url": "https://imagecdn.me/cover/qing-shi-xiao-kuang-yi-2023-1678717395.png"
-                            },
-                            {
-                                "url": "6405b93254a2000017185572",
-                                "title": "Serendipity (2021)",
-                                "thumbnail_url": "https://imagecdn.me/cover/serendipity-2021.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the array '[', but had '{' instead at path: $\nJSON input: {}",
+                "passed": false
             },
             "details": {
-                "error": "kotlinx.serialization.MissingFieldException: Fields [_id, name, altNames, synopsis, image, tvStatus, genre] are required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.DetailsResponseDto', but they were missing at path: $",
-                "passed": false
+                "result": {
+                    "url": "6491d8055df856001876a14c",
+                    "title": "Hidden Love (2023)",
+                    "description": "Sang Zhi falls in love with Duan Jia Xu, a boy who often comes to her house to play games in her older brother’s room. He is seven years older than her. Sang Zhi had a crush on Duan Jia Xu when she was young, but they lost contact with each other for some reason. After she graduates, she joins the university in the city he is in, and during their day-to-day intimate and close interaction, they slowly fall in love.\r\n~~ Adapted from the web novel \"Secretly, Secretly; But Unable to Hide It\" (偷偷藏不住) by Zhu Yi (竹已)\n\nAlternative Names: \n• 偷偷藏不住\n• Secretly\n• Secretly\n• but Unable to Hide It\n• Can't Be Concealed\n• Tou Tou Cang Bu Zhu",
+                    "genre": "Comedy, Romance, Youth",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://imagecdn.me/cover/hidden-love-2023-1687279521.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "kotlinx.serialization.MissingFieldException: Field 'episodes' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.asiaflix.dto.EpisodeResponseDto', but it was missing at path: $",
