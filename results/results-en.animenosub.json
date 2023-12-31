@@ -117,6 +117,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/dungeon-meshi/",
+                                "title": "Dungeon Meshi",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/12/Dungeon-Meshi-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/mahou-shoujo-ni-akogarete/",
+                                "title": "Mahou Shoujo ni Akogarete",
+                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/12/Mahou-Shoujo-ni-Akogarete-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/ishura/",
+                                "title": "Ishura",
+                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/12/Ishura-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season/",
+                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/12/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-3rd-Season-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/jaku-chara-tomozaki-kun-2nd-stage/",
+                                "title": "Jaku-Chara Tomozaki-kun 2nd Stage",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/12/Jaku-Chara-Tomozaki-kun-2nd-Stage-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu/",
+                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/12/Isekai-de-Mofumofu-Nadenade-suru-Tame-ni-Ganbattemasu.-poster.jpg"
+                            },
+                            {
                                 "url": "/anime/the-vexations-of-a-shut-in-vampire-princess/",
                                 "title": "The Vexations of a Shut-In Vampire Princess",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/The-Vexations-of-a-Shut-In-Vampire-Princess-poster.jpg"
@@ -185,36 +215,6 @@
                                 "url": "/anime/zom-100-bucket-list-of-the-dead/",
                                 "title": "Zom 100: Bucket List of the Dead",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/07/1688887806-8123-136408.jpg"
-                            },
-                            {
-                                "url": "/anime/dead-mount-death-play-part-2/",
-                                "title": "Dead Mount Death Play Part 2",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/1696844994-9019-138438.jpg"
-                            },
-                            {
-                                "url": "/anime/ron-kamonohashis-forbidden-deductions/",
-                                "title": "Ron Kamonohashi’s Forbidden Deductions",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696174163-9184-137123.jpg"
-                            },
-                            {
-                                "url": "/anime/migi-to-dali/",
-                                "title": "Migi to Dali",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696174043-3018-134817.jpg"
-                            },
-                            {
-                                "url": "/anime/hoshikuzu-telepath/",
-                                "title": "Hoshikuzu Telepath",
-                                "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2023/10/1696844921-7838-137894.jpg"
-                            },
-                            {
-                                "url": "/anime/dark-gathering/",
-                                "title": "Dark Gathering",
-                                "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2023/07/1688919391-9751-136736.jpg"
-                            },
-                            {
-                                "url": "/anime/the-100-girlfriends-who-really-really-really-really-really-love-you/",
-                                "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2023/10/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You-poster.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -316,17 +316,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztsob7p3tfzoue5q/index-v1-a1.m3u8",
-                        "quality": "SUB - VidMoly - 1080p",
-                        "videoUrl": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztsob7p3tfzoue5q/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
