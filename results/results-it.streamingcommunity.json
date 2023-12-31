@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7372-k9-squadra-antidroga",
+                                "title": "K9 - Squadra antidroga",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/521058c3-73f1-4e16-be54-958e2504e6ea.webp"
+                            },
+                            {
+                                "url": "7371-il-pataffio",
+                                "title": "Il pataffio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b4e33db3-a33e-453d-86fb-7c6ceeb80dca.webp"
+                            },
+                            {
                                 "url": "7370-tutto-o-niente-arsenal",
                                 "title": "Tutto o niente: Arsenal",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/225b6b11-ea36-4f17-93f1-77dccb8d165b.webp"
@@ -605,16 +615,6 @@
                                 "url": "7309-teen-mom-italia",
                                 "title": "Teen Mom Italia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/22f04eff-99ab-4239-b23e-945b545146b8.webp"
-                            },
-                            {
-                                "url": "7308-300-lalba-di-un-impero",
-                                "title": "300 - L'alba di un impero",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/606a09bd-0507-4624-8f0b-0e926b4517cc.webp"
-                            },
-                            {
-                                "url": "7306-mio-papa-a-caccia-di-alieni",
-                                "title": "Mio papà a caccia di alieni",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6a530568-6e47-49a6-a39f-274b8af0b8b0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/6979?episode_id=48032\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-2071710338246641139/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-2071710338246641139/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-2071710338246641139/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-2071710338246641139/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
