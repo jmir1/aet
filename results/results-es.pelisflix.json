@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/friends-family-christmas/",
+                                "title": "Friends & Family Christmas",
+                                "description": "Dos mujeres acuerdan fingir que están saliendo para apaciguar a sus respectivos padres durante las ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/1BaNtN03sWmu4EnDFgGM34UeZ1LCiko9LpN42EY.webp"
+                            },
+                            {
                                 "url": "/pelicula/ferrari/",
                                 "title": "Ferrari",
                                 "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empres...",
@@ -239,12 +245,6 @@
                                 "title": "Tack och förlåt",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8ERu9DNZlAOH4cKhZCgPDHYEZWMpuTkso1NovqdGRSd.webp"
-                            },
-                            {
-                                "url": "/pelicula/red-stone/",
-                                "title": "Red Stone",
-                                "description": "Un peligroso asesino a sueldo (Neal McDonough) tiene la tarea de perseguir a un adolescente que fue ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/9XJzWSBI94lSam7O8m3d1ftdegFsBReAFOZrwr0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/ferrari/",
-                    "title": "Ferrari",
-                    "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empresa que él y su esposa, Laura, construyeron de la nada diez años antes. Su tormentoso matrimonio se encuentra en medio de una gran crisis, mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomará decisiones arriesgadas, apostándolo todo en una única carrera que atraviesa 1.000 millas a lo largo de toda Italia, la Mille Miglia.",
-                    "genre": "Drama",
+                    "url": "/pelicula/friends-family-christmas/",
+                    "title": "Friends & Family Christmas",
+                    "description": "Dos mujeres acuerdan fingir que están saliendo para apaciguar a sus respectivos padres durante las fiestas.",
+                    "genre": "Familia, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/ferrari/",
+                        "url": "/pelicula/friends-family-christmas/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar RbexzjZv = \"\"; ybHEJxbqQ.forEach(function Oym(value) { RbexzjZv += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar VrTWFuRwF = \"\"; NehcwbNYuY.forEach(function Oym(value) { VrTWFuRwF += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
