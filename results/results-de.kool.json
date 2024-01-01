@@ -977,41 +977,15 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=848326&name=Rebel Moon - Teil 1: Kind des Feuers&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=ePmDkDDPk6TYgYz&expires=1704116097&ip=FROsD0ATKxSHDN&token=gRQtmy_ZPuf-",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ePmDkDDPk6TYgYz&expires=1704116097&ip=FROsD0ATKxSHDN&token=gRQtmy_ZPuf-"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=02voAlXXmDHDYA&expires=1704116097&ip=FROsD0ATKxSHDN&token=Ypi1ARV28UuT",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=02voAlXXmDHDYA&expires=1704116097&ip=FROsD0ATKxSHDN&token=Ypi1ARV28UuT"
-                    },
-                    {
-                        "url": "https://voe.sx/e/odpng5aq6rzl",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-oxccnn9nkkcxh4ir.voe-network.net/engine/hls2-c/01/10141/odpng5aq6rzl_,n,.urlset/master.m3u8?t=-JtEpBiqYoP8pYGWHKS36AxzoI5LaH_KlX1IyE64FT0&s=1704046097&e=14400&f=50705944&node=delivery-node-jfz54ijskijzgera.voe-network.net&i=20.102&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/hfin4ktxmrzk",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-sxww6jtwd3wsyltc.voe-network.net/engine/hls2/01/10141/hfin4ktxmrzk_,n,.urlset/master.m3u8?t=0ebFvdijbxu6fbpUFQDQCnLNK5Q9phLRqx1nGzG6eis&s=1704046096&e=14400&f=50705956&node=delivery-node-sxww6jtwd3wsyltc.voe-network.net&i=20.102&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/sshyol1cvioj",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-9ddjdsmbspw6aqcl.voe-network.net/engine/hls2-c/01/10187/sshyol1cvioj_,n,.urlset/master.m3u8?t=g4b6Dm1LVqlt4DkimCR0AdOf1uV5q9Q9Jx_X2UWqruM&s=1704046096&e=14400&f=50936257&node=delivery-node-qvliqtoeaae46gdl.voe-network.net&i=20.102&sp=2500&asn=8075"
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true
