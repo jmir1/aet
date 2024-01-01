@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/luz-de-esperanza-2023/",
+                                "title": "LUZ DE ESPERANZA (2023)",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
+                                "url": "/kayip/",
+                                "title": "Kayıp",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/tesoros-perdidos-de-roma/",
                                 "title": "Tesoros perdidos de Roma",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -47,18 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/tino-casal/",
-                                "title": "Tino Casal",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/vestidas-de-azul/",
-                                "title": "Vestidas de azul",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/the-imagineering-story/",
-                                "title": "The Imagineering Story",
+                                "url": "/la-muerte-puede-esperar/",
+                                "title": "La muerte puede esperar",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/the-palace/",
-                                "title": "The Palace",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xwKcGhKdAhPytX0C2MZMoXhfEH9.jpg"
+                                "url": "/dos-de-los-nuestros/",
+                                "title": "Dos de los nuestros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kd92npFt1LrZkVJ79zA2VCDC2ti.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/tesoros-perdidos-de-roma/",
-                    "title": "Tesoros perdidos de Roma",
-                    "description": "Lost Treasures of Rome Un equipo internacional de arqueólogos intenta descubrir los secretos perdidos del Imperio Romano.",
-                    "genre": "Documental",
+                    "url": "/luz-de-esperanza-2023/",
+                    "title": "LUZ DE ESPERANZA (2023)",
+                    "description": "León y Esperanza enfrentarán nuevos problemas. Un terrible accidente lo cambiará todo. ¿Los separarán para siempre?",
+                    "genre": "",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/tesoros-perdidos-de-roma-temporada-1-capitulo-6/",
-                        "name": "T01 - E06 - Episodio 6",
-                        "date_upload": 1656633600000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episode/tesoros-perdidos-de-roma-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Episodio 5",
-                        "date_upload": 1656028800000,
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
