@@ -37,6 +37,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/309794",
+                                "title": "One Piece - Dublado ep 407",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309794/1.jpg"
+                            },
+                            {
+                                "url": "/videos/309793",
+                                "title": "MF Ghost Dublado ep 12",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309793/1.jpg"
+                            },
+                            {
+                                "url": "/videos/309790",
+                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu. ep 1",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309790/1.jpg"
+                            },
+                            {
                                 "url": "/videos/309788",
                                 "title": "Beyblade X ep 12",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309788/1.jpg"
@@ -180,21 +195,6 @@
                                 "url": "/videos/309638",
                                 "title": "Paradox Live the Animation ep 12",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309638/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309635",
-                                "title": "Seijo no Maryoku wa Bannou desu 2nd Season - Dublado ep 10",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309635/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309632",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi ep 11",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309632/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309631",
-                                "title": "Jashin-chan Dropkick ",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309631/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -348,12 +348,44 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/videos/263139",
+                        "name": "Naruto Shippuden ep 500 - FINAL",
+                        "date_upload": 1490259240000,
+                        "episode_number": 500.0
+                    },
+                    {
+                        "url": "/videos/249788",
+                        "name": "Naruto Shippuden ep 499",
+                        "date_upload": 1525478400000,
+                        "episode_number": 499.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
+                        "quality": "SD",
+                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://www.hinatasoul.com"
+                        }
+                    },
+                    {
+                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
+                        "quality": "HD",
+                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://www.hinatasoul.com"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

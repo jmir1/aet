@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"id\":208493,\"media_type\":\"tv\"}",
+                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//2kTYmmOU8SsDxSijIDpz9vkT9la.jpg"
+                            },
+                            {
                                 "url": "{\"id\":37606,\"media_type\":\"tv\"}",
                                 "title": "The Amazing World of Gumball",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//VYnnyA2hyxi3VUPgCA71mMtt69.jpg"
@@ -125,11 +130,6 @@
                                 "url": "{\"id\":42154,\"media_type\":\"tv\"}",
                                 "title": "World War II in HD Colour",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//1in5DbN4t8a7Osw9hCqWEmNoEZF.jpg"
-                            },
-                            {
-                                "url": "{\"id\":208493,\"media_type\":\"tv\"}",
-                                "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//2kTYmmOU8SsDxSijIDpz9vkT9la.jpg"
                             },
                             {
                                 "url": "{\"id\":199920,\"media_type\":\"tv\"}",
@@ -172,6 +172,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//liQIvgYvnNwqjV6MvnFzvlXJNL2.jpg"
                             },
                             {
+                                "url": "{\"id\":44775,\"media_type\":\"tv\"}",
+                                "title": "El-Hazard: The Magnificent World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jODlnLKC4ugxsGvGnifpUH3XEQY.jpg"
+                            },
+                            {
                                 "url": "{\"id\":65844,\"media_type\":\"tv\"}",
                                 "title": "KONOSUBA – God's blessing on this wonderful world!!",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//oRaOeQlwktbGSd2T31FYAcgHZlh.jpg"
@@ -202,19 +207,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//jMhzjbRI1iL2ENtMnS3Zm3DBAJw.jpg"
                             },
                             {
-                                "url": "{\"id\":726209,\"media_type\":\"movie\"}",
-                                "title": "Leave the World Behind",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5o0zzKBRHE9to6g9tYweP54WJa2.jpg"
-                            },
-                            {
                                 "url": "{\"id\":618004,\"media_type\":\"movie\"}",
                                 "title": "wOrlD",
                                 "thumbnail_url": "https://seez.su/fallback.png"
                             },
                             {
-                                "url": "{\"id\":726684,\"media_type\":\"movie\"}",
-                                "title": "Miraculous World: Shanghai – The Legend of Ladydragon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//qQ0VKsGRQ2ofAmswGNzZnvC1xPE.jpg"
+                                "url": "{\"id\":726209,\"media_type\":\"movie\"}",
+                                "title": "Leave the World Behind",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//29rhl1xopxA7JlGVVsf1UHfYPvN.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -243,7 +243,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE HTML PUBLIC \"-//IETF.....",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'result' is required for type with serial name 'eu.kanade.tachiyomi.animeextension.en.seez.EmbedSourceList', but it was missing at path: $",
                 "passed": false
             }
         }
