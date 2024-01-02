@@ -117,15 +117,26 @@
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=65735d449cf6eae8ee435d1d",
+                    "title": "Wish",
+                    "description": "Asha, ein 17 Jahre altes sowie durch und durch optimistisches Mädchen mit einem scharfen Verstand und einer großen Hingabe an ihre Lieben, lebt im sogenannten Königreich der Wünsche, in dem tatsächlich buchstäblich jeder Wunsch in Erfüllung gehen kann. In einem Moment der Verzweiflung schickt sie einen Wunsch in Richtung Himmel, der von einer kosmischen Kraft beantwortet wird: einem kleinen Ball aus unendlicher Energie namens Star (Alan Tudyk). Obwohl Star ein kleiner Unruhestifter ist, begibt er sich mit Asha und ihrer Ziege Valentino (auch Alan Tudyk) auf eine abenteuerliche Reise durch unterschiedliche Welten, um ihre Gemeinschaft zu retten. Gemeinsam stellen sie sich mit dem bösen König Magnifico (Chris Pine) dem größten aller Feinde und beweisen, dass der Wunsch einer entschlossenen Person in Verbindung mit der Magie der Sterne Wunder bewirken kann...",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=65735d449cf6eae8ee435d1d",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
