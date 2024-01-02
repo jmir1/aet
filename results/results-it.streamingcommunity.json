@@ -317,11 +317,6 @@
                     {
                         "animes": [
                             {
-                                "url": "7421-mia-and-me-ita",
-                                "title": "Mia and Me (Ita)",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d492f634-3091-4bd7-aa84-bd46aa0a3983.webp"
-                            },
-                            {
                                 "url": "7420-sound-of-freedom",
                                 "title": "Sound of Freedom",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/571caae0-5ba5-4dcd-ac9b-b8cb3206ad61.webp"
@@ -615,6 +610,11 @@
                                 "url": "7355-gone-baby-gone",
                                 "title": "Gone Baby Gone",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/87d79a06-b7c2-451a-b89f-ddc78104f2ff.webp"
+                            },
+                            {
+                                "url": "7354-absentia",
+                                "title": "Absentia",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e0349e4-223c-4a00-a7ed-fe9c0424cacf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7377?episode_id=48346\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7377?episode_id=48346\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16639309160620790001/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16639309160620790001/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16639309160620790001/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16639309160620790001/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

@@ -37,6 +37,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/videos/309865",
+                                "title": " Muv-Luv Alternative: Total Eclipse - Dublado ep 8",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309865/1.jpg"
+                            },
+                            {
+                                "url": "/videos/309858",
+                                "title": "One Piece - Dublado ep 382",
+                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309858/1.jpg"
+                            },
+                            {
                                 "url": "/videos/309794",
                                 "title": "One Piece - Dublado ep 407",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309794/1.jpg"
@@ -185,16 +195,6 @@
                                 "url": "/videos/309646",
                                 "title": "Haiyore! Nyaruko-san W - Dublado ep 11",
                                 "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309646/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309642",
-                                "title": " Tian Guan Cifu Er ep 9",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309642/1.jpg"
-                            },
-                            {
-                                "url": "/videos/309638",
-                                "title": "Paradox Live the Animation ep 12",
-                                "thumbnail_url": "https://cdn.anicdn.net/media/videos/tmb/309638/1.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -333,59 +333,16 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/animes/7243187243871427834187243871243784128734189",
-                    "title": "Naruto Shippuden",
-                    "artist": "Studio Pierrot",
-                    "author": "Masashi Kishimoto",
-                    "description": "\n\nTítulos Alternativos: Naruto Shippuuden, Naruto: Shippuden, NARUTO: Shippuuden\nAno: 2007\nTemporada: Inverno",
-                    "genre": "Ação, Artes Marciais, Comédia, Shounen, Superpoder",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.anicdn.net/media/categories/video/017d73a6c1a47ccf6fc667f95692eadf956.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/videos/263139",
-                        "name": "Naruto Shippuden ep 500 - FINAL",
-                        "date_upload": 1490259240000,
-                        "episode_number": 500.0
-                    },
-                    {
-                        "url": "/videos/249788",
-                        "name": "Naruto Shippuden ep 499",
-                        "date_upload": 1525478400000,
-                        "episode_number": 499.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "quality": "SD",
-                        "videoUrl": "https://ikaros.anicdn.net/appsd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    },
-                    {
-                        "url": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "quality": "HD",
-                        "videoUrl": "https://ikaros.anicdn.net/apphd/42895.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.hinatasoul.com"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

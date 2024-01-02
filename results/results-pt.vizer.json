@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/a-grande-ilusao",
+                                "title": "A Grande Ilusão",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22563.webp"
+                            },
+                            {
+                                "url": "/serie/online/fargo",
+                                "title": "Fargo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3975.webp"
+                            },
+                            {
                                 "url": "/serie/online/what-if-",
                                 "title": "E Se...?",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "Bookie",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
-                            },
-                            {
-                                "url": "/serie/online/gyeongseong-creature",
-                                "title": "Gyeongseong Creature",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22557.webp"
-                            },
-                            {
-                                "url": "/serie/online/assassinato-no-fim-do-mundo",
-                                "title": "Assassinato no Fim do Mundo",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22534.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
