@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/enganos/",
+                                "title": "Engaños",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/slugfest/",
                                 "title": "Slugfest",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/rubble-y-equipo/",
-                                "title": "Rubble y Equipo",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/romina-poderosa/",
-                                "title": "Romina Poderosa",
+                                "url": "/trackers/",
+                                "title": "Trackers",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/g-e-o-mas-alla-del-limite/",
-                                "title": "G.E.O. Más allá del límite",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/8Eg65uxLVsM1WXKdylhYs3QOgsc.jpg"
+                                "url": "/the-gloaming/",
+                                "title": "The Gloaming",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jav7z60YhuOOkVwV0Jp6sBkXZz1.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,31 +134,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/slugfest/",
-                    "title": "Slugfest",
-                    "description": "Una crónica del crecimiento de los cómics como nueva forma de arte estadounidense que explora la relación y rivalidad durante décadas entre Marvel y DC Comics.",
-                    "genre": "Documental",
+                    "url": "/enganos/",
+                    "title": "Engaños",
+                    "description": "Fool Me Once Tras ver a su supuestamente difunto marido en una cámara de vigilancia, la exsoldado Maya destapa una siniestra conspiración familiar que se remonta a los años 90.",
+                    "genre": "Crimen, Drama, Misterio",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/slugfest-temporada-1-capitulo-10/",
-                        "name": "T01 - E10 - Episodio 10",
-                        "date_upload": 1640304000000,
-                        "episode_number": 10.0
-                    },
-                    {
-                        "url": "/episode/slugfest-temporada-1-capitulo-9/",
-                        "name": "T01 - E09 - Episodio 9",
-                        "date_upload": 1640304000000,
-                        "episode_number": 9.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

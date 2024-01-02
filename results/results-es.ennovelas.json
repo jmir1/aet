@@ -265,6 +265,11 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/ruzgarli-tepe-capitulo-2/",
+                        "name": "T1 - E2 - Capitulo 2",
+                        "episode_number": 2.0
+                    },
+                    {
                         "url": "/ruzgarli-tepe-capitulo-1/",
                         "name": "T1 - E1 - Capitulo 1",
                         "episode_number": 1.0
@@ -273,25 +278,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m130.uqload.io/3rfkywhssjw2q4drdjx7vi5tl5ysaje5avms2oxtik3bg4xohgg467vp7mga/v.mp4",
-                        "quality": "Uqload Uqload",
-                        "videoUrl": "https://m130.uqload.io/3rfkywhssjw2q4drdjx7vi5tl5ysaje5avms2oxtik3bg4xohgg467vp7mga/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://up-rend-sco.vesgase.space/hls/xqx2pbwsmfokjiqbtemclpyv5fjdfiz2v55wmg4fm3663op3b24c3ecxjhkq/index-v1-a1.m3u8",
-                        "quality": " - 720p",
-                        "videoUrl": "https://up-rend-sco.vesgase.space/hls/xqx2pbwsmfokjiqbtemclpyv5fjdfiz2v55wmg4fm3663op3b24c3ecxjhkq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
