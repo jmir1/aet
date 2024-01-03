@@ -7,14 +7,24 @@
                     {
                         "animes": [
                             {
-                                "url": "/huddam/",
-                                "title": "Hüddam",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/huddam_list.jpg"
+                                "url": "/ember/",
+                                "title": "Kor",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/ember_list.jpg"
+                            },
+                            {
+                                "url": "/stronghold/",
+                                "title": "Stronghold",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/stronghold_list.jpg"
                             },
                             {
                                 "url": "/dizi/fool-me-once/",
                                 "title": "Beni Kandıramazsın",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/fool-me-once_list.jpg"
+                            },
+                            {
+                                "url": "/huddam/",
+                                "title": "Hüddam",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/huddam_list.jpg"
                             },
                             {
                                 "url": "/the-love-hunt/",
@@ -42,6 +52,11 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/war-trap_list.jpg"
                             },
                             {
+                                "url": "/lola/",
+                                "title": "LOLA",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/lola_list.jpg"
+                            },
+                            {
                                 "url": "/she-s-so-lovely/",
                                 "title": "She's So Lovely",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/she-s-so-lovely_list.jpg"
@@ -52,11 +67,6 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/bozuk-para_list.jpg"
                             },
                             {
-                                "url": "/lola/",
-                                "title": "LOLA",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/lola_list.jpg"
-                            },
-                            {
                                 "url": "/herbie-goes-to-monte-carlo/",
                                 "title": "Herbie Goes to Monte Carlo",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/herbie-goes-to-monte-carlo_list.jpg"
@@ -65,6 +75,11 @@
                                 "url": "/gods-pocket-hd-izle-5/",
                                 "title": "God's Pocket",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/gods-pocket-hd-izle_list.jpg"
+                            },
+                            {
+                                "url": "/fork-in-the-road/",
+                                "title": "Yol Ayrımı",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/fork-in-the-road_list.jpg"
                             },
                             {
                                 "url": "/herbie-rides-again/",
@@ -130,21 +145,6 @@
                                 "url": "/no-way-up/",
                                 "title": "No Way Up",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/no-way-up_list.jpg"
-                            },
-                            {
-                                "url": "/fork-in-the-road/",
-                                "title": "Yol Ayrımı",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/fork-in-the-road_list.jpg"
-                            },
-                            {
-                                "url": "/five-minarets-in-new-york/",
-                                "title": "New Yorkta Beş Minare",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/five-minarets-in-new-york_list.jpg"
-                            },
-                            {
-                                "url": "/hello-ghost/",
-                                "title": "Hello Ghost",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/hello-ghost_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,13 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/huddam/",
-                    "title": "Hüddam",
-                    "description": "Can, annesi Derya ile birlikte sıradan bir şehir hayatı yaşamaktadır. Fakat bir süre sonra annesi normal olmayan davranışlar sergilemeye, hiç bilmediği antik dilleri konuşmaya başlar. Kısa sürede ailenin dengeleri alt üst olur ve Can, psikolojisini bozan bu garip olayların üzerine gittikçe,",
-                    "genre": "Korku, Gizem",
+                    "url": "/ember/",
+                    "title": "Kor",
+                    "artist": "Aslihan Gurbuz, Taner Birsel, Caner Cindoruk, İştar Gökseven, Çağlar Çorumlu, Dolunay Soysert, Genco Özak",
+                    "description": "Kocası Cemal’in Romanya’ya kaçak işçi olarak gitmesinin ardından evde giysi dikerek geçimini sağlayan Emine, bir giyim atölyesinde eski patronu Ziya ile karşılaşır. Ziya, Emine’nin durumunu görüp ona yardım eli uzatır; bu arada ikilinin arasındaki ilişkinin seyri de değişir. Ancak bir süre sonra Cemal, Romanya’dan döner. Üç kişinin de hayatı dönüşü olmayacak şekilde değişecektir.",
+                    "genre": "Dram",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/huddam.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.de/uploads/poster/ember.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -428,7 +429,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/huddam/",
+                        "url": "/ember/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -438,25 +439,47 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://s230.rapidrame.com/hls2/01/00017/fd0dy5c41hkt_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8zawRhwZ0oYW3UioA6iuLBVjmatj-dvnugAKo5EtALI&s=1704219006&e=1199998800&f=89921&srv=s301&i=0.0&sp=0&p1=s230&p2=s230",
-                        "quality": "Rapidrame - 720p",
-                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00017/fd0dy5c41hkt_,l,n,.urlset/index-f2-v1-a1.m3u8?t=8zawRhwZ0oYW3UioA6iuLBVjmatj-dvnugAKo5EtALI&s=1704219006&e=1199998800&f=89921&srv=s301&i=0.0&sp=0&p1=s230&p2=s230",
+                        "url": "https://wup-odi-4.vmrange.lat/hls/xqx2okqtmfokjiqbtekclpa7x4476zzhk7lfnwf2exxw2q6rkmvijfw6qpsa/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 480p",
+                        "videoUrl": "https://wup-odi-4.vmrange.lat/hls/xqx2okqtmfokjiqbtekclpa7x4476zzhk7lfnwf2exxw2q6rkmvijfw6qpsa/index-v1-a1.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
-                            "Origin": "https://www.hdfilmcehennemi.de",
-                            "Referer": "https://www.hdfilmcehennemi.de/playerr/fd0dy5c41hkt"
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-77jbykg21g8i.html"
                         }
                     },
                     {
-                        "url": "https://s230.rapidrame.com/hls2/01/00017/fd0dy5c41hkt_,l,n,.urlset/index-f1-v1-a1.m3u8?t=8zawRhwZ0oYW3UioA6iuLBVjmatj-dvnugAKo5EtALI&s=1704219006&e=1199998800&f=89921&srv=s301&i=0.0&sp=0&p1=s230&p2=s230",
-                        "quality": "Rapidrame - 480p",
-                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00017/fd0dy5c41hkt_,l,n,.urlset/index-f1-v1-a1.m3u8?t=8zawRhwZ0oYW3UioA6iuLBVjmatj-dvnugAKo5EtALI&s=1704219006&e=1199998800&f=89921&srv=s301&i=0.0&sp=0&p1=s230&p2=s230",
+                        "url": "https://wup-odi-4.vmrange.lat/hls/xqx2okqtmfokjiqbtekclpa7x4476zzhk7lfnwf2e6fw2q6rkmvfzw2qofza/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 608p",
+                        "videoUrl": "https://wup-odi-4.vmrange.lat/hls/xqx2okqtmfokjiqbtekclpa7x4476zzhk7lfnwf2e6fw2q6rkmvfzw2qofza/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-77jbykg21g8i.html"
+                        }
+                    },
+                    {
+                        "url": "https://s230.rapidrame.com/hls2/01/00018/tmapdmnq45xq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Lt-e8jDxU_46CV1mhu5_8gayrmz_LBa-D7MP1UBwwSY&s=1704241918&e=1199998800&f=90024&srv=s304&i=0.0&sp=0&p1=s230&p2=s230",
+                        "quality": "Rapidrame - 608p",
+                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00018/tmapdmnq45xq_,l,n,.urlset/index-f2-v1-a1.m3u8?t=Lt-e8jDxU_46CV1mhu5_8gayrmz_LBa-D7MP1UBwwSY&s=1704241918&e=1199998800&f=90024&srv=s304&i=0.0&sp=0&p1=s230&p2=s230",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
                             "Origin": "https://www.hdfilmcehennemi.de",
-                            "Referer": "https://www.hdfilmcehennemi.de/playerr/fd0dy5c41hkt"
+                            "Referer": "https://www.hdfilmcehennemi.de/playerr/tmapdmnq45xq"
+                        }
+                    },
+                    {
+                        "url": "https://s230.rapidrame.com/hls2/01/00018/tmapdmnq45xq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Lt-e8jDxU_46CV1mhu5_8gayrmz_LBa-D7MP1UBwwSY&s=1704241918&e=1199998800&f=90024&srv=s304&i=0.0&sp=0&p1=s230&p2=s230",
+                        "quality": "Rapidrame - 480p",
+                        "videoUrl": "https://s230.rapidrame.com/hls2/01/00018/tmapdmnq45xq_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Lt-e8jDxU_46CV1mhu5_8gayrmz_LBa-D7MP1UBwwSY&s=1704241918&e=1199998800&f=90024&srv=s304&i=0.0&sp=0&p1=s230&p2=s230",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://www.hdfilmcehennemi.de",
+                            "Referer": "https://www.hdfilmcehennemi.de/playerr/tmapdmnq45xq"
                         }
                     }
                 ],

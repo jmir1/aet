@@ -182,14 +182,14 @@
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png"
                             },
                             {
-                                "url": "4071-the-eminence-in-shadow",
-                                "title": "The Eminence in Shadow",
-                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-O7nR1Wrav2dH.jpg"
-                            },
-                            {
                                 "url": "2611-my-hero-academia-2",
                                 "title": "My Hero Academia 2",
                                 "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21856-gutauxhWAwn6.png"
+                            },
+                            {
+                                "url": "4071-the-eminence-in-shadow",
+                                "title": "The Eminence in Shadow",
+                                "thumbnail_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130298-O7nR1Wrav2dH.jpg"
                             },
                             {
                                 "url": "2479-rent-a-girlfriend",
@@ -518,8 +518,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vixcloud.co/playlist/174145.m3u8?type=video&rendition=720p&token=LMQraFv2bvIY8ON9xOFVqg&expires=1709425893&n=1",
+                        "quality": "720p",
+                        "videoUrl": "https://vixcloud.co/playlist/174145.m3u8?type=video&rendition=720p&token=LMQraFv2bvIY8ON9xOFVqg&expires=1709425893&n=1"
+                    },
+                    {
+                        "url": "https://vixcloud.co/playlist/174145.m3u8?type=video&rendition=480p&token=n8Fr_aNDnFA9tITU06dTsQ&expires=1709425893&n=1",
+                        "quality": "480p",
+                        "videoUrl": "https://vixcloud.co/playlist/174145.m3u8?type=video&rendition=480p&token=n8Fr_aNDnFA9tITU06dTsQ&expires=1709425893&n=1"
+                    }
+                ],
+                "passed": true
             }
         }
     }

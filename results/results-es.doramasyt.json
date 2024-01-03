@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/dorama/yu-yu-hakusho-latino-sub-espanol",
+                                "title": "Yu Yu Hakusho Latino",
+                                "description": "Yu Yu Hakusho Latino",
+                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/yu-yu-hakusho-latino-1704220688.jpg"
+                            },
+                            {
                                 "url": "/dorama/creyente-2-latino-sub-espanol",
                                 "title": "Creyente 2 Latino",
                                 "description": "Creyente 2 Latino",
@@ -179,12 +185,6 @@
                                 "title": "Nam-soon, una chica superfuerte Latino",
                                 "description": "Nam-soon, una chica superfuerte Latino",
                                 "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/nam-soon-una-chica-superfuerte-latino-1701649321.jpg"
-                            },
-                            {
-                                "url": "/dorama/coffee-melody-sub-espanol",
-                                "title": "Coffee Melody",
-                                "description": "Coffee Melody",
-                                "thumbnail_url": "https://www.doramasyt.com/thumbs/imagen/coffee-melody-1698165956.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -280,10 +280,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/dorama/creyente-2-latino-sub-espanol",
-                    "title": "Creyente 2 Latino (0)",
-                    "description": "Un tenaz policía prosigue su búsqueda de la verdad sobre la organización de narcotráfico más grande de Asia y su escurridizo jefe, con quien tiene asuntos pendientes. ",
-                    "genre": "Acción, Horror, K-Drama",
+                    "url": "/dorama/yu-yu-hakusho-latino-sub-espanol",
+                    "title": "Yu Yu Hakusho Latino (0)",
+                    "description": "¿Su plato favorito? El ramen. ¿Su técnica insignia? La Reigan. Un adolescente rebelde debe aprender a usar sus nuevos poderes para proteger a sus seres queridos. Versión live-action de la serie anime 'Yû Yû Hakusho'. ",
+                    "genre": "Comedia, Acción, Drama, Fantasia, Aventuras",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -291,12 +291,62 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/yu-yu-hakusho-latino-episodio-5",
+                        "name": "Episodio 5.0",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/ver/yu-yu-hakusho-latino-episodio-4",
+                        "name": "Episodio 4.0",
+                        "episode_number": 4.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=3&sig=Rgbnb3RpE_4&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=3&sig=Rgbnb3RpE_4&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535"
+                    },
+                    {
+                        "url": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=2&sig=9DNB9RnEjlA&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=2&sig=9DNB9RnEjlA&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535"
+                    },
+                    {
+                        "url": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=1&sig=ZqZC5jzCGHQ&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=1&sig=ZqZC5jzCGHQ&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535"
+                    },
+                    {
+                        "url": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=0&sig=yF6ktxZJ7C4&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=0&sig=yF6ktxZJ7C4&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535"
+                    },
+                    {
+                        "url": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=4&sig=nKJ3Dfkdr3Q&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=4&sig=nKJ3Dfkdr3Q&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535"
+                    },
+                    {
+                        "url": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=5&sig=2c2DIdHDRLY&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd354.mycdn.me/?expires=1704328273627&srcIp=20.51.206.237&pr=10&srcAg=GECKO&ms=45.136.21.69&type=5&sig=2c2DIdHDRLY&ct=0&urls=185.226.53.71&clientType=0&zs=43&id=5624442325535"
+                    },
+                    {
+                        "url": "https://m90.uqload.io/3rfklc64sjw2q4drdju7v5fvlldcnxb2yd2uktg5cg2ro53jsrcqdx7euodq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m90.uqload.io/3rfklc64sjw2q4drdju7v5fvlldcnxb2yd2uktg5cg2ro53jsrcqdx7euodq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
