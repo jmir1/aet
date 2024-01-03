@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7432-bang-bank",
+                                "title": "Bang Bank",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b7a73c54-d920-40f4-83ce-aac6e692d11c.webp"
+                            },
+                            {
                                 "url": "7377-sei-cio-che-mangi-gemelli-a-confronto",
                                 "title": "Sei ciò che mangi: gemelli a confronto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/41c21300-eac7-4c8c-af80-ea9240744261.webp"
@@ -300,11 +305,6 @@
                                 "url": "6924-unica",
                                 "title": "Unica",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/90ab5f68-39a2-4e93-98a1-751ad3fd84b1.webp"
-                            },
-                            {
-                                "url": "6923-una-famiglia-quasi-normale",
-                                "title": "Una famiglia quasi normale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/cb258ef4-3960-4d0d-bda4-2262d43f9038.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7435-il-dottor-ali",
+                                "title": "Il Dottor Alì",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f95a58e3-419e-4af0-91df-9d92565e2808.webp"
+                            },
                             {
                                 "url": "7427-too-hot-to-handle-germania",
                                 "title": "Too Hot To Handle: Germania",
@@ -610,11 +615,6 @@
                                 "url": "7362-sisyphus",
                                 "title": "Sisyphus",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d5ea89cb-5ed1-4dd4-a1a1-f1f27977ac5f.webp"
-                            },
-                            {
-                                "url": "7361-corso-accelerato-sullamore",
-                                "title": "Corso accelerato sull'amore",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b403b8ca-8a55-4fb7-a750-4406096ab7ab.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7377-sei-cio-che-mangi-gemelli-a-confronto",
-                    "description": "Gemelli monozigoti cambiano dieta e stile di vita per otto settimane in un esperimento scientifico unico, pensato per esplorare l'impatto di alcuni alimenti sull'organismo.",
-                    "genre": "",
+                    "url": "7432-bang-bank",
+                    "description": "Dopo un colpo in banca andato male, un goffo rapinatore si allea ai due ostaggi per tentare una disperata fuga dalla polizia. Ma l'inaspettato arrivo di una donna con un'incredibile rivelazione cambierà per sempre il corso delle loro vite.",
+                    "genre": "Commedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -944,20 +946,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7377?e=48346",
-                        "name": "Stagione 1 episodio 4 - Episodio 4",
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "7377?e=48344",
-                        "name": "Stagione 1 episodio 3 - Episodio 3",
-                        "episode_number": 3.0
+                        "url": "7432",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7377?episode_id=48346\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7377?episode_id=48346\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-8218810505936426246/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-8218810505936426246/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-8218810505936426246/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-8218810505936426246/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
