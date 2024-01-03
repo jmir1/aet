@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/capitanes-del-mundo/",
+                                "title": "Capitanes del mundo",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/enganos/",
                                 "title": "Engaños",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/esta-libre/",
-                                "title": "Está Libre",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/trackers/",
-                                "title": "Trackers",
+                                "url": "/la-nocturna/",
+                                "title": "La Nocturna",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/asesinato-en-schull/",
-                                "title": "Asesinato en Schull",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mQALUVBqCCndu4wkO0ha6LCWKZo.jpg"
+                                "url": "/im-with-the-band-nasty-cherry/",
+                                "title": "I'm with the Band: Nasty Cherry",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/11/lrntygsnkgAhKi5RBR4qW8XpOOx-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,18 +134,31 @@
             },
             "details": {
                 "result": {
-                    "url": "/enganos/",
-                    "title": "Engaños",
-                    "description": "Fool Me Once Tras ver a su supuestamente difunto marido en una cámara de vigilancia, la exsoldado Maya destapa una siniestra conspiración familiar que se remonta a los años 90.",
-                    "genre": "Crimen, Drama, Misterio",
+                    "url": "/capitanes-del-mundo/",
+                    "title": "Capitanes del mundo",
+                    "description": "Captains of the World De los vestuarios al campo, esta docuserie ofrece acceso exclusivo a las 32 selecciones que luchan por alcanzar la gloria futbolística en la Copa Mundial de la FIFA 2022.",
+                    "genre": "Documental",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/capitanes-del-mundo-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - Los mejores",
+                        "date_upload": 1703894400000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/capitanes-del-mundo-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - Juegos psicológicos",
+                        "date_upload": 1703894400000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

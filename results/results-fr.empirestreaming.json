@@ -342,6 +342,11 @@
                                 "thumbnail_url": "https://empire-stream.net/images/medias/qifWFWMAkn6qGEzrbHFE3BymKNW.jpg"
                             },
                             {
+                                "url": "/serie/Frenchie-Shore-en-streaming-hd/a3659267627728266700547c1615615a",
+                                "title": "Frenchie Shore",
+                                "thumbnail_url": "https://empire-stream.net/images/medias/blvsxgonxobCfOhOQUmc3LQScz6.jpg"
+                            },
+                            {
                                 "url": "/serie/Vigil-en-streaming-hd/225145d4116012477e593ad567934193",
                                 "title": "Vigil",
                                 "thumbnail_url": "https://empire-stream.net/images/medias/wbixU7Pqr04jALK1HqMosuzKE7r.jpg"
@@ -390,11 +395,6 @@
                                 "url": "/serie/All-Star-Shore-en-streaming-hd/909578793622d809f7a306df50365149",
                                 "title": "All Star Shore",
                                 "thumbnail_url": "https://empire-stream.net/images/medias/eT8BpxEIJqbBRztWBloHMKfO0bv.jpg"
-                            },
-                            {
-                                "url": "/serie/Frenchie-Shore-en-streaming-hd/a3659267627728266700547c1615615a",
-                                "title": "Frenchie Shore",
-                                "thumbnail_url": "https://empire-stream.net/images/medias/blvsxgonxobCfOhOQUmc3LQScz6.jpg"
                             },
                             {
                                 "url": "/serie/La-réceptionniste-Pokémon-en-streaming-hd/a987939899515d081e086402b8d66775",
@@ -641,7 +641,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "219442|vostfr|Eplayer, 220674|vf|Eplayer",
+                        "url": "219442|vostfr|Eplayer, 220674|vf|Eplayer, 239708|vf|Eplayer_moon, 239709|vostfr|Eplayer_moon",
                         "name": "Five Nights at Freddy's",
                         "date_upload": 1699315200000,
                         "episode_number": 1.0
@@ -650,8 +650,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://e-player-stream.app/hls/MDVtTnhaY2orUzhoREord2M4N3c0dC9BWVBvbjIrWnh4RXdVMFcyVVJJTFRSNk5FQWR2cGRUK3RVMnRvaCt3cXZJYnpHcXR5L09tWCt1K3dGcWpMN1V4eHhGRk9Yb3h2aTVFbTRMblcyUkpVRGt4d29rMmtiT2F3OHJHajB2T3Z6ZlZOTU9nQUtCTlVLazQySmdSR3NodkNhdGFwcUYyc0VzampWZXcxRzN2TUpZZitQWWYvVk1rM055bDloaGl4eVk5WDR2U2dURDBGOFRKM01NSlFFVE9oeW1NbFZtZW91d3JhdUVLNEplMWZjT3ZmNm5wN1ZKMUtVTjhCZ0xkU2p3ZGFlL2FGd09kNi9oNG11Q2hCbHBVbnY0SzA2Mm1obVhLeTFOeW9vaHM9",
+                        "quality": "E-Player - 960p",
+                        "videoUrl": "https://e-player-stream.app/hls/MDVtTnhaY2orUzhoREord2M4N3c0dC9BWVBvbjIrWnh4RXdVMFcyVVJJTFRSNk5FQWR2cGRUK3RVMnRvaCt3cXZJYnpHcXR5L09tWCt1K3dGcWpMN1V4eHhGRk9Yb3h2aTVFbTRMblcyUkpVRGt4d29rMmtiT2F3OHJHajB2T3Z6ZlZOTU9nQUtCTlVLazQySmdSR3NodkNhdGFwcUYyc0VzampWZXcxRzN2TUpZZitQWWYvVk1rM055bDloaGl4eVk5WDR2U2dURDBGOFRKM01NSlFFVE9oeW1NbFZtZW91d3JhdUVLNEplMWZjT3ZmNm5wN1ZKMUtVTjhCZ0xkU2p3ZGFlL2FGd09kNi9oNG11Q2hCbHBVbnY0SzA2Mm1obVhLeTFOeW9vaHM9",
+                        "headers": {
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Referer": "https://e-player-stream.app",
+                            "Origin": "https://e-player-stream.app"
+                        }
+                    },
+                    {
+                        "url": "https://e-player-stream.app/hls/TWxRT0ZkVnlFQkdQNzJscmpXNEcwR2w3bGhQU3NHYW1XVks2MFFxL21BMWd5c3hncWNOWlZpV0QwcUJBMDRvd0VncWZtZ1VZbktJR0c5K2kvSWhtNGJFZkNLaG9EZXpoVXU1akJERGtnSEE5c3NSTmtQMTRoZFJVOVJpN2V2bmlXekd5RWl1RkczVE82UFNGQVlKM0pSdWNobW8zVkNmQTJ0VnhMNWZEOFFLRTZZNXVMbEtYTFBLTWdXUWZCa1l1ejRnekFLcS9ZV2ZNdmFXWjRmd3dveTNJcnBxcE51YUJ6NERkTCtTZnBFYkxvWk9SNDZEbnlobWZjZHNSOHdqSmJOQWFFak1qN1dzcDk2UlcrN1dlaWFwL2s5WUdNTjNtZ2hUVzd3UnB5Z3F0RHRuN3ZLOTBpWGs1dGZVTUxka3k%3D",
+                        "quality": "E-Player - 1080p",
+                        "videoUrl": "https://e-player-stream.app/hls/TWxRT0ZkVnlFQkdQNzJscmpXNEcwR2w3bGhQU3NHYW1XVks2MFFxL21BMWd5c3hncWNOWlZpV0QwcUJBMDRvd0VncWZtZ1VZbktJR0c5K2kvSWhtNGJFZkNLaG9EZXpoVXU1akJERGtnSEE5c3NSTmtQMTRoZFJVOVJpN2V2bmlXekd5RWl1RkczVE82UFNGQVlKM0pSdWNobW8zVkNmQTJ0VnhMNWZEOFFLRTZZNXVMbEtYTFBLTWdXUWZCa1l1ejRnekFLcS9ZV2ZNdmFXWjRmd3dveTNJcnBxcE51YUJ6NERkTCtTZnBFYkxvWk9SNDZEbnlobWZjZHNSOHdqSmJOQWFFak1qN1dzcDk2UlcrN1dlaWFwL2s5WUdNTjNtZ2hUVzd3UnB5Z3F0RHRuN3ZLOTBpWGs1dGZVTUxka3k%3D",
+                        "headers": {
+                            "X-Requested-With": "XMLHttpRequest",
+                            "Referer": "https://e-player-stream.app",
+                            "Origin": "https://e-player-stream.app"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
