@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/bring-him-to-me/",
+                                "title": "Bring Him to Me",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kmJJRpa1F67hJqNs3B7NA1QAJpK.jpg"
+                            },
+                            {
                                 "url": "/rebel-moon-parte-uno-la-nina-del-fuego/",
                                 "title": "Rebel Moon (Parte uno): La niña del fuego",
                                 "description": "",
@@ -95,12 +101,6 @@
                                 "title": "Una Navidad para Chueco",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/jkv1JH2kG7az4mMt2ANQIzpCKkx.jpg"
-                            },
-                            {
-                                "url": "/tiktok-in-the-mix/",
-                                "title": "TikTok: In the Mix",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/e7DQxlQRXbLUfPVJllI74YB8MNV.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -215,22 +215,13 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/rebel-moon-parte-uno-la-nina-del-fuego/",
-                    "title": "Rebel Moon (Parte uno): La niña del fuego",
-                    "description": "Rebel Moon (Parte uno): La niña del fuego Cuando una pacífica colonia en los confines de la galaxia se ve amenazada por un poder tiránico, su mejor baza para sobrevivir es la misteriosa Kora. Esta reúne a un grupo dispuesto a luchar, formado por forasteros, insurgentes, campesinos y huérfanos de guerra de varios planetas unidos por una causa común: la redención y la venganza. Mientras la sombra de todo un reino se cierne sobre la más improbable de las lunas, se libra una batalla por el destino de una galaxia y se forja un nuevo ejército de héroes.",
-                    "genre": "Acción, Aventura, Ciencia ficción",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/2R7RUo3EGs3T3UdKPlfVQWkyUCD.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/rebel-moon-parte-uno-la-nina-del-fuego/",
+                        "url": "/bring-him-to-me/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

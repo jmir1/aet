@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/my-boss?id=6595d14fcb67f96eb06f7621",
+                                "title": "My Boss (Mi Jefe)",
+                                "description": "Cheng Yao, que soñaba con convertirse en abogada, fue contratada por una importante firma de abogados. Por ello, decide mudarse a un apartamento más cercano a su lugar de trabajo.\n\nSin embargo, Cheng Yao no esperaba tener un compañero de casa con quien no pudiera llevarse bien además que es su nuevo jefe, Qian Heng. Qian Heng la reclutó en su equipo y comenzó su monstruoso entrenamiento.\n\nSu objetivo era ahuyentar a Cheng Yao, de quien pensaba que había entrado en la empresa gracias a sus relaciones. Cheng Yao no sabe por qué aterrizó en esta situación y decide trabajar más duro. Ella mostró un gran desempeño en medio del entrenamiento, cambiando la impresión que Qian Heng tenía hacia ella y, poco a poco, comienzan a desarrollar sentimientos el uno por el otro.",
+                                "genre": "Drama, Romance, Comedia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/nkhqBwuHtwbWi42TdO2cASZVxmq.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/replacing-chef-chico?id=65947cc7cb67f96eb06f24fa",
                                 "title": "Replacing Chef Chico (El Reemplazo del Chef Chico)",
                                 "description": "Cuando un jefe de cocina cae en coma, le corresponde a su devota sous-chef evitar que cierre su restaurante filipino de alta cocina.",
@@ -456,13 +463,6 @@
                                 "description": "Chen Mo Bai consideraba las carreras como un sueño de su vida desde que era un niño y anhelaba algún día representar a China en el campo de la \"Súper Fórmula\". Pero a los ojos de la familia de Chen Mo Bai, esto era una broma insegura y poco confiable, hasta que conoció a Shen Xi, una ingeniera que también estaba obsesionada con hacer realidad su sueño en la vida. El rigor y la profesionalidad de Shen Xi hacen que Chen Mo Bai crea que su sueño puede hacerse realidad. Pero en este momento, Shen Xi se encuentra en el momento más oscuro de su vida. La confusión de su carrera y la partida de su familia la han hundido en el abismo.",
                                 "genre": "Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/bB3MmjVNmwTzB9VkfYgJvBxBqc5.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/the-perfect-deal?id=6559922a3e706646aed63042",
-                                "title": "The Perfect Deal (El Trato Perfecto)",
-                                "description": "Lee Joon Sung, Song Jae Hyo y Park Min Woo se graduaron juntos de la escuela secundaria y ahora tienen veintitantos años. Joon Sung fue una estrella del fútbol en ascenso durante la escuela secundaria, pero sus sueños quedaron destrozados. Después de perderse por un tiempo, decide rehacer su vida. Jae Hyo, quien se llamaba Lee Jun Sung en la escuela secundaria, actualmente asiste a la escuela de medicina. Min Woo es el único hijo de una familia adinerada.\n\nLos tres amigos se reúnen para tomar algo y Jae Hyo, que enfrenta una crisis personal, solicita la ayuda de Jun Sung y Min Woo. Para evitar problemas, impulsivamente instiga un falso secuestro de Min Woo con el objetivo de conseguir mil millones de wones. Sin embargo, una vez organizado el secuestro, las cosas toman un giro inesperado y las complicaciones resultantes los llevan a los tres por un camino oscuro y turbulento.",
-                                "genre": "Drama, Acción, Thriller, Misterio, Crimen",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/zcR2cersrRj0vpqmWymUhlx7Qrb.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -601,17 +601,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/unpredictable-family?id=650349112ebec9c486c65b43",
-                    "title": "Unpredictable Family (Familia impredecible)",
-                    "artist": "Nam Sang-ji",
-                    "author": "KBS1",
-                    "description": "Eun Sung, la hija de Dong Gu y Chun Young, sueña con tener éxito, pero es una actriz que nadie conoce. Han pasado más de tres años desde que se unió al teatro, pero todavía tiene que pegar carteles y limpiar el teatro y sólo puede practicar cuando los demás actores no están. Sun Woo, hijo de Jung Ae y Ki Seok, es un prometedor director de cine de Hollywood. Eun Sung y Sun Woo se enamoran y deciden casarse. Sin embargo, se dan cuenta de que Dong Gu y Jung Ae eran enemigos jurados que se divorciaron hace 30 años. Esta relación nefasta entre padres e hijos pelea por su matrimonio. ¡La historia de cómo las personas que más se odian se convierten en la familia más salvaje, extraña y divertida a la vez comienza ahora!",
-                    "genre": "Drama, Romance, Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/z3jn1SCkLdO9awinHpqtwiGjyho.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

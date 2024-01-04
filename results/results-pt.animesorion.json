@@ -77,9 +77,9 @@
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42848_background.jpg?v=1696805104"
                             },
                             {
-                                "url": "/anime/54362",
-                                "title": "Hametsu no Oukoku",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42832_background.jpg?v=1696642576"
+                                "url": "/anime/53887",
+                                "title": "Spy x Family Season 2",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42511_background.jpg?v=1696715154"
                             }
                         ],
                         "hasNextPage": false
@@ -91,6 +91,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/episodio/74613/legendado",
+                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42376_background.jpg?v=1704326896"
+                            },
+                            {
+                                "url": "/episodio/74612/legendado",
+                                "title": "Hikikomari Kyuuketsuki no Monmon",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42861_background.jpg?v=1697117277"
+                            },
+                            {
+                                "url": "/episodio/74611/legendado",
+                                "title": "Tian Guan Cifu Er",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42865_background.jpg?v=1697671932"
+                            },
+                            {
+                                "url": "/episodio/74610/legendado",
+                                "title": "Jaku-Chara Tomozaki-kun 2nd Stage",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42897_background.jpg?v=1704318722"
+                            },
                             {
                                 "url": "/episodio/74609/legendado",
                                 "title": "Shikabane Hime: Kuro",
@@ -188,26 +208,6 @@
                             },
                             {
                                 "url": "/episodio/74590/legendado",
-                                "title": "Shikabane Hime: Aka",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16375_background.jpg?v=1704218376"
-                            },
-                            {
-                                "url": "/episodio/74589/legendado",
-                                "title": "Shikabane Hime: Aka",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16375_background.jpg?v=1704218376"
-                            },
-                            {
-                                "url": "/episodio/74588/legendado",
-                                "title": "Shikabane Hime: Aka",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16375_background.jpg?v=1704218376"
-                            },
-                            {
-                                "url": "/episodio/74587/legendado",
-                                "title": "Shikabane Hime: Aka",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16375_background.jpg?v=1704218376"
-                            },
-                            {
-                                "url": "/episodio/74586/legendado",
                                 "title": "Shikabane Hime: Aka",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/16375_background.jpg?v=1704218376"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/mahou-shoujo-ni-akogarete",
+                                "title": "Mahou Shoujo ni Akogarete",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4091.webp"
+                            },
+                            {
                                 "url": "/boku-no-kokoro-no-yabai-yatsu-season-2",
                                 "title": "Boku no Kokoro no Yabai Yatsu Season 2",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Mask Danshi wa Koishitakunai noni",
                                 "status": 2,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4072.webp"
-                            },
-                            {
-                                "url": "/tensei-shitara-slime-datta-ken-coleus-no-yume",
-                                "title": "Tensei shitara Slime Datta Ken: Coleus no Yume",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4071.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/boku-no-kokoro-no-yabai-yatsu-season-2",
-                    "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-                    "description": "Segunda temporada de Boku no Kokoro no Yabai Yatsu.",
-                    "genre": "Romance, Comedia, Shounen",
+                    "url": "/mahou-shoujo-ni-akogarete",
+                    "title": "Mahou Shoujo ni Akogarete",
+                    "description": "Hiiragi Utena siempre ha admirado a las chicas mágicas y ha fantaseado con transformarse en una heroína genial que lucha contra el mal. Entonces, cuando una figura parecida a una muñeca se le acerca una noche, alegando que tiene un poder mágico latente en su interior, ella tiembla de emoción. ¡Pero su colorido sueño se hace añicos rápidamente en un giro irónico de los acontecimientos cuando se transforma en una villana! Desinteresada en asociarse con las fuerzas del mal, intenta dejarlo cuando aparece un grupo de chicas mágicas y le declaran la guerra. Se produce una batalla y Hiiragi pronto descubre que disfruta infligir dolor a los demás mientras su verdadera naturaleza comienza a emerger.",
+                    "genre": "Acción, Comedia, Ecchi, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4090.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4091.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,7 +278,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/boku-no-kokoro-no-yabai-yatsu-season-2-1",
+                        "url": "/ver/mahou-shoujo-ni-akogarete-1",
                         "name": "Episodio 1",
                         "episode_number": 0.0
                     }
@@ -286,8 +286,28 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/0otoyr2mqlpa",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-4v7xw79skptjyuek.voe-network.net/engine/hls2-c/01/10219/fwp43tnjciui_,n,.urlset/master.m3u8?t=SwAzYUHJiuae2Qy5c7ym3VnKOiRH_xLfo9xDNmsew_Y&s=1704328305&e=14400&f=51097697&node=delivery-node-znj6okjw16mo8ccl.voe-network.net&i=20.172&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcxxdwx5z3b4quuopsqrymcmiayiqq7hbqsixrybbytvueci34sdupatznwhaiontnknzuaz/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxxdwx5z3b4quuopsqrymcmiayiqq7hbqsixrybbytvueci34sdupatznwhaiontnknzuaz/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=X2a3RdqW6zuD8vA&expires=1704398302&ip=FROsD0ETKxSHDN&token=9zoVjPxQsb1P",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=X2a3RdqW6zuD8vA&expires=1704398302&ip=FROsD0ETKxSHDN&token=9zoVjPxQsb1P"
+                    }
+                ],
+                "passed": true
             }
         }
     }
