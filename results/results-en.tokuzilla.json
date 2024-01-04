@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/utau-dai-ryugujo.html",
+                                "title": "Utau! Dai Ryugujo",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/utau-dai-ryugujo-thumb.png"
+                            },
+                            {
                                 "url": "/watch/turbo-a-power-rangers-movie.html",
                                 "title": "Turbo: A Power Rangers Movie",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/turbo-a-power-rangers-movie-thumb.png"
@@ -60,11 +65,6 @@
                                 "url": "/watch/tanteidan-special-maringumi-vs-hadogumi.html",
                                 "title": "Tanteidan Special: Maringumi vs. Hadogumi",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/tanteidan-special-maringumi-vs-hadogumi-thumb.png"
-                            },
-                            {
-                                "url": "/watch/german-tanteidan-maringumi.html",
-                                "title": "German Tanteidan Maringumi",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/german-tanteidan-maringumi-thumb.png"
                             }
                         ],
                         "hasNextPage": true
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/turbo-a-power-rangers-movie.html",
-                    "title": "Turbo: A Power Rangers Movie",
-                    "author": "Year 1997",
-                    "description": "Turbo: A Power Rangers Movie is a feature-length movie set in the Power Rangers universe. Directed by sci-fi veteran David Winning and Shuki Levy, it attempted to bridge the gap between Power Rangers Zeo and Power Rangers Turbo, unlike the previous film, which took place in an alternate continuity.",
-                    "genre": "Movie, Power Ranger",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/turbo-a-power-rangers-movie-thumb.png",
+                    "url": "/watch/utau-dai-ryugujo.html",
+                    "title": "Utau! Dai Ryugujo",
+                    "author": "Year 1992",
+                    "description": "Utau! Dai Ryugujo is the 13th series in the Toei Fushigi Comedy Series created by Shotaro Ishinomori and produced by Toei. It is based on the Japanese fairy tale of Urashima Tarō.",
+                    "genre": "Other, Series",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/utau-dai-ryugujo-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,9 +159,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/turbo-a-power-rangers-movie.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/utau-dai-ryugujo.html?ep=51#watch",
+                        "name": "Episode 51",
+                        "episode_number": 51.0
+                    },
+                    {
+                        "url": "/watch/utau-dai-ryugujo.html?ep=50#watch",
+                        "name": "Episode 50",
+                        "episode_number": 50.0
                     }
                 ],
                 "passed": true
@@ -167,25 +174,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls5-eu.zcdn.stream/8af363928c80cce9dc0900d59be67664/2021-09-28/720.m3u8?token=db92fc5188edfede7e28b5564c002651&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704357132&type=edge&node=0G19XGlrtaS5qrgWiMv2a7yKpHUIGJrOMXM2U6ZvPnitBPENLhULQWDpBjC0Uygp2ySdaZteDrfh4m6wOTYqkN8LgMizlclaujGzDBSy6z7bkDVzT07_91Wq8VqzJn7uA499F4Thb0AAEWUojb5cFIk0jCMuSr8ey2JptY1afEcYgiKiitkjt-YycSGsQX7m",
-                        "quality": "Chillx - 720p",
-                        "videoUrl": "https://hls5-eu.zcdn.stream/8af363928c80cce9dc0900d59be67664/2021-09-28/720.m3u8?token=db92fc5188edfede7e28b5564c002651&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704357132&type=edge&node=0G19XGlrtaS5qrgWiMv2a7yKpHUIGJrOMXM2U6ZvPnitBPENLhULQWDpBjC0Uygp2ySdaZteDrfh4m6wOTYqkN8LgMizlclaujGzDBSy6z7bkDVzT07_91Wq8VqzJn7uA499F4Thb0AAEWUojb5cFIk0jCMuSr8ey2JptY1afEcYgiKiitkjt-YycSGsQX7m",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Accept": "*/*",
-                            "Origin": "https://playerx.stream",
-                            "Referer": "https://playerx.stream/v/NaNxCHdLO9A2kyU0/"
-                        }
-                    },
-                    {
-                        "url": "https://hls5-eu.zcdn.stream/8af363928c80cce9dc0900d59be67664/2021-09-28/480.m3u8?token=db92fc5188edfede7e28b5564c002651&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704357132&type=edge&node=0G19XGlrtaS5qrgWiMv2a7yKpHUIGJrOMXM2U6ZvPnitBPENLhULQWDpBjC0Uygp2ySdaZteDrfh4m6wOTYqkN8LgMizlclaujGzDBSy6z7bkDVzT07_91Wq8VqzJn7uA499F4Thb0AAEWUojb5cFIk0jCMuSr8ey2JptY1afEcYgiKiitkjt-YycSGsQX7m",
+                        "url": "https://hls35-eu.zcdn.stream/0c00c843617319c5ceae4d5de1e16e61/2024-01-03/480.m3u8?token=3ce12f6271a95d0ed0d9276d9423915f&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704377367&type=edge&node=cuNKn5VNLey83XcgYM1K2i3HtJ6M8EETGENY6SyNvjzrDzZ-nwc4rFAYuCzSTPTfQ61KIYBBSfDczV81rSB_2ZpfIysqujucbcEyd30F_uAAuqO0NQBKC03RUXfqU5IcDEe2ffahAZbOt8EXxZZx9cGSVK6Kx8L4c4mAsCfnws_b0v1qdWspCIYUFghSEVTD",
                         "quality": "Chillx - 480p",
-                        "videoUrl": "https://hls5-eu.zcdn.stream/8af363928c80cce9dc0900d59be67664/2021-09-28/480.m3u8?token=db92fc5188edfede7e28b5564c002651&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704357132&type=edge&node=0G19XGlrtaS5qrgWiMv2a7yKpHUIGJrOMXM2U6ZvPnitBPENLhULQWDpBjC0Uygp2ySdaZteDrfh4m6wOTYqkN8LgMizlclaujGzDBSy6z7bkDVzT07_91Wq8VqzJn7uA499F4Thb0AAEWUojb5cFIk0jCMuSr8ey2JptY1afEcYgiKiitkjt-YycSGsQX7m",
+                        "videoUrl": "https://hls35-eu.zcdn.stream/0c00c843617319c5ceae4d5de1e16e61/2024-01-03/480.m3u8?token=3ce12f6271a95d0ed0d9276d9423915f&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704377367&type=edge&node=cuNKn5VNLey83XcgYM1K2i3HtJ6M8EETGENY6SyNvjzrDzZ-nwc4rFAYuCzSTPTfQ61KIYBBSfDczV81rSB_2ZpfIysqujucbcEyd30F_uAAuqO0NQBKC03RUXfqU5IcDEe2ffahAZbOt8EXxZZx9cGSVK6Kx8L4c4mAsCfnws_b0v1qdWspCIYUFghSEVTD",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
-                            "Origin": "https://playerx.stream",
-                            "Referer": "https://playerx.stream/v/NaNxCHdLO9A2kyU0/"
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/v/JWt4R3TM7cki/"
                         }
                     }
                 ],
