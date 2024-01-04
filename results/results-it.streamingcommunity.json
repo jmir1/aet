@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7442-the-brothers-sun",
+                                "title": "The Brothers Sun",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/db6aa995-2f15-499e-a05d-fb67d518b62d.webp"
+                            },
+                            {
                                 "url": "7429-la-societa-della-neve",
                                 "title": "La società della neve",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ff0a8845-f0c1-4f4c-b3f1-2663116e4596.webp"
@@ -15,6 +20,11 @@
                                 "url": "7432-bang-bank",
                                 "title": "Bang Bank",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b7a73c54-d920-40f4-83ce-aac6e692d11c.webp"
+                            },
+                            {
+                                "url": "7441-karaoke-night",
+                                "title": "Karaoke Night",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9539e739-f772-4170-b181-6ed61964b26c.webp"
                             },
                             {
                                 "url": "7377-sei-cio-che-mangi-gemelli-a-confronto",
@@ -295,16 +305,6 @@
                                 "url": "6935-elf-me",
                                 "title": "Elf Me",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/7c716f0c-c51c-4c2d-b568-80113c0a340d.webp"
-                            },
-                            {
-                                "url": "6925-ultima-chiamata-per-istanbul",
-                                "title": "Ultima chiamata per Istanbul",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1306ae7e-dd75-4dcc-9eeb-9f9d4f34c079.webp"
-                            },
-                            {
-                                "url": "6924-unica",
-                                "title": "Unica",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/90ab5f68-39a2-4e93-98a1-751ad3fd84b1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7429-la-societa-della-neve",
-                    "description": "Il 13 ottobre 1972, il volo 571 dell'aeronautica militare uruguaiana, noleggiato per portare una squadra di rugby in Cile, si schianta su un ghiacciaio nel cuore delle Ande.",
-                    "genre": "Dramma, Storia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7442-the-brothers-sun",
+                    "description": "Un membro della triade di Taipei raggiunge Los Angeles per proteggere la madre testarda e l'ignaro fratello minore da un nemico misterioso che ha preso di mira la sua famiglia.",
+                    "genre": "Dramma, Crime, Action & Adventure",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7429",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "7442?e=48711",
+                        "name": "Stagione 1 episodio 5 - Il Rolodex",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "7442?e=48710",
+                        "name": "Stagione 1 episodio 4 - Quadrato",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
