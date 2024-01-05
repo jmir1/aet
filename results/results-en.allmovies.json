@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/all-the-light-we-cannot-see/",
+                                "title": "All the Light We Cannot See",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/5vctOvdEXakZWTJrP8bgPEoCbqS.jpg"
+                            },
+                            {
                                 "url": "/series/beacon-23/",
                                 "title": "Beacon 23",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/iflPBIRvxeyXw1RlTqmI7yGtbP5.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/foundation/",
                                 "title": "Foundation",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
-                            },
-                            {
-                                "url": "/series/all-american-homecoming/",
-                                "title": "All American: Homecoming",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6kehchi6qhbVmBQq6AJjWuLmOOA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/beacon-23/",
-                    "title": "Beacon 23",
-                    "author": "Zak Penn",
-                    "description": "Aster Calyx and Halan Kai Nelson are inextricably drawn to Beacon 23. Navigating one threat after another, they unravel the beacon’s mysteries, just in time to face their most powerful enemy.",
-                    "genre": "Drama, Sci-Fi & Fantasy",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/all-the-light-we-cannot-see/",
+                    "title": "All the Light We Cannot See",
+                    "author": "Steven Knight",
+                    "description": "The story of Marie-Laure, a blind teenager, and Werner, a German soldier, whose paths collide in occupied France as both try to survive the devastation of World War II.",
+                    "genre": "Drama",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/beacon-23-1x8/",
-                        "name": "Season 1x8 : Adamantine",
-                        "episode_number": 8.0
+                        "url": "/episode/all-the-light-we-cannot-see-1x4/",
+                        "name": "Season 1x4 : Episode 4",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/episode/beacon-23-1x7/",
-                        "name": "Season 1x7 : End Transmission",
-                        "episode_number": 7.0
+                        "url": "/episode/all-the-light-we-cannot-see-1x3/",
+                        "name": "Season 1x3 : Episode 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

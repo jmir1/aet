@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7443-dopo-oliver",
+                                "title": "Dopo Oliver",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e02ec04-cf4d-4d52-874a-a3ed6d693597.webp"
+                            },
+                            {
                                 "url": "7442-the-brothers-sun",
                                 "title": "The Brothers Sun",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/db6aa995-2f15-499e-a05d-fb67d518b62d.webp"
@@ -45,11 +50,6 @@
                                 "url": "7417-captains-of-the-world",
                                 "title": "Captains of the World",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/73afcb09-f412-4e51-81ea-a1cbd6c71f95.webp"
-                            },
-                            {
-                                "url": "7443-dopo-oliver",
-                                "title": "Dopo Oliver",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e02ec04-cf4d-4d52-874a-a3ed6d693597.webp"
                             },
                             {
                                 "url": "6979-berlino",
@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7445-il-nemico",
+                                "title": "Il nemico",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/43e6907c-5c15-4955-b86a-2e4935583c7f.webp"
+                            },
+                            {
                                 "url": "7444-fire-country",
                                 "title": "Fire Country",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f467a66c-d45e-4c4d-bf30-3ffd281ed81b.webp"
@@ -324,7 +329,7 @@
                             {
                                 "url": "7440-affare-fatto",
                                 "title": "Affare Fatto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/95ddd5c5-d90e-4622-8ee6-900e72967964.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5439b9ad-2abc-4e23-8ca8-ec0699e3adaa.webp"
                             },
                             {
                                 "url": "7439-batman-robin",
@@ -610,11 +615,6 @@
                                 "url": "7369-operation-seawolf-missione-finale",
                                 "title": "Operation Seawolf - Missione Finale",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a5775161-405d-4cc7-b7ca-c271e7394fd7.webp"
-                            },
-                            {
-                                "url": "7368-nymphs",
-                                "title": "Nymphs",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/934b359d-ee68-4487-9097-b5a1f452c968.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7442-the-brothers-sun",
-                    "description": "Un membro della triade di Taipei raggiunge Los Angeles per proteggere la madre testarda e l'ignaro fratello minore da un nemico misterioso che ha preso di mira la sua famiglia.",
-                    "genre": "Dramma, Crime, Action & Adventure",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "7443-dopo-oliver",
+                    "description": "Un artista in lutto per la morte del celebre scrittore suo marito parte per Parigi con due amici con cui affronterà segreti difficili e scomode verità.",
+                    "genre": "Dramma, Commedia, Romance",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -946,20 +946,15 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7442?e=48713",
-                        "name": "Stagione 1 episodio 8 - Proteggere la famiglia",
-                        "episode_number": 8.0
-                    },
-                    {
-                        "url": "7442?e=48714",
-                        "name": "Stagione 1 episodio 7 - Gymkata",
-                        "episode_number": 7.0
+                        "url": "7443",
+                        "name": "Film",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7442?episode_id=48713\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7442?episode_id=48713\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14673933979005972574/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14673933979005972574/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14673933979005972574/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14673933979005972574/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
