@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/irmaos-sun",
+                                "title": "Irmãos Sun",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22566.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-curse",
                                 "title": "The Curse",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Yu Yu Hakusho",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22558.webp"
-                            },
-                            {
-                                "url": "/serie/online/bookie",
-                                "title": "Bookie",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22551.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

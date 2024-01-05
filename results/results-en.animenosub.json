@@ -127,6 +127,16 @@
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2024/01/Mato-Seihei-no-Slave-poster.jpg"
                             },
                             {
+                                "url": "/anime/dungeon-meshi/",
+                                "title": "Dungeon Meshi",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/12/Dungeon-Meshi-poster.jpg"
+                            },
+                            {
+                                "url": "/anime/dungeon-meshi-dub/",
+                                "title": "Dungeon Meshi DUB",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2024/01/Dungeon-Meshi-DUB-poster.jpg"
+                            },
+                            {
                                 "url": "/anime/kekkon-yubiwa-monogatari/",
                                 "title": "Kekkon Yubiwa Monogatari",
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2024/01/1704381118-2292-139991.jpg"
@@ -145,16 +155,6 @@
                                 "url": "/anime/sasaki-to-pii-chan/",
                                 "title": "Sasaki to Pii-chan",
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2024/01/1704380512-9137-139672.jpg"
-                            },
-                            {
-                                "url": "/anime/dungeon-meshi/",
-                                "title": "Dungeon Meshi",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/12/Dungeon-Meshi-poster.jpg"
-                            },
-                            {
-                                "url": "/anime/dungeon-meshi-dub/",
-                                "title": "Dungeon Meshi DUB",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2024/01/Dungeon-Meshi-DUB-poster.jpg"
                             },
                             {
                                 "url": "/anime/natsu-e-no-tunnel-sayonara-no-deguchi/",
@@ -316,8 +316,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztrouznq2fq3dfqa/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztrouznq2fq3dfqa/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

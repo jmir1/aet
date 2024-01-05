@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mato-seihei-no-slave",
+                                "title": "Mato Seihei no Slave",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933399.jpg"
+                            },
+                            {
                                 "url": "/anime/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
                                 "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933398.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/pokemon-concierge",
                                 "title": "Pokemon Concierge",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933384.jpg"
-                            },
-                            {
-                                "url": "/anime/the-drakers",
-                                "title": "The Drakers",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933383.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
-                    "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-                    "description": "Awaking to absolute chaos and carnage while on a school trip, Yogiri Takatou discovers that everyone in his class has been transported to another world! He had somehow managed to sleep through the entire ordeal himself, missing out on the Gift—powers bestowed upon the others by a mysterious Sage who appeared to transport them. Even worse, he and another classmate were ruthlessly abandoned by their friends, left as bait to distract a nearby dragon. Although not terribly bothered by the thought of dying, he reluctantly decides to protect his lone companion. After all, a lowly Level 1000 monster doesn’t stand a chance against his secret power to invoke Instant Death with a single thought! If he can stay awake long enough to bother using it, that is…",
-                    "genre": "Action, Adventure, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933398.jpg",
+                    "url": "/anime/mato-seihei-no-slave",
+                    "title": "Mato Seihei no Slave",
+                    "description": "After his high school graduation, Yuuki Wakura realizes it has been five years since his sister’s disappearance during a “Mato disaster.” Throughout Japan, mysterious entrances have opened to a dimension called “Mato”—a demonic metropolis filled with disastrous monsters known as the “Shuuki” that threaten the safety of humans. However, a new hope arose, as the discovery of a Mato fruit that grants supernatural abilities exclusively to women allowed them to fight against the Shuuki. Due to this, a new matriarchal government was formed, establishing a female organization called the Anti-Demon Corps, which caused men to fall to the bottom of society.",
+                    "genre": "Action, Ecchi, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933399.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mato-seihei-no-slave-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJuIU43d-VPBw-Wt8ZxeYr8ZB8FA16oruTGqbU6isn0zrNaUSdkSOCB9aeD1Z1nJWmaVl-zMI9OEAo1VxywAWK_wWEhlV2KNgVkUj-Hb3luxxz8P2aXZHyLjYbAI0SB9ka2lIgXtT3SpyUje_3MVtgo4ZREl51yNW_54DJw1Hb4JOOfmm95JHNqV5x8ZuxmiVxBmmdhLMhaEQ-ECobNWDvDJANQW-FkcnmzqtsVlvznLcJD1O2zjryClbSE1Wrbvl8Hq46XTW3UUdDbMDO1JFWK_rnP0E4jkJPZwtlaiTUNY8qnsN_Ps54AXqlpmMpyFdr1t2ZPtsA_caeqSAqkLoyWk",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJuIU43d-VPBw-Wt8ZxeYr8ZB8FA16oruTGqbU6isn0zrNaUSdkSOCB9aeD1Z1nJWmaVl-zMI9OEAo1VxywAWK_wWEhlV2KNgVkUj-Hb3luxxz8P2aXZHyLjYbAI0SB9ka2lIgXtT3SpyUje_3MVtgo4ZREl51yNW_54DJw1Hb4JOOfmm95JHNqV5x8ZuxmiVxBmmdhLMhaEQ-ECobNWDvDJANQW-FkcnmzqtsVlvznLcJD1O2zjryClbSE1Wrbvl8Hq46XTW3UUdDbMDO1JFWK_rnP0E4jkJPZwtlaiTUNY8qnsN_Ps54AXqlpmMpyFdr1t2ZPtsA_caeqSAqkLoyWk"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJuIU43d-VPBw-Wt8ZxeYr8ZB8FA16oruTGqbU6isn0zrNaUSdkSOCB9aeD1Z1nJWmaVl-zMI9OEAo1VxywAWK_wWEhlV2KNgVkUj-Hb3luxxq0wHzls35921PgdPThvWGY0mXKLrw7LG2NR_9W0UQtmUfluVpAsqyjuOro8UXoaclCGQlqEvk7C9u_Aug7YCbBS-Exv80y2LI1U2Un5ryWeX2gpniJ332-jC8eOlpLqdGWeX0tHiYz7kPtUq55-FvmQ6Y1gHxNWZN4YeT3S-eGwX0o9dqrhIzdMtXl58jjugNQZLQnvfOLLzjHV2sMJXnQPzj6kKRFR0YXWlrej2tgU",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJuIU43d-VPBw-Wt8ZxeYr8ZB8FA16oruTGqbU6isn0zrNaUSdkSOCB9aeD1Z1nJWmaVl-zMI9OEAo1VxywAWK_wWEhlV2KNgVkUj-Hb3luxxq0wHzls35921PgdPThvWGY0mXKLrw7LG2NR_9W0UQtmUfluVpAsqyjuOro8UXoaclCGQlqEvk7C9u_Aug7YCbBS-Exv80y2LI1U2Un5ryWeX2gpniJ332-jC8eOlpLqdGWeX0tHiYz7kPtUq55-FvmQ6Y1gHxNWZN4YeT3S-eGwX0o9dqrhIzdMtXl58jjugNQZLQnvfOLLzjHV2sMJXnQPzj6kKRFR0YXWlrej2tgU"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJuIU43d-VPBw-Wt8ZxeYr8ZB8FA16oruTGqbU6isn0zrNaUSdkSOCB9aeD1Z1nJWmaVl-zMI9OEAo1VxywAWK_wWEhlV2KNgVkUj-Hb3luxx2tIrcOh2p09OMAk1WA-WMqnQAutfQ554aj3XatXngglHK8jk1OiZ8o9B_rAzpaAK3EcttMHpCNMdkXduMwOuClf6mewWMNP5CcwAsnxZjqbWEaAbRmn8n7soo4_2GRm818qUjZstRon8ES5hQvhTngrcCUKI4uG8xXFcS7HZMTMSODDN0sx6pNBiSKw6h5xzmc3Ar3ZS6g9myV7Mbl3Z8HZOrm8AhDzwZ5kkanXWjII",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJuIU43d-VPBw-Wt8ZxeYr8ZB8FA16oruTGqbU6isn0zrNaUSdkSOCB9aeD1Z1nJWmaVl-zMI9OEAo1VxywAWK_wWEhlV2KNgVkUj-Hb3luxx2tIrcOh2p09OMAk1WA-WMqnQAutfQ554aj3XatXngglHK8jk1OiZ8o9B_rAzpaAK3EcttMHpCNMdkXduMwOuClf6mewWMNP5CcwAsnxZjqbWEaAbRmn8n7soo4_2GRm818qUjZstRon8ES5hQvhTngrcCUKI4uG8xXFcS7HZMTMSODDN0sx6pNBiSKw6h5xzmc3Ar3ZS6g9myV7Mbl3Z8HZOrm8AhDzwZ5kkanXWjII"
+                    }
+                ],
+                "passed": true
             }
         }
     }
