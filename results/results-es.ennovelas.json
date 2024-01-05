@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/el-doctor-del-pueblo/",
+                                "title": "El doctor del pueblo",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/El-Doctor-del-Pueblo.png"
+                            },
+                            {
                                 "url": "/series/aska-dusman-en-espanol/",
                                 "title": "Aska Düsman (en Español)",
                                 "description": "",
@@ -209,12 +215,6 @@
                                 "title": "Tierra amarga",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/09/s-l500.jpg"
-                            },
-                            {
-                                "url": "/series/esaret-en-espanol/",
-                                "title": "Esaret – (en Español)",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/04/esaret-e1681351683283-386x520.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,11 +252,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/aska-dusman-en-espanol/",
-                    "title": "Aska Düsman (en Español)",
-                    "artist": "Beste Kanar",
-                    "author": "Eylem Canpolat",
-                    "description": "Aska Düsman (en Español)",
+                    "url": "/series/el-doctor-del-pueblo/",
+                    "title": "El doctor del pueblo",
+                    "artist": "Gabriela Rivero",
+                    "author": "Gennys Pérez",
+                    "description": "El doctor del pueblo",
                     "genre": "Drama, Srnovelas",
                     "status": 1,
                     "status_name": "ONGOING",
@@ -267,16 +267,30 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/aska-dusman-capitulo-1/",
-                        "name": "Capitulo 1",
-                        "episode_number": 1.0
+                        "url": "/el-doctor-del-pueblo-capitulo-5/",
+                        "name": "T1 - E5 - Capítulo 5",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "/el-doctor-del-pueblo-capitulo-4/",
+                        "name": "T1 - E4 - Capítulo 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m40.uqload.io/3rfkl6rjsjw2q4drdjv7vivclo7ccbrnl2welli4anqzgsypvvf2pn6jmgvq/v.mp4",
+                        "quality": "Uqload Uqload",
+                        "videoUrl": "https://m40.uqload.io/3rfkl6rjsjw2q4drdjv7vivclo7ccbrnl2welli4anqzgsypvvf2pn6jmgvq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
