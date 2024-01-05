@@ -7,6 +7,54 @@
                     {
                         "animes": [
                             {
+                                "url": "/mi-cunado-es-un-vampiro/",
+                                "title": "Mi cuñado es un vampiro",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/t3gIa1WUT9Me8Y6GekXt1A5VdTp.jpg"
+                            },
+                            {
+                                "url": "/maestro/",
+                                "title": "Maestro",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/x0Dt9OmEtorKnyTNC9VcIQQJYnk.jpg"
+                            },
+                            {
+                                "url": "/portales/",
+                                "title": "Portales",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8Y2OKICR9N6761NARS9DmmjFAmp.jpg"
+                            },
+                            {
+                                "url": "/la-fierecilla-indomable-2/",
+                                "title": "La fierecilla indomable 2",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9tNVxK7iOsjN3hwNsFtnbbTiD2d.jpg"
+                            },
+                            {
+                                "url": "/the-drop/",
+                                "title": "The Drop",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/btXxxXvBysto46GswB3jf6cSvdf.jpg"
+                            },
+                            {
+                                "url": "/the-winter-witch/",
+                                "title": "The Winter Witch",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/esmu39G0XWcbKdaakPjmTfRbHIv.jpg"
+                            },
+                            {
+                                "url": "/waking-up-to-christmas/",
+                                "title": "Waking Up To Christmas",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xRjcho5cMPkVwNUEVJE4OobDvba.jpg"
+                            },
+                            {
+                                "url": "/christmas-carole/",
+                                "title": "Christmas Carole",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6ffAnG1WGjeImcq7N6dN0PsErjq.jpg"
+                            },
+                            {
                                 "url": "/bring-him-to-me/",
                                 "title": "Bring Him to Me",
                                 "description": "",
@@ -53,54 +101,6 @@
                                 "title": "Los juegos del hambre: Balada de pájaros cantores y serpientes",
                                 "description": "",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/z9oNYBLNa6f4MyLIkihlDSi1hxe.jpg"
-                            },
-                            {
-                                "url": "/office-race/",
-                                "title": "Office Race",
-                                "description": "",
-                                "thumbnail_url": "https://fanpelis.la/wp-content/themes/PsyPlay/assets/css/img/noimg.png"
-                            },
-                            {
-                                "url": "/el-misterio-del-bosque/",
-                                "title": "El Misterio del Bosque",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/60cVrAVZJruHvqOt1mNxf3lTpwd.jpg"
-                            },
-                            {
-                                "url": "/el-bufon/",
-                                "title": "El Bufón",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6a6PmabZ32a0xIn2TJx4MGKN6Q6.jpg"
-                            },
-                            {
-                                "url": "/anaconda-el-despertar/",
-                                "title": "Anaconda: El despertar",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/c1agDaiqalendKz8q2fLg7AELxS.jpg"
-                            },
-                            {
-                                "url": "/viraliza-o-muere/",
-                                "title": "Viraliza o Muere",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g2ld3oshAd53PBv0a1qy7L6gG8V.jpg"
-                            },
-                            {
-                                "url": "/mistletoe-in-montana/",
-                                "title": "Mistletoe in Montana",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/21Qx9f1cTA7p0uQewbMo4Jj1Hvm.jpg"
-                            },
-                            {
-                                "url": "/un-amor-verdadero/",
-                                "title": "Un Amor Verdadero",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wf2xzBkdsyydDHKctM4cbu398zc.jpg"
-                            },
-                            {
-                                "url": "/una-navidad-para-chueco/",
-                                "title": "Una Navidad para Chueco",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jkv1JH2kG7az4mMt2ANQIzpCKkx.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -215,13 +215,22 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/mi-cunado-es-un-vampiro/",
+                    "title": "Mi cuñado es un vampiro",
+                    "description": "Mi cuñado es un vampiro Fernandinho es un hombre de familia, exjugador de fútbol y actual comentarista de podcasts, que tiene que armarse de valor para pararle los pies a su inoportuno cuñado, Gregorio, de quien descubre que es un holgazán y literalmente un chupasangre que se propone dominar el mundo.",
+                    "genre": "Comedia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/t3gIa1WUT9Me8Y6GekXt1A5VdTp.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/bring-him-to-me/",
+                        "url": "/mi-cunado-es-un-vampiro/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
