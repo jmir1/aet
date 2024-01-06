@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/el-gran-chef-famosos/",
+                                "title": "El Gran Chef Famosos",
+                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+                            },
+                            {
                                 "url": "/capitanes-del-mundo/",
                                 "title": "Capitanes del mundo",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
@@ -52,13 +57,8 @@
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             },
                             {
-                                "url": "/los-cuentos-navidenos-de-mickey/",
-                                "title": "Los Cuentos Navideños de Mickey",
-                                "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
-                            },
-                            {
-                                "url": "/airwolf-capitulos-completos-latino-hd-online/",
-                                "title": "Lobo del aire",
+                                "url": "/rurangi/",
+                                "title": "Rurangi",
                                 "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
                             }
                         ],
@@ -122,9 +122,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/rhythm-flow/",
-                                "title": "Rhythm + Flow",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qucAXthoGqeg5UfByOwkw7VnxSK.jpg"
+                                "url": "/keeping-up-with-the-kardashians/",
+                                "title": "Las Kardashian",
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/sOHkeoRmEwhGYXjpei8UWxvN9S7-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -134,34 +134,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/capitanes-del-mundo/",
-                    "title": "Capitanes del mundo",
-                    "description": "Captains of the World De los vestuarios al campo, esta docuserie ofrece acceso exclusivo a las 32 selecciones que luchan por alcanzar la gloria futbolística en la Copa Mundial de la FIFA 2022.",
-                    "genre": "Documental",
+                    "url": "/el-gran-chef-famosos/",
+                    "title": "El Gran Chef Famosos",
+                    "description": "El gran chef famosos (también citado como El gran chef: famosos o simplemente El gran chef) es un programa de televisión peruano de competición gastronómica entre celebridades del país, conducido por José Peláez, producido por Rayo en la Botella y emitido por Latina Televisión.",
+                    "genre": "Comedia, Familia, Reality",
                     "thumbnail_url": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/capitanes-del-mundo-temporada-1-capitulo-6/",
-                        "name": "T01 - E06 - Los mejores",
-                        "date_upload": 1703894400000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episode/capitanes-del-mundo-temporada-1-capitulo-5/",
-                        "name": "T01 - E05 - Juegos psicológicos",
-                        "date_upload": 1703894400000,
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

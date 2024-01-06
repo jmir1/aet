@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Sasaki-and-Peeps/",
+                                "title": "Sasaki and Peeps",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sasaki-and-Peeps.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Unwanted-Undead-Adventurer/",
+                                "title": "The Unwanted Undead Adventurer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Unwanted-Undead-Adventurer.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Demon-Prince-of-Momochi-House/",
+                                "title": "The Demon Prince of Momochi House",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Demon-Prince-of-Momochi-House.jpg"
+                            },
+                            {
+                                "url": "/Anime/Chiyu-Mahou-no-Machigatta-Tsukaikata/",
+                                "title": "The Wrong Way to Use Healing Magic",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Wrong-Way-to-Use-Healing-Magic.jpg"
+                            },
+                            {
+                                "url": "/Anime/frieren-beyond-journeys-end.11511/",
+                                "title": "Frieren: Beyond Journey’s End",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
+                            },
+                            {
                                 "url": "/Anime/Delicious-in-Dungeon-Dub/",
                                 "title": "Delicious in Dungeon (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Dungeon-Meshi-Dub.jpg"
@@ -292,7 +317,7 @@
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/My-Instant-Death-Ability-Is-So-Overpowered-No-One-in-This-Other-World-Stands-a-Chance-Against-Me.jpg"
                             },
                             {
-                                "url": "/Anime/Chiikawa/",
+                                "url": "/Anime/chiikawa.32243/",
                                 "title": "Chiikawa",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/08/Chiikawa.jpg"
                             },
@@ -490,31 +515,6 @@
                                 "url": "/Anime/Paradox-Live-THE-ANIMATION/",
                                 "title": "Paradox Live THE ANIMATION",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Paradox-Live-THE-ANIMATION.jpg"
-                            },
-                            {
-                                "url": "/Anime/I-Shall-Survive-Using-Potions-Dub/",
-                                "title": "I Shall Survive Using Potions! (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/I-Shall-Survive-Using-Potions-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Faraway-Paladin-The-Lord-of-Rust-Mountains-Dub/",
-                                "title": "The Faraway Paladin: The Lord of Rust Mountains (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/The-Faraway-Paladin-The-Lord-of-Rust-Mountains-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Returner-s-Magic-Should-Be-Special-Dub/",
-                                "title": "A Returner's Magic Should Be Special (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/A-Returner-s-Magic-Should-Be-Special-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/SPY-x-FAMILY-Season-2-Dub/",
-                                "title": "SPY x FAMILY Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/SPY-x-FAMILY-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi/",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Seven-Deadly-Sins-Four-Knights-of-the-Apocalypse.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1057,21 +1057,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s46.openstream.io/hls/qvsbi3nwmxblgwsztszkaz65bwdhg2fe5lcw2fvrtsw3o4s7tjfrxqwka3ba/index-v1-a1.m3u8",
-                        "quality": "Oserver - 1080p",
-                        "videoUrl": "https://s46.openstream.io/hls/qvsbi3nwmxblgwsztszkaz65bwdhg2fe5lcw2fvrtsw3o4s7tjfrxqwka3ba/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s46.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

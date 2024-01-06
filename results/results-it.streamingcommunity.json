@@ -7,11 +7,6 @@
                     {
                         "animes": [
                             {
-                                "url": "7428-come-puo-uno-scoglio",
-                                "title": "Come può uno scoglio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4023fb0a-6d0c-4d4c-9309-f1a93a32f83e.webp"
-                            },
-                            {
                                 "url": "7443-dopo-oliver",
                                 "title": "Dopo Oliver",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e02ec04-cf4d-4d52-874a-a3ed6d693597.webp"
@@ -305,6 +300,11 @@
                                 "url": "7082-my-demon",
                                 "title": "My Demon",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c651149-7043-48e8-a75b-4311b73d6cfa.webp"
+                            },
+                            {
+                                "url": "7014-il-mondo-dietro-di-te",
+                                "title": "Il mondo dietro di te",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ccf50b98-fbdc-4637-bc91-f3b82e48372c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "7428-come-puo-uno-scoglio",
-                    "description": "Alla morte di suo padre, Pio eredita la gestione di svariate attività. Ora vive nell’agio di Treviso con la sua famiglia, ed è in corsa per diventare sindaco. Finché Amedeo, un ex carcerato fatto assumere dal parroco del paese come autista personale, non irrompe nella sua vita come un tornado. Ma i due hanno in comune molto più di quello che sembra. Grazie ad Amedeo, Pio riscoprirà le sue passioni e la verità sulla sua famiglia, in un viaggio di riconciliazione con sé stesso.",
-                    "genre": "Commedia",
+                    "url": "7443-dopo-oliver",
+                    "description": "Un artista in lutto per la morte del celebre scrittore suo marito parte per Parigi con due amici con cui affronterà segreti difficili e scomode verità.",
+                    "genre": "Dramma, Commedia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,7 +946,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7428",
+                        "url": "7443",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17821093105532364279/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17821093105532364279/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17821093105532364279/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17821093105532364279/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
