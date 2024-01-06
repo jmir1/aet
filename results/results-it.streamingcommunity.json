@@ -317,6 +317,36 @@
                     {
                         "animes": [
                             {
+                                "url": "7453-alien-spider",
+                                "title": "Alien Spider",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d939f3fd-e956-4c2c-9f07-50d2d4eefa23.webp"
+                            },
+                            {
+                                "url": "7452-jukai-la-foresta-dei-suicidi",
+                                "title": "Jukai - La foresta dei suicidi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/15fda068-9495-4888-b696-4b51a05a210c.webp"
+                            },
+                            {
+                                "url": "7451-safrom",
+                                "title": "Safrom",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ed9b1bff-3d46-446e-8de0-15021e8cfcea.webp"
+                            },
+                            {
+                                "url": "7450-the-gifted",
+                                "title": "The Gifted",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bb716e9f-997b-4ec5-9654-3e1fd6549bbd.webp"
+                            },
+                            {
+                                "url": "7449-teenage-mutant-ninja-turtles-tartarughe-ninja",
+                                "title": "Teenage Mutant Ninja Turtles - Tartarughe Ninja",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c2a6984a-7ee3-4d92-b7f8-4ef842a4a50a.webp"
+                            },
+                            {
+                                "url": "7448-marvels-agent-carter",
+                                "title": "Marvel's Agent Carter",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/08e7f767-4350-4613-9fcb-9a32c01fa58f.webp"
+                            },
+                            {
                                 "url": "7447-rapunzel-la-serie",
                                 "title": "Rapunzel: La serie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e9c79bd-6103-4783-9328-e5fd7002c179.webp"
@@ -585,36 +615,6 @@
                                 "url": "7381-the-stronghold-la-roccaforte",
                                 "title": "The Stronghold - La Roccaforte",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f34faa5f-8fba-4725-b00a-7ffc062872bd.webp"
-                            },
-                            {
-                                "url": "7380-lenigma-di-medusa",
-                                "title": "L'enigma di Medusa",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/0ea8fe8c-0a2b-4125-8c27-f5758f637fc2.webp"
-                            },
-                            {
-                                "url": "7379-i-cacciatori-di-tesori-un-oscuro-segreto",
-                                "title": "I cacciatori di tesori - Un oscuro segreto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/34b8315c-4720-46ac-ac37-3576c3b5ceb8.webp"
-                            },
-                            {
-                                "url": "7378-non-mentire",
-                                "title": "Non mentire",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/94e92a89-1efb-478d-932b-0630b52982ea.webp"
-                            },
-                            {
-                                "url": "7373-il-voto-della-morte",
-                                "title": "Il voto della morte",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ad181b53-1671-4cf2-9e06-02077bcee36c.webp"
-                            },
-                            {
-                                "url": "7372-k9-squadra-antidroga",
-                                "title": "K9 - Squadra antidroga",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/521058c3-73f1-4e16-be54-958e2504e6ea.webp"
-                            },
-                            {
-                                "url": "7371-il-pataffio",
-                                "title": "Il pataffio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b4e33db3-a33e-453d-86fb-7c6ceeb80dca.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7443\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-17821093105532364279/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-17821093105532364279/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-17821093105532364279/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-17821093105532364279/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
