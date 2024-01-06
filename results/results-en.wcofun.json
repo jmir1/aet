@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mansour",
+                                "title": "Mansour",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933405.jpg"
+                            },
+                            {
+                                "url": "/anime/pon-no-michi",
+                                "title": "Pon no Michi",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933404.jpg"
+                            },
+                            {
+                                "url": "/anime/momochi-san-chi-no-ayakashi-ouji",
+                                "title": "Momochi-san Chi no Ayakashi Ouji",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933403.jpg"
+                            },
+                            {
+                                "url": "/anime/chiyu-mahou-no-machigatta-tsukaikata",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933402.jpg"
+                            },
+                            {
                                 "url": "/anime/sasaki-to-pii-chan",
                                 "title": "Sasaki to Pii-chan",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933401.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu",
                                 "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933390.jpg"
-                            },
-                            {
-                                "url": "/anime/eternal-boys-next-stage-english-subbed",
-                                "title": "Eternal Boys Next Stage English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933389.jpg"
-                            },
-                            {
-                                "url": "/anime/traffic-safety-with-poli",
-                                "title": "Traffic Safety with POLI",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933388.jpg"
-                            },
-                            {
-                                "url": "/anime/the-bellflower-bunnies",
-                                "title": "The Bellflower Bunnies",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933387.jpg"
-                            },
-                            {
-                                "url": "/anime/the-gumby-show",
-                                "title": "The Gumby Show",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933386.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sasaki-to-pii-chan",
-                    "title": "Sasaki to Pii-chan",
-                    "description": "Even though Sasaki’s droll corporate life is constantly filled with work, it leaves him tired and unfulfilled at the end of every day. In search of some companionship to fill the emptiness in his life, he visits a pet shop on a whim, not realizing he’s about to change his life forever. After settling on an adorable bird and bringing it home…his new roommate reveals that it’s actually an incredible sage from another world who promptly bestows Sasaki with supernatural powers as well as the ability to cross between worlds. All Sasaki wants to do is use these newfound powers to live in peace and comfort, but there are more than a few colorful characters who might get in the way of that…",
-                    "genre": "Adventure, Comedy, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933401.jpg",
+                    "url": "/anime/mansour",
+                    "title": "Mansour",
+                    "description": "Mansour is an animated comedy series about an active, life-loving, 12 year old boy and his adventures with his best friends, Obaid and Salem. Whenever life throws this group of inseparable buddies an opportunity, they grab it with both hands and their everyday lives are made extraordinary through their wonderful adventures. Whether their escapades take place at home, in the mall or at school, or further afield, in the rainforests, pyramids and mountains of distant countries – Mansour and his friends share the same zest for life as they embrace and explore a world full of excitement and opportunity.",
+                    "genre": "Adventure, Animation, Comedy, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933405.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mansour-episode-26-the-lost-temple",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
+                    },
+                    {
+                        "url": "/mansour-episode-25-kitty-cat",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv1ktIreQiBcB-wlLyFCw9hg1HQY6sZs5yn24dhx7wzFXlXEMvHGzNhYTpRMmBnM3x0CG5PUXpXtJSjOeVnbcPbsyiQ9Yi5rEYZsTaGwnvRmiWlzZUJvWSbzhnVLI7uOnB1IGqMk_b6wb3NaGmwhJleZE2aqjkXPnk4KDZ2sOaJGh3Wk_A_joaqrh3rjr60eqjXR4--OIGFHsAf1trgeV42lUKfND90WAIsqqtjGs5ZYURnYafHl-QGO161UZ-huB8ECiUIKT0-oLPlquD3YYs55-fb2A00WuyM8T0ztdOJx",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv1ktIreQiBcB-wlLyFCw9hg1HQY6sZs5yn24dhx7wzFXlXEMvHGzNhYTpRMmBnM3x0CG5PUXpXtJSjOeVnbcPbsyiQ9Yi5rEYZsTaGwnvRmiWlzZUJvWSbzhnVLI7uOnB1IGqMk_b6wb3NaGmwhJleZE2aqjkXPnk4KDZ2sOaJGh3Wk_A_joaqrh3rjr60eqjXR4--OIGFHsAf1trgeV42lUKfND90WAIsqqtjGs5ZYURnYafHl-QGO161UZ-huB8ECiUIKT0-oLPlquD3YYs55-fb2A00WuyM8T0ztdOJx"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv1ktIreQiBcB-wlLyFCw9hg1HQY6sZs5yn24dhx7wzFGcvQ8tN0sRrnUFdWSACQ6twu1T2UPR1o6ZRkCSmV_lESo3CFF95AsCi_tBZpCbyLFpHk3-umC1qIMlirdrvLXDIKf1O1KoPLHb1ef1xff94WQ7jbwgQHZweZ4EigwP59P16YUCNe1Rk0CFqABFUfrDapP-y0DcLKtqwa3su2-PcCVB7bN858NOdOQUdBGdw9Ea-MM_u_IJmcsPlu19RrbjJfY6Yu5smni0RnlWd9J5aT-Wj2GClhDnQpIU8TQXKK",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv1ktIreQiBcB-wlLyFCw9hg1HQY6sZs5yn24dhx7wzFGcvQ8tN0sRrnUFdWSACQ6twu1T2UPR1o6ZRkCSmV_lESo3CFF95AsCi_tBZpCbyLFpHk3-umC1qIMlirdrvLXDIKf1O1KoPLHb1ef1xff94WQ7jbwgQHZweZ4EigwP59P16YUCNe1Rk0CFqABFUfrDapP-y0DcLKtqwa3su2-PcCVB7bN858NOdOQUdBGdw9Ea-MM_u_IJmcsPlu19RrbjJfY6Yu5smni0RnlWd9J5aT-Wj2GClhDnQpIU8TQXKK"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -92,6 +92,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74727/legendado",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42907_background.jpg?v=1704487605"
+                            },
+                            {
+                                "url": "/episodio/74726/legendado",
+                                "title": "Momochi-san Chi no Ayakashi Ouji",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42906_background.jpg?v=1704487486"
+                            },
+                            {
+                                "url": "/episodio/74725/legendado",
+                                "title": "Nozomanu Fushi no Boukensha",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42905_background.jpg?v=1704487107"
+                            },
+                            {
+                                "url": "/episodio/74724/legendado",
+                                "title": "Sasaki to Pii-chan",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42904_background.jpg?v=1704486960"
+                            },
+                            {
+                                "url": "/episodio/74723/legendado",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42801_background.jpg?v=1696014662"
+                            },
+                            {
                                 "url": "/episodio/36228/legendado",
                                 "title": "Fruits Basket: The Final",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/15861_background.jpg?v=1623013860"
@@ -183,31 +208,6 @@
                             },
                             {
                                 "url": "/episodio/74705/legendado",
-                                "title": "Minami no Niji no Lucy",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3347_background.jpg?v=1671308034"
-                            },
-                            {
-                                "url": "/episodio/74704/legendado",
-                                "title": "Minami no Niji no Lucy",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3347_background.jpg?v=1671308034"
-                            },
-                            {
-                                "url": "/episodio/74703/legendado",
-                                "title": "Minami no Niji no Lucy",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3347_background.jpg?v=1671308034"
-                            },
-                            {
-                                "url": "/episodio/74702/legendado",
-                                "title": "Minami no Niji no Lucy",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3347_background.jpg?v=1671308034"
-                            },
-                            {
-                                "url": "/episodio/74701/legendado",
-                                "title": "Minami no Niji no Lucy",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3347_background.jpg?v=1671308034"
-                            },
-                            {
-                                "url": "/episodio/74700/legendado",
                                 "title": "Minami no Niji no Lucy",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/3347_background.jpg?v=1671308034"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

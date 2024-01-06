@@ -371,12 +371,36 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/dungeon-meshi-الحلقة-1-مدبلجة-للعربية/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxzj6x5z3b4quuopwqrgjkzjf3b2xzddkgfr7ib7k6iha44ffmel2bzevzxdxdrcxcdkvl3/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxzj6x5z3b4quuopwqrgjkzjf3b2xzddkgfr7ib7k6iha44ffmel2bzevzxdxdrcxcdkvl3/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m160.uqload.io/3rfku6djsjw2q4drdjtpvjnkaojtwnfrh4zaostuzncnjx6lawitthqzls6q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m160.uqload.io/3rfku6djsjw2q4drdjtpvjnkaojtwnfrh4zaostuzncnjx6lawitthqzls6q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
