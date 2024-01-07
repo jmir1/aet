@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7459-echo-3",
+                                "title": "Echo 3",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/de865f3b-829a-4043-a433-0ab539c39343.webp"
+                            },
+                            {
                                 "url": "7458-komodo-vs-cobra",
                                 "title": "Komodo vs. Cobra",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a65cd6d4-15d0-44cb-9150-10347c7afe27.webp"
@@ -610,11 +615,6 @@
                                 "url": "7387-eclipse",
                                 "title": "Eclipse",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f3101d06-a29f-4fc2-8597-b6ac9081f25e.webp"
-                            },
-                            {
-                                "url": "7386-lost-cities-of-inca-alla-ricerca-dellimpero-sepolto",
-                                "title": "Lost Cities of Inca - Alla ricerca dell'Impero Sepolto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9a5ec676-47bd-4e48-b45a-51c6c34c7f46.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-12195674665827635803/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-12195674665827635803/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-12195674665827635803/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-12195674665827635803/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
