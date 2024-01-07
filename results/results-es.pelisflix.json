@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/a-weekend-to-forget/",
+                                "title": "A Weekend to Forget",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xjJXBu16fRGPJ7e.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-iron-claw/",
                                 "title": "The Iron Claw",
                                 "description": "Sigue la historia de los Von Erich, una dinastía de luchadores que tuvo un gran impacto en el depor...",
@@ -239,12 +245,6 @@
                                 "title": "Friends & Family Christmas",
                                 "description": "Dos mujeres acuerdan fingir que están saliendo para apaciguar a sus respectivos padres durante las ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/1BaNtN03sWmu4EnDFgGM34UeZ1LCiko9LpN42EY.webp"
-                            },
-                            {
-                                "url": "/pelicula/every-body/",
-                                "title": "Every Body",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/qVrScZIKkiDgokSfiD5JYxZynGxBsT9J.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-iron-claw/",
-                    "title": "The Iron Claw",
-                    "description": "Sigue la historia de los Von Erich, una dinastía de luchadores que tuvo un gran impacto en el deporte desde la década de 1960 hasta la actualidad.",
-                    "genre": "Drama",
+                    "url": "/pelicula/a-weekend-to-forget/",
+                    "title": "A Weekend to Forget",
+                    "description": "",
+                    "genre": "Drama, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-iron-claw/",
+                        "url": "/pelicula/a-weekend-to-forget/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar MPEIhsX = \"\"; QtcWfmue.forEach(function Oym(value) { MPEIhsX += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar wnrPEiHoz = \"\"; rXnxpSOJv.forEach(function Oym(value) { wnrPEiHoz += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

@@ -337,9 +337,9 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/6d146b2a-4f8c-440a-a46f-91c2d78e9e66.webp"
                             },
                             {
-                                "url": "7455-100-million-bc",
-                                "title": "100 Million B.C.",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fe9cd7cf-75e1-4b06-9c39-648f0ed5b9eb.webp"
+                                "url": "7455-100-million-bc-la-guerra-dei-dinosauri",
+                                "title": "100 Million BC - La guerra dei dinosauri",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f723fafa-3a9e-4df2-a362-2934d82c0e40.webp"
                             },
                             {
                                 "url": "7454-monster-shark-attack",
@@ -347,9 +347,9 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5329588c-dab1-431c-ac8c-6433874cf84f.webp"
                             },
                             {
-                                "url": "7453-alien-spider",
-                                "title": "Alien Spider",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d939f3fd-e956-4c2c-9f07-50d2d4eefa23.webp"
+                                "url": "7453-big-ass-spider",
+                                "title": "Big Ass Spider!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c011e6b1-3dad-4edc-84d3-7804e374838b.webp"
                             },
                             {
                                 "url": "7452-jukai-la-foresta-dei-suicidi",
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-2522381761222791381/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-2522381761222791381/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-2522381761222791381/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-2522381761222791381/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
