@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/ohsama-sentai-king-ohger.html",
+                                "title": "Ohsama Sentai King-Ohger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/yugen-jikkou-sisters-chouchoutrian.html",
                                 "title": "Yugen Jikkou Sisters Chouchoutrian",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/yugen-jikkou-sisters-chouchoutrian-thumb.png"
@@ -40,16 +50,6 @@
                                 "url": "/watch/mysterious-nile-girl-thutmose.html",
                                 "title": "Mysterious Nile Girl Thutmose",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/mysterious-nile-girl-thutmose-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
-                            },
-                            {
-                                "url": "/watch/ohsama-sentai-king-ohger.html",
-                                "title": "Ohsama Sentai King-Ohger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ohsama-sentai-king-ohger-thumb.png"
                             },
                             {
                                 "url": "/watch/bishoujo-kamen-poitrine.html",
@@ -143,30 +143,20 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/watch/yugen-jikkou-sisters-chouchoutrian.html",
-                    "title": "Yugen Jikkou Sisters Chouchoutrian",
-                    "author": "Year 1993",
-                    "description": "Yugen Jikkou Sisters Chouchoutrian is the 14th and final series in the Toei Fushigi Comedy Series created by Shotaro Ishinomori and produced by Toei.",
-                    "genre": "Other, Series",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/yugen-jikkou-sisters-chouchoutrian-thumb.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/yugen-jikkou-sisters-chouchoutrian.html?ep=42#watch",
-                        "name": "Episode 42",
-                        "episode_number": 42.0
+                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=43#watch",
+                        "name": "Episode 43",
+                        "episode_number": 43.0
                     },
                     {
-                        "url": "/watch/yugen-jikkou-sisters-chouchoutrian.html?ep=41#watch",
-                        "name": "Episode 41",
-                        "episode_number": 41.0
+                        "url": "/watch/ohsama-sentai-king-ohger.html?ep=42#watch",
+                        "name": "Episode 42",
+                        "episode_number": 42.0
                     }
                 ],
                 "passed": true
@@ -174,14 +164,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hls35-eu.zcdn.stream/93ffb9005108394fd60db453b9f0b3a1/2024-01-05/480.m3u8?token=b022d64a004170c2af2a7686b3d4fa5d&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704616525&type=edge&node=OtlUIBXZkpeWR0dc0YY4SJl0VKi3cuKILoBdJtJyMtOXtN1-2RiLR3J8wjWqc1WKPmJcpWD1bTioB1QBXyaOViK2cJPPhiUdqY-whxtBbnW1NDlaG0rL5hCAXVkRMJTVXt9aCo1NTNubFl1nMg-8qPAmGf4mD5yCbYlZbajcOtD2KQpHzIaWwQYw3uvg5T8i",
-                        "quality": "Chillx - 480p",
-                        "videoUrl": "https://hls35-eu.zcdn.stream/93ffb9005108394fd60db453b9f0b3a1/2024-01-05/480.m3u8?token=b022d64a004170c2af2a7686b3d4fa5d&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704616525&type=edge&node=OtlUIBXZkpeWR0dc0YY4SJl0VKi3cuKILoBdJtJyMtOXtN1-2RiLR3J8wjWqc1WKPmJcpWD1bTioB1QBXyaOViK2cJPPhiUdqY-whxtBbnW1NDlaG0rL5hCAXVkRMJTVXt9aCo1NTNubFl1nMg-8qPAmGf4mD5yCbYlZbajcOtD2KQpHzIaWwQYw3uvg5T8i",
+                        "url": "https://hls36-eu.zcdn.stream/f4294aaffeed332552734ae4ca24980a/2024-01-07/1080.m3u8?token=ed668012b4e6f6f5faa3aee6272bed63&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704636587&type=edge&node=9Ug9fwyVyYVkHxbqUCH2haXWYfu-ilRerU3QYdk62wDznZtCXJIWJDL_t7S5eteff7Mu_VPGm9nOK-qBxJA3jhLaPy8_uy0FNHrVS3_lVsgrnKCdz8MeV1KDujptY7QTHa6Jnk6CSKEKLcN0PAvzRQFL9zqMDnPpiO1K8FWjAd5rEB-FFOy3hiw_S2NwiHoV",
+                        "quality": "Chillx - 1080p",
+                        "videoUrl": "https://hls36-eu.zcdn.stream/f4294aaffeed332552734ae4ca24980a/2024-01-07/1080.m3u8?token=ed668012b4e6f6f5faa3aee6272bed63&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704636587&type=edge&node=9Ug9fwyVyYVkHxbqUCH2haXWYfu-ilRerU3QYdk62wDznZtCXJIWJDL_t7S5eteff7Mu_VPGm9nOK-qBxJA3jhLaPy8_uy0FNHrVS3_lVsgrnKCdz8MeV1KDujptY7QTHa6Jnk6CSKEKLcN0PAvzRQFL9zqMDnPpiO1K8FWjAd5rEB-FFOy3hiw_S2NwiHoV",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
                             "Accept": "*/*",
-                            "Origin": "https://bestx.stream",
-                            "Referer": "https://bestx.stream/v/VhJAYPYxamEQ/"
+                            "Origin": "https://playerx.stream",
+                            "Referer": "https://playerx.stream/v/3pre2JhOMDeG/"
+                        }
+                    },
+                    {
+                        "url": "https://hls36-eu.zcdn.stream/f4294aaffeed332552734ae4ca24980a/2024-01-07/720.m3u8?token=ed668012b4e6f6f5faa3aee6272bed63&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704636587&type=edge&node=9Ug9fwyVyYVkHxbqUCH2haXWYfu-ilRerU3QYdk62wDznZtCXJIWJDL_t7S5eteff7Mu_VPGm9nOK-qBxJA3jhLaPy8_uy0FNHrVS3_lVsgrnKCdz8MeV1KDujptY7QTHa6Jnk6CSKEKLcN0PAvzRQFL9zqMDnPpiO1K8FWjAd5rEB-FFOy3hiw_S2NwiHoV",
+                        "quality": "Chillx - 720p",
+                        "videoUrl": "https://hls36-eu.zcdn.stream/f4294aaffeed332552734ae4ca24980a/2024-01-07/720.m3u8?token=ed668012b4e6f6f5faa3aee6272bed63&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704636587&type=edge&node=9Ug9fwyVyYVkHxbqUCH2haXWYfu-ilRerU3QYdk62wDznZtCXJIWJDL_t7S5eteff7Mu_VPGm9nOK-qBxJA3jhLaPy8_uy0FNHrVS3_lVsgrnKCdz8MeV1KDujptY7QTHa6Jnk6CSKEKLcN0PAvzRQFL9zqMDnPpiO1K8FWjAd5rEB-FFOy3hiw_S2NwiHoV",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerx.stream",
+                            "Referer": "https://playerx.stream/v/3pre2JhOMDeG/"
+                        }
+                    },
+                    {
+                        "url": "https://hls36-eu.zcdn.stream/f4294aaffeed332552734ae4ca24980a/2024-01-07/360.m3u8?token=ed668012b4e6f6f5faa3aee6272bed63&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704636587&type=edge&node=9Ug9fwyVyYVkHxbqUCH2haXWYfu-ilRerU3QYdk62wDznZtCXJIWJDL_t7S5eteff7Mu_VPGm9nOK-qBxJA3jhLaPy8_uy0FNHrVS3_lVsgrnKCdz8MeV1KDujptY7QTHa6Jnk6CSKEKLcN0PAvzRQFL9zqMDnPpiO1K8FWjAd5rEB-FFOy3hiw_S2NwiHoV",
+                        "quality": "Chillx - 360p",
+                        "videoUrl": "https://hls36-eu.zcdn.stream/f4294aaffeed332552734ae4ca24980a/2024-01-07/360.m3u8?token=ed668012b4e6f6f5faa3aee6272bed63&client=d41d8cd98f00b204e9800998ecf8427e&expires=1704636587&type=edge&node=9Ug9fwyVyYVkHxbqUCH2haXWYfu-ilRerU3QYdk62wDznZtCXJIWJDL_t7S5eteff7Mu_VPGm9nOK-qBxJA3jhLaPy8_uy0FNHrVS3_lVsgrnKCdz8MeV1KDujptY7QTHa6Jnk6CSKEKLcN0PAvzRQFL9zqMDnPpiO1K8FWjAd5rEB-FFOy3hiw_S2NwiHoV",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://playerx.stream",
+                            "Referer": "https://playerx.stream/v/3pre2JhOMDeG/"
                         }
                     }
                 ],

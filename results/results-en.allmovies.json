@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/what-if/",
+                                "title": "What If...?",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zaqfFDUrSfIljdD0OBxSjcutX8n.jpg"
+                            },
+                            {
                                 "url": "/series/all-the-light-we-cannot-see/",
                                 "title": "All the Light We Cannot See",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/5vctOvdEXakZWTJrP8bgPEoCbqS.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/the-bear/",
                                 "title": "The Bear",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/3MVHF64rlvH1eofKefIoazXwOK0.jpg"
-                            },
-                            {
-                                "url": "/series/foundation/",
-                                "title": "Foundation",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/all-the-light-we-cannot-see/",
-                    "title": "All the Light We Cannot See",
-                    "author": "Steven Knight",
-                    "description": "The story of Marie-Laure, a blind teenager, and Werner, a German soldier, whose paths collide in occupied France as both try to survive the devastation of World War II.",
-                    "genre": "Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/what-if/",
+                    "title": "What If...?",
+                    "author": "",
+                    "description": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
+                    "genre": "Action & Adventure, Animation, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/all-the-light-we-cannot-see-1x4/",
-                        "name": "Season 1x4 : Episode 4",
-                        "episode_number": 4.0
+                        "url": "/episode/what-if-2x9/",
+                        "name": "Season 2x9 : What If... Strange Supreme Intervened?",
+                        "episode_number": 9.0
                     },
                     {
-                        "url": "/episode/all-the-light-we-cannot-see-1x3/",
-                        "name": "Season 1x3 : Episode 3",
-                        "episode_number": 3.0
+                        "url": "/episode/what-if-2x8/",
+                        "name": "Season 2x8 : What If... The Avengers Assembled in 1602?",
+                        "episode_number": 8.0
                     }
                 ],
                 "passed": true

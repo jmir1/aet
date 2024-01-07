@@ -42,14 +42,14 @@
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2021/12/One-Piece-poster.jpg"
                             },
                             {
-                                "url": "/anime/mushoku-tensei-jobless-reincarnation-season-2/",
-                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
-                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/06/Mushoku-Tensei-Jobless-Reincarnation-Season-2-poster-02.jpg"
-                            },
-                            {
                                 "url": "/anime/immoral-guild-uncensored-bd/",
                                 "title": "Immoral Guild (Uncensored) BD",
                                 "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/01/Immoral-Guild-Uncensored-BD_poster.jpg"
+                            },
+                            {
+                                "url": "/anime/mushoku-tensei-jobless-reincarnation-season-2/",
+                                "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
+                                "thumbnail_url": "https://i0.wp.com/animenosub.com/wp-content/uploads/2023/06/Mushoku-Tensei-Jobless-Reincarnation-Season-2-poster-02.jpg"
                             },
                             {
                                 "url": "/anime/invincible-season-2/",
@@ -316,8 +316,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3z3xcg6gs4efn36ma/index-v1-a1.m3u8",
+                        "quality": "SUB - VidMoly - 1080p",
+                        "videoUrl": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3z3xcg6gs4efn36ma/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
