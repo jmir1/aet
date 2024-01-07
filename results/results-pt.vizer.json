@@ -598,31 +598,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=yMfM21LqiDnSOJy37wY7Ig&e=1704651054&_t=1704638690",
-                        "quality": "MixDrop(LEG)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=yMfM21LqiDnSOJy37wY7Ig&e=1704651054&_t=1704638690",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=OG8PrQdrQs-kNdgLrcrvPw&e=1704651055&_t=1704637842",
-                        "quality": "MixDrop(DUB)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=OG8PrQdrQs-kNdgLrcrvPw&e=1704651055&_t=1704637842",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "passed": false
             }
         }
     }

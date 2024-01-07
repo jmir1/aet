@@ -92,6 +92,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74749/legendado",
+                                "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42914_background.jpg?v="
+                            },
+                            {
+                                "url": "/episodio/74748/legendado",
+                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42896_background.jpg?v=1704200437"
+                            },
+                            {
+                                "url": "/episodio/74747/legendado",
+                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42854_background.jpg?v=1696894976"
+                            },
+                            {
+                                "url": "/episodio/74746/legendado",
+                                "title": "Xian Wang de Richang Shenghuo 4",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42512_background.jpg?v=1703247553"
+                            },
+                            {
+                                "url": "/episodio/74745/legendado",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42819_background.jpg?v=1696178451"
+                            },
+                            {
                                 "url": "/episodio/74744/legendado",
                                 "title": "One Piece",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1_background.jpg?v=1649095900"
@@ -183,31 +208,6 @@
                             },
                             {
                                 "url": "/episodio/21739/legendado",
-                                "title": "Full Moon wo Sagashite",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1407_background.jpg?v=1612036187"
-                            },
-                            {
-                                "url": "/episodio/21738/legendado",
-                                "title": "Full Moon wo Sagashite",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1407_background.jpg?v=1612036187"
-                            },
-                            {
-                                "url": "/episodio/21737/legendado",
-                                "title": "Full Moon wo Sagashite",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1407_background.jpg?v=1612036187"
-                            },
-                            {
-                                "url": "/episodio/21736/legendado",
-                                "title": "Full Moon wo Sagashite",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1407_background.jpg?v=1612036187"
-                            },
-                            {
-                                "url": "/episodio/21735/legendado",
-                                "title": "Full Moon wo Sagashite",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1407_background.jpg?v=1612036187"
-                            },
-                            {
-                                "url": "/episodio/21734/legendado",
                                 "title": "Full Moon wo Sagashite",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1407_background.jpg?v=1612036187"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
