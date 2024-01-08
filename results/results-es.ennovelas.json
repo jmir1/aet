@@ -265,11 +265,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/mar-de-amores-capitulo-108/",
+                        "name": "Capitulo 108",
+                        "episode_number": 108.0
+                    },
+                    {
+                        "url": "/mar-de-amores-capitulo-107/",
+                        "name": "Capitulo 107",
+                        "episode_number": 107.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

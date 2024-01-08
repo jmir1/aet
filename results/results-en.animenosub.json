@@ -127,11 +127,6 @@
                                 "thumbnail_url": "https://i1.wp.com/animenosub.com/wp-content/uploads/2024/01/Dosanko-Gal-wa-Namara-Menkoi-poster.jpg"
                             },
                             {
-                                "url": "/anime/synduality-noir-part-2/",
-                                "title": "Synduality: Noir Part 2",
-                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2024/01/1704714786-3470-140511.jpg"
-                            },
-                            {
                                 "url": "/anime/himesama-goumon-no-jikan-desu/",
                                 "title": "Himesama \"Goumon\" no Jikan desu",
                                 "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2024/01/Himesama-quotGoumonquot-no-Jikan-desu-poster.jpg"
@@ -140,6 +135,11 @@
                                 "url": "/anime/tsuki-ga-michibiku-isekai-douchuu-2nd-season/",
                                 "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
                                 "thumbnail_url": "https://i2.wp.com/animenosub.com/wp-content/uploads/2024/01/Tsuki-ga-Michibiku-Isekai-Douchuu-2nd-Season-poster.png"
+                            },
+                            {
+                                "url": "/anime/synduality-noir-part-2/",
+                                "title": "Synduality: Noir Part 2",
+                                "thumbnail_url": "https://i3.wp.com/animenosub.com/wp-content/uploads/2024/01/1704714786-3470-140511.jpg"
                             },
                             {
                                 "url": "/anime/high-card-season-2/",
@@ -316,17 +316,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztwtcvp2pczgma7a/index-v1-a1.m3u8",
-                        "quality": "SUB - VidMoly - 1080p",
-                        "videoUrl": "https://weststor-55-c2-1s3.vmrest.space/hls/xqx2pzvyn5okjiqbtgpcjpsh4ba2txfwxsa6xvr2man3ztwtcvp2pczgma7a/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

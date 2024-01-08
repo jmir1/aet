@@ -336,12 +336,41 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/heaven-officials-blessing-s1-japones-episodio-12",
+                        "name": "Episodio 12",
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/ver/heaven-officials-blessing-s1-japones-episodio-11",
+                        "name": "Episodio 11",
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcx7ajx5z3b4quuopcqren2zj7copf6lvakwdl7mps2nuizb7c73l7ocy6kcllsahvykwr6r/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx7ajx5z3b4quuopcqren2zj7copf6lvakwdl7mps2nuizb7c73l7ocy6kcllsahvykwr6r/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m20.uqload.io/3rfkminrsfw2q4drdjq7vnfsll6fuvtom36puh7z3ujxxp54powotzt73mca/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m20.uqload.io/3rfkminrsfw2q4drdjq7vnfsll6fuvtom36puh7z3ujxxp54powotzt73mca/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

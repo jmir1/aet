@@ -317,8 +317,28 @@
                     {
                         "animes": [
                             {
-                                "url": "7467-young-detective-dee",
-                                "title": "Young Detective Dee",
+                                "url": "7471-love-transit",
+                                "title": "Love Transit",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1690db8e-8a13-41e8-8557-9dcf1806471c.webp"
+                            },
+                            {
+                                "url": "7470-iceman",
+                                "title": "Iceman",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c744d43-b951-46f8-ac57-7339d4537173.webp"
+                            },
+                            {
+                                "url": "7469-confucio",
+                                "title": "Confucio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/eecd7e2d-f87d-4daf-8a76-5009034d986c.webp"
+                            },
+                            {
+                                "url": "7468-la-foresta-dei-pugnali-volanti",
+                                "title": "La foresta dei pugnali volanti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6613f840-ac72-4960-81db-b873c75aea79.webp"
+                            },
+                            {
+                                "url": "7467-young-detective-dee-il-risveglio-del-drago-marino",
+                                "title": "Young Detective Dee - Il risveglio del drago marino",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/be971bbd-9732-4606-91d4-3a44dc477361.webp"
                             },
                             {
@@ -595,26 +615,6 @@
                                 "url": "7398-titanium",
                                 "title": "Titanium",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5e4f224f-bb91-4d7d-867f-059e8d35db02.webp"
-                            },
-                            {
-                                "url": "7397-oh-mio-dio",
-                                "title": "Oh mio Dio!",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/646bd4eb-71f7-4a3c-b3cf-1c0caa239eca.webp"
-                            },
-                            {
-                                "url": "7396-unoccasione-da-dio",
-                                "title": "Un'occasione da Dio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/18987ec2-beaf-43a0-93a1-21262c358eaf.webp"
-                            },
-                            {
-                                "url": "7395-il-signore-dello-zoo",
-                                "title": "Il signore dello zoo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f4ac184a-bc45-4abc-9d13-e1b3bcee83b7.webp"
-                            },
-                            {
-                                "url": "7394-explorer",
-                                "title": "Explorer",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a2bb12e0-d88d-46dd-ab47-a1175b6c31fd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-4285760149666457076/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-4285760149666457076/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-4285760149666457076/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-4285760149666457076/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
