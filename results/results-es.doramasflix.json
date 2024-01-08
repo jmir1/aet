@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/night-dream?id=659b7311c872052c7b0159d3",
+                                "title": "Night Dream (Sueño nocturno)",
+                                "description": "Night, un estudiante de último año de literatura, todavía no podía completar su proyecto final de novela porque no entendía el concepto de amor. Tuvo la oportunidad de conocer a Dream, el dueño de Tokyo Boy, y su amigo cercano en la escuela secundaria con quien había perdido contacto durante años, y nunca supo por qué Dream dejó su vida. Entonces, Dream y Night reavivaron su amistad. Night ni siquiera intentó preguntarle a Dream sobre su paradero. Simplemente le pidió a Dream que nunca más lo abandonara sin explicación. Después de eso, Dream ayudó a Night a encontrar el significado del amor por su trabajo. Ayudó a Night a darse cuenta de qué es el amor y de que es lo que Night había sabido desde el principio, pero no lo aceptó: Dream es su amor. La cobardía impidió que Night diera un paso adelante, lo que le hizo levantar un muro de hierro y negar sus sentimientos. Aún así, no importa cuánto lo intentó, sus sentimientos por Dream se hicieron más fuertes día a día.",
+                                "genre": "Drama, Romance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/xURCCx5cVuGkwOLitLoh1IcYzVL.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/dead-friend-forever?id=6599b09cc872052c7b01081c",
                                 "title": "Dead Friend Forever (Querido amigo por siempre)",
                                 "description": "(BL) Ocho amigos de la escuela viajan a una casa de vacaciones en medio de un bosque para despedirse de Jin, uno de su grupo que se va a estudiar al extranjero. El viaje les permite a todos regresar y recordar los recuerdos de sus días de escuela secundaria. Sin embargo, una serie de hechos inquietantes provocan tensión y malestar en la pandilla, quienes comienzan a sospechar que hay una novena persona escondida en algún lugar de la casa. Cuando las cosas toman un giro siniestro e intentan desentrañar el misterio, oscuros secretos del pasado regresan para perseguir a todos. Se dan cuenta de que si quieren sobrevivir, deben descubrir rápidamente quién está detrás de estos sucesos mortales y sangrientos.",
@@ -456,13 +463,6 @@
                                 "description": "(🌈BL) Prem sueña con convertirse en un chef que revolucione la cocina creando así una nueva leyenda. Pero aún le falta bastante para alcanzar su sueño. Si desea poder competir en un reality que elegirá al mejor chef de la nación debe subir sus habilidades culinarias y es por eso que acepta la propuesta de Ten, un estudiante de medicina. Este quiere que Prem le enseñe a cocinar.",
                                 "genre": "Comedia, Drama",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/CDExdntFu1xNUL9JhEm8Lu1foV.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/coin-digger?id=65618a4d874387a3a52aabd4",
-                                "title": "Coin Digger (Cazamonedas)",
-                                "description": "\"Coin Digger\" cuenta la historia de una generación de noticias con un objetivo: acabar con el capitalismo y vengarse. En esta búsqueda, se ampliarán los límites de la ética y la moralidad. Es una historia sobre el poder de un desvalido, pero también sobre los peligros de buscar una venganza poderosa.",
-                                "genre": "Drama, Acción, Aventura, Misterio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/hzdYHAh62p6kM66uYov4M32FOIK.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -601,17 +601,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/unpredictable-family?id=650349112ebec9c486c65b43",
-                    "title": "Unpredictable Family (Familia impredecible)",
-                    "artist": "Nam Sang-ji",
-                    "author": "KBS1",
-                    "description": "Eun Sung, la hija de Dong Gu y Chun Young, sueña con tener éxito, pero es una actriz que nadie conoce. Han pasado más de tres años desde que se unió al teatro, pero todavía tiene que pegar carteles y limpiar el teatro y sólo puede practicar cuando los demás actores no están. Sun Woo, hijo de Jung Ae y Ki Seok, es un prometedor director de cine de Hollywood. Eun Sung y Sun Woo se enamoran y deciden casarse. Sin embargo, se dan cuenta de que Dong Gu y Jung Ae eran enemigos jurados que se divorciaron hace 30 años. Esta relación nefasta entre padres e hijos pelea por su matrimonio. ¡La historia de cómo las personas que más se odian se convierten en la familia más salvaje, extraña y divertida a la vez comienza ahora!",
-                    "genre": "Drama, Romance, Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/z3jn1SCkLdO9awinHpqtwiGjyho.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

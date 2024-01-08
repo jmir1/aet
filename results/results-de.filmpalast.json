@@ -177,6 +177,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/stream/babylon-5-waffenbruder",
+                                "title": "Babylon 5 - Waffenbrüder",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/babylon-5-waffenbruder.jpg"
+                            },
+                            {
+                                "url": "/stream/black-tiger",
+                                "title": "Black Tiger",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/black-tiger.jpg"
+                            },
+                            {
+                                "url": "/stream/babylon-5-das-tor-zur-3-dimension",
+                                "title": "Babylon 5 - Das Tor zur 3. Dimension",
+                                "thumbnail_url": "https://filmpalast.to/files/movies/315/babylon-5-das-tor-zur-3-dimension.jpg"
+                            },
+                            {
                                 "url": "/stream/you-kill-me",
                                 "title": "You Kill Me",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/you-kill-me.jpg"
@@ -320,21 +335,6 @@
                                 "url": "/stream/mistletoe-match-dating-unter-dem-mistelzweig",
                                 "title": "Mistletoe Match - Dating unter dem Mistelzweig",
                                 "thumbnail_url": "https://filmpalast.to/files/movies/315/mistletoe-match-dating-unter-dem-mistelzweig.jpg"
-                            },
-                            {
-                                "url": "/stream/aporia",
-                                "title": "Aporia",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/aporia.jpg"
-                            },
-                            {
-                                "url": "/stream/cant-buy-me-love",
-                                "title": "Can't Buy Me Love",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/cant-buy-me-love.jpg"
-                            },
-                            {
-                                "url": "/stream/last-days-on-mars",
-                                "title": "Last Days on Mars",
-                                "thumbnail_url": "https://filmpalast.to/files/movies/315/last-days-on-mars.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -537,8 +537,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=OLKn0tVwo-nuFqMx83rcscI3rYu4ldbMIaQyzchYNmo&s=1704694217&e=43200&f=11188495&i=0.0&sp=0",
+                        "quality": "WolfStream",
+                        "videoUrl": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=OLKn0tVwo-nuFqMx83rcscI3rYu4ldbMIaQyzchYNmo&s=1704694217&e=43200&f=11188495&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

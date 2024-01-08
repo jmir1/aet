@@ -92,6 +92,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74798/legendado",
+                                "title": "Kyuujitsu no Warumono-san",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42916_background.jpg?v=1704672110"
+                            },
+                            {
                                 "url": "/episodio/74797/legendado",
                                 "title": "Kidou Senshi Gundam ZZ",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1379_background.jpg?v=1704651794"
@@ -203,11 +208,6 @@
                             },
                             {
                                 "url": "/episodio/74775/legendado",
-                                "title": "Kidou Senshi Gundam ZZ",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1379_background.jpg?v=1704651794"
-                            },
-                            {
-                                "url": "/episodio/74774/legendado",
                                 "title": "Kidou Senshi Gundam ZZ",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1379_background.jpg?v=1704651794"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }
