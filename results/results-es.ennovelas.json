@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/mar-de-amores-2/",
+                                "title": "Mar de Amores",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/MV5BZmU3MDI2NWYtNTY4MS00NGE5LWE0N2MtYTQ1NjRlZjdlMjIwXkEyXkFqcGdeQXVyNjgzMjQ0MTA@-372x520.jpg"
+                            },
+                            {
                                 "url": "/series/mujer/",
                                 "title": "Mujer",
                                 "description": "",
@@ -121,7 +127,7 @@
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Marimar..jpg"
                             },
                             {
-                                "url": "/series/santa-clauses/",
+                                "url": "/series/santa-clauses-a/",
                                 "title": "The Santa Clauses",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/the-santa-clauses-key-art-teaser-470x318.webp"
@@ -205,16 +211,10 @@
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/10/Vuelve-a-Mi.jpg"
                             },
                             {
-                                "url": "/series/el-secreto-de-selena/",
-                                "title": "El secreto de Selena",
+                                "url": "/series/all-star-shore-a/",
+                                "title": "All Star Shore",
                                 "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/El-secreto-de-Selena..png"
-                            },
-                            {
-                                "url": "/series/buscando-a-frida/",
-                                "title": "Buscando a Frida",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Buscando-a-Frida..jpg"
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/09/p22330443_b_v8_aa.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,12 +252,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/mujer/",
-                    "title": "Mujer",
-                    "artist": "Ali Semi Sefil",
-                    "author": "Can Cengiz",
-                    "description": "Mujer",
-                    "genre": "Drama, Srnovelas",
+                    "url": "/series/mar-de-amores-2/",
+                    "title": "Mar de Amores",
+                    "artist": "Aras Bulut Iynemli",
+                    "author": "Coskun Irmak",
+                    "description": "Mar de Amores",
+                    "genre": "Adventure, Drama, Family, Romance, Srnovelas, Thriller",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -265,22 +265,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/mujer-capitulo-60/",
-                        "name": "Capitulo 60",
-                        "episode_number": 60.0
-                    },
-                    {
-                        "url": "/mujer-capitulo-59/",
-                        "name": "Capitulo 59",
-                        "episode_number": 59.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
