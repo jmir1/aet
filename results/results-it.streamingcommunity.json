@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7475-fearless",
+                                "title": "Fearless",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/00c5688e-643e-4ccc-80f8-8faf0eb46e66.webp"
+                            },
+                            {
+                                "url": "7474-ghost-in-the-shell",
+                                "title": "Ghost in the Shell",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5c27ee3e-edfb-471c-a935-eae371752356.webp"
+                            },
+                            {
                                 "url": "7473-fermats-cuisine",
                                 "title": "Fermat's Cuisine",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/502b9250-c46a-4aef-bdaf-3e3f79d3974a.webp"
@@ -605,16 +615,6 @@
                                 "url": "7402-independence-day-saster-la-nuova-minaccia",
                                 "title": "Independence Day-Saster - La nuova minaccia",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/6b1efa8f-c868-4167-a520-a106b4a265e7.webp"
-                            },
-                            {
-                                "url": "7401-zodiac-il-segno-dellapocalisse",
-                                "title": "Zodiac: il segno dell'apocalisse",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/74f616c2-3f97-4556-8111-577d6e5d41db.webp"
-                            },
-                            {
-                                "url": "7400-stonehenge-apocalypse",
-                                "title": "Stonehenge apocalypse",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/45355334-e62f-45e0-be70-5bb5b417ed4b.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-4298041910896956778/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-4298041910896956778/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-4298041910896956778/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-4298041910896956778/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

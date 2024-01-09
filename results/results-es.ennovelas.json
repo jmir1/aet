@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/venganza-2/",
+                                "title": "Venganza",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/MV5BYTAwZGM0MGYtNzRkYy00MTVjLWExZWYtNWNlN2M0ODcwZGRkXkEyXkFqcGdeQXVyNTkzMzQ4ODU@-351x520.jpg"
+                            },
+                            {
+                                "url": "/series/tientame-amor/",
+                                "title": "Tientame Amor",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/Tientame-Amor-347x520.webp"
+                            },
+                            {
                                 "url": "/series/en-el-corazon-de-la-ciudad/",
                                 "title": "En El Corazon De La Ciudad",
                                 "description": "",
@@ -203,18 +215,6 @@
                                 "title": "La Promesa",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/La-Promesa..jpg"
-                            },
-                            {
-                                "url": "/series/love-in-the-air/",
-                                "title": "Love in the Air (en Español)",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/10/2NjQWXt.jpg"
-                            },
-                            {
-                                "url": "/series/vuelve-a-mi-temporada-1/",
-                                "title": "Vuelve a Mí – Temporada 1",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/10/Vuelve-a-Mi.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,12 +252,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/en-el-corazon-de-la-ciudad/",
-                    "title": "En El Corazon De La Ciudad",
-                    "artist": "Gurkan Uygun",
-                    "author": "Deniz Madanoglu",
-                    "description": "En El Corazon De La Ciudad",
-                    "genre": "Drama, Srnovelas",
+                    "url": "/series/venganza-2/",
+                    "title": "Venganza",
+                    "artist": "Arzu Gamze Kilinç",
+                    "author": "Berkun Oya",
+                    "description": "Venganza",
+                    "genre": "Drama, Mystery, Srnovelas, Thriller",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -265,22 +265,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/en-el-corazon-de-la-ciudad-capitulo-60/",
-                        "name": "Capitulo 60",
-                        "episode_number": 60.0
-                    },
-                    {
-                        "url": "/en-el-corazon-de-la-ciudad-capitulo-59/",
-                        "name": "Capitulo 59",
-                        "episode_number": 59.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
