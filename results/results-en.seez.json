@@ -42,6 +42,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//ikQG3byEFyfwcnF0zmyNtXTmr5v.jpg"
                             },
                             {
+                                "url": "{\"id\":1143183,\"media_type\":\"movie\"}",
+                                "title": "Rewind",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//ru1i4ZR11lPPVArk3fOcO1VCOlD.jpg"
+                            },
+                            {
                                 "url": "{\"id\":507089,\"media_type\":\"movie\"}",
                                 "title": "Five Nights at Freddy's",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//7BpNtNfxuocYEVREzVMO75hso1l.jpg"
@@ -65,11 +70,6 @@
                                 "url": "{\"id\":670292,\"media_type\":\"movie\"}",
                                 "title": "The Creator",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
-                            },
-                            {
-                                "url": "{\"id\":1143183,\"media_type\":\"movie\"}",
-                                "title": "Rewind",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//ru1i4ZR11lPPVArk3fOcO1VCOlD.jpg"
                             },
                             {
                                 "url": "{\"id\":1035982,\"media_type\":\"movie\"}",
@@ -104,7 +104,7 @@
                             {
                                 "url": "{\"id\":1189927,\"media_type\":\"movie\"}",
                                 "title": "The Duel",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//ppJrHwUUqwoBskynXl3ZcSkqxEW.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//nFjcIyURaXrU4WWRN7obbipFQGy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -243,7 +243,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.ProtocolException: Too many follow-up requests: 21",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE HTML PUBLIC \"-//IETF.....",
                 "passed": false
             }
         }
