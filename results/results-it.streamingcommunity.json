@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7473-fermats-cuisine",
+                                "title": "Fermat's Cuisine",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/502b9250-c46a-4aef-bdaf-3e3f79d3974a.webp"
+                            },
+                            {
+                                "url": "7472-natale-a-beverly-hills",
+                                "title": "Natale a Beverly Hills",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/56fc18bd-2eff-4987-a118-63e8fe80d14e.webp"
+                            },
+                            {
                                 "url": "7471-love-transit",
                                 "title": "Love Transit",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1690db8e-8a13-41e8-8557-9dcf1806471c.webp"
@@ -605,16 +615,6 @@
                                 "url": "7400-stonehenge-apocalypse",
                                 "title": "Stonehenge apocalypse",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/45355334-e62f-45e0-be70-5bb5b417ed4b.webp"
-                            },
-                            {
-                                "url": "7399-garm-wars-lultimo-druido",
-                                "title": "Garm Wars: L'ultimo druido",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/cd44187b-502a-458d-a6c9-e47654eac105.webp"
-                            },
-                            {
-                                "url": "7398-titanium",
-                                "title": "Titanium",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5e4f224f-bb91-4d7d-867f-059e8d35db02.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -954,7 +954,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7428\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-4298041910896956778/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-4298041910896956778/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-4298041910896956778/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-4298041910896956778/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

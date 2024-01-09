@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen/",
+                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/t9IZtBFBGT9ldmvBlhXJZMjPejH.jpg"
+                            },
+                            {
                                 "url": "/animes/himesama-goumon-no-jikan-desu/",
                                 "title": "Himesama “Goumon” no Jikan desu",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/7vPpzw4goRUojCVFIsU3drIhu3B.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/animes/ishura/",
                                 "title": "Ishura",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2023/12/x4iGweNBLlJAju6LBZWypDAcEX9.jpg"
-                            },
-                            {
-                                "url": "/animes/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu/",
-                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/hSFvUdWMw1eGNjgyh4jvjs02cAo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,28 +169,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/himesama-goumon-no-jikan-desu/",
-                    "title": "Himesama “Goumon” no Jikan desu",
-                    "artist": "Pine Jam, Shueisha",
-                    "author": "BS11, Tokyo MX",
-                    "description": "بينما تُشعل الحرب أتونها بين جيش الإمبراطورية وجيش ملك الشياطين، تُساق الأميرة، رغم تسلحها بسيفها الأسطوري إكسكاليبر، إلى الأسر. فتُلقى في غياهب سجنٍ مظلم، لتواجه أقسى أنواع التعذيب على يد رئيس محققي الشياطين. ولكن في منعطف مفاجئ، تتحول آلات التعذيب الرهيبة إلى كشك بيع خبز محمص طازج و شهي! ويتحول الهواء المُحمّل برائحة الدم و العرق إلى عطر الخبز المُغرٍ و رائحة الحساء الساخن المُثير للتشهي. فهل تستسلم الأميرة لهذه المغريات اللذيذة وتُفشى أسرار مملكتها آمنة؟ أم تُقاوم إغراءات العدو وتُحافظ على ولاءها لوطنها؟\n\nAlternative title: 'Tis Time for \"Torture,\" Princess",
-                    "genre": "خيال, ذواق, شونين, كوميدي, ميثولوجيا",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/7vPpzw4goRUojCVFIsU3drIhu3B.jpg",
+                    "url": "/animes/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen/",
+                    "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+                    "artist": "Jumondou",
+                    "author": "AT-X",
+                    "description": "تحلم فتاة جامعية بحياة هادئة، لكن القدر يقودها إلى طريق مختلف تمامًا. حيث تجد نفسها متناسخة داخل لعبة تقمص الأدوار “أوتومي” كشخصية “يومييلا”، الشريرة الخفية. لا ترغب يومييلا في الشر، وتسعى لترك واجباتها الشريرة وراءها، باحثة عن حياة هادئة ومستقرة. لكن، ما هي إلا لحظات حتى تستيقظ روح اللاعبة بداخلها. تندفع يومييلا عن طريق الخطأ إلى المستوى 99، مما يثير الشكوك حول هويتها. ويبدأ الجميع بالاعتقاد بأنها ملكة الشياطين سيئة السمعة. فيا ترى ما هو المستقبل الذي ينتظرها؟\n\nAlternative title: Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
+                    "genre": "خيال",
+                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/t9IZtBFBGT9ldmvBlhXJZMjPejH.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/himesama-goumon-no-jikan-desu-الحلقة-1/",
-                        "name": "Himesama “Goumon” no Jikan desu الموسم 1: الحلقة 1",
-                        "episode_number": 1.001
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
