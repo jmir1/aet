@@ -227,7 +227,7 @@
                     "url": "/media/oroka-na-tenshi-wa-akuma-to-odoru",
                     "title": "The Foolish Angel Dances with the Devil",
                     "author": "",
-                    "description": "*Keine Beschreibung verfügbar",
+                    "description": "Quelle: aniSearch",
                     "genre": "Romantische Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -247,8 +247,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=9jBBGxB3J3Sa01K&expires=1704830374&ip=FROsF0EnDS9X&token=uSsM4QmjxotY",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=9jBBGxB3J3Sa01K&expires=1704830374&ip=FROsF0EnDS9X&token=uSsM4QmjxotY"
+                    },
+                    {
+                        "url": "https://bradleyviewdoctor.com/mgowrxhijvxk?The.Foolish.Angel.Dances.with.the.Devil.S01E01.Ger.HARDSUB.AAC.720p.CR.WebDL.x264-DK.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-rrhmggrangwlvhp3.voe-network.net/engine/hls2/01/10249/mgowrxhijvxk_,n,.urlset/master.m3u8?t=VCML-0zBqj5xAF3vL5baQk_zZ89FM_BUqRI4XBHD7jg&s=1704760374&e=14400&f=51249017&node=delivery-node-rrhmggrangwlvhp3.voe-network.net&i=20.97&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=ko9LlqZrgwfOjkv&expires=1704830371&ip=FROsF0EnDS9X&token=Jrv8tkFx2qjP",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=ko9LlqZrgwfOjkv&expires=1704830371&ip=FROsF0EnDS9X&token=Jrv8tkFx2qjP"
+                    },
+                    {
+                        "url": "https://bradleyviewdoctor.com/cg9q6cxty6pz?The.Foolish.Angel.Dances.with.the.Devil.S01E01.GerSub.HS.AAC.720p.WebDL.x264-Tanuki.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-73l7iixyatq3w8eu.voe-network.net/engine/hls2-c/01/10249/cg9q6cxty6pz_,n,.urlset/master.m3u8?t=nwqVy3oSEaG1AGDb64JUH7ZWlUirWC4XM-Jx28s7EK4&s=1704760370&e=14400&f=51248751&node=delivery-node-lmgsopgkmqqb3dby.voe-network.net&i=20.97&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

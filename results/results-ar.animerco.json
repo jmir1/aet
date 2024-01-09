@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/himesama-goumon-no-jikan-desu/",
+                                "title": "Himesama “Goumon” no Jikan desu",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/7vPpzw4goRUojCVFIsU3drIhu3B.jpg"
+                            },
+                            {
                                 "url": "/animes/oroka-na-tenshi-wa-akuma-to-odoru/",
                                 "title": "Oroka na Tenshi wa Akuma to Odoru",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/4X2yAU6CtHwjiVlO07WxssRwKPu.jpg"
@@ -100,11 +105,6 @@
                                 "url": "/animes/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu/",
                                 "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/hSFvUdWMw1eGNjgyh4jvjs02cAo.jpg"
-                            },
-                            {
-                                "url": "/animes/pluto/",
-                                "title": "Pluto",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2023/10/xKoSqmA1yjQ7ngqosspYEN53v3R.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,20 +169,28 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/oroka-na-tenshi-wa-akuma-to-odoru/",
-                    "title": "Oroka na Tenshi wa Akuma to Odoru",
-                    "artist": "ANLA, Children's Playground Entertainment, Gaina, KADOKAWA",
-                    "author": "TV Osaka, TV Tokyo",
-                    "description": "ماساتورا أكوتسو انتقل للتو من مكان بعيد جدًا، جدًا… من الجحيم، على وجه التحديد! أكوتسو هو شيطان جاء إلى الأرض للبحث عن شخص يمكنه تحفيز جيش الجحيم في معركة ضد الملائكة الذين يهددون بالسيطرة. من بين زملائه الجدد في الفصل، هناك ليلي أماني الجميلة، التي تبدو مثالية لهذا الدور. ومع ذلك، لدى هذه الفتاة حصتها من الأسرار…\n\nAlternative title: The Foolish Angel Dances with the Devil",
-                    "genre": "خارق للطبيعة, رومانسي, سينين, كوميدي, مدرسي, ميثولوجيا",
-                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/4X2yAU6CtHwjiVlO07WxssRwKPu.jpg",
+                    "url": "/animes/himesama-goumon-no-jikan-desu/",
+                    "title": "Himesama “Goumon” no Jikan desu",
+                    "artist": "Pine Jam, Shueisha",
+                    "author": "BS11, Tokyo MX",
+                    "description": "بينما تُشعل الحرب أتونها بين جيش الإمبراطورية وجيش ملك الشياطين، تُساق الأميرة، رغم تسلحها بسيفها الأسطوري إكسكاليبر، إلى الأسر. فتُلقى في غياهب سجنٍ مظلم، لتواجه أقسى أنواع التعذيب على يد رئيس محققي الشياطين. ولكن في منعطف مفاجئ، تتحول آلات التعذيب الرهيبة إلى كشك بيع خبز محمص طازج و شهي! ويتحول الهواء المُحمّل برائحة الدم و العرق إلى عطر الخبز المُغرٍ و رائحة الحساء الساخن المُثير للتشهي. فهل تستسلم الأميرة لهذه المغريات اللذيذة وتُفشى أسرار مملكتها آمنة؟ أم تُقاوم إغراءات العدو وتُحافظ على ولاءها لوطنها؟\n\nAlternative title: 'Tis Time for \"Torture,\" Princess",
+                    "genre": "خيال, ذواق, شونين, كوميدي, ميثولوجيا",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/7vPpzw4goRUojCVFIsU3drIhu3B.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes/himesama-goumon-no-jikan-desu-الحلقة-1/",
+                        "name": "Himesama “Goumon” no Jikan desu الموسم 1: الحلقة 1",
+                        "episode_number": 1.001
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
