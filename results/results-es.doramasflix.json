@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/all-of-her?id=659d9b36c872052c7b01fc56",
+                                "title": "All Of Her (Toda Ella)",
+                                "description": "Gu Ze Jia regresa a China como su hermano gemelo Gu Ze An para vengarse y se ve enredado en una relación sadomasoquista con Yan Zhen.",
+                                "genre": "Drama, Romance, Misterio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/n1Nbkuu5xynqCe9Pdho9ZaUm1Pt.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/animals?id=659c54bfc872052c7b01aaf2",
                                 "title": "ANIMALS (Animales)",
                                 "description": "Con exceso de trabajo y cansancio, Umi se llena de vida y amor cuando deja su trabajo en producción de televisión para trabajar en una interesante startup de cosméticos.",
@@ -456,13 +463,6 @@
                                 "description": "¿Quién es mi verdadero amor?\n\nHyun Seo y Soo Ho se conocieron mientras tocaban en una banda de música en la univerdiad y se enamoraron. Después de graduarse, experimentaron la presión de la vida real y esto los llevó a separarse.\n\nDespués de años y un encuentro incómodo Soo Ho se confunde al saber por qué Hyun Seo lo dejó. Hyun Seo se preocupa por la salud de Soo Ho, mientras que K un talentoso músico no oculta sus sentimientos por Hyun Seo. ¿Se repetirá la historia?",
                                 "genre": "Drama, Romance, Music",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/on7b3v5FMqZlIu3JNK4pSHEll00.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/my-man-is-cupid?id=6566d420763dd88e5e1232e7",
-                                "title": "My Man Is Cupid (Mi Hombre es Cupido)",
-                                "description": "Comedia romántica sobre un hada que se enamora después de recibir un disparo de su propia flecha y una mujer que perdió a su alma gemela después de verse envuelta en esta situación.\n\nCheon Sang Hyuk es un hada carismática que fácilmente hace que una mujer se enamore de él. Hace 500 años le quemaron las alas. Para restaurar sus alas, pasó por 27 metamorfosis. En su 28ª vez, se involucra con Oh Baek Ryun.\n\nBaek Ryun es veterinaria y trabaja en una clínica de animales. Muchos hombres se han enamorado de ella debido a su atractivo. Cada vez que entablaban una relación romántica con ella, siempre tienen una experiencia cercana a la muerte y luego huyen de ella. Debido a la mala suerte, Baek Ryun no está saliendo con nadie, pero tiene muchas ganas de conocer a un hombre del destino.",
-                                "genre": "Drama, Romance, Comedia, Fantasía",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ck0j0drkQ9iLN3xKti2xwe0uPn4.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -601,17 +601,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/unpredictable-family?id=650349112ebec9c486c65b43",
-                    "title": "Unpredictable Family (Familia impredecible)",
-                    "artist": "Nam Sang-ji",
-                    "author": "KBS1",
-                    "description": "Eun Sung, la hija de Dong Gu y Chun Young, sueña con tener éxito, pero es una actriz que nadie conoce. Han pasado más de tres años desde que se unió al teatro, pero todavía tiene que pegar carteles y limpiar el teatro y sólo puede practicar cuando los demás actores no están. Sun Woo, hijo de Jung Ae y Ki Seok, es un prometedor director de cine de Hollywood. Eun Sung y Sun Woo se enamoran y deciden casarse. Sin embargo, se dan cuenta de que Dong Gu y Jung Ae eran enemigos jurados que se divorciaron hace 30 años. Esta relación nefasta entre padres e hijos pelea por su matrimonio. ¡La historia de cómo las personas que más se odian se convierten en la familia más salvaje, extraña y divertida a la vez comienza ahora!",
-                    "genre": "Drama, Romance, Comedia, Familia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/z3jn1SCkLdO9awinHpqtwiGjyho.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

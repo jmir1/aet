@@ -67,6 +67,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/shaman-king-flowers-episodio-1/",
+                                "title": "Shaman King: Flowers – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/JUOuwNIfqk2z4RKcR15NSmE83r.jpg"
+                            },
+                            {
+                                "url": "/episodio/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-episodio-1/",
+                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen – Episódio 1",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/nQ3OsLvLsiQjdgBmM4KWOAlnizQ.jpg"
+                            },
+                            {
                                 "url": "/episodio/synduality-noir-part-2-episodio-1/",
                                 "title": "Synduality: Noir Part 2 – Episódio 1",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/q8VIeFRVIzkfxfY3jtjGgSeaAul.jpg"
@@ -205,16 +215,6 @@
                                 "url": "/episodio/chiyu-mahou-no-machigatta-tsukaikata-episodio-1/",
                                 "title": "Chiyu Mahou no Machigatta Tsukaikata – Episódio 1",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/wVUerY7w9YA61VsXSt7ZjE7p6Bk.jpg"
-                            },
-                            {
-                                "url": "/episodio/sousou-no-frieren-episodio-17/",
-                                "title": "Sousou no Frieren – Episódio 17",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/hY3W9rKbuyHe6vybaIUOTStEwks.jpg"
-                            },
-                            {
-                                "url": "/episodio/nozomanu-fushi-no-boukensha-episodio-1/",
-                                "title": "Nozomanu Fushi no Boukensha – Episódio 1",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500_and_h282_face/aXIv3ekx1QBUT03tkSzXDhv0evh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -354,14 +354,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=28wklOM6JdtAd8&expires=1704893652&ip=GHEsDRqAKxSHDN&token=IzYwjl6B7M20",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=28wklOM6JdtAd8&expires=1704893652&ip=GHEsDRqAKxSHDN&token=IzYwjl6B7M20"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

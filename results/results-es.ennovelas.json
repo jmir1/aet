@@ -145,6 +145,12 @@
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Marimar..jpg"
                             },
                             {
+                                "url": "/series/lucifer-3-op/",
+                                "title": "Lucifer Temporada 3",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/09/Lucifer-Temporada-3-355x520.jpg"
+                            },
+                            {
                                 "url": "/series/santa-clauses-a/",
                                 "title": "The Santa Clauses",
                                 "description": "",
@@ -209,12 +215,6 @@
                                 "title": "Doña bella",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/10/MV5BYjJjNjMyNzctZmFhOC00OWM2LWJkN2ItNmIwZDU2ODBlMGVlXkEyXkFqcGdeQXVyMjQ2MDQwNDU@-e1667435427435-358x520.jpg"
-                            },
-                            {
-                                "url": "/series/la-promesa/",
-                                "title": "La Promesa",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/La-Promesa..jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -265,11 +265,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/venganza-capitulo-112-2/",
+                        "name": "Capitulo 112",
+                        "episode_number": 112.0
+                    },
+                    {
+                        "url": "/venganza-capitulo-111-2/",
+                        "name": "Capitulo 111",
+                        "episode_number": 111.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
