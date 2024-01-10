@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/chou-futsuu-ken-chiba-densetsu",
+                                "title": "Chou Futsuu Ken Chiba Densetsu",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933419.jpg"
+                            },
+                            {
+                                "url": "/anime/gekai-elise",
+                                "title": "Gekai Elise",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933418.jpg"
+                            },
+                            {
                                 "url": "/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
                                 "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933417.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/pon-no-michi",
                                 "title": "Pon no Michi",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933404.jpg"
-                            },
-                            {
-                                "url": "/anime/momochi-san-chi-no-ayakashi-ouji",
-                                "title": "Momochi-san Chi no Ayakashi Ouji",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933403.jpg"
-                            },
-                            {
-                                "url": "/anime/chiyu-mahou-no-machigatta-tsukaikata",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933402.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
-                    "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
-                    "description": "A certain otome RPG takes place in the Varschein Kingdom, where dark hair is stigmatized to an abnormal degree. Eumiella Dolkness is the daughter of a count, hated from birth due to her pitch-black locks—and she is also the hidden boss! In a twist of fate, at five years of age, Eumiella recalls memories of her past life in Japan. Uninterested in the romance aspect of the original game, she begins to dedicate herself to training her rare dark-type magic.",
-                    "genre": "Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933417.jpg",
+                    "url": "/anime/chou-futsuu-ken-chiba-densetsu",
+                    "title": "Chou Futsuu Ken Chiba Densetsu",
+                    "description": "The fourth season of Chou Futsuu Toshi Kashiwa Densetsu.",
+                    "genre": "Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933419.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen-episode-1-english-subbed",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkj-WDG5w2KYkgRqvsM0iFXpKef42jCvj8MT8TXzcvJV5dLYQsuiiI-G-YcONIIKyTz7mVqAVGpkPS7zyrI0D-cBgSCyiygLjIucjed2J7CxiA8AiNBM-BWTPf9irwRLZTnU73rrkJljyF8HJ5DzIkr89ZhmJAflbWFZNx-pb2oiE_7T0GmBaOwX0CgsojUaORmKK0iM2y8rcBGYigvmiP66G_AY7RJTn-B_kYbN1qwFKGNRyaeFq3aFenih0xekY4JR923jBwJxh-J7Io25WYwuB-zWI_2j2WYF_8OURl5J-V7ESpI9L4bIKjZ7VR-MzrTh0i314I1yf5uKI7yxQAGLP8P_KkZDhja4WwK2runjFPGmka5tsZzTiabK9LS_Qy7RAM_iX73S7_0fkLGdyMxenua066g5w0iS3GSFgEnYAA0ToFAPJb8OjUi245efsA",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkj-WDG5w2KYkgRqvsM0iFXpKef42jCvj8MT8TXzcvJV5dLYQsuiiI-G-YcONIIKyTz7mVqAVGpkPS7zyrI0D-cBgSCyiygLjIucjed2J7CxiA8AiNBM-BWTPf9irwRLZTnU73rrkJljyF8HJ5DzIkr89ZhmJAflbWFZNx-pb2oiE_7T0GmBaOwX0CgsojUaORmKK0iM2y8rcBGYigvmiP66G_AY7RJTn-B_kYbN1qwFKGNRyaeFq3aFenih0xekY4JR923jBwJxh-J7Io25WYwuB-zWI_2j2WYF_8OURl5J-V7ESpI9L4bIKjZ7VR-MzrTh0i314I1yf5uKI7yxQAGLP8P_KkZDhja4WwK2runjFPGmka5tsZzTiabK9LS_Qy7RAM_iX73S7_0fkLGdyMxenua066g5w0iS3GSFgEnYAA0ToFAPJb8OjUi245efsA"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkj-WDG5w2KYkgRqvsM0iFXpKef42jCvj8MT8TXzcvJV5dLYQsuiiI-G-YcONIIKyTz7mVqAVGpkPS7zyrI0D-cBgSCyiygLjIucjed2J7CxiA8AiNBM-BWTPf9irwRLZTnU73rrkJljyF8HJ5DzIkr89ZhmJAflbWFZNx-pb2oiE_7T0GmBaOwX0CgsojUaOXTr64WFcjJ7eBZal8MeGBO4s5N9_lsZg2aZ6b5v5wLnYG6NqJTNnYBJyC_0MDhyqHYgNgCeAmrbJCR9LHO6HliuZ1U2N_vvorX7tFZ79AFXPulTcN7cDTo61YseaGCijKvdaUoW6Hvt7fmbMup1ef_hfTrhIurWf56vUaOA9InyWNcP-Ydu16UlgIgX7MlwaeZlzqg5QSTIqbjVBS9ViFCvWRRlOrMls0m0RI1VRM-1YJwT8fSUwxbSSQ_ciaTM7Q",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkj-WDG5w2KYkgRqvsM0iFXpKef42jCvj8MT8TXzcvJV5dLYQsuiiI-G-YcONIIKyTz7mVqAVGpkPS7zyrI0D-cBgSCyiygLjIucjed2J7CxiA8AiNBM-BWTPf9irwRLZTnU73rrkJljyF8HJ5DzIkr89ZhmJAflbWFZNx-pb2oiE_7T0GmBaOwX0CgsojUaOXTr64WFcjJ7eBZal8MeGBO4s5N9_lsZg2aZ6b5v5wLnYG6NqJTNnYBJyC_0MDhyqHYgNgCeAmrbJCR9LHO6HliuZ1U2N_vvorX7tFZ79AFXPulTcN7cDTo61YseaGCijKvdaUoW6Hvt7fmbMup1ef_hfTrhIurWf56vUaOA9InyWNcP-Ydu16UlgIgX7MlwaeZlzqg5QSTIqbjVBS9ViFCvWRRlOrMls0m0RI1VRM-1YJwT8fSUwxbSSQ_ciaTM7Q"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkj-WDG5w2KYkgRqvsM0iFXpKef42jCvj8MT8TXzcvJV5dLYQsuiiI-G-YcONIIKyTz7mVqAVGpkPS7zyrI0D-cBgSCyiygLjIucjed2J7CxiA8AiNBM-BWTPf9irwRLZTnU73rrkJljyF8HJ5DzIkr89ZhmJAflbWFZNx-pb2oiE_7T0GmBaOwX0CgsojUaOQPL2AA0ltypHcq0cZgEfI4AMIEudmb9QBtM7OaKuutFU20Cldk1vyi9bRhJUMeiFBPRrmZWIRG8RRprcZ2GpWygvYaGbaPoJs5Uyol7jpVrLFgtFQscdGU64QevcoFYaTCuBXQnhDCd85qX7C8tzidojSEHdXUpc5XA3M89yezNa6bkNnqNFtE0HeyvYdGJzxsW2gsdKQ80RN5llz8wFqWYYvGLAnJImjBRtizNYvXg",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkj-WDG5w2KYkgRqvsM0iFXpKef42jCvj8MT8TXzcvJV5dLYQsuiiI-G-YcONIIKyTz7mVqAVGpkPS7zyrI0D-cBgSCyiygLjIucjed2J7CxiA8AiNBM-BWTPf9irwRLZTnU73rrkJljyF8HJ5DzIkr89ZhmJAflbWFZNx-pb2oiE_7T0GmBaOwX0CgsojUaOQPL2AA0ltypHcq0cZgEfI4AMIEudmb9QBtM7OaKuutFU20Cldk1vyi9bRhJUMeiFBPRrmZWIRG8RRprcZ2GpWygvYaGbaPoJs5Uyol7jpVrLFgtFQscdGU64QevcoFYaTCuBXQnhDCd85qX7C8tzidojSEHdXUpc5XA3M89yezNa6bkNnqNFtE0HeyvYdGJzxsW2gsdKQ80RN5llz8wFqWYYvGLAnJImjBRtizNYvXg"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
