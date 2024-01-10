@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7483-echo",
+                                "title": "Echo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/182a0ed8-9137-4925-bd28-1bccb637bf31.webp"
+                            },
+                            {
                                 "url": "7428-come-puo-uno-scoglio",
                                 "title": "Come può uno scoglio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/4023fb0a-6d0c-4d4c-9309-f1a93a32f83e.webp"
@@ -300,11 +305,6 @@
                                 "url": "7091-all-broke",
                                 "title": "All Broke",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/222ec79b-7ab1-47bf-b2d2-7c96a465ace0.webp"
-                            },
-                            {
-                                "url": "6963-doctor-who-specials",
-                                "title": "Doctor Who: Specials",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b3d8afe2-b5a0-460c-91f6-499efaf5242e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -319,7 +319,7 @@
                             {
                                 "url": "7482-il-triangolo-dellalaska",
                                 "title": "Il triangolo dell'Alaska",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4fbbb63e-cd51-4b58-a3f7-9f868105a4eb.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/2ef077a5-46ae-461f-ac9f-d8ae12b1e136.webp"
                             },
                             {
                                 "url": "7481-contact",
@@ -334,7 +334,7 @@
                             {
                                 "url": "7479-i-re-dellasfalto",
                                 "title": "I re dell'asfalto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fb5519fb-8edb-4fe0-9cf1-349633a345e7.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6a23564e-9602-41d5-9ad6-17c36fc07443.webp"
                             },
                             {
                                 "url": "7478-ember-il-mistero-della-citta-di-luce",
@@ -934,9 +934,9 @@
             },
             "details": {
                 "result": {
-                    "url": "7428-come-puo-uno-scoglio",
-                    "description": "Alla morte di suo padre, Pio eredita la gestione di svariate attività. Ora vive nell’agio di Treviso con la sua famiglia, ed è in corsa per diventare sindaco. Finché Amedeo, un ex carcerato fatto assumere dal parroco del paese come autista personale, non irrompe nella sua vita come un tornado. Ma i due hanno in comune molto più di quello che sembra. Grazie ad Amedeo, Pio riscoprirà le sue passioni e la verità sulla sua famiglia, in un viaggio di riconciliazione con sé stesso.",
-                    "genre": "Commedia",
+                    "url": "7483-echo",
+                    "description": "Maya Lopez viene braccata dall'impero criminale di Fisk. Quando il suo viaggio la riporta a casa, dovrà affrontare la sua famiglia e il suo retaggio.",
+                    "genre": "Dramma, Crime, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -946,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7428",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "7483?e=49298",
+                        "name": "Stagione 1 episodio 5 - Maya",
+                        "episode_number": 5.0
+                    },
+                    {
+                        "url": "7483?e=49297",
+                        "name": "Stagione 1 episodio 4 - Taloa",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7483?episode_id=49298\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7483?episode_id=49298\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-7327591521998495000/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-7327591521998495000/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-7327591521998495000/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-7327591521998495000/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
