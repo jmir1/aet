@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/reacher/",
+                                "title": "Reacher",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
+                            },
+                            {
                                 "url": "/series/echo/",
                                 "title": "Echo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/vFyJH630cF68LohVYjQW49074Sy.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/good-omens/",
                                 "title": "Good Omens",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/1ibIjP6puA4y2SfCn9icSehHrBu.jpg"
-                            },
-                            {
-                                "url": "/series/twisted-metal/",
-                                "title": "Twisted Metal",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/echo/",
-                    "title": "Echo",
-                    "author": "",
-                    "description": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
+                    "url": "/series/reacher/",
+                    "title": "Reacher",
+                    "author": "Nick Santora",
+                    "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
                     "genre": "Action & Adventure, Crime, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/echo-1x5/",
-                        "name": "Season 1x5 : Maya",
-                        "episode_number": 5.0
+                        "url": "/episode/reacher-2x8/",
+                        "name": "Season 2x8 : Fly Boy",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/echo-1x4/",
-                        "name": "Season 1x4 : Taloa",
-                        "episode_number": 4.0
+                        "url": "/episode/reacher-2x7/",
+                        "name": "Season 2x7 : The Man Goes Through",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

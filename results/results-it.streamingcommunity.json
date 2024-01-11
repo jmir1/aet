@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7487-ragazzo-divora-universo",
+                                "title": "Ragazzo divora universo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/920d4b79-3671-4733-86d3-bf26f581e2de.webp"
+                            },
+                            {
+                                "url": "7486-detective-forst",
+                                "title": "Detective Forst",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d09fb4c2-ec98-44a9-84e2-15965bdc19dd.webp"
+                            },
+                            {
                                 "url": "7485-dobbiamo-stare-vicini",
                                 "title": "Dobbiamo stare vicini",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f0ff5c08-f36f-493b-9635-91fc168fdfd5.webp"
@@ -295,16 +305,6 @@
                                 "url": "6983-buon-natale-da-candy-cane-lane",
                                 "title": "Buon Natale da Candy Cane Lane",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a58d352d-66e6-4593-9253-6d1fe7d57b1e.webp"
-                            },
-                            {
-                                "url": "6977-bad-surgeon-il-caso-paolo-macchiarini",
-                                "title": "Bad Surgeon: il caso Paolo Macchiarini",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/efd00c33-d738-416c-a25f-600508cd7ab7.webp"
-                            },
-                            {
-                                "url": "7079-familia",
-                                "title": "Familia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9d2fafb4-f5fa-489a-aedb-c3d8b0459e8a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7488-champion",
+                                "title": "Champion",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/eed80d08-3dd5-47e7-ac9c-e7e61af7b7e8.webp"
+                            },
                             {
                                 "url": "7482-il-triangolo-dellalaska",
                                 "title": "Il triangolo dell'Alaska",
@@ -610,11 +615,6 @@
                                 "url": "7410-sopravvissuti",
                                 "title": "Sopravvissuti",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/075485b2-45ba-4d4b-a479-fc6f6cecb09d.webp"
-                            },
-                            {
-                                "url": "7409-here-alone",
-                                "title": "Here Alone",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e3b40c27-bb8b-4616-be31-09975facba5e.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7485-dobbiamo-stare-vicini",
-                    "description": "Biagio e Francesco, litigiosi vicini di casa, scoprono per caso l’esistenza di uno sgabuzzino segreto, murato in un’intercapedine tra i loro due appartamenti. Per assicurarsi la proprietà del vano, nella speranza che possa custodire qualcosa di prezioso, danno inizio ad un’improbabile ed esilarante caccia al tesoro, che finirà per coinvolgere tutti i vivaci abitanti del loro variegato condominio.",
-                    "genre": "Commedia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7487-ragazzo-divora-universo",
+                    "description": "In una stanza sotto casa sua nella Brisbane degli anni '80, Eli Bell risponde a un telefono rosso e inizia un viaggio che gli spezzerà il cuore per poi ricostruirlo.",
+                    "genre": "Dramma, Crime",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,15 +946,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7485",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "7487?e=49358",
+                        "name": "Stagione 1 episodio 7 - Ragazzo raggiunge la fine",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "7487?e=49326",
+                        "name": "Stagione 1 episodio 6 - Ragazzo cerca lavoro",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7487?episode_id=49358\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7487?episode_id=49358\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-6293744504092584991/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-6293744504092584991/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-6293744504092584991/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-6293744504092584991/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
