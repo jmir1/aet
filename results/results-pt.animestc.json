@@ -7,14 +7,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/series/1583",
-                                "title": "Jujutsu Kaisen 2° Temporada",
-                                "thumbnail_url": "https://stc.animestc.com/1688670816250-image.jpg"
-                            },
-                            {
                                 "url": "/series/1459",
                                 "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen 4° Temporada",
                                 "thumbnail_url": "https://stc.animestc.com/1658437614811-image.jpg"
+                            },
+                            {
+                                "url": "/series/1583",
+                                "title": "Jujutsu Kaisen 2° Temporada",
+                                "thumbnail_url": "https://stc.animestc.com/1688670816250-image.jpg"
                             },
                             {
                                 "url": "/series/1675",
@@ -53,14 +53,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/1583",
-                    "title": "Jujutsu Kaisen 2° Temporada",
-                    "artist": "MAPPA",
-                    "description": "Segunda Temporada de Jujutsu Kaisen!!\n\nClassificação: 14 anos\nAno de lançamento: 2023 ",
-                    "genre": "Ação, Drama, Sobrenatural",
+                    "url": "/series/1459",
+                    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen 4° Temporada",
+                    "artist": "J.C. Staff",
+                    "description": "4° temporada de DanMachi!!!!\n\nClassificação: 16 anos\nAno de lançamento: 2022 ",
+                    "genre": "Ação, Aventura, Comédia, Fantasia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://stc.animestc.com/1688670816250-image.jpg",
+                    "thumbnail_url": "https://stc.animestc.com/1658437614811-image.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -68,33 +68,23 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episodes?slug=jujutsu-kaisen-2-temporada-episodio-23-final",
-                        "name": "Jujutsu Kaisen 2° Temporada - Episódio 23 Final",
-                        "date_upload": 1703944741000,
-                        "episode_number": 23.0
+                        "url": "/episodes?slug=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-4-temporada-episodio-22",
+                        "name": "Dungeon Ni Deai Wo Motomeru No Wa Machigatteiru Darou Ka - 4° Temporada - Episódio 22",
+                        "date_upload": 1679015678000,
+                        "episode_number": 22.0
                     },
                     {
-                        "url": "/episodes?slug=jujutsu-kaisen-2-temporada-episodio-22",
-                        "name": "Jujutsu Kaisen 2° Temporada - Episódio 22",
-                        "date_upload": 1703278547000,
-                        "episode_number": 22.0
+                        "url": "/episodes?slug=dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-4-temporada-episodio-21",
+                        "name": "Dungeon Ni Deai Wo Motomeru No Wa Machigatteiru Darou Ka - 4° Temporada - Episódio 21",
+                        "date_upload": 1678455281000,
+                        "episode_number": 21.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://atc-cloud.animestc.net/online/2023/Jujutsu_Kaisen_S2/23.mp4",
-                        "quality": "Player ATC",
-                        "videoUrl": "https://atc-cloud.animestc.net/online/2023/Jujutsu_Kaisen_S2/23.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "Referer": "https://www.animestc.net/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: anonfiles.com: No address associated with hostname",
+                "passed": false
             }
         }
     }

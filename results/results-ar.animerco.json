@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/majo-to-yajuu/",
+                                "title": "Majo to Yajuu",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/27P7if13VIJuxV3KyvPPNHQ1ZF2.jpg"
+                            },
+                            {
+                                "url": "/animes/gekkan-mousou-kagaku/",
+                                "title": "Gekkan Mousou Kagaku",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/6Ei5yD3veVdp2UXylL1xgZvjKR4.jpg"
+                            },
+                            {
                                 "url": "/animes/metallic-rouge/",
                                 "title": "Metallic Rouge",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/animes/momochi-san-chi-no-ayakashi-ouji/",
                                 "title": "Momochi-san Chi no Ayakashi Ouji",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/xSHn2ECie9ZyG3QCKL6fzfnLu2c.jpg"
-                            },
-                            {
-                                "url": "/animes/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga/",
-                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg"
-                            },
-                            {
-                                "url": "/animes/sasaki-to-pii-chan/",
-                                "title": "Sasaki to Pii-chan",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,28 +169,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/metallic-rouge/",
-                    "title": "Metallic Rouge",
-                    "artist": "BONES",
-                    "author": "Fuji TV",
-                    "description": "في عالم يتعايش فيه البشر مع الروبوتات المسماة “نيان”، تظهر مجموعة تُعرف باسم “التسعة الخالدون” وتتمرد على المجتمع. كُلفت نيان تُدعى روج ريدستار (المعروفة أيضًا باسم ميتال روج) والمحققة ناومي أورثمان بملاحقة المتمردين على المريخ …\n\nAlternative title: METALLIC ROUGE",
-                    "genre": "أكشن, خيال علمي",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
+                    "url": "/animes/majo-to-yajuu/",
+                    "title": "Majo to Yajuu",
+                    "artist": "TBS, Yokohama Animation Laboratory",
+                    "author": "TBS",
+                    "description": "تبدأ القصة مع الـ “أصول” السبعة عشر، قوى سحرية موروثة لا زال أحفاد حامليها يجوبون الأرض حتى اليوم. في إحدى البلدات، يظهر رجل يحمل نعشا وفتاة بعيون الوحش. الفتاة ملعونة من ساحرة وتسعى للانتقام منها لاستعادة حياتها الطبيعية. هل ستكون الساحرة التي تظهر أمامهما هي هدف رحلتهم الشاقة؟ وكيف يمكن فك اللعنة؟ تبدأ هذه الرحلة للانتقام من ساحرة شريرة في التدحرج عندما يمسك الوحش الساحرة.\n\nAlternative title: The Witch and the Beast",
+                    "genre": "أكشن, خيال, سينين",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/27P7if13VIJuxV3KyvPPNHQ1ZF2.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodes/metallic-rouge-الحلقة-1/",
-                        "name": "Metallic Rouge الموسم 1: الحلقة 1",
-                        "episode_number": 1.001
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

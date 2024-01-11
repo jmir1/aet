@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/majo-to-yajuu",
+                                "title": "Majo to Yajuu",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4123.webp"
+                            },
+                            {
+                                "url": "/urusei-yatsura-2022-2nd-season",
+                                "title": "Urusei Yatsura (2022) 2nd Season",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4122.webp"
+                            },
+                            {
+                                "url": "/gekkan-mousou-kagaku",
+                                "title": "Gekkan Mousou Kagaku",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4121.webp"
+                            },
+                            {
                                 "url": "/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
                                 "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
                                 "status": 1,
@@ -107,24 +125,6 @@
                                 "title": "Ore dake Level Up na Ken",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4103.webp"
-                            },
-                            {
-                                "url": "/mashle-2nd-season",
-                                "title": "Mashle 2nd Season",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4102.webp"
-                            },
-                            {
-                                "url": "/yubisaki-to-renren",
-                                "title": "Yubisaki to Renren",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4101.webp"
-                            },
-                            {
-                                "url": "/kekkon-yubiwa-monogatari",
-                                "title": "Kekkon Yubiwa Monogatari",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4100.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,50 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
-                    "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-                    "description": "El oficinista Kiyoshi Adachi ha pasado 30 años de vida sin que nunca le hayan reventado la cereza. Debido a este profundo logro, se convierte en un mago con la capacidad de leer la mente a través del contacto físico. Sin embargo, cree que su habilidad recién adquirida es irremediablemente aburrida y ha hecho que no le gusten los lugares concurridos.",
-                    "genre": "Comedia, Sobrenatural, Yaoi",
+                    "url": "/majo-to-yajuu",
+                    "title": "Majo to Yajuu",
+                    "description": "Guideau: una chica salvaje con largos colmillos y ojos de bestia. Ashaf: un hombre de voz suave, rasgos delicados y un ataúd atado a su espalda. Esta siniestra pareja aparece un día en un pueblo que está esclavizado por una bruja, que ha convencido a la gente del pueblo de que ella es su heroína. Pero Ashaf y Guideau lo saben mejor. Tienen cuentas que ajustar y no dudarán en eliminar a cualquiera que se interponga en su camino...",
+                    "genre": "Acción, Seinen, Fantasía",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4120.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4123.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii-1",
-                        "name": "Episodio 1",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/tfobzxhtypke",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-eegpnfut1s580fm4.voe-network.net/engine/hls2/01/10262/tcpxx2hso6hj_,n,.urlset/master.m3u8?t=JiJsPXEDZU9Dw_4FT3D6nw6ooU_hEMWhv8SkHaVkoJ0&s=1704975139&e=14400&f=51312100&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=20.172&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxr4qh5z3b4quuopkqrmo2ukf7dhyo2khznsofktfn4ipdp2dzua6tmrywbym2ngxk4kncu/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxr4qh5z3b4quuopkqrmo2ukf7dhyo2khznsofktfn4ipdp2dzua6tmrywbym2ngxk4kncu/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=kK2bgJ09OatyaK&expires=1705045136&ip=FROsD0ETKxSHDN&token=g89UHzAonLyR",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=kK2bgJ09OatyaK&expires=1705045136&ip=FROsD0ETKxSHDN&token=g89UHzAonLyR"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
