@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/metallic-rouge",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-metallic-rouge-cover.png"
+                            },
+                            {
                                 "url": "/media/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
                                 "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii-cover.png"
@@ -100,11 +105,6 @@
                                 "url": "/media/mashle-dai-2-ki",
                                 "title": "Mashle: Magic and Muscles - Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-mashle-dai-2-ki-cover.png"
-                            },
-                            {
-                                "url": "/media/yubisaki-to-renren",
-                                "title": "A Sign of Affection",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-yubisaki-to-renren-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
-                    "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+                    "url": "/media/metallic-rouge",
+                    "title": "Metallic Rouge",
                     "author": "",
-                    "description": "Der neunundzwanzigjährige Büroangestellte Kiyoshi Adachi führt ein absolut ereignisloses Leben. Er hatte noch nie enge Freunde oder eine Beziehung und glaubt nicht daran, dass jemals irgendetwas Spannendes in seinem Leben passieren wird. Doch dann erhält er an seinem dreißigsten Geburtstag eine besondere Gabe: Da er in seinem Alter noch Jungfrau ist, kann er von nun an die Gedanken der Leute lesen, die er berührt. Was sich zunächst interessant anhört, wird für den schüchternen Kiyoshi schnell zur Qual, weil er seine Fähigkeit nicht ausschalten kann und jetzt selbst alltägliche Dinge wie Bahnfahren oder in einen Aufzug zu steigen unerträglich für ihn wird. Kiyoshis Kollege, Yuuichi Kurosawa, ist das genaue Gegenteil von ihm. Er ist bei seinen Kollegen beliebt, ein Überflieger bei der Arbeit und scheint sein Leben voll im Griff zu haben. Als Kiyoshi ihn aus Neugierde, was einen so perfekten Menschen beschäftigt, berührt, erfährt er ein schockierendes Geheimnis. Yuuichi ist unsterblich in jemanden verliebt – und zwar niemand geringeres als Kiyoshi selber! Nun hat Kiyoshi ein noch größeres Problem, denn wie soll er seinen Kollegen abweisen, obwohl er eigentlich nichts von dessen Geheimnis wissen dürfte? Und je mehr Zeit sie miteinander verbringen, umso mehr verändern sich Kiyoshis eigene Gefühle, bis er nicht mehr weiß, wie genau er zu seinem Kollegen steht. Quelle: aniSearch",
-                    "genre": "Romantische Komödie",
+                    "description": "*Keine Beschreibung verfügbar",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-metallic-rouge-cover.png",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii#streams_episodes_1_0",
+                        "url": "/media/metallic-rouge#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,19 +247,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=JvORyLOdaWfgyP&expires=1704980184&ip=G0WsDROZKxSHDN&token=StNOZVHRd1jt",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=JvORyLOdaWfgyP&expires=1704980184&ip=G0WsDROZKxSHDN&token=StNOZVHRd1jt"
-                    },
-                    {
-                        "url": "https://bradleyviewdoctor.com/l8jl9jcnu3uf?Cherry.Magic.Thirty.Years.of.Virginity.Can.Make.You.a.Wizard.S01E01.GerSub.HS.AAC.720p.WebDL.x264-Tanuki.mkv",
-                        "quality": "Voe Deutsch Sub",
-                        "videoUrl": "https://delivery-node-aenweewvyripecad.voe-network.net/engine/hls2/01/10262/l8jl9jcnu3uf_,n,.urlset/master.m3u8?t=Kzomqjx6gX3UUrN6Ote1gE5jGZ_9IklCg_0fmP8HTwM&s=1704910182&e=14400&f=51311662&node=delivery-node-aenweewvyripecad.voe-network.net&i=52.238&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }

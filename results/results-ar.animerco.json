@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/animes/metallic-rouge/",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg"
+                            },
+                            {
+                                "url": "/animes/shaman-king-flowers/",
+                                "title": "Shaman King: Flowers",
+                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/wxVkoCshNRJyB9vfKVHTXOIQQeF.jpg"
+                            },
+                            {
                                 "url": "/animes/sengoku-youko/",
                                 "title": "Sengoku Youko",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/zji5ES3Mle76zNcwwapon0H25bN.jpg"
@@ -95,16 +105,6 @@
                                 "url": "/animes/sasaki-to-pii-chan/",
                                 "title": "Sasaki to Pii-chan",
                                 "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg"
-                            },
-                            {
-                                "url": "/animes/dungeon-meshi/",
-                                "title": "Dungeon Meshi",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2023/12/9t3DYdGxK3i4WRzKvIZwJd4kBnr.jpg"
-                            },
-                            {
-                                "url": "/animes/mato-seihei-no-slave/",
-                                "title": "Mato Seihei no Slave",
-                                "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2023/12/jRPj0lLdWEqXHoz8Z2TLGYcwHMT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -169,22 +169,28 @@
             },
             "details": {
                 "result": {
-                    "url": "/animes/sengoku-youko/",
-                    "title": "Sengoku Youko",
-                    "artist": "ABC Animation, White Fox",
-                    "author": "Tokyo MX",
-                    "description": "في عالمٍ منقسم بين البشر وفصيلةٍ وحشيةٍ تُدعى الكاتاورا، تُولد قصة تاما، الكاتاورا التي تُحب البشر وتتعهد بحمايتهم من أي شرٍ، حتى لو كان ذلك يعني محاربة شعبها. ينضم إلى تاما شقيقها جينكا، الذي يكره البشر على الرغم من تشابهه الكبير معهم. ومعهم ينضم شينسوكي، رجل السيف الذي يسعى ليصبح اقوى. عندما تكتشف هذه المجموعة مؤامرة لإجراء تجارب على البشر وتحويلهم إلى وحوش، يتعهدون بإيقاف من يقف وراء هذه المؤامرة، حتى لو كان ذلك يعني مواجهة جيشٍ كاملٍ من المحاربين.\n\nAlternative title: Warring States Youko",
-                    "genre": "أكشن, خيال, دراما, شونين, مغامرة, ميثولوجيا",
+                    "url": "/animes/metallic-rouge/",
+                    "title": "Metallic Rouge",
+                    "artist": "BONES",
+                    "author": "Fuji TV",
+                    "description": "في عالم يتعايش فيه البشر مع الروبوتات المسماة “نيان”، تظهر مجموعة تُعرف باسم “التسعة الخالدون” وتتمرد على المجتمع. كُلفت نيان تُدعى روج ريدستار (المعروفة أيضًا باسم ميتال روج) والمحققة ناومي أورثمان بملاحقة المتمردين على المريخ …\n\nAlternative title: METALLIC ROUGE",
+                    "genre": "أكشن, خيال علمي",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/zji5ES3Mle76zNcwwapon0H25bN.jpg",
+                    "thumbnail_url": "https://ww3.animerco.org/wp-content/uploads/2024/01/dcUWxOeCiEM7n7KdIYk1O8Xzgzp.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodes/metallic-rouge-الحلقة-1/",
+                        "name": "Metallic Rouge الموسم 1: الحلقة 1",
+                        "episode_number": 1.001
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",

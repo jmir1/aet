@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/metallic-rouge-latino",
+                                "title": "Metallic Rouge Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/metallic-rouge-latino-1704911747.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/undead-unluck-latino",
                                 "title": "Undead Unluck Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/undead-unluck-latino-1704771473.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/la-melancolia-de-haruhi-suzumiya-castellano",
                                 "title": "La Melancolía De Haruhi Suzumiya Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/la-melancolia-de-haruhi-suzumiya-castellano-1689451510.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/miraculous-tales-of-ladybug-cat-noir-s5-latino",
-                                "title": "Miraculous: Tales of Ladybug & Cat Noir S5 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/miraculous-tales-of-ladybug-cat-noir-s5-latino-1685211785.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,10 +324,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/undead-unluck-latino",
-                    "title": "Undead Unluck Latino",
-                    "description": "de su serie de manga favorita, Fuuko Izumo finalmente se siente lista para poner fin a su existencia. Durante los últimos 10 años, Fuuko ha estado afectada por una condición que trae extrema desgracia a cualquiera que la toque. Esto ha tenido un efecto drástico en su entorno, provocando incluso sin darse cuenta la muerte de quienes la rodean, incluidos sus padres. Mientras está parada en un puente sobre las vías del tren, Fuuko es tocada por un hombre extraño, lo que hace que el pie debajo de él se rompa y lo deje caer frente a un tren que se aproxima. Sin embargo, cuando Fuuko encuentra el cadáver del hombre, descubre que su cuerpo se está regenerando y que está volviendo a la vida. El hombre, a quien Fuuko llama Andy, es inmortal y, como ella, también desea la muerte. Inicialmente desdeñosa, Fuuko finalmente decide formar equipo con Andy para darle la mejor muerte posible; pero una misteriosa organización acecha en las sombras, con la esperanza de aprovechar las extrañas habilidades del dúo.",
-                    "genre": "Acción, Comedia, Gore, Shonen, Sobrenatural",
+                    "url": "/anime/metallic-rouge-latino",
+                    "title": "Metallic Rouge Latino",
+                    "description": "En un mundo donde conviven humanos y androides, Rouge es una chica androide, que se encuentra en una misión en Marte con su compañera Naomi. La misión es asesinar a nueve humanos artificiales hostiles al gobierno.",
+                    "genre": "Acción, Ciencia Ficción",
                     "initialized": true
                 },
                 "passed": true
@@ -335,14 +335,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/undead-unluck-latino-episodio-5",
-                        "name": "Undead Unluck Latino Capitulo 5",
-                        "episode_number": 5.0
-                    },
-                    {
-                        "url": "/ver/undead-unluck-latino-episodio-3",
-                        "name": "Undead Unluck Latino Capitulo 3",
-                        "episode_number": 3.0
+                        "url": "/ver/metallic-rouge-latino-episodio-1",
+                        "name": "Metallic Rouge Latino Capitulo 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -350,21 +345,51 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://m30.uqload.io/3rfknd4jsfw2q4drdjr7v4hrki3vjdfufgb2w4kwf7jehb67iepg4d73nktq/v.mp4",
+                        "url": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=5&sig=ZQYj5XJvhGE&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150",
+                        "quality": "ok -  Okru:1080p",
+                        "videoUrl": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=5&sig=ZQYj5XJvhGE&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150"
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcx2sx75z3b4quuopkqusk22kcx5cqp4qqru4fon4qvq45hugq4nqkuzscm5m3x7euj27rfh/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx2sx75z3b4quuopkqusk22kcx5cqp4qqru4fon4qvq45hugq4nqkuzscm5m3x7euj27rfh/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://m130.uqload.io/3rfkyymjsfw2q4drdjr7vifsagucm4wc6txbqqwhybvtzl2bjdoslr3wxy3q/v.mp4",
                         "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m30.uqload.io/3rfknd4jsfw2q4drdjr7v4hrki3vjdfufgb2w4kwf7jehb67iepg4d73nktq/v.mp4",
+                        "videoUrl": "https://m130.uqload.io/3rfkyymjsfw2q4drdjr7vifsagucm4wc6txbqqwhybvtzl2bjdoslr3wxy3q/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
                     },
                     {
-                        "url": "https://www14.mp4upload.com:183/d/qwxryqh5z3b4quuopkqueo22jw5u3plzrv2gce6c3m2enw6ulighp67vygabgh3hlvhts6xx/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 720p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxryqh5z3b4quuopkqueo22jw5u3plzrv2gce6c3m2enw6ulighp67vygabgh3hlvhts6xx/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
+                        "url": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=3&sig=4fq-Rnb0UlA&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150",
+                        "quality": "ok -  Okru:720p",
+                        "videoUrl": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=3&sig=4fq-Rnb0UlA&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150"
+                    },
+                    {
+                        "url": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=2&sig=DwcFyhX94Gg&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150",
+                        "quality": "ok -  Okru:480p",
+                        "videoUrl": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=2&sig=DwcFyhX94Gg&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150"
+                    },
+                    {
+                        "url": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=1&sig=0AugYGiZF6M&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150",
+                        "quality": "ok -  Okru:360p",
+                        "videoUrl": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=1&sig=0AugYGiZF6M&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150"
+                    },
+                    {
+                        "url": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=0&sig=yDF8xXQMngk&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150",
+                        "quality": "ok -  Okru:240p",
+                        "videoUrl": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=0&sig=yDF8xXQMngk&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150"
+                    },
+                    {
+                        "url": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=4&sig=OH-SARqgknA&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150",
+                        "quality": "ok -  Okru:144p",
+                        "videoUrl": "https://vd462.mycdn.me/?expires=1705019555887&srcIp=13.83.123.145&pr=10&srcAg=GECKO&ms=185.226.52.56&type=4&sig=OH-SARqgknA&ct=0&urls=45.136.20.16&clientType=0&zs=43&id=5663312317150"
                     }
                 ],
                 "passed": true
