@@ -11,6 +11,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/film/familien-jul-og-nissehotellet-104998/",
+                                "thumbnail_url": "https://images.hdmz.co/images/poster/183e13b87a34488c69a691951b8b6a1a.jpg"
+                            },
+                            {
                                 "url": "/film/warchief-105004/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/147b7ad86d076be2e8d057cf7c0bd243.jpg"
                             },
@@ -165,10 +169,6 @@
                             {
                                 "url": "/film/special-lady-104437/",
                                 "thumbnail_url": "https://images.hdmz.co/images/poster/4fc6820ef367455c6e3751b8a70627d6.jpg"
-                            },
-                            {
-                                "url": "/film/like-flowers-in-sand-104122/",
-                                "thumbnail_url": "https://images.hdmz.co/images/poster/8a23c98e731737d4b1372cfbcd663530.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -347,8 +347,17 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/film/familien-jul-og-nissehotellet-104998/",
+                    "title": "Familien Jul og nissehotellet",
+                    "author": "",
+                    "description": "\n\nQuality: HD\nRelease: 2021-11-11\nIMDb: n/a",
+                    "genre": "Family",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected start of the object '{', but had 'EOF' instead at path: $\nJSON input: ",
