@@ -92,6 +92,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74884/legendado",
+                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42936_background.jpg?v=1705082486"
+                            },
+                            {
+                                "url": "/episodio/74883/legendado",
+                                "title": "Nozomanu Fushi no Boukensha",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42905_background.jpg?v=1704487107"
+                            },
+                            {
+                                "url": "/episodio/74882/legendado",
+                                "title": "Sasaki to Pii-chan",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42904_background.jpg?v=1704486960"
+                            },
+                            {
+                                "url": "/episodio/74881/legendado",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42801_background.jpg?v=1696014662"
+                            },
+                            {
                                 "url": "/episodio/74880/legendado",
                                 "title": "6 Lovers",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
@@ -188,26 +208,6 @@
                             },
                             {
                                 "url": "/episodio/74862/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74861/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74860/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74859/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74858/legendado",
                                 "title": "A.D. Police (TV)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }

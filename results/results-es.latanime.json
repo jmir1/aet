@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-latino",
+                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-latino-1705075062.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/mushishi-castellano",
                                 "title": "Mushishi Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/mushishi-castellano-1704998419.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/rurouni-kenshin-2023-latino",
                                 "title": "Rurouni Kenshin (2023) Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/rurouni-kenshin-2023-latino-1690492571.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/jujutsu-kaisen-s2-latino",
-                                "title": "Jujutsu Kaisen S2 Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/jujutsu-kaisen-s2-latino-1690490946.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,45 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mushishi-castellano",
-                    "title": "Mushishi Castellano",
-                    "description": "\"Mushi\": las formas de vida más básicas del mundo. Existen sin ninguna meta o propósito aparte de simplemente \"ser\". Están más allá de las ataduras de las palabras \"bien\" y \"mal\". Los mushi pueden existir en innumerables formas y son capaces de imitar cosas del mundo natural, como plantas, enfermedades e incluso fenómenos como el arco iris. Sin embargo, esta es sólo una definición vaga de estas entidades que habitan el vibrante mundo de Mushishi, ya que incluso llamarlas una forma de vida sería una simplificación excesiva. La información detallada sobre Mushi es escasa porque la mayoría de los humanos desconocen su existencia. Entonces, ¿qué son los Mushi y por qué existen? Esta es la pregunta que un \"Mushishi\", Ginko, reflexiona constantemente. Los mushishi son aquellos que investigan a los mushi con la esperanza de comprender su lugar en la jerarquía de la vida mundial. Ginko persigue rumores de sucesos que podrían estar relacionados con Mushi, todo con el fin de encontrar una respuesta. Después de todo, podría conducirnos al significado de la vida misma.",
-                    "genre": "Aventura, Recuerdos de la vida, Seinen, Sobrenatural, Histórico",
+                    "url": "/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-latino",
+                    "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Latino",
+                    "description": "En el mundo de Ivy, las estrellas lo son todo. Ella es una domadora, nacida para someter monstruos y animales, ¡pero también nació sin estrellas! Con su vida en peligro, Ivy huye al bosque donde se hace amiga de un pequeño y débil limo llamado Sora, la única criatura que puede domesticar. Juntos, la improbable pareja emprendió un viaje, rescatando basura para sobrevivir. En el camino, ganarán corazones, evadirán el peligro y descubrirán que Ivy sin estrellas esconde mucho más de lo que parece.",
+                    "genre": "Aventura",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/mushishi-castellano-episodio-1",
-                        "name": "Mushishi Castellano Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m110.uqload.io/3rfk3h7ssfw2q4drdjo7vjfya7rkv7b4oar2u4is2xrduf2nr4ir6tnjpmba/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m110.uqload.io/3rfk3h7ssfw2q4drdjo7vjfya7rkv7b4oar2u4is2xrduf2nr4ir6tnjpmba/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://www4.mp4upload.com:183/d/rcxqi2h5z3b4quuopoqrcnqzjmo7kwa42y6xwiw4hp3jja2dnv4p7cdbdvppxmqdv7qxszrz/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 720p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxqi2h5z3b4quuopoqrcnqzjmo7kwa42y6xwiw4hp3jja2dnv4p7cdbdvppxmqdv7qxszrz/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

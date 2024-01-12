@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/cardfight-vanguard-divinez",
+                                "title": "Cardfight!! Vanguard: Divinez",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4126.webp"
+                            },
+                            {
+                                "url": "/snack-basue",
+                                "title": "Snack Basue",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4125.webp"
+                            },
+                            {
+                                "url": "/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
+                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4124.webp"
+                            },
+                            {
                                 "url": "/majo-to-yajuu",
                                 "title": "Majo to Yajuu",
                                 "status": 1,
@@ -107,24 +125,6 @@
                                 "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4106.webp"
-                            },
-                            {
-                                "url": "/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru",
-                                "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4105.webp"
-                            },
-                            {
-                                "url": "/ao-no-exorcist-shimane-illuminati-hen",
-                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4104.webp"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken",
-                                "title": "Ore dake Level Up na Ken",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4103.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,50 +264,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/majo-to-yajuu",
-                    "title": "Majo to Yajuu",
-                    "description": "Guideau: una chica salvaje con largos colmillos y ojos de bestia. Ashaf: un hombre de voz suave, rasgos delicados y un ataúd atado a su espalda. Esta siniestra pareja aparece un día en un pueblo que está esclavizado por una bruja, que ha convencido a la gente del pueblo de que ella es su heroína. Pero Ashaf y Guideau lo saben mejor. Tienen cuentas que ajustar y no dudarán en eliminar a cualquiera que se interponga en su camino...",
-                    "genre": "Acción, Seinen, Fantasía",
+                    "url": "/cardfight-vanguard-divinez",
+                    "title": "Cardfight!! Vanguard: Divinez",
+                    "description": "exta temporada de Cardfight!! Vanguard: D Series.",
+                    "genre": "Acción, Juegos",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4123.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4126.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/majo-to-yajuu-1",
-                        "name": "Episodio 1",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/eq2kwt0nnpsx",
-                        "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-v1erxe9dtcvj2lqt.voe-network.net/engine/hls2/01/10269/gu5rxz0rttkl_,n,.urlset/master.m3u8?t=jM1jbGc2TQIe_Bswx-99ptbCVnwRJkHTZwVSWTJRr04&s=1705061543&e=14400&f=51349412&node=delivery-node-v1erxe9dtcvj2lqt.voe-network.net&i=13.86&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxugz75z3b4quuopoqqyksdcatoiiehrsylcbymmmkxsn4raftkqadjde2mdqtlnfvl4eas/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxugz75z3b4quuopoqqyksdcatoiiehrsylcbymmmkxsn4raftkqadjde2mdqtlnfvl4eas/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=VXPPMP3zwLTKrwg&expires=1705131541&ip=F0AsFxInDS9X&token=nJ36lTsezZIF",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=VXPPMP3zwLTKrwg&expires=1705131541&ip=F0AsFxInDS9X&token=nJ36lTsezZIF"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

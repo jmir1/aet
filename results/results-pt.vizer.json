@@ -598,8 +598,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=CRnwarRyzrldjrTRFK-jCA&e=1705104543&_t=1705084934",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=CRnwarRyzrldjrTRFK-jCA&e=1705104543&_t=1705084934",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=RQz138NMtOa8kNo0xme1EQ&e=1705104544&_t=1705083213",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=RQz138NMtOa8kNo0xme1EQ&e=1705104544&_t=1705083213",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
