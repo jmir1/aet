@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/ted/",
+                                "title": "ted",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+                            },
+                            {
                                 "url": "/series/reacher/",
                                 "title": "Reacher",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/jFuH0md41x5mB4qj5344mSmtHrO.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/top-boy-2/",
                                 "title": "Top Boy",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/cfqHWQQDwvKT8Xoe0AXzHBXcF1u.jpg"
-                            },
-                            {
-                                "url": "/series/good-omens/",
-                                "title": "Good Omens",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1ibIjP6puA4y2SfCn9icSehHrBu.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/reacher/",
-                    "title": "Reacher",
-                    "author": "Nick Santora",
-                    "description": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-                    "genre": "Action & Adventure, Crime, Drama",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "/series/ted/",
+                    "title": "ted",
+                    "author": "Seth MacFarlane",
+                    "description": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
+                    "genre": "Comedy",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/reacher-2x8/",
-                        "name": "Season 2x8 : Fly Boy",
-                        "episode_number": 8.0
+                        "url": "/episode/ted-1x7/",
+                        "name": "Season 1x7 : He's Gotta Have It",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/episode/reacher-2x7/",
-                        "name": "Season 2x7 : The Man Goes Through",
-                        "episode_number": 7.0
+                        "url": "/episode/ted-1x6/",
+                        "name": "Season 1x6 : Loud Night",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

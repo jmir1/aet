@@ -42,6 +42,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e02ec04-cf4d-4d52-874a-a3ed6d693597.webp"
                             },
                             {
+                                "url": "7496-gioco-di-ruolo",
+                                "title": "Gioco di ruolo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/50ad07a6-2db8-44c4-a474-b9cb8937bf5a.webp"
+                            },
+                            {
                                 "url": "7442-the-brothers-sun",
                                 "title": "The Brothers Sun",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/db6aa995-2f15-499e-a05d-fb67d518b62d.webp"
@@ -300,11 +305,6 @@
                                 "url": "6986-troppo-cattivi-un-natale-troppo-cattivo",
                                 "title": "Troppo cattivi - Un Natale troppo cattivo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ae265808-896d-474a-8d65-a277aed0881e.webp"
-                            },
-                            {
-                                "url": "6981-obliterated-una-notte-da-panico",
-                                "title": "Obliterated - Una notte da panico",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/64b7b6ed-bcd2-4afa-b03a-4bb81be81004.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-13887865869022935782/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-13887865869022935782/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-13887865869022935782/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-13887865869022935782/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
