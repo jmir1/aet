@@ -92,6 +92,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74880/legendado",
+                                "title": "6 Lovers",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
+                            },
+                            {
+                                "url": "/episodio/74879/legendado",
+                                "title": "6 Lovers",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
+                            },
+                            {
+                                "url": "/episodio/74878/legendado",
+                                "title": "6 Lovers",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
+                            },
+                            {
+                                "url": "/episodio/74877/legendado",
+                                "title": "6 Lovers",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
+                            },
+                            {
+                                "url": "/episodio/74876/legendado",
+                                "title": "6 Lovers",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
+                            },
+                            {
+                                "url": "/episodio/74875/legendado",
+                                "title": "6 Lovers",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
+                            },
+                            {
+                                "url": "/episodio/74874/legendado",
+                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42903_background.jpg?v=1704416195"
+                            },
+                            {
+                                "url": "/episodio/74873/legendado",
+                                "title": "Mato Seihei no Slave",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42902_background.jpg?v=1704413493"
+                            },
+                            {
                                 "url": "/episodio/74872/legendado",
                                 "title": "Mahou Shoujo ni Akogarete",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42900_background.jpg?v=1704395416"
@@ -170,46 +210,6 @@
                                 "url": "/episodio/74858/legendado",
                                 "title": "A.D. Police (TV)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74857/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74856/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74854/legendado",
-                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42930_background.jpg?v=1704917686"
-                            },
-                            {
-                                "url": "/episodio/74853/dublado",
-                                "title": "Metallic Rouge",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42932_background.jpg?v=1704919010"
-                            },
-                            {
-                                "url": "/episodio/44773/dublado",
-                                "title": "Level E",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6697_background.jpg?v=1648861018"
-                            },
-                            {
-                                "url": "/episodio/44772/dublado",
-                                "title": "Level E",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/6697_background.jpg?v=1648861018"
-                            },
-                            {
-                                "url": "/episodio/74852/legendado",
-                                "title": "Sengoku Youko",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42929_background.jpg?v=1704916471"
-                            },
-                            {
-                                "url": "/episodio/74851/legendado",
-                                "title": "Gekai Elise",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42928_background.jpg?v=1704916228"
                             }
                         ],
                         "hasNextPage": true
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }
