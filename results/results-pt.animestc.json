@@ -45,6 +45,86 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/1560",
+                                "title": "Dr. Stone: New World 3° Temporada",
+                                "thumbnail_url": "https://stc.animestc.com/1683291988901-image.jpg"
+                            },
+                            {
+                                "url": "/series/147",
+                                "title": "Hetalia: The World Twinkle",
+                                "thumbnail_url": "https://stc.animestc.com/next-71753l.jpg"
+                            },
+                            {
+                                "url": "/series/1194",
+                                "title": "Hetalia World Stars",
+                                "thumbnail_url": "https://stc.animestc.com/1617264109637-image.jpg"
+                            },
+                            {
+                                "url": "/series/561",
+                                "title": "Kino no Tabi: The Beautiful World - The Animated Series",
+                                "thumbnail_url": "https://stc.animestc.com/next-87235l.jpg"
+                            },
+                            {
+                                "url": "/series/211",
+                                "title": "Musaigen no Phantom World",
+                                "thumbnail_url": "https://stc.animestc.com/next-961d72f6b3825bca53b772996d47eae91452019692_full.jpg"
+                            },
+                            {
+                                "url": "/series/1218",
+                                "title": "SD Gundam World Heroes",
+                                "thumbnail_url": "https://stc.animestc.com/1617881436755-image.jpg"
+                            },
+                            {
+                                "url": "/series/22",
+                                "title": "Seiken Tsukai no World Break",
+                                "thumbnail_url": "https://stc.animestc.com/next-d8d6f911a315e5b3afc2048c9ce24fc21415668611_full.jpg"
+                            },
+                            {
+                                "url": "/series/1441",
+                                "title": "Shin Tennis no Ouji-sama: U-17 WORLD CUP",
+                                "thumbnail_url": "https://stc.animestc.com/1657130685744-image.jpg"
+                            },
+                            {
+                                "url": "/series/652",
+                                "title": "Spiritpact - Bond of The Underworld",
+                                "thumbnail_url": "https://stc.animestc.com/next-7b30e330965dd4b3dfb464baa6116e571519666590_full.jpg"
+                            },
+                            {
+                                "url": "/series/946",
+                                "title": "Sword Art Online: Alicization - War of Underworld",
+                                "thumbnail_url": "https://stc.animestc.com/next-102165l.jpg"
+                            },
+                            {
+                                "url": "/series/1077",
+                                "title": "Sword Art Online: Alicization - War of Underworld - Parte 2",
+                                "thumbnail_url": "https://stc.animestc.com/1594477593502-image.jpg"
+                            },
+                            {
+                                "url": "/series/91",
+                                "title": "World Trigger",
+                                "thumbnail_url": "https://stc.animestc.com/next-2b00d7ed0ca0084eaa73416e2ee5eb5f1412626835_full.jpg"
+                            },
+                            {
+                                "url": "/series/1169",
+                                "title": "World Trigger 2° Temporada",
+                                "thumbnail_url": "https://stc.animestc.com/1610216838182-image.jpg"
+                            },
+                            {
+                                "url": "/series/1332",
+                                "title": "World Trigger 3° Temporada",
+                                "thumbnail_url": "https://stc.animestc.com/1633664412355-image.jpg"
+                            },
+                            {
+                                "url": "/series/188",
+                                "title": "World Trigger: Toubousha Hen 2° Temporada",
+                                "thumbnail_url": "https://stc.animestc.com/next-f7256b5d8b6709de55057bdbf43e09261442264970_full.jpg"
+                            },
+                            {
+                                "url": "/series/1187",
+                                "title": "World Witches Hasshin Shimasu!",
+                                "thumbnail_url": "https://stc.animestc.com/1611082461579-image.jpg"
+                            }
                         ],
                         "hasNextPage": false
                     }
@@ -83,8 +163,34 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.UnknownHostException: anonfiles.com: No address associated with hostname",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://d1112.download-send.com/d/ibytsbqp6gosj4l4bnyudsfj2okegqknes7g6wtlq6nl44sxmjdpmfsuvnk5veijox2zmkoj/video.mp4",
+                        "quality": "Sendcm - FULLHD",
+                        "videoUrl": "https://d1112.download-send.com/d/ibytsbqp6gosj4l4bnyudsfj2okegqknes7g6wtlq6nl44sxmjdpmfsuvnk5veijox2zmkoj/video.mp4",
+                        "headers": {
+                            "Referer": "https://send.cm/d/LyPt"
+                        }
+                    },
+                    {
+                        "url": "https://d1112.download-send.com/d/ibyt4bqp6gosj4l4bnyubtpa23b34uioezcwo74tmhkgtamftm6ahwww7gdhiryga6df5sg3/video.mp4",
+                        "quality": "Sendcm - SD",
+                        "videoUrl": "https://d1112.download-send.com/d/ibyt4bqp6gosj4l4bnyubtpa23b34uioezcwo74tmhkgtamftm6ahwww7gdhiryga6df5sg3/video.mp4",
+                        "headers": {
+                            "Referer": "https://send.cm/d/LyPq"
+                        }
+                    },
+                    {
+                        "url": "https://atc-cloud.animestc.net/online/2022/Danmachi-S4/22.mp4",
+                        "quality": "Player ATC",
+                        "videoUrl": "https://atc-cloud.animestc.net/online/2022/Danmachi-S4/22.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://www.animestc.net/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

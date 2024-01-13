@@ -465,24 +465,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/f5gu0unynd1z",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-jfz54ijskijzgera.voe-network.net/engine/hls2/01/10277/f5gu0unynd1z_,n,.urlset/master.m3u8?t=45i0kuTXp_AmYhpuKtHeThHDEY9FMjqatrEaclHmDYw&s=1705126095&e=14400&f=51385437&node=delivery-node-jfz54ijskijzgera.voe-network.net&i=40.65&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/lwrubydn1yah",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/10277/lwrubydn1yah_,l,.urlset/master.m3u8?t=gTt8mZ1PZjNbz8rBTFBQBK59RaL1vzsxIuQ9-jrRh04&s=1705126095&e=14400&f=51385748&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=40.65&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/0xjtmlj13uxt",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-3qxdghox0csibqlw.voe-network.net/engine/hls2/01/10277/0xjtmlj13uxt_,l,.urlset/master.m3u8?t=Pud-Rf3eEOatkbOf6yJxNNiyqVYGqJ50_ejKn6LBwPM&s=1705126095&e=14400&f=51385598&node=delivery-node-3qxdghox0csibqlw.voe-network.net&i=40.65&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
