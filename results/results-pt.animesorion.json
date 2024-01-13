@@ -92,6 +92,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74889/legendado",
+                                "title": "Pon no Michi",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42910_background.jpg?v=1704563036"
+                            },
+                            {
+                                "url": "/episodio/74888/legendado",
+                                "title": "Snack Basue",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42937_background.jpg?v=1705091424"
+                            },
+                            {
+                                "url": "/episodio/74887/legendado",
+                                "title": "Urusei Yatsura (2022) 2nd Season",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42616_background.jpg?v=1705087618"
+                            },
+                            {
+                                "url": "/episodio/74886/legendado",
+                                "title": "Momochi-san Chi no Ayakashi Ouji",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42906_background.jpg?v=1704487486"
+                            },
+                            {
+                                "url": "/episodio/74885/legendado",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42907_background.jpg?v=1704487605"
+                            },
+                            {
                                 "url": "/episodio/74884/legendado",
                                 "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42936_background.jpg?v=1705082486"
@@ -183,31 +208,6 @@
                             },
                             {
                                 "url": "/episodio/74867/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74866/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74865/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74864/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74863/legendado",
-                                "title": "A.D. Police (TV)",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
-                            },
-                            {
-                                "url": "/episodio/74862/legendado",
                                 "title": "A.D. Police (TV)",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/2319_background.jpg?v=1704937664"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
+                "error": "java.lang.IllegalStateException: Must have an even length",
                 "passed": false
             }
         }

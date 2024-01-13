@@ -371,12 +371,36 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/snack-basue-الحلقة-1/",
+                        "name": "الحلقة 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m90.uqload.io/3rfkkfwvsfw2q4drdjppvknzdeo2luvohgckf67pcf63e7jxx5vn3ctrjc7q/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m90.uqload.io/3rfkkfwvsfw2q4drdjppvknzdeo2luvohgckf67pcf63e7jxx5vn3ctrjc7q/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxu7cp4z3b4quuoowqr2paxk5nogswiwz236ck343kqti5tnvfx43yizisajcw5vhl6yiez/video.mp4",
+                        "quality": "Mp4Upload - 480p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxu7cp4z3b4quuoowqr2paxk5nogswiwz236ck343kqti5tnvfx43yizisajcw5vhl6yiez/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
