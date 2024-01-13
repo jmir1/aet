@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/media/cardfight-vanguard-divinez",
+                                "title": "Cardfight!! Vanguard: Divinez",
+                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-cardfight-vanguard-divinez-cover.png"
+                            },
+                            {
                                 "url": "/media/snack-basue",
                                 "title": "Snack Basue",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-snack-basue-cover.png"
@@ -100,11 +105,6 @@
                                 "url": "/media/shin-no-nakama-ja-nai-to-yuusha-no-party-o-oidasareta-no-de-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd",
                                 "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside: Staffel 2",
                                 "thumbnail_url": "https://www.anime-loads.org/files/image/w200-shin-no-nakama-ja-nai-to-yuusha-no-party-o-oidasareta-no-de-henkyou-de-slow-life-suru-koto-ni-shimashita-2nd-cover.png"
-                            },
-                            {
-                                "url": "/media/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-o-mankitsu-suru",
-                                "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
-                                "thumbnail_url": "https://www.anime-loads.org/files/image/w200-loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-o-mankitsu-suru-cover.png"
                             }
                         ],
                         "hasNextPage": true
@@ -224,14 +224,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/media/snack-basue",
-                    "title": "Snack Basue",
+                    "url": "/media/cardfight-vanguard-divinez",
+                    "title": "Cardfight!! Vanguard: Divinez",
                     "author": "",
-                    "description": "Im Herzen von Susukino, dem pulsierenden Unterhaltungszentrum Hokkaidos, erwartet Besucher ein wahrer Schatz: das charmante Lokal Snack Basue. Ein Magnet für alle, die nach dem herzhaften Gelächter fröhlicher Damen und der Gesellschaft exzentrischer Persönlichkeiten suchen. Geleitet von der charismatischen Basue, der Namensgeberin des Lokals, und der dynamischen Junginhaberin Akemi, entfaltet sich hier eine Welt voller Wärme und Heiterkeit. In dieser Oase der Lebensfreude verweben sich Geschichten, Lachen und unvergessliche Momente zu einem einzigartigen Erlebnis. Quelle: aniSearch",
-                    "genre": "Komödie",
+                    "description": "*Keine Beschreibung verfügbar",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-snack-basue-cover.png",
+                    "thumbnail_url": "https://www.anime-loads.org/files/image/w200-cardfight-vanguard-divinez-cover.png",
                     "initialized": true
                 },
                 "passed": true
@@ -239,7 +239,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/media/snack-basue#streams_episodes_1_0",
+                        "url": "/media/cardfight-vanguard-divinez#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
                     }
@@ -247,8 +247,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=QaLoy0GGJQS0Y2q&expires=1705196124&ip=G0WsDRSOKxSHDN&token=N9ebFhHjy4tm",
+                        "quality": "Streamtape Deutsch Sub",
+                        "videoUrl": "https://streamtape.com/get_video?id=QaLoy0GGJQS0Y2q&expires=1705196124&ip=G0WsDRSOKxSHDN&token=N9ebFhHjy4tm"
+                    },
+                    {
+                        "url": "https://bradleyviewdoctor.com/3wxrxm34zxcl?Cardfight.Vanguard.Divinez.S05E01.GerSub.HS.AAC.720p.WebDL.x264-Tanuki.mkv",
+                        "quality": "Voe Deutsch Sub",
+                        "videoUrl": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/10278/3wxrxm34zxcl_,n,.urlset/master.m3u8?t=u9agtZYK37jy3m0Qu3TysTlMDOoEEfjcS2am-71K87s&s=1705126122&e=14400&f=51391327&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=52.225&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }

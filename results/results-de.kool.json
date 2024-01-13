@@ -977,36 +977,15 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=906126&name=Die Schneegesellschaft&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=JvoL0krzWgTjmbo&expires=1705175960&ip=F0qQKRWZD19XKxR&token=V1vhytWSJeia",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=JvoL0krzWgTjmbo&expires=1705175960&ip=F0qQKRWZD19XKxR&token=V1vhytWSJeia"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=LYPB2x99abCRRaB&expires=1705175960&ip=F0qQKRWZD19XKxR&token=FF8rp7kdVnJb",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=LYPB2x99abCRRaB&expires=1705175960&ip=F0qQKRWZD19XKxR&token=FF8rp7kdVnJb"
-                    },
-                    {
-                        "url": "https://voe.sx/e/5rmgl3kruifk",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-kymck1ruekr8ciu3.voe-network.net/engine/hls2-c/01/10223/5rmgl3kruifk_,n,.urlset/master.m3u8?t=CZTyHj2LlETO1XUG7hHf72exZepDnvtttmcGhND5ra8&s=1705105960&e=14400&f=51117675&node=delivery-node-3afnu6tmwys6nwnm.voe-network.net&i=172.183&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/8fwh7gndssv2",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-n2k2evvblm5iz5mc.voe-network.net/engine/hls2-c/01/10223/8fwh7gndssv2_,n,.urlset/master.m3u8?t=YsCVZ5FKVMsq-TrwmlP2ktFz7EvQDi0uYAgdrIcMNX0&s=1705105959&e=14400&f=51118468&node=delivery-node-khimwq6e0foc9jj9.voe-network.net&i=172.183&sp=2500&asn=8075"
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "{\"id\":753342,\"media_type\":\"movie\"}",
+                                "title": "Napoleon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
+                            },
+                            {
                                 "url": "{\"id\":906126,\"media_type\":\"movie\"}",
                                 "title": "Society of the Snow",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//2e853FDVSIso600RqAMunPxiZjq.jpg"
@@ -15,11 +20,6 @@
                                 "url": "{\"id\":572802,\"media_type\":\"movie\"}",
                                 "title": "Aquaman and the Lost Kingdom",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg"
-                            },
-                            {
-                                "url": "{\"id\":753342,\"media_type\":\"movie\"}",
-                                "title": "Napoleon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
                             },
                             {
                                 "url": "{\"id\":1071215,\"media_type\":\"movie\"}",
@@ -224,9 +224,9 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":906126,\"media_type\":\"movie\"}",
-                    "description": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.\n\nRelease date: 2023-12-13",
-                    "genre": "Drama, History",
+                    "url": "{\"id\":753342,\"media_type\":\"movie\"}",
+                    "description": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.\n\nRelease date: 2023-11-22",
+                    "genre": "History, War, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -234,9 +234,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/906126",
+                        "url": "/movie/753342",
                         "name": "Movie",
-                        "date_upload": 1702425600000,
+                        "date_upload": 1700611200000,
                         "episode_number": 1.0
                     }
                 ],
