@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/mi-nombre-es-gumus/",
+                                "title": "Mi Nombre es Gumus",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/Mi-Nombre-es-Gumus-novela-turca-347x520.jpg"
+                            },
+                            {
+                                "url": "/series/un-litro-de-lagrimas/",
+                                "title": "Un Litro de Lagrimas",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/MV5BOGFmOWM3NWUtY2RjNC00NjcyLWE2ZTAtNjk3OTBhNGE2YmNhXkEyXkFqcGdeQXVyMTE2MDU0NzAw._V1_UY1200_CR85,0,630,1200_AL_-273x520.jpg"
+                            },
+                            {
                                 "url": "/series/tu-vida-es-mi-vida/",
                                 "title": "Tu Vida Es Mi Vida",
                                 "description": "",
@@ -203,18 +215,6 @@
                                 "title": "Rebelde",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Rebelde..jpg"
-                            },
-                            {
-                                "url": "/series/todo-por-mi-familia/",
-                                "title": "Todo por mi Familia",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/01/Screenshot23-399x520.jpg"
-                            },
-                            {
-                                "url": "/series/puentes-de-amor/",
-                                "title": "Puentes de amor",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Puentes-de-amor...webp"
                             }
                         ],
                         "hasNextPage": true
@@ -252,28 +252,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/tu-vida-es-mi-vida/",
-                    "title": "Tu Vida Es Mi Vida",
-                    "artist": "",
-                    "author": "2024",
-                    "description": "Tu Vida Es Mi Vida",
-                    "genre": "Drama, Novelas Mexicanas, Romance",
+                    "url": "/series/mi-nombre-es-gumus/",
+                    "title": "Mi Nombre es Gumus",
+                    "artist": "Ekrem Bora",
+                    "author": "Berfu Ergenekon",
+                    "description": "Mi Nombre es Gumus",
+                    "genre": "Drama, Family, Romance, Srnovelas",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/tu-vida-es-mi-vida-capitulo-1/",
-                        "name": "T1 - E1 - Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }

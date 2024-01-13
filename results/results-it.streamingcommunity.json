@@ -317,14 +317,19 @@
                     {
                         "animes": [
                             {
+                                "url": "7499-criminal-minds-beyond-borders",
+                                "title": "Criminal Minds: Beyond Borders",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/19a3998f-f571-4280-9626-2ae0de1493bd.webp"
+                            },
+                            {
                                 "url": "7495-il-re-della-giungla",
                                 "title": "Il re della giungla",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e1938496-c012-47e3-8e17-8b200818b9f8.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c664edd1-d958-402c-bdcd-169c35d4ef24.webp"
                             },
                             {
                                 "url": "7494-river-monsters-misteri-dagli-abissi",
                                 "title": "River monsters: misteri dagli abissi",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/756db916-cddd-40f9-9ff9-8321110119de.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/954bdc85-3728-4a39-b16d-a626cbae07ff.webp"
                             },
                             {
                                 "url": "7493-river-monsters-mondi-sommersi",
@@ -334,7 +339,7 @@
                             {
                                 "url": "7492-falegnami-ad-alta-quota",
                                 "title": "Falegnami ad Alta Quota",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c7743ac8-0ea0-4af6-a885-568f7a4f2bb7.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/669d8cf6-08e7-4d03-a04c-d5b68e65f545.webp"
                             },
                             {
                                 "url": "7491-master-of-arms",
@@ -610,11 +615,6 @@
                                 "url": "7419-spoiler-alert",
                                 "title": "Spoiler Alert",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/e2148dd4-631d-4cb2-a0ba-33a52853ca4d.webp"
-                            },
-                            {
-                                "url": "7417-captains-of-the-world",
-                                "title": "Captains of the World",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/73afcb09-f412-4e51-81ea-a1cbd6c71f95.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-7023366204211055467/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-7023366204211055467/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-7023366204211055467/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-7023366204211055467/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

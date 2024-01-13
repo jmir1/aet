@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/bucchigiri",
+                                "title": "Bucchigiri?!",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4127.webp"
+                            },
+                            {
                                 "url": "/cardfight-vanguard-divinez",
                                 "title": "Cardfight!! Vanguard: Divinez",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4107.webp"
-                            },
-                            {
-                                "url": "/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru",
-                                "title": "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4106.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,24 +264,50 @@
             },
             "details": {
                 "result": {
-                    "url": "/cardfight-vanguard-divinez",
-                    "title": "Cardfight!! Vanguard: Divinez",
-                    "description": "exta temporada de Cardfight!! Vanguard: D Series.",
-                    "genre": "Acción, Juegos",
+                    "url": "/bucchigiri",
+                    "title": "Bucchigiri?!",
+                    "description": "Arajin Tomobishi se ve envuelto en batallas entre individuos poderosos después de reunirse con su antiguo amigo Matakara Asamine. Mientras tanto, ¡¿aparece la sombra de un demonio colosal...?!",
+                    "genre": "Acción",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4126.webp",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4127.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/bucchigiri-1",
+                        "name": "Episodio 1",
+                        "episode_number": 0.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://voe.sx/e/vgxbmpneawij",
+                        "quality": "Voe:720p",
+                        "videoUrl": "https://delivery-node-vuthnkcnblo4lifz.voe-network.net/engine/hls2/01/10281/vgxbmpneawij_,o,.urlset/master.m3u8?t=tlG13hyno1ZYsnjL5H1kt1VQ9xSYIC4MzK838L8alxc&s=1705169316&e=14400&f=51406951&node=delivery-node-vuthnkcnblo4lifz.voe-network.net&i=138.91&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://www4.mp4upload.com:183/d/rcx7hg74z3b4quuoowquynasikijahkw6xylmotruxhmncr74sqmewgmocsbjyufhy43uhee/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx7hg74z3b4quuoowquynasikijahkw6xylmotruxhmncr74sqmewgmocsbjyufhy43uhee/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=gwYQV69jWjFqwk4&expires=1705239317&ip=F0AWKRcSKxSHDN&token=JwIV5iGoRJxL",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=gwYQV69jWjFqwk4&expires=1705239317&ip=F0AWKRcSKxSHDN&token=JwIV5iGoRJxL"
+                    }
+                ],
+                "passed": true
             }
         }
     }
