@@ -92,6 +92,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/74901/legendado",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/1_background.jpg?v=1649095900"
+                            },
+                            {
+                                "url": "/episodio/74900/legendado",
+                                "title": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
+                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42912_background.jpg?v=1704570547"
+                            },
+                            {
                                 "url": "/episodio/74899/legendado",
                                 "title": "Kingdom 5th Season",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/42942_background.jpg?v=1705179566"
@@ -198,16 +208,6 @@
                             },
                             {
                                 "url": "/episodio/74878/legendado",
-                                "title": "6 Lovers",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
-                            },
-                            {
-                                "url": "/episodio/74877/legendado",
-                                "title": "6 Lovers",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
-                            },
-                            {
-                                "url": "/episodio/74876/legendado",
                                 "title": "6 Lovers",
                                 "thumbnail_url": "https://cdn.animesorion.com/images/anime/low/j/12566_background.jpg?v=1705022326"
                             }
@@ -378,7 +378,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Must have an even length",
+                "error": "java.lang.NumberFormatException: For input string: \"<!\" under radix 16",
                 "passed": false
             }
         }

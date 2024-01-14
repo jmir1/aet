@@ -317,6 +317,31 @@
                     {
                         "animes": [
                             {
+                                "url": "7506-ironclad-2-battle-for-blood",
+                                "title": "Ironclad 2 - Battle for blood",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b2e797c8-813b-4832-93b2-81090b41b9a9.webp"
+                            },
+                            {
+                                "url": "7505-robert-the-bruce-guerriero-e-re",
+                                "title": "Robert the Bruce: guerriero e re",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/164f7618-b7c7-4b50-8d47-37f4dede1805.webp"
+                            },
+                            {
+                                "url": "7504-the-last-king",
+                                "title": "The Last King",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/6261b3b0-9e37-4415-aa6e-0da92e38b752.webp"
+                            },
+                            {
+                                "url": "7503-private-practice",
+                                "title": "Private Practice",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e6914359-85ff-4310-b93e-6157b356604a.webp"
+                            },
+                            {
+                                "url": "7501-victoria",
+                                "title": "Victoria",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/31b98477-e9d4-4c72-aa6c-b9109a65a1e8.webp"
+                            },
+                            {
                                 "url": "7500-law-order-organized-crime",
                                 "title": "Law & Order: Organized Crime",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/bac9c29c-30a7-4941-9a4e-f596bae7403c.webp"
@@ -590,31 +615,6 @@
                                 "url": "7426-too-hot-to-handle-america-latina",
                                 "title": "Too Hot to Handle: America Latina",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/e374441d-e6ac-413a-9ffa-ec60ba1f4342.webp"
-                            },
-                            {
-                                "url": "7425-lordine-del-tempo",
-                                "title": "L’ordine del tempo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d48ebb2e-ccca-4037-88cb-d968e65a36b3.webp"
-                            },
-                            {
-                                "url": "7424-santocielo",
-                                "title": "Santocielo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/07c1f1a3-6f6d-4a80-9fa5-07010f4b4d3a.webp"
-                            },
-                            {
-                                "url": "7423-amore-iva",
-                                "title": "Amore + Iva",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/49dee763-519c-42eb-8ccd-fd3444535ed9.webp"
-                            },
-                            {
-                                "url": "7422-camino-per-casa-vostra-fuoco-crepitante-da-legno-di-betulla",
-                                "title": "Camino per casa vostra - Fuoco crepitante da legno di betulla",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/0a0e77c7-178f-4e64-9dae-4b4fb2c46c74.webp"
-                            },
-                            {
-                                "url": "7420-sound-of-freedom",
-                                "title": "Sound of Freedom",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/571caae0-5ba5-4dcd-ac9b-b8cb3206ad61.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-3668249158672876793/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-3668249158672876793/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-3668249158672876793/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-3668249158672876793/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

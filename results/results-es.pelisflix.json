@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/elijo-creer/",
+                                "title": "Elijo creer",
+                                "description": "La película oficial de la AFA, narra, con testimonios de los protagonistas, contados desde la intim...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uuJEndoVqFIGgMLPjC54zJtSOys.webp"
+                            },
+                            {
                                 "url": "/pelicula/five-nights-at-freddys/",
                                 "title": "Five Nights at Freddy's",
                                 "description": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa s...",
@@ -239,12 +245,6 @@
                                 "title": "Un Papá Para Navidad",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/BKdzMBjKRPku7zFMJRZ0eFTuEdY1SAAj.webp"
-                            },
-                            {
-                                "url": "/pelicula/criptoestafas/",
-                                "title": "Criptoestafas",
-                                "description": "Un documental sobre tres hombres que aprovecharon el caótico criptomercado para estafar a los inver...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/RsShgJEHJjv228NPwVYYIvAYgYe8AbYhuGoBgS8Q.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -510,10 +510,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/five-nights-at-freddys/",
-                    "title": "Five Nights at Freddy's",
-                    "description": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
-                    "genre": "Estrenos, Suspense, Terror",
+                    "url": "/pelicula/elijo-creer/",
+                    "title": "Elijo creer",
+                    "description": "La película oficial de la AFA, narra, con testimonios de los protagonistas, contados desde la intimidad y en primera persona, el épico título obtenido en el último Mundial de Fútbol. El filme promete capturar la pasión y el orgullo que Argentina siente por su selección de fútbol, ofreciendo a los espectadores una experiencia única e inolvidable.Elijo Creer se presenta como un conmovedor homenaje a la tenacidad y dedicación de la selección argentina en su búsqueda de la gloria en el escenario internacional y tiene como objetivo que todos los hinchas de la selección, puedan rememorar y compartir en las salas de cine de todo país, la obtención de la Copa del Mundo, durante el mes de su primer aniversario.",
+                    "genre": "Documental",
                     "initialized": true
                 },
                 "passed": true
@@ -521,7 +521,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/five-nights-at-freddys/",
+                        "url": "/pelicula/elijo-creer/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -529,7 +529,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar iUbWPUbd = \"\"; jUoVgccVe.forEach(function Oym(value) { iUbWPUbd += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar hashWBaKN = \"\"; BFRuosAL.forEach(function Oym(value) { hashWBaKN += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

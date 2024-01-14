@@ -82,6 +82,21 @@
                                 "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-969b-ec32-7d64-407f.jpg"
                             },
                             {
+                                "url": "/serie-en-streaming/27772-captain-tsubasa-2018-saison-2.html",
+                                "title": "Captain Tsubasa (2018) Saison 2 VOSTFR",
+                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-5353-69ab-75a6-4d86.jpg"
+                            },
+                            {
+                                "url": "/serie-en-streaming/28386-the-lazarus-project-saison-2.html",
+                                "title": "The Lazarus Project Saison 2 French",
+                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-6b8a-25b4-8867-45b7.jpg"
+                            },
+                            {
+                                "url": "/serie-en-streaming/28643-mon-demon-saison-1.html",
+                                "title": "Mon démon Saison 1 VOSTFR",
+                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-1189-110b-e77f-448b.jpg"
+                            },
+                            {
                                 "url": "/serie-en-streaming/29078-house-of-kardashian-saison-1.html",
                                 "title": "House Of Kardashian Saison 1 French",
                                 "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-56cc-1023-047f-46ad.jpg"
@@ -90,21 +105,6 @@
                                 "url": "/serie-en-streaming/29040-plus-belle-la-vie-encore-plus-belle-saison-1.html",
                                 "title": "Plus belle la vie, encore plus belle Saison 1 French",
                                 "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-2d0b-8cbc-54c4-4cf4.jpg"
-                            },
-                            {
-                                "url": "/serie-en-streaming/28185-the-curse-saison-1.html",
-                                "title": "The Curse Saison 1 French",
-                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-048a-f718-18f4-4f49.jpg"
-                            },
-                            {
-                                "url": "/serie-en-streaming/28667-iaalm-csghjghjkhjkisfghon-3-partighje-4-819.html",
-                                "title": "Ici Tout Commence Saison 4 French",
-                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-f55a-3664-c1b0-4d70.jpg"
-                            },
-                            {
-                                "url": "/serie-en-streaming/28643-mon-demon-saison-1.html",
-                                "title": "Mon démon Saison 1 VOSTFR",
-                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-1189-110b-e77f-448b.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -236,13 +236,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "https://doods.pro/e/8crnp5o0jwsh,https://voe.sx/e/vqz17wneogq9,https://waaw1.tv/e/msnAb8y5lMU9",
+                        "url": "https://doods.pro/e/pdq3fca2t2mz,https://voe.sx/e/vqz17wneogq9,https://waaw1.tv/e/msnAb8y5lMU9",
                         "name": "Episode 6",
                         "episode_number": 6.0,
                         "scanlator": "VOSTFR"
                     },
                     {
-                        "url": "https://doods.pro/e/3zbuehlxzuki,https://voe.sx/e/dvkivx38lire,https://uqload.io/embed-hbqxad31uf3c.html",
+                        "url": "https://doods.pro/e/5ylpgcjt2dry,https://voe.sx/e/dvkivx38lire,https://uqload.io/embed-hbqxad31uf3c.html",
                         "name": "Episode 5",
                         "episode_number": 5.0,
                         "scanlator": "VOSTFR"
@@ -251,8 +251,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: no player found",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://doods.pro/e/pdq3fca2t2mz",
+                        "quality": "Doodstream mirror",
+                        "videoUrl": "https://p314o.video-delivery.net/u5kj6qusjtdlsdgge5ta63qvllek7twrb4tuczpklnsx5slzwljxwv655cwa/66rbh6on5x~eoWdQcPemL?token=a73p6xm2n38ngn3p35glgjqt&expiry=1705234404571",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://doods.pro/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
