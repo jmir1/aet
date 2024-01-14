@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hikari-no-ou-2nd-season/",
+                                "title": "Hikari no Ou 2nd Season",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.14_19h02m38s_001_-215x300.png"
+                            },
+                            {
+                                "url": "/anime/yuuki-bakuhatsu-bang-bravern/",
+                                "title": "Yuuki Bakuhatsu Bang Bravern",
+                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.14_15h26m10s_002_-215x300.png"
+                            },
+                            {
                                 "url": "/anime/snack-basue/",
                                 "title": "Snack Basue",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.12_13h53m08s_004_-215x300.png"
@@ -235,16 +245,6 @@
                                 "url": "/anime/boku-no-hero-academia-ua-heroes-battle/",
                                 "title": "Boku no Hero Academia: UA Heroes Battle",
                                 "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2023/12/my-hero-academia-ua-heroes-battle-kv-scaled-1-215x300.jpeg"
-                            },
-                            {
-                                "url": "/anime/meitantei-conan-movie-26-kurogane-no-submarine/",
-                                "title": "Meitantei Conan Movie 26: Kurogane no Submarine",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2023/11/detective_conan_movie_26_kurogane_no_submarine_11567-215x300.webp"
-                            },
-                            {
-                                "url": "/anime/onmyouji/",
-                                "title": "Onmyouji",
-                                "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2023/11/F9UmGHSWAAA-cb1-215x300.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -359,48 +359,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/snack-basue/",
-                    "title": "Snack Basue",
-                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: شتاء 2024\nالمصدر: مانجا\n\nسناك باسوي، يقع على بُعد خمس محطات من سوسوكينو، أكبر منطقة وسط هوكايدو. يتم تشغيل هذا المتجر الممتع بواسطة “ماما بسو” و”ماما أكيمي“. مليء بضحك الفتيات وزبائنهم العاديين غير العاديين، ستجد نفسك تبتسم معهم قبل أن تدرك ذلك.",
-                    "genre": "كوميدي, سينين, TV, يعرض الان, شتاء 2024",
+                    "url": "/anime/hikari-no-ou-2nd-season/",
+                    "title": "Hikari no Ou 2nd Season",
+                    "description": "النوع: TV\nبداية العرض: 2024\nحالة الأنمي: يعرض الان\nعدد الحلقات: غير معروف\nمدة الحلقة: 24 دقيقة\nالموسم: شتاء 2024\nالمصدر: رواية\n\nتدور أحداث الانمي بعد الحرب الأخيرة. يلف العالم غابة سوداء وقد أصيب الناس بمرض يتسبب في اشتعال النار فيهم عند وجود نار طبيعية. المصدر الآمن الوحيد للحصول على النار هو عن طريق صيد الوحوش السوداء، أرواح اللهب الموجودة في أعماق الغابة. بين صائدي النار، بدأت شائعات عن “ملك صيادي النار” بالانتشار مؤخرًا، شخص سيكون قادرًا على حصاد “نجم من صنع البشر”، مذنب الألفية الذي تجول في الفراغ ذات مرة. تركز القصة حول “توكو”، فتاة نشأت في قرية، و“كوشي”، وهو طالب سابق في العاصمة. اللقاء بين الاثنين اللذين لم يكن من المفترض أن يلتقيا سيغير مصير العالم.",
+                    "genre": "فنتازيا, TV, يعرض الان, شتاء 2024",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.12_13h53m08s_004_.png",
+                    "thumbnail_url": "https://anime4up.cam/wp-content/uploads/2024/01/Ashampoo_Snap_2024.01.14_19h02m38s_001_.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/snack-basue-الحلقة-1/",
-                        "name": "الحلقة 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m90.uqload.io/3rfkkfwvsfw2q4drdjppvknzdeo2luvohgckf67pcf63erh62l5ofswlnd3a/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m90.uqload.io/3rfkkfwvsfw2q4drdjppvknzdeo2luvohgckf67pcf63erh62l5ofswlnd3a/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxu7cp4z3b4quuoowqr2paxk5nogswiwz236ck343kta2w67uqxqivju35mq2o2gd5lnpgl/video.mp4",
-                        "quality": "Mp4Upload - 480p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxu7cp4z3b4quuoowqr2paxk5nogswiwz236ck343kta2w67uqxqivju35mq2o2gd5lnpgl/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

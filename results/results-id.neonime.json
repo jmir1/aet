@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/tvshows/meiji-gekken-1874-subtitle-indonesia/",
+                                "title": "Meiji Gekken: 1874 Subtitle Indonesia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w154/to0xpuN372OGEEHfeVYkNb1Scz2.jpg"
+                            },
+                            {
                                 "url": "/tvshows/kingdom-season-5-subtitle-indonesia/",
                                 "title": "Kingdom Season 5 Subtitle Indonesia",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w154/wyuWkrjxHgS4Sbop41to6nNkJJq.jpg"
@@ -14,7 +19,7 @@
                             {
                                 "url": "/tvshows/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-subtitle-indonesia/",
                                 "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Subtitle Indonesia",
-                                "thumbnail_url": "https://www.themoviedb.org/t/p/w186/za2EAhBtO08JJw9Q25zKyrY5Jkd.jpg"
+                                "thumbnail_url": "https://www.themoviedb.org/t/p/w154/za2EAhBtO08JJw9Q25zKyrY5Jkd.jpg"
                             },
                             {
                                 "url": "/tvshows/majo-to-yajuu-subtitle-indonesia/",
@@ -75,11 +80,6 @@
                                 "url": "/tvshows/sasaki-to-pii-chan-subtitle-indonesia/",
                                 "title": "Sasaki to Pii-chan Subtitle Indonesia",
                                 "thumbnail_url": "https://www.themoviedb.org/t/p/w154/t0pLQlwJiGe0HODy5Yk1bMo12P.jpg"
-                            },
-                            {
-                                "url": "/tvshows/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga-subtitle-indonesia/",
-                                "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Subtitle Indonesia",
-                                "thumbnail_url": "https://www.themoviedb.org/t/p/w154/kAeUNvfsdJxog67rSGumgg3TsIf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -238,13 +238,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/tvshows/kingdom-season-5-subtitle-indonesia/",
-                    "title": "キングダム 第5シリーズ",
+                    "url": "/tvshows/meiji-gekken-1874-subtitle-indonesia/",
+                    "title": "明治撃剣－1874－",
                     "artist": "Unknown",
                     "author": "Unknown",
-                    "description": "Sinopsis dari anime Kingdom Season 5 Subtitle Indonesia Season Kelima dari anime Kingdom Japanese: キングダム 第5シリーズ English: Kingdom Season 5",
-                    "genre": "Historical, Military",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w154/wyuWkrjxHgS4Sbop41to6nNkJJq.jpg",
+                    "description": "Sinopsis dari anime Meiji Gekken: 1874 Subtitle Indonesia Tahun 1874. Shizuma Orikasa, yang pernah menjadi samurai dari Domain Aizu dan sekarang bekerja sebagai penarik becak, memulai pencarian untuk menemukan tunangannya yang hilang, Sumie Kanomata. Namun, kejadian tak terduga mendorongnya ke dalam jajaran kepolisian yang baru dibentuk, menjeratnya dalam upaya konspirasi yang bertujuan untuk menggulingkan pemerintah. Pada saat yang sama, klan yakuza Moriya menyambut tamu, Kyoushirou Shuragami, seorang pendekar pedang yang mahir. Di dalam klan, yang terkait dengan dalang penggulingan pemerintah, Kyoushirou secara strategis memposisikan dirinya demi keuntungan pribadi. Hal ini menjadi panggung bagi drama takdir yang terungkap antara Shizuma dan Kyoushirou, di mana pertemuan dan perpisahan yang ironis menunggu Shizuma dalam perjalanannya. Japanese: 明治撃剣－1874－",
+                    "genre": "Historical, Samurai",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w154/to0xpuN372OGEEHfeVYkNb1Scz2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -252,16 +252,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/kingdom-season-5x1-subtitle-indonesia",
-                        "name": "Kingdom Season 5 Episode 1 Subtitle Indonesia",
+                        "url": "/episode/meiji-gekken-1874-1x1-subtitle-indonesia",
+                        "name": "Meiji Gekken: 1874 Episode 1 Subtitle Indonesia",
                         "date_upload": -61550755200000,
-                        "episode_number": 51.0
+                        "episode_number": 18741.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }

@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7508-against-the-wild-viaggio-attraverso-il-serengeti",
+                                "title": "Against the Wild: Viaggio attraverso il Serengeti",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/49b622d0-0310-4c9b-9485-bb2851766e54.webp"
+                            },
+                            {
+                                "url": "7507-bobs-burgers",
+                                "title": "Bob's Burgers",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fd095086-c573-48d3-85b6-13855c51025d.webp"
+                            },
+                            {
                                 "url": "7506-ironclad-2-battle-for-blood",
                                 "title": "Ironclad 2 - Battle for blood",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b2e797c8-813b-4832-93b2-81090b41b9a9.webp"
@@ -334,7 +344,7 @@
                             {
                                 "url": "7503-private-practice",
                                 "title": "Private Practice",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e6914359-85ff-4310-b93e-6157b356604a.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8ff82e35-46f7-4d0d-a624-100664ecfa0f.webp"
                             },
                             {
                                 "url": "7501-victoria",
@@ -605,16 +615,6 @@
                                 "url": "7435-il-dottor-ali",
                                 "title": "Il Dottor Alì",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f95a58e3-419e-4af0-91df-9d92565e2808.webp"
-                            },
-                            {
-                                "url": "7427-too-hot-to-handle-germania",
-                                "title": "Too Hot To Handle: Germania",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1467d231-8225-42ee-a216-7e65655cefc9.webp"
-                            },
-                            {
-                                "url": "7426-too-hot-to-handle-america-latina",
-                                "title": "Too Hot to Handle: America Latina",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e374441d-e6ac-413a-9ffa-ec60ba1f4342.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14608003927724790486/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14608003927724790486/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14608003927724790486/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14608003927724790486/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
