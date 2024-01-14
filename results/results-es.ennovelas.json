@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/se-llamaba-pedro-infante/",
+                                "title": "Se llamaba Pedro Infante",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/MV5BNmY3YTFhNDMtMDY5NC00NmVmLWE1YjItNzFmYWMzMmFjMDU4XkEyXkFqcGdeQXVyMjQ2MDQwNDU@-e1705178701269-377x520.jpg"
+                            },
+                            {
                                 "url": "/series/mi-nombre-es-gumus/",
                                 "title": "Mi Nombre es Gumus",
                                 "description": "",
@@ -209,12 +215,6 @@
                                 "title": "The Santa Clauses",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/the-santa-clauses-key-art-teaser-470x318.webp"
-                            },
-                            {
-                                "url": "/series/rebelde-dj/",
-                                "title": "Rebelde",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Rebelde..jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,25 +252,42 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/mi-nombre-es-gumus/",
-                    "title": "Mi Nombre es Gumus",
-                    "artist": "Ekrem Bora",
-                    "author": "Berfu Ergenekon",
-                    "description": "Mi Nombre es Gumus",
-                    "genre": "Drama, Family, Romance, Srnovelas",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/se-llamaba-pedro-infante/",
+                    "title": "Se llamaba Pedro Infante",
+                    "artist": "Ana Claudia Talancón",
+                    "author": "Denis Languérand",
+                    "description": "Se llamaba Pedro Infante",
+                    "genre": "Biography, Srnovelas",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/se-llamaba-pedro-infante-capitulo-8/",
+                        "name": "Capitulo 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/se-llamaba-pedro-infante-capitulo-7/",
+                        "name": "Capitulo 7",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=wYDGgpLy3KcJkyl&expires=1705262562&ip=FROsD0ETKxSHDN&token=lQ5TWso2iWg-",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=wYDGgpLy3KcJkyl&expires=1705262562&ip=FROsD0ETKxSHDN&token=lQ5TWso2iWg-"
+                    }
+                ],
+                "passed": true
             }
         }
     }

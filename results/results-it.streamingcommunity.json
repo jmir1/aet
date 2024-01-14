@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7500-law-order-organized-crime",
+                                "title": "Law & Order: Organized Crime",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/bac9c29c-30a7-4941-9a4e-f596bae7403c.webp"
+                            },
+                            {
                                 "url": "7499-criminal-minds-beyond-borders",
                                 "title": "Criminal Minds: Beyond Borders",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/19a3998f-f571-4280-9626-2ae0de1493bd.webp"
@@ -610,11 +615,6 @@
                                 "url": "7420-sound-of-freedom",
                                 "title": "Sound of Freedom",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/571caae0-5ba5-4dcd-ac9b-b8cb3206ad61.webp"
-                            },
-                            {
-                                "url": "7419-spoiler-alert",
-                                "title": "Spoiler Alert",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e2148dd4-631d-4cb2-a0ba-33a52853ca4d.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-7023366204211055467/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-7023366204211055467/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-7023366204211055467/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-7023366204211055467/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
