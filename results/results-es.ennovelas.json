@@ -278,8 +278,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m100.uqload.io/3rfkmjmzsfw2q4drdjr7vp7xlj4e3rh6kbqomnfyivfnwwasnqqqkvbhwpfq/v.mp4",
+                        "quality": "Uqload Uqload",
+                        "videoUrl": "https://m100.uqload.io/3rfkmjmzsfw2q4drdjr7vp7xlj4e3rh6kbqomnfyivfnwwasnqqqkvbhwpfq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

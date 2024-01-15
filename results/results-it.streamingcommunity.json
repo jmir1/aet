@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7512-i-sogni-segreti-di-walter-mitty",
+                                "title": "I sogni segreti di Walter Mitty",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/85275503-9267-44e5-9133-68bd42b39f5f.webp"
+                            },
+                            {
                                 "url": "7511-stargate-universe",
                                 "title": "Stargate Universe",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f6471359-b01f-417d-a2a1-90ec56093628.webp"
@@ -610,11 +615,6 @@
                                 "url": "7440-affare-fatto",
                                 "title": "Affare Fatto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5439b9ad-2abc-4e23-8ca8-ec0699e3adaa.webp"
-                            },
-                            {
-                                "url": "7439-batman-robin",
-                                "title": "Batman & Robin",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/94dcae28-5b17-4da0-a34a-8f6284f3265c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-4112626288865948780/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-4112626288865948780/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-4112626288865948780/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-4112626288865948780/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }

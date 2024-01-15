@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/detective-forst/",
+                                "title": "Detective Forst",
+                                "description": "En lo alto de una montaña polaca, un detective brusco con métodos inusuales investiga el extraño asesinato de un profesor impopular. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xOYU8U5WobOvjexS9S2HO6cGT6O.jpg"
+                            },
+                            {
+                                "url": "/chico-come-universo/",
+                                "title": "Chico come universo",
+                                "description": "Boy Swallows Universe Australia, años 80. Un niño se enfrenta a la dura realidad de la vida... y a los peligros que se ciernen sobre su familia. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nb0ek7qonE0YkyaB4dsAw5J9NoH.jpg"
+                            },
+                            {
                                 "url": "/sanctuary-historia-de-una-bruja/",
                                 "title": "Sanctuary: Historia de una bruja",
                                 "description": "Sanctuary: A Witch's Tale Sarah Fenn es una bruja moderna que utiliza sus poderes para hacer el bien en Sanctuary. La tranquilidad del pueblo se ve alterada cuando Dan, un chico muy popular en la comunidad, muere trágicamente durante una fiesta. Aunque Harper, la hija de Sarah, no parece haber heredado los poderes de su […] ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/g7cuCCkvoBuSwemTHYz3k0hvvmz.jpg"
                             },
                             {
-                                "url": "/el-gran-chef-famosos/",
-                                "title": "El Gran Chef Famosos",
-                                "description": "El gran chef famosos (también citado como El gran chef: famosos o simplemente El gran chef) es un programa de televisión peruano de competición gastronómica entre celebridades del país, conducido por José Peláez, producido por Rayo en la Botella y emitido por Latina Televisión. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zZVAoGu7xcldZHDrs3HuEMRE3uL.jpg"
-                            },
-                            {
-                                "url": "/capitanes-del-mundo/",
-                                "title": "Capitanes del mundo",
-                                "description": "Captains of the World De los vestuarios al campo, esta docuserie ofrece acceso exclusivo a las 32 selecciones que luchan por alcanzar la gloria futbolística en la Copa Mundial de la FIFA 2022. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mmmmPbXvCo5xXpRyOicvkpFYwqx.jpg"
-                            },
-                            {
-                                "url": "/queens-of-mystery/",
-                                "title": "Queens of Mystery",
+                                "url": "/ana-bolena/",
+                                "title": "Ana Bolena",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yCgHxa3jdCGbHpyEImotLBUGQr5.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hBDQUB2elhHMHb23RzpAlXBfYlo.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/la-ley-de-milo-murphy/",
-                                "title": "La ley de Milo Murphy",
+                                "url": "/almost-family/",
+                                "title": "Almost Family",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cUoMoeOm2ALLtPrbP4WwEzj4lO3.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/wxIiCDtwTSoa18TW40gYhNHJ481.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,135 @@
             },
             "details": {
                 "result": {
-                    "url": "/sanctuary-historia-de-una-bruja/",
-                    "title": "Sanctuary: Historia de una bruja",
-                    "description": "Sanctuary: A Witch's Tale Sarah Fenn es una bruja moderna que utiliza sus poderes para hacer el bien en Sanctuary. La tranquilidad del pueblo se ve alterada cuando Dan, un chico muy popular en la comunidad, muere trágicamente durante una fiesta. Aunque Harper, la hija de Sarah, no parece haber heredado los poderes de su madre, algunos adolescentes la acusan de utilizar la magia para vengarse de él.",
-                    "genre": "Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iZllgPmOXS5PadAs4mDp6JhQJod.jpg",
+                    "url": "/detective-forst/",
+                    "title": "Detective Forst",
+                    "description": "En lo alto de una montaña polaca, un detective brusco con métodos inusuales investiga el extraño asesinato de un profesor impopular.",
+                    "genre": "Crimen, Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xOYU8U5WobOvjexS9S2HO6cGT6O.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/detective-forst-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - Episodio 6",
+                        "date_upload": 1704931200000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/detective-forst-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - Episodio 5",
+                        "date_upload": 1704931200000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s31.fastream.to/hls2/03/00062/oksoo5iv4gfh_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KN8UaRhJSa9cg03WGittOpVsEVdNmwy3uGlzxj-WFRA&s=1705342128&e=43200&f=314223&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s31.fastream.to/hls2/03/00062/oksoo5iv4gfh_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=KN8UaRhJSa9cg03WGittOpVsEVdNmwy3uGlzxj-WFRA&s=1705342128&e=43200&f=314223&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/04/00062/q5khlpostfbh_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=qbm7GMSlUEpeuz-Z4ET2WmS1ot6ldzFkvY-gv9nQJzw&s=1705342125&e=43200&f=314221&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s29.fastream.to/hls2/04/00062/q5khlpostfbh_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=qbm7GMSlUEpeuz-Z4ET2WmS1ot6ldzFkvY-gv9nQJzw&s=1705342125&e=43200&f=314221&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/03/00062/dknlrfqnsg8w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=hjvUyUA4e3clcvQc_gpzIN0dBTm1hidIdmzQ7RU4PPI&s=1705342120&e=43200&f=314222&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s32.fastream.to/hls2/03/00062/dknlrfqnsg8w_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=hjvUyUA4e3clcvQc_gpzIN0dBTm1hidIdmzQ7RU4PPI&s=1705342120&e=43200&f=314222&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s31.fastream.to/hls2/03/00062/oksoo5iv4gfh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KN8UaRhJSa9cg03WGittOpVsEVdNmwy3uGlzxj-WFRA&s=1705342128&e=43200&f=314223&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s31.fastream.to/hls2/03/00062/oksoo5iv4gfh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=KN8UaRhJSa9cg03WGittOpVsEVdNmwy3uGlzxj-WFRA&s=1705342128&e=43200&f=314223&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/04/00062/q5khlpostfbh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=qbm7GMSlUEpeuz-Z4ET2WmS1ot6ldzFkvY-gv9nQJzw&s=1705342125&e=43200&f=314221&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s29.fastream.to/hls2/04/00062/q5khlpostfbh_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=qbm7GMSlUEpeuz-Z4ET2WmS1ot6ldzFkvY-gv9nQJzw&s=1705342125&e=43200&f=314221&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/03/00062/dknlrfqnsg8w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=hjvUyUA4e3clcvQc_gpzIN0dBTm1hidIdmzQ7RU4PPI&s=1705342120&e=43200&f=314222&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s32.fastream.to/hls2/03/00062/dknlrfqnsg8w_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=hjvUyUA4e3clcvQc_gpzIN0dBTm1hidIdmzQ7RU4PPI&s=1705342120&e=43200&f=314222&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s31.fastream.to/hls2/03/00062/oksoo5iv4gfh_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KN8UaRhJSa9cg03WGittOpVsEVdNmwy3uGlzxj-WFRA&s=1705342128&e=43200&f=314223&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s31.fastream.to/hls2/03/00062/oksoo5iv4gfh_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=KN8UaRhJSa9cg03WGittOpVsEVdNmwy3uGlzxj-WFRA&s=1705342128&e=43200&f=314223&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/04/00062/q5khlpostfbh_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=qbm7GMSlUEpeuz-Z4ET2WmS1ot6ldzFkvY-gv9nQJzw&s=1705342125&e=43200&f=314221&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s29.fastream.to/hls2/04/00062/q5khlpostfbh_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=qbm7GMSlUEpeuz-Z4ET2WmS1ot6ldzFkvY-gv9nQJzw&s=1705342125&e=43200&f=314221&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/03/00062/dknlrfqnsg8w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=hjvUyUA4e3clcvQc_gpzIN0dBTm1hidIdmzQ7RU4PPI&s=1705342120&e=43200&f=314222&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s32.fastream.to/hls2/03/00062/dknlrfqnsg8w_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=hjvUyUA4e3clcvQc_gpzIN0dBTm1hidIdmzQ7RU4PPI&s=1705342120&e=43200&f=314222&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
