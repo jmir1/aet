@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7511-stargate-universe",
+                                "title": "Stargate Universe",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f6471359-b01f-417d-a2a1-90ec56093628.webp"
+                            },
+                            {
                                 "url": "7510-seinfeld",
                                 "title": "Seinfeld",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ee832338-46c0-4a47-a5f7-143304c6a10d.webp"
@@ -610,11 +615,6 @@
                                 "url": "7439-batman-robin",
                                 "title": "Batman & Robin",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/94dcae28-5b17-4da0-a34a-8f6284f3265c.webp"
-                            },
-                            {
-                                "url": "7438-birdman-o-limprevedibile-virtu-dellignoranza",
-                                "title": "Birdman o (L'imprevedibile virtù dell'ignoranza)",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/cdec92cd-2663-4f9f-a9d5-f3806579b7c3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-5665945264305081244/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-5665945264305081244/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-5665945264305081244/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-5665945264305081244/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
