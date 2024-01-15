@@ -117,15 +117,26 @@
                 "passed": false
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/data/watch/?_id=641ccfa5c503f08683ced0c9",
+                    "title": "John Wick Kapitel 4",
+                    "description": "Vierter Teil der Action-Reihe um den Profikiller John Wick (Keanu Reeves), der die halbe Unterwelt gegen sich aufbrachte und nun an internationalen Schauplätzen – unter anderem Berlin und Paris – seinen Kampf gegen Berufskiller aus aller Welt fortsetzt. Der Bowery King (Laurence Fishburne), sowie der Betreiber (Ian McShane als Winston) und der Concierge (Lance Reddick als Charon) des legendären Auftragskiller-Hotels Continental haben einmal mehr ihre Finger im Spiel und bekommen erneut tödliche Gesellschaft (u.a. von Donnie Yen, Bill Skarsgård, Hiroyuki Sanada und Scott Adkins).",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/data/watch/?_id=641ccfa5c503f08683ced0c9",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

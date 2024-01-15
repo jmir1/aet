@@ -3,8 +3,64 @@
         "name": "Ask4Movie (EN)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/channel/berlin-2023/",
+                                "title": "Berlin (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/12/Berlin-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/monarch-legacy-of-monsters-2023/",
+                                "title": "Monarch: Legacy of M...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/fargo-2014/",
+                                "title": "Fargo (2014 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Fargo-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/the-curse-2023/",
+                                "title": "The Curse (2023 – )",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/The-Curse-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/slow-horses-2022/",
+                                "title": "Slow Horses (2022 &#...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/Slow-Horses-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/for-all-mankind-2019-7/",
+                                "title": "For All Mankind (201...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2022/11/For-All-Mankind-thumb-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/fellow-travelers-2023/",
+                                "title": "Fellow Travelers (20...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Fellow-Travelers-2023-THumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/a-murder-at-the-end-of-the-world-2023/",
+                                "title": "A Murder at the End ...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/A-Murder-at-the-End-of-the-World-2023-Thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/lawmen-bass-reeves-2023/",
+                                "title": "Lawmen: Bass Reeves ...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Lawmen-Bass-Reeves-2023-thumbnail-150x150.jpg"
+                            },
+                            {
+                                "url": "/channel/squid-game-the-challenge-2023/",
+                                "title": "Squid Game: The Chal...",
+                                "thumbnail_url": "https://ask4movie.li/wp-content/uploads/2023/11/Squid-Game-The-Challenge-2023-Thumbnail-150x150.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -228,16 +284,27 @@
             },
             "details": {
                 "result": {
-                    "url": "/nightmare-on-34th-street-2023/",
-                    "description": "One cold Christmas a strange Santa arrives to visit Peter and tell him 4 Christmas horror stories.",
-                    "genre": "Comedy, Horror",
+                    "url": "/channel/berlin-2023/",
+                    "description": "Back to his golden age before the events of “Money Heist,” Berlin and a masterful gang gather in Paris to plan one of his most ambitious robberies ever.",
+                    "genre": "Action, Crime, Drama",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt16288804/1/8",
+                        "name": "Season 1 Ep. 8",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "https://vidsrc.to/embed/tv/tt16288804/1/7",
+                        "name": "Season 1 Ep. 7",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.IllegalArgumentException: Failed to fetch videos",

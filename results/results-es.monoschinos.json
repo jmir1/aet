@@ -336,12 +336,57 @@
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/meitou-isekai-no-yu-kaitaku-ki-arafou-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita-episodio-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=Hl2oMXNOpdY&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=Hl2oMXNOpdY&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=Hl2oMXNOpdY&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=3&sig=Hl2oMXNOpdY&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=2&sig=rLi2O6QoLc0&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=2&sig=rLi2O6QoLc0&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=1&sig=XtvH-gLJ1nY&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=1&sig=XtvH-gLJ1nY&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=0&sig=7K6VSc4jA0A&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=0&sig=7K6VSc4jA0A&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445"
+                    },
+                    {
+                        "url": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=4&sig=CSqUjxNFOd0&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-9.vkuser.net/?expires=1705385459299&srcIp=52.159.137.5&pr=10&srcAg=GECKO&ms=95.142.206.136&type=4&sig=CSqUjxNFOd0&ct=0&urls=45.136.21.69%3B45.136.20.39&clientType=0&zs=43&id=6213308582445"
+                    },
+                    {
+                        "url": "https://m60.uqload.io/3rfk5ejcsfw2q4drdjm7vivqa7k4zh67dbp7mdjooilclwrwcraovp25zgga/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m60.uqload.io/3rfk5ejcsfw2q4drdjm7vivqa7k4zh67dbp7mdjooilclwrwcraovp25zgga/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
