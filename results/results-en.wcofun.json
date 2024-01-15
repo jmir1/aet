@@ -7,8 +7,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/meiji-gekken-1874-english-subbed",
+                                "title": "Meiji Gekken: 1874 English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933435.jpg"
+                            },
+                            {
                                 "url": "/anime/meet-the-batwheels",
-                                "title": "Meet the Batwheels",
+                                "title": "Meet The Batwheels",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933434.jpg"
                             },
                             {
@@ -80,11 +85,6 @@
                                 "url": "/anime/sengoku-youko",
                                 "title": "Sengoku Youko",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933420.jpg"
-                            },
-                            {
-                                "url": "/anime/chou-futsuu-ken-chiba-densetsu",
-                                "title": "Chou Futsuu Ken Chiba Densetsu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933419.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/meet-the-batwheels",
-                    "title": "Meet the Batwheels",
-                    "description": "Gotham has a new team of crime-fighting vehicles; introducing Bam, Redbird, Bibi, Batwing, and Buff and learning what makes each of these superheroes special as they protect the streets of Gotham.",
-                    "genre": "Action, Adventure, Animation, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933434.jpg",
+                    "url": "/anime/meiji-gekken-1874-english-subbed",
+                    "title": "Meiji Gekken: 1874 English Subbed",
+                    "description": "Year 1874. Shizuma Origasa, once a samurai of the Aizu Domain and now working as a rickshaw puller, embarks on a quest to locate his missing fiancée, Sumie Kanomata. However, an unexpected turn of events thrusts him into the ranks of the newly established police force, entangling him in the pursuit of a conspiracy aiming to topple the government.",
+                    "genre": "Action, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933435.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/meiji-gekken-1874-episode-1-english-subbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrL1KrSoH36FA4cUFHmw-YmuaS28dFOmrmKBT_J4Hly8tbCcD7pBlkOyQxE0Ks_XVq1KEoibdz1xOv4J1grOk-9H8UId1wGEDSdk0V0tHhrHzde7TXPLJVOu1XgxXUbf66UrCVkLF_GWXKdaDvQTvspmc9VY_Q7CuQRZLKii_IhGIYgsh8f00Q3S-cSufF7o147wcZX_mD3ooKhUZfFAEChixOhGZ7gNqpzFVadhEYtuftaxlZhtXCzdvvGUvIzpgDpU3D1gauhVZhqlNaLBIqAv98NAwkUNwi3N4AbnL-vENQ_CBd_Qgkuh2FeJ3JYubiJyMAR4JzOQSMaYEcQy7Vr82GOd8e03F8Z4JAkWEjHcdHachUMiEYa1j3nCVfR2xqDrOpJtBbtoSe_2EeygAXg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrL1KrSoH36FA4cUFHmw-YmuaS28dFOmrmKBT_J4Hly8tbCcD7pBlkOyQxE0Ks_XVq1KEoibdz1xOv4J1grOk-9H8UId1wGEDSdk0V0tHhrHzde7TXPLJVOu1XgxXUbf66UrCVkLF_GWXKdaDvQTvspmc9VY_Q7CuQRZLKii_IhGIYgsh8f00Q3S-cSufF7o147wcZX_mD3ooKhUZfFAEChixOhGZ7gNqpzFVadhEYtuftaxlZhtXCzdvvGUvIzpgDpU3D1gauhVZhqlNaLBIqAv98NAwkUNwi3N4AbnL-vENQ_CBd_Qgkuh2FeJ3JYubiJyMAR4JzOQSMaYEcQy7Vr82GOd8e03F8Z4JAkWEjHcdHachUMiEYa1j3nCVfR2xqDrOpJtBbtoSe_2EeygAXg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrL1KrSoH36FA4cUFHmw-YmuaS28dFOmrmKBT_J4Hly8tbCcD7pBlkOyQxE0Ks_XVq1KEoibdz1xOv4J1grOk-9H8UId1wGEDSdk0V0tHhrHzde7TXPLJVOu1XgxXUbf66UrCVkLF_GWXKdaDvQTvsp1sco9NRzwpgiOp8U1EDo02Ikt5c-IhMjSPx4mNkUrSBohZfOv2byhXbW_mjeV9hsyBY1Su6aIylRLHIHBRoIR0AZIAzdXRV8vhpnYy2xcFzrWMRkRXDnZWA2PJPXVIQrVoC_-SqPt1TqJ07ZqmwtdBvQ4OX1OkjjPodfbcAt-0WWMI2IujjZq3MJMKiRXG6aJIF7QbbWUZ4puAJEyLZuOHB8jRT4HX2UZHWxq1rfqWIwafo2k2O1Uf9hoKjT53TA",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrL1KrSoH36FA4cUFHmw-YmuaS28dFOmrmKBT_J4Hly8tbCcD7pBlkOyQxE0Ks_XVq1KEoibdz1xOv4J1grOk-9H8UId1wGEDSdk0V0tHhrHzde7TXPLJVOu1XgxXUbf66UrCVkLF_GWXKdaDvQTvsp1sco9NRzwpgiOp8U1EDo02Ikt5c-IhMjSPx4mNkUrSBohZfOv2byhXbW_mjeV9hsyBY1Su6aIylRLHIHBRoIR0AZIAzdXRV8vhpnYy2xcFzrWMRkRXDnZWA2PJPXVIQrVoC_-SqPt1TqJ07ZqmwtdBvQ4OX1OkjjPodfbcAt-0WWMI2IujjZq3MJMKiRXG6aJIF7QbbWUZ4puAJEyLZuOHB8jRT4HX2UZHWxq1rfqWIwafo2k2O1Uf9hoKjT53TA"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrL1KrSoH36FA4cUFHmw-YmuaS28dFOmrmKBT_J4Hly8tbCcD7pBlkOyQxE0Ks_XVq1KEoibdz1xOv4J1grOk-9H8UId1wGEDSdk0V0tHhrHzde7TXPLJVOu1XgxXUbf66UrCVkLF_GWXKdaDvQTvsqQwK4r_BPXTRIqyPFsJdnqpjhsbCSkSzUL2-oAK2tqpdjHuI-CtOIxfC02XYxK3c1e9UgchF444WTviSX6MdqqD8E-1ftZG9UHBp7lwi0uoh0tBJptjGoULmR0NjoAq9WCFlEWFvQ7kqZdeh4Dnj7Gh_FT61YeeOtI1ZoaP-xRQzUuRmJbP_QnG6Rg79pU-tF75Q3NOleQE0ZRy_hYgLSOG8SiXbMOCvg6d7GE-shK1g",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrL1KrSoH36FA4cUFHmw-YmuaS28dFOmrmKBT_J4Hly8tbCcD7pBlkOyQxE0Ks_XVq1KEoibdz1xOv4J1grOk-9H8UId1wGEDSdk0V0tHhrHzde7TXPLJVOu1XgxXUbf66UrCVkLF_GWXKdaDvQTvsqQwK4r_BPXTRIqyPFsJdnqpjhsbCSkSzUL2-oAK2tqpdjHuI-CtOIxfC02XYxK3c1e9UgchF444WTviSX6MdqqD8E-1ftZG9UHBp7lwi0uoh0tBJptjGoULmR0NjoAq9WCFlEWFvQ7kqZdeh4Dnj7Gh_FT61YeeOtI1ZoaP-xRQzUuRmJbP_QnG6Rg79pU-tF75Q3NOleQE0ZRy_hYgLSOG8SiXbMOCvg6d7GE-shK1g"
+                    }
+                ],
+                "passed": true
             }
         }
     }

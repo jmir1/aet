@@ -142,6 +142,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/isekai-ganbattemasu-sub-indo/",
+                                "title": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+                                "thumbnail_url": "https://otakudesu.media/wp-content/uploads/2024/01/Isekai-de-Mofumofu-Nadenade-suru-Tame-ni-Ganbattemasu..jpg"
+                            },
+                            {
                                 "url": "/anime/snny-s2-sub-indo/",
                                 "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Season 2",
                                 "thumbnail_url": "https://otakudesu.media/wp-content/uploads/2024/01/shinnonakama-season-2-655e084c1dfffp.jpg"
@@ -260,11 +265,6 @@
                                 "url": "/anime/dungeon-meshi-sub-indo/",
                                 "title": "Dungeon Meshi",
                                 "thumbnail_url": "https://otakudesu.media/wp-content/uploads/2024/01/Dungeon-Meshi.jpg"
-                            },
-                            {
-                                "url": "/anime/sasaki-pii-chan-subt-indo/",
-                                "title": "Sasaki to Pii-chan",
-                                "thumbnail_url": "https://otakudesu.media/wp-content/uploads/2024/01/Sasaki-to-Pii-chan.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -389,8 +389,63 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr2---sn-npoeenlk.googlevideo.com/videoplayback?expire=1705307643&ei=e32kZeWLIpmXsfIP0pOLqAM&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=06afe790c71a755c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=KC&mm=31&mn=sn-npoeenlk&ms=au&mv=m&mvi=2&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1422.686&lmt=1704471823599945&mt=1705278550&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgfZDxHvc-DuvrX2okLU8Q9B4UqmkQkPW-pESdoa_ZhD8CIAusV0gxceijjuUFKscacv2CdD0LlK9gK6FUgqs_pToe&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRgIhAMA62Boy_uc1dhwo5k6mWAUWT8WDvhORfWlK0DWoR9AqAiEA93Nhs-s8i2SD7P9qhxiBEq-YNN01y3AHV62sagwXf7I%3D",
+                        "quality": "DesuStream - 480p",
+                        "videoUrl": "https://rr2---sn-npoeenlk.googlevideo.com/videoplayback?expire=1705307643&ei=e32kZeWLIpmXsfIP0pOLqAM&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=06afe790c71a755c&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=KC&mm=31&mn=sn-npoeenlk&ms=au&mv=m&mvi=2&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1422.686&lmt=1704471823599945&mt=1705278550&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRAIgfZDxHvc-DuvrX2okLU8Q9B4UqmkQkPW-pESdoa_ZhD8CIAusV0gxceijjuUFKscacv2CdD0LlK9gK6FUgqs_pToe&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRgIhAMA62Boy_uc1dhwo5k6mWAUWT8WDvhORfWlK0DWoR9AqAiEA93Nhs-s8i2SD7P9qhxiBEq-YNN01y3AHV62sagwXf7I%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://xannpdjy0oyz.enaak-cdn.com/hls2/01/01071/218o11l5wgg5_h/index-v1-a1.m3u8?t=bwvub-3qaLfTasu340AedewS8h0OqvtR49Ok2AvflTc&s=1705278844&e=129600&f=5356753&srv=j4EweFPYwpzi&i=0.4&sp=1500&p1=j4EweFPYwpzi&p2=j4EweFPYwpzi&asn=8075",
+                        "quality": "FileLions - 480p",
+                        "videoUrl": "https://xannpdjy0oyz.enaak-cdn.com/hls2/01/01071/218o11l5wgg5_h/index-v1-a1.m3u8?t=bwvub-3qaLfTasu340AedewS8h0OqvtR49Ok2AvflTc&s=1705278844&e=129600&f=5356753&srv=j4EweFPYwpzi&i=0.4&sp=1500&p1=j4EweFPYwpzi&p2=j4EweFPYwpzi&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.live",
+                            "Referer": "https://filelions.live/v/218o11l5wgg5"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/knjnns2sdmf23894rfgsg/knjnns2sdmf23894rfgsg-12.mp4",
+                        "quality": "DesuStream - 480p",
+                        "videoUrl": "https://archive.org/download/knjnns2sdmf23894rfgsg/knjnns2sdmf23894rfgsg-12.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://rr4---sn-npoe7nss.googlevideo.com/videoplayback?expire=1705307645&ei=fX2kZZuwAdznn88P4LarkAc&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=74472c5944c2f78b&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=g1&mm=31&mn=sn-npoe7nss&ms=au&mv=m&mvi=4&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1422.733&lmt=1704474445329127&mt=1705278550&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAKpsV0GVoueYLJBkrgVfYTe67L-AtocydT_0PPimevJsAiB0Q2iH5BNR3i31SZ_zqzFSo--AhMua8nx97uXIBxvIIg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIhAOnS6nHnNKw_mP0rbUIm6utaj7MfkoCd6CelQrcvjwAhAiA5XuRPYxYQJe71CQ3tQyvIHyMGuFNWIPBOyoKMvgJuew%3D%3D",
+                        "quality": "DesuStream - 720p",
+                        "videoUrl": "https://rr4---sn-npoe7nss.googlevideo.com/videoplayback?expire=1705307645&ei=fX2kZZuwAdznn88P4LarkAc&ip=2a04:3543:1000:2310:30da:13ff:fead:6be6&id=74472c5944c2f78b&itag=22&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=g1&mm=31&mn=sn-npoe7nss&ms=au&mv=m&mvi=4&pl=32&susc=bl&eaua=39xmcv1FUgI&mime=video/mp4&vprv=1&dur=1422.733&lmt=1704474445329127&mt=1705278550&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIhAKpsV0GVoueYLJBkrgVfYTe67L-AtocydT_0PPimevJsAiB0Q2iH5BNR3i31SZ_zqzFSo--AhMua8nx97uXIBxvIIg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIhAOnS6nHnNKw_mP0rbUIm6utaj7MfkoCd6CelQrcvjwAhAiA5XuRPYxYQJe71CQ3tQyvIHyMGuFNWIPBOyoKMvgJuew%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    },
+                    {
+                        "url": "https://ffod3wobdqnr.enaak-cdn.com/hls2/01/01071/2nn9tcm06rhd_h/index-v1-a1.m3u8?t=6S07IrbKHusW75GfM_eWNdn9lqr_hrprAMSOVjVmOFU&s=1705278846&e=129600&f=5356767&srv=o2hmgl5efkfx&i=0.4&sp=1500&p1=o2hmgl5efkfx&p2=o2hmgl5efkfx&asn=8075",
+                        "quality": "FileLions - 720p",
+                        "videoUrl": "https://ffod3wobdqnr.enaak-cdn.com/hls2/01/01071/2nn9tcm06rhd_h/index-v1-a1.m3u8?t=6S07IrbKHusW75GfM_eWNdn9lqr_hrprAMSOVjVmOFU&s=1705278846&e=129600&f=5356767&srv=o2hmgl5efkfx&i=0.4&sp=1500&p1=o2hmgl5efkfx&p2=o2hmgl5efkfx&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.live",
+                            "Referer": "https://filelions.live/v/2nn9tcm06rhd"
+                        }
+                    },
+                    {
+                        "url": "https://archive.org/download/knjnns2sdmf23894rfgsg/knjnns2sdmf23894rfgsg-hd-12.mp4",
+                        "quality": "DesuStream - 720p",
+                        "videoUrl": "https://archive.org/download/knjnns2sdmf23894rfgsg/knjnns2sdmf23894rfgsg-hd-12.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

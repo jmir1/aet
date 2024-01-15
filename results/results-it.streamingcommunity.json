@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7509-vivarium",
+                                "title": "Vivarium",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/17e46d50-bc19-4f89-8a4d-235b89c03abc.webp"
+                            },
+                            {
                                 "url": "7508-against-the-wild-viaggio-attraverso-il-serengeti",
                                 "title": "Against the Wild: Viaggio attraverso il Serengeti",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/49b622d0-0310-4c9b-9485-bb2851766e54.webp"
@@ -587,6 +592,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f467a66c-d45e-4c4d-bf30-3ffd281ed81b.webp"
                             },
                             {
+                                "url": "7441-karaoke-night-talenti-senza-vergogna",
+                                "title": "Karaoke Night - Talenti senza vergogna",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9539e739-f772-4170-b181-6ed61964b26c.webp"
+                            },
+                            {
                                 "url": "7440-affare-fatto",
                                 "title": "Affare Fatto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5439b9ad-2abc-4e23-8ca8-ec0699e3adaa.webp"
@@ -605,16 +615,6 @@
                                 "url": "7437-hai-mai-avuto-paura",
                                 "title": "Hai mai avuto paura?",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/fa7e62e5-ccc9-4b28-88e0-01efa3f32027.webp"
-                            },
-                            {
-                                "url": "7436-paw-patrol-il-super-film",
-                                "title": "PAW Patrol - Il super film",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c5af33c3-6244-44e6-ab9d-3ac823e56a31.webp"
-                            },
-                            {
-                                "url": "7435-il-dottor-ali",
-                                "title": "Il Dottor Alì",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f95a58e3-419e-4af0-91df-9d92565e2808.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-14608003927724790486/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-14608003927724790486/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-14608003927724790486/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-14608003927724790486/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }

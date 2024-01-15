@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/un-paraiso-en-otro-mundo-mi-excitante-diario-en-las-aguas-termales-latino",
+                                "title": "Un Paraíso en Otro Mundo - Mi Excitante Diario en las Aguas Termales Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/un-paraiso-en-otro-mundo-mi-excitante-diario-en-las-aguas-termales-latino-1705274092.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/la-venganza-del-sanador-castellano",
                                 "title": "La Venganza Del Sanador Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/la-venganza-del-sanador-castellano-1705085874.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/mashle-castellano",
                                 "title": "Mashle Castellano",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/mashle-castellano-1681170206.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/kanojo-ga-koushaku-tei-ni-itta-riyuu-latino",
-                                "title": "Kanojo ga Koushaku-tei ni Itta Riyuu Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/kanojo-ga-koushaku-tei-ni-itta-riyuu-latino-1681151358.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,75 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/la-venganza-del-sanador-castellano",
-                    "title": "La Venganza Del Sanador Castellano",
-                    "description": "Keyar es un sanador que es usado y despreciado por sus compañeros aventureros debido a que ellos piensan que los sanadores no pueden luchar por sí mismos. Cuando Keyar consigue el hechizo definitivo de sanación, el \"cura\" al mundo, lo que le permite ir cuatro años en el pasado y vengarse de sus antiguos compañeros, cambiando su destino.",
-                    "genre": "Aventura, Ecchi, Fantasía",
+                    "url": "/anime/un-paraiso-en-otro-mundo-mi-excitante-diario-en-las-aguas-termales-latino",
+                    "title": "Un Paraíso en Otro Mundo - Mi Excitante Diario en las Aguas Termales Latino",
+                    "description": "La historia se centra en Yoshizou Yukawa, un gran aficionado a las aguas termales que encuentra manantiales escondidos para revitalizar la economía del área local. Sin embargo, muere después de caer por un acantilado y es transportado a un mundo alternativo, gracias a una deidad inari de la cosecha en un pequeño santuario ubicado en las rocas. Junto con la princesa asistente de Inari, Mayudama, continúa buscando fuentes termales históricas, solo que esta vez en el mundo alternativo. En el camino, termina desnudo en aguas termales con chicas de orejas peludas y elfas.",
+                    "genre": "Ecchi, Fantasía",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/la-venganza-del-sanador-castellano-episodio-1",
-                        "name": "La Venganza Del Sanador Castellano Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www4.mp4upload.com:183/d/rcx6hcx4z3b4quuoowqu2zcwiycvu7bbi4yqapc65dlsacsvafocwqohk37zvvi225humo5j/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx6hcx4z3b4quuoowqu2zcwiycvu7bbi4yqapc65dlsacsvafocwqohk37zvvi225humo5j/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=5&sig=5zhRjZ0fdzI&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=5&sig=5zhRjZ0fdzI&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582"
-                    },
-                    {
-                        "url": "https://m180.uqload.io/3rfk4j6wsfw2q4drdjppv5vwlb54tnhrhyrtpu73qwnmwycf4yxo2h3ld2aq/v.mp4",
-                        "quality": "uqload -  Uqload",
-                        "videoUrl": "https://m180.uqload.io/3rfk4j6wsfw2q4drdjppv5vwlb54tnhrhyrtpu73qwnmwycf4yxo2h3ld2aq/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=3&sig=c4gtA8eQklg&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=3&sig=c4gtA8eQklg&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582"
-                    },
-                    {
-                        "url": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=2&sig=R8NTVtbHD_I&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=2&sig=R8NTVtbHD_I&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582"
-                    },
-                    {
-                        "url": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=1&sig=cgeItxtpNP4&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=1&sig=cgeItxtpNP4&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582"
-                    },
-                    {
-                        "url": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=0&sig=IFmhRKIVI60&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=0&sig=IFmhRKIVI60&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582"
-                    },
-                    {
-                        "url": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=4&sig=KRfSWb_CCG8&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://ok6-4.vkuser.net/?expires=1705342086430&srcIp=20.75.95.195&pr=10&srcAg=GECKO&ms=95.142.206.131&type=4&sig=KRfSWb_CCG8&ct=0&urls=45.136.22.35%3B45.136.21.77&clientType=0&zs=43&id=5672627407582"
-                    }
-                ],
-                "passed": true
+                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
