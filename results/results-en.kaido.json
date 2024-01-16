@@ -112,14 +112,14 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/b7/b1/b7b180ff8404f0475e60a4f3a0f5bd20/b7b180ff8404f0475e60a4f3a0f5bd20.jpg"
                             },
                             {
-                                "url": "/toradora-232",
-                                "title": "Toradora!",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/29/a2/29a2eb93554ed3b8ab5d1507ac8f5d77/29a2eb93554ed3b8ab5d1507ac8f5d77.jpg"
-                            },
-                            {
                                 "url": "/your-lie-in-april-31",
                                 "title": "Shigatsu wa Kimi no Uso",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/17/13/1713f98ec94d824b3a34ef0f4ace633f/1713f98ec94d824b3a34ef0f4ace633f.jpg"
+                            },
+                            {
+                                "url": "/toradora-232",
+                                "title": "Toradora!",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/29/a2/29a2eb93554ed3b8ab5d1507ac8f5d77/29a2eb93554ed3b8ab5d1507ac8f5d77.jpg"
                             },
                             {
                                 "url": "/rezero-starting-life-in-another-world-212",
@@ -372,6 +372,11 @@
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/c5/3d/c53d4c3c4a1752526a0888a3c5680d98/c53d4c3c4a1752526a0888a3c5680d98.jpg"
                             },
                             {
+                                "url": "/the-daily-life-of-the-immortal-king-4-18706",
+                                "title": "Xian Wang de Richang Shenghuo 4",
+                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/11/37/11370f0ab895f9ecfb438c80b6d80509/11370f0ab895f9ecfb438c80b6d80509.jpg"
+                            },
+                            {
                                 "url": "/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-18769",
                                 "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/20/54/20544737590cc9bee591743552a9e594/20544737590cc9bee591743552a9e594.jpg"
@@ -380,11 +385,6 @@
                                 "url": "/doraemon-2005-1551",
                                 "title": "Doraemon (2005)",
                                 "thumbnail_url": "https://img.zorores.com/_r/300x400/100/04/6c/046c7bccf54eb6c2d36fc15fb00a0739/046c7bccf54eb6c2d36fc15fb00a0739.jpg"
-                            },
-                            {
-                                "url": "/the-daily-life-of-the-immortal-king-4-18706",
-                                "title": "Xian Wang de Richang Shenghuo 4",
-                                "thumbnail_url": "https://img.zorores.com/_r/300x400/100/11/37/11370f0ab895f9ecfb438c80b6d80509/11370f0ab895f9ecfb438c80b6d80509.jpg"
                             },
                             {
                                 "url": "/hirogaru-sky-precure-18320",
@@ -701,22 +701,11 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/attack-on-titan-112?ep=3327",
-                        "name": "Ep. 25: Wall",
-                        "episode_number": 25.0
-                    },
-                    {
-                        "url": "/watch/attack-on-titan-112?ep=3326",
-                        "name": "Ep. 24: Mercy",
-                        "episode_number": 24.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.Exception: not used",
+                "error": "kotlinx.serialization.MissingFieldException: Field 'html' is required for type with serial name 'eu.kanade.tachiyomi.multisrc.zorotheme.dto.HtmlResponse', but it was missing at path: $",
                 "passed": false
             }
         }

@@ -267,28 +267,15 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/api/v1/titles/7014?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                    "title": "Die Verurteilten",
-                    "description": "Das Shawshank Gefängnis in den 30ern: der wegen Mordes an seiner Frau verurteilte Andy Dufresne kommt als Neuling lebenslänglich hinter Gittern. Zurückhaltend wie er ist, ist er ständig das Ziel sexueller Angriffe, doch als er als Banker durchblicken läßt, daß er finanziell für den Direktor und die Wärter eine Menge tun kann, ist für seine Sicherheit gesorgt. Langsam aber sicher freundet er sich mit dem Langzeitinsassen Red an, baut die Gefängnisbibliothek auf und rückt nie von seiner Überzeugung ab, unschuldig zu sein. Viele Jahre vergehen, bis etwas geschieht, was sogar Reds Leben für immer verändern wird...",
-                    "genre": "Drama, Krimi",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/78Pb6FMLMfpm1jUOKTniwREYgAN.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/api/v1/titles/7014?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "passed": false
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html\n    lang.....",
                 "passed": false
             }
         }

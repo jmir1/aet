@@ -258,7 +258,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: No videos!",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

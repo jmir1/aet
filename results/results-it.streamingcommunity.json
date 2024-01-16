@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7515-dreamland",
+                                "title": "Dreamland",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a0b9c3c6-4177-4478-a64b-249fb9cb61c0.webp"
+                            },
+                            {
                                 "url": "7514-the-help",
                                 "title": "The Help",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/7c316363-c2e1-46b1-baac-ba1ae6fc6c26.webp"
@@ -610,11 +615,6 @@
                                 "url": "7445-il-nemico",
                                 "title": "Il nemico",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/43e6907c-5c15-4955-b86a-2e4935583c7f.webp"
-                            },
-                            {
-                                "url": "7444-fire-country",
-                                "title": "Fire Country",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f467a66c-d45e-4c4d-bf30-3ffd281ed81b.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-11520156392747001237/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-11520156392747001237/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-11520156392747001237/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-11520156392747001237/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
