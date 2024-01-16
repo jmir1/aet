@@ -267,6 +267,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Synduality-Noir-Part-2/",
+                                "title": "Synduality Noir Part 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Synduality-Noir-Part-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Foolish-Angel-Dances-with-the-Devil/",
+                                "title": "The Foolish Angel Dances with the Devil",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Foolish-Angel-Dances-with-the-Devil.jpg"
+                            },
+                            {
+                                "url": "/Anime/Dosanko-Gal-wa-Namaramenkoi/",
+                                "title": "Hokkaido Girls Are Super Adorable!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Hokkaido-Girls-Are-Super-Adorable.jpg"
+                            },
+                            {
+                                "url": "/Anime/Tis-Time-for-quot-Torture-quot-Princess/",
+                                "title": "Tis Time for Torture, Princess",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Tis-Time-for-Torture-Princess.jpg"
+                            },
+                            {
+                                "url": "/Anime/HIGH-CARD-Season-2/",
+                                "title": "HIGH CARD Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/HIGH-CARD-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Tsuki-ga-Michibiku-Isekai-Douchuu-2nd-Season/",
+                                "title": "TSUKIMICHI -Moonlit Fantasy- Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/TSUKIMICHI-Moonlit-Fantasy-Season-2.jpg"
+                            },
+                            {
                                 "url": "/Anime/rurouni-kenshin-meiji-kenkaku-romantan-2023-dub.92878/",
                                 "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Rurouni-Kenshin-Meiji-Kenkaku-Romantan-2023.jpg"
@@ -485,36 +515,6 @@
                                 "url": "/Anime/Pon-no-Michi/",
                                 "title": "Pon no Michi",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Pon-no-Michi.jpg"
-                            },
-                            {
-                                "url": "/Anime/Undead-Unluck/",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Undead-Unluck.jpg"
-                            },
-                            {
-                                "url": "/Anime/Yuuki-Bakuhatsu-Bang-Bravern/",
-                                "title": "Bang Brave Bang Bravern",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bang-Brave-Bang-Bravern.jpg"
-                            },
-                            {
-                                "url": "/Anime/Cardfight-Vanguard-Divinez/",
-                                "title": "Cardfight!! Vanguard: Divinez",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Cardfight-Vanguard-Divinez.jpg"
-                            },
-                            {
-                                "url": "/Anime/Snack-Basue/",
-                                "title": "Snack Basue",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Snack-Basue.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Demon-Prince-of-Momochi-House/",
-                                "title": "The Demon Prince of Momochi House",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Demon-Prince-of-Momochi-House.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chiyu-Mahou-no-Machigatta-Tsukaikata/",
-                                "title": "The Wrong Way to Use Healing Magic",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Wrong-Way-to-Use-Healing-Magic.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "suwayomi.tachidesk.anime.impl.extension.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
                 "passed": false
             }
         }
