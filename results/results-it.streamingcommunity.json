@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7514-the-help",
+                                "title": "The Help",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7c316363-c2e1-46b1-baac-ba1ae6fc6c26.webp"
+                            },
+                            {
+                                "url": "7513-the-swarm-il-quinto-giorno",
+                                "title": "The Swarm - Il quinto giorno",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d141b490-30e9-42d1-8ace-eaefa263e271.webp"
+                            },
+                            {
                                 "url": "7512-i-sogni-segreti-di-walter-mitty",
                                 "title": "I sogni segreti di Walter Mitty",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/85275503-9267-44e5-9133-68bd42b39f5f.webp"
@@ -605,16 +615,6 @@
                                 "url": "7444-fire-country",
                                 "title": "Fire Country",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f467a66c-d45e-4c4d-bf30-3ffd281ed81b.webp"
-                            },
-                            {
-                                "url": "7441-karaoke-night-talenti-senza-vergogna",
-                                "title": "Karaoke Night - Talenti senza vergogna",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9539e739-f772-4170-b181-6ed61964b26c.webp"
-                            },
-                            {
-                                "url": "7440-affare-fatto",
-                                "title": "Affare Fatto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5439b9ad-2abc-4e23-8ca8-ec0699e3adaa.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -952,7 +952,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-16937305520342058305/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-16937305520342058305/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-16937305520342058305/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-16937305520342058305/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
+                "error": "java.io.IOException: com.microsoft.playwright.TimeoutError: Error {\n  message='Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n  name='TimeoutError\n  stack='TimeoutError: Timeout 30000ms exceeded.\n=========================== logs ===========================\nnavigating to \"https://streamingcommunity.cz/iframe/7433\", waiting until \"load\"\n============================================================\n    at ProgressController.run (/tmp/playwright-java-11520156392747001237/package/lib/server/progress.js:88:26)\n    at Frame.goto (/tmp/playwright-java-11520156392747001237/package/lib/server/frames.js:516:23)\n    at FrameDispatcher.goto (/tmp/playwright-java-11520156392747001237/package/lib/server/dispatchers/frameDispatcher.js:78:119)\n    at DispatcherConnection.dispatch (/tmp/playwright-java-11520156392747001237/package/lib/server/dispatchers/dispatcher.js:313:46)\n}",
                 "passed": false
             }
         }
