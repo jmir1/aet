@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7190-the-artful-dodger",
+                                "title": "The Artful Dodger",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f5c86000-65de-496a-9d50-2c813d1a80c8.webp"
+                            },
+                            {
                                 "url": "7433-lift",
                                 "title": "Lift",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/28d642f3-08e6-4caf-a0c8-3de59a26e31b.webp"
@@ -300,11 +305,6 @@
                                 "url": "7020-silent-night-il-silenzio-della-vendetta",
                                 "title": "Silent Night - Il silenzio della vendetta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/8b9ebcd7-fac8-4b58-9202-06fc9c548fe1.webp"
-                            },
-                            {
-                                "url": "6987-family-switch",
-                                "title": "Family Switch",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/187ab6e2-dbc6-424a-99b5-bb6cc25be7e6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7517-7-psicopatici",
+                                "title": "7 psicopatici",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c92f0631-799c-49d2-800a-3ccedea17485.webp"
+                            },
+                            {
+                                "url": "7516-deepwater-inferno-sulloceano",
+                                "title": "Deepwater - Inferno sull'Oceano",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5dbda39b-9592-4641-8e3f-b91913c768a0.webp"
+                            },
                             {
                                 "url": "7515-dreamland",
                                 "title": "Dreamland",
@@ -605,16 +615,6 @@
                                 "url": "7447-rapunzel-la-serie",
                                 "title": "Rapunzel: La serie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e9c79bd-6103-4783-9328-e5fd7002c179.webp"
-                            },
-                            {
-                                "url": "7446-missione-hamburger",
-                                "title": "Missione Hamburger",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a5579af1-0538-45da-88cc-a051032d3d56.webp"
-                            },
-                            {
-                                "url": "7445-il-nemico",
-                                "title": "Il nemico",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/43e6907c-5c15-4955-b86a-2e4935583c7f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,25 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "7433-lift",
-                    "description": "Una banda internazionale di rapinatori guidata da Cyrus Whitaker (Kevin Hart) cerca di prelevare 500 milioni di dollari in oro da un aereo passeggeri in volo a dodicimila metri.",
-                    "genre": "Azione, Commedia",
+                    "url": "7190-the-artful-dodger",
+                    "description": "Un irriverente seguito di \"Oliver Twist\", che esplora la doppia vita da adulto del famoso principe dei ladri ideato da Charles Dickens. Intorno al 1850, nella vivace colonia australiana di Port Victory, Jack Dawkins, alias \"Artful Dodger\", utilizza le sue abili dita da borseggiatore reinventandosi chirurgo. Il passato di Dodger torna a perseguitarlo con l'arrivo di Fagin, che lo attira di nuovo nel mondo del crimine. Una minaccia ancora maggiore, per il cuore di Dodger, è Lady Belle, figlia del governatore e determinata a diventare la prima donna chirurgo della colonia. Rapine, interventi chirurgici disperati, serate eleganti e violenza di strada la rendono una singolare storia di reinvenzione, tradimento, redenzione e amore.",
+                    "genre": "Dramma, Commedia, Romance, Action-Adventure",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "7433",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }
