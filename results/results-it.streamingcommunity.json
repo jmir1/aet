@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7518-all-american-nightmare-rapimento-in-california",
+                                "title": "All American Nightmare: Rapimento in California",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f113f563-b476-40d5-bd73-76090a65447a.webp"
+                            },
+                            {
                                 "url": "7190-the-artful-dodger",
                                 "title": "The Artful Dodger",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f5c86000-65de-496a-9d50-2c813d1a80c8.webp"
@@ -300,11 +305,6 @@
                                 "url": "7216-non-ci-resta-che-il-crimine-la-serie",
                                 "title": "Non ci resta che il crimine - La serie",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f15c6d19-1998-451f-ad4a-6de28686128a.webp"
-                            },
-                            {
-                                "url": "7020-silent-night-il-silenzio-della-vendetta",
-                                "title": "Silent Night - Il silenzio della vendetta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8b9ebcd7-fac8-4b58-9202-06fc9c548fe1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7521-in-viaggio-con-pippo",
+                                "title": "In viaggio con Pippo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b92426f1-9fac-4dff-a15c-c48341384105.webp"
+                            },
+                            {
+                                "url": "7520-red-e-toby-2-nemiciamici",
+                                "title": "Red e Toby 2 nemiciamici",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/13834aee-5e05-45ed-9370-4c3c77d61581.webp"
+                            },
+                            {
+                                "url": "7519-red-e-toby-nemiciamici",
+                                "title": "Red e Toby nemiciamici",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ccfadf12-e728-4125-a789-ac43bbffffe0.webp"
+                            },
                             {
                                 "url": "7517-7-psicopatici",
                                 "title": "7 psicopatici",
@@ -600,21 +615,6 @@
                                 "url": "7450-the-gifted",
                                 "title": "The Gifted",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/bb716e9f-997b-4ec5-9654-3e1fd6549bbd.webp"
-                            },
-                            {
-                                "url": "7449-teenage-mutant-ninja-turtles-tartarughe-ninja",
-                                "title": "Teenage Mutant Ninja Turtles - Tartarughe Ninja",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c2a6984a-7ee3-4d92-b7f8-4ef842a4a50a.webp"
-                            },
-                            {
-                                "url": "7448-marvels-agent-carter",
-                                "title": "Marvel's Agent Carter",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/08e7f767-4350-4613-9fcb-9a32c01fa58f.webp"
-                            },
-                            {
-                                "url": "7447-rapunzel-la-serie",
-                                "title": "Rapunzel: La serie",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/3e9c79bd-6103-4783-9328-e5fd7002c179.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,32 @@
             },
             "details": {
                 "result": {
-                    "url": "7190-the-artful-dodger",
-                    "description": "Un irriverente seguito di \"Oliver Twist\", che esplora la doppia vita da adulto del famoso principe dei ladri ideato da Charles Dickens. Intorno al 1850, nella vivace colonia australiana di Port Victory, Jack Dawkins, alias \"Artful Dodger\", utilizza le sue abili dita da borseggiatore reinventandosi chirurgo. Il passato di Dodger torna a perseguitarlo con l'arrivo di Fagin, che lo attira di nuovo nel mondo del crimine. Una minaccia ancora maggiore, per il cuore di Dodger, è Lady Belle, figlia del governatore e determinata a diventare la prima donna chirurgo della colonia. Rapine, interventi chirurgici disperati, serate eleganti e violenza di strada la rendono una singolare storia di reinvenzione, tradimento, redenzione e amore.",
-                    "genre": "Dramma, Commedia, Romance, Action-Adventure",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7518-all-american-nightmare-rapimento-in-california",
+                    "description": "In questa docuserie true crime, una coppia è accusata di aver inscenato un orribile rapimento in casa nel 2015 dopo che la donna sequestrata ricompare all'improvviso.",
+                    "genre": "Documentario",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "7518?e=50190",
+                        "name": "Stagione 1 episodio 3 - Parte 3: Gli altri",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "7518?e=50189",
+                        "name": "Stagione 1 episodio 2 - Parte 2: Gone Girl",
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
