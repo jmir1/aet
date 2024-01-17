@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/un-poco-de-luz-del-dia/",
+                                "title": "Un poco de luz del dia – (En Español Audio)",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/un-poco-de-luz-del-dia-novela-turca-351x520.jpeg"
+                            },
+                            {
                                 "url": "/series/tu-vida-es-mi-vida/",
                                 "title": "Tu Vida Es Mi Vida",
                                 "description": "",
@@ -209,12 +215,6 @@
                                 "title": "Señora Acero 3 Temporada",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/10/unknown-8-402x520.jpeg"
-                            },
-                            {
-                                "url": "/series/alev/",
-                                "title": "Alev",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Alev..jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,33 +252,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/tu-vida-es-mi-vida/",
-                    "title": "Tu Vida Es Mi Vida",
-                    "artist": "",
-                    "author": "2024",
-                    "description": "Tu Vida Es Mi Vida",
-                    "genre": "Drama, Novelas Mexicanas, Romance",
+                    "url": "/series/un-poco-de-luz-del-dia/",
+                    "title": "Un poco de luz del dia – (En Español Audio)",
+                    "artist": "Berk Oktay",
+                    "author": "Elif Basaran",
+                    "description": "Un poco de luz del dia – (En Español Audio)",
+                    "genre": "Drama, Romance, Series y Novelas Turcas en Español, Srnovelas",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/tu-vida-es-mi-vida-capitulo-2/",
-                        "name": "T1 - E2 - Capitulo 2",
-                        "episode_number": 2.0
-                    },
-                    {
-                        "url": "/tu-vida-es-mi-vida-capitulo-1/",
-                        "name": "T1 - E1 - Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
