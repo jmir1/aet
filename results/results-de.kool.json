@@ -157,6 +157,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nuv2CzJsG605LMZaifUigDyuOEO.jpg"
                             },
                             {
+                                "url": "/data/watch/?_id=940721&type=movie",
+                                "title": "Godzilla Minus One",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pEoyuZ1bL8DZ5U7pvCDLvbeJXXf.jpg"
+                            },
+                            {
                                 "url": "/data/watch/?_id=940551&type=movie",
                                 "title": "Raus aus dem Teich",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6RLNJ4agLIa7KZrjk9lix6K0fV7.jpg"
@@ -175,11 +180,6 @@
                                 "url": "/data/watch/?_id=772&type=movie",
                                 "title": "Kevin - Allein in New York",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/4yLKzgecnSF1sXO0JJwgPOZnhW0.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=940721&type=movie",
-                                "title": "Godzilla Minus One",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pEoyuZ1bL8DZ5U7pvCDLvbeJXXf.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=569094&type=movie",
@@ -499,7 +499,7 @@
                             {
                                 "url": "/data/watch/?_id=792307&type=movie",
                                 "title": "Poor Things",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/dN8BOH7F1Xzz0Zg86qJEAHrlvoS.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=856433&type=movie",
@@ -530,6 +530,11 @@
                                 "url": "/data/watch/?_id=414906&type=movie",
                                 "title": "The Batman",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6zm78OqO4jWCpuaZ7q6Mb5j1beM.jpg"
+                            },
+                            {
+                                "url": "/data/watch/?_id=972433&type=movie",
+                                "title": "Race for Glory: Audi vs Lancia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg"
                             },
                             {
                                 "url": "/data/watch/?_id=823464&type=movie",
@@ -700,11 +705,6 @@
                                 "url": "/data/watch/?_id=614930&type=movie",
                                 "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/zMCvsqiK9fYNmJm5TXKVWg5dSXk.jpg"
-                            },
-                            {
-                                "url": "/data/watch/?_id=198663&type=movie",
-                                "title": "Maze Runner - Die Auserwählten im Labyrinth",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/woPphYJaomvv4LNsouKxACkff08.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -977,36 +977,15 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/kool-cluster/mediahubmx-source.json?id=753342&name=Napoleon&type=movie",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=g3raddl6LjtYg1&expires=1705628204&ip=GHEsDRqAKxSHDN&token=1gtjumVQRRzh",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=g3raddl6LjtYg1&expires=1705628204&ip=GHEsDRqAKxSHDN&token=1gtjumVQRRzh"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=8JP4xMV8MYIogaW&expires=1705628204&ip=GHEsDRqAKxSHDN&token=PJbvu2Mmi-DP",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8JP4xMV8MYIogaW&expires=1705628204&ip=GHEsDRqAKxSHDN&token=PJbvu2Mmi-DP"
-                    },
-                    {
-                        "url": "https://voe.sx/e/wox7m1llvx4x",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-ljesirbcw2lwdzzg.voe-network.net/engine/hls2/01/02888/wox7m1llvx4x_,n,.urlset/master.m3u8?t=oF8DFbyQ15Q9enb9ovH5S2lnbGRMwcVMaWrfvH_4mqQ&s=1705558203&e=14400&f=14444609&node=delivery-node-ljesirbcw2lwdzzg.voe-network.net&i=74.249&sp=2500&asn=8075"
-                    },
-                    {
-                        "url": "https://voe.sx/e/yiubsqqhpouj",
-                        "quality": "VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-lgw2zzoxckyeo9vr.voe-network.net/engine/hls2/01/08934/yiubsqqhpouj_,n,.urlset/master.m3u8?t=q-E1nVoxb4sj1HLVnprnlxP7LlfYkcVURSGCR8tT1wA&s=1705558203&e=14400&f=44674616&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=74.249&sp=2500&asn=8075"
+                        "url": "https://www.kool.to",
+                        "quality": "TV",
+                        "videoUrl": "https://www.kool.to"
                     }
                 ],
                 "passed": true

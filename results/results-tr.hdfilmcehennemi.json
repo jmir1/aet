@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/prince-avalanche/",
+                                "title": "Yolların Prensi",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/prince-avalanche_list.jpg"
+                            },
+                            {
+                                "url": "/miss-march/",
+                                "title": "Kapak Güzeli",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/miss-march_list.jpg"
+                            },
+                            {
                                 "url": "/dizi/american-nightmare/",
                                 "title": "American Nightmare",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/american-nightmare_list.jpg"
@@ -135,16 +145,6 @@
                                 "url": "/before-sunset/",
                                 "title": "Gün Batmadan",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/before-sunset_list.jpg"
-                            },
-                            {
-                                "url": "/double-take/",
-                                "title": "Tehlikeli İkili",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/double-take_list.jpg"
-                            },
-                            {
-                                "url": "/salaar-part-1-ceasefire/",
-                                "title": "Salaar Part 1 Ceasefire",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/salaar-part-1-ceasefire_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,11 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/dizi/american-nightmare/",
-                    "title": "American Nightmare",
-                    "description": "2015 yılında yaşanan üzücü bir haneye tecavüz ve adam kaçırma olayının ardından, bu gerçek suç belgesel dizisinde kadın yeniden ortaya çıkınca bir çift, zorlu bir sahneyi yeniden çekmekle suçlanır.",
-                    "genre": "Belgesel, Suç, Gizem",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/american-nightmare.jpg",
+                    "url": "/prince-avalanche/",
+                    "title": "Yolların Prensi",
+                    "artist": "Paul Rudd, Emile Hirsch, Lance LeGault, Joyce Payne, Lynn Shelton",
+                    "description": "En hafif tabiriyle garip bir ikili diyebileceğimiz Alvin ve Lance, 1988 yazını şehrin karmaşasından uzakta geçiren iki otoyol işçisidir. Görevleri, bir orman yangında zarar gören otoyoldaki şerit çizgilerini tekrar çekmektir. Hem birbirleriyle hem arkalarında bıraktıkları eşleriyle anlaşmazlık içinde olunca, ıssızlık bir şanssızlıklar deryasına dönüşecektir. İzlanda filmi Either Way´in Amerikan uyarlaması olan ve erkek dostluğu kavramını tamamen yenilikçi ve samimi bir biçimde irdeleyen Yolların Prensi prömiyerini Sundance Film Festivali´nde yaptı",
+                    "genre": "Komedi, Dram",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/prince-avalanche.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -260,23 +263,28 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/dizi/american-nightmare/sezon-1/bolum-3/",
-                        "name": "1. Sezon 3. Bölüm",
-                        "date_upload": 1705449600000,
-                        "episode_number": 1.003
-                    },
-                    {
-                        "url": "/dizi/american-nightmare/sezon-1/bolum-2/",
-                        "name": "1. Sezon 2. Bölüm",
-                        "date_upload": 1705449600000,
-                        "episode_number": 1.002
+                        "url": "/prince-avalanche/",
+                        "name": "Movie",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rocketa-ofpersa.vmeas.cloud/hls/xqx2ic6bpnokjiqbth5cp4i54atct56a7oxzxnira4okwzsvjwimrb5yjibq/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 800p",
+                        "videoUrl": "https://rocketa-ofpersa.vmeas.cloud/hls/xqx2ic6bpnokjiqbth5cp4i54atct56a7oxzxnira4okwzsvjwimrb5yjibq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-8i1x2ry1e4zt.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
