@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/resurreccion-ertugrul/",
+                                "title": "Resurreccion Ertugrul",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@-364x520.jpg"
+                            },
+                            {
                                 "url": "/series/un-poco-de-luz-del-dia/",
                                 "title": "Un poco de luz del dia – (En Español Audio)",
                                 "description": "",
@@ -209,12 +215,6 @@
                                 "title": "Metastasis",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/11/Metastasis.-433x520.jpg"
-                            },
-                            {
-                                "url": "/series/senora-acero-3-temporada/",
-                                "title": "Señora Acero 3 Temporada",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2022/10/unknown-8-402x520.jpeg"
                             }
                         ],
                         "hasNextPage": true
@@ -252,12 +252,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/un-poco-de-luz-del-dia/",
-                    "title": "Un poco de luz del dia – (En Español Audio)",
-                    "artist": "Berk Oktay",
-                    "author": "Elif Basaran",
-                    "description": "Un poco de luz del dia – (En Español Audio)",
-                    "genre": "Drama, Romance, Series y Novelas Turcas en Español, Srnovelas",
+                    "url": "/series/resurreccion-ertugrul/",
+                    "title": "Resurreccion Ertugrul",
+                    "artist": "Cengiz Coskun",
+                    "author": "Mehmet Bozdag",
+                    "description": "Resurreccion Ertugrul",
+                    "genre": "Action, Adventure, Drama, History, Series y Novelas Turcas en Español, Srnovelas, War",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -265,11 +265,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/resurreccion-ertugrul-capitulo-65/",
+                        "name": "Capitulo 65",
+                        "episode_number": 65.0
+                    },
+                    {
+                        "url": "/resurreccion-ertugrul-capitulo-64/",
+                        "name": "Capitulo 64",
+                        "episode_number": 64.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
