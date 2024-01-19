@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/yuuki-bakuhatsu-bang-bravern",
+                                "title": "Yuuki Bakuhatsu Bang Bravern",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4132.webp"
+                            },
+                            {
                                 "url": "/maboroshi",
                                 "title": "Alice to Therese no Maboroshi Koujou",
                                 "status": 2,
@@ -119,12 +125,6 @@
                                 "title": "Dosanko Gal wa Namara Menkoi",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4112.webp"
-                            },
-                            {
-                                "url": "/himesama-goumon-no-jikan-desu",
-                                "title": "Himesama \"Goumon\" no Jikan desu",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4111.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/maboroshi",
-                    "title": "Alice to Therese no Maboroshi Koujou",
-                    "description": "Masamune, un estudiante de tercer año de secundaria, vive en un pueblo donde todas las salidas han sido cerradas debido a una explosión repentina en una fábrica de acero, lo que hizo que el tiempo se detuviera. Los residentes tienen prohibido hacer cambios y pasan sus días asfixiantes con la esperanza de volver algún día a la normalidad. Un día, el misterioso compañero de clase de Masamune, Mutsumi, lo guía al quinto horno de la acería, donde se encuentran con una chica que no puede hablar y se parece a un lobo salvaje. El encuentro entre las dos chicas y Masamune altera el equilibrio del mundo, y el imparable \"impulso de amor\" de chicos y chicas cansados de su vida cotidiana comienza a destruir el mundo.",
-                    "genre": "Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4131.webp",
+                    "url": "/yuuki-bakuhatsu-bang-bravern",
+                    "title": "Yuuki Bakuhatsu Bang Bravern",
+                    "description": "En un mundo donde las armas blindadas humanoides conocidas como “Titatonostrider” (“TS” para abreviar) se utilizan en la guerra. Tropas de varios países convergen en la isla de Oahu, Hawaii, entre ellas Ao Isami de la Fuerza Terrestre de Autodefensa de Japón y Lewis Smith del Cuerpo de Marines de los Estados Unidos. Isami y Smith se cruzan durante la batalla, pero de repente sus equipos son atacados por un enemigo desconocido, lo que dispersa a los soldados y desordena sus fuerzas. Para salvar a sus amigos y sobrevivir en el mortífero campo de batalla, deben luchar con cada gramo de coraje y orgullo que puedan reunir.",
+                    "genre": "Acción, Ciencia Ficción",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4132.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/maboroshi-1",
-                        "name": "Película",
+                        "url": "/ver/yuuki-bakuhatsu-bang-bravern-2",
+                        "name": "Episodio 2",
                         "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/yuuki-bakuhatsu-bang-bravern-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -288,14 +293,23 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/e78l2xespkjc",
+                        "url": "https://voe.sx/e/jiwiweil9k9k",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-ik9st1hwzczftrw6.voe-network.net/engine/hls2-c/01/10292/cykja4gbr3qq_,n,.urlset/master.m3u8?t=bA0IF4Stjhsrm8V2wajtofOWbMdEj6-V5azy8STJzRo&s=1705601347&e=14400&f=51469563&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=40.65&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-mccw20pel8yekfhz.voe-network.net/engine/hls2-c/01/10313/ejz8cad9jqqw_,n,.urlset/master.m3u8?t=eAuEOf__3rM5lXvf0mEm4k7j-cKIHIfkVCb7eW55zos&s=1705624373&e=14400&f=51571896&node=delivery-node-lgw2zzoxckyeo9vr.voe-network.net&i=20.97&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=g2oZg1lRJJUg1d&expires=1705671347&ip=GxOsERMnDS9X&token=9yfKlpAYNE7E",
+                        "url": "https://www4.mp4upload.com:183/d/rcx37274z3b4quuoogquwpslkfg3ym3ktkbpivcsacw6bj7nta6zrrdd5aontpu4taag4u5z/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcx37274z3b4quuoogquwpslkfg3ym3ktkbpivcsacw6bj7nta6zrrdd5aontpu4taag4u5z/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=4mBwwqReYZFK4gy&expires=1705694371&ip=FROsF0EnDS9X&token=eqdKE2sEMzp9",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=g2oZg1lRJJUg1d&expires=1705671347&ip=GxOsERMnDS9X&token=9yfKlpAYNE7E"
+                        "videoUrl": "https://streamtape.com/get_video?id=4mBwwqReYZFK4gy&expires=1705694371&ip=FROsF0EnDS9X&token=eqdKE2sEMzp9"
                     }
                 ],
                 "passed": true

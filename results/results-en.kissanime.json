@@ -1063,8 +1063,30 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxsrw74z3b4quuoogqq6jsflnossmhxoziw3hkfgnyxyfndiy4vl4od2yjigci5jmidsywm/video.mp4",
+                        "quality": "(Mpserver) Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxsrw74z3b4quuoogqq6jsflnossmhxoziw3hkfgnyxyfndiy4vl4od2yjigci5jmidsywm/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://s46.openstream.io/hls/qvsbfy5umxblgwsztszkayejltfwkm45z3dweby7din6hz6fynlaxdhch5bq/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s46.openstream.io/hls/qvsbfy5umxblgwsztszkayejltfwkm45z3dweby7din6hz6fynlaxdhch5bq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s46.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
