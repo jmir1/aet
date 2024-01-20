@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-eleventh-victim-1/",
+                                "title": "The Eleventh Victim",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/the-eleventh-victim_list.jpg"
+                            },
+                            {
                                 "url": "/two-men-in-town/",
                                 "title": "Düşmanın Yolu",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/two-men-in-town_list.jpg"
@@ -15,6 +20,11 @@
                                 "url": "/renegades-hdfc/",
                                 "title": "Renegades",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/renegades-hdfc_list.jpg"
+                            },
+                            {
+                                "url": "/belle-and-sebastian-next-generation/",
+                                "title": "Belle and Sebastian Next Generation",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/belle-and-sebastian-next-generation_list.jpg"
                             },
                             {
                                 "url": "/in-the-shadows/",
@@ -32,14 +42,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/zombie-shark-izle_list.jpg"
                             },
                             {
-                                "url": "/belle-and-sebastian-next-generation/",
-                                "title": "Belle and Sebastian Next Generation",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/belle-and-sebastian-next-generation_list.jpg"
-                            },
-                            {
                                 "url": "/sixty-minutes/",
                                 "title": "60 Dakika",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/sixty-minutes_list.jpg"
+                            },
+                            {
+                                "url": "/the-portrait/",
+                                "title": "The Portrait",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/the-portrait_list.jpg"
                             },
                             {
                                 "url": "/dizi/zorro/",
@@ -70,11 +80,6 @@
                                 "url": "/dizi/the-bequeathed/",
                                 "title": "The Bequeathed",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/the-bequeathed_list.jpg"
-                            },
-                            {
-                                "url": "/the-portrait/",
-                                "title": "The Portrait",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/the-portrait_list.jpg"
                             },
                             {
                                 "url": "/tearsucker/",
@@ -140,11 +145,6 @@
                                 "url": "/miss-march/",
                                 "title": "Kapak Güzeli",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/miss-march_list.jpg"
-                            },
-                            {
-                                "url": "/love-story/",
-                                "title": "Aşk Hikayesi",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/love-story_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,14 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/two-men-in-town/",
-                    "title": "Düşmanın Yolu",
-                    "artist": "Forest Whitaker, Harvey Keitel, Brenda Blethyn, Luis Guzmán, Dolores Heredia, Ellen Burstyn, Tim Guinee, Reg E. Cathey, Sarah Minnich, Stan Carp",
-                    "description": "Bir Polisi öldürdüğü için hapse giren William ın cezası tamamlanmış ve hapisten çıkmıştır. William artık sakin bir yaşamdan başka bir şey arzulamamaktadır. Ancak Hayatın William için oldukça farklı planları vardır",
-                    "genre": "Dram",
+                    "url": "/the-eleventh-victim-1/",
+                    "title": "The Eleventh Victim",
+                    "artist": "Jennie Garth, Colin Cunningham, Tyron Leitso, David Lewis, Metta World Peace, Jason Schombing",
+                    "description": "New York Times yazarı Nancy Grace’in en çok satan romanın uyarlanan bu Lifetime filminde Atlanta Savcısı Hailey Dean , Gerekli adaleti sağlamak için suçluların peşine düşer. Ancak Savcı ve arkadaşlarının gidecekleri bir operasyon hayatlarını alt üst edecektir.",
+                    "genre": "Gerilim",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/two-men-in-town.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/the-eleventh-victim.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -263,7 +263,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/two-men-in-town/",
+                        "url": "/the-eleventh-victim-1/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -271,8 +271,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://user-content-nld-435-vid.moly.cloud/hls/xqx2ox3xpnokjiqbth3cpiqsvfqsbmuflsswc46u7qh4gd5fa3oraeszca3a/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 716p",
+                        "videoUrl": "https://user-content-nld-435-vid.moly.cloud/hls/xqx2ox3xpnokjiqbth3cpiqsvfqsbmuflsswc46u7qh4gd5fa3oraeszca3a/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-kfxs7414hsf6.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
