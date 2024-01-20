@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-demon-prince-of-momochi-house",
+                                "title": "The Demon Prince of Momochi House",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933442.jpg"
+                            },
+                            {
+                                "url": "/anime/the-wrong-way-to-use-healing-magic",
+                                "title": "The Wrong Way to Use Healing Magic",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933441.jpg"
+                            },
+                            {
                                 "url": "/anime/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
                                 "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933440.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
                                 "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933427.jpg"
-                            },
-                            {
-                                "url": "/anime/majo-to-yajuu",
-                                "title": "Majo to Yajuu",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933426.jpg"
-                            },
-                            {
-                                "url": "/anime/gekkan-mousou-kagaku",
-                                "title": "Gekkan Mousou Kagaku",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933425.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
-                    "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
-                    "description": "Kouzou Yukawa is a passionate hot springs enthusiast—a hot springs hunter who was able to sniff out the source of springs. One day, while searching for a hidden hot spring to revitalize a town, he slips off a cliff and dies. He is then reincarnated into another world by an Inari deity of a small shrine hidden in the rocks. Kouzou is joined by Inari’s messenger princess, Mayudama. The hot spring hunter within Kouzou is stirred right away, as he takes a bath with Mayudama in the hot spring he just discovered. Then, an elf girl appears…",
-                    "genre": "Ecchi, Fantasy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933440.jpg",
+                    "url": "/anime/the-demon-prince-of-momochi-house",
+                    "title": "The Demon Prince of Momochi House",
+                    "description": "On her 16th birthday, Himari Momochi receives a letter stating she has inherited a mansion called the “Momochi House.” Having been raised in an orphanage, this mansion is the only thing left of her real family, so Himari pays no mind to the rumors that it may be haunted. Upon entering it, she meets Aoi Nanamori and his companions, Ise and Yukari, who all seem to be squatting in her new home. Although they warn her to leave the house, Himari vows to be the one to make them leave instead.",
+                    "genre": "Fantasy, Romance, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933442.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-demon-prince-of-momochi-house-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo9UERM-fa73-AFJDch8I6n2IKepcmIBNETwaafTHLlUBmvt4V1rklTUmaoOHeJtg0h6OrN0ue3cNJ4hFrx9NwEp0PxMKqODBAD3utsGI2ZdCQX6kL6xshHlY7vAXIsDX_vQJSA9wGgu5ewDLQlaZMn9LJrB1Wvq0NEmykTaeVPqqrdBjGpxkFIVSRNCK6mNpTA52rdN1FiaGcWM5I-_6xg_qoXIBVFWkqDtVbirqzJT2mTqzUc4jsphXlXO0Xx_GpN1cgrW5hYgDkeVuNoWlDg3meAg4SCVddLsdc_9zWoYhXkknKqktZ4pa3t6deDP6vgtrMXF1D57YSqRzHTL9a6XE8APUw4814XxArWu9Yn-bgLr9NETvlpHmxIhl2qtwIsjd6R_ZnwkZ0_dYoK4LfR8ol79B7hve-TUXEPBT3ze",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo9UERM-fa73-AFJDch8I6n2IKepcmIBNETwaafTHLlUBmvt4V1rklTUmaoOHeJtg0h6OrN0ue3cNJ4hFrx9NwEp0PxMKqODBAD3utsGI2ZdCQX6kL6xshHlY7vAXIsDX_vQJSA9wGgu5ewDLQlaZMn9LJrB1Wvq0NEmykTaeVPqqrdBjGpxkFIVSRNCK6mNpTA52rdN1FiaGcWM5I-_6xg_qoXIBVFWkqDtVbirqzJT2mTqzUc4jsphXlXO0Xx_GpN1cgrW5hYgDkeVuNoWlDg3meAg4SCVddLsdc_9zWoYhXkknKqktZ4pa3t6deDP6vgtrMXF1D57YSqRzHTL9a6XE8APUw4814XxArWu9Yn-bgLr9NETvlpHmxIhl2qtwIsjd6R_ZnwkZ0_dYoK4LfR8ol79B7hve-TUXEPBT3ze"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo9UERM-fa73-AFJDch8I6n2IKepcmIBNETwaafTHLlUBmvt4V1rklTUmaoOHeJtg0h6OrN0ue3cNJ4hFrx9NwEp0PxMKqODBAD3utsGI2ZdCQX6kL6xshHlY7vAXIsDX_vQJSA9wGgu5ewDLQlaZMn9LJrB1Wvq0NEmykTaeVPq6edwR_vI6r_fN8gLrYIuUv7nu62NULwiyCHF5m2u6ybMCXIqYFaFkxrpjThxS1dj06Jm8naB5DRNYMHD6UhOMoFKfDWovyDBON_bb-phwIXR4WAAQKaSzazgSd72Zn5UsZGJ1tdhN89aCHkrnWGYA8ReGm-r6uZuHHkOfPNjwg2RltXGX-0uAnEp9afH2zvS52vgGEa7vv8Ok93uDGMcg7j_oRBzgZDfUiE-xuh_P7wSYjB5vOuuF8DhRAbftPEr",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo9UERM-fa73-AFJDch8I6n2IKepcmIBNETwaafTHLlUBmvt4V1rklTUmaoOHeJtg0h6OrN0ue3cNJ4hFrx9NwEp0PxMKqODBAD3utsGI2ZdCQX6kL6xshHlY7vAXIsDX_vQJSA9wGgu5ewDLQlaZMn9LJrB1Wvq0NEmykTaeVPq6edwR_vI6r_fN8gLrYIuUv7nu62NULwiyCHF5m2u6ybMCXIqYFaFkxrpjThxS1dj06Jm8naB5DRNYMHD6UhOMoFKfDWovyDBON_bb-phwIXR4WAAQKaSzazgSd72Zn5UsZGJ1tdhN89aCHkrnWGYA8ReGm-r6uZuHHkOfPNjwg2RltXGX-0uAnEp9afH2zvS52vgGEa7vv8Ok93uDGMcg7j_oRBzgZDfUiE-xuh_P7wSYjB5vOuuF8DhRAbftPEr"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo9UERM-fa73-AFJDch8I6n2IKepcmIBNETwaafTHLlUBmvt4V1rklTUmaoOHeJtg0h6OrN0ue3cNJ4hFrx9NwEp0PxMKqODBAD3utsGI2ZdCQX6kL6xshHlY7vAXIsDX_vQJSA9wGgu5ewDLQlaZMn9LJrB1Wvq0NEmykTaeVPqxKPlQMfMRvCXWN6VAfgWTIPLmhyZ2zDPyczuDuHM7HfHVjC3_If63knBLWZsdyeiGhSofYV-ZNxxbzz2p1lwzgatLpuSFBzFFu2FzfwPhI2pDsPq1gVQwbcTx9J_4hjhZG5Fk5IDnNfZ2B4nz1frxlIQba0XivNXgPNrLFE2kvnQYQB-d57y8ZLDt-ZSq-buhEIhYkIr0PpcUseyg2rAEh-iUOk8ARZZ2Xq-qKQ0lKI",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo9UERM-fa73-AFJDch8I6n2IKepcmIBNETwaafTHLlUBmvt4V1rklTUmaoOHeJtg0h6OrN0ue3cNJ4hFrx9NwEp0PxMKqODBAD3utsGI2ZdCQX6kL6xshHlY7vAXIsDX_vQJSA9wGgu5ewDLQlaZMn9LJrB1Wvq0NEmykTaeVPqxKPlQMfMRvCXWN6VAfgWTIPLmhyZ2zDPyczuDuHM7HfHVjC3_If63knBLWZsdyeiGhSofYV-ZNxxbzz2p1lwzgatLpuSFBzFFu2FzfwPhI2pDsPq1gVQwbcTx9J_4hjhZG5Fk5IDnNfZ2B4nz1frxlIQba0XivNXgPNrLFE2kvnQYQB-d57y8ZLDt-ZSq-buhEIhYkIr0PpcUseyg2rAEh-iUOk8ARZZ2Xq-qKQ0lKI"
+                    }
+                ],
+                "passed": true
             }
         }
     }
