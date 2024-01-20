@@ -27,24 +27,24 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//2e853FDVSIso600RqAMunPxiZjq.jpg"
                             },
                             {
+                                "url": "{\"id\":572802,\"media_type\":\"movie\"}",
+                                "title": "Aquaman and the Lost Kingdom",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//qJiWKzdRScI5OcRQqOu3qdMZKXY.jpg"
+                            },
+                            {
                                 "url": "{\"id\":899445,\"media_type\":\"movie\"}",
                                 "title": "Deep Fear",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//ruujFw7J0Nd3BSjbN3QODym82Qs.jpg"
                             },
                             {
-                                "url": "{\"id\":572802,\"media_type\":\"movie\"}",
-                                "title": "Aquaman and the Lost Kingdom",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg"
+                                "url": "{\"id\":918692,\"media_type\":\"movie\"}",
+                                "title": "Granit",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//zLJn4U2qlWIzlFP5SsyFJUDQjfs.jpg"
                             },
                             {
                                 "url": "{\"id\":1155089,\"media_type\":\"movie\"}",
                                 "title": "Justice League: Crisis on Infinite Earths Part One",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//zR6C66EDklgTPLHRSmmMt5878MR.jpg"
-                            },
-                            {
-                                "url": "{\"id\":918692,\"media_type\":\"movie\"}",
-                                "title": "Granit",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//zLJn4U2qlWIzlFP5SsyFJUDQjfs.jpg"
                             },
                             {
                                 "url": "{\"id\":927107,\"media_type\":\"movie\"}",
@@ -59,7 +59,7 @@
                             {
                                 "url": "{\"id\":787699,\"media_type\":\"movie\"}",
                                 "title": "Wonka",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//2vuzIelhRZiAAChjadLywhYd1Zu.jpg"
                             },
                             {
                                 "url": "{\"id\":508883,\"media_type\":\"movie\"}",
@@ -67,9 +67,19 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//jDQPkgzerGophKRRn7MKm071vCU.jpg"
                             },
                             {
+                                "url": "{\"id\":1028703,\"media_type\":\"movie\"}",
+                                "title": "The OctoGames",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//qGz5rffXhegQH5PGUDiObqoOt06.jpg"
+                            },
+                            {
                                 "url": "{\"id\":79026,\"media_type\":\"movie\"}",
                                 "title": "El padrino: The Latin Godfather",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//10J7EQ8WvMYku8lcZrLewV2Ko4I.jpg"
+                            },
+                            {
+                                "url": "{\"id\":695721,\"media_type\":\"movie\"}",
+                                "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg"
                             },
                             {
                                 "url": "{\"id\":1075794,\"media_type\":\"movie\"}",
@@ -82,19 +92,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//bkpPTZUdq31UGDovmszsg2CchiI.jpg"
                             },
                             {
-                                "url": "{\"id\":695721,\"media_type\":\"movie\"}",
-                                "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg"
-                            },
-                            {
                                 "url": "{\"id\":872585,\"media_type\":\"movie\"}",
                                 "title": "Oppenheimer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
-                            },
-                            {
-                                "url": "{\"id\":491854,\"media_type\":\"movie\"}",
-                                "title": "Foxtrot Six",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//o7c8FKCZFIrLKrZSzgqufvNo4mr.jpg"
                             },
                             {
                                 "url": "{\"id\":447362,\"media_type\":\"movie\"}",
@@ -243,8 +243,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE HTML PUBLIC \"-//IETF.....",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vzbr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b972eaf5c16bbf8f54e477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b5035a3876fc516a11e1abd5616c6f3ee3810/h/ebf4/ffacbc;15a38422e50f594ab5916e06d1b1ea10903ca9445cbdb6b343476ba4.m3u8",
+                        "quality": "Vidplay - 1080p",
+                        "videoUrl": "https://vzbr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b972eaf5c16bbf8f54e477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b5035a3876fc516a11e1abd5616c6f3ee3810/h/ebf4/ffacbc;15a38422e50f594ab5916e06d1b1ea10903ca9445cbdb6b343476ba4.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://vzbr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b972eaf5c16bbf8f54e477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b5035a3876fc516a11e1abd5616c6f3ee3810/h/ebf3/ffacbc;15a38422e50f594ab5916e06d1b1ea10903ca9445cbdb6b343476ba4.m3u8",
+                        "quality": "Vidplay - 720p",
+                        "videoUrl": "https://vzbr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b972eaf5c16bbf8f54e477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b5035a3876fc516a11e1abd5616c6f3ee3810/h/ebf3/ffacbc;15a38422e50f594ab5916e06d1b1ea10903ca9445cbdb6b343476ba4.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    },
+                    {
+                        "url": "https://vzbr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b972eaf5c16bbf8f54e477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b5035a3876fc516a11e1abd5616c6f3ee3810/h/ebf1/ffacbc;15a38422e50f594ab5916e06d1b1ea10903ca9445cbdb6b343476ba4.m3u8",
+                        "quality": "Vidplay - 360p",
+                        "videoUrl": "https://vzbr.vidrock2.store/_v1/12a3c523f9105800ed8c394685aeeb0b972eaf5c16bbf8f54e477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a53b5035a3876fc516a11e1abd5616c6f3ee3810/h/ebf1/ffacbc;15a38422e50f594ab5916e06d1b1ea10903ca9445cbdb6b343476ba4.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidplay.online",
+                            "Referer": "https://vidplay.online/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
