@@ -67,6 +67,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animeangel-eng-dub-dual-audio/",
+                                "title": "The Angel Next Door Spoils Me Rotten (Season 1) 1080p Eng Sub HEVC",
+                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/01/animeangel-eng-dub-dual-audio-220x150.jpg"
+                            },
+                            {
                                 "url": "/solo-leveling-episode-3-english-subbed/",
                                 "title": "Solo Leveling",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/01/solo-leveling-episode-3-english-subbed-220x150.jpg"
@@ -85,11 +90,6 @@
                                 "url": "/the-strongest-tanks-labyrinth-raids-episode-3-english-subbed/",
                                 "title": "The Strongest Tank’s Labyrinth Raids",
                                 "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/01/the-strongest-tanks-labyrinth-raids-episode-3-english-subbed-220x150.jpg"
-                            },
-                            {
-                                "url": "/illuminati-saga-episode-3-english-subbed/",
-                                "title": "Blue Exorcist: Shimane Illuminati Saga",
-                                "thumbnail_url": "https://kayoanime.com/wp-content/uploads/2024/01/illuminati-saga-episode-3-english-subbed-220x150.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -168,7 +168,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

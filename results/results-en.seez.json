@@ -7,24 +7,24 @@
                     {
                         "animes": [
                             {
-                                "url": "{\"id\":753342,\"media_type\":\"movie\"}",
-                                "title": "Napoleon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
-                            },
-                            {
                                 "url": "{\"id\":955916,\"media_type\":\"movie\"}",
                                 "title": "Lift",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg"
                             },
                             {
-                                "url": "{\"id\":906126,\"media_type\":\"movie\"}",
-                                "title": "Society of the Snow",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//2e853FDVSIso600RqAMunPxiZjq.jpg"
+                                "url": "{\"id\":753342,\"media_type\":\"movie\"}",
+                                "title": "Napoleon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg"
                             },
                             {
                                 "url": "{\"id\":609681,\"media_type\":\"movie\"}",
                                 "title": "The Marvels",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg"
+                            },
+                            {
+                                "url": "{\"id\":906126,\"media_type\":\"movie\"}",
+                                "title": "Society of the Snow",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//2e853FDVSIso600RqAMunPxiZjq.jpg"
                             },
                             {
                                 "url": "{\"id\":899445,\"media_type\":\"movie\"}",
@@ -47,14 +47,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//zLJn4U2qlWIzlFP5SsyFJUDQjfs.jpg"
                             },
                             {
-                                "url": "{\"id\":866398,\"media_type\":\"movie\"}",
-                                "title": "The Beekeeper",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
-                            },
-                            {
                                 "url": "{\"id\":927107,\"media_type\":\"movie\"}",
                                 "title": "The Bricklayer",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//pwOQ9lqLX1OgsJRSybS662wMcu8.jpg"
+                            },
+                            {
+                                "url": "{\"id\":866398,\"media_type\":\"movie\"}",
+                                "title": "The Beekeeper",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//A7EByudX0eOzlkQ2FIbogzyazm2.jpg"
                             },
                             {
                                 "url": "{\"id\":787699,\"media_type\":\"movie\"}",
@@ -162,6 +162,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//etVlxcNUsJLE4qhJON3VwZSzwFW.jpg"
                             },
                             {
+                                "url": "{\"id\":37606,\"media_type\":\"tv\"}",
+                                "title": "The Amazing World of Gumball",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//VYnnyA2hyxi3VUPgCA71mMtt69.jpg"
+                            },
+                            {
                                 "url": "{\"id\":42554,\"media_type\":\"tv\"}",
                                 "title": "Sekai Ichi Hatsukoi: The World's Greatest First Love",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//2Ald4WukHy8TeqacR6pbeIs1adO.jpg"
@@ -170,11 +175,6 @@
                                 "url": "{\"id\":65942,\"media_type\":\"tv\"}",
                                 "title": "Re:ZERO -Starting Life in Another World-",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//5MrRCj7z92YLWMXHeWKp19eJPYv.jpg"
-                            },
-                            {
-                                "url": "{\"id\":37606,\"media_type\":\"tv\"}",
-                                "title": "The Amazing World of Gumball",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//VYnnyA2hyxi3VUPgCA71mMtt69.jpg"
                             },
                             {
                                 "url": "{\"id\":1147400,\"media_type\":\"movie\"}",
@@ -224,9 +224,9 @@
             },
             "details": {
                 "result": {
-                    "url": "{\"id\":753342,\"media_type\":\"movie\"}",
-                    "description": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.\n\nRelease date: 2023-11-22",
-                    "genre": "History, War, Drama",
+                    "url": "{\"id\":955916,\"media_type\":\"movie\"}",
+                    "description": "An international heist crew, led by Cyrus Whitaker, race to lift $500 million in gold from a passenger plane at 40,000 feet.\n\nRelease date: 2024-01-10",
+                    "genre": "Action, Comedy, Crime",
                     "initialized": true
                 },
                 "passed": true
@@ -234,9 +234,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/753342",
+                        "url": "/movie/955916",
                         "name": "Movie",
-                        "date_upload": 1700611200000,
+                        "date_upload": 1704844800000,
                         "episode_number": 1.0
                     }
                 ],
