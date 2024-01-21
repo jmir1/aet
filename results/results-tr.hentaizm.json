@@ -3,28 +3,47 @@
         "name": "HentaiZM (TR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/hentai-detay/01",
-                                "title": "Aile Sırları",
-                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/01.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
                             {
-                                "url": "/hentai-detay/01",
+                                "url": "/hentai-detay/hatsukoi-jikan",
                                 "title": "Hatsukoi Jikan.",
-                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/01.jpg"
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/hatsukoi-jikan.jpg"
+                            },
+                            {
+                                "url": "/hentai-detay/yuusha-hime-milia",
+                                "title": "Yuusha-hime Milia",
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/yuusha-hime-milia.jpg"
+                            },
+                            {
+                                "url": "/hentai-detay/sakusei-byoutou-the-animation",
+                                "title": "Sakusei Byoutou The Animation",
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/sakusei-byoutou-the-animation.jpg"
+                            },
+                            {
+                                "url": "/hentai-detay/nightmare-x-deathscythe",
+                                "title": "Nightmare x Deathscythe",
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/nightmare-x-deathscythe.jpg"
+                            },
+                            {
+                                "url": "/hentai-detay/shijoku-zukushi",
+                                "title": "Shijoku Zukushi",
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/shijoku-zukushi.jpg"
+                            },
+                            {
+                                "url": "/hentai-detay/tsundero",
+                                "title": "Tsundero",
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/tsundero.jpg"
+                            },
+                            {
+                                "url": "/hentai-detay/goblin-no-suana",
+                                "title": "Goblin no Suana",
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/goblin-no-suana.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -37,9 +56,9 @@
                     {
                         "animes": [
                             {
-                                "url": "/hentai-detay/01",
+                                "url": "/hentai-detay/futabu-mix-futanari-world",
                                 "title": "Futabu! Mix: Futanari World",
-                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/01.jpg"
+                                "thumbnail_url": "https://www.hentaizm.fun/resimler/afis/futabu-mix-futanari-world.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -48,16 +67,55 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/hatsukoi-jikan-4-bolum",
+                        "name": "4. Bölüm",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/hatsukoi-jikan-3-bolum",
+                        "name": "3. Bölüm",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://videa.hu/static/1080p/8.2596575.2118904.1.11.1.1?md5=AfTzXBy5rfCLK8_ZyvE8cg&expires=1705826223",
+                        "quality": "Videa - 1080p",
+                        "videoUrl": "https://videa.hu/static/1080p/8.2596575.2118904.1.11.1.1?md5=AfTzXBy5rfCLK8_ZyvE8cg&expires=1705826223",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=jcZDqJ8CoHnEiopN",
+                            "origin": "https://videa.hu"
+                        }
+                    },
+                    {
+                        "url": "https://videa.hu/static/480p/8.2596575.2118904.1.11.1.1?md5=KSsJ1kbGffSHi7DGP1dLrQ&expires=1705826223",
+                        "quality": "Videa - 480p",
+                        "videoUrl": "https://videa.hu/static/480p/8.2596575.2118904.1.11.1.1?md5=KSsJ1kbGffSHi7DGP1dLrQ&expires=1705826223",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=jcZDqJ8CoHnEiopN",
+                            "origin": "https://videa.hu"
+                        }
+                    },
+                    {
+                        "url": "https://videa.hu/static/240p/8.2596575.2118904.1.11.1.1?md5=EM7EWfAzgcOLhoPYaUfhsw&expires=1705826223",
+                        "quality": "Videa - 240p",
+                        "videoUrl": "https://videa.hu/static/240p/8.2596575.2118904.1.11.1.1?md5=EM7EWfAzgcOLhoPYaUfhsw&expires=1705826223",
+                        "headers": {
+                            "referer": "https://videa.hu/player?v=jcZDqJ8CoHnEiopN",
+                            "origin": "https://videa.hu"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
