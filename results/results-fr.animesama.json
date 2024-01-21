@@ -769,8 +769,35 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/0ab3761ba57d3cbf44b745dec9f6f8ad/5150375.mp4",
+                        "quality": "(VOSTFR) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/0ab3761ba57d3cbf44b745dec9f6f8ad/5150375.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5150375"
+                        }
+                    },
+                    {
+                        "url": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1705853355&validto=1705867755&rate=200k&ip=40.67.142.103&hash=xbEoetmpQPMHare3U9pgE8Pqw0I%3D",
+                        "quality": "(VOSTFR) Sendvid:default",
+                        "videoUrl": "https://videos2.sendvid.com/bd/cc/po9rn5vq.mp4?validfrom=1705853355&validto=1705867755&rate=200k&ip=40.67.142.103&hash=xbEoetmpQPMHare3U9pgE8Pqw0I%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Origin": "https://https://sendvid.com/embed/po9rn5vq",
+                            "Referer": "https://https://sendvid.com/embed/po9rn5vq/"
+                        }
+                    },
+                    {
+                        "url": "https://video.sibnet.ru/v/4f7f9c66ce1e727830c4d46895e2bbd7/5295770.mp4",
+                        "quality": "(VF) Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/4f7f9c66ce1e727830c4d46895e2bbd7/5295770.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5295770"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

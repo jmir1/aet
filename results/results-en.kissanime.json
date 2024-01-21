@@ -267,6 +267,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/",
+                                "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Banished-from-the-Heros-Party-I-Decided-to-Live-a-Quiet-Life-in-the-Countryside-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy/",
+                                "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy.jpg"
+                            },
+                            {
+                                "url": "/Anime/Fluffy-Paradise/",
+                                "title": "Fluffy Paradise",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Fluffy-Paradise.jpg"
+                            },
+                            {
+                                "url": "/Anime/shangri-la-frontier.80188/",
+                                "title": "Shangri-La Frontier",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier.jpg"
+                            },
+                            {
+                                "url": "/Anime/captain-tsubasa-junior-youth-arc.68438/",
+                                "title": "Captain Tsubasa: Junior Youth Arc",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Captain-Tsubasa-Junior-Youth-Arc.jpg"
+                            },
+                            {
+                                "url": "/Anime/Xian-Wang-De-Richang-Shenghuo-4/",
+                                "title": "The Daily Life of the Immortal King Season 4",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Daily-Life-of-the-Immortal-King-Season-4.jpg"
+                            },
+                            {
                                 "url": "/Anime/Soaring-Sky-Pretty-Cure/",
                                 "title": "Soaring Sky! Pretty Cure",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/02/Soaring-Sky-Pretty-Cure.jpg"
@@ -485,36 +515,6 @@
                                 "url": "/Anime/Sengoku-Youko/",
                                 "title": "Sengoku Youko",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sengoku-Youko.jpg"
-                            },
-                            {
-                                "url": "/Anime/Classroom-of-the-Elite-Season-3/",
-                                "title": "Classroom of the Elite Season 3",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Classroom-of-the-Elite-Season-3.jpg"
-                            },
-                            {
-                                "url": "/Anime/Doctor-Elise-The-Royal-Lady-with-the-Lamp/",
-                                "title": "Doctor Elise: The Royal Lady with the Lamp",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Doctor-Elise-The-Royal-Lady-with-the-Lamp.jpg"
-                            },
-                            {
-                                "url": "/Anime/Bottom-Tier-Character-Tomozaki-2nd-Stage/",
-                                "title": "Bottom-Tier Character Tomozaki 2nd Stage",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bottom-Tier-Character-Tomozaki-2nd-Stage.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2/",
-                                "title": "Heaven Official's Blessing Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Solo-Leveling-Dub/",
-                                "title": "Solo Leveling (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Solo-Leveling-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Tousouchuu-Great-Mission/",
-                                "title": "Run for Money: The Great Mission",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/04/Run-for-Money-The-Great-Mission.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html><html lang=\"en-.....",
                 "passed": false
             }
         }

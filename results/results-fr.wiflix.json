@@ -251,8 +251,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.Exception: no player found",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://doods.pro/e/0l71xx7608s0",
+                        "quality": "Doodstream mirror",
+                        "videoUrl": "https://lo292p.video-delivery.net/u5kj77hvkldlsdgge55a4zq2d64dpupptrlqkc42dnutvbs4am3mwwlmz5qq/cd5ur7ez3h~OLMRBUcAf6?token=stbc4fqsmrcvmg4lp2b68t47&expiry=1705860484348",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://doods.pro/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
