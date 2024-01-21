@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-mighty-hercules",
+                                "title": "The Mighty Hercules",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933449.jpg"
+                            },
+                            {
+                                "url": "/anime/the-magical-adventures-of-quasimodo",
+                                "title": "The Magical Adventures of Quasimodo",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933448.jpg"
+                            },
+                            {
+                                "url": "/anime/the-lionhearts",
+                                "title": "The Lionhearts",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933447.jpg"
+                            },
+                            {
                                 "url": "/anime/the-kwicky-koala-show",
                                 "title": "The Kwicky Koala Show",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933446.jpg"
@@ -70,21 +85,6 @@
                                 "url": "/anime/meet-the-batwheels",
                                 "title": "Meet The Batwheels",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933434.jpg"
-                            },
-                            {
-                                "url": "/anime/kingdom-5th-english-subbed",
-                                "title": "Kingdom 5th English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933433.jpg"
-                            },
-                            {
-                                "url": "/anime/bucchigiri-english-subbed",
-                                "title": "Bucchigiri?! English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933432.jpg"
-                            },
-                            {
-                                "url": "/anime/cardfight-vanguard-divinez-english-subbed",
-                                "title": "Cardfight!! Vanguard: Divinez English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933431.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-kwicky-koala-show",
-                    "title": "The Kwicky Koala Show",
-                    "description": "Kwicky can move very quickly, which means he essentially disappears whenever Wilferd Wolf is close to catching him. George and Joey are two stupid circus dogs, the Bungle Brothers. Crazy Claws is a wildcat that rips things to shreds, particularly his would-be captors, such as trapper Rawhide Clyde. Dirty Dawg and his sidekick Ratso are bums.",
-                    "genre": "Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933446.jpg",
+                    "url": "/anime/the-mighty-hercules",
+                    "title": "The Mighty Hercules",
+                    "description": "The adventures of the heroic demigod of Greek mythology.",
+                    "genre": "Adventure, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933449.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/the-mighty-hercules-episode-30-wings-of-mercury",
+                        "name": "Season 1 - Episode 30",
+                        "episode_number": 130.0
+                    },
+                    {
+                        "url": "/the-mighty-hercules-episode-29-wilhemines-wand",
+                        "name": "Season 1 - Episode 29",
+                        "episode_number": 129.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJscisGBbIcrJVh7z6e5SKM1LxmIzATA9lvWVGNBgYIc46FtvTwYmpqLAbUGaNeaS9FMtO_z2U3cY65f06X_2Zv9o7UuDGlrDHXRwWU3j7-nPjjWUN2jisbkOCNpeYTMUQGcKK8ZkzPAtYee4VCH6ZmINfHN0afRaA4MOZ-gbTXLXbuThMZ8McPvj48bz-4Cz_DqDJxLTYshyJAcz0Rvu6tRsV5rCo_CAfqglKqm24dg-Hw8jsty8U6rL7y-YR9qLNVwTGMISA_hWhWWe5nQ3iKxyBf3vx1avVNtEvmfUhHLXts7jMLjiwXoNnaaaWMghIw04hjQRXr3qbCZcX3BH3Nauj5M2n0xKJDF7yL70Am62bvA1cy0xq4YJILuF7m4dOw",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJscisGBbIcrJVh7z6e5SKM1LxmIzATA9lvWVGNBgYIc46FtvTwYmpqLAbUGaNeaS9FMtO_z2U3cY65f06X_2Zv9o7UuDGlrDHXRwWU3j7-nPjjWUN2jisbkOCNpeYTMUQGcKK8ZkzPAtYee4VCH6ZmINfHN0afRaA4MOZ-gbTXLXbuThMZ8McPvj48bz-4Cz_DqDJxLTYshyJAcz0Rvu6tRsV5rCo_CAfqglKqm24dg-Hw8jsty8U6rL7y-YR9qLNVwTGMISA_hWhWWe5nQ3iKxyBf3vx1avVNtEvmfUhHLXts7jMLjiwXoNnaaaWMghIw04hjQRXr3qbCZcX3BH3Nauj5M2n0xKJDF7yL70Am62bvA1cy0xq4YJILuF7m4dOw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJscisGBbIcrJVh7z6e5SKM1LxmIzATA9lvWVGNBgYIc46FtvTwYmpqLAbUGaNeaS9FMtO_z2U3cY65f06X_2Zv9o7UuDGlrDHXRwWU3j7-nPjjWUN2jisbkOCNpeYTMUQBT6ld5R51cIEFEeEUpQwVmG5lXp94ak0UQOf1tsWhKQnEG1oeCLD3ZkA9HtzfdzFL1oTG6V8c0glOoubULNDKqLt2FzrT1MALCWtZPBBv5mbtJYIQvf-4h2Hd3O_F5axR5L3Pb2zlrFx2N75PyP2cVbKrdH3ru6oJKuJYiBiVNqg0uiSDN4vrZ4kSvfDZTawXR6sMFv1qVIrhrjmDFMkwVkreIGBJyGzFpFojbYf5kmLW9zUzFNdaOIItmdU_ZpJg",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJscisGBbIcrJVh7z6e5SKM1LxmIzATA9lvWVGNBgYIc46FtvTwYmpqLAbUGaNeaS9FMtO_z2U3cY65f06X_2Zv9o7UuDGlrDHXRwWU3j7-nPjjWUN2jisbkOCNpeYTMUQBT6ld5R51cIEFEeEUpQwVmG5lXp94ak0UQOf1tsWhKQnEG1oeCLD3ZkA9HtzfdzFL1oTG6V8c0glOoubULNDKqLt2FzrT1MALCWtZPBBv5mbtJYIQvf-4h2Hd3O_F5axR5L3Pb2zlrFx2N75PyP2cVbKrdH3ru6oJKuJYiBiVNqg0uiSDN4vrZ4kSvfDZTawXR6sMFv1qVIrhrjmDFMkwVkreIGBJyGzFpFojbYf5kmLW9zUzFNdaOIItmdU_ZpJg"
+                    }
+                ],
+                "passed": true
             }
         }
     }
