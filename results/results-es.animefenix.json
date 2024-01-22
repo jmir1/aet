@@ -3,7 +3,7 @@
         "name": "AnimeFenix (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
@@ -171,23 +171,85 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/alice-to-therese-no-maboroshi-koujou",
-                    "title": "Alice to Therese no Maboroshi Koujou",
-                    "genre": "Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "passed": false
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/alice-to-therese-no-maboroshi-koujou-1",
+                        "name": "Episodio  1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02804/kwiht8wo0ysv_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=1_JzQxBTMqXm3VxaqrJlNf0I9EUPvGQKRGOX3yMBAHk&s=1705925762&e=129600&f=14024213&srv=sSchiZd3EuyY&i=0.4&sp=500&p1=sSchiZd3EuyY&p2=sSchiZd3EuyY&asn=8075",
+                        "quality": "StreamWish:1080p",
+                        "videoUrl": "https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02804/kwiht8wo0ysv_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=1_JzQxBTMqXm3VxaqrJlNf0I9EUPvGQKRGOX3yMBAHk&s=1705925762&e=129600&f=14024213&srv=sSchiZd3EuyY&i=0.4&sp=500&p1=sSchiZd3EuyY&p2=sSchiZd3EuyY&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kwiht8wo0ysv"
+                        }
+                    },
+                    {
+                        "url": "https://d40ju9ljt5es.enaak-cdn.com/hls2/01/01118/hqilghkcxd45_n/index-v1-a1.m3u8?t=1ogbs-V0HqNlOyGojL_A9PgoWWblpThaOPVd5rNdkts&s=1705925767&e=129600&f=5590112&srv=d0FMC0RTxstq&i=0.4&sp=1500&p1=d0FMC0RTxstq&p2=d0FMC0RTxstq&asn=8075",
+                        "quality": "FileLions:720p",
+                        "videoUrl": "https://d40ju9ljt5es.enaak-cdn.com/hls2/01/01118/hqilghkcxd45_n/index-v1-a1.m3u8?t=1ogbs-V0HqNlOyGojL_A9PgoWWblpThaOPVd5rNdkts&s=1705925767&e=129600&f=5590112&srv=d0FMC0RTxstq&i=0.4&sp=1500&p1=d0FMC0RTxstq&p2=d0FMC0RTxstq&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.live",
+                            "Referer": "https://filelions.live/v/hqilghkcxd45"
+                        }
+                    },
+                    {
+                        "url": "https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02804/kwiht8wo0ysv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=1_JzQxBTMqXm3VxaqrJlNf0I9EUPvGQKRGOX3yMBAHk&s=1705925762&e=129600&f=14024213&srv=sSchiZd3EuyY&i=0.4&sp=500&p1=sSchiZd3EuyY&p2=sSchiZd3EuyY&asn=8075",
+                        "quality": "StreamWish:720p",
+                        "videoUrl": "https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02804/kwiht8wo0ysv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=1_JzQxBTMqXm3VxaqrJlNf0I9EUPvGQKRGOX3yMBAHk&s=1705925762&e=129600&f=14024213&srv=sSchiZd3EuyY&i=0.4&sp=500&p1=sSchiZd3EuyY&p2=sSchiZd3EuyY&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kwiht8wo0ysv"
+                        }
+                    },
+                    {
+                        "url": "https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02804/kwiht8wo0ysv_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=1_JzQxBTMqXm3VxaqrJlNf0I9EUPvGQKRGOX3yMBAHk&s=1705925762&e=129600&f=14024213&srv=sSchiZd3EuyY&i=0.4&sp=500&p1=sSchiZd3EuyY&p2=sSchiZd3EuyY&asn=8075",
+                        "quality": "StreamWish:480p",
+                        "videoUrl": "https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/02804/kwiht8wo0ysv_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=1_JzQxBTMqXm3VxaqrJlNf0I9EUPvGQKRGOX3yMBAHk&s=1705925762&e=129600&f=14024213&srv=sSchiZd3EuyY&i=0.4&sp=500&p1=sSchiZd3EuyY&p2=sSchiZd3EuyY&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/kwiht8wo0ysv"
+                        }
+                    },
+                    {
+                        "url": "https://cdn.burstcloud.co/a202401226aJiDRsPUr8/Maboroshi Movie.mp4",
+                        "quality": "BurstCloud",
+                        "videoUrl": "https://cdn.burstcloud.co/a202401226aJiDRsPUr8/Maboroshi Movie.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://www.burstcloud.co"
+                        }
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240122m5Yw2x0munq/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240122m5Yw2x0munq/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -42,6 +42,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/mr-villains-day-off",
+                                "title": "Kyuujitsu No Warumono-San – Mr. Villain’s Day Off: Saison 1 Episode 3",
+                                "thumbnail_url": "https://www1.jetanimes.com/wp-content/uploads/2024/01/5uFZC86gNWzPBpz4GXiqRwWDtLW-1-300x170.jpg"
+                            },
+                            {
                                 "url": "/serie/hikari-no-ou-the-fire-hunter",
                                 "title": "Hikari No Ou – The Fire Hunter: Saison 2 Episode 2",
                                 "thumbnail_url": "https://www1.jetanimes.com/wp-content/uploads/2024/01/anime-hikari-no-Ou-visuel-2-300x170.webp"
@@ -185,11 +190,6 @@
                                 "url": "/serie/スナックバス江",
                                 "title": "Snack Basue – スナックバス江: Saison 1 Episode 2",
                                 "thumbnail_url": "https://www1.jetanimes.com/wp-content/uploads/2024/01/32U97a8NPoSL57M6kaEfVuRWXb-1-300x170.jpg"
-                            },
-                            {
-                                "url": "/serie/the-demon-prince-of-momochi-house",
-                                "title": "Momochi-San Chi No Ayakashi Ouji – The Demon Prince of Momochi House: Saison 1 Episode 3",
-                                "thumbnail_url": "https://www1.jetanimes.com/wp-content/uploads/2024/01/jgWY5HsF6dHsKE8HWWFuxIQWphd-1-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -366,7 +366,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
                 "passed": false
             }
         }
