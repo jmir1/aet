@@ -3,12 +3,124 @@
         "name": "NollyVerse (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/movie/rebel-moon-part-one-a-child-of-fire",
+                                "title": "Rebel Moon - Part One: A Child of Fire",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/rebel-moon-part-one-a-child-of-fire.jpg"
+                            },
+                            {
+                                "url": "/movie/pain-hustlers",
+                                "title": "Pain Hustlers",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/pain-hustlers.jpg"
+                            },
+                            {
+                                "url": "/movie/oppenheimer",
+                                "title": "Oppenheimer",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/oppenheimer.jpg"
+                            },
+                            {
+                                "url": "/movie/barbie",
+                                "title": "Barbie",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/barbie.jpg"
+                            },
+                            {
+                                "url": "/movie/mission-impossible-dead-reckoning-part-one",
+                                "title": "Mission: Impossible - Dead Reckoning Part One",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/mission-impossible-dead-reckoning-part-one.jpg"
+                            },
+                            {
+                                "url": "/movie/transformers-rise-of-the-beasts",
+                                "title": "Transformers: Rise of the Beasts",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/transformers-rise-of-the-beasts.jpg"
+                            },
+                            {
+                                "url": "/movie/spider-man-across-the-spider-verse",
+                                "title": "Spider-Man: Across the Spider-Verse",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/spider-man-across-the-spider-verse.jpg"
+                            },
+                            {
+                                "url": "/movie/fast-x",
+                                "title": "Fast X",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/fast-x.jpg"
+                            },
+                            {
+                                "url": "/movie/renfield",
+                                "title": "Renfield",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/renfield.jpg"
+                            },
+                            {
+                                "url": "/movie/john-wick-chapter-4",
+                                "title": "John Wick: Chapter 4",
+                                "thumbnail_url": "https://www.thenollyverse.com/movie/img/john-wick-chapter-4.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/serie/hazbin-hotel",
+                                "title": "Hazbin Hotel",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/hazbin-hotel.jpg"
+                            },
+                            {
+                                "url": "/serie/zorro",
+                                "title": "Zorro",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/zorro.jpg"
+                            },
+                            {
+                                "url": "/serie/belgravia-the-next-chapter",
+                                "title": "Belgravia: The Next Chapter",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/belgravia-the-next-chapter.jpg"
+                            },
+                            {
+                                "url": "/serie/monsieur-spade",
+                                "title": "Monsieur Spade",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/monsieur-spade.jpg"
+                            },
+                            {
+                                "url": "/serie/boy-swallows-universe",
+                                "title": "Boy Swallows Universe",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/boy-swallows-universe.jpg"
+                            },
+                            {
+                                "url": "/serie/ted",
+                                "title": "ted",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/ted.jpg"
+                            },
+                            {
+                                "url": "/serie/criminal-record",
+                                "title": "Criminal Record",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/criminal-record.jpg"
+                            },
+                            {
+                                "url": "/serie/echo",
+                                "title": "Echo",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/echo.jpg"
+                            },
+                            {
+                                "url": "/serie/solo-leveling",
+                                "title": "Solo Leveling",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/solo-leveling.jpg"
+                            },
+                            {
+                                "url": "/serie/sanctuary-a-witchs-tale",
+                                "title": "Sanctuary: A Witch's Tale",
+                                "thumbnail_url": "https://www.thenollyverse.com/serie/img/sanctuary-a-witchs-tale.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -52,10 +164,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/movie/edge-of-the-world",
-                    "title": "Edge of the World",
-                    "description": "The adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
-                    "genre": "Adventure, Drama",
+                    "url": "/movie/rebel-moon-part-one-a-child-of-fire",
+                    "title": "Rebel Moon - Part One: A Child of Fire",
+                    "description": "When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand.",
+                    "genre": "Action, Adventure, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -63,7 +175,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movie/edge-of-the-world/download/",
+                        "url": "/movie/rebel-moon-part-one-a-child-of-fire/download/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -73,14 +185,29 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://embedsito.com/f/ry7jrse4q20zeqq",
-                        "quality": "480p",
-                        "videoUrl": "https://embedsito.com/f/ry7jrse4q20zeqq"
+                        "url": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel_Moon_Part_One_A_Child_of_Fire_2023_1080p_WEB-DL_6CH_PaHe_ZarFilm.mkv",
+                        "quality": "1080p",
+                        "videoUrl": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel_Moon_Part_One_A_Child_of_Fire_2023_1080p_WEB-DL_6CH_PaHe_ZarFilm.mkv"
                     },
                     {
-                        "url": "https://dood.la/d/o16rzvmsv5u2",
+                        "url": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.1080p.10bit.WEB-DL.x265.PSA.ZarFilm.mkv",
+                        "quality": "1080p.x265",
+                        "videoUrl": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.1080p.10bit.WEB-DL.x265.PSA.ZarFilm.mkv"
+                    },
+                    {
+                        "url": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.480p.WEB-DL.PaHe.ZarFilm.mkv",
+                        "quality": "480p",
+                        "videoUrl": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.480p.WEB-DL.PaHe.ZarFilm.mkv"
+                    },
+                    {
+                        "url": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.720p.WEB-DL.PaHe.ZarFilm.mkv",
                         "quality": "720p",
-                        "videoUrl": "https://dood.la/d/o16rzvmsv5u2"
+                        "videoUrl": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.720p.WEB-DL.PaHe.ZarFilm.mkv"
+                    },
+                    {
+                        "url": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.720p.10bit.WEB-DL.x265.PSA.ZarFilm.mkv",
+                        "quality": "720p.x265",
+                        "videoUrl": "https://dl1.bwlink.pw/Movies5/2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023/Rebel.Moon.Part.One.A.Child.of.Fire.2023.720p.10bit.WEB-DL.x265.PSA.ZarFilm.mkv"
                     }
                 ],
                 "passed": true

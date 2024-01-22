@@ -3,110 +3,8 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/the-marvels/",
-                                "title": "The Marvels",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vpuuFM032yiX8tox4L84Wl9MGjG.jpg"
-                            },
-                            {
-                                "url": "/hunt-caza-al-espia/",
-                                "title": "Hunt. Caza al espía",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aVFu40yaM7QSGvMTnPdVkJgAzvX.jpg"
-                            },
-                            {
-                                "url": "/nymphomaniac-volumen-2/",
-                                "title": "Nymphomaniac. Volumen 2",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg"
-                            },
-                            {
-                                "url": "/nymphomaniac-volumen-1/",
-                                "title": "Nymphomaniac. Volumen 1",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/y3pyIkcXMUv8ToIa3hShqKXDi8F.jpg"
-                            },
-                            {
-                                "url": "/menudo-bocazas/",
-                                "title": "Menudo bocazas",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/AkgWs9y3eILhUyztW6UwPNu9gCi.jpg"
-                            },
-                            {
-                                "url": "/maboroshi/",
-                                "title": "maboroshi",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/piDXkSvBA56NTIC6D3uA1eECwtd.jpg"
-                            },
-                            {
-                                "url": "/una-familia-de-superheroes/",
-                                "title": "Una familia de superhéroes",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/buCip15i0a0PlT77oC7OwQD0HAC.jpg"
-                            },
-                            {
-                                "url": "/kong-la-isla-calavera/",
-                                "title": "Kong: La isla calavera",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/myOdovPayRRitZDZSutI07eNANM.jpg"
-                            },
-                            {
-                                "url": "/el-peor-equipo-del-mundo-next-goal-wins/",
-                                "title": "El peor equipo del mundo (Next Goal Wins)",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rAFNxs9nkgoW20QNlBqY2hlRmWQ.jpg"
-                            },
-                            {
-                                "url": "/godzilla-vs-kong/",
-                                "title": "Godzilla vs. Kong",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg"
-                            },
-                            {
-                                "url": "/godzilla-rey-de-los-monstruos/",
-                                "title": "Godzilla: Rey de los Monstruos",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/yQ59NPwzHE2XlYwU2VwHF9Wb0IJ.jpg"
-                            },
-                            {
-                                "url": "/godzilla/",
-                                "title": "Godzilla",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1t0FcqSsBs51PDhDkFd7EiEytU6.jpg"
-                            },
-                            {
-                                "url": "/elijo-creer/",
-                                "title": "Elijo creer",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg"
-                            },
-                            {
-                                "url": "/el-color-purpura/",
-                                "title": "El color púrpura",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg"
-                            },
-                            {
-                                "url": "/nuestros-fantasmas/",
-                                "title": "Nuestros fantasmas",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vHPDGl4t2mp3wYhbQ2ZOEhqEKZg.jpg"
-                            },
-                            {
-                                "url": "/una-vez-mas/",
-                                "title": "Una vez más",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -216,13 +114,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/the-marvels/",
-                    "title": "The Marvels",
-                    "description": "The Marvels Cuando sus obligaciones la envían a un agujero de gusano vinculado a un revolucionario kree, los poderes de Carol Danvers, la capitana Marvel, se entremezclan con los de Kamala Khan, también conocida como la Sra. Marvel y la sobrina de Carol, ahora astronauta de S.A.B.E.R., Monica Rambeau. Juntas, deberán salvar el universo como «The Marvels».",
-                    "genre": "Acción, Aventura, Ciencia ficción",
+                    "url": "/one-piece-strong-world-hd/",
+                    "title": "One Piece: Strong World",
+                    "description": "One Piece: Strong World Shiki «El León Dorado» que desea traer el infierno a la Tierra es el unico hombre que ha escapado de la gran prisión Impel Down. Justo después de su salida de Thriller Bark la Tripulación del Sombrero de Paja y Shiki entra en un enfrentamiento, Shiki secuestra a Nami, entonces Luffy y sus compañeros se embarcan en su búsqueda.",
+                    "genre": "Animación, Aventura, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/vpuuFM032yiX8tox4L84Wl9MGjG.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -230,7 +128,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/the-marvels/",
+                        "url": "/one-piece-strong-world-hd/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

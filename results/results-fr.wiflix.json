@@ -77,6 +77,21 @@
                                 "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-969b-ec32-7d64-407f.jpg"
                             },
                             {
+                                "url": "/serie-en-streaming/28889-dr-death-saison-2.html",
+                                "title": "Dr. Death Saison 2 VOSTFR",
+                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-32b4-0ec8-767d-4d61.jpg"
+                            },
+                            {
+                                "url": "/serie-en-streaming/29281-new-york-unite-speciale-saison-25.html",
+                                "title": "New York Unité Spéciale Saison 25 VOSTFR",
+                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-4d13-c955-abbb-4da0.jpg"
+                            },
+                            {
+                                "url": "/serie-en-streaming/28667-hjkj819.html",
+                                "title": "Ici Tout Commence Saison 4 French",
+                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-f55a-3664-c1b0-4d70.jpg"
+                            },
+                            {
                                 "url": "/serie-en-streaming/27772-captain-tsubasa-2018-saison-2.html",
                                 "title": "Captain Tsubasa (2018) Saison 2 VOSTFR",
                                 "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-5353-69ab-75a6-4d86.jpg"
@@ -90,21 +105,6 @@
                                 "url": "/serie-en-streaming/29222-benoit-genant-officiel-saison-1.html",
                                 "title": "Benoît Gênant Officiel Saison 1 French",
                                 "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-4bde-9c56-eefa-4b20.jpg"
-                            },
-                            {
-                                "url": "/serie-en-streaming/27649-the-woman-in-the-wall-saison-1.html",
-                                "title": "The Woman In The Wall Saison 1 French",
-                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-f8d1-3cc3-45df-4bf9.jpg"
-                            },
-                            {
-                                "url": "/serie-en-streaming/29229-cristobal-balenciaga-saison-1.html",
-                                "title": "Cristóbal Balenciaga Saison 1 French",
-                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-9da5-cf40-0654-44b9.jpg"
-                            },
-                            {
-                                "url": "/serie-en-streaming/29224-chicago-med-saison-9.html",
-                                "title": "Chicago Med Saison 9 VOSTFR",
-                                "thumbnail_url": "https://wiflix.voto/checkimg.php?urli=stream-vf-f28c-64b3-ef83-4fc6.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -236,13 +236,13 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "https://doods.pro/e/0l71xx7608s0,https://voe.sx/e/rqdvdvmykpze,https://waaw1.tv/e/aOGDlMKcHEMK",
+                        "url": "https://doods.pro/e/t2vhb98lt0se,https://voe.sx/e/irrwyd9zjier,https://waaw1.tv/e/aOGDlMKcHEMK",
                         "name": "Episode 7",
                         "episode_number": 7.0,
                         "scanlator": "VOSTFR"
                     },
                     {
-                        "url": "https://doods.pro/e/r1c0ljwkwzl0,https://voe.sx/e/0oxchkxzdroj,https://waaw1.tv/e/msnAb8y5lMU9",
+                        "url": "https://doods.pro/e/nl3p18aut7e1,https://voe.sx/e/ljfoarguckr5,https://waaw1.tv/e/msnAb8y5lMU9",
                         "name": "Episode 6",
                         "episode_number": 6.0,
                         "scanlator": "VOSTFR"
@@ -251,18 +251,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://doods.pro/e/0l71xx7608s0",
-                        "quality": "Doodstream mirror",
-                        "videoUrl": "https://lo292p.video-delivery.net/u5kj77hvkldlsdgge55a4zq2d64dpupptrlqkc42dnutvbs4am3mwwlmz5qq/cd5ur7ez3h~OLMRBUcAf6?token=stbc4fqsmrcvmg4lp2b68t47&expiry=1705860484348",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://doods.pro/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: no player found",
+                "passed": false
             }
         }
     }

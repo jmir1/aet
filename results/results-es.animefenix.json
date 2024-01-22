@@ -471,15 +471,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hanyo-no-yashahime",
-                    "title": "Hanyo no Yashahime",
-                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -499,28 +492,28 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/iAcNBtdWqarXTQPrkVMNTZEHOv0bboS0-ZKrcv16hHQeJxFPc",
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/O_Zum34Io8Jqxlvo71lycaK-Ec-V_-Whl8fmg8JiRoQeJxFPc",
                         "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/iAcNBtdWqarXTQPrkVMNTZEHOv0bboS0-ZKrcv16hHQeJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/O_Zum34Io8Jqxlvo71lycaK-Ec-V_-Whl8fmg8JiRoQeJxFPc"
                     },
                     {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/BOk3dTeNTz1m6yK1Fh2UKTARfFUPUwJyjJMrTReVOdEeJxFPc",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/Hut8kpot1CEtqtjR2PIaqR7FIQnqNKT732m3EPy_5XkeJxFPc",
                         "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/BOk3dTeNTz1m6yK1Fh2UKTARfFUPUwJyjJMrTReVOdEeJxFPc"
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/Hut8kpot1CEtqtjR2PIaqR7FIQnqNKT732m3EPy_5XkeJxFPc"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a202401212lmq512khsO/video.mp4",
+                        "url": "https://vidcache.net:8161/a2024012173mMv7r67qR/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a202401212lmq512khsO/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a2024012173mMv7r67qR/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "referer": "https://www.yourupload.com/"
                         }
                     },
                     {
-                        "url": "https://cdn.burstcloud.co/a2024012111lffqPwmu6/Yashahime 24.mp4",
+                        "url": "https://cdn.burstcloud.co/a202401214hVGp1224p3/Yashahime 24.mp4",
                         "quality": "BurstCloud",
-                        "videoUrl": "https://cdn.burstcloud.co/a2024012111lffqPwmu6/Yashahime 24.mp4",
+                        "videoUrl": "https://cdn.burstcloud.co/a202401214hVGp1224p3/Yashahime 24.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "referer": "https://www.burstcloud.co"
