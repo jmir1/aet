@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/mush-mush-the-mushables",
+                                "title": "Mush-Mush & the Mushables",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933459.jpg"
+                            },
+                            {
+                                "url": "/anime/the-foolish-angel-dances-with-the-devil",
+                                "title": "The Foolish Angel Dances with the Devil",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933458.jpg"
+                            },
+                            {
+                                "url": "/anime/the-tom-and-jerry-comedy-show-1980",
+                                "title": "The Tom and Jerry Comedy Show 1980",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933457.jpg"
+                            },
+                            {
+                                "url": "/anime/the-new-adventures-of-jonny-quest-1986",
+                                "title": "The New Adventures of Jonny Quest 1986",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933456.jpg"
+                            },
+                            {
                                 "url": "/anime/the-new-adventures-of-nanoboy",
                                 "title": "The New Adventures of Nanoboy",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933455.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/the-inspector-1965",
                                 "title": "The Inspector 1965",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933444.jpg"
-                            },
-                            {
-                                "url": "/anime/tales-of-wedding-rings",
-                                "title": "Tales of Wedding Rings",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933443.jpg"
-                            },
-                            {
-                                "url": "/anime/the-demon-prince-of-momochi-house",
-                                "title": "The Demon Prince of Momochi House",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933442.jpg"
-                            },
-                            {
-                                "url": "/anime/the-wrong-way-to-use-healing-magic",
-                                "title": "The Wrong Way to Use Healing Magic",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933441.jpg"
-                            },
-                            {
-                                "url": "/anime/meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
-                                "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933440.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-new-adventures-of-nanoboy",
-                    "title": "The New Adventures of Nanoboy",
-                    "description": "The series follows the adventures of a 9-year-old boy named Oscar, who has faced some issues in his life. By dealing with these issues, he shrinks down to a microscopic superhero as Nanoboy and he’ll stop at nothing to save the Microcosmos from the microbe villains",
-                    "genre": "Action, Comedy, Sci-fi, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933455.jpg",
+                    "url": "/anime/mush-mush-the-mushables",
+                    "title": "Mush-Mush & the Mushables",
+                    "description": "Mush-Mush and his friends are tiny guardians of the forest who go on adventures in a wondrous and wild world of nature.",
+                    "genre": "Adventure, Animation, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933459.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-new-adventures-of-nanoboy-episode-13-lost-in-cyberspace-to-the-future",
-                        "name": "Season 1 - Episode 13",
-                        "episode_number": 113.0
-                    },
-                    {
-                        "url": "/the-new-adventures-of-nanoboy-episode-12-czar-zars-new-clothes-return-of-the-germinator",
-                        "name": "Season 1 - Episode 12",
-                        "episode_number": 112.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpARk_rv7Ugb4QhfsWCC33rF_eo1iW57cfEtPOaMSoH-nXxeMpD08DRo7H9MfxmBWDS_obHHXi9EZ07AvKPJQzP5Ope5FIpqjoB1GJ0hq0vML51TnD3S7nEBAX0XDaTtZAw1MxJSypMgJLre1z25xKBScKuomXaSysnX1tqaVWxPY3RBkEK-JkaPZDLfbeM50WsNuO9XgquQqMuqpK_QJbw1xLJIQAxyKaLnT489doRV08bmtE8SWO0VHD7G1qNSRHC0s30mrHvy5Qedj7aTbXAqpMRBiVSv0Gw1NP8L1KLdBrPgY1IOb6dVDjs2dbkfSUWog-ZokA5i7u8wZAjhJaQey45vm_FuGsiOg2ZIQUEjCd5u7T6wsKdnisT18sm2HU2NlbtLnkkqKbzKenK_vsGke2THUNG6Ffg-qdAUPkJA81ymQt-Qe3YgwJWWH4_MLg",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpARk_rv7Ugb4QhfsWCC33rF_eo1iW57cfEtPOaMSoH-nXxeMpD08DRo7H9MfxmBWDS_obHHXi9EZ07AvKPJQzP5Ope5FIpqjoB1GJ0hq0vML51TnD3S7nEBAX0XDaTtZAw1MxJSypMgJLre1z25xKBScKuomXaSysnX1tqaVWxPY3RBkEK-JkaPZDLfbeM50WsNuO9XgquQqMuqpK_QJbw1xLJIQAxyKaLnT489doRV08bmtE8SWO0VHD7G1qNSRHC0s30mrHvy5Qedj7aTbXAqpMRBiVSv0Gw1NP8L1KLdBrPgY1IOb6dVDjs2dbkfSUWog-ZokA5i7u8wZAjhJaQey45vm_FuGsiOg2ZIQUEjCd5u7T6wsKdnisT18sm2HU2NlbtLnkkqKbzKenK_vsGke2THUNG6Ffg-qdAUPkJA81ymQt-Qe3YgwJWWH4_MLg"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpARk_rv7Ugb4QhfsWCC33rF_eo1iW57cfEtPOaMSoH-nXxeMpD08DRo7H9MfxmBWDS_obHHXi9EZ07AvKPJQzP5Ope5FIpqjoB1GJ0hq0vML51TnD3S7nEBAX0XDaTtZAw1MxJSypMgJLre1z25xKBScKuomXaSysnX1tqaVWxPY3RBkEK-JkaPZDLfbeM50aFTHITXX-ldddYhqOA6nB_i9y6-BU4ep7m9I8u1uHnYbP-TbzcEJDm7rZd-TjAlzAQjattkCsyjXKO6q8FbKgOD7NoPlmjCOW50XAnvDhI9iUL3WRynqWwqDgiVvKTsyS_1OTJoaHz3JUduIjARok1TzgZOnpD0EE3Le0oq2tICoFml5jYyxdFkhC1iooAms2ZEGnkr4UiNVEIYjOMqTAgn-M8BIsQGMAWM7tyrKWqB",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpARk_rv7Ugb4QhfsWCC33rF_eo1iW57cfEtPOaMSoH-nXxeMpD08DRo7H9MfxmBWDS_obHHXi9EZ07AvKPJQzP5Ope5FIpqjoB1GJ0hq0vML51TnD3S7nEBAX0XDaTtZAw1MxJSypMgJLre1z25xKBScKuomXaSysnX1tqaVWxPY3RBkEK-JkaPZDLfbeM50aFTHITXX-ldddYhqOA6nB_i9y6-BU4ep7m9I8u1uHnYbP-TbzcEJDm7rZd-TjAlzAQjattkCsyjXKO6q8FbKgOD7NoPlmjCOW50XAnvDhI9iUL3WRynqWwqDgiVvKTsyS_1OTJoaHz3JUduIjARok1TzgZOnpD0EE3Le0oq2tICoFml5jYyxdFkhC1iooAms2ZEGnkr4UiNVEIYjOMqTAgn-M8BIsQGMAWM7tyrKWqB"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

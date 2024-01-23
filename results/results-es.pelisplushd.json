@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/the-irrational",
+                                "title": "The Irrational (2023)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg"
+                            },
+                            {
                                 "url": "/serie/la-mujer-en-la-pared",
                                 "title": "La mujer en la pared (20232024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/cRfuoRr56npYlDx7M0m3OgMhUs9.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/los-cuentos-navidenos-de-mickey",
                                 "title": "Los Cuentos Navideños de Mickey (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fxcSNNEqKnxHeN6CMz7hBcbOeKz.jpg"
-                            },
-                            {
-                                "url": "/serie",
-                                "title": "Como flores en la arena (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4XOwAl8TwRjL3bAlwDEtily4EhJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/la-mujer-en-la-pared",
-                    "title": "La mujer en la pared (20232024)",
-                    "description": "Lorna Brady se despierta una mañana y encuentra un cadáver en su casa. Brady no tiene idea de quién es la mujer muerta o si ella misma podría ser responsable del aparente asesinato, porque durante mucho tiempo ha sufrido ataques extremos de sonambulismo..",
-                    "genre": "Crimen, Misterio",
+                    "url": "/serie/the-irrational",
+                    "title": "The Irrational (2023)",
+                    "description": "Alec Mercer utiliza su excepcional conocimiento de la mente humana para resolver casos de alto riesgo que involucran a gobiernos, fuerzas del orden y corporaciones, de la manera más única e inesperada..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/cRfuoRr56npYlDx7M0m3OgMhUs9.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jJtOpfgV4iPu9RtxllHwZgn9dqI.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,7 +278,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/la-mujer-en-la-pared/temporada/1/capitulo/1",
+                        "url": "/serie/the-irrational/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/serie/the-irrational/temporada/1/capitulo/1",
                         "name": "T1 - E1: Episodio 1",
                         "episode_number": 1.0
                     }
@@ -288,47 +293,47 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/zeubfgzgfupt",
+                        "url": "https://voe.sx/e/hct3hhslkw9y",
                         "quality": "Voe:720p",
-                        "videoUrl": "https://delivery-node-xvilochagwi6rqt2.voe-network.net/engine/hls2-c/01/10332/zeubfgzgfupt_,n,.urlset/master.m3u8?t=nLEeqD7r2xGi4fsL09Uqvu4IB1CWEFQeJRqyWNMg7wI&s=1705946983&e=14400&f=51660910&node=delivery-node-50kcbgjki0zzkzns.voe-network.net&i=172.183&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-r06p3qcvnmwoch4f.voe-network.net/engine/hls2-c/01/10341/hct3hhslkw9y_,n,.urlset/master.m3u8?t=NuSryCAFkOumUrB6stRy83nj4cI9XtSEjc5VhjGqA9M&s=1705970003&e=14400&f=51706023&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=172.183&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://u5ggf9cbmfby.enaak-cdn.com/hls2/01/01148/owoqyuzir7lm_n/index-v1-a1.m3u8?t=kcncU8W_iF5PrVbTaB8UFy8PCUulGhX0B8ULW6HGHXc&s=1705946980&e=129600&f=5743313&srv=hqsid8jbfgd7&i=0.4&sp=1500&p1=hqsid8jbfgd7&p2=hqsid8jbfgd7&asn=8075",
+                        "url": "https://y7rf0vwihhf3.enaak-cdn.com/hls2/01/01159/xwszlhp14mj0_n/index-v1-a1.m3u8?t=gKaedQ6-HXLKge5mLpCLKX0VVCxnq4G6yvFjLTKpTPY&s=1705970001&e=129600&f=5796162&srv=Flr1VgOgWRWQ&i=0.4&sp=1500&p1=Flr1VgOgWRWQ&p2=Flr1VgOgWRWQ&asn=8075",
                         "quality": "FileLions:720p",
-                        "videoUrl": "https://u5ggf9cbmfby.enaak-cdn.com/hls2/01/01148/owoqyuzir7lm_n/index-v1-a1.m3u8?t=kcncU8W_iF5PrVbTaB8UFy8PCUulGhX0B8ULW6HGHXc&s=1705946980&e=129600&f=5743313&srv=hqsid8jbfgd7&i=0.4&sp=1500&p1=hqsid8jbfgd7&p2=hqsid8jbfgd7&asn=8075",
+                        "videoUrl": "https://y7rf0vwihhf3.enaak-cdn.com/hls2/01/01159/xwszlhp14mj0_n/index-v1-a1.m3u8?t=gKaedQ6-HXLKge5mLpCLKX0VVCxnq4G6yvFjLTKpTPY&s=1705970001&e=129600&f=5796162&srv=Flr1VgOgWRWQ&i=0.4&sp=1500&p1=Flr1VgOgWRWQ&p2=Flr1VgOgWRWQ&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://filelions.to",
-                            "Referer": "https://filelions.to/v/owoqyuzir7lm"
+                            "Referer": "https://filelions.to/v/xwszlhp14mj0"
                         }
                     },
                     {
-                        "url": "https://gsxn118weh2f.sw-cdnstream.com/hls2/01/02856/2bokemnrsk8r_,n,h,.urlset/index-f2-v1-a1.m3u8?t=trToPdJgyRNqR2V8o9pYdS6JzWiXUtJoXvQjxmfv-AE&s=1705946978&e=129600&f=14280244&srv=dSvzhuEpyij3&i=0.4&sp=500&p1=dSvzhuEpyij3&p2=dSvzhuEpyij3&asn=8075",
+                        "url": "https://giiv4aeb0l3m.sw-cdnstream.com/hls2/01/02869/tzy7njj8a8g2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=pQziQ9l5lXaCL-s5DiMcS0syzGRf-LqCArcQq7KxTUk&s=1705969998&e=129600&f=14349660&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "quality": "StreamWish:720p",
-                        "videoUrl": "https://gsxn118weh2f.sw-cdnstream.com/hls2/01/02856/2bokemnrsk8r_,n,h,.urlset/index-f2-v1-a1.m3u8?t=trToPdJgyRNqR2V8o9pYdS6JzWiXUtJoXvQjxmfv-AE&s=1705946978&e=129600&f=14280244&srv=dSvzhuEpyij3&i=0.4&sp=500&p1=dSvzhuEpyij3&p2=dSvzhuEpyij3&asn=8075",
+                        "videoUrl": "https://giiv4aeb0l3m.sw-cdnstream.com/hls2/01/02869/tzy7njj8a8g2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=pQziQ9l5lXaCL-s5DiMcS0syzGRf-LqCArcQq7KxTUk&s=1705969998&e=129600&f=14349660&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2bokemnrsk8r"
+                            "Referer": "https://streamwish.to/e/tzy7njj8a8g2"
                         }
                     },
                     {
-                        "url": "https://gsxn118weh2f.sw-cdnstream.com/hls2/01/02856/2bokemnrsk8r_,n,h,.urlset/index-f1-v1-a1.m3u8?t=trToPdJgyRNqR2V8o9pYdS6JzWiXUtJoXvQjxmfv-AE&s=1705946978&e=129600&f=14280244&srv=dSvzhuEpyij3&i=0.4&sp=500&p1=dSvzhuEpyij3&p2=dSvzhuEpyij3&asn=8075",
+                        "url": "https://giiv4aeb0l3m.sw-cdnstream.com/hls2/01/02869/tzy7njj8a8g2_,n,h,.urlset/index-f1-v1-a1.m3u8?t=pQziQ9l5lXaCL-s5DiMcS0syzGRf-LqCArcQq7KxTUk&s=1705969998&e=129600&f=14349660&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "quality": "StreamWish:480p",
-                        "videoUrl": "https://gsxn118weh2f.sw-cdnstream.com/hls2/01/02856/2bokemnrsk8r_,n,h,.urlset/index-f1-v1-a1.m3u8?t=trToPdJgyRNqR2V8o9pYdS6JzWiXUtJoXvQjxmfv-AE&s=1705946978&e=129600&f=14280244&srv=dSvzhuEpyij3&i=0.4&sp=500&p1=dSvzhuEpyij3&p2=dSvzhuEpyij3&asn=8075",
+                        "videoUrl": "https://giiv4aeb0l3m.sw-cdnstream.com/hls2/01/02869/tzy7njj8a8g2_,n,h,.urlset/index-f1-v1-a1.m3u8?t=pQziQ9l5lXaCL-s5DiMcS0syzGRf-LqCArcQq7KxTUk&s=1705969998&e=129600&f=14349660&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/2bokemnrsk8r"
+                            "Referer": "https://streamwish.to/e/tzy7njj8a8g2"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=J0dkl4wL3bFjWVv&expires=1706016980&ip=F0qQKRWZD19XKxR&token=N_E4WYLMjgbs",
+                        "url": "https://streamtape.com/get_video?id=3qdbxy90dAfdY4y&expires=1706040000&ip=F0qQKRWZD19XKxR&token=0nnqcj5G_Rqg",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=J0dkl4wL3bFjWVv&expires=1706016980&ip=F0qQKRWZD19XKxR&token=N_E4WYLMjgbs"
+                        "videoUrl": "https://streamtape.com/get_video?id=3qdbxy90dAfdY4y&expires=1706040000&ip=F0qQKRWZD19XKxR&token=0nnqcj5G_Rqg"
                     }
                 ],
                 "passed": true
@@ -509,6 +514,76 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/consider-the-lilies/",
+                                "title": "Consider the Lilies",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/consider-the-lilies.jpg"
+                            },
+                            {
+                                "url": "/pelicula/spider-man-a-traves-del-spider-verso/",
+                                "title": "Spider-Man: A través del Spider-Verso",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/spider-man-a-traves-del-spider-verso.jpg"
+                            },
+                            {
+                                "url": "/pelicula/avatar-el-camino-del-agua/",
+                                "title": "Avatar: El camino del agua",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/avatar-el-camino-del-agua.jpg"
+                            },
+                            {
+                                "url": "/pelicula/estado-de-emergencia/",
+                                "title": "Estado de Emergencia",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/estado-de-emergencia.jpg"
+                            },
+                            {
+                                "url": "/pelicula/spider-man-sin-camino-a-casa/",
+                                "title": "Spider-Man: Sin camino a casa",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/spider-man-sin-camino-a-casa.jpg"
+                            },
+                            {
+                                "url": "/pelicula/harry-potter-y-las-reliquias-de-la-muerte-1a-parte/",
+                                "title": "Harry Potter y las reliquias de la muerte (1ª parte)",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/harry-potter-y-las-reliquias-de-la-muerte-1a-parte.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mision-imposible-sentencia-mortal-parte-uno/",
+                                "title": "Misión: Imposible - Sentencia mortal parte uno",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mision-imposible-sentencia-mortal-parte-uno.jpg"
+                            },
+                            {
+                                "url": "/pelicula/iron-man-el-hombre-de-hierro/",
+                                "title": "Iron man - El hombre de hierro",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/iron-man-el-hombre-de-hierro.jpg"
+                            },
+                            {
+                                "url": "/pelicula/holocausto-canibal/",
+                                "title": "Holocausto Caníbal",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/holocausto-canibal.jpg"
+                            },
+                            {
+                                "url": "/pelicula/elementos/",
+                                "title": "Elementos",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/elementos.jpg"
+                            },
+                            {
+                                "url": "/pelicula/transformers-el-despertar-de-las-bestias/",
+                                "title": "Transformers: El despertar de las bestias",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/transformers-el-despertar-de-las-bestias.jpg"
+                            },
+                            {
+                                "url": "/pelicula/verona/",
+                                "title": "Verona",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/verona.jpg"
+                            },
+                            {
+                                "url": "/pelicula/under-the-influencer/",
+                                "title": "Under the Influencer",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/under-the-influencer.jpg"
+                            },
+                            {
+                                "url": "/pelicula/monsters-el-infierno-del-dragon/",
+                                "title": "Monsters: El infierno del dragón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/monsters-el-infierno-del-dragon.jpg"
+                            },
+                            {
                                 "url": "/pelicula/sing-2-ven-y-canta-de-nuevo/",
                                 "title": "Sing 2: ¡Ven y canta de nuevo!",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/sing-2-ven-y-canta-de-nuevo.jpg"
@@ -537,76 +612,6 @@
                                 "url": "/pelicula/kojot-negy-lelke/",
                                 "title": "Kojot négy lelke",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/kojot-negy-lelke.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-road-dance/",
-                                "title": "The Road Dance",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-road-dance.jpg"
-                            },
-                            {
-                                "url": "/pelicula/21-paraiso/",
-                                "title": "21 paraíso",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/21-paraiso.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-yuppie-y-el-guiso/",
-                                "title": "El Yuppie Y El Guiso",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-yuppie-y-el-guiso.jpg"
-                            },
-                            {
-                                "url": "/pelicula/trinket-box/",
-                                "title": "Trinket Box",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/trinket-box.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bobcat-moretti/",
-                                "title": "Bobcat Moretti",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bobcat-moretti.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-last-rifleman/",
-                                "title": "The Last Rifleman",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-last-rifleman.jpg"
-                            },
-                            {
-                                "url": "/pelicula/prime/",
-                                "title": "Prime",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/prime.jpg"
-                            },
-                            {
-                                "url": "/pelicula/wolves/",
-                                "title": "Wolves",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/wolves.jpg"
-                            },
-                            {
-                                "url": "/pelicula/monster-1050035/",
-                                "title": "Monster",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/monster-1050035.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-nomad-944324/",
-                                "title": "The Nomad",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-nomad-944324.jpg"
-                            },
-                            {
-                                "url": "/pelicula/norwegian-dream/",
-                                "title": "Norwegian Dream",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/norwegian-dream.jpg"
-                            },
-                            {
-                                "url": "/pelicula/houria/",
-                                "title": "Houria",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/houria.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tros/",
-                                "title": "Tros",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tros.jpg"
-                            },
-                            {
-                                "url": "/pelicula/60-minuten/",
-                                "title": "60 Minuten",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/60-minuten.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -776,11 +781,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/sing-2-ven-y-canta-de-nuevo/",
-                    "title": "Sing 2: ¡Ven y canta de nuevo!",
+                    "url": "/pelicula/consider-the-lilies/",
+                    "title": "Consider the Lilies",
                     "artist": "",
                     "description": "",
-                    "genre": "Comedia",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -790,7 +795,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/sing-2-ven-y-canta-de-nuevo/",
+                        "url": "/pelicula/consider-the-lilies/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -800,26 +805,20 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://acuag5o4.sw-cdnstream.com/hls2/01/00591/nvi6yta53z5l_x/index-v1-a1.m3u8?t=_C2bdX-tbMy-Dn2qznRCQYVO1nnVB-UkCbuga51QHtk&s=1705946985&e=129600&f=2955271&srv=cokcezxswxhk&i=0.4&sp=500&p1=cokcezxswxhk&p2=cokcezxswxhk&asn=8075",
-                        "quality": "[LAT] StreamWish:1036p",
-                        "videoUrl": "https://acuag5o4.sw-cdnstream.com/hls2/01/00591/nvi6yta53z5l_x/index-v1-a1.m3u8?t=_C2bdX-tbMy-Dn2qznRCQYVO1nnVB-UkCbuga51QHtk&s=1705946985&e=129600&f=2955271&srv=cokcezxswxhk&i=0.4&sp=500&p1=cokcezxswxhk&p2=cokcezxswxhk&asn=8075",
+                        "url": "https://ragrehgtrahd.sw-cdnstream.com/hls2/01/02868/7w1nmzrvilii_n/index-v1-a1.m3u8?t=hyqGQK135TZ_mDYdT7ui-NqWt8Wm0AH9X2mwremXOOk&s=1705970006&e=129600&f=14340704&srv=hkpl82vL0BNi&i=0.4&sp=500&p1=hkpl82vL0BNi&p2=hkpl82vL0BNi&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://ragrehgtrahd.sw-cdnstream.com/hls2/01/02868/7w1nmzrvilii_n/index-v1-a1.m3u8?t=hyqGQK135TZ_mDYdT7ui-NqWt8Wm0AH9X2mwremXOOk&s=1705970006&e=129600&f=14340704&srv=hkpl82vL0BNi&i=0.4&sp=500&p1=hkpl82vL0BNi&p2=hkpl82vL0BNi&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/nvi6yta53z5l"
+                            "Referer": "https://wishembed.pro/e/7w1nmzrvilii"
                         }
                     },
                     {
-                        "url": "https://jl4fjlcx.sw-cdnstream.com/hls2/01/00590/iak8vurgfeos_x/index-v1-a1.m3u8?t=-W0Kr_KoxfGVg03vXHk7AbIjCEr-LjpTms9lLmqaRUs&s=1705946988&e=129600&f=2954516&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=8075",
-                        "quality": "[CAST] StreamWish:1036p",
-                        "videoUrl": "https://jl4fjlcx.sw-cdnstream.com/hls2/01/00590/iak8vurgfeos_x/index-v1-a1.m3u8?t=-W0Kr_KoxfGVg03vXHk7AbIjCEr-LjpTms9lLmqaRUs&s=1705946988&e=129600&f=2954516&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/iak8vurgfeos"
-                        }
+                        "url": "https://streamtape.com/get_video?id=aZmgGmlMMmHxLK6&expires=1706040007&ip=F0qQKRWZD19XKxR&token=Bn-dQR_ffaXD",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=aZmgGmlMMmHxLK6&expires=1706040007&ip=F0qQKRWZD19XKxR&token=Bn-dQR_ffaXD"
                     }
                 ],
                 "passed": true

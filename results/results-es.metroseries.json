@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/zorro/",
+                                "title": "Zorro",
+                                "description": "Diego de la Vega es elegido para ser el nuevo Zorro, pero su único propósito es desenmascarar a los asesinos de su padre y llevarlos ante la justicia. A medida que asume el papel de Zorro, Diego no solo lucha por la justicia en Los Ángeles, sino que también descubre los desafíos de ser un […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg"
+                            },
+                            {
                                 "url": "/fuerza-policial-ataque-en-la-india/",
                                 "title": "Fuerza policial: Ataque en la India",
                                 "description": "Indian Police Force \"Fuerza policial: Ataque en la India\" es una serie de acción que cuenta el desgarrador viaje del oficial de policía de Delhi, Kabir Malik, mientras lucha contra su adversario, Zarar, que ha elegido el camino del terrorismo. Este drama policial despliega una emocionante persecución, centrada en la búsqueda de la justicia y […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/jm08lHmvZulDzxd5koPs8pf8Mir.jpg"
                             },
                             {
-                                "url": "/detective-forst/",
-                                "title": "Detective Forst",
-                                "description": "En lo alto de una montaña polaca, un detective brusco con métodos inusuales investiga el extraño asesinato de un profesor impopular. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/xOYU8U5WobOvjexS9S2HO6cGT6O.jpg"
-                            },
-                            {
-                                "url": "/el-gran-show-de-baby-shark/",
-                                "title": "El gran show de Baby Shark",
+                                "url": "/tribunal-de-menores/",
+                                "title": "Tribunal de menores",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oUlPgVUVfwcSnlnYrV6rIicWNOo.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1Wfv04HjCoJLjNLi1tG1PrVofix.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/la-brea/",
-                                "title": "La Brea",
+                                "url": "/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega/",
+                                "title": "Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9jKPfjNCJycFys8iasWXZJbpRFp.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,80 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/fuerza-policial-ataque-en-la-india/",
-                    "title": "Fuerza policial: Ataque en la India",
-                    "description": "Indian Police Force \"Fuerza policial: Ataque en la India\" es una serie de acción que cuenta el desgarrador viaje del oficial de policía de Delhi, Kabir Malik, mientras lucha contra su adversario, Zarar, que ha elegido el camino del terrorismo. Este drama policial despliega una emocionante persecución, centrada en la búsqueda de la justicia y los sacrificios realizados en el cumplimiento del deber.",
-                    "genre": "Action & Adventure, Crimen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/eScKMsLBXjtbtcOGZEf92a9bisJ.jpg",
+                    "url": "/zorro/",
+                    "title": "Zorro",
+                    "description": "Diego de la Vega es elegido para ser el nuevo Zorro, pero su único propósito es desenmascarar a los asesinos de su padre y llevarlos ante la justicia. A medida que asume el papel de Zorro, Diego no solo lucha por la justicia en Los Ángeles, sino que también descubre los desafíos de ser un héroe y cómo su papel afecta a California en el siglo XIX.",
+                    "genre": "Action & Adventure, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/fuerza-policial-ataque-en-la-india-temporada-1-capitulo-7/",
-                        "name": "T01 - E07 - Episodio 7",
-                        "date_upload": 1705622400000,
-                        "episode_number": 7.0
-                    },
-                    {
-                        "url": "/episode/fuerza-policial-ataque-en-la-india-temporada-1-capitulo-6/",
-                        "name": "T01 - E06 - Episodio 6",
-                        "date_upload": 1705622400000,
-                        "episode_number": 6.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "quality": "Fastream:1040p",
-                        "videoUrl": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s30.fastream.to/hls2/02/00062/bl6ccrdn1us3_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=lgjRNMNTV49eeQ3BXSqHTBA_ueU2THlMVeGVl4F5qmg&s=1705946962&e=43200&f=314872&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
