@@ -3,169 +3,27 @@
         "name": "Animes Órion (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/11375",
-                                "title": ".hack//The Movie: Sekai no Mukou ni",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/7236.jpg?v=1630975712"
-                            },
-                            {
-                                "url": "/anime/11759",
-                                "title": "Accel World",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/1235.jpg?v=1596255550"
-                            },
-                            {
-                                "url": "/anime/13939",
-                                "title": "Accel World EX",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/1236.jpg?v=1596255550"
-                            },
-                            {
-                                "url": "/anime/13859",
-                                "title": "Accel World: Acchel World.",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/7635.jpg?v=1635000965"
-                            },
-                            {
-                                "url": "/anime/31763",
-                                "title": "Accel World: Infinite∞Burst",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/1326.jpg?v=1596255550"
-                            },
-                            {
-                                "url": "/anime/40295",
-                                "title": "Another World",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/14965.jpg?v=1699383651"
-                            },
-                            {
-                                "url": "/anime/15133",
-                                "title": "Aoi Sekai no Chuushin de",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/612.jpg?v=1596255550"
-                            },
-                            {
-                                "url": "/anime/14373",
-                                "title": "Arata naru Sekai: World's/Start/Load/End",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/22909.jpg?v=1662339227"
-                            },
-                            {
-                                "url": "/anime/36882",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/720.jpg?v=1596255550"
-                            },
-                            {
-                                "url": "/anime/40507",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/15079.jpg?v=1642280109"
-                            },
-                            {
-                                "url": "/anime/40083",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou Specials",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/14874.jpg?v=1602734472"
-                            },
-                            {
-                                "url": "/anime/51473",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/42493.jpg?v=1667427451"
-                            },
-                            {
-                                "url": "/anime/50854",
-                                "title": "Benriya Saitou-san, Isekai ni Iku",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/42555.jpg?v=1673324609"
-                            },
-                            {
-                                "url": "/anime/2607",
-                                "title": "Birth",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/3377.jpg?v=1631324501"
-                            },
-                            {
-                                "url": "/anime/44200",
-                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/16737.jpg?v=1648326131"
-                            },
-                            {
-                                "url": "/anime/1614",
-                                "title": "Captain Tsubasa: Road to 2002",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/2550.jpg?v=1682381687"
-                            },
-                            {
-                                "url": "/anime/40960",
-                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/41138.jpg?v=1628036025"
-                            },
-                            {
-                                "url": "/anime/39523",
-                                "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/1096.jpg?v=1596255413"
-                            },
-                            {
-                                "url": "/anime/6351",
-                                "title": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/5398.jpg?v=1700888215"
-                            },
-                            {
-                                "url": "/anime/34497",
-                                "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/11897.jpg?v=1637630229"
-                            },
-                            {
-                                "url": "/anime/2673",
-                                "title": "Doraemon Movie 27: Nobita no Shin Makai Daibouken - 7-nin no Mahoutsukai",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/3441.jpg?v=1701761141"
-                            },
-                            {
-                                "url": "/anime/48549",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/42639.jpg?v=1680839078"
-                            },
-                            {
-                                "url": "/anime/55644",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/42733.jpg?v=1697149201"
-                            },
-                            {
-                                "url": "/anime/895",
-                                "title": "Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu",
-                                "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/1969.jpg?v=1652288778"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/11375",
-                    "title": ".hack//The Movie: Sekai no Mukou ni",
-                    "description": "Títulos alternativos: .hack//Beyond the World, .hack//The Movie セカイの向こうに\n\nEm 2024, a rede de computadores prevalece ao longo da vida cotidiana. Sora Yuuki é uma menina de 14 anos. Um dia, ela é convidada para um jogo online \"O Mundo\". Após um acidente no jogo, o mundo real começa a se deformar.\n",
-                    "genre": "Video Game, Ação, Aventura, Fantasia, Mistério, Ficção Científica, Filme, 2012, Finalizado",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://cdn.animesorion.com/images/anime/medium/j/7236.jpg?v=1630975712",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episodio/31474/legendado",
-                        "name": "Episódio 1",
-                        "episode_number": 1.0,
-                        "scanlator": "Leg"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
                 "passed": false
             }
         }

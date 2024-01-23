@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animeukr/anime-solo/19822-hlopchik-chaplya-yak-pozhivayete.html",
+                                "title": "Хлопчик і чапля / Як поживаєте?",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/ba/afa73a5b40fdc3b1101b9da211a5a8.jpg"
+                            },
+                            {
                                 "url": "/animeukr/anime-series/19588-mene-vygnaly-z-gildii-geroiv-tomu-scho-ia-buv-poganym-kompanionom-tomu-ia-vyrishyv-nespishno-zhyty-v-glushyni-poganyi-soratnyk-dlia-grupy-geroia-obrav-spokiine-zhyttia-v-seli-2-sezon.html",
                                 "title": "Мене вигнали з гільдії героїв, тому що",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/39/ea960009f2abc5dfab2a42d4cf56f3.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/animeukr/anime-series/14639-beibleid-vybuh-5-sezon.html",
                                 "title": "Бейблейд. Вибух. Іскра / Бейблейд.",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/19/680fc6d8cbaae0a360c10e7ca53003.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-solo/19760-dvchina-z-togo-boku.html",
-                                "title": "Дівчина з Того Боку",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/54/6127e0889c676329daa68b56f7c532.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -406,8 +406,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s1.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://s1.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }

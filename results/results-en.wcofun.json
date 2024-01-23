@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hokkaido-gals-are-super-adorable",
+                                "title": "Hokkaido Gals Are Super Adorable!",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933460.jpg"
+                            },
+                            {
                                 "url": "/anime/mush-mush-the-mushables",
                                 "title": "Mush-Mush & the Mushables",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933459.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/the-kings-avatar-english-subbed",
                                 "title": "The Kings Avatar English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933445.jpg"
-                            },
-                            {
-                                "url": "/anime/the-inspector-1965",
-                                "title": "The Inspector 1965",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933444.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,44 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mush-mush-the-mushables",
-                    "title": "Mush-Mush & the Mushables",
-                    "description": "Mush-Mush and his friends are tiny guardians of the forest who go on adventures in a wondrous and wild world of nature.",
-                    "genre": "Adventure, Animation, Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933459.jpg",
+                    "url": "/anime/hokkaido-gals-are-super-adorable",
+                    "title": "Hokkaido Gals Are Super Adorable!",
+                    "description": "High school boy Tsubasa moves to Kitami City up in Hokkaido where he meets a “gal” at a bus stop. The sight of her standing alone against the white snowscape, bare-legged despite the freezing cold, captures his heart.",
+                    "genre": "Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933460.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/hokkaido-gals-are-super-adorable-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrjBJdgNtm42jKGUcxbnQmURry2g0adY_YeoUYU8AJKWJeMZ6eX0L2j9EgCJMzr5Lrquix971lntYlHQPtJNVkifyMtoy0VCjLmHD-6OAMETr1gsJk8_b9zuiAo5bzBz1o0jPjfT7rNRU7nX8Zv4wufNeahCkj6bUU6XoYQKOo2QZ8PmFexVW7-wo5lbz2MEE2HV9Z37S3NtcRTp2qU1ZO6AhrbI1w_vAUitjfoE90gNt0ZkSi-OqDCg4Wlc1Xj898OSRt4L-AwUs9WoZa9BxOwRpHXBPjswRtA3nrho3tua8n3rIxrTGs5NeQhm2dYUXf0TKyxDDvoZHON2rmJ2k8g_eTEL3yCEKD2mEitfhwnKXgCjWD4JY6vEr1qgWkSds_6LItdCK2vtWKyrIfjvVsF3tppbFz5kxvH21eaHwHTQ",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrjBJdgNtm42jKGUcxbnQmURry2g0adY_YeoUYU8AJKWJeMZ6eX0L2j9EgCJMzr5Lrquix971lntYlHQPtJNVkifyMtoy0VCjLmHD-6OAMETr1gsJk8_b9zuiAo5bzBz1o0jPjfT7rNRU7nX8Zv4wufNeahCkj6bUU6XoYQKOo2QZ8PmFexVW7-wo5lbz2MEE2HV9Z37S3NtcRTp2qU1ZO6AhrbI1w_vAUitjfoE90gNt0ZkSi-OqDCg4Wlc1Xj898OSRt4L-AwUs9WoZa9BxOwRpHXBPjswRtA3nrho3tua8n3rIxrTGs5NeQhm2dYUXf0TKyxDDvoZHON2rmJ2k8g_eTEL3yCEKD2mEitfhwnKXgCjWD4JY6vEr1qgWkSds_6LItdCK2vtWKyrIfjvVsF3tppbFz5kxvH21eaHwHTQ"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrjBJdgNtm42jKGUcxbnQmURry2g0adY_YeoUYU8AJKWJeMZ6eX0L2j9EgCJMzr5Lrquix971lntYlHQPtJNVkifyMtoy0VCjLmHD-6OAMETr1gsJk8_b9zuiAo5bzBz1o0jPjfT7rNRU7nX8Zv4wufNeahCkj6bUU6XoYQKOo2QaoNKVAbquEtWpQ2lEXUBhCvg_CfVWmGGIkRcKUhrVvsgsoqXeT_YKrUSt21dr8kcZyq0aAloCj8XNR69aXbTfiNIyauOEOeGhvMPc6pikMDMvCzQUSSkWMZv3QAn8pilt5G9OtX4aaEuknkbO8NwfktwvB7so95NvK_Zxv4Huc1dwTzi2tm6g11azgEFfoHlrguMt3iG3yST5go5_ymy0tD8jYb3-w0PVHcpS7YJ1EDCJxc978BsOXbPr0BqaVeU",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrjBJdgNtm42jKGUcxbnQmURry2g0adY_YeoUYU8AJKWJeMZ6eX0L2j9EgCJMzr5Lrquix971lntYlHQPtJNVkifyMtoy0VCjLmHD-6OAMETr1gsJk8_b9zuiAo5bzBz1o0jPjfT7rNRU7nX8Zv4wufNeahCkj6bUU6XoYQKOo2QaoNKVAbquEtWpQ2lEXUBhCvg_CfVWmGGIkRcKUhrVvsgsoqXeT_YKrUSt21dr8kcZyq0aAloCj8XNR69aXbTfiNIyauOEOeGhvMPc6pikMDMvCzQUSSkWMZv3QAn8pilt5G9OtX4aaEuknkbO8NwfktwvB7so95NvK_Zxv4Huc1dwTzi2tm6g11azgEFfoHlrguMt3iG3yST5go5_ymy0tD8jYb3-w0PVHcpS7YJ1EDCJxc978BsOXbPr0BqaVeU"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrjBJdgNtm42jKGUcxbnQmURry2g0adY_YeoUYU8AJKWJeMZ6eX0L2j9EgCJMzr5Lrquix971lntYlHQPtJNVkifyMtoy0VCjLmHD-6OAMETr1gsJk8_b9zuiAo5bzBz1o0jPjfT7rNRU7nX8Zv4wufNeahCkj6bUU6XoYQKOo2QBzWyW5iJ7Ne5cgSbfEibl4nSgL7hl0s1_BrgtHa5KUYtnKOFSDeB1ZerXZuvzeUwTtC8GF_LqJO14sCqcp85yiIpmdgVdwDN7OLhb6rxdQYLiXFmAw_rv6kIPWBOf3TMKD2WfYQQ9dW8yub7-hUXdb87QGS0Gx-TJZ_H--QO9BvQj73Q6fKOzcVwRFyc-b9i47WpBxGgsvPGtVXQxoEmwGnDF9FbAQX1y0QVX95G028",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJrjBJdgNtm42jKGUcxbnQmURry2g0adY_YeoUYU8AJKWJeMZ6eX0L2j9EgCJMzr5Lrquix971lntYlHQPtJNVkifyMtoy0VCjLmHD-6OAMETr1gsJk8_b9zuiAo5bzBz1o0jPjfT7rNRU7nX8Zv4wufNeahCkj6bUU6XoYQKOo2QBzWyW5iJ7Ne5cgSbfEibl4nSgL7hl0s1_BrgtHa5KUYtnKOFSDeB1ZerXZuvzeUwTtC8GF_LqJO14sCqcp85yiIpmdgVdwDN7OLhb6rxdQYLiXFmAw_rv6kIPWBOf3TMKD2WfYQQ9dW8yub7-hUXdb87QGS0Gx-TJZ_H--QO9BvQj73Q6fKOzcVwRFyc-b9i47WpBxGgsvPGtVXQxoEmwGnDF9FbAQX1y0QVX95G028"
+                    }
+                ],
+                "passed": true
             }
         }
     }
