@@ -213,8 +213,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://chet0.huih34.workers.dev/6631c00391cb98e91e8ebd16ff43512b/driveleech.org/AnimeflixTsukigaMichibikuIsekaiDouchuu2ndSeason031080pHEVC.mp4",
+                        "quality": "1080p - CF 1 Worker 1 -  151.5MB ",
+                        "videoUrl": "https://chet0.huih34.workers.dev/6631c00391cb98e91e8ebd16ff43512b/driveleech.org/AnimeflixTsukigaMichibikuIsekaiDouchuu2ndSeason031080pHEVC.mp4"
+                    }
+                ],
+                "passed": true
             }
         }
     }
