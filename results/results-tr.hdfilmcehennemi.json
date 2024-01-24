@@ -271,31 +271,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rocketa-ofpersa.vmeas.cloud/hls/xqx2ivxoirokjiqbtfjcpjio43agmnyrsigztacfe5ow5lsonzy4mwl3ajfq/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 720p",
-                        "videoUrl": "https://rocketa-ofpersa.vmeas.cloud/hls/xqx2ivxoirokjiqbtfjcpjio43agmnyrsigztacfe5ow5lsonzy4mwl3ajfq/index-v1-a1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-lz7nd5633vp6.html"
-                        }
-                    },
-                    {
-                        "url": "https://box-755.transitto.online/hls/xqx2optnp5okjiqbtg6splawujjkohhfwtvzvyluyk2ao2kxktc4lqswehxq/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 900p",
-                        "videoUrl": "https://box-755.transitto.online/hls/xqx2optnp5okjiqbtg6splawujjkohhfwtvzvyluyk2ao2kxktc4lqswehxq/index-v1-a1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-ebshlluozd1v.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

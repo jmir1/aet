@@ -3,27 +3,27 @@
         "name": "Animes Aria (PT-BR)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "error": "java.net.UnknownHostException: animesaria.com: No address associated with hostname",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "error": "java.net.UnknownHostException: animesaria.com",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "error": "java.net.UnknownHostException: animesaria.com",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "error": "java.net.UnknownHostException: animesaria.com",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "error": "java.net.UnknownHostException: animesaria.com",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLHandshakeException: PKIX path validation failed: java.security.cert.CertPathValidatorException: validity check failed",
+                "error": "java.net.UnknownHostException: animesaria.com",
                 "passed": false
             }
         }

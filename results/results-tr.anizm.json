@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/ishura",
+                                "title": "Ishura",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862.webp"
+                            },
+                            {
                                 "url": "/bucchigiri",
                                 "title": "Bucchigiri?!",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181210001705439101.webp"
@@ -72,11 +77,6 @@
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181110001704831302.webp"
                             },
                             {
-                                "url": "/ishura",
-                                "title": "Ishura",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862.webp"
-                            },
-                            {
                                 "url": "/chiyu-mahou-no-machigatta-tsukaikata",
                                 "title": "Chiyu Mahou no Machigatta Tsukaikata",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181030001704554101.webp"
@@ -96,6 +96,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pokemon-2019",
+                                "title": "Pokemon (2019)",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/16994.webp"
+                            },
+                            {
+                                "url": "/ishura",
+                                "title": "Ishura",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862.webp"
+                            },
                             {
                                 "url": "/akuyaku-reijou-nanode-last-boss-wo-kattemimashita-12-bolum-final",
                                 "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
@@ -175,16 +185,6 @@
                                 "url": "/yubisaki-to-renren",
                                 "title": "Yubisaki to Renren",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181040001704571622.webp"
-                            },
-                            {
-                                "url": "/one-piece",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/3.webp"
-                            },
-                            {
-                                "url": "/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
-                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180990001704326942.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -354,12 +354,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/bucchigiri",
-                    "title": "Bucchigiri?!",
-                    "artist": "MAPPA",
-                    "description": "Arajin Tomoshibi, eski arkadaşı olan Matakara Asamine ile yeniden karşılaşır fakat güçlüler arasında olan bir savaşın ortasında kalır. Bu sırada devasa bir iblis belirir?!\nDiğer adlar: \nJaponca İsmi: ぶっちぎり⁈\nStüdyo: MAPPA",
-                    "genre": "Fantastik",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/181210001705439101l.webp",
+                    "url": "/ishura",
+                    "title": "Ishura",
+                    "artist": "Passione",
+                    "description": "İblis Kral'ın öldüğü bir dünyada, onu alt edebilecek bir dizi yarı tanrı dünyaya miras kalmıştır. Tek bir bakışla rakiplerini nasıl alt edeceklerini bulabilen usta bir eskrimci; ses duvarını aşabilecek kadar hızlı bir mızrakçı; aynı anda üç efsanevi silahla savaşan bir wyvern haydutu; düşünceleri varlığa dönüştürebilen çok güçlü bir büyücü; anında ölüm dağıtan meleksi bir suikastçı. \"Gerçek Kahraman\" unvanını elde etmeye hevesli bu şampiyonların her biri zorlu düşmanlara karşı mücadeleler veriyor ve kendi aralarında çatışmalara yol açıyor. Kudretlilerin en kudretlisini belirlemek için savaş başlıyor.\nDiğer adlar: \nJaponca İsmi: 異修羅\nStüdyo: Passione",
+                    "genre": "Aksiyon, Macera, Fantastik",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -367,14 +367,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/bucchigiri-2-bolum",
-                        "name": "2. Bölüm",
-                        "episode_number": 2.0
+                        "url": "/ishura-4-bolum",
+                        "name": "4. Bölüm",
+                        "episode_number": 4.0
                     },
                     {
-                        "url": "/bucchigiri-1-bolum",
-                        "name": "1. Bölüm",
-                        "episode_number": 1.0
+                        "url": "/ishura-3-bolum",
+                        "name": "3. Bölüm",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
@@ -382,87 +382,92 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/bsfcpefbryzx",
-                        "quality": "[Anizm Çeviri Ekibi] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/10344/bsfcpefbryzx_,n,.urlset/master.m3u8?t=OJejQa0FCnypEDESISc7mrK7_tfZOgzgo_BWp52KS68&s=1706098712&e=14400&f=51724133&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.75&sp=2500&asn=8075"
+                        "url": "https://voe.sx/e/sccoutohphgf",
+                        "quality": "[Net-Rip] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-bnepu613xxdnwxyr.voe-network.net/engine/hls2/01/10352/sccoutohphgf_,n,.urlset/master.m3u8?t=ZxzezcrhmJ8b88kgN8E6ZsDG22LvioI_svdYikjzgWI&s=1706120202&e=14400&f=51761013&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=20.97&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=xBLY392bvEVyHqgGUzE46AdRCa7dYb0XbUP18%2FYPIxOhq%2F2h4jZnVv08TfnM%2BMyFHuEz%2BYZBusXyR%2BqC%2FHzREonSaa%2Freo9AnIZ4HS%2Fy0I%2BZYFglTvA4D8fvYGbiF4kr%2Bpyrpyx8nZ9FNs2GYA9fqT20Wz1pBvbsp74kbJoa5ouwrhTVqgwwNT0vqEsVhbpJ0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
-                        "quality": "[Anizm Çeviri Ekibi] GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=xBLY392bvEVyHqgGUzE46AdRCa7dYb0XbUP18%2FYPIxOhq%2F2h4jZnVv08TfnM%2BMyFHuEz%2BYZBusXyR%2BqC%2FHzREonSaa%2Freo9AnIZ4HS%2Fy0I%2BZYFglTvA4D8fvYGbiF4kr%2Bpyrpyx8nZ9FNs2GYA9fqT20Wz1pBvbsp74kbJoa5ouwrhTVqgwwNT0vqEsVhbpJ0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
+                        "url": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=3&sig=zJzxYEqY8ks&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731",
+                        "quality": "[Net-Rip] Okru:720p",
+                        "videoUrl": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=3&sig=zJzxYEqY8ks&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731"
                     },
                     {
-                        "url": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=3&sig=xsUFYqgt8Qg&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955",
-                        "quality": "[Anizm Çeviri Ekibi] Okru:720p",
-                        "videoUrl": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=3&sig=xsUFYqgt8Qg&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/eWphVVRWcTA0MUJ1Rmt3Qk10NklXSC9nWWhsRlg5WWFIV29tOVROYnJraVZIcTA0Y2JZRlBZVDkvRlp4NXovY1BQNUt5cDBKZU5kVTFtSkx3TTFqekdFb3p6Mnh3V1ZQZU5ZZ1U4SVEzNzZKM2QyL1M3Vks4V2pMZVJhSG1FZ2JuU3o1Rk8rZUJ3Smp1MkEyQkNPMnI3Z0VNOWFuN3NBTGk5dzB1MFhabUJzNHNxVmx4bWxVMDJjdHFZNnpxaHJDVFoxN0IxMnRnRzEvRGVzTHQ1VWg2TGhiTDNjNzdISE55N21ack40M09hTDhEY2pGMEtZYnRlcmN3SGdla0E3RlFFN1A4VkJhNHRhOUNTV3JPNDBScWhrZSsrcW9VTWhOdUlpdHpYTmZjWUE9",
-                        "quality": "[Anizm Çeviri Ekibi] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/eWphVVRWcTA0MUJ1Rmt3Qk10NklXSC9nWWhsRlg5WWFIV29tOVROYnJraVZIcTA0Y2JZRlBZVDkvRlp4NXovY1BQNUt5cDBKZU5kVTFtSkx3TTFqekdFb3p6Mnh3V1ZQZU5ZZ1U4SVEzNzZKM2QyL1M3Vks4V2pMZVJhSG1FZ2JuU3o1Rk8rZUJ3Smp1MkEyQkNPMnI3Z0VNOWFuN3NBTGk5dzB1MFhabUJzNHNxVmx4bWxVMDJjdHFZNnpxaHJDVFoxN0IxMnRnRzEvRGVzTHQ1VWg2TGhiTDNjNzdISE55N21ack40M09hTDhEY2pGMEtZYnRlcmN3SGdla0E3RlFFN1A4VkJhNHRhOUNTV3JPNDBScWhrZSsrcW9VTWhOdUlpdHpYTmZjWUE9",
+                        "url": "https://anizmplayer.com/hls/b2J0K1Z0aTVPRjIrdUpwRitqcktiT2F2ZWdDenU0UnVyYmFnMk9wTjNlN2kzU1djQ2ZqY1J5Wm5vNnA4SVJIRkpidDQzWlhna0x4YzgzU3BHZ1NpSG05WjJCS2pKcFZBRCs3R0xQcmhvZkIzL0ZWaU9sek1NemdPU2FZZ2FiQ05tcUpKWmRwMXZkZThLWFVhRlpaSWdTQU9JT0JDb2piT1pRWTBrWHVHRHhjM0ROTWM3TjJyckMxMUxRZWVDaTUrYXNETGRlMTNiZUw3NmMvdjNmNVBUVklMT2FqbTg3cU52SkpyTThWQXh4eWM3elFvTngxenZOL1JYaCthYmhiQ0VPWUFVOFE1SlVrU1ZaYjZwa2UrMlR4cGdqNy9hK1RyOWFlL1Qya1gzRG89",
+                        "quality": "[Net-Rip] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/b2J0K1Z0aTVPRjIrdUpwRitqcktiT2F2ZWdDenU0UnVyYmFnMk9wTjNlN2kzU1djQ2ZqY1J5Wm5vNnA4SVJIRkpidDQzWlhna0x4YzgzU3BHZ1NpSG05WjJCS2pKcFZBRCs3R0xQcmhvZkIzL0ZWaU9sek1NemdPU2FZZ2FiQ05tcUpKWmRwMXZkZThLWFVhRlpaSWdTQU9JT0JDb2piT1pRWTBrWHVHRHhjM0ROTWM3TjJyckMxMUxRZWVDaTUrYXNETGRlMTNiZUw3NmMvdjNmNVBUVklMT2FqbTg3cU52SkpyTThWQXh4eWM3elFvTngxenZOL1JYaCthYmhiQ0VPWUFVOFE1SlVrU1ZaYjZwa2UrMlR4cGdqNy9hK1RyOWFlL1Qya1gzRG89",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/2850d3b69679c93faf8a00aa3cd7b734"
+                            "Referer": "https://anizmplayer.com/video/9fa0ab30541e79ee95552142c3560a2e"
                         }
                     },
                     {
-                        "url": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=5&sig=qMVzJ-ilC6M&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955",
-                        "quality": "[Anizm Çeviri Ekibi] Okru:1080p",
-                        "videoUrl": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=5&sig=qMVzJ-ilC6M&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955"
+                        "url": "https://www4.mp4upload.com:183/d/rcxtcrh4z3b4quuor6qugpkyjim4cirfoc2yxezupmemyukyuz3serfomhuiqxou2no5avhn/video.mp4",
+                        "quality": "[Net-Rip] Mp4Upload - 1080p",
+                        "videoUrl": "https://www4.mp4upload.com:183/d/rcxtcrh4z3b4quuor6qugpkyjim4cirfoc2yxezupmemyukyuz3serfomhuiqxou2no5avhn/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Origin": "https://anizm.net",
+                            "referer": "https://mp4upload.com/"
+                        }
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/eWphVVRWcTA0MUJ1Rmt3Qk10NklXSC9nWWhsRlg5WWFIV29tOVROYnJraVZIcTA0Y2JZRlBZVDkvRlp4NXovY2wzeVlsdDFoU3NUWEZrOFFlWUlseUlUOTFXSXhOQTZiQVcyc1VmcDhOMmJ0Y2UvSy9QcEpaNFNGQ1NHek9SQXNYdW9PemxxaTExUDdxM0lGZGF4QjVZZkpxcGptWDBaN1VSYVRCeWpHS2hvdlA1S2toam9jSUZjRnJoU2F1QjMzNmlhYlEyOU9GeDl6eUlwNldPOXMzM0lNb2pzakppcnlUMFBpTkdIZnhMOGVRVlJBZ3FsQ2ZQb1dmNjVuUU1pN2Ezb0h6OVlRMDViREthSm5ST1Nza3hUTGZEMXZjdWNBZkQ1RjFuQ2tVUGsvNTlxd3pEK004dGlPd2lMN25pTHg%3D",
-                        "quality": "[Anizm Çeviri Ekibi] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/eWphVVRWcTA0MUJ1Rmt3Qk10NklXSC9nWWhsRlg5WWFIV29tOVROYnJraVZIcTA0Y2JZRlBZVDkvRlp4NXovY2wzeVlsdDFoU3NUWEZrOFFlWUlseUlUOTFXSXhOQTZiQVcyc1VmcDhOMmJ0Y2UvSy9QcEpaNFNGQ1NHek9SQXNYdW9PemxxaTExUDdxM0lGZGF4QjVZZkpxcGptWDBaN1VSYVRCeWpHS2hvdlA1S2toam9jSUZjRnJoU2F1QjMzNmlhYlEyOU9GeDl6eUlwNldPOXMzM0lNb2pzakppcnlUMFBpTkdIZnhMOGVRVlJBZ3FsQ2ZQb1dmNjVuUU1pN2Ezb0h6OVlRMDViREthSm5ST1Nza3hUTGZEMXZjdWNBZkQ1RjFuQ2tVUGsvNTlxd3pEK004dGlPd2lMN25pTHg%3D",
+                        "url": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=5&sig=0rM_78Grvv4&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731",
+                        "quality": "[Net-Rip] Okru:1080p",
+                        "videoUrl": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=5&sig=0rM_78Grvv4&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/b2J0K1Z0aTVPRjIrdUpwRitqcktiT2F2ZWdDenU0UnVyYmFnMk9wTjNlN2kzU1djQ2ZqY1J5Wm5vNnA4SVJIRithVS9MNHYram94b2NhN0t3R1NlMnZjdERpWmdSNndSVWlUK3NSdUh2cGxVZDFBUndBTm4yMEkxR1luNVViajlDYWVrb1htc2l5eTJSNDcxdmFxWTJBZnBwbWprZEtaZGRvM3hGRDhkTHF6cEgzWmREbGFEVzZ2UHB5M3crQXZ2T0tyb3dBeGhNc3YwVmtYTGFUeXd0RVZ1VDA4QUNHL3dhU1hpd3BUY0R5eWtDOHUwVDBxcGI4eGVmc21id3BkZUNQQXYySTh5aE9nZklXa3JKNktoNnlwQjhSOEliOGM1eTJ1YmJKUmRsYjBYZktiQ0dXN09Lc1RSS2ZYV1p6S0I%3D",
+                        "quality": "[Net-Rip] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/b2J0K1Z0aTVPRjIrdUpwRitqcktiT2F2ZWdDenU0UnVyYmFnMk9wTjNlN2kzU1djQ2ZqY1J5Wm5vNnA4SVJIRithVS9MNHYram94b2NhN0t3R1NlMnZjdERpWmdSNndSVWlUK3NSdUh2cGxVZDFBUndBTm4yMEkxR1luNVViajlDYWVrb1htc2l5eTJSNDcxdmFxWTJBZnBwbWprZEtaZGRvM3hGRDhkTHF6cEgzWmREbGFEVzZ2UHB5M3crQXZ2T0tyb3dBeGhNc3YwVmtYTGFUeXd0RVZ1VDA4QUNHL3dhU1hpd3BUY0R5eWtDOHUwVDBxcGI4eGVmc21id3BkZUNQQXYySTh5aE9nZklXa3JKNktoNnlwQjhSOEliOGM1eTJ1YmJKUmRsYjBYZktiQ0dXN09Lc1RSS2ZYV1p6S0I%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/2850d3b69679c93faf8a00aa3cd7b734"
+                            "Referer": "https://anizmplayer.com/video/9fa0ab30541e79ee95552142c3560a2e"
                         }
                     },
                     {
-                        "url": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=2&sig=R9dZc_2ysX0&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955",
-                        "quality": "[Anizm Çeviri Ekibi] Okru:480p",
-                        "videoUrl": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=2&sig=R9dZc_2ysX0&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955"
+                        "url": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=2&sig=6rVGapH1OCU&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731",
+                        "quality": "[Net-Rip] Okru:480p",
+                        "videoUrl": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=2&sig=6rVGapH1OCU&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/eWphVVRWcTA0MUJ1Rmt3Qk10NklXSC9nWWhsRlg5WWFIV29tOVROYnJraVZIcTA0Y2JZRlBZVDkvRlp4NXovY1pMeU8wa0Zuc0lHemYrT3VmS0RJSTNrOFZLZFY1RUhzWXJKRko1Zlc1UHowZVJEQmVwNFZUUVVHTEkwblVmWWlabFVpajJIM3BtQnVYYnl6UVhLVVFMTzQ3RmtXK3NCQW00bVZRenpIZXhQdHBLdlR1bTlOMW5PK1RueHhKMFphb0tjazladHVXcDAzdG5UR2dwYUJGSGlnaFJ0SHd4TXRPV2FMcnFGNUxnTDNCcksxTG1BSDVQMFJLL3JyWFRYT1JyOUdINmtFd2hqRWhqWitNUE10TE1IZnJFZE5MWEdGRGN6dlpLRmtJSE09",
-                        "quality": "[Anizm Çeviri Ekibi] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/eWphVVRWcTA0MUJ1Rmt3Qk10NklXSC9nWWhsRlg5WWFIV29tOVROYnJraVZIcTA0Y2JZRlBZVDkvRlp4NXovY1pMeU8wa0Zuc0lHemYrT3VmS0RJSTNrOFZLZFY1RUhzWXJKRko1Zlc1UHowZVJEQmVwNFZUUVVHTEkwblVmWWlabFVpajJIM3BtQnVYYnl6UVhLVVFMTzQ3RmtXK3NCQW00bVZRenpIZXhQdHBLdlR1bTlOMW5PK1RueHhKMFphb0tjazladHVXcDAzdG5UR2dwYUJGSGlnaFJ0SHd4TXRPV2FMcnFGNUxnTDNCcksxTG1BSDVQMFJLL3JyWFRYT1JyOUdINmtFd2hqRWhqWitNUE10TE1IZnJFZE5MWEdGRGN6dlpLRmtJSE09",
+                        "url": "https://anizmplayer.com/hls/b2J0K1Z0aTVPRjIrdUpwRitqcktiT2F2ZWdDenU0UnVyYmFnMk9wTjNlN2kzU1djQ2ZqY1J5Wm5vNnA4SVJIRnlVOExTU2NWbDg1aFAyY2xJVGlrakJWT3psRTlzTUFoaDduYzE4RkpjWitqSVE3dHVNZ2tLZ0lWRmxlenVrMnJEdlZVQVFveGpvNHBvUElUUDNpcko3OGV5Vm9YUHYyWVg1dlR1L2dKR0NTRlhodUJXQjRUVFBHNDIxVndvTUhvQWM2NkFBOXViaUx3WEp5ZFo4am5RSUpEaVlwcXhnODNTNFpUMWhQWGlhMDJQUkRKbWNtUSsvMzhKN1ZFS05rUU5Fc3JFNUlVaXBFSnd6anV3bjE3MGd4cFZFL1RqY3FQUUgzQ1R0NWNlcjA9",
+                        "quality": "[Net-Rip] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/b2J0K1Z0aTVPRjIrdUpwRitqcktiT2F2ZWdDenU0UnVyYmFnMk9wTjNlN2kzU1djQ2ZqY1J5Wm5vNnA4SVJIRnlVOExTU2NWbDg1aFAyY2xJVGlrakJWT3psRTlzTUFoaDduYzE4RkpjWitqSVE3dHVNZ2tLZ0lWRmxlenVrMnJEdlZVQVFveGpvNHBvUElUUDNpcko3OGV5Vm9YUHYyWVg1dlR1L2dKR0NTRlhodUJXQjRUVFBHNDIxVndvTUhvQWM2NkFBOXViaUx3WEp5ZFo4am5RSUpEaVlwcXhnODNTNFpUMWhQWGlhMDJQUkRKbWNtUSsvMzhKN1ZFS05rUU5Fc3JFNUlVaXBFSnd6anV3bjE3MGd4cFZFL1RqY3FQUUgzQ1R0NWNlcjA9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/2850d3b69679c93faf8a00aa3cd7b734"
+                            "Referer": "https://anizmplayer.com/video/9fa0ab30541e79ee95552142c3560a2e"
                         }
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=xBLY392bvEVyHqgGUzE46AdRCa7dYb0XbUP18%2FYPIxOhq%2F2h4jZnVv08TfnM%2BMyFHuEz%2BYZBusXyR%2BqC%2FHzREonSaa%2Freo9AnIZ4HS%2Fy0I%2BZYFglTvA4D8fvYGbiF4kr%2Bpyrpyx8nZ9FNs2GYA9fqT20Wz1pBvbsp74kbJoa5ouwrhTVqgwwNT0vqEsVhbpJ0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Anizm Çeviri Ekibi] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=xBLY392bvEVyHqgGUzE46AdRCa7dYb0XbUP18%2FYPIxOhq%2F2h4jZnVv08TfnM%2BMyFHuEz%2BYZBusXyR%2BqC%2FHzREonSaa%2Freo9AnIZ4HS%2Fy0I%2BZYFglTvA4D8fvYGbiF4kr%2Bpyrpyx8nZ9FNs2GYA9fqT20Wz1pBvbsp74kbJoa5ouwrhTVqgwwNT0vqEsVhbpJ0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=Do86%2FOQzIXJDW1iQv5Rv0QeL2pHqkYgQxp4%2FDUUV5twruPf9%2B6yusgd6q5%2FPB7pGkrcqUvWW2E3YbNj82B%2Fm5H6cihNA4gNtPeJluNdMaymqNTqMb%2FisLJMGT1fiKxUR9c%2F5kI%2BNgOQxG9Vvhn5sWXjsGcyssmcCPxshp8GuskVXHQRvsm3L6VZs%2Bl4dbjEN0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Net-Rip] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=Do86%2FOQzIXJDW1iQv5Rv0QeL2pHqkYgQxp4%2FDUUV5twruPf9%2B6yusgd6q5%2FPB7pGkrcqUvWW2E3YbNj82B%2Fm5H6cihNA4gNtPeJluNdMaymqNTqMb%2FisLJMGT1fiKxUR9c%2F5kI%2BNgOQxG9Vvhn5sWXjsGcyssmcCPxshp8GuskVXHQRvsm3L6VZs%2Bl4dbjEN0%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
                     },
                     {
-                        "url": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=1&sig=I2Era4zAYWY&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955",
-                        "quality": "[Anizm Çeviri Ekibi] Okru:360p",
-                        "videoUrl": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=1&sig=I2Era4zAYWY&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955"
+                        "url": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=1&sig=MloOhbjE1Gw&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731",
+                        "quality": "[Net-Rip] Okru:360p",
+                        "videoUrl": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=1&sig=MloOhbjE1Gw&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731"
                     },
                     {
-                        "url": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=0&sig=_uWjNYDAcYw&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955",
-                        "quality": "[Anizm Çeviri Ekibi] Okru:240p",
-                        "videoUrl": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=0&sig=_uWjNYDAcYw&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955"
+                        "url": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=0&sig=tg5QGDzklYg&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731",
+                        "quality": "[Net-Rip] Okru:240p",
+                        "videoUrl": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=0&sig=tg5QGDzklYg&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731"
                     },
                     {
-                        "url": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=4&sig=49NAEeKGjpY&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955",
-                        "quality": "[Anizm Çeviri Ekibi] Okru:144p",
-                        "videoUrl": "https://vd457.mycdn.me/?expires=1706185114713&srcIp=20.75.95.104&pr=10&srcAg=GECKO&ms=45.136.20.74&type=4&sig=49NAEeKGjpY&ct=0&urls=185.226.52.73&clientType=0&zs=43&id=6149259659955"
+                        "url": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=4&sig=yuF766O4t4U&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731",
+                        "quality": "[Net-Rip] Okru:144p",
+                        "videoUrl": "https://vd356.mycdn.me/?expires=1706206604576&srcIp=20.97.191.129&pr=10&srcAg=GECKO&ms=45.136.21.71&type=4&sig=yuF766O4t4U&ct=0&urls=185.226.53.38&clientType=0&zs=43&id=6154680535731"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20240124hJ7CWS7cJ2M/video.mp4",
-                        "quality": "[Anizm Çeviri Ekibi] YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240124hJ7CWS7cJ2M/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240124YXnDsGqx012/video.mp4",
+                        "quality": "[Net-Rip] YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240124YXnDsGqx012/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Origin": "https://anizm.net",
@@ -471,19 +476,19 @@
                         }
                     },
                     {
-                        "url": "https://m130.uqload.io/3rfk4wewsbw2q4drdjipv5vwlv3f6xvaoeqolmrsayxrc5m4ycledywzyeiq/v.mp4",
-                        "quality": "[Anizm Çeviri Ekibi] Uqload",
-                        "videoUrl": "https://m130.uqload.io/3rfk4wewsbw2q4drdjipv5vwlv3f6xvaoeqolmrsayxrc5m4ycledywzyeiq/v.mp4",
+                        "url": "https://m20.uqload.io/3rfkmhedsbw2q4drdji7v4nvkmulnqs3khlyphp3vj3q6qrkxtogokbngayq/v.mp4",
+                        "quality": "[Net-Rip] Uqload",
+                        "videoUrl": "https://m20.uqload.io/3rfkmhedsbw2q4drdji7v4nvkmulnqs3khlyphp3vj3q6qrkxtogokbngayq/v.mp4",
                         "headers": {
                             "Referer": "https://uqload.co/"
                         }
                     },
                     {
-                        "url": "https://video.sibnet.ru/v/2ee0d7646d6c4e2f0cc184110782130f/5409657.mp4",
-                        "quality": "[Anizm Çeviri Ekibi] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/2ee0d7646d6c4e2f0cc184110782130f/5409657.mp4",
+                        "url": "https://video.sibnet.ru/v/5b4ddd45d167f4c30b5e60064fc22055/5411071.mp4",
+                        "quality": "[Net-Rip] Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/5b4ddd45d167f4c30b5e60064fc22055/5411071.mp4",
                         "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5409657"
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5411071"
                         }
                     }
                 ],
