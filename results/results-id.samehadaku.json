@@ -3,7 +3,7 @@
         "name": "Samehadaku (ID)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
@@ -11,126 +11,20 @@
                 "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/dr-stone-season-3-dr-stone-new-world/",
-                                "title": "Dr Stone Season 3 (Dr. STONE NEW WORLD)",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2023/04/Dr-Stone-Season-3-Cover.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-hero-academia-the-movie-3-world-heroes-mission/",
-                                "title": "Boku no Hero Academia the Movie 3: World Heroes Mission",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2022/02/115605.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-3rd-season/",
-                                "title": "World Trigger 3rd Season",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2021/10/117474l.jpg"
-                            },
-                            {
-                                "url": "/anime/world-trigger-2nd-season/",
-                                "title": "World Trigger 2nd Season",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2021/01/110462.jpg"
-                            },
-                            {
-                                "url": "/anime/sword-art-online-alicization-war-of-underworld/",
-                                "title": "Sword Art Online: Alicization – War of Underworld",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2020/04/sou.jpg"
-                            },
-                            {
-                                "url": "/anime/dr-stone-season-3-part-2/",
-                                "title": "Dr Stone Season 3 Part 2",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2023/10/Dr.-Stone-Season-3-Part-2-Cover.jpg"
-                            },
-                            {
-                                "url": "/anime/kono-subarashii-sekai-ni-bakuen-wo/",
-                                "title": "Kono Subarashii Sekai ni Bakuen wo!",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2023/04/Kono-Subarashii-Sekai-ni-Bakuen-wo-Cover.jpg"
-                            },
-                            {
-                                "url": "/anime/boku-no-hero-academia-season-6/",
-                                "title": "Boku no Hero Academia Season 6",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2022/10/126005l.jpg"
-                            },
-                            {
-                                "url": "/anime/naruto-shippuden/",
-                                "title": "Naruto: Shippuuden",
-                                "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2020/05/17407.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/dr-stone-season-3-dr-stone-new-world/",
-                    "title": "Dr Stone Season 3 (Dr. STONE NEW WORLD)",
-                    "author": "TMS Entertainment",
-                    "description": "Season ketiga dari Anime Dr Stone, Dr. STONE: NEW WORLD.",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://samehadaku.guru/wp-content/uploads/2023/04/Dr-Stone-Season-3-Cover.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/dr-stone-season-3-episode-11/",
-                        "name": "Dr Stone Season 3 Episode 11 [END]",
-                        "date_upload": 1686787200000,
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/dr-stone-season-3-episode-10/",
-                        "name": "Dr Stone Season 3 Episode 10",
-                        "date_upload": 1686182400000,
-                        "episode_number": 10.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s1.krakenfiles.com/video/uploads/15-06-2023/UPXpGLme6E/file.mp4?md5=RkGKxiK8fG8QYNCYDYf00g&expires=1706070903",
-                        "quality": "Krakenfiles 720p",
-                        "videoUrl": "https://s1.krakenfiles.com/video/uploads/15-06-2023/UPXpGLme6E/file.mp4?md5=RkGKxiK8fG8QYNCYDYf00g&expires=1706070903",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
-                        }
-                    },
-                    {
-                        "url": "https://rr3---sn-vgqsrnsy.googlevideo.com/videoplayback?expire=1706085304&ei=OFuwZde1BMfsir4PvuSv2AE&ip=172.183.79.13&id=4e113189b6d26e66&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=jS&mm=31&mn=sn-vgqsrnsy&ms=au&mv=m&mvi=3&pl=14&susc=bl&eaua=fQMBug3d4lM&mime=video/mp4&vprv=1&dur=1440.310&lmt=1686851291268386&mt=1706056150&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgdlcD0b4RB5MucOz0TTIo8mxGBtAol-YpWetY8fOuWDgCIQDdGq18QW6hDCu7nKMdmGthhXX6bNomBL9d4XJLgsgOjQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIhAKUtEZe3fvsHaJg_AjT-TuG-rQXjHgdqgLBbVuB3exnDAiAj8SDi5qWpMSeZfJ003-9-65FsTm3ENxRmHpXb91Pb6g%3D%3D",
-                        "quality": "Blogspot 480p",
-                        "videoUrl": "https://rr3---sn-vgqsrnsy.googlevideo.com/videoplayback?expire=1706085304&ei=OFuwZde1BMfsir4PvuSv2AE&ip=172.183.79.13&id=4e113189b6d26e66&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=jS&mm=31&mn=sn-vgqsrnsy&ms=au&mv=m&mvi=3&pl=14&susc=bl&eaua=fQMBug3d4lM&mime=video/mp4&vprv=1&dur=1440.310&lmt=1686851291268386&mt=1706056150&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRQIgdlcD0b4RB5MucOz0TTIo8mxGBtAol-YpWetY8fOuWDgCIQDdGq18QW6hDCu7nKMdmGthhXX6bNomBL9d4XJLgsgOjQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AAO5W4owRQIhAKUtEZe3fvsHaJg_AjT-TuG-rQXjHgdqgLBbVuB3exnDAiAj8SDi5qWpMSeZfJ003-9-65FsTm3ENxRmHpXb91Pb6g%3D%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
-                        }
-                    },
-                    {
-                        "url": "https://s10.krakenfiles.com/video/uploads/15-06-2023/Kf4ZaYMT1t/file.mp4?md5=TjxNLGnad5Po6FXCivoTnQ&expires=1706070903",
-                        "quality": "Krakenfiles 480p",
-                        "videoUrl": "https://s10.krakenfiles.com/video/uploads/15-06-2023/Kf4ZaYMT1t/file.mp4?md5=TjxNLGnad5Po6FXCivoTnQ&expires=1706070903",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
-                        }
-                    },
-                    {
-                        "url": "https://s10.krakenfiles.com/video/uploads/15-06-2023/NbQBDpyh3j/file.mp4?md5=37GnHBE8bkku-KHtvL0ooA&expires=1706070903",
-                        "quality": "Krakenfiles 1080p",
-                        "videoUrl": "https://s10.krakenfiles.com/video/uploads/15-06-2023/NbQBDpyh3j/file.mp4?md5=37GnHBE8bkku-KHtvL0ooA&expires=1706070903",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
