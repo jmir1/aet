@@ -227,6 +227,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/o-zorro",
+                                "title": "O Zorro",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22616.webp"
+                            },
+                            {
+                                "url": "/serie/online/lei-ordem-unidade-de-vitimas-especiais",
+                                "title": "Lei & Ordem: Unidade de Vítimas Especiais",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4828.webp"
+                            },
+                            {
+                                "url": "/serie/online/law-order-organized-crime",
+                                "title": "Law & Order: Organized Crime",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19292.webp"
+                            },
+                            {
+                                "url": "/serie/online/percy-jackson-e-os-olimpianos",
+                                "title": "Percy Jackson e os Olimpianos",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
+                            },
+                            {
                                 "url": "/serie/online/true-detective",
                                 "title": "True Detective",
                                 "status": 1,
@@ -243,12 +267,6 @@
                                 "title": "ted",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22602.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-zorro",
-                                "title": "O Zorro",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22616.webp"
                             },
                             {
                                 "url": "/serie/online/fargo",
@@ -305,12 +323,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22615.webp"
                             },
                             {
-                                "url": "/serie/online/percy-jackson-e-os-olimpianos",
-                                "title": "Percy Jackson e os Olimpianos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
-                            },
-                            {
                                 "url": "/serie/online/historico-criminal",
                                 "title": "Histórico Criminal",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "The Curse",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
-                            },
-                            {
-                                "url": "/serie/online/monsieur-spade",
-                                "title": "Monsieur Spade",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22607.webp"
-                            },
-                            {
-                                "url": "/serie/online/detetive-forst",
-                                "title": "Detetive Forst",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22600.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

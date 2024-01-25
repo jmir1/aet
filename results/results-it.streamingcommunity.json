@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "7545-griselda",
+                                "title": "Griselda",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a400d0be-90a3-4404-a1b7-a5f11b9f2108.webp"
+                            },
+                            {
+                                "url": "6819-povere-creature",
+                                "title": "Povere creature!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/10dbc302-7cd2-4dd1-a965-d98e47887940.webp"
+                            },
+                            {
                                 "url": "7604-la-societa-della-neve-chi-eravamo-sulle-montagne",
                                 "title": "La società della neve: chi eravamo sulle montagne?",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/15bc35c2-d4f0-49db-94ff-07709ce1616d.webp"
@@ -295,16 +305,6 @@
                                 "url": "7076-galline-in-fuga-lalba-dei-nugget",
                                 "title": "Galline in fuga - L'alba dei nugget",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/da31a568-0014-48e7-95ea-53e9b84a95ef.webp"
-                            },
-                            {
-                                "url": "7024-diario-di-una-schiappa-a-natale-si-salvi-chi-puo",
-                                "title": "Diario di una schiappa a Natale - Si salvi chi può!",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/92b3dab0-a0e6-459a-a536-df2d1d37e484.webp"
-                            },
-                            {
-                                "url": "7016-un-piccolo-batman-per-un-grande-bat-natale",
-                                "title": "Un piccolo Batman per un grande Bat-Natale",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/1c7bb471-b023-45ea-9f64-0b3cf05117b0.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,27 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "7604-la-societa-della-neve-chi-eravamo-sulle-montagne",
-                    "description": "Un'analisi approfondita del processo creativo dietro a \"La società della neve\", con il cast, la troupe, il regista J.A. Bayona e persino i sopravvissuti reali.",
-                    "genre": "Documentario",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7545-griselda",
+                    "description": "Dopo essere scappata da Medellín a Miami con i tre figli piccoli e un chilo di cocaina, Griselda Blanco diventa la spietata capa di un prospero impero della droga.",
+                    "genre": "Dramma, Crime",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "7604",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }
