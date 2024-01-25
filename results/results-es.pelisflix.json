@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-valle-de-la-esperanza/",
+                                "title": "El valle de la esperanza",
+                                "description": "Líbano, verano de 1958. Tres hermanas pertenecientes a la buena sociedad cristiana están de vacaci...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0zHOBmxt48J5Ivfzrksf8zqIO0g77r1YQzCiLZBGYbB.webp"
+                            },
+                            {
                                 "url": "/pelicula/aquaman-y-el-reino-perdido-zigw/",
                                 "title": "Aquaman y el reino perdido",
                                 "description": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de v...",
@@ -79,7 +85,7 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/MDsGMpBi9C0Q4kws4yZqc.webp"
                             },
                             {
-                                "url": "/pelicula/ferrari/",
+                                "url": "/pelicula/ferrari-zgmw/",
                                 "title": "Ferrari",
                                 "description": "Verano de 1957. El ex piloto de carreras, Ferrari, está en crisis. La bancarrota acecha a la empres...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/D0HxxuMylRgLnVBQ.webp"
@@ -239,12 +245,6 @@
                                 "title": "Stolen in Her Sleep",
                                 "description": "La nueva mamá Hallie está dedicada a su bebé, a quien le trasplantaron el corazón cuando nació....",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/O0gxGdCb7RCwfOclhHOW4n1E7hpkJB5nscKYfd.webp"
-                            },
-                            {
-                                "url": "/pelicula/de-las-cenizas/",
-                                "title": "De las cenizas",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/2MsO29qLmHsP6kSvb.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/aquaman-y-el-reino-perdido-zigw/",
-                    "title": "Aquaman y el reino perdido",
-                    "description": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola. Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.",
-                    "genre": "Acción, Aventura, DC, Estrenos",
+                    "url": "/pelicula/el-valle-de-la-esperanza/",
+                    "title": "El valle de la esperanza",
+                    "description": "Líbano, verano de 1958. Tres hermanas pertenecientes a la buena sociedad cristiana están de vacaciones en las montañas libanesas. La tranquila vida del pueblo se ve sacudida por los ecos de una revolución que retumba en Beirut y por la llegada de dos veraneantes franceses. Pero es en el seno de la familia donde se produce la agitación. La hermana mayor, Layla, perfecta madre y esposa, abrirá los ojos a la sociedad patriarcal que las mantiene bajo control. En el joven Líbano que sueña con una edad de oro, ¿puede una mujer tener un destino distinto del trazado por los hombres?",
+                    "genre": "Drama, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/aquaman-y-el-reino-perdido-zigw/",
+                        "url": "/pelicula/el-valle-de-la-esperanza/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar QGpwIAXzp = \"\"; UrJVFhWKj.forEach(function Oym(value) { QGpwIAXzp += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar uJbdPFUh = \"\"; hAGfIRtk.forEach(function Oym(value) { uJbdPFUh += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

@@ -32,11 +32,6 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a19f0bc2-6833-4b42-8acd-f0e27493bfcd.webp"
                             },
                             {
-                                "url": "7430-un-piedipiatti-a-beverly-hills-axel-f",
-                                "title": "Un piedipiatti a Beverly Hills - Axel F",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/01a31fc3-d42a-4660-8502-057ec23a203d.webp"
-                            },
-                            {
                                 "url": "7543-eredita-sepolta",
                                 "title": "Eredità sepolta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/f4c6206d-b868-4d2e-b07e-7934edf6e003.webp"
@@ -305,6 +300,11 @@
                                 "url": "7076-galline-in-fuga-lalba-dei-nugget",
                                 "title": "Galline in fuga - L'alba dei nugget",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/da31a568-0014-48e7-95ea-53e9b84a95ef.webp"
+                            },
+                            {
+                                "url": "7024-diario-di-una-schiappa-a-natale-si-salvi-chi-puo",
+                                "title": "Diario di una schiappa a Natale - Si salvi chi può!",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/92b3dab0-a0e6-459a-a536-df2d1d37e484.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7613-ieri-oggi-domani",
+                                "title": "Ieri, oggi, domani",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/e7c5f2e5-8ea3-4860-9074-ff556cbdab91.webp"
+                            },
                             {
                                 "url": "7612-magnum-pi",
                                 "title": "Magnum P.I.",
@@ -329,7 +334,7 @@
                             {
                                 "url": "7609-casa-howard",
                                 "title": "Casa Howard",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/894de477-222e-4d09-99ab-113d82c2f57a.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/2753d902-9084-4142-9060-a2bc61785c8e.webp"
                             },
                             {
                                 "url": "7608-guilt",
@@ -359,7 +364,7 @@
                             {
                                 "url": "7601-triplice-inganno",
                                 "title": "Triplice Inganno",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ce505146-1f48-446a-bcc7-8d68c5442b9b.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/58d2cf38-a73f-4dba-8064-c048cf1b2eb1.webp"
                             },
                             {
                                 "url": "7600-frozen",
@@ -610,11 +615,6 @@
                                 "url": "7550-chuzhaya-voyna",
                                 "title": "Chuzhaya voyna",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9663ab6b-8be1-4f6c-9e33-d1b72ce2c1a2.webp"
-                            },
-                            {
-                                "url": "7549-occupation-rainfall",
-                                "title": "Occupation - Rainfall",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/55001591-c711-47e3-9419-00ee49cfa65f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,11 +944,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "7545?e=51571",
+                        "name": "Stagione 1 episodio 6 - Adios, Miami",
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "7545?e=51570",
+                        "name": "Stagione 1 episodio 5 - Paradiso perduto",
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
