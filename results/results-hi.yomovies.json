@@ -443,20 +443,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://rasoutin.ydc1wes.me/hls2/01/00005/8qgc6fu1w2ba_l/index-v1-a1.m3u8?t=XOYsGWKgycQou1tWITRY6UqxlpxEvJhPUutLXD3LWoU&s=1706184913&e=14400&f=29474&i=0.0&sp=0",
-                        "quality": "[Server 1] -  Minoplres - 360p",
-                        "videoUrl": "https://rasoutin.ydc1wes.me/hls2/01/00005/8qgc6fu1w2ba_l/index-v1-a1.m3u8?t=XOYsGWKgycQou1tWITRY6UqxlpxEvJhPUutLXD3LWoU&s=1706184913&e=14400&f=29474&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://minoplres.xyz",
-                            "Referer": "https://minoplres.xyz/embed-8qgc6fu1w2ba.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

@@ -271,20 +271,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://tog-l150-voxtu.vmeas.cloud/hls/xqx2povrnfokjiqbtg2cjiqm444utzirnkz6c3qbricnetuoxksaos7wlq6a/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 812p",
-                        "videoUrl": "https://tog-l150-voxtu.vmeas.cloud/hls/xqx2povrnfokjiqbtg2cjiqm444utzirnkz6c3qbricnetuoxksaos7wlq6a/index-v1-a1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-kx6ralfzwjtf.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
