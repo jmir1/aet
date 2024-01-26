@@ -537,17 +537,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=BmbDyEo2_Td-3E_IdPX6vqfqC8KPcMHO1pXsiI6heIs&s=1706271046&e=43200&f=11188495&i=20.75&sp=0",
-                        "quality": "WolfStream",
-                        "videoUrl": "https://s11.wolfstream.tv/hls2/01/02237/i7qx7ws6ho74_h/master.m3u8?t=BmbDyEo2_Td-3E_IdPX6vqfqC8KPcMHO1pXsiI6heIs&s=1706271046&e=43200&f=11188495&i=20.75&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }
