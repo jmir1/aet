@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/hd-amerika-adalet-birligi-maceralari-zaman-tuzaginda-5/",
+                                "title": "Amerikan Adalet Birliği Maceraları Zaman Tuzağında",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/hd-amerika-adalet-birligi-maceralari-zaman-tuzaginda_list.jpg"
+                            },
+                            {
                                 "url": "/badland-hunters/",
                                 "title": "Badland Hunters",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/badland-hunters_list.jpg"
@@ -140,11 +145,6 @@
                                 "url": "/pinocchio-a-true-story/",
                                 "title": "Pinokyo Sihirli Yolculuk",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/pinocchio-a-true-story_list.jpg"
-                            },
-                            {
-                                "url": "/the-mill/",
-                                "title": "The Mill",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/the-mill_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,14 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/badland-hunters/",
-                    "title": "Badland Hunters",
-                    "artist": "Ma Dong-seok, Lee Hee-jun, Lee Jun-young, Roh Jeong-eui, Ahn Ji-hye, Kim Young-sun, Lee Han-joo, Park Ji-hoon, Jang Young-nam, Park Hyo-joon",
-                    "description": "Seul'ün kıyameti anımsatan çorak bir araziye dönüşmesinden yıllar sonra sert bir avcı, yakın olduğu bir genç insanlar üzerinde deneyler yapan çılgın bir doktor tarafından kaçırılınca dizginleri eline alır.",
-                    "genre": "Aksiyon, Macera, Dram",
+                    "url": "/hd-amerika-adalet-birligi-maceralari-zaman-tuzaginda-5/",
+                    "title": "Amerikan Adalet Birliği Maceraları Zaman Tuzağında",
+                    "artist": "Diedrich Bader, Laura Bailey, Dante Basco, Corey Burton, Grey DeLisle, Peter Jessop, Fred Tatasciore, Jack De Sena, Erica Luttrell, Liam O'Brien",
+                    "description": "Lex Luthor geçmeişe giderek süpermanı daha bebekken yok etmeyi planlar.",
+                    "genre": "Animasyon, Aksiyon, Bilim Kurgu",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/badland-hunters.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/hd-amerika-adalet-birligi-maceralari-zaman-tuzaginda.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -263,7 +263,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/badland-hunters/",
+                        "url": "/hd-amerika-adalet-birligi-maceralari-zaman-tuzaginda-5/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -271,8 +271,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vow-7-5-4.vmeas.cloud/hls/xqx2pvgoirokjiqbtfgcpoie4dby5f7dekzyhzj2sexuw37lrppon5l4qe4q/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 360p",
+                        "videoUrl": "https://vow-7-5-4.vmeas.cloud/hls/xqx2pvgoirokjiqbtfgcpoie4dby5f7dekzyhzj2sexuw37lrppon5l4qe4q/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-pp1d078z1qx5.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
