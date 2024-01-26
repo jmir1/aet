@@ -148,15 +148,30 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/hentai/3-piece-the-animation",
+                    "title": "3 Piece The Animation",
+                    "description": "Titulo Original: ?????? THE ANIMATION",
+                    "genre": "Ahegao, Bakunyuu, Incesto, Juegos Sexuales, Maduras, Milf, Sirvientas, Sumisas, Tetonas, Cream Pie, Maids, Sinopsis",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://www.jkhentai.net/images/portada/3-piece-the-animation.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/3-piece-the-animation-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
