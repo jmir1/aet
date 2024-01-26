@@ -3,13 +3,104 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/metallic-rouge",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181140001704975301.webp"
+                            },
+                            {
+                                "url": "/dungeon-meshi",
+                                "title": "Dungeon Meshi",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181000001704381902.webp"
+                            },
+                            {
+                                "url": "/ishura",
+                                "title": "Ishura",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862.webp"
+                            },
+                            {
+                                "url": "/bucchigiri",
+                                "title": "Bucchigiri?!",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181210001705439101.webp"
+                            },
+                            {
+                                "url": "/ragna-crimson",
+                                "title": "Ragna Crimson",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301.webp"
+                            },
+                            {
+                                "url": "/boku-no-kokoro-no-yabai-yatsu-season-2",
+                                "title": "Boku no Kokoro no Yabai Yatsu Season 2",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181060001704618302.webp"
+                            },
+                            {
+                                "url": "/majo-to-yajuu",
+                                "title": "Majo to Yajuu",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181150001705078022.webp"
+                            },
+                            {
+                                "url": "/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
+                            },
+                            {
+                                "url": "/mashle-2nd-season",
+                                "title": "Mashle 2nd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181070001704650102.webp"
+                            },
+                            {
+                                "url": "/yubisaki-to-renren",
+                                "title": "Yubisaki to Renren",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181040001704571622.webp"
+                            },
+                            {
+                                "url": "/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+                                "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180990001704326942.webp"
+                            },
+                            {
+                                "url": "/ore-dake-level-up-na-ken",
+                                "title": "Ore dake Level Up na Ken",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181050001704573061.webp"
+                            },
+                            {
+                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180540001696792981.webp"
+                            },
+                            {
+                                "url": "/dosanko-gal-wa-namara-menkoi",
+                                "title": "Dosanko Gal wa Namara Menkoi",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181110001704831302.webp"
+                            },
+                            {
+                                "url": "/chiyu-mahou-no-machigatta-tsukaikata",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181030001704554101.webp"
+                            },
+                            {
+                                "url": "/captain-tsubasa-season-2-junior-youth-hen",
+                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180440001696341901.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/metallic-rouge",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181140001704975301.webp"
+                            },
                             {
                                 "url": "/memories",
                                 "title": "Memories",
@@ -94,11 +185,6 @@
                                 "url": "/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
                                 "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181240001705686902.webp"
-                            },
-                            {
-                                "url": "/ragna-crimson",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -268,12 +354,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/memories",
-                    "title": "Memories",
-                    "artist": "Madhouse, Studio 4°C",
-                    "description": "Katsuhiro Otomo'nun 1995 tarihli Memories isimli yapımı 3 bağımsız öyküden oluşur. Yönetmenliğini Koji Morimoto'nun gerçekleştirdiği ve senaryosunu Satoshi Kon'un yazdığı Magnetic Rose, aldıkları SOS sinyallerini araştırmak için dünya yörüngesindeki bir enkaz yığınına giren, Corona gemisi personelinin karşılaştıkları tuhaf olayları konu alır. Tensai Okamura'nın yönettiği Stink Bomb'da genç bir laboratuar asistanı kaza eseri biyolojik bir silaha dönüşür. Katsuhiro Otomo'nun yönettiği son bölüm, Cannon Fodder ise bilinmeyen bir düşmana karşı sürekli savaşan bir şehrin günlük yaşamını anlatır.\nDiğer adlar: Magnetic Rose, Stink Bomb, Cannon Fodder\nJaponca İsmi: MEMORIES（メモリーズ）\nStüdyo: Madhouse, Studio 4°C",
-                    "genre": "Dram, Bilim-Kurgu, Movie, Psikolojik, Korku",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/859l.webp",
+                    "url": "/metallic-rouge",
+                    "title": "Metallic Rouge",
+                    "artist": "Bones",
+                    "description": "İnsanların ve androidlerin bir arada yaşadığı bir dünyada Rouge, ortağı Naomi ile Mars'ta bir görevde olan bir android kızdır. Görev, hükümete düşman olan dokuz yapay insanı öldürmektir.\nDiğer adlar: \nJaponca İsmi: メタリックルージュ\nStüdyo: Bones",
+                    "genre": "Aksiyon, Bilim-Kurgu",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/181140001704975301l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -281,9 +367,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/memories-1-bolum",
-                        "name": "1. Bölüm",
-                        "episode_number": 1.0
+                        "url": "/metallic-rouge-3-bolum",
+                        "name": "3. Bölüm",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/metallic-rouge-2-bolum",
+                        "name": "2. Bölüm",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -291,72 +382,90 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/fxsxn2zyllxr",
-                        "quality": "[Dantel Entel] VoeCDN(720p)",
-                        "videoUrl": "https://delivery-node-aenweewvyripecad.voe-network.net/engine/hls2/01/10360/fxsxn2zyllxr_,n,.urlset/master.m3u8?t=S9EqpDKUw8GEAlt1YM0ZAV4OS8xdQQAO20TxSyOn__Y&s=1706249403&e=14400&f=51801144&node=delivery-node-aenweewvyripecad.voe-network.net&i=20.98&sp=2500&asn=8075"
+                        "url": "https://voe.sx/e/kygkcbwelit4",
+                        "quality": "[Hoşumuza Giden Şeyler] VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-wtatahculkalrcev.voe-network.net/engine/hls2/01/10361/kygkcbwelit4_,n,.urlset/master.m3u8?t=b6qAm7MRXfOCIkmh_p_Nn0AcZGFON2swWM1s1X_1RRY&s=1706271086&e=14400&f=51805819&node=delivery-node-wtatahculkalrcev.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=3&sig=TIu5C9KNbWU&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564",
-                        "quality": "[Dantel Entel] Okru:720p",
-                        "videoUrl": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=3&sig=TIu5C9KNbWU&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564"
+                        "url": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=3&sig=lEoEjEu2ipw&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713",
+                        "quality": "[Hoşumuza Giden Şeyler] Okru:720p",
+                        "videoUrl": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=3&sig=lEoEjEu2ipw&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/YWZJc21TQmFaTXN0L3FXdjFuVk0vcXVFd1B4YVVKdVRBWUR4aDQrTG9XdUE1aTVzVXVpTyttY0pOVXNqTThVUjNCVE1laHA1L2FmMXlMQUhydG45NzJJSjdBaUk3dzgwUC8yWHFJcXNzR1lJZnRMeVFsQzZEMXlFUXBacWc4cXJORXhjMkJrSm1CSzQzOFNMeFRrYkhyT1JPQ0FJMVFtRFJBditTV1dzZ0ErdndzVXY2T3ZxNzJrMmh3ekYxdnE5S0NjS2ZOT0JOUWY0Z0NabE9iNmlKWXRaQXNQQnpLUzEvSlFwbGdWOFd3RklLVTczb0xZK283eGgwR240cEM0Y1Z1S3UydTQ0eUd1S1NvWE9lRmw4eU8wNFc5Rzc4YjRWaUVBWkE3UzExc0U9",
-                        "quality": "[Dantel Entel] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/YWZJc21TQmFaTXN0L3FXdjFuVk0vcXVFd1B4YVVKdVRBWUR4aDQrTG9XdUE1aTVzVXVpTyttY0pOVXNqTThVUjNCVE1laHA1L2FmMXlMQUhydG45NzJJSjdBaUk3dzgwUC8yWHFJcXNzR1lJZnRMeVFsQzZEMXlFUXBacWc4cXJORXhjMkJrSm1CSzQzOFNMeFRrYkhyT1JPQ0FJMVFtRFJBditTV1dzZ0ErdndzVXY2T3ZxNzJrMmh3ekYxdnE5S0NjS2ZOT0JOUWY0Z0NabE9iNmlKWXRaQXNQQnpLUzEvSlFwbGdWOFd3RklLVTczb0xZK283eGgwR240cEM0Y1Z1S3UydTQ0eUd1S1NvWE9lRmw4eU8wNFc5Rzc4YjRWaUVBWkE3UzExc0U9",
+                        "url": "https://anizmplayer.com/hls/U084aFVxeklQdXlJZXVLeTh4MXROeHhyU0tZZk5QWGdHbVhURy8xdUpHckkvdGVSdDRaYTQ1VGZKRlpvdzhGY2ZYNW5nSVowWlhpYjUzRU1uUkxFNWhudDhtaU9YWWxNMjdhbjF1QTBjdVlUeUtCTld6VlRJVUpBNGdLcDltK1BTUHpXVlR4QnUyZXdDRFI5Z0kydGE0V3I4MmJaeW9SRVVoVk11MDE3T0Y5aWZKRk92UmF2UmM5dy80NGNBRXNRemw3Nk8xMXpnSUozcEgyVTg0OUFsMjBJWEdZbXU0d0tBTE1rNnBOWjZ1OW9NNzhEK0h5SFQvV3VDUHd3YzhMMmJwMWZXRDhGQkNUVkJ5MW9lbGlxc0NJWmt6MU15cndxbUN3aVdGU1VTQkk9",
+                        "quality": "[Hoşumuza Giden Şeyler] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/U084aFVxeklQdXlJZXVLeTh4MXROeHhyU0tZZk5QWGdHbVhURy8xdUpHckkvdGVSdDRaYTQ1VGZKRlpvdzhGY2ZYNW5nSVowWlhpYjUzRU1uUkxFNWhudDhtaU9YWWxNMjdhbjF1QTBjdVlUeUtCTld6VlRJVUpBNGdLcDltK1BTUHpXVlR4QnUyZXdDRFI5Z0kydGE0V3I4MmJaeW9SRVVoVk11MDE3T0Y5aWZKRk92UmF2UmM5dy80NGNBRXNRemw3Nk8xMXpnSUozcEgyVTg0OUFsMjBJWEdZbXU0d0tBTE1rNnBOWjZ1OW9NNzhEK0h5SFQvV3VDUHd3YzhMMmJwMWZXRDhGQkNUVkJ5MW9lbGlxc0NJWmt6MU15cndxbUN3aVdGU1VTQkk9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/98115bc6ca57fe6fb4a0f17b9a3a57f1"
+                            "Referer": "https://anizmplayer.com/video/6d134e7a7a2c904f11f9014f1da0ef9f"
                         }
                     },
                     {
-                        "url": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=5&sig=z9-STw3kjmc&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564",
-                        "quality": "[Dantel Entel] Okru:1080p",
-                        "videoUrl": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=5&sig=z9-STw3kjmc&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564"
+                        "url": "https://www14.mp4upload.com:183/d/qwx4sz74z3b4quuorcqusi2zcjwzonk3wbyysbk4l2bgoq2suhao5ynttmpxj5wlnrsbkoac/video.mp4",
+                        "quality": "[Hoşumuza Giden Şeyler] Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwx4sz74z3b4quuorcqusi2zcjwzonk3wbyysbk4l2bgoq2suhao5ynttmpxj5wlnrsbkoac/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Origin": "https://anizm.net",
+                            "referer": "https://mp4upload.com/"
+                        }
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/YWZJc21TQmFaTXN0L3FXdjFuVk0vcXVFd1B4YVVKdVRBWUR4aDQrTG9XdUE1aTVzVXVpTyttY0pOVXNqTThVUkVTd1lOZytZTU1PenJGempJMjJOVnE2dFBuTXZ0aXltYWcrbkh2V0F3STdHNURDeGcwaFJUMmNEZWljeXV6b0V4SldVVXEvMFJ5cGNaVTdXTGljcVRMeVhGcytMZDgyOXJMcTZXKzc2TnVKakVHcGZvbGFMbEF1aGZDTzd1ZG8wOEJYR093NEdRdTFuV3NIR3V5clVhUXNVVnkrVlpoTngxT3FJb0JsemJ5ZnFVRFQ4NTRtVUViTUNPbyt5TWFETFl4a0VoNzNHMHp1K2pjamVMTGpFa3ZpMjVIeGp6RU9nd2pEdWtwMjQ0Q2xBbkRkMnAxN28yYUxwTWJuY25raXU%3D",
-                        "quality": "[Dantel Entel] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/YWZJc21TQmFaTXN0L3FXdjFuVk0vcXVFd1B4YVVKdVRBWUR4aDQrTG9XdUE1aTVzVXVpTyttY0pOVXNqTThVUkVTd1lOZytZTU1PenJGempJMjJOVnE2dFBuTXZ0aXltYWcrbkh2V0F3STdHNURDeGcwaFJUMmNEZWljeXV6b0V4SldVVXEvMFJ5cGNaVTdXTGljcVRMeVhGcytMZDgyOXJMcTZXKzc2TnVKakVHcGZvbGFMbEF1aGZDTzd1ZG8wOEJYR093NEdRdTFuV3NIR3V5clVhUXNVVnkrVlpoTngxT3FJb0JsemJ5ZnFVRFQ4NTRtVUViTUNPbyt5TWFETFl4a0VoNzNHMHp1K2pjamVMTGpFa3ZpMjVIeGp6RU9nd2pEdWtwMjQ0Q2xBbkRkMnAxN28yYUxwTWJuY25raXU%3D",
+                        "url": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=5&sig=cg0BPSlBJng&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713",
+                        "quality": "[Hoşumuza Giden Şeyler] Okru:1080p",
+                        "videoUrl": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=5&sig=cg0BPSlBJng&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/U084aFVxeklQdXlJZXVLeTh4MXROeHhyU0tZZk5QWGdHbVhURy8xdUpHckkvdGVSdDRaYTQ1VGZKRlpvdzhGY1l0Q21PbDk2eStqN0xOUHNTeVJpZ0NrQmxrcm9vQ0laeUdjbGc1c0VHL3NQNUJjZEU1YW1MNkRHelA2elRodzdCbFlDOXdVc3JXTXRuTDRPYStWTThCZkNUSENodzFpUzZJR1R0M3hlYWk4cVNwQlpwV3kvdUtNamIxOWlNU2lWUkFjNXQyNHVaUnBLK1d4dDN3bVdDQzVTUlRpaXg4QkUrS0RjUlpKSXpLSkI3dy9iRTZZQmVsYUlwK09nS1piYytiRE5PaXh1bTc1WmNpVDFZZUlHOU5BQ1FNMTV1b012U25jcDRNOFc4a1BQOVdmdHhYM2tleWR2N2xsdWI5bHQ%3D",
+                        "quality": "[Hoşumuza Giden Şeyler] Aincrad - 1080p",
+                        "videoUrl": "https://anizmplayer.com/hls/U084aFVxeklQdXlJZXVLeTh4MXROeHhyU0tZZk5QWGdHbVhURy8xdUpHckkvdGVSdDRaYTQ1VGZKRlpvdzhGY1l0Q21PbDk2eStqN0xOUHNTeVJpZ0NrQmxrcm9vQ0laeUdjbGc1c0VHL3NQNUJjZEU1YW1MNkRHelA2elRodzdCbFlDOXdVc3JXTXRuTDRPYStWTThCZkNUSENodzFpUzZJR1R0M3hlYWk4cVNwQlpwV3kvdUtNamIxOWlNU2lWUkFjNXQyNHVaUnBLK1d4dDN3bVdDQzVTUlRpaXg4QkUrS0RjUlpKSXpLSkI3dy9iRTZZQmVsYUlwK09nS1piYytiRE5PaXh1bTc1WmNpVDFZZUlHOU5BQ1FNMTV1b012U25jcDRNOFc4a1BQOVdmdHhYM2tleWR2N2xsdWI5bHQ%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/98115bc6ca57fe6fb4a0f17b9a3a57f1"
+                            "Referer": "https://anizmplayer.com/video/6d134e7a7a2c904f11f9014f1da0ef9f"
                         }
                     },
                     {
-                        "url": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=2&sig=r9FrMGmQBpI&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564",
-                        "quality": "[Dantel Entel] Okru:480p",
-                        "videoUrl": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=2&sig=r9FrMGmQBpI&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564"
+                        "url": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=2&sig=MMZv2RrI7oE&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713",
+                        "quality": "[Hoşumuza Giden Şeyler] Okru:480p",
+                        "videoUrl": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=2&sig=MMZv2RrI7oE&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/YWZJc21TQmFaTXN0L3FXdjFuVk0vcXVFd1B4YVVKdVRBWUR4aDQrTG9XdUE1aTVzVXVpTyttY0pOVXNqTThVUjVmTWFlMFk1M1RuUkVzQVYzc1Npb3R6R0NSL1ByRndVZ204MUR3cjNpY1hmU1pvUk52OVZmRlloOVVJT0pxTU95Um1mV0lnb2NtaXRLY3ZjZ01mM3J6Tm5JMHF4ODNwemFrcVczVW1uMkVnOXJVT1h5RmcxZk83b2hEWE9TcGJqY3ZXR1JmL0F4bGFGZU9tWk9RWFJVNERKZlNUd2UzdXA4Qkp6NjV5bS83aWZ3ZHBpWW9xVEl3dVJRL3VRTFRyRDdyd0hHRzJ2cExXZkNWRUZzc3lHUklFd1YyVkVWTU9SSWEwZ3p4dkNZVzQ9",
-                        "quality": "[Dantel Entel] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/YWZJc21TQmFaTXN0L3FXdjFuVk0vcXVFd1B4YVVKdVRBWUR4aDQrTG9XdUE1aTVzVXVpTyttY0pOVXNqTThVUjVmTWFlMFk1M1RuUkVzQVYzc1Npb3R6R0NSL1ByRndVZ204MUR3cjNpY1hmU1pvUk52OVZmRlloOVVJT0pxTU95Um1mV0lnb2NtaXRLY3ZjZ01mM3J6Tm5JMHF4ODNwemFrcVczVW1uMkVnOXJVT1h5RmcxZk83b2hEWE9TcGJqY3ZXR1JmL0F4bGFGZU9tWk9RWFJVNERKZlNUd2UzdXA4Qkp6NjV5bS83aWZ3ZHBpWW9xVEl3dVJRL3VRTFRyRDdyd0hHRzJ2cExXZkNWRUZzc3lHUklFd1YyVkVWTU9SSWEwZ3p4dkNZVzQ9",
+                        "url": "https://anizmplayer.com/hls/U084aFVxeklQdXlJZXVLeTh4MXROeHhyU0tZZk5QWGdHbVhURy8xdUpHckkvdGVSdDRaYTQ1VGZKRlpvdzhGY3VlbG5vUmxCRmtvUi9CWTJzWUFHUTFhdzZGSEN1SnhyeWZXRkFKWGhVcm4wQXRSbWtKYlA2R3ozNmRwZ0d0ZFplY2FEbjYrV3VtQk1oNVNXaG5POEZ1cGZxS2Vhc1M2ODNGeUQwa0N3V1pmdkZDVU5LT0FWWEFWU3BvNlZlOXZCeW1Lek5CK21OWnFmTEM4K2c0VDcrNmRQVHl6bGVwR0VCSXQrcGFiNDhZRGx6dGxxdGVhQjkzV0VoSWRxVTNjME0rK29ORTF2WGNDbjlrbjUwK2V1bm9DWG9ERW5SeUVqbXdTRWNySmVmMjA9",
+                        "quality": "[Hoşumuza Giden Şeyler] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/U084aFVxeklQdXlJZXVLeTh4MXROeHhyU0tZZk5QWGdHbVhURy8xdUpHckkvdGVSdDRaYTQ1VGZKRlpvdzhGY3VlbG5vUmxCRmtvUi9CWTJzWUFHUTFhdzZGSEN1SnhyeWZXRkFKWGhVcm4wQXRSbWtKYlA2R3ozNmRwZ0d0ZFplY2FEbjYrV3VtQk1oNVNXaG5POEZ1cGZxS2Vhc1M2ODNGeUQwa0N3V1pmdkZDVU5LT0FWWEFWU3BvNlZlOXZCeW1Lek5CK21OWnFmTEM4K2c0VDcrNmRQVHl6bGVwR0VCSXQrcGFiNDhZRGx6dGxxdGVhQjkzV0VoSWRxVTNjME0rK29ORTF2WGNDbjlrbjUwK2V1bm9DWG9ERW5SeUVqbXdTRWNySmVmMjA9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/98115bc6ca57fe6fb4a0f17b9a3a57f1"
+                            "Referer": "https://anizmplayer.com/video/6d134e7a7a2c904f11f9014f1da0ef9f"
                         }
                     },
                     {
-                        "url": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=1&sig=uCEVJVVkw54&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564",
-                        "quality": "[Dantel Entel] Okru:360p",
-                        "videoUrl": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=1&sig=uCEVJVVkw54&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564"
+                        "url": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=1&sig=xrkiatPNLAk&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713",
+                        "quality": "[Hoşumuza Giden Şeyler] Okru:360p",
+                        "videoUrl": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=1&sig=xrkiatPNLAk&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713"
                     },
                     {
-                        "url": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=0&sig=ZFRpw-LdqUs&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564",
-                        "quality": "[Dantel Entel] Okru:240p",
-                        "videoUrl": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=0&sig=ZFRpw-LdqUs&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564"
+                        "url": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=0&sig=9bNcdYb2vq8&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713",
+                        "quality": "[Hoşumuza Giden Şeyler] Okru:240p",
+                        "videoUrl": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=0&sig=9bNcdYb2vq8&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713"
                     },
                     {
-                        "url": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=4&sig=Wx-WravISt4&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564",
-                        "quality": "[Dantel Entel] Okru:144p",
-                        "videoUrl": "https://vd373.mycdn.me/?expires=1706335802222&srcIp=20.98.6.139&pr=10&srcAg=GECKO&ms=45.136.22.78&type=4&sig=Wx-WravISt4&ct=0&urls=185.226.53.75&clientType=0&zs=43&id=6076098808564"
+                        "url": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=4&sig=Ufy8hiSbsGA&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713",
+                        "quality": "[Hoşumuza Giden Şeyler] Okru:144p",
+                        "videoUrl": "https://vd301.mycdn.me/?expires=1706357484075&srcIp=20.172.24.215&pr=10&srcAg=GECKO&ms=185.226.53.10&type=4&sig=Ufy8hiSbsGA&ct=0&urls=45.136.22.11&clientType=0&zs=43&id=6084381313713"
+                    },
+                    {
+                        "url": "https://m140.uqload.io/3rfk2uxhsbw2q4drdjjpvihrlydap33uyblsd7gayd5fuq4qu6hgm3ze3xha/v.mp4",
+                        "quality": "[Hoşumuza Giden Şeyler] Uqload",
+                        "videoUrl": "https://m140.uqload.io/3rfk2uxhsbw2q4drdjjpvihrlydap33uyblsd7gayd5fuq4qu6hgm3ze3xha/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
                     }
                 ],
                 "passed": true
