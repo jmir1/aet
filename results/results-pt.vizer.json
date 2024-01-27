@@ -227,6 +227,54 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/chicago-med",
+                                "title": "Chicago Med: Atendimento de Emergência",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4818.webp"
+                            },
+                            {
+                                "url": "/serie/online/griselda",
+                                "title": "Griselda",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22620.webp"
+                            },
+                            {
+                                "url": "/serie/online/miss-scarlet-and-the-duke",
+                                "title": "Miss Scarlet and the Duke",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18791.webp"
+                            },
+                            {
+                                "url": "/serie/online/la-brea",
+                                "title": "La Brea",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19524.webp"
+                            },
+                            {
+                                "url": "/serie/online/historico-criminal",
+                                "title": "Histórico Criminal",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
+                            },
+                            {
+                                "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
+                                "title": "Chicago Fire: Heróis Contra o Fogo",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4449.webp"
+                            },
+                            {
+                                "url": "/serie/online/chicago-p-d-distrito-21",
+                                "title": "Chicago P.D.: Distrito 21",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4522.webp"
+                            },
+                            {
+                                "url": "/serie/online/mestres-do-universo-a-revolucao",
+                                "title": "Mestres do Universo: A Revolução",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22621.webp"
+                            },
+                            {
                                 "url": "/serie/online/mestres-do-ar",
                                 "title": "Mestres do Ar",
                                 "status": 1,
@@ -269,12 +317,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4848.webp"
                             },
                             {
-                                "url": "/serie/online/miss-scarlet-and-the-duke",
-                                "title": "Miss Scarlet and the Duke",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18791.webp"
-                            },
-                            {
                                 "url": "/serie/online/ted",
                                 "title": "ted",
                                 "status": 2,
@@ -287,28 +329,10 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3975.webp"
                             },
                             {
-                                "url": "/serie/online/la-brea",
-                                "title": "La Brea",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19524.webp"
-                            },
-                            {
                                 "url": "/serie/online/found",
                                 "title": "Found",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
-                            },
-                            {
-                                "url": "/serie/online/chicago-p-d-distrito-21",
-                                "title": "Chicago P.D.: Distrito 21",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4522.webp"
-                            },
-                            {
-                                "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
-                                "title": "Chicago Fire: Heróis Contra o Fogo",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4449.webp"
                             },
                             {
                                 "url": "/serie/online/reacher",
@@ -321,30 +345,6 @@
                                 "title": "Kübra",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22612.webp"
-                            },
-                            {
-                                "url": "/serie/online/cristobal-balenciaga",
-                                "title": "Cristóbal Balenciaga",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22614.webp"
-                            },
-                            {
-                                "url": "/serie/online/a-herdeira",
-                                "title": "A Herdeira",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22615.webp"
-                            },
-                            {
-                                "url": "/serie/online/historico-criminal",
-                                "title": "Histórico Criminal",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
-                            },
-                            {
-                                "url": "/serie/online/a-morte-entre-outros-misterios",
-                                "title": "A Morte Entre Outros Mistérios",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22609.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

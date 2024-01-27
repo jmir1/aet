@@ -112,11 +112,6 @@
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/Z4SYKsgmQRxjkj1aspC2hHRvlmNrw6jk.webp&w=640&q=75"
                             },
                             {
-                                "url": "/anime/opkWOLjgfTykRp3vhqIWQCz7376FvUmb",
-                                "title": "Hime-sama, \"Goumon\" no Jikan desu",
-                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/opkWOLjgfTykRp3vhqIWQCz7376FvUmb.webp&w=640&q=75"
-                            },
-                            {
                                 "url": "/anime/rJNgk8d65dyfpN8Qi60Cm9JyGIthIXLr",
                                 "title": "HIGH CARD season 2",
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/rJNgk8d65dyfpN8Qi60Cm9JyGIthIXLr.webp&w=640&q=75"
@@ -165,6 +160,11 @@
                                 "url": "/anime/UzxHhJ1iVfrC4BCPXkTa7u2PjyIb5p15",
                                 "title": "Momochi-san Chi no Ayakashi Ouji",
                                 "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/UzxHhJ1iVfrC4BCPXkTa7u2PjyIb5p15.webp&w=640&q=75"
+                            },
+                            {
+                                "url": "/anime/O1QbzLhYfx8tL2fL5fgivgi06kyYroB9",
+                                "title": "Nozomanu Fushi no Boukensha",
+                                "thumbnail_url": "https://animeui.com/_next/image?url=/api/images/images/anime/O1QbzLhYfx8tL2fL5fgivgi06kyYroB9.webp&w=640&q=75"
                             }
                         ],
                         "hasNextPage": false
@@ -286,14 +286,14 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/5hNsroDjy6M9GZ4drbfyUVHuka3AIEXn/4",
+                        "name": "Ep. 4 - I've Gotta Get Stronger",
+                        "episode_number": 4.0
+                    },
+                    {
                         "url": "/watch/5hNsroDjy6M9GZ4drbfyUVHuka3AIEXn/3",
                         "name": "Ep. 3 - It's Like a Game",
                         "episode_number": 3.0
-                    },
-                    {
-                        "url": "/watch/5hNsroDjy6M9GZ4drbfyUVHuka3AIEXn/2",
-                        "name": "Ep. 2 - If I Had One More Chance",
-                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -301,9 +301,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://animeui.infura-ipfs.io/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "url": "https://animeui.infura-ipfs.io/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "quality": "Tokyo",
-                        "videoUrl": "https://animeui.infura-ipfs.io/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "videoUrl": "https://animeui.infura-ipfs.io/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -312,47 +312,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/8343b176ecb235b8ed8b730c3bbec826062b3156d4e93f18eec9591f.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/4578169440e1ce1ea709506ef12d9333674caea15afc8ffd56f18292.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/269f96e7bb32bb2dd21cff7064377b616cfb08a49695616c886996c0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b66d2c304fa96148ad43cbd3df7712a83a6b370389b864047bf44070.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/fc0bfdb523eab5202fc36137bc18692a2a67ba20249c0e005d108a3a.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/1668bfb7aefb835e91d43d8f8a68930da58fdd760632fcccedb9c3ce.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/d0b3e25ed0af740db96a595dc16751bc4517450b2050cb57b708b22c.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/5fe697c1e16ef0d6eeefc8c00ac7e0a771638306a6b27ad4790824c9.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/03c76fa2709a3d2d38db7d5f7d6bb791d57c6be3d1fda904b016b105.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/50f449ae5446510e06b8a6ebe893ecba4217269e2861be812b34cc2c.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/2c4f0d5fb14632b79eee787a5c4b89689b7f86d38ae60edd92fb05e9.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/d8009c841051f699f0da2144dc4e49b43c035050f7c321426b878ea2.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/17b21adb637e5d0bb1d4ced795a7a3fb36017febe50cd9ec497e4710.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b659af156e71a78ce88611472aea071a52c4cbfc6ba5eae5437497e0.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/86957dbf3ec266d3938266e2acda1e8d981cdba5e1e35d05d3c199c3.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/0b8987333d593a51ac377498b72c331e8e805b248ee477160d322a2d.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/5b4228495f6c1dabe462af3016056b65a44be1de57eff7a7fbf129b0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/bb143759e3c5fb61726f0f938e125cfb8ed74672762dbed06dede6c0.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://crustipfs.info/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "url": "https://crustipfs.info/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "quality": "Germany",
-                        "videoUrl": "https://crustipfs.info/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "videoUrl": "https://crustipfs.info/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -361,47 +361,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/8343b176ecb235b8ed8b730c3bbec826062b3156d4e93f18eec9591f.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/4578169440e1ce1ea709506ef12d9333674caea15afc8ffd56f18292.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/269f96e7bb32bb2dd21cff7064377b616cfb08a49695616c886996c0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b66d2c304fa96148ad43cbd3df7712a83a6b370389b864047bf44070.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/fc0bfdb523eab5202fc36137bc18692a2a67ba20249c0e005d108a3a.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/1668bfb7aefb835e91d43d8f8a68930da58fdd760632fcccedb9c3ce.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/d0b3e25ed0af740db96a595dc16751bc4517450b2050cb57b708b22c.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/5fe697c1e16ef0d6eeefc8c00ac7e0a771638306a6b27ad4790824c9.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/03c76fa2709a3d2d38db7d5f7d6bb791d57c6be3d1fda904b016b105.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/50f449ae5446510e06b8a6ebe893ecba4217269e2861be812b34cc2c.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/2c4f0d5fb14632b79eee787a5c4b89689b7f86d38ae60edd92fb05e9.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/d8009c841051f699f0da2144dc4e49b43c035050f7c321426b878ea2.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/17b21adb637e5d0bb1d4ced795a7a3fb36017febe50cd9ec497e4710.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b659af156e71a78ce88611472aea071a52c4cbfc6ba5eae5437497e0.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/86957dbf3ec266d3938266e2acda1e8d981cdba5e1e35d05d3c199c3.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/0b8987333d593a51ac377498b72c331e8e805b248ee477160d322a2d.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/5b4228495f6c1dabe462af3016056b65a44be1de57eff7a7fbf129b0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/bb143759e3c5fb61726f0f938e125cfb8ed74672762dbed06dede6c0.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://crustipfs.tech/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "url": "https://crustipfs.tech/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "quality": "Singapore",
-                        "videoUrl": "https://crustipfs.tech/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "videoUrl": "https://crustipfs.tech/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -410,47 +410,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/8343b176ecb235b8ed8b730c3bbec826062b3156d4e93f18eec9591f.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/4578169440e1ce1ea709506ef12d9333674caea15afc8ffd56f18292.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/269f96e7bb32bb2dd21cff7064377b616cfb08a49695616c886996c0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b66d2c304fa96148ad43cbd3df7712a83a6b370389b864047bf44070.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/fc0bfdb523eab5202fc36137bc18692a2a67ba20249c0e005d108a3a.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/1668bfb7aefb835e91d43d8f8a68930da58fdd760632fcccedb9c3ce.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/d0b3e25ed0af740db96a595dc16751bc4517450b2050cb57b708b22c.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/5fe697c1e16ef0d6eeefc8c00ac7e0a771638306a6b27ad4790824c9.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/03c76fa2709a3d2d38db7d5f7d6bb791d57c6be3d1fda904b016b105.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/50f449ae5446510e06b8a6ebe893ecba4217269e2861be812b34cc2c.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/2c4f0d5fb14632b79eee787a5c4b89689b7f86d38ae60edd92fb05e9.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/d8009c841051f699f0da2144dc4e49b43c035050f7c321426b878ea2.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/17b21adb637e5d0bb1d4ced795a7a3fb36017febe50cd9ec497e4710.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b659af156e71a78ce88611472aea071a52c4cbfc6ba5eae5437497e0.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/86957dbf3ec266d3938266e2acda1e8d981cdba5e1e35d05d3c199c3.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/0b8987333d593a51ac377498b72c331e8e805b248ee477160d322a2d.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/5b4228495f6c1dabe462af3016056b65a44be1de57eff7a7fbf129b0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/bb143759e3c5fb61726f0f938e125cfb8ed74672762dbed06dede6c0.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://crustipfs.online/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "url": "https://crustipfs.online/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "quality": "Shanghai",
-                        "videoUrl": "https://crustipfs.online/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "videoUrl": "https://crustipfs.online/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -459,47 +459,47 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/8343b176ecb235b8ed8b730c3bbec826062b3156d4e93f18eec9591f.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/4578169440e1ce1ea709506ef12d9333674caea15afc8ffd56f18292.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/269f96e7bb32bb2dd21cff7064377b616cfb08a49695616c886996c0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b66d2c304fa96148ad43cbd3df7712a83a6b370389b864047bf44070.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/fc0bfdb523eab5202fc36137bc18692a2a67ba20249c0e005d108a3a.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/1668bfb7aefb835e91d43d8f8a68930da58fdd760632fcccedb9c3ce.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/d0b3e25ed0af740db96a595dc16751bc4517450b2050cb57b708b22c.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/5fe697c1e16ef0d6eeefc8c00ac7e0a771638306a6b27ad4790824c9.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/03c76fa2709a3d2d38db7d5f7d6bb791d57c6be3d1fda904b016b105.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/50f449ae5446510e06b8a6ebe893ecba4217269e2861be812b34cc2c.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/2c4f0d5fb14632b79eee787a5c4b89689b7f86d38ae60edd92fb05e9.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/d8009c841051f699f0da2144dc4e49b43c035050f7c321426b878ea2.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/17b21adb637e5d0bb1d4ced795a7a3fb36017febe50cd9ec497e4710.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b659af156e71a78ce88611472aea071a52c4cbfc6ba5eae5437497e0.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/86957dbf3ec266d3938266e2acda1e8d981cdba5e1e35d05d3c199c3.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/0b8987333d593a51ac377498b72c331e8e805b248ee477160d322a2d.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/5b4228495f6c1dabe462af3016056b65a44be1de57eff7a7fbf129b0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/bb143759e3c5fb61726f0f938e125cfb8ed74672762dbed06dede6c0.ass",
                                 "lang": "Arabic"
                             }
                         ]
                     },
                     {
-                        "url": "https://crustipfs.mobi/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "url": "https://crustipfs.mobi/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "quality": "Seattle",
-                        "videoUrl": "https://crustipfs.mobi/ipfs/QmbhNpYP8AFKeFX58E7YgJXadrSddnLUYZX1o7kY9Q2bss",
+                        "videoUrl": "https://crustipfs.mobi/ipfs/Qmc6vrSaV9UqDztcdEgXJ76QLZzV9Ppyw4qiLe3TsmYBTv",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
@@ -508,39 +508,39 @@
                         },
                         "subtitleTracks": [
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/8343b176ecb235b8ed8b730c3bbec826062b3156d4e93f18eec9591f.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/4578169440e1ce1ea709506ef12d9333674caea15afc8ffd56f18292.ass",
                                 "lang": "English"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/269f96e7bb32bb2dd21cff7064377b616cfb08a49695616c886996c0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b66d2c304fa96148ad43cbd3df7712a83a6b370389b864047bf44070.ass",
                                 "lang": "Deutsch"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/fc0bfdb523eab5202fc36137bc18692a2a67ba20249c0e005d108a3a.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/1668bfb7aefb835e91d43d8f8a68930da58fdd760632fcccedb9c3ce.ass",
                                 "lang": "Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/d0b3e25ed0af740db96a595dc16751bc4517450b2050cb57b708b22c.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/5fe697c1e16ef0d6eeefc8c00ac7e0a771638306a6b27ad4790824c9.ass",
                                 "lang": "European Spanish"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/03c76fa2709a3d2d38db7d5f7d6bb791d57c6be3d1fda904b016b105.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/50f449ae5446510e06b8a6ebe893ecba4217269e2861be812b34cc2c.ass",
                                 "lang": "French"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/2c4f0d5fb14632b79eee787a5c4b89689b7f86d38ae60edd92fb05e9.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/d8009c841051f699f0da2144dc4e49b43c035050f7c321426b878ea2.ass",
                                 "lang": "Italian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/17b21adb637e5d0bb1d4ced795a7a3fb36017febe50cd9ec497e4710.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/b659af156e71a78ce88611472aea071a52c4cbfc6ba5eae5437497e0.ass",
                                 "lang": "Brazilian Portuguese"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/86957dbf3ec266d3938266e2acda1e8d981cdba5e1e35d05d3c199c3.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/0b8987333d593a51ac377498b72c331e8e805b248ee477160d322a2d.ass",
                                 "lang": "Russian"
                             },
                             {
-                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 3/5b4228495f6c1dabe462af3016056b65a44be1de57eff7a7fbf129b0.ass",
+                                "url": "https://animeui.com/api/subtitles/Ore dake Level Up na Ken/Episode 4/bb143759e3c5fb61726f0f938e125cfb8ed74672762dbed06dede6c0.ass",
                                 "lang": "Arabic"
                             }
                         ]

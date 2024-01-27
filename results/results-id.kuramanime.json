@@ -3,236 +3,27 @@
         "name": "Kuramanime (ID)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/1996/douluo-dalu-ii-jueshi-tangmen",
-                                "title": "Douluo Dalu II: Jueshi Tangmen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1447/123844l.jpg"
-                            },
-                            {
-                                "url": "/anime/2327/beyblade-x",
-                                "title": "Beyblade X",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1312/138299l.jpg"
-                            },
-                            {
-                                "url": "/anime/2407/bu-shi-bu-mie",
-                                "title": "Bu Shi Bu Mie",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1158/139539l.jpg"
-                            },
-                            {
-                                "url": "/anime/2291/ni-tian-xieshen",
-                                "title": "Ni Tian Xieshen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1621/136623l.jpg"
-                            },
-                            {
-                                "url": "/anime/2413/wu-dong-qian-kun-4th-season",
-                                "title": "Wu Dong Qian Kun 4th Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1843/139679l.jpg"
-                            },
-                            {
-                                "url": "/anime/2221/undead-unluck",
-                                "title": "Undead Unluck",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1136/138410l.jpg"
-                            },
-                            {
-                                "url": "/anime/2484/snack-basue",
-                                "title": "Snack Basue",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1715/139033l.jpg"
-                            },
-                            {
-                                "url": "/anime/2477/pon-no-michi",
-                                "title": "Pon no Michi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1070/138961l.jpg"
-                            },
-                            {
-                                "url": "/anime/2473/momochi-san-chi-no-ayakashi-ouji",
-                                "title": "Momochi-san Chi no Ayakashi Ouji",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1207/140800l.jpg"
-                            },
-                            {
-                                "url": "/anime/2450/chiyu-mahou-no-machigatta-tsukaikata",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1733/140802l.jpg"
-                            },
-                            {
-                                "url": "/anime/2213/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
-                            },
-                            {
-                                "url": "/anime/2478/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
-                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1280/138474l.jpg"
-                            },
-                            {
-                                "url": "/anime/2474/nozomanu-fushi-no-boukensha",
-                                "title": "Nozomanu Fushi no Boukensha",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1008/140287l.jpg"
-                            },
-                            {
-                                "url": "/anime/2479/sasaki-to-pii-chan",
-                                "title": "Sasaki to Pii-chan",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1624/139672l.jpg"
-                            },
-                            {
-                                "url": "/anime/2552/da-yuzhou-shidai",
-                                "title": "Da Yuzhou Shidai",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1782/140596l.jpg"
-                            },
-                            {
-                                "url": "/anime/2318/dubu-wangu",
-                                "title": "Dubu Wangu",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1720/138642l.jpg"
-                            },
-                            {
-                                "url": "/anime/2411/jiu-tian-xuan-di-jue-5th-season",
-                                "title": "Jiu Tian Xuan Di Jue 5th Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1222/139758l.jpg"
-                            },
-                            {
-                                "url": "/anime/2316/emo-faze",
-                                "title": "Emo Faze",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1053/121486l.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/235/arifureta-shokugyou-de-sekai-saikyou-2nd-season",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1877/119668l.jpg"
-                            },
-                            {
-                                "url": "/anime/388/arifureta-shokugyou-de-sekai-saikyou-2nd-season-special",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1981/120698l.jpg"
-                            },
-                            {
-                                "url": "/anime/1505/arifureta-shokugyou-de-sekai-saikyou-maboroshi-no-bouken-to-kiseki-no-kaigou",
-                                "title": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1068/124244l.jpg"
-                            },
-                            {
-                                "url": "/anime/1636/benriya-saitou-san-isekai-ni-iku",
-                                "title": "Benriya Saitou-san, Isekai ni Iku",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1805/132335l.jpg"
-                            },
-                            {
-                                "url": "/anime/178/boku-no-hero-academia-the-movie-3-world-heroes-mission",
-                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1049/115605l.jpg"
-                            },
-                            {
-                                "url": "/anime/1366/boku-no-hero-academia-the-movie-3-world-heroes-mission-tabidachi",
-                                "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission - Tabidachi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1935/121274l.jpg"
-                            },
-                            {
-                                "url": "/anime/23/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore",
-                                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1787/115817l.jpg"
-                            },
-                            {
-                                "url": "/anime/988/clannad-after-story-mou-hitotsu-no-sekai-kyou-hen",
-                                "title": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/10/19621l.jpg"
-                            },
-                            {
-                                "url": "/anime/986/clannad-mou-hitotsu-no-sekai-tomoyo-hen",
-                                "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/12/19620l.jpg"
-                            },
-                            {
-                                "url": "/anime/1250/doupo-cangqiong",
-                                "title": "Doupo Cangqiong",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/6/88942l.jpg"
-                            },
-                            {
-                                "url": "/anime/1251/doupo-cangqiong-specials",
-                                "title": "Doupo Cangqiong Specials",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/2/88360l.jpg"
-                            },
-                            {
-                                "url": "/anime/1879/dr-stone-new-world",
-                                "title": "Dr. Stone: New World",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1316/136268l.jpg"
-                            },
-                            {
-                                "url": "/anime/2179/dr-stone-new-world-part-2",
-                                "title": "Dr. Stone: New World Part 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1236/138696l.jpg"
-                            },
-                            {
-                                "url": "/anime/1242/fanren-xiu-xian-chuan",
-                                "title": "Fanren Xiu Xian Chuan",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1085/109745l.jpg"
-                            },
-                            {
-                                "url": "/anime/2062/fategrand-order-himuro-no-tenchi-7-nin-no-saikyou-ijin-hen",
-                                "title": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1644/121789l.jpg"
-                            },
-                            {
-                                "url": "/anime/323/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
-                                "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1361/120706l.jpg"
-                            },
-                            {
-                                "url": "/anime/2332/good-night-world",
-                                "title": "Good Night World",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1330/137476l.jpg"
-                            },
-                            {
-                                "url": "/anime/130/gyakuten-sekai-no-denchi-shoujo",
-                                "title": "Gyakuten Sekai no Denchi Shoujo",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1836/117774l.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/anime/1996/douluo-dalu-ii-jueshi-tangmen",
-                    "title": "Douluo Dalu II: Jueshi Tangmen",
-                    "description": "Benua aneh di dunia lain. Tidak ada sihir, tidak ada qi pertempuran, tidak ada seni bela diri, hanya roh bela diri. Sepuluh ribu tahun setelah klan Tang didirikan di benua Douluo, klan Tang telah menurun ke ambang kepunahan. Generasi baru yang berbakat telah lahir. Akankah generasi baru dari Tujuh monster Shrek dapat membangun kembali Klan Tang dan menyusun kisah baru kehebatan untuk Klan Tang yang tak tertandingi? (Sumber: IMDB) Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: Soul Land 2: Peerless Tang Sect, 斗罗大陆Ⅱ绝世唐门, The Unrivaled Tang Sect, Combat Continent II\n\nTipe: ONA\nEpisode: 52\nStatus: Sedang Tayang\nTayang: 24 Jun 2023 s/d 08 Jun 2024\nMusim: Spring 2023\nDurasi: 20 menit per ep\nKualitas: WEB-DL\nNegara: CN\nAdaptasi: Novel Web\nGenre: Action, Adventure, Fantasy\nEksplisit: ?\nDemografis: ?\nTema: Martial Arts\nStudio: Sparkly Key Animation Studio\nSkor: 7.27 / 10.00\nPeminat: 1,001 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Anichin",
-                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1447/123844l.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/anime/1996/douluo-dalu-ii-jueshi-tangmen/episode/33",
-                        "name": "Ep 33",
-                        "episode_number": 33.0
-                    },
-                    {
-                        "url": "/anime/1996/douluo-dalu-ii-jueshi-tangmen/episode/32",
-                        "name": "Ep 32",
-                        "episode_number": 32.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }

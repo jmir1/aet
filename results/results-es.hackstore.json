@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/cazadores-en-tierra-inhospita-2024/",
+                                "title": "Cazadores en tierra inhóspita (2024)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/01/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg"
+                            },
+                            {
                                 "url": "/peliculas/radical-2023/",
                                 "title": "Radical (2023)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Mad Max: Salvajes de autopista (1979)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/01/9LSgFb5pU2hO0nbOTG803uWeXfn.jpg"
-                            },
-                            {
-                                "url": "/peliculas/monsters-el-infierno-del-dragon-2024/",
-                                "title": "Monsters: El infierno del dragón (2024)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/01/2ciwOfaGH2TFYWbftG7amTPVuX0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,9 +240,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/radical-2023/",
-                    "description": "En una ciudad fronteriza mexicana plagada de negligencia, corrupción y violencia, un maestro frustrado intenta un nuevo método radical para romper con la apatía de sus alumnos y desbloquear su curiosidad, su potencial… y tal vez incluso su genio.",
-                    "genre": "Título Latino: Radical (2023)  Drama País: Mexico Duración: 2horas 7minutos Año: 2023 Director: Christopher Zalla, Elenco: Christian Gonzalez,Daniel Haddad,Danilo Guardiola Escobar,Eugenio Derbez,Gilberto Barraza,Jennifer Trejo,Manuel Márquez,Mia Fernanda Solis,Víctor Estrada,Xochiquetzal Martínez Servidores Online: Voe, Servidores Descarga: Bittorrent,Mega,Mediafire,We,1fichier,Megaup,Terabox, (en 1 Link)",
+                    "url": "/peliculas/cazadores-en-tierra-inhospita-2024/",
+                    "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado. Secuela del film de 2023 “Concrete Utopia”",
+                    "genre": "Título Latino: Cazadores en tierra inhóspita (2024)  Acción,Ciencia ficción País: South Korea Duración: 1hora 47minutos Año: 2024 Director: Heo Myeong-haeng, Elenco: Ma Dong-seok,Lee Hee-jun,Lee Jun-young,Roh Jeong-eui,Ahn Ji-hye,Park Ji-hoon,Jang Young-nam,Park Hyo-joon,Seong Byeong-suk,Jung Young-ju, Servidores Online: Servidores Descarga: (en 1 Link)",
                     "initialized": true
                 },
                 "passed": true
@@ -250,7 +250,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/radical-2023/",
+                        "url": "/peliculas/cazadores-en-tierra-inhospita-2024/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -258,14 +258,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://voe.sx/e/lhfg7iv8gka1",
-                        "quality": "VOE Castellano",
-                        "videoUrl": "https://delivery-node-rubwv0nxl1vcdebo.voe-network.net/engine/hls2-c/01/10366/lhfg7iv8gka1_,n,.urlset/master.m3u8?t=5hIEz9B5xxIp3VCbBZwy0rH7h44IgwecV8ss0GpawL0&s=1706357426&e=14400&f=51831084&node=delivery-node-zms5jvn1a55lm8fc.voe-network.net&i=172.183&sp=2500&asn=8075"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
