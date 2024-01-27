@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/21549/shelter-in-solitude",
+                                "title": "Shelter in Solitude",
+                                "thumbnail_url": "https://pelisimg.online/cover/shelter-in-solitude.jpg"
+                            },
+                            {
+                                "url": "/21550/forever-young-1177250",
+                                "title": "Forever Young",
+                                "thumbnail_url": "https://pelisimg.online/cover/forever-young-1177250.jpg"
+                            },
+                            {
+                                "url": "/21551/blow-up-my-life",
+                                "title": "Blow Up My Life",
+                                "thumbnail_url": "https://pelisimg.online/cover/blow-up-my-life.jpg"
+                            },
+                            {
+                                "url": "/21552/adventures-of-the-naked-umbrella",
+                                "title": "Adventures of the Naked Umbrella",
+                                "thumbnail_url": "https://pelisimg.online/cover/adventures-of-the-naked-umbrella.jpg"
+                            },
+                            {
                                 "url": "/21542/viven",
                                 "title": "¡Viven!",
                                 "thumbnail_url": "https://pelisimg.online/cover/viven.jpg"
@@ -205,26 +225,6 @@
                                 "url": "/21488/iron-man-el-hombre-de-hierro",
                                 "title": "Iron man - El hombre de hierro",
                                 "thumbnail_url": "https://pelisimg.online/cover/iron-man-el-hombre-de-hierro.jpg"
-                            },
-                            {
-                                "url": "/21485/transformers-el-despertar-de-las-bestias",
-                                "title": "Transformers: El despertar de las bestias",
-                                "thumbnail_url": "https://pelisimg.online/cover/transformers-el-despertar-de-las-bestias.jpg"
-                            },
-                            {
-                                "url": "/21486/holocausto-canibal",
-                                "title": "Holocausto Caníbal",
-                                "thumbnail_url": "https://pelisimg.online/cover/holocausto-canibal.jpg"
-                            },
-                            {
-                                "url": "/21487/elementos",
-                                "title": "Elementos",
-                                "thumbnail_url": "https://pelisimg.online/cover/elementos.jpg"
-                            },
-                            {
-                                "url": "/21481/monsters-el-infierno-del-dragon",
-                                "title": "Monsters: El infierno del dragón",
-                                "thumbnail_url": "https://pelisimg.online/cover/monsters-el-infierno-del-dragon.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/21542/viven",
-                    "title": "¡Viven!",
-                    "description": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
-                    "genre": "Aventura, , Drama, , Suspenso",
-                    "thumbnail_url": "https://pelisimg.online/cover/viven.jpg",
+                    "url": "/21549/shelter-in-solitude",
+                    "title": "Shelter in Solitude",
+                    "description": "A death row prisoner with 10 days left to live forms an unlikely bond with a washed up country singer turned prison guard.",
+                    "genre": "Comedia, , Drama",
+                    "thumbnail_url": "https://pelisimg.online/cover/shelter-in-solitude.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/21542/viven",
+                        "url": "/21549/shelter-in-solitude",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://96pt9yg2fnndd.sw-cdnstream.com/hls2/01/02910/ou1etu3utvwt_n/index-v1-a1.m3u8?t=DDJxzHKjnYVd4ix9gDtNHmPoKOVCNDLLYo0y-CF8cWE&s=1706335678&e=129600&f=14552531&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://96pt9yg2fnndd.sw-cdnstream.com/hls2/01/02910/ou1etu3utvwt_n/index-v1-a1.m3u8?t=DDJxzHKjnYVd4ix9gDtNHmPoKOVCNDLLYo0y-CF8cWE&s=1706335678&e=129600&f=14552531&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/ou1etu3utvwt"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=OYxBm3Vpg2FZ41Y&expires=1706405679&ip=FROsF0EnDS9X&token=q_voTupBbiqV",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=OYxBm3Vpg2FZ41Y&expires=1706405679&ip=FROsF0EnDS9X&token=q_voTupBbiqV"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -735,16 +752,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/fireball-visitantes-de-mundos-oscuros",
-                                "title": "Fireball: Visitantes de mundos oscuros",
-                                "description": "De los directores Werner Herzog y Clive Oppenheimer, este documental explora cómo los meteoritos y las estrellas fugaces han despertado nuestra curiosidad por otros mundos, haciéndonos repensar el destino de la humanidad.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/jurassic-world-campamento-cretacico",
                                 "title": "Jurassic World: Campamento Cretácico",
                                 "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/fireball-visitantes-de-mundos-oscuros",
+                                "title": "Fireball: Visitantes de mundos oscuros",
+                                "description": "De los directores Werner Herzog y Clive Oppenheimer, este documental explora cómo los meteoritos y las estrellas fugaces han despertado nuestra curiosidad por otros mundos, haciéndonos repensar el destino de la humanidad.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
                             },
                             {
                                 "url": "/ver-serie/w-dos-mundos",
@@ -827,12 +844,12 @@
                     {
                         "url": "https://voe.sx/e/ezz2sn4ixyn9",
                         "quality": "[ENG] Voe:720p",
-                        "videoUrl": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/10354/mzipccjh5bhn_,n,.urlset/master.m3u8?t=smMVWmx1nOyVjx656l0TXZGeFphepZQUE24jy5ij5LE&s=1706315443&e=14400&f=51803338&node=delivery-node-jiy9zlzwdiiewfw2.voe-network.net&i=20.171&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/10354/mzipccjh5bhn_,n,.urlset/master.m3u8?t=oXkJhd2AKZtwCwGgmX-ZY5MMfh56194Qp5rAijGcMlg&s=1706335683&e=14400&f=51803338&node=delivery-node-jiy9zlzwdiiewfw2.voe-network.net&i=20.97&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=dzaO2zyhpcigyCHeTNPCDXWkA-kjeucg0_p9_58LtWA&s=1706315441&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "url": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=FFuIZerJi9KAWSGZXFh6VGetmrYo8CaQtSDSNpTK2QA&s=1706335681&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "quality": "[ENG] StreamWish:980p",
-                        "videoUrl": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=dzaO2zyhpcigyCHeTNPCDXWkA-kjeucg0_p9_58LtWA&s=1706315441&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "videoUrl": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=FFuIZerJi9KAWSGZXFh6VGetmrYo8CaQtSDSNpTK2QA&s=1706335681&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -841,9 +858,9 @@
                         }
                     },
                     {
-                        "url": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=dzaO2zyhpcigyCHeTNPCDXWkA-kjeucg0_p9_58LtWA&s=1706315441&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "url": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=FFuIZerJi9KAWSGZXFh6VGetmrYo8CaQtSDSNpTK2QA&s=1706335681&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=dzaO2zyhpcigyCHeTNPCDXWkA-kjeucg0_p9_58LtWA&s=1706315441&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "videoUrl": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=FFuIZerJi9KAWSGZXFh6VGetmrYo8CaQtSDSNpTK2QA&s=1706335681&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -852,9 +869,9 @@
                         }
                     },
                     {
-                        "url": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=dzaO2zyhpcigyCHeTNPCDXWkA-kjeucg0_p9_58LtWA&s=1706315441&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "url": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=FFuIZerJi9KAWSGZXFh6VGetmrYo8CaQtSDSNpTK2QA&s=1706335681&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=dzaO2zyhpcigyCHeTNPCDXWkA-kjeucg0_p9_58LtWA&s=1706315441&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "videoUrl": "https://qek81wv5rz.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=FFuIZerJi9KAWSGZXFh6VGetmrYo8CaQtSDSNpTK2QA&s=1706335681&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -863,9 +880,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=bgQ0G1BMwxixDL&expires=1706385445&ip=FROsD0ESKxSHDN&token=VtGDW_rUknFL",
+                        "url": "https://streamtape.com/get_video?id=bgQ0G1BMwxixDL&expires=1706405684&ip=FROsF0EnDS9X&token=TXjj2O19Xohw",
                         "quality": "[ENG] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=bgQ0G1BMwxixDL&expires=1706385445&ip=FROsD0ESKxSHDN&token=VtGDW_rUknFL"
+                        "videoUrl": "https://streamtape.com/get_video?id=bgQ0G1BMwxixDL&expires=1706405684&ip=FROsF0EnDS9X&token=TXjj2O19Xohw"
                     }
                 ],
                 "passed": true

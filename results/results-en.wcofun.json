@@ -614,12 +614,34 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/sasaki-and-peeps-episode-1-english-dubbed",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoxj9mVjqaBTN0-8jTIFc3Ox1DnNVfbiJmZ4zmWhDAKfeRnGvivSxN0fI0VOdIpuIHpRerX-BBUBA-rxzMihYV2wEYmiGVxVFYuPhQc2038WpUfoQTZaTDYfbJrUZDmqage_HKlid0EuFrjQ4l3cQ5NhN8EVBXcA4YB5JrqhDGtXUqmNJ70wCchtBF1lS9RF-t1-JuQiQXfJD6ueqcyLNKSF34WiJSNFP1dpI3U4uwXftQDU8TzU7zQzytbzrjQupfgbw8nYRVXGgoHmYWWhzx8VedddN800o0ZKh57XQ54pqLTjgfAlzdxW4wvat4OBU4EV6Hp-zZrhM4OdCcF2TrOj3UbDV29yitFrU_QxaLpAS395AnYG8xKMHwZzE6O9Vg",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoxj9mVjqaBTN0-8jTIFc3Ox1DnNVfbiJmZ4zmWhDAKfeRnGvivSxN0fI0VOdIpuIHpRerX-BBUBA-rxzMihYV2wEYmiGVxVFYuPhQc2038WpUfoQTZaTDYfbJrUZDmqage_HKlid0EuFrjQ4l3cQ5NhN8EVBXcA4YB5JrqhDGtXUqmNJ70wCchtBF1lS9RF-t1-JuQiQXfJD6ueqcyLNKSF34WiJSNFP1dpI3U4uwXftQDU8TzU7zQzytbzrjQupfgbw8nYRVXGgoHmYWWhzx8VedddN800o0ZKh57XQ54pqLTjgfAlzdxW4wvat4OBU4EV6Hp-zZrhM4OdCcF2TrOj3UbDV29yitFrU_QxaLpAS395AnYG8xKMHwZzE6O9Vg"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoxj9mVjqaBTN0-8jTIFc3Ox1DnNVfbiJmZ4zmWhDAKfeRnGvivSxN0fI0VOdIpuIHpRerX-BBUBA-rxzMihYV2wEYmiGVxVFYuPhQc2038WpUfoQTZaTDYfbJrUZDmqauV5WuUmOSowDiVDxUBdnHpKrGaqg-BKG1duKpun8-INnLrF_KrHmaz33A3Bdv_Yzha1HucCA3B0Eo5sx7sEr6-e7LPJ3nofIp4BJ3PmOFYRt6lgW8qe-t0altLnJxN_4neEKvL1Je2grkqupDhbCMPn2Sjl49oogJnxRYcUJ9qdR1oaT_fsF6jOAyScRqkfpUB2CAZ2QxpzxR3WSJQP_fA479-ZXHkw1f6WwtL36hU-VSJ5pec05HTB12ekQvozMw",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoxj9mVjqaBTN0-8jTIFc3Ox1DnNVfbiJmZ4zmWhDAKfeRnGvivSxN0fI0VOdIpuIHpRerX-BBUBA-rxzMihYV2wEYmiGVxVFYuPhQc2038WpUfoQTZaTDYfbJrUZDmqauV5WuUmOSowDiVDxUBdnHpKrGaqg-BKG1duKpun8-INnLrF_KrHmaz33A3Bdv_Yzha1HucCA3B0Eo5sx7sEr6-e7LPJ3nofIp4BJ3PmOFYRt6lgW8qe-t0altLnJxN_4neEKvL1Je2grkqupDhbCMPn2Sjl49oogJnxRYcUJ9qdR1oaT_fsF6jOAyScRqkfpUB2CAZ2QxpzxR3WSJQP_fA479-ZXHkw1f6WwtL36hU-VSJ5pec05HTB12ekQvozMw"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoxj9mVjqaBTN0-8jTIFc3Ox1DnNVfbiJmZ4zmWhDAKfeRnGvivSxN0fI0VOdIpuIHpRerX-BBUBA-rxzMihYV2wEYmiGVxVFYuPhQc2038WpUfoQTZaTDYfbJrUZDmqavMqzp_4WKdEqbJv459_Dgt74it1bx_TiKkY8jjw7iJSaXE9RheB3wvOM6wab_paFXsqmgLOPBramzpeoe7DTsAugearmk4KzEwCcq1Lp2Hvi8tCSYdKJ3pp2XOA1cpVzuedsXJURibgJ3S0BSuovp92Q2GjxdwdgCuXh4HjNwKqVVWFjyf4l6MlfQ6mNQxdL9M1CRZ2RIoRdeagnhGbP-hlcUb2jrnhlVDFUfuPFx6o",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJoxj9mVjqaBTN0-8jTIFc3Ox1DnNVfbiJmZ4zmWhDAKfeRnGvivSxN0fI0VOdIpuIHpRerX-BBUBA-rxzMihYV2wEYmiGVxVFYuPhQc2038WpUfoQTZaTDYfbJrUZDmqavMqzp_4WKdEqbJv459_Dgt74it1bx_TiKkY8jjw7iJSaXE9RheB3wvOM6wab_paFXsqmgLOPBramzpeoe7DTsAugearmk4KzEwCcq1Lp2Hvi8tCSYdKJ3pp2XOA1cpVzuedsXJURibgJ3S0BSuovp92Q2GjxdwdgCuXh4HjNwKqVVWFjyf4l6MlfQ6mNQxdL9M1CRZ2RIoRdeagnhGbP-hlcUb2jrnhlVDFUfuPFx6o"
+                    }
+                ],
+                "passed": true
             }
         }
     }
