@@ -217,6 +217,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/play/cardfight-vanguard-divinez.V-8Pu/KK7IS5",
+                                "title": "Cardfight!! Vanguard: Divinez",
+                                "thumbnail_url": "https://img.animeworld.so/locandine/V-8Pu.jpg"
+                            },
+                            {
                                 "url": "/play/frieren-beyond-journeys-end-ita.v26Gn/nG00Kr",
                                 "title": "Frieren: Beyond Journey’s End (ITA)",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/kbcPv.jpg"
@@ -410,11 +415,6 @@
                                 "url": "/play/himesama-goumon-no-jikan-desu.rN9wP/CXUSeJ",
                                 "title": "'Tis Time for \"Torture,\" Princess",
                                 "thumbnail_url": "https://img.animeworld.so/locandine/rN9wP.jpg"
-                            },
-                            {
-                                "url": "/play/pokemon-2023.IzUqZ/2h4i-x",
-                                "title": "Pokemon Horizons: The Series",
-                                "thumbnail_url": "https://img.animeworld.so/locandine/MuSsy.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -662,14 +662,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=yMXQY9YbXvh1164&expires=1706405666&ip=Gy5QDREnDS9X&token=CQUMTUWib5D1",
-                        "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=yMXQY9YbXvh1164&expires=1706405666&ip=Gy5QDREnDS9X&token=CQUMTUWib5D1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
