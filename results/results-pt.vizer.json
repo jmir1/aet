@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/mestres-do-ar",
+                                "title": "Mestres do Ar",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22618.webp"
+                            },
+                            {
+                                "url": "/serie/online/expatriadas",
+                                "title": "Expatriadas",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22619.webp"
+                            },
+                            {
                                 "url": "/serie/online/o-zorro",
                                 "title": "O Zorro",
                                 "status": 1,
@@ -333,18 +345,6 @@
                                 "title": "A Morte Entre Outros Mistérios",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22609.webp"
-                            },
-                            {
-                                "url": "/serie/online/uma-loja-para-assassinos",
-                                "title": "Uma Loja Para Assassinos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22611.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-curse",
-                                "title": "The Curse",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22531.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }

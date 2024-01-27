@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/sasaki-and-peeps",
+                                "title": "Sasaki and Peeps",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933472.jpg"
+                            },
+                            {
+                                "url": "/anime/the-super-6",
+                                "title": "The Super 6",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933471.jpg"
+                            },
+                            {
                                 "url": "/anime/the-slim-shady-show",
                                 "title": "The Slim Shady Show",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933470.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/the-tom-and-jerry-comedy-show-1980",
                                 "title": "The Tom and Jerry Comedy Show 1980",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933457.jpg"
-                            },
-                            {
-                                "url": "/anime/the-new-adventures-of-jonny-quest-1986",
-                                "title": "The New Adventures of Jonny Quest 1986",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933456.jpg"
-                            },
-                            {
-                                "url": "/anime/the-new-adventures-of-nanoboy",
-                                "title": "The New Adventures of Nanoboy",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933455.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-slim-shady-show",
-                    "title": "The Slim Shady Show",
-                    "description": "The Slim Shady Show is a series of cartoons consisting of 8 episodes and 2 bonus episodes, which showcases the fictional adventures of Eminem’s alter-egos Slim Shady, Marshall Mathers and Ken Kaniff. This is one of the bonus episodes.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933470.jpg",
+                    "url": "/anime/sasaki-and-peeps",
+                    "title": "Sasaki and Peeps",
+                    "description": "Even though Sasaki’s droll corporate life is constantly filled with work, it leaves him tired and unfulfilled at the end of every day. In search of some companionship to fill the emptiness in his life, he visits a pet shop on a whim, not realizing he’s about to change his life forever. After settling on an adorable bird and bringing it home…his new roommate reveals that it’s actually an incredible sage from another world who promptly bestows Sasaki with supernatural powers as well as the ability to cross between worlds. All Sasaki wants to do is use these newfound powers to live in peace and comfort, but there are more than a few colorful characters who might get in the way of that…",
+                    "genre": "Adventure, Comedy, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933472.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-slim-shady-show-full",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    },
-                    {
-                        "url": "/the-slim-shady-show-episode-10-parent-teacher-night",
-                        "name": "Season 1 - Episode 10",
-                        "episode_number": 110.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnAVbgc7zfvCq8BWAcUT520q4fHYhHyzfkhTzLu7-eKwYVQ-sYj5ruaojkpQA1IIL_whDZLrVFUpLeUoyxPs3SvB5EkRZqE7AeeL4-yEB6fJnz80EbTCT3sRiKJ-EQ-Dxr11gli6cbZcri0U9QyKujoxNEOWrrZ8YubDCL5zdpdZNYb_q9vAn4p-nCe1g4wHU_ak85ZnUVi8SX3YBkgiDKkJZqHgmvezBnYZgsiEm8TR4r_0MVGCnPkRx0CcpxuhWc4qyhLkMLA3If1VLD4uRZcXwfnCXdpWgWaBswUUH981cdNpFPvsJWe9-Fgob0a3d91D2QXeTGbzAYNCuRimwAo",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnAVbgc7zfvCq8BWAcUT520q4fHYhHyzfkhTzLu7-eKwYVQ-sYj5ruaojkpQA1IIL_whDZLrVFUpLeUoyxPs3SvB5EkRZqE7AeeL4-yEB6fJnz80EbTCT3sRiKJ-EQ-Dxr11gli6cbZcri0U9QyKujoxNEOWrrZ8YubDCL5zdpdZNYb_q9vAn4p-nCe1g4wHU_ak85ZnUVi8SX3YBkgiDKkJZqHgmvezBnYZgsiEm8TR4r_0MVGCnPkRx0CcpxuhWc4qyhLkMLA3If1VLD4uRZcXwfnCXdpWgWaBswUUH981cdNpFPvsJWe9-Fgob0a3d91D2QXeTGbzAYNCuRimwAo"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnAVbgc7zfvCq8BWAcUT520q4fHYhHyzfkhTzLu7-eKwYVQ-sYj5ruaojkpQA1IIL_whDZLrVFUpLeUoyxPs3SvNzcxMB_oZY0xYhzerfgjzVwloQO1OFaHQD3NJxERtejEsZUiPqfDDFE5_pCvijjPLIV9qTO-l8EvFZh3ezS5UTKafuN5kprqHYskp6kVjpuMcepskZHqy3VMa7BsWFcPoRK0xVNxAU1bmSerAe80HD4ZJRjOhh7fD4Yw2Hlk9nzYOUSk9pYKvKiBz0IHLi6MPT-LQ0Mcdf80zrw5xYtyUzvCga8gKpKrKXZfPTOHZLQ",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJnAVbgc7zfvCq8BWAcUT520q4fHYhHyzfkhTzLu7-eKwYVQ-sYj5ruaojkpQA1IIL_whDZLrVFUpLeUoyxPs3SvNzcxMB_oZY0xYhzerfgjzVwloQO1OFaHQD3NJxERtejEsZUiPqfDDFE5_pCvijjPLIV9qTO-l8EvFZh3ezS5UTKafuN5kprqHYskp6kVjpuMcepskZHqy3VMa7BsWFcPoRK0xVNxAU1bmSerAe80HD4ZJRjOhh7fD4Yw2Hlk9nzYOUSk9pYKvKiBz0IHLi6MPT-LQ0Mcdf80zrw5xYtyUzvCga8gKpKrKXZfPTOHZLQ"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

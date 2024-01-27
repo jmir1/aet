@@ -42,11 +42,6 @@
                                 "thumbnail_url": "https://asianimg.pro/cover/a-shop-for-killers-1704186817.png"
                             },
                             {
-                                "url": "/videos/knight-flower-2024-episode-4",
-                                "title": "Knight Flower (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/flowers-that-bloom-at-night-1703174940.png"
-                            },
-                            {
                                 "url": "/videos/knight-flower-2024-episode-5",
                                 "title": "Knight Flower (2024)",
                                 "thumbnail_url": "https://asianimg.pro/cover/flowers-that-bloom-at-night-1703174940.png"
@@ -155,6 +150,11 @@
                                 "url": "/videos/the-matchmakers-2023-episode-16",
                                 "title": "The Matchmakers (2023)",
                                 "thumbnail_url": "https://asianimg.pro/cover/the-battle-of-marriage-1697510435.png"
+                            },
+                            {
+                                "url": "/videos/evilive-2023-episode-10",
+                                "title": "Evilive (2023)",
+                                "thumbnail_url": "https://asianimg.pro/cover/evillive-1695092907.png"
                             }
                         ],
                         "hasNextPage": true
@@ -342,8 +342,42 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02908/7bx3yup1gc43_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=95HvzMzgsJwMVSZKT7HVhIUx9qLYvbAWdySHaSxvgeQ&s=1706315448&e=129600&f=14544425&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02908/7bx3yup1gc43_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=95HvzMzgsJwMVSZKT7HVhIUx9qLYvbAWdySHaSxvgeQ&s=1706315448&e=129600&f=14544425&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/7bx3yup1gc43?caption_1=https://sub.pladrac.net&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02908/7bx3yup1gc43_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=95HvzMzgsJwMVSZKT7HVhIUx9qLYvbAWdySHaSxvgeQ&s=1706315448&e=129600&f=14544425&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02908/7bx3yup1gc43_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=95HvzMzgsJwMVSZKT7HVhIUx9qLYvbAWdySHaSxvgeQ&s=1706315448&e=129600&f=14544425&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/7bx3yup1gc43?caption_1=https://sub.pladrac.net&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02908/7bx3yup1gc43_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=95HvzMzgsJwMVSZKT7HVhIUx9qLYvbAWdySHaSxvgeQ&s=1706315448&e=129600&f=14544425&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02908/7bx3yup1gc43_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=95HvzMzgsJwMVSZKT7HVhIUx9qLYvbAWdySHaSxvgeQ&s=1706315448&e=129600&f=14544425&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/7bx3yup1gc43?caption_1=https://sub.pladrac.net&sub_1=English"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
