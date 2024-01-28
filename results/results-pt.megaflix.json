@@ -349,8 +349,19 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=RmbyjYOkDqcd8Vy&expires=1706492407&ip=FROsD0ETKxSHDN&token=wR_vP-6XjoEb",
+                        "quality": "StreamTape - Legendado",
+                        "videoUrl": "https://streamtape.com/get_video?id=RmbyjYOkDqcd8Vy&expires=1706492407&ip=FROsD0ETKxSHDN&token=wR_vP-6XjoEb"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=vLDVaje37pT4drk&expires=1706492407&ip=FROsD0ETKxSHDN&token=LN0g3vf9adWD",
+                        "quality": "StreamTape - Dublado",
+                        "videoUrl": "https://streamtape.com/get_video?id=vLDVaje37pT4drk&expires=1706492407&ip=FROsD0ETKxSHDN&token=LN0g3vf9adWD"
+                    }
+                ],
+                "passed": true
             }
         }
     }
