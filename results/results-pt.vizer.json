@@ -507,16 +507,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
                             },
                             {
-                                "url": "/serie/online/isekai-ojisan",
-                                "title": "Isekai Ojisan",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21879.webp"
-                            },
-                            {
                                 "url": "/serie/online/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
                                 "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20144.webp"
+                            },
+                            {
+                                "url": "/serie/online/isekai-ojisan",
+                                "title": "Isekai Ojisan",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/21879.webp"
                             },
                             {
                                 "url": "/serie/online/iroduku-o-mundo-em-cores",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
                 "passed": false
             }
         }

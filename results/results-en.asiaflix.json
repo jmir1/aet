@@ -3,27 +3,27 @@
         "name": "AsiaFlix (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<!--[if lt IE .....",
+                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
                 "passed": false
             }
         }
