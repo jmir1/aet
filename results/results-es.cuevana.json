@@ -7,6 +7,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/21555/senora-influencer",
+                                "title": "Señora Influencer",
+                                "thumbnail_url": "https://pelisimg.online/cover/senora-influencer.jpg"
+                            },
+                            {
+                                "url": "/21556/cazadores-en-tierra-inhospita",
+                                "title": "Cazadores en tierra inhóspita",
+                                "thumbnail_url": "https://pelisimg.online/cover/cazadores-en-tierra-inhospita.jpg"
+                            },
+                            {
+                                "url": "/21557/los-menospreciados",
+                                "title": "Los menospreciados",
+                                "thumbnail_url": "https://pelisimg.online/cover/los-menospreciados.jpg"
+                            },
+                            {
+                                "url": "/21558/skal-fight-for-survival",
+                                "title": "Skal - Fight for Survival",
+                                "thumbnail_url": "https://pelisimg.online/cover/skal-fight-for-survival.jpg"
+                            },
+                            {
+                                "url": "/21559/acide",
+                                "title": "Acide",
+                                "thumbnail_url": "https://pelisimg.online/cover/acide.jpg"
+                            },
+                            {
                                 "url": "/21549/shelter-in-solitude",
                                 "title": "Shelter in Solitude",
                                 "thumbnail_url": "https://pelisimg.online/cover/shelter-in-solitude.jpg"
@@ -200,31 +225,6 @@
                                 "url": "/21490/spider-man-sin-camino-a-casa",
                                 "title": "Spider-Man: Sin camino a casa",
                                 "thumbnail_url": "https://pelisimg.online/cover/spider-man-sin-camino-a-casa.jpg"
-                            },
-                            {
-                                "url": "/21491/spider-man-a-traves-del-spider-verso",
-                                "title": "Spider-Man: A través del Spider-Verso",
-                                "thumbnail_url": "https://pelisimg.online/cover/spider-man-a-traves-del-spider-verso.jpg"
-                            },
-                            {
-                                "url": "/21492/estado-de-emergencia",
-                                "title": "Estado de Emergencia",
-                                "thumbnail_url": "https://pelisimg.online/cover/estado-de-emergencia.jpg"
-                            },
-                            {
-                                "url": "/21493/harry-potter-y-las-reliquias-de-la-muerte-1a-parte",
-                                "title": "Harry Potter y las reliquias de la muerte (1ª parte)",
-                                "thumbnail_url": "https://pelisimg.online/cover/harry-potter-y-las-reliquias-de-la-muerte-1a-parte.jpg"
-                            },
-                            {
-                                "url": "/21494/avatar-el-camino-del-agua",
-                                "title": "Avatar: El camino del agua",
-                                "thumbnail_url": "https://pelisimg.online/cover/avatar-el-camino-del-agua.jpg"
-                            },
-                            {
-                                "url": "/21488/iron-man-el-hombre-de-hierro",
-                                "title": "Iron man - El hombre de hierro",
-                                "thumbnail_url": "https://pelisimg.online/cover/iron-man-el-hombre-de-hierro.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/21549/shelter-in-solitude",
-                    "title": "Shelter in Solitude",
-                    "description": "A death row prisoner with 10 days left to live forms an unlikely bond with a washed up country singer turned prison guard.",
-                    "genre": "Comedia, , Drama",
-                    "thumbnail_url": "https://pelisimg.online/cover/shelter-in-solitude.jpg",
+                    "url": "/21555/senora-influencer",
+                    "description": "",
+                    "genre": "",
+                    "thumbnail_url": "https://pelisimg.online",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +475,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/21549/shelter-in-solitude",
+                        "url": "/21555/senora-influencer",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,25 +483,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02910/ou1etu3utvwt_n/index-v1-a1.m3u8?t=Gdv04FfyDRCyr0AfF5suNXPlyrFCIuDS5F5R-Rlo8-s&s=1706378895&e=129600&f=14552531&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://grqe80ch9fw.sw-cdnstream.com/hls2/01/02910/ou1etu3utvwt_n/index-v1-a1.m3u8?t=Gdv04FfyDRCyr0AfF5suNXPlyrFCIuDS5F5R-Rlo8-s&s=1706378895&e=129600&f=14552531&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/ou1etu3utvwt"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=OYxBm3Vpg2FZ41Y&expires=1706448896&ip=FROsF0EnDS9X&token=1xYOKDom9SKf",
-                        "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=OYxBm3Vpg2FZ41Y&expires=1706448896&ip=FROsF0EnDS9X&token=1xYOKDom9SKf"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     },
@@ -513,6 +495,18 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/ver-pelicula/cazadores-en-tierra-inhospita",
+                                "title": "Cazadores en tierra inhóspita",
+                                "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado. Secuela del film de 2023 “Concrete Utopia”",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/los-menospreciados",
+                                "title": "Los menospreciados",
+                                "description": "Jaycen Jenning, una antigua superestrella de la NFL que, tras un encontronazo con la ley, acepta entrenar a un equipo de fútbol juvenil en lugar de ir a la cárcel con la esperanza de relanzar su incipiente carrera.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg"
+                            },
                             {
                                 "url": "/ver-pelicula/kevin-james-irregardless",
                                 "title": "Kevin James: Irregardless",
@@ -538,16 +532,22 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg"
                             },
                             {
+                                "url": "/ver-pelicula/hellhound",
+                                "title": "Hellhound",
+                                "description": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/one-more-shot-1214314",
                                 "title": "Otra bala más",
                                 "description": "Tras el atentado contra el centro clandestino de Polonia, el Navy SEAL Jake Harris recibe la orden de escoltar al sospechoso de terrorismo Amin Mansur hasta Washington D.C. para ser interrogado.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/hellhound",
-                                "title": "Hellhound",
-                                "description": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg"
+                                "url": "/ver-pelicula/sentencia-de-muerte-866398",
+                                "title": "Sentencia de muerte",
+                                "description": "En Beekeeper: Adam Clay (Jason Statham) es un hombre que se dedica a la apicultura. Pero cuando a su vecina le roban todo su dinero en un timo telefónico y luego se suicida, sus abejas tienen que pasar a un segundo plano y la venganza se covierte en su único objetivo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/lift-un-robo-de-primera-clase",
@@ -562,12 +562,6 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/4O6nybWUMSIEmeu8uNrk5jEdaet.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/sentencia-de-muerte-866398",
-                                "title": "Sentencia de muerte",
-                                "description": "En Beekeeper: Adam Clay (Jason Statham) es un hombre que se dedica a la apicultura. Pero cuando a su vecina le roban todo su dinero en un timo telefónico y luego se suicida, sus abejas tienen que pasar a un segundo plano y la venganza se covierte en su único objetivo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/justice-league-crisis-on-infinite-earths-part-one",
                                 "title": "Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1",
                                 "description": "El Antimonitor (la contrapartida malvada del Monitor) es liberado en el Multiverso DC y comienza a destruir las diferentes Tierras que lo componen. El Monitor intenta reclutar héroes de todo el Multiverso, pero es asesinado. Adaptación animada de La Liga de la Justicia: Crisis en Tierras Infinitas.",
@@ -580,6 +574,12 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mNyEZgyxHkvUgmsJsvZT3ks5Y7B.jpg"
                             },
                             {
+                                "url": "/ver-pelicula/roadkill",
+                                "title": "Roadkill",
+                                "description": "En las carreteras secundarias de un condado rural, la búsqueda de justicia de una joven se descarrila cuando se ve envuelta en una persecución policial de un asesino fugitivo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/txDIiggyiFNbwa6TrZvBRfw6E54.jpg"
+                            },
+                            {
                                 "url": "/ver-pelicula/race-for-glory-audi-vs-lancia",
                                 "title": "Race for Glory: Audi vs Lancia",
                                 "description": "Inspirado en hechos reales que ocurrieron durante la feroz rivalidad entre Alemania (Audi) e Italia (Lancia) en el Campeonato Mundial de Rally de 1983.",
@@ -590,12 +590,6 @@
                                 "title": "The Painter",
                                 "description": "Un ex agente de la CIA regresa a un mundo peligroso cuando reaparece una misteriosa mujer de su pasado. Ahora expuesto y atacado por un asesino implacable y un programa de operaciones encubiertas deshonesto, debe confiar en habilidades que creía haber dejado atrás.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/roadkill",
-                                "title": "Roadkill",
-                                "description": "En las carreteras secundarias de un condado rural, la búsqueda de justicia de una joven se descarrila cuando se ve envuelta en una persecución policial de un asesino fugitivo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/txDIiggyiFNbwa6TrZvBRfw6E54.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/aguas-siniestras",
@@ -644,18 +638,6 @@
                                 "title": "Remando Como Un Solo Hombre",
                                 "description": "Una historia ambientada en la década de 1930 centrada en el equipo de remo de la Universidad de Washington, desde sus comienzos en la era de la Depresión hasta ganar el oro en los Juegos Olímpicos de Berlín de 1936.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2by4DHPmfaTqJ9YJZJK5tPxHpuk.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/meu-cunhado-e-um-vampiro",
-                                "title": "Meu cunhado é um vampiro",
-                                "description": "Fernandinho es un hombre de familia, exjugador de fútbol y actual comentarista de podcasts, que tiene que armarse de valor para pararle los pies a su inoportuno cuñado, Gregorio, de quien descubre que es un holgazán y literalmente un chupasangre que se propone dominar el mundo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/t3gIa1WUT9Me8Y6GekXt1A5VdTp.jpg"
-                            },
-                            {
-                                "url": "/ver-pelicula/the-puppetman",
-                                "title": "The Puppetman",
-                                "description": "El 'Puppetman', un asesino convicto en el corredor de la muerte, siempre sostuvo su inocencia y que era una fuerza maligna la que controlaba su cuerpo mientras masacraba a sus víctimas. Ahora Michal, la hija del asesino, empieza a sospechar que puede haber algo de verdad en la afirmación de su padre cuando los que la rodean empiezan a morir de forma brutal. Debe intentar romper la maldición del 'Puppetman' antes de que todos sus seres queridos sean asesinados.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/wEnct8jeMHYzOfm5Y6QmxD3V61t.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -704,28 +686,28 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/death-note-iluminando-un-nuevo-mundo",
-                                "title": "Death Note: Iluminando un nuevo mundo",
-                                "description": "Diez años han pasado desde la confrontación entre Kira y L. Una vez más, los Shinigamis envían Death Notes al suelo y debido a esto, el mundo pronto cae en el caos. Tsukuru es un miembro del equipo de fuerza especial sobre la investigación de las Death Notes con otros seis investigadores, incluyendo a Matsuda que experimentó el caso de Kira hace años. El mundialmente famoso investigador privado Ryuzaki, que es el legítimo sucesor de L, también investiga los asesinatos en masa. A su vez, un virus informático llamado Kira se propaga por el mundo. El enfrentamiento comienza entre la persona que quiere el avivamiento de Kira y las personas que quieren detenerlo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/jurassic-world-el-reino-caido",
                                 "title": "Jurassic World: El Reino Caído",
                                 "description": "Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinosaurios, una organización dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabajó en el parque, para que la ayude a evitar la extinción de los dinosaurios... Secuela de \"Jurassic World\".",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/mundo-fantasma",
-                                "title": "Mundo Fantasma",
-                                "description": "Enid y Rebecca, dos rebeldes adolescentes amigas desde hace años, no saben cómo pasar el rato ahora que ya han acabado los estudios de secundaria. Pese a sus tímidos esfuerzos por encontrar trabajo, a menudo acaban deambulando por las calles, escrutando el comportamiento de la gente que les rodea. Atraídas por los personajes excéntricos, suelen mirar los anuncios personales del periódico local. Enid llama al autor del anuncio más lamentable, un hombre solitario de cuarenta años, coleccionista de discos, y le invita a una cita a ciegas. Ambas acudirán al restaurante convenido para espiarle y saber cómo es su vida...",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                                "url": "/ver-pelicula/death-note-iluminando-un-nuevo-mundo",
+                                "title": "Death Note: Iluminando un nuevo mundo",
+                                "description": "Diez años han pasado desde la confrontación entre Kira y L. Una vez más, los Shinigamis envían Death Notes al suelo y debido a esto, el mundo pronto cae en el caos. Tsukuru es un miembro del equipo de fuerza especial sobre la investigación de las Death Notes con otros seis investigadores, incluyendo a Matsuda que experimentó el caso de Kira hace años. El mundialmente famoso investigador privado Ryuzaki, que es el legítimo sucesor de L, también investiga los asesinatos en masa. A su vez, un virus informático llamado Kira se propaga por el mundo. El enfrentamiento comienza entre la persona que quiere el avivamiento de Kira y las personas que quieren detenerlo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/the-world-to-come",
                                 "title": "The World to Come",
                                 "description": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/mundo-fantasma",
+                                "title": "Mundo Fantasma",
+                                "description": "Enid y Rebecca, dos rebeldes adolescentes amigas desde hace años, no saben cómo pasar el rato ahora que ya han acabado los estudios de secundaria. Pese a sus tímidos esfuerzos por encontrar trabajo, a menudo acaban deambulando por las calles, escrutando el comportamiento de la gente que les rodea. Atraídas por los personajes excéntricos, suelen mirar los anuncios personales del periódico local. Enid llama al autor del anuncio más lamentable, un hombre solitario de cuarenta años, coleccionista de discos, y le invita a una cita a ciegas. Ambas acudirán al restaurante convenido para espiarle y saber cómo es su vida...",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
                             },
                             {
                                 "url": "/ver-serie/the-prince-of-tennis-ii-u-17-world-cup",
@@ -758,16 +740,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
                             },
                             {
-                                "url": "/ver-serie/w-dos-mundos",
-                                "title": "W Dos Mundos",
-                                "description": "Oh Yeon Joo (Han Hyo Joo) es una cirujana cardiotorácica en sus 30 cuyo padre se dedica a escribir el webtoon más famoso de Corea \"W\". El autor (Kim Eui Sung), harto ya del personaje de Kang Chul (Lee Jong Suk), decide que es hora de matarlo. Sin embargo, por sucesos inesperados, ella se traslada al mundo ficticio donde vive Kang Chul y lo salva. De ahí en adelante Oh Yeon Joo intentará averiguar qué sucede realmente para que ambos mundos se unan y por qué su padre está empeñado en matar al personaje principal de su obra. Kang Chul es campeón olímpico de medalla de oro. Desde muy joven se hizo un heredero. Es una persona inteligente que está acostumbrado a pensar con la cabeza fría y tener ideas claras antes de actuar. Oh Yeon Joo es una médico residente de segundo año en especialidad de medicina cardiotorácica. Es una persona de gran corazón, pero que actúa antes de pensar. El drama se desarrolla en un universo paralelo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/jurassic-world-campamento-cretacico",
                                 "title": "Jurassic World: Campamento Cretácico",
                                 "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/w-dos-mundos",
+                                "title": "W Dos Mundos",
+                                "description": "Oh Yeon Joo (Han Hyo Joo) es una cirujana cardiotorácica en sus 30 cuyo padre se dedica a escribir el webtoon más famoso de Corea \"W\". El autor (Kim Eui Sung), harto ya del personaje de Kang Chul (Lee Jong Suk), decide que es hora de matarlo. Sin embargo, por sucesos inesperados, ella se traslada al mundo ficticio donde vive Kang Chul y lo salva. De ahí en adelante Oh Yeon Joo intentará averiguar qué sucede realmente para que ambos mundos se unan y por qué su padre está empeñado en matar al personaje principal de su obra. Kang Chul es campeón olímpico de medalla de oro. Desde muy joven se hizo un heredero. Es una persona inteligente que está acostumbrado a pensar con la cabeza fría y tener ideas claras antes de actuar. Oh Yeon Joo es una médico residente de segundo año en especialidad de medicina cardiotorácica. Es una persona de gran corazón, pero que actúa antes de pensar. El drama se desarrolla en un universo paralelo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/007-el-mundo-no-basta",
@@ -800,16 +782,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/la-guerra-de-los-mundos-destruccion-total",
-                                "title": "La Guerra de los mundos: Destrucción total",
-                                "description": "Una madre y su hijo se enfrentan a una brutal invasión alienígena en la que la supervivencia dependerá de descubrir la impensable verdad sobre el enemigo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
-                            },
-                            {
                                 "url": "/ver-serie/carol-y-el-fin-del-mundo",
                                 "title": "Carol y el fin del mundo",
                                 "description": "Ante un inminente apocalipsis planetario, una mujer desconcertada por el caos colectivo intenta darle sentido al tiempo que le queda en la Tierra.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/la-guerra-de-los-mundos-destruccion-total",
+                                "title": "La Guerra de los mundos: Destrucción total",
+                                "description": "Una madre y su hijo se enfrentan a una brutal invasión alienígena en la que la supervivencia dependerá de descubrir la impensable verdad sobre el enemigo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -819,12 +801,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/ver-pelicula/kevin-james-irregardless",
-                    "title": "Kevin James: Irregardless",
-                    "artist": "Kevin James",
-                    "description": "Especial de Kevin James con temas como la paternidad, el matrimonio y la vejez.",
-                    "genre": "Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mmyxo5C8Py2QILm1IIt4bMSy3Yv.jpg",
+                    "url": "/ver-pelicula/cazadores-en-tierra-inhospita",
+                    "title": "Cazadores en tierra inhóspita",
+                    "artist": "Ma Dong-seok",
+                    "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en acción para rescatar a una chica en manos de un médico trastornado. Secuela del film de 2023 “Concrete Utopia”",
+                    "genre": "Acción, Ciencia ficción",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -832,7 +814,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver-pelicula/kevin-james-irregardless",
+                        "url": "/ver-pelicula/cazadores-en-tierra-inhospita",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -842,47 +824,42 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/ezz2sn4ixyn9",
-                        "quality": "[ENG] Voe:720p",
-                        "videoUrl": "https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/10354/mzipccjh5bhn_,n,.urlset/master.m3u8?t=nu3VPPO66ke80ch8eEvU1nhXGEgQ9osMX4Itoz4mbzs&s=1706378901&e=14400&f=51803338&node=delivery-node-jiy9zlzwdiiewfw2.voe-network.net&i=20.97&sp=2500&asn=8075"
+                        "url": "https://voe.sx/e/cxokguxwyrsu",
+                        "quality": "[LAT] Voe:720p",
+                        "videoUrl": "https://delivery-node-gb7y0w6lzevvo7bt.voe-network.net/engine/hls2-c/01/10379/cxokguxwyrsu_,n,.urlset/master.m3u8?t=zLjxpmXRwMWYXXKKUnwfAKDYn9YbIWjz7-33dujjo2g&s=1706401991&e=14400&f=51896392&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=40.76&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=owe-rWiuYEqubtcQvTlbX09eqxyL8M0MYBgZNlYURVs&s=1706378899&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "[ENG] StreamWish:980p",
-                        "videoUrl": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=owe-rWiuYEqubtcQvTlbX09eqxyL8M0MYBgZNlYURVs&s=1706378899&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "url": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/02916/5aa0w8xsavm2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=ymh2eC4-udmEdl7NHyrI3xAN5RlvTe-U2-9NpLzMqQY&s=1706402023&e=129600&f=14584547&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/02916/5aa0w8xsavm2_,n,h,.urlset/index-f2-v1-a1.m3u8?t=ymh2eC4-udmEdl7NHyrI3xAN5RlvTe-U2-9NpLzMqQY&s=1706402023&e=129600&f=14584547&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/20v6e2pl509g"
+                            "Referer": "https://streamwish.to/e/5aa0w8xsavm2"
                         }
                     },
                     {
-                        "url": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=owe-rWiuYEqubtcQvTlbX09eqxyL8M0MYBgZNlYURVs&s=1706378899&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=owe-rWiuYEqubtcQvTlbX09eqxyL8M0MYBgZNlYURVs&s=1706378899&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
+                        "url": "https://soqzlgevoq9t.enaak-cdn.com/hls2/01/01178/7wpoor6pm6jh_n/index-v1-a1.m3u8?t=DE65gS9QdgRZ2PYPeFhDTBBbGnLHKyTJNmJL0fPKGyI&s=1706401990&e=129600&f=5892916&srv=n0kpM9okW5Ok&i=0.4&sp=1500&p1=n0kpM9okW5Ok&p2=n0kpM9okW5Ok&asn=8075",
+                        "quality": "[LAT] FileLions:720p",
+                        "videoUrl": "https://soqzlgevoq9t.enaak-cdn.com/hls2/01/01178/7wpoor6pm6jh_n/index-v1-a1.m3u8?t=DE65gS9QdgRZ2PYPeFhDTBBbGnLHKyTJNmJL0fPKGyI&s=1706401990&e=129600&f=5892916&srv=n0kpM9okW5Ok&i=0.4&sp=1500&p1=n0kpM9okW5Ok&p2=n0kpM9okW5Ok&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://filelions.to",
+                            "Referer": "https://filelions.to/v/7wpoor6pm6jh"
+                        }
+                    },
+                    {
+                        "url": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/02916/5aa0w8xsavm2_,n,h,.urlset/index-f1-v1-a1.m3u8?t=ymh2eC4-udmEdl7NHyrI3xAN5RlvTe-U2-9NpLzMqQY&s=1706402023&e=129600&f=14584547&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/02916/5aa0w8xsavm2_,n,h,.urlset/index-f1-v1-a1.m3u8?t=ymh2eC4-udmEdl7NHyrI3xAN5RlvTe-U2-9NpLzMqQY&s=1706402023&e=129600&f=14584547&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/20v6e2pl509g"
+                            "Referer": "https://streamwish.to/e/5aa0w8xsavm2"
                         }
-                    },
-                    {
-                        "url": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=owe-rWiuYEqubtcQvTlbX09eqxyL8M0MYBgZNlYURVs&s=1706378899&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02901/20v6e2pl509g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=owe-rWiuYEqubtcQvTlbX09eqxyL8M0MYBgZNlYURVs&s=1706378899&e=129600&f=14509505&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8075",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/20v6e2pl509g"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=bgQ0G1BMwxixDL&expires=1706448902&ip=FROsF0EnDS9X&token=n8wibl3evnxY",
-                        "quality": "[ENG] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=bgQ0G1BMwxixDL&expires=1706448902&ip=FROsF0EnDS9X&token=n8wibl3evnxY"
                     }
                 ],
                 "passed": true

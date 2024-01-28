@@ -165,8 +165,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://hls35-eu.zcdn.stream/96322ce66542edc471bfbb2bb0133501/2024-01-11/480.m3u8?token=78db8ad209d23adf8bdb287fc275e08c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1706430810&type=edge&node=njLqnyYMJinnwuvDKiQD8YspF0ZdU7BJj8iZmyMdOkrfn787SNfbTPrkhzNblmyKolsYbDgZ9Y2wW-qArTpShfkX_1ziGIb6eJcKsI46iK2vdrNi0ADXTJpTDqj2wEx3z4XY2ezBYB9XTLwy4uaHnsyY0NowQnyFK3X-kQe8NmM",
+                        "quality": "Chillx - 480p",
+                        "videoUrl": "https://hls35-eu.zcdn.stream/96322ce66542edc471bfbb2bb0133501/2024-01-11/480.m3u8?token=78db8ad209d23adf8bdb287fc275e08c&client=d41d8cd98f00b204e9800998ecf8427e&expires=1706430810&type=edge&node=njLqnyYMJinnwuvDKiQD8YspF0ZdU7BJj8iZmyMdOkrfn787SNfbTPrkhzNblmyKolsYbDgZ9Y2wW-qArTpShfkX_1ziGIb6eJcKsI46iK2vdrNi0ADXTJpTDqj2wEx3z4XY2ezBYB9XTLwy4uaHnsyY0NowQnyFK3X-kQe8NmM",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://bestx.stream",
+                            "Referer": "https://bestx.stream/v/7f58LOUUMSmr/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
