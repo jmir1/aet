@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/变种人：幽灵战姬/",
+                                "title": "变种人：幽灵战姬",
+                                "description": "Wu Qingqing es un agente de la Alianza de Seguridad Internacional (para combatir el crimen mutante) ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/C12LeXaeJIGSlE55jnp4UG3mIVek.webp"
+                            },
+                            {
+                                "url": "/pelicula/monsters-el-infierno-del-dragon/",
+                                "title": "Monsters: El infierno del dragón",
+                                "description": "El camino de un samurái se cruza con el de una joven camarera cuya aldea fue destruida por un drag�...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/iwYrr12xeiDjZBPzih.webp"
+                            },
+                            {
+                                "url": "/pelicula/cazadores-en-tierra-inhospita-badland-hunters/",
+                                "title": "Cazadores en tierra inhóspita (Badland Hunters)",
+                                "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/4V4cGAjpBT4EsUYDdsA.webp"
+                            },
+                            {
+                                "url": "/pelicula/inmotep/",
+                                "title": "Inmotep",
+                                "description": "Un joven chófer investiga la desaparición de un cliente. Cuenta con la ayuda de su profesor de ita...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/mOCpqpY4IRLQpoVrsMi.webp"
+                            },
+                            {
                                 "url": "/pelicula/un-cuento-de-circo-a-love-song/",
                                 "title": "Un Cuento de Circo & A Love Song",
                                 "description": "",
@@ -65,12 +89,6 @@
                                 "title": "American Star",
                                 "description": "Un asesino en una última misión en Fuerteventura, matar a un hombre al que nunca ha conocido. Cuan...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/AXnZzpDaWINDY6zecNkTlu.webp"
-                            },
-                            {
-                                "url": "/pelicula/cazadores-en-tierra-inhospita-badland-hunters/",
-                                "title": "Cazadores en tierra inhóspita (Badland Hunters)",
-                                "description": "Después de un terremoto que convierte Seúl en una tierra inhóspita y sin ley, un cazador entra en...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/4V4cGAjpBT4EsUYDdsA.webp"
                             },
                             {
                                 "url": "/pelicula/senora-influencer/",
@@ -227,24 +245,6 @@
                                 "title": "Wonka",
                                 "description": "Basada en el personaje que protagoniza \"Charlie y la fábrica de chocolate\", el libro infantil más ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/icIBnaRDYesisNGsMgcMSIvo4Btpr3cA5K1jLIN.webp"
-                            },
-                            {
-                                "url": "/pelicula/champions/",
-                                "title": "Champions",
-                                "description": "Un equipo de baloncesto entrena y compite en las Olimpiadas Especiales bajo la guía de un entrenado...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/bTz0Hgt3C4J698wkLblxzH3OVYUYjHv.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-road-dance/",
-                                "title": "The Road Dance",
-                                "description": "Una joven vive en las Islas Hébridas Exteriores en un pequeño pueblo en los años previos a la Pri...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/mRi5WWeMptGNkIn.webp"
-                            },
-                            {
-                                "url": "/pelicula/golpe-de-suerte/",
-                                "title": "Golpe de Suerte",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ASxrKdIYzgXhknCirRpHdGupL7z8wqMW89.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -515,27 +515,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/un-cuento-de-circo-a-love-song/",
-                    "title": "Un Cuento de Circo & A Love Song",
-                    "description": "",
-                    "genre": "Drama, Romance",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/un-cuento-de-circo-a-love-song/",
-                        "name": "Pelicula",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar hirejAH = \"\"; QBOrRoK.forEach(function Oym(value) { hirejAH += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
