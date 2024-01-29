@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/the-angel-next-door-spoils-me-rotten/",
+                                "title": "The Angel Next Door Spoils Me Rotten",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/i4Vxh8qdgH1OnXklWgBJPOdSJZx.jpg"
+                            },
+                            {
                                 "url": "/series/trigun-stampede/",
                                 "title": "TRIGUN STAMPEDE",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/8mqvaj0a74JZkvCc4w1J2ePchl.jpg"
@@ -200,11 +205,6 @@
                                 "url": "/series/ippon-again/",
                                 "title": "Ippon again!",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/5EfLTgMXunmkMWEF9kJFGKeusQ9.jpg"
-                            },
-                            {
-                                "url": "/series/giant-beasts-of-ars/",
-                                "title": "Giant Beasts of Ars",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/p57u7ojoEuRgZZR4hNEpkUYydOd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -369,41 +369,24 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/trigun-stampede/",
-                    "title": "TRIGUN STAMPEDE",
-                    "description": "Vash the Stampede ist ein fröhlicher, schießwütiger Pazifist. Aber warum ist dann ein Kopfgeld von $$6 Millionen auf ihn ausgesetzt? Das zumindest stellt die junge Reporterin Meryl Stryfe und ihren erfahrenen Partner vor ein Rätsel, als sie den Selbstjustizler unter die Lupe nehmen und lediglich jemanden vorfinden, der Blut verabscheut. Doch ihre Ermittlungen fördern etwas Niederträchtiges ans Licht – seinen bösen Zwillingsbruder, Millions Knives.",
-                    "genre": "Action & Adventure, Animation, Sci-Fi & Fantasy",
+                    "url": "/series/the-angel-next-door-spoils-me-rotten/",
+                    "title": "The Angel Next Door Spoils Me Rotten",
+                    "description": "Mahiru ist ein wunderschönes Mädchen, das von ihren Mitschülern als „Engel“ bezeichnet wird. Sie ist nicht nur eine Spitzensportlerin mit perfekten Noten, sondern auch noch umwerfend schön. Amane hingegen ist ein durchschnittlicher Typ und ein bekennender Faulpelz. Er hat noch nie viel von der göttlichen Schönheit gehalten, obwohl sie auf dieselbe Schule gehen. Das ändert sich jedoch schlagartig, als er Mahiru zufällig während eines Regenschauers allein im Park sitzen sieht. So beginnt eine seltsame Beziehung zwischen diesem unglaublich unwahrscheinlichen Paar!",
+                    "genre": "Animation, Komödie",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/8mqvaj0a74JZkvCc4w1J2ePchl.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/i4Vxh8qdgH1OnXklWgBJPOdSJZx.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/trigun-stampede-staffel-1-folge-12",
-                        "name": "Folge 12 - Aufbruch zur neuen Welt",
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/episode/trigun-stampede-staffel-1-folge-11",
-                        "name": "Folge 11 - Aufbruch zur neuen Welt",
-                        "episode_number": 0.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://metastream.to/7w2kcx2rf9nb/TRIGUN.STAMPEDE.S01E12.German.ML.AAC.720p.CR.WebDL.x264-DK.mkv",
-                        "quality": "Metastream",
-                        "videoUrl": "https://www1.metastream.to/hls2/07/00003/7w2kcx2rf9nb_h/master.m3u8?t=a7jj-oljc1RFdApIwBplQkYvEq5Uqmgg-Oh5uic-B-A&s=1706488265&e=43200&f=15185&i=20.97&sp=0"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "passed": false
             }
         }
     }

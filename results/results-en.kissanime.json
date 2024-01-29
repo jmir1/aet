@@ -3,13 +3,48 @@
         "name": "kissanime.com.ru (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-Dub/",
+                                "title": "The Weakest Tamer Began a Journey to Pick Up Trash (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/Yami-Shibai-12/",
+                                "title": "Yami Shibai 12",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Yami-Shibai-12.jpg"
+                            },
+                            {
+                                "url": "/Anime/Mr-Villain-s-Day-Off/",
+                                "title": "Mr. Villain's Day Off",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Mr-Villain-s-Day-Off.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Fire-Hunter-Season-2/",
+                                "title": "The Fire Hunter Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Fire-Hunter-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Meiji-Gekken-1874/",
+                                "title": "Meiji Gekken: 1874",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Meiji-Gekken-1874.jpg"
+                            },
+                            {
+                                "url": "/Anime/7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy/",
+                                "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy.jpg"
+                            },
+                            {
+                                "url": "/Anime/Fluffy-Paradise/",
+                                "title": "Fluffy Paradise",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Fluffy-Paradise.jpg"
+                            },
                             {
                                 "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/",
                                 "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
@@ -224,41 +259,6 @@
                                 "url": "/Anime/Odekake-Kozame/",
                                 "title": "A Little Shark Going Out",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
-                            },
-                            {
-                                "url": "/Anime/Fight-Da-Pyuta/",
-                                "title": "Fight Da!! Pyuta",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/Fight-Da-Pyuta.jpg"
-                            },
-                            {
-                                "url": "/Anime/BEYBLADE-X/",
-                                "title": "BEYBLADE X",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/BEYBLADE-X.jpg"
-                            },
-                            {
-                                "url": "/Anime/Undead-Unluck-Dub/",
-                                "title": "Undead Unluck (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Undead-Unluck-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Chou-Futsuu-ken-Chiba-Densetsu/",
-                                "title": "The Legend of Super normal Pref. CHIBA",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Legend-of-Super-normal-Pref-CHIBA.jpg"
-                            },
-                            {
-                                "url": "/Anime/Laid-Back-Camp-Season-2-Dub/",
-                                "title": "Laid-Back Camp Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Laid-Back-Camp-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Heaven-Official-s-Blessing-Season-2-Dub/",
-                                "title": "Heaven Official's Blessing Season 2 (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Heaven-Official-s-Blessing-Season-2-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Bottom-Tier-Character-Tomozaki-2nd-Stage-Dub/",
-                                "title": "Bottom-Tier Character Tomozaki 2nd Stage (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bottom-Tier-Character-Tomozaki-2nd-Stage-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/",
-                    "title": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
-                    "description": "The second season of Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita.\n\nUser rating: 95%",
-                    "genre": "Action, Adventure, Fantasy, Romance, Slice Of Life",
+                    "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-Dub/",
+                    "title": "The Weakest Tamer Began a Journey to Pick Up Trash (Dub)",
+                    "description": "Stars are everything, granting abilities to Tamers. So when Ivy was born without one, her village took it as an ill omen! Now banished, she leads a lonely life of salvaging rubbish to survive. That is until she befriends Sora, a weak little slime, in the forest. Together, the delicate duo embarks on a heartwarming journey of survival and discovers there’s more to Ivy than being starless. (Source: Crunchyroll)\n\nUser rating: 96%",
+                    "genre": "Adventure, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Banished-from-the-Heros-Party-I-Decided-to-Live-a-Quiet-Life-in-the-Countryside-Season-2.jpg",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-Dub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,36 +792,23 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/Episode-004?id=188434",
-                        "name": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2 - Episode 004",
-                        "date_upload": 1706400000000,
-                        "episode_number": 4.0
+                        "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-Dub/Episode-003?id=188441",
+                        "name": "The Weakest Tamer Began a Journey to Pick Up Trash (Dub) - Episode 003",
+                        "date_upload": 1706486400000,
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/Anime/Shin-no-Nakama-ja-Nai-to-Yuusha-no-Party-wo-Oidasareta-node-Henkyou-de-Slow-Life-suru-Koto-ni-shimashita-2nd/Episode-003?id=188296",
-                        "name": "Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2 - Episode 003",
-                        "date_upload": 1705795200000,
-                        "episode_number": 3.0
+                        "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash-Dub/Episode-002?id=188303",
+                        "name": "The Weakest Tamer Began a Journey to Pick Up Trash (Dub) - Episode 002",
+                        "date_upload": 1705881600000,
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s46.openstream.io/hls/qvsbdavqmxblgwsztsz2aoo5lkk2qtg3tbnreja4f22l4723ywf4fnwrdvqq/index-v1-a1.m3u8",
-                        "quality": "Oserver - 720p",
-                        "videoUrl": "https://s46.openstream.io/hls/qvsbdavqmxblgwsztsz2aoo5lkk2qtg3tbnreja4f22l4723ywf4fnwrdvqq/index-v1-a1.m3u8",
-                        "headers": {
-                            "Accept": "*/*",
-                            "Host": "s46.openstream.io",
-                            "Origin": "https://embed.vodstream.xyz",
-                            "Referer": "https://embed.vodstream.xyz/",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             }
         }
     }

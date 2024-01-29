@@ -504,8 +504,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://streamtape.com/get_video?id=rK4aoBX8YycbPrY&expires=1706578555&ip=FROsF0EnDS9X&token=lnmYWlBkomod",
+                        "quality": "StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=rK4aoBX8YycbPrY&expires=1706578555&ip=FROsF0EnDS9X&token=lnmYWlBkomod"
+                    }
+                ],
+                "passed": true
             }
         }
     }

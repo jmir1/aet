@@ -116,6 +116,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/category/tousouchuu-great-mission",
+                                "title": "Tousouchuu: Great Mission",
+                                "thumbnail_url": "https://gogocdn.net/cover/tousouchuu-great-mission-1680203786.png"
+                            },
+                            {
+                                "url": "/category/kyuujitsu-no-warumono-san",
+                                "title": "Kyuujitsu no Warumono-san",
+                                "thumbnail_url": "https://gogocdn.net/cover/kyuujitsu-no-warumono-san-1704186864.png"
+                            },
+                            {
+                                "url": "/category/yami-shibai-12",
+                                "title": "Yami Shibai 12",
+                                "thumbnail_url": "https://gogocdn.net/cover/yami-shibai-12.png"
+                            },
+                            {
                                 "url": "/category/hikari-no-ou-2nd-season",
                                 "title": "Hikari no Ou 2nd Season",
                                 "thumbnail_url": "https://gogocdn.net/cover/hikari-no-ou-2nd-season-1704184627.png"
@@ -199,21 +214,6 @@
                                 "url": "/category/kusuriya-no-hitorigoto",
                                 "title": "Kusuriya no Hitorigoto",
                                 "thumbnail_url": "https://gogocdn.net/cover/kusuriya-no-hitorigoto-1696009733.png"
-                            },
-                            {
-                                "url": "/category/boku-no-kokoro-no-yabai-yatsu-season-2",
-                                "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-                                "thumbnail_url": "https://gogocdn.net/cover/boku-no-kokoro-no-yabai-yatsu-season-2-1704168450.png"
-                            },
-                            {
-                                "url": "/category/ao-no-exorcist-shimane-illuminati-hen",
-                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
-                                "thumbnail_url": "https://gogocdn.net/cover/ao-no-exorcist-shimane-illuminati-hen-1704168077.png"
-                            },
-                            {
-                                "url": "/category/mashle-2nd-season",
-                                "title": "Mashle 2nd Season",
-                                "thumbnail_url": "https://gogocdn.net/cover/mashle-2nd-season-1704187272.png"
                             }
                         ],
                         "hasNextPage": true
@@ -344,12 +344,158 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/dungeon-meshi-episode-4",
+                        "name": "Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/dungeon-meshi-episode-3",
+                        "name": "Episode 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.1080.m3u8",
+                        "quality": "Gogostream - 1080p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjE5NTc4&token=TPUqXtlDG7NVOHu90mWE7w&expires=1706515751"
+                        }
+                    },
+                    {
+                        "url": "https://l7jxhdn5z4yp.enaak-cdn.com/hls2/01/01170/16rrsxw26u6s_o/index-v1-a1.m3u8?t=n6_eZtDG3zdzetm8zARm7It5IzKuAxOw_kaHD7Ed-LI&s=1706508551&e=129600&f=5851824&srv=igcswvmzhgd5&i=0.4&sp=1500&p1=igcswvmzhgd5&p2=igcswvmzhgd5&asn=8075",
+                        "quality": "FileLions - 1080p",
+                        "videoUrl": "https://l7jxhdn5z4yp.enaak-cdn.com/hls2/01/01170/16rrsxw26u6s_o/index-v1-a1.m3u8?t=n6_eZtDG3zdzetm8zARm7It5IzKuAxOw_kaHD7Ed-LI&s=1706508551&e=129600&f=5851824&srv=igcswvmzhgd5&i=0.4&sp=1500&p1=igcswvmzhgd5&p2=igcswvmzhgd5&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://alions.pro",
+                            "Referer": "https://alions.pro/v/16rrsxw26u6s"
+                        }
+                    },
+                    {
+                        "url": "https://www14.mp4upload.com:183/d/qwxswup4z3b4quuorcquyoaukp2uugqdq45mgeara3rlt2ln5m47wicsu7ugim7aocqjdb4h/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxswup4z3b4quuorcquyoaukp2uugqdq45mgeara3rlt2ln5m47wicsu7ugim7aocqjdb4h/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Origin": "https://anitaku.to",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02899/mhje6ai3x42v_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=4BC0Lasko90ViMJfXns3IPN3GJH7tIUjkC0vgAlzMjU&s=1706508553&e=129600&f=14496589&srv=CIZz2w6HMADb&i=0.4&sp=500&p1=CIZz2w6HMADb&p2=CIZz2w6HMADb&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02899/mhje6ai3x42v_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=4BC0Lasko90ViMJfXns3IPN3GJH7tIUjkC0vgAlzMjU&s=1706508553&e=129600&f=14496589&srv=CIZz2w6HMADb&i=0.4&sp=500&p1=CIZz2w6HMADb&p2=CIZz2w6HMADb&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://awish.pro",
+                            "Referer": "https://awish.pro/e/mhje6ai3x42v"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.1080.m3u8",
+                        "quality": "Vidstreaming - 1080p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.1080.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE5NTc4&title=Dungeon+Meshi+Episode+4"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.720.m3u8",
+                        "quality": "Gogostream - 720p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjE5NTc4&token=TPUqXtlDG7NVOHu90mWE7w&expires=1706515751"
+                        }
+                    },
+                    {
+                        "url": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02899/mhje6ai3x42v_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=4BC0Lasko90ViMJfXns3IPN3GJH7tIUjkC0vgAlzMjU&s=1706508553&e=129600&f=14496589&srv=CIZz2w6HMADb&i=0.4&sp=500&p1=CIZz2w6HMADb&p2=CIZz2w6HMADb&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02899/mhje6ai3x42v_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=4BC0Lasko90ViMJfXns3IPN3GJH7tIUjkC0vgAlzMjU&s=1706508553&e=129600&f=14496589&srv=CIZz2w6HMADb&i=0.4&sp=500&p1=CIZz2w6HMADb&p2=CIZz2w6HMADb&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://awish.pro",
+                            "Referer": "https://awish.pro/e/mhje6ai3x42v"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.720.m3u8",
+                        "quality": "Vidstreaming - 720p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.720.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE5NTc4&title=Dungeon+Meshi+Episode+4"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.480.m3u8",
+                        "quality": "Gogostream - 480p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjE5NTc4&token=TPUqXtlDG7NVOHu90mWE7w&expires=1706515751"
+                        }
+                    },
+                    {
+                        "url": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02899/mhje6ai3x42v_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=4BC0Lasko90ViMJfXns3IPN3GJH7tIUjkC0vgAlzMjU&s=1706508553&e=129600&f=14496589&srv=CIZz2w6HMADb&i=0.4&sp=500&p1=CIZz2w6HMADb&p2=CIZz2w6HMADb&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://z8dpsptc.sw-cdnstream.com/hls2/01/02899/mhje6ai3x42v_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=4BC0Lasko90ViMJfXns3IPN3GJH7tIUjkC0vgAlzMjU&s=1706508553&e=129600&f=14496589&srv=CIZz2w6HMADb&i=0.4&sp=500&p1=CIZz2w6HMADb&p2=CIZz2w6HMADb&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://awish.pro",
+                            "Referer": "https://awish.pro/e/mhje6ai3x42v"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.480.m3u8",
+                        "quality": "Vidstreaming - 480p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.480.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE5NTc4&title=Dungeon+Meshi+Episode+4"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.360.m3u8",
+                        "quality": "Gogostream - 360p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/embedplus?id=MjE5NTc4&token=TPUqXtlDG7NVOHu90mWE7w&expires=1706515751"
+                        }
+                    },
+                    {
+                        "url": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.360.m3u8",
+                        "quality": "Vidstreaming - 360p",
+                        "videoUrl": "https://www100.vipanicdn.net/streamhls/46d5b4966d3f7890d2b71c5fe71446ec/ep.4.1706195212.360.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Origin": "https://embtaku.pro",
+                            "Referer": "https://embtaku.pro/streaming.php?id=MjE5NTc4&title=Dungeon+Meshi+Episode+4"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
