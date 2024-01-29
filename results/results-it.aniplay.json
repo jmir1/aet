@@ -3,23 +3,23 @@
         "name": "AniPlay (IT)",
         "results": {
             "popular": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1: Expected start of the array '[', but had '<' instead at path: $\nJSON input: \n<!DOCTYPE html>\n<html lang=\"it.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "search": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1: Expected start of the array '[', but had '<' instead at path: $\nJSON input: \n<!DOCTYPE html>\n<html lang=\"it.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "details": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1: Expected start of the object '{', but had '<' instead at path: $\nJSON input: \n<!DOCTYPE html>\n<html lang=\"it.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1: Expected start of the object '{', but had '<' instead at path: $\nJSON input: \n<!DOCTYPE html>\n<html lang=\"it.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 1: Expected start of the object '{', but had '<' instead at path: $\nJSON input: \n<!DOCTYPE html>\n<html lang=\"it.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

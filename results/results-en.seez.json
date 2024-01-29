@@ -32,19 +32,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//AcoVfiv1rrWOmAdpnAMnM56ki19.jpg"
                             },
                             {
-                                "url": "{\"id\":799155,\"media_type\":\"movie\"}",
-                                "title": "Attack",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg"
-                            },
-                            {
                                 "url": "{\"id\":906126,\"media_type\":\"movie\"}",
                                 "title": "Society of the Snow",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//2e853FDVSIso600RqAMunPxiZjq.jpg"
-                            },
-                            {
-                                "url": "{\"id\":753342,\"media_type\":\"movie\"}",
-                                "title": "Napoleon",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//vcZWJGvB5xydWuUO1vaTLI82tGi.jpg"
                             },
                             {
                                 "url": "{\"id\":955916,\"media_type\":\"movie\"}",
@@ -52,9 +42,29 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg"
                             },
                             {
+                                "url": "{\"id\":799155,\"media_type\":\"movie\"}",
+                                "title": "Attack",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg"
+                            },
+                            {
+                                "url": "{\"id\":753342,\"media_type\":\"movie\"}",
+                                "title": "Napoleon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//vcZWJGvB5xydWuUO1vaTLI82tGi.jpg"
+                            },
+                            {
+                                "url": "{\"id\":965571,\"media_type\":\"movie\"}",
+                                "title": "Patriots Time",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//A4QM6oF4UNNhQh1f9pRdXvyKW5s.jpg"
+                            },
+                            {
                                 "url": "{\"id\":1212073,\"media_type\":\"movie\"}",
                                 "title": "Sixty Minutes",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//jojfbnIHGsRpodIood3OQoqA45Y.jpg"
+                            },
+                            {
+                                "url": "{\"id\":872585,\"media_type\":\"movie\"}",
+                                "title": "Oppenheimer",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
                             },
                             {
                                 "url": "{\"id\":792307,\"media_type\":\"movie\"}",
@@ -82,19 +92,9 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg"
                             },
                             {
-                                "url": "{\"id\":872585,\"media_type\":\"movie\"}",
-                                "title": "Oppenheimer",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
-                            },
-                            {
                                 "url": "{\"id\":1028703,\"media_type\":\"movie\"}",
                                 "title": "The OctoGames",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//qGz5rffXhegQH5PGUDiObqoOt06.jpg"
-                            },
-                            {
-                                "url": "{\"id\":965571,\"media_type\":\"movie\"}",
-                                "title": "Patriots Time",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//A4QM6oF4UNNhQh1f9pRdXvyKW5s.jpg"
                             },
                             {
                                 "url": "{\"id\":1216784,\"media_type\":\"movie\"}",
@@ -214,6 +214,7 @@
                             {
                                 "url": "{\"id\":1147400,\"media_type\":\"movie\"}",
                                 "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+                                "status": 2,
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//nydROKumZe9oFZNiSn792MDDA1v.jpg"
                             }
                         ],
@@ -225,8 +226,11 @@
             "details": {
                 "result": {
                     "url": "{\"id\":572802,\"media_type\":\"movie\"}",
-                    "description": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.\n\nRelease date: 2023-12-20",
+                    "author": "Warner Bros. Pictures, The Safran Company, Atomic Monster, DC Films, Domain Entertainment",
+                    "description": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.\n\nRelease date: 2023-12-20\nLanguages: English (English), German (Deutsch), Hindi (हिन्दी), Hungarian (Magyar)\n",
                     "genre": "Action, Adventure, Fantasy",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
@@ -245,9 +249,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc4/fdd;15a38422e50b5c5da9936206d1bfed10903ca9445cbebbb54f406da9.m3u8",
+                        "url": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc4/fdd;15a38422e50f5941b5966006d1bcee10903ca9445cbebbbb4d446da8.m3u8",
                         "quality": "Vidplay - 1080p",
-                        "videoUrl": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc4/fdd;15a38422e50b5c5da9936206d1bfed10903ca9445cbebbb54f406da9.m3u8",
+                        "videoUrl": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc4/fdd;15a38422e50f5941b5966006d1bcee10903ca9445cbebbbb4d446da8.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -256,9 +260,9 @@
                         }
                     },
                     {
-                        "url": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc3/fdd;15a38422e50b5c5da9936206d1bfed10903ca9445cbebbb54f406da9.m3u8",
+                        "url": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc3/fdd;15a38422e50f5941b5966006d1bcee10903ca9445cbebbbb4d446da8.m3u8",
                         "quality": "Vidplay - 720p",
-                        "videoUrl": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc3/fdd;15a38422e50b5c5da9936206d1bfed10903ca9445cbebbb54f406da9.m3u8",
+                        "videoUrl": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc3/fdd;15a38422e50f5941b5966006d1bcee10903ca9445cbebbbb4d446da8.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -267,9 +271,9 @@
                         }
                     },
                     {
-                        "url": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc1/fdd;15a38422e50b5c5da9936206d1bfed10903ca9445cbebbb54f406da9.m3u8",
+                        "url": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc1/fdd;15a38422e50f5941b5966006d1bcee10903ca9445cbebbbb4d446da8.m3u8",
                         "quality": "Vidplay - 360p",
-                        "videoUrl": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc1/fdd;15a38422e50b5c5da9936206d1bfed10903ca9445cbebbb54f406da9.m3u8",
+                        "videoUrl": "https://pajz.vidrock2.store/_v1/12a3c523fd105800ed8c394685aeeb0bc52eaa5c14bdffb44a4c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a23c5475f0d530c751f40b16ea0e15c6f6ef3f173946343dd17645/h/bebfbabc1/fdd;15a38422e50f5941b5966006d1bcee10903ca9445cbebbbb4d446da8.m3u8",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
