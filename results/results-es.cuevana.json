@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/21612/a-snapshot-of-forever",
+                                "title": "A Snapshot of Forever",
+                                "thumbnail_url": "https://pelisimg.online/cover/a-snapshot-of-forever.jpg"
+                            },
+                            {
+                                "url": "/21613/novias-en-guerra",
+                                "title": "Novias en Guerra",
+                                "thumbnail_url": "https://pelisimg.online/cover/novias-en-guerra.jpg"
+                            },
+                            {
                                 "url": "/21604/thor-ragnarok",
                                 "title": "Thor: Ragnarok",
                                 "thumbnail_url": "https://pelisimg.online/cover/thor-ragnarok.jpg"
@@ -215,16 +225,6 @@
                                 "url": "/21566/breakwater",
                                 "title": "Breakwater",
                                 "thumbnail_url": "https://pelisimg.online/cover/breakwater.jpg"
-                            },
-                            {
-                                "url": "/21561/the-wedding-in-the-hamptons",
-                                "title": "The Wedding in the Hamptons",
-                                "thumbnail_url": "https://pelisimg.online/cover/the-wedding-in-the-hamptons.jpg"
-                            },
-                            {
-                                "url": "/21560/a-royal-recipe-for-love",
-                                "title": "A Royal Recipe for Love",
-                                "thumbnail_url": "https://pelisimg.online/cover/a-royal-recipe-for-love.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/21604/thor-ragnarok",
-                    "title": "Thor: Ragnarok",
-                    "description": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.",
-                    "genre": "Acción, , Aventura, , Ciencia ficción",
-                    "thumbnail_url": "https://pelisimg.online/cover/thor-ragnarok.jpg",
+                    "url": "/21612/a-snapshot-of-forever",
+                    "title": "A Snapshot of Forever",
+                    "description": "Wedding photographer Jessie Brooke's happy small town life is turned upside down when a famous Hollywood actor shows up at her parent's lakeside vineyard for his sister's wedding.",
+                    "genre": "Romance, , Comedia",
+                    "thumbnail_url": "https://pelisimg.online/cover/a-snapshot-of-forever.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/21604/thor-ragnarok",
+                        "url": "/21612/a-snapshot-of-forever",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02933/68bjy20akzqw_,n,h,.urlset/index-f2-v1-a1.m3u8?t=OUhnC_iQQfOUpmEAamhKLP01MgFB6pw2og2eSes_ldk&s=1706616679&e=129600&f=14666097&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02933/68bjy20akzqw_,n,h,.urlset/index-f2-v1-a1.m3u8?t=OUhnC_iQQfOUpmEAamhKLP01MgFB6pw2og2eSes_ldk&s=1706616679&e=129600&f=14666097&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/68bjy20akzqw"
+                        }
+                    },
+                    {
+                        "url": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02933/68bjy20akzqw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=OUhnC_iQQfOUpmEAamhKLP01MgFB6pw2og2eSes_ldk&s=1706616679&e=129600&f=14666097&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://dzytk2t08992.sw-cdnstream.com/hls2/01/02933/68bjy20akzqw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=OUhnC_iQQfOUpmEAamhKLP01MgFB6pw2og2eSes_ldk&s=1706616679&e=129600&f=14666097&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/68bjy20akzqw"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Qg3VZKZzOyhkp9&expires=1706686680&ip=FROsD0ETKxSHDN&token=0qpD1pu1-mln",
+                        "quality": "[CAST] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Qg3VZKZzOyhkp9&expires=1706686680&ip=FROsD0ETKxSHDN&token=0qpD1pu1-mln"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -687,28 +715,28 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/jurassic-world-el-reino-caido",
-                                "title": "Jurassic World: El Reino Caído",
-                                "description": "Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinosaurios, una organización dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabajó en el parque, para que la ayude a evitar la extinción de los dinosaurios... Secuela de \"Jurassic World\".",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/death-note-iluminando-un-nuevo-mundo",
                                 "title": "Death Note: Iluminando un nuevo mundo",
                                 "description": "Diez años han pasado desde la confrontación entre Kira y L. Una vez más, los Shinigamis envían Death Notes al suelo y debido a esto, el mundo pronto cae en el caos. Tsukuru es un miembro del equipo de fuerza especial sobre la investigación de las Death Notes con otros seis investigadores, incluyendo a Matsuda que experimentó el caso de Kira hace años. El mundialmente famoso investigador privado Ryuzaki, que es el legítimo sucesor de L, también investiga los asesinatos en masa. A su vez, un virus informático llamado Kira se propaga por el mundo. El enfrentamiento comienza entre la persona que quiere el avivamiento de Kira y las personas que quieren detenerlo.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/the-world-to-come",
-                                "title": "The World to Come",
-                                "description": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
+                                "url": "/ver-pelicula/jurassic-world-el-reino-caido",
+                                "title": "Jurassic World: El Reino Caído",
+                                "description": "Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinosaurios, una organización dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabajó en el parque, para que la ayude a evitar la extinción de los dinosaurios... Secuela de \"Jurassic World\".",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/mundo-fantasma",
                                 "title": "Mundo Fantasma",
                                 "description": "Enid y Rebecca, dos rebeldes adolescentes amigas desde hace años, no saben cómo pasar el rato ahora que ya han acabado los estudios de secundaria. Pese a sus tímidos esfuerzos por encontrar trabajo, a menudo acaban deambulando por las calles, escrutando el comportamiento de la gente que les rodea. Atraídas por los personajes excéntricos, suelen mirar los anuncios personales del periódico local. Enid llama al autor del anuncio más lamentable, un hombre solitario de cuarenta años, coleccionista de discos, y le invita a una cita a ciegas. Ambas acudirán al restaurante convenido para espiarle y saber cómo es su vida...",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/yYB8BzkNDvv9eQwdZNweeh0sQ7G.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/the-world-to-come",
+                                "title": "The World to Come",
+                                "description": "En algún lugar a lo largo de la frontera de la costa este estadounidense de mediados del siglo XIX, dos parejas vecinas luchan contra las dificultades y el aislamiento, en un entorno que les desafía tanto física como psicológicamente. En el norte del estado de Nueva York, en la década de 1850, Abigail comienza un nuevo año en la granja rural donde vive con su marido Dyer. Llega la primavera y Abigail conoce a Tallie, una recién llegada emocionalmente sincera y fascinantemente bella que alquila una granja vecina con su marido, Finney. Las dos entablan una relación incierta, y así llenan un vacío en sus vidas que ninguna sabía que existía.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2vMw5qM1CkVl2rxiIuHUxgUwx32.jpg"
                             },
                             {
                                 "url": "/ver-serie/the-prince-of-tennis-ii-u-17-world-cup",
@@ -741,16 +769,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
                             },
                             {
-                                "url": "/ver-serie/jurassic-world-campamento-cretacico",
-                                "title": "Jurassic World: Campamento Cretácico",
-                                "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/fireball-visitantes-de-mundos-oscuros",
                                 "title": "Fireball: Visitantes de mundos oscuros",
                                 "description": "De los directores Werner Herzog y Clive Oppenheimer, este documental explora cómo los meteoritos y las estrellas fugaces han despertado nuestra curiosidad por otros mundos, haciéndonos repensar el destino de la humanidad.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/x9VHW8gHJGLXuEtOLrocH89dzeo.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/jurassic-world-campamento-cretacico",
+                                "title": "Jurassic World: Campamento Cretácico",
+                                "description": "Ambientada en paralelo a los hechos narrados en \"Jurassic World\", cuenta la historia de seis adolescentes que son elegidos para vivir una aventura única: acampar en una zona cercana a la Isla Nublar. Pero cuando los dinosaurios salen de sus jaulas y crean el caos, estos jóvenes tendrán que sobrevivir a una situación hostil.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/007-el-mundo-no-basta",
@@ -783,16 +811,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg"
                             },
                             {
-                                "url": "/ver-serie/carol-y-el-fin-del-mundo",
-                                "title": "Carol y el fin del mundo",
-                                "description": "Ante un inminente apocalipsis planetario, una mujer desconcertada por el caos colectivo intenta darle sentido al tiempo que le queda en la Tierra.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/la-guerra-de-los-mundos-destruccion-total",
                                 "title": "La Guerra de los mundos: Destrucción total",
                                 "description": "Una madre y su hijo se enfrentan a una brutal invasión alienígena en la que la supervivencia dependerá de descubrir la impensable verdad sobre el enemigo.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
+                            },
+                            {
+                                "url": "/ver-serie/carol-y-el-fin-del-mundo",
+                                "title": "Carol y el fin del mundo",
+                                "description": "Ante un inminente apocalipsis planetario, una mujer desconcertada por el caos colectivo intenta darle sentido al tiempo que le queda en la Tierra.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -827,12 +855,12 @@
                     {
                         "url": "https://voe.sx/e/q9ibmk8psixu",
                         "quality": "[LAT] Voe:720p",
-                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/10388/q9ibmk8psixu_,n,.urlset/master.m3u8?t=3dnmACTL1uDJTPgqitxFwZFXfNJ2lyzuw0_hJTlq_gE&s=1706594974&e=14400&f=51942213&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=20.185&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-992jsdmdmsldvz5t.voe-network.net/engine/hls2/01/10388/q9ibmk8psixu_,n,.urlset/master.m3u8?t=ymz8ZBLEFm1j98XR255bxhmJWdHwYH8hRyeFsvxI-bM&s=1706616686&e=14400&f=51942213&node=delivery-node-992jsdmdmsldvz5t.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=b1lUPU8EnnGlefzjLzWAPoVJ292Q6AVxKaQvA6HfwdY&s=1706594973&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
+                        "url": "https://eyfgjy2bc1.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=rY2a1OYE6LAq3oIVvcwxh6yHp4OhEld29-bQJQ_I904&s=1706616683&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
                         "quality": "[LAT] StreamWish:1080p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=b1lUPU8EnnGlefzjLzWAPoVJ292Q6AVxKaQvA6HfwdY&s=1706594973&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
+                        "videoUrl": "https://eyfgjy2bc1.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=rY2a1OYE6LAq3oIVvcwxh6yHp4OhEld29-bQJQ_I904&s=1706616683&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -841,9 +869,9 @@
                         }
                     },
                     {
-                        "url": "https://bqijmi4nejdf.enaak-cdn.com/hls2/01/01178/7wpoor6pm6jh_n/index-v1-a1.m3u8?t=5WjD5-X_r8kV8oQNNES-McV-3Ob1NGlnTri_llvFXNo&s=1706594975&e=129600&f=5892916&srv=n0kpM9okW5Ok&i=0.4&sp=1500&p1=n0kpM9okW5Ok&p2=n0kpM9okW5Ok&asn=8075",
+                        "url": "https://bqijmi4nejdf.enaak-cdn.com/hls2/01/01178/7wpoor6pm6jh_n/index-v1-a1.m3u8?t=BUklCDrfjObP3dijNbdnY9KPCQz0tXxoh5kfnGbougw&s=1706616688&e=129600&f=5892916&srv=n0kpM9okW5Ok&i=0.4&sp=1500&p1=n0kpM9okW5Ok&p2=n0kpM9okW5Ok&asn=8075",
                         "quality": "[LAT] FileLions:720p",
-                        "videoUrl": "https://bqijmi4nejdf.enaak-cdn.com/hls2/01/01178/7wpoor6pm6jh_n/index-v1-a1.m3u8?t=5WjD5-X_r8kV8oQNNES-McV-3Ob1NGlnTri_llvFXNo&s=1706594975&e=129600&f=5892916&srv=n0kpM9okW5Ok&i=0.4&sp=1500&p1=n0kpM9okW5Ok&p2=n0kpM9okW5Ok&asn=8075",
+                        "videoUrl": "https://bqijmi4nejdf.enaak-cdn.com/hls2/01/01178/7wpoor6pm6jh_n/index-v1-a1.m3u8?t=BUklCDrfjObP3dijNbdnY9KPCQz0tXxoh5kfnGbougw&s=1706616688&e=129600&f=5892916&srv=n0kpM9okW5Ok&i=0.4&sp=1500&p1=n0kpM9okW5Ok&p2=n0kpM9okW5Ok&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -852,9 +880,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=b1lUPU8EnnGlefzjLzWAPoVJ292Q6AVxKaQvA6HfwdY&s=1706594973&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
+                        "url": "https://eyfgjy2bc1.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=rY2a1OYE6LAq3oIVvcwxh6yHp4OhEld29-bQJQ_I904&s=1706616683&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=b1lUPU8EnnGlefzjLzWAPoVJ292Q6AVxKaQvA6HfwdY&s=1706594973&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
+                        "videoUrl": "https://eyfgjy2bc1.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=rY2a1OYE6LAq3oIVvcwxh6yHp4OhEld29-bQJQ_I904&s=1706616683&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -863,9 +891,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=b1lUPU8EnnGlefzjLzWAPoVJ292Q6AVxKaQvA6HfwdY&s=1706594973&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
+                        "url": "https://eyfgjy2bc1.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=rY2a1OYE6LAq3oIVvcwxh6yHp4OhEld29-bQJQ_I904&s=1706616683&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=b1lUPU8EnnGlefzjLzWAPoVJ292Q6AVxKaQvA6HfwdY&s=1706594973&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
+                        "videoUrl": "https://eyfgjy2bc1.sw-cdnstream.com/hls2/01/02930/0yfiv5xu4gcv_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=rY2a1OYE6LAq3oIVvcwxh6yHp4OhEld29-bQJQ_I904&s=1706616683&e=129600&f=14653807&srv=elgvhzecptdq&i=0.4&sp=500&p1=elgvhzecptdq&p2=elgvhzecptdq&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -874,24 +902,24 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=v9PxYm1rjyc4qJw&expires=1706664973&ip=FROsD0gOKxSHDN&token=gU5RpDf3QyEo",
+                        "url": "https://streamtape.com/get_video?id=v9PxYm1rjyc4qJw&expires=1706686683&ip=FROsD0ETKxSHDN&token=x0OINi27PzHP",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=v9PxYm1rjyc4qJw&expires=1706664973&ip=FROsD0gOKxSHDN&token=gU5RpDf3QyEo"
+                        "videoUrl": "https://streamtape.com/get_video?id=v9PxYm1rjyc4qJw&expires=1706686683&ip=FROsD0ETKxSHDN&token=x0OINi27PzHP"
                     },
                     {
                         "url": "https://voe.sx/e/ccwxyyaphiys",
                         "quality": "[ENG] Voe:720p",
-                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/10388/ccwxyyaphiys_,n,.urlset/master.m3u8?t=G3rFWNEzwIqZ3nJdHSzHpAUpTusPJ-sMWAvKai3g30A&s=1706594982&e=14400&f=51942272&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=20.185&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-v2bin4kagwwpnhmw.voe-network.net/engine/hls2/01/10388/ccwxyyaphiys_,n,.urlset/master.m3u8?t=oNBd9A7DSSoyj6rXFdCr1kvcYk44OENNcMBbk5kTnas&s=1706616699&e=14400&f=51942272&node=delivery-node-v2bin4kagwwpnhmw.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
                         "url": "https://voe.sx/e/n6khgjwc0kt8",
                         "quality": "[CAST] Voe:720p",
-                        "videoUrl": "https://delivery-node-wtatahculkalrcev.voe-network.net/engine/hls2/01/10380/urovtnzp3nme_,n,.urlset/master.m3u8?t=7FmFlU0PgO5uPW50kc99WXMSdSaQYI1oetJrY6vrpn0&s=1706594978&e=14400&f=51953356&node=delivery-node-wtatahculkalrcev.voe-network.net&i=20.185&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-wtatahculkalrcev.voe-network.net/engine/hls2/01/10380/urovtnzp3nme_,n,.urlset/master.m3u8?t=rC7w_p5ODe-hBIdRnb-ldec1ExUbi6X52V6U1XNh60E&s=1706616693&e=14400&f=51953356&node=delivery-node-wtatahculkalrcev.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=EbBkQPF0SRmoFhpWtlFXPEbP4nICxYRwNCWY4ppT30M&s=1706594981&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=0LuPjnn5do-YcIT1H_jEkZ8Egyru4WG0WI68QRGZKwQ&s=1706616697&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
                         "quality": "[ENG] StreamWish:1080p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=EbBkQPF0SRmoFhpWtlFXPEbP4nICxYRwNCWY4ppT30M&s=1706594981&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=0LuPjnn5do-YcIT1H_jEkZ8Egyru4WG0WI68QRGZKwQ&s=1706616697&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -900,9 +928,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=EbBkQPF0SRmoFhpWtlFXPEbP4nICxYRwNCWY4ppT30M&s=1706594981&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=0LuPjnn5do-YcIT1H_jEkZ8Egyru4WG0WI68QRGZKwQ&s=1706616697&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
                         "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=EbBkQPF0SRmoFhpWtlFXPEbP4nICxYRwNCWY4ppT30M&s=1706594981&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=0LuPjnn5do-YcIT1H_jEkZ8Egyru4WG0WI68QRGZKwQ&s=1706616697&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -911,9 +939,9 @@
                         }
                     },
                     {
-                        "url": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0TYeM8y_FjBBNTqqTrAfP0o8vAb-4qpIA8hSn6oJVYI&s=1706594977&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "url": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0AJQoUT3Sl7NxbTuzkGnSPISHJkbnPoaTIqTaNXy6mU&s=1706616690&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0TYeM8y_FjBBNTqqTrAfP0o8vAb-4qpIA8hSn6oJVYI&s=1706594977&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "videoUrl": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0AJQoUT3Sl7NxbTuzkGnSPISHJkbnPoaTIqTaNXy6mU&s=1706616690&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -922,9 +950,9 @@
                         }
                     },
                     {
-                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=EbBkQPF0SRmoFhpWtlFXPEbP4nICxYRwNCWY4ppT30M&s=1706594981&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=0LuPjnn5do-YcIT1H_jEkZ8Egyru4WG0WI68QRGZKwQ&s=1706616697&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
                         "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=EbBkQPF0SRmoFhpWtlFXPEbP4nICxYRwNCWY4ppT30M&s=1706594981&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstream.com/hls2/01/02930/wivrjvj9ztqa_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=0LuPjnn5do-YcIT1H_jEkZ8Egyru4WG0WI68QRGZKwQ&s=1706616697&e=129600&f=14653901&srv=t2SGrc0qkNxY&i=0.4&sp=500&p1=t2SGrc0qkNxY&p2=t2SGrc0qkNxY&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -933,9 +961,9 @@
                         }
                     },
                     {
-                        "url": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=0TYeM8y_FjBBNTqqTrAfP0o8vAb-4qpIA8hSn6oJVYI&s=1706594977&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "url": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=0AJQoUT3Sl7NxbTuzkGnSPISHJkbnPoaTIqTaNXy6mU&s=1706616690&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=0TYeM8y_FjBBNTqqTrAfP0o8vAb-4qpIA8hSn6oJVYI&s=1706594977&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
+                        "videoUrl": "https://h0zzcaomekv.sw-cdnstream.com/hls2/01/02932/1vlddqormwgh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=0AJQoUT3Sl7NxbTuzkGnSPISHJkbnPoaTIqTaNXy6mU&s=1706616690&e=129600&f=14662632&srv=skrlxzezpbxx&i=0.4&sp=500&p1=skrlxzezpbxx&p2=skrlxzezpbxx&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -944,14 +972,14 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=90ZG1WvoXrSa0O9&expires=1706664983&ip=FROsD0gOKxSHDN&token=WI6DVvZ3brUJ",
+                        "url": "https://streamtape.com/get_video?id=90ZG1WvoXrSa0O9&expires=1706686701&ip=FROsD0ETKxSHDN&token=8--FcltQ_GAc",
                         "quality": "[ENG] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=90ZG1WvoXrSa0O9&expires=1706664983&ip=FROsD0gOKxSHDN&token=WI6DVvZ3brUJ"
+                        "videoUrl": "https://streamtape.com/get_video?id=90ZG1WvoXrSa0O9&expires=1706686701&ip=FROsD0ETKxSHDN&token=8--FcltQ_GAc"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=pYVy3k9D6eirdBo&expires=1706664980&ip=FROsD0gOKxSHDN&token=v0Pbmy-AgW2d",
+                        "url": "https://streamtape.com/get_video?id=pYVy3k9D6eirdBo&expires=1706686695&ip=FROsD0ETKxSHDN&token=yGhiwU3EShUe",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=pYVy3k9D6eirdBo&expires=1706664980&ip=FROsD0gOKxSHDN&token=v0Pbmy-AgW2d"
+                        "videoUrl": "https://streamtape.com/get_video?id=pYVy3k9D6eirdBo&expires=1706686695&ip=FROsD0ETKxSHDN&token=yGhiwU3EShUe"
                     }
                 ],
                 "passed": true
