@@ -113,7 +113,7 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
@@ -138,84 +138,84 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706686683&ip=FROsD0ETKxSHDN&token=gZ1kMoYXOuzu",
+                        "url": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706708127&ip=FROsE0MnDS9X&token=28Te8amZKu5G",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706686683&ip=FROsD0ETKxSHDN&token=gZ1kMoYXOuzu"
+                        "videoUrl": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706708127&ip=FROsE0MnDS9X&token=28Te8amZKu5G"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=2ryRveqDyvUA4W&expires=1706686683&ip=FROsD0ETKxSHDN&token=RDPeBrS55AYI",
+                        "url": "https://streamtape.com/get_video?id=2ryRveqDyvUA4W&expires=1706708127&ip=FROsE0MnDS9X&token=Es1e0KNW7hmW",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=2ryRveqDyvUA4W&expires=1706686683&ip=FROsD0ETKxSHDN&token=RDPeBrS55AYI"
+                        "videoUrl": "https://streamtape.com/get_video?id=2ryRveqDyvUA4W&expires=1706708127&ip=FROsE0MnDS9X&token=Es1e0KNW7hmW"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=wPwkWOK8q3HlWq&expires=1706686683&ip=FROsD0ETKxSHDN&token=JaGGeaLpjB0R",
+                        "url": "https://streamtape.com/get_video?id=wPwkWOK8q3HlWq&expires=1706708127&ip=FROsE0MnDS9X&token=oaz_xuevarxD",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=wPwkWOK8q3HlWq&expires=1706686683&ip=FROsD0ETKxSHDN&token=JaGGeaLpjB0R"
+                        "videoUrl": "https://streamtape.com/get_video?id=wPwkWOK8q3HlWq&expires=1706708127&ip=FROsE0MnDS9X&token=oaz_xuevarxD"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706686682&ip=FROsD0ETKxSHDN&token=_SM6JA7dCyro",
+                        "url": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706708127&ip=FROsE0MnDS9X&token=28Te8amZKu5G",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706686682&ip=FROsD0ETKxSHDN&token=_SM6JA7dCyro"
+                        "videoUrl": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706708127&ip=FROsE0MnDS9X&token=28Te8amZKu5G"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=m6MQR7yJj9cVea&expires=1706686682&ip=FROsD0ETKxSHDN&token=SHRXEwnvaPNd",
+                        "url": "https://streamtape.com/get_video?id=m6MQR7yJj9cVea&expires=1706708127&ip=FROsE0MnDS9X&token=CIyGU8DXO8n3",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=m6MQR7yJj9cVea&expires=1706686682&ip=FROsD0ETKxSHDN&token=SHRXEwnvaPNd"
+                        "videoUrl": "https://streamtape.com/get_video?id=m6MQR7yJj9cVea&expires=1706708127&ip=FROsE0MnDS9X&token=CIyGU8DXO8n3"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706686682&ip=FROsD0ETKxSHDN&token=_SM6JA7dCyro",
+                        "url": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706708126&ip=FROsE0MnDS9X&token=KG9joY7QZqP0",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706686682&ip=FROsD0ETKxSHDN&token=_SM6JA7dCyro"
+                        "videoUrl": "https://streamtape.com/get_video?id=jZz6ZPkmWafzPrg&expires=1706708126&ip=FROsE0MnDS9X&token=KG9joY7QZqP0"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=3rM70DvRDrudzQB&expires=1706686682&ip=FROsD0ETKxSHDN&token=PaZU-9jscp_P",
+                        "url": "https://streamtape.com/get_video?id=3rM70DvRDrudzQB&expires=1706708126&ip=FROsE0MnDS9X&token=z5I1icUBOlAR",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=3rM70DvRDrudzQB&expires=1706686682&ip=FROsD0ETKxSHDN&token=PaZU-9jscp_P"
+                        "videoUrl": "https://streamtape.com/get_video?id=3rM70DvRDrudzQB&expires=1706708126&ip=FROsE0MnDS9X&token=z5I1icUBOlAR"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=lWqPazm1MVC7x3Q&expires=1706686682&ip=FROsD0ETKxSHDN&token=p9rS0S0knuuY",
+                        "url": "https://streamtape.com/get_video?id=lWqPazm1MVC7x3Q&expires=1706708126&ip=FROsE0MnDS9X&token=fYg418EjD_wJ",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=lWqPazm1MVC7x3Q&expires=1706686682&ip=FROsD0ETKxSHDN&token=p9rS0S0knuuY"
+                        "videoUrl": "https://streamtape.com/get_video?id=lWqPazm1MVC7x3Q&expires=1706708126&ip=FROsE0MnDS9X&token=fYg418EjD_wJ"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686681&ip=FROsD0ETKxSHDN&token=me9DSxmop-7p",
+                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708126&ip=FROsE0MnDS9X&token=cP7cB2zip_BK",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686681&ip=FROsD0ETKxSHDN&token=me9DSxmop-7p"
+                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708126&ip=FROsE0MnDS9X&token=cP7cB2zip_BK"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ZDDQQD83XvHBML&expires=1706686681&ip=FROsD0ETKxSHDN&token=pdEFwv8dD-M2",
+                        "url": "https://streamtape.com/get_video?id=ZDDQQD83XvHBML&expires=1706708126&ip=FROsE0MnDS9X&token=tQ5ccZRadRdK",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZDDQQD83XvHBML&expires=1706686681&ip=FROsD0ETKxSHDN&token=pdEFwv8dD-M2"
+                        "videoUrl": "https://streamtape.com/get_video?id=ZDDQQD83XvHBML&expires=1706708126&ip=FROsE0MnDS9X&token=tQ5ccZRadRdK"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686681&ip=FROsD0ETKxSHDN&token=me9DSxmop-7p",
+                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708126&ip=FROsE0MnDS9X&token=cP7cB2zip_BK",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686681&ip=FROsD0ETKxSHDN&token=me9DSxmop-7p"
+                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708126&ip=FROsE0MnDS9X&token=cP7cB2zip_BK"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=K06K1gX3dZS03GX&expires=1706686681&ip=FROsD0ETKxSHDN&token=3FWgKN8Yq6nj",
+                        "url": "https://streamtape.com/get_video?id=K06K1gX3dZS03GX&expires=1706708126&ip=FROsE0MnDS9X&token=CLTszNubEGBo",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=K06K1gX3dZS03GX&expires=1706686681&ip=FROsD0ETKxSHDN&token=3FWgKN8Yq6nj"
+                        "videoUrl": "https://streamtape.com/get_video?id=K06K1gX3dZS03GX&expires=1706708126&ip=FROsE0MnDS9X&token=CLTszNubEGBo"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686681&ip=FROsD0ETKxSHDN&token=me9DSxmop-7p",
+                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708125&ip=FROsE0MnDS9X&token=t8qxHrLf5PkA",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686681&ip=FROsD0ETKxSHDN&token=me9DSxmop-7p"
+                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708125&ip=FROsE0MnDS9X&token=t8qxHrLf5PkA"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686680&ip=FROsD0ETKxSHDN&token=Q1ZdlwF4qNZy",
+                        "url": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708125&ip=FROsE0MnDS9X&token=t8qxHrLf5PkA",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706686680&ip=FROsD0ETKxSHDN&token=Q1ZdlwF4qNZy"
+                        "videoUrl": "https://streamtape.com/get_video?id=MYJOgxvDdaimmy3&expires=1706708125&ip=FROsE0MnDS9X&token=t8qxHrLf5PkA"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=dKqz0B6w4VHkdwJ&expires=1706686679&ip=FROsD0ETKxSHDN&token=vPEE0Zkqd1-W",
+                        "url": "https://streamtape.com/get_video?id=dKqz0B6w4VHkdwJ&expires=1706708124&ip=FROsE0MnDS9X&token=vBbpOp10t2EL",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=dKqz0B6w4VHkdwJ&expires=1706686679&ip=FROsD0ETKxSHDN&token=vPEE0Zkqd1-W"
+                        "videoUrl": "https://streamtape.com/get_video?id=dKqz0B6w4VHkdwJ&expires=1706708124&ip=FROsE0MnDS9X&token=vBbpOp10t2EL"
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=g0gDqDoJRJfqqv3&expires=1706686679&ip=FROsD0ETKxSHDN&token=17V8QI6kgcJj",
+                        "url": "https://streamtape.com/get_video?id=g0gDqDoJRJfqqv3&expires=1706708124&ip=FROsE0MnDS9X&token=JxQUFitGSfBf",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=g0gDqDoJRJfqqv3&expires=1706686679&ip=FROsD0ETKxSHDN&token=17V8QI6kgcJj"
+                        "videoUrl": "https://streamtape.com/get_video?id=g0gDqDoJRJfqqv3&expires=1706708124&ip=FROsE0MnDS9X&token=JxQUFitGSfBf"
                     }
                 ],
                 "passed": true

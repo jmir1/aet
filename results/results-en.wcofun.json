@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/galaxy-kids",
+                                "title": "Galaxy Kids",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933487.jpg"
+                            },
+                            {
+                                "url": "/anime/tom-and-jerry-special-shorts",
+                                "title": "Tom and Jerry Special Shorts",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933486.jpg"
+                            },
+                            {
+                                "url": "/anime/tijuana-toads",
+                                "title": "Tijuana Toads",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933485.jpg"
+                            },
+                            {
+                                "url": "/anime/tib-and-tumtum",
+                                "title": "Tib and Tumtum",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933484.jpg"
+                            },
+                            {
                                 "url": "/anime/thomas-friends-all-engines-go",
                                 "title": "Thomas & Friends: All Engines Go!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933483.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/sasaki-and-peeps",
                                 "title": "Sasaki and Peeps",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933472.jpg"
-                            },
-                            {
-                                "url": "/anime/the-super-6",
-                                "title": "The Super 6",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933471.jpg"
-                            },
-                            {
-                                "url": "/anime/the-slim-shady-show",
-                                "title": "The Slim Shady Show",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933470.jpg"
-                            },
-                            {
-                                "url": "/anime/the-secret-service",
-                                "title": "The Secret Service",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933469.jpg"
-                            },
-                            {
-                                "url": "/anime/the-witch-and-the-beast",
-                                "title": "The Witch and the Beast",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933468.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,29 +604,18 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/thomas-friends-all-engines-go",
-                    "title": "Thomas & Friends: All Engines Go!",
-                    "description": "In a reboot of the classic TV series, a younger Thomas The Tank Engine goes on adventures with all of his friends, as they work on The Island Of Sodor.",
-                    "genre": "Adventure, Comedy, Family, Fantasy, Music, Musical, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933483.jpg",
+                    "url": "/anime/galaxy-kids",
+                    "title": "Galaxy Kids",
+                    "description": "Luna, Zhou, Poya, Tunik, Atla, and Siny are a team of young space satellites that come together to form the Galaxy Kids! The Galaxy Kids often travel to space, where they help other satellites and extraterrestrial beings, or solve cosmic problems caused by the comical villain – Space Monkey. They also help a young boy named Cosmo train to become an astronaut.",
+                    "genre": "Animation, Space, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933487.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/thomas-friends-blue-mountain-mystery",
-                        "name": "Season 1 - Episode 1",
-                        "episode_number": 101.0
-                    },
-                    {
-                        "url": "/thomas-friends-all-engines-go-season-1-episode-26-no-power-no-problem",
-                        "name": "Season 1 - Episode 26",
-                        "episode_number": 126.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
