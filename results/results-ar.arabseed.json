@@ -465,8 +465,57 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02939/u9igfcjfrz0i_n/index-v1-a1.m3u8?t=OerfDpRbvbf7TwMil0OR01obUvJhUbmSGn7vdAb4lG8&s=1706681362&e=129600&f=14697765&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02939/u9igfcjfrz0i_n/index-v1-a1.m3u8?t=OerfDpRbvbf7TwMil0OR01obUvJhUbmSGn7vdAb4lG8&s=1706681362&e=129600&f=14697765&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://flaswish.com",
+                            "Referer": "https://flaswish.com/e/u9igfcjfrz0i"
+                        }
+                    },
+                    {
+                        "url": "https://voe.sx/e/5wdggoqrlize",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-gfhwnzsavv8aeplx.voe-network.net/engine/hls2/01/10396/5wdggoqrlize_,n,.urlset/master.m3u8?t=dQXrAodal8nTrckaeWETpIEXGqXEYSVmsYsKN9r5I_8&s=1706681365&e=14400&f=51980460&node=delivery-node-gfhwnzsavv8aeplx.voe-network.net&i=20.172&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02939/hkwba159vm84_n/index-v1-a1.m3u8?t=SK8krWokfIyMdGZQ0HreLrqhFUS9oA9iQdl3iFTx8Dk&s=1706681364&e=129600&f=14697884&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://y8tlqvihzpbs.sw-cdnstream.com/hls2/01/02939/hkwba159vm84_n/index-v1-a1.m3u8?t=SK8krWokfIyMdGZQ0HreLrqhFUS9oA9iQdl3iFTx8Dk&s=1706681364&e=129600&f=14697884&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://flaswish.com",
+                            "Referer": "https://flaswish.com/e/hkwba159vm84"
+                        }
+                    },
+                    {
+                        "url": "https://voe.sx/e/r1xhebhtyfmg",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-fwr3pjk6sk63bwiy.voe-network.net/engine/hls2/01/10396/r1xhebhtyfmg_,l,.urlset/master.m3u8?t=7SYg7MTABvV_utnd8wy-3NQaJIe-w5m0cTot2D9Ykuk&s=1706681364&e=14400&f=51980531&node=delivery-node-fwr3pjk6sk63bwiy.voe-network.net&i=20.172&sp=2500&asn=8075"
+                    },
+                    {
+                        "url": "https://rrvswpnvn.sw-cdnstream.com/hls2/01/02939/z1928oddllqt_n/index-v1-a1.m3u8?t=MhhPjd2TlpjlcsZFIYTBVku1SJOS6gRVSrNh-SQ5OKA&s=1706681362&e=129600&f=14697823&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://rrvswpnvn.sw-cdnstream.com/hls2/01/02939/z1928oddllqt_n/index-v1-a1.m3u8?t=MhhPjd2TlpjlcsZFIYTBVku1SJOS6gRVSrNh-SQ5OKA&s=1706681362&e=129600&f=14697823&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://flaswish.com",
+                            "Referer": "https://flaswish.com/e/z1928oddllqt"
+                        }
+                    },
+                    {
+                        "url": "https://voe.sx/e/orhi5fdtb08s",
+                        "quality": "VoeCDN(720p)",
+                        "videoUrl": "https://delivery-node-zl3xpvp3rkbbmhio.voe-network.net/engine/hls2/01/10396/orhi5fdtb08s_,n,.urlset/master.m3u8?t=6NFYeRyix2XxVLXOcaal9XCSLtSLeHa5Uj8pSVR5mQE&s=1706681366&e=14400&f=51980591&node=delivery-node-zl3xpvp3rkbbmhio.voe-network.net&i=20.172&sp=2500&asn=8075"
+                    }
+                ],
+                "passed": true
             }
         }
     }
