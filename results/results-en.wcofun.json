@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/top-wing",
+                                "title": "Top Wing",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933488.jpg"
+                            },
+                            {
                                 "url": "/anime/galaxy-kids",
                                 "title": "Galaxy Kids",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933487.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/the-seven-deadly-sins-four-knights-of-the-apocalypse",
                                 "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933473.jpg"
-                            },
-                            {
-                                "url": "/anime/sasaki-and-peeps",
-                                "title": "Sasaki and Peeps",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933472.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,22 +604,49 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/galaxy-kids",
-                    "title": "Galaxy Kids",
-                    "description": "Luna, Zhou, Poya, Tunik, Atla, and Siny are a team of young space satellites that come together to form the Galaxy Kids! The Galaxy Kids often travel to space, where they help other satellites and extraterrestrial beings, or solve cosmic problems caused by the comical villain – Space Monkey. They also help a young boy named Cosmo train to become an astronaut.",
-                    "genre": "Animation, Space, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933487.jpg",
+                    "url": "/anime/top-wing",
+                    "title": "Top Wing",
+                    "description": "Four young birds – Penny, Rod, Swift, and Brody – become new Top Wing cadets to earn their wings by helping their community.",
+                    "genre": "Adventure, Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933488.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/top-wing-season-2-episode-26-baddy-and-the-bad-wings-cheep-and-chirps-splashy-surf-show",
+                        "name": "Season 2 - Episode 26",
+                        "episode_number": 226.0
+                    },
+                    {
+                        "url": "/top-wing-season-2-episode-25-dodo-egg-scramble-trinis-trintastic-big-swirl-tour",
+                        "name": "Season 2 - Episode 25",
+                        "episode_number": 225.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQ9kA9ef5VLWls2wHS_MITMc1_tXq4qcOVd6HvVY213GMDkyfvj8fYUY3NAvaok7yEiZnW5NicehjTItu7xMZ0pid6YtqqfJ-karcuRkGKO94cxjqHUQMwQsi8D3CbdMarED8l2q-S9kqvK7CV7mftS4edoV30WgpZlt_gPc_5JVDdKTZK-uJgpDqaY2P8bd3fkQCmbOHd6EbCrfIelYg58SysKFsPPXmdy6efx5Laxl6KQfz7L_x__NuWn9SaTlz",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQ9kA9ef5VLWls2wHS_MITMc1_tXq4qcOVd6HvVY213GMDkyfvj8fYUY3NAvaok7yEiZnW5NicehjTItu7xMZ0pid6YtqqfJ-karcuRkGKO94cxjqHUQMwQsi8D3CbdMarED8l2q-S9kqvK7CV7mftS4edoV30WgpZlt_gPc_5JVDdKTZK-uJgpDqaY2P8bd3fkQCmbOHd6EbCrfIelYg58SysKFsPPXmdy6efx5Laxl6KQfz7L_x__NuWn9SaTlz"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CahfM-HHDaXc5M4CbAkxww0k6nHE_wH3sHN6snVyToSBsOgV1jnI_UeznvwPbYXH7XUrLuA9hczqM1JUQ0Ny488B54Wylz-G2aNLMaRBXzsPhTWj9QUh13Q68602Y1_HWoKL9rwMvgpzXtixwsTx3pBOLXuSLaB2eOV27uLfY-YowjdSvArZXz2eVC9ap4HCH2nGN3SMrpRdqwsRkIWN56V8-7JtiEwS9O9DVbWec5X0KJhEVXEe5Bw8XVotSlKRaL",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CahfM-HHDaXc5M4CbAkxww0k6nHE_wH3sHN6snVyToSBsOgV1jnI_UeznvwPbYXH7XUrLuA9hczqM1JUQ0Ny488B54Wylz-G2aNLMaRBXzsPhTWj9QUh13Q68602Y1_HWoKL9rwMvgpzXtixwsTx3pBOLXuSLaB2eOV27uLfY-YowjdSvArZXz2eVC9ap4HCH2nGN3SMrpRdqwsRkIWN56V8-7JtiEwS9O9DVbWec5X0KJhEVXEe5Bw8XVotSlKRaL"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQUNE2nHeqUyniRUpwUwPs10IfiGhq93C-T5hpOx5Duu-x_JRge4Zrz8RfrJBQ83p6u64Hh3ILaPEkTBYMnplKySL2e6eUjZd5pdEm1f7uvpFJjgCoCOs0iXs6B_LDkvr-9vqX9lSc1AgaAxGZ7UTLrV4JFvBLet55-PhNfL6OmZ_njuK-CHiKx7gfNIABa9mgTSljbzDFeJmTZKk5FOJ0enysg9U4jkGKeJfTmd_JRVULFrh8FfTc9RBpk5j1pua",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQUNE2nHeqUyniRUpwUwPs10IfiGhq93C-T5hpOx5Duu-x_JRge4Zrz8RfrJBQ83p6u64Hh3ILaPEkTBYMnplKySL2e6eUjZd5pdEm1f7uvpFJjgCoCOs0iXs6B_LDkvr-9vqX9lSc1AgaAxGZ7UTLrV4JFvBLet55-PhNfL6OmZ_njuK-CHiKx7gfNIABa9mgTSljbzDFeJmTZKk5FOJ0enysg9U4jkGKeJfTmd_JRVULFrh8FfTc9RBpk5j1pua"
+                    }
+                ],
+                "passed": true
             }
         }
     }
