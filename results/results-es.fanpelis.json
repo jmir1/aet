@@ -3,110 +3,8 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/una-flor-en-el-barro/",
-                                "title": "Una flor en el barro",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/uSWLOkjSTcQJfaoDrCPzJlVIoVB.jpg"
-                            },
-                            {
-                                "url": "/la-cocina/",
-                                "title": "La Cocina",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aEHpKFCLWvVTIUM8gr4m7cfj8Bf.jpg"
-                            },
-                            {
-                                "url": "/remando-como-un-solo-hombre/",
-                                "title": "Remando como un solo hombre",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2by4DHPmfaTqJ9YJZJK5tPxHpuk.jpg"
-                            },
-                            {
-                                "url": "/mi-soledad-tiene-alas/",
-                                "title": "Mi soledad tiene alas",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zj7UYU6PZQtWh4sznRH1LKJp945.jpg"
-                            },
-                            {
-                                "url": "/wrath-of-dracula/",
-                                "title": "Wrath of Dracula",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7t2SwZFcAQoDDi99sq36GeNs4Ei.jpg"
-                            },
-                            {
-                                "url": "/juega-o-muere/",
-                                "title": "Juega o Muere",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/g2jR7w3fzoPkYjVF1hkFUC2SUk8.jpg"
-                            },
-                            {
-                                "url": "/el-yuppie-y-el-guiso/",
-                                "title": "El Yuppie Y El Guiso",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9LjJZ3jL04uEl7itSxxUfxHQ6V3.jpg"
-                            },
-                            {
-                                "url": "/wish-el-poder-de-los-deseos/",
-                                "title": "Wish: El poder de los deseos",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/1VXMrUioKfPAPSsezHKexx77Dbz.jpg"
-                            },
-                            {
-                                "url": "/migracion-un-viaje-patas-arriba/",
-                                "title": "Migración: un viaje patas arriba",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xEPYetyqN3MyG152PADDUNRPuTX.jpg"
-                            },
-                            {
-                                "url": "/aquaman-y-el-reino-perdido/",
-                                "title": "Aquaman y el reino perdido",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/a0QwtpUNIKjOlNoOVmk7d2LFnQW.jpg"
-                            },
-                            {
-                                "url": "/wonka/",
-                                "title": "Wonka",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tFyQa5WQqldIL44HBLaCmn5eERD.jpg"
-                            },
-                            {
-                                "url": "/el-nomada/",
-                                "title": "El Nómada",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/94DZGLTwuWTjRXRSlyK9BgmH8dI.jpg"
-                            },
-                            {
-                                "url": "/de-las-cenizas/",
-                                "title": "De las cenizas",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z5CriPjT0KhkujnxCZhAEGbBs4H.jpg"
-                            },
-                            {
-                                "url": "/camino-a-belen/",
-                                "title": "Camino a Belén",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nBNm7WgAYeGLSrQz1PoNB94CS1Q.jpg"
-                            },
-                            {
-                                "url": "/60-minutos/",
-                                "title": "60 minutos",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg"
-                            },
-                            {
-                                "url": "/the-marvels/",
-                                "title": "The Marvels",
-                                "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/vpuuFM032yiX8tox4L84Wl9MGjG.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -216,13 +114,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/una-flor-en-el-barro/",
-                    "title": "Una flor en el barro",
-                    "description": "Una flor en el barro Un maestro llega a un humilde colegio del conurbano bonaerense para ejercer una suplencia. Allí conoce a Sofía, una niña superdotada de 7 años. El maestro rápidamente nota que Sofía puede ser un caso de talento perdido en ese entorno y decide hacer algo para ayudarla. Se encontrará con un montón de obstáculos de una sociedad que no esta preparada y emprenderá una quijotesca lucha para lograr su objetivo: Que la inteligencia de Sofia no se eche a perder.",
-                    "genre": "Drama",
+                    "url": "/one-piece-strong-world-hd/",
+                    "title": "One Piece: Strong World",
+                    "description": "One Piece: Strong World Shiki «El León Dorado» que desea traer el infierno a la Tierra es el unico hombre que ha escapado de la gran prisión Impel Down. Justo después de su salida de Thriller Bark la Tripulación del Sombrero de Paja y Shiki entra en un enfrentamiento, Shiki secuestra a Nami, entonces Luffy y sus compañeros se embarcan en su búsqueda.",
+                    "genre": "Animación, Aventura, Fantasía",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/uSWLOkjSTcQJfaoDrCPzJlVIoVB.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -230,7 +128,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/una-flor-en-el-barro/",
+                        "url": "/one-piece-strong-world-hd/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }

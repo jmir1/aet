@@ -394,8 +394,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://do0od.com/e/eq2ugbvis4wg",
+                        "quality": "Doodstream mirror",
+                        "videoUrl": "https://dw572mm.video-delivery.net/u5kj245emhdlsdgge7hc2mcgjlh7thazi2clp55x5wbbtpwvmwrpgucdmk5a/8pgdxafzjn~dIbchAKFWa?token=56c7akqx23jhlt719m87x39g&expiry=1706724450349",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://do0od.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
