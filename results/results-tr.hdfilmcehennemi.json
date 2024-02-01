@@ -22,14 +22,14 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/il-migliore-dei-mondi_list.jpg"
                             },
                             {
-                                "url": "/dizi/hazbin-hotel-1/",
-                                "title": "Hazbin Hotel",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/hazbin-hotel_list.jpg"
-                            },
-                            {
                                 "url": "/will/",
                                 "title": "Wil",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/will_list.jpg"
+                            },
+                            {
+                                "url": "/dizi/hazbin-hotel-1/",
+                                "title": "Hazbin Hotel",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/hazbin-hotel_list.jpg"
                             },
                             {
                                 "url": "/dizi/hd-1-into-the-dark-1-sezon-izle-5/",
@@ -157,6 +157,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/dream-factory-4/",
+                                "title": "Aşk ve Savaş",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/dream-factory_list.jpg"
+                            },
+                            {
                                 "url": "/tuscaloosa/",
                                 "title": "72 Yazı Tuscaloosa",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/tuscaloosa_list.jpg"
@@ -230,11 +235,6 @@
                                 "url": "/trunk-locked-in-4/",
                                 "title": "Trunk - Locked In",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/trunk-locked-in_list.jpg"
-                            },
-                            {
-                                "url": "/next-goal-wins/",
-                                "title": "Next Goal Wins",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.fun/uploads/poster/next-goal-wins_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -437,20 +437,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://weststor-2-s-3-f-v.vmrest.space/hls/xqx2ojflpnokjiqbth6cp4iz5gukjxeyjruif4gfj6pnnwmwgvn2fijj5z4q/index-v1-a1.m3u8",
-                        "quality": "Vidmoly - 800p",
-                        "videoUrl": "https://weststor-2-s-3-f-v.vmrest.space/hls/xqx2ojflpnokjiqbth6cp4iz5gukjxeyjruif4gfj6pnnwmwgvn2fijj5z4q/index-v1-a1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-8m8esq8zi1u5.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

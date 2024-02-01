@@ -7,6 +7,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/true-and-the-rainbow-kingdom",
+                                "title": "True and the Rainbow Kingdom",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933492.jpg"
+                            },
+                            {
+                                "url": "/anime/in-the-know",
+                                "title": "In the Know",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933491.jpg"
+                            },
+                            {
+                                "url": "/anime/troll-tales",
+                                "title": "Troll Tales",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933490.jpg"
+                            },
+                            {
+                                "url": "/anime/transylvania-television",
+                                "title": "Transylvania Television",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933489.jpg"
+                            },
+                            {
                                 "url": "/anime/top-wing",
                                 "title": "Top Wing",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933488.jpg"
@@ -65,26 +85,6 @@
                                 "url": "/anime/the-untouchables-of-elliot-mouse",
                                 "title": "The Untouchables of Elliot Mouse",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933477.jpg"
-                            },
-                            {
-                                "url": "/anime/the-toothbrush-family",
-                                "title": "The Toothbrush Family",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933476.jpg"
-                            },
-                            {
-                                "url": "/anime/the-tiny-chef-show",
-                                "title": "The Tiny Chef Show",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933475.jpg"
-                            },
-                            {
-                                "url": "/anime/the-tarzan-lone-ranger-zorro-adventure-hour",
-                                "title": "The Tarzan/Lone Ranger/Zorro Adventure Hour",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933474.jpg"
-                            },
-                            {
-                                "url": "/anime/the-seven-deadly-sins-four-knights-of-the-apocalypse",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933473.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/top-wing",
-                    "title": "Top Wing",
-                    "description": "Four young birds – Penny, Rod, Swift, and Brody – become new Top Wing cadets to earn their wings by helping their community.",
-                    "genre": "Adventure, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933488.jpg",
+                    "url": "/anime/true-and-the-rainbow-kingdom",
+                    "title": "True and the Rainbow Kingdom",
+                    "description": "True and the Rainbow Kingdom follows 8-year-old True and her best friend Bartleby the cat, as they help the whimsical citizens of the Rainbow Kingdom, a wondrous, colorful universe filled with delightful and fantastical citizens. True is the only one with the ability to activate the magical powers of The Wishes of the wishing tree, solve problems in the Rainbow Kingdom and empower viewers with her imagination, mindfulness and empathy. The series is produced by Guru Studio, in collaboration with Pharrell Williams’ i am OTHER, world-renowned artist collective, FriendsWithYou and Home Plate Entertainment.",
+                    "genre": "Family, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933492.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/top-wing-season-2-episode-26-baddy-and-the-bad-wings-cheep-and-chirps-splashy-surf-show",
-                        "name": "Season 2 - Episode 26",
-                        "episode_number": 226.0
-                    },
-                    {
-                        "url": "/top-wing-season-2-episode-25-dodo-egg-scramble-trinis-trintastic-big-swirl-tour",
-                        "name": "Season 2 - Episode 25",
-                        "episode_number": 225.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQ9kA9ef5VLWls2wHS_MITMc1_tXq4qcOVd6HvVY213GMDkyfvj8fYUY3NAvaok7yEiZnW5NicehjTItu7xMZ0pid6YtqqfJ-karcuRkGKO94cxjqHUQMwQsi8D3CbdMarED8l2q-S9kqvK7CV7mftXHWY25sSP-YUmsyrtDOGBwUPYg7OfBnYS5kj5O7mWOn-sBAPregd_xsJ_adAdlfFItLrfTakGUg1y_kUtbr0V09bHlmzuj0gnaB3Z1pmrnS",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQ9kA9ef5VLWls2wHS_MITMc1_tXq4qcOVd6HvVY213GMDkyfvj8fYUY3NAvaok7yEiZnW5NicehjTItu7xMZ0pid6YtqqfJ-karcuRkGKO94cxjqHUQMwQsi8D3CbdMarED8l2q-S9kqvK7CV7mftXHWY25sSP-YUmsyrtDOGBwUPYg7OfBnYS5kj5O7mWOn-sBAPregd_xsJ_adAdlfFItLrfTakGUg1y_kUtbr0V09bHlmzuj0gnaB3Z1pmrnS"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CahfM-HHDaXc5M4CbAkxww0k6nHE_wH3sHN6snVyToSBsOgV1jnI_UeznvwPbYXH7XUrLuA9hczqM1JUQ0Ny488B54Wylz-G2aNLMaRBXzsPhTWj9QUh13Q68602Y1_HWoKL9rwMvgpzXtixwsTx3pBJaP-sLFx_qs9ELIyIriiRizo8cPeBhmrSj7hevw6iGcA0CiWHH-rrM4MQ14asdtDf9ASgExRtQQKrIoruQm3yJiUrK1nO-Uwtuy5vUSRdIR",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CahfM-HHDaXc5M4CbAkxww0k6nHE_wH3sHN6snVyToSBsOgV1jnI_UeznvwPbYXH7XUrLuA9hczqM1JUQ0Ny488B54Wylz-G2aNLMaRBXzsPhTWj9QUh13Q68602Y1_HWoKL9rwMvgpzXtixwsTx3pBJaP-sLFx_qs9ELIyIriiRizo8cPeBhmrSj7hevw6iGcA0CiWHH-rrM4MQ14asdtDf9ASgExRtQQKrIoruQm3yJiUrK1nO-Uwtuy5vUSRdIR"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQUNE2nHeqUyniRUpwUwPs10IfiGhq93C-T5hpOx5Duu-x_JRge4Zrz8RfrJBQ83p6u64Hh3ILaPEkTBYMnplKySL2e6eUjZd5pdEm1f7uvpFJjgCoCOs0iXs6B_LDkvr-9vqX9lSc1AgaAxGZ7UTLjOBG1FKUwWuGJXdO_eQoIGyKWuycFHCK_HkE_HYRRfaf0iqG2dZyFp5oviWu_kBlErPnn3eAx-WekKJR-k-VT6tI_-dHJ1FhWbCFzlzTPET",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkZEo0AQtVFaLuNU_StAbhVtP-GlGTKv2VHeQ_lkmD0Fxoc0IWsUltRC_lx57D4QDElHbIJwk7RuHSuuGHLELlGXQ3f4ixp8A-v7MFOwSkXgBimR-2ZoDb87weIt_LbaKy1yhQFI-p461LYlXgxpWBjabWgJJaN5VApFWw7r74CaQUNE2nHeqUyniRUpwUwPs10IfiGhq93C-T5hpOx5Duu-x_JRge4Zrz8RfrJBQ83p6u64Hh3ILaPEkTBYMnplKySL2e6eUjZd5pdEm1f7uvpFJjgCoCOs0iXs6B_LDkvr-9vqX9lSc1AgaAxGZ7UTLjOBG1FKUwWuGJXdO_eQoIGyKWuycFHCK_HkE_HYRRfaf0iqG2dZyFp5oviWu_kBlErPnn3eAx-WekKJR-k-VT6tI_-dHJ1FhWbCFzlzTPET"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
