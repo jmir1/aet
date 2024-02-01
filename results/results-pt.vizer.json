@@ -175,16 +175,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/18609.webp"
                             },
                             {
-                                "url": "/serie/online/maldosas",
-                                "title": "Maldosas",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3769.webp"
-                            },
-                            {
                                 "url": "/serie/online/chicago-p-d-distrito-21",
                                 "title": "Chicago P.D.: Distrito 21",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4522.webp"
+                            },
+                            {
+                                "url": "/serie/online/maldosas",
+                                "title": "Maldosas",
+                                "status": 2,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3769.webp"
                             },
                             {
                                 "url": "/serie/online/house-of-the-dragon",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
