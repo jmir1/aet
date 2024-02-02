@@ -227,6 +227,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/the-irrational",
+                                "title": "The Irrational",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22444.webp"
+                            },
+                            {
+                                "url": "/serie/online/historico-criminal",
+                                "title": "Histórico Criminal",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
+                            },
+                            {
+                                "url": "/serie/online/night-court",
+                                "title": "Night Court",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22184.webp"
+                            },
+                            {
+                                "url": "/serie/online/a-morte-entre-outros-misterios",
+                                "title": "A Morte Entre Outros Mistérios",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22609.webp"
+                            },
+                            {
+                                "url": "/serie/online/expatriadas",
+                                "title": "Expatriadas",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22619.webp"
+                            },
+                            {
+                                "url": "/serie/online/mestres-do-ar",
+                                "title": "Mestres do Ar",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22618.webp"
+                            },
+                            {
                                 "url": "/serie/online/percy-jackson-e-os-olimpianos",
                                 "title": "Percy Jackson e os Olimpianos",
                                 "status": 1,
@@ -281,12 +317,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19524.webp"
                             },
                             {
-                                "url": "/serie/online/historico-criminal",
-                                "title": "Histórico Criminal",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
-                            },
-                            {
                                 "url": "/serie/online/chicago-fire-herois-contra-o-fogo",
                                 "title": "Chicago Fire: Heróis Contra o Fogo",
                                 "status": 1,
@@ -305,18 +335,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22621.webp"
                             },
                             {
-                                "url": "/serie/online/mestres-do-ar",
-                                "title": "Mestres do Ar",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22618.webp"
-                            },
-                            {
-                                "url": "/serie/online/expatriadas",
-                                "title": "Expatriadas",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22619.webp"
-                            },
-                            {
                                 "url": "/serie/online/o-zorro",
                                 "title": "O Zorro",
                                 "status": 1,
@@ -327,24 +345,6 @@
                                 "title": "ted",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22602.webp"
-                            },
-                            {
-                                "url": "/serie/online/fargo",
-                                "title": "Fargo",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/3975.webp"
-                            },
-                            {
-                                "url": "/serie/online/found",
-                                "title": "Found",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22470.webp"
-                            },
-                            {
-                                "url": "/serie/online/reacher",
-                                "title": "Reacher",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19621.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <div style=\"position:fixed;dis.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

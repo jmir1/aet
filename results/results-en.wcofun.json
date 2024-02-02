@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wakkaville",
+                                "title": "Wakkaville",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933496.jpg"
+                            },
+                            {
+                                "url": "/anime/vivi-viravento",
+                                "title": "Vivi Viravento",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933495.jpg"
+                            },
+                            {
                                 "url": "/anime/kimi-ni-todoke-from-me-to-you",
                                 "title": "From Me to You",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933494.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/the-young-imperial-guards-english-subbed",
                                 "title": "The Young Imperial Guards English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933481.jpg"
-                            },
-                            {
-                                "url": "/anime/yaya-and-zouk",
-                                "title": "YaYa and Zouk",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933480.jpg"
-                            },
-                            {
-                                "url": "/anime/tommy-oscar",
-                                "title": "Tommy & Oscar",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933479.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,11 +604,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kimi-ni-todoke-from-me-to-you",
-                    "title": "From Me to You",
-                    "description": "Known for her semblance to the Sadako character of The Ring series, Sawako Kuronuma is given the nickname “Sadako” and misunderstood to be frightening and malicious like her fictional counterpart, despite having a timid and sweet nature. Longing to make friends and live a normal life, Sawako is naturally drawn to the cheerful and friendly Shouta Kazehaya, the most popular boy in her class. From their first meeting, Sawako has admired Kazehaya’s ability to be the center of attention and aspires to be like him.",
-                    "genre": "Drama, Romance, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933494.jpg",
+                    "url": "/anime/wakkaville",
+                    "title": "Wakkaville",
+                    "description": "The misadventures of Jaz in the town of Wakkaville, a place full of crazy kids and adults. Along with her new friends, the 13-year-old is determined to drag the town into the 21st century.",
+                    "genre": "Adventure, Comedy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933496.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -616,14 +616,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kimi-ni-todoke-from-me-to-you-season-2-episode-13-english-dubbed",
-                        "name": "Season 2 - Episode 13",
-                        "episode_number": 213.0
+                        "url": "/wakkaville-episode-26-the-visitor",
+                        "name": "Season 1 - Episode 26",
+                        "episode_number": 126.0
                     },
                     {
-                        "url": "/kimi-ni-todoke-from-me-to-you-season-2-episode-12-english-dubbed",
-                        "name": "Season 2 - Episode 12",
-                        "episode_number": 212.0
+                        "url": "/wakkaville-episode-25-burgoyne-f-m",
+                        "name": "Season 1 - Episode 25",
+                        "episode_number": 125.0
                     }
                 ],
                 "passed": true
@@ -631,19 +631,14 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJieVo0XeVV6r_vXQ9dkZtGQBDWfWdCMXt9Z4wnRB69o4mV-eVTc3PYVU5xmW-C4YegbIyI3eFhDM3FGYhMQirF97Mr0kfHiFCULQ4jChrsg0EHCGD_l68Z_PwGntuovSYX0C7c2IJV_aUYKd5gxn01BIHJDwEMXTlAm6-_W87vH23x7c4yjYGWFYY58ie--lpijU0Cf9fforHSocJ12TLniv_NCzlJBPJGCxmBwnxHz0ZBy-k06Xx3zA1_Azc-e2O0IaPNQQ8S7Mn3vAusgpXSpIpPZhm7hdTHqNsvIeyCCzshwuPLtQK_neXG-dy8mOn3wunpUGKeUnfAAFAb7NbOdqcN9opPgZx8aoyf_rtQBiMRk4Un9g0F01J2J6X8PFZ44kIwfVR4RPIB6ajKwy7mV5RBi-MN9_HB5GR6s9o0CQucU41OuGw2QmMSfswRHHSGycDRyozcdcOcbqEpTLxehY-04OlhZetgpmH-pfY11F",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJicXInIAhOTRoFkSOfciFN-lUTlrS5PYKjcG4ixXhs0nYvYqPrEc_mOeQxcerFcEFFdTIHZdHeZO37-pqd2M2IuapVlmLrKSKLSTb0VNpdn8HbfRYGqfG7ZpWt1BHMkl_k0dOkUClTE9e5giOzmEAtzqu2hu0piS2SkMQfXvR8cXcPE9Mrzf7_f76UnHOxLUobdBj3lhbDQd-YZwoSemkRB_Zeep29UrcoVQHkUQR3Psug-GTCVWWZKAEuwH80vV3nLqEsT9bXjVyxeDXUlxGHEM-UcbPTj-lH0NZvn8hEcCl41TT3pH8ddbqxilwbeIyBzF-iky25pnVLTvX8SmFcOYFOH6_ZKX2cPH2LZzVSc7",
                         "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJieVo0XeVV6r_vXQ9dkZtGQBDWfWdCMXt9Z4wnRB69o4mV-eVTc3PYVU5xmW-C4YegbIyI3eFhDM3FGYhMQirF97Mr0kfHiFCULQ4jChrsg0EHCGD_l68Z_PwGntuovSYX0C7c2IJV_aUYKd5gxn01BIHJDwEMXTlAm6-_W87vH23x7c4yjYGWFYY58ie--lpijU0Cf9fforHSocJ12TLniv_NCzlJBPJGCxmBwnxHz0ZBy-k06Xx3zA1_Azc-e2O0IaPNQQ8S7Mn3vAusgpXSpIpPZhm7hdTHqNsvIeyCCzshwuPLtQK_neXG-dy8mOn3wunpUGKeUnfAAFAb7NbOdqcN9opPgZx8aoyf_rtQBiMRk4Un9g0F01J2J6X8PFZ44kIwfVR4RPIB6ajKwy7mV5RBi-MN9_HB5GR6s9o0CQucU41OuGw2QmMSfswRHHSGycDRyozcdcOcbqEpTLxehY-04OlhZetgpmH-pfY11F"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJicXInIAhOTRoFkSOfciFN-lUTlrS5PYKjcG4ixXhs0nYvYqPrEc_mOeQxcerFcEFFdTIHZdHeZO37-pqd2M2IuapVlmLrKSKLSTb0VNpdn8HbfRYGqfG7ZpWt1BHMkl_k0dOkUClTE9e5giOzmEAtzqu2hu0piS2SkMQfXvR8cXcPE9Mrzf7_f76UnHOxLUobdBj3lhbDQd-YZwoSemkRB_Zeep29UrcoVQHkUQR3Psug-GTCVWWZKAEuwH80vV3nLqEsT9bXjVyxeDXUlxGHEM-UcbPTj-lH0NZvn8hEcCl41TT3pH8ddbqxilwbeIyBzF-iky25pnVLTvX8SmFcOYFOH6_ZKX2cPH2LZzVSc7"
                     },
                     {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJieVo0XeVV6r_vXQ9dkZtGQBDWfWdCMXt9Z4wnRB69o4mV-eVTc3PYVU5xmW-C4YegbIyI3eFhDM3FGYhMQirF97Mr0kfHiFCULQ4jChrsg0EHCGD_l68Z_PwGntuovSYX0C7c2IJV_aUYKd5gxn01BIHJDwEMXTlAm6-_W87vH23x7c4yjYGWFYY58ie--lpijU0Cf9fforHSocJ12TLniv_NCzlJBPJGCxmBwnxHz0pjH5MjzNrKQz87fugYVXKCOxdJ5SzShuA8_1oIfGeU1Gj9i_v4lJ2JPRbARPeknrNe5BUJYPzACNa8M_CkorD6NrDt5_nmBbmb5bwWHP_xlWQimV8rFi8UaDfEM5mz7v8BXHC54eJiEPXuXuiLrdKakB6PwoeVguvzIU8WT2x0qTdjBJ2bX3NU3DyCmwYYc3WujcqMxjxxN_9wHlg-5j1nQwx509sKvQIseUMXJ5gK8DyQx9V2ipjAh4f5RcK7V-",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJieVo0XeVV6r_vXQ9dkZtGQBDWfWdCMXt9Z4wnRB69o4mV-eVTc3PYVU5xmW-C4YegbIyI3eFhDM3FGYhMQirF97Mr0kfHiFCULQ4jChrsg0EHCGD_l68Z_PwGntuovSYX0C7c2IJV_aUYKd5gxn01BIHJDwEMXTlAm6-_W87vH23x7c4yjYGWFYY58ie--lpijU0Cf9fforHSocJ12TLniv_NCzlJBPJGCxmBwnxHz0pjH5MjzNrKQz87fugYVXKCOxdJ5SzShuA8_1oIfGeU1Gj9i_v4lJ2JPRbARPeknrNe5BUJYPzACNa8M_CkorD6NrDt5_nmBbmb5bwWHP_xlWQimV8rFi8UaDfEM5mz7v8BXHC54eJiEPXuXuiLrdKakB6PwoeVguvzIU8WT2x0qTdjBJ2bX3NU3DyCmwYYc3WujcqMxjxxN_9wHlg-5j1nQwx509sKvQIseUMXJ5gK8DyQx9V2ipjAh4f5RcK7V-"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJieVo0XeVV6r_vXQ9dkZtGQBDWfWdCMXt9Z4wnRB69o4mV-eVTc3PYVU5xmW-C4YegbIyI3eFhDM3FGYhMQirF97Mr0kfHiFCULQ4jChrsg0EHCGD_l68Z_PwGntuovSYX0C7c2IJV_aUYKd5gxn01BIHJDwEMXTlAm6-_W87vH23x7c4yjYGWFYY58ie--lpijU0Cf9fforHSocJ12TLniv_NCzlJBPJGCxmBwnxHz02UfCunuWhZeoAxCl9jnTXBeyvFdX33FL4MWbNzls1dqH7XZpNeM9xd470BM1FfYKRuYhH1Dg7WmmiOH52AcgHgoX1zsdg859-EA3wVnikPxPaFmei7dWg0e01M8dP4Y1D_DamXnNfZylNounAgXehy2eCX9yleKs0z7ILl6M_YxsP5yM6UOBU55ikdp93YCCuyqEyQ6NIA7kRvi6abm8CWdfk8mG2Dg4ELt5QvCynss",
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJicXInIAhOTRoFkSOfciFN-lUTlrS5PYKjcG4ixXhs0nYvYqPrEc_mOeQxcerFcEFFdTIHZdHeZO37-pqd2M2IuapVlmLrKSKLSTb0VNpdn8_8mlhbj5KOGHHIKl0FxSHbkP-5dUd1Gixt6OKvpaO1nX0rwo3WFXYWXDNVOfUKIXkDOQ0Rg_LpKE-gNQ4_yHtdra7mt8EUtJNsCo1Z9VlXK3EzbrbvkykoOK9xTtVx0HHjbLHzXjP82RNS_h_18ssXPq-5FeDbJKGYaopWjPK9kxabgc37-ukc7FeZodxCl1vTMsqZTG6OF047Plndqtx2ALoGI4E3nZWFPihZ6I4FE",
                         "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJieVo0XeVV6r_vXQ9dkZtGQBDWfWdCMXt9Z4wnRB69o4mV-eVTc3PYVU5xmW-C4YegbIyI3eFhDM3FGYhMQirF97Mr0kfHiFCULQ4jChrsg0EHCGD_l68Z_PwGntuovSYX0C7c2IJV_aUYKd5gxn01BIHJDwEMXTlAm6-_W87vH23x7c4yjYGWFYY58ie--lpijU0Cf9fforHSocJ12TLniv_NCzlJBPJGCxmBwnxHz02UfCunuWhZeoAxCl9jnTXBeyvFdX33FL4MWbNzls1dqH7XZpNeM9xd470BM1FfYKRuYhH1Dg7WmmiOH52AcgHgoX1zsdg859-EA3wVnikPxPaFmei7dWg0e01M8dP4Y1D_DamXnNfZylNounAgXehy2eCX9yleKs0z7ILl6M_YxsP5yM6UOBU55ikdp93YCCuyqEyQ6NIA7kRvi6abm8CWdfk8mG2Dg4ELt5QvCynss"
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJicXInIAhOTRoFkSOfciFN-lUTlrS5PYKjcG4ixXhs0nYvYqPrEc_mOeQxcerFcEFFdTIHZdHeZO37-pqd2M2IuapVlmLrKSKLSTb0VNpdn8_8mlhbj5KOGHHIKl0FxSHbkP-5dUd1Gixt6OKvpaO1nX0rwo3WFXYWXDNVOfUKIXkDOQ0Rg_LpKE-gNQ4_yHtdra7mt8EUtJNsCo1Z9VlXK3EzbrbvkykoOK9xTtVx0HHjbLHzXjP82RNS_h_18ssXPq-5FeDbJKGYaopWjPK9kxabgc37-ukc7FeZodxCl1vTMsqZTG6OF047Plndqtx2ALoGI4E3nZWFPihZ6I4FE"
                     }
                 ],
                 "passed": true
