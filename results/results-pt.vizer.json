@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/percy-jackson-e-os-olimpianos",
+                                "title": "Percy Jackson e os Olimpianos",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
+                            },
+                            {
                                 "url": "/serie/online/law-order-organized-crime",
                                 "title": "Law & Order: Organized Crime",
                                 "status": 1,
@@ -315,12 +321,6 @@
                                 "title": "O Zorro",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22616.webp"
-                            },
-                            {
-                                "url": "/serie/online/percy-jackson-e-os-olimpianos",
-                                "title": "Percy Jackson e os Olimpianos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
                             },
                             {
                                 "url": "/serie/online/ted",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
