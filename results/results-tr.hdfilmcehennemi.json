@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/loop-track/",
+                                "title": "Loop Track",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/loop-track_list.jpg"
+                            },
+                            {
+                                "url": "/all-my-life/",
+                                "title": "Bütün Hayatım - Şimdi Ya da Asla",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/all-my-life_list.jpg"
+                            },
+                            {
                                 "url": "/mindgamers/",
                                 "title": "Aklın Gözü",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/mindgamers_list.jpg"
@@ -135,16 +145,6 @@
                                 "url": "/the-restless-hdfc/",
                                 "title": "Huzursuz Diyar",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-restless-hdfc_list.jpg"
-                            },
-                            {
-                                "url": "/children-of-the-corn-hdfc/",
-                                "title": "Children of the Corn",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/children-of-the-corn-hdfc_list.jpg"
-                            },
-                            {
-                                "url": "/1-newton-izle-5/",
-                                "title": "Newton",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/1-newton-izle_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -248,14 +248,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/mindgamers/",
-                    "title": "Aklın Gözü",
-                    "artist": "Sam Neill, Tom Payne, Melia Kreiling, Julian Bleach, Antonia Campbell-Hughes, Dominique Tipper, Predrag Bjelac, Oliver Stark, Turlough Convery, Turlough Convery",
-                    "description": "Bir grup genç bilim adamı, tüm zamanların en büyük buluşuna imza atar. Zihinleri birbirine bağlayan bu buluş dehşet verici bir takım olaylara neden olacaktır. Bir grup dahi öğrenci, insanların zihinlerini birbirlerine bağlayabilen kablosuz sinir ağı ve bu ağ üzerinden insan becerilerinin birbirlerine aktarılabileceği müthiş bir yazılım yaparlar. Bu dünyada bir ilktir. Fakat kısa bir süre sonra bu teknolojiyi bir kitle kontrol aracı haline getirme tehdidi oluşturan karanlık güçler ortaya çıkar ve gençler kendilerinin çok daha büyük ve daha korkutucu bir deneyin parçası olduklarını öğrenirler.",
-                    "genre": "Aksiyon, Bilim Kurgu, Gerilim",
+                    "url": "/loop-track/",
+                    "title": "Loop Track",
+                    "artist": "Thomas Sainsbury, Hayden J. Weal, Tawanda Manyimo, Kate Simmonds",
+                    "description": "Ian, insanlıktan olabildiğince uzaklaşmak ister ve Yeni Zelanda ormanlarına doğru yola çıkar ancak dört günlük yolculuk, hayatta kalma mücadelesine dönüşür.",
+                    "genre": "Gerilim",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/mindgamers.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/loop-track.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -263,7 +263,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/mindgamers/",
+                        "url": "/loop-track/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -271,8 +271,97 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./1080/index.m3u8",
+                        "quality": "[Altyazı] XBet - 800p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./720/index.m3u8",
+                        "quality": "[Altyazı] XBet - 532p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./480/index.m3u8",
+                        "quality": "[Altyazı] XBet - 356p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./480/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./360/index.m3u8",
+                        "quality": "[Altyazı] XBet - 266p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RO1mTyU1dPRVWzkleNdnWtpUbNR0Z650RJVzTEJVbPdkSq50VatmT6lVP:1706858100:20.75.95.240:0c52c7e8d6cf322a73527fc36ddab7fb7e190248d945d740f026553da8fb2703/./360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./1080/index.m3u8",
+                        "quality": "[Dublaj] XBet - 800p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./720/index.m3u8",
+                        "quality": "[Dublaj] XBet - 532p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./480/index.m3u8",
+                        "quality": "[Dublaj] XBet - 356p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./480/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    },
+                    {
+                        "url": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./360/index.m3u8",
+                        "quality": "[Dublaj] XBet - 266p",
+                        "videoUrl": "https://cdn0.trstx.org/stream/0edad8cda549220efb3093c4bfbb5b03/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMOlmWqZFaNR1Y590VWxWW6l1MadVV49ERalWWtVUMORlVr1UbKxmTqVUP:1706858099:20.75.95.240:9e08f74c6d0571ab277a240ed1ee7d226b7a2ab914bddbfa05ac2faf54d806b0/./360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://trstx.org",
+                            "Referer": "https://trstx.org/movie/c03d9710aefce767b4dd467bb6d27863/iframe"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -2332,8 +2332,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://video.sibnet.ru/v/f17e7cd3e4f11d60285b425bd9ab5618/4776463.mp4",
+                        "quality": "Sibnet",
+                        "videoUrl": "https://video.sibnet.ru/v/f17e7cd3e4f11d60285b425bd9ab5618/4776463.mp4",
+                        "headers": {
+                            "Referer": "https://video.sibnet.ru/shell.php?videoid=4776463"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
