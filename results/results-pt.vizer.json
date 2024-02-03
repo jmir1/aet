@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/sr-sra-smith",
+                                "title": "Sr. & Sra. Smith",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22626.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-irrational",
                                 "title": "The Irrational",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "O Zorro",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22616.webp"
-                            },
-                            {
-                                "url": "/serie/online/ted",
-                                "title": "ted",
-                                "status": 2,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22602.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,8 +598,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=LH6nrtyKDFGU0amCc_T1Ig&e=1706941814&_t=1706922026",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=LH6nrtyKDFGU0amCc_T1Ig&e=1706941814&_t=1706922026",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=XABwWsIi9rxuoMBFREv3IQ&e=1706941814&_t=1706921894",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=XABwWsIi9rxuoMBFREv3IQ&e=1706941814&_t=1706921894",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
