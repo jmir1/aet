@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/2E6T3LwE2hjxt4Bjf7Awk6ULUdZ.jpg"
                             },
                             {
-                                "url": "/diarios-de-la-cuarentena/",
-                                "title": "Diarios de la cuarentena",
+                                "url": "/ulven-kommer/",
+                                "title": "Ulven kommer",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6JfPieZWpuW0DrheY6cNx8vOvXH.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9uQLiuZJWlZ4qXL2wT0ScElwCRJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/el-consultor/",
-                                "title": "El consultor",
+                                "url": "/chicago-med-capitulos-completos-sub-espanol-hd-online/",
+                                "title": "Chicago Med",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/thqmhjLaMf2n0Ebl7oLRjH6VD15.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/8sWkBKCZ4FrzllsLjMQpiFxZWwM-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,59 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/no-deseados-rehenes-del-mar-temporada-1-capitulo-8/",
+                        "name": "T01 - E08 - Episodio 8",
+                        "date_upload": 1702598400000,
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "/episode/no-deseados-rehenes-del-mar-temporada-1-capitulo-7/",
+                        "name": "T01 - E07 - Episodio 7",
+                        "date_upload": 1701993600000,
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s29.fastream.to/hls2/03/00063/77bn8t8i7fgw_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=neco2pGbtQTSwMWSg3FrngZS-dLXwaDm89M9s3BgMpk&s=1706962270&e=43200&f=315130&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s29.fastream.to/hls2/03/00063/77bn8t8i7fgw_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=neco2pGbtQTSwMWSg3FrngZS-dLXwaDm89M9s3BgMpk&s=1706962270&e=43200&f=315130&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/03/00063/77bn8t8i7fgw_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=neco2pGbtQTSwMWSg3FrngZS-dLXwaDm89M9s3BgMpk&s=1706962270&e=43200&f=315130&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s29.fastream.to/hls2/03/00063/77bn8t8i7fgw_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=neco2pGbtQTSwMWSg3FrngZS-dLXwaDm89M9s3BgMpk&s=1706962270&e=43200&f=315130&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s29.fastream.to/hls2/03/00063/77bn8t8i7fgw_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=neco2pGbtQTSwMWSg3FrngZS-dLXwaDm89M9s3BgMpk&s=1706962270&e=43200&f=315130&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s29.fastream.to/hls2/03/00063/77bn8t8i7fgw_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=neco2pGbtQTSwMWSg3FrngZS-dLXwaDm89M9s3BgMpk&s=1706962270&e=43200&f=315130&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
