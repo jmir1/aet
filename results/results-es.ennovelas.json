@@ -97,6 +97,48 @@
                                 "thumbnail_url": ""
                             },
                             {
+                                "url": "/series/huzur-sokagi-en-espanol/",
+                                "title": "Huzur Sokagi en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/asktan-kacilmaz-en-espanol/",
+                                "title": "Asktan Kaçilmaz en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/suskunlar-en-espanol/",
+                                "title": "Suskunlar en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/calikusu-en-espanol/",
+                                "title": "Çalikusu en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/mehmed-bir-cihan-fatihi-en-espanol/",
+                                "title": "Mehmed Bir Cihan Fatihi en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/kara-ekmek-en-espanol/",
+                                "title": "Kara Ekmek en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/kardes-cocuklari-en-espanol/",
+                                "title": "Kardes Çocuklari en Español",
+                                "description": "",
+                                "thumbnail_url": ""
+                            },
+                            {
                                 "url": "/series/bir-sevdadir/",
                                 "title": "Bir Sevdadir",
                                 "description": "",
@@ -117,48 +159,6 @@
                             {
                                 "url": "/series/gossip-girl-temporada-6/",
                                 "title": "Gossip Girl Temporada 6",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/hazbin-hotel/",
-                                "title": "Hazbin Hotel",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/epico/",
-                                "title": "Epico",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/kalbimin-sultani-en-espanol/",
-                                "title": "Kalbimin Sultani en Español",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/siyah-inci-en-espanol/",
-                                "title": "Siyah Inci en Español",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/nefes-nefese-en-espanol/",
-                                "title": "Nefes Nefese en Español",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/insanlik-sucu-en-espanol/",
-                                "title": "Insanlik Suçu en Español",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/la-mujer-en-la-pared/",
-                                "title": "La Mujer en la Pared",
                                 "description": "",
                                 "thumbnail_url": ""
                             },
@@ -316,17 +316,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vegas-ov-u03.vmwes.cloud/hls/xqx2pslhmjokjiqbte4sl4ce4zmewe3svwzpasuv3pdeodqnqjtngbilsdoa/index-v1-a1.m3u8",
-                        "quality": " - 720p",
-                        "videoUrl": "https://vegas-ov-u03.vmwes.cloud/hls/xqx2pslhmjokjiqbte4sl4ce4zmewe3svwzpasuv3pdeodqnqjtngbilsdoa/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
