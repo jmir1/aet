@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/bosco",
+                                "title": "Bosco",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg"
+                            },
+                            {
                                 "url": "/movies/orion-y-la-oscuridad",
                                 "title": "Orión y la oscuridad",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg"
@@ -67,6 +72,11 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/nJ3ZJi7my9eVO8YD09N9tvyejel.jpg"
                             },
                             {
+                                "url": "/movies/lost-phoenix",
+                                "title": "Lost Phoenix",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4O6nybWUMSIEmeu8uNrk5jEdaet.jpg"
+                            },
+                            {
                                 "url": "/movies/sentencia-de-muerte-866398",
                                 "title": "Beekeeper: Sentencia de Muerte",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg"
@@ -75,11 +85,6 @@
                                 "url": "/movies/lift-un-robo-de-primera-clase",
                                 "title": "Lift: Un robo de primera clase",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/veUHao6XPxcb5MeRDdhokevxiz5.jpg"
-                            },
-                            {
-                                "url": "/movies/lost-phoenix",
-                                "title": "Lost Phoenix",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4O6nybWUMSIEmeu8uNrk5jEdaet.jpg"
                             },
                             {
                                 "url": "/movies/justice-league-crisis-on-infinite-earths-part-one",
@@ -125,11 +130,6 @@
                                 "url": "/movies/despertar-del-duelo",
                                 "title": "Despertar del duelo",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/9Xr2PiUlJeDdSHLxSiXQZruygVg.jpg"
-                            },
-                            {
-                                "url": "/movies/kho-gaye-hum-kahan",
-                                "title": "¿Dónde nos perdimos?",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/7JzXGrnfLnLatx1pb6bpr0o8k4B.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -172,14 +172,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg"
                             },
                             {
-                                "url": "/movies/death-note-iluminando-un-nuevo-mundo",
-                                "title": "Death Note: Iluminando un nuevo mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
-                            },
-                            {
                                 "url": "/movies/jurassic-world-el-reino-caido",
                                 "title": "Jurassic World: El Reino Caído",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
+                            },
+                            {
+                                "url": "/movies/death-note-iluminando-un-nuevo-mundo",
+                                "title": "Death Note: Iluminando un nuevo mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
                             },
                             {
                                 "url": "/movies/the-world-to-come",
@@ -269,14 +269,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/orion-y-la-oscuridad",
-                    "title": "Orión y la oscuridad",
-                    "artist": "Jacob Tremblay",
-                    "description": "Un niño con una gran imaginación se enfrenta a sus miedos en un inolvidable viaje nocturno con su nuevo amigo: una criatura gigante y sonriente llamada Oscuridad.",
-                    "genre": "Animación, Familia, Comedia, Fantasía",
+                    "url": "/movies/bosco",
+                    "title": "Bosco",
+                    "artist": "Aubrey Joseph",
+                    "description": "Cuenta la historia de Quawntay “Bosco” Adams. Sentenciado a 35 años por intento de posesión de marihuana, Adams escapó milagrosamente con la ayuda de una mujer mayor que conoció a través de un anuncio de corazones solitarios.",
+                    "genre": "Drama, Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -284,7 +284,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/orion-y-la-oscuridad",
+                        "url": "/movies/bosco",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -294,36 +294,36 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://voe.sx/e/bnvejzdstx2q",
+                        "url": "https://voe.sx/e/fy5fj579zd3j",
                         "quality": " Voe:720p",
-                        "videoUrl": "https://delivery-node-jdchlvsd7pipl51h.voe-network.net/engine/hls2-c/01/10426/bnvejzdstx2q_,n,.urlset/master.m3u8?t=doQaxbOB0KJRguwzWnnLE9IAzWpt1FBq4LFLgKRZL3c&s=1706920238&e=14400&f=52130848&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=40.67&sp=2500&asn=8075"
+                        "videoUrl": "https://delivery-node-shpnoshi6yqv0sbe.voe-network.net/engine/hls2-c/01/10428/fy5fj579zd3j_,n,.urlset/master.m3u8?t=LezAGvK_RmTxjFWZfmdH--v54jzMid6t6hzs2Js6JAQ&s=1706940501&e=14400&f=52140567&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=20.172&sp=2500&asn=8075"
                     },
                     {
-                        "url": "https://ees45cuz.sw-cdnstream.com/hls2/01/02961/vwvcy71iy54b_,n,h,.urlset/index-f2-v1-a1.m3u8?t=zS1cyCozr_I4CyUG5AbCVZCvZYW2_HS_aYhSA7PUG8M&s=1706920236&e=129600&f=14807225&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "url": "https://a1np9lzy.sw-cdnstream.com/hls2/01/02962/6hnwie2f1css_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4DZS90BBW2OMijHeNMdbS6N17clrdHXD4TTtIChAkI8&s=1706940498&e=129600&f=14814398&srv=wvej31Up0tST&i=0.4&sp=500&p1=wvej31Up0tST&p2=wvej31Up0tST&asn=8075",
                         "quality": " StreamWish:720p",
-                        "videoUrl": "https://ees45cuz.sw-cdnstream.com/hls2/01/02961/vwvcy71iy54b_,n,h,.urlset/index-f2-v1-a1.m3u8?t=zS1cyCozr_I4CyUG5AbCVZCvZYW2_HS_aYhSA7PUG8M&s=1706920236&e=129600&f=14807225&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "videoUrl": "https://a1np9lzy.sw-cdnstream.com/hls2/01/02962/6hnwie2f1css_,n,h,.urlset/index-f2-v1-a1.m3u8?t=4DZS90BBW2OMijHeNMdbS6N17clrdHXD4TTtIChAkI8&s=1706940498&e=129600&f=14814398&srv=wvej31Up0tST&i=0.4&sp=500&p1=wvej31Up0tST&p2=wvej31Up0tST&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/vwvcy71iy54b"
+                            "Referer": "https://streamwish.to/e/6hnwie2f1css"
                         }
                     },
                     {
-                        "url": "https://ees45cuz.sw-cdnstream.com/hls2/01/02961/vwvcy71iy54b_,n,h,.urlset/index-f1-v1-a1.m3u8?t=zS1cyCozr_I4CyUG5AbCVZCvZYW2_HS_aYhSA7PUG8M&s=1706920236&e=129600&f=14807225&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "url": "https://a1np9lzy.sw-cdnstream.com/hls2/01/02962/6hnwie2f1css_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4DZS90BBW2OMijHeNMdbS6N17clrdHXD4TTtIChAkI8&s=1706940498&e=129600&f=14814398&srv=wvej31Up0tST&i=0.4&sp=500&p1=wvej31Up0tST&p2=wvej31Up0tST&asn=8075",
                         "quality": " StreamWish:480p",
-                        "videoUrl": "https://ees45cuz.sw-cdnstream.com/hls2/01/02961/vwvcy71iy54b_,n,h,.urlset/index-f1-v1-a1.m3u8?t=zS1cyCozr_I4CyUG5AbCVZCvZYW2_HS_aYhSA7PUG8M&s=1706920236&e=129600&f=14807225&srv=qkjzspbjuubm&i=0.4&sp=500&p1=qkjzspbjuubm&p2=qkjzspbjuubm&asn=8075",
+                        "videoUrl": "https://a1np9lzy.sw-cdnstream.com/hls2/01/02962/6hnwie2f1css_,n,h,.urlset/index-f1-v1-a1.m3u8?t=4DZS90BBW2OMijHeNMdbS6N17clrdHXD4TTtIChAkI8&s=1706940498&e=129600&f=14814398&srv=wvej31Up0tST&i=0.4&sp=500&p1=wvej31Up0tST&p2=wvej31Up0tST&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/vwvcy71iy54b"
+                            "Referer": "https://streamwish.to/e/6hnwie2f1css"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=1JQoLRly9gfelOy&expires=1706990239&ip=GxOsEREnDS9X&token=Ea13GssRYrEA",
+                        "url": "https://streamtape.com/get_video?id=qKad8dAMyMiz8PX&expires=1707010503&ip=FROsD0ETKxSHDN&token=c-qNjm410hld",
                         "quality": " StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1JQoLRly9gfelOy&expires=1706990239&ip=GxOsEREnDS9X&token=Ea13GssRYrEA"
+                        "videoUrl": "https://streamtape.com/get_video?id=qKad8dAMyMiz8PX&expires=1707010503&ip=FROsD0ETKxSHDN&token=c-qNjm410hld"
                     }
                 ],
                 "passed": true
