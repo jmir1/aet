@@ -271,8 +271,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://weststor-2-s-3-f-v.vmrest.space/hls/xqx2od4nprokjiqbtg4cpm2hu23qutz2n3vdxp5saf627jcoknnzhar6e5ma/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 900p",
+                        "videoUrl": "https://weststor-2-s-3-f-v.vmrest.space/hls/xqx2od4nprokjiqbtg4cpm2hu23qutz2n3vdxp5saf627jcoknnzhar6e5ma/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-z3wyl1flnsl0.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
