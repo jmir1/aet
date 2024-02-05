@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/himesama-goumon-no-jikan-desu-ger-sub/",
+                                "title": "Himesama „Goumon“ no Jikan desu Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v64716-370x208.jpg"
+                            },
+                            {
+                                "url": "/tsuki-ga-michibiku-isekai-douchuu-2nd-season-ger-sub/",
+                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v52174-370x208.jpg"
+                            },
+                            {
+                                "url": "/high-card-season-2-ger-sub/",
+                                "title": "High Card Season 2 Ger Sub",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v68710-370x208.jpg"
+                            },
+                            {
                                 "url": "/meiji-gekken-1874-ger-sub/",
                                 "title": "Meiji Gekken: 1874 Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v68783-370x208.jpg"
@@ -170,21 +185,6 @@
                                 "url": "/urusei-yatsura-2022-2nd-season-ger-sub/",
                                 "title": "Urusei Yatsura (2022) 2nd Season Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v61464-370x208.jpg"
-                            },
-                            {
-                                "url": "/majo-to-yajuu-ger-sub/",
-                                "title": "Majo to Yajuu Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v58907-370x208.jpg"
-                            },
-                            {
-                                "url": "/yuuki-bakuhatsu-bang-bravern-ger-sub/",
-                                "title": "Yuuki Bakuhatsu Bang Bravern Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v68721-370x208.jpg"
-                            },
-                            {
-                                "url": "/mato-seihei-no-slave-ger-sub/",
-                                "title": "Mato Seihei no Slave Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v53087-370x208.jpg"
                             },
                             {
                                 "url": "/bucchigiri-ger-dub/",
@@ -439,13 +439,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/meiji-gekken-1874-ger-sub/",
-                    "title": "Meiji Gekken: 1874 Ger Sub",
-                    "description": "Wir schreiben das Jahr 1874. Shizuma Orikasa, ein ehemaliger Samurai der Aizu-Domäne, der jetzt als Rikschafahrer arbeitet, ist auf der Suche nach seiner verschwundenen Verlobten Sumie Kanomata. Ein Zwischenfall führt jedoch dazu, dass er Mitglied der neu gegründeten Polizei wird und sich bei der Verfolgung eines Komplotts zum Sturz der Regierung wiederfindet.",
-                    "genre": "Action, Historical",
+                    "url": "/himesama-goumon-no-jikan-desu-ger-sub/",
+                    "title": "Himesama „Goumon“ no Jikan desu Ger Sub",
+                    "description": "Torture Tortura ist dafür zuständig, die Prinzessin der kaiserlichen Armee, die während des Krieges von der Höllenhorde gekidnappt wurde, zu foltern. Dabei greift sie allerdings nicht auf herkömmliche Methoden zurück, sondern versucht Informationen durch beeindruckende Gerichte aus der japanischen Esskultur zu bekommen.",
+                    "genre": "Comedy, Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/68783.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/64716.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -453,31 +453,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/meiji-gekken-1874-ger-sub/?link=3",
-                        "name": "Ep. 4",
-                        "episode_number": 4.0
+                        "url": "/himesama-goumon-no-jikan-desu-ger-sub/?link=4",
+                        "name": "Ep. 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/meiji-gekken-1874-ger-sub/?link=2",
-                        "name": "Ep. 3",
-                        "episode_number": 3.0
+                        "url": "/himesama-goumon-no-jikan-desu-ger-sub/?link=3",
+                        "name": "Ep. 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www14.mp4upload.com:183/d/qwxwr5x7z3b4quuoqcquemkwja6fuaqgsq262ebe7wva4gmytysl2h6cisclhnftsyej3rpi/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www14.mp4upload.com:183/d/qwxwr5x7z3b4quuoqcquemkwja6fuaqgsq262ebe7wva4gmytysl2h6cisclhnftsyej3rpi/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
