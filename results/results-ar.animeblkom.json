@@ -186,60 +186,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/kage-no-jitsuryokusha-ni-naritakute-2nd-season/12",
-                        "name": "12 :الحلقة",
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/watch/kage-no-jitsuryokusha-ni-naritakute-2nd-season/11",
-                        "name": "11 :الحلقة",
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/720p.mp4?expires=1707113368&token=gK8ndZ3JANF_p9qiM2ck7w",
-                        "quality": "Blkom - 720p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/720p.mp4?expires=1707113368&token=gK8ndZ3JANF_p9qiM2ck7w",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/1080p.mp4?expires=1707113368&token=0U9PSMXLO7PVwJl8bzoDVQ",
-                        "quality": "Blkom - 1080p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/1080p.mp4?expires=1707113368&token=0U9PSMXLO7PVwJl8bzoDVQ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/480p.mp4?expires=1707113368&token=s2k5HOrLw7-H7AvulsIQWA",
-                        "quality": "Blkom - 480p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/480p.mp4?expires=1707113368&token=s2k5HOrLw7-H7AvulsIQWA",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    },
-                    {
-                        "url": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/360p.mp4?expires=1707113368&token=eu01HSweOUQgI-AcUXCbfQ",
-                        "quality": "Blkom - 360p",
-                        "videoUrl": "https://cdn1.vid4up.xyz/videos/149/65ad54cb0814d/360p.mp4?expires=1707113368&token=eu01HSweOUQgI-AcUXCbfQ",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://animeblkom.net"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             }
         }
     }

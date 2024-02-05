@@ -241,6 +241,13 @@
                     {
                         "animes": [
                             {
+                                "url": "/doramas-online/living-no-matsunaga-san?id=65c00e26cc3c1646a198ecea",
+                                "title": "Living no Matsunaga-san (Salón Matsunaga-san)",
+                                "description": "Debido a circunstancias familiares, la estudiante de secundaria Miko Sonoda se ve obligada a vivir en la pensión de su tío. Sin embargo, antes de que pueda llegar allí, Miko ya se encuentra con un mal presagio: mientras intenta encontrar el lugar, ¡sospecha que alguien la está siguiendo! Cuando su tío viene a rescatarla, el supuesto acosador resulta ser uno de sus inquilinos, lo que deja a Miko avergonzada en su primer día.\n\nMiko se entera de que vivirá con cinco adultos únicos, incluido el acusado. Además, resulta que es Jun Matsunaga, un diseñador de 27 años que parece perder los estribos con facilidad. Después de haber causado una primera impresión tan humillante, Miko cree que sólo le espera una vida miserable. Pero en presencia de Jun, se da cuenta de que vivir con adultos no es tan difícil después de todo, e incluso puede que haya suficiente espacio para el romance.",
+                                "genre": "Drama, Romance, Comedia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/2fB3c5kjlceliXjYIvtzOQnEpEw.jpg"
+                            },
+                            {
                                 "url": "/doramas-online/mars-zeros-revolution?id=65bd545dcc3c1646a1984623",
                                 "title": "Mars: Zero's Revolution (Marte: La Revolución de Zero)",
                                 "description": "Mishima Zero es un misterioso estudiante transferido de 19 años que reúne a un grupo de estudiantes de secundaria \"fallidos\" para \"destruir el mundo con él\". Zero tiene una apariencia única y un encanto carismático que le permite penetrar los corazones de las personas y manipularlas con sus palabras. Liderados por Zero, los estudiantes de secundaria forman un grupo llamado \"Mars\" para desmantelar y reconstruir la sociedad creada por los adultos.",
@@ -456,13 +463,6 @@
                                 "description": "Poco después de ingresar a la universidad, Jian recibe una llamada de la policía local informándole del \"suicidio\" de su tío. Su cuidador, desde la muerte de sus padres, el tío Jeong Jin Man, siempre había sido tranquilo y misterioso, pero nunca suicida.\n\nPero antes de que Jian tenga la oportunidad de pensar, su vida da un vuelco por una ráfaga de disparos, drones asesinos y más, mientras una mezcla de asesinos altamente calificados inexplicablemente se concentran en matarla. Inmovilizada en la casa de su tío, Jian se verá obligada a revisar algunos de los extraños entrenamientos que su tío le dio durante sus años de formación si espera sobrevivir el tiempo suficiente para descubrir lo que está pasando.",
                                 "genre": "Drama, Aventura, Misterio, Crimen",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
-                            },
-                            {
-                                "url": "/doramas-online/drops-of-god?id=65a588569abfbaef0f44025d",
-                                "title": "Drops of God (Las Gotas de Dios)",
-                                "description": "Que comience la competencia.\n\nAlexandre Léger es el fundador de una guía de vinos tintos de fama mundial y una autoridad en vinos. Mientras el mundo del vino llora su muerte, su hija separada, Camille, descubre que su extraordinaria colección ahora es suya. Pero en su testamento, estipula que si Camille quiere heredar su vasta colección de vinos, tendrá que competir en un concurso de cata de vinos contra Toomine Issei, quien es crítico de vinos, antiguo alumno de Alexandre Léger y su protegido. Si gana el concurso de cata de vinos, Camille heredará la codiciada colección de vinos de su padre.",
-                                "genre": "Drama, Familia, Misterio",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/ibuJB7pHM31b7v5q1deMuNIbArM.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -606,17 +606,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/doramas-online/love-endures?id=65aab08d957354e852e98f59",
-                    "title": "Love Endures (El Amor Perdura)",
-                    "artist": "Yang Zi",
-                    "author": "Jiangsu Television",
-                    "description": "En una ciudad aeroespacial del norte, siete niños que nacieron como hijos únicos se volvieron más cercanos que hermanos y se llamaron a sí mismos \"La Osa Mayor\". Los buenos amigos habían prometido estar juntos por el resto de sus vidas, pero se vieron obligados a abandonar debido a un accidente en el año del examen de ingreso a la universidad de Gaokao.  Muchos años después, a la edad de 30 años, cada uno de ellos recorrió solos sus respectivos caminos de vida.\n\nUn día, recibieron la noticia de que su buen amigo Guan Chao estaba a punto de casarse. Esta vez, sin importar los desafíos que estuviera a punto de enfrentar, Huang Yuanzi haría todo lo posible para que todos caminaran juntos hasta el final. Los tiempos cambian, pero los sentimientos no.  Con muchas preguntas por responder, después de todo este tiempo, ¿podrán estos amigos de la infancia volver a estar juntos?",
-                    "genre": "Drama, Romance, Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/A7ZXuc8XwM12VnfPaUDFR9OBeXc.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [

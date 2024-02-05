@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/wonderful-precure-english-subbed",
+                                "title": "Wonderful Precure! English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933501.jpg"
+                            },
+                            {
+                                "url": "/anime/hero-inside",
+                                "title": "Hero Inside",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933500.jpg"
+                            },
+                            {
                                 "url": "/anime/whats-the-big-idea",
                                 "title": "What's the Big Idea?",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933499.jpg"
@@ -75,16 +85,6 @@
                                 "url": "/anime/tom-and-jerry-special-shorts",
                                 "title": "Tom and Jerry Special Shorts",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933486.jpg"
-                            },
-                            {
-                                "url": "/anime/tijuana-toads",
-                                "title": "Tijuana Toads",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933485.jpg"
-                            },
-                            {
-                                "url": "/anime/tib-and-tumtum",
-                                "title": "Tib and Tumtum",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933484.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -392,11 +392,6 @@
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/756658.jpg"
                             },
                             {
-                                "url": "/anime/arifureta-from-commonplace-to-world-s-strongest",
-                                "title": "Arifureta: From Commonplace to World's Strongest",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/764895.jpg"
-                            },
-                            {
                                 "url": "/anime/sd-gundam-world-sangoku-souketsuden-english-subbed",
                                 "title": "SD Gundam World: Sangoku Souketsuden English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/766758.jpg"
@@ -465,11 +460,6 @@
                                 "url": "/anime/world-witches-hasshin-shimasu-english-subbed",
                                 "title": "World Witches Hasshin Shimasu! English Subbed",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/873225.jpg"
-                            },
-                            {
-                                "url": "/anime/hetalia-world★stars-english-subbed",
-                                "title": "Hetalia World★Stars English Subbed",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/883968.jpg"
                             },
                             {
                                 "url": "/anime/sd-gundam-world-heroes-english-subbed",
@@ -595,6 +585,16 @@
                                 "url": "/anime/this-world-cant-tear-me-down",
                                 "title": "This World Can't Tear Me Down",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/932962.jpg"
+                            },
+                            {
+                                "url": "/anime/jessicas-big-little-world",
+                                "title": "Jessica's Big Little World",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933188.jpg"
+                            },
+                            {
+                                "url": "/anime/good-night-world-english-subbed",
+                                "title": "Good Night World English Subbed",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933205.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/whats-the-big-idea",
-                    "title": "What's the Big Idea?",
-                    "description": "CBeebies’ first philosophy show for preschool age children. Hugo takes us on a journey of philosophical enquiry confronting big questions like ‘What is the difference between thinking and dreaming?’, ‘Can it ever be good to be angry?’ and ‘Why do people feel sad?’.",
-                    "genre": "Comedy, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933499.jpg",
+                    "url": "/anime/wonderful-precure-english-subbed",
+                    "title": "Wonderful Precure! English Subbed",
+                    "description": "The Wonderful Precure! anime is set in Animal Town, a town where animals and people live together in harmony. Second-year junior high school student Iroha Inukai is best friends with her dog named Komugi. Out for a walk one day, Iroha and Komugi encounter a mysterious creature named Gargal, who goes on a rampage in the city. Komugi suddenly transforms into a Pretty Cure named Cure Wonderful, to protect Iroha.",
+                    "genre": "Action, Fantasy, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933501.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/whats-the-big-idea-episode-52-brave",
-                        "name": "Season 1 - Episode 52",
-                        "episode_number": 152.0
-                    },
-                    {
-                        "url": "/whats-the-big-idea-episode-51-old",
-                        "name": "Season 1 - Episode 51",
-                        "episode_number": 151.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmfMA6Bj-gSI9iWVOqb4V_Mz0GdkUFlbkLzyhEGahY4KJ0o1pRoqRaHKXVa1q1BNg644r-7BDu_DVyix-xC92cPpfU7taFgORFIoJohxiDJSwMWCrRXSAFoZJ1-SQDhj5NKlmyKp3Z0e2BCilShYY6aej8ciyzhMM8Qf8HPi4pnCnK1KglBx50anO-WHssqpeOGYdgPbnxKG_XTMz6PQnh1fGDcheIHoiy-5AWJItgh7nUtAdGZcaGOE3VAEE6lYLEdKjgHpA1E5suMwfEmgFF-2iDgND84uPwsAMIJX1dFAJgQN_-pOhZCmTiVzB3w59cyVS7Ho5hDzt4-BzyoVFQL6NwhSd93GMGDStr9WLf2zc-DWNLQ8A0sWwHr3K9Fdsw",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmfMA6Bj-gSI9iWVOqb4V_Mz0GdkUFlbkLzyhEGahY4KJ0o1pRoqRaHKXVa1q1BNg644r-7BDu_DVyix-xC92cPpfU7taFgORFIoJohxiDJSwMWCrRXSAFoZJ1-SQDhj5NKlmyKp3Z0e2BCilShYY6aej8ciyzhMM8Qf8HPi4pnCnK1KglBx50anO-WHssqpeOGYdgPbnxKG_XTMz6PQnh1fGDcheIHoiy-5AWJItgh7nUtAdGZcaGOE3VAEE6lYLEdKjgHpA1E5suMwfEmgFF-2iDgND84uPwsAMIJX1dFAJgQN_-pOhZCmTiVzB3w59cyVS7Ho5hDzt4-BzyoVFQL6NwhSd93GMGDStr9WLf2zc-DWNLQ8A0sWwHr3K9Fdsw"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmfMA6Bj-gSI9iWVOqb4V_Mz0GdkUFlbkLzyhEGahY4KJ0o1pRoqRaHKXVa1q1BNg644r-7BDu_DVyix-xC92cPpfU7taFgORFIoJohxiDJSwMWCrRXSAFoZJ1-SQDhj5GCNAuhUnJDcVxnIVvgjeMZiwpMjTasuigyDRN88lbjXBNKVNNOD7pNI36muYDoYMVrjmomSb5s2674VvWC8u8jrmvRxc02GRbFP1yH01DmMBX7SfvLCafP6Pv8gahBRk7EDWExkwru8wTPP9tWZRuxsyDy3CV39WnY-P21vKI3WErVy_3JgO8Fy_dMShDKJ0UsuuMC-HsBLE9Hg26O5KZhajys0vK0Ux3VoZNsZ_BE2",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJmfMA6Bj-gSI9iWVOqb4V_Mz0GdkUFlbkLzyhEGahY4KJ0o1pRoqRaHKXVa1q1BNg644r-7BDu_DVyix-xC92cPpfU7taFgORFIoJohxiDJSwMWCrRXSAFoZJ1-SQDhj5GCNAuhUnJDcVxnIVvgjeMZiwpMjTasuigyDRN88lbjXBNKVNNOD7pNI36muYDoYMVrjmomSb5s2674VvWC8u8jrmvRxc02GRbFP1yH01DmMBX7SfvLCafP6Pv8gahBRk7EDWExkwru8wTPP9tWZRuxsyDy3CV39WnY-P21vKI3WErVy_3JgO8Fy_dMShDKJ0UsuuMC-HsBLE9Hg26O5KZhajys0vK0Ux3VoZNsZ_BE2"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
