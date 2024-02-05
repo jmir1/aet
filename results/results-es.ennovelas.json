@@ -316,8 +316,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vegas-ov-u03.vmwes.cloud/hls/xqx2pslhmjokjiqbte4sl4ce4zmewe3svwzpasuv3pdeofy5thocbcyd5wma/index-v1-a1.m3u8",
+                        "quality": " - 720p",
+                        "videoUrl": "https://vegas-ov-u03.vmwes.cloud/hls/xqx2pslhmjokjiqbte4sl4ce4zmewe3svwzpasuv3pdeofy5thocbcyd5wma/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
