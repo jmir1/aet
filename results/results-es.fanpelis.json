@@ -3,21 +3,132 @@
         "name": "FanPelis (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
-            },
-            "search": {
                 "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
+            "search": {
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/one-piece-strong-world-hd/",
+                                "title": "One Piece: Strong World",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg"
+                            },
+                            {
+                                "url": "/series/star-trek-strange-new-worlds-hd/",
+                                "title": "Star Trek: Strange New Worlds",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg"
+                            },
+                            {
+                                "url": "/justice-league-warworld-hd/",
+                                "title": "Justice League: Warworld",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9tx4cD3cuHhrdqLwFw8TTbfSKH2.jpg"
+                            },
+                            {
+                                "url": "/series/westworld-hd/",
+                                "title": "Westworld",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gvX38K4xcolV6Vjs1uh0MNrUTH8.jpg"
+                            },
+                            {
+                                "url": "/jurassic-world-dominio-hd/",
+                                "title": "Jurassic World Dominio",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/sXeWfpT1EhG7f4uBouqraOhmouH.jpg"
+                            },
+                            {
+                                "url": "/series/jurassic-world-campamento-cretacico-hd/",
+                                "title": "Jurassic World: campamento Cretácico",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jWTDtbp2TnUGw1OJoDqq2O9IS0M.jpg"
+                            },
+                            {
+                                "url": "/jurassic-world-el-reino-caido-hd/",
+                                "title": "Jurassic World: El reino caído",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_bestv2/bZhrPZfYWwYE1Y5SEWyxOVivhSw.jpg"
+                            },
+                            {
+                                "url": "/lego-jurassic-world-la-exhibicion-secreta-f001-hd/",
+                                "title": "LEGO Jurassic World – La exhibicion secreta",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/v0hr8LOIpsobvVm7FogxaIg7gLx.jpg"
+                            },
+                            {
+                                "url": "/series/the-end-of-the-fing-world-hd/",
+                                "title": "The End Of The F***ing World",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zQ5fG5NAQ5K8cMm58bxQNwUEbMj.jpg"
+                            },
+                            {
+                                "url": "/world-of-tomorrow-episode-two-the-burden-of-other-peoples-thoughts-c-hd/",
+                                "title": "World of Tomorrow. Episode Two: The Burden of Other People’s Thoughts (C)",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rwFg0AyOODJJcneb6BdwMzddgvE.jpg"
+                            },
+                            {
+                                "url": "/blurred-lines-inside-the-art-world-hd/",
+                                "title": "Blurred Lines: Inside the Art World",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/91ESE0jyUdq4aABfr4z1lXqSzxz.jpg"
+                            },
+                            {
+                                "url": "/how-the-beatles-changed-the-world-hd/",
+                                "title": "How the Beatles Changed the World",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/wAvgaf6CaO2FGuHeCDqsH3JxOB1.jpg"
+                            },
+                            {
+                                "url": "/you-mean-the-world-to-me-hd/",
+                                "title": "You Mean The World To Me",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/RdPcghJw4c7Y27i5GfCI7xNP10.jpg"
+                            },
+                            {
+                                "url": "/crazy-for-football-the-craziest-world-cup-hd/",
+                                "title": "Crazy for Football: The Craziest World Cup",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185null"
+                            },
+                            {
+                                "url": "/dream-big-engineering-our-world-hd/",
+                                "title": "Dream Big: Engineering Our World",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kfrTOvYHWsEezMQSSGFQqbmDHNe.jpg"
+                            },
+                            {
+                                "url": "/nightworld-hd/",
+                                "title": "Nightworld",
+                                "description": "",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fYlv5AHOY9R7NE31JcMbadDkXTo.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
+            },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/one-piece-strong-world-hd/",
+                    "title": "One Piece: Strong World",
+                    "description": "One Piece: Strong World Shiki «El León Dorado» que desea traer el infierno a la Tierra es el unico hombre que ha escapado de la gran prisión Impel Down. Justo después de su salida de Thriller Bark la Tripulación del Sombrero de Paja y Shiki entra en un enfrentamiento, Shiki secuestra a Nami, entonces Luffy y sus compañeros se embarcan en su búsqueda.",
+                    "genre": "Animación, Aventura, Fantasía",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/s5UuGv4LxDNkfVm3dG6GEIyGNFE.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "result": [
                     {
-                        "url": "/",
+                        "url": "/one-piece-strong-world-hd/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
