@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/gormiti-nature-unleashed/",
+                                "title": "Gormiti Nature Unleashed",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/Gormiti-Nature-Unleashed.png"
+                            },
+                            {
+                                "url": "/gormiti-2018/",
+                                "title": "Gormiti 2018",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/pCiaMxGrgo5Booppfi2Luns8YBl.jpg"
+                            },
+                            {
+                                "url": "/gli-erculoidi/",
+                                "title": "Gli Erculoidi",
+                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/uoNk7Lkt44lIaosI2clzQZMAqgY.jpg"
+                            },
+                            {
                                 "url": "/vita-da-slime/",
                                 "title": "Vita da Slime",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/6Xxpai7imDwLPbA4vwYKBkcCJny.jpg"
@@ -40,21 +55,6 @@
                                 "url": "/garfield-e-i-suoi-amici/",
                                 "title": "Garfield e i suoi amici",
                                 "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/dMYIs8USzDHsFCo9m6VwvQ556PM.jpg"
-                            },
-                            {
-                                "url": "/gemelli-nel-segno-del-destino/",
-                                "title": "Gemelli nel segno del destino",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/4bGQsQ50oHIfOLq1jkkji8Hv7aK.jpg"
-                            },
-                            {
-                                "url": "/film-anime/orion-e-il-buio-2024/",
-                                "title": "Orion e il buio 2024",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/orion-e-il-buio-2024.jpg"
-                            },
-                            {
-                                "url": "/the-seven-deadly-sins-four-knights-of-the-apocalypse/",
-                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-                                "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/knOEGRfSV8RTrBFbdd2eXF0w10q.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -124,31 +124,20 @@
             },
             "details": {
                 "result": {
-                    "url": "/vita-da-slime/",
-                    "title": "Vita da Slime",
-                    "description": "Mikami Satoru, lavoratore aziendale di 37 anni, disoccupato e senza una fidanzata, dopo essere stato ucciso da un rapinatore in fuga, si ritrova in un nuovo mondo, reincarnato in uno… slime! Con il nuovo nome di “Rimuru Tempest” inizia così la sua nuova vita in un altro mondo con un sempre più crescente numero di seguaci. Vita da Slime streaming ita.\nScheda della serieTitolo: Vita da SlimeGenere: Commedia, Sci-Fi & Fantasy, Animazione, Action & AdventureCast: Tomoaki Maeno, Takahiro Sakurai, Anzu Haruno, Rina Hidaka, Rie Tanaka, Jun Fukushima, Taro Yamaguchi, Chikahiro Kobayashi, Asuna Tomari, Kanehira Yamamoto, Hochu Otsuka, Takuya Eguchi, Mao Ichimichi, Sayaka Senbongi, Makoto Furukawa, Megumi Toyoguchi, Miho OkasakiAnno: 2018Nazione: JPVoto: 8.5Voti: 685",
-                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/6Xxpai7imDwLPbA4vwYKBkcCJny.jpg",
+                    "url": "/gormiti-nature-unleashed/",
+                    "title": "Gormiti Nature Unleashed",
+                    "description": "Agrom, un gormita della terra, è chiamato dal destino a riunirsi insieme ad altri prescelti per salvare il mondo di Gorm dalla minaccia del malvagio Magor. Ad aiutarlo c’è il Vecchio Saggio che lo guida in questa missione e la figura enigmatica dall’Imperatrice della natura. Prima dovrà trovare gli altri principi dei Regni dell’Aria, dell’Acqua e della Foresta. Dovranno recuperare e proteggere le loro Gorm Stone. Ma una di queste andrà nelle mani di Magor. Questo significherà che dora in poi la natura non apparirà più com’era ma verrà sovvertita.I 4 Lord intraprenderanno un viaggio lungo tutta l’isola di Gorm per liberare i Regni dalla Nube Rossa o Mente di Fuoco, sconfiggere Magor e scoprire arcani misteri sul cuore di Gorm. Gormiti Nature Unleashed streaming ita.\nScheda della serie",
+                    "thumbnail_url": "https://toonitalia.green/wp-content/uploads/2024/02/Gormiti-Nature-Unleashed.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/vita-da-slime/#49",
-                        "name": "Stagione 02 - Episodi 24",
-                        "episode_number": 2.024
-                    },
-                    {
-                        "url": "/vita-da-slime/#48",
-                        "name": "Stagione 02 - Episodi 23",
-                        "episode_number": 2.023
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/robot-dreams/",
+                                "title": "Robot Dreams",
+                                "description": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su a...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/1Vz7nxkrlvmERIoHtamjPO5YcOK4mhNd2cbgz.webp"
+                            },
+                            {
                                 "url": "/pelicula/me-contro-te-mision-en-la-jungla/",
                                 "title": "Me Contro Te: Misión en la Jungla",
                                 "description": "Sigue a Luì y Sofì mientras descifran el mapa que les guiará hasta un manantial mágico para desb...",
@@ -239,12 +245,6 @@
                                 "title": "The Hill",
                                 "description": "La historia de Rickey Hill, quien supera su discapacidad física y repara la relación con su padre ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/pc8Da4CjqE7AqI78.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-rostro-de-la-medusa/",
-                                "title": "El rostro de la medusa",
-                                "description": "Sin que nadie pueda darle una explicación, y mucho menos brindarle una solución, Marina descubre u...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/vzZoJjSsnYINExRhh2T71UboCjDd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/me-contro-te-mision-en-la-jungla/",
-                    "title": "Me Contro Te: Misión en la Jungla",
-                    "description": "Sigue a Luì y Sofì mientras descifran el mapa que les guiará hasta un manantial mágico para desbaratar el diabólico plan de Viperiana.",
-                    "genre": "Familia, Fantasía",
+                    "url": "/pelicula/robot-dreams/",
+                    "title": "Robot Dreams",
+                    "description": "DOG es un perro solitario que vive en Manhattan. Un día decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. ¿Volverán a encontrarse?",
+                    "genre": "Animación, Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/me-contro-te-mision-en-la-jungla/",
+                        "url": "/pelicula/robot-dreams/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar HVGSfbDIV = \"\"; XJLWrPz.forEach(function Oym(value) { HVGSfbDIV += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar LTpRzpE = \"\"; JiuDpqW.forEach(function Oym(value) { LTpRzpE += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
