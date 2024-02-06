@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/todo-por-mi-familia-capitulo-318/",
+                                "title": "Todo por mi Familia Capítulo 318",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/01/Screenshot23-399x520.jpg"
+                            },
+                            {
                                 "url": "/vuelve-a-mi-capitulo-83/",
                                 "title": "Vuelve a Mi – Capitulo 83",
                                 "description": "",
@@ -85,10 +91,16 @@
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/09/MV5BODMyNzJmZjgtNDY2Ny00Y2ZkLTg4N2MtNWQwOTRlZjIyMjc0XkEyXkFqcGdeQXVyMTEyMjQ0NDAy._V1_UY1200_CR79,0,630,1200_AL_-273x520.jpg"
                             },
                             {
-                                "url": "/omer-capitulo-42/",
-                                "title": "Omer Capitulo 42",
+                                "url": "/series/ilk-ve-son-en-espanol/",
+                                "title": "Ilk Ve Son en Español",
                                 "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/01/omer-en-espanol-e1673452626969.jpg"
+                                "thumbnail_url": ""
+                            },
+                            {
+                                "url": "/series/canim-annem-en-espanol/",
+                                "title": "Canim Annem en Español",
+                                "description": "",
+                                "thumbnail_url": ""
                             },
                             {
                                 "url": "/series/amor-eterno/",
@@ -147,18 +159,6 @@
                             {
                                 "url": "/series/lo-que-la-vida-me-robo-bv/",
                                 "title": "Lo que la vida me robó",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/el-pozo/",
-                                "title": "El Pozo",
-                                "description": "",
-                                "thumbnail_url": ""
-                            },
-                            {
-                                "url": "/series/gossip-girl-temporada-6/",
-                                "title": "Gossip Girl Temporada 6",
                                 "description": "",
                                 "thumbnail_url": ""
                             },
@@ -288,14 +288,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/vuelve-a-mi-capitulo-83/",
-                    "title": "Vuelve a Mi – Capitulo 83",
+                    "url": "/todo-por-mi-familia-capitulo-318/",
+                    "title": "Todo por mi Familia Capítulo 318",
                     "artist": "",
-                    "author": "Danny Gavidia",
-                    "description": "Vuelve a Mi – Capitulo 83",
-                    "genre": "Acción, dramaticas, Novelas Mexicanas Completas Gratis Online, Romance, Srnovelas",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "author": "2021",
+                    "description": "Todo por mi Familia Capítulo 318",
+                    "genre": "dramaticas, Series y Novelas Turcas en Español, Srnovelas",
                     "initialized": true
                 },
                 "passed": true
@@ -303,38 +301,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/vuelve-a-mi-capitulo-83/",
-                        "name": "T1 - E83 - Capitulo 83",
-                        "episode_number": 83.0
+                        "url": "/todo-por-mi-familia-capitulo-318/",
+                        "name": "Capítulo 318",
+                        "episode_number": 318.0
                     },
                     {
-                        "url": "/vuelve-a-mi-capitulo-82/",
-                        "name": "T1 - E82 - Capitulo 82",
-                        "episode_number": 82.0
+                        "url": "/todo-por-mi-familia-capitulo-317/",
+                        "name": "Capítulo 317",
+                        "episode_number": 317.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m60.uqload.to/3rfklkcwsbw2q4drdjfpvlneljsvvvf3gft45oski6sez6vqfytrfbs7njsa/v.mp4",
-                        "quality": "Uqload Uqload",
-                        "videoUrl": "https://m60.uqload.to/3rfklkcwsbw2q4drdjfpvlneljsvvvf3gft45oski6sez6vqfytrfbs7njsa/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    },
-                    {
-                        "url": "https://up-pc-vis-2.vmrest.space/hls/xqx2p2a5mjokjiqbte6clpscxkyflwigmirpel3elb563c5qxqbw4dtcr7ua/index-v1-a1.m3u8",
-                        "quality": " - 720p",
-                        "videoUrl": "https://up-pc-vis-2.vmrest.space/hls/xqx2p2a5mjokjiqbte6clpscxkyflwigmirpel3elb563c5qxqbw4dtcr7ua/index-v1-a1.m3u8",
-                        "headers": {
-                            "Referer": "https://vidmoly.to"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
