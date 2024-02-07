@@ -137,6 +137,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/19650/bob-esponja-un-heroe-al-rescate.html",
+                                "title": "Bob Esponja: Un héro",
+                                "description": "Los amigos son lo más importante para Bob Esponja, por lo que no dudará en salir de la comodidad de su hogar en Fondo de Bikini, junto con Patricio, para adentrarse en un mundo desconocido, arriesgando sus vidas, para salvar a su amigo de la infancia, Gary, de las garras del rey Poseidón que le h...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19650.jpg"
+                            },
+                            {
                                 "url": "/pelicula/19649/argylle-agente-secreto.html",
                                 "title": "Argylle: Agente secre",
                                 "description": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sindicato clandestino, la introvertida autora de novelas de espías Elly Conway y su gato se ven inmersos en el verdadero mundo del espionaje… donde nada, ni nadie, es lo que parece. ...",
@@ -249,12 +255,6 @@
                                 "title": "Monsters: El infierno",
                                 "description": "El samurái Ryuma vive en un mundo amenazado por un dragón que desata una destrucción catastrófica. Ryuma se embarca en una búsqueda para derrotar al dragón. A lo largo de su viaje se enfrenta a numerosos obstáculos y desafíos. ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19631.jpg"
-                            },
-                            {
-                                "url": "/pelicula/19630/aguas-siniestras.html",
-                                "title": "Aguas siniestras",
-                                "description": "Ray Waller, una estrella del béisbol obligada a retirarse prematuramente a causa de una enfermedad degenerativa, se muda a una nueva casa con su esposa Eve, su hija adolescente Izzy y su hijo pequeño Elliot. Con la esperanza secreta de recuperarse y volver al deporte profesional, Ray convence a Ev...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19630.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dood.ws/e/aq6kuo21b1bo",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgih7tyvfri7zq/ytavoeiw8r~spqGMEXiSe?token=faa3a98f24ktc5woxwz3px7v&expiry=1707307891726",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

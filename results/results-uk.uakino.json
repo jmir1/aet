@@ -117,6 +117,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/animeukr/anime-series/20067-ti-ya-1-sezon.html",
+                                "title": "Ти і я",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/40/96beae08ae46c44c472a0ad5e86d13.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/18734-svit-vidomyi-lysh-bogu-2-sezon.html",
+                                "title": "Світ, відомий лиш Богу",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/0f/79116ef3ad4fb66985e46170d73b23.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/19635-soma-petlya-chasu-lihodyka-nasolodzhuyetsya-bezturbotnim-zhittyam-u-shlyub-z-svoyim-naylyutshim-vorogom-1-sezon.html",
+                                "title": "Сьома петля часу: Лиходійка",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/ac/dfd448add30fdc39876898cf3724a4.jpg"
+                            },
+                            {
                                 "url": "/animeukr/anime-series/20064-manaryansk-druz-1-sezon.html",
                                 "title": "Манаріянські друзі",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/50/476fd4265def47e8a81e46d6d6b28f.jpg"
@@ -160,11 +175,6 @@
                                 "url": "/animeukr/anime-series/18290-frren-pslya-kncya-prigodi-1-sezon.html",
                                 "title": "Фрірен: після кінця пригоди",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/c4/3eacfb1e9f72f916e1b99237de0af7.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/19635-soma-petlya-chasu-lihodyka-nasolodzhuyetsya-bezturbotnim-zhittyam-u-shlyub-z-svoyim-naylyutshim-vorogom-1-sezon.html",
-                                "title": "Сьома петля часу: Лиходійка",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/ac/dfd448add30fdc39876898cf3724a4.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-series/19559-mashl-magiia-ta-miazy-2-sezon.html",
@@ -305,16 +315,6 @@
                                 "url": "/animeukr/anime-series/19542-ya-zahoplyuyusya-charvnimi-dvchatkami-ta-1-sezon.html",
                                 "title": "Я захоплююся чарівними дівчатками, та..",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/43/96042734151d805de88445bcb27061.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/19547-pdzemellya-smakoti-1-sezon.html",
-                                "title": "Підземелля смакоти",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/8d/97b83992901133523cbfd32406cd4d.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/20003-korolivstvo-5-sezon.html",
-                                "title": "Королівство",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/83/506871e856ebd2d26eed01dc511195.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -327,14 +327,14 @@
                     {
                         "animes": [
                             {
-                                "url": "/animeukr/anime-series/19464-v-nshomu-svt-ye-puhnastiy-ray-1-sezon.html",
-                                "title": "В іншому світі є пухнастий рай!",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/b0/21c8c2378c3eb44e6e463c28bb7a6b.jpg"
-                            },
-                            {
                                 "url": "/animeukr/anime-series/18734-svit-vidomyi-lysh-bogu-2-sezon.html",
                                 "title": "Світ, відомий лиш Богу",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/0f/79116ef3ad4fb66985e46170d73b23.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/19464-v-nshomu-svt-ye-puhnastiy-ray-1-sezon.html",
+                                "title": "В іншому світі є пухнастий рай!",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/b0/21c8c2378c3eb44e6e463c28bb7a6b.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-series/19809-kohannya-pslya-ponevolennya-svtu-1-sezon.html",
@@ -406,14 +406,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s1.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8",
-                        "quality": "480p",
-                        "videoUrl": "https://s1.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
