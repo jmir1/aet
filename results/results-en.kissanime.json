@@ -267,6 +267,41 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Ishura/",
+                                "title": "Ishura",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Ishura.jpg"
+                            },
+                            {
+                                "url": "/Anime/Classroom-of-the-Elite-Season-3/",
+                                "title": "Classroom of the Elite Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Classroom-of-the-Elite-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/Doctor-Elise-The-Royal-Lady-with-the-Lamp/",
+                                "title": "Doctor Elise: The Royal Lady with the Lamp",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Doctor-Elise-The-Royal-Lady-with-the-Lamp.jpg"
+                            },
+                            {
+                                "url": "/Anime/Bottom-Tier-Character-Tomozaki-2nd-Stage/",
+                                "title": "Bottom-Tier Character Tomozaki 2nd Stage",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bottom-Tier-Character-Tomozaki-2nd-Stage.jpg"
+                            },
+                            {
+                                "url": "/Anime/Odekake-Kozame/",
+                                "title": "A Little Shark Going Out",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
+                            },
+                            {
+                                "url": "/Anime/Pururun-Shizuku-chan/",
+                                "title": "Pururun! Shizuku-chan",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/11/Pururun-Shizuku-chan.jpg"
+                            },
+                            {
+                                "url": "/Anime/DOG-SIGNAL/",
+                                "title": "DOG SIGNAL",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/DOG-SIGNAL.jpg"
+                            },
+                            {
                                 "url": "/Anime/love-flops-dub.29270/",
                                 "title": "Love Flops (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Love-Flops-Dub.jpg"
@@ -335,11 +370,6 @@
                                 "url": "/Anime/HIGH-CARD-Season-2/",
                                 "title": "HIGH CARD Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/HIGH-CARD-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Pururun-Shizuku-chan/",
-                                "title": "Pururun! Shizuku-chan",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/11/Pururun-Shizuku-chan.jpg"
                             },
                             {
                                 "url": "/Anime/Tsuki-ga-Michibiku-Isekai-Douchuu-2nd-Season/",
@@ -485,36 +515,6 @@
                                 "url": "/Anime/7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy/",
                                 "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/7th-Time-Loop-The-Villainess-Enjoys-a-Carefree-Life-Married-to-Her-Worst-Enemy.jpg"
-                            },
-                            {
-                                "url": "/Anime/Fluffy-Paradise/",
-                                "title": "Fluffy Paradise",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Fluffy-Paradise.jpg"
-                            },
-                            {
-                                "url": "/Anime/shangri-la-frontier.80188/",
-                                "title": "Shangri-La Frontier",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier.jpg"
-                            },
-                            {
-                                "url": "/Anime/captain-tsubasa-junior-youth-arc.85206/",
-                                "title": "Captain Tsubasa: Junior Youth Arc",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Captain-Tsubasa-Junior-Youth-Arc.jpg"
-                            },
-                            {
-                                "url": "/Anime/Xian-Wang-De-Richang-Shenghuo-4/",
-                                "title": "The Daily Life of the Immortal King Season 4",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Daily-Life-of-the-Immortal-King-Season-4.jpg"
-                            },
-                            {
-                                "url": "/Anime/Kingdom-5th-Season/",
-                                "title": "Kingdom 5th Season",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Kingdom-5th-Season.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Strongest-Tank-s-Labyrinth-Raids/",
-                                "title": "The Strongest Tank's Labyrinth Raids",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Strongest-Tank-s-Labyrinth-Raids.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

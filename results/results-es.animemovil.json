@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/bishoujo-senshi-sailor-moon-cosmos-movie",
+                                "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4136.webp"
+                            },
+                            {
                                 "url": "/wonderful-precure",
                                 "title": "Wonderful Precure!",
                                 "status": 1,
@@ -119,12 +125,6 @@
                                 "title": "Gekai Elise",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4116.webp"
-                            },
-                            {
-                                "url": "/shaman-king-flowers",
-                                "title": "Shaman King: Flowers",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4115.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/wonderful-precure",
-                    "title": "Wonderful Precure!",
-                    "description": "¡La nueva serie de Precure comienza con unas peluditas amigas como compañeras!",
-                    "genre": "Acción, Fantasía",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4135.webp",
+                    "url": "/bishoujo-senshi-sailor-moon-cosmos-movie",
+                    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+                    "description": "Las películas cubrirán el arco de Shadow Galactica.",
+                    "genre": "Escolares, Shoujo, Drama, Fantasía, Magia",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4136.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,9 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/wonderful-precure-1",
-                        "name": "Episodio 1",
+                        "url": "/ver/bishoujo-senshi-sailor-moon-cosmos-movie-2",
+                        "name": "Episodio 2",
                         "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
                     }
                 ],
                 "passed": true
@@ -288,26 +293,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-cwue1hiuzak8hq6u.voe-network.net/engine/hls2/01/10433/vboxss2cysru_,n,.urlset/index-v1-a1.m3u8?t=qKT1senILxZqdpsFmfxGfzvTMJ8LHS2FlsHTegmu_hE&s=1707307861&e=14400&f=52173700&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=20.75&sp=2500&asn=8075",
+                        "url": "https://delivery-node-7qaemdseslezejvk.voe-network.net/engine/hls2/01/10450/cinoy92yjhtw_,n,.urlset/index-v1-a1.m3u8?t=c4f1ZKC4vgxVNNt0eUHoSgA9d98NiLest_ux-RAdl0A&s=1707329296&e=14400&f=52268409&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.75&sp=2500&asn=8075",
                         "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-cwue1hiuzak8hq6u.voe-network.net/engine/hls2/01/10433/vboxss2cysru_,n,.urlset/index-v1-a1.m3u8?t=qKT1senILxZqdpsFmfxGfzvTMJ8LHS2FlsHTegmu_hE&s=1707307861&e=14400&f=52173700&node=delivery-node-cwue1hiuzak8hq6u.voe-network.net&i=20.75&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-7qaemdseslezejvk.voe-network.net/engine/hls2/01/10450/cinoy92yjhtw_,n,.urlset/index-v1-a1.m3u8?t=c4f1ZKC4vgxVNNt0eUHoSgA9d98NiLest_ux-RAdl0A&s=1707329296&e=14400&f=52268409&node=delivery-node-7qaemdseslezejvk.voe-network.net&i=20.75&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://a3.mp4upload.com:183/d/xsxq77h7z3b4quuoq6qq4m2ri34gl662zpmo356mnramiv5qz36h2snqcem33h264jw24tfp/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://a3.mp4upload.com:183/d/xsxq77h7z3b4quuoq6qq4m2ri34gl662zpmo356mnramiv5qz36h2snqcem33h264jw24tfp/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=96rPwqKLvYsax6x&expires=1707377860&ip=FROsEHMnDS9X&token=mNmEtfgACLrM",
+                        "url": "https://streamtape.com/get_video?id=ewRpdZYxYgiJwe&expires=1707399298&ip=FROsEHMnDS9X&token=bx1hA2eqeDx_",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=96rPwqKLvYsax6x&expires=1707377860&ip=FROsEHMnDS9X&token=mNmEtfgACLrM"
+                        "videoUrl": "https://streamtape.com/get_video?id=ewRpdZYxYgiJwe&expires=1707399298&ip=FROsEHMnDS9X&token=bx1hA2eqeDx_"
                     }
                 ],
                 "passed": true

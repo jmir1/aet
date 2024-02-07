@@ -416,8 +416,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(_mrR8kw83CCzjz8eBkQlLIwYSQfvny0A9t8Zda7MA54VB-f12pBOk-EoZspZ3r-fqS9UwmqYBasUXBg1jbyCG3bI-3R3IjPML9Q6CAD4-ZFHcvPEmwNqx9n9wMF6ISWCmFyUyRGiGVbbOnpX7Hw-WA)/video/615/282/531282516_mp4_h264_aac_hd.m3u8#cell=cf",
+                        "quality": "DAILYMOTION - 720p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(_mrR8kw83CCzjz8eBkQlLIwYSQfvny0A9t8Zda7MA54VB-f12pBOk-EoZspZ3r-fqS9UwmqYBasUXBg1jbyCG3bI-3R3IjPML9Q6CAD4-ZFHcvPEmwNqx9n9wMF6ISWCmFyUyRGiGVbbOnpX7Hw-WA)/video/615/282/531282516_mp4_h264_aac_hd.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(yLwSDapi8KqJJCEKjM6_pU3cuUPlcDfDfREDV0QoEShJIHyagG0PUnvx5WY9VUDXNm47dm6Fqw7zPFhTRmJ-pZjC7NwyqB6PB_ddZaRVqFOu4jTDOcL8WX4lUSQ25dtGhJOpiiiYQ-LA7_MmLEHP6Q)/video/615/282/531282516_mp4_h264_aac_hq.m3u8#cell=cf",
+                        "quality": "DAILYMOTION - 480p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(yLwSDapi8KqJJCEKjM6_pU3cuUPlcDfDfREDV0QoEShJIHyagG0PUnvx5WY9VUDXNm47dm6Fqw7zPFhTRmJ-pZjC7NwyqB6PB_ddZaRVqFOu4jTDOcL8WX4lUSQ25dtGhJOpiiiYQ-LA7_MmLEHP6Q)/video/615/282/531282516_mp4_h264_aac_hq.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(ZIaU30sjURWTKN8Q5DLjXUzErJCoFHQWLqet-rKbzMtdVDDZW4xK7RBKTA9JS5YW5s_Ce5rniCFPrfEEgJka5a8OhvlzgLDi224Ga_0FciBOGF8cMutvEqVQFXBxseBRfXnQetvarKk3iWk0dUIl0g)/video/615/282/531282516_mp4_h264_aac.m3u8#cell=cf",
+                        "quality": "DAILYMOTION - 288p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(ZIaU30sjURWTKN8Q5DLjXUzErJCoFHQWLqet-rKbzMtdVDDZW4xK7RBKTA9JS5YW5s_Ce5rniCFPrfEEgJka5a8OhvlzgLDi224Ga_0FciBOGF8cMutvEqVQFXBxseBRfXnQetvarKk3iWk0dUIl0g)/video/615/282/531282516_mp4_h264_aac.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
