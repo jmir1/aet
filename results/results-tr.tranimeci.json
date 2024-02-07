@@ -3,8 +3,89 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/sousou-no-frieren",
+                                "title": "Sousou no Frieren",
+                                "thumbnail_url": "https://tranimaci.com/image/series_sousou-no-frieren_1795.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-1",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-1_1455.webp"
+                            },
+                            {
+                                "url": "/series/one-piece",
+                                "title": "ONE PIECE",
+                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece_1872.webp"
+                            },
+                            {
+                                "url": "/series/jujutsu-kaisen-season-2",
+                                "title": "JUJUTSU KAISEN Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen-season-2_1919.webp"
+                            },
+                            {
+                                "url": "/series/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+                                "title": "Kaguya-sama wa Kokurasetai – First Kiss wa Owaranai",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai_1392.webp"
+                            },
+                            {
+                                "url": "/series/bleach_-thousand-year-blood-warr",
+                                "title": "BLEACH: Thousand-Year Blood War",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-thousand-year-blood-war_1962.webp"
+                            },
+                            {
+                                "url": "/series/vinland-saga-s2",
+                                "title": "Vinland Saga S2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_vinland-saga-s2_1206.webp"
+                            },
+                            {
+                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-2",
+                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-2_1065.webp"
+                            },
+                            {
+                                "url": "/series/kimetsu-no-yaiba-yuukaku-hen",
+                                "title": "Kimetsu no Yaiba Yuukaku-hen",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kimetsu-no-yaiba_-yuukaku-hen_1446.webp"
+                            },
+                            {
+                                "url": "/series/mob-psycho-100-iii",
+                                "title": "Mob Psycho 100 III",
+                                "thumbnail_url": "https://tranimaci.com/image/series_mob-psycho-100-iii_1989.webp"
+                            },
+                            {
+                                "url": "/series/oshi-noo-koo",
+                                "title": "Oshi no Ko",
+                                "thumbnail_url": "https://tranimaci.com/image/series_oshi-no-ko_1790.webp"
+                            },
+                            {
+                                "url": "/series/kusuriya-no-hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://tranimaci.com/image/series_kusuriya-no-hitorigoto_1338.webp"
+                            },
+                            {
+                                "url": "/series/link-click-season-2",
+                                "title": "Link Click Season 2",
+                                "thumbnail_url": "https://tranimaci.com/image/series_link-click-season-2_1431.webp"
+                            },
+                            {
+                                "url": "/series/jujutsu-kaisen",
+                                "title": "JUJUTSU KAISEN",
+                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen_1466.webp"
+                            },
+                            {
+                                "url": "/series/bleach-sennen-kessen-hen-ketsubetsu-tann",
+                                "title": "BLEACH Sennen Kessen Hen Ketsubetsu Tan",
+                                "thumbnail_url": "https://tranimaci.com/image/series_bleach-thousand-year-blood-war-the-separation_1285.webp"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "result": [
@@ -3548,16 +3629,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/buta-no-liver-wa-kanetsu-shiro-12-bolum",
-                        "name": "Bölüm 12",
-                        "date_upload": 1707177600000,
-                        "episode_number": 12.0
+                        "url": "/video/sousou-no-frieren-21-bolum",
+                        "name": "Bölüm 21",
+                        "date_upload": 1706832000000,
+                        "episode_number": 21.0
                     },
                     {
-                        "url": "/video/buta-no-liver-wa-kanetsu-shiro-11-bolum",
-                        "name": "Bölüm 11",
-                        "date_upload": 1703289600000,
-                        "episode_number": 11.0
+                        "url": "/video/sousou-no-frieren-20-bolum",
+                        "name": "Bölüm 20",
+                        "date_upload": 1706227200000,
+                        "episode_number": 20.0
                     }
                 ],
                 "passed": true
@@ -3565,18 +3646,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/117fe931142a997fada64edafb3835a637b76423db4347df2ff63f1b8099a715",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/64c279aedf8cb661573abcb4fcc1004dccd422d1b62368f92281a76e9feeb8be",
                         "quality": "720p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/117fe931142a997fada64edafb3835a637b76423db4347df2ff63f1b8099a715",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/64c279aedf8cb661573abcb4fcc1004dccd422d1b62368f92281a76e9feeb8be",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Referer": "https://tranimaci.com/"
                         }
                     },
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/934cb3c728632b3f310b0036f05711c932f2b81bb6fc429f00052a8363f88add",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/99a07f7af3f99c013151b95f57ec96c7a2583a08a6516953b8a458171134963b",
                         "quality": "1080p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/934cb3c728632b3f310b0036f05711c932f2b81bb6fc429f00052a8363f88add",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/99a07f7af3f99c013151b95f57ec96c7a2583a08a6516953b8a458171134963b",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Referer": "https://tranimaci.com/"

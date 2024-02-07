@@ -3,109 +3,53 @@
         "name": "Kuramanime (ID)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/1873/oshi-no-ko",
-                                "title": "\"Oshi no Ko\"",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
-                            },
-                            {
-                                "url": "/anime/154/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
-                                "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1506/117717l.jpg"
-                            },
-                            {
-                                "url": "/anime/39/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
-                                "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1424/117718l.jpg"
-                            },
-                            {
-                                "url": "/anime/2167/16bit-sensation-another-layer",
-                                "title": "16bit Sensation: Another Layer",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1588/138395l.jpg"
-                            },
-                            {
-                                "url": "/anime/134/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka",
-                                "title": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1904/118821l.jpg"
-                            },
-                            {
-                                "url": "/anime/368/3-byougo-yajuu-goukon-de-sumi-ni-ita-kare-wa-midara-nikushoku-deshita",
-                                "title": "3-byougo, Yajuu.: Goukon de Sumi ni Ita Kare wa Midara Nikushoku deshita",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1972/121006l.jpg"
-                            },
-                            {
-                                "url": "/anime/2445/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
-                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1762/139690l.jpg"
-                            },
-                            {
-                                "url": "/anime/1372/4-nin-wa-sorezore-uso-wo-tsuku",
-                                "title": "4-nin wa Sorezore Uso wo Tsuku",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1934/128719l.jpg"
-                            },
-                            {
-                                "url": "/anime/1360/5-fun-de-wakaru-boku-no-hero-academia",
-                                "title": "5-fun de Wakaru: Boku no Hero Academia",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1366/127600l.jpg"
-                            },
-                            {
-                                "url": "/anime/2129/5-toubun-no-hanayome",
-                                "title": "5-toubun no Hanayome",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1819/97947l.jpg"
-                            },
-                            {
-                                "url": "/anime/2131/5-toubun-no-hanayome-2",
-                                "title": "5-toubun no Hanayome ∬",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg"
-                            },
-                            {
-                                "url": "/anime/1551/5-toubun-no-hanayome-movie",
-                                "title": "5-toubun no Hanayome Movie",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1037/122516l.jpg"
-                            },
-                            {
-                                "url": "/anime/2118/5-toubun-no-hanayome-3",
-                                "title": "5-toubun no Hanayome∽",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1567/135752l.jpg"
-                            },
-                            {
-                                "url": "/anime/1359/7-fun-de-wakaru-boku-no-hero-academia",
-                                "title": "7-fun de Wakaru: Boku no Hero Academia",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1726/127520l.jpg"
-                            },
-                            {
-                                "url": "/anime/298/86",
-                                "title": "86",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
-                            },
-                            {
-                                "url": "/anime/97/86-part-2",
-                                "title": "86 Part 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
-                            },
-                            {
-                                "url": "/anime/297/86-part-2-recaps",
-                                "title": "86 Part 2 Recaps",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1568/119723l.jpg"
-                            },
-                            {
-                                "url": "/anime/299/86-special-edition-senya-ni-akaku-hinageshi-no-saku",
-                                "title": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1971/115976l.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/2444/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+                                "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1150/140028l.jpg"
+                            },
+                            {
+                                "url": "/anime/2482/shaman-king-flowers",
+                                "title": "Shaman King: Flowers",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1117/139294l.jpg"
+                            },
+                            {
+                                "url": "/anime/111/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+                                "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1928/117620l.jpg"
+                            },
+                            {
+                                "url": "/anime/2457/hikari-no-ou-2nd-season",
+                                "title": "Hikari no Ou 2nd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1361/140742l.jpg"
+                            },
+                            {
+                                "url": "/anime/2175/buta-no-liver-wa-kanetsu-shiro",
+                                "title": "Buta no Liver wa Kanetsu Shiro",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1319/140965l.jpg"
+                            },
+                            {
+                                "url": "/anime/47/edens-zero",
+                                "title": "Edens Zero",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1011/111811l.jpg"
+                            },
+                            {
+                                "url": "/anime/2504/dan-dao-zhizun",
+                                "title": "Dan Dao Zhizun",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1390/140540l.jpg"
+                            },
+                            {
+                                "url": "/anime/976/engage-kiss",
+                                "title": "Engage Kiss",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1549/125495l.jpg"
+                            },
                             {
                                 "url": "/anime/2190/kawagoe-boys-sing",
                                 "title": "Kawagoe Boys Sing",
@@ -155,46 +99,6 @@
                                 "url": "/anime/2202/nanatsu-no-taizai-mokushiroku-no-yonkishi",
                                 "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1475/138530l.jpg"
-                            },
-                            {
-                                "url": "/anime/2322/tunshi-xingkong-4th-season",
-                                "title": "Tunshi Xingkong 4th Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg"
-                            },
-                            {
-                                "url": "/anime/67/blue-period",
-                                "title": "Blue Period",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1757/116931l.jpg"
-                            },
-                            {
-                                "url": "/anime/1657/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii",
-                                "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1369/139553l.jpg"
-                            },
-                            {
-                                "url": "/anime/109/takt-op-destiny",
-                                "title": "Takt Op. Destiny",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1449/117797l.jpg"
-                            },
-                            {
-                                "url": "/anime/2452/dosanko-gal-wa-namara-menkoi",
-                                "title": "Dosanko Gal wa Namara Menkoi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1937/136906l.jpg"
-                            },
-                            {
-                                "url": "/anime/2175/buta-no-liver-wa-kanetsu-shiro",
-                                "title": "Buta no Liver wa Kanetsu Shiro",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1319/140965l.jpg"
-                            },
-                            {
-                                "url": "/anime/2476/oroka-na-tenshi-wa-akuma-to-odoru",
-                                "title": "Oroka na Tenshi wa Akuma to Odoru",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1902/139271l.jpg"
-                            },
-                            {
-                                "url": "/anime/2458/himesama-goumon-no-jikan-desu",
-                                "title": "Himesama \"Goumon\" no Jikan desu",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1056/139398l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -304,10 +208,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/1873/oshi-no-ko",
-                    "title": "\"Oshi no Ko\"",
-                    "description": "Di dunia hiburan, selebritas sering menunjukkan versi diri mereka yang dibesar-besarkan kepada publik, menyembunyikan pemikiran dan perjuangan mereka yang sebenarnya di balik kebohongan yang rumit. Fans membeli fabrikasi ini, menghujani idola mereka dengan cinta dan dukungan abadi, sampai sesuatu menghancurkan ilusi. Bintang baru berusia enam belas tahun Ai Hoshino dari grup idola pop B Komachi membuat dunia terpikat; namun, ketika dia mengumumkan hiatus karena masalah kesehatan, berita tersebut menyebabkan banyak orang menjadi khawatir. Sebagai penggemar berat Ai, ginekolog Gorou Amemiya menyemangati dia dari praktik medis pedesaannya, berharap bisa bertemu dengannya secara pribadi suatu hari nanti. Keinginannya menjadi kenyataan saat Ai muncul di rumah sakitnya—tidak sakit, tapi mengandung anak kembar! Sementara dokter berjanji kepada Ai untuk melahirkan anak-anaknya dengan selamat, dia bertanya-tanya apakah pertemuan dengan sang idola ini akan selamanya mengubah sifat hubungannya dengan Ai. [Ditulis oleh MAL Rewrite] Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: [Oshi No Ko], 【推しの子】, My Star\n\nTipe: TV\nEpisode: 11\nStatus: Selesai Tayang\nTayang: 12 Apr 2023 s/d 28 Jun 2023\nMusim: Spring 2023\nDurasi: 30 menit per ep\nKualitas: HD\nNegara: JP\nAdaptasi: Manga\nGenre: Drama, Supernatural\nEksplisit: ?\nDemografis: Seinen\nTema: Reincarnation, Showbiz\nStudio: Doga Kobo\nSkor: 8.96 / 10.00\nPeminat: 527,663 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Doro",
-                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
+                    "url": "/anime/2444/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
+                    "title": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+                    "description": "RPG otome tertentu terjadi di Kerajaan Varschein, di mana rambut hitam distigmatisasi hingga tingkat yang tidak normal. Eumiella Dolkness adalah putri seorang bangsawan, yang dibenci sejak lahir karena rambutnya yang hitam pekat—dan dia juga bos yang tersembunyi! Dalam takdir yang berubah, pada usia lima tahun, Eumiella mengingat kembali kenangan kehidupan masa lalunya di Jepang. Tidak tertarik pada aspek romansa dari game aslinya, dia mulai mendedikasikan dirinya untuk melatih sihir tipe gelapnya yang langka. Meskipun demikian, tujuan Eumiella jelas: menghindari menjadi bos tersembunyi dan menghindari pusat perhatian. Namun, saat memasuki akademi sihir, dia mengguncang fondasi kerajaan ketika status level 99 miliknya terungkap. Entah perkelahian fisik atau duel sihir, kemampuannya tak tertandingi, dan ditambah dengan rambut hitamnya, dia menonjol seperti ibu jari yang sakit. Lebih buruk lagi, pahlawan wanita asli mulai curiga bahwa dia adalah raja iblis! Bisakah gadis bangsawan datar itu mencapai keinginannya untuk hidup damai? [Ditulis oleh MAL Rewrite] Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord, 悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～, ชีวิตไม่ง่ายของนางร้าย LV99, Light Magic and the Hero, Злодейка 99 уровня: Да, я скрытый босс, но не повелительница демонов\n\nTipe: TV\nEpisode: 12\nStatus: Sedang Tayang\nTayang: 09 Jan 2024 s/d 26 Mar 2024\nMusim: Winter 2024\nDurasi: 23 menit per episode\nKualitas: HD\nNegara: JP\nAdaptasi: Novel Ringan\nGenre: Fantasy\nEksplisit: ?\nDemografis: ?\nTema: Isekai, Reincarnation, School\nStudio: Jumondo\nSkor: 7.47 / 10.00\nPeminat: 57,431 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Doro, Same",
+                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1150/140028l.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -315,14 +219,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/anime/1873/oshi-no-ko/episode/11",
-                        "name": "Ep 11",
-                        "episode_number": 11.0
+                        "url": "/anime/2444/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen/episode/5",
+                        "name": "Ep 5",
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/anime/1873/oshi-no-ko/episode/10",
-                        "name": "Ep 10",
-                        "episode_number": 10.0
+                        "url": "/anime/2444/akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen/episode/4",
+                        "name": "Ep 4",
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true

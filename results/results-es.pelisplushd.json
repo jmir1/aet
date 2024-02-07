@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/baby-bandito",
+                                "title": "Baby Bandito (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/dKFSCimy2Lfqmh9bqXskzzLZrSC.jpg"
+                            },
+                            {
                                 "url": "/serie/mr-mrs-smith",
                                 "title": "Mr. & Mrs. Smith (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/the-lazarus-project",
                                 "title": "The Lazarus Project (2022)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/xw7GkWtmPQDU8qzfKshFEN038sj.jpg"
-                            },
-                            {
-                                "url": "/serie/boy-swallows-universe",
-                                "title": "El chico que se comió el universo (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xjgdzdlyMPR519MW9YRkQXyNMvX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/mr-mrs-smith",
-                    "title": "Mr. & Mrs. Smith (2024)",
-                    "description": "Conoce a los Smith: dos extraños solitarios, John y Jane, que han renunciado a sus vidas e identidades para ser lanzados juntos como compañeros, tanto en el espionaje como en el matrimonio.",
-                    "genre": "Comedia, Drama, Action & Adventure",
+                    "url": "/serie/baby-bandito",
+                    "title": "Baby Bandito (2024)",
+                    "description": "El skater Kevin y su banda logran el mayor robo en la historia de Chile..., pero el amor y las redes sociales podrían arruinarlo todo. Inspirada en hechos reales..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/dKFSCimy2Lfqmh9bqXskzzLZrSC.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,12 +278,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/mr-mrs-smith/temporada/1/capitulo/8",
+                        "url": "/serie/baby-bandito/temporada/1/capitulo/8",
                         "name": "T1 - E8: Episodio 8",
                         "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/mr-mrs-smith/temporada/1/capitulo/7",
+                        "url": "/serie/baby-bandito/temporada/1/capitulo/7",
                         "name": "T1 - E7: Episodio 7",
                         "episode_number": 7.0
                     }
@@ -470,6 +470,51 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/while-we-sleep/",
+                                "title": "While We Sleep",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/while-we-sleep.jpg"
+                            },
+                            {
+                                "url": "/pelicula/secretos-familiares/",
+                                "title": "Secretos Familiares",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/secretos-familiares.jpg"
+                            },
+                            {
+                                "url": "/pelicula/el-aprendiz-del-tigre/",
+                                "title": "El aprendiz del tigre",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-aprendiz-del-tigre.jpg"
+                            },
+                            {
+                                "url": "/pelicula/earwig-y-la-bruja/",
+                                "title": "Earwig y la bruja",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/earwig-y-la-bruja.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mi-amigo-robot/",
+                                "title": "Mi Amigo Robot",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mi-amigo-robot.jpg"
+                            },
+                            {
+                                "url": "/pelicula/me-contro-te-il-film-missione-giungla/",
+                                "title": "Me contro Te: Il film - Missione giungla",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/me-contro-te-il-film-missione-giungla.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-passenger-957314/",
+                                "title": "The Passenger",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-passenger-957314.jpg"
+                            },
+                            {
+                                "url": "/pelicula/la-gran-noche-del-pop/",
+                                "title": "La Gran Noche Del Pop",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-gran-noche-del-pop.jpg"
+                            },
+                            {
+                                "url": "/pelicula/my-sunny-maad/",
+                                "title": "My Sunny Maad",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/my-sunny-maad.jpg"
+                            },
+                            {
                                 "url": "/pelicula/les-rayons-gamma/",
                                 "title": "Les rayons Gamma",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/les-rayons-gamma.jpg"
@@ -523,51 +568,6 @@
                                 "url": "/pelicula/amanece/",
                                 "title": "Amanece",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/amanece.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-nannys-revenge/",
-                                "title": "A Nanny's Revenge",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-nannys-revenge.jpg"
-                            },
-                            {
-                                "url": "/pelicula/loves-playlist/",
-                                "title": "Love's Playlist",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/loves-playlist.jpg"
-                            },
-                            {
-                                "url": "/pelicula/fargo-secuestro-voluntario/",
-                                "title": "Fargo, secuestro voluntario",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/fargo-secuestro-voluntario.jpg"
-                            },
-                            {
-                                "url": "/pelicula/junction/",
-                                "title": "Junction",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/junction.jpg"
-                            },
-                            {
-                                "url": "/pelicula/heckle/",
-                                "title": "Heckle",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/heckle.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-wedding-rule/",
-                                "title": "The Wedding Rule",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-wedding-rule.jpg"
-                            },
-                            {
-                                "url": "/pelicula/polvo-y-cenizas/",
-                                "title": "Polvo y cenizas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/polvo-y-cenizas.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-guerra-de-los-dioses/",
-                                "title": "La Guerra de los Dioses",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-guerra-de-los-dioses.jpg"
-                            },
-                            {
-                                "url": "/pelicula/nahtamatu-voitlus/",
-                                "title": "Nähtamatu võitlus",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/nahtamatu-voitlus.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -737,11 +737,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/les-rayons-gamma/",
-                    "title": "Les rayons Gamma",
+                    "url": "/pelicula/while-we-sleep/",
+                    "title": "While We Sleep",
                     "artist": "",
                     "description": "",
-                    "genre": "Drama",
+                    "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -751,7 +751,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/les-rayons-gamma/",
+                        "url": "/pelicula/while-we-sleep/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -761,20 +761,58 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02985/ksfmkic5bscp_n/index-v1-a1.m3u8?t=4xVbCmxJjvcWv2o994MbrN8AfXSJ7raeC0GIDanPxsw&s=1707242909&e=129600&f=14927155&srv=cagzkwoug9m&i=0.4&sp=500&p1=cagzkwoug9m&p2=cagzkwoug9m&asn=8075",
-                        "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://bqpofk7o.sw-cdnstream.com/hls2/01/02985/ksfmkic5bscp_n/index-v1-a1.m3u8?t=4xVbCmxJjvcWv2o994MbrN8AfXSJ7raeC0GIDanPxsw&s=1707242909&e=129600&f=14927155&srv=cagzkwoug9m&i=0.4&sp=500&p1=cagzkwoug9m&p2=cagzkwoug9m&asn=8075",
+                        "url": "https://ku8irth3qn.sw-cdnstream.com/hls2/01/02994/190ktasclnpn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=J-PY0ObglKr0PyPud-GvzB8WK9dTDcrywXpFmclYht4&s=1707265740&e=129600&f=14972576&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstream.com/hls2/01/02994/190ktasclnpn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=J-PY0ObglKr0PyPud-GvzB8WK9dTDcrywXpFmclYht4&s=1707265740&e=129600&f=14972576&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/ksfmkic5bscp"
+                            "Referer": "https://wishembed.pro/e/190ktasclnpn"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ZJGl9DvzAqsqbOq&expires=1707312911&ip=FROsD0ESKxSHDN&token=vgEHO7zEgDaF",
+                        "url": "https://5ydssahmsa.sw-cdnstream.com/hls2/01/02994/12k83l9nqp1v_,n,h,.urlset/index-f2-v1-a1.m3u8?t=HLkDLU97dqtAWRwf3gno7DrbBtNHzEmhE_Ip0lKEICM&s=1707265739&e=129600&f=14972851&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://5ydssahmsa.sw-cdnstream.com/hls2/01/02994/12k83l9nqp1v_,n,h,.urlset/index-f2-v1-a1.m3u8?t=HLkDLU97dqtAWRwf3gno7DrbBtNHzEmhE_Ip0lKEICM&s=1707265739&e=129600&f=14972851&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/12k83l9nqp1v"
+                        }
+                    },
+                    {
+                        "url": "https://ku8irth3qn.sw-cdnstream.com/hls2/01/02994/190ktasclnpn_,n,h,.urlset/index-f1-v1-a1.m3u8?t=J-PY0ObglKr0PyPud-GvzB8WK9dTDcrywXpFmclYht4&s=1707265740&e=129600&f=14972576&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://ku8irth3qn.sw-cdnstream.com/hls2/01/02994/190ktasclnpn_,n,h,.urlset/index-f1-v1-a1.m3u8?t=J-PY0ObglKr0PyPud-GvzB8WK9dTDcrywXpFmclYht4&s=1707265740&e=129600&f=14972576&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/190ktasclnpn"
+                        }
+                    },
+                    {
+                        "url": "https://5ydssahmsa.sw-cdnstream.com/hls2/01/02994/12k83l9nqp1v_,n,h,.urlset/index-f1-v1-a1.m3u8?t=HLkDLU97dqtAWRwf3gno7DrbBtNHzEmhE_Ip0lKEICM&s=1707265739&e=129600&f=14972851&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://5ydssahmsa.sw-cdnstream.com/hls2/01/02994/12k83l9nqp1v_,n,h,.urlset/index-f1-v1-a1.m3u8?t=HLkDLU97dqtAWRwf3gno7DrbBtNHzEmhE_Ip0lKEICM&s=1707265739&e=129600&f=14972851&srv=mheoqqyykeuh&i=0.4&sp=500&p1=mheoqqyykeuh&p2=mheoqqyykeuh&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/12k83l9nqp1v"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=LJqLZ67yBKuRoDm&expires=1707335741&ip=F0qQKRWZD19XKxR&token=X5urL-QcYOaB",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ZJGl9DvzAqsqbOq&expires=1707312911&ip=FROsD0ESKxSHDN&token=vgEHO7zEgDaF"
+                        "videoUrl": "https://streamtape.com/get_video?id=LJqLZ67yBKuRoDm&expires=1707335741&ip=F0qQKRWZD19XKxR&token=X5urL-QcYOaB"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=Yqb3xAz1p3UvPdB&expires=1707335740&ip=F0qQKRWZD19XKxR&token=p5XwgLdj9REN",
+                        "quality": "[SUB] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=Yqb3xAz1p3UvPdB&expires=1707335740&ip=F0qQKRWZD19XKxR&token=p5XwgLdj9REN"
                     }
                 ],
                 "passed": true
