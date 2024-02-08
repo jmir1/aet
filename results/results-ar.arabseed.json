@@ -465,8 +465,33 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-puliq8eyobyawezd.voe-network.net/engine/hls2/01/10456/bgbuxbf4hyzx_,n,.urlset/index-v1-a1.m3u8?t=fM6bcZpbCH3PifBfjBxKpnG7QPsh3yTfxB_TPM8Oy2o&s=1707372657&e=14400&f=52280766&node=delivery-node-puliq8eyobyawezd.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-puliq8eyobyawezd.voe-network.net/engine/hls2/01/10456/bgbuxbf4hyzx_,n,.urlset/index-v1-a1.m3u8?t=fM6bcZpbCH3PifBfjBxKpnG7QPsh3yTfxB_TPM8Oy2o&s=1707372657&e=14400&f=52280766&node=delivery-node-puliq8eyobyawezd.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/10456/ijuksiwc1rmo_,l,.urlset/index-v1-a1.m3u8?t=EJv_gkoyt8PEmQru_hmKQxx_uAYa8o7yW4p5NngYGgg&s=1707372656&e=14400&f=52280660&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 480p",
+                        "videoUrl": "https://delivery-node-0gqipz6wuwmmt83w.voe-network.net/engine/hls2/01/10456/ijuksiwc1rmo_,l,.urlset/index-v1-a1.m3u8?t=EJv_gkoyt8PEmQru_hmKQxx_uAYa8o7yW4p5NngYGgg&s=1707372656&e=14400&f=52280660&node=delivery-node-0gqipz6wuwmmt83w.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-8wuwubr3gnw1dqyx.voe-network.net/engine/hls2/01/10456/rxnka3j3hfqd_,n,.urlset/index-v1-a1.m3u8?t=P568NbROEpLemNXLO0453EINdqdOsWxoFcouRPG3GQU&s=1707372657&e=14400&f=52280966&node=delivery-node-8wuwubr3gnw1dqyx.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-8wuwubr3gnw1dqyx.voe-network.net/engine/hls2/01/10456/rxnka3j3hfqd_,n,.urlset/index-v1-a1.m3u8?t=P568NbROEpLemNXLO0453EINdqdOsWxoFcouRPG3GQU&s=1707372657&e=14400&f=52280966&node=delivery-node-8wuwubr3gnw1dqyx.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

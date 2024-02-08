@@ -3,27 +3,27 @@
         "name": "Animes House (PT-BR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "error": "java.net.UnknownHostException: xn--animshouse-hnb.net: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "error": "java.net.UnknownHostException: xn--animshouse-hnb.net",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "error": "java.net.UnknownHostException: xn--animshouse-hnb.net",
                 "passed": false
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "error": "java.net.UnknownHostException: xn--animshouse-hnb.net",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "error": "java.net.UnknownHostException: xn--animshouse-hnb.net",
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 526",
+                "error": "java.net.UnknownHostException: xn--animshouse-hnb.net",
                 "passed": false
             }
         }
