@@ -3,94 +3,33 @@
         "name": "TRAnimeCI (TR)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/series/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://tranimaci.com/image/series_sousou-no-frieren_1795.webp"
-                            },
-                            {
-                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-1",
-                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
-                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-1_1455.webp"
-                            },
-                            {
-                                "url": "/series/one-piece",
-                                "title": "ONE PIECE",
-                                "thumbnail_url": "https://tranimaci.com/image/series_one-piece_1872.webp"
-                            },
-                            {
-                                "url": "/series/jujutsu-kaisen-season-2",
-                                "title": "JUJUTSU KAISEN Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen-season-2_1919.webp"
-                            },
-                            {
-                                "url": "/series/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
-                                "title": "Kaguya-sama wa Kokurasetai – First Kiss wa Owaranai",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai_1392.webp"
-                            },
-                            {
-                                "url": "/series/bleach_-thousand-year-blood-warr",
-                                "title": "BLEACH: Thousand-Year Blood War",
-                                "thumbnail_url": "https://tranimaci.com/image/series_bleach_-thousand-year-blood-war_1962.webp"
-                            },
-                            {
-                                "url": "/series/vinland-saga-s2",
-                                "title": "Vinland Saga S2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_vinland-saga-s2_1206.webp"
-                            },
-                            {
-                                "url": "/series/attack-on-titan-final-season-the-final-chapters-special-2",
-                                "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_attack-on-titan-final-season-the-final-chapters-special-2_1065.webp"
-                            },
-                            {
-                                "url": "/series/kimetsu-no-yaiba-yuukaku-hen",
-                                "title": "Kimetsu no Yaiba Yuukaku-hen",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kimetsu-no-yaiba_-yuukaku-hen_1446.webp"
-                            },
-                            {
-                                "url": "/series/mob-psycho-100-iii",
-                                "title": "Mob Psycho 100 III",
-                                "thumbnail_url": "https://tranimaci.com/image/series_mob-psycho-100-iii_1989.webp"
-                            },
-                            {
-                                "url": "/series/oshi-noo-koo",
-                                "title": "Oshi no Ko",
-                                "thumbnail_url": "https://tranimaci.com/image/series_oshi-no-ko_1790.webp"
-                            },
-                            {
-                                "url": "/series/kusuriya-no-hitorigoto",
-                                "title": "Kusuriya no Hitorigoto",
-                                "thumbnail_url": "https://tranimaci.com/image/series_kusuriya-no-hitorigoto_1338.webp"
-                            },
-                            {
-                                "url": "/series/link-click-season-2",
-                                "title": "Link Click Season 2",
-                                "thumbnail_url": "https://tranimaci.com/image/series_link-click-season-2_1431.webp"
-                            },
-                            {
-                                "url": "/series/jujutsu-kaisen",
-                                "title": "JUJUTSU KAISEN",
-                                "thumbnail_url": "https://tranimaci.com/image/series_jujutsu-kaisen_1466.webp"
-                            },
-                            {
-                                "url": "/series/bleach-sennen-kessen-hen-ketsubetsu-tann",
-                                "title": "BLEACH Sennen Kessen Hen Ketsubetsu Tan",
-                                "thumbnail_url": "https://tranimaci.com/image/series_bleach-thousand-year-blood-war-the-separation_1285.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/yuuki-bakuhatsu-bang-bravern",
+                                "title": "Yuuki Bakuhatsu Bang Bravern",
+                                "thumbnail_url": "https://tranimaci.com/image/series_yuuki-bakuhatsu-bang-bravern_1390.jpg"
+                            },
+                            {
+                                "url": "/series/sokushi-cheat",
+                                "title": "Sokushi Cheat",
+                                "thumbnail_url": "https://tranimaci.com/image/series_sokushi-cheat_1257.webp"
+                            },
+                            {
+                                "url": "/series/mato-seihei-no-slave",
+                                "title": "Mato Seihei no Slave",
+                                "thumbnail_url": "https://tranimaci.com/image/series_mato-seihei-no-slave_1968.webp"
+                            },
+                            {
+                                "url": "/series/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
+                                "title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
+                                "thumbnail_url": "https://tranimaci.com/image/series_30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii_1290.jpg"
+                            },
                             {
                                 "url": "/series/wan-jie-xian-zong-5th-season",
                                 "title": "Wan Jie Xian Zong 5th Season",
@@ -120,11 +59,6 @@
                                 "url": "/series/shen-yin-wangzuo-2",
                                 "title": "Shen Yin Wangzuo 2",
                                 "thumbnail_url": "https://tranimaci.com/image/series_shen-yin-wangzuo-2_1212.webp"
-                            },
-                            {
-                                "url": "/series/30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii",
-                                "title": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
-                                "thumbnail_url": "https://tranimaci.com/image/series_30-sai-made-doutei-da-to-mahou-tsukai-ni-nareru-rashii_1290.jpg"
                             },
                             {
                                 "url": "/series/metallic-rouge",
@@ -200,21 +134,6 @@
                                 "url": "/series/jiu-tian-xuan-di-jue-3",
                                 "title": "Jiu Tian Xuan Di Jue 3",
                                 "thumbnail_url": "https://tranimaci.com/image/series_jiu-tian-xuan-di-jue-3_1841.webp"
-                            },
-                            {
-                                "url": "/series/wan-jie-duzun-2-sezon",
-                                "title": "Wan Jie Duzun 2 Sezon",
-                                "thumbnail_url": "https://tranimaci.com/image/series_wan-jie-duzun-2-sezon_1915.webp"
-                            },
-                            {
-                                "url": "/series/the-legend-of-the-taiyi-sword-immortal",
-                                "title": "The Legend of the Taiyi Sword Immortal",
-                                "thumbnail_url": "https://tranimaci.com/image/20231020115429-7870.webp"
-                            },
-                            {
-                                "url": "/series/wushen-zhuzai",
-                                "title": "Wushen Zhuzai",
-                                "thumbnail_url": "https://tranimaci.com/image/series_wushen-zhuzai_1891.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -3629,16 +3548,16 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/video/sousou-no-frieren-21-bolum",
-                        "name": "Bölüm 21",
-                        "date_upload": 1706832000000,
-                        "episode_number": 21.0
+                        "url": "/video/yuuki-bakuhatsu-bang-bravern-5-bolum",
+                        "name": "Bölüm 5",
+                        "date_upload": 1707350400000,
+                        "episode_number": 5.0
                     },
                     {
-                        "url": "/video/sousou-no-frieren-20-bolum",
-                        "name": "Bölüm 20",
-                        "date_upload": 1706227200000,
-                        "episode_number": 20.0
+                        "url": "/video/yuuki-bakuhatsu-bang-bravern-4-bolum",
+                        "name": "Bölüm 4",
+                        "date_upload": 1706745600000,
+                        "episode_number": 4.0
                     }
                 ],
                 "passed": true
@@ -3646,18 +3565,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/64c279aedf8cb661573abcb4fcc1004dccd422d1b62368f92281a76e9feeb8be",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/c7d2d120238a3e5f4dfffcd559efbcb94869915a3492473bc2a284fcf3de5e15",
                         "quality": "720p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/64c279aedf8cb661573abcb4fcc1004dccd422d1b62368f92281a76e9feeb8be",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/c7d2d120238a3e5f4dfffcd559efbcb94869915a3492473bc2a284fcf3de5e15",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Referer": "https://tranimaci.com/"
                         }
                     },
                     {
-                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/99a07f7af3f99c013151b95f57ec96c7a2583a08a6516953b8a458171134963b",
+                        "url": "https://cdn02.video-streaming-vip.xyz/api/v1/3b984e15386c436e947c598482f411909dc379082677bdafae70fa0c034dbc88",
                         "quality": "1080p",
-                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/99a07f7af3f99c013151b95f57ec96c7a2583a08a6516953b8a458171134963b",
+                        "videoUrl": "https://cdn02.video-streaming-vip.xyz/api/v1/3b984e15386c436e947c598482f411909dc379082677bdafae70fa0c034dbc88",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Referer": "https://tranimaci.com/"
