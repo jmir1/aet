@@ -227,6 +227,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/lei-ordem-unidade-de-vitimas-especiais",
+                                "title": "Lei & Ordem: Unidade de Vítimas Especiais",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4828.webp"
+                            },
+                            {
+                                "url": "/serie/online/law-order-organized-crime",
+                                "title": "Law & Order: Organized Crime",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19292.webp"
+                            },
+                            {
+                                "url": "/serie/online/historico-criminal",
+                                "title": "Histórico Criminal",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
+                            },
+                            {
                                 "url": "/serie/online/chicago-p-d-distrito-21",
                                 "title": "Chicago P.D.: Distrito 21",
                                 "status": 1,
@@ -269,12 +287,6 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22444.webp"
                             },
                             {
-                                "url": "/serie/online/historico-criminal",
-                                "title": "Histórico Criminal",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22589.webp"
-                            },
-                            {
                                 "url": "/serie/online/night-court",
                                 "title": "Night Court",
                                 "status": 1,
@@ -303,18 +315,6 @@
                                 "title": "Percy Jackson e os Olimpianos",
                                 "status": 1,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22556.webp"
-                            },
-                            {
-                                "url": "/serie/online/law-order-organized-crime",
-                                "title": "Law & Order: Organized Crime",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/19292.webp"
-                            },
-                            {
-                                "url": "/serie/online/lei-ordem-unidade-de-vitimas-especiais",
-                                "title": "Lei & Ordem: Unidade de Vítimas Especiais",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/4828.webp"
                             },
                             {
                                 "url": "/serie/online/monsieur-spade",
@@ -501,16 +501,16 @@
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22155.webp"
                             },
                             {
-                                "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
-                                "title": "Kaminaki Sekai no Kamisama Katsudou",
-                                "status": 1,
-                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
-                            },
-                            {
                                 "url": "/serie/online/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
                                 "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
                                 "status": 2,
                                 "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/20144.webp"
+                            },
+                            {
+                                "url": "/serie/online/kaminaki-sekai-no-kamisama-katsudou",
+                                "title": "Kaminaki Sekai no Kamisama Katsudou",
+                                "status": 1,
+                                "thumbnail_url": "https://vizer.tv/content/series/posterPt/342/22262.webp"
                             },
                             {
                                 "url": "/serie/online/isekai-ojisan",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for <div s...",
                 "passed": false
             }
         }
