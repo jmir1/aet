@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/american-fiction/",
+                                "title": "American Fiction",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/BlVVW16NxW3lfm5Wji6y3KFLL2ZfttYUFJFrB.webp"
+                            },
+                            {
+                                "url": "/pelicula/la-otra-forma/",
+                                "title": "La Otra Forma",
+                                "description": "Peter Press ha estado viviendo con una prensa durante 20 años y ha completado su proceso de escuadr...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/1MAWvM1dLp8wwGIUJPidYVqajSwZfJP6mgTISKMt.webp"
+                            },
+                            {
+                                "url": "/pelicula/el-secuestro-del-vuelo-375/",
+                                "title": "El secuestro del vuelo 375",
+                                "description": "Nonato (Jorge Paz) es un trabajador que, en 1988, se rebela contra el presidente de Brasil y las dif...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/9sAKgjdAu3EfqTO0ZghFE4B534o.webp"
+                            },
+                            {
                                 "url": "/pelicula/the-passenger/",
                                 "title": "The Passenger",
                                 "description": "Un hombre se ve obligado a enfrentarse a sus miedos y a su turbulento pasado. Debe encontrar la mane...",
@@ -227,24 +245,6 @@
                                 "title": "Los Menospreciados",
                                 "description": "Jaycen Jenning, una antigua superestrella de la NFL que, tras un encontronazo con la ley, acepta ent...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/d581eGFX10yTk18EiooVdjOJF65yK9gN4eE9.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-wedding-in-the-hamptons/",
-                                "title": "The Wedding in the Hamptons",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/nOajXNt5c7OfYku1beh6f.webp"
-                            },
-                            {
-                                "url": "/pelicula/perdidos-en-el-tiempo/",
-                                "title": "Perdidos en el tiempo",
-                                "description": "Es un día especial para Luì, que finalmente está a punto de recibir su diploma como científico y...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/mCUlXktZEJQTrAVL30LAcuT.webp"
-                            },
-                            {
-                                "url": "/pelicula/skal-fight-for-survival/",
-                                "title": "Skal - Fight for Survival",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/R1kU0zVTOyL27NwudQ1TCgyC2n.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/the-passenger/",
-                    "title": "The Passenger",
-                    "description": "Un hombre se ve obligado a enfrentarse a sus miedos y a su turbulento pasado. Debe encontrar la manera de sobrevivir cuando su compañero de trabajo estalla y se lanza a una violenta matanza.",
-                    "genre": "Crimen, Suspense, Terror",
+                    "url": "/pelicula/american-fiction/",
+                    "title": "American Fiction",
+                    "description": "",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/the-passenger/",
+                        "url": "/pelicula/american-fiction/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar PpxOHaWvsq = \"\"; drBCfip.forEach(function Oym(value) { PpxOHaWvsq += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar xcXMtQD = \"\"; vtwgEyW.forEach(function Oym(value) { xcXMtQD += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
