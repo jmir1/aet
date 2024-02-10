@@ -229,14 +229,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1707826261&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzgyNjI2MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=UlptU5gJWg0xW1o9x%7EBt8Hv1ss0PFUJt%7EA7HTk5FK6f0tDFenEBnpy%7EfnmB2w%7EjlDq3CUCUHBKuIAwyX4H35Knc0FxvYessVIzRGONdAsYpkwdpOFkR2wRcAbEv1ZYnz6iH4Nx%7E7-2fPxLGfo3hdNE5FWbC8WjkoMSpozX5Obxo%7ES4RAyxmzKsb5LCrzcQVi5YW-x9PdxYwSdRAgdwD2uWbVd5P5I3L7upYUTDY-kKZ-G%7ErHxqeM3YzMuULBa6QvgODTOan1Ewa67w%7ER8-fdxDDs1zSxD2rzNeqELtQd6YkAikXUdeYwF3Dska0iZJ%7E6SnOauNGI0T8xHhL47qyRBg__&Key-Pair-Id=KVTP0A1DKRTAX",
-                        "quality": "720p # 1 (BDA-HF)",
-                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1707826261&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzgyNjI2MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=UlptU5gJWg0xW1o9x%7EBt8Hv1ss0PFUJt%7EA7HTk5FK6f0tDFenEBnpy%7EfnmB2w%7EjlDq3CUCUHBKuIAwyX4H35Knc0FxvYessVIzRGONdAsYpkwdpOFkR2wRcAbEv1ZYnz6iH4Nx%7E7-2fPxLGfo3hdNE5FWbC8WjkoMSpozX5Obxo%7ES4RAyxmzKsb5LCrzcQVi5YW-x9PdxYwSdRAgdwD2uWbVd5P5I3L7upYUTDY-kKZ-G%7ErHxqeM3YzMuULBa6QvgODTOan1Ewa67w%7ER8-fdxDDs1zSxD2rzNeqELtQd6YkAikXUdeYwF3Dska0iZJ%7E6SnOauNGI0T8xHhL47qyRBg__&Key-Pair-Id=KVTP0A1DKRTAX"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }
