@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/mi-pobre-y-dulce-angelito-2021/",
+                                "title": "Mi Pobre y Dulce Angelito (2021)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/02/5K7qxX77PJXWuzkZD8rOBduCEKo.jpg"
+                            },
+                            {
+                                "url": "/peliculas/mi-pobre-angelito-5-2012/",
+                                "title": "Mi Pobre Angelito 5 (2012)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/02/iCFHCyXEGhzx8JMXultZ44Xt5Gu.jpg"
+                            },
+                            {
                                 "url": "/peliculas/suncoast-2024/",
                                 "title": "Suncoast (2024)",
                                 "description": "",
@@ -101,18 +113,6 @@
                                 "title": "Orión y la oscuridad (2024)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD.jpg"
-                            },
-                            {
-                                "url": "/peliculas/la-colina-2023/",
-                                "title": "La Colina (2023)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/01/d0Yz4i1EEXCGAbUTbXK445k2XAl.jpg"
-                            },
-                            {
-                                "url": "/peliculas/12-horas-para-sobrevivir-2014/",
-                                "title": "12 Horas para sobrevivir (2014)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/01/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,9 +240,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/suncoast-2024/",
-                    "description": "Mientras cuida de su hermano junto a su audaz madre, una adolescente entabla una improbable amistad con un excéntrico activista que protesta por uno de los casos médicos más emblemáticos de todos los tiempos.",
-                    "genre": "Título Latino: Suncoast (2024)  Comedia,Drama País: United States Duración: 1hora 50minutos Año: 2024 Director: Cedric Vara,Ian Campbell,James L. Heyward,Laura Chinn Elenco: Amarr M. Wooten,Ariel Martin,Daniella Taylor,Ella Anderson,Jason Burkey,Keyla Monterroso Mejia,Laura Linney,Nico Parker,Pam Dougherty,Woody Harrelson Servidores Online: Voe, Servidores Descarga: Bittorrent,Mega,Mediafire,We,1fichier,Megaup,Terabox, (en 1 Link)",
+                    "url": "/peliculas/mi-pobre-y-dulce-angelito-2021/",
+                    "description": "Solo durante las fiestas, Max Mercer hará lo que sea necesario para proteger su hogar de los intrusos.",
+                    "genre": "Título Latino: Mi Pobre y Dulce Angelito (2021)  Comedia,Crimen,Familia País: United States Duración: 1hora 33minutos Año: 2021 Director: Dan Mazer,Pierre Henry Elenco: Aisling Bea,Ally Maki,Archie Yates,Chris Parnell,Devin Ratray,Ellie Kemper,Kenan Thompson,Pete Holmes,Rob Delaney,Timothy Simons Servidores Online: Voe, Servidores Descarga: Bittorrent,Mega,Mediafire,We,1fichier,Megaup, (en 1 Link)",
                     "initialized": true
                 },
                 "passed": true
@@ -250,7 +250,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/suncoast-2024/",
+                        "url": "/peliculas/mi-pobre-y-dulce-angelito-2021/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -258,8 +258,25 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/03250/wjxc55r8lx5s_,n,.urlset/index-v1-a1.m3u8?t=dZ6rcg_N7aPCcWYwAp3DLBFpZzMTpE_NGmtjLwke6Xg&s=1707524963&e=14400&f=42488631&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "quality": "(Latino) Voe: 720p",
+                        "videoUrl": "https://delivery-node-b6fnf6wxtp4qfjo9.voe-network.net/engine/hls2/01/03250/wjxc55r8lx5s_,n,.urlset/index-v1-a1.m3u8?t=dZ6rcg_N7aPCcWYwAp3DLBFpZzMTpE_NGmtjLwke6Xg&s=1707524963&e=14400&f=42488631&node=delivery-node-b6fnf6wxtp4qfjo9.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-etnh2hts8ppjned0.voe-network.net/engine/hls2/01/10468/qa1cf6czg7ef_,n,.urlset/index-v1-a1.m3u8?t=JE2UvPDJVnbbQGfKkdy3kEtaEeePhFzzaaA3Zerk2iY&s=1707524961&e=14400&f=52342647&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "quality": "(Latino) Voe: 720p",
+                        "videoUrl": "https://delivery-node-etnh2hts8ppjned0.voe-network.net/engine/hls2/01/10468/qa1cf6czg7ef_,n,.urlset/index-v1-a1.m3u8?t=JE2UvPDJVnbbQGfKkdy3kEtaEeePhFzzaaA3Zerk2iY&s=1707524961&e=14400&f=52342647&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=20.172&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
