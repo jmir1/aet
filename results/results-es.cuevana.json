@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/21742/juego-prohibido",
+                                "title": "Juego Prohibido",
+                                "thumbnail_url": "https://pelisimg.online/cover/juego-prohibido.jpg"
+                            },
+                            {
                                 "url": "/21738/tales-of-babylon",
                                 "title": "Tales of Babylon",
                                 "thumbnail_url": "https://pelisimg.online/cover/tales-of-babylon.jpg"
@@ -220,11 +225,6 @@
                                 "url": "/21688/the-seeding",
                                 "title": "The Seeding",
                                 "thumbnail_url": "https://pelisimg.online/cover/the-seeding.jpg"
-                            },
-                            {
-                                "url": "/21684/chuvari-formule",
-                                "title": "Чувари формуле",
-                                "thumbnail_url": "https://pelisimg.online/cover/chuvari-formule.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -464,11 +464,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/21738/tales-of-babylon",
-                    "title": "Tales of Babylon",
-                    "description": "Two siblings, looking to escape their abusive mobster grandfather, join forces with a pair of hitmen with a knack for the theatrical in their search for a new life in this tale of crime, violence, and redemption",
-                    "genre": "Crimen, , Suspenso",
-                    "thumbnail_url": "https://pelisimg.online/cover/tales-of-babylon.jpg",
+                    "url": "/21742/juego-prohibido",
+                    "title": "Juego Prohibido",
+                    "description": "Cuando la directora de vídeos para internet Hiroko Kurasawa visita la casa de su antiguo colega Naoto Ihara, quien ha perdido a su esposa, ve a su hijo Haruto recitando un extraño hechizo en dirección a un montículo de tierra en su jardín. Un encantamiento misterioso, la cola de un lagarto, un dedo, una sombra pálida, un montón de tierra ondulante y una casa sellada... Alrededor de Hiroko comienzan a producirse fenómenos extraños y lo que comenzó como el deseo inocente de un niño se convierte en una maldad desatada.",
+                    "genre": "Terror, , Suspenso",
+                    "thumbnail_url": "https://pelisimg.online/cover/juego-prohibido.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -476,7 +476,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/21738/tales-of-babylon",
+                        "url": "/21742/juego-prohibido",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -484,8 +484,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://i7ly1dgj.sw-cdnstream.com/hls2/01/03022/yw3b5ul35czg_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IeimSWBmUaVGyQVGDjIIAr8bBtjBGgXVRJKgm0UxeI0&s=1707631755&e=129600&f=15111626&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://i7ly1dgj.sw-cdnstream.com/hls2/01/03022/yw3b5ul35czg_,n,h,.urlset/index-f2-v1-a1.m3u8?t=IeimSWBmUaVGyQVGDjIIAr8bBtjBGgXVRJKgm0UxeI0&s=1707631755&e=129600&f=15111626&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/yw3b5ul35czg"
+                        }
+                    },
+                    {
+                        "url": "https://i7ly1dgj.sw-cdnstream.com/hls2/01/03022/yw3b5ul35czg_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IeimSWBmUaVGyQVGDjIIAr8bBtjBGgXVRJKgm0UxeI0&s=1707631755&e=129600&f=15111626&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://i7ly1dgj.sw-cdnstream.com/hls2/01/03022/yw3b5ul35czg_,n,h,.urlset/index-f1-v1-a1.m3u8?t=IeimSWBmUaVGyQVGDjIIAr8bBtjBGgXVRJKgm0UxeI0&s=1707631755&e=129600&f=15111626&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/yw3b5ul35czg"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=OqV4x9KJYbFZvqq&expires=1707701757&ip=FROsD0ATKxSHDN&token=T2SKAJQAu1-_",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=OqV4x9KJYbFZvqq&expires=1707701757&ip=FROsD0ATKxSHDN&token=T2SKAJQAu1-_"
+                    }
+                ],
+                "passed": true
             }
         }
     },
@@ -510,9 +538,9 @@
                             },
                             {
                                 "url": "/ver-pelicula/bhakshak",
-                                "title": "Bhakshak",
+                                "title": "Lo que ignoramos",
                                 "description": "Una periodista que lucha por abrirse camino inicia una investigación sobre atroces casos de abuso y maltrato encubiertos en un centro de acogida para niñas.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2eCELoyf0l3njFKfn3oddo3JaRG.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/zHKlvMp99WCW0WzTmeUtXeagufn.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/ascenso",
@@ -687,16 +715,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/f1OV9xEJCZVYcYSDRr5xOD8NJw3.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/jurassic-world-el-reino-caido",
-                                "title": "Jurassic World: El Reino Caído",
-                                "description": "Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinosaurios, una organización dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabajó en el parque, para que la ayude a evitar la extinción de los dinosaurios... Secuela de \"Jurassic World\".",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/death-note-iluminando-un-nuevo-mundo",
                                 "title": "Death Note: Iluminando un nuevo mundo",
                                 "description": "Diez años han pasado desde la confrontación entre Kira y L. Una vez más, los Shinigamis envían Death Notes al suelo y debido a esto, el mundo pronto cae en el caos. Tsukuru es un miembro del equipo de fuerza especial sobre la investigación de las Death Notes con otros seis investigadores, incluyendo a Matsuda que experimentó el caso de Kira hace años. El mundialmente famoso investigador privado Ryuzaki, que es el legítimo sucesor de L, también investiga los asesinatos en masa. A su vez, un virus informático llamado Kira se propaga por el mundo. El enfrentamiento comienza entre la persona que quiere el avivamiento de Kira y las personas que quieren detenerlo.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/c6ErA41gqQ6GBDAJOkGUQ337i0R.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/jurassic-world-el-reino-caido",
+                                "title": "Jurassic World: El Reino Caído",
+                                "description": "Una erupción volcánica amenaza a los dinosaurios restantes en la Isla Nublar, donde las criaturas han vagado libremente durante años tras de la desaparición del parque temático \"Jurassic World\". Claire Dearing, ex gerente del parque, ahora fundó el Grupo de Protección de Dinosaurios, una organización dedicada a intentar preservarlos. Cuando a Claire le ofrecen la oportunidad de rescatar algunos ejemplares de la isla, acude a Owen Grady, el ex entrenador de dinosaurios que trabajó en el parque, para que la ayude a evitar la extinción de los dinosaurios... Secuela de \"Jurassic World\".",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"
                             },
                             {
                                 "url": "/ver-pelicula/mundo-fantasma",
@@ -759,16 +787,16 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jpTKga1uC7e4v2GMYHfwxy049xF.jpg"
                             },
                             {
-                                "url": "/ver-pelicula/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
-                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
-                                "description": "Mientras acelera para ayudar en una batalla improvisada, Flash arde y atraviesa el tiempo, solo para encontrarse a sí mismo en medio de la Segunda Guerra Mundial. Es aquí donde Flash conoce a Wonder Woman y su equipo alto secreto, conocido como la Sociedad de la Justicia de América. En medio de las furiosas mareas de la guerra, el combate apasionante y la velocidad del valor, Flash debe luchar para volver a su propia línea de tiempo.",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
-                            },
-                            {
                                 "url": "/ver-pelicula/billie-eilish-the-worlds-a-little-blurry",
                                 "title": "Billie Eilish: The world's a little blurry",
                                 "description": "El premiado documentalista R.J. Cutler acompaña a Billie en sus giras, en el escenario y en casa con su familia durante la grabación del álbum que le cambió la vida.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg"
+                            },
+                            {
+                                "url": "/ver-pelicula/la-sociedad-de-la-justicia-de-america-segunda-guerra-mundial",
+                                "title": "La Sociedad De La Justicia De América: Segunda Guerra Mundial",
+                                "description": "Mientras acelera para ayudar en una batalla improvisada, Flash arde y atraviesa el tiempo, solo para encontrarse a sí mismo en medio de la Segunda Guerra Mundial. Es aquí donde Flash conoce a Wonder Woman y su equipo alto secreto, conocido como la Sociedad de la Justicia de América. En medio de las furiosas mareas de la guerra, el combate apasionante y la velocidad del valor, Flash debe luchar para volver a su propia línea de tiempo.",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/ibZPHqcAxNezp8iX0mI2TDIGK0x.jpg"
                             },
                             {
                                 "url": "/ver-serie/campfire-cooking-in-another-world-with-my-absurd-skills",
@@ -825,17 +853,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-8ffn7nirlw5eg20s.voe-network.net/engine/hls2/01/10340/c4g7hiuvgb3p_,n,.urlset/index-v1-a1.m3u8?t=41EBuE2AzYC-oWLWf-pfyDLVwctDDxX6CW7a8qysa_8&s=1707611630&e=14400&f=51703735&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=13.88&sp=2500&asn=8075",
+                        "url": "https://delivery-node-pqwpke9saonsdbal.voe-network.net/engine/hls2/01/10340/c4g7hiuvgb3p_,n,.urlset/index-v1-a1.m3u8?t=eS2dvopN3izinWrG2a5ywzrp629sX_VTObI2lf755dU&s=1707631761&e=14400&f=51703735&node=delivery-node-pqwpke9saonsdbal.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-8ffn7nirlw5eg20s.voe-network.net/engine/hls2/01/10340/c4g7hiuvgb3p_,n,.urlset/index-v1-a1.m3u8?t=41EBuE2AzYC-oWLWf-pfyDLVwctDDxX6CW7a8qysa_8&s=1707611630&e=14400&f=51703735&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=13.88&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-pqwpke9saonsdbal.voe-network.net/engine/hls2/01/10340/c4g7hiuvgb3p_,n,.urlset/index-v1-a1.m3u8?t=eS2dvopN3izinWrG2a5ywzrp629sX_VTObI2lf755dU&s=1707631761&e=14400&f=51703735&node=delivery-node-pqwpke9saonsdbal.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=n86XkP2GqwloImTYFwQpozHJx1rHmtmrlhS9OxJMS3Y&s=1707611635&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
+                        "url": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Fc6VrZ5CcL0d4Hy1iR7qohdFfJHMvmu1sMCOQ6_3DDM&s=1707631760&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
                         "quality": "[LAT] StreamWish:720p",
-                        "videoUrl": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=n86XkP2GqwloImTYFwQpozHJx1rHmtmrlhS9OxJMS3Y&s=1707611635&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
+                        "videoUrl": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Fc6VrZ5CcL0d4Hy1iR7qohdFfJHMvmu1sMCOQ6_3DDM&s=1707631760&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -844,9 +872,9 @@
                         }
                     },
                     {
-                        "url": "https://gy3yju69k6w5.enaak-cdn.com/hls2/01/01150/7xorq7fk0fll_n/index-v1-a1.m3u8?t=iO4-fUepjDx14KBoygpiZVMo9xTfmuk1rzwr5J4V-_w&s=1707611630&e=129600&f=5752748&srv=iEovkvi7yPiL&i=0.4&sp=1500&p1=iEovkvi7yPiL&p2=iEovkvi7yPiL&asn=8075",
+                        "url": "https://xovmry6flrcf.enaak-cdn.com/hls2/01/01150/7xorq7fk0fll_n/index-v1-a1.m3u8?t=DZkhYJO2aWtp3FQpizWFEu5j77HPGP5Lt2pgSRf2ACE&s=1707631760&e=129600&f=5752748&srv=iEovkvi7yPiL&i=0.4&sp=1500&p1=iEovkvi7yPiL&p2=iEovkvi7yPiL&asn=8075",
                         "quality": "[LAT] FileLions:720p",
-                        "videoUrl": "https://gy3yju69k6w5.enaak-cdn.com/hls2/01/01150/7xorq7fk0fll_n/index-v1-a1.m3u8?t=iO4-fUepjDx14KBoygpiZVMo9xTfmuk1rzwr5J4V-_w&s=1707611630&e=129600&f=5752748&srv=iEovkvi7yPiL&i=0.4&sp=1500&p1=iEovkvi7yPiL&p2=iEovkvi7yPiL&asn=8075",
+                        "videoUrl": "https://xovmry6flrcf.enaak-cdn.com/hls2/01/01150/7xorq7fk0fll_n/index-v1-a1.m3u8?t=DZkhYJO2aWtp3FQpizWFEu5j77HPGP5Lt2pgSRf2ACE&s=1707631760&e=129600&f=5752748&srv=iEovkvi7yPiL&i=0.4&sp=1500&p1=iEovkvi7yPiL&p2=iEovkvi7yPiL&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -855,9 +883,9 @@
                         }
                     },
                     {
-                        "url": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=n86XkP2GqwloImTYFwQpozHJx1rHmtmrlhS9OxJMS3Y&s=1707611635&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
+                        "url": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Fc6VrZ5CcL0d4Hy1iR7qohdFfJHMvmu1sMCOQ6_3DDM&s=1707631760&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=n86XkP2GqwloImTYFwQpozHJx1rHmtmrlhS9OxJMS3Y&s=1707611635&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
+                        "videoUrl": "https://w4rd3njc.sw-cdnstream.com/hls2/01/02869/s7thqjq51onh_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Fc6VrZ5CcL0d4Hy1iR7qohdFfJHMvmu1sMCOQ6_3DDM&s=1707631760&e=129600&f=14346232&srv=rnwnnhidycqj&i=0.4&sp=500&p1=rnwnnhidycqj&p2=rnwnnhidycqj&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -866,22 +894,22 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=1BM33mBGo0Ue3gk&expires=1707681632&ip=F0AsFxgnDS9X&token=vVOGeIZmVoWd",
+                        "url": "https://streamtape.com/get_video?id=1BM33mBGo0Ue3gk&expires=1707701761&ip=FROsD0ATKxSHDN&token=w5qgzNpG6kzg",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1BM33mBGo0Ue3gk&expires=1707681632&ip=F0AsFxgnDS9X&token=vVOGeIZmVoWd"
+                        "videoUrl": "https://streamtape.com/get_video?id=1BM33mBGo0Ue3gk&expires=1707701761&ip=FROsD0ATKxSHDN&token=w5qgzNpG6kzg"
                     },
                     {
-                        "url": "https://delivery-node-cpjlg1yzjzxk8qnq.voe-network.net/engine/hls2/01/10340/3pgntafwyycw_,n,.urlset/index-v1-a1.m3u8?t=q2I9zwKib6QujcptL4iahJ3A7ocOomhlWnIiaXETO30&s=1707611640&e=14400&f=51703779&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=13.88&sp=2500&asn=8075",
+                        "url": "https://delivery-node-cpjlg1yzjzxk8qnq.voe-network.net/engine/hls2/01/10340/3pgntafwyycw_,n,.urlset/index-v1-a1.m3u8?t=YHAdsdBlvQLRIFe_end8DwSyaj3RLv8FChzTroXEc-E&s=1707631765&e=14400&f=51703779&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "quality": "[ENG]Voe: 720p",
-                        "videoUrl": "https://delivery-node-cpjlg1yzjzxk8qnq.voe-network.net/engine/hls2/01/10340/3pgntafwyycw_,n,.urlset/index-v1-a1.m3u8?t=q2I9zwKib6QujcptL4iahJ3A7ocOomhlWnIiaXETO30&s=1707611640&e=14400&f=51703779&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=13.88&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-cpjlg1yzjzxk8qnq.voe-network.net/engine/hls2/01/10340/3pgntafwyycw_,n,.urlset/index-v1-a1.m3u8?t=YHAdsdBlvQLRIFe_end8DwSyaj3RLv8FChzTroXEc-E&s=1707631765&e=14400&f=51703779&node=delivery-node-cpjlg1yzjzxk8qnq.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f2-v1-a1.m3u8?t=bhto7GDs2bIFkfYI8PQDMAEkg930Qj0sFyTG1yhwphs&s=1707611637&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
+                        "url": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f2-v1-a1.m3u8?t=dwGjDwS_ZygY8yVSZTq3ireKGPkpUN2kDsJ80d_e9VM&s=1707631764&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
                         "quality": "[ENG] StreamWish:720p",
-                        "videoUrl": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f2-v1-a1.m3u8?t=bhto7GDs2bIFkfYI8PQDMAEkg930Qj0sFyTG1yhwphs&s=1707611637&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
+                        "videoUrl": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f2-v1-a1.m3u8?t=dwGjDwS_ZygY8yVSZTq3ireKGPkpUN2kDsJ80d_e9VM&s=1707631764&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -890,9 +918,9 @@
                         }
                     },
                     {
-                        "url": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f1-v1-a1.m3u8?t=bhto7GDs2bIFkfYI8PQDMAEkg930Qj0sFyTG1yhwphs&s=1707611637&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
+                        "url": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f1-v1-a1.m3u8?t=dwGjDwS_ZygY8yVSZTq3ireKGPkpUN2kDsJ80d_e9VM&s=1707631764&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
                         "quality": "[ENG] StreamWish:480p",
-                        "videoUrl": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f1-v1-a1.m3u8?t=bhto7GDs2bIFkfYI8PQDMAEkg930Qj0sFyTG1yhwphs&s=1707611637&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
+                        "videoUrl": "https://jturq6cd3w.sw-cdnstream.com/hls2/01/02869/75izm3qxy3ec_,n,h,.urlset/index-f1-v1-a1.m3u8?t=dwGjDwS_ZygY8yVSZTq3ireKGPkpUN2kDsJ80d_e9VM&s=1707631764&e=129600&f=14346325&srv=QPiEzuzHC7vq&i=0.4&sp=500&p1=QPiEzuzHC7vq&p2=QPiEzuzHC7vq&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -901,9 +929,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=8J9O0lYolvCodDb&expires=1707681642&ip=F0AsFxgnDS9X&token=noib-kjR7XDs",
+                        "url": "https://streamtape.com/get_video?id=8J9O0lYolvCodDb&expires=1707701767&ip=FROsD0ATKxSHDN&token=b8ZkikIWhIXA",
                         "quality": "[ENG] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=8J9O0lYolvCodDb&expires=1707681642&ip=F0AsFxgnDS9X&token=noib-kjR7XDs"
+                        "videoUrl": "https://streamtape.com/get_video?id=8J9O0lYolvCodDb&expires=1707701767&ip=FROsD0ATKxSHDN&token=b8ZkikIWhIXA"
                     }
                 ],
                 "passed": true

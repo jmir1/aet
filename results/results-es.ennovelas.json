@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/vuelve-a-mi-capitulo-87/",
+                                "title": "Vuelve a Mi – Capitulo 87",
+                                "description": "",
+                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/10/Vuelve-a-Mi.jpg"
+                            },
+                            {
                                 "url": "/kardeslerim-capitulo-116/",
                                 "title": "Kardeslerim Capitulo 116",
                                 "description": "",
@@ -17,12 +23,6 @@
                                 "title": "Kopuk Capitulo 3",
                                 "description": "",
                                 "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2024/01/Kopuk-Capitulos-Completos-349x520.jpg"
-                            },
-                            {
-                                "url": "/vuelve-a-mi-capitulo-87/",
-                                "title": "Vuelve a Mi – Capitulo 87",
-                                "description": "",
-                                "thumbnail_url": "https://m.ennovelas.net/wp-content/uploads/2023/10/Vuelve-a-Mi.jpg"
                             },
                             {
                                 "url": "/el-senor-de-los-cielos-temporada-9-capitulo-1/",
@@ -288,12 +288,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/kardeslerim-capitulo-116/",
-                    "title": "Kardeslerim Capitulo 116",
+                    "url": "/vuelve-a-mi-capitulo-87/",
+                    "title": "Vuelve a Mi – Capitulo 87",
                     "artist": "",
-                    "author": "2021",
-                    "description": "Kardeslerim Capitulo 116",
-                    "genre": "dramaticas, Series y Novelas Turcas en Español, Srnovelas",
+                    "author": "Danny Gavidia",
+                    "description": "Vuelve a Mi – Capitulo 87",
+                    "genre": "Acción, dramaticas, Novelas Mexicanas Completas Gratis Online, Romance, Srnovelas",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -301,21 +303,38 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kardeslerim-capitulo-116/",
-                        "name": "Capitulo 116",
-                        "episode_number": 116.0
+                        "url": "/vuelve-a-mi-capitulo-87/",
+                        "name": "T1 - E87 - Capitulo 87",
+                        "episode_number": 87.0
                     },
                     {
-                        "url": "/kardeslerim-capitulo-115/",
-                        "name": "Capitulo 115",
-                        "episode_number": 115.0
+                        "url": "/vuelve-a-mi-capitulo-86/",
+                        "name": "T1 - E86 - Capitulo 86",
+                        "episode_number": 86.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://m90.uqload.to/3rfklf2csbw2q4drdjf7vk5elamhpihdlxkr5ngzs3w5jpphpimx2dhjddtq/v.mp4",
+                        "quality": "Uqload Uqload",
+                        "videoUrl": "https://m90.uqload.to/3rfklf2csbw2q4drdjf7vk5elamhpihdlxkr5ngzs3w5jpphpimx2dhjddtq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    },
+                    {
+                        "url": "https://upx-791.vmrange.lat/hls/xqx2o3x4mjokjiqbtfasllia4gp3ugciseyuwohtk4jepzlfqfyugdll2jlq/index-v1-a1.m3u8",
+                        "quality": " - 720p",
+                        "videoUrl": "https://upx-791.vmrange.lat/hls/xqx2o3x4mjokjiqbtfasllia4gp3ugciseyuwohtk4jepzlfqfyugdll2jlq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Referer": "https://vidmoly.to"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
