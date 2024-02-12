@@ -112,7 +112,7 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.lang.Exception: Failed to load items, please log in to google drive through webview",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
                 "passed": false
             },
             "videos": {

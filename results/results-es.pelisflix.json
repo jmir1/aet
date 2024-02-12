@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/miley-cyrus-endless-summer-vacation-backyard-sessions/",
+                                "title": "Miley Cyrus – Endless Summer Vacation (Backyard Sessions)",
+                                "description": "Miley presenta e interpreta de forma inédita los temas de su octavo álbum de estudio, \"Endless Sum...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/mlb8h86gUVWsz6uXMnB53FBjqIMYxKOKVQJ3PG9zr.webp"
+                            },
+                            {
+                                "url": "/pelicula/casi-inofensivo/",
+                                "title": "Casi inofensivo",
+                                "description": "Los investigadores de Internet identifican después de dos años a un excursionista hallado muerto e...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/xRa2YsdOP89VQ5cxEg5kJYryLfg.webp"
+                            },
+                            {
+                                "url": "/pelicula/ceniza/",
+                                "title": "Ceniza",
+                                "description": "La vida de una rica mujer casada cambia de manera irreversible cuando empieza a leer una novela iné...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/VeaQ5tJoLvHHY1syKpmnI1F41kRAX5aI.webp"
+                            },
+                            {
                                 "url": "/pelicula/crossing-passage/",
                                 "title": "Crossing (Passage)",
                                 "description": "Un improbable dúo viaja de Batumi (Georgia) a la urbana y laberíntica Estambul en busca de una jov...",
@@ -227,24 +245,6 @@
                                 "title": "Leprechaun Returns",
                                 "description": "Un grupo de involuntarias hermanas de la hermandad despierta accidentalmente al Leprechaun asesino e...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/aIwzAnwJel6VaF4hTsTv.webp"
-                            },
-                            {
-                                "url": "/pelicula/genesis/",
-                                "title": "Genesis",
-                                "description": "Koldo y Clara están hechos el uno para el otro. Van a celebrar su enlace acompañados de sus seres ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JHEwr6zjhoDWuFMs9LMY.webp"
-                            },
-                            {
-                                "url": "/pelicula/aquaman-y-el-reino-perdido-zigw/",
-                                "title": "Aquaman y el reino perdido",
-                                "description": "Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de v...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/IJrX800BaWKCyNqIODxhz.webp"
-                            },
-                            {
-                                "url": "/pelicula/food-for-the-heart/",
-                                "title": "Food for the Heart",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/XBGj5Vj2wnz3hkpEVnKOy7T47.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/crossing-passage/",
-                    "title": "Crossing (Passage)",
-                    "description": "Un improbable dúo viaja de Batumi (Georgia) a la urbana y laberíntica Estambul en busca de una joven trans llamada Tekla.",
-                    "genre": "Drama",
+                    "url": "/pelicula/miley-cyrus-endless-summer-vacation-backyard-sessions/",
+                    "title": "Miley Cyrus – Endless Summer Vacation (Backyard Sessions)",
+                    "description": "Miley presenta e interpreta de forma inédita los temas de su octavo álbum de estudio, \"Endless Summer Vacation\", además del single \"Flowers\" y siete temas exclusivos. El especial también incluye una actuación de su éxito mundial \"The Climb\". Las actuaciones se intercalan con entrevistas exclusivas, realizadas en la casa de Los Ángeles donde se rodó el videoclip de \"Flowers\", casa que un día perteneció a Frank Sinatra. En este especial, Miley invita a conocer su nuevo álbum y a la persona que es a día de hoy.",
+                    "genre": "Documental",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/crossing-passage/",
+                        "url": "/pelicula/miley-cyrus-endless-summer-vacation-backyard-sessions/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar amsnRdvr = \"\"; dyJdKZZNf.forEach(function Oym(value) { amsnRdvr += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
