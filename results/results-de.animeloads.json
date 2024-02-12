@@ -227,7 +227,7 @@
                     "url": "/media/wonderful-precure",
                     "title": "Wonderful Precure!",
                     "author": "",
-                    "description": "Quelle: aniSearch",
+                    "description": "Die Mittelschülerin Iroha Inukai ist davon überzeugt, in der besten Stadt der Welt zu leben – immerhin wird sie auch Animal Town genannt, weil es dort erstaunlich viele Haustiere gibt. Auch Iroha selber hat einen kleinen Hund namens Komugi, den sie sehr liebt. Komugi hängt ebenfalls an ihrer besten Freundin und ist jedes Mal sehr traurig, wenn das Mädchen sie verlässt, um in die Schule zu gehen. Ihr größter Wunsch ist es, für immer mit Iroha zusammen sein zu können. Auch Mayu Nekoyashiki, deren Familie kürzlich erst in die Stadt gezogen ist, liebt ihre Katze Yuki sehr und macht sich Sorgen, ob sie in der neuen Schule gut zurechtkommen wird. Das Schicksal der beiden Mädchen und ihrer Haustiere verbindet sich über einen mysteriösen riesigen Stein, der im Herzen von Animal Town steht. Niemand weiß so recht, wo er herkommt, doch als ein sonderbares Monster auftaucht und Irohas Leben in Gefahr gerät, verleiht der Stein Komugi die Macht, eine menschliche Form anzunehmen und sich in Cure Wonderful zu verwandeln. Doch damit ist das Problem noch nicht gelöst, denn bald schon merken die Mädchen, dass eine noch größere Bedrohung die Stadt in Aufruhr versetzen könnte, wenn sie nichts dagegen unternehmen. Quelle: aniSearch",
                     "genre": "",
                     "status": 2,
                     "status_name": "COMPLETED",
@@ -239,6 +239,11 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/media/wonderful-precure#streams_episodes_1_1",
+                        "name": "Ep.2 Episode 2",
+                        "episode_number": 2.0
+                    },
+                    {
                         "url": "/media/wonderful-precure#streams_episodes_1_0",
                         "name": "Ep.1 Episode 1",
                         "episode_number": 1.0
@@ -247,35 +252,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=6PAeYPldzOUllK&expires=1707744932&ip=F0qQKRWZD19XKxR&token=ZAB7ue6cMMeL",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=6PAeYPldzOUllK&expires=1707744932&ip=F0qQKRWZD19XKxR&token=ZAB7ue6cMMeL"
-                    },
-                    {
-                        "url": "https://delivery-node-8s8wso5f4w7ft6sg.voe-network.net/engine/hls2/01/10434/agkibwe7wmii_,n,.urlset/index-v1-a1.m3u8?t=y0bx7NKZOFv2Zh2uukvHtFRLYz5pJ3nqYBcwIweHyKE&s=1707674926&e=14400&f=52174984&node=delivery-node-8s8wso5f4w7ft6sg.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "(Deutsch Sub) Voe: 720p",
-                        "videoUrl": "https://delivery-node-8s8wso5f4w7ft6sg.voe-network.net/engine/hls2/01/10434/agkibwe7wmii_,n,.urlset/index-v1-a1.m3u8?t=y0bx7NKZOFv2Zh2uukvHtFRLYz5pJ3nqYBcwIweHyKE&s=1707674926&e=14400&f=52174984&node=delivery-node-8s8wso5f4w7ft6sg.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0ZrM3mvjzASZ0D&expires=1707744918&ip=F0qQKRWZD19XKxR&token=beCe6vo6nkOh",
-                        "quality": "Streamtape Deutsch Sub",
-                        "videoUrl": "https://streamtape.com/get_video?id=0ZrM3mvjzASZ0D&expires=1707744918&ip=F0qQKRWZD19XKxR&token=beCe6vo6nkOh"
-                    },
-                    {
-                        "url": "https://delivery-node-nuqh43xodiqocvzl.voe-network.net/engine/hls2-c/01/10434/bmylgot7rs0s_,n,.urlset/index-v1-a1.m3u8?t=YL01AgLieDoBklP8bChBwWLZztuCQKA8v4R7JrdlyDo&s=1707674912&e=14400&f=52170396&node=delivery-node-ldd3nik2yl3ojjan.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "quality": "(Deutsch Sub) Voe: 720p",
-                        "videoUrl": "https://delivery-node-nuqh43xodiqocvzl.voe-network.net/engine/hls2-c/01/10434/bmylgot7rs0s_,n,.urlset/index-v1-a1.m3u8?t=YL01AgLieDoBklP8bChBwWLZztuCQKA8v4R7JrdlyDo&s=1707674912&e=14400&f=52170396&node=delivery-node-ldd3nik2yl3ojjan.voe-network.net&i=172.183&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.Exception: Captcha bypass failed! Clear Cookies & Webview data. Or wait some time.",
+                "passed": false
             }
         }
     }
