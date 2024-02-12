@@ -77,14 +77,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-1036-main.webp"
                             },
                             {
-                                "url": "/series/1187",
-                                "title": "Dragon Ball GT",
-                                "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-gt-1293-main.webp"
-                            },
-                            {
                                 "url": "/series/646",
                                 "title": "Bleach",
                                 "thumbnail_url": "https://images.animearchive.online/elements/bleach-708-main.webp"
+                            },
+                            {
+                                "url": "/series/1187",
+                                "title": "Dragon Ball GT",
+                                "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-gt-1293-main.webp"
                             },
                             {
                                 "url": "/series/3140",
@@ -347,48 +347,12 @@
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/watch/11363",
-                        "name": "Episodio 710",
-                        "date_upload": 1701734400000,
-                        "episode_number": 710.0
-                    },
-                    {
-                        "url": "/watch/11362",
-                        "name": "Episodio 709",
-                        "date_upload": 1701734400000,
-                        "episode_number": 709.0
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":10655,\"subbed\":\"Sub\",.....",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://anime.animearchive.online/video/107436/out_0.m3u8",
-                        "quality": "720p",
-                        "videoUrl": "https://anime.animearchive.online/video/107436/out_0.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://aniplay.co/",
-                            "Origin": "https://aniplay.co",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://anime.animearchive.online/video/107436/out_1.m3u8",
-                        "quality": "480p",
-                        "videoUrl": "https://anime.animearchive.online/video/107436/out_1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://aniplay.co/",
-                            "Origin": "https://aniplay.co",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_m350yi = {\n\t\t\t\t\t\t\".....",
+                "passed": false
             }
         }
     }
