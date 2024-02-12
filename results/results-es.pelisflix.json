@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/crossing-passage/",
+                                "title": "Crossing (Passage)",
+                                "description": "Un improbable dúo viaja de Batumi (Georgia) a la urbana y laberíntica Estambul en busca de una jov...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/UEpSz3BQttace5zdpq1W6Vmj1i1JBstlWI3lC.webp"
+                            },
+                            {
+                                "url": "/pelicula/space-oddity/",
+                                "title": "Space Oddity",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0oy2a14PF8uVhsvm9vv074ntEr.webp"
+                            },
+                            {
+                                "url": "/pelicula/amor-acoso-asesinato/",
+                                "title": "Amor, acoso, asesinato",
+                                "description": "Un mecánico que prueba el mundo de las aplicaciones de citas por primera vez conoce a una mujer que...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7Z3dJQfuwjoAKOUnU.webp"
+                            },
+                            {
                                 "url": "/pelicula/dioses-de-la-profundidad/",
                                 "title": "Dioses de la profundidad",
                                 "description": "",
@@ -227,24 +245,6 @@
                                 "title": "Food for the Heart",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/XBGj5Vj2wnz3hkpEVnKOy7T47.webp"
-                            },
-                            {
-                                "url": "/pelicula/may-the-best-wedding-win/",
-                                "title": "May the Best Wedding Win",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ALK4jvx7OQeVP0hBpeNDu.webp"
-                            },
-                            {
-                                "url": "/pelicula/a-snapshot-of-forever/",
-                                "title": "A Snapshot of Forever",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/pEtztpraNiUWUOUChUSxHbiy9Fm3GO0WijmCzEDdMnZw.webp"
-                            },
-                            {
-                                "url": "/pelicula/which-brings-me-to-you/",
-                                "title": "Which Brings Me to You",
-                                "description": "Jane y Will, dos adultos jóvenes, dedican tiempo a conocerse durante un período de 24 horas y desa...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yvFxUcoNvnsQqltxOzTdq.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/dioses-de-la-profundidad/",
-                    "title": "Dioses de la profundidad",
-                    "description": "",
-                    "genre": "C. Ficción, Suspense, Terror",
+                    "url": "/pelicula/crossing-passage/",
+                    "title": "Crossing (Passage)",
+                    "description": "Un improbable dúo viaja de Batumi (Georgia) a la urbana y laberíntica Estambul en busca de una joven trans llamada Tekla.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/dioses-de-la-profundidad/",
+                        "url": "/pelicula/crossing-passage/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar CVRPVxoAO = \"\"; jVtVUropIr.forEach(function Oym(value) { CVRPVxoAO += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar amsnRdvr = \"\"; dyJdKZZNf.forEach(function Oym(value) { amsnRdvr += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

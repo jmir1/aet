@@ -363,8 +363,17 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rr3---sn-2imeyn7k.googlevideo.com/videoplayback?expire=1707768691&ei=8wrKZb7MHK7XsfIPhsqWmAg&ip=20.169.4.250&id=06f8924f49e167a8&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=ue&mm=31&mn=sn-2imeyn7k&ms=au&mv=u&mvi=3&pl=22&susc=bl&eaua=fQMBug3d4lM&mime=video/mp4&vprv=1&dur=1419.319&lmt=1679837073503964&mt=1707738443&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRgIhAN4BEUY6YresdpIbJaqOWLTbc3qtuqqwmEtgUKX_UX4SAiEAuZRq-GhxfWqodksYlktmhpLvZeVmHSL2-csVKfcH15Q%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIhAP5bQVzuJOcFic3N96HSG5sF0qOp4sH_nXaVLZl7Iy48AiAXTUK3L2NV2ACmgQHpDHlIC1xVQB918V7SB3oA18uHqw%3D%3D",
+                        "quality": "Blogspot 480p",
+                        "videoUrl": "https://rr3---sn-2imeyn7k.googlevideo.com/videoplayback?expire=1707768691&ei=8wrKZb7MHK7XsfIPhsqWmAg&ip=20.169.4.250&id=06f8924f49e167a8&itag=18&source=blogger&xpc=Egho7Zf3LnoBAQ%3D%3D&mh=ue&mm=31&mn=sn-2imeyn7k&ms=au&mv=u&mvi=3&pl=22&susc=bl&eaua=fQMBug3d4lM&mime=video/mp4&vprv=1&dur=1419.319&lmt=1679837073503964&mt=1707738443&txp=1311224&sparams=expire,ei,ip,id,itag,source,xpc,susc,eaua,mime,vprv,dur,lmt&sig=AJfQdSswRgIhAN4BEUY6YresdpIbJaqOWLTbc3qtuqqwmEtgUKX_UX4SAiEAuZRq-GhxfWqodksYlktmhpLvZeVmHSL2-csVKfcH15Q%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=APTiJQcwRQIhAP5bQVzuJOcFic3N96HSG5sF0qOp4sH_nXaVLZl7Iy48AiAXTUK3L2NV2ACmgQHpDHlIC1xVQB918V7SB3oA18uHqw%3D%3D",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

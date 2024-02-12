@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/arcadia/",
+                                "title": "Arcadia",
+                                "description": "Tras una gran catástrofe, nace una nueva sociedad, Arcadia. Los recursos se han vuelto escasos y se introduce un sistema de puntos, conocido como Citizen Score. Determina lo que usted puede y debe hacer y a qué tiene derecho un ciudadano. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWz54XhkVQh3iUdnKS80B8BujE4.jpg"
+                            },
+                            {
                                 "url": "/saving-hope/",
                                 "title": "Saving Hope",
                                 "description": "El carismático Charlie Harris (Michael Shanks), jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid (Erica Durance), en estado de shock. Junto al recién llegado cirujano, el Dr. Joel Goran (Daniel Gillies), y los […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/a5aJyals0dAgh1hogPhczimsXBB.jpg"
                             },
                             {
-                                "url": "/siempre-el-mismo-dia/",
-                                "title": "Siempre el mismo día",
-                                "description": "One Day Emma y Dexter pasan juntos la noche de graduación y toman caminos distintos al día siguiente… pero sus vidas seguirán entrelazadas. Basada en la novela de David Nicholls. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/9QXmXBXlMoe8GgFij9vZpgJPWg1.jpg"
-                            },
-                            {
-                                "url": "/los-doce-reinos-capitulos-completos-latino-hd-online/",
-                                "title": "12 reinos",
+                                "url": "/el-padrino-de-harlem/",
+                                "title": "El padrino de Harlem",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/10/uYwrFazyTxfaB3RytdcRZLfN2ig-226x339.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2021/05/dWE4w6MqkrjakY3pY6YhHHr4XpW-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/up-here/",
-                                "title": "Up Here",
+                                "url": "/one-tree-hill/",
+                                "title": "One Tree Hill",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/1FSOumFnnn1smq8kFoTbK1TJI3Z.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/jb9CIFdAFxruIHLovcoPAb0Srk6-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,69 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/saving-hope/",
-                    "title": "Saving Hope",
-                    "description": "El carismático Charlie Harris (Michael Shanks), jefe de cirugía del Hospital Hope-Zion de Toronto cae en un coma profundo, dejando al hospital sumido en el caos, y a su novia y colega, la cirujana Alex Reid (Erica Durance), en estado de shock. Junto al recién llegado cirujano, el Dr. Joel Goran (Daniel Gillies), y los doctores Shahir Hamza (Huse Madhavji), Gavin (Kristopher Turner) y Maggie (Julia Taylor Ross); Alex lucha por salvar la vida de Harris mientras éste, sumido en su coma, recorre el hospital sin saber si es un sueño, o es su espíritu o su propia imaginación.",
+                    "url": "/arcadia/",
+                    "title": "Arcadia",
+                    "description": "Tras una gran catástrofe, nace una nueva sociedad, Arcadia. Los recursos se han vuelto escasos y se introduce un sistema de puntos, conocido como Citizen Score. Determina lo que usted puede y debe hacer y a qué tiene derecho un ciudadano.",
                     "genre": "Drama, Sci-Fi & Fantasy",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1OGQisCT1T5ChkzZVdFqhX4O1G.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWz54XhkVQh3iUdnKS80B8BujE4.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/saving-hope-temporada-2-capitulo-11/",
-                        "name": "T02 - E11 - Episodio 11",
-                        "date_upload": 1378166400000,
-                        "episode_number": 11.0
-                    },
-                    {
-                        "url": "/episode/saving-hope-temporada-2-capitulo-10/",
-                        "name": "T02 - E10 - Episodio 10",
-                        "date_upload": 1377561600000,
-                        "episode_number": 10.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s25.fastream.to/hls2/07/00063/3p11ynolle54_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=0Yp3Auv-Goasvc8vhE2oizOSJlaf7YZ4-erA7rY1z04&s=1707718176&e=43200&f=316355&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s25.fastream.to/hls2/07/00063/3p11ynolle54_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=0Yp3Auv-Goasvc8vhE2oizOSJlaf7YZ4-erA7rY1z04&s=1707718176&e=43200&f=316355&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/07/00063/3p11ynolle54_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=0Yp3Auv-Goasvc8vhE2oizOSJlaf7YZ4-erA7rY1z04&s=1707718176&e=43200&f=316355&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s25.fastream.to/hls2/07/00063/3p11ynolle54_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=0Yp3Auv-Goasvc8vhE2oizOSJlaf7YZ4-erA7rY1z04&s=1707718176&e=43200&f=316355&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/07/00063/3p11ynolle54_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=0Yp3Auv-Goasvc8vhE2oizOSJlaf7YZ4-erA7rY1z04&s=1707718176&e=43200&f=316355&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s25.fastream.to/hls2/07/00063/3p11ynolle54_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=0Yp3Auv-Goasvc8vhE2oizOSJlaf7YZ4-erA7rY1z04&s=1707718176&e=43200&f=316355&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
