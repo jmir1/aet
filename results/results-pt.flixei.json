@@ -142,6 +142,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/vai-ter-troco/online/gratis",
+                                "title": "Vai Ter Troco",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40238.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/um-estranho-acidente/online/gratis",
+                                "title": "Um Estranho Acidente",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40237.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/um-verao-so-para-nos/online/gratis",
                                 "title": "Um Verão Só Para Nós",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40236.jpg"
@@ -270,16 +280,6 @@
                                 "url": "/assistir/filme/carona-aterrorizante/online/gratis",
                                 "title": "Carona Aterrorizante",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40209.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/liga-da-justica-crise-nas-infinitas-terras-parte-um/online/gratis",
-                                "title": "Liga da Justiça: Crise nas Infinitas Terras - Parte Um",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40208.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/as-aventuras-do-pequeno-espiao/online/gratis",
-                                "title": "As Aventuras do Pequeno Espião",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40207.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1761,31 +1761,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=wmoK9TNYqrZqySmI1aQJOQ&e=1707782859&_t=1707769929",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=wmoK9TNYqrZqySmI1aQJOQ&e=1707782859&_t=1707769929",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=AbYC53j4sHCKEl2_3xHbNg&e=1707782859&_t=1707766334",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=AbYC53j4sHCKEl2_3xHbNg&e=1707782859&_t=1707766334",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

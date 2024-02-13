@@ -3,27 +3,33 @@
         "name": "Animes House (PT-BR)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.util.NoSuchElementException: List is empty.",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/",
+                        "name": "Filme",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "javax.net.ssl.SSLException: Received fatal alert: internal_error",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
