@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/lastman",
+                                "title": "Lastman (2016)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/8ZGT8RdjNOczejJMfqFw97BdPOR.jpg"
+                            },
+                            {
                                 "url": "/serie/siempre-el-mismo-dia",
                                 "title": "Siempre el mismo día (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/9QXmXBXlMoe8GgFij9vZpgJPWg1.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/kubra",
                                 "title": "Kübra (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/amlpVWYgv1KXiFfZKvY2t0fqvMf.jpg"
-                            },
-                            {
-                                "url": "/serie/the-box",
-                                "title": "The Box (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xPyHyyqGVCYzOiSHqAu71R5tVrq.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/siempre-el-mismo-dia",
-                    "title": "Siempre el mismo día (2024)",
-                    "description": "Emma y Dexter pasan juntos la noche de graduación y toman caminos distintos al día siguiente… pero sus vidas seguirán entrelazadas. Basada en la novela de David Nicholls..",
-                    "genre": "Drama",
+                    "url": "/serie/lastman",
+                    "title": "Lastman (2016)",
+                    "description": "Paxtown, una capital corrupta, desgarrada por el crimen y presa de la mafia. En esta podrida megalópolis, Richard Aldana, callejero, sin ataduras ni ambiciones, es boxeador en sus ratos libres. Pero todo esto fue antes de que todo se pusiera patas arriba. De la noche a la mañana, Aldana se encuentra con Siri, una chica perseguida por \"La Orden del León\", un grupo religioso que cree que la chica es la clave para \"el otro mundo\"..",
+                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/9QXmXBXlMoe8GgFij9vZpgJPWg1.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ZGT8RdjNOczejJMfqFw97BdPOR.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/siempre-el-mismo-dia/temporada/1/capitulo/14",
-                        "name": "T1 - E14: Episodio 14",
-                        "episode_number": 14.0
+                        "url": "/serie/lastman/temporada/1/capitulo/26",
+                        "name": "T1 - E26: Episodio 26",
+                        "episode_number": 26.0
                     },
                     {
-                        "url": "/serie/siempre-el-mismo-dia/temporada/1/capitulo/13",
-                        "name": "T1 - E13: Episodio 13",
-                        "episode_number": 13.0
+                        "url": "/serie/lastman/temporada/1/capitulo/25",
+                        "name": "T1 - E25: Episodio 25",
+                        "episode_number": 25.0
                     }
                 ],
                 "passed": true
@@ -761,17 +761,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-7pgolgo0pqd9eohb.voe-network.net/engine/hls2-c/01/10478/3icbqylexuvf_,n,.urlset/index-v1-a1.m3u8?t=2KsxFzJ52THOtjEYRxYcweVGJUFwrm019_x1ENPejC4&s=1707826300&e=14400&f=52391949&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=138.91&sp=2500&asn=8075",
+                        "url": "https://delivery-node-v1b8qtcgvsxmhtgr.voe-network.net/engine/hls2/01/10478/3icbqylexuvf_,n,.urlset/index-v1-a1.m3u8?t=EHml5MGCqLK8nAmBPabHOegfATtHFRF5rduTgAD6GqM&s=1707847783&e=14400&f=52391949&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "quality": "[CAST]Voe: 720p",
-                        "videoUrl": "https://delivery-node-7pgolgo0pqd9eohb.voe-network.net/engine/hls2-c/01/10478/3icbqylexuvf_,n,.urlset/index-v1-a1.m3u8?t=2KsxFzJ52THOtjEYRxYcweVGJUFwrm019_x1ENPejC4&s=1707826300&e=14400&f=52391949&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=138.91&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-v1b8qtcgvsxmhtgr.voe-network.net/engine/hls2/01/10478/3icbqylexuvf_,n,.urlset/index-v1-a1.m3u8?t=EHml5MGCqLK8nAmBPabHOegfATtHFRF5rduTgAD6GqM&s=1707847783&e=14400&f=52391949&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=20.102&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://o8mvndslgc.sw-cdnstream.com/hls2/01/03027/q4te18to1fdc_n/index-v1-a1.m3u8?t=c1bADsGg_rikLU9F5ucquYiScc2zAzeMxuPVDqO6XB0&s=1707826296&e=129600&f=15136636&srv=u97cwi59jmna&i=0.4&sp=500&p1=u97cwi59jmna&p2=u97cwi59jmna&asn=8075",
+                        "url": "https://ppgsamilsxto.sw-cdnstream.com/hls2/01/03027/q4te18to1fdc_n/index-v1-a1.m3u8?t=-KSNttt4JLtDGRtNiabswTlrq5atcwaPgm0fQ8jsooM&s=1707847780&e=129600&f=15136636&srv=u97cwi59jmna&i=0.4&sp=500&p1=u97cwi59jmna&p2=u97cwi59jmna&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://o8mvndslgc.sw-cdnstream.com/hls2/01/03027/q4te18to1fdc_n/index-v1-a1.m3u8?t=c1bADsGg_rikLU9F5ucquYiScc2zAzeMxuPVDqO6XB0&s=1707826296&e=129600&f=15136636&srv=u97cwi59jmna&i=0.4&sp=500&p1=u97cwi59jmna&p2=u97cwi59jmna&asn=8075",
+                        "videoUrl": "https://ppgsamilsxto.sw-cdnstream.com/hls2/01/03027/q4te18to1fdc_n/index-v1-a1.m3u8?t=-KSNttt4JLtDGRtNiabswTlrq5atcwaPgm0fQ8jsooM&s=1707847780&e=129600&f=15136636&srv=u97cwi59jmna&i=0.4&sp=500&p1=u97cwi59jmna&p2=u97cwi59jmna&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
                             "Accept": "*/*",
@@ -780,9 +780,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=6RLDweZba4s93kK&expires=1707896298&ip=F0AWKRcSKxSHDN&token=rbm8Kp7T36iJ",
+                        "url": "https://streamtape.com/get_video?id=6RLDweZba4s93kK&expires=1707917782&ip=FROsD0ATKxSHDN&token=2utMowBFs4RN",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=6RLDweZba4s93kK&expires=1707896298&ip=F0AWKRcSKxSHDN&token=rbm8Kp7T36iJ"
+                        "videoUrl": "https://streamtape.com/get_video?id=6RLDweZba4s93kK&expires=1707917782&ip=FROsD0ATKxSHDN&token=2utMowBFs4RN"
                     }
                 ],
                 "passed": true
