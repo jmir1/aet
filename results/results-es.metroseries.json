@@ -67,10 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/a5aJyals0dAgh1hogPhczimsXBB.jpg"
                             },
                             {
-                                "url": "/el-tiempo-entre-costuras/",
-                                "title": "El tiempo entre costuras",
+                                "url": "/the-red-line/",
+                                "title": "The Red Line",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/w2WPBiOSHsChAOBn6vDIosSS3Jq.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/r6EYUEOBHu2haKq5q6KE1bsXgIU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/cheyenne-y-lola/",
-                                "title": "Cheyenne y Lola",
+                                "url": "/miskina-la-pauvre/",
+                                "title": "Miskina, la pauvre",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7umerDaquAvDjhgUAJgG4yCZs7v.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hP1fwapMAypp5oGdQ2Go2LO4rpf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -166,12 +166,70 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/arcadia-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - El amigo",
+                        "date_upload": 1680998400000,
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/arcadia-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - La grabación",
+                        "date_upload": 1680393600000,
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s32.fastream.to/hls2/04/00063/angkrwoh9un6_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=WdnYrQxptnRGc9MEsevdLj0fqU0lK1mW31xAAnEIrd0&s=1707826292&e=43200&f=316349&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

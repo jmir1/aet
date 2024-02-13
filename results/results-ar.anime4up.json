@@ -381,17 +381,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://m40.uqload.to/3rfklm55s5w2q4drdjf7vinbbgqjxwpwysue7zhdzmhp4yuwbjx6zqibntma/v.mp4",
-                        "quality": "Uqload",
-                        "videoUrl": "https://m40.uqload.to/3rfklm55s5w2q4drdjf7vinbbgqjxwpwysue7zhdzmhp4yuwbjx6zqibntma/v.mp4",
-                        "headers": {
-                            "Referer": "https://uqload.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
