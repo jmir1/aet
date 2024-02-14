@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/ninja-kamui",
+                                "title": "Ninja Kamui",
+                                "status": 1,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4137.webp"
+                            },
+                            {
                                 "url": "/bishoujo-senshi-sailor-moon-cosmos-movie",
                                 "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
                                 "status": 2,
@@ -119,12 +125,6 @@
                                 "title": "Sengoku Youko",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4117.webp"
-                            },
-                            {
-                                "url": "/gekai-elise",
-                                "title": "Gekai Elise",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4116.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/bishoujo-senshi-sailor-moon-cosmos-movie",
-                    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
-                    "description": "Las películas cubrirán el arco de Shadow Galactica.",
-                    "genre": "Escolares, Shoujo, Drama, Fantasía, Magia",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4136.webp",
+                    "url": "/ninja-kamui",
+                    "title": "Ninja Kamui",
+                    "description": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente \"muerte\", Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó.",
+                    "genre": "Acción, Ciencia Ficción",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4137.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,9 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/ver/bishoujo-senshi-sailor-moon-cosmos-movie-2",
-                        "name": "Episodio 2",
-                        "episode_number": 0.0
-                    },
-                    {
-                        "url": "/ver/bishoujo-senshi-sailor-moon-cosmos-movie-1",
+                        "url": "/ver/ninja-kamui-1",
                         "name": "Episodio 1",
-                        "episode_number": 1.0
+                        "episode_number": 0.0
                     }
                 ],
                 "passed": true
@@ -293,17 +288,26 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/10450/cinoy92yjhtw_,n,.urlset/index-v1-a1.m3u8?t=B5_bh6DcxdLkSsnXpqwel9wOPs3HT5FITnl71CZH8PM&s=1707847777&e=14400&f=52268409&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/10450/cinoy92yjhtw_,n,.urlset/index-v1-a1.m3u8?t=B5_bh6DcxdLkSsnXpqwel9wOPs3HT5FITnl71CZH8PM&s=1707847777&e=14400&f=52268409&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=20.55&sp=2500&asn=8075",
+                        "url": "https://delivery-node-adchqjfm8gxli5pr.voe-network.net/engine/hls2-c/01/10490/6yjwx0sgrjks_,n,.urlset/index-v1-a1.m3u8?t=Kky5qOFXsQny_nU-RDmb3AHtcqu2ke5wICeqaHCY_TA&s=1707870617&e=14400&f=52450741&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=52.238&sp=2500&asn=8075",
+                        "quality": "Voe: 1080p",
+                        "videoUrl": "https://delivery-node-adchqjfm8gxli5pr.voe-network.net/engine/hls2-c/01/10490/6yjwx0sgrjks_,n,.urlset/index-v1-a1.m3u8?t=Kky5qOFXsQny_nU-RDmb3AHtcqu2ke5wICeqaHCY_TA&s=1707870617&e=14400&f=52450741&node=delivery-node-6thw7b00uppejdtq.voe-network.net&i=52.238&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=ewRpdZYxYgiJwe&expires=1707917778&ip=FROsE0MnDS9X&token=_4hCUcCRG1Qv",
+                        "url": "https://a3.mp4upload.com:183/d/xsx3yzh7z3b4quuotwqripiuimuwye6jxx7el6x45kqvt5hzxk7bpvkannbs4rbbzschgsd2/video.mp4",
+                        "quality": "Mp4Upload - 1080p",
+                        "videoUrl": "https://a3.mp4upload.com:183/d/xsx3yzh7z3b4quuotwqripiuimuwye6jxx7el6x45kqvt5hzxk7bpvkannbs4rbbzschgsd2/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=08GK0kmLj0se0v&expires=1707940615&ip=G0WsDROZKxSHDN&token=g2CsyZdRg_w3",
                         "quality": "StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=ewRpdZYxYgiJwe&expires=1707917778&ip=FROsE0MnDS9X&token=_4hCUcCRG1Qv"
+                        "videoUrl": "https://streamtape.com/get_video?id=08GK0kmLj0se0v&expires=1707940615&ip=G0WsDROZKxSHDN&token=g2CsyZdRg_w3"
                     }
                 ],
                 "passed": true

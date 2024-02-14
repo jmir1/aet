@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ninja-kamui-castellano",
+                                "title": "Ninja Kamui Castellano",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/ninja-kamui-castellano-1707869265.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside-s2-latino",
                                 "title": "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside S2 Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside-s2-latino-1707688244.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/definitivamente-no-me-gusta-mi-hermano-para-nada-latino",
                                 "title": "Definitivamente. ¡No me gusta mi hermano para nada! Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/definitivamente-no-me-gusta-mi-hermano-para-nada-latino-1703301391.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/maou-evelogia-ni-mi-wo-sasage-yo-latino",
-                                "title": "Maou Evelogia ni Mi wo Sasage yo Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/maou-evelogia-ni-mi-wo-sasage-yo-latino-1702496362.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -323,16 +323,63 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": {
+                    "url": "/anime/ninja-kamui-castellano",
+                    "title": "Ninja Kamui Castellano",
+                    "description": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente \"muerte\", Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó.",
+                    "genre": "Acción, Ciencia Ficción",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/ninja-kamui-castellano-episodio-1",
+                        "name": "Ninja Kamui Castellano Capitulo 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 521",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=3&sig=WPX5QJmdFSc&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574",
+                        "quality": "ok -  Okru:720p",
+                        "videoUrl": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=3&sig=WPX5QJmdFSc&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574"
+                    },
+                    {
+                        "url": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=2&sig=IN29i-lt7BM&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574",
+                        "quality": "ok -  Okru:480p",
+                        "videoUrl": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=2&sig=IN29i-lt7BM&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574"
+                    },
+                    {
+                        "url": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=1&sig=ZNllt1T0a0E&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574",
+                        "quality": "ok -  Okru:360p",
+                        "videoUrl": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=1&sig=ZNllt1T0a0E&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574"
+                    },
+                    {
+                        "url": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=0&sig=qJ55MH28nxM&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574",
+                        "quality": "ok -  Okru:240p",
+                        "videoUrl": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=0&sig=qJ55MH28nxM&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574"
+                    },
+                    {
+                        "url": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=4&sig=ugTu3PDj4vs&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574",
+                        "quality": "ok -  Okru:144p",
+                        "videoUrl": "https://vd466.mycdn.me/?expires=1707957035227&srcIp=20.55.118.210&pr=10&srcAg=GECKO&ms=185.226.52.80&type=4&sig=ugTu3PDj4vs&ct=0&urls=45.136.22.24&clientType=0&zs=43&id=5824857508574"
+                    },
+                    {
+                        "url": "https://a4.mp4upload.com:183/d/xkxyay77z3b4quuot2qreikeld4lxkpv56dkp3f3pkproepyxjkqazvre5xxwvc76odkrqci/video.mp4",
+                        "quality": "mp4upload -  Mp4Upload - 720p",
+                        "videoUrl": "https://a4.mp4upload.com:183/d/xkxyay77z3b4quuot2qreikeld4lxkpv56dkp3f3pkproepyxjkqazvre5xxwvc76odkrqci/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
