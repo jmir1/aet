@@ -1028,7 +1028,7 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
