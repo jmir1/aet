@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/new-look",
+                                "title": "New Look (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/xP8b1VIqOylZZlHuNMX0UZ0xrJJ.jpg"
+                            },
+                            {
                                 "url": "/serie/lastman",
                                 "title": "Lastman (2016)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/8ZGT8RdjNOczejJMfqFw97BdPOR.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/zorro",
                                 "title": "Zorro (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/j6eiH5ESpqerF7SWq5MuOJG3tS4.jpg"
-                            },
-                            {
-                                "url": "/serie/kubra",
-                                "title": "Kübra (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/amlpVWYgv1KXiFfZKvY2t0fqvMf.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/lastman",
-                    "title": "Lastman (2016)",
-                    "description": "Paxtown, una capital corrupta, desgarrada por el crimen y presa de la mafia. En esta podrida megalópolis, Richard Aldana, callejero, sin ataduras ni ambiciones, es boxeador en sus ratos libres. Pero todo esto fue antes de que todo se pusiera patas arriba. De la noche a la mañana, Aldana se encuentra con Siri, una chica perseguida por \"La Orden del León\", un grupo religioso que cree que la chica es la clave para \"el otro mundo\"..",
-                    "genre": "Animación, Sci-Fi & Fantasy, Action & Adventure",
+                    "url": "/serie/new-look",
+                    "title": "New Look (2024)",
+                    "description": "Esta emocionante serie revela la impactante historia de cómo el icono de la moda Christian Dior y sus contemporáneos, como Coco Chanel, Pierre Balmain y Cristóbal Balenciaga, se enfrentaron a los horrores de la Segunda Guerra Mundial y crearon la moda moderna..",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8ZGT8RdjNOczejJMfqFw97BdPOR.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/xP8b1VIqOylZZlHuNMX0UZ0xrJJ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/lastman/temporada/1/capitulo/26",
-                        "name": "T1 - E26: Episodio 26",
-                        "episode_number": 26.0
+                        "url": "/serie/new-look/temporada/1/capitulo/3",
+                        "name": "T1 - E3: Episodio 3",
+                        "episode_number": 3.0
                     },
                     {
-                        "url": "/serie/lastman/temporada/1/capitulo/25",
-                        "name": "T1 - E25: Episodio 25",
-                        "episode_number": 25.0
+                        "url": "/serie/new-look/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
@@ -430,7 +430,7 @@
                 "passed": true
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
                 "passed": false
             },
             "details": {

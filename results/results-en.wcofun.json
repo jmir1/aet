@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/snail-trail",
+                                "title": "Snail Trail",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933514.jpg"
+                            },
+                            {
                                 "url": "/anime/campfire-cooking-in-another-world-with-my-absurd-skill",
                                 "title": "Campfire Cooking in Another World with My Absurd Skill",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933513.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/whats-the-big-idea",
                                 "title": "What's the Big Idea?",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933499.jpg"
-                            },
-                            {
-                                "url": "/anime/waynehead",
-                                "title": "Waynehead",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933498.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/campfire-cooking-in-another-world-with-my-absurd-skill",
-                    "title": "Campfire Cooking in Another World with My Absurd Skill",
-                    "description": "Salaryman Tsuyoshi Mukouda is accidentally summoned as a hero to the Kingdom of Reijseger in another world to help defend against their enemies. Wary of the royal family’s true intentions, Mukouda is able to talk his way out of the situation due to his non-combat skill, “Online Supermarket,” which is deemed useless.",
-                    "genre": "Adventure, Comedy, Fantasy, Gourmet, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933513.jpg",
+                    "url": "/anime/snail-trail",
+                    "title": "Snail Trail",
+                    "description": "Mr. Snail is a friendly explorer who ventures outdoors to investigate in the wild. On his journeys, Mr. Snail meets different animals and makes important discoveries about their lifestyle and habits by asking some very funny questions.",
+                    "genre": "Animation, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933514.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/campfire-cooking-in-another-world-with-my-absurd-skill-episode-12-english-dubbed",
-                        "name": "Season 1 - Episode 12",
-                        "episode_number": 112.0
-                    },
-                    {
-                        "url": "/campfire-cooking-in-another-world-with-my-absurd-skill-episode-11-english-dubbed",
-                        "name": "Season 1 - Episode 11",
-                        "episode_number": 111.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvO7DtTKitgXflNbHQp5f4enFYqFJIN2KqDuGJ-A_8_ibGGZ9MMAn5Veeiq9sd00yh5XffIOslrGkFCe4bzSwiSbu7OqhnIhjWnH2R21U_GA74_6IU7FmNQQ2o42W_pMvjf3xEZPI9MAE2QuWmtG5P9g1qGRpBV1T1W8l_Y8o802lZpLKYuNBpGGPa7JImDzaQprghApma33GTSpz-5GE1jp1Cyuhl5_qkq1U0G0eDuJ8bfYJ9VcMmA9bock8m3kFkDC8x70g0JlEnago4MaLm4AZDOtg-7gPgAIbtTGYgFZi5RtbpxURTW2_IWPSUEKY0dmrj4yNVRGnDa587bbhQNbIEX_ndiJkQJrx5EUhOemSzR926ccnwQ8Yk1w94rLyeXp0plOi6rFhRcvI0Vmg6imv-v7eQB2Qtj7QOUpZ8DSgxpWNIKNt0ibgMT9hOhE7X3_WtqBPXOco7Rxw2vzzqs",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvO7DtTKitgXflNbHQp5f4enFYqFJIN2KqDuGJ-A_8_ibGGZ9MMAn5Veeiq9sd00yh5XffIOslrGkFCe4bzSwiSbu7OqhnIhjWnH2R21U_GA74_6IU7FmNQQ2o42W_pMvjf3xEZPI9MAE2QuWmtG5P9g1qGRpBV1T1W8l_Y8o802lZpLKYuNBpGGPa7JImDzaQprghApma33GTSpz-5GE1jp1Cyuhl5_qkq1U0G0eDuJ8bfYJ9VcMmA9bock8m3kFkDC8x70g0JlEnago4MaLm4AZDOtg-7gPgAIbtTGYgFZi5RtbpxURTW2_IWPSUEKY0dmrj4yNVRGnDa587bbhQNbIEX_ndiJkQJrx5EUhOemSzR926ccnwQ8Yk1w94rLyeXp0plOi6rFhRcvI0Vmg6imv-v7eQB2Qtj7QOUpZ8DSgxpWNIKNt0ibgMT9hOhE7X3_WtqBPXOco7Rxw2vzzqs"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvO7DtTKitgXflNbHQp5f4enFYqFJIN2KqDuGJ-A_8_ibGGZ9MMAn5Veeiq9sd00yh5XffIOslrGkFCe4bzSwiSbu7OqhnIhjWnH2R21U_GA74_6IU7FmNQQ2o42W_pMvjf3xEZPI9MAE2QuWmtG5P9g1qGRpBV1T1W8l_Y8o802lZpLKYuNBpGGPa7JImDzaQprghApma33GTSpz-5GE1jp1Cyuhl5_qkq1U0G0eDuJwGF2adQMlJha5ZWV8hHqa_BIlGZ9LbEK1O5b_267j0xh467UuYj0F6-Hr5CAxKXmF7f-LjYFm6zuVxKn60oE_XwAeU7HdzZ8nwA7YNvp0YF7Pd4KY0HFm_keRrU2uuDgQ8RXt8vQi6Mhh47F57gSQiMq5Gc3CXsxi6T47y0wTpyAwziNJmeEhrv0SqWq7y3pPHSjrZ4csU6z_HHKy5FZ-utrxOlVXUqqoZubFwMrsWs",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvO7DtTKitgXflNbHQp5f4enFYqFJIN2KqDuGJ-A_8_ibGGZ9MMAn5Veeiq9sd00yh5XffIOslrGkFCe4bzSwiSbu7OqhnIhjWnH2R21U_GA74_6IU7FmNQQ2o42W_pMvjf3xEZPI9MAE2QuWmtG5P9g1qGRpBV1T1W8l_Y8o802lZpLKYuNBpGGPa7JImDzaQprghApma33GTSpz-5GE1jp1Cyuhl5_qkq1U0G0eDuJwGF2adQMlJha5ZWV8hHqa_BIlGZ9LbEK1O5b_267j0xh467UuYj0F6-Hr5CAxKXmF7f-LjYFm6zuVxKn60oE_XwAeU7HdzZ8nwA7YNvp0YF7Pd4KY0HFm_keRrU2uuDgQ8RXt8vQi6Mhh47F57gSQiMq5Gc3CXsxi6T47y0wTpyAwziNJmeEhrv0SqWq7y3pPHSjrZ4csU6z_HHKy5FZ-utrxOlVXUqqoZubFwMrsWs"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvO7DtTKitgXflNbHQp5f4enFYqFJIN2KqDuGJ-A_8_ibGGZ9MMAn5Veeiq9sd00yh5XffIOslrGkFCe4bzSwiSbu7OqhnIhjWnH2R21U_GA74_6IU7FmNQQ2o42W_pMvjf3xEZPI9MAE2QuWmtG5P9g1qGRpBV1T1W8l_Y8o802lZpLKYuNBpGGPa7JImDzaQprghApma33GTSpz-5GE1jp1Cyuhl5_qkq1U0G0eDuJ6G35lHbbUO0FRItB0NLmbUJ5vElt5pPyDN-nbKw_ba8lIFX9m-YYPNKxhgZ0gtoR_ltzogu4XdWN9ztOKxa6bIp_H-SZfGPZ78aoVl_gpPVpbzvGIeDOlo8uFz5iG7XFT1OodyHM_OEsYM3s0bQ6kRE-HP_N7G2MUWfxtoW3CScw_rFRtfXLUDNrdfToicRJm9V3U1VrSACAIlN6Pbd7WpKYeYovXCkg3v339hGU2_o",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJvO7DtTKitgXflNbHQp5f4enFYqFJIN2KqDuGJ-A_8_ibGGZ9MMAn5Veeiq9sd00yh5XffIOslrGkFCe4bzSwiSbu7OqhnIhjWnH2R21U_GA74_6IU7FmNQQ2o42W_pMvjf3xEZPI9MAE2QuWmtG5P9g1qGRpBV1T1W8l_Y8o802lZpLKYuNBpGGPa7JImDzaQprghApma33GTSpz-5GE1jp1Cyuhl5_qkq1U0G0eDuJ6G35lHbbUO0FRItB0NLmbUJ5vElt5pPyDN-nbKw_ba8lIFX9m-YYPNKxhgZ0gtoR_ltzogu4XdWN9ztOKxa6bIp_H-SZfGPZ78aoVl_gpPVpbzvGIeDOlo8uFz5iG7XFT1OodyHM_OEsYM3s0bQ6kRE-HP_N7G2MUWfxtoW3CScw_rFRtfXLUDNrdfToicRJm9V3U1VrSACAIlN6Pbd7WpKYeYovXCkg3v339hGU2_o"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
