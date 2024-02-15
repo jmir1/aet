@@ -3,23 +3,23 @@
         "name": "Animeler (TR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 8: Expected start of the array '[', but had '\"' instead at path: $.data\nJSON input: {\"data\":\"    <div class=\\\"w-full bg-gr.....",
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 8: Expected start of the array '[', but had '\"' instead at path: $.data\nJSON input: {\"data\":\"    <div class=\\\"w-full bg-gr.....",
                 "passed": false
             },
             "search": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 8: Expected start of the array '[', but had '\"' instead at path: $.data\nJSON input: {\"data\":\"    <div class=\\\"w-full bg-gr.....",
                 "passed": false
             },
             "details": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\r\n<html lang=\"t.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"tr.....",
                 "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\r\n<html lang=\"t.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<html lang=\"tr.....",
                 "passed": false
             },
             "videos": {
