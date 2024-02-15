@@ -3,33 +3,27 @@
         "name": "UniqueStream (EN)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/",
-                        "name": "Movie",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
