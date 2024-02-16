@@ -267,6 +267,46 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Ninja-Kamui-Dub/",
+                                "title": "Ninja Kamui (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/02/Ninja-Kamui-Dub-poster.jpg"
+                            },
+                            {
+                                "url": "/Anime/urusei-yatsura-2022-2nd-season.68294/",
+                                "title": "Urusei Yatsura: All Stars Season 2",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Urusei-Yatsura-All-Stars-Season-2.jpg"
+                            },
+                            {
+                                "url": "/Anime/Delicious-in-Dungeon-Dub/",
+                                "title": "Delicious in Dungeon (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Dungeon-Meshi-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Witch-and-the-Beast/",
+                                "title": "The Witch and the Beast",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Witch-and-the-Beast.jpg"
+                            },
+                            {
+                                "url": "/Anime/chiikawa.67655/",
+                                "title": "Chiikawa",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/08/Chiikawa.jpg"
+                            },
+                            {
+                                "url": "/Anime/Yuuki-Bakuhatsu-Bang-Bravern/",
+                                "title": "Bang Brave Bang Bravern",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bang-Brave-Bang-Bravern.jpg"
+                            },
+                            {
+                                "url": "/Anime/My-Instant-Death-Ability-Is-So-Overpowered-No-One-in-This-Other-World-Stands-a-Chance-Against-Me/",
+                                "title": "My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/My-Instant-Death-Ability-Is-So-Overpowered-No-One-in-This-Other-World-Stands-a-Chance-Against-Me.jpg"
+                            },
+                            {
+                                "url": "/Anime/Delusional-Monthly-Magazine/",
+                                "title": "Delusional Monthly Magazine",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Delusional-Monthly-Magazine.jpg"
+                            },
+                            {
                                 "url": "/Anime/Undead-Unluck-Dub/",
                                 "title": "Undead Unluck (Dub)",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Undead-Unluck-Dub.jpg"
@@ -475,46 +515,6 @@
                                 "url": "/Anime/Xian-Wang-De-Richang-Shenghuo-4/",
                                 "title": "The Daily Life of the Immortal King Season 4",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/The-Daily-Life-of-the-Immortal-King-Season-4.jpg"
-                            },
-                            {
-                                "url": "/Anime/One-Piece.54191/",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2022/10/nx21-tXMN3Y20PIL9.jpg"
-                            },
-                            {
-                                "url": "/Anime/Wonderful-Precure/",
-                                "title": "Wonderful Precure!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/02/Wonderful-Precure.jpg"
-                            },
-                            {
-                                "url": "/Anime/A-Sign-of-Affection-Dub/",
-                                "title": "A Sign of Affection (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/A-Sign-of-Affection-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries-Dub/",
-                                "title": "The Apothecary Diaries (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Apothecary-Diaries-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/BUCCHIGIRI-Dub/",
-                                "title": "BUCCHIGIRI?! (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/BUCCHIGIRI-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/ragna-crimson-dub.97077/",
-                                "title": "Ragna Crimson (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Ragna-Crimson-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/Sasaki-and-Peeps-Dub/",
-                                "title": "Sasaki and Peeps (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sasaki-and-Peeps-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Demon-Prince-of-Momochi-House-Dub/",
-                                "title": "The Demon Prince of Momochi House (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Demon-Prince-of-Momochi-House-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }
