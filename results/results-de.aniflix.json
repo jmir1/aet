@@ -3,27 +3,27 @@
         "name": "Aniflix (DE)",
         "results": {
             "popular": {
-                "error": "java.net.UnknownHostException: aniflix.cc: No address associated with hostname",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
-                "error": "java.net.UnknownHostException: aniflix.cc",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "search": {
-                "error": "java.net.UnknownHostException: aniflix.cc",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "details": {
-                "error": "java.net.UnknownHostException: aniflix.cc",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "episodes": {
-                "error": "java.net.UnknownHostException: aniflix.cc",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.UnknownHostException: aniflix.cc",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             }
         }
