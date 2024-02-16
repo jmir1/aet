@@ -7,6 +7,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/johnny-z/",
+                                "title": "Johnny Z",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/jaMFIE3zdDqIgk54tkpRi.webp"
+                            },
+                            {
+                                "url": "/pelicula/ritos-ocultos/",
+                                "title": "Ritos ocultos",
+                                "description": "Rebecca Holland (Tuppence Middleton) se ha hecho cargo recientemente de la iglesia parroquial. Cuand...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5lNBTkmJ3KIRFaOS.webp"
+                            },
+                            {
+                                "url": "/pelicula/retribution-zxsd/",
+                                "title": "Retribution",
+                                "description": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba den...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ahggG9qBFAujwSE5hlPV2.webp"
+                            },
+                            {
+                                "url": "/pelicula/trafficking/",
+                                "title": "Trafficking",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/GXggz9KPeLiGBCt1AglE2.webp"
+                            },
+                            {
+                                "url": "/pelicula/bob-marley-one-love/",
+                                "title": "Bob Marley: One Love",
+                                "description": "Biopic sobre la leyenda del reggae.",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/FEfu3zR6fKCYkNCcm17Sc1aSimhbdq7IVd3PCKMIlex.webp"
+                            },
+                            {
+                                "url": "/pelicula/madame-web/",
+                                "title": "Madame Web",
+                                "description": "Una historia de origen de la clarividente conocida como Madame Web, cuyas habilidades psíquicas le ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/hbdxoKeMVKp6eVrnpZYxwJdL27I7XpN4rQsF.webp"
+                            },
+                            {
                                 "url": "/pelicula/cinco-citas-a-ciegas/",
                                 "title": "Cinco citas a ciegas",
                                 "description": "",
@@ -209,42 +245,6 @@
                                 "title": "Space Oddity",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/0oy2a14PF8uVhsvm9vv074ntEr.webp"
-                            },
-                            {
-                                "url": "/pelicula/dioses-de-la-profundidad/",
-                                "title": "Dioses de la profundidad",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/sXrt74ZvE6zEGCjHjR3rtQJqHgYQnB.webp"
-                            },
-                            {
-                                "url": "/pelicula/the-wedding-rule/",
-                                "title": "The Wedding Rule",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/PmPm2xNrzAAu591KQrlOUzVPK5Yxr386g.webp"
-                            },
-                            {
-                                "url": "/pelicula/loves-playlist/",
-                                "title": "Love's Playlist",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/FgjbHqlDBDYyIAe0I.webp"
-                            },
-                            {
-                                "url": "/pelicula/cider-and-sunsets/",
-                                "title": "Cider and Sunsets",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Bit9aMJoanNMEqvo2xMkEDI7j.webp"
-                            },
-                            {
-                                "url": "/pelicula/from-italy-with-amore/",
-                                "title": "From Italy with Amore",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZJtQTfmxB0Q2oYmVt6ae0pJegYyNbDE1dXIW3VkuL.webp"
-                            },
-                            {
-                                "url": "/pelicula/ik-wist-het/",
-                                "title": "Ik wist het",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Qw3VKxeASvH85oSVtLjPVDEhtMmUXKMD6FpH3t7MPF.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/cinco-citas-a-ciegas/",
-                    "title": "Cinco citas a ciegas",
+                    "url": "/pelicula/johnny-z/",
+                    "title": "Johnny Z",
                     "description": "",
-                    "genre": "Comedia, Romance",
+                    "genre": "Acción, C. Ficción, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/cinco-citas-a-ciegas/",
+                        "url": "/pelicula/johnny-z/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar IsfOBaSRer = \"\"; ERXbdIU.forEach(function Oym(value) { IsfOBaSRer += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

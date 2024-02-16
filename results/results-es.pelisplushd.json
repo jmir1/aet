@@ -434,17 +434,8 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/good-boy",
-                    "title": "Good Boy (2022)",
-                    "artist": "Gard Fartein Løkke Goli",
-                    "description": "Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.",
-                    "genre": "Suspense, Terror",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -469,6 +460,66 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/pelicula/a-soweto-love-story/",
+                                "title": "A Soweto Love Story",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-soweto-love-story.jpg"
+                            },
+                            {
+                                "url": "/pelicula/die-liebeskummerer/",
+                                "title": "Die Liebeskümmerer",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/die-liebeskummerer.jpg"
+                            },
+                            {
+                                "url": "/pelicula/los-juegos-del-amor/",
+                                "title": "Los juegos del amor",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-juegos-del-amor.jpg"
+                            },
+                            {
+                                "url": "/pelicula/which-brings-me-to-you/",
+                                "title": "Which Brings Me to You",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/which-brings-me-to-you.jpg"
+                            },
+                            {
+                                "url": "/pelicula/matame-si-te-atreves-carino/",
+                                "title": "Mátame si te atreves cariño",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/matame-si-te-atreves-carino.jpg"
+                            },
+                            {
+                                "url": "/pelicula/lover-stalker-killer/",
+                                "title": "Lover, Stalker, Killer",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/lover-stalker-killer.jpg"
+                            },
+                            {
+                                "url": "/pelicula/viviendo-mi-pelicula/",
+                                "title": "Viviendo mi película",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/viviendo-mi-pelicula.jpg"
+                            },
+                            {
+                                "url": "/pelicula/kul/",
+                                "title": "Kül",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/kul.jpg"
+                            },
+                            {
+                                "url": "/pelicula/tantura/",
+                                "title": "Tantura",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tantura.jpg"
+                            },
+                            {
+                                "url": "/pelicula/dernier-soleil/",
+                                "title": "Dernier soleil",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dernier-soleil.jpg"
+                            },
+                            {
+                                "url": "/pelicula/menjelang-magrib/",
+                                "title": "Menjelang Magrib",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/menjelang-magrib.jpg"
+                            },
+                            {
+                                "url": "/pelicula/todos-somos-extranos/",
+                                "title": "Todos somos extraños",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/todos-somos-extranos.jpg"
+                            },
                             {
                                 "url": "/pelicula/brothers-james-retribution/",
                                 "title": "Brothers James: Retribution",
@@ -508,66 +559,6 @@
                                 "url": "/pelicula/baghead-contacto-con-la-muerte/",
                                 "title": "Baghead: Contacto Con La Muerte",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/baghead-contacto-con-la-muerte.jpg"
-                            },
-                            {
-                                "url": "/pelicula/calamity-jane/",
-                                "title": "Calamity Jane",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/calamity-jane.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bird-of-paradise/",
-                                "title": "Bird of Paradise",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bird-of-paradise.jpg"
-                            },
-                            {
-                                "url": "/pelicula/juego-prohibido/",
-                                "title": "Juego Prohibido",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/juego-prohibido.jpg"
-                            },
-                            {
-                                "url": "/pelicula/calber-island/",
-                                "title": "Calber Island",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/calber-island.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tales-of-babylon/",
-                                "title": "Tales of Babylon",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tales-of-babylon.jpg"
-                            },
-                            {
-                                "url": "/pelicula/gacy-serial-killer-next-door/",
-                                "title": "Gacy: Serial Killer Next Door",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/gacy-serial-killer-next-door.jpg"
-                            },
-                            {
-                                "url": "/pelicula/bhakshak/",
-                                "title": "Bhakshak",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bhakshak.jpg"
-                            },
-                            {
-                                "url": "/pelicula/the-ghosts-of-monday/",
-                                "title": "The Ghosts of Monday",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-ghosts-of-monday.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-reino-animal/",
-                                "title": "El reino animal",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-reino-animal.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-otra-forma/",
-                                "title": "La Otra Forma",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-otra-forma.jpg"
-                            },
-                            {
-                                "url": "/pelicula/suncoast/",
-                                "title": "Suncoast",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/suncoast.jpg"
-                            },
-                            {
-                                "url": "/pelicula/ascenso/",
-                                "title": "Ascenso",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ascenso.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -737,11 +728,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/brothers-james-retribution/",
-                    "title": "Brothers James: Retribution",
+                    "url": "/pelicula/a-soweto-love-story/",
+                    "title": "A Soweto Love Story",
                     "artist": "",
                     "description": "",
-                    "genre": "",
+                    "genre": "Comedia, Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -751,7 +742,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/brothers-james-retribution/",
+                        "url": "/pelicula/a-soweto-love-story/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -759,8 +750,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://udrlvroyoqvy.sw-cdnstream.com/hls2/01/03057/wrkjwmk5seii_,n,h,.urlset/index-f2-v1-a1.m3u8?t=kSwdBFT0yrSW8QEwH4pAhv1J77xPVv2uGWDd0kCXu-s&s=1708043463&e=129600&f=15289703&srv=gyosvD7O4YRZfsqY&i=0.4&sp=500&p1=gyosvD7O4YRZfsqY&p2=gyosvD7O4YRZfsqY&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://udrlvroyoqvy.sw-cdnstream.com/hls2/01/03057/wrkjwmk5seii_,n,h,.urlset/index-f2-v1-a1.m3u8?t=kSwdBFT0yrSW8QEwH4pAhv1J77xPVv2uGWDd0kCXu-s&s=1708043463&e=129600&f=15289703&srv=gyosvD7O4YRZfsqY&i=0.4&sp=500&p1=gyosvD7O4YRZfsqY&p2=gyosvD7O4YRZfsqY&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/wrkjwmk5seii"
+                        }
+                    },
+                    {
+                        "url": "https://udrlvroyoqvy.sw-cdnstream.com/hls2/01/03057/wrkjwmk5seii_,n,h,.urlset/index-f1-v1-a1.m3u8?t=kSwdBFT0yrSW8QEwH4pAhv1J77xPVv2uGWDd0kCXu-s&s=1708043463&e=129600&f=15289703&srv=gyosvD7O4YRZfsqY&i=0.4&sp=500&p1=gyosvD7O4YRZfsqY&p2=gyosvD7O4YRZfsqY&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://udrlvroyoqvy.sw-cdnstream.com/hls2/01/03057/wrkjwmk5seii_,n,h,.urlset/index-f1-v1-a1.m3u8?t=kSwdBFT0yrSW8QEwH4pAhv1J77xPVv2uGWDd0kCXu-s&s=1708043463&e=129600&f=15289703&srv=gyosvD7O4YRZfsqY&i=0.4&sp=500&p1=gyosvD7O4YRZfsqY&p2=gyosvD7O4YRZfsqY&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/wrkjwmk5seii"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=AllR6Zqge4TGAa&expires=1708113465&ip=FROsE0WnDS9X&token=NScyNaGJdL3_",
+                        "quality": "[LAT] StreamTape",
+                        "videoUrl": "https://streamtape.com/get_video?id=AllR6Zqge4TGAa&expires=1708113465&ip=FROsE0WnDS9X&token=NScyNaGJdL3_"
+                    }
+                ],
+                "passed": true
             }
         }
     }

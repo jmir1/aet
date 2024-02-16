@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/snail-trail-episode-12-country-mouse-visits-city-mouse-salmon",
+                        "name": "Season 1 - Episode 12",
+                        "episode_number": 112.0
+                    },
+                    {
+                        "url": "/snail-trail-episode-11-rabbits-snails-rattlesnakes-and-songbirds",
+                        "name": "Season 1 - Episode 11",
+                        "episode_number": 111.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv90ynrwyMFoHHsNQsARurSaWHIKOkbZprVoI2IJtT5neAeHEwQd4y2owddHUJMJKIVE0fD1N1J4k02U36Qja1LU5uBWjaKYvR1wyjzJAwi9VH3NjTDtdUxnSavCW7-r5cLS53ymnjlvp4_qkiNL121GEKopYuS6Z_XzgQHpb1JK6_J75R0tNitW_LwB6sqzLYBeUOUClRlZPkNkIneU3AItj394TfyyGUn99vcpe7_BRRDh1umsL8_jf0ut8g6veaYXPVMBWWJbkQNh-YknAMf_oA58pW0MvpXp7bCTJ8lE",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv90ynrwyMFoHHsNQsARurSaWHIKOkbZprVoI2IJtT5neAeHEwQd4y2owddHUJMJKIVE0fD1N1J4k02U36Qja1LU5uBWjaKYvR1wyjzJAwi9VH3NjTDtdUxnSavCW7-r5cLS53ymnjlvp4_qkiNL121GEKopYuS6Z_XzgQHpb1JK6_J75R0tNitW_LwB6sqzLYBeUOUClRlZPkNkIneU3AItj394TfyyGUn99vcpe7_BRRDh1umsL8_jf0ut8g6veaYXPVMBWWJbkQNh-YknAMf_oA58pW0MvpXp7bCTJ8lE"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv90ynrwyMFoHHsNQsARurSaWHIKOkbZprVoI2IJtT5n7wtASiB1yWA4ttMZOyT363LFLGBc8QxRoq53ttnHzh_KdMenr0Bgz3gL_izLapWgwEAQ0mzZzmuWbn_TGE28Tm1g-e02aHKp96kS_Imx7V-QFIGvqUzdXo1YKW3pyRrPaMGuatfXRtgPIhGbapp3LP_fKMEdkTC4ZIrvAJv7N-0Ju6usjBDXQBJjbQ1vGFGQEr-uQYlNUBH9Fc7twEU-qbuf9RcRw7R9I2bBF2x7zkZSG0MK-AF8TgDh-k2Wk_QR",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv90ynrwyMFoHHsNQsARurSaWHIKOkbZprVoI2IJtT5n7wtASiB1yWA4ttMZOyT363LFLGBc8QxRoq53ttnHzh_KdMenr0Bgz3gL_izLapWgwEAQ0mzZzmuWbn_TGE28Tm1g-e02aHKp96kS_Imx7V-QFIGvqUzdXo1YKW3pyRrPaMGuatfXRtgPIhGbapp3LP_fKMEdkTC4ZIrvAJv7N-0Ju6usjBDXQBJjbQ1vGFGQEr-uQYlNUBH9Fc7twEU-qbuf9RcRw7R9I2bBF2x7zkZSG0MK-AF8TgDh-k2Wk_QR"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv90ynrwyMFoHHsNQsARurSaWHIKOkbZprVoI2IJtT5nbIhc9XCghIf9hKZnojj9lTVFoyiC4VQuOzKwVbBEtbiT6S4rVFIh1yjQKsU7udRo9P9R5g-XpQaUmNQOscT0s2mAKK8Ep_LR6vg6uoWhJlagL6f4kG1_AYnB8KnG9-ql16Pte9FBod-7oeT7BDowaVdz4dHU3VTuMBU9ch2xndmtx8K90VubDY1obidcnNahBrc2X8KGDYXjjWzZSo07vi3EHjw54Y5ftcPdMu0v01ycMIrPaOTWpYBSacrCHAfX",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv90ynrwyMFoHHsNQsARurSaWHIKOkbZprVoI2IJtT5nbIhc9XCghIf9hKZnojj9lTVFoyiC4VQuOzKwVbBEtbiT6S4rVFIh1yjQKsU7udRo9P9R5g-XpQaUmNQOscT0s2mAKK8Ep_LR6vg6uoWhJlagL6f4kG1_AYnB8KnG9-ql16Pte9FBod-7oeT7BDowaVdz4dHU3VTuMBU9ch2xndmtx8K90VubDY1obidcnNahBrc2X8KGDYXjjWzZSo07vi3EHjw54Y5ftcPdMu0v01ycMIrPaOTWpYBSacrCHAfX"
+                    }
+                ],
+                "passed": true
             }
         }
     }
