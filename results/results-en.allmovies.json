@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/the-boys/",
+                                "title": "The Boys",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg"
+                            },
+                            {
                                 "url": "/series/ted/",
                                 "title": "ted",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/heartstopper/",
                                 "title": "Heartstopper",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg"
-                            },
-                            {
-                                "url": "/series/top-boy-2/",
-                                "title": "Top Boy",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cfqHWQQDwvKT8Xoe0AXzHBXcF1u.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/ted/",
-                    "title": "ted",
-                    "author": "Seth MacFarlane",
-                    "description": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
-                    "genre": "Comedy",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "/series/the-boys/",
+                    "title": "The Boys",
+                    "author": "Eric Kripke",
+                    "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+                    "genre": "Action & Adventure, Sci-Fi & Fantasy",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/ted-1x7/",
-                        "name": "Season 1x7 : He's Gotta Have It",
-                        "episode_number": 7.0
+                        "url": "/episode/the-boys-4x8/",
+                        "name": "Season 4x8 : Assassination Run",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/ted-1x6/",
-                        "name": "Season 1x6 : Loud Night",
-                        "episode_number": 6.0
+                        "url": "/episode/the-boys-4x7/",
+                        "name": "Season 4x7 : The Insider",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
