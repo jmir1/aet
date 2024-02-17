@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/snoopy-presenta-bienvenido-a-la-pandilla-franklin/",
+                                "title": "Snoopy presenta: Bienvenido a la pandilla, Franklin",
+                                "description": "Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/QHn5hh8mgoBwDPdQ1tDn.webp"
+                            },
+                            {
                                 "url": "/pelicula/dangerous-waters/",
                                 "title": "Dangerous Waters",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "El Sonido de la Juventud",
                                 "description": "Desesperada por escapar de las trampas de su pequeño pueblo agrícola costero, Abby, de 16 años, s...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/wnZoCRGRtTbv565cbU.webp"
-                            },
-                            {
-                                "url": "/pelicula/purgatorio/",
-                                "title": "Purgatorio",
-                                "description": "Inspirándose en las crónicas de Fulla Horak, St. Faustina Kowalska y St. Padre Pio, \"Purgatory\" cu...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/2vmdIo0SWXXKxC1WbywmSV.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/dangerous-waters/",
-                    "title": "Dangerous Waters",
-                    "description": "",
-                    "genre": "Suspense",
+                    "url": "/pelicula/snoopy-presenta-bienvenido-a-la-pandilla-franklin/",
+                    "title": "Snoopy presenta: Bienvenido a la pandilla, Franklin",
+                    "description": "Franklin es nuevo en la ciudad y quiere hacer amigos, pero sus tácticas habituales no funcionan con la pandilla Peanuts. Cuando llega la carrera de carritos, la toma como una oportunidad para impresionar a sus nuevos amigos y forma equipo con el único niño que no tiene pareja: Carlitos.",
+                    "genre": "Animación, Familia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/dangerous-waters/",
+                        "url": "/pelicula/snoopy-presenta-bienvenido-a-la-pandilla-franklin/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar oWVtxqY = \"\"; KbCKmRRumF.forEach(function Oym(value) { oWVtxqY += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DJNIBHgvbz = \"\"; dTVrQRq.forEach(function Oym(value) { DJNIBHgvbz += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
