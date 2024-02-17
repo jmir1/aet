@@ -7,6 +7,10 @@
                     {
                         "animes": [
                             {
+                                "url": "/منزل-النينجا/",
+                                "title": "منزل النينجا House of Ninjas"
+                            },
+                            {
                                 "url": "/هل-أنت-بشري-أيضا؟/",
                                 "title": "هل أنت بشري أيضا Are You Human Too"
                             },
@@ -55,14 +59,6 @@
                                 "title": "حراس السوق Kyoso no Bannin"
                             },
                             {
-                                "url": "/الملك-في-فخّ-الحب/",
-                                "title": "الملك في فخّ الحب Captivating the King"
-                            },
-                            {
-                                "url": "/وريثة-رفات-الأسلاف/",
-                                "title": "وريثة رفات الأسلاف The Bequeathed"
-                            },
-                            {
                                 "url": "/متجر-للقتلة/",
                                 "title": "متجر للقتلة A Shop for Killers"
                             },
@@ -77,6 +73,14 @@
                             {
                                 "url": "/لأنك-منحتني-قلبك/",
                                 "title": "لأنك منحتني قلبك Kimi ga Kokoro wo Kuretakara"
+                            },
+                            {
+                                "url": "/الملك-في-فخّ-الحب/",
+                                "title": "الملك في فخّ الحب Captivating the King"
+                            },
+                            {
+                                "url": "/وريثة-رفات-الأسلاف/",
+                                "title": "وريثة رفات الأسلاف The Bequeathed"
                             },
                             {
                                 "url": "/ملكة-الطلاق/",
@@ -155,12 +159,12 @@
                                 "title": "لعبة الموت Death’s Game"
                             },
                             {
-                                "url": "/ذيبان-في-الحب/",
-                                "title": "ذيبان في الحب Thaibaan in Love"
-                            },
-                            {
                                 "url": "/يوم-واحد/",
                                 "title": "يوم واحد One Day"
+                            },
+                            {
+                                "url": "/ذيبان-في-الحب/",
+                                "title": "ذيبان في الحب Thaibaan in Love"
                             },
                             {
                                 "url": "/بطل-منزلي/",
@@ -169,10 +173,6 @@
                             {
                                 "url": "/جحيم-العزاب-الموسم-الثالث/",
                                 "title": "جحيم العزاب الموسم 3 Single’s Inferno S3"
-                            },
-                            {
-                                "url": "/يوم-حظ-دموي/",
-                                "title": "يوم حظ دموي A Bloody Lucky Day"
                             }
                         ],
                         "hasNextPage": true
@@ -276,22 +276,80 @@
             },
             "details": {
                 "result": {
-                    "url": "/هل-أنت-بشري-أيضا؟/",
-                    "title": "هل أنت بشري أيضا Are You Human Too",
-                    "description": "تدور قصة الدراما حول ابن عائلة تدير شركة كبرى يُدعى “نام شين” الذي دخل في غيبوبة بعد حادث غير متوقع. والدته “أوه رو را” هي مسؤولة في قسم علوم الدماغ والذكاء الإصطناعي. لإنقاذ ابنها، قامت بابتكار إنسان ألي (أندرويد) يشبهه تماماً ويُدعى “نام شين 3”. الأندرويد يتظاهر بأنه Seo-Kang-Joon : في دور Nam Shin | Android Nam Shin III Gong-Seung-Yeon : في دور Kang So Bong Lee-Joon-Hyuk : في دور Ji Young Hoon Park-Hwan-Hee : في دور Seo Ye Na Kim-Sung-Ryung : في دور Oh Ro Ra Yoo-Oh-Sung : في دور Seo Jong Gil",
-                    "genre": "كوريا الجنوبية, خيالي, رومانسي, كوميدي",
-                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/02/2018051400974_0.jpeg",
+                    "url": "/منزل-النينجا/",
+                    "title": "منزل النينجا House of Ninjas",
+                    "description": "مسلسل “House of Ninjas” يحكي قصة عائلة تاوارا، آخر عشيرة نينجا في اليابان الحديثة. في السابق، تخلى العائلة عن جذورها بعد حادث مأساوي، ولكن الآن يجب على العائلة مواجهة أكبر أزمة في تاريخ اليابان، والتي تهدد بأن تهز الأمة إلى جوهرها. Kaku-Kento : في دور Haru Eguchi-Yosuke : في دور Souichi Kimura-Tae : في دور Yoko Kora-Kengo : في دور Gaku Makita-Aju : في دور Nagi Miyamoto-Nobuko : في دور Taki",
+                    "genre": "اليابان, أكشن, إثارة, درامي",
+                    "thumbnail_url": "https://ww1.asia2tv.pw/wp-content/uploads/2024/02/20220606_110540_p_o_4278.jpeg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/منزل-النينجا-الحلقة-08-الأخيرة/",
+                        "name": "%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9 : الحلقة"
+                    },
+                    {
+                        "url": "/منزل-النينجا-الحلقة-07/",
+                        "name": "07 : الحلقة"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=5&sig=NnQqZnmoukI&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=5&sig=NnQqZnmoukI&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101"
+                    },
+                    {
+                        "url": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=3&sig=iPTYEEGpjLI&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=3&sig=iPTYEEGpjLI&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101"
+                    },
+                    {
+                        "url": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=2&sig=ZB8q-er-n3k&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=2&sig=ZB8q-er-n3k&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101"
+                    },
+                    {
+                        "url": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=1&sig=DSxqWsOmg_o&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=1&sig=DSxqWsOmg_o&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101"
+                    },
+                    {
+                        "url": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=0&sig=wJI7OXFRrs4&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=0&sig=wJI7OXFRrs4&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101"
+                    },
+                    {
+                        "url": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=4&sig=0dE6V-0Er-A&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://vd448.mycdn.me/?expires=1708216192708&srcIp=172.183.79.4&pr=10&srcAg=GECKO&ms=185.226.52.35&type=4&sig=0dE6V-0Er-A&ct=0&urls=45.136.22.42&clientType=0&zs=43&id=5922633747101"
+                    },
+                    {
+                        "url": "https://psd1.youdbox.site/d/jcwuwdkmxm3qv3jst2pn6l4bmgdzyxvywdzvx7sakzilgmurwypi7y5nojpej4rupf3j55rv/video.mp4",
+                        "quality": "Yodbox: mirror",
+                        "videoUrl": "https://psd1.youdbox.site/d/jcwuwdkmxm3qv3jst2pn6l4bmgdzyxvywdzvx7sakzilgmurwypi7y5nojpej4rupf3j55rv/video.mp4"
+                    },
+                    {
+                        "url": "https://n56no-09.frot1w1t1.shop/6jmn2gfa3eazsalriufafy5yi24n3prx2qqpbti5ujd2wcvj3bs42l2xpt6q/v.mp4",
+                        "quality": "Vidbom: 480p",
+                        "videoUrl": "https://n56no-09.frot1w1t1.shop/6jmn2gfa3eazsalriufafy5yi24n3prx2qqpbti5ujd2wcvj3bs42l2xpt6q/v.mp4"
+                    },
+                    {
+                        "url": "https://m160.uqload.to/3rfk2jeys5w2q4drdjc7vlncdd6lg3ikn3p2l7jgwryivqhjvfctlawv5qdq/v.mp4",
+                        "quality": "Uqload",
+                        "videoUrl": "https://m160.uqload.to/3rfk2jeys5w2q4drdjc7vlncdd6lg3ikn3p2l7jgwryivqhjvfctlawv5qdq/v.mp4",
+                        "headers": {
+                            "Referer": "https://uqload.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -421,8 +421,20 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vkvd239.mycdn.me/?srcIp=20.109.38.144&pr=40&expires=1708589037315&srcAg=GECKO&fromCache=1&ms=45.136.20.152&type=5&sig=sj7_axKSnDQ&ct=0&urls=185.226.53.200&clientType=13&appId=512000384397&zs=43&id=6237530294901",
+                        "quality": "vk.com - 1080p",
+                        "videoUrl": "https://vkvd239.mycdn.me/?srcIp=20.109.38.144&pr=40&expires=1708589037315&srcAg=GECKO&fromCache=1&ms=45.136.20.152&type=5&sig=sj7_axKSnDQ&ct=0&urls=185.226.53.200&clientType=13&appId=512000384397&zs=43&id=6237530294901",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vk.com",
+                            "Referer": "https://vk.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
