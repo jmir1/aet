@@ -12,14 +12,14 @@
                                 "thumbnail_url": "https://stc.animestc.com/1704580104478-image.jpg"
                             },
                             {
-                                "url": "/series/1679",
-                                "title": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen 2° Temporada",
-                                "thumbnail_url": "https://stc.animestc.com/1704596043760-image.jpg"
-                            },
-                            {
                                 "url": "/series/1705",
                                 "title": "Ninja Kamui",
                                 "thumbnail_url": "https://stc.animestc.com/1707703601066-image.jpg"
+                            },
+                            {
+                                "url": "/series/1679",
+                                "title": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen 2° Temporada",
+                                "thumbnail_url": "https://stc.animestc.com/1704596043760-image.jpg"
                             },
                             {
                                 "url": "/series/1181",
@@ -148,16 +148,16 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/episodes?slug=solo-leveling-episodio-07",
+                        "name": "Solo Leveling - Episódio 07",
+                        "date_upload": 1708202500000,
+                        "episode_number": 7.0
+                    },
+                    {
                         "url": "/episodes?slug=solo-leveling-episodio-06",
                         "name": "Solo Leveling - Episódio 06",
                         "date_upload": 1707590152000,
                         "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episodes?slug=solo-leveling-episodio-05",
-                        "name": "Solo Leveling - Episódio 05",
-                        "date_upload": 1706983279000,
-                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
@@ -165,9 +165,33 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://atc-cloud.animestc.net/online/2024/Solo_Leveling/06.mp4",
+                        "url": "https://d9750.download-send.com/d/nryynyet6gosj4l42j7uha5ayg2npgbnkbv2cltmbcjcxnb57f24x3qqhwitbu7gy7s4pgln/video.mkv",
+                        "quality": "Sendcm - HD",
+                        "videoUrl": "https://d9750.download-send.com/d/nryynyet6gosj4l42j7uha5ayg2npgbnkbv2cltmbcjcxnb57f24x3qqhwitbu7gy7s4pgln/video.mkv",
+                        "headers": {
+                            "Referer": "https://send.cm/d/w2KY"
+                        }
+                    },
+                    {
+                        "url": "https://d4176.download-send.com/d/mzyrn7ut6gosj4l42j7q7e7fqf5bawwz7bxnm6lw2mohrbjiosrgr3qqyjnqukyj4442oxiw/video.mkv",
+                        "quality": "Sendcm - FULLHD",
+                        "videoUrl": "https://d4176.download-send.com/d/mzyrn7ut6gosj4l42j7q7e7fqf5bawwz7bxnm6lw2mohrbjiosrgr3qqyjnqukyj4442oxiw/video.mkv",
+                        "headers": {
+                            "Referer": "https://send.cm/d/w2Uc"
+                        }
+                    },
+                    {
+                        "url": "https://d6138.download-send.com/d/kjywz6ut6gosj4l42j7vte5gqextqv5mxhfpao3gejzq2ps5qsaqlmkzex22y5c2obbmkya2/video.mp4",
+                        "quality": "Sendcm - SD",
+                        "videoUrl": "https://d6138.download-send.com/d/kjywz6ut6gosj4l42j7vte5gqextqv5mxhfpao3gejzq2ps5qsaqlmkzex22y5c2obbmkya2/video.mp4",
+                        "headers": {
+                            "Referer": "https://send.cm/d/w2m0"
+                        }
+                    },
+                    {
+                        "url": "https://atc-cloud.animestc.net/online/2024/Solo_Leveling/07.mp4",
                         "quality": "Player ATC",
-                        "videoUrl": "https://atc-cloud.animestc.net/online/2024/Solo_Leveling/06.mp4",
+                        "videoUrl": "https://atc-cloud.animestc.net/online/2024/Solo_Leveling/07.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Referer": "https://www.animestc.net/"
