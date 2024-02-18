@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/ninja-kamui-latino",
+                                "title": "Ninja Kamui Latino",
+                                "thumbnail_url": "https://latanime.org/thumbs/imagen/ninja-kamui-latino-1708236929.jpg?v=1.5"
+                            },
+                            {
                                 "url": "/anime/mononoke-latino-doblaje-ao",
                                 "title": "Mononoke Latino Redoblaje 2024",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/mononoke-latino-doblaje-ao-1707876415.jpg?v=1.5"
@@ -150,11 +155,6 @@
                                 "url": "/anime/tragones-y-mazmorras-latino",
                                 "title": "Tragones y Mazmorras Latino",
                                 "thumbnail_url": "https://latanime.org/thumbs/imagen/tragones-y-mazmorras-latino-1704492284.jpg?v=1.5"
-                            },
-                            {
-                                "url": "/anime/white-album-discografia-de-recuerdos-latino",
-                                "title": "WHITE ALBUM: Discografía de Recuerdos Latino",
-                                "thumbnail_url": "https://latanime.org/thumbs/imagen/white-album-discografia-de-recuerdos-latino-1704249228.jpg?v=1.5"
                             }
                         ],
                         "hasNextPage": true
@@ -324,67 +324,21 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/mononoke-latino-doblaje-ao",
-                    "title": "Mononoke Latino Redoblaje 2024",
-                    "description": "Su protagonista es el mismo vendedor de medicina ambulante que nos entretuvo en la tercera historia de Ayakashi entitulada, Bakeneko o “Gato-monstruo”. Esta nueva serie no es una continuación de la anterior, pero sí retoma el mismo tema de cuentos de terror poblados por una rica sucesión de personajes y elementos fantásticos. Las varias historias que se cuentan en Mononoke tienen lugar durante el período de Edo en Japón. El único personaje recurrente en la serie es el vendedor de medicinas o Sr. Apotecario que deambula de lugar a lugar siempre en la búsqueda y el exorcismo de mononoke o “espíritu(s) vengativo(s)” con su espada selladora de demonios. Es interesante notar que la espada, al igual que su dueño carece de nombre específico; sin embargo sólo puede desenvainarse para cortar mononoke cuando tres condiciones se satisfacen: Katachi (Forma), Makoto (Verdad o realidad según la filosofía budista) y Kotowari (Justicia).",
-                    "genre": "Drama, Fantasía, Horror, Misterio, Psicológico, Seinen, Sobrenatural, Histórico, Demonios",
+                    "url": "/anime/ninja-kamui-latino",
+                    "title": "Ninja Kamui Latino",
+                    "description": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente \"muerte\", Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó.",
+                    "genre": "Acción, Ciencia Ficción",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/mononoke-latino-doblaje-ao-episodio-1",
-                        "name": "Mononoke Latino Redoblaje 2024 Capitulo 1",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=5&sig=_NTGcY1SaSU&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094",
-                        "quality": "ok -  Okru:1080p",
-                        "videoUrl": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=5&sig=_NTGcY1SaSU&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094"
-                    },
-                    {
-                        "url": "https://a2.mp4upload.com:183/d/xwxr6y77z3b4quuot2qrwokbkt6cr4zi2qhk6svtd2vi6oq5c6wdqrho6axetyrk7sblho2h/video.mp4",
-                        "quality": "mp4upload -  Mp4Upload - 1080p",
-                        "videoUrl": "https://a2.mp4upload.com:183/d/xwxr6y77z3b4quuot2qrwokbkt6cr4zi2qhk6svtd2vi6oq5c6wdqrho6axetyrk7sblho2h/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    },
-                    {
-                        "url": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=3&sig=xYdGn6aQwvU&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094",
-                        "quality": "ok -  Okru:720p",
-                        "videoUrl": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=3&sig=xYdGn6aQwvU&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094"
-                    },
-                    {
-                        "url": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=2&sig=3QqZkAwkTjU&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094",
-                        "quality": "ok -  Okru:480p",
-                        "videoUrl": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=2&sig=3QqZkAwkTjU&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094"
-                    },
-                    {
-                        "url": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=1&sig=evSZ-dadKYM&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094",
-                        "quality": "ok -  Okru:360p",
-                        "videoUrl": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=1&sig=evSZ-dadKYM&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094"
-                    },
-                    {
-                        "url": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=0&sig=AGpht1pYTCg&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094",
-                        "quality": "ok -  Okru:240p",
-                        "videoUrl": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=0&sig=AGpht1pYTCg&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094"
-                    },
-                    {
-                        "url": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=4&sig=mdIDMh3CEew&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094",
-                        "quality": "ok -  Okru:144p",
-                        "videoUrl": "https://vd463.mycdn.me/?expires=1708322961475&srcIp=52.159.142.96&pr=10&srcAg=GECKO&ms=185.226.52.57&type=4&sig=mdIDMh3CEew&ct=0&urls=185.226.53.31&clientType=0&zs=43&id=5824968592094"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
