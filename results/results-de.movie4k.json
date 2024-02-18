@@ -113,112 +113,20 @@
                 "passed": true
             },
             "search": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=65b57f26b663b8902f4c7097",
-                    "title": "Aquaman: Lost Kingdom",
-                    "description": "Black Manta (Yahya Abdul-Mateen II) leckt nach seinem ersten Versuch, Aquaman (Jason Momoa) zu töten, weiterhin seine Wunden. Trotzdem scheint das nur eine verlorene Schlacht in einem viel größeren Krieg gewesen zu sein. Denn Black Manta ist nach wie vor davon besessen, den Tod seines Vaters zu rächen. Und dieses Mal ist er sich sicher, Aquaman zur Strecke bringen zu können. Mit dem mysteriösen schwarzen Dreizack in der Hinterhand ist er im Besitz einer unglaublichen Macht. Das weiß auch Aquaman. Um gegen Black Manta bestehen zu können, nimmt er sogar wieder Kontakt mit dem ehemaligen König von Atlantis, seinem Bruder Orm (Patrick Wilson) auf. Zwischen den beiden verläuft immer noch ein tiefer Graben, den sie jedoch schnell überwinden müssen, um als Team die Bewohner des Königreichs Atlantis vor Black Mantas Rache zu bewahren und die finstere Gestalt mit dem Schwarzen Dreizack ein für alle Mal zu besiegen.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=65b57f26b663b8902f4c7097",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=bpd2QJgAA1TKVj&expires=1708328225&ip=FROsE0WnDS9X&token=MYAnfMoeqTwV",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=bpd2QJgAA1TKVj&expires=1708328225&ip=FROsE0WnDS9X&token=MYAnfMoeqTwV"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=p8yBgYowBpsr2gw&expires=1708328225&ip=FROsE0WnDS9X&token=TwH8K2Q62OvK",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=p8yBgYowBpsr2gw&expires=1708328225&ip=FROsE0WnDS9X&token=TwH8K2Q62OvK"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=1Ok9Wl1j88IeZb8&expires=1708328224&ip=FROsE0WnDS9X&token=lLr5vreiBz5J",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=1Ok9Wl1j88IeZb8&expires=1708328224&ip=FROsE0WnDS9X&token=lLr5vreiBz5J"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328224&ip=FROsE0WnDS9X&token=oGt7CkBINYrE",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328224&ip=FROsE0WnDS9X&token=oGt7CkBINYrE"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=aZoOxKK1BzsMJe&expires=1708328224&ip=FROsE0WnDS9X&token=pH9WA_v6swO6",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aZoOxKK1BzsMJe&expires=1708328224&ip=FROsE0WnDS9X&token=pH9WA_v6swO6"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=xed3LVVmAvUk69o&expires=1708328224&ip=FROsE0WnDS9X&token=RlpzABVEBtoR",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xed3LVVmAvUk69o&expires=1708328224&ip=FROsE0WnDS9X&token=RlpzABVEBtoR"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328224&ip=FROsE0WnDS9X&token=oGt7CkBINYrE",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328224&ip=FROsE0WnDS9X&token=oGt7CkBINYrE"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=VWy72KLmm0FKlOO&expires=1708328223&ip=FROsE0WnDS9X&token=9p4ldN4KK8FZ",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=VWy72KLmm0FKlOO&expires=1708328223&ip=FROsE0WnDS9X&token=9p4ldN4KK8FZ"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=0AOO1kaq4BIbXKP&expires=1708328223&ip=FROsE0WnDS9X&token=gqtXu6o47iRa",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=0AOO1kaq4BIbXKP&expires=1708328223&ip=FROsE0WnDS9X&token=gqtXu6o47iRa"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=3wYvJByGXpi262&expires=1708328223&ip=FROsE0WnDS9X&token=ml3nl9yMA_oX",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=3wYvJByGXpi262&expires=1708328223&ip=FROsE0WnDS9X&token=ml3nl9yMA_oX"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=OWpajLJKXGSZZgw&expires=1708328223&ip=FROsE0WnDS9X&token=q6sXh54ZwuO1",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=OWpajLJKXGSZZgw&expires=1708328223&ip=FROsE0WnDS9X&token=q6sXh54ZwuO1"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=r2mJX0K1qotbZbv&expires=1708328223&ip=FROsE0WnDS9X&token=QF9fn5oNW_cc",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=r2mJX0K1qotbZbv&expires=1708328223&ip=FROsE0WnDS9X&token=QF9fn5oNW_cc"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328223&ip=FROsE0WnDS9X&token=-PUByrsEPZfG",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328223&ip=FROsE0WnDS9X&token=-PUByrsEPZfG"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=wVdmKL89BysJMlG&expires=1708328222&ip=FROsE0WnDS9X&token=_ljz7UzJ_1Wg",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=wVdmKL89BysJMlG&expires=1708328222&ip=FROsE0WnDS9X&token=_ljz7UzJ_1Wg"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328222&ip=FROsE0WnDS9X&token=mvgVREG1BiI1",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=aod4xrJmGoFx3mk&expires=1708328222&ip=FROsE0WnDS9X&token=mvgVREG1BiI1"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=J0rAyezPYGSjdvB&expires=1708328221&ip=FROsE0WnDS9X&token=NBMDj9f86yYM",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=J0rAyezPYGSjdvB&expires=1708328221&ip=FROsE0WnDS9X&token=NBMDj9f86yYM"
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             }
         }
     }

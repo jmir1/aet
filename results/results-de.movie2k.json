@@ -287,31 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/index-v1-a1.m3u8?t=SDuZ26UxT3z-gb5FBG9vUBNCvo4-m_QnxI8X5j0AJZ4&s=1708258239&e=21600&f=659791&srv=srv07&i=172.183&sp=0&p1=srv07&p2=srv07",
-                        "quality": "Dropload:360p ",
-                        "videoUrl": "https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/index-v1-a1.m3u8?t=SDuZ26UxT3z-gb5FBG9vUBNCvo4-m_QnxI8X5j0AJZ4&s=1708258239&e=21600&f=659791&srv=srv07&i=172.183&sp=0&p1=srv07&p2=srv07",
-                        "headers": {
-                            "origin": "https://dropload.io",
-                            "referer": "https://dropload.io/"
-                        }
-                    },
-                    {
-                        "url": "https://s-delivery51.mxdcontent.net/v/57240590fa2996ffe6866344b8bd1b0d.mp4?s=Z9UbscvvroRN7aY0Lb8zUQ&e=1708279841&_t=1708260366",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery51.mxdcontent.net/v/57240590fa2996ffe6866344b8bd1b0d.mp4?s=Z9UbscvvroRN7aY0Lb8zUQ&e=1708279841&_t=1708260366",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=vPBD4oX8Lyu49ma&expires=1708328241&ip=F0qQKRWZD19XKxR&token=EYhZHdMCnlYc",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vPBD4oX8Lyu49ma&expires=1708328241&ip=F0qQKRWZD19XKxR&token=EYhZHdMCnlYc"
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "passed": false
             }
         }
     }
