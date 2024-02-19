@@ -287,8 +287,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/index-v1-a1.m3u8?t=LthKsmXVvS4I3KL_aDsLfR1k2XR7rr8Lo6gpWfM-XxU&s=1708302704&e=21600&f=659791&srv=srv07&i=20.75&sp=0&p1=srv07&p2=srv07",
+                        "quality": "Dropload:360p ",
+                        "videoUrl": "https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/https://srv14.dropload.io/hls2/01/00131/kjokesnjxqrv_h/index-v1-a1.m3u8?t=LthKsmXVvS4I3KL_aDsLfR1k2XR7rr8Lo6gpWfM-XxU&s=1708302704&e=21600&f=659791&srv=srv07&i=20.75&sp=0&p1=srv07&p2=srv07",
+                        "headers": {
+                            "origin": "https://dropload.io",
+                            "referer": "https://dropload.io/"
+                        }
+                    },
+                    {
+                        "url": "https://s-delivery51.mxdcontent.net/v/57240590fa2996ffe6866344b8bd1b0d.mp4?s=NcrSm6dw03Y_qgrwny7efw&e=1708324308&_t=1708305921",
+                        "quality": "MixDrop",
+                        "videoUrl": "https://s-delivery51.mxdcontent.net/v/57240590fa2996ffe6866344b8bd1b0d.mp4?s=NcrSm6dw03Y_qgrwny7efw&e=1708324308&_t=1708305921",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=vPBD4oX8Lyu49ma&expires=1708372708&ip=FROsEHMnDS9X&token=sDa9RWm6TEam",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=vPBD4oX8Lyu49ma&expires=1708372708&ip=FROsEHMnDS9X&token=sDa9RWm6TEam"
+                    }
+                ],
+                "passed": true
             }
         }
     }

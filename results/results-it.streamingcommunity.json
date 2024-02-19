@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7544-nuova-scena",
+                                "title": "Nuova Scena",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5ef8b010-73fc-4e1c-bcba-3ee867f472ad.webp"
+                            },
+                            {
                                 "url": "7634-finalmente-lalba",
                                 "title": "Finalmente l'alba",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/45610f78-c045-4fc9-9d9f-a9ec73e39311.webp"
@@ -300,11 +305,6 @@
                                 "url": "7377-sei-cio-che-mangi-gemelli-a-confronto",
                                 "title": "Sei ciò che mangi - Gemelli a confronto",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/a969bb10-aeaf-4dde-9b52-0b85098ba41f.webp"
-                            },
-                            {
-                                "url": "7376-bitconned-la-truffa-di-una-criptovaluta",
-                                "title": "Bitconned: la truffa di una criptovaluta",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/eac76251-88a3-4705-b382-cf6588b32b45.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7772-die-hard-trappola-di-cristallo",
+                                "title": "Die Hard - Trappola di cristallo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/7982d905-f7ac-4e46-8e6d-81d70715d6ab.webp"
+                            },
+                            {
+                                "url": "7771-true-lies",
+                                "title": "True Lies",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/23919ca2-b35a-4e8d-91e1-570501ee4773.webp"
+                            },
+                            {
+                                "url": "7770-jfk-un-caso-ancora-aperto",
+                                "title": "JFK - Un caso ancora aperto",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/4264ce97-b921-4f47-b7fa-98a9da16d375.webp"
+                            },
+                            {
+                                "url": "7769-la-confidential",
+                                "title": "L.A. Confidential",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/37951d4a-20c2-4b64-9a55-c4640b9c6bee.webp"
+                            },
                             {
                                 "url": "7768-die-hard-duri-a-morire",
                                 "title": "Die Hard - Duri a morire",
@@ -595,26 +615,6 @@
                                 "url": "7701-linterprete-del-silenzio",
                                 "title": "L'interprete del silenzio",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/55b85311-ccb5-4489-85c4-f7c39a772fbf.webp"
-                            },
-                            {
-                                "url": "7700-rapina-e-fuga",
-                                "title": "Rapina e Fuga",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a4f3b1f8-7fa3-4a43-b05f-256da9f86519.webp"
-                            },
-                            {
-                                "url": "7699-il-risolutore",
-                                "title": "Il risolutore",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/18cb3b38-9a14-47cd-90a2-233bc4598d3c.webp"
-                            },
-                            {
-                                "url": "7687-the-wonder-years",
-                                "title": "The Wonder Years",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/068c89cc-386c-4cef-bfb4-a2cb618f8fc0.webp"
-                            },
-                            {
-                                "url": "7686-rookie-cops",
-                                "title": "Rookie Cops",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/63fcab5e-2ab1-4aae-a3dd-153380a86cc4.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,27 +934,21 @@
             },
             "details": {
                 "result": {
-                    "url": "7634-finalmente-lalba",
-                    "description": "Il film racconta una lunga e intensa notte di un'aspirante giovanissima attrice negli studi di Cinecittà degli anni '50, dove la ragazza vive ore memorabili che segneranno il suo passaggio all'età adulta.",
-                    "genre": "Dramma",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7544-nuova-scena",
+                    "description": "In questo rap show Fabri Fibra, Geolier e Rose Villain vanno in cerca della nuova superstar della scena italiana partendo dalle strade di Roma, Napoli e Milano.",
+                    "genre": "Reality",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "7634",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
                 "passed": false
             }
         }
