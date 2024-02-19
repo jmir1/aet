@@ -41,8 +41,16 @@
                 "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/series/asesinato-en-el-fin-del-mundo-vk/",
+                    "title": "Asesinato en el fin del mundo",
+                    "artist": "Alice Braga",
+                    "author": "2023",
+                    "description": "Asesinato en el fin del mundo",
+                    "genre": "Drama, Mystery, Srnovelas, Thriller",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
                 "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",

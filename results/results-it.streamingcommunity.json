@@ -7,9 +7,14 @@
                     {
                         "animes": [
                             {
+                                "url": "7774-giannis-il-viaggio-meraviglioso",
+                                "title": "Giannis - Il viaggio meraviglioso",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a26f5339-377b-4621-9e88-c9d2af0d588e.webp"
+                            },
+                            {
                                 "url": "7544-nuova-scena",
                                 "title": "Nuova Scena",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5ef8b010-73fc-4e1c-bcba-3ee867f472ad.webp"
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fa56ff99-1b50-4662-8e78-08a0348dca34.webp"
                             },
                             {
                                 "url": "7634-finalmente-lalba",
@@ -300,11 +305,6 @@
                                 "url": "7441-karaoke-night-talenti-senza-vergogna",
                                 "title": "Karaoke Night - Talenti senza vergogna",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/9539e739-f772-4170-b181-6ed61964b26c.webp"
-                            },
-                            {
-                                "url": "7377-sei-cio-che-mangi-gemelli-a-confronto",
-                                "title": "Sei ciò che mangi - Gemelli a confronto",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/a969bb10-aeaf-4dde-9b52-0b85098ba41f.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7773-the-kicks",
+                                "title": "The Kicks",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/255a5128-3521-4a81-a23d-e1a765feee31.webp"
+                            },
                             {
                                 "url": "7772-die-hard-trappola-di-cristallo",
                                 "title": "Die Hard - Trappola di cristallo",
@@ -610,11 +615,6 @@
                                 "url": "7703-a-casa-di-raven",
                                 "title": "A casa di Raven",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/47e4ad85-338a-4f84-8e28-711dd95a549f.webp"
-                            },
-                            {
-                                "url": "7701-linterprete-del-silenzio",
-                                "title": "L'interprete del silenzio",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/55b85311-ccb5-4489-85c4-f7c39a772fbf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,21 +934,27 @@
             },
             "details": {
                 "result": {
-                    "url": "7544-nuova-scena",
-                    "description": "In questo rap show Fabri Fibra, Geolier e Rose Villain vanno in cerca della nuova superstar della scena italiana partendo dalle strade di Roma, Napoli e Milano.",
-                    "genre": "Reality",
-                    "status": 1,
-                    "status_name": "ONGOING",
+                    "url": "7774-giannis-il-viaggio-meraviglioso",
+                    "description": "Prima di vincere due volte l'MVP e un titolo NBA, Giannis Antetokounmpo era un emarginato, un giovane immigrato che viveva con la sua famiglia ai margini della società greca. Poi, ispirato dai video delle stelle dell'NBA che guardava in un Internet café, Giannis ha preso in mano un pallone da basket. È stato il primo passo di un viaggio unico, straziante, trionfale e meraviglioso.",
+                    "genre": "Documentario",
+                    "status": 2,
+                    "status_name": "COMPLETED",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "7774",
+                        "name": "Film",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
