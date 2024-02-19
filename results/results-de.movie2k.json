@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/madame-web/",
+                                "title": "Madame Web",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/rfi2YH6aBtM7yZwwHDQvYt4P44L.jpg"
+                            },
+                            {
                                 "url": "/players-2/",
                                 "title": "Players",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/qvlJMdYRjTM1EhQJYlKXHoz3Te1.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/are-you-there-god-its-me-margaret/",
                                 "title": "Are You There God? It’s Me, Margaret.",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg"
-                            },
-                            {
-                                "url": "/bottoms/",
-                                "title": "Bottoms",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w220_and_h330_face/3R8csQ5YcMsJA9kuA4gSoulkGA8.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,14 +264,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/players-2/",
-                    "title": "Players",
-                    "author": "Trish Sie",
-                    "description": "Mack (Gina Rodriguez) ist eine erfolgreiche New Yorker Sportjournalistin. Was viele nicht wissen: In ihrem Privatleben hat sie das Erobern von Männern zum Sport gemacht. Unterstützt wird sie beim Sammeln ihrer One-Night-Stand-Trophäen von ihrem besten Kumpel Adam (Damon Wayans Jr.) und drei weiteren Freunden. Als sie eines Tages auf den charmanten und gutaussehenden Kriegsberichterstatter Nick (Tom Ellis) stößt, kommt jedoch alles ganz anders. …",
-                    "genre": "Komödie",
+                    "url": "/madame-web/",
+                    "title": "Madame Web",
+                    "author": "S.J. Clarkson",
+                    "description": "Cassandra Webb ist eine ganz normale Rettungssanitäterin in Manhattan, bis sie entdeckt, dass sie möglicherweise über hellseherische Fähigkeiten verfügt – was ihre lebensrettenden Fähigkeiten auf eine harte Probe stellt. Als sie plötzlich mit Enthüllungen über ihre Vergangenheit konfrontiert wird, knüpft sie eine Beziehung zu drei jungen Frauen, die für eine mächtige Zukunft bestimmt sind … wenn sie alle eine tödliche Gegenwart …",
+                    "genre": "Abenteuer",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvlJMdYRjTM1EhQJYlKXHoz3Te1.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfi2YH6aBtM7yZwwHDQvYt4P44L.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -279,7 +279,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "https://meinecloud.click/movie/tt14833464",
+                        "url": "https://meinecloud.click/movie/tt11057302",
                         "name": "Film",
                         "episode_number": 1.0
                     }
@@ -289,26 +289,18 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://srv07.dropload.io/hls2/01/00131/kjokesnjxqrv_h/https://srv07.dropload.io/hls2/01/00131/kjokesnjxqrv_h/index-v1-a1.m3u8?t=POIuiUU39KWf9dv4kzqDFJ3pdFAsT66AipSSVK7ic0I&s=1708344720&e=21600&f=659791&i=40.76&sp=0",
-                        "quality": "Dropload:360p ",
-                        "videoUrl": "https://srv07.dropload.io/hls2/01/00131/kjokesnjxqrv_h/https://srv07.dropload.io/hls2/01/00131/kjokesnjxqrv_h/index-v1-a1.m3u8?t=POIuiUU39KWf9dv4kzqDFJ3pdFAsT66AipSSVK7ic0I&s=1708344720&e=21600&f=659791&i=40.76&sp=0",
+                        "url": "https://srv14.dropload.io/hls2/01/00132/v0kqbc3v717o_h/index-v1-a1.m3u8?t=Q0gn5Q_FuFAz8nOvi3ej3UltFfeRX_dqVxzRSo9Fy-U&s=1708366177&e=21600&f=662377&srv=srv13&i=20.55&sp=0&p1=srv13&p2=srv13",
+                        "quality": "Dropload:720p ",
+                        "videoUrl": "https://srv14.dropload.io/hls2/01/00132/v0kqbc3v717o_h/index-v1-a1.m3u8?t=Q0gn5Q_FuFAz8nOvi3ej3UltFfeRX_dqVxzRSo9Fy-U&s=1708366177&e=21600&f=662377&srv=srv13&i=20.55&sp=0&p1=srv13&p2=srv13",
                         "headers": {
                             "origin": "https://dropload.io",
                             "referer": "https://dropload.io/"
                         }
                     },
                     {
-                        "url": "https://s-delivery51.mxdcontent.net/v/57240590fa2996ffe6866344b8bd1b0d.mp4?s=QsnLbUBwztjrEgVk0sjtcw&e=1708366322&_t=1708345168",
-                        "quality": "MixDrop",
-                        "videoUrl": "https://s-delivery51.mxdcontent.net/v/57240590fa2996ffe6866344b8bd1b0d.mp4?s=QsnLbUBwztjrEgVk0sjtcw&e=1708366322&_t=1708345168",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=vPBD4oX8Lyu49ma&expires=1708414723&ip=GxOsEHInDS9X&token=U2wuFpTf8a4w",
+                        "url": "https://streamtape.com/get_video?id=pYBGYAmrkmfrZMQ&expires=1708436180&ip=FROsE0MnDS9X&token=YHY3m7wN5MzU",
                         "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=vPBD4oX8Lyu49ma&expires=1708414723&ip=GxOsEHInDS9X&token=U2wuFpTf8a4w"
+                        "videoUrl": "https://streamtape.com/get_video?id=pYBGYAmrkmfrZMQ&expires=1708436180&ip=FROsE0MnDS9X&token=YHY3m7wN5MzU"
                     }
                 ],
                 "passed": true

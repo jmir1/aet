@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/the-space-race/",
+                                "title": "The Space Race",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/PCzzW29lPB85RBd9pA8dCqgtbVVA8CaN4.webp"
+                            },
+                            {
                                 "url": "/pelicula/desconocidos/",
                                 "title": "Desconocidos",
                                 "description": "Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su...",
@@ -239,12 +245,6 @@
                                 "title": "El reino animal",
                                 "description": "La aventura de un padre y un hijo, en un mundo en el que algunos humanos han empezado a mutar en otr...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/H66XcF8C7NPGzkBVyQuJ5plMWTgtKn5hk1.webp"
-                            },
-                            {
-                                "url": "/pelicula/menjelang-magrib/",
-                                "title": "Menjelang Magrib",
-                                "description": "Tres estudiantes con especialización en psicología estudian a un paciente mentalmente enfermo para...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/F72MBT3SyZ6rGgMQhd4KHjYBhX3n4MlAJecbY6TmVQEr.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/desconocidos/",
-                    "title": "Desconocidos",
-                    "description": "Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su infancia donde descubre que sus padres, fallecidos hace mucho tiempo, están vivos y tienen la misma edad que el día de su muerte.",
-                    "genre": "Drama, Fantasía, Romance",
+                    "url": "/pelicula/the-space-race/",
+                    "title": "The Space Race",
+                    "description": "",
+                    "genre": "Documental",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/desconocidos/",
+                        "url": "/pelicula/the-space-race/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar YdNTlidOUE = \"\"; yYGcPrZf.forEach(function Oym(value) { YdNTlidOUE += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mWALIao = \"\"; ieEyAQLUK.forEach(function Oym(value) { mWALIao += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
