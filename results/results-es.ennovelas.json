@@ -3,7 +3,7 @@
         "name": "EnNovelas (ES)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
             "search": {
@@ -41,34 +41,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/series/asesinato-en-el-fin-del-mundo-vk/",
-                    "title": "Asesinato en el fin del mundo",
-                    "artist": "Alice Braga",
-                    "author": "2023",
-                    "description": "Asesinato en el fin del mundo",
-                    "genre": "Drama, Mystery, Srnovelas, Thriller",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/asesinato-en-el-fin-del-mundo-capitulo-3-dd/",
-                        "name": "Capítulo 3",
-                        "episode_number": 3.0
-                    },
-                    {
-                        "url": "/asesinato-en-el-fin-del-mundo-capitulo-2-e/",
-                        "name": "Capítulo 2",
-                        "episode_number": 2.0
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
