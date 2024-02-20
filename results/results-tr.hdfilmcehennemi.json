@@ -7,6 +7,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/the-man-from-nowhere/",
+                                "title": "The Man from Nowhere",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-man-from-nowhere_list.jpg"
+                            },
+                            {
+                                "url": "/1-await-further-instructions-izle-5/",
+                                "title": "Await Further Instructions",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/1-await-further-instructions-izle_list.jpg"
+                            },
+                            {
+                                "url": "/break-in/",
+                                "title": "Break In",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/break-in_list.jpg"
+                            },
+                            {
                                 "url": "/a-river-runs-through-it/",
                                 "title": "Bizi Ayıran Nehir",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/a-river-runs-through-it_list.jpg"
@@ -130,21 +145,6 @@
                                 "url": "/hd-1-finding-altamira-izle-4/",
                                 "title": "Finding Altamira",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/hd-1-finding-altamira-izle_list.jpg"
-                            },
-                            {
-                                "url": "/spider-man-lotus/",
-                                "title": "Spider-Man Lotus",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/spider-man-lotus_list.jpg"
-                            },
-                            {
-                                "url": "/snoopy-presents-welcome-home-franklin/",
-                                "title": "Snoopy Presents Welcome Home Franklin",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/snoopy-presents-welcome-home-franklin_list.jpg"
-                            },
-                            {
-                                "url": "/hd-cavemen-5/",
-                                "title": "Magara Adamları",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/hd-cavemen_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,14 +414,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/a-river-runs-through-it/",
-                    "title": "Bizi Ayıran Nehir",
-                    "artist": "Craig Sheffer, Brad Pitt, Tom Skerritt, Brenda Blethyn, Edie McClurg, Stephen Shellen, Susan Traylor, Nicole Burdette, Emily Lloyd, William Hootkins",
-                    "description": "Hikaye, Maclean ailesinin iki oğlu, Norman (Craig Sheffer) ve Paul (Brad Pitt) arasındaki ilişkiye odaklanır. İkisi de Montana'nın muhteşem doğasında büyümüş ve balık tutma sanatını öğrenmiştir. Norman, daha disiplinli ve sorumlu bir kişiliğe sahiptir, Paul ise daha özgür ruhlu ve maceracıdır.",
-                    "genre": "Dram",
+                    "url": "/the-man-from-nowhere/",
+                    "title": "The Man from Nowhere",
+                    "artist": "Alexandr Metelkin, Varvara Komarova, Irina Medvedeva, Ilya Lyubimov, Ivan Zlobin, Aleksandr Zhigalkin, Pyotr Zhuravlyov, Marina Petrenko, Igor Filippov, Anastasiya Fursa",
+                    "description": "1960'larda bir Sovyet uzay aracı düştü ve kozmonot kendisini 2023'te Moskova'da bulur.",
+                    "genre": "Macera, Fantastik, Bilim Kurgu",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/a-river-runs-through-it.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-man-from-nowhere.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -429,7 +429,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/a-river-runs-through-it/",
+                        "url": "/the-man-from-nowhere/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -437,20 +437,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://box-tu-953.vmeas.cloud/hls/xqx2ompbnfokjiqbtgycjjibvpxzt27yjy6odl4bjuqc6aeo5jfcg24bfcna/index-v1.m3u8",
-                        "quality": "Vidmoly - 900p",
-                        "videoUrl": "https://box-tu-953.vmeas.cloud/hls/xqx2ompbnfokjiqbtgycjjibvpxzt27yjy6odl4bjuqc6aeo5jfcg24bfcna/index-v1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-luzsuqoq5e5m.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
