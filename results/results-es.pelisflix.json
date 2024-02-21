@@ -7,10 +7,34 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/papa-o-mama/",
+                                "title": "Papá o Mamá",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/eYzP8TU40MJCRHO2T5AeM8nHnaQZsoHxc6cb.webp"
+                            },
+                            {
+                                "url": "/pelicula/hojas-de-otono-fallen-leaves/",
+                                "title": "Hojas de otoño (Fallen Leaves)",
+                                "description": "Ansa es soltera y vive en Helsinki. Trabaja con un contrato de cero horas en un supermercado, abaste...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JTISE39eehD3BE0AHPTWv.webp"
+                            },
+                            {
+                                "url": "/pelicula/chicas-malas/",
+                                "title": "Chicas malas",
+                                "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Okgoszv0nqw6dEygrus8AH.webp"
+                            },
+                            {
                                 "url": "/pelicula/agent-game/",
                                 "title": "Agent Game",
                                 "description": "En este fascinante thriller de espías, nadie está a salvo. Harris, un interrogador de la CIA en un...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/cu6w1QeOwKSpLaImp3vTNagm.webp"
+                            },
+                            {
+                                "url": "/pelicula/los-ninos-de-winton/",
+                                "title": "Los niños de Winton",
+                                "description": "El filántropo británico Nicholas Winton ayudó a salvar a cientos de niños de los nazis en víspe...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yACfW0Q8N8RVizgjiY61gug0ISvgGTf5jIa6zQ4cPMXXb.webp"
                             },
                             {
                                 "url": "/pelicula/johnny-z/",
@@ -221,30 +245,6 @@
                                 "title": "Madame Web",
                                 "description": "Una historia de origen de la clarividente conocida como Madame Web, cuyas habilidades psíquicas le ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/hbdxoKeMVKp6eVrnpZYxwJdL27I7XpN4rQsF.webp"
-                            },
-                            {
-                                "url": "/pelicula/cinco-citas-a-ciegas/",
-                                "title": "Cinco citas a ciegas",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/MPoQcQNBqAgY5gT4cvIGQ.webp"
-                            },
-                            {
-                                "url": "/pelicula/llego-a-mi/",
-                                "title": "Llegó a mi",
-                                "description": "Sigue a un compositor de ópera que sufre el bloqueo del escritor y redescubre su pasión después d...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/S2i97lCoMVvvVJcCmho8olJhW.webp"
-                            },
-                            {
-                                "url": "/pelicula/viviendo-mi-pelicula/",
-                                "title": "Viviendo mi película",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/LUTRg1hN7G7FxatAoAW3.webp"
-                            },
-                            {
-                                "url": "/pelicula/dogman/",
-                                "title": "DogMan",
-                                "description": "Un chico, magullado por la vida, encuentra su salvación a través del amor de sus perros.",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/U4WRiQ1D7JUSihVLNr2jFdVUdRYB4jkOe7vmN.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/agent-game/",
-                    "title": "Agent Game",
-                    "description": "En este fascinante thriller de espías, nadie está a salvo. Harris, un interrogador de la CIA en un sitio negro de la Agencia, se convierte en el objetivo de una operación de entrega después de ser el chivo expiatorio de un interrogatorio que salió terriblemente mal. A medida que el equipo encargado de traer a Harris comienza a cuestionar sus órdenes, y entre sí, Olsen (Mel Gibson), un alto oficial de inteligencia, y su subordinado, Visser, aumentan las apuestas. Ahora, depende de Harris y algunos nuevos aliados descubrir la verdad y cambiar las tornas.",
-                    "genre": "Acción, Suspense",
+                    "url": "/pelicula/papa-o-mama/",
+                    "title": "Papá o Mamá",
+                    "description": "",
+                    "genre": "Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/agent-game/",
+                        "url": "/pelicula/papa-o-mama/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar XCaLIcwWe = \"\"; jzQOYTRc.forEach(function Oym(value) { XCaLIcwWe += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar CAEhJWKM = \"\"; MzllEOgw.forEach(function Oym(value) { CAEhJWKM += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
