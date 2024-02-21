@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/wild-cards/",
+                                "title": "Wild Cards",
+                                "description": "Un procedimiento de resolución de crímenes con un toque cómico que sigue al improbable dúo formado por un policía socarrón y riguroso y una estafadora astuta y enérgica. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lIhkV9LNwViVD2bylPTFQvDD21e.jpg"
+                            },
+                            {
                                 "url": "/el-juego-de-las-llaves/",
                                 "title": "El juego de las llaves",
                                 "description": "Ocho amigos, todos en una relación estable, deciden aventurarse en un juego de descubrimiento sexual intercambiando parejas mientras intentan liberarse de su rutina diaria y agregar un toque picante a su vida amorosa. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/40ezu5mY6QhcAXjS5UdNZnElc1v.jpg"
                             },
                             {
-                                "url": "/arcadia/",
-                                "title": "Arcadia",
-                                "description": "Tras una gran catástrofe, nace una nueva sociedad, Arcadia. Los recursos se han vuelto escasos y se introduce un sistema de puntos, conocido como Citizen Score. Determina lo que usted puede y debe hacer y a qué tiene derecho un ciudadano. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/tWz54XhkVQh3iUdnKS80B8BujE4.jpg"
-                            },
-                            {
-                                "url": "/ahsoka/",
-                                "title": "Ahsoka",
+                                "url": "/machos-alfa/",
+                                "title": "Machos alfa",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/enuFpD94H4mlCGWHR9C4vVsNHNW.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/sagrada-familia/",
-                                "title": "Sagrada familia",
+                                "url": "/last-light/",
+                                "title": "Last Light",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/a3M52NoKEH35UwyQ0IqRUP2UDBa.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eO3lnmd5ubKoweXhrGpoieGhmkJ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,69 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/el-juego-de-las-llaves/",
-                    "title": "El juego de las llaves",
-                    "description": "Ocho amigos, todos en una relación estable, deciden aventurarse en un juego de descubrimiento sexual intercambiando parejas mientras intentan liberarse de su rutina diaria y agregar un toque picante a su vida amorosa.",
-                    "genre": "Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/78n5sw1f6qimGDY08n90GE18RyV.jpg",
+                    "url": "/wild-cards/",
+                    "title": "Wild Cards",
+                    "description": "Un procedimiento de resolución de crímenes con un toque cómico que sigue al improbable dúo formado por un policía socarrón y riguroso y una estafadora astuta y enérgica.",
+                    "genre": "Comedia, Drama, Misterio",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/lIhkV9LNwViVD2bylPTFQvDD21e.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/el-juego-de-las-llaves-temporada-3-capitulo-6/",
-                        "name": "T03 - E06 - ¡Los declaro ex marido y ex mujer!",
-                        "date_upload": 1707868800000,
-                        "episode_number": 6.0
-                    },
-                    {
-                        "url": "/episode/el-juego-de-las-llaves-temporada-3-capitulo-5/",
-                        "name": "T03 - E05 - Arregla tu desmadrito",
-                        "date_upload": 1707868800000,
-                        "episode_number": 5.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00063/qcsf0t4ll2sr_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=9I4Zgh1t8GcR1vcD09nJOyfpqq0NS7GobHzpUaA7nOA&s=1708517478&e=43200&f=317299&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00063/qcsf0t4ll2sr_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=9I4Zgh1t8GcR1vcD09nJOyfpqq0NS7GobHzpUaA7nOA&s=1708517478&e=43200&f=317299&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00063/qcsf0t4ll2sr_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=9I4Zgh1t8GcR1vcD09nJOyfpqq0NS7GobHzpUaA7nOA&s=1708517478&e=43200&f=317299&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00063/qcsf0t4ll2sr_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=9I4Zgh1t8GcR1vcD09nJOyfpqq0NS7GobHzpUaA7nOA&s=1708517478&e=43200&f=317299&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s25.fastream.to/hls2/04/00063/qcsf0t4ll2sr_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=9I4Zgh1t8GcR1vcD09nJOyfpqq0NS7GobHzpUaA7nOA&s=1708517478&e=43200&f=317299&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s25.fastream.to/hls2/04/00063/qcsf0t4ll2sr_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=9I4Zgh1t8GcR1vcD09nJOyfpqq0NS7GobHzpUaA7nOA&s=1708517478&e=43200&f=317299&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

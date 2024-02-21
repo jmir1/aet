@@ -147,14 +147,14 @@
                                 "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2023/09/glorious-revenge-of-ye-feng-2023-lucifer-donghua.webp?fit=768%2C1217&ssl=1"
                             },
                             {
-                                "url": "/anime/the-success-s4-65595/",
-                                "title": "The Success of Empyrean Xuan Emperor Season 4",
-                                "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2023/08/the-success-of-empyrean-xuan-emperor-season-4.webp?fit=768%2C1125&ssl=1"
-                            },
-                            {
                                 "url": "/anime/against-the-gods/",
                                 "title": "Against the Gods (2023)",
                                 "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2023/06/against-the-gods-3d-chinese-anime-2-e1694973814657.webp?fit=648%2C1030&ssl=1"
+                            },
+                            {
+                                "url": "/anime/the-success-s4-65595/",
+                                "title": "The Success of Empyrean Xuan Emperor Season 4",
+                                "thumbnail_url": "https://i0.wp.com/luciferdonghua.in/wp-content/uploads/2023/08/the-success-of-empyrean-xuan-emperor-season-4.webp?fit=768%2C1125&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,36 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(LHsOENl1swJts0VUTtRxXAN8ryvJrwG6I-2ILpWVvJzjkOr4FCCB-4EDYflQFhK-XvLnjhIOTWgG8b6FnHZJFEJR_IdfmU6FzKaRWRK43KSsYcMBgGOo1tZ-eOT-AT9VxvidDmjHhyQQyupC-G5GZA)/video/870/565/532565078_mp4_h264_aac_hd.m3u8#cell=cf",
+                        "quality": "WITH ADS #2 - 576p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(LHsOENl1swJts0VUTtRxXAN8ryvJrwG6I-2ILpWVvJzjkOr4FCCB-4EDYflQFhK-XvLnjhIOTWgG8b6FnHZJFEJR_IdfmU6FzKaRWRK43KSsYcMBgGOo1tZ-eOT-AT9VxvidDmjHhyQQyupC-G5GZA)/video/870/565/532565078_mp4_h264_aac_hd.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(srKCPfELpUDIbc-EJXP0EvLUEHotcgZEaYmuJfjA61NXR1sPakVUgfLBJv17eKH1vPShPr7JyMTNxIlOzp0JisnnMONbt3B41uqp5ZstA_zIApRM0K7SXQ6pviYD4-5eVc-ofFcurkBjxkd0UZTytw)/video/870/565/532565078_mp4_h264_aac_hq.m3u8#cell=cf",
+                        "quality": "WITH ADS #2 - 480p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(srKCPfELpUDIbc-EJXP0EvLUEHotcgZEaYmuJfjA61NXR1sPakVUgfLBJv17eKH1vPShPr7JyMTNxIlOzp0JisnnMONbt3B41uqp5ZstA_zIApRM0K7SXQ6pviYD4-5eVc-ofFcurkBjxkd0UZTytw)/video/870/565/532565078_mp4_h264_aac_hq.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://vod.cf.dmcdn.net/sec2(dprGFiJWNos8jqhZa3RKUhJuQK86YbOAC3Q7IskTEM8rOZGZi3MC0XpUxt429e-Bvf-uMsLYKlcY-5TZddM8QQJqcIyipoYYfSU9kg8fIq2QedDgnGz3ZnRpOmCym5sMDWfi48sZgM0CKLz23HpWCQ)/video/870/565/532565078_mp4_h264_aac.m3u8#cell=cf",
+                        "quality": "WITH ADS #2 - 288p",
+                        "videoUrl": "https://vod.cf.dmcdn.net/sec2(dprGFiJWNos8jqhZa3RKUhJuQK86YbOAC3Q7IskTEM8rOZGZi3MC0XpUxt429e-Bvf-uMsLYKlcY-5TZddM8QQJqcIyipoYYfSU9kg8fIq2QedDgnGz3ZnRpOmCym5sMDWfi48sZgM0CKLz23HpWCQ)/video/870/565/532565078_mp4_h264_aac.m3u8#cell=cf",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
