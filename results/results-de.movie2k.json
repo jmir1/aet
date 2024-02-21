@@ -287,18 +287,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://srv14.dropload.io/hls2/01/00132/v0kqbc3v717o_h/index-v1-a1.m3u8?t=BZYG-87qPIQEXgdaLkb6WqhQ16nHgTzl3ImxIStYEw8&s=1708452649&e=21600&f=662377&srv=srv13&i=23.96&sp=0&p1=srv13&p2=srv13",
-                        "quality": "Dropload:720p ",
-                        "videoUrl": "https://srv14.dropload.io/hls2/01/00132/v0kqbc3v717o_h/index-v1-a1.m3u8?t=BZYG-87qPIQEXgdaLkb6WqhQ16nHgTzl3ImxIStYEw8&s=1708452649&e=21600&f=662377&srv=srv13&i=23.96&sp=0&p1=srv13&p2=srv13",
-                        "headers": {
-                            "origin": "https://dropload.io",
-                            "referer": "https://dropload.io/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: mixdropjmk.pw: No address associated with hostname",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/hazbin-hotel",
+                                "title": "Hazbin Hotel",
+                                "status": 2,
+                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4139.webp"
+                            },
+                            {
                                 "url": "/kimetsu-no-yaiba-hashira-geiko-hen",
                                 "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4138.webp"
@@ -118,12 +124,6 @@
                                 "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
                                 "status": 1,
                                 "thumbnail_url": "https://animemeow.xyz/media/portadas/4120.webp"
-                            },
-                            {
-                                "url": "/metallic-rouge",
-                                "title": "Metallic Rouge",
-                                "status": 1,
-                                "thumbnail_url": "https://animemeow.xyz/media/portadas/4118.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -263,22 +263,58 @@
             },
             "details": {
                 "result": {
-                    "url": "/kimetsu-no-yaiba-hashira-geiko-hen",
-                    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-                    "description": "Tanjiro se somete a un riguroso entrenamiento con el Hashira de Piedra, Himejima, en su búsqueda por convertirse en un Hashira. Mientras tanto, Muzan sigue buscando a Nezuko y Ubuyashiki.",
-                    "genre": "Acción, Shounen, Fantasía, Historico",
-                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4138.webp",
+                    "url": "/hazbin-hotel",
+                    "title": "Hazbin Hotel",
+                    "description": "Las Uves (Vox, Velvette y Valentino) reinan sin oposición en su rincón del Infierno, pero el regreso de Alastor a las ondas podría cambiar las cosas. Mientras tanto, un nuevo huésped pone a prueba la paciencia de Ángel.",
+                    "genre": "Comedia, Fantasía, Ciencia Ficción",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "thumbnail_url": "https://animemeow.xyz/media/portadas/4139.webp",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/ver/hazbin-hotel-2",
+                        "name": "Episodio 2",
+                        "episode_number": 0.0
+                    },
+                    {
+                        "url": "/ver/hazbin-hotel-1",
+                        "name": "Episodio 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://delivery-node-9oyoxegwsjgr0cmw.voe-network.net/engine/hls2-c/01/10531/pofyumm4lm8a_,n,.urlset/index-v1-a1.m3u8?t=9NcJ2rMuXDuP6442t8kILfviT2i8jRAC_1yu0d-7gwg&s=1708475385&e=14400&f=52658269&node=delivery-node-kfcaqtvy3apdervv.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 720p",
+                        "videoUrl": "https://delivery-node-9oyoxegwsjgr0cmw.voe-network.net/engine/hls2-c/01/10531/pofyumm4lm8a_,n,.urlset/index-v1-a1.m3u8?t=9NcJ2rMuXDuP6442t8kILfviT2i8jRAC_1yu0d-7gwg&s=1708475385&e=14400&f=52658269&node=delivery-node-kfcaqtvy3apdervv.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://a1.mp4upload.com:183/d/x2xsrn76z3b4quuotgqrsok2cfdk47bf2arddcn5vxx4dnzva6bqttrz6ke5opztgybyp3no/video.mp4",
+                        "quality": "Mp4Upload - 720p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xsrn76z3b4quuotgqrsok2cfdk47bf2arddcn5vxx4dnzva6bqttrz6ke5opztgybyp3no/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://mp4upload.com/"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=kgkB8a1ALmSOqRg&expires=1708545383&ip=F0qQKRWZD19XKxR&token=SciZ6PO7f7bM",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=kgkB8a1ALmSOqRg&expires=1708545383&ip=F0qQKRWZD19XKxR&token=SciZ6PO7f7bM"
+                    }
+                ],
+                "passed": true
             }
         }
     }
