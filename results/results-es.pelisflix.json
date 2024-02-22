@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/heist-88/",
+                                "title": "Heist 88",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/M6uY8E5PfPSGnKh8CJdNhh6V.webp"
+                            },
+                            {
+                                "url": "/pelicula/un-largo-viaje/",
+                                "title": "Un largo viaje",
+                                "description": "Violeta y Samuel, una madre con aires de misantropía y su hijo adolescente, tratan de reconciliarse...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/iudxKNnKLn6jNgaJ12.webp"
+                            },
+                            {
+                                "url": "/pelicula/wolf-dog-lobo-perro/",
+                                "title": "Wolf & Dog (Lobo & Perro)",
+                                "description": "Ana nació en São Miguel, una isla en medio del Océano Atlántico regida por la religión y las tr...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ktruwJtQTzgWLeZh5XMHc3cSNOecSyZ3RgoePHU.webp"
+                            },
+                            {
                                 "url": "/pelicula/leonardo-el-inventor/",
                                 "title": "Leonardo, el Inventor",
                                 "description": "Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci abor...",
@@ -227,24 +245,6 @@
                                 "title": "This Is Me…Now",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/KK1M56ui0vULJW6N55I37lJTLnuGvEt6elIah3i.webp"
-                            },
-                            {
-                                "url": "/pelicula/wolf-dog-lobo-perro/",
-                                "title": "Wolf & Dog (Lobo & Perro)",
-                                "description": "Ana nació en São Miguel, una isla en medio del Océano Atlántico regida por la religión y las tr...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ktruwJtQTzgWLeZh5XMHc3cSNOecSyZ3RgoePHU.webp"
-                            },
-                            {
-                                "url": "/pelicula/los-juegos-del-hambre-balada-de-pajaros-cantores-y-serpientes-ztox/",
-                                "title": "Los Juegos del Hambre: Balada de pájaros cantores y serpientes",
-                                "description": "Años antes de convertirse en el tiránico presidente de Panem, Coriolanus Snow, de 18 años, es la ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/8qgj9sVGRAcVcVgiDQsdrWu4WWSFAhjzyp.webp"
-                            },
-                            {
-                                "url": "/pelicula/ritos-ocultos/",
-                                "title": "Ritos ocultos",
-                                "description": "Rebecca Holland (Tuppence Middleton) se ha hecho cargo recientemente de la iglesia parroquial. Cuand...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5lNBTkmJ3KIRFaOS.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/leonardo-el-inventor/",
-                    "title": "Leonardo, el Inventor",
-                    "description": "Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci aborda el significado de la vida misma con la ayuda de la princesa francesa Marguerite de Nevarre.",
-                    "genre": "Animación, Drama, Familia",
+                    "url": "/pelicula/heist-88/",
+                    "title": "Heist 88",
+                    "description": "",
+                    "genre": "Crimen, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/leonardo-el-inventor/",
+                        "url": "/pelicula/heist-88/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar GWBwSxStX = \"\"; odTljiU.forEach(function Oym(value) { GWBwSxStX += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

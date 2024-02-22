@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-super-ita-1149-main.webp"
                             },
                             {
-                                "url": "/series/660",
-                                "title": "Naruto Shippuden",
-                                "thumbnail_url": "https://images.animearchive.online/elements/0turqlk7bm1biy9muxbxl6g.webp"
-                            },
-                            {
                                 "url": "/series/5",
                                 "title": "Death Note (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/death-note-ita-32-main.webp"
+                            },
+                            {
+                                "url": "/series/660",
+                                "title": "Naruto Shippuden",
+                                "thumbnail_url": "https://images.animearchive.online/elements/0turqlk7bm1biy9muxbxl6g.webp"
                             },
                             {
                                 "url": "/series/447",
@@ -117,9 +117,29 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/4232",
+                                "title": "Delusional Monthly Magazine",
+                                "thumbnail_url": "https://images.animearchive.online/elements/delusional-monthly-magazine-4651-main.webp"
+                            },
+                            {
+                                "url": "/series/4201",
+                                "title": "My Instant Death Ability is Overpowered",
+                                "thumbnail_url": "https://images.animearchive.online/elements/my-instant-death-ability-is-overpowered-4620-main.webp"
+                            },
+                            {
+                                "url": "/series/4231",
+                                "title": "Spare Me, Great Lord 2nd season",
+                                "thumbnail_url": "https://images.animearchive.online/elements/spare-me-great-lord-2nd-season-4650-main.webp"
+                            },
+                            {
                                 "url": "/series/4230",
                                 "title": "Metallic Rouge (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/metallic-rouge-ita-4649-main.webp"
+                            },
+                            {
+                                "url": "/series/4269",
+                                "title": "Ninja Kamui",
+                                "thumbnail_url": "https://images.animearchive.online/elements/qvb25m5uvb96o17eor37bm.webp"
                             },
                             {
                                 "url": "/series/2580",
@@ -195,26 +215,6 @@
                                 "url": "/series/4181",
                                 "title": "Shaman King Flowers",
                                 "thumbnail_url": "https://images.animearchive.online/elements/shaman-king-flowers-4600-main.webp"
-                            },
-                            {
-                                "url": "/series/4198",
-                                "title": "Hokkaido Gals Are Super Adorable!",
-                                "thumbnail_url": "https://images.animearchive.online/elements/hokkaido-gals-are-super-adorable-4617-main.webp"
-                            },
-                            {
-                                "url": "/series/4203",
-                                "title": "The Foolish Angel Dances with the Devil",
-                                "thumbnail_url": "https://images.animearchive.online/elements/the-foolish-angel-dances-with-the-devil-4622-main.webp"
-                            },
-                            {
-                                "url": "/series/3173",
-                                "title": "Megaton-kyuu Musashi",
-                                "thumbnail_url": "https://images.animearchive.online/elements/megaton-kyuu-musashi-3556-main.webp"
-                            },
-                            {
-                                "url": "/series/4226",
-                                "title": "'Tis Time for \"Torture,\" Princess",
-                                "thumbnail_url": "https://images.animearchive.online/elements/tis-time-for-\"torture\"-princess-4645-main.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -351,7 +351,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_1nkj1te = {\n\t\t\t\t\t\t.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_zisgfu = {\n\t\t\t\t\t\t\".....",
                 "passed": false
             }
         }
