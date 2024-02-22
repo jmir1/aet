@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/leonardo-el-inventor/",
+                                "title": "Leonardo, el Inventor",
+                                "description": "Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci abor...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uuRdgTTaegc4cm7JftlXXz5irT.webp"
+                            },
+                            {
+                                "url": "/pelicula/avgrunden/",
+                                "title": "Avgrunden",
+                                "description": "Frigga intenta equilibrar su arriesgado trabajo como directora de seguridad en la mina Kiirunavaara ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/K98UmScr1YAXBC19e91xTFBJo09ohP5SP4C1.webp"
+                            },
+                            {
+                                "url": "/pelicula/the-boys-in-the-boat/",
+                                "title": "The Boys in the Boat",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/p6C5s2qo37YVv8OlbG5j0A0DZIwhTzU8vn.webp"
+                            },
+                            {
+                                "url": "/pelicula/vidas-pasadas/",
+                                "title": "Vidas pasadas",
+                                "description": "La familia de Nora emigra a Canadá cuando ella tiene 10 años. Pierde el contacto con su amor de la...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/eUt3jyYoJjB2cNQ5tBoZ4O9ErUPT1.webp"
+                            },
+                            {
+                                "url": "/pelicula/inside-man/",
+                                "title": "Inside Man",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/2JEnNKN9cbkxV8o98rx.webp"
+                            },
+                            {
                                 "url": "/pelicula/papa-o-mama/",
                                 "title": "Papá o Mamá",
                                 "description": "",
@@ -145,12 +175,6 @@
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/hC1M1qa6X9D11nbFuWPfRryB0jfj6o.webp"
                             },
                             {
-                                "url": "/pelicula/avgrunden/",
-                                "title": "Avgrunden",
-                                "description": "Frigga intenta equilibrar su arriesgado trabajo como directora de seguridad en la mina Kiirunavaara ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/K98UmScr1YAXBC19e91xTFBJo09ohP5SP4C1.webp"
-                            },
-                            {
                                 "url": "/pelicula/cult-killer/",
                                 "title": "Cult Killer",
                                 "description": "Una investigadora privada se ve obligado a formar una peligrosa alianza con un asesino. Intentarán ...",
@@ -221,30 +245,6 @@
                                 "title": "Ritos ocultos",
                                 "description": "Rebecca Holland (Tuppence Middleton) se ha hecho cargo recientemente de la iglesia parroquial. Cuand...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5lNBTkmJ3KIRFaOS.webp"
-                            },
-                            {
-                                "url": "/pelicula/retribution-zxsd/",
-                                "title": "Retribution",
-                                "description": "Un ejecutivo de un banco recibe, mientras conduce a sus hijos a la escuela, una amenaza de bomba den...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ahggG9qBFAujwSE5hlPV2.webp"
-                            },
-                            {
-                                "url": "/pelicula/trafficking/",
-                                "title": "Trafficking",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/GXggz9KPeLiGBCt1AglE2.webp"
-                            },
-                            {
-                                "url": "/pelicula/bob-marley-one-love/",
-                                "title": "Bob Marley: One Love",
-                                "description": "Biopic sobre la leyenda del reggae.",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/FEfu3zR6fKCYkNCcm17Sc1aSimhbdq7IVd3PCKMIlex.webp"
-                            },
-                            {
-                                "url": "/pelicula/madame-web/",
-                                "title": "Madame Web",
-                                "description": "Una historia de origen de la clarividente conocida como Madame Web, cuyas habilidades psíquicas le ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/hbdxoKeMVKp6eVrnpZYxwJdL27I7XpN4rQsF.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/papa-o-mama/",
-                    "title": "Papá o Mamá",
-                    "description": "",
-                    "genre": "Comedia",
+                    "url": "/pelicula/leonardo-el-inventor/",
+                    "title": "Leonardo, el Inventor",
+                    "description": "Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci aborda el significado de la vida misma con la ayuda de la princesa francesa Marguerite de Nevarre.",
+                    "genre": "Animación, Drama, Familia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/papa-o-mama/",
+                        "url": "/pelicula/leonardo-el-inventor/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar gIShXfsXLW = \"\"; XPLAMXid.forEach(function Oym(value) { gIShXfsXLW += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

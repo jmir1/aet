@@ -3,109 +3,33 @@
         "name": "Kuramanime (ID)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/1873/oshi-no-ko",
-                                "title": "\"Oshi no Ko\"",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg"
-                            },
-                            {
-                                "url": "/anime/154/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
-                                "title": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1506/117717l.jpg"
-                            },
-                            {
-                                "url": "/anime/39/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
-                                "title": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1424/117718l.jpg"
-                            },
-                            {
-                                "url": "/anime/2167/16bit-sensation-another-layer",
-                                "title": "16bit Sensation: Another Layer",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1588/138395l.jpg"
-                            },
-                            {
-                                "url": "/anime/134/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka",
-                                "title": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1904/118821l.jpg"
-                            },
-                            {
-                                "url": "/anime/368/3-byougo-yajuu-goukon-de-sumi-ni-ita-kare-wa-midara-nikushoku-deshita",
-                                "title": "3-byougo, Yajuu.: Goukon de Sumi ni Ita Kare wa Midara Nikushoku deshita",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1972/121006l.jpg"
-                            },
-                            {
-                                "url": "/anime/2445/30-sai-made-doutei-dato-mahoutsukai-ni-nareru-rashii",
-                                "title": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1762/139690l.jpg"
-                            },
-                            {
-                                "url": "/anime/1372/4-nin-wa-sorezore-uso-wo-tsuku",
-                                "title": "4-nin wa Sorezore Uso wo Tsuku",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1934/128719l.jpg"
-                            },
-                            {
-                                "url": "/anime/1360/5-fun-de-wakaru-boku-no-hero-academia",
-                                "title": "5-fun de Wakaru: Boku no Hero Academia",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1366/127600l.jpg"
-                            },
-                            {
-                                "url": "/anime/2129/5-toubun-no-hanayome",
-                                "title": "5-toubun no Hanayome",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1819/97947l.jpg"
-                            },
-                            {
-                                "url": "/anime/2131/5-toubun-no-hanayome-2",
-                                "title": "5-toubun no Hanayome ∬",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1775/109514l.jpg"
-                            },
-                            {
-                                "url": "/anime/1551/5-toubun-no-hanayome-movie",
-                                "title": "5-toubun no Hanayome Movie",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1037/122516l.jpg"
-                            },
-                            {
-                                "url": "/anime/2118/5-toubun-no-hanayome-3",
-                                "title": "5-toubun no Hanayome∽",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1567/135752l.jpg"
-                            },
-                            {
-                                "url": "/anime/1359/7-fun-de-wakaru-boku-no-hero-academia",
-                                "title": "7-fun de Wakaru: Boku no Hero Academia",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1726/127520l.jpg"
-                            },
-                            {
-                                "url": "/anime/298/86",
-                                "title": "86",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg"
-                            },
-                            {
-                                "url": "/anime/97/86-part-2",
-                                "title": "86 Part 2",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1321/117508l.jpg"
-                            },
-                            {
-                                "url": "/anime/297/86-part-2-recaps",
-                                "title": "86 Part 2 Recaps",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1568/119723l.jpg"
-                            },
-                            {
-                                "url": "/anime/299/86-special-edition-senya-ni-akaku-hinageshi-no-saku",
-                                "title": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1971/115976l.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/2441/shenyuan-youxi",
+                                "title": "Shenyuan Youxi",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1774/140345l.jpg"
+                            },
+                            {
+                                "url": "/anime/1733/jiuzhou-piaomiao-lu",
+                                "title": "Jiuzhou Piaomiao Lu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1281/126741l.jpg"
+                            },
+                            {
+                                "url": "/anime/2551/taigu-xing-shen-jue",
+                                "title": "Taigu Xing Shen Jue",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1627/140954l.jpg"
+                            },
+                            {
+                                "url": "/anime/2575/shenyi-jiu-xiaojie-2nd-season",
+                                "title": "Shenyi Jiu Xiaojie 2nd Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1914/141293l.jpg"
+                            },
                             {
                                 "url": "/anime/2369/jian-yu-feng-yun-3rd-season",
                                 "title": "Jian Yu Feng Yun 3rd Season",
@@ -175,26 +99,6 @@
                                 "url": "/anime/2133/honghuang-ling-zun",
                                 "title": "Honghuang Ling Zun",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1098/138327l.jpg"
-                            },
-                            {
-                                "url": "/anime/2375/jin-zhan-fashi",
-                                "title": "Jin Zhan Fashi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1228/139235l.jpg"
-                            },
-                            {
-                                "url": "/anime/2416/zhen-wu-dianfeng-3rd-season",
-                                "title": "Zhen Wu Dianfeng 3rd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1065/140007l.jpg"
-                            },
-                            {
-                                "url": "/anime/5/jue-shi-wu-hun",
-                                "title": "Jue Shi Wu Hun",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1183/110438l.jpg"
-                            },
-                            {
-                                "url": "/anime/2096/xi-xing-ji-nian-fan",
-                                "title": "Xi Xing Ji: Nian Fan",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1628/137502l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -304,10 +208,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/1873/oshi-no-ko",
-                    "title": "\"Oshi no Ko\"",
-                    "description": "Dalam dunia hiburan, selebritis sering kali menunjukkan versi diri mereka yang berlebihan kepada publik, menyembunyikan pemikiran dan perjuangan mereka yang sebenarnya di balik kebohongan yang rumit. Para penggemar mempercayai kebohongan ini, menghujani idola mereka dengan cinta dan dukungan abadi, hingga sesuatu mematahkan ilusi tersebut. Bintang baru berusia enam belas tahun Ai Hoshino dari grup idola pop B Komachi telah memikat dunia; namun, ketika dia mengumumkan jeda karena masalah kesehatan, berita tersebut menyebabkan banyak orang menjadi khawatir. Sebagai penggemar berat Ai, ginekolog Gorou Amemiya menyemangati dia dari praktik medis pedesaannya, berharap dia bisa bertemu dengannya secara langsung suatu hari nanti. Keinginannya menjadi kenyataan ketika Ai muncul di rumah sakitnya—tidak sakit, tapi hamil anak kembar! Meskipun dokter berjanji pada Ai untuk melahirkan anak-anaknya dengan selamat, dia bertanya-tanya apakah pertemuan dengan sang idola akan selamanya mengubah sifat hubungannya dengan Ai. [Ditulis oleh MAL Rewrite] Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: [Oshi No Ko], 【推しの子】, My Star\n\nTipe: TV\nEpisode: 11\nStatus: Selesai Tayang\nTayang: 12 Apr 2023 s/d 28 Jun 2023\nMusim: Spring 2023\nDurasi: 30 menit per episode\nKualitas: BD\nNegara: JP\nAdaptasi: Manga\nGenre: Drama, Supernatural\nEksplisit: ?\nDemografis: Seinen\nTema: Reincarnation, Showbiz\nStudio: Doga Kobo\nSkor: 8.70 / 10.00\nPeminat: 740,569 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Kuso",
-                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
+                    "url": "/anime/2441/shenyuan-youxi",
+                    "title": "Shenyuan Youxi",
+                    "description": "- belum terdapat sinopsis -\n\nAlternative names: The Abyss Game, 深渊游戏\n\nTipe: ONA\nEpisode: 16\nStatus: Sedang Tayang\nTayang: 14 Des 2023 s/d ?\nMusim: Fall 2023\nDurasi: ?\nKualitas: WEB-DL\nNegara: ?\nAdaptasi: Novel Web\nGenre: Action, Fantasy, Sci-Fi\nEksplisit: ?\nDemografis: ?\nTema: ?\nStudio: ?\nSkor: ?\nPeminat: 12 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Anichin",
+                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1774/140345l.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -315,14 +219,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/anime/1873/oshi-no-ko/episode/11",
-                        "name": "Ep 11",
-                        "episode_number": 11.0
+                        "url": "/anime/2441/shenyuan-youxi/episode/12",
+                        "name": "Ep 12",
+                        "episode_number": 12.0
                     },
                     {
-                        "url": "/anime/1873/oshi-no-ko/episode/10",
-                        "name": "Ep 10",
-                        "episode_number": 10.0
+                        "url": "/anime/2441/shenyuan-youxi/episode/11",
+                        "name": "Ep 11",
+                        "episode_number": 11.0
                     }
                 ],
                 "passed": true
