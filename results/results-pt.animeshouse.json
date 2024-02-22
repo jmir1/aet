@@ -3,33 +3,27 @@
         "name": "Animes House (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: www.animeshouse.net: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: www.animeshouse.net",
                 "passed": false
             },
             "search": {
-                "error": "java.util.NoSuchElementException: List is empty.",
+                "error": "java.net.UnknownHostException: www.animeshouse.net",
                 "passed": false
             },
             "details": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.net.UnknownHostException: www.animeshouse.net",
                 "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/",
-                        "name": "Filme",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.UnknownHostException: www.animeshouse.net",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.UnknownHostException: www.animeshouse.net",
                 "passed": false
             }
         }
