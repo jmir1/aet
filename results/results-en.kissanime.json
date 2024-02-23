@@ -267,6 +267,26 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/frieren-beyond-journeys-end.11511/",
+                                "title": "Frieren: Beyond Journey’s End",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash/",
+                                "title": "The Weakest Tamer Began a Journey to Pick Up Trash",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Unwanted-Undead-Adventurer/",
+                                "title": "The Unwanted Undead Adventurer",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Unwanted-Undead-Adventurer.jpg"
+                            },
+                            {
+                                "url": "/Anime/Sasaki-and-Peeps/",
+                                "title": "Sasaki and Peeps",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sasaki-and-Peeps.jpg"
+                            },
+                            {
                                 "url": "/Anime/Chou-Futsuu-ken-Chiba-Densetsu/",
                                 "title": "The Legend of Super normal Pref. CHIBA",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Legend-of-Super-normal-Pref-CHIBA.jpg"
@@ -495,26 +515,6 @@
                                 "url": "/Anime/The-Foolish-Angel-Dances-with-the-Devil/",
                                 "title": "The Foolish Angel Dances with the Devil",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Foolish-Angel-Dances-with-the-Devil.jpg"
-                            },
-                            {
-                                "url": "/Anime/Tis-Time-for-quot-Torture-quot-Princess/",
-                                "title": "Tis Time for Torture, Princess",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Tis-Time-for-Torture-Princess.jpg"
-                            },
-                            {
-                                "url": "/Anime/HIGH-CARD-Season-2/",
-                                "title": "HIGH CARD Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/HIGH-CARD-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Tsuki-ga-Michibiku-Isekai-Douchuu-2nd-Season/",
-                                "title": "TSUKIMICHI -Moonlit Fantasy- Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/TSUKIMICHI-Moonlit-Fantasy-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries-Dub/",
-                                "title": "The Apothecary Diaries (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Apothecary-Diaries-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
                 "passed": false
             }
         }

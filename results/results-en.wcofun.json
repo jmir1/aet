@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/the-second-best-hospital-in-the-galaxy",
+                                "title": "The Second Best Hospital in the Galaxy",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933519.jpg"
+                            },
+                            {
                                 "url": "/anime/the-adventures-of-bernie",
                                 "title": "The Adventures of Bernie",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933518.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/combat-q",
                                 "title": "Combat Q",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933504.jpg"
-                            },
-                            {
-                                "url": "/anime/wicked",
-                                "title": "Wicked!",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933503.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,44 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/the-adventures-of-bernie",
-                    "title": "The Adventures of Bernie",
-                    "description": "After a failed attempt to help Zig eat Marina, Bernie is now lost at the bottom of the ocean. In this hostile environment, our genius inventor relentlessly tries to return to his island and reunite with Zig.",
-                    "genre": "Comedy, Slapstick, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933518.jpg",
+                    "url": "/anime/the-second-best-hospital-in-the-galaxy",
+                    "title": "The Second Best Hospital in the Galaxy",
+                    "description": "In Season One of The Second Best Hospital in the Galaxy, doctors Sleech and Klak take on a highly dangerous and potentially groundbreaking case and, in doing so, put existence itself in jeopardy. Although considering their dismal personal lives, oblivion might be an improvement.",
+                    "genre": "Animation, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933519.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/the-adventures-of-bernie-episode-10-can-you-drop-me-off",
-                        "name": "Season 1 - Episode 10",
-                        "episode_number": 110.0
-                    },
-                    {
-                        "url": "/the-adventures-of-bernie-episode-9-bernies-got-talent",
-                        "name": "Season 1 - Episode 9",
-                        "episode_number": 109.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjy0X6PXH16PSdcigXmMlydtuObrZ7Q6Wv_-lcZ_8BfVv84mCyQqI1IwZ1snuNEUEXwF7TJ21M22s8Ws0zWYTzcYBuihNvxqlcAko7idNOKqwZE8qLPUKJmAGF5L6CuBGmjF9Uard3XIAQUPqMtWKg3dD20AxvWee2jm8Wi6KIHZ1-_ap1AjB4kTWZxsL9o3uFolirdpaT-L1Tovgn-PXo19okiSmh0nxd6zYukCRMzAIg8vx_jw5w89R67Xfg0pbvwpxxetZiohPHxU23hd-Sqeq_YygsQ9TkVUxgHg5SovesxVCv1v7RxaqtRHRIkKF5p7IcoRqK4sDmxonUtnZ5g",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjy0X6PXH16PSdcigXmMlydtuObrZ7Q6Wv_-lcZ_8BfVv84mCyQqI1IwZ1snuNEUEXwF7TJ21M22s8Ws0zWYTzcYBuihNvxqlcAko7idNOKqwZE8qLPUKJmAGF5L6CuBGmjF9Uard3XIAQUPqMtWKg3dD20AxvWee2jm8Wi6KIHZ1-_ap1AjB4kTWZxsL9o3uFolirdpaT-L1Tovgn-PXo19okiSmh0nxd6zYukCRMzAIg8vx_jw5w89R67Xfg0pbvwpxxetZiohPHxU23hd-Sqeq_YygsQ9TkVUxgHg5SovesxVCv1v7RxaqtRHRIkKF5p7IcoRqK4sDmxonUtnZ5g"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjy0X6PXH16PSdcigXmMlydtuObrZ7Q6Wv_-lcZ_8BfVv84mCyQqI1IwZ1snuNEUEXwF7TJ21M22s8Ws0zWYTzdmIAqoqPRrfv-wHATioXUNH9gclaVvpoLGARLWyw7OMYwUCOKAPsT9HbcUCOKKDHpgBk1n_li3SY1FPyuXkWxck6UEeMtTEX9HeLFf6Xop-outLmS3qre7k7dFmIuMXQuif-K-2_XP9CP7ZFM73WQnuyn6Hkk0gc6gsvdaoAwcpJDxvlObsUGavpr9AIXWmF8FL1ZD8VD_djXUv-Q0ESp78NRrcZm5aLqGuHUUDJud5A",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJjy0X6PXH16PSdcigXmMlydtuObrZ7Q6Wv_-lcZ_8BfVv84mCyQqI1IwZ1snuNEUEXwF7TJ21M22s8Ws0zWYTzdmIAqoqPRrfv-wHATioXUNH9gclaVvpoLGARLWyw7OMYwUCOKAPsT9HbcUCOKKDHpgBk1n_li3SY1FPyuXkWxck6UEeMtTEX9HeLFf6Xop-outLmS3qre7k7dFmIuMXQuif-K-2_XP9CP7ZFM73WQnuyn6Hkk0gc6gsvdaoAwcpJDxvlObsUGavpr9AIXWmF8FL1ZD8VD_djXUv-Q0ESp78NRrcZm5aLqGuHUUDJud5A"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }

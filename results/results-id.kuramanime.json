@@ -3,13 +3,48 @@
         "name": "Kuramanime (ID)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
                 "passed": false
             },
             "latest": {
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/2479/sasaki-to-pii-chan",
+                                "title": "Sasaki to Pii-chan",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1624/139672l.jpg"
+                            },
+                            {
+                                "url": "/anime/2587/jintian-kaishi-zuo-mingxing-zhi-tianshi-qingge",
+                                "title": "Jintian Kaishi Zuo Mingxing: Zhi Tianshi Qingge",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1158/141557l.jpg"
+                            },
+                            {
+                                "url": "/anime/967/jintian-kaishi-zuo-mingxing",
+                                "title": "Jintian Kaishi Zuo Mingxing",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1403/134149l.jpg"
+                            },
+                            {
+                                "url": "/anime/2316/emo-faze",
+                                "title": "Emo Faze",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1053/121486l.jpg"
+                            },
+                            {
+                                "url": "/anime/2318/dubu-wangu",
+                                "title": "Dubu Wangu",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1720/138642l.jpg"
+                            },
+                            {
+                                "url": "/anime/1690/fangyu-quan-kai",
+                                "title": "Fangyu Quan Kai",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1917/132155l.jpg"
+                            },
+                            {
+                                "url": "/anime/2411/jiu-tian-xuan-di-jue-5th-season",
+                                "title": "Jiu Tian Xuan Di Jue 5th Season",
+                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1222/139758l.jpg"
+                            },
                             {
                                 "url": "/anime/2491/yuuki-bakuhatsu-bang-bravern",
                                 "title": "Yuuki Bakuhatsu Bang Bravern",
@@ -64,41 +99,6 @@
                                 "url": "/anime/2486/sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga",
                                 "title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
                                 "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1734/139673l.jpg"
-                            },
-                            {
-                                "url": "/anime/2468/mato-seihei-no-slave",
-                                "title": "Mato Seihei no Slave",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1114/140805l.jpg"
-                            },
-                            {
-                                "url": "/anime/2453/dungeon-meshi",
-                                "title": "Dungeon Meshi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1938/140374l.jpg"
-                            },
-                            {
-                                "url": "/anime/2457/hikari-no-ou-2nd-season",
-                                "title": "Hikari no Ou 2nd Season",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1361/140742l.jpg"
-                            },
-                            {
-                                "url": "/anime/2586/yishi-zhi-zun",
-                                "title": "Yishi Zhi Zun",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1190/140325l.jpg"
-                            },
-                            {
-                                "url": "/anime/2441/shenyuan-youxi",
-                                "title": "Shenyuan Youxi",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1774/140345l.jpg"
-                            },
-                            {
-                                "url": "/anime/1322/wangu-shenhua",
-                                "title": "Wangu Shenhua",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1971/127030l.jpg"
-                            },
-                            {
-                                "url": "/anime/1733/jiuzhou-piaomiao-lu",
-                                "title": "Jiuzhou Piaomiao Lu",
-                                "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1281/126741l.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -208,10 +208,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/2491/yuuki-bakuhatsu-bang-bravern",
-                    "title": "Yuuki Bakuhatsu Bang Bravern",
-                    "description": "Di dunia di mana senjata lapis baja humanoid yang dikenal sebagai “Titatonostrider” (“TS”) digunakan dalam peperangan. Pasukan dari berbagai negara berkumpul di pulau Oahu, Hawaii, termasuk Ao Isami dari Pasukan Bela Diri Darat Jepang dan Lewis Smith dari Korps Marinir Amerika Serikat. Isami dan Smith berpapasan selama pertempuran, namun tiba-tiba tim mereka diserang oleh musuh tak dikenal, menyebarkan tentara dan membuat pasukan mereka berantakan. Untuk menyelamatkan teman-teman mereka dan bertahan di medan perang yang mematikan, mereka harus bertarung dengan seluruh keberanian dan kebanggaan yang dapat mereka kumpulkan. (Sumber: Crunchyroll News) Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: Brave Bang Bravern!, 勇気爆発バーンブレイバーン, Bang Brave Bang Bravern\n\nTipe: TV\nEpisode: 12\nStatus: Sedang Tayang\nTayang: 11 Jan 2024 s/d ?\nMusim: Winter 2024\nDurasi: 23 menit\nKualitas: HD\nNegara: JP\nAdaptasi: Asli\nGenre: Action, Sci-Fi\nEksplisit: ?\nDemografis: ?\nTema: Mecha, Military\nStudio: CygamesPictures\nSkor: 7.10 / 10.00\nPeminat: 6,405 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: Gokai",
-                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1872/140863l.jpg",
+                    "url": "/anime/2479/sasaki-to-pii-chan",
+                    "title": "Sasaki to Pii-chan",
+                    "description": "Meskipun kehidupan korporat Sasaki yang membosankan selalu diisi dengan pekerjaan, hal itu membuatnya lelah dan tidak puas di penghujung hari. Untuk mencari teman untuk mengisi kekosongan dalam hidupnya, dia mengunjungi toko hewan peliharaan, tanpa menyadari bahwa dia akan mengubah hidupnya selamanya. Setelah memilih seekor burung yang menggemaskan dan membawanya pulang... teman sekamar barunya mengungkapkan bahwa burung itu sebenarnya adalah seorang bijak luar biasa dari dunia lain yang segera menganugerahkan Sasaki kekuatan supernatural serta kemampuan untuk menyeberang antar dunia. Yang Sasaki ingin lakukan hanyalah menggunakan kekuatan baru ini untuk hidup damai dan nyaman, namun ada beberapa karakter berwarna yang mungkin menghalangi hal tersebut... (Sumber: Yen Press) Catatan: Sinopsis diterjemahkan secara otomatis oleh Google Translate.\n\nAlternative names: Sasaki and Peeps, 佐々木とピーちゃん, Sasaki to P-chan\n\nTipe: TV\nEpisode: 12\nStatus: Sedang Tayang\nTayang: 05 Jan 2024 s/d 22 Mar 2024\nMusim: Winter 2024\nDurasi: 25 menit per episode\nKualitas: HD\nNegara: JP\nAdaptasi: Novel Ringan\nGenre: Adventure, Comedy, Fantasy\nEksplisit: ?\nDemografis: ?\nTema: Isekai\nStudio: SILVER LINK.\nSkor: 7.69 / 10.00\nPeminat: 41,207 orang\nRating: PG-13 - Remaja berusia 13 tahun ke atas\nKredit: BGlobal",
+                    "thumbnail_url": "https://cdn.myanimelist.net/images/anime/1624/139672l.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -219,14 +219,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/anime/2491/yuuki-bakuhatsu-bang-bravern/episode/7",
-                        "name": "Ep 7",
-                        "episode_number": 7.0
+                        "url": "/anime/2479/sasaki-to-pii-chan/episode/8",
+                        "name": "Ep 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/anime/2491/yuuki-bakuhatsu-bang-bravern/episode/6",
-                        "name": "Ep 6",
-                        "episode_number": 6.0
+                        "url": "/anime/2479/sasaki-to-pii-chan/episode/7",
+                        "name": "Ep 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
