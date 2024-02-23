@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/femme/",
+                                "title": "Femme",
+                                "description": "La vida y la carrera de Jules como drag queen quedan destruidas por un brutal ataque homófobo. Pero...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Yimt0lWfELGGvFxPyGe.webp"
+                            },
+                            {
                                 "url": "/pelicula/heist-88/",
                                 "title": "Heist 88",
                                 "description": "",
@@ -227,12 +233,6 @@
                                 "title": "Dangerous Waters",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/mxP29WmxHG8Qrx5ddcgNgJ96F7D7y.webp"
-                            },
-                            {
-                                "url": "/pelicula/femme/",
-                                "title": "Femme",
-                                "description": "La vida y la carrera de Jules como drag queen quedan destruidas por un brutal ataque homófobo. Pero...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Yimt0lWfELGGvFxPyGe.webp"
                             },
                             {
                                 "url": "/pelicula/la-contadora-de-peliculas/",
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/heist-88/",
-                    "title": "Heist 88",
-                    "description": "",
-                    "genre": "Crimen, Drama",
+                    "url": "/pelicula/femme/",
+                    "title": "Femme",
+                    "description": "La vida y la carrera de Jules como drag queen quedan destruidas por un brutal ataque homófobo. Pero cuando se reencuentra en una sauna gay con su agresor, Preston, que mantiene oculta su orientación sexual, se le presenta la oportunidad de vengarse. Irreconocible sin su peluca y maquillaje, Jules se infiltra en la vida de Preston y, al hacerlo, inicia una peligrosa seducción.",
+                    "genre": "Drama, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/heist-88/",
+                        "url": "/pelicula/femme/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar XkLCCCNETN = \"\"; kDKkgaC.forEach(function Oym(value) { XkLCCCNETN += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar bFFRiYNu = \"\"; DHzqZeqP.forEach(function Oym(value) { bFFRiYNu += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

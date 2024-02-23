@@ -497,8 +497,129 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c4a9a723fbed01aee15ace5919c1b6d2260ce00d073f6c0447a59411823722610e3ddbc9a6f33d13ca58ce9ea6d5d380163cd8bc12725fa0741d7b16a439b7234e4561850d09976b67d64348a06ef1b3212d6c25112b65fe5b0a534bd9604c6201536ac87567c7683fd72b2cc7446bbaf0/1080/index.m3u8",
+                        "quality": "Vidcloud - 1080p",
+                        "videoUrl": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c4a9a723fbed01aee15ace5919c1b6d2260ce00d073f6c0447a59411823722610e3ddbc9a6f33d13ca58ce9ea6d5d380163cd8bc12725fa0741d7b16a439b7234e4561850d09976b67d64348a06ef1b3212d6c25112b65fe5b0a534bd9604c6201536ac87567c7683fd72b2cc7446bbaf0/1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://dopebox.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://f.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f94584485b76a1e3d7f959806fcdff975d38db16667ace3757702e91f89c6eb900054/1080/index.m3u8",
+                        "quality": "UpCloud - 1080p",
+                        "videoUrl": "https://f.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f94584485b76a1e3d7f959806fcdff975d38db16667ace3757702e91f89c6eb900054/1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://dopebox.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c4a9a723fbed01aee15ace5919c1b6d2260ce00d073f6c0447a59411823722610e3ddbc9a6f33d13ca58ce9ea6d5d380163cd8bc12725fa0741d7b16a439b7234e4561850d09976b67d64348a06ef1b3212d6c25112b65fe5b0a534bd9604c6201536ac87567c7683fd72b2cc7446bbaf0/720/index.m3u8",
+                        "quality": "Vidcloud - 720p",
+                        "videoUrl": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c4a9a723fbed01aee15ace5919c1b6d2260ce00d073f6c0447a59411823722610e3ddbc9a6f33d13ca58ce9ea6d5d380163cd8bc12725fa0741d7b16a439b7234e4561850d09976b67d64348a06ef1b3212d6c25112b65fe5b0a534bd9604c6201536ac87567c7683fd72b2cc7446bbaf0/720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://dopebox.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://f.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f94584485b76a1e3d7f959806fcdff975d38db16667ace3757702e91f89c6eb900054/720/index.m3u8",
+                        "quality": "UpCloud - 720p",
+                        "videoUrl": "https://f.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f94584485b76a1e3d7f959806fcdff975d38db16667ace3757702e91f89c6eb900054/720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://dopebox.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c4a9a723fbed01aee15ace5919c1b6d2260ce00d073f6c0447a59411823722610e3ddbc9a6f33d13ca58ce9ea6d5d380163cd8bc12725fa0741d7b16a439b7234e4561850d09976b67d64348a06ef1b3212d6c25112b65fe5b0a534bd9604c6201536ac87567c7683fd72b2cc7446bbaf0/360/index.m3u8",
+                        "quality": "Vidcloud - 360p",
+                        "videoUrl": "https://b-g-eu-15.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c4a9a723fbed01aee15ace5919c1b6d2260ce00d073f6c0447a59411823722610e3ddbc9a6f33d13ca58ce9ea6d5d380163cd8bc12725fa0741d7b16a439b7234e4561850d09976b67d64348a06ef1b3212d6c25112b65fe5b0a534bd9604c6201536ac87567c7683fd72b2cc7446bbaf0/360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://dopebox.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://f.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f94584485b76a1e3d7f959806fcdff975d38db16667ace3757702e91f89c6eb900054/360/index.m3u8",
+                        "quality": "UpCloud - 360p",
+                        "videoUrl": "https://f.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f94584485b76a1e3d7f959806fcdff975d38db16667ace3757702e91f89c6eb900054/360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://dopebox.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }

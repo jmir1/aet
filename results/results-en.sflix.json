@@ -497,8 +497,129 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c48b6469640a4f12ed27a6f74c12e489684d28ebc95121c22614c54f8b429250ad296639a1617513091e923c4949e061f98734657d4819b6ed330ff978338b05db411be56151b48b20d0cf9ea85f2c032ab4a93d80881a4c08adf932e901def54aca211fb9400451f9d2970d848550384b/1080/index.m3u8",
+                        "quality": "Vidcloud - 1080p",
+                        "videoUrl": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c48b6469640a4f12ed27a6f74c12e489684d28ebc95121c22614c54f8b429250ad296639a1617513091e923c4949e061f98734657d4819b6ed330ff978338b05db411be56151b48b20d0cf9ea85f2c032ab4a93d80881a4c08adf932e901def54aca211fb9400451f9d2970d848550384b/1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://x.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f9458e8672eb2674f9b41acd9228fc6d337fc5c0ef07cdf7a9a149fa8cbe5f87f4531/1080/index.m3u8",
+                        "quality": "UpCloud - 1080p",
+                        "videoUrl": "https://x.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f9458e8672eb2674f9b41acd9228fc6d337fc5c0ef07cdf7a9a149fa8cbe5f87f4531/1080/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c48b6469640a4f12ed27a6f74c12e489684d28ebc95121c22614c54f8b429250ad296639a1617513091e923c4949e061f98734657d4819b6ed330ff978338b05db411be56151b48b20d0cf9ea85f2c032ab4a93d80881a4c08adf932e901def54aca211fb9400451f9d2970d848550384b/720/index.m3u8",
+                        "quality": "Vidcloud - 720p",
+                        "videoUrl": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c48b6469640a4f12ed27a6f74c12e489684d28ebc95121c22614c54f8b429250ad296639a1617513091e923c4949e061f98734657d4819b6ed330ff978338b05db411be56151b48b20d0cf9ea85f2c032ab4a93d80881a4c08adf932e901def54aca211fb9400451f9d2970d848550384b/720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://x.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f9458e8672eb2674f9b41acd9228fc6d337fc5c0ef07cdf7a9a149fa8cbe5f87f4531/720/index.m3u8",
+                        "quality": "UpCloud - 720p",
+                        "videoUrl": "https://x.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f9458e8672eb2674f9b41acd9228fc6d337fc5c0ef07cdf7a9a149fa8cbe5f87f4531/720/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c48b6469640a4f12ed27a6f74c12e489684d28ebc95121c22614c54f8b429250ad296639a1617513091e923c4949e061f98734657d4819b6ed330ff978338b05db411be56151b48b20d0cf9ea85f2c032ab4a93d80881a4c08adf932e901def54aca211fb9400451f9d2970d848550384b/360/index.m3u8",
+                        "quality": "Vidcloud - 360p",
+                        "videoUrl": "https://b-g-eu-2.feetcdn.com:2223/v3-hls-playback/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3cb4169580268f4f6cf9f94d4cf61e61c48b6469640a4f12ed27a6f74c12e489684d28ebc95121c22614c54f8b429250ad296639a1617513091e923c4949e061f98734657d4819b6ed330ff978338b05db411be56151b48b20d0cf9ea85f2c032ab4a93d80881a4c08adf932e901def54aca211fb9400451f9d2970d848550384b/360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://x.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f9458e8672eb2674f9b41acd9228fc6d337fc5c0ef07cdf7a9a149fa8cbe5f87f4531/360/index.m3u8",
+                        "quality": "UpCloud - 360p",
+                        "videoUrl": "https://x.pollllop.com/_v11/ba92aa83132c52d39f9c36dffb232e747b31cf6d5448e924397cb9ed83d7c98158ced5488fc1bfda81d8590c0449cc3c331f1aa1df69c2bd319534b526b3d6723d901ad6e1af7a7f5d1820d1eaffb85daf014359497cf9f68cfe0b2842404250b63135ec2b2e3edfc6926152123f9458e8672eb2674f9b41acd9228fc6d337fc5c0ef07cdf7a9a149fa8cbe5f87f4531/360/index.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://sflix.to/",
+                            "Accept": "*/*"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-3.vtt",
+                                "lang": "English - SDH"
+                            },
+                            {
+                                "url": "https://cc.2cdns.com/3a/6b/3a6bb71fb6c9ff626ed2d7f89f527b68/eng-2.vtt",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
