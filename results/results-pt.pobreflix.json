@@ -3,27 +3,480 @@
         "name": "Pobreflix (PT-BR)",
         "results": {
             "popular": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/avatar-o-ultimo-mestre-do-ar/",
+                                "title": "Avatar: O Último Mestre do Ar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg"
+                            },
+                            {
+                                "url": "/filmes/todos-menos-voce/",
+                                "title": "Todos Menos Você",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tPx1HEiS5zd9mLvtb52YY66dkEO.jpg"
+                            },
+                            {
+                                "url": "/series/bom-dia-veronica/",
+                                "title": "Bom Dia Verônica",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jDAviTUsv1cs3M5yI7DEzQiBLLi.jpg"
+                            },
+                            {
+                                "url": "/filmes/madame-teia/",
+                                "title": "Madame Teia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg"
+                            },
+                            {
+                                "url": "/filmes/mamonas-assassinas-o-filme/",
+                                "title": "Mamonas Assassinas: O Filme",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg"
+                            },
+                            {
+                                "url": "/series/halo/",
+                                "title": "Halo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
+                            },
+                            {
+                                "url": "/filmes/argylle-o-superespiao/",
+                                "title": "Argylle: O Superespião",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kdIneF9itLJcTQEBBnxQ9gx00MM.jpg"
+                            },
+                            {
+                                "url": "/filmes/beekeeper-rede-de-vinganca/",
+                                "title": "Beekeeper: Rede de Vingança",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/cCGFvoxzaBbYM3I68s6F939fybN.jpg"
+                            },
+                            {
+                                "url": "/series/berlim/",
+                                "title": "Berlim",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOv5c4PJmQn3sBdrGVThVIyxQpH.jpg"
+                            },
+                            {
+                                "url": "/filmes/rebel-moon-parte-1-a-menina-do-fogo/",
+                                "title": "Rebel Moon – Parte 1: A Menina do Fogo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/sPmGw8DOpH856QjhCfetSK9yzI5.jpg"
+                            },
+                            {
+                                "url": "/filmes/aquaman-2-o-reino-perdido/",
+                                "title": "Aquaman 2: O Reino Perdido",
+                                "thumbnail_url": "https://assets.gamearena.gg/wp-content/uploads/2023/11/13162929/aquaman-2-reino-perdido.jpg"
+                            },
+                            {
+                                "url": "/series/percy-jackson-e-os-olimpianos/",
+                                "title": "Percy Jackson e os Olimpianos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "latest": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/avatar-o-ultimo-mestre-do-ar/",
+                                "title": "Avatar: O Último Mestre do Ar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg"
+                            },
+                            {
+                                "url": "/series/bom-dia-veronica/",
+                                "title": "Bom Dia Verônica",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jDAviTUsv1cs3M5yI7DEzQiBLLi.jpg"
+                            },
+                            {
+                                "url": "/series/halo/",
+                                "title": "Halo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg"
+                            },
+                            {
+                                "url": "/series/berlim/",
+                                "title": "Berlim",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aOv5c4PJmQn3sBdrGVThVIyxQpH.jpg"
+                            },
+                            {
+                                "url": "/series/percy-jackson-e-os-olimpianos/",
+                                "title": "Percy Jackson e os Olimpianos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg"
+                            },
+                            {
+                                "url": "/series/reacher/",
+                                "title": "Reacher",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg"
+                            },
+                            {
+                                "url": "/series/morangos-com-acucar/",
+                                "title": "Assisir Morangos com Açúcar Online",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/qGN120mLdeWOkKsSqs94nkmgwI6.jpg"
+                            },
+                            {
+                                "url": "/series/loki/",
+                                "title": "Loki",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/7TaWAfUTMOAAI1SPdAihXD2RIaj.jpg"
+                            },
+                            {
+                                "url": "/series/hora-de-aventura-com-fionna-e-cake/",
+                                "title": "Hora de Aventura com Fionna e Cake",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/64SpFbPGKkoJ6sqXcIbnm4CXWBB.jpg"
+                            },
+                            {
+                                "url": "/series/the-walking-dead-daryl-dixon/",
+                                "title": "The Walking Dead: Daryl Dixon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/kdM24KINoAVK9wjCtDJCkdffEpc.jpg"
+                            },
+                            {
+                                "url": "/series/one-piece-a-serie/",
+                                "title": "ONE PIECE: A Série",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/y0VSmak9mSobl9QTKCvR7w4w6Ui.jpg"
+                            },
+                            {
+                                "url": "/series/sintonia/",
+                                "title": "Sintonia",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lmEicQsG0X99mDGoBOfMzJRXbWO.jpg"
+                            },
+                            {
+                                "url": "/series/avatar-o-ultimo-mestre-do-ar/",
+                                "title": "Avatar: O Último Mestre do Ar",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg"
+                            },
+                            {
+                                "url": "/series/忍びの家-house-of-ninjas/",
+                                "title": "忍びの家 House of Ninjas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/rnbfSEC3h7WbE2yVifKKPrzLUJ9.jpg"
+                            },
+                            {
+                                "url": "/series/feud/",
+                                "title": "Feud",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/c5wn2eLRN3naOB1JxEbDIApRN2T.jpg"
+                            },
+                            {
+                                "url": "/series/aho-girl/",
+                                "title": "AHO-GIRL",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tXFDfWANzdaPTYFk3AY5PKWeF6N.jpg"
+                            },
+                            {
+                                "url": "/series/aharen-san-a-harmonia-nunca-morre/",
+                                "title": "Aharen-san, A Harmonia nunca morre",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/3Pqe5r4THECyIsJ58C4YLFZD6nj.jpg"
+                            },
+                            {
+                                "url": "/series/the-new-look/",
+                                "title": "The New Look",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/aQBpF8VmEIgow41OL9h4nU4WN6v.jpg"
+                            },
+                            {
+                                "url": "/series/the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party/",
+                                "title": "The Strongest Tank’s Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero’s Party-",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lOyFi5mNkUIELYrB1TvoIf9IPT6.jpg"
+                            },
+                            {
+                                "url": "/series/actors-songs-connection/",
+                                "title": "Actors: Songs Connection",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/sJE6mPzWx39OqyhTQ2xoedaoXwC.jpg"
+                            },
+                            {
+                                "url": "/series/os-eleitos-2/",
+                                "title": "Os Eleitos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/4WpFslUtewfani9AjDY26jF40HA.jpg"
+                            },
+                            {
+                                "url": "/series/adachi-and-shimamura/",
+                                "title": "Adachi and Shimamura",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/tirBanHz2pb9F4Ff5a4y7t3ipmP.jpg"
+                            },
+                            {
+                                "url": "/series/africa-salaryman/",
+                                "title": "Africa Salaryman",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/8VEj41IcXtoDt1rv22jPr38FGz2.jpg"
+                            },
+                            {
+                                "url": "/series/cacadores-de-trolls/",
+                                "title": "Caçadores de Trolls",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9sd9eELJuWLK1n4Z2AjnPMyJzE3.jpg"
+                            },
+                            {
+                                "url": "/series/gwed/",
+                                "title": "G’wed",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
+                            },
+                            {
+                                "url": "/series/tracker/",
+                                "title": "Tracker",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ivhqGQa4ndqDatKiASIfSMJIJuh.jpg"
+                            },
+                            {
+                                "url": "/series/allegiance/",
+                                "title": "Allegiance",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bQUA3OL7blpkkrtot1ThaXVSgc3.jpg"
+                            },
+                            {
+                                "url": "/series/desventuras-em-serie/",
+                                "title": "Desventuras em Série",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/2JHWZOaEc426dQnXnTJFurmXpu.jpg"
+                            },
+                            {
+                                "url": "/series/andy-e-seu-esquilo/",
+                                "title": "Andy e Seu Esquilo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ukNq4x6HB1wsmTZYelQxMja8GCJ.jpg"
+                            },
+                            {
+                                "url": "/series/houkago-saikoro-club/",
+                                "title": "Houkago Saikoro Club",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nR3qz5jkr8V9u6SbCrfr2RXTmt4.jpg"
+                            },
+                            {
+                                "url": "/series/allen-contra-farrow/",
+                                "title": "Allen contra Farrow",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jXC3tk2apwPxDpFHQaQH5ATDhlP.jpg"
+                            },
+                            {
+                                "url": "/series/any-malu-show/",
+                                "title": "Any Malu Show",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/xhLzEJJFYhWNrrmlcwPlcjqGOO5.jpg"
+                            },
+                            {
+                                "url": "/series/ninja-kamui/",
+                                "title": "Ninja Kamui",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/z9HK4DEBhF5YX7AdiEvSOq5yfZW.jpg"
+                            },
+                            {
+                                "url": "/series/a-killer-paradox/",
+                                "title": "A Killer Paradox",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/e1HOt09BgYH5oZ8xfgi8TQiReYR.jpg"
+                            },
+                            {
+                                "url": "/series/hotel-hazbin/",
+                                "title": "Hotel Hazbin",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/bddmwtwuluURlhDaSLqHU849F8I.jpg"
+                            },
+                            {
+                                "url": "/series/sr-sra-smith/",
+                                "title": "Sr. & Sra. Smith",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg"
+                            },
+                            {
+                                "url": "/series/historico-criminal/",
+                                "title": "Histórico Criminal",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/fY6yBzy4ea7yCWW57G5q1EKxnU4.jpg"
+                            },
+                            {
+                                "url": "/series/mestres-do-universo-a-revolucao/",
+                                "title": "Mestres do Universo: A Revolução",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg"
+                            },
+                            {
+                                "url": "/series/griselda/",
+                                "title": "Griselda",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg"
+                            },
+                            {
+                                "url": "/series/gemeas-trans-uma-nova-vida/",
+                                "title": "Gêmeas Trans: Uma Nova Vida",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/e7fy8dtswdVCXeWY1LiU58LEBcc.jpg"
+                            },
+                            {
+                                "url": "/series/zorro/",
+                                "title": "Zorro",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/f0KIsKYKDSYMGFT8egU5l7IwE57.jpg"
+                            },
+                            {
+                                "url": "/series/ponto-final/",
+                                "title": "Ponto Final",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/ic0UyW7Ym5OdV92I8LUq566VzpD.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/series/war-of-the-worlds-a-arte-da-guerra/",
+                                "title": "War of the Worlds: A Arte da Guerra",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4bdceFOgmtHk41BrkDMeC8TH7ma.jpg"
+                            },
+                            {
+                                "url": "/series/westworld/",
+                                "title": "Westworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-dominio/",
+                                "title": "Jurassic World: Domínio",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg"
+                            },
+                            {
+                                "url": "/series/star-trek-strange-new-worlds/",
+                                "title": "Star Trek: Strange New Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg"
+                            },
+                            {
+                                "url": "/filmes/lego-jurassic-world-a-exposicao-secreta/",
+                                "title": "Lego Jurassic World: A Exposição Secreta",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/6rFSUpslOYqYcevRm3ZAGkr3RMz.jpg"
+                            },
+                            {
+                                "url": "/filmes/miraculous-world-xangai-a-lenda-de-lady-dragon/",
+                                "title": "Miraculous World – Xangai, a Lenda de Lady Dragon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg"
+                            },
+                            {
+                                "url": "/filmes/edge-of-the-world/",
+                                "title": "Edge of the World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/kwe29qj6sZzjIfQYHiwuHjqtBnb.jpg"
+                            },
+                            {
+                                "url": "/series/brave-new-world/",
+                                "title": "Brave New World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/vPl7hAY0vt0OPhIflRb5IXrssBv.jpg"
+                            },
+                            {
+                                "url": "/filmes/anjos-da-noite-underworld/",
+                                "title": "Anjos da Noite – Underworld",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rz9oAnjaHV8Mbsneyv13xt72k2F.jpg"
+                            },
+                            {
+                                "url": "/series/the-end-of-the-fing-world/",
+                                "title": "The End of the F***ing World",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/hiuGpPWQ4ouINeNcypR4Nv8YLeG.jpg"
+                            },
+                            {
+                                "url": "/filmes/lego-jurassic-world-a-fuga-do-indominus-rex/",
+                                "title": "Lego Jurassic World: A Fuga do Indominus Rex",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/gRgJFyxaNp2VEWSTGy5miqNxxs4.jpg"
+                            },
+                            {
+                                "url": "/series/world-on-fire/",
+                                "title": "World on Fire",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/3Fr9SXZD69LeD1CFeSM2p9HFr82.jpg"
+                            },
+                            {
+                                "url": "/filmes/the-thinning-new-world-order/",
+                                "title": "The Thinning: New World Order",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/uQtYfyldOV3mPzclKr0K90FTS0n.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-reino-ameacado/",
+                                "title": "Jurassic World: Reino Ameaçado",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/fQ7xKS1GyN9ELx5gbO9fSlZcNx4.jpg"
+                            },
+                            {
+                                "url": "/filmes/jurassic-world-o-mundo-dos-dinossauros/",
+                                "title": "Jurassic World: O Mundo dos Dinossauros",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rDChbF4m9qPChlTXkg9rq0ZmTl9.jpg"
+                            },
+                            {
+                                "url": "/filmes/between-worlds/",
+                                "title": "Between Worlds",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/wfxqobg0Do8OwIO6IUM7LWHF1mV.jpg"
+                            },
+                            {
+                                "url": "/filmes/a-noite-que-mudou-o-pop/",
+                                "title": "A Noite que Mudou o Pop",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg"
+                            },
+                            {
+                                "url": "/series/minha-vida-nada-ortodoxa/",
+                                "title": "Minha Vida Nada Ortodoxa",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/90CBAKBatkWjvOEBAXgWTRc2fSB.jpg"
+                            },
+                            {
+                                "url": "/series/planeta-pre-historico/",
+                                "title": "Planeta Pré-Histórico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg"
+                            },
+                            {
+                                "url": "/filmes/mortal-kombat-legends-batalha-dos-reinos/",
+                                "title": "Mortal Kombat Legends: Batalha dos Reinos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg"
+                            },
+                            {
+                                "url": "/series/coyote/",
+                                "title": "Coyote",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/dzAwoFc87V2zku5FqYoijKfCOvh.jpg"
+                            },
+                            {
+                                "url": "/series/the-watch/",
+                                "title": "The Watch",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/y1AWUlJUxsnwEiC0gTfP2nUZ9c5.jpg"
+                            },
+                            {
+                                "url": "/filmes/ariana-grande-excuse-me-i-love-you/",
+                                "title": "ariana grande: excuse me, i love you",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/nm10ajNVkKwwyf8VFPkZnr93GbC.jpg"
+                            },
+                            {
+                                "url": "/filmes/superman-entre-a-foice-e-o-martelo/",
+                                "title": "Superman: Entre a Foice e o Martelo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/attHlVU6J8vO5QqSAqDmmF6Kt2A.jpg"
+                            },
+                            {
+                                "url": "/series/guia-de-um-gamer-para-quase-tudo/",
+                                "title": "Guia de um Gamer Para Quase Tudo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/4CN4Qk7Q6athERNaLQhUPJdHhOu.jpg"
+                            },
+                            {
+                                "url": "/filmes/12-herois/",
+                                "title": "12 Heróis",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/xiiyh02DvmfoIJYZFHE3CJren50.jpg"
+                            },
+                            {
+                                "url": "/filmes/assistir-wifi-ralph-quebrando-a-internet-online-dublado-e-legendadowifi-ralph-quebrando-a-internet/",
+                                "title": "WiFi Ralph – Quebrando a Internet",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/rDWoFHrup2hXieLi1fxAyO0MrYx.jpg"
+                            },
+                            {
+                                "url": "/filmes/feito-na-america/",
+                                "title": "Feito na América",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/8xova028IF34Ryv89iLA6qZKxIa.jpg"
+                            },
+                            {
+                                "url": "/series/garota-conhece-o-mundo/",
+                                "title": "Garota Conhece o Mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w92/k1WDKIz9K0TR3wdi5ufjKQolq5N.jpg"
+                            }
+                        ],
+                        "hasNextPage": false
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": {
+                    "url": "/series/avatar-o-ultimo-mestre-do-ar/",
+                    "title": "Avatar: O Último Mestre do Ar",
+                    "description": "Um garoto conhecido como o Avatar precisa dominar os quatro poderes elementares para salvar um mundo em guerra e enfrentar um inimigo implacável.\n",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w185/gZ1eeUytoEWfl6T5Nuo6QmxOwcM.jpg",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episodios/avatar-o-ultimo-mestre-do-ar-1x7/",
+                        "name": "Temporada 1 x 7 - O Norte",
+                        "date_upload": 1708560000000,
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "/episodios/avatar-o-ultimo-mestre-do-ar-1x6/",
+                        "name": "Temporada 1 x 6 - Episódio 6",
+                        "date_upload": 1708560000000,
+                        "episode_number": 6.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

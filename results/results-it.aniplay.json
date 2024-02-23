@@ -32,14 +32,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/detective-conan-ita-1135-main.webp"
                             },
                             {
-                                "url": "/series/1049",
-                                "title": "Dragon Ball Super (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-super-ita-1149-main.webp"
-                            },
-                            {
                                 "url": "/series/5",
                                 "title": "Death Note (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/death-note-ita-32-main.webp"
+                            },
+                            {
+                                "url": "/series/1049",
+                                "title": "Dragon Ball Super (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-super-ita-1149-main.webp"
                             },
                             {
                                 "url": "/series/660",
@@ -67,14 +67,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/ul3dmfqdtss5shv95b111v.webp"
                             },
                             {
-                                "url": "/series/4265",
-                                "title": "Hazbin Hotel",
-                                "thumbnail_url": "https://images.animearchive.online/elements/uh8dlm3cp49elyfej9tbw8.webp"
-                            },
-                            {
                                 "url": "/series/3676",
                                 "title": "Jujutsu Kaisen (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-ita-4089-main.webp"
+                            },
+                            {
+                                "url": "/series/4265",
+                                "title": "Hazbin Hotel",
+                                "thumbnail_url": "https://images.animearchive.online/elements/uh8dlm3cp49elyfej9tbw8.webp"
                             },
                             {
                                 "url": "/series/1187",
@@ -117,9 +117,39 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/4212",
+                                "title": "Delicious in Dungeon (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/delicious-in-dungeon-ita-4631-main.webp"
+                            },
+                            {
                                 "url": "/series/4232",
                                 "title": "Delusional Monthly Magazine",
                                 "thumbnail_url": "https://images.animearchive.online/elements/delusional-monthly-magazine-4651-main.webp"
+                            },
+                            {
+                                "url": "/series/3942",
+                                "title": "Pokemon Horizons: The Series",
+                                "thumbnail_url": "https://images.animearchive.online/elements/pokemon-horizons-the-series-4360-main.webp"
+                            },
+                            {
+                                "url": "/series/4215",
+                                "title": "Gushing over Magical Girls",
+                                "thumbnail_url": "https://images.animearchive.online/elements/gushing-over-magical-girls-4634-main.webp"
+                            },
+                            {
+                                "url": "/series/4192",
+                                "title": "Delicious in Dungeon",
+                                "thumbnail_url": "https://images.animearchive.online/elements/delicious-in-dungeon-4611-main.webp"
+                            },
+                            {
+                                "url": "/series/4204",
+                                "title": "Urusei Yatsura (2022) 2nd Season",
+                                "thumbnail_url": "https://images.animearchive.online/elements/urusei-yatsura-2022-2nd-season-4623-main.webp"
+                            },
+                            {
+                                "url": "/series/4245",
+                                "title": "Bang Brave Bang Bravern",
+                                "thumbnail_url": "https://images.animearchive.online/elements/bang-brave-bang-bravern-4664-main.webp"
                             },
                             {
                                 "url": "/series/4201",
@@ -185,36 +215,6 @@
                                 "url": "/series/1116",
                                 "title": "Naruto Shippuden (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/rw60bsxqic93z5ujf7gl.webp"
-                            },
-                            {
-                                "url": "/series/1116",
-                                "title": "Naruto Shippuden (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/rw60bsxqic93z5ujf7gl.webp"
-                            },
-                            {
-                                "url": "/series/1116",
-                                "title": "Naruto Shippuden (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/rw60bsxqic93z5ujf7gl.webp"
-                            },
-                            {
-                                "url": "/series/4227",
-                                "title": "Doctor Elise: The Royal Lady with the Lamp",
-                                "thumbnail_url": "https://images.animearchive.online/elements/doctor-elise-the-royal-lady-with-the-lamp-4646-main.webp"
-                            },
-                            {
-                                "url": "/series/4206",
-                                "title": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
-                                "thumbnail_url": "https://images.animearchive.online/elements/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord-4625-main.webp"
-                            },
-                            {
-                                "url": "/series/4131",
-                                "title": "Ochibi-san",
-                                "thumbnail_url": "https://images.animearchive.online/elements/ochibi-san-4550-main.webp"
-                            },
-                            {
-                                "url": "/series/4181",
-                                "title": "Shaman King Flowers",
-                                "thumbnail_url": "https://images.animearchive.online/elements/shaman-king-flowers-4600-main.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -351,7 +351,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_zisgfu = {\n\t\t\t\t\t\t\".....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_1i9m3vd = {\n\t\t\t\t\t\t.....",
                 "passed": false
             }
         }
