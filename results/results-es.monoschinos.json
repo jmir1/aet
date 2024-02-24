@@ -346,8 +346,44 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=0_eRXYo-RyQ&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029",
+                        "quality": "Okru:720p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=3&sig=0_eRXYo-RyQ&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=VOmgyJMbNv8&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029",
+                        "quality": "Okru:480p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=2&sig=VOmgyJMbNv8&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=4CCVvhx0ldU&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029",
+                        "quality": "Okru:360p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=1&sig=4CCVvhx0ldU&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=PeCNeqZiQqU&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029",
+                        "quality": "Okru:240p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=0&sig=PeCNeqZiQqU&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=Z5RtFAqqLSQ&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029",
+                        "quality": "Okru:144p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=4&sig=Z5RtFAqqLSQ&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029"
+                    },
+                    {
+                        "url": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=axten55b2IQ&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029",
+                        "quality": "Okru:1080p",
+                        "videoUrl": "https://ok6-5.vkuser.net/?expires=1708820947820&srcIp=23.96.249.162&pr=10&srcAg=GECKO&ms=95.142.206.132&type=5&sig=axten55b2IQ&ct=0&urls=45.136.20.74%3B185.226.52.44&clientType=0&zs=43&id=6402956266029"
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=QD1QLVLGD8H00R2&expires=1708804548&ip=FRAsF0InDS9X&token=EMzzAzqsXhux",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=QD1QLVLGD8H00R2&expires=1708804548&ip=FRAsF0InDS9X&token=EMzzAzqsXhux"
+                    }
+                ],
+                "passed": true
             }
         }
     }
