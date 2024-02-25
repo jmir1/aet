@@ -7,6 +7,24 @@
                     {
                         "animes": [
                             {
+                                "url": "/picaro-el-pequeno-nicolas/",
+                                "title": "(P)Ícaro: El pequeño Nicolás",
+                                "description": "Siendo adolescente, el Pequeño Nicolás se codeó con políticos, millonarios y miembros de la Casa Real. Esta docuserie repasa su caso a través de testimonios clave. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iH7ypcsBANel7mTpyEADBS2oO02.jpg"
+                            },
+                            {
+                                "url": "/nascar-a-toda-velocidad/",
+                                "title": "NASCAR: A toda velocidad",
+                                "description": "NASCAR: Full Speed La pasión y la gloria de la Copa NASCAR son los motores de los pilotos y sus escuderías. En esta docuserie de deportes, todos compiten por hacer historia. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fXhZCpFlFXST8qZt2dYT4XTeF1E.jpg"
+                            },
+                            {
+                                "url": "/ninja-kamui/",
+                                "title": "Ninja Kamui",
+                                "description": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3dl7QFrpvtu9My4L6K7KtUMP8p1.jpg"
+                            },
+                            {
                                 "url": "/sight-unseen/",
                                 "title": "Sight Unseen",
                                 "description": "La ex detective de homicidios Tess Avery, diagnosticada como ciega, forma equipo con Sunny Patel, un lazarillo a distancia y agorafóbico, para acabar con los asesinos que eluden a la policía en este thriller detectivesco de alto riesgo. ",
@@ -49,28 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/ndnP3sgZxLuKambEhk8YWwxM0Vy.jpg"
                             },
                             {
-                                "url": "/todo-va-bien/",
-                                "title": "Todo va bien",
-                                "description": "Tout va bien Una familia corriente se enfrenta a una catástrofe: la grave enfermedad de una de sus hijas. Cada miembro de la familia ve su vida personal impactada por esta prueba. Las catástrofes hacen a las personas más humanas, aunque no necesariamente mejores. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pZafMspChFB3hESlA5spAAEYmxl.jpg"
-                            },
-                            {
-                                "url": "/avatar-la-leyenda-de-aang-2024/",
-                                "title": "Avatar: La leyenda de Aang (2024)",
-                                "description": "Avatar: The Last Airbender El nuevo y joven Avatar debe aprender a controlar los elementos para salvar un mundo en guerra, además de enfrentarse a un despiadado enemigo decidido a pararle los pies. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fNTCUwpN6c8vD2U36tQW2V9A0Nj.jpg"
-                            },
-                            {
-                                "url": "/wild-cards/",
-                                "title": "Wild Cards",
-                                "description": "Un procedimiento de resolución de crímenes con un toque cómico que sigue al improbable dúo formado por un policía socarrón y riguroso y una estafadora astuta y enérgica. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/lIhkV9LNwViVD2bylPTFQvDD21e.jpg"
-                            },
-                            {
-                                "url": "/kiya-the-kimoja-heroes/",
-                                "title": "Kiya & the Kimoja Heroes",
+                                "url": "/medical-police/",
+                                "title": "Medical Police",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bHSi1VWdZpEdhW9f1MFmy9c6zmS.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/eV6nkPeL58OKYQBpZe6RelUOLry.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/dark-web/",
-                                "title": "Dark/Web",
+                                "url": "/crime/",
+                                "title": "Crime",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/rqDwDcOBwOwSiu5iC37NvTx5B3M-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nBA7t0LIGsvhAt4zq9u2RL9ZI7J.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,58 @@
             },
             "details": {
                 "result": {
-                    "url": "/sight-unseen/",
-                    "title": "Sight Unseen",
-                    "description": "La ex detective de homicidios Tess Avery, diagnosticada como ciega, forma equipo con Sunny Patel, un lazarillo a distancia y agorafóbico, para acabar con los asesinos que eluden a la policía en este thriller detectivesco de alto riesgo.",
-                    "genre": "Crimen, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nCTVxygzAXh8uKDYoBCnI0Cy9E1.jpg",
+                    "url": "/picaro-el-pequeno-nicolas/",
+                    "title": "(P)Ícaro: El pequeño Nicolás",
+                    "description": "Siendo adolescente, el Pequeño Nicolás se codeó con políticos, millonarios y miembros de la Casa Real. Esta docuserie repasa su caso a través de testimonios clave.",
+                    "genre": "Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/iH7ypcsBANel7mTpyEADBS2oO02.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/picaro-el-pequeno-nicolas-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Francisco Nicolás Gómez Iglesias",
+                        "date_upload": 1707955200000,
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "/episode/picaro-el-pequeno-nicolas-temporada-1-capitulo-2/",
+                        "name": "T01 - E02 - Nicolay",
+                        "date_upload": 1707955200000,
+                        "episode_number": 2.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s31.fastream.to/hls2/03/00063/g43umo1j8e79_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XfKkYJuuOdUeAW3p20s6YXdVNuRn5xxs9E8hlZewQCg&s=1708863032&e=43200&f=317763&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s31.fastream.to/hls2/03/00063/g43umo1j8e79_,l,n,.urlset/index-f2-v1-a1.m3u8?t=XfKkYJuuOdUeAW3p20s6YXdVNuRn5xxs9E8hlZewQCg&s=1708863032&e=43200&f=317763&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s31.fastream.to/hls2/03/00063/g43umo1j8e79_,l,n,.urlset/index-f1-v1-a1.m3u8?t=XfKkYJuuOdUeAW3p20s6YXdVNuRn5xxs9E8hlZewQCg&s=1708863032&e=43200&f=317763&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s31.fastream.to/hls2/03/00063/g43umo1j8e79_,l,n,.urlset/index-f1-v1-a1.m3u8?t=XfKkYJuuOdUeAW3p20s6YXdVNuRn5xxs9E8hlZewQCg&s=1708863032&e=43200&f=317763&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
