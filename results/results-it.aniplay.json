@@ -82,14 +82,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-gt-1293-main.webp"
                             },
                             {
-                                "url": "/series/4137",
-                                "title": "Jujutsu Kaisen 2nd Season (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-2nd-season-ita-4556-main.webp"
-                            },
-                            {
                                 "url": "/series/4187",
                                 "title": "MASHLE: MAGIC AND MUSCLES Season 2",
                                 "thumbnail_url": "https://images.animearchive.online/elements/mashle-magic-and-muscles-season-2-4606-main.webp"
+                            },
+                            {
+                                "url": "/series/4137",
+                                "title": "Jujutsu Kaisen 2nd Season (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-2nd-season-ita-4556-main.webp"
                             },
                             {
                                 "url": "/series/3140",
@@ -116,6 +116,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/4176",
+                                "title": "The Daily Life of the Immortal King 4",
+                                "thumbnail_url": "https://images.animearchive.online/elements/the-daily-life-of-the-immortal-king-4-4595-main.webp"
+                            },
+                            {
+                                "url": "/series/323",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://images.animearchive.online/elements/b7vdzpft1c78yxf44ur4.webp"
+                            },
+                            {
+                                "url": "/series/4272",
+                                "title": "Great Pretender: Razbliuto",
+                                "thumbnail_url": "https://images.animearchive.online/elements/cq3vst59szk0l7lhu4r833.webp"
+                            },
+                            {
+                                "url": "/series/4207",
+                                "title": "Tales of Wedding Rings",
+                                "thumbnail_url": "https://images.animearchive.online/elements/tales-of-wedding-rings-4626-main.webp"
+                            },
                             {
                                 "url": "/series/4247",
                                 "title": "Solo Leveling (ITA)",
@@ -190,26 +210,6 @@
                                 "url": "/series/4172",
                                 "title": "Frieren: Beyond Journey's End Mini Anime",
                                 "thumbnail_url": "https://images.animearchive.online/elements/frieren-beyond-journeys-end-mini-anime-4591-main.webp"
-                            },
-                            {
-                                "url": "/series/588",
-                                "title": "One Piece (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp"
-                            },
-                            {
-                                "url": "/series/588",
-                                "title": "One Piece (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp"
-                            },
-                            {
-                                "url": "/series/588",
-                                "title": "One Piece (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp"
-                            },
-                            {
-                                "url": "/series/588",
-                                "title": "One Piece (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp"
                             },
                             {
                                 "url": "/series/588",
@@ -351,7 +351,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_1iuwa7o = {\n\t\t\t\t\t\t.....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_d5w0jb = {\n\t\t\t\t\t\t\".....",
                 "passed": false
             }
         }
