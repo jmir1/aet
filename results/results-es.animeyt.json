@@ -445,42 +445,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00062/y2unn3j1e9lm_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=3TdZmwVcMMBJYTslXsWSQVuE00BMCi69oqjOclpT71E&s=1708798099&e=43200&f=314851&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00062/y2unn3j1e9lm_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=3TdZmwVcMMBJYTslXsWSQVuE00BMCi69oqjOclpT71E&s=1708798099&e=43200&f=314851&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00062/y2unn3j1e9lm_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=3TdZmwVcMMBJYTslXsWSQVuE00BMCi69oqjOclpT71E&s=1708798099&e=43200&f=314851&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00062/y2unn3j1e9lm_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=3TdZmwVcMMBJYTslXsWSQVuE00BMCi69oqjOclpT71E&s=1708798099&e=43200&f=314851&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/02/00062/y2unn3j1e9lm_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=3TdZmwVcMMBJYTslXsWSQVuE00BMCi69oqjOclpT71E&s=1708798099&e=43200&f=314851&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/02/00062/y2unn3j1e9lm_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=3TdZmwVcMMBJYTslXsWSQVuE00BMCi69oqjOclpT71E&s=1708798099&e=43200&f=314851&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/sight-unseen/",
+                                "title": "Sight Unseen",
+                                "description": "La ex detective de homicidios Tess Avery, diagnosticada como ciega, forma equipo con Sunny Patel, un lazarillo a distancia y agorafóbico, para acabar con los asesinos que eluden a la policía en este thriller detectivesco de alto riesgo. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nCTVxygzAXh8uKDYoBCnI0Cy9E1.jpg"
+                            },
+                            {
+                                "url": "/belgravia-the-next-chapter/",
+                                "title": "Belgravia: The Next Chapter",
+                                "description": "Cuenta la historia de amor entre Frederick Trenchard, el que ha crecido como el tercer Lord de Glanville, y su nuevo interés amoroso, Clara Dunn, una recién llegada a la alta sociedad londinense. Inconsciente de que es un hijo ilegítimo, su tumultuosa infancia dejó secuelas en Frederick, quien ahora verá como sus grandes inseguridades complicarán […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/aWXqzX8ZJ7KDLn2FjYAiem8DRy9.jpg"
+                            },
+                            {
                                 "url": "/el-amor-no-tiene-receta/",
                                 "title": "El amor no tiene receta",
                                 "description": "Retrata la historia de dos amorosas familias: una en la opulencia y con la ausencia de una figura materna y la otra de escasos recursos y con el gran sueño de encontrar a la más pequeña de sus integrantes. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/lIhkV9LNwViVD2bylPTFQvDD21e.jpg"
                             },
                             {
-                                "url": "/el-juego-de-las-llaves/",
-                                "title": "El juego de las llaves",
-                                "description": "Ocho amigos, todos en una relación estable, deciden aventurarse en un juego de descubrimiento sexual intercambiando parejas mientras intentan liberarse de su rutina diaria y agregar un toque picante a su vida amorosa. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/78n5sw1f6qimGDY08n90GE18RyV.jpg"
-                            },
-                            {
-                                "url": "/secrets-of-polygamy/",
-                                "title": "Secrets of Polygamy",
-                                "description": "Las realidades de la vida dentro de la Iglesia Fundamentalista de Jesucristo de los Santos de los Últimos Días (FLDS), el clan Kingston o La Orden y los Hermanos Apostólicos Unidos (AUB). ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7ZmgHsvmyxb457FNHneVz8zqtoB.jpg"
-                            },
-                            {
-                                "url": "/la-mujer-bionica-capitulos-completos-latino-hd-online/",
-                                "title": "La mujer biónica",
+                                "url": "/dos-vidas/",
+                                "title": "Dos vidas",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/dTx5KIDlBv3q1aNPIWUKDtgjaFb-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/gr4mvVThwX2lXajmScgzLKYcccS.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/chasing-flavor/",
-                                "title": "Chasing Flavor",
+                                "url": "/titletown-high/",
+                                "title": "Titletown High",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4UvnzdfTq5wG74nBoaYop298POA.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/dqy9PwKHMI2k2otdHyndHLnvQ1i.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,80 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/el-amor-no-tiene-receta/",
-                    "title": "El amor no tiene receta",
-                    "description": "Retrata la historia de dos amorosas familias: una en la opulencia y con la ausencia de una figura materna y la otra de escasos recursos y con el gran sueño de encontrar a la más pequeña de sus integrantes.",
-                    "genre": "Action & Adventure, Comedia, Drama, Familia, Sci-Fi & Fantasy, Soap",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/a371KgJmSKRDN7xK89cmK45TEKB.jpg",
+                    "url": "/sight-unseen/",
+                    "title": "Sight Unseen",
+                    "description": "La ex detective de homicidios Tess Avery, diagnosticada como ciega, forma equipo con Sunny Patel, un lazarillo a distancia y agorafóbico, para acabar con los asesinos que eluden a la policía en este thriller detectivesco de alto riesgo.",
+                    "genre": "Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/nCTVxygzAXh8uKDYoBCnI0Cy9E1.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/el-amor-no-tiene-receta-temporada-1-capitulo-4/",
-                        "name": "T01 - E04 - Episodio 4",
-                        "date_upload": 1708560000000,
-                        "episode_number": 4.0
-                    },
-                    {
-                        "url": "/episode/el-amor-no-tiene-receta-temporada-1-capitulo-3/",
-                        "name": "T01 - E03 - Episodio 3",
-                        "date_upload": 1708473600000,
-                        "episode_number": 3.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "quality": "Fastream:1080p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00063/0kysi23qakrq_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Aej8wr5MgoYCFwZIQuZOabCSRG0kSPmS5r2HEgTyUwY&s=1708798089&e=43200&f=318926&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
