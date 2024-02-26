@@ -12,14 +12,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp"
                             },
                             {
-                                "url": "/series/323",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://images.animearchive.online/elements/b7vdzpft1c78yxf44ur4.webp"
-                            },
-                            {
                                 "url": "/series/1085",
                                 "title": "Dragon Ball Z (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-z-ita-1186-main.webp"
+                            },
+                            {
+                                "url": "/series/323",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://images.animearchive.online/elements/b7vdzpft1c78yxf44ur4.webp"
                             },
                             {
                                 "url": "/series/1116",
@@ -72,14 +72,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-ita-4089-main.webp"
                             },
                             {
-                                "url": "/series/4265",
-                                "title": "Hazbin Hotel",
-                                "thumbnail_url": "https://images.animearchive.online/elements/uh8dlm3cp49elyfej9tbw8.webp"
-                            },
-                            {
                                 "url": "/series/1187",
                                 "title": "Dragon Ball GT",
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-gt-1293-main.webp"
+                            },
+                            {
+                                "url": "/series/4265",
+                                "title": "Hazbin Hotel",
+                                "thumbnail_url": "https://images.animearchive.online/elements/uh8dlm3cp49elyfej9tbw8.webp"
                             },
                             {
                                 "url": "/series/4187",
@@ -116,6 +116,31 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/2580",
+                                "title": "Kateikyoushi Hitman Reborn! (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/kateikyoushi-hitman-reborn-ita-2892-main.webp"
+                            },
+                            {
+                                "url": "/series/4066",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://images.animearchive.online/elements/undead-unluck-4485-main.webp"
+                            },
+                            {
+                                "url": "/series/4243",
+                                "title": "Theatre of Darkness: Yamishibai 12",
+                                "thumbnail_url": "https://images.animearchive.online/elements/theatre-of-darkness-yamishibai-12-4662-main.webp"
+                            },
+                            {
+                                "url": "/series/4264",
+                                "title": "Wonderful Precure!",
+                                "thumbnail_url": "https://images.animearchive.online/elements/k7f70p8yuoca0feec1txdt.webp"
+                            },
+                            {
+                                "url": "/series/4223",
+                                "title": "Mr. Villain's Day Off",
+                                "thumbnail_url": "https://images.animearchive.online/elements/mr-villains-day-off-4642-main.webp"
+                            },
                             {
                                 "url": "/series/4241",
                                 "title": "The Fire Hunter Season 2",
@@ -190,31 +215,6 @@
                                 "url": "/series/4207",
                                 "title": "Tales of Wedding Rings",
                                 "thumbnail_url": "https://images.animearchive.online/elements/tales-of-wedding-rings-4626-main.webp"
-                            },
-                            {
-                                "url": "/series/4247",
-                                "title": "Solo Leveling (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/solo-leveling-ita-4666-main.webp"
-                            },
-                            {
-                                "url": "/series/4219",
-                                "title": "My Hero Academia 6 (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/my-hero-academia-6-ita-4638-main.webp"
-                            },
-                            {
-                                "url": "/series/4219",
-                                "title": "My Hero Academia 6 (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/my-hero-academia-6-ita-4638-main.webp"
-                            },
-                            {
-                                "url": "/series/4218",
-                                "title": "Kingdom 5th Season",
-                                "thumbnail_url": "https://images.animearchive.online/elements/kingdom-5th-season-4637-main.webp"
-                            },
-                            {
-                                "url": "/series/4220",
-                                "title": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-",
-                                "thumbnail_url": "https://images.animearchive.online/elements/the-strongest-tanks-labyrinth-raids--a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party--4639-main.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -351,7 +351,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_d5w0jb = {\n\t\t\t\t\t\t\".....",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_niv74g = {\n\t\t\t\t\t\t\".....",
                 "passed": false
             }
         }
