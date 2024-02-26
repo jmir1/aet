@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/fear/",
+                                "title": "Fear",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/EEtQmiGWGBzWYPnTgMT3rrI7CFwl993EDnkP.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-aprendiz-de-tigre/",
                                 "title": "El aprendiz de tigre",
                                 "description": "Película de animación que adapta la serie de novelas de fantasía tituladas The Tiger's Apprentice...",
@@ -239,12 +245,6 @@
                                 "title": "La zona de interés",
                                 "description": "El comandante de Auschwitz Rudolf Höss y su esposa Hedwig se esfuerzan en construir una vida de ens...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/jFDxLsyr2jqlfU4B59T7E2.webp"
-                            },
-                            {
-                                "url": "/pelicula/chavales/",
-                                "title": "Chavales",
-                                "description": "McMcickey, Colega, C, Pipi y Oscarmelle son cinco amigos que pasan sus tardes charlando en el sofá....",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/AEWmLUPg5YYXDPrjtcvtwMzs6z8rrC7S6U4I.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-aprendiz-de-tigre/",
-                    "title": "El aprendiz de tigre",
-                    "description": "Película de animación que adapta la serie de novelas de fantasía tituladas The Tiger's Apprentice, del escritor Laurence Yep. La historia sigue a un niño que se convierte en el aprendiz mágico del Sr. Hu, un tigre que habla y que es el último de una larga lista de guardianes, cuyo trabajo es proteger al antiguo Fénix de Vatten de aquellos malhechores que desean usar sus poderes para hacer el mal. En su tarea descubrirán la importancia de la lealtad, el deber y la valentía.",
-                    "genre": "Acción, Animación, Aventura, Familia",
+                    "url": "/pelicula/fear/",
+                    "title": "Fear",
+                    "description": "",
+                    "genre": "Drama, Terror",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-aprendiz-de-tigre/",
+                        "url": "/pelicula/fear/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DMgFiCF = \"\"; KiRzCdOIF.forEach(function Oym(value) { DMgFiCF += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
