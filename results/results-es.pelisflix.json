@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar CnudQOUO = \"\"; HDmyZhsih.forEach(function Oym(value) { CnudQOUO += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
