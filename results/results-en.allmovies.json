@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/avatar-the-last-airbender/",
+                                "title": "Avatar: The Last Airbender",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
+                            },
+                            {
                                 "url": "/series/the-boys/",
                                 "title": "The Boys",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/series/harley-quinn/",
                                 "title": "Harley Quinn",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w185/y4B3ixM1Y84i829HzIRPAMMFhsA.jpg"
-                            },
-                            {
-                                "url": "/series/heartstopper/",
-                                "title": "Heartstopper",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w185/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,11 +264,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/series/the-boys/",
-                    "title": "The Boys",
-                    "author": "Eric Kripke",
-                    "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-                    "genre": "Action & Adventure, Sci-Fi & Fantasy",
+                    "url": "/series/avatar-the-last-airbender/",
+                    "title": "Avatar: The Last Airbender",
+                    "author": "",
+                    "description": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+                    "genre": "Action & Adventure, Drama, Sci-Fi & Fantasy",
                     "status": 1,
                     "status_name": "ONGOING",
                     "initialized": true
@@ -278,20 +278,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/episode/the-boys-4x8/",
-                        "name": "Season 4x8 : Assassination Run",
+                        "url": "/episode/avatar-the-last-airbender-1x8/",
+                        "name": "Season 1x8 : Legends",
                         "episode_number": 8.0
                     },
                     {
-                        "url": "/episode/the-boys-4x7/",
-                        "name": "Season 4x7 : The Insider",
+                        "url": "/episode/avatar-the-last-airbender-1x7/",
+                        "name": "Season 1x7 : The North",
                         "episode_number": 7.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
