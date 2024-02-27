@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/peliculas/wonka-2023/",
+                                "title": "Wonka (2023)",
+                                "description": "",
+                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2024/02/wonka-scaled.jpg"
+                            },
+                            {
                                 "url": "/peliculas/tesla-2020/",
                                 "title": "Tesla (2020)",
                                 "description": "",
@@ -107,12 +113,6 @@
                                 "title": "Las Crónicas de Navidad (2018)",
                                 "description": "",
                                 "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2022/10/qz2dTKSQ9VSAswb1O9jWS15jqL1.jpg"
-                            },
-                            {
-                                "url": "/peliculas/ip-man-4-2019/",
-                                "title": "Ip Man 4 (2019)",
-                                "description": "",
-                                "thumbnail_url": "https://hackstore.rs/wp-content/uploads/2022/10/j1rbZPqBiZX3NLWU5q1TH13v6BL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -240,9 +240,9 @@
             },
             "details": {
                 "result": {
-                    "url": "/peliculas/tesla-2020/",
-                    "description": "Tesla Indaga en los esfuerzos que tuvo que realizar Nikola Tesla a la hora de presentar al mundo una revolución energética que cambiaría para siempre el curso de la humanidad.",
-                    "genre": "Título Latino: Tesla (2020)  Drama,Historia País: United States Duración: 1hora 42minutos Año: 2020 Director: Elizabeth Stern,Joan G. Bostwick,Joshua A. Friedman,Michael Almereyda,Nicole Real Elenco: Donnie Keshawarz,Ebon Moss-Bachrach,Ethan Hawke,Eve Hewson,Jim Gaffigan,John Palladino,Josh Hamilton,Kyle MacLachlan,Lucy Walters,Michael Mastro Servidores Online: Voe, Servidores Descarga: Bittorrent,Mega,Mediafire,We,1fichier,Megaup,Terabox, (en 1 Link)",
+                    "url": "/peliculas/wonka-2023/",
+                    "description": "Willy Wonka, repleto de ideas y decidido a cambiar el mundo con un delicioso bocado a la vez, es una prueba de que las mejores cosas de la vida comienzan con un sueño y, si tienes la suerte de conocer a Willy Wonka, todo es posible.",
+                    "genre": "Título Latino: Wonka (2023)  Comedia,Familia,Fantasía País: United States, United Kingdom, Canada Duración: 1hora 52minutos Año: 2023 Director: Paul King Elenco: Calah Lane,Hugh Grant,Keegan-Michael Key,Olivia Colman,Paterson Joseph,Timothée Chalamet,Tom Davis Servidores Online: Voe, Servidores Descarga: Bittorrent,Mega,We,1fichier,Terabox,Mediafire,Megaup, (en 1 Link)",
                     "initialized": true
                 },
                 "passed": true
@@ -250,7 +250,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/peliculas/tesla-2020/",
+                        "url": "/peliculas/wonka-2023/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -258,8 +258,80 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://zwhwosoyh2em.sw-cdnstream.com/hls2/01/02851/auddmlpljani_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hiTr2ASGa0ig3Rt_E_9i4x2mdNHhyo-6oZIAE-lA7dw&s=1709014214&e=129600&f=14259553&srv=w2r15xapcncg&i=0.4&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg&asn=8075",
+                        "quality": "StreamWish Latino - 720p",
+                        "videoUrl": "https://zwhwosoyh2em.sw-cdnstream.com/hls2/01/02851/auddmlpljani_,n,h,.urlset/index-f2-v1-a1.m3u8?t=hiTr2ASGa0ig3Rt_E_9i4x2mdNHhyo-6oZIAE-lA7dw&s=1709014214&e=129600&f=14259553&srv=w2r15xapcncg&i=0.4&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/auddmlpljani"
+                        }
+                    },
+                    {
+                        "url": "https://zwhwosoyh2em.sw-cdnstream.com/hls2/01/02851/auddmlpljani_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hiTr2ASGa0ig3Rt_E_9i4x2mdNHhyo-6oZIAE-lA7dw&s=1709014214&e=129600&f=14259553&srv=w2r15xapcncg&i=0.4&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg&asn=8075",
+                        "quality": "StreamWish Latino - 480p",
+                        "videoUrl": "https://zwhwosoyh2em.sw-cdnstream.com/hls2/01/02851/auddmlpljani_,n,h,.urlset/index-f1-v1-a1.m3u8?t=hiTr2ASGa0ig3Rt_E_9i4x2mdNHhyo-6oZIAE-lA7dw&s=1709014214&e=129600&f=14259553&srv=w2r15xapcncg&i=0.4&sp=500&p1=w2r15xapcncg&p2=w2r15xapcncg&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/auddmlpljani"
+                        }
+                    },
+                    {
+                        "url": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02868/8sj8i0nnh2dv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=uJTCjwWiokDWxtdQddXaq7pk9dzoJzi2SfhLu2dOFhU&s=1709014225&e=129600&f=14340071&srv=e7gvvk1cq0dj&i=0.4&sp=500&p1=e7gvvk1cq0dj&p2=e7gvvk1cq0dj&asn=8075",
+                        "quality": "StreamWish Castellano - 720p",
+                        "videoUrl": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02868/8sj8i0nnh2dv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=uJTCjwWiokDWxtdQddXaq7pk9dzoJzi2SfhLu2dOFhU&s=1709014225&e=129600&f=14340071&srv=e7gvvk1cq0dj&i=0.4&sp=500&p1=e7gvvk1cq0dj&p2=e7gvvk1cq0dj&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/8sj8i0nnh2dv"
+                        }
+                    },
+                    {
+                        "url": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02851/in9lo3yqshtn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=k3zbO2wyimnAxcnXViHVL1SvZZCt1TTjUfRhuzGEaXI&s=1709014220&e=129600&f=14259639&srv=dzytk2t08992&i=0.4&sp=500&p1=dzytk2t08992&p2=dzytk2t08992&asn=8075",
+                        "quality": "StreamWish Subtitulado - 720p",
+                        "videoUrl": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02851/in9lo3yqshtn_,n,h,.urlset/index-f2-v1-a1.m3u8?t=k3zbO2wyimnAxcnXViHVL1SvZZCt1TTjUfRhuzGEaXI&s=1709014220&e=129600&f=14259639&srv=dzytk2t08992&i=0.4&sp=500&p1=dzytk2t08992&p2=dzytk2t08992&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/in9lo3yqshtn"
+                        }
+                    },
+                    {
+                        "url": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02868/8sj8i0nnh2dv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=uJTCjwWiokDWxtdQddXaq7pk9dzoJzi2SfhLu2dOFhU&s=1709014225&e=129600&f=14340071&srv=e7gvvk1cq0dj&i=0.4&sp=500&p1=e7gvvk1cq0dj&p2=e7gvvk1cq0dj&asn=8075",
+                        "quality": "StreamWish Castellano - 480p",
+                        "videoUrl": "https://pmbera9gng.sw-cdnstream.com/hls2/01/02868/8sj8i0nnh2dv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=uJTCjwWiokDWxtdQddXaq7pk9dzoJzi2SfhLu2dOFhU&s=1709014225&e=129600&f=14340071&srv=e7gvvk1cq0dj&i=0.4&sp=500&p1=e7gvvk1cq0dj&p2=e7gvvk1cq0dj&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/8sj8i0nnh2dv"
+                        }
+                    },
+                    {
+                        "url": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02851/in9lo3yqshtn_,n,h,.urlset/index-f1-v1-a1.m3u8?t=k3zbO2wyimnAxcnXViHVL1SvZZCt1TTjUfRhuzGEaXI&s=1709014220&e=129600&f=14259639&srv=dzytk2t08992&i=0.4&sp=500&p1=dzytk2t08992&p2=dzytk2t08992&asn=8075",
+                        "quality": "StreamWish Subtitulado - 480p",
+                        "videoUrl": "https://l7jxodfjc1en.sw-cdnstream.com/hls2/01/02851/in9lo3yqshtn_,n,h,.urlset/index-f1-v1-a1.m3u8?t=k3zbO2wyimnAxcnXViHVL1SvZZCt1TTjUfRhuzGEaXI&s=1709014220&e=129600&f=14259639&srv=dzytk2t08992&i=0.4&sp=500&p1=dzytk2t08992&p2=dzytk2t08992&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/in9lo3yqshtn"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=bp0GMBqyAOIP18O&expires=1709084229&ip=FROsD0ETKxSHDN&token=oXTx3_8GKiXa",
+                        "quality": "StreamTape Castellano",
+                        "videoUrl": "https://streamtape.com/get_video?id=bp0GMBqyAOIP18O&expires=1709084229&ip=FROsD0ETKxSHDN&token=oXTx3_8GKiXa"
+                    }
+                ],
+                "passed": true
             }
         }
     }
