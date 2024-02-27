@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/hill-amor-pelo-jogo/online/gratis",
+                                "title": "Hill: Amor Pelo Jogo",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40284.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/mamonas-assassinas-o-filme/online/gratis",
+                                "title": "Mamonas Assassinas: O Filme",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40283.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/indiferenca/online/gratis",
+                                "title": "Indiferença",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40282.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/amante-stalker-e-mortal/online/gratis",
                                 "title": "Amante, Stalker e Mortal",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40281.jpg"
@@ -265,21 +280,6 @@
                                 "url": "/assistir/filme/a-vinganca-da-baba-2021/online/gratis",
                                 "title": "A Vingança da Babá",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40257.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/caminhos-da-sobrevivencia/online/gratis",
-                                "title": "Caminhos da Sobrevivência",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40256.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/nao-tem-volta/online/gratis",
-                                "title": "Não Tem Volta",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40255.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/a-maldicao-do-queen-mary/online/gratis",
-                                "title": "A Maldição do Queen Mary",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40254.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1761,31 +1761,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=_1yeCU_nNaOiZtXDhnClvw&e=1709057454&_t=1709040535",
-                        "quality": "MixDrop(LEGENDADO)",
-                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=_1yeCU_nNaOiZtXDhnClvw&e=1709057454&_t=1709040535",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        },
-                        "subtitleTracks": [
-                            {
-                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
-                                "lang": "sub"
-                            }
-                        ]
-                    },
-                    {
-                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=uR_teHLb_HfQhrEYNWxwVg&e=1709057454&_t=1709045753",
-                        "quality": "MixDrop(DUBLADO)",
-                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=uR_teHLb_HfQhrEYNWxwVg&e=1709057454&_t=1709045753",
-                        "headers": {
-                            "Referer": "https://mixdrop.co/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

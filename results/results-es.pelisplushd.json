@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/shogun",
+                                "title": "Shōgun (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
+                            },
+                            {
                                 "url": "/serie/the-walking-dead-the-ones-who-live",
                                 "title": "The Walking Dead: The Ones Who Live (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/ywbacot78IuNhGW4uVZPxxxVTkm.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/los-amos-del-aire",
                                 "title": "Los amos del aire (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/fHUxCSg5T6jyQ74jSnO2vC026DR.jpg"
-                            },
-                            {
-                                "url": "/serie/expatriadas",
-                                "title": "Expatriadas (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/vKAkT96TIf3Mh8q2FXV6GqcuJab.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/the-walking-dead-the-ones-who-live",
-                    "title": "The Walking Dead: The Ones Who Live (2024)",
-                    "description": "La historia de amor de Rick Grimes y Michonne cambia gracias a un mundo cambiado. Separados por la distancia. Por un poder imparable. ¿Podrán encontrarse y descubrir quiénes eran en una situación diferente a cualquier otra que hayan conocido?.",
-                    "genre": "Drama, Sci-Fi & Fantasy",
+                    "url": "/serie/shogun",
+                    "title": "Shōgun (2024)",
+                    "description": "Ambientada en el Japón de 1600, lord Yoshii Toranaga lucha por su vida mientras que sus enemigos en el Consejo de regentes se alían contra él cuando un misterioso barco europeo aparece abandonado cerca de un pueblo pesquero..",
+                    "genre": "Drama, Action & Adventure",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,7 +278,12 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/the-walking-dead-the-ones-who-live/temporada/1/capitulo/1",
+                        "url": "/serie/shogun/temporada/1/capitulo/2",
+                        "name": "T1 - E2: Episodio 2",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "/serie/shogun/temporada/1/capitulo/1",
                         "name": "T1 - E1: Episodio 1",
                         "episode_number": 1.0
                     }
@@ -756,9 +761,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://wquzstml7rhm.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f2-v1-a1.m3u8?t=1KHc8Rw7Dh0eOgys2qa30ciOOPt7DhdP4nyErHdll3Q&s=1709035866&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
+                        "url": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f2-v1-a1.m3u8?t=noMy2C5iLfSA8nIBhvCA3BxN08DXdp_-0sWG5yyMkVs&s=1709057333&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
                         "quality": "[SUB] StreamWish:720p",
-                        "videoUrl": "https://wquzstml7rhm.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f2-v1-a1.m3u8?t=1KHc8Rw7Dh0eOgys2qa30ciOOPt7DhdP4nyErHdll3Q&s=1709035866&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
+                        "videoUrl": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f2-v1-a1.m3u8?t=noMy2C5iLfSA8nIBhvCA3BxN08DXdp_-0sWG5yyMkVs&s=1709057333&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -767,9 +772,9 @@
                         }
                     },
                     {
-                        "url": "https://wquzstml7rhm.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f1-v1-a1.m3u8?t=1KHc8Rw7Dh0eOgys2qa30ciOOPt7DhdP4nyErHdll3Q&s=1709035866&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
+                        "url": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f1-v1-a1.m3u8?t=noMy2C5iLfSA8nIBhvCA3BxN08DXdp_-0sWG5yyMkVs&s=1709057333&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
                         "quality": "[SUB] StreamWish:480p",
-                        "videoUrl": "https://wquzstml7rhm.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f1-v1-a1.m3u8?t=1KHc8Rw7Dh0eOgys2qa30ciOOPt7DhdP4nyErHdll3Q&s=1709035866&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
+                        "videoUrl": "https://xwhokrurewib.sw-cdnstream.com/hls2/01/03157/92z066bj119l_,n,h,.urlset/index-f1-v1-a1.m3u8?t=noMy2C5iLfSA8nIBhvCA3BxN08DXdp_-0sWG5yyMkVs&s=1709057333&e=129600&f=15785621&srv=taRfBm9JSx9c&i=0.4&sp=500&p1=taRfBm9JSx9c&p2=taRfBm9JSx9c&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
@@ -778,9 +783,9 @@
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=KLPl43lax2t0XVX&expires=1709105868&ip=FROsE0EnDS9X&token=iWN0NtdBw9Bs",
+                        "url": "https://streamtape.com/get_video?id=KLPl43lax2t0XVX&expires=1709127335&ip=F0qQKRWZD19XKxR&token=tS0gGevZfCaV",
                         "quality": "[SUB] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=KLPl43lax2t0XVX&expires=1709105868&ip=FROsE0EnDS9X&token=iWN0NtdBw9Bs"
+                        "videoUrl": "https://streamtape.com/get_video?id=KLPl43lax2t0XVX&expires=1709127335&ip=F0qQKRWZD19XKxR&token=tS0gGevZfCaV"
                     }
                 ],
                 "passed": true
