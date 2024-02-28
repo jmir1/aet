@@ -8,7 +8,7 @@
                         "animes": [
                             {
                                 "url": "/anime/iwaju",
-                                "title": "Iwájú",
+                                "title": "Iwaju",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933521.jpg"
                             },
                             {
@@ -605,7 +605,7 @@
             "details": {
                 "result": {
                     "url": "/anime/iwaju",
-                    "title": "Iwájú",
+                    "title": "Iwaju",
                     "description": "A comic-style animated sci-fi series set in Lagos that explores themes of class, innocence and challenging the status quo.",
                     "genre": "Adventure, Animation, Drama, Report",
                     "thumbnail_url": "https://cdn.animationexplore.com/catimg/933521.jpg",
@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/iwaju-episode-6-tola",
+                        "name": "Season 1 - Episode 6",
+                        "episode_number": 106.0
+                    },
+                    {
+                        "url": "/iwaju-episode-5-otin",
+                        "name": "Season 1 - Episode 5",
+                        "episode_number": 105.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo8umq_wZlQLPc5ckpz5yuY55PqTCbCQSr_-gzGaNu-hWmhN814Axzr1bfzngfkAVaQeiCyQj1U_6C6HuIEMTOsTOaGAPJTchXaPy85Aj2CPqDYfXB94PklKVLjWayEsyNgOUZbmK_Ta2WycEDAIXKEebAo9nPJFN4YxpkdQTWVjktk-CuYCEEZQMOsWdzxlsxFGOWvoRCfCLAmxNQIS45459ge2Oz51-979xpUtdjS6iWtM0LfXvV48GfxPNtczrGgZMcVr_VDA9L5oJ3adDlMPHSgxFj0wnyLeS8oU6jGW",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo8umq_wZlQLPc5ckpz5yuY55PqTCbCQSr_-gzGaNu-hWmhN814Axzr1bfzngfkAVaQeiCyQj1U_6C6HuIEMTOsTOaGAPJTchXaPy85Aj2CPqDYfXB94PklKVLjWayEsyNgOUZbmK_Ta2WycEDAIXKEebAo9nPJFN4YxpkdQTWVjktk-CuYCEEZQMOsWdzxlsxFGOWvoRCfCLAmxNQIS45459ge2Oz51-979xpUtdjS6iWtM0LfXvV48GfxPNtczrGgZMcVr_VDA9L5oJ3adDlMPHSgxFj0wnyLeS8oU6jGW"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo8umq_wZlQLPc5ckpz5yuY55PqTCbCQSr_-gzGaNu-h_sJrvU110euGVVLQC9fSmZ8837QqJ9IhV-ny-uISwXJQ7emKB5xbFEpYbs931tu4DD2xLZo6ZC1SfTa7Fxw64Yzr-IgyoaZJu_blx3hg2ZJo7VmYE4xzcDX6P_jsH_40AJhv5K8kR270GmNkreOzJuqnx_kAIl4HVCHsQDQjNccYY8p-08DoT-WvZaTKKp1A7qXeqlxhVjwrIADubbI32enHl8LnX9bi3CZP1IUqMafUjtrpiYGtfZkSheGk8Tdj",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo8umq_wZlQLPc5ckpz5yuY55PqTCbCQSr_-gzGaNu-h_sJrvU110euGVVLQC9fSmZ8837QqJ9IhV-ny-uISwXJQ7emKB5xbFEpYbs931tu4DD2xLZo6ZC1SfTa7Fxw64Yzr-IgyoaZJu_blx3hg2ZJo7VmYE4xzcDX6P_jsH_40AJhv5K8kR270GmNkreOzJuqnx_kAIl4HVCHsQDQjNccYY8p-08DoT-WvZaTKKp1A7qXeqlxhVjwrIADubbI32enHl8LnX9bi3CZP1IUqMafUjtrpiYGtfZkSheGk8Tdj"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo8umq_wZlQLPc5ckpz5yuY55PqTCbCQSr_-gzGaNu-hNTJqPIJ1P5sk6al8vi-7YsrDH9dohQhDXpIaqHcbmhEZlJXQG6B-4DgIu5BLU7QUMtvMZauj4Er2DLVwYI_deRUZeA6RW6xnj5xOuqZbkzgD3ArvIG7h3isBak6twGp4JS4evInaqeBU7aMgJcUv9PVLJ5UeQ-pWFlLjf_-JIzmHizak9UrOpu74ybFkTgKpxXUb5go15E5pTJgKjM-hwV1V3o1K7dQnRLwD71mwvfQ",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJo8umq_wZlQLPc5ckpz5yuY55PqTCbCQSr_-gzGaNu-hNTJqPIJ1P5sk6al8vi-7YsrDH9dohQhDXpIaqHcbmhEZlJXQG6B-4DgIu5BLU7QUMtvMZauj4Er2DLVwYI_deRUZeA6RW6xnj5xOuqZbkzgD3ArvIG7h3isBak6twGp4JS4evInaqeBU7aMgJcUv9PVLJ5UeQ-pWFlLjf_-JIzmHizak9UrOpu74ybFkTgKpxXUb5go15E5pTJgKjM-hwV1V3o1K7dQnRLwD71mwvfQ"
+                    }
+                ],
+                "passed": true
             }
         }
     }
