@@ -137,6 +137,11 @@
                                 "thumbnail_url": "https://asianimg.pro/cover/maestra-1699255124.png"
                             },
                             {
+                                "url": "/drama-detail/hyde",
+                                "title": "Hide (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/hyde-1709189342.png"
+                            },
+                            {
                                 "url": "/drama-detail/welcome-to-samdalri",
                                 "title": "Welcome to Samdalri (2023)",
                                 "thumbnail_url": "https://asianimg.pro/cover/welcome-to-samdalri-1699588779.png"
@@ -180,11 +185,6 @@
                                 "url": "/drama-detail/diva-on-a-desert-island",
                                 "title": "Castaway Diva (2023)",
                                 "thumbnail_url": "https://asianimg.pro/cover/diva-on-a-desert-island-1697510294.png"
-                            },
-                            {
-                                "url": "/drama-detail/the-moon-that-rises-in-the-day",
-                                "title": "Moon in the Day (2023)",
-                                "thumbnail_url": "https://asianimg.pro/cover/the-moon-that-rises-in-the-day-1698212183.png"
                             }
                         ],
                         "hasNextPage": true
@@ -196,6 +196,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/palms-on-love-2024-episode-16.html",
+                                "title": "Palms on Love (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/palms-on-love-1708662515.png"
+                            },
+                            {
+                                "url": "/pyramid-game-2024-episode-4.html",
+                                "title": "Pyramid Game (2024)",
+                                "thumbnail_url": "https://asianimg.pro/cover/pyramid-game-1706596703.png"
+                            },
                             {
                                 "url": "/kimi-ga-kokoro-wo-kuretakara-2024-episode-7.html",
                                 "title": "Kimi ga Kokoro wo Kuretakara (2024)",
@@ -365,16 +375,6 @@
                                 "url": "/jue-se-xiao-shen-yi-2023-episode-24.html",
                                 "title": "Jue Se Xiao Shen Yi (2023)",
                                 "thumbnail_url": "https://asianimg.pro/cover/jue-se-xiao-shen-yi-2023-1692672004.png"
-                            },
-                            {
-                                "url": "/wang-fei-fang-ling-san-qian-sui-2024-episode-1.html",
-                                "title": "Wang Fei Fang Ling San Qian Sui (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/wang-fei-fang-ling-san-qian-sui-1708664132.png"
-                            },
-                            {
-                                "url": "/broken-the-heart-2024-episode-22.html",
-                                "title": "Broken the Heart (2024)",
-                                "thumbnail_url": "https://asianimg.pro/cover/broken-the-heart-1706599857.png"
                             }
                         ],
                         "hasNextPage": true
@@ -499,18 +499,70 @@
                     "author": "TVING",
                     "description": "Every Thursday afternoon, once a month, students at Sarang High School cast their votes in a popularity poll. The result? A brutal ranking system that determines the entire social hierarchy of the school. After starting at the bottom, can new transfer student Su Ji make her way to the top of the pyramid? Or will she topple the game altogether?\nAdapted from the webtoon \"Pyramid Game\" (피라미드 게임) by \"Dalgonyak\" (달꼬냑).",
                     "genre": "Action, Drama, Mystery, Psychological, School, Thriller, Webtoon",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "thumbnail_url": "https://asianimg.pro/cover/pyramid-game-1706596703.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pyramid-game-2024-episode-4.html",
+                        "name": "SUB: Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/pyramid-game-2024-episode-3.html",
+                        "name": "SUB: Episode 3",
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://88rqthdwr9o5r.sw-cdnstream.com/hls2/01/03182/rdtq7jq61zgm_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=D5EiKGIyhLlRP2p_L0HCjsar33dYz_XLSSBNDhscZg4&s=1709208731&e=129600&f=15910327&srv=jhwenguxclye&i=0.4&sp=500&p1=jhwenguxclye&p2=jhwenguxclye&asn=8075",
+                        "quality": "StreamWish - 1080p",
+                        "videoUrl": "https://88rqthdwr9o5r.sw-cdnstream.com/hls2/01/03182/rdtq7jq61zgm_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=D5EiKGIyhLlRP2p_L0HCjsar33dYz_XLSSBNDhscZg4&s=1709208731&e=129600&f=15910327&srv=jhwenguxclye&i=0.4&sp=500&p1=jhwenguxclye&p2=jhwenguxclye&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/rdtq7jq61zgm?caption_1=https://sub.pladrac.net&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://88rqthdwr9o5r.sw-cdnstream.com/hls2/01/03182/rdtq7jq61zgm_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=D5EiKGIyhLlRP2p_L0HCjsar33dYz_XLSSBNDhscZg4&s=1709208731&e=129600&f=15910327&srv=jhwenguxclye&i=0.4&sp=500&p1=jhwenguxclye&p2=jhwenguxclye&asn=8075",
+                        "quality": "StreamWish - 720p",
+                        "videoUrl": "https://88rqthdwr9o5r.sw-cdnstream.com/hls2/01/03182/rdtq7jq61zgm_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=D5EiKGIyhLlRP2p_L0HCjsar33dYz_XLSSBNDhscZg4&s=1709208731&e=129600&f=15910327&srv=jhwenguxclye&i=0.4&sp=500&p1=jhwenguxclye&p2=jhwenguxclye&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/rdtq7jq61zgm?caption_1=https://sub.pladrac.net&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://88rqthdwr9o5r.sw-cdnstream.com/hls2/01/03182/rdtq7jq61zgm_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=D5EiKGIyhLlRP2p_L0HCjsar33dYz_XLSSBNDhscZg4&s=1709208731&e=129600&f=15910327&srv=jhwenguxclye&i=0.4&sp=500&p1=jhwenguxclye&p2=jhwenguxclye&asn=8075",
+                        "quality": "StreamWish - 480p",
+                        "videoUrl": "https://88rqthdwr9o5r.sw-cdnstream.com/hls2/01/03182/rdtq7jq61zgm_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=D5EiKGIyhLlRP2p_L0HCjsar33dYz_XLSSBNDhscZg4&s=1709208731&e=129600&f=15910327&srv=jhwenguxclye&i=0.4&sp=500&p1=jhwenguxclye&p2=jhwenguxclye&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://dwish.pro",
+                            "Referer": "https://dwish.pro/e/rdtq7jq61zgm?caption_1=https://sub.pladrac.net&sub_1=English"
+                        }
+                    },
+                    {
+                        "url": "https://streamtape.com/get_video?id=GbKgPZRwjdT9z1&expires=1709278733&ip=G0WsD0MAKxSHDN&token=Yeys3noY5jaz",
+                        "quality": "Streamtape",
+                        "videoUrl": "https://streamtape.com/get_video?id=GbKgPZRwjdT9z1&expires=1709278733&ip=G0WsD0MAKxSHDN&token=Yeys3noY5jaz"
+                    }
+                ],
+                "passed": true
             }
         }
     }

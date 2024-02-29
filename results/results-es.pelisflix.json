@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/desconocidos/",
+                                "title": "Desconocidos",
+                                "description": "Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/n2cB0ui2k4teuDvUXjSsPU5DynGxHSbVLdm.webp"
+                            },
+                            {
+                                "url": "/pelicula/codigo-8-parte-2/",
+                                "title": "Código 8 (Parte 2)",
+                                "description": "Después de presenciar el asesinato de su hermano y el posterior encubrimiento, una adolescente con ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5PwwTgSt3QJBU7CK.webp"
+                            },
+                            {
                                 "url": "/pelicula/gallo-rojo/",
                                 "title": "Gallo Rojo",
                                 "description": "Ana vuelve al pueblo en verano con la intención de montar un cine en el patio de una vieja casa fam...",
@@ -233,18 +245,6 @@
                                 "title": "Eileen",
                                 "description": "",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5PNfnt6sjVup7Rct7gt1iiEMkux.webp"
-                            },
-                            {
-                                "url": "/pelicula/giannis-camino-a-la-grandeza/",
-                                "title": "Giannis: Camino a la grandeza",
-                                "description": "La historia de Giannis Antetokounmpo, superestrella mundial de la NBA, desde las calles de Atenas ha...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ZTwV5kVdcFLXF2BkkEuLgnBcLH0d.webp"
-                            },
-                            {
-                                "url": "/pelicula/millers-girl/",
-                                "title": "Miller's Girl",
-                                "description": "Una tarea de escritura creativa produce resultados complejos entre un maestro y su estudiante talent...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/XSkV9RBjw3h3lNtwxmlbUUl1igG.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/gallo-rojo/",
-                    "title": "Gallo Rojo",
-                    "description": "Ana vuelve al pueblo en verano con la intención de montar un cine en el patio de una vieja casa familiar. Un día está trabajando en su proyecto y se encuentra con Lucía, una vieja conocida. Ella lleva años sin verla, pero rápidamente se pone a ayudar a Ana para que el cine funcione correctamente. Comienzan las proyecciones mientras la relación entre Ana y Lucía se estrecha. Ana está preocupada por sentirse integrada en el pueblo, mientras que Lucía la propone filmar con su videocámara a los diferentes vecinos para que aparezcan en las proyecciones. El verano sigue su curso y el pueblo se va vaciando, mientras Ana y Lucía continúan grabando escenas. Pronto llegará la fecha en la que Lucía se irá del pueblo para regresar a su vida en la ciudad, pero Ana no quiere renunciar a su nuevo modo de vida en el pueblo.",
-                    "genre": "Drama",
+                    "url": "/pelicula/desconocidos/",
+                    "title": "Desconocidos",
+                    "description": "Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su infancia donde descubre que sus padres, fallecidos hace mucho tiempo, están vivos y tienen la misma edad que el día de su muerte.",
+                    "genre": "Drama, Fantasía, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/gallo-rojo/",
+                        "url": "/pelicula/desconocidos/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar uPVtpXd = \"\"; IGVeIqW.forEach(function Oym(value) { uPVtpXd += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar MhpnCLQ = \"\"; TQgxHRLbk.forEach(function Oym(value) { MhpnCLQ += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
