@@ -229,14 +229,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1709402897&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwOTQwMjg5N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=aW2qFwZZ-xmvzwoAFr9TyZ75vSoe4RITSrVqqOQqtZGzHPlCh-PulrC-RiQScJKEexeSnVJWlP-5yqQ786iwWG9tbyqvMX8SN2fXuOh7-0saLlY1YFp%7ESTR5qhqEh5fwRzVlRmCmVOY5-FvKUbGH9oynAoRBKoPmkghFzHAuu0wz4vpg73-E-QLS0zq5Rd6N8UcLS6-ugAWZpZmvw-msrSiad01LXay7lYbGCjVdjlTzKV88ZQKxcTIuFTeHK4bV5-ky9t4wMNVO6-7OF5hwZiF5xBg7vttbi90YABCjeNB-pyAmOYnvi2BRhBdatCPfIEh2nwkPIUtHHN8%7EC-vFDg__&Key-Pair-Id=KVTP0A1DKRTAX",
-                        "quality": "720p # 1 (BDA-HF)",
-                        "videoUrl": "https://cdn-lfs.huggingface.co/repos/24/6b/246ba86392009813be1ac7b49e2ffa0f2ab62fe971c4d7395d7d734bb7ddbb25/8967a72ed9ddf3ce754085a66b3a6c6d651692ba195e52598dad69ca7664435e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27one-piece-dub-episode-1024.mp4%3B+filename%3D%22one-piece-dub-episode-1024.mp4%22%3B&response-content-type=video%2Fmp4&Expires=1709402897&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwOTQwMjg5N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy8yNC82Yi8yNDZiYTg2MzkyMDA5ODEzYmUxYWM3YjQ5ZTJmZmEwZjJhYjYyZmU5NzFjNGQ3Mzk1ZDdkNzM0YmI3ZGRiYjI1Lzg5NjdhNzJlZDlkZGYzY2U3NTQwODVhNjZiM2E2YzZkNjUxNjkyYmExOTVlNTI1OThkYWQ2OWNhNzY2NDQzNWU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=aW2qFwZZ-xmvzwoAFr9TyZ75vSoe4RITSrVqqOQqtZGzHPlCh-PulrC-RiQScJKEexeSnVJWlP-5yqQ786iwWG9tbyqvMX8SN2fXuOh7-0saLlY1YFp%7ESTR5qhqEh5fwRzVlRmCmVOY5-FvKUbGH9oynAoRBKoPmkghFzHAuu0wz4vpg73-E-QLS0zq5Rd6N8UcLS6-ugAWZpZmvw-msrSiad01LXay7lYbGCjVdjlTzKV88ZQKxcTIuFTeHK4bV5-ky9t4wMNVO6-7OF5hwZiF5xBg7vttbi90YABCjeNB-pyAmOYnvi2BRhBdatCPfIEh2nwkPIUtHHN8%7EC-vFDg__&Key-Pair-Id=KVTP0A1DKRTAX"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: Failed to fetch videos",
+                "passed": false
             }
         }
     }

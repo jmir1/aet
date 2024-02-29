@@ -137,6 +137,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/isekai-onsen-paradise",
+                                "title": "Isekai Onsen Paradise (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/5UyWYVRySk1Hhmwvb5KHMQYIG4S.jpg"
+                            },
+                            {
                                 "url": "/serie/apocalipsis-la-primera-guerra-mundial",
                                 "title": "Apocalipsis: La Primera Guerra Mundial (2014)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/7F7c4pmkduDpps5n8H3krq5iV7V.jpg"
@@ -250,11 +255,6 @@
                                 "url": "/pelicula/konosuba-la-pelicula-la-leyenda-del-carmesi",
                                 "title": "KonoSuba. La Película. La Leyenda del Carmesí (2019)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/5aaAySq2nI9kYQZzom7ymvoN2Kh.jpg"
-                            },
-                            {
-                                "url": "/pelicula/when-you-finish-saving-the-world",
-                                "title": "When You Finish Saving The World (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -470,6 +470,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/codigo-8-renegados-parte-ii/",
+                                "title": "Código 8: Renegados (Parte II)",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/codigo-8-renegados-parte-ii.jpg"
+                            },
+                            {
+                                "url": "/pelicula/out-of-darkness/",
+                                "title": "Out of Darkness",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/out-of-darkness.jpg"
+                            },
+                            {
+                                "url": "/pelicula/journey-beyond-the-night/",
+                                "title": "Journey Beyond the Night",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/journey-beyond-the-night.jpg"
+                            },
+                            {
+                                "url": "/pelicula/the-greatest-love-story-never-told/",
+                                "title": "The Greatest Love Story Never Told",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-greatest-love-story-never-told.jpg"
+                            },
+                            {
+                                "url": "/pelicula/mamacruz/",
+                                "title": "Mamacruz",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/mamacruz.jpg"
+                            },
+                            {
+                                "url": "/pelicula/chicas-web-cam/",
+                                "title": "Chicas Web Cam",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/chicas-web-cam.jpg"
+                            },
+                            {
                                 "url": "/pelicula/miedo-880100/",
                                 "title": "Miedo",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/miedo-880100.jpg"
@@ -538,36 +568,6 @@
                                 "url": "/pelicula/man-of-god/",
                                 "title": "Man of God",
                                 "thumbnail_url": "https://www.pelisplushd.ph/poster/man-of-god.jpg"
-                            },
-                            {
-                                "url": "/pelicula/englemageren/",
-                                "title": "Englemageren",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/englemageren.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tyger/",
-                                "title": "Tyger",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tyger.jpg"
-                            },
-                            {
-                                "url": "/pelicula/a-traves-de-tu-mirada/",
-                                "title": "A través de tu mirada",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/a-traves-de-tu-mirada.jpg"
-                            },
-                            {
-                                "url": "/pelicula/miracol/",
-                                "title": "Miracol",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/miracol.jpg"
-                            },
-                            {
-                                "url": "/pelicula/korporaciya-ad-libitum/",
-                                "title": "Корпорация Ad Libitum",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/korporaciya-ad-libitum.jpg"
-                            },
-                            {
-                                "url": "/pelicula/death-rumble/",
-                                "title": "Death Rumble",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/death-rumble.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -737,8 +737,8 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/miedo-880100/",
-                    "title": "Miedo",
+                    "url": "/pelicula/codigo-8-renegados-parte-ii/",
+                    "title": "Código 8: Renegados (Parte II)",
                     "artist": "",
                     "description": "",
                     "genre": "",
@@ -751,7 +751,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/miedo-880100/",
+                        "url": "/pelicula/codigo-8-renegados-parte-ii/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -759,8 +759,75 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://atkwogsk5.sw-cdnstream.com/hls2/01/03173/eepqh463mhz4_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=64BhHWEjTignQ8eow3JnJj0CX72upQ-7sQtgYbAotFI&s=1709166614&e=129600&f=15869492&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8075",
+                        "quality": "[CAST] StreamWish:1080p",
+                        "videoUrl": "https://atkwogsk5.sw-cdnstream.com/hls2/01/03173/eepqh463mhz4_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=64BhHWEjTignQ8eow3JnJj0CX72upQ-7sQtgYbAotFI&s=1709166614&e=129600&f=15869492&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/eepqh463mhz4"
+                        }
+                    },
+                    {
+                        "url": "https://nue3mlrqqmp4.sw-cdnstream.com/hls2/01/03173/arl03tysv0hp_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Yj41bjaFKW7MShnzF3EYnkW8CUXmixHlsa-yROcO2n8&s=1709166609&e=129600&f=15869926&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "quality": "[SUB] StreamWish:1080p",
+                        "videoUrl": "https://nue3mlrqqmp4.sw-cdnstream.com/hls2/01/03173/arl03tysv0hp_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=Yj41bjaFKW7MShnzF3EYnkW8CUXmixHlsa-yROcO2n8&s=1709166609&e=129600&f=15869926&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/arl03tysv0hp"
+                        }
+                    },
+                    {
+                        "url": "https://atkwogsk5.sw-cdnstream.com/hls2/01/03173/eepqh463mhz4_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=64BhHWEjTignQ8eow3JnJj0CX72upQ-7sQtgYbAotFI&s=1709166614&e=129600&f=15869492&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8075",
+                        "quality": "[CAST] StreamWish:720p",
+                        "videoUrl": "https://atkwogsk5.sw-cdnstream.com/hls2/01/03173/eepqh463mhz4_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=64BhHWEjTignQ8eow3JnJj0CX72upQ-7sQtgYbAotFI&s=1709166614&e=129600&f=15869492&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/eepqh463mhz4"
+                        }
+                    },
+                    {
+                        "url": "https://nue3mlrqqmp4.sw-cdnstream.com/hls2/01/03173/arl03tysv0hp_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Yj41bjaFKW7MShnzF3EYnkW8CUXmixHlsa-yROcO2n8&s=1709166609&e=129600&f=15869926&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "quality": "[SUB] StreamWish:720p",
+                        "videoUrl": "https://nue3mlrqqmp4.sw-cdnstream.com/hls2/01/03173/arl03tysv0hp_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=Yj41bjaFKW7MShnzF3EYnkW8CUXmixHlsa-yROcO2n8&s=1709166609&e=129600&f=15869926&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/arl03tysv0hp"
+                        }
+                    },
+                    {
+                        "url": "https://atkwogsk5.sw-cdnstream.com/hls2/01/03173/eepqh463mhz4_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=64BhHWEjTignQ8eow3JnJj0CX72upQ-7sQtgYbAotFI&s=1709166614&e=129600&f=15869492&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8075",
+                        "quality": "[CAST] StreamWish:480p",
+                        "videoUrl": "https://atkwogsk5.sw-cdnstream.com/hls2/01/03173/eepqh463mhz4_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=64BhHWEjTignQ8eow3JnJj0CX72upQ-7sQtgYbAotFI&s=1709166614&e=129600&f=15869492&srv=OTO5oEDn21Kx&i=0.4&sp=500&p1=OTO5oEDn21Kx&p2=OTO5oEDn21Kx&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/eepqh463mhz4"
+                        }
+                    },
+                    {
+                        "url": "https://nue3mlrqqmp4.sw-cdnstream.com/hls2/01/03173/arl03tysv0hp_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Yj41bjaFKW7MShnzF3EYnkW8CUXmixHlsa-yROcO2n8&s=1709166609&e=129600&f=15869926&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "quality": "[SUB] StreamWish:480p",
+                        "videoUrl": "https://nue3mlrqqmp4.sw-cdnstream.com/hls2/01/03173/arl03tysv0hp_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=Yj41bjaFKW7MShnzF3EYnkW8CUXmixHlsa-yROcO2n8&s=1709166609&e=129600&f=15869926&srv=b8x48vnaz349&i=0.4&sp=500&p1=b8x48vnaz349&p2=b8x48vnaz349&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/arl03tysv0hp"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
