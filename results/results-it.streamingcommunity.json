@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "7901-regina-rossa",
+                                "title": "Regina Rossa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9f58ef17-9b19-42e9-9002-c3d4a0ffe8f6.webp"
+                            },
+                            {
                                 "url": "7895-code-8-part-ii",
                                 "title": "Code 8 Part II",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/7688960d-2552-4bee-b1af-4c9e4a8b1f3d.webp"
@@ -300,11 +305,6 @@
                                 "url": "7487-ragazzo-divora-universo",
                                 "title": "Ragazzo divora universo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/920d4b79-3671-4733-86d3-bf26f581e2de.webp"
-                            },
-                            {
-                                "url": "7486-detective-forst",
-                                "title": "Detective Forst",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/d09fb4c2-ec98-44a9-84e2-15965bdc19dd.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7900-bambi",
+                                "title": "Bambi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/553ff174-8163-42d7-a6c7-9c70279c1b17.webp"
+                            },
+                            {
+                                "url": "7899-il-sogno-di-jerome",
+                                "title": "Il sogno di Jerome",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/dda2c421-c090-42bd-82aa-db497f37494e.webp"
+                            },
                             {
                                 "url": "7898-in-trappola",
                                 "title": "In Trappola",
@@ -605,16 +615,6 @@
                                 "url": "7823-28-giorni-dopo",
                                 "title": "28 giorni dopo",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5397dafc-454c-4f1f-9ba3-64c7a24892ca.webp"
-                            },
-                            {
-                                "url": "7820-beat",
-                                "title": "Beat",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/0a48ab4a-7e0e-4180-b118-0f590e3b1a8d.webp"
-                            },
-                            {
-                                "url": "7819-il-dottor-dolittle-3",
-                                "title": "Il dottor Dolittle 3",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/63982284-09fb-435b-8614-c148856bad07.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "7895-code-8-part-ii",
-                    "description": "In un mondo in cui le persone dotate di superpoteri sono pesantemente controllate dai robot, un ex detenuto si allea con un signore della droga che disprezza per proteggere un adolescente da un poliziotto corrotto.",
-                    "genre": "Azione, Fantascienza",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "7901-regina-rossa",
+                    "description": "Antonia Scott è la donna più intelligente al mondo, diventata la Regina Rossa di un progetto della polizia. Dopo aver lasciato il servizio a causa di un provvedimento disciplinare, il poliziotto basco e gay, Jon Gutiérrez, rivoluziona la sua vita e i suoi metodi in un appassionante doppio caso di rapimento e omicidio.",
+                    "genre": "Mistero, Action & Adventure",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "7895",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "7901?e=55953",
+                        "name": "Stagione 1 episodio 7 - Uno specchio",
+                        "episode_number": 7.0
+                    },
+                    {
+                        "url": "7901?e=55949",
+                        "name": "Stagione 1 episodio 6 - Una maschera",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
