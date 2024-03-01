@@ -12,6 +12,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/d3ad7b0a-1737-43f7-b79b-1e25a2804e67.webp"
                             },
                             {
+                                "url": "7927-spaceman",
+                                "title": "Spaceman",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ca0b139f-3c85-4e41-a2de-ebe9468d4f4b.webp"
+                            },
+                            {
                                 "url": "7901-regina-rossa",
                                 "title": "Regina Rossa",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b86f9e15-cca4-4ced-806c-7d0baae686d9.webp"
@@ -35,11 +40,6 @@
                                 "url": "7885-the-walking-dead-the-ones-who-live",
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/5fea60fb-896b-4e1a-9ddc-ab53030aa108.webp"
-                            },
-                            {
-                                "url": "7927-spaceman",
-                                "title": "Spaceman",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ca0b139f-3c85-4e41-a2de-ebe9468d4f4b.webp"
                             },
                             {
                                 "url": "7844-dalla-mia-finestra-guardando-te",
@@ -316,6 +316,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7929-anatomia-di-una-caduta",
+                                "title": "Anatomia di una caduta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/5445c153-f2d1-4a7d-ae53-1520432c271e.webp"
+                            },
                             {
                                 "url": "7926-night-swim",
                                 "title": "Night Swim",
@@ -610,11 +615,6 @@
                                 "url": "7855-flamin-hot",
                                 "title": "Flamin' Hot",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/c4aed9d2-6b0f-42cc-81be-a75af102f772.webp"
-                            },
-                            {
-                                "url": "7854-grantchester",
-                                "title": "Grantchester",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/8618bd7b-e9fd-42a9-9093-76e4a107eb4a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,11 +944,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "7928?e=56209",
+                        "name": "Stagione 1 episodio 8 - Namasté, stronzi",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "7928?e=56208",
+                        "name": "Stagione 1 episodio 7 - Dove sono i coltelli?",
+                        "episode_number": 7.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
