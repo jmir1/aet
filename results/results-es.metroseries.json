@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/sonidos-terrestres/",
+                                "title": "Sonidos terrestres",
+                                "description": "Earthsounds Esta trascendental serie emplea la tecnología sonora y las técnicas de filmación más avanzadas para desvelar nuestro planeta de una forma nueva e impresionante a través de sonidos nunca antes escuchados de la naturaleza. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/rkqxZmJMhYGSgmGhvnyShE6uWCV.jpg"
+                            },
+                            {
+                                "url": "/obituary/",
+                                "title": "Obituary",
+                                "description": "Elvira Clancy, una joven de 24 años apasionada por su trabajo escribiendo esquelas en un periódico local, enfrenta un giro inesperado en su vida cuando, debido a dificultades económicas del periódico, su remuneración cambia a ser por esquela publicada. Este cambio lleva a Elvira a un oscuro descubrimiento sobre sí misma tras matar \"accidentalmente\" a […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/uVFqfV4feeByVUdg6RhuThSkIAq.jpg"
+                            },
+                            {
                                 "url": "/ocurrio-a-orillas-del-rio/",
                                 "title": "Ocurrió a orillas del río",
                                 "description": "Händelser vid vatten Una tarde de verano de 1970, dos turistas aparecen asesinados en una tienda de campaña. El crimen entrelaza la vida de cuatro personas al azar. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/iH7ypcsBANel7mTpyEADBS2oO02.jpg"
                             },
                             {
-                                "url": "/nascar-a-toda-velocidad/",
-                                "title": "NASCAR: A toda velocidad",
-                                "description": "NASCAR: Full Speed La pasión y la gloria de la Copa NASCAR son los motores de los pilotos y sus escuderías. En esta docuserie de deportes, todos compiten por hacer historia. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fXhZCpFlFXST8qZt2dYT4XTeF1E.jpg"
-                            },
-                            {
-                                "url": "/ninja-kamui/",
-                                "title": "Ninja Kamui",
-                                "description": "El deseo de venganza del exmiembro de un clan ninja lo lleva a colaborar con los agentes del FBI para investigar el asesinato de su mujer e hijo. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3dl7QFrpvtu9My4L6K7KtUMP8p1.jpg"
-                            },
-                            {
-                                "url": "/flesh-and-blood/",
-                                "title": "Flesh and Blood",
+                                "url": "/based-on-a-true-story/",
+                                "title": "Based on a True Story",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3MZv8kEMPWkpjECLbg5S1dQzYnE.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/jAi45HkLujMdBFZb6y1SiDNs4uX.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/las-chicas-gilmore/",
-                                "title": "Las chicas Gilmore",
+                                "url": "/agents-of-s-h-i-e-l-d-capitulos-completos-latino-hd-c3/",
+                                "title": "Marvel's Agentes de S.H.I.E.L.D.",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/pQ10vmeR32IJKbTOzzuaTscKV9Q-226x339.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/09/iKxIgZeMA7XLoBMX7zifpkgP57D-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,69 @@
             },
             "details": {
                 "result": {
-                    "url": "/ocurrio-a-orillas-del-rio/",
-                    "title": "Ocurrió a orillas del río",
-                    "description": "Händelser vid vatten Una tarde de verano de 1970, dos turistas aparecen asesinados en una tienda de campaña. El crimen entrelaza la vida de cuatro personas al azar.",
-                    "genre": "Crimen, Drama",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/501OlP6UN3FvjC8CAbm4zU9rzEi.jpg",
+                    "url": "/sonidos-terrestres/",
+                    "title": "Sonidos terrestres",
+                    "description": "Earthsounds Esta trascendental serie emplea la tecnología sonora y las técnicas de filmación más avanzadas para desvelar nuestro planeta de una forma nueva e impresionante a través de sonidos nunca antes escuchados de la naturaleza.",
+                    "genre": "Documental",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rkqxZmJMhYGSgmGhvnyShE6uWCV.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/sonidos-terrestres-temporada-1-capitulo-12/",
+                        "name": "T01 - E12 - Escuchamos nuestro planeta",
+                        "date_upload": 1708646400000,
+                        "episode_number": 12.0
+                    },
+                    {
+                        "url": "/episode/sonidos-terrestres-temporada-1-capitulo-11/",
+                        "name": "T01 - E11 - Mares poco profundos",
+                        "date_upload": 1708646400000,
+                        "episode_number": 11.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s37.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=4Uw9WQhsFHTxtJPkk_T8wBr10drMHvQU25Oh2NaQzRI&s=1709253237&e=43200&f=319179&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s37.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=4Uw9WQhsFHTxtJPkk_T8wBr10drMHvQU25Oh2NaQzRI&s=1709253237&e=43200&f=319179&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=4Uw9WQhsFHTxtJPkk_T8wBr10drMHvQU25Oh2NaQzRI&s=1709253237&e=43200&f=319179&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s37.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=4Uw9WQhsFHTxtJPkk_T8wBr10drMHvQU25Oh2NaQzRI&s=1709253237&e=43200&f=319179&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s37.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=4Uw9WQhsFHTxtJPkk_T8wBr10drMHvQU25Oh2NaQzRI&s=1709253237&e=43200&f=319179&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s37.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=4Uw9WQhsFHTxtJPkk_T8wBr10drMHvQU25Oh2NaQzRI&s=1709253237&e=43200&f=319179&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

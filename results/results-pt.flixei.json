@@ -142,6 +142,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/assistir/filme/amor-em-soweto/online/gratis",
+                                "title": "Amor em Soweto",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40291.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/me-mate-querido/online/gratis",
+                                "title": "Me Mate, Querido",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40290.jpg"
+                            },
+                            {
+                                "url": "/assistir/filme/the-space-race/online/gratis",
+                                "title": "The Space Race",
+                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40289.jpg"
+                            },
+                            {
                                 "url": "/assistir/filme/deadpool-wolverine/online/gratis",
                                 "title": "Deadpool & Wolverine",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40288.jpg"
@@ -265,21 +280,6 @@
                                 "url": "/assistir/filme/perseguicao-fatal/online/gratis",
                                 "title": "Perseguição Fatal",
                                 "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40264.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/o-protetor-do-irmao/online/gratis",
-                                "title": "O Protetor do Irmão",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40263.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/dinheiro-facil-2023/online/gratis",
-                                "title": "Dinheiro Fácil",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40262.jpg"
-                            },
-                            {
-                                "url": "/assistir/filme/o-tesouro-da-montanha-nebulosa/online/gratis",
-                                "title": "O Tesouro da Montanha Nebulosa",
-                                "thumbnail_url": "https://flixei.com/content/movies/posterPt/185/40261.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1761,8 +1761,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=Wygf9FZGRy4sBGSwgqojtQ&e=1709274833&_t=1709260576",
+                        "quality": "MixDrop(LEGENDADO)",
+                        "videoUrl": "https://s-delivery49.mxdcontent.net/v/60156296bf7d36f108ba5a52a751aa55.mp4?s=Wygf9FZGRy4sBGSwgqojtQ&e=1709274833&_t=1709260576",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.com/219732-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=CddO9SR90WTsUtjOeO4tcw&e=1709274832&_t=1709256742",
+                        "quality": "MixDrop(DUBLADO)",
+                        "videoUrl": "https://s-delivery25.mxdcontent.net/v/298f72255ebda5f127d4326608f5f79e.mp4?s=CddO9SR90WTsUtjOeO4tcw&e=1709274832&_t=1709256742",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
