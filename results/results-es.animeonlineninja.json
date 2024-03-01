@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/sister-princess-cap-2/",
+                                "title": "Sister Princess Cap 2",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/02/3TdGynmnpHMyhp7b8s8Ev8EQuc7-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/urusei-yatsura-2022-cap-31/",
                                 "title": "Urusei Yatsura (2022) Cap 31",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/02/jEP9Mk7DLbgwS5DI4ZNpXjllK8g-300x170.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/episodio/reiwa-no-di-gi-charat-cap-16/",
                                 "title": "Reiwa no Di Gi Charat Cap 16",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/02/obY2EIFgRNHWnu0cElbiWxtwj4M-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/reiwa-no-di-gi-charat-cap-15/",
-                                "title": "Reiwa no Di Gi Charat Cap 15",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/02/fntE0QGJ2nRPmekGBQkTPfaHMFb-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -504,7 +504,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
