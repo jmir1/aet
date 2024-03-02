@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-astronauta/",
+                                "title": "El astronauta",
+                                "description": "Durante una misión de investigación, un astronauta descubre que su matrimonio está en problemas, ...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/rZk38wKjfMEMef4kg9Ztv.webp"
+                            },
+                            {
+                                "url": "/pelicula/me-llamo-loh-kiwan/",
+                                "title": "Me llamo Loh Kiwan",
+                                "description": "Loh Ki-wan es un desertor norcoreano que huye a Bélgica por el bien de su madre, Ok-hee. Para queda...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7hn7sCXacanueS3y2u0ysUOBmUVBD.webp"
+                            },
+                            {
+                                "url": "/pelicula/kids-are-growing-up-a-story-about-a-kid-named-laroi/",
+                                "title": "Kids Are Growing Up: A Story About a Kid Named Laroi",
+                                "description": "",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/B4CF6LbbLEE7dqsR2kz5veMz5wjMYhpqcS.webp"
+                            },
+                            {
+                                "url": "/pelicula/los-desfiles/",
+                                "title": "Los desfiles",
+                                "description": "Una mujer no ceja en la búsqueda de su hijo tras una devastadora catástrofe, hasta que se da cuent...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/rruN11Amps6TcIscFKsHAkjGdqxopp.webp"
+                            },
+                            {
+                                "url": "/pelicula/memory/",
+                                "title": "Memory",
+                                "description": "Sylvia es una trabajadora social que lleva una vida sencilla y estructurada: su hija, su trabajo, su...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/6anoG7270WntkSRSFHK0XVq.webp"
+                            },
+                            {
                                 "url": "/pelicula/chicas-malas/",
                                 "title": "Chicas malas",
                                 "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de ...",
@@ -215,36 +245,6 @@
                                 "title": "Agent Game",
                                 "description": "En este fascinante thriller de espías, nadie está a salvo. Harris, un interrogador de la CIA en un...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/cu6w1QeOwKSpLaImp3vTNagm.webp"
-                            },
-                            {
-                                "url": "/pelicula/los-ninos-de-winton/",
-                                "title": "Los niños de Winton",
-                                "description": "El filántropo británico Nicholas Winton ayudó a salvar a cientos de niños de los nazis en víspe...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/yACfW0Q8N8RVizgjiY61gug0ISvgGTf5jIa6zQ4cPMXXb.webp"
-                            },
-                            {
-                                "url": "/pelicula/johnny-z/",
-                                "title": "Johnny Z",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/jaMFIE3zdDqIgk54tkpRi.webp"
-                            },
-                            {
-                                "url": "/pelicula/matame-si-te-atreves-carino/",
-                                "title": "Matame si te atreves, cariño",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/i1uMJF7MGZz28Sx114ciRSAc14tHeejn5.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-color-purpura/",
-                                "title": "El color púrpura",
-                                "description": "Adaptación musical de la novela de Alice Walker sobre las luchas de toda la vida de una mujer afroa...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/Xbmeih5Wa0DXcewr8jK7J.webp"
-                            },
-                            {
-                                "url": "/pelicula/eileen/",
-                                "title": "Eileen",
-                                "description": "",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/5PNfnt6sjVup7Rct7gt1iiEMkux.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/chicas-malas/",
-                    "title": "Chicas malas",
-                    "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de chicas populares llamado \"Las Plásticas\", gobernado por la intrigante abeja reina Regina George y sus secuaces Gretchen y Karen. Sin embargo, cuando Cady comete el grave error de enamorarse del ex novio de Regina, Aaron Samuels, se encuentra en el punto de mira de Regina. Con la ayuda de sus amigos marginados Janis y Damian, Cady se propone acabar con la depredadora del grupo y aprender a ser fiel a sí misma en la jungla más despiadada de todas: el instituto.",
-                    "genre": "Comedia",
+                    "url": "/pelicula/el-astronauta/",
+                    "title": "El astronauta",
+                    "description": "Durante una misión de investigación, un astronauta descubre que su matrimonio está en problemas, Por suerte, cuenta con la ayuda de una misteriosa criatura escondida en su nave.",
+                    "genre": "C. Ficción, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/chicas-malas/",
+                        "url": "/pelicula/el-astronauta/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar IRIVcNNtGE = \"\"; krmrKEhv.forEach(function Oym(value) { IRIVcNNtGE += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar BDvwwlGxKH = \"\"; OPmGcXB.forEach(function Oym(value) { BDvwwlGxKH += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
