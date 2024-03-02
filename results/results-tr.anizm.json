@@ -3,63 +3,27 @@
         "name": "Anizm (TR)",
         "results": {
             "popular": {
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
+            },
+            "latest": {
                 "result": [
                     {
                         "animes": [
                             {
-                                "url": "/dungeon-meshi",
-                                "title": "Dungeon Meshi",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181000001704381902.webp"
+                                "url": "/turn-a-gundam",
+                                "title": "Turn A Gundam",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180720001698489901.webp"
                             },
                             {
-                                "url": "/ishura",
-                                "title": "Ishura",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181010001704385862.webp"
+                                "url": "/undead-unluck",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180600001697223781.webp"
                             },
                             {
-                                "url": "/nanatsu-no-taizai-mokushiroku-no-yonkishi",
-                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180820001699829582.webp"
-                            },
-                            {
-                                "url": "/boku-no-kokoro-no-yabai-yatsu-season-2",
-                                "title": "Boku no Kokoro no Yabai Yatsu Season 2",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181060001704618302.webp"
-                            },
-                            {
-                                "url": "/dosanko-gal-wa-namara-menkoi",
-                                "title": "Dosanko Gal wa Namara Menkoi",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181110001704831302.webp"
-                            },
-                            {
-                                "url": "/mashle-2nd-season",
-                                "title": "Mashle 2nd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181070001704650102.webp"
-                            },
-                            {
-                                "url": "/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
-                            },
-                            {
-                                "url": "/ragna-crimson",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180430001696188301.webp"
-                            },
-                            {
-                                "url": "/yubisaki-to-renren",
-                                "title": "Yubisaki to Renren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181040001704571622.webp"
-                            },
-                            {
-                                "url": "/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
-                                "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180540001696792981.webp"
-                            },
-                            {
-                                "url": "/metallic-rouge",
-                                "title": "Metallic Rouge",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181140001704975301.webp"
+                                "url": "/kusuriya-no-hitorigoto",
+                                "title": "Kusuriya no Hitorigoto",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/180680001698001141.webp"
                             },
                             {
                                 "url": "/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
@@ -67,45 +31,10 @@
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/180990001704326942.webp"
                             },
                             {
-                                "url": "/tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-                                "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181240001705686902.webp"
+                                "url": "/great-pretender-razbliuto-great-pretender-razbliuto-movie",
+                                "title": "Great Pretender: Razbliuto",
+                                "thumbnail_url": "https://anizm.net/storage/pcovers/181540001709318222.webp"
                             },
-                            {
-                                "url": "/bucchigiri",
-                                "title": "Bucchigiri?!",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181210001705439101.webp"
-                            },
-                            {
-                                "url": "/chiyu-mahou-no-machigatta-tsukaikata",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181030001704554101.webp"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken",
-                                "title": "Ore dake Level Up na Ken",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181050001704573061.webp"
-                            },
-                            {
-                                "url": "/majo-to-yajuu",
-                                "title": "Majo to Yajuu",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181150001705078022.webp"
-                            },
-                            {
-                                "url": "/captain-tsubasa-season-2-junior-youth-hen",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180440001696341901.webp"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
-            },
-            "latest": {
-                "result": [
-                    {
-                        "animes": [
                             {
                                 "url": "/yuuki-bakuhatsu-bang-bravern",
                                 "title": "Yuuki Bakuhatsu Bang Bravern",
@@ -170,31 +99,6 @@
                                 "url": "/ninja-kamui",
                                 "title": "Ninja Kamui",
                                 "thumbnail_url": "https://anizm.net/storage/pcovers/181510001707685501.webp"
-                            },
-                            {
-                                "url": "/one-piece",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/3.webp"
-                            },
-                            {
-                                "url": "/ore-dake-level-up-na-ken-recap-special-1-bolum-recap",
-                                "title": "Ore dake Level Up na Ken Recap",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181520001708813802.webp"
-                            },
-                            {
-                                "url": "/ao-no-exorcist-shimane-illuminati-hen",
-                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181090001704745022.webp"
-                            },
-                            {
-                                "url": "/mashle-2nd-season",
-                                "title": "Mashle 2nd Season",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/181070001704650102.webp"
-                            },
-                            {
-                                "url": "/sousou-no-frieren",
-                                "title": "Sousou no Frieren",
-                                "thumbnail_url": "https://anizm.net/storage/pcovers/180410001696010341.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -364,12 +268,12 @@
             },
             "details": {
                 "result": {
-                    "url": "/dungeon-meshi",
-                    "title": "Dungeon Meshi",
-                    "artist": "Trigger",
-                    "description": "Zindanlar, ejderhalar ve leziz bir canavar yahnisi mi? Maceracılar, arkadaşlarını kurtarmak için lanetli bir krallığa dalıyor ve yolda önlerine çıkanı pişmiş tavuğa çeviriyor!\nDiğer adlar: Delicious in Dungeon, Dungeon Food\nJaponca İsmi: ダンジョン飯\nStüdyo: Trigger",
-                    "genre": "Komedi, Fantastik",
-                    "thumbnail_url": "https://anizm.net/storage/pcovers/181000001704381902l.webp",
+                    "url": "/turn-a-gundam",
+                    "title": "Turn A Gundam",
+                    "artist": "Sunrise",
+                    "description": "Dünyayı yıkıma uğratan yıkıcı bir çatışmadan iki bin yıl sonra, Düzelti Çağı. Yeryüzü neredeyse yaşanmaz hâle gelmişken hayatta kalan az sayıdaki insan Ay'a yerleşerek Dünya'nın toparlanmasını beklemektedir. Ay'ın insanları olan \"Aysoylular\" yıllardır Dünya'nın yeniden yerleşime uygun olup olmadığını kontrol etmeye devam etmektedir. Loran Cehack adında bir genç ve diğer iki kişi bir keşif görevi için Dünya'ya gönderilir. Loran gezegende geçirdiği bir yılı, Viktorya dönemine özgü bir toplumda yaşayan aristokratlar olan Heim Ailesi yanında çalışarak geçirir. Bu aile, benzer varlıklı statüdeki diğerleri gibi, kişinin reşit olmasını \"Ak Kukla\" olarak bilinen dev bir taş heykeli içeren bir törenle kutlar. Loran'ı şaşırtan bir şekilde, Aysoyu aniden Dünya'ya inerek onu zorla ele geçirmeye kalkışır. Saldırı esnasında Ak Kukla kırılarak parçalanır ve içinden \"Ters A Gundam\" adlı bir mobil takım çıkar. Loran'ın kokpitine bindiği Ters A, Dünya ve Ay güçleri arasında bir açmaza neden olur. Genç pilot, her iki tarafın halkıyla birlikte barışı korumalı ve başka bir feci savaşı önlemelidir.\nDiğer adlar: ∀ Gundam, Mobile Suit Gundam Turn A\nJaponca İsmi: ∀ガンダム\nStüdyo: Sunrise",
+                    "genre": "Aksiyon, Macera",
+                    "thumbnail_url": "https://anizm.net/storage/pcovers/180720001698489901l.webp",
                     "initialized": true
                 },
                 "passed": true
@@ -377,14 +281,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/dungeon-meshi-9-bolum",
-                        "name": "9. Bölüm",
-                        "episode_number": 9.0
+                        "url": "/turn-a-gundam-7-bolum",
+                        "name": "7. Bölüm",
+                        "episode_number": 7.0
                     },
                     {
-                        "url": "/dungeon-meshi-8-bolum",
-                        "name": "8. Bölüm",
-                        "episode_number": 8.0
+                        "url": "/turn-a-gundam-6-bolum",
+                        "name": "6. Bölüm",
+                        "episode_number": 6.0
                     }
                 ],
                 "passed": true
@@ -392,103 +296,71 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-2jlont4e4ngcw9p7.voe-network.net/engine/hls2-c/01/10589/tylwu2acx0vx_,n,.urlset/index-v1-a1.m3u8?t=opD67G0Zy7TCIErkD7rBDv52NDLn2fg5Z70lcxUpLlU&s=1709316878&e=14400&f=52949904&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=20.171&sp=2500&asn=8075",
-                        "quality": "[Net-Rip] Voe: 720p",
-                        "videoUrl": "https://delivery-node-2jlont4e4ngcw9p7.voe-network.net/engine/hls2-c/01/10589/tylwu2acx0vx_,n,.urlset/index-v1-a1.m3u8?t=opD67G0Zy7TCIErkD7rBDv52NDLn2fg5Z70lcxUpLlU&s=1709316878&e=14400&f=52949904&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=20.171&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
+                        "url": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=3&sig=MwQ-JnQH4SE&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131",
+                        "quality": "[Arceus] Okru:720p",
+                        "videoUrl": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=3&sig=MwQ-JnQH4SE&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131"
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=WxxKvaxTCO9b6vwFAwy0xw%2FLEbOPxkLU7Luj9cvMadN8R6vZNtPomuQithewIZcmQM7a1woFMYnpvyeKkuun35Cd90HpIsKeQvnI%2BCdKqsJ3DZLyG7YBwNUqHYzLk%2FlYNxfX9hUdew%2Bl4pIuFDISXRCSTm%2FlY23UPShNLZoOzYqnlKN%2Bd2hU9l3sSK%2BFF7Jgg%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720",
-                        "quality": "[Net-Rip] GDRIVE 720p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=WxxKvaxTCO9b6vwFAwy0xw%2FLEbOPxkLU7Luj9cvMadN8R6vZNtPomuQithewIZcmQM7a1woFMYnpvyeKkuun35Cd90HpIsKeQvnI%2BCdKqsJ3DZLyG7YBwNUqHYzLk%2FlYNxfX9hUdew%2Bl4pIuFDISXRCSTm%2FlY23UPShNLZoOzYqnlKN%2Bd2hU9l3sSK%2BFF7Jgg%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=720"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=3&sig=yM1rtoRQiMM&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155",
-                        "quality": "[Net-Rip] Okru:720p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=3&sig=yM1rtoRQiMM&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155"
-                    },
-                    {
-                        "url": "https://anizmplayer.com/hls/VExnaGZoMzFEamdJbTVYeGJPdjVVOHBnRUk4d2l4SXRWNjdzcEM0QTU1ZVNFSFAwNFNFYmdiY1B5K2JlMHQwY1NUeVJlUVRHS3YvL2N5SWg4cW5yZHowVGhrYUxKOFcwRVZPRzg3Unc5VnNKZ1pHY3Q0a3lPZjdhb2lpck5pUUVCblAyK040NFRLd3RnTXRHQXpkTXRmaDgwVm9ZMW9uVEpaNVhxaTZzVURNZ0krdEE4cWQvSDJQd2R5YTdNbHFSL21ZbGFsditnWkJ6TGZsdVlObm5Cb3RGRFFmV3VWTndub1F1eGRIeEJaWWJyazloOUQxdGNibHU4LzVkdVU5WG5vVjJDbklwUkxwajByQU14aUg2ZGU4Y3dGMTZPTU9sREpodS9wU1N5cVk9",
-                        "quality": "[Net-Rip] Aincrad - 720p",
-                        "videoUrl": "https://anizmplayer.com/hls/VExnaGZoMzFEamdJbTVYeGJPdjVVOHBnRUk4d2l4SXRWNjdzcEM0QTU1ZVNFSFAwNFNFYmdiY1B5K2JlMHQwY1NUeVJlUVRHS3YvL2N5SWg4cW5yZHowVGhrYUxKOFcwRVZPRzg3Unc5VnNKZ1pHY3Q0a3lPZjdhb2lpck5pUUVCblAyK040NFRLd3RnTXRHQXpkTXRmaDgwVm9ZMW9uVEpaNVhxaTZzVURNZ0krdEE4cWQvSDJQd2R5YTdNbHFSL21ZbGFsditnWkJ6TGZsdVlObm5Cb3RGRFFmV3VWTndub1F1eGRIeEJaWWJyazloOUQxdGNibHU4LzVkdVU5WG5vVjJDbklwUkxwajByQU14aUg2ZGU4Y3dGMTZPTU9sREpodS9wU1N5cVk9",
+                        "url": "https://anizmplayer.com/hls/a3NrRHJkTkM2bTNUVHp1K1hxYUxvb0FBc0paWDBZc2JFQ09BUXg3UGNUbTRLVTlyZmVjb1NET2ROMUdIcnNUQnBqVGx1NHdvNXpuOCtnTG1Xd1BISGMvcmgxQzU0eVJ1U1hmMG9sL0dZK3MyZG9mRXFsMlRDam04UlhaUVkxUFdkMFB6MnllYnNMeTZLSlg1RHpCaXlDdzVJZ2lSNlhtZ1h2ZHQzdU5MZnNaNWQ5U3lpSVdlZkNWUU0zNWgwb2pCUTFFcnZTZkhERkoxeEEya21Ha2lFdFRKYXZyQVNveDlWcU0rZ0YwQTVuZCt5YWt6b3pocVp1aFpycEZjQ0pPU1VWUlRHTGNNTGZxNmJQVzRxRnFXQUYzTDJuMDFWRCt5WFlhUExWcy9vRmc9",
+                        "quality": "[Arceus] Aincrad - 720p",
+                        "videoUrl": "https://anizmplayer.com/hls/a3NrRHJkTkM2bTNUVHp1K1hxYUxvb0FBc0paWDBZc2JFQ09BUXg3UGNUbTRLVTlyZmVjb1NET2ROMUdIcnNUQnBqVGx1NHdvNXpuOCtnTG1Xd1BISGMvcmgxQzU0eVJ1U1hmMG9sL0dZK3MyZG9mRXFsMlRDam04UlhaUVkxUFdkMFB6MnllYnNMeTZLSlg1RHpCaXlDdzVJZ2lSNlhtZ1h2ZHQzdU5MZnNaNWQ5U3lpSVdlZkNWUU0zNWgwb2pCUTFFcnZTZkhERkoxeEEya21Ha2lFdFRKYXZyQVNveDlWcU0rZ0YwQTVuZCt5YWt6b3pocVp1aFpycEZjQ0pPU1VWUlRHTGNNTGZxNmJQVzRxRnFXQUYzTDJuMDFWRCt5WFlhUExWcy9vRmc9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/cfb9e62deeccf228a063481f280f205c"
+                            "Referer": "https://anizmplayer.com/video/67662b3d72590531759e1a46afc31d7b"
                         }
                     },
                     {
-                        "url": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=5&sig=Vw-XfXDieDY&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155",
-                        "quality": "[Net-Rip] Okru:1080p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=5&sig=Vw-XfXDieDY&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155"
+                        "url": "https://a1.mp4upload.com:183/d/x2xt6e76z3b4quuos6qquk2xkrronre66eqmjoc3agccwbjevzcolcrveghp43x4hqml4om3/video.mp4",
+                        "quality": "[Arceus] Mp4Upload - 1080p",
+                        "videoUrl": "https://a1.mp4upload.com:183/d/x2xt6e76z3b4quuos6qquk2xkrronre66eqmjoc3agccwbjevzcolcrveghp43x4hqml4om3/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Origin": "https://anizm.net",
+                            "referer": "https://mp4upload.com/"
+                        }
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/VExnaGZoMzFEamdJbTVYeGJPdjVVOHBnRUk4d2l4SXRWNjdzcEM0QTU1ZVNFSFAwNFNFYmdiY1B5K2JlMHQwY3ZkUkFpY2Vyak9oSlkzNzNLSUxJME45MDhrZktBVWdjTS9xVTBNbzF5WDhxSU1GeUpKcHU1MDJMdjRVU0FLWksydjloNTRXNkNicExaSTA1MXNsZEd4MWN0aTBmTTFCRHJ1S2xSSWlDbHQ1VDY0WXFLUkNoZ3VCSDd6ZjJ6ZWV4QzgrNzZnelBaUnpIQWZTVjdad2ZQZmJaaGVmRTdITXhFTHhpbVpWSWowRWVRalYvcDNFVGQ0ZTVnM01LaDdNRTdwa1FZRFpGTjNvREhBeXRud1puN3Rod05LYkZSWHlqdnBRN1BZU2NBRjdSQnNVM0NNWVRKSUloclVQUG9mYkc%3D",
-                        "quality": "[Net-Rip] Aincrad - 1080p",
-                        "videoUrl": "https://anizmplayer.com/hls/VExnaGZoMzFEamdJbTVYeGJPdjVVOHBnRUk4d2l4SXRWNjdzcEM0QTU1ZVNFSFAwNFNFYmdiY1B5K2JlMHQwY3ZkUkFpY2Vyak9oSlkzNzNLSUxJME45MDhrZktBVWdjTS9xVTBNbzF5WDhxSU1GeUpKcHU1MDJMdjRVU0FLWksydjloNTRXNkNicExaSTA1MXNsZEd4MWN0aTBmTTFCRHJ1S2xSSWlDbHQ1VDY0WXFLUkNoZ3VCSDd6ZjJ6ZWV4QzgrNzZnelBaUnpIQWZTVjdad2ZQZmJaaGVmRTdITXhFTHhpbVpWSWowRWVRalYvcDNFVGQ0ZTVnM01LaDdNRTdwa1FZRFpGTjNvREhBeXRud1puN3Rod05LYkZSWHlqdnBRN1BZU2NBRjdSQnNVM0NNWVRKSUloclVQUG9mYkc%3D",
+                        "url": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=5&sig=ByIq3Ux00so&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131",
+                        "quality": "[Arceus] Okru:1080p",
+                        "videoUrl": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=5&sig=ByIq3Ux00so&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131"
+                    },
+                    {
+                        "url": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=2&sig=d-VLxYf1X1k&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131",
+                        "quality": "[Arceus] Okru:480p",
+                        "videoUrl": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=2&sig=d-VLxYf1X1k&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131"
+                    },
+                    {
+                        "url": "https://anizmplayer.com/hls/a3NrRHJkTkM2bTNUVHp1K1hxYUxvb0FBc0paWDBZc2JFQ09BUXg3UGNUbTRLVTlyZmVjb1NET2ROMUdIcnNUQmJqd3RvWDRYa2Vvd3JJT0NUV0txck1OWnpYY2s1UjM3bFExRGJkcVYwNGtxMmlFU3dpbDMxRG5BdlFzdEJEU1FtRzhoclZBYXRmVEliVmI5Z2NTYzFTVG9LWnB6bEV0K2ZDSmpCWCtvcEJhd2dUQzUycGwvZHFITkFtYTRlcUppZjU0ZlIzY2FnbEhmek9jU2t2Y25BaVpzeXg3a1NvQWxNRi9LVmtZQUhja1FuWXF4MXFmVkNOKzJKeC92RjBxNHV3OEJVRjdIcU93SVZzT2NOTWZSWHU2bnNLbCtpeUw3NjkrUTJqQy9Ca2c9",
+                        "quality": "[Arceus] Aincrad - 480p",
+                        "videoUrl": "https://anizmplayer.com/hls/a3NrRHJkTkM2bTNUVHp1K1hxYUxvb0FBc0paWDBZc2JFQ09BUXg3UGNUbTRLVTlyZmVjb1NET2ROMUdIcnNUQmJqd3RvWDRYa2Vvd3JJT0NUV0txck1OWnpYY2s1UjM3bFExRGJkcVYwNGtxMmlFU3dpbDMxRG5BdlFzdEJEU1FtRzhoclZBYXRmVEliVmI5Z2NTYzFTVG9LWnB6bEV0K2ZDSmpCWCtvcEJhd2dUQzUycGwvZHFITkFtYTRlcUppZjU0ZlIzY2FnbEhmek9jU2t2Y25BaVpzeXg3a1NvQWxNRi9LVmtZQUhja1FuWXF4MXFmVkNOKzJKeC92RjBxNHV3OEJVRjdIcU93SVZzT2NOTWZSWHU2bnNLbCtpeUw3NjkrUTJqQy9Ca2c9",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/cfb9e62deeccf228a063481f280f205c"
+                            "Referer": "https://anizmplayer.com/video/67662b3d72590531759e1a46afc31d7b"
                         }
                     },
                     {
-                        "url": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=2&sig=yzWTAzr42cc&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155",
-                        "quality": "[Net-Rip] Okru:480p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=2&sig=yzWTAzr42cc&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155"
+                        "url": "https://gdrivecdns.pro/drive/index.php?id=K5Qul89xfqDAw%2BS%2FqvbOFwqIaOrub88VsQFSIyqxhLb7UGhsNFZbssYSLgo36lyD7%2FnkNe6Qi4Mjuz08la7xBStyfsSANoOqvTRtL40Ivoz2%2BLNdfwfeMnRz9ToSgP6ft%2FrW%2FSqMGF8luGbmbNGrwGPuE7Br558qAn7uvyC1zb9ylq5FdlM2P7VQB9GnVzugA%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
+                        "quality": "[Arceus] GDRIVE 360p - GdrivePlayer",
+                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=K5Qul89xfqDAw%2BS%2FqvbOFwqIaOrub88VsQFSIyqxhLb7UGhsNFZbssYSLgo36lyD7%2FnkNe6Qi4Mjuz08la7xBStyfsSANoOqvTRtL40Ivoz2%2BLNdfwfeMnRz9ToSgP6ft%2FrW%2FSqMGF8luGbmbNGrwGPuE7Br558qAn7uvyC1zb9ylq5FdlM2P7VQB9GnVzugA%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
                     },
                     {
-                        "url": "https://anizmplayer.com/hls/VExnaGZoMzFEamdJbTVYeGJPdjVVOHBnRUk4d2l4SXRWNjdzcEM0QTU1ZVNFSFAwNFNFYmdiY1B5K2JlMHQwY3pucmdTanlHdlRhcVVhUlk2Q0lpMFZySGF4amc2dVpYTGxqUC8xM2htVWRQMHVZMklPdENXLzZHT1kwakZucngrYUNMMzA5SlBOYW9kbzZ5YlVLN3ZkRTZtWVNjTFg0N3pPU1NpYWwrc0taRFVCVVVvZ0VrVm5PeDNtVlo3MkZDeDEwMXJDREhMMUgwcGxrZm9jUVlFUWRQQ0FFZjBJVk1sZCthYTg4VzZrZTlHOURUQXJaTFVSQkxPUk5wL1VQdlFMUHo2bUFHbFlDVmRKZnJYNDcxY01sb2hwbCtQK3FoWVJLdmU3emd1SEU9",
-                        "quality": "[Net-Rip] Aincrad - 480p",
-                        "videoUrl": "https://anizmplayer.com/hls/VExnaGZoMzFEamdJbTVYeGJPdjVVOHBnRUk4d2l4SXRWNjdzcEM0QTU1ZVNFSFAwNFNFYmdiY1B5K2JlMHQwY3pucmdTanlHdlRhcVVhUlk2Q0lpMFZySGF4amc2dVpYTGxqUC8xM2htVWRQMHVZMklPdENXLzZHT1kwakZucngrYUNMMzA5SlBOYW9kbzZ5YlVLN3ZkRTZtWVNjTFg0N3pPU1NpYWwrc0taRFVCVVVvZ0VrVm5PeDNtVlo3MkZDeDEwMXJDREhMMUgwcGxrZm9jUVlFUWRQQ0FFZjBJVk1sZCthYTg4VzZrZTlHOURUQXJaTFVSQkxPUk5wL1VQdlFMUHo2bUFHbFlDVmRKZnJYNDcxY01sb2hwbCtQK3FoWVJLdmU3emd1SEU9",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://anizmplayer.com",
-                            "Referer": "https://anizmplayer.com/video/cfb9e62deeccf228a063481f280f205c"
-                        }
+                        "url": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=1&sig=IvovkMPDBmY&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131",
+                        "quality": "[Arceus] Okru:360p",
+                        "videoUrl": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=1&sig=IvovkMPDBmY&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131"
                     },
                     {
-                        "url": "https://gdrivecdns.pro/drive/index.php?id=WxxKvaxTCO9b6vwFAwy0xw%2FLEbOPxkLU7Luj9cvMadN8R6vZNtPomuQithewIZcmQM7a1woFMYnpvyeKkuun35Cd90HpIsKeQvnI%2BCdKqsJ3DZLyG7YBwNUqHYzLk%2FlYNxfX9hUdew%2Bl4pIuFDISXRCSTm%2FlY23UPShNLZoOzYqnlKN%2Bd2hU9l3sSK%2BFF7Jgg%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360",
-                        "quality": "[Net-Rip] GDRIVE 360p - GdrivePlayer",
-                        "videoUrl": "https://gdrivecdns.pro/drive/index.php?id=WxxKvaxTCO9b6vwFAwy0xw%2FLEbOPxkLU7Luj9cvMadN8R6vZNtPomuQithewIZcmQM7a1woFMYnpvyeKkuun35Cd90HpIsKeQvnI%2BCdKqsJ3DZLyG7YBwNUqHYzLk%2FlYNxfX9hUdew%2Bl4pIuFDISXRCSTm%2FlY23UPShNLZoOzYqnlKN%2Bd2hU9l3sSK%2BFF7Jgg%3D&ref=https%3A%2F%2Fanizm.net%2F&sandbox=&t=&res=360"
+                        "url": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=0&sig=G-qKo7EwcP4&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131",
+                        "quality": "[Arceus] Okru:240p",
+                        "videoUrl": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=0&sig=G-qKo7EwcP4&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131"
                     },
                     {
-                        "url": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=1&sig=H_R6wmvJB9I&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155",
-                        "quality": "[Net-Rip] Okru:360p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=1&sig=H_R6wmvJB9I&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=0&sig=kT_cLLDHVus&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155",
-                        "quality": "[Net-Rip] Okru:240p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=0&sig=kT_cLLDHVus&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155"
-                    },
-                    {
-                        "url": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=4&sig=bjPDhGy2E7U&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155",
-                        "quality": "[Net-Rip] Okru:144p",
-                        "videoUrl": "https://vd472.mycdn.me/?expires=1709403275212&srcIp=20.171.78.156&pr=10&srcAg=GECKO&ms=185.226.53.88&type=4&sig=bjPDhGy2E7U&ct=0&urls=45.136.21.15&clientType=0&zs=43&id=6328161471155"
-                    },
-                    {
-                        "url": "https://videos2.sendvid.com/47/a6/lw6kss9s.mp4?validfrom=1709309677&validto=1709324077&rate=250k&ip=20.171.78.156&hash=hgFNWmwLcBGwcH4j04ewkeF%2BnvA%3D",
-                        "quality": "[Net-Rip] Sendvid:default",
-                        "videoUrl": "https://videos2.sendvid.com/47/a6/lw6kss9s.mp4?validfrom=1709309677&validto=1709324077&rate=250k&ip=20.171.78.156&hash=hgFNWmwLcBGwcH4j04ewkeF%2BnvA%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Origin": "https://https://sendvid.com/embed/lw6kss9s",
-                            "Referer": "https://https://sendvid.com/embed/lw6kss9s/"
-                        }
-                    },
-                    {
-                        "url": "https://video.sibnet.ru/v/a6b8c31e7e17d5271da5cace9bae9fc8/5450761.mp4",
-                        "quality": "[Net-Rip] Sibnet",
-                        "videoUrl": "https://video.sibnet.ru/v/a6b8c31e7e17d5271da5cace9bae9fc8/5450761.mp4",
-                        "headers": {
-                            "Referer": "https://video.sibnet.ru/shell.php?videoid=5450761"
-                        }
+                        "url": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=4&sig=iR0OBNDiJEA&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131",
+                        "quality": "[Arceus] Okru:144p",
+                        "videoUrl": "https://vd329.mycdn.me/?expires=1709426188662&srcIp=20.161.4.189&pr=10&srcAg=GECKO&ms=185.226.53.38&type=4&sig=iR0OBNDiJEA&ct=0&urls=45.136.21.76&clientType=0&zs=43&id=6334603070131"
                     }
                 ],
                 "passed": true
