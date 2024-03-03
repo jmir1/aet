@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/megamind-rules/",
+                                "title": "Megamind Rules!",
+                                "description": "¡Las reglas de Megamente! Sigue a Megamind y su vida tras convertirse en un nuevo superhéroe de Metro City. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/yI9Tus6ZpPlBmb1AsrOSkI9nGXj.jpg"
+                            },
+                            {
                                 "url": "/sonidos-terrestres/",
                                 "title": "Sonidos terrestres",
                                 "description": "Earthsounds Esta trascendental serie emplea la tecnología sonora y las técnicas de filmación más avanzadas para desvelar nuestro planeta de una forma nueva e impresionante a través de sonidos nunca antes escuchados de la naturaleza. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://metroseries.net/wp-content/uploads/2024/02/ywbacot78IuNhGW4uVZPxxxVTkm-226x339.jpg"
                             },
                             {
-                                "url": "/picaro-el-pequeno-nicolas/",
-                                "title": "(P)Ícaro: El pequeño Nicolás",
-                                "description": "Siendo adolescente, el Pequeño Nicolás se codeó con políticos, millonarios y miembros de la Casa Real. Esta docuserie repasa su caso a través de testimonios clave. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/iH7ypcsBANel7mTpyEADBS2oO02.jpg"
-                            },
-                            {
-                                "url": "/the-climb/",
-                                "title": "The Climb",
+                                "url": "/wataha/",
+                                "title": "Wataha",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3JaDzUMeRs1lEHahXtXpk4BRJ1O.jpg"
+                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2019/12/gKoZuXf7kDM3M5xfik7NRLv9DRa-226x339.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/gentefied/",
-                                "title": "Gentefied",
+                                "url": "/luden-konige-der-reeperbahn/",
+                                "title": "Luden - Könige der Reeperbahn",
                                 "description": "",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2020/02/qk6gBxl7nueohAVpbmyE61gefTq-226x339.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kw5UkrJQIC5X2UPJfzcFBFW2Z66.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,69 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/sonidos-terrestres/",
-                    "title": "Sonidos terrestres",
-                    "description": "Earthsounds Esta trascendental serie emplea la tecnología sonora y las técnicas de filmación más avanzadas para desvelar nuestro planeta de una forma nueva e impresionante a través de sonidos nunca antes escuchados de la naturaleza.",
-                    "genre": "Documental",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/rkqxZmJMhYGSgmGhvnyShE6uWCV.jpg",
+                    "url": "/megamind-rules/",
+                    "title": "Megamind Rules!",
+                    "description": "¡Las reglas de Megamente! Sigue a Megamind y su vida tras convertirse en un nuevo superhéroe de Metro City.",
+                    "genre": "Animación",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yI9Tus6ZpPlBmb1AsrOSkI9nGXj.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/sonidos-terrestres-temporada-1-capitulo-12/",
-                        "name": "T01 - E12 - Escuchamos nuestro planeta",
-                        "date_upload": 1708646400000,
-                        "episode_number": 12.0
-                    },
-                    {
-                        "url": "/episode/sonidos-terrestres-temporada-1-capitulo-11/",
-                        "name": "T01 - E11 - Mares poco profundos",
-                        "date_upload": 1708646400000,
-                        "episode_number": 11.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s32.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=676tZJA5l_98hUX41mng0amscYw7GxjS-reZPETfB6k&s=1709402880&e=43200&f=319179&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s32.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=676tZJA5l_98hUX41mng0amscYw7GxjS-reZPETfB6k&s=1709402880&e=43200&f=319179&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=676tZJA5l_98hUX41mng0amscYw7GxjS-reZPETfB6k&s=1709402880&e=43200&f=319179&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s32.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=676tZJA5l_98hUX41mng0amscYw7GxjS-reZPETfB6k&s=1709402880&e=43200&f=319179&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=676tZJA5l_98hUX41mng0amscYw7GxjS-reZPETfB6k&s=1709402880&e=43200&f=319179&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s32.fastream.to/hls2/03/00063/vbyc2le9lwnd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=676tZJA5l_98hUX41mng0amscYw7GxjS-reZPETfB6k&s=1709402880&e=43200&f=319179&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
