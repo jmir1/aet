@@ -163,8 +163,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://0.asd228.workers.dev/e58258ee66187930ec5100b3612a4f11/driveleech.org/The.Phantom.Warrior.2024.1080p.AMZN.WEBDL.AC3.H.264Koza.mkv",
+                        "quality": "1080p - CF 1 Worker 1",
+                        "videoUrl": "https://0.asd228.workers.dev/e58258ee66187930ec5100b3612a4f11/driveleech.org/The.Phantom.Warrior.2024.1080p.AMZN.WEBDL.AC3.H.264Koza.mkv"
+                    }
+                ],
+                "passed": true
             }
         }
     }

@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/2580",
+                                "title": "Kateikyoushi Hitman Reborn! (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/kateikyoushi-hitman-reborn-ita-2892-main.webp"
+                            },
+                            {
                                 "url": "/series/4283",
                                 "title": "Megaton-kyuu Musashi 2nd Season",
                                 "thumbnail_url": "https://images.animearchive.online/elements/gtw04j7zrhh4ojbf9afpq7.webp"
@@ -210,11 +215,6 @@
                                 "url": "/series/4149",
                                 "title": "The Apothecary Diaries",
                                 "thumbnail_url": "https://images.animearchive.online/elements/6g5m7v1ysdrmk5yp6hqsdf.webp"
-                            },
-                            {
-                                "url": "/series/4194",
-                                "title": "The Dangers in My Heart Season 2",
-                                "thumbnail_url": "https://images.animearchive.online/elements/the-dangers-in-my-heart-season-2-4613-main.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -337,11 +337,11 @@
                 "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":10655,\"subbed\":\"Sub\",.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_1hexzqp = {\n\t\t\t\t\t\t.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

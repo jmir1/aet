@@ -159,20 +159,20 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/watch/kamen-rider-gotchard.html?ep=26#watch",
+                        "name": "Episode 26",
+                        "episode_number": 26.0
+                    },
+                    {
                         "url": "/watch/kamen-rider-gotchard.html?ep=25#watch",
                         "name": "Episode 25",
                         "episode_number": 25.0
-                    },
-                    {
-                        "url": "/watch/kamen-rider-gotchard.html?ep=24#watch",
-                        "name": "Episode 24",
-                        "episode_number": 24.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
