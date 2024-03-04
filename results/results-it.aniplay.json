@@ -117,6 +117,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/4131",
+                                "title": "Ochibi-san",
+                                "thumbnail_url": "https://images.animearchive.online/elements/ochibi-san-4550-main.webp"
+                            },
+                            {
+                                "url": "/series/4226",
+                                "title": "'Tis Time for \"Torture,\" Princess",
+                                "thumbnail_url": "https://images.animearchive.online/elements/tis-time-for-\"torture\"-princess-4645-main.webp"
+                            },
+                            {
+                                "url": "/series/4189",
+                                "title": "TSUKIMICHI -Moonlit Fantasy- Season 2",
+                                "thumbnail_url": "https://images.animearchive.online/elements/moonlit-fantasy-season-2.jpg"
+                            },
+                            {
+                                "url": "/series/4225",
+                                "title": "Synduality: Noir Part 2",
+                                "thumbnail_url": "https://images.animearchive.online/elements/synduality-noir-part-2-4644-main.webp"
+                            },
+                            {
+                                "url": "/series/4066",
+                                "title": "Undead Unluck",
+                                "thumbnail_url": "https://images.animearchive.online/elements/undead-unluck-4485-main.webp"
+                            },
+                            {
+                                "url": "/series/4224",
+                                "title": "High Card Season 2",
+                                "thumbnail_url": "https://images.animearchive.online/elements/high-card-season-2-4643-main.webp"
+                            },
+                            {
                                 "url": "/series/2580",
                                 "title": "Kateikyoushi Hitman Reborn! (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/kateikyoushi-hitman-reborn-ita-2892-main.webp"
@@ -185,36 +215,6 @@
                                 "url": "/series/4086",
                                 "title": "Captain Tsubasa Season 2: Junior Youth-hen",
                                 "thumbnail_url": "https://images.animearchive.online/elements/captain-tsubasa-season-2-junior-youth-hen-4505-main.webp"
-                            },
-                            {
-                                "url": "/series/4085",
-                                "title": "Shangri-La Frontier",
-                                "thumbnail_url": "https://images.animearchive.online/elements/shangri-la-frontier-4504-main.webp"
-                            },
-                            {
-                                "url": "/series/323",
-                                "title": "One Piece",
-                                "thumbnail_url": "https://images.animearchive.online/elements/b7vdzpft1c78yxf44ur4.webp"
-                            },
-                            {
-                                "url": "/series/4247",
-                                "title": "Solo Leveling (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/solo-leveling-ita-4666-main.webp"
-                            },
-                            {
-                                "url": "/series/4218",
-                                "title": "Kingdom 5th Season",
-                                "thumbnail_url": "https://images.animearchive.online/elements/kingdom-5th-season-4637-main.webp"
-                            },
-                            {
-                                "url": "/series/4220",
-                                "title": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-",
-                                "thumbnail_url": "https://images.animearchive.online/elements/the-strongest-tanks-labyrinth-raids--a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party--4639-main.webp"
-                            },
-                            {
-                                "url": "/series/4149",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://images.animearchive.online/elements/6g5m7v1ysdrmk5yp6hqsdf.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -333,25 +333,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/series/588",
-                    "title": "One Piece (ITA)",
-                    "artist": "Toei Animation",
-                    "description": "In un mondo quasi interamente coperto dall'acqua e con poche e piccole isole abitate si è fortemente diffusa la pirateria, pratica che riceve un'ulteriore spinta il giorno in cui Gold Roger, il re dei pirati, annuncia al mondo intero che ha nascosto un incredibile tesoro, il One Piece. Tra i tanti giovani sognatori che si mettono in viaggio alla ricerca dello One Piece vi è Monkey D. Rufy, giovane allegro e spensierato in possesso di un corpo di gomma, dal momento che da piccolo mangiò uno dei frutti del diavolo, misteriosi frutti in grado di donare incredibili poteri privando tuttavia della capacità di nuotare.La storia inizia con Rufy che, alla deriva in una botte di legno, s'imbatte nella nave della terribile piratessa Alvida, e segue le avventure di Rufy, seriamente intenzione a diventare il nuovo re dei pirati.\n\nOrigine: Manga\nGiorno di lancio: N/A\n",
-                    "genre": "Azione, Avventura, Commedia, Combattimento",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
+                "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":10655,\"subbed\":\"Sub\",.....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_4097o3 = {\n\t\t\t\t\t\t\".....",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
                 "passed": false
             }
         }
