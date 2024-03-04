@@ -117,6 +117,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/series/4283",
+                                "title": "Megaton-kyuu Musashi 2nd Season",
+                                "thumbnail_url": "https://images.animearchive.online/elements/gtw04j7zrhh4ojbf9afpq7.webp"
+                            },
+                            {
+                                "url": "/series/4243",
+                                "title": "Theatre of Darkness: Yamishibai 12",
+                                "thumbnail_url": "https://images.animearchive.online/elements/theatre-of-darkness-yamishibai-12-4662-main.webp"
+                            },
+                            {
+                                "url": "/series/4150",
+                                "title": "Shangri-La Frontier (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/shangri-la-frontier-ita-4569-main.webp"
+                            },
+                            {
+                                "url": "/series/4223",
+                                "title": "Mr. Villain's Day Off",
+                                "thumbnail_url": "https://images.animearchive.online/elements/mr-villains-day-off-4642-main.webp"
+                            },
+                            {
+                                "url": "/series/4147",
+                                "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+                                "thumbnail_url": "https://images.animearchive.online/elements/the-seven-deadly-sins-four-knights-of-the-apocalypse-4566-main.webp"
+                            },
+                            {
                                 "url": "/series/4241",
                                 "title": "The Fire Hunter Season 2",
                                 "thumbnail_url": "https://images.animearchive.online/elements/the-fire-hunter-season-2-4660-main.webp"
@@ -190,31 +215,6 @@
                                 "url": "/series/4194",
                                 "title": "The Dangers in My Heart Season 2",
                                 "thumbnail_url": "https://images.animearchive.online/elements/the-dangers-in-my-heart-season-2-4613-main.webp"
-                            },
-                            {
-                                "url": "/series/4196",
-                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
-                                "thumbnail_url": "https://images.animearchive.online/elements/ao-no-exorcist-shimane-illuminati-hen-4615-main.webp"
-                            },
-                            {
-                                "url": "/series/3787",
-                                "title": "Solo Leveling",
-                                "thumbnail_url": "https://images.animearchive.online/elements/8bw9wdvda4fb1x1ws1fn2d.webp"
-                            },
-                            {
-                                "url": "/series/4187",
-                                "title": "MASHLE: MAGIC AND MUSCLES Season 2",
-                                "thumbnail_url": "https://images.animearchive.online/elements/mashle-magic-and-muscles-season-2-4606-main.webp"
-                            },
-                            {
-                                "url": "/series/4239",
-                                "title": "BUCCHIGIRI?!",
-                                "thumbnail_url": "https://images.animearchive.online/elements/bucchigiri-4658-main.webp"
-                            },
-                            {
-                                "url": "/series/4077",
-                                "title": "Ragna Crimson",
-                                "thumbnail_url": "https://images.animearchive.online/elements/ragna-crimson-4496-main.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -333,18 +333,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/series/588",
-                    "title": "One Piece (ITA)",
-                    "artist": "Toei Animation",
-                    "description": "In un mondo quasi interamente coperto dall'acqua e con poche e piccole isole abitate si è fortemente diffusa la pirateria, pratica che riceve un'ulteriore spinta il giorno in cui Gold Roger, il re dei pirati, annuncia al mondo intero che ha nascosto un incredibile tesoro, il One Piece. Tra i tanti giovani sognatori che si mettono in viaggio alla ricerca dello One Piece vi è Monkey D. Rufy, giovane allegro e spensierato in possesso di un corpo di gomma, dal momento che da piccolo mangiò uno dei frutti del diavolo, misteriosi frutti in grado di donare incredibili poteri privando tuttavia della capacità di nuotare.La storia inizia con Rufy che, alla deriva in una botte di legno, s'imbatte nella nave della terribile piratessa Alvida, e segue le avventure di Rufy, seriamente intenzione a diventare il nuovo re dei pirati.\n\nOrigine: Manga\nGiorno di lancio: N/A\n",
-                    "genre": "Azione, Avventura, Commedia, Combattimento",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://images.animearchive.online/elements/one-piece-ita-650-main.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
                 "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":10655,\"subbed\":\"Sub\",.....",

@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/ucrania-los-que-se-quedaron/",
+                                "title": "Ucrania: los que se quedaron",
+                                "description": "He jotka jäivät Inspirada en hechos reales, cuenta las consecuencias inmediatas de la invasión de Ucrania por parte de los rusos en febrero de 2022 a través de las historias cotidianas de quienes, por una razón u otra, no pudieron o no quisieron salir del país. Entre los protagonistas de estas historias están Olga, su […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/mTDv2skErehK0PFjzYm1SlvXDOg.jpg"
+                            },
+                            {
                                 "url": "/megamind-rules/",
                                 "title": "Megamind Rules!",
                                 "description": "¡Las reglas de Megamente! Sigue a Megamind y su vida tras convertirse en un nuevo superhéroe de Metro City. ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
                             },
                             {
-                                "url": "/the-walking-dead-the-ones-who-live/",
-                                "title": "The Walking Dead: The Ones Who Live",
-                                "description": "La historia de amor de Rick Grimes y Michonne cambia gracias a un mundo cambiado. Separados por la distancia. Por un poder imparable. ¿Podrán encontrarse y descubrir quiénes eran en una situación diferente a cualquier otra que hayan conocido? ",
-                                "thumbnail_url": "https://metroseries.net/wp-content/uploads/2024/02/ywbacot78IuNhGW4uVZPxxxVTkm-226x339.jpg"
-                            },
-                            {
-                                "url": "/eli-roths-history-of-horror/",
-                                "title": "Eli Roth's History of Horror",
+                                "url": "/los-increibles-90/",
+                                "title": "Los Increíbles 90",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/aKnouedcsl506t6qMOcdnrYN5yk.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pp6dAmlQF2W8C0SbJWED63wMM0I.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/ana/",
-                                "title": "Ana",
+                                "url": "/el-pajaro-carpintero/",
+                                "title": "El pájaro carpintero",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nzPk9IxCXruC0VS6RVBHJ2i2WRp.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/bNFcWrxlnFXvrjJezId6bAoePzT.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,80 @@
             },
             "details": {
                 "result": {
-                    "url": "/megamind-rules/",
-                    "title": "Megamind Rules!",
-                    "description": "¡Las reglas de Megamente! Sigue a Megamind y su vida tras convertirse en un nuevo superhéroe de Metro City.",
-                    "genre": "Animación",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/yI9Tus6ZpPlBmb1AsrOSkI9nGXj.jpg",
+                    "url": "/ucrania-los-que-se-quedaron/",
+                    "title": "Ucrania: los que se quedaron",
+                    "description": "He jotka jäivät Inspirada en hechos reales, cuenta las consecuencias inmediatas de la invasión de Ucrania por parte de los rusos en febrero de 2022 a través de las historias cotidianas de quienes, por una razón u otra, no pudieron o no quisieron salir del país. Entre los protagonistas de estas historias están Olga, su marido y sus dos hijas, obligados a confinarse en una habitación con el exmarido de ella; Klaus, un médico alemán que viaja hasta Kiev para sacar del país a su novia; Andriy Danilko, una estrella del pop que debe aprender a vivir por primera vez sin su equipo y termina convirtiéndose en un símbolo de resistencia en redes sociales; o los encargados de un zoo que deciden quedarse al cuidado de los animales., Una serie de ficción escrita, dirigida y protagonizada por un equipo enteramente ucraniano que se acerca desde dentro a la realidad de una guerra más cercana de lo que parece.",
+                    "genre": "Drama, War & Politics",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/mTDv2skErehK0PFjzYm1SlvXDOg.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/ucrania-los-que-se-quedaron-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - La estrella de la ciudad",
+                        "date_upload": 1701561600000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/ucrania-los-que-se-quedaron-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - Mamás",
+                        "date_upload": 1700956800000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f4-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s30.fastream.to/hls2/05/00063/4g9nig27crhh_,l,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=v2lXArGfOKyCJCFLclmVM_6l7jRTxOtfiJJj68JtD9o&s=1709512248&e=43200&f=319746&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

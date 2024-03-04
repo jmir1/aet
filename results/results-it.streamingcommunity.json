@@ -22,6 +22,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/ca0b139f-3c85-4e41-a2de-ebe9468d4f4b.webp"
                             },
                             {
+                                "url": "7946-kids-are-growing-up-la-storia-di-un-ragazzo-di-nome-laroi",
+                                "title": "Kids Are Growing Up: La storia di un ragazzo di nome Laroi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/9ececc24-4896-451a-a5dc-4080753f157f.webp"
+                            },
+                            {
                                 "url": "7901-regina-rossa",
                                 "title": "Regina Rossa",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/b86f9e15-cca4-4ced-806c-7d0baae686d9.webp"
@@ -40,6 +45,11 @@
                                 "url": "7874-shogun",
                                 "title": "Shōgun",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/fe17eba7-2f81-4745-82ac-ef23ada7d083.webp"
+                            },
+                            {
+                                "url": "7948-la-piu-grande-storia-damore-mai-raccontata",
+                                "title": "La più grande storia d'amore mai raccontata",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/272646d6-49e8-406a-844b-cb5b538b7690.webp"
                             },
                             {
                                 "url": "7885-the-walking-dead-the-ones-who-live",
@@ -295,16 +305,6 @@
                                 "url": "7524-kubra",
                                 "title": "Kübra",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/2df32ee6-6d02-4127-91c3-64bcec5bc941.webp"
-                            },
-                            {
-                                "url": "7522-no-activity-niente-da-segnalare",
-                                "title": "No Activity: Niente da Segnalare",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c5a3b721-43d1-4c0f-8d30-dce0306bf80e.webp"
-                            },
-                            {
-                                "url": "7518-all-american-nightmare-rapimento-in-california",
-                                "title": "All American Nightmare: Rapimento in California",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/f113f563-b476-40d5-bd73-76090a65447a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "7951-kim-possible",
+                                "title": "Kim Possible",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/ea9d1158-6810-4ae3-a1cf-32d4eaf9bc23.webp"
+                            },
+                            {
+                                "url": "7950-legacy-la-vera-storia-dei-la-lakers",
+                                "title": "Legacy: la vera storia dei LA Lakers",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/fecc71e5-7924-495b-a707-31800b2e61fa.webp"
+                            },
+                            {
+                                "url": "7949-code-black",
+                                "title": "Code Black",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/2c2daf81-3614-4348-89ed-f875c3a8d920.webp"
+                            },
+                            {
+                                "url": "7947-victoria-cabello-viaggi-pazzeschi",
+                                "title": "Victoria Cabello - Viaggi Pazzeschi",
+                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/58e5d161-9c29-442a-aeb1-2f6713b282c7.webp"
+                            },
                             {
                                 "url": "7945-il-meraviglioso-mondo-di-topolino",
                                 "title": "Il meraviglioso mondo di Topolino",
@@ -595,26 +615,6 @@
                                 "url": "7880-continuum",
                                 "title": "Continuum",
                                 "thumbnail_url": "https://cdn.streamingcommunity.at/images/1a3cf5a7-dc90-4dde-91ca-c4fa7960f87c.webp"
-                            },
-                            {
-                                "url": "7879-24",
-                                "title": "24",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/dfabfda8-b788-4ded-a52f-4441af95b250.webp"
-                            },
-                            {
-                                "url": "7877-quelle-brave-ragazze",
-                                "title": "Quelle brave ragazze",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/38bcd9af-cfed-4a31-8497-c13ec4f1876f.webp"
-                            },
-                            {
-                                "url": "7876-good-girls-revolt",
-                                "title": "Good Girls Revolt",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/b1e7fbae-3a78-4ec5-adb9-252b9d961e65.webp"
-                            },
-                            {
-                                "url": "7875-lapprendista-della-tigre",
-                                "title": "L'apprendista della Tigre",
-                                "thumbnail_url": "https://cdn.streamingcommunity.at/images/c37ae903-95ea-429e-8a1a-8c7561c232b3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -944,11 +944,22 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "7943?e=56620",
+                        "name": "Stagione 1 episodio 2 - L' Inespugnabile Carrozza",
+                        "episode_number": 2.0
+                    },
+                    {
+                        "url": "7943?e=56618",
+                        "name": "Stagione 1 episodio 1 - La nascita di una leggenda (più o meno)",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
