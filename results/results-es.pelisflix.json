@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/julia/",
+                                "title": "Julia",
+                                "description": "Un joven que pasa los días leyendo y pintando en un antiguo piso de Madrid conoce a una chica que s...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/sH92aYrFx6ZmvlEADxmhsf6dEQTGzdESLEKMs2hQZ63ki.webp"
+                            },
+                            {
                                 "url": "/pelicula/megamind-contra-el-sindicato-del-mal/",
                                 "title": "Megamind contra el sindicato del mal",
                                 "description": "El antiguo equipo de villanos de Megamind, El sindicato del mal, han regresado. Nuestro héroe cabe...",
@@ -239,12 +245,6 @@
                                 "title": "Leonardo, el Inventor",
                                 "description": "Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci abor...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uuRdgTTaegc4cm7JftlXXz5irT.webp"
-                            },
-                            {
-                                "url": "/pelicula/avgrunden/",
-                                "title": "Avgrunden",
-                                "description": "Frigga intenta equilibrar su arriesgado trabajo como directora de seguridad en la mina Kiirunavaara ...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/K98UmScr1YAXBC19e91xTFBJo09ohP5SP4C1.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/megamind-contra-el-sindicato-del-mal/",
-                    "title": "Megamind contra el sindicato del mal",
-                    "description": "El antiguo equipo de villanos de Megamind, El sindicato del mal, han regresado. Nuestro héroe cabezon azul recién coronado, ahora debe mantener apariencias malvadas hasta que pueda reunir a sus amigos para evitar que sus antiguos compañeros malvados lancen Metro City a la Luna.",
-                    "genre": "Animación, C. Ficción, Comedia",
+                    "url": "/pelicula/julia/",
+                    "title": "Julia",
+                    "description": "Un joven que pasa los días leyendo y pintando en un antiguo piso de Madrid conoce a una chica que se instala a vivir con él sin apenas conocerse. Pasan los días tumbados en la cama, y poco a poco, a través de unos juegos sexuales, comienzan a salir a la luz secretos del pasado.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/megamind-contra-el-sindicato-del-mal/",
+                        "url": "/pelicula/julia/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar BGWOUOQvHe = \"\"; jhygAhTl.forEach(function Oym(value) { BGWOUOQvHe += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar GxMLqkgZ = \"\"; KiKWGAVky.forEach(function Oym(value) { GxMLqkgZ += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
