@@ -52,6 +52,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodios/oroka-na-tenshi-wa-akuma-to-odoru-episodio-9/",
+                                "title": "Oroka na Tenshi wa Akuma to Odoru Episódio 9",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-14.png?fit=300%2C166&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/dosanko-gal-wa-namara-menko-episodio-9/",
+                                "title": "Dosanko Gal wa Namara Menkoi Episódio 9",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-13.png?fit=300%2C151&ssl=1"
+                            },
+                            {
                                 "url": "/episodios/high-card-2-episodio-9/",
                                 "title": "High Card 2 Episódio 9",
                                 "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-12.png?fit=300%2C149&ssl=1"
@@ -190,16 +200,6 @@
                                 "url": "/episodios/dungeon-meshi-dublado-episodio-9/",
                                 "title": "Dungeon Meshi (Dublado) Episódio 9",
                                 "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-4.png?fit=300%2C151&ssl=1"
-                            },
-                            {
-                                "url": "/episodios/chiyu-mahou-no-machigatta-tsukaikata-episodio-9/",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata Episódio 9",
-                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-3.png?fit=300%2C151&ssl=1"
-                            },
-                            {
-                                "url": "/episodios/sousou-no-frieren-episodio-25/",
-                                "title": "Sousou no Frieren Episódio 25",
-                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/25.png?fit=300%2C150&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -308,19 +308,18 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/animes/modaete-yo-adam-kun-com-sem-censura/",
-                    "title": "Modaete yo, Adam-kun Com/Sem Censura)",
-                    "description": "Modaete yo, Adam-kun, Em um mundo onde uma pandemia fez com que todos os homens desenvolvessem disfunção erétil, o estudante do ensino médio Kazuki é o único que não foi afetado. Se ele for descoberto, passará o resto de seus dias como um rato de laboratório… Para manter seu segredo, ele é transferido de escola – mas acaba se deparando com uma escola harém cheia de mulheres! Seja uma colega gentil e amigável, uma professora frustrada, a “princesa” da escola ou a filha de um magnata financeiro, Kazuki pode tornar qualquer garota sua mulher. Quem ele escolherá?\n\nTítulo original: Modaete yo, Adam-kun\nTemporadas: 1\nEpisódios: 5",
-                    "genre": "",
-                    "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/12/o-anime-para-adultos-modaete-yo-adam-kun-ganha-1-trailer-2.webp?fit=185%2C278&ssl=1",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/animes/modaete-yo-adam-kun-com-sem-censura/",
+                        "name": "Filme",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",

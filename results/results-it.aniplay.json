@@ -82,6 +82,11 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/uh8dlm3cp49elyfej9tbw8.webp"
                             },
                             {
+                                "url": "/series/1563",
+                                "title": "Yu-Gi-Oh! GX (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/yu-gi-oh-gx-ita-1735-main.webp"
+                            },
+                            {
                                 "url": "/series/4187",
                                 "title": "MASHLE: MAGIC AND MUSCLES Season 2",
                                 "thumbnail_url": "https://images.animearchive.online/elements/mashle-magic-and-muscles-season-2-4606-main.webp"
@@ -90,11 +95,6 @@
                                 "url": "/series/4137",
                                 "title": "Jujutsu Kaisen 2nd Season (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-2nd-season-ita-4556-main.webp"
-                            },
-                            {
-                                "url": "/series/1563",
-                                "title": "Yu-Gi-Oh! GX (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/yu-gi-oh-gx-ita-1735-main.webp"
                             },
                             {
                                 "url": "/series/3140",
@@ -116,6 +116,16 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/4203",
+                                "title": "The Foolish Angel Dances with the Devil",
+                                "thumbnail_url": "https://images.animearchive.online/elements/the-foolish-angel-dances-with-the-devil-4622-main.webp"
+                            },
+                            {
+                                "url": "/series/4198",
+                                "title": "Hokkaido Gals Are Super Adorable!",
+                                "thumbnail_url": "https://images.animearchive.online/elements/89rmv29p2bchlioivffd4h.webp"
+                            },
                             {
                                 "url": "/series/4131",
                                 "title": "Ochibi-san",
@@ -205,16 +215,6 @@
                                 "url": "/series/4264",
                                 "title": "Wonderful Precure!",
                                 "thumbnail_url": "https://images.animearchive.online/elements/k7f70p8yuoca0feec1txdt.webp"
-                            },
-                            {
-                                "url": "/series/4221",
-                                "title": "Heaven Official's Blessing Season 2 (JAP)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/heaven-officials-blessing-season-2-jap-4640-main.webp"
-                            },
-                            {
-                                "url": "/series/4086",
-                                "title": "Captain Tsubasa Season 2: Junior Youth-hen",
-                                "thumbnail_url": "https://images.animearchive.online/elements/captain-tsubasa-season-2-junior-youth-hen-4505-main.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -341,7 +341,7 @@
                 "passed": false
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 525",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_4097o3 = {\n\t\t\t\t\t\t\".....",
                 "passed": false
             }
         }
