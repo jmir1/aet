@@ -117,117 +117,16 @@
                 "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/data/watch/?_id=65cfe09c7ea872b21bc35a85",
-                    "title": "Madame Web",
-                    "description": "Cassandra Webb (Dakota Johnson) ist eine Sanitäterin in Manhattan, die über hellseherische Fähigkeiten verfügt. Die ermöglichen ihr, in die Zukunft und die vernetzte Spinnenwelt zu sehen. Doch als Cassandra Zeugin wird, wie ein Mann namens Ezekiel Sims (Tahar Rahim) in ihren Visionen versucht, drei junge Frauen zu ermorden, wird ihr klar, dass er ebenso gefährlich wie wichtig ist. Und obwohl Cassandra nicht ganz versteht, was das alles zu bedeuten hat, macht sie sich auf den Weg, um ihn daran zu hindern, sein Ziel zu erreichen. Sie geht eine Partnerschaft mit den drei Frauen ein, um ihre Vergangenheit zu verstehen und die tödliche Gegenwart zu überleben. Denn Cassandra ist die einzige, die ihnen jetzt noch helfen kann. Diesem Gegner muss man immer zwei Schritte voraus sein, denn auch er kann in die Zukunft sehen.\n\n„Spider-Man\"-Spin-off, das auf der gleichnamigen Figur aus den Marvel Comics basiert.",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/data/watch/?_id=65cfe09c7ea872b21bc35a85",
-                        "name": "Film",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710691&ip=FROsE0MnDS9X&token=xleEf1d-SSH_",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710691&ip=FROsE0MnDS9X&token=xleEf1d-SSH_"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710691&ip=FROsE0MnDS9X&token=xleEf1d-SSH_",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710691&ip=FROsE0MnDS9X&token=xleEf1d-SSH_"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710690&ip=FROsE0MnDS9X&token=foG3pw67mjxS"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710689&ip=FROsE0MnDS9X&token=vs4S8Pk2Et9z",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710689&ip=FROsE0MnDS9X&token=vs4S8Pk2Et9z"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710689&ip=FROsE0MnDS9X&token=vs4S8Pk2Et9z",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710689&ip=FROsE0MnDS9X&token=vs4S8Pk2Et9z"
-                    },
-                    {
-                        "url": "https://delivery-node-p2dcbpl5uhqqggd2.voe-network.net/engine/hls2/01/10542/1pkx1b6t865l_,n,.urlset/index-v1-a1.m3u8?t=4uUwEjT-hk8rmZFlAJc4IzEZVLA9y0LnP8XngwF--VY&s=1709640688&e=14400&f=52712769&node=delivery-node-p2dcbpl5uhqqggd2.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-p2dcbpl5uhqqggd2.voe-network.net/engine/hls2/01/10542/1pkx1b6t865l_,n,.urlset/index-v1-a1.m3u8?t=4uUwEjT-hk8rmZFlAJc4IzEZVLA9y0LnP8XngwF--VY&s=1709640688&e=14400&f=52712769&node=delivery-node-p2dcbpl5uhqqggd2.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710687&ip=FROsE0MnDS9X&token=W0wUrI6OZq0y",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710687&ip=FROsE0MnDS9X&token=W0wUrI6OZq0y"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710687&ip=FROsE0MnDS9X&token=W0wUrI6OZq0y",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710687&ip=FROsE0MnDS9X&token=W0wUrI6OZq0y"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710687&ip=FROsE0MnDS9X&token=W0wUrI6OZq0y",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710687&ip=FROsE0MnDS9X&token=W0wUrI6OZq0y"
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710686&ip=FROsE0MnDS9X&token=AowuYMQ-DDtb",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710686&ip=FROsE0MnDS9X&token=AowuYMQ-DDtb"
-                    },
-                    {
-                        "url": "https://delivery-node-v1b8qtcgvsxmhtgr.voe-network.net/engine/hls2/01/10535/k9y0na6etj5o_,l,.urlset/index-v1-a1.m3u8?t=uI806NKKB9qJvA20CQasX9kN_poqfAURs-1jX3BYdq8&s=1709640686&e=14400&f=52687176&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "quality": "Voe: 480p",
-                        "videoUrl": "https://delivery-node-v1b8qtcgvsxmhtgr.voe-network.net/engine/hls2/01/10535/k9y0na6etj5o_,l,.urlset/index-v1-a1.m3u8?t=uI806NKKB9qJvA20CQasX9kN_poqfAURs-1jX3BYdq8&s=1709640686&e=14400&f=52687176&node=delivery-node-v1b8qtcgvsxmhtgr.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710685&ip=FROsE0MnDS9X&token=IadMPNL21_A-",
-                        "quality": "Streamtape",
-                        "videoUrl": "https://streamtape.com/get_video?id=WZGWxGxeMdUbZvW&expires=1709710685&ip=FROsE0MnDS9X&token=IadMPNL21_A-"
-                    },
-                    {
-                        "url": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/10518/rl2monoe2vak_,n,.urlset/index-v1-a1.m3u8?t=N8q96a3vwQDkk-sCHb3uLdiXIhKEyHtkrWaoxegVvUI&s=1709640684&e=14400&f=52594946&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "quality": "Voe: 720p",
-                        "videoUrl": "https://delivery-node-hndh1ffkrknrl7bi.voe-network.net/engine/hls2/01/10518/rl2monoe2vak_,n,.urlset/index-v1-a1.m3u8?t=N8q96a3vwQDkk-sCHb3uLdiXIhKEyHtkrWaoxegVvUI&s=1709640684&e=14400&f=52594946&node=delivery-node-hndh1ffkrknrl7bi.voe-network.net&i=20.55&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             }
         }
     }

@@ -52,6 +52,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodios/dosanko-gal-wa-namara-menkoi-dublado-episodio-6/",
+                                "title": "Dosanko Gal wa Namara Menkoi (Dublado) Episódio 6",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/6-3.png?fit=300%2C151&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/hime-sama-goumon-no-jikan-desu-episodio-9/",
+                                "title": "Hime-sama “Goumon” no Jikan desu Episódio 9",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-15.png?fit=300%2C150&ssl=1"
+                            },
+                            {
+                                "url": "/episodios/nanatsu-no-taizai-mokushiroku-no-yonkishi-episodio-20/",
+                                "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi Episódio 20",
+                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/20-1.png?fit=300%2C151&ssl=1"
+                            },
+                            {
                                 "url": "/episodios/oroka-na-tenshi-wa-akuma-to-odoru-episodio-9/",
                                 "title": "Oroka na Tenshi wa Akuma to Odoru Episódio 9",
                                 "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-14.png?fit=300%2C166&ssl=1"
@@ -185,21 +200,6 @@
                                 "url": "/episodios/undead-unluck-episodio-21/",
                                 "title": "Undead Unluck Episódio 21",
                                 "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/21.png?fit=300%2C150&ssl=1"
-                            },
-                            {
-                                "url": "/episodios/momochi-san-chi-no-ayakashi-ouji-episodio-9/",
-                                "title": "Momochi-san Chi no Ayakashi Ouji Episódio 9",
-                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-5.png?fit=300%2C151&ssl=1"
-                            },
-                            {
-                                "url": "/episodios/snack-basue-episodio-8/",
-                                "title": "Snack Basue Episódio 8",
-                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/8-2.png?fit=300%2C150&ssl=1"
-                            },
-                            {
-                                "url": "/episodios/dungeon-meshi-dublado-episodio-9/",
-                                "title": "Dungeon Meshi (Dublado) Episódio 9",
-                                "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2024/03/9-4.png?fit=300%2C151&ssl=1"
                             }
                         ],
                         "hasNextPage": true
@@ -308,18 +308,19 @@
                 "passed": true
             },
             "details": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": {
+                    "url": "/animes/modaete-yo-adam-kun-com-sem-censura/",
+                    "title": "Modaete yo, Adam-kun Com/Sem Censura)",
+                    "description": "Modaete yo, Adam-kun, Em um mundo onde uma pandemia fez com que todos os homens desenvolvessem disfunção erétil, o estudante do ensino médio Kazuki é o único que não foi afetado. Se ele for descoberto, passará o resto de seus dias como um rato de laboratório… Para manter seu segredo, ele é transferido de escola – mas acaba se deparando com uma escola harém cheia de mulheres! Seja uma colega gentil e amigável, uma professora frustrada, a “princesa” da escola ou a filha de um magnata financeiro, Kazuki pode tornar qualquer garota sua mulher. Quem ele escolherá?\n\nTítulo original: Modaete yo, Adam-kun\nTemporadas: 1\nEpisódios: 5",
+                    "genre": "",
+                    "thumbnail_url": "https://i0.wp.com/animeplayer.com.br/wp-content/uploads/2023/12/o-anime-para-adultos-modaete-yo-adam-kun-ganha-1-trailer-2.webp?fit=185%2C278&ssl=1",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/animes/modaete-yo-adam-kun-com-sem-censura/",
-                        "name": "Filme",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
