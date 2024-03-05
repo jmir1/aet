@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/dune-parte-dos/",
+                                "title": "Dune: Parte dos",
+                                "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de vengan...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JSa4mVWA9YLJrPciCQJN.webp"
+                            },
+                            {
+                                "url": "/pelicula/la-puerta-magica-zdrk/",
+                                "title": "La Puerta Mágica",
+                                "description": "Paul Carpenter (Patrick Gibson) es un simpático becario en una misteriosa empresa londinense con re...",
+                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/7iu3f7Olv9FdxtGV9eCKU7atsLEwB.webp"
+                            },
+                            {
                                 "url": "/pelicula/julia/",
                                 "title": "Julia",
                                 "description": "Un joven que pasa los días leyendo y pintando en un antiguo piso de Madrid conoce a una chica que s...",
@@ -35,12 +47,6 @@
                                 "title": "El astronauta",
                                 "description": "Durante una misión de investigación, un astronauta descubre que su matrimonio está en problemas, ...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/rZk38wKjfMEMef4kg9Ztv.webp"
-                            },
-                            {
-                                "url": "/pelicula/dune-parte-dos/",
-                                "title": "Dune: Parte dos",
-                                "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de vengan...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/JSa4mVWA9YLJrPciCQJN.webp"
                             },
                             {
                                 "url": "/pelicula/la-bala-de-dios/",
@@ -239,12 +245,6 @@
                                 "title": "Wolf & Dog (Lobo & Perro)",
                                 "description": "Ana nació en São Miguel, una isla en medio del Océano Atlántico regida por la religión y las tr...",
                                 "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/ktruwJtQTzgWLeZh5XMHc3cSNOecSyZ3RgoePHU.webp"
-                            },
-                            {
-                                "url": "/pelicula/leonardo-el-inventor/",
-                                "title": "Leonardo, el Inventor",
-                                "description": "Inventando artilugios voladores, máquinas de guerra y estudiando cadáveres, Leonardo da Vinci abor...",
-                                "thumbnail_url": "https://tbmdcnd.xyz/p/v2/w0/uuRdgTTaegc4cm7JftlXXz5irT.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/julia/",
-                    "title": "Julia",
-                    "description": "Un joven que pasa los días leyendo y pintando en un antiguo piso de Madrid conoce a una chica que se instala a vivir con él sin apenas conocerse. Pasan los días tumbados en la cama, y poco a poco, a través de unos juegos sexuales, comienzan a salir a la luz secretos del pasado.",
-                    "genre": "Drama",
+                    "url": "/pelicula/dune-parte-dos/",
+                    "title": "Dune: Parte dos",
+                    "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+                    "genre": "Acción, Aventura, C. Ficción, Estrenos",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/julia/",
+                        "url": "/pelicula/dune-parte-dos/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar IXFoXXfTL = \"\"; tccwxBhp.forEach(function Oym(value) { IXFoXXfTL += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar pjFjUZoZ = \"\"; dVlWzkIUqW.forEach(function Oym(value) { pjFjUZoZ += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

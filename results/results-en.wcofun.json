@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/hot-wheels-lets-race",
+                                "title": "Hot Wheels Let's Race",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933523.jpg"
+                            },
+                            {
                                 "url": "/anime/megamind-rules",
                                 "title": "Megamind Rules!",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933522.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/zip-zap",
                                 "title": "Zip & Zap",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933508.jpg"
-                            },
-                            {
-                                "url": "/anime/zig-and-zag",
-                                "title": "Zig and Zag",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933507.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/megamind-rules",
-                    "title": "Megamind Rules!",
-                    "description": "Following Megamind and his life after being a new superhero of Metro City.",
-                    "genre": "Animation, Comedy, Family, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933522.jpg",
+                    "url": "/anime/hot-wheels-lets-race",
+                    "title": "Hot Wheels Let's Race",
+                    "description": "Follows the newest generation of racers as they experience mind-blowing races, extreme stunt contests, and thrill-seeking challenges.",
+                    "genre": "Adventure, Comedy, Pre-School, Racing, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933523.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/megamind-rules-episode-8",
-                        "name": "Season 1 - Episode 8",
-                        "episode_number": 108.0
-                    },
-                    {
-                        "url": "/megamind-rules-episode-7",
-                        "name": "Season 1 - Episode 7",
-                        "episode_number": 107.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv67W5kseGcMcerrW0bpFiVfh_pWvVbZ9sV3vhl0Fmg6ctasr4qTYWAJl1RMQnr3BvczHJUldgHFYawwiQxSqzUhjF30asgds7DRPvk8YU34qAmdUaEIGD2JOM61v1eBztgov1vC1rCHVPTqJUIZaKAzE6GVBxSHQh_nNPim75rMpgjhZ45f4MMMe7zMoKm5ZTJ3zjj8mQSeu0UjUSTLOMJp6zps9lxsBX1lg7V84aiWgpVZewKo7f5BeX566aegiwEDNZJJiFbNYGXyMpD9dMtCAxm5NM0hVGU2WdO4N0qGQWw6mjks7TspwdSnj3TUIJ_BMsW-mtpVwgOQv-16r7Q",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv67W5kseGcMcerrW0bpFiVfh_pWvVbZ9sV3vhl0Fmg6ctasr4qTYWAJl1RMQnr3BvczHJUldgHFYawwiQxSqzUhjF30asgds7DRPvk8YU34qAmdUaEIGD2JOM61v1eBztgov1vC1rCHVPTqJUIZaKAzE6GVBxSHQh_nNPim75rMpgjhZ45f4MMMe7zMoKm5ZTJ3zjj8mQSeu0UjUSTLOMJp6zps9lxsBX1lg7V84aiWgpVZewKo7f5BeX566aegiwEDNZJJiFbNYGXyMpD9dMtCAxm5NM0hVGU2WdO4N0qGQWw6mjks7TspwdSnj3TUIJ_BMsW-mtpVwgOQv-16r7Q"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv67W5kseGcMcerrW0bpFiVfh_pWvVbZ9sV3vhl0Fmg6ctasr4qTYWAJl1RMQnr3Br2jCuQw02bGc4tALfWzQV8zzLx_eGjz6Yx-mGwqGCVc6LNc28Jc8hH8shyxJqveyeG5UOU_V_wA2SPkB4BkiAKOT9zM2GAWKz6zIIX8nWytxGxa4x5O0zSGXVWp6KI0gxPuHZoNJySvSWKXQOG3zvFMSlPmQUFNk6kSqH7Yt74_DXA9cEXR5f6J6I49z0c8NEbp5-WRJZJGPSIBwlnrKbH24LQfICqxP4-hThM_3CRMKu7oTmuJkJQoecX9cAO3OIjqekSKO0cunab8ZJ0D_3I",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv67W5kseGcMcerrW0bpFiVfh_pWvVbZ9sV3vhl0Fmg6ctasr4qTYWAJl1RMQnr3Br2jCuQw02bGc4tALfWzQV8zzLx_eGjz6Yx-mGwqGCVc6LNc28Jc8hH8shyxJqveyeG5UOU_V_wA2SPkB4BkiAKOT9zM2GAWKz6zIIX8nWytxGxa4x5O0zSGXVWp6KI0gxPuHZoNJySvSWKXQOG3zvFMSlPmQUFNk6kSqH7Yt74_DXA9cEXR5f6J6I49z0c8NEbp5-WRJZJGPSIBwlnrKbH24LQfICqxP4-hThM_3CRMKu7oTmuJkJQoecX9cAO3OIjqekSKO0cunab8ZJ0D_3I"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv67W5kseGcMcerrW0bpFiVfh_pWvVbZ9sV3vhl0Fmg6ctasr4qTYWAJl1RMQnr3Bgowh3R7cWTRYrIXj8-9oGZLNl-ticwO7rqqnS2aMRf20d5g8El3bZ9meZTkzww4jvqGTF6GR7FZ6e4zuKlVboPaG--0U_EtKy3ekqhOkIBKOJjIKY2IsuTfDQXXN178HrwyKWLf2I53Y13myu2J5wlnOxn5Pb_omoFGL9qQHSW-ArBBtiw1wxdBA0h9NmukS0UA8JitlbjInOK5kd4Z-fqT8esaf_EnGY5FxMwt0tICLYb7GZ3KPTcLcmC2DNtlqfoGBmvIOl0invkmKTKbWD0",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJv67W5kseGcMcerrW0bpFiVfh_pWvVbZ9sV3vhl0Fmg6ctasr4qTYWAJl1RMQnr3Bgowh3R7cWTRYrIXj8-9oGZLNl-ticwO7rqqnS2aMRf20d5g8El3bZ9meZTkzww4jvqGTF6GR7FZ6e4zuKlVboPaG--0U_EtKy3ekqhOkIBKOJjIKY2IsuTfDQXXN178HrwyKWLf2I53Y13myu2J5wlnOxn5Pb_omoFGL9qQHSW-ArBBtiw1wxdBA0h9NmukS0UA8JitlbjInOK5kd4Z-fqT8esaf_EnGY5FxMwt0tICLYb7GZ3KPTcLcmC2DNtlqfoGBmvIOl0invkmKTKbWD0"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
