@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/nos-vemos-en-otra-vida/",
+                                "title": "Nos vemos en otra vida",
+                                "description": "Esta serie es la adaptación del libro de Manuel Jabois \"Nos vemos en esta vida o en la otra\", que se basa en la entrevista que Gabriel Montoya Vidal, \"Baby\", le concedió en 2014 sobre su vinculación con el mayor atentado yihadista cometido en suelo europeo en marzo de 2004. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg"
+                            },
+                            {
+                                "url": "/planet-sex-with-cara-delevingne/",
+                                "title": "Planet Sex with Cara Delevingne",
+                                "description": "Planeta Sexo con Cara Delevingne Cara Delevingne explora cuestiones importantes sobre la sexualidad humana, analizando temas como las relaciones, el atractivo sexual y la popularidad de la pornografía. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nShthyG4IkircSbXVLy2irGnYrR.jpg"
+                            },
+                            {
                                 "url": "/furias/",
                                 "title": "Furias",
                                 "description": "Furies Una joven que quiere vengar la muerte de su padre se ve envuelta en las maquinaciones de la Furia, la temible jueza de paz de los bajos fondos de París. ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwI3WTXR0pDsMILEHZ6TBVJZKGC.jpg"
                             },
                             {
-                                "url": "/polar-park/",
-                                "title": "Polar Park",
-                                "description": "El escritor de novelas policíacas Rousseau viaja a Mouthe. Allí le espera el hermano Giacomo, que tiene información importante sobre la difunta madre de Rousseau. Pero cuando llega, Giacomo acaba de morir. Rousseau decide investigar. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/nFdLIXOLWdZDaTzAiIdmsQVc3et.jpg"
-                            },
-                            {
-                                "url": "/reina-roja/",
-                                "title": "Reina roja",
-                                "description": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg"
-                            },
-                            {
-                                "url": "/aquellos-maravillosos-70/",
-                                "title": "Aquellos maravillosos 70",
+                                "url": "/dualidad/",
+                                "title": "Dualidad",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/26LW8o7msvlbPWmrYQdH14hdjQ6.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/hz8YGIZETHJhXYWGaHsFPVwU4YU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/1pTK20R2Srm3buCZrd5OFqFLRDO.jpg"
                             },
                             {
-                                "url": "/he-she-they/",
-                                "title": "He, She, They.",
+                                "url": "/bodas-de-infarto/",
+                                "title": "Bodas de infarto",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/cSnH3z11orsFkngkVt59vi4DnZJ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/pV1Na3VNURYg6OqBCrs3XbHM7dL.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,80 @@
             },
             "details": {
                 "result": {
-                    "url": "/furias/",
-                    "title": "Furias",
-                    "description": "Furies Una joven que quiere vengar la muerte de su padre se ve envuelta en las maquinaciones de la Furia, la temible jueza de paz de los bajos fondos de París.",
-                    "genre": "Action & Adventure, Crimen",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/8vbhFEN0ifHCMCMFKvUIRTblIkb.jpg",
+                    "url": "/nos-vemos-en-otra-vida/",
+                    "title": "Nos vemos en otra vida",
+                    "description": "Esta serie es la adaptación del libro de Manuel Jabois \"Nos vemos en esta vida o en la otra\", que se basa en la entrevista que Gabriel Montoya Vidal, \"Baby\", le concedió en 2014 sobre su vinculación con el mayor atentado yihadista cometido en suelo europeo en marzo de 2004.",
+                    "genre": "Crimen, Drama",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/h1cp6cwvRRpmSamtdCl0tn67eGJ.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/nos-vemos-en-otra-vida-temporada-1-capitulo-6/",
+                        "name": "T01 - E06 - La maruca",
+                        "date_upload": 1709683200000,
+                        "episode_number": 6.0
+                    },
+                    {
+                        "url": "/episode/nos-vemos-en-otra-vida-temporada-1-capitulo-5/",
+                        "name": "T01 - E05 - El silencio",
+                        "date_upload": 1709683200000,
+                        "episode_number": 5.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f4-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "quality": "Fastream:1080p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f4-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f3-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f3-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f2-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f2-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f1-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://enc2.fastream.to/hls2/02/00064/4srji5czs4k5_,l,n,h,o,.urlset/index-f1-v1-a1.m3u8?t=Y4A9cvnCjMkJ3QfCa_-T5Z1EO7G0MhunxCQsvijiFJA&s=1709748571&e=43200&f=320885&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

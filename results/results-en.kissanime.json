@@ -267,6 +267,21 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Classroom-of-the-Elite-Season-3/",
+                                "title": "Classroom of the Elite Season 3",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Classroom-of-the-Elite-Season-3.jpg"
+                            },
+                            {
+                                "url": "/Anime/Doctor-Elise-The-Royal-Lady-with-the-Lamp/",
+                                "title": "Doctor Elise: The Royal Lady with the Lamp",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Doctor-Elise-The-Royal-Lady-with-the-Lamp.jpg"
+                            },
+                            {
+                                "url": "/Anime/Bottom-Tier-Character-Tomozaki-2nd-Stage/",
+                                "title": "Bottom-Tier Character Tomozaki 2nd Stage",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Bottom-Tier-Character-Tomozaki-2nd-Stage.jpg"
+                            },
+                            {
                                 "url": "/Anime/Odekake-Kozame/",
                                 "title": "A Little Shark Going Out",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/08/A-Little-Shark-Going-Out.jpg"
@@ -500,21 +515,6 @@
                                 "url": "/Anime/The-Strongest-Tank-s-Labyrinth-Raids/",
                                 "title": "The Strongest Tank's Labyrinth Raids",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Strongest-Tank-s-Labyrinth-Raids.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Apothecary-Diaries/",
-                                "title": "The Apothecary Diaries",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/The-Apothecary-Diaries.jpg"
-                            },
-                            {
-                                "url": "/Anime/Ao-no-Exorcist-Shimane-Illuminati-hen/",
-                                "title": "Ao no Exorcist: Shimane Illuminati-hen",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Ao-no-Exorcist-Shimane-Illuminati-hen.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Dangers-in-My-Heart-Season-2.51513/",
-                                "title": "The Dangers in My Heart Season 2",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/The-Dangers-in-My-Heart-Season-2.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
