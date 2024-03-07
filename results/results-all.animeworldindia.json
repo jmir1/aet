@@ -7,7 +7,7 @@
                 "passed": false
             },
             "latest": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "search": {
@@ -32,15 +32,15 @@
         "name": "AnimeWorld India (BN)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
-            },
-            "latest": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
-            "search": {
+            "latest": {
                 "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
+            },
+            "search": {
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "details": {
@@ -148,7 +148,7 @@
         "name": "AnimeWorld India (ML)",
         "results": {
             "popular": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "latest": {
@@ -177,7 +177,7 @@
         "name": "AnimeWorld India (MR)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "latest": {
@@ -210,7 +210,7 @@
                 "passed": false
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
                 "passed": false
             },
             "search": {
@@ -222,7 +222,7 @@
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 502",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {

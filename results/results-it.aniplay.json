@@ -87,14 +87,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/yu-gi-oh-gx-ita-1735-main.webp"
                             },
                             {
-                                "url": "/series/4187",
-                                "title": "MASHLE: MAGIC AND MUSCLES Season 2",
-                                "thumbnail_url": "https://images.animearchive.online/elements/mashle-magic-and-muscles-season-2-4606-main.webp"
-                            },
-                            {
                                 "url": "/series/4137",
                                 "title": "Jujutsu Kaisen 2nd Season (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-2nd-season-ita-4556-main.webp"
+                            },
+                            {
+                                "url": "/series/4187",
+                                "title": "MASHLE: MAGIC AND MUSCLES Season 2",
+                                "thumbnail_url": "https://images.animearchive.online/elements/mashle-magic-and-muscles-season-2-4606-main.webp"
                             },
                             {
                                 "url": "/series/3140",
@@ -116,6 +116,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/4201",
+                                "title": "My Instant Death Ability is Overpowered",
+                                "thumbnail_url": "https://images.animearchive.online/elements/my-instant-death-ability-is-overpowered-4620-main.webp"
+                            },
+                            {
+                                "url": "/series/4232",
+                                "title": "Delusional Monthly Magazine",
+                                "thumbnail_url": "https://images.animearchive.online/elements/delusional-monthly-magazine-4651-main.webp"
+                            },
+                            {
+                                "url": "/series/4231",
+                                "title": "Spare Me, Great Lord 2nd season",
+                                "thumbnail_url": "https://images.animearchive.online/elements/spare-me-great-lord-2nd-season-4650-main.webp"
+                            },
+                            {
+                                "url": "/series/4212",
+                                "title": "Delicious in Dungeon (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/delicious-in-dungeon-ita-4631-main.webp"
+                            },
                             {
                                 "url": "/series/2580",
                                 "title": "Kateikyoushi Hitman Reborn! (ITA)",
@@ -190,26 +210,6 @@
                                 "url": "/series/4287",
                                 "title": "Pokémon Horizons: The Series (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/6j79gynn3cfkukpagqomdk.webp"
-                            },
-                            {
-                                "url": "/series/4287",
-                                "title": "Pokémon Horizons: The Series (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/6j79gynn3cfkukpagqomdk.webp"
-                            },
-                            {
-                                "url": "/series/4288",
-                                "title": "Pokémon: Paldean Winds (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/gwr1epr6z35k7da6tpxmui.webp"
-                            },
-                            {
-                                "url": "/series/4288",
-                                "title": "Pokémon: Paldean Winds (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/gwr1epr6z35k7da6tpxmui.webp"
-                            },
-                            {
-                                "url": "/series/4288",
-                                "title": "Pokémon: Paldean Winds (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/gwr1epr6z35k7da6tpxmui.webp"
                             },
                             {
                                 "url": "/series/4287",
@@ -333,25 +333,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/series/588",
-                    "title": "One Piece (ITA)",
-                    "artist": "Toei Animation",
-                    "description": "In un mondo quasi interamente coperto dall'acqua e con poche e piccole isole abitate si è fortemente diffusa la pirateria, pratica che riceve un'ulteriore spinta il giorno in cui Gold Roger, il re dei pirati, annuncia al mondo intero che ha nascosto un incredibile tesoro, il One Piece. Tra i tanti giovani sognatori che si mettono in viaggio alla ricerca dello One Piece vi è Monkey D. Rufy, giovane allegro e spensierato in possesso di un corpo di gomma, dal momento che da piccolo mangiò uno dei frutti del diavolo, misteriosi frutti in grado di donare incredibili poteri privando tuttavia della capacità di nuotare.La storia inizia con Rufy che, alla deriva in una botte di legno, s'imbatte nella nave della terribile piratessa Alvida, e segue le avventure di Rufy, seriamente intenzione a diventare il nuovo re dei pirati.\n\nOrigine: Manga\nGiorno di lancio: N/A\n",
-                    "genre": "Azione, Avventura, Commedia, Combattimento",
-                    "status": 1,
-                    "status_name": "ONGOING",
-                    "thumbnail_url": "https://images.animearchive.online/elements/tgy2fs05g2v3qqr1joii9.webp",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":10655,\"subbed\":\"Sub\",.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_1o2rk8u = {\n\t\t\t\t\t\t.....",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }
