@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/uncut-rage/",
+                                "title": "Uncut Rage",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/uncut-rage_list.jpg"
+                            },
+                            {
                                 "url": "/in-the-name-of-the-father/",
                                 "title": "Babam İçin",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/in-the-name-of-the-father_list.jpg"
@@ -72,6 +77,11 @@
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/love-happens_list.jpg"
                             },
                             {
+                                "url": "/mortal-kombat-legends-cage-match/",
+                                "title": "Mortal Kombat Legends Cage Match",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/mortal-kombat-legends-cage-match_list.jpg"
+                            },
+                            {
                                 "url": "/goodbye-first-love-1/",
                                 "title": "Elveda İlk Aşk",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/goodbye-first-love_list.jpg"
@@ -135,16 +145,6 @@
                                 "url": "/doctor-carver/",
                                 "title": "Doctor Carver",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/doctor-carver_list.jpg"
-                            },
-                            {
-                                "url": "/ultimate-avengers-2-rise-of-the-panther/",
-                                "title": "Süper Kahramanlar 2",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/ultimate-avengers-2-rise-of-the-panther_list.jpg"
-                            },
-                            {
-                                "url": "/mortal-kombat-legends-cage-match/",
-                                "title": "Mortal Kombat Legends Cage Match",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/mortal-kombat-legends-cage-match_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,6 +156,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/farang/",
+                                "title": "Farang",
+                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/farang_list.jpg"
+                            },
                             {
                                 "url": "/history-of-evil/",
                                 "title": "History of Evil",
@@ -230,11 +235,6 @@
                                 "url": "/12th-fail/",
                                 "title": "Bitmeyen Sınav",
                                 "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/12th-fail_list.jpg"
-                            },
-                            {
-                                "url": "/the-color-purple-hdfc/",
-                                "title": "The Color Purple",
-                                "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/the-color-purple-hdfc_list.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -414,14 +414,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/in-the-name-of-the-father/",
-                    "title": "Babam İçin",
-                    "artist": "Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, John Lynch, Corin Redgrave, Beatie Edney, John Benfield, Paterson Joseph, Marie Jones, Gerard McSorley",
-                    "description": "\"In the Name of the Father\", Jim Sheridan tarafından yönetilen ve Gerry Conlon'un gerçek yaşam hikayesine dayanan bir dram filmidir. Film, Gerry Conlon (Daniel Day-Lewis) ve babası Giuseppe Conlon (Pete Postlethwaite) ile üç diğer kişinin, 1974 yılında Birmingham'da meydana gelen Guildford Pub Bombalama olaylarına karıştıkları suçlamasıyla nasıl haksız yere mahkum edildiklerini anlatır.",
-                    "genre": "Biyografi, Suç, Dram",
+                    "url": "/uncut-rage/",
+                    "title": "Uncut Rage",
+                    "description": "Kız kardeşinin katilinin hapisten çıkmasından birkaç ay sonra, genç bir Japon kızı olan Nami, korkunç bir intikam almak için Paris'e gelir. Silah aldıktan sonra katilin inine gider ve onu kaçırır.",
+                    "genre": "Gerilim",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/in-the-name-of-the-father.jpg",
+                    "thumbnail_url": "https://www.hdfilmcehennemi.us/uploads/poster/uncut-rage.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -429,7 +428,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/in-the-name-of-the-father/",
+                        "url": "/uncut-rage/",
                         "name": "Movie",
                         "episode_number": 1.0
                     }
@@ -437,20 +436,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://tog-l150-vodpe.vmeas.cloud/hls/xqx2pa5hnzokjiqbtgvcjoa3us6bxppu62rx4u7j7i755fcqswd5v7b7ofxa/index-v1.m3u8",
-                        "quality": "Vidmoly - 900p",
-                        "videoUrl": "https://tog-l150-vodpe.vmeas.cloud/hls/xqx2pa5hnzokjiqbtgvcjoa3us6bxppu62rx4u7j7i755fcqswd5v7b7ofxa/index-v1.m3u8",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://vidmoly.to",
-                            "Referer": "https://vidmoly.to/embed-qou9duhmpu7t.html"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
