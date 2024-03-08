@@ -614,12 +614,39 @@
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/taina-and-the-amazons-guardians-episode-2-night-monster",
+                        "name": "Season 1 - Episode 2",
+                        "episode_number": 102.0
+                    },
+                    {
+                        "url": "/taina-and-the-amazons-guardians-episode-1-one-flew-over-the-turtles-nest",
+                        "name": "Season 1 - Episode 1",
+                        "episode_number": 101.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkKQCeu7uX7btAJ1cQahTtN-wbPeIQUI919ORnOFjHg4EN9ZACnZW-wZq5Ee34U35J2YYk9rl_EU4i06YTrpp4SG_agV91Pn8lAub218FsqNMtqMIEDzl7N3OVPvUnk-ilO2PMDePZA-sY02ktgKemEDq-tKxXQZ6jdBri730kgxrx2uvi6hkStZEUm01N62HgtoWrs6ctlbcazcig6aLLm1wzdfAWRys-EV9XMuM3iafm4slU5DLH60gFf2rfGI_BzJmw46I0HcgckV6N5JKk7hpHf_d6AdN5-XJsuU93lt0FRb8VkDZLlRaPs42a4dDa1_ugiDCmA5ySXHPsT385RqOAekYdQgtPzgKbQX7ZBewTPG5pZCGDH9GV0QyHevWwTl0L3w4EvbXpOvDIfM4eI",
+                        "quality": "HD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkKQCeu7uX7btAJ1cQahTtN-wbPeIQUI919ORnOFjHg4EN9ZACnZW-wZq5Ee34U35J2YYk9rl_EU4i06YTrpp4SG_agV91Pn8lAub218FsqNMtqMIEDzl7N3OVPvUnk-ilO2PMDePZA-sY02ktgKemEDq-tKxXQZ6jdBri730kgxrx2uvi6hkStZEUm01N62HgtoWrs6ctlbcazcig6aLLm1wzdfAWRys-EV9XMuM3iafm4slU5DLH60gFf2rfGI_BzJmw46I0HcgckV6N5JKk7hpHf_d6AdN5-XJsuU93lt0FRb8VkDZLlRaPs42a4dDa1_ugiDCmA5ySXHPsT385RqOAekYdQgtPzgKbQX7ZBewTPG5pZCGDH9GV0QyHevWwTl0L3w4EvbXpOvDIfM4eI"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkKQCeu7uX7btAJ1cQahTtN-wbPeIQUI919ORnOFjHg4EN9ZACnZW-wZq5Ee34U35J2YYk9rl_EU4i06YTrpp4SG_agV91Pn8lAub218FsqNMtqMIEDzl7N3OVPvUnk-ijl0hKvjKfCDVZTuCQEGW0CLjzttZdh1SkNpoISa6oYzrsIi8Bu06eA4M2UTMnflBlWTVDnBOzFwY1vOzyBFvCU2Xte_xQrKitJBUbJQtOKJwFhk8r_wttaA_h2lH924hdnwKRt__kqM0m8L2opCOavzaQMsiduIDgkycPTIWPVHFOjnuMLoCoU0ewQiJPtUBrORSQUHkqK0L5oSFXW2nYpwTIVqXtC6UyyEMmOv-SsjgJi_iFUydMVOtNCiGwqvAy_9eppWr7RqimNmjCUlvv2AiXrwGaOw2Yzn5v3HFnsf",
+                        "quality": "FHD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkKQCeu7uX7btAJ1cQahTtN-wbPeIQUI919ORnOFjHg4EN9ZACnZW-wZq5Ee34U35J2YYk9rl_EU4i06YTrpp4SG_agV91Pn8lAub218FsqNMtqMIEDzl7N3OVPvUnk-ijl0hKvjKfCDVZTuCQEGW0CLjzttZdh1SkNpoISa6oYzrsIi8Bu06eA4M2UTMnflBlWTVDnBOzFwY1vOzyBFvCU2Xte_xQrKitJBUbJQtOKJwFhk8r_wttaA_h2lH924hdnwKRt__kqM0m8L2opCOavzaQMsiduIDgkycPTIWPVHFOjnuMLoCoU0ewQiJPtUBrORSQUHkqK0L5oSFXW2nYpwTIVqXtC6UyyEMmOv-SsjgJi_iFUydMVOtNCiGwqvAy_9eppWr7RqimNmjCUlvv2AiXrwGaOw2Yzn5v3HFnsf"
+                    },
+                    {
+                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkKQCeu7uX7btAJ1cQahTtN-wbPeIQUI919ORnOFjHg4EN9ZACnZW-wZq5Ee34U35J2YYk9rl_EU4i06YTrpp4SG_agV91Pn8lAub218FsqNMtqMIEDzl7N3OVPvUnk-ih9PtJhmjA8CF0o9MzPDG00HxKw2KR6AnGVRP1aL3iCmQWW7v-sUFL6ECZQQcWX2AGewX8wcnVmL3p0YbaQCx6zMO3MNq5yZ2H4uazV5CUrFRqAhwqiXCPsKyx1oYGKY-B0oxaGx3GF6BF8Go1y5xE5UQthSn_J-VlhHY6NfmtNx6xU5gqFa580rfmfNqgS0Fm5lDbvFgbGyDMaoAQ72Ntp3oj5YVDKOCWeqfftgl3tijC7XLr2XCMiOPZWlGNqriYPvYTKyWqugWY_QnXpyYNU",
+                        "quality": "SD",
+                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJkKQCeu7uX7btAJ1cQahTtN-wbPeIQUI919ORnOFjHg4EN9ZACnZW-wZq5Ee34U35J2YYk9rl_EU4i06YTrpp4SG_agV91Pn8lAub218FsqNMtqMIEDzl7N3OVPvUnk-ih9PtJhmjA8CF0o9MzPDG00HxKw2KR6AnGVRP1aL3iCmQWW7v-sUFL6ECZQQcWX2AGewX8wcnVmL3p0YbaQCx6zMO3MNq5yZ2H4uazV5CUrFRqAhwqiXCPsKyx1oYGKY-B0oxaGx3GF6BF8Go1y5xE5UQthSn_J-VlhHY6NfmtNx6xU5gqFa580rfmfNqgS0Fm5lDbvFgbGyDMaoAQ72Ntp3oj5YVDKOCWeqfftgl3tijC7XLr2XCMiOPZWlGNqriYPvYTKyWqugWY_QnXpyYNU"
+                    }
+                ],
+                "passed": true
             }
         }
     }
