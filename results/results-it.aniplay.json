@@ -52,14 +52,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-1036-main.webp"
                             },
                             {
-                                "url": "/series/447",
-                                "title": "Naruto (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/udwknuprf4k3ef7akgq14.webp"
-                            },
-                            {
                                 "url": "/series/1187",
                                 "title": "Dragon Ball GT",
                                 "thumbnail_url": "https://images.animearchive.online/elements/dragon-ball-gt-1293-main.webp"
+                            },
+                            {
+                                "url": "/series/447",
+                                "title": "Naruto (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/udwknuprf4k3ef7akgq14.webp"
                             },
                             {
                                 "url": "/series/664",
@@ -87,14 +87,14 @@
                                 "thumbnail_url": "https://images.animearchive.online/elements/yu-gi-oh-gx-ita-1735-main.webp"
                             },
                             {
-                                "url": "/series/4137",
-                                "title": "Jujutsu Kaisen 2nd Season (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-2nd-season-ita-4556-main.webp"
-                            },
-                            {
                                 "url": "/series/4187",
                                 "title": "MASHLE: MAGIC AND MUSCLES Season 2",
                                 "thumbnail_url": "https://images.animearchive.online/elements/mashle-magic-and-muscles-season-2-4606-main.webp"
+                            },
+                            {
+                                "url": "/series/4137",
+                                "title": "Jujutsu Kaisen 2nd Season (ITA)",
+                                "thumbnail_url": "https://images.animearchive.online/elements/jujutsu-kaisen-2nd-season-ita-4556-main.webp"
                             },
                             {
                                 "url": "/series/3140",
@@ -116,6 +116,21 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/series/4199",
+                                "title": "The Witch and the Beast",
+                                "thumbnail_url": "https://images.animearchive.online/elements/the-witch-and-the-beast-4618-main.webp"
+                            },
+                            {
+                                "url": "/series/4204",
+                                "title": "Urusei Yatsura (2022) 2nd Season",
+                                "thumbnail_url": "https://images.animearchive.online/elements/urusei-yatsura-2022-2nd-season-4623-main.webp"
+                            },
+                            {
+                                "url": "/series/4245",
+                                "title": "Bang Brave Bang Bravern",
+                                "thumbnail_url": "https://images.animearchive.online/elements/bang-brave-bang-bravern-4664-main.webp"
+                            },
                             {
                                 "url": "/series/4201",
                                 "title": "My Instant Death Ability is Overpowered",
@@ -200,21 +215,6 @@
                                 "url": "/series/4219",
                                 "title": "My Hero Academia 6 (ITA)",
                                 "thumbnail_url": "https://images.animearchive.online/elements/1i3uepwmgvhmube3h6czps.webp"
-                            },
-                            {
-                                "url": "/series/4219",
-                                "title": "My Hero Academia 6 (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/1i3uepwmgvhmube3h6czps.webp"
-                            },
-                            {
-                                "url": "/series/4287",
-                                "title": "Pokémon Horizons: The Series (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/6j79gynn3cfkukpagqomdk.webp"
-                            },
-                            {
-                                "url": "/series/4287",
-                                "title": "Pokémon Horizons: The Series (ITA)",
-                                "thumbnail_url": "https://images.animearchive.online/elements/6j79gynn3cfkukpagqomdk.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -333,15 +333,25 @@
                 "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/series/588",
+                    "title": "One Piece (ITA)",
+                    "artist": "Toei Animation",
+                    "description": "In un mondo quasi interamente coperto dall'acqua e con poche e piccole isole abitate si è fortemente diffusa la pirateria, pratica che riceve un'ulteriore spinta il giorno in cui Gold Roger, il re dei pirati, annuncia al mondo intero che ha nascosto un incredibile tesoro, il One Piece. Tra i tanti giovani sognatori che si mettono in viaggio alla ricerca dello One Piece vi è Monkey D. Rufy, giovane allegro e spensierato in possesso di un corpo di gomma, dal momento che da piccolo mangiò uno dei frutti del diavolo, misteriosi frutti in grado di donare incredibili poteri privando tuttavia della capacità di nuotare.La storia inizia con Rufy che, alla deriva in una botte di legno, s'imbatte nella nave della terribile piratessa Alvida, e segue le avventure di Rufy, seriamente intenzione a diventare il nuovo re dei pirati.\n\nOrigine: Manga\nGiorno di lancio: N/A\n",
+                    "genre": "Azione, Avventura, Commedia, Combattimento",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://images.animearchive.online/elements/tgy2fs05g2v3qqr1joii9.webp",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Expected end of the object '}', but had 'EOF' instead at path: $[0]\nJSON input: [{\"id\":10655,\"subbed\":\"Sub\",.....",
                 "passed": false
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
+                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 12: Expected quotation mark '\"', but had '_' instead at path: $\nJSON input: \n\t\t\t\t{\n\t\t\t\t\t__sveltekit_1o2rk8u = {\n\t\t\t\t\t\t.....",
                 "passed": false
             }
         }

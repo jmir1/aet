@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/taina-and-the-amazons-guardians",
+                                "title": "Taina and the Amazons Guardians",
+                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933524.jpg"
+                            },
+                            {
                                 "url": "/anime/hot-wheels-lets-race",
                                 "title": "Hot Wheels Let's Race",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933523.jpg"
@@ -80,11 +85,6 @@
                                 "url": "/anime/z-squad",
                                 "title": "Z-Squad",
                                 "thumbnail_url": "https://cdn.animationexplore.com/catimg/933509.jpg"
-                            },
-                            {
-                                "url": "/anime/zip-zap",
-                                "title": "Zip & Zap",
-                                "thumbnail_url": "https://cdn.animationexplore.com/catimg/933508.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -604,49 +604,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/hot-wheels-lets-race",
-                    "title": "Hot Wheels Let's Race",
-                    "description": "Follows the newest generation of racers as they experience mind-blowing races, extreme stunt contests, and thrill-seeking challenges.",
-                    "genre": "Adventure, Comedy, Pre-School, Racing, Report",
-                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933523.jpg",
+                    "url": "/anime/taina-and-the-amazons-guardians",
+                    "title": "Taina and the Amazons Guardians",
+                    "description": "Tainá, the Catu monkey, the vulture king Pepe and the little hedgehog Suri live a lot of adventures as they explore and learn more about the world’s largest tropical forest and its diversity.",
+                    "genre": "Animation, Report",
+                    "thumbnail_url": "https://cdn.animationexplore.com/catimg/933524.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/hot-wheels-lets-race-episode-10-in-it-to-win-it-fired-up",
-                        "name": "Season 1 - Episode 10",
-                        "episode_number": 110.0
-                    },
-                    {
-                        "url": "/hot-wheels-lets-race-episode-9-eyes-on-the-prize-photo-finish",
-                        "name": "Season 1 - Episode 9",
-                        "episode_number": 109.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpqarcJoylrhco95D9lcMGV72QBJioxqSTL4cRqreE1rAIkRSYczxHREVHJEy4FmnTB0ES3mrFfKKq6ZfNOyMfd5FeRNsEPnCHdyNlQV8MVU9xKEbUiGq234IRm4u_1SPRtyBVMswgxyr25rOYWGk5IV-e4AICIpU6NDmTNeJ8g12kRSwfz9EB-gdTdRvp5Dpqe3Zx2TscNO2Xphx5p7oUweLb7qzFh1ezMsdrwy34ZjuUUW1Imb6f7kt4gjLW5oaP79na-rWnWzryuvTtoYNgiEIvvxZsR_URkBDkVSnXti-IaABYTjqH1gYXUuoBPKVen_5xg_xPdtFDUoAjNeqrnJ9l_nyqG-nntCHPWZubAh",
-                        "quality": "HD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpqarcJoylrhco95D9lcMGV72QBJioxqSTL4cRqreE1rAIkRSYczxHREVHJEy4FmnTB0ES3mrFfKKq6ZfNOyMfd5FeRNsEPnCHdyNlQV8MVU9xKEbUiGq234IRm4u_1SPRtyBVMswgxyr25rOYWGk5IV-e4AICIpU6NDmTNeJ8g12kRSwfz9EB-gdTdRvp5Dpqe3Zx2TscNO2Xphx5p7oUweLb7qzFh1ezMsdrwy34ZjuUUW1Imb6f7kt4gjLW5oaP79na-rWnWzryuvTtoYNgiEIvvxZsR_URkBDkVSnXti-IaABYTjqH1gYXUuoBPKVen_5xg_xPdtFDUoAjNeqrnJ9l_nyqG-nntCHPWZubAh"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpqarcJoylrhco95D9lcMGV72QBJioxqSTL4cRqreE1rAIkRSYczxHREVHJEy4FmnTB0ES3mrFfKKq6ZfNOyMfdKJx_z2gUckIQmbBnfA98JA-NE1Rwa4HFrm5YHxNZRAMUDh4KEWe92I5CQ7v3ZWAORaz8Dr3iKEpKY0rF9wbsyDFFP0mdASnoVZKaYAu8bHTfmGj1GT7Pi1ptY1HyxMn1hApIA70ypFjyoZbvsVgVt8um9UVJ4a-3EJ5TTMcH0C7uEGijhYEzE9ASste58OjH5x4wEzzUZqUAPlWbZjMVwcv818DitjqVpccNPFE007_g08zLZzKBtfb1zW2CV-_81BKjxQuh0uN1qzX0EawOP",
-                        "quality": "FHD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpqarcJoylrhco95D9lcMGV72QBJioxqSTL4cRqreE1rAIkRSYczxHREVHJEy4FmnTB0ES3mrFfKKq6ZfNOyMfdKJx_z2gUckIQmbBnfA98JA-NE1Rwa4HFrm5YHxNZRAMUDh4KEWe92I5CQ7v3ZWAORaz8Dr3iKEpKY0rF9wbsyDFFP0mdASnoVZKaYAu8bHTfmGj1GT7Pi1ptY1HyxMn1hApIA70ypFjyoZbvsVgVt8um9UVJ4a-3EJ5TTMcH0C7uEGijhYEzE9ASste58OjH5x4wEzzUZqUAPlWbZjMVwcv818DitjqVpccNPFE007_g08zLZzKBtfb1zW2CV-_81BKjxQuh0uN1qzX0EawOP"
-                    },
-                    {
-                        "url": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpqarcJoylrhco95D9lcMGV72QBJioxqSTL4cRqreE1rAIkRSYczxHREVHJEy4FmnTB0ES3mrFfKKq6ZfNOyMfcBtuuk3dtUTprulL_T20VYQoyrSDFvWKmdBmlH7XsmX5nVjAJkyKl-cI6gQ-314Sviutx-mYHdC-VNxsbIGzRYhqux4mRlbeCsqZv5VN-rwUPUQKDdQ11bqTMTC5Bbh9rke9YO6HhlE1-_-BlzV08tjxgnlgBdmWl50Ghr1E8JABHga7JUe7z6JSCdkwdxp-xwYrEXJyFVGTTTF74zUu4lFAwck9oQqzy4vkryVjsBlWt2H_YWmrR-1yO4hzydNuvsbbUbsbbIfr0RtKEfyI9B",
-                        "quality": "SD",
-                        "videoUrl": "https://neptun.cizgifilmlerizle.com/getvid?evid=qUP-ALy6_u9jY-V5H07BJpqarcJoylrhco95D9lcMGV72QBJioxqSTL4cRqreE1rAIkRSYczxHREVHJEy4FmnTB0ES3mrFfKKq6ZfNOyMfcBtuuk3dtUTprulL_T20VYQoyrSDFvWKmdBmlH7XsmX5nVjAJkyKl-cI6gQ-314Sviutx-mYHdC-VNxsbIGzRYhqux4mRlbeCsqZv5VN-rwUPUQKDdQ11bqTMTC5Bbh9rke9YO6HhlE1-_-BlzV08tjxgnlgBdmWl50Ghr1E8JABHga7JUe7z6JSCdkwdxp-xwYrEXJyFVGTTTF74zUu4lFAwck9oQqzy4vkryVjsBlWt2H_YWmrR-1yO4hzydNuvsbbUbsbbIfr0RtKEfyI9B"
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
