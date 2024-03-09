@@ -3,8 +3,86 @@
         "name": "AnimePahe (EN)",
         "results": {
             "popular": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/?anime_id=5478",
+                                "title": "Cardfight!! Vanguard: Divinez",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/9731357aca7dc051f1e7c41d1d276a018f386b8c30e9ffafa467dc3ecd70415b.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5324",
+                                "title": "Undead Unluck",
+                                "artist": "Hulu",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e10fd769956a69b58efb677adc5861901fa0fc1e7892d184957121c5023034eb.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5465",
+                                "title": "Snack Basue",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/274ae9503e48ceba89cb5a0c37a4f3ea1f67623948c10ab22b53cbef881f5171.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5453",
+                                "title": "Momochi-san Chi no Ayakashi Ouji",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e0116ab39c3385669d7cc7bd69d707452730a83808859676346bd0fd30d35d45.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5438",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/547f04883e5b8af557ceb1ba9b555e635cd165e6435625d790aa253ecfce0470.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5319",
+                                "title": "Sousou no Frieren",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/86fa130d8d4b9f3399f6f545facb4b18c47b66a159428dbdc1e91eac42992858.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5446",
+                                "title": "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
+                                "artist": "Yameii",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/e2b131779f224aa9fb44b665d689e985c0735c67e1249d58b776cc114d40e296.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5447",
+                                "title": "Nozomanu Fushi no Boukensha",
+                                "artist": "SubsPlease",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/4710fc093b3cd4a99dfa312cdbfe57f7837ee57cd4554682a916393121b22987.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2591",
+                                "title": "Asagao to Kase-san.",
+                                "artist": "smol",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/6f4ef4357a1bd2b81522957c5c3a3f0f4f31a64e7b6910f85be9fed943a299f0.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=5565",
+                                "title": "Kimi no Hikari: Asagao to Kase-san.",
+                                "artist": "Scum",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/1c218d70a3040c391283e86ea15652c9d01980109a5f996cf18863fbc800de87.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=147",
+                                "title": "Sakura-sou no Pet na Kanojo",
+                                "artist": "smol",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/bb15cd557064aefc5faf821e2f6cc9b871261a586c955b7b835dc2a61c1ef853.jpg"
+                            },
+                            {
+                                "url": "/anime/?anime_id=2381",
+                                "title": "Hourou Musuko Specials",
+                                "artist": "smol",
+                                "thumbnail_url": "https://i.animepahe.ru/snapshots/42d486995d87ab2036188e68902c7c1f2e6e00ca3bb8db0e7b9a9b72e90f75cb.jpg"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "latest": {
                 "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 403",

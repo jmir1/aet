@@ -117,14 +117,24 @@
                     {
                         "animes": [
                             {
-                                "url": "/animeukr/anime-series/19547-pdzemellya-smakoti-1-sezon.html",
-                                "title": "Підземелля смакоти",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/8d/97b83992901133523cbfd32406cd4d.jpg"
+                                "url": "/animeukr/anime-series/19660-vdma-ta-chudovisko-1-sezon.html",
+                                "title": "Відьма та чудовисько",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/cf/61d7e517b0e22393a6c3c93bc484ba.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-series/20304-motoroshniy-ktaro-1-sezon.html",
                                 "title": "Моторошний Кітаро",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/cd/f1f2ee21826086be6ef243722f8c60.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/19546-rab-specalnogo-priznachennya-1-sezon.html",
+                                "title": "Раб спеціального призначення",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/4f/09bd525cc86002413f898fcb46aa24.jpg"
+                            },
+                            {
+                                "url": "/animeukr/anime-series/19547-pdzemellya-smakoti-1-sezon.html",
+                                "title": "Підземелля смакоти",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/8d/97b83992901133523cbfd32406cd4d.jpg"
                             },
                             {
                                 "url": "/animeukr/anime-series/20072-pan-pokoyivka-v-gurtozhitku-bogin-1-sezon.html",
@@ -305,16 +315,6 @@
                                 "url": "/animeukr/anime-series/20434-elfyska-psnya-1-sezon.html",
                                 "title": "Ельфійська пісня",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/98/90249f8a7e9370b9ae1b2fdfd7007f.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/20432-my-demon-1-sezon.html",
-                                "title": "Мій демон",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/65/3a8bc813a4770d71b766f5d8831685.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-series/20428-temnyi-dvoreckyi-3-sezon.html",
-                                "title": "Темний дворецький",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/91/3d6a8eb2c9d4698758e8d1ce7ef1f0.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -406,8 +406,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "<!DOCTYPE html><html lang=en><meta charset=utf-8><meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\"><title>Error 502</title><style>*{margin:0;padding:0}html{font:15px/22px arial,sans-serif;background: #fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}p{margin:11px 0 22px;overflow :hidden}ins{color:#777;text-decoration :none;}</style><p><b>502 - Bad Gateway .</b> <ins>That’s an error.</ins><p>Looks like we have got an invalid response from the upstream server.  <ins>That’s all we know.</ins>",
+                        "quality": "/22px arialp",
+                        "videoUrl": "<!DOCTYPE html><html lang=en><meta charset=utf-8><meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\"><title>Error 502</title><style>*{margin:0;padding:0}html{font:15px/22px arial,sans-serif;background: #fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}p{margin:11px 0 22px;overflow :hidden}ins{color:#777;text-decoration :none;}</style><p><b>502 - Bad Gateway .</b> <ins>That’s an error.</ins><p>Looks like we have got an invalid response from the upstream server.  <ins>That’s all we know.</ins>"
+                    }
+                ],
+                "passed": true
             }
         }
     }
