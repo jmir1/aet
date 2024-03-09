@@ -3,27 +3,27 @@
         "name": "AsiaFlix (EN)",
         "results": {
             "popular": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
+                "error": "java.net.UnknownHostException: api.asiaflix.app: Name or service not known",
                 "passed": false
             },
             "latest": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
+                "error": "java.net.UnknownHostException: api.asiaflix.app",
                 "passed": false
             },
             "search": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
+                "error": "java.net.UnknownHostException: api.asiaflix.app",
                 "passed": false
             },
             "details": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
+                "error": "java.net.UnknownHostException: api.asiaflix.app",
                 "passed": false
             },
             "episodes": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
+                "error": "java.net.UnknownHostException: api.asiaflix.app",
                 "passed": false
             },
             "videos": {
-                "error": "javax.net.ssl.SSLPeerUnverifiedException: Hostname api.asiaflix.app not verified:\n    certificate: sha256/zs/Ur4oMQv3IITLgDzHZddYGwcOua79e3i9hZRpZZHE=\n    DN: CN=*.myorderbox.com\n    subjectAltNames: [*.myorderbox.com, myorderbox.com]",
+                "error": "java.net.UnknownHostException: api.asiaflix.app",
                 "passed": false
             }
         }

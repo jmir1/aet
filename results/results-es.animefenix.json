@@ -471,15 +471,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hanyo-no-yashahime",
-                    "title": "Hanyo no Yashahime",
-                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -499,19 +492,19 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/JZJqMJqDAlpIBfvVyhxWf8enzXdgplNlZ6zAvHaYYdUeJxFPc",
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/7rDPgbYXP_kkCUVKqQWHyP0xsAY-JDLUhqJ5MyUjs0ceJxFPc",
                         "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/JZJqMJqDAlpIBfvVyhxWf8enzXdgplNlZ6zAvHaYYdUeJxFPc"
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/7rDPgbYXP_kkCUVKqQWHyP0xsAY-JDLUhqJ5MyUjs0ceJxFPc"
                     },
                     {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/gf7wHsmBj8fREJL1eaorz7l1ud66cCySSHjy6SWerLEeJxFPc",
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/S322vB_-07idhnJIM5vLIW_BQRy4b9F4R1FsjGkBqWweJxFPc",
                         "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/gf7wHsmBj8fREJL1eaorz7l1ud66cCySSHjy6SWerLEeJxFPc"
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/S322vB_-07idhnJIM5vLIW_BQRy4b9F4R1FsjGkBqWweJxFPc"
                     },
                     {
-                        "url": "https://vidcache.net:8161/a20240308P2MIBwpneLq/video.mp4",
+                        "url": "https://vidcache.net:8161/a20240308016RO5E1k7i/video.mp4",
                         "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240308P2MIBwpneLq/video.mp4",
+                        "videoUrl": "https://vidcache.net:8161/a20240308016RO5E1k7i/video.mp4",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "referer": "https://www.yourupload.com/"

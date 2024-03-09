@@ -267,6 +267,31 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Cardfight-Vanguard-Divinez/",
+                                "title": "Cardfight!! Vanguard: Divinez",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Cardfight-Vanguard-Divinez.jpg"
+                            },
+                            {
+                                "url": "/Anime/Snack-Basue/",
+                                "title": "Snack Basue",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Snack-Basue.jpg"
+                            },
+                            {
+                                "url": "/Anime/frieren-beyond-journeys-end.11511/",
+                                "title": "Frieren: Beyond Journey’s End",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Frieren-Beyond-Journeys-End.jpg"
+                            },
+                            {
+                                "url": "/Anime/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash/",
+                                "title": "The Weakest Tamer Began a Journey to Pick Up Trash",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Weakest-Tamer-Began-a-Journey-to-Pick-Up-Trash.jpg"
+                            },
+                            {
+                                "url": "/Anime/Sasaki-and-Peeps/",
+                                "title": "Sasaki and Peeps",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Sasaki-and-Peeps.jpg"
+                            },
+                            {
                                 "url": "/Anime/Bai-Yao-Pu-Si-Fu-Pian/",
                                 "title": "Fairies Album S4",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/02/Fairies-Album-S4.jpg"
@@ -490,31 +515,6 @@
                                 "url": "/Anime/HIGH-CARD-Season-2/",
                                 "title": "HIGH CARD Season 2",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/HIGH-CARD-Season-2.jpg"
-                            },
-                            {
-                                "url": "/Anime/Ninja-Kamui/",
-                                "title": "Ninja Kamui",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/02/Ninja-Kamui.jpg"
-                            },
-                            {
-                                "url": "/Anime/rurouni-kenshin-meiji-kenkaku-romantan-2023-dub.92878/",
-                                "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023) (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Rurouni-Kenshin-Meiji-Kenkaku-Romantan-2023.jpg"
-                            },
-                            {
-                                "url": "/Anime/Shangri-La-Frontier-Dub/",
-                                "title": "Shangri-La Frontier (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/10/Shangri-La-Frontier-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/dark-gathering-dub.41724/",
-                                "title": "Dark Gathering (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Dark-Gathering-Dub.jpg"
-                            },
-                            {
-                                "url": "/Anime/captain-tsubasa-junior-youth-arc-dub.25303/",
-                                "title": "Captain Tsubasa: Junior Youth Arc (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Captain-Tsubasa-Junior-Youth-Arc-Dub.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,7 +1063,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
