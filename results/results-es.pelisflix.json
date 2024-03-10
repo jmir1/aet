@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/bullet-train-down/",
+                                "title": "Bullet Train Down",
+                                "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explot...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/PYFPP9VBSWoRjyYdf4tXFEazZ3eUIfKo3f3JePaX.webp"
+                            },
+                            {
                                 "url": "/pelicula/sola/",
                                 "title": "Sola",
                                 "description": "Tras recibir una mala noticia, Marta decide encerrarse en casa por voluntad propia. Aunque este conf...",
@@ -239,12 +245,6 @@
                                 "title": "Red Right Hand",
                                 "description": "Cash intenta llevar una vida honesta y tranquila alejado del mundo criminal, pero cuando Big Cat, la...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/iEuIgtRlvZSfVXGvTe7Ny6g3.webp"
-                            },
-                            {
-                                "url": "/pelicula/fear/",
-                                "title": "Fear",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EEtQmiGWGBzWYPnTgMT3rrI7CFwl993EDnkP.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/sola/",
-                    "title": "Sola",
-                    "description": "Tras recibir una mala noticia, Marta decide encerrarse en casa por voluntad propia. Aunque este confinamiento no será fácil de sobrellevar, teniendo en cuenta que empiezan a suceder cosas extrañas: el fantasma de su madre aparece, tras haberse suicidado tiempo atrás.",
-                    "genre": "Drama, Terror",
+                    "url": "/pelicula/bullet-train-down/",
+                    "title": "Bullet Train Down",
+                    "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explotará si baja a menos de 200 mph. Producción bajo presupuesto de The Asylum lanzada al mercado doméstico en EEUU para aprovecharse del éxito de \"Bullet Train\", dirigida por David Leitch y protagonizada por Brad Pitt.",
+                    "genre": "Acción",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/sola/",
+                        "url": "/pelicula/bullet-train-down/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar jrJjFreVj = \"\"; JpYOdRVTZe.forEach(function Oym(value) { jrJjFreVj += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar VJtcgBhZlm = \"\"; kakxspD.forEach(function Oym(value) { VJtcgBhZlm += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
