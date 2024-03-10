@@ -37,14 +37,14 @@
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5168.jpg"
                             },
                             {
-                                "url": "/anime/jujutsu-kaisen-2nd-season?animeId=5879",
-                                "title": "Jujutsu Kaisen 2nd Season",
-                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5879.jpg"
-                            },
-                            {
                                 "url": "/anime/chainsaw-man?animeId=5707",
                                 "title": "Chainsaw Man",
                                 "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5707.jpg"
+                            },
+                            {
+                                "url": "/anime/jujutsu-kaisen-2nd-season?animeId=5879",
+                                "title": "Jujutsu Kaisen 2nd Season",
+                                "thumbnail_url": "https://www.turkanime.co/imajlar/seriler/5879.jpg"
                             },
                             {
                                 "url": "/anime/tokyo-revengers-tenjiku-hen?animeId=5947",
@@ -287,42 +287,21 @@
             "episodes": {
                 "result": [
                     {
+                        "url": "/video/ore-dake-level-up-na-ken-9-bolum",
+                        "name": "Ore dake Level Up na Ken 9. Bölüm",
+                        "episode_number": 9.0
+                    },
+                    {
                         "url": "/video/ore-dake-level-up-na-ken-8-bolum",
                         "name": "Ore dake Level Up na Ken 8. Bölüm",
                         "episode_number": 8.0
-                    },
-                    {
-                        "url": "/video/ore-dake-level-up-na-ken-7-5-bolum",
-                        "name": "Ore dake Level Up na Ken 7.5. Bölüm",
-                        "episode_number": 5.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://drive.usercontent.google.com/download?id=1zA7Qo-XKN7ZWucMe4TJFgUUZ9yzfaXX4",
-                        "quality": "RaionSubs: Gdrive",
-                        "videoUrl": "https://drive.usercontent.google.com/download?id=1zA7Qo-XKN7ZWucMe4TJFgUUZ9yzfaXX4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                            "Cookie": "",
-                            "Host": "drive.usercontent.google.com",
-                            "Referer": "https://drive.google.com/"
-                        }
-                    },
-                    {
-                        "url": "https://delivery-node-mog6ovqzlvtaexua.voe-network.net/engine/hls2-c/01/10613/c6vzzybzvdgo_,n,.urlset/index-v1-a1.m3u8?t=O0apB_1uh_SdeR2wQHb5ZRLEdiP-K7oTuOV6fytPBYM&s=1710007702&e=14400&f=53067428&node=delivery-node-gfhwnzsavv8aeplx.voe-network.net&i=20.97&sp=2500&asn=8075",
-                        "quality": "(RaionSubs) Voe: 720p",
-                        "videoUrl": "https://delivery-node-mog6ovqzlvtaexua.voe-network.net/engine/hls2-c/01/10613/c6vzzybzvdgo_,n,.urlset/index-v1-a1.m3u8?t=O0apB_1uh_SdeR2wQHb5ZRLEdiP-K7oTuOV6fytPBYM&s=1710007702&e=14400&f=53067428&node=delivery-node-gfhwnzsavv8aeplx.voe-network.net&i=20.97&sp=2500&asn=8075",
-                        "headers": {
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.IllegalArgumentException: bad base-64",
+                "passed": false
             }
         }
     }

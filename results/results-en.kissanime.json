@@ -267,6 +267,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/solo-leveling.76219/",
+                                "title": "Solo Leveling",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/11/Solo-Leveling.jpg"
+                            },
+                            {
                                 "url": "/Anime/The-Unwanted-Undead-Adventurer/",
                                 "title": "The Unwanted Undead Adventurer",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Unwanted-Undead-Adventurer.jpg"
@@ -510,11 +515,6 @@
                                 "url": "/Anime/The-Foolish-Angel-Dances-with-the-Devil/",
                                 "title": "The Foolish Angel Dances with the Devil",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Foolish-Angel-Dances-with-the-Devil.jpg"
-                            },
-                            {
-                                "url": "/Anime/Dosanko-Gal-wa-Namaramenkoi/",
-                                "title": "Hokkaido Girls Are Super Adorable!",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Hokkaido-Girls-Are-Super-Adorable.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -1063,8 +1063,21 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s39.openstream.io/hls/qvsbfncem3blgwsztsz2azo3js6x3hsuualtkycckewldsrw4u3cffedl4sq/index-v1-a1.m3u8",
+                        "quality": "Oserver - 720p",
+                        "videoUrl": "https://s39.openstream.io/hls/qvsbfncem3blgwsztsz2azo3js6x3hsuualtkycckewldsrw4u3cffedl4sq/index-v1-a1.m3u8",
+                        "headers": {
+                            "Accept": "*/*",
+                            "Host": "s39.openstream.io",
+                            "Origin": "https://embed.vodstream.xyz",
+                            "Referer": "https://embed.vodstream.xyz/",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
