@@ -300,8 +300,29 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: bad base-64",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://drive.usercontent.google.com/download?id=18WVBhmwdJmMe396ukgQbVlN4v1wy1U3F",
+                        "quality": "RaionSubs: Gdrive",
+                        "videoUrl": "https://drive.usercontent.google.com/download?id=18WVBhmwdJmMe396ukgQbVlN4v1wy1U3F",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                            "Cookie": "",
+                            "Host": "drive.usercontent.google.com",
+                            "Referer": "https://drive.google.com/"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-tbrhqa7kmr6tsjqh.voe-network.net/engine/hls2/01/10674/0jtwxqbujkbt_,n,.urlset/index-v1-a1.m3u8?t=3OvwKpLTi20aBJmkGgEMW4ewhJBNALFuMZBT44Ahmsw&s=1710180580&e=14400&f=53374895&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=52.157&sp=2500&asn=8075",
+                        "quality": "(RaionSubs) Voe: 720p",
+                        "videoUrl": "https://delivery-node-tbrhqa7kmr6tsjqh.voe-network.net/engine/hls2/01/10674/0jtwxqbujkbt_,n,.urlset/index-v1-a1.m3u8?t=3OvwKpLTi20aBJmkGgEMW4ewhJBNALFuMZBT44Ahmsw&s=1710180580&e=14400&f=53374895&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=52.157&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

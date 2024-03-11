@@ -7,10 +7,28 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/air-force-one-down/",
+                                "title": "Air Force One Down",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EVyAvMeGZu6wIrsgENx2RrnoHJge7N8Byx2T96qZrm.webp"
+                            },
+                            {
+                                "url": "/pelicula/bullet-train-down/",
+                                "title": "Bullet Train Down",
+                                "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explot...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/PYFPP9VBSWoRjyYdf4tXFEazZ3eUIfKo3f3JePaX.webp"
+                            },
+                            {
                                 "url": "/pelicula/el-vestido-de-compromiso/",
                                 "title": "El vestido de compromiso",
                                 "description": "Cuando Claudia consigue llevar el vestido de dama de honor que ha hecho que todas sus amigas se case...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Uy5HFMvO1vQxAHF1k1FED1d2QNDzb2pVrltWYPAPa.webp"
+                            },
+                            {
+                                "url": "/pelicula/proyecto-fantasma/",
+                                "title": "Proyecto Fantasma",
+                                "description": "Tres jóvenes programadores se topan con una tecnología abandonada destinada a detectar presencia s...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/2rShSZE2FYHsmxM8haWRkJttFty7FJMx1uF.webp"
                             },
                             {
                                 "url": "/pelicula/la-carrera-de-las-chicas-de-appleton/",
@@ -29,12 +47,6 @@
                                 "title": "Ruta salvaje",
                                 "description": "Nos contará el pasado escondido de una mujer, la violencia que vivió, la pérdida de su compañero...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/9wJFp00n7smIXIVCZ.webp"
-                            },
-                            {
-                                "url": "/pelicula/bullet-train-down/",
-                                "title": "Bullet Train Down",
-                                "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explot...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/PYFPP9VBSWoRjyYdf4tXFEazZ3eUIfKo3f3JePaX.webp"
                             },
                             {
                                 "url": "/pelicula/sola/",
@@ -233,18 +245,6 @@
                                 "title": "Código 8 (Parte 2)",
                                 "description": "Después de presenciar el asesinato de su hermano y el posterior encubrimiento, una adolescente con ...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5PwwTgSt3QJBU7CK.webp"
-                            },
-                            {
-                                "url": "/pelicula/gallo-rojo/",
-                                "title": "Gallo Rojo",
-                                "description": "Ana vuelve al pueblo en verano con la intención de montar un cine en el patio de una vieja casa fam...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/YueXCqV3gm27ptwowVVrhXRUMf.webp"
-                            },
-                            {
-                                "url": "/pelicula/poor-things-pobres-criaturas-zogb/",
-                                "title": "Poor Things (Pobres criaturas)",
-                                "description": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. B...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/pI3ZWyxwRBjQ78NxJZIBe4oipbQKxZnMxh.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/el-vestido-de-compromiso/",
-                    "title": "El vestido de compromiso",
-                    "description": "Cuando Claudia consigue llevar el vestido de dama de honor que ha hecho que todas sus amigas se casen, se da cuenta de que ha estado buscando el amor en los lugares equivocados.",
-                    "genre": "Comedia, Romance",
+                    "url": "/pelicula/air-force-one-down/",
+                    "title": "Air Force One Down",
+                    "description": "",
+                    "genre": "Acción, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/el-vestido-de-compromiso/",
+                        "url": "/pelicula/air-force-one-down/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mEHCygFOLr = \"\"; QqqiBWJjp.forEach(function Oym(value) { mEHCygFOLr += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar WkZSButUI = \"\"; TNqvPReQtN.forEach(function Oym(value) { WkZSButUI += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }

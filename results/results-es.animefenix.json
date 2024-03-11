@@ -471,23 +471,47 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/hanyo-no-yashahime",
-                    "title": "Hanyo no Yashahime",
-                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
-            },
-            "episodes": {
                 "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
+            "episodes": {
+                "result": [
+                    {
+                        "url": "/ver/hanyo-no-yashahime-24",
+                        "name": "Episodio  24",
+                        "episode_number": 24.0
+                    },
+                    {
+                        "url": "/ver/hanyo-no-yashahime-23",
+                        "name": "Episodio  23",
+                        "episode_number": 23.0
+                    }
+                ],
+                "passed": true
+            },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/DghoJ3gdkRsvsXC7MeQiIQ8np8vodJFUQgi-mjJBjZkeJxFPc",
+                        "quality": "AmazonES",
+                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/DghoJ3gdkRsvsXC7MeQiIQ8np8vodJFUQgi-mjJBjZkeJxFPc"
+                    },
+                    {
+                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/iuiwbpbRR0LJUFUbq2i9xwi2sCXJ9wLL5qWJLOI6KpseJxFPc",
+                        "quality": "Amazon",
+                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/iuiwbpbRR0LJUFUbq2i9xwi2sCXJ9wLL5qWJLOI6KpseJxFPc"
+                    },
+                    {
+                        "url": "https://vidcache.net:8161/a20240311jUPRhEd1m5o/video.mp4",
+                        "quality": "YourUpload",
+                        "videoUrl": "https://vidcache.net:8161/a20240311jUPRhEd1m5o/video.mp4",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://www.yourupload.com/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
