@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/el-vestido-de-compromiso/",
+                                "title": "El vestido de compromiso",
+                                "description": "Cuando Claudia consigue llevar el vestido de dama de honor que ha hecho que todas sus amigas se case...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Uy5HFMvO1vQxAHF1k1FED1d2QNDzb2pVrltWYPAPa.webp"
+                            },
+                            {
+                                "url": "/pelicula/la-carrera-de-las-chicas-de-appleton/",
+                                "title": "La carrera de las chicas de Appleton",
+                                "description": "Penny vuelve a su hogar para el Appleton Show, destacado por su célebre carrera de papas, solo para...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/oTWJX16LK57j0S5.webp"
+                            },
+                            {
+                                "url": "/pelicula/relax-im-from-the-future/",
+                                "title": "Relax, I'm From The Future",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/biGpBVY6w8wy4XTU.webp"
+                            },
+                            {
+                                "url": "/pelicula/ruta-salvaje/",
+                                "title": "Ruta salvaje",
+                                "description": "Nos contará el pasado escondido de una mujer, la violencia que vivió, la pérdida de su compañero...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/9wJFp00n7smIXIVCZ.webp"
+                            },
+                            {
                                 "url": "/pelicula/bullet-train-down/",
                                 "title": "Bullet Train Down",
                                 "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explot...",
@@ -221,30 +245,6 @@
                                 "title": "Poor Things (Pobres criaturas)",
                                 "description": "Bella Baxter es una joven revivida por el brillante y poco ortodoxo científico Dr. Godwin Baxter. B...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/pI3ZWyxwRBjQ78NxJZIBe4oipbQKxZnMxh.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-mayor-historia-de-amor-jamas-contada/",
-                                "title": "La mayor historia de amor jamás contada",
-                                "description": "Sigue a Jennifer Lopez en su proyecto más ambicioso hasta la fecha: producir de forma independiente...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/QIiqWQmk2LXEO8khYCxOA9t3XDlQfFEWdMcZspa.webp"
-                            },
-                            {
-                                "url": "/pelicula/lisa-frankenstein/",
-                                "title": "Lisa Frankenstein",
-                                "description": "En 1989, una impopular chica de secundaria llamada Lisa reanima accidentalmente un apuesto cadáver ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/bwS3UA8BE1RYqC6255YAAW0EpsP3DK.webp"
-                            },
-                            {
-                                "url": "/pelicula/mamacruz/",
-                                "title": "Mamacruz",
-                                "description": "Cruz es una abuela que lleva muchos años, décadas ya, sin saber lo que es un orgasmo. Ella, devota...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/YH4RKl8RWJTzfSSHMANInfUmOg1Gw.webp"
-                            },
-                            {
-                                "url": "/pelicula/red-right-hand/",
-                                "title": "Red Right Hand",
-                                "description": "Cash intenta llevar una vida honesta y tranquila alejado del mundo criminal, pero cuando Big Cat, la...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/iEuIgtRlvZSfVXGvTe7Ny6g3.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/bullet-train-down/",
-                    "title": "Bullet Train Down",
-                    "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explotará si baja a menos de 200 mph. Producción bajo presupuesto de The Asylum lanzada al mercado doméstico en EEUU para aprovecharse del éxito de \"Bullet Train\", dirigida por David Leitch y protagonizada por Brad Pitt.",
-                    "genre": "Acción",
+                    "url": "/pelicula/el-vestido-de-compromiso/",
+                    "title": "El vestido de compromiso",
+                    "description": "Cuando Claudia consigue llevar el vestido de dama de honor que ha hecho que todas sus amigas se casen, se da cuenta de que ha estado buscando el amor en los lugares equivocados.",
+                    "genre": "Comedia, Romance",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/bullet-train-down/",
+                        "url": "/pelicula/el-vestido-de-compromiso/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar dcTYeQs = \"\"; njEOiwjkB.forEach(function Oym(value) { dcTYeQs += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar mEHCygFOLr = \"\"; QqqiBWJjp.forEach(function Oym(value) { mEHCygFOLr += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
