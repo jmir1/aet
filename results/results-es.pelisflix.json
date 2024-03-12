@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/kung-fu-panda-4/",
+                                "title": "Kung Fu Panda 4",
+                                "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero D...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/tEVLI6bKA1m8j8lOy1V2rZcQaaH.webp"
+                            },
+                            {
                                 "url": "/pelicula/air-force-one-down/",
                                 "title": "Air Force One Down",
                                 "description": "",
@@ -239,12 +245,6 @@
                                 "title": "Desconocidos",
                                 "description": "Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/n2cB0ui2k4teuDvUXjSsPU5DynGxHSbVLdm.webp"
-                            },
-                            {
-                                "url": "/pelicula/codigo-8-parte-2/",
-                                "title": "Código 8 (Parte 2)",
-                                "description": "Después de presenciar el asesinato de su hermano y el posterior encubrimiento, una adolescente con ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5PwwTgSt3QJBU7CK.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/air-force-one-down/",
-                    "title": "Air Force One Down",
-                    "description": "",
-                    "genre": "Acción, Suspense",
+                    "url": "/pelicula/kung-fu-panda-4/",
+                    "title": "Kung Fu Panda 4",
+                    "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
+                    "genre": "Acción, Animación, Aventura, Comedia",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/air-force-one-down/",
+                        "url": "/pelicula/kung-fu-panda-4/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar rahHnmDpvX = \"\"; qRsorDW.forEach(function Oym(value) { rahHnmDpvX += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar vfGzWXk = \"\"; jsOvRdxakD.forEach(function Oym(value) { vfGzWXk += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
