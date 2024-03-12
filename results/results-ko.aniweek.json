@@ -400,20 +400,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://michealcdn.com/m3/QmFCMXpxUFd3ODN6SkF1T2p3NmMrdlExcUl6QVFLWEE0WEpYdHlmVytSanl2aE1xNm5oUFh5aGptamV4VVI4UUdGdktGcHR0TnpBWEw5NkVlUjBsSXdKSlZMMkRmd3k3RFpPaTA3UlBCdmc5cksrcDArQVBvRWdyNXBQTVQ5elNNU0dvanFMLys4TXJtNW8yMytDenlpSDN4ZlozY1hqenY4S3ZWZkZqVEFkMXF0L2EzSjZ0cVR2OExtcWpyRXJ2ZENwL2RpLy9oZ2YzQjBSeVVXVzdBeVZKZFJ2VVdLL2NiSUlPdnA0UWtzOWQzaXpVb0hyUklyYmtOckdGeTNiSzdXNHVVOWphV1pCbmhXd3RiaU9pL3RUWkJGTTlFWUJ3YXlMVms4R3BGSkxueCtkUWJSbTBpZjA4Q3FSVUF2Wjk%3D",
-                        "quality": "1080p",
-                        "videoUrl": "https://michealcdn.com/m3/QmFCMXpxUFd3ODN6SkF1T2p3NmMrdlExcUl6QVFLWEE0WEpYdHlmVytSanl2aE1xNm5oUFh5aGptamV4VVI4UUdGdktGcHR0TnpBWEw5NkVlUjBsSXdKSlZMMkRmd3k3RFpPaTA3UlBCdmc5cksrcDArQVBvRWdyNXBQTVQ5elNNU0dvanFMLys4TXJtNW8yMytDenlpSDN4ZlozY1hqenY4S3ZWZkZqVEFkMXF0L2EzSjZ0cVR2OExtcWpyRXJ2ZENwL2RpLy9oZ2YzQjBSeVVXVzdBeVZKZFJ2VVdLL2NiSUlPdnA0UWtzOWQzaXpVb0hyUklyYmtOckdGeTNiSzdXNHVVOWphV1pCbmhXd3RiaU9pL3RUWkJGTTlFWUJ3YXlMVms4R3BGSkxueCtkUWJSbTBpZjA4Q3FSVUF2Wjk%3D",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Accept": "*/*",
-                            "Origin": "https://michealcdn.com",
-                            "Referer": "https://michealcdn.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+                "passed": false
             }
         }
     }
