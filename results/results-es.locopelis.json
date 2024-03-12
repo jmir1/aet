@@ -137,6 +137,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/19759/kung-fu-panda-4.html",
+                                "title": "Kung Fu Panda 4",
+                                "description": "Po, quien se convertirá en el Maestro Espiritual del Valle de la Paz, busca a su sucesor como el nuevo Guerrero Dragón mientras lucha contra una nueva enemiga llamada La Camaleona....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19759.webp"
+                            },
+                            {
                                 "url": "/pelicula/19758/los-desfiles.html",
                                 "title": "Los desfiles",
                                 "description": "Una mujer no ceja en la búsqueda de su hijo tras una devastadora catástrofe, hasta que se da cuenta de que ha muerto y está atrapada en un mundo de almas atormentadas. ...",
@@ -249,12 +255,6 @@
                                 "title": "Cazadora",
                                 "description": "Emilia (40) y su hijo Mateo (17) han sobrevivido a una peste global. Ambos viven en la montaña donde subsisten cazando conejos. Durante un día de caza, intentan robarles su jeep, sin embargo, Emilia logra detener el vehículo de un disparo. De él emerge Rena (30), una misteriosa mujer que con su ...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19740.webp"
-                            },
-                            {
-                                "url": "/pelicula/19739/el-poderoso-zeus.html",
-                                "title": "El poderoso Zeus",
-                                "description": "Cuando un anciano asiático es atacado y rociado con desinfectante para manos, un joven boxeador se vuelve viral por noquear al agresor. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19739.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,18 +416,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://dood.ws/e/aq6kuo21b1bo",
-                        "quality": "DoodStream",
-                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgihswlkuo7otq/jsv1vhj9ve~Dtd4YoILQM?token=faa3a98f24ktc5woxwz3px7v&expiry=1710180540996",
-                        "headers": {
-                            "User-Agent": "Aniyomi",
-                            "Referer": "https://dood.ws/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

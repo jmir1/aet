@@ -227,6 +227,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/young-sheldon",
+                                "title": "Jovem Sheldon",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5640.webp"
+                            },
+                            {
+                                "url": "/serie/online/o-regime",
+                                "title": "O Regime",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22648.webp"
+                            },
+                            {
                                 "url": "/serie/online/supersex",
                                 "title": "Supersex",
                                 "status": 2,
@@ -333,18 +345,6 @@
                                 "title": "Constelação",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22634.webp"
-                            },
-                            {
-                                "url": "/serie/online/star-wars-the-bad-batch",
-                                "title": "Star Wars: The Bad Batch",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19343.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-herdeiro-impossivel",
-                                "title": "O Herdeiro Impossível",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22644.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }

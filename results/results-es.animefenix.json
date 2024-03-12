@@ -167,6 +167,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/kenka-dokugaku-viral-hit",
+                                "title": "Kenka Dokugaku (Viral Hit)",
+                                "description": "Shibuya es una ciudad llena de identidad. Es aquí, en las calles nocturnas de Shibuya, donde la ilustradora Mahiru Kozuki, el ex ídolo Kano Yamanouchi, el Vtuber Kiui Watase y la compositora Mei Kim Anouk Takanashi, cuatro mujeres jóvenes que están un poco fuera del mundo, se unen y forman un grupo de artistas anónimos llamado JELEE. “Yo” también quiero brillar como alguien más. Si no soy yo sino \"nosotros\", entonces podríamos brillar.",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/65ef5e138fa3d/kenka-dokugaku-viral-hit.jpg"
+                            },
+                            {
+                                "url": "/yoru-no-kurage-wa-oyogenai",
+                                "title": "Yoru no Kurage wa Oyogenai",
+                                "description": "Shibuya es una ciudad llena de identidad. Es aquí, en las calles nocturnas de Shibuya, donde la ilustradora Mahiru Kozuki, el ex ídolo Kano Yamanouchi, el Vtuber Kiui Watase y la compositora Mei Kim Anouk Takanashi, cuatro mujeres jóvenes que están un poco fuera del mundo, se unen y forman un grupo de artistas anónimos llamado JELEE. “Yo” también quiero brillar como alguien más. Si no soy yo sino \"nosotros\", entonces podríamos brillar.",
+                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/65ef5d55c0f78/yoru-no-kurage-wa-oyogenai.jpg"
+                            },
+                            {
                                 "url": "/katsugeki-touken-ranbu",
                                 "title": "Katsugeki Touken Ranbu",
                                 "description": "Como manifestaciones humanoides de las famosas espadas de Toshizou Hijikata, se les ha encomendado la tarea de proteger la historia de la Retrograde Army que pretende alterarla.",
@@ -303,18 +315,6 @@
                                 "title": "Koi wa Futago de Warikirenai",
                                 "description": "La comedia romántica sigue a un chico llamado Jun que es amigo de la infancia de dos niñas gemelas con personalidades diferentes. Termina en un triángulo amoroso con Rumi, que parece juvenil pero es una otome (doncella) por dentro, y su hermana gemela Naori, que es una linda otaku.",
                                 "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/65d372add9a7c/koi-wa-futago-de-warikirenai.jpg"
-                            },
-                            {
-                                "url": "/megami-no-cafe-terrace-2nd-season",
-                                "title": "Megami no Cafe Terrace 2nd Season",
-                                "description": "Segunda temporada de Megami no Cafe Terrace",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/65d37203b96d2/megami-no-cafe-terrace-2nd-season.jpg"
-                            },
-                            {
-                                "url": "/kami-no-tou-tower-of-god-2nd-season",
-                                "title": "Kami no Tou: Tower of God 2nd Season",
-                                "description": "Segunda temporada de Kami no Tou: Tower of God",
-                                "thumbnail_url": "https://animefenix.tv/cdn/animes/cover/65d37175bf12e/kami-no-tou-tower-of-god-2nd-season.png"
                             }
                         ],
                         "hasNextPage": true
@@ -471,47 +471,23 @@
                 "passed": true
             },
             "details": {
+                "result": {
+                    "url": "/hanyo-no-yashahime",
+                    "title": "Hanyo no Yashahime",
+                    "genre": "Acción, Aventura, Demonios, Fantasía, Histórico",
+                    "status": 2,
+                    "status_name": "COMPLETED",
+                    "initialized": true
+                },
+                "passed": true
+            },
+            "episodes": {
                 "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             },
-            "episodes": {
-                "result": [
-                    {
-                        "url": "/ver/hanyo-no-yashahime-24",
-                        "name": "Episodio  24",
-                        "episode_number": 24.0
-                    },
-                    {
-                        "url": "/ver/hanyo-no-yashahime-23",
-                        "name": "Episodio  23",
-                        "episode_number": 23.0
-                    }
-                ],
-                "passed": true
-            },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://content-eu.drive.amazonaws.com/cdproxy/templink/DghoJ3gdkRsvsXC7MeQiIQ8np8vodJFUQgi-mjJBjZkeJxFPc",
-                        "quality": "AmazonES",
-                        "videoUrl": "https://content-eu.drive.amazonaws.com/cdproxy/templink/DghoJ3gdkRsvsXC7MeQiIQ8np8vodJFUQgi-mjJBjZkeJxFPc"
-                    },
-                    {
-                        "url": "https://content-na.drive.amazonaws.com/cdproxy/templink/iuiwbpbRR0LJUFUbq2i9xwi2sCXJ9wLL5qWJLOI6KpseJxFPc",
-                        "quality": "Amazon",
-                        "videoUrl": "https://content-na.drive.amazonaws.com/cdproxy/templink/iuiwbpbRR0LJUFUbq2i9xwi2sCXJ9wLL5qWJLOI6KpseJxFPc"
-                    },
-                    {
-                        "url": "https://vidcache.net:8161/a20240311jUPRhEd1m5o/video.mp4",
-                        "quality": "YourUpload",
-                        "videoUrl": "https://vidcache.net:8161/a20240311jUPRhEd1m5o/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://www.yourupload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             }
         }
     }
