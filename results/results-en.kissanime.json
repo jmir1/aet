@@ -11,6 +11,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/Anime/Undead-Unluck-Dub/",
+                                "title": "Undead Unluck (Dub)",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Undead-Unluck-Dub.jpg"
+                            },
+                            {
+                                "url": "/Anime/SHAMAN-KING-FLOWERS/",
+                                "title": "SHAMAN KING FLOWERS",
+                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/SHAMAN-KING-FLOWERS.jpg"
+                            },
+                            {
                                 "url": "/Anime/THE-FIRST-SLAM-DUNK/",
                                 "title": "THE FIRST SLAM DUNK",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/03/THE-FIRST-SLAM-DUNK.jpg"
@@ -156,11 +166,6 @@
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/09/Undead-Unluck.jpg"
                             },
                             {
-                                "url": "/Anime/Undead-Unluck-Dub/",
-                                "title": "Undead Unluck (Dub)",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Undead-Unluck-Dub.jpg"
-                            },
-                            {
                                 "url": "/Anime/Pon-no-Michi/",
                                 "title": "Pon no Michi",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Pon-no-Michi.jpg"
@@ -254,11 +259,6 @@
                                 "url": "/Anime/Kingdom-5th-Season/",
                                 "title": "Kingdom 5th Season",
                                 "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2023/12/Kingdom-5th-Season.jpg"
-                            },
-                            {
-                                "url": "/Anime/The-Strongest-Tank-s-Labyrinth-Raids/",
-                                "title": "The Strongest Tank's Labyrinth Raids",
-                                "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/The-Strongest-Tank-s-Labyrinth-Raids.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -778,13 +778,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/Anime/THE-FIRST-SLAM-DUNK/",
-                    "title": "THE FIRST SLAM DUNK",
-                    "description": "Shohoku's “speedster” and point guard, Ryota Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. Born and raised in Okinawa, Ryota had a brother who was three years older. Following in the footsteps of his older brother, who was a famous local player from a young age, Ryota also became addicted to basketball. In his second year of high school, Ryota plays with the Shohoku High School basketball team along with Sakuragi, Rukawa, Akagi, and Mitsui as they take the stage at the Inter-High School National Championship. And now, they are on the brink of challenging the reigning champions, Sannoh Kogyo High School. (Source: GKIDS)\n\nUser rating: 96%",
-                    "genre": "Sports",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/03/THE-FIRST-SLAM-DUNK.jpg",
+                    "url": "/Anime/Undead-Unluck-Dub/",
+                    "title": "Undead Unluck (Dub)",
+                    "description": "All Fuuko wants is a passionate romance like the one in her favorite shoujo manga. Unfortunately, her Unluck ability makes that impossible. But just as Fuuko hits rock bottom, Andy sweeps her off her feet—literally! Now she's become Andy's unwilling test subject as he works to find a way to trigger a stroke of Unluck big enough to kill him for good. However, when the pair discovers a secret organization is hunting them, it puts Andy's burial plans on hold. (Source: Viz Media)\n\nUser rating: 96%",
+                    "genre": "Action, Comedy, Sci-Fi, Supernatural",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://static.anmedm.com/media/imagesv2/2024/01/Undead-Unluck-Dub.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -792,16 +792,22 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/Anime/THE-FIRST-SLAM-DUNK/Movie?id=189409",
-                        "name": "THE FIRST SLAM DUNK - Movie",
+                        "url": "/Anime/Undead-Unluck-Dub/Episode-014?id=189414",
+                        "name": "Undead Unluck (Dub) - Episode 014",
                         "date_upload": 1710288000000,
-                        "episode_number": 0.0
+                        "episode_number": 14.0
+                    },
+                    {
+                        "url": "/Anime/Undead-Unluck-Dub/Episode-013?id=189348",
+                        "name": "Undead Unluck (Dub) - Episode 013",
+                        "date_upload": 1710115200000,
+                        "episode_number": 13.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
