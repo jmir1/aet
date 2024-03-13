@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/hostile-territory/",
+                                "title": "Hostile Territory",
+                                "description": "En los Estados Unidos posteriores a la guerra civil, cuando se presume que un soldado de la Unión e...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/vZg9ihXHGrA19wkJpjm7hljU.webp"
+                            },
+                            {
                                 "url": "/pelicula/kung-fu-panda-4/",
                                 "title": "Kung Fu Panda 4",
                                 "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero D...",
@@ -239,12 +245,6 @@
                                 "title": "Chicas malas",
                                 "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de ...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Okgoszv0nqw6dEygrus8AH.webp"
-                            },
-                            {
-                                "url": "/pelicula/desconocidos/",
-                                "title": "Desconocidos",
-                                "description": "Adam es un guionista que, tras un encuentro casual con su misterioso vecino, regresa a la casa de su...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/n2cB0ui2k4teuDvUXjSsPU5DynGxHSbVLdm.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/kung-fu-panda-4/",
-                    "title": "Kung Fu Panda 4",
-                    "description": "Po se prepara para ser el líder espiritual del Valle de la Paz, buscando un sucesor como Guerrero Dragón. Mientras entrena a un nuevo practicante de kung fu, enfrenta al villano llamado \"el Camaleón\", que evoca villanos del pasado, desafiando todo lo que Po y sus amigos han aprendido.",
-                    "genre": "Acción, Animación, Aventura, Comedia",
+                    "url": "/pelicula/hostile-territory/",
+                    "title": "Hostile Territory",
+                    "description": "En los Estados Unidos posteriores a la guerra civil, cuando se presume que un soldado de la Unión está muerto, sus hijos son enviados por error en el tren de los huérfanos.",
+                    "genre": "Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/kung-fu-panda-4/",
+                        "url": "/pelicula/hostile-territory/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar bgDiZUf = \"\"; RmRdkcVu.forEach(function Oym(value) { bgDiZUf += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar QeYxeeH = \"\"; cuavCBVRpi.forEach(function Oym(value) { QeYxeeH += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
