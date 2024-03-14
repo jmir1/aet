@@ -7,14 +7,19 @@
                     {
                         "animes": [
                             {
-                                "url": "/movies/jonah",
-                                "title": "Jonah",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nhaJGTfYNaof7uxSsUEyeH01NKB.jpg"
+                                "url": "/movies/un-ladron-romantico",
+                                "title": "Un ladrón romántico",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/hjYb3zdvuedWmTH4tSD9UU3VjkZ.jpg"
                             },
                             {
                                 "url": "/movies/the-woods-are-real",
                                 "title": "The Woods Are Real",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/vPPBv9XMpVGQ0afUeTIPplWIFzR.jpg"
+                            },
+                            {
+                                "url": "/movies/jonah",
+                                "title": "Jonah",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/nhaJGTfYNaof7uxSsUEyeH01NKB.jpg"
                             },
                             {
                                 "url": "/movies/damsel-763215",
@@ -125,11 +130,6 @@
                                 "url": "/movies/ricky-stanicky-el-impostor",
                                 "title": "Ricky Stanicky: El Impostor",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg"
-                            },
-                            {
-                                "url": "/movies/giannis-the-marvelous-journey",
-                                "title": "Giannis: The Marvelous Journey",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/heOqng8QyxEFOuHdF6p4HGw70Zn.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -212,14 +212,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg"
                             },
                             {
-                                "url": "/series/w-dos-mundos",
-                                "title": "W Dos Mundos",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
-                            },
-                            {
                                 "url": "/series/jurassic-world-campamento-cretacico",
                                 "title": "Jurassic World: Campamento Cretácico",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
+                            },
+                            {
+                                "url": "/series/w-dos-mundos",
+                                "title": "W Dos Mundos",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kNVzS04zUVs5BNSiRcMwjFJh2Fl.jpg"
                             },
                             {
                                 "url": "/movies/007-el-mundo-no-basta",
@@ -252,14 +252,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg"
                             },
                             {
-                                "url": "/series/carol-y-el-fin-del-mundo",
-                                "title": "Carol y el fin del mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
-                            },
-                            {
                                 "url": "/movies/la-guerra-de-los-mundos-destruccion-total",
                                 "title": "La Guerra de los mundos: Destrucción total",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
+                            },
+                            {
+                                "url": "/series/carol-y-el-fin-del-mundo",
+                                "title": "Carol y el fin del mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
                             }
                         ],
                         "hasNextPage": false
@@ -269,14 +269,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/jonah",
-                    "title": "Jonah",
-                    "artist": "Osric Chau",
-                    "description": "After an alleged alien abduction of Margot's son Jonah, Ozzie and Darren, journalists investigating supernatural cases, are determined to expose the truth. During their investigation, Ozzie grapples with his own haunting memories, leading to intense skepticism about Margot's story.",
-                    "genre": "Ciencia ficción, Suspenso, Drama, Misterio",
+                    "url": "/movies/un-ladron-romantico",
+                    "title": "Un ladrón romántico",
+                    "artist": "Birkan Sokullu",
+                    "description": "Después de descubrir que el ladrón que ha estado persiguiendo es en realidad su exnovio, una oficial que trabaja para la Interpol elabora un plan para atraparlo in fraganti.",
+                    "genre": "Romance",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/nhaJGTfYNaof7uxSsUEyeH01NKB.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/hjYb3zdvuedWmTH4tSD9UU3VjkZ.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -284,7 +284,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/jonah",
+                        "url": "/movies/un-ladron-romantico",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -294,42 +294,75 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://gyl0iwlfc0.sw-cdnstreamwish.com/hls2/01/03308/yi5de0y43z0g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=33NEsRlygVFUmiiboOyQ5Jc-2kUOlhFfGKp8rI3Jbj4&s=1710418393&e=129600&f=16544030&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/10779/brkuk5xgtnbb_,o,.urlset/index-v1-a1.m3u8?t=HxPVqzKAUSwmN9oqNIs46xhPFnYDyOU1Qy9MMMMKUbo&s=1710439746&e=14400&f=53898860&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 1080p",
+                        "videoUrl": "https://delivery-node-gdqovpr0mro33qwk.voe-network.net/engine/hls2/01/10779/brkuk5xgtnbb_,o,.urlset/index-v1-a1.m3u8?t=HxPVqzKAUSwmN9oqNIs46xhPFnYDyOU1Qy9MMMMKUbo&s=1710439746&e=14400&f=53898860&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://delivery-node-413ogkcpdgenkxt7.voe-network.net/engine/hls2-c/01/10779/icrtd8mhtrl4_,o,.urlset/index-v1-a1.m3u8?t=3qPsW-BeF8ja7f4b5JxMB-72FknFnGhume0XYWC5UoY&s=1710439740&e=14400&f=53898892&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "quality": "Voe: 1080p",
+                        "videoUrl": "https://delivery-node-413ogkcpdgenkxt7.voe-network.net/engine/hls2-c/01/10779/icrtd8mhtrl4_,o,.urlset/index-v1-a1.m3u8?t=3qPsW-BeF8ja7f4b5JxMB-72FknFnGhume0XYWC5UoY&s=1710439740&e=14400&f=53898892&node=delivery-node-0f49rzor22huapc5.voe-network.net&i=172.183&sp=2500&asn=8075",
+                        "headers": {
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/ckun23nkqp9d_,n,x,o,.urlset/index-f3-v1-a1.m3u8?t=QkNJ-Bl0GMO4qVAr2Fl83Ttdr3Z037WCbwrxDq73nN8&s=1710439743&e=129600&f=16583264&srv=c1lub66nnboy&i=0.4&sp=500&p1=c1lub66nnboy&p2=c1lub66nnboy&asn=8075",
                         "quality": " StreamWish:1080p",
-                        "videoUrl": "https://gyl0iwlfc0.sw-cdnstreamwish.com/hls2/01/03308/yi5de0y43z0g_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=33NEsRlygVFUmiiboOyQ5Jc-2kUOlhFfGKp8rI3Jbj4&s=1710418393&e=129600&f=16544030&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/ckun23nkqp9d_,n,x,o,.urlset/index-f3-v1-a1.m3u8?t=QkNJ-Bl0GMO4qVAr2Fl83Ttdr3Z037WCbwrxDq73nN8&s=1710439743&e=129600&f=16583264&srv=c1lub66nnboy&i=0.4&sp=500&p1=c1lub66nnboy&p2=c1lub66nnboy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/yi5de0y43z0g"
+                            "Referer": "https://streamwish.to/e/ckun23nkqp9d"
                         }
                     },
                     {
-                        "url": "https://gyl0iwlfc0.sw-cdnstreamwish.com/hls2/01/03308/yi5de0y43z0g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=33NEsRlygVFUmiiboOyQ5Jc-2kUOlhFfGKp8rI3Jbj4&s=1710418393&e=129600&f=16544030&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
-                        "quality": " StreamWish:720p",
-                        "videoUrl": "https://gyl0iwlfc0.sw-cdnstreamwish.com/hls2/01/03308/yi5de0y43z0g_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=33NEsRlygVFUmiiboOyQ5Jc-2kUOlhFfGKp8rI3Jbj4&s=1710418393&e=129600&f=16544030&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/ckun23nkqp9d_,n,x,o,.urlset/index-f2-v1-a1.m3u8?t=QkNJ-Bl0GMO4qVAr2Fl83Ttdr3Z037WCbwrxDq73nN8&s=1710439743&e=129600&f=16583264&srv=c1lub66nnboy&i=0.4&sp=500&p1=c1lub66nnboy&p2=c1lub66nnboy&asn=8075",
+                        "quality": " StreamWish:1080p",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/ckun23nkqp9d_,n,x,o,.urlset/index-f2-v1-a1.m3u8?t=QkNJ-Bl0GMO4qVAr2Fl83Ttdr3Z037WCbwrxDq73nN8&s=1710439743&e=129600&f=16583264&srv=c1lub66nnboy&i=0.4&sp=500&p1=c1lub66nnboy&p2=c1lub66nnboy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/yi5de0y43z0g"
+                            "Referer": "https://streamwish.to/e/ckun23nkqp9d"
                         }
                     },
                     {
-                        "url": "https://gyl0iwlfc0.sw-cdnstreamwish.com/hls2/01/03308/yi5de0y43z0g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=33NEsRlygVFUmiiboOyQ5Jc-2kUOlhFfGKp8rI3Jbj4&s=1710418393&e=129600&f=16544030&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/47mg07f5qdgb_,x,o,.urlset/index-f2-v1-a1.m3u8?t=ftMP46_ohe0dAGI6JAyIkaxFqjJh5rvP6_uxZ3p8_Oo&s=1710439737&e=129600&f=16583271&srv=rv5gk3avovxiu&i=0.4&sp=500&p1=rv5gk3avovxiu&p2=rv5gk3avovxiu&asn=8075",
+                        "quality": " StreamWish:1080p",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/47mg07f5qdgb_,x,o,.urlset/index-f2-v1-a1.m3u8?t=ftMP46_ohe0dAGI6JAyIkaxFqjJh5rvP6_uxZ3p8_Oo&s=1710439737&e=129600&f=16583271&srv=rv5gk3avovxiu&i=0.4&sp=500&p1=rv5gk3avovxiu&p2=rv5gk3avovxiu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/47mg07f5qdgb"
+                        }
+                    },
+                    {
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/47mg07f5qdgb_,x,o,.urlset/index-f1-v1-a1.m3u8?t=ftMP46_ohe0dAGI6JAyIkaxFqjJh5rvP6_uxZ3p8_Oo&s=1710439737&e=129600&f=16583271&srv=rv5gk3avovxiu&i=0.4&sp=500&p1=rv5gk3avovxiu&p2=rv5gk3avovxiu&asn=8075",
+                        "quality": " StreamWish:1080p",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/47mg07f5qdgb_,x,o,.urlset/index-f1-v1-a1.m3u8?t=ftMP46_ohe0dAGI6JAyIkaxFqjJh5rvP6_uxZ3p8_Oo&s=1710439737&e=129600&f=16583271&srv=rv5gk3avovxiu&i=0.4&sp=500&p1=rv5gk3avovxiu&p2=rv5gk3avovxiu&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/47mg07f5qdgb"
+                        }
+                    },
+                    {
+                        "url": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/ckun23nkqp9d_,n,x,o,.urlset/index-f1-v1-a1.m3u8?t=QkNJ-Bl0GMO4qVAr2Fl83Ttdr3Z037WCbwrxDq73nN8&s=1710439743&e=129600&f=16583264&srv=c1lub66nnboy&i=0.4&sp=500&p1=c1lub66nnboy&p2=c1lub66nnboy&asn=8075",
                         "quality": " StreamWish:480p",
-                        "videoUrl": "https://gyl0iwlfc0.sw-cdnstreamwish.com/hls2/01/03308/yi5de0y43z0g_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=33NEsRlygVFUmiiboOyQ5Jc-2kUOlhFfGKp8rI3Jbj4&s=1710418393&e=129600&f=16544030&srv=fwu7y5aucmvpqd3m&i=0.4&sp=500&p1=fwu7y5aucmvpqd3m&p2=fwu7y5aucmvpqd3m&asn=8075",
+                        "videoUrl": "https://n43sbuy6pztg.sw-cdnstreamwish.com/hls2/01/03316/ckun23nkqp9d_,n,x,o,.urlset/index-f1-v1-a1.m3u8?t=QkNJ-Bl0GMO4qVAr2Fl83Ttdr3Z037WCbwrxDq73nN8&s=1710439743&e=129600&f=16583264&srv=c1lub66nnboy&i=0.4&sp=500&p1=c1lub66nnboy&p2=c1lub66nnboy&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/yi5de0y43z0g"
+                            "Referer": "https://streamwish.to/e/ckun23nkqp9d"
                         }
-                    },
-                    {
-                        "url": "https://streamtape.com/get_video?id=xvxgy1GXZzfk3XB&expires=1710488397&ip=FROsFxWnDS9X&token=bIJQMREGYmtp",
-                        "quality": " StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=xvxgy1GXZzfk3XB&expires=1710488397&ip=FROsFxWnDS9X&token=bIJQMREGYmtp"
                     }
                 ],
                 "passed": true
