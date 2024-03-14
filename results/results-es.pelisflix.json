@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/cat-person/",
+                                "title": "Cat Person",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/WjtrbJHMIyWdP6QinEOrRPGujJIIpOxcXRtZq1CY.webp"
+                            },
+                            {
+                                "url": "/pelicula/slotherhouse/",
+                                "title": "Slotherhouse",
+                                "description": "Emily Young, hermana de la hermandad, quiere tener un año fantástico y se da cuenta de que podría...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/olC3ztrRBdkkyIx76MLl.webp"
+                            },
+                            {
                                 "url": "/pelicula/hostile-territory/",
                                 "title": "Hostile Territory",
                                 "description": "En los Estados Unidos posteriores a la guerra civil, cuando se presume que un soldado de la Unión e...",
@@ -233,18 +245,6 @@
                                 "title": "Los desfiles",
                                 "description": "Una mujer no ceja en la búsqueda de su hijo tras una devastadora catástrofe, hasta que se da cuent...",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/rruN11Amps6TcIscFKsHAkjGdqxopp.webp"
-                            },
-                            {
-                                "url": "/pelicula/memory/",
-                                "title": "Memory",
-                                "description": "Sylvia es una trabajadora social que lleva una vida sencilla y estructurada: su hija, su trabajo, su...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/6anoG7270WntkSRSFHK0XVq.webp"
-                            },
-                            {
-                                "url": "/pelicula/chicas-malas/",
-                                "title": "Chicas malas",
-                                "description": "La nueva estudiante Cady Heron es bienvenida a la cima de la cadena social por el elitista grupo de ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Okgoszv0nqw6dEygrus8AH.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/hostile-territory/",
-                    "title": "Hostile Territory",
-                    "description": "En los Estados Unidos posteriores a la guerra civil, cuando se presume que un soldado de la Unión está muerto, sus hijos son enviados por error en el tren de los huérfanos.",
-                    "genre": "Drama",
+                    "url": "/pelicula/cat-person/",
+                    "title": "Cat Person",
+                    "description": "",
+                    "genre": "Comedia, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/hostile-territory/",
+                        "url": "/pelicula/cat-person/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar cvJEUEJ = \"\"; DabpPBWg.forEach(function Oym(value) { cvJEUEJ += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar SJqrZekV = \"\"; PvBPArP.forEach(function Oym(value) { SJqrZekV += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
