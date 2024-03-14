@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/young-royals",
+                                "title": "Young Royals",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19396.webp"
+                            },
+                            {
                                 "url": "/serie/online/young-sheldon",
                                 "title": "Jovem Sheldon",
                                 "status": 1,
@@ -339,12 +345,6 @@
                                 "title": "Halo",
                                 "status": 2,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19609.webp"
-                            },
-                            {
-                                "url": "/serie/online/constelacao",
-                                "title": "Constelação",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22634.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             }
         }
