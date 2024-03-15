@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/almost-christmas-zoyu/",
+                                "title": "Almost Christmas",
+                                "description": "Una familia se dispone a pasar su primera festividad juntos tras la muerte de la madre. Walter, el v...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EaSXw1uWOh3riTE1DJAc.webp"
+                            },
+                            {
+                                "url": "/pelicula/un-ladron-romantico/",
+                                "title": "Un ladrón romántico",
+                                "description": "Tras descubrir que el ladrón de arte al que intenta atrapar es su examante, una agente de la Interp...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ShW1xn48Rtmz2n5ggUochxeJbTCF43nNbaEy.webp"
+                            },
+                            {
                                 "url": "/pelicula/cat-person/",
                                 "title": "Cat Person",
                                 "description": "",
@@ -233,18 +245,6 @@
                                 "title": "Sympathy for the Devil",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/F3a7QHvMAhUbIQnjImT1cPtj1Ak.webp"
-                            },
-                            {
-                                "url": "/pelicula/kids-are-growing-up-a-story-about-a-kid-named-laroi/",
-                                "title": "Kids Are Growing Up: A Story About a Kid Named Laroi",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/B4CF6LbbLEE7dqsR2kz5veMz5wjMYhpqcS.webp"
-                            },
-                            {
-                                "url": "/pelicula/los-desfiles/",
-                                "title": "Los desfiles",
-                                "description": "Una mujer no ceja en la búsqueda de su hijo tras una devastadora catástrofe, hasta que se da cuent...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/rruN11Amps6TcIscFKsHAkjGdqxopp.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/cat-person/",
-                    "title": "Cat Person",
-                    "description": "",
-                    "genre": "Comedia, Suspense",
+                    "url": "/pelicula/almost-christmas-zoyu/",
+                    "title": "Almost Christmas",
+                    "description": "Una familia se dispone a pasar su primera festividad juntos tras la muerte de la madre. Walter, el viudo, descubrirá que el auténtico milagro de las fiestas es que sus dos hijas y sus dos hijos puedan estar cinco días bajo el mismo techo.",
+                    "genre": "Comedia, Drama",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/cat-person/",
+                        "url": "/pelicula/almost-christmas-zoyu/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar ziHefyaO = \"\"; qmrIKcJvwE.forEach(function Oym(value) { ziHefyaO += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar bWXzRAUKH = \"\"; LLmhUwRMl.forEach(function Oym(value) { bWXzRAUKH += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
