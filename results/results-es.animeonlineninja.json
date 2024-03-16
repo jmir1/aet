@@ -167,6 +167,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/episodio/25-sai-no-joshikousei-cap-1/",
+                                "title": "25-sai no Joshikousei Cap 1",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2020/06/25sai-no-jyoshikousei-5-300x170.jpg"
+                            },
+                            {
                                 "url": "/episodio/world-trigger-3rd-season-cap-2/",
                                 "title": "World Trigger 3rd Season Cap 2",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2021/10/xwfMLsaXZs8ypqc7YTbUSMMciPq-300x170.jpg"
@@ -197,14 +202,14 @@
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/03/eQAepkmfRiZD4zF4dJGY7r55WyU-300x170.jpg"
                             },
                             {
-                                "url": "/episodio/chiyu-mahou-no-machigatta-tsukaikata-cap-11/",
-                                "title": "Chiyu Mahou no Machigatta Tsukaikata Cap 11",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/03/dVJJQKGBAnpBCsxJu381lZSDWTo-300x170.jpg"
-                            },
-                            {
                                 "url": "/episodio/chiyu-mahou-no-machigatta-tsukaikata-cap-8/",
                                 "title": "Chiyu Mahou no Machigatta Tsukaikata Cap 8",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/02/pA1mNpDftbQMB5QXDE3r00Kd9EL-300x170.jpg"
+                            },
+                            {
+                                "url": "/episodio/chiyu-mahou-no-machigatta-tsukaikata-cap-11/",
+                                "title": "Chiyu Mahou no Machigatta Tsukaikata Cap 11",
+                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/03/dVJJQKGBAnpBCsxJu381lZSDWTo-300x170.jpg"
                             },
                             {
                                 "url": "/episodio/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-cap-10/",
@@ -310,11 +315,6 @@
                                 "url": "/episodio/yuuki-bakuhatsu-bang-bravern-cap-10/",
                                 "title": "Yuuki Bakuhatsu Bang Bravern Cap 10",
                                 "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/03/blUfcrwMd0HC3OWRE4WIUYNQVSb-300x170.jpg"
-                            },
-                            {
-                                "url": "/episodio/dungeon-meshi-cap-11/",
-                                "title": "Dungeon Meshi Cap 11",
-                                "thumbnail_url": "https://ww3.animeonline.ninja/wp-content/uploads/2024/03/7tob2vAcaV4YDnNdZzd825nc8Pg-300x170.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -504,7 +504,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: Connect timed out",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
