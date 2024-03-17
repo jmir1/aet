@@ -7,6 +7,36 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/मर्डर-मुबारक/",
+                                "title": "मर्डर मुबारक",
+                                "description": "Cuando asesinan a un monitor de gimnasio en un exclusivo club de Nueva Delhi, un astuto investigador...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/ZdcjJI7dNXrqXFMFZ7DpPI6kYQWCwKslOuuo3rrGf.webp"
+                            },
+                            {
+                                "url": "/pelicula/dance-first/",
+                                "title": "Dance First",
+                                "description": "El genio literario Samuel Beckett vivió una vida con muchas facetas: bon vivant parisino, luchador ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/3kXPCfQuu2SXwbOjbKWaCHjHb9SsuIanTY2m.webp"
+                            },
+                            {
+                                "url": "/pelicula/la-imagen-permanente/",
+                                "title": "La imagen permanente",
+                                "description": "En un pueblo del sur, Antonia, una madre adolescente, desaparece en medio de la noche. Cincuenta an�...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/H3ywKrhxOljcXpUdTWwbXZyyyOmykCmSvLe62ltH.webp"
+                            },
+                            {
+                                "url": "/pelicula/scrapper/",
+                                "title": "Scrapper",
+                                "description": "Georgie, una niña soñadora de 12 años, vive sola y feliz en su piso de Londres, llenándolo de ma...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/QFmLS9SPy4kUwa41n9KgFLZ6oVBsK4lqAx2iwKYUF9.webp"
+                            },
+                            {
+                                "url": "/pelicula/57-seconds/",
+                                "title": "57 Seconds",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/4KmzUinmawystLoqIKK4KmbAOA3zm.webp"
+                            },
+                            {
                                 "url": "/pelicula/imaginary/",
                                 "title": "Imaginary",
                                 "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), s...",
@@ -215,36 +245,6 @@
                                 "title": "GREAT PRETENDER razbliuto",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/0kOTvQ98WoQFMizSN6L945eGMR39faH6.webp"
-                            },
-                            {
-                                "url": "/pelicula/argylle-agente-secreto/",
-                                "title": "Argylle: Agente secreto",
-                                "description": "Cuando las tramas de sus libros empiezan a parecerse demasiado a las actividades de un siniestro sin...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/C3L1oUO3qI98i44pzYnQSThG6D8U3jywc9.webp"
-                            },
-                            {
-                                "url": "/pelicula/dune-parte-dos/",
-                                "title": "Dune: Parte dos",
-                                "description": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de vengan...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/JSa4mVWA9YLJrPciCQJN.webp"
-                            },
-                            {
-                                "url": "/pelicula/bajo-la-rambla/",
-                                "title": "Bajo la Rambla",
-                                "description": "La comedia musical sigue a los cangrejos ermitaños que viven bajo el paseo marítimo de la costa de...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/499YIgreqEnbAmHCHVJXrHrNGfU.webp"
-                            },
-                            {
-                                "url": "/pelicula/beekeeper-sentencia-de-muerte-zfkh/",
-                                "title": "Beekeeper: Sentencia de muerte",
-                                "description": "La brutal campaña de venganza de Adam Clay (Jason Statham) adquiere tintes nacionales tras revelars...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/kJ9t8U0tlWrgllvQoU.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-puerta-magica-zdrk/",
-                                "title": "La Puerta Mágica",
-                                "description": "Paul Carpenter (Patrick Gibson) es un simpático becario en una misteriosa empresa londinense con re...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/7iu3f7Olv9FdxtGV9eCKU7atsLEwB.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -515,27 +515,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/imaginary/",
-                    "title": "Imaginary",
-                    "description": "Cuando Jessica (DeWanda Wise) vuelve con su familia a la casa de su infancia, Alice (Pyper Braun), su hijastra más pequeña, comienza a desarrollar un extraño apego hacia Chauncey, el oso de peluche que encuentra en el sótano. En un primer momento, Alice y Chauncey se entretienen con juegos aparentemente divertidos que, poco a poco, irán volviéndose más siniestros y peligrosos. A medida que el comportamiento de Alice se va volviendo más inquietante, Jessica decide intervenir, pero cuando lo hace se da cuenta de que Chauncey es mucho más que un inofensivo oso de peluche.",
-                    "genre": "Suspense, Terror",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/imaginary/",
-                        "name": "Pelicula",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
+                "passed": false
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar tAgQKkZDaN = \"\"; MxebNMpytz.forEach(function Oym(value) { tAgQKkZDaN += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
