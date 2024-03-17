@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "/watch/bakuage-sentai-boonboomger.html",
+                                "title": "Bakuage Sentai Boonboomger",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-gotchard.html",
+                                "title": "Kamen Rider Gotchard",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
+                            },
+                            {
                                 "url": "/watch/gigantis-the-fire-monster.html",
                                 "title": "Gigantis, The Fire Monster",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/gigantis-the-fire-monster-thumb.png"
@@ -35,16 +45,6 @@
                                 "url": "/watch/garo-heir-to-steel-armor.html",
                                 "title": "GARO: Heir to Steel Armor",
                                 "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/garo-heir-to-steel-armor-thumb.png"
-                            },
-                            {
-                                "url": "/watch/bakuage-sentai-boonboomger.html",
-                                "title": "Bakuage Sentai Boonboomger",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png"
-                            },
-                            {
-                                "url": "/watch/kamen-rider-gotchard.html",
-                                "title": "Kamen Rider Gotchard",
-                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-gotchard-thumb.png"
                             },
                             {
                                 "url": "/watch/power-rangers-dino-force-brave.html",
@@ -144,12 +144,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/watch/gigantis-the-fire-monster.html",
-                    "title": "Gigantis, The Fire Monster",
-                    "author": "Year 1955",
-                    "description": "Godzilla Raids Again is a 1955 tokusatsu kaiju film produced by Toho Company Ltd., serving as the second installment in the Godzilla franchise, as well as the Showa series.",
-                    "genre": "Godzilla, Movie",
-                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/gigantis-the-fire-monster-thumb.png",
+                    "url": "/watch/bakuage-sentai-boonboomger.html",
+                    "title": "Bakuage Sentai Boonboomger",
+                    "author": "Year 2024",
+                    "description": "Bakuage Sentai Boonboomger is an upcoming Japanese Tokusatsu-drama and the 48th installment in Toei Company’s Super Sentai Series.",
+                    "genre": "Series, Super Sentai",
+                    "status": 1,
+                    "status_name": "ONGOING",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/bakuage-sentai-boonboomger-thumb.png",
                     "initialized": true
                 },
                 "passed": true
@@ -157,15 +159,20 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/watch/gigantis-the-fire-monster.html",
-                        "name": "Movie",
-                        "episode_number": 1.0
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=4#watch",
+                        "name": "Episode 4",
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/watch/bakuage-sentai-boonboomger.html?ep=3#watch",
+                        "name": "Episode 3",
+                        "episode_number": 3.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }
