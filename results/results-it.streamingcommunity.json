@@ -7,6 +7,16 @@
                     {
                         "animes": [
                             {
+                                "url": "8080-mano-de-hierro",
+                                "title": "Mano de hierro",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/80588a21-59e6-4b1f-ab1d-b5a57c0b4b64.webp"
+                            },
+                            {
+                                "url": "8079-irish-wish-solo-un-desiderio",
+                                "title": "Irish Wish - Solo un desiderio",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/a12a7a79-7b40-472f-bbde-843c6cbaca9b.webp"
+                            },
+                            {
                                 "url": "8057-art-of-love",
                                 "title": "Art of Love",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/c5f16809-568b-4c30-ab57-6b59d7e82c57.webp"
@@ -295,16 +305,6 @@
                                 "url": "7635-nascar-a-tutta-velocita",
                                 "title": "NASCAR: a tutta velocità",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/1b1d8953-4ba1-428c-b049-91e879533b8c.webp"
-                            },
-                            {
-                                "url": "7873-sexy-beast",
-                                "title": "Sexy Beast",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/4f69f15b-d486-4a01-81e1-3f46359c1fab.webp"
-                            },
-                            {
-                                "url": "7747-land-of-bad",
-                                "title": "Land of Bad",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/e2be27fc-5743-411f-822e-c6b73ccae59c.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8057-art-of-love",
-                    "description": "Dopo aver appreso che il ladro d'arte a cui sta dando la caccia è il suo ex fidanzato, un'agente dell'Interpol escogita un piano per catturarlo con le mani nel sacco.",
-                    "genre": "Romance",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "8080-mano-de-hierro",
+                    "description": "Joaquín Manchado governa con il pugno di ferro il suo impero della droga dal porto di Barcellona, fino a quando un nuovo carico manda in tilt gli affari e la famiglia.",
+                    "genre": "Dramma, Crime",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8057",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "8080?e=57731",
+                        "name": "Stagione 1 episodio 8 - Una questione di sangue",
+                        "episode_number": 8.0
+                    },
+                    {
+                        "url": "8080?e=57730",
+                        "name": "Stagione 1 episodio 7 - Il bivio",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
