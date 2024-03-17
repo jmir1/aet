@@ -288,16 +288,56 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
+                "error": "java.lang.NullPointerException",
                 "passed": false
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 500",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/hentai/ane-wa-yanmama-junyuu-chuu-1",
+                        "name": "Episode 1",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/720/manifest.mpd",
+                        "quality": "720p",
+                        "videoUrl": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/720/manifest.mpd",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/eng.ass",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/2160/manifest.mpd",
+                        "quality": "2160p",
+                        "videoUrl": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/2160/manifest.mpd",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/eng.ass",
+                                "lang": "English"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/1080/manifest.mpd",
+                        "quality": "1080p",
+                        "videoUrl": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/1080/manifest.mpd",
+                        "subtitleTracks": [
+                            {
+                                "url": "https://chie-str.imoto-h.xyz/2022/Ane.wa.Yanmama.Junyuuchuu/E01/eng.ass",
+                                "lang": "English"
+                            }
+                        ]
+                    }
+                ],
+                "passed": true
             }
         }
     }
