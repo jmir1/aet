@@ -7,6 +7,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/migration-patos/",
+                                "title": "Migration (¡Patos!)",
+                                "description": "Una familia de patos intenta convencer a su sobreprotector padre para que se vayan a las vacaciones ...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/uf9QCWoJ8BMOrnCyKHudSTxZIgv2VSIgXHW.webp"
+                            },
+                            {
+                                "url": "/pelicula/amor-al-limite/",
+                                "title": "Amor al límite",
+                                "description": "Isabella, actriz urbana, logra un papel soñado como ganadera y es enviada a un rancho para aprender...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/qmvL8xcBaNCq0hxXvTag17hB8SuvYSbe5xQ.webp"
+                            },
+                            {
+                                "url": "/pelicula/pinball-the-man-who-saved-the-game/",
+                                "title": "Pinball: The Man Who Saved the Game",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/7ROUQlcftV29zjwyNSwchwT9oKT0u.webp"
+                            },
+                            {
+                                "url": "/pelicula/rendel/",
+                                "title": "Rendel",
+                                "description": "Un hombre se convierte en un enmascarado vigilante en busca de venganza contra la organización crim...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/LM3CtKlVF6P7ufR8KqzW.webp"
+                            },
+                            {
+                                "url": "/pelicula/24-jam-bersama-gaspar/",
+                                "title": "24 Jam Bersama Gaspar",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/1rnLgPrNPwdKFwuASKEJ7l8uMO.webp"
+                            },
+                            {
+                                "url": "/pelicula/chien-et-chat/",
+                                "title": "Chien et Chat",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Ptks1GDTrHo2Rw7dHkkija.webp"
+                            },
+                            {
                                 "url": "/pelicula/मर्डर-मुबारक/",
                                 "title": "मर्डर मुबारक",
                                 "description": "Cuando asesinan a un monitor de gimnasio en un exclusivo club de Nueva Delhi, un astuto investigador...",
@@ -209,42 +245,6 @@
                                 "title": "The Thundermans Return",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/aSV90Lauot5ScaUsZj8FH07xV8iEGtkGb6G2.webp"
-                            },
-                            {
-                                "url": "/pelicula/venganza-en-las-vegas/",
-                                "title": "Venganza en Las Vegas",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Usxwf1FbMudnrfyyGWnTK8ml.webp"
-                            },
-                            {
-                                "url": "/pelicula/ricky-stanicky/",
-                                "title": "Ricky Stanicky",
-                                "description": "Tres amigos de la infancia se inventan a un amigo imaginario para salirse con la suya siempre que lo...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/QbuKO0LFbgfzbO8PUdSxYd9kqOw1AHAg.webp"
-                            },
-                            {
-                                "url": "/pelicula/forever-young/",
-                                "title": "Forever Young",
-                                "description": "Alex, un cantante cuya carrera lucha por despegar, acepta un extraño trabajo: hacer que un coro de ...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/DB6ANG14wCvpPPj0R90sCuKU2KYqEcc8D9yhFpb.webp"
-                            },
-                            {
-                                "url": "/pelicula/lonesome-soldier/",
-                                "title": "Lonesome Soldier",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/gaeJMDWpxmxK6RTHl3rawHy7ecSgw4OD.webp"
-                            },
-                            {
-                                "url": "/pelicula/megamind-contra-el-sindicato-del-mal/",
-                                "title": "Megamind contra el sindicato del mal",
-                                "description": "El antiguo equipo de villanos de Megamind, El sindicato del mal, han regresado. Nuestro héroe cabe...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/18pJL6ZEhfkMFqg.webp"
-                            },
-                            {
-                                "url": "/pelicula/great-pretender-razbliuto/",
-                                "title": "GREAT PRETENDER razbliuto",
-                                "description": "",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/0kOTvQ98WoQFMizSN6L945eGMR39faH6.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -515,15 +515,27 @@
                 "passed": true
             },
             "details": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": {
+                    "url": "/pelicula/migration-patos/",
+                    "title": "Migration (¡Patos!)",
+                    "description": "Una familia de patos intenta convencer a su sobreprotector padre para que se vayan a las vacaciones de su vida.",
+                    "genre": "Animación, Aventura, Comedia, Estrenos",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 404",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/pelicula/migration-patos/",
+                        "name": "Pelicula",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar BSPmQHGz = \"\"; PGbkFZruLx.forEach(function Oym(value) { BSPmQHGz += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
