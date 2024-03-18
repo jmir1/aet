@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8095-nicky-jam-el-ganador",
+                                "title": "Nicky Jam: El Ganador",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/ea29125c-fee3-44ea-8b51-17afa2efe9ca.webp"
+                            },
+                            {
                                 "url": "8092-bojack-horseman-christmas-special-sabrinas-christmas-wish",
                                 "title": "BoJack Horseman Christmas Special: Sabrina's Christmas Wish",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/f734da39-9526-4b32-ac8d-57939f0148f0.webp"
@@ -610,11 +615,6 @@
                                 "url": "8028-principe-azzurro-cercasi",
                                 "title": "Principe azzurro cercasi",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/6a0d1a54-b5e2-4a5c-886d-af10eda0d933.webp"
-                            },
-                            {
-                                "url": "8027-tavolo-19",
-                                "title": "Tavolo 19",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/85ee280d-b9eb-4847-8deb-2479e3766990.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
