@@ -137,10 +137,28 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/19789/una-voz-silenciosa.html",
+                                "url": "/pelicula/19793/vecino-perverso.html",
+                                "title": "Vecino Perverso",
+                                "description": "Una joven se muda a un barrio chismoso que está obsesionado con una aplicación tipo Next Door. Cuando una vecina desaparece repentinamente, el chat grupal la señala como la principal sospechosa. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19793.webp"
+                            },
+                            {
+                                "url": "/pelicula/19792/las-muertes-murdaugh.html",
+                                "title": "Las Muertes Murdaugh",
+                                "description": "Un reportero decidido entrevista al infame Alex Murdaugh y espera respuestas sobre los presuntos asesinatos de su esposa e hijo. ...",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19792.webp"
+                            },
+                            {
+                                "url": "/pelicula/19791/amor-a-sangre-fria.html",
+                                "title": "Amor a sangre fria",
+                                "description": "Dos parejas acaban implicadas en el tráfico de drogas entre las mafias turca e irlandesa. Tras ser perseguidos por un sicario, cada uno tendrá que elegir entre el amor de su vida o el dinero....",
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19791.webp"
+                            },
+                            {
+                                "url": "/pelicula/19790/una-voz-silenciosa.html",
                                 "title": "Una voz silenciosa",
                                 "description": "La historia gira en torno a Shôko Nishimiya, una estudiante de primaria que es sorda y que al cambiarse de colegio comienza a sentir el bullying de sus nuevos compañeros. Uno de los principales responsables es Ishida Shôya quien termina por forzar que Nishimiya se cambie de escuela. Años despué...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19789.webp"
+                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19790.webp"
                             },
                             {
                                 "url": "/pelicula/19788/encuentro-arriesgado.html",
@@ -237,24 +255,6 @@
                                 "title": "Bajo el muelle",
                                 "description": "La comedia musical sigue a los cangrejos ermitaños que viven bajo el paseo marítimo de la costa de Jersey. Cuando Armen (un habitante de la ciudad cangrejo de tierra) se enamora de Ramona (una turista cangrejo de mar), aumentan las tensiones entre sus amigos y familias. Pero cuando una tormenta ar...",
                                 "thumbnail_url": "https://www.locopelis.com/files/uploads/19773.webp"
-                            },
-                            {
-                                "url": "/pelicula/19772/en-busca-del-barco-perdido.html",
-                                "title": "En busca del barco pe",
-                                "description": "Los imaginativos planesde Pertsa y Kilu se vuelven demasiado reales cuando se encuentran tras la pista de un ladrón de bancos y un yate perdido. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19772.webp"
-                            },
-                            {
-                                "url": "/pelicula/19771/el-retorno-de-los-thundermans.html",
-                                "title": "El retorno de los Thu",
-                                "description": "Cuando comienzan una nueva era de lucha contra el crimen pero un salvamento sale mal, los Thundermans son enviados de vuelta a Hiddenville. ...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19771.webp"
-                            },
-                            {
-                                "url": "/pelicula/19770/el-maestro-que-prometio-el-mar.html",
-                                "title": "El maestro que promet",
-                                "description": "Ariadna (Laia Costa) descubre que su abuelo busca desde hace tiempo los restos de su padre, desaparecido en la Guerra Civil. Decidida a ayudarlo, viaja a Burgos, donde están exhumando una fosa común en la que podría estar enterrado. Durante su estancia allí, conocerá la historia de Antoni Benai...",
-                                "thumbnail_url": "https://www.locopelis.com/files/uploads/19770.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -416,8 +416,18 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://dood.ws/e/aq6kuo21b1bo",
+                        "quality": "DoodStream",
+                        "videoUrl": "https://po150kkk.video-delivery.net/u5kjxhsbmhglsdgge6ohynyhd37r6437fehxf47vlblpqwqgjlrnk6tbiv3a/po9y5jg629~j5VgkXq41N?token=faa3a98f24ktc5woxwz3px7v&expiry=1710721881341",
+                        "headers": {
+                            "User-Agent": "Aniyomi",
+                            "Referer": "https://dood.ws/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
