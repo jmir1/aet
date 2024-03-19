@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "8100-basic-instinct",
+                                "title": "Basic Instinct",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/96a19182-4c15-4753-97de-29d46dc2e1a1.webp"
+                            },
+                            {
+                                "url": "8099-il-bambino-la-talpa-la-volpe-e-il-cavallo",
+                                "title": "Il bambino, la talpa, la volpe e il cavallo",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/f9510572-da91-4972-a95f-0bb12ec67c52.webp"
+                            },
+                            {
                                 "url": "8098-snoopy-presenta-benvenuto-franklin",
                                 "title": "Snoopy presenta: benvenuto, Franklin",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/b240102c-5c8c-41a4-b12d-07c0dbdacabd.webp"
@@ -605,16 +615,6 @@
                                 "url": "8033-la-flamme",
                                 "title": "La Flamme",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/43a187fa-3be7-4acf-8959-f233f92ec3cb.webp"
-                            },
-                            {
-                                "url": "8032-come-ammazzare-il-capo-2",
-                                "title": "Come ammazzare il capo 2",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/62fdbfda-34d7-4082-99cd-9b1a67e16f5a.webp"
-                            },
-                            {
-                                "url": "8031-come-ammazzare-il-capo-e-vivere-felici",
-                                "title": "Come ammazzare il capo... e vivere felici",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/723caf81-3ed3-43d2-ac2a-5ec3885746a7.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -959,7 +959,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='Connection timeout\n  name='Error\n  stack='Error: Connection timeout\n    at TLSSocket.<anonymous> (/tmp/playwright-java-17089647611598723096/package/lib/utils/happy-eyeballs.js:115:27)\n    at TLSSocket.emit (node:events:517:28)\n    at Socket._onTimeout (node:net:598:8)\n    at listOnTimeout (node:internal/timers:569:17)\n    at process.processTimers (node:internal/timers:512:7)\n}\nCall log:\n- → GET https://putchumt.com/5/7054340/?oo=1&aab=1\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: */*\n-   accept-encoding: gzip, deflate, br\n-   host: putchumt.com\n-   accept-language: en-US,en;q=0.5\n-   referer: https://vixcloud.co/\n-   origin: https://vixcloud.co\n-   sec-fetch-dest: empty\n-   sec-fetch-mode: cors\n-   sec-fetch-site: cross-site\n-   connection: keep-alive\n",
                 "passed": false
             }
         }
