@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8102-palm-royale",
+                                "title": "Palm Royale",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/96045d25-3eb8-4b70-ab89-1ab8d4a86f20.webp"
+                            },
+                            {
                                 "url": "8101-young-royals-forever",
                                 "title": "Young Royals Forever",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/221edf2c-9c03-4c5e-bf97-d72b3fedfe56.webp"
@@ -300,11 +305,6 @@
                                 "url": "7664-mr-and-mrs-smith",
                                 "title": "Mr. & Mrs. Smith",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/5c7f177e-d0c4-4b31-bf74-ca4aed69369d.webp"
-                            },
-                            {
-                                "url": "7683-argylle-la-super-spia",
-                                "title": "Argylle - La super spia",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/81b8dac1-7afb-460a-86f8-b94f29f77ca9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -934,11 +934,11 @@
             },
             "details": {
                 "result": {
-                    "url": "8101-young-royals-forever",
-                    "description": "Dal casting alla scena finale, questo speciale mostra come il cast e la troupe di \"Young Royals\" hanno dato vita alla commovente storia di Wilhelm e Simon.",
-                    "genre": "Documentario",
-                    "status": 2,
-                    "status_name": "COMPLETED",
+                    "url": "8102-palm-royale",
+                    "description": "Nel 1969, una donna ambiziosa aspira a superare la linea di confine tra abbienti e non abbienti, per assicurarsi un posto alla tavola più esclusiva, alla moda ma allo stesso tempo, anche più infida d'America: l'alta società di Palm Beach.",
+                    "genre": "Commedia",
+                    "status": 1,
+                    "status_name": "ONGOING",
                     "initialized": true
                 },
                 "passed": true
@@ -946,9 +946,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "8101",
-                        "name": "Film",
-                        "episode_number": 1.0
+                        "url": "8102?e=57852",
+                        "name": "Stagione 1 episodio 3 - Maxine è come una Dellacorte",
+                        "episode_number": 3.0
+                    },
+                    {
+                        "url": "8102?e=57850",
+                        "name": "Stagione 1 episodio 2 - Maxine salva un gatto",
+                        "episode_number": 2.0
                     }
                 ],
                 "passed": true
