@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/pipapopipipu",
+                                "title": "pipapo☆pipipu",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11880.png"
+                            },
+                            {
                                 "url": "/anime/sand-land-the-series",
                                 "title": "SAND LAND: THE SERIES",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11879.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/tarzan",
                                 "title": "Tarzan",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11869.png"
-                            },
-                            {
-                                "url": "/anime/diseases-spread",
-                                "title": "Diseases Spread",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11868.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,11 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/pipapopipipu",
+                                "title": "pipapo☆pipipu",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11880.png"
+                            },
                             {
                                 "url": "/anime/ishura",
                                 "title": "Ishura",
@@ -130,11 +135,6 @@
                                 "url": "/anime/dubu-wangu-2nd-season",
                                 "title": "Dubu Wangu 2nd Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
-                            },
-                            {
-                                "url": "/anime/the-foolish-angel-dances-with-the-devil",
-                                "title": "The Foolish Angel Dances with the Devil",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11713.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,39 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/sand-land-the-series",
-                    "title": "SAND LAND: THE SERIES",
-                    "author": "Sunrise, Anima, Kamikaze Douga",
-                    "description": "In the far future, war has destroyed the entire Earth, leaving only a barren wasteland where the supply of water is controlled by the greedy king. In search of a long-lost lake, Sheriff Rao asked the king of the demons for help...and got the king's son, Beelzebub, and his assistant, Thief. Together the unlikely trio sets off across the desert, facing dragons, bandits and the deadliest foe of all... the King's army itself! The first half of the SAND LAND: THE SERIES anime, episodes one to six, are titled “Akuma no Ooji” and is based on the film adaptation with some new footage, it will premiere alongside episode seven, which is the first episode of a brand-new arc titled “Tenshi no Yuusha”.",
-                    "genre": "Action, Adventure, Fantasy, Supernatural, Demons",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11879.png",
+                    "url": "/anime/pipapopipipu",
+                    "title": "pipapo☆pipipu",
+                    "author": "",
+                    "description": "Animated music video directed by Norainu for the song pipapo☆pipipu by BABACORN (Houshou Marine and Shirakami Fubuki).",
+                    "genre": "Music",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11880.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/sand-land-the-series/144760",
-                        "name": "Episode 7"
-                    },
-                    {
-                        "url": "/player/sand-land-the-series/144759",
-                        "name": "Episode 6"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/144760?vrf=rk9wpaYiyMxMad2dYXf4ZA%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=OiMPHFnzSBfmrMibihpWOw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/144760?vrf=rk9wpaYiyMxMad2dYXf4ZA%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=OiMPHFnzSBfmrMibihpWOw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/sand-land-the-series/144760"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],
