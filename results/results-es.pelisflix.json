@@ -7,6 +7,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/pelicula/road-house-de-profesion-duro/",
+                                "title": "Road House. De profesión: duro",
+                                "description": "Dalton es un exluchador de la UFC que acepta un trabajo como portero en un bar de carretera de los C...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/eVAHRKuKcSJ0B2P.webp"
+                            },
+                            {
+                                "url": "/pelicula/con-los-pies-en-la-tierra/",
+                                "title": "Con los pies en la tierra",
+                                "description": "Los cuatro amigos Lukas, Julius, Gino y Sanchez intentan sobrevivir a la vida cotidiana en Neukölln...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/tbsJU2B0y2zZNTms12cWvG2WC9CX31Qn38WN1oDpg3.webp"
+                            },
+                            {
+                                "url": "/pelicula/teresa/",
+                                "title": "Teresa",
+                                "description": "Teresa espera paciente la llegada del Inquisidor para ser juzgada. De su visita y de sus palabras de...",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/5ir35yWKcgnsWLTKlLJIe2kqgVG9nz9iHqcDOZdR5r9R2.webp"
+                            },
+                            {
+                                "url": "/pelicula/contagion-of-fear/",
+                                "title": "Contagion of Fear",
+                                "description": "",
+                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w1"
+                            },
+                            {
                                 "url": "/pelicula/alienoid-parte-1/",
                                 "title": "Alienoid Parte 1",
                                 "description": "‎Los gurús de finales de la dinastía Goryeo intentan obtener una espada legendaria y sagrada, y ...",
@@ -221,30 +245,6 @@
                                 "title": "Air Force One Down",
                                 "description": "",
                                 "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/EVyAvMeGZu6wIrsgENx2RrnoHJge7N8Byx2T96qZrm.webp"
-                            },
-                            {
-                                "url": "/pelicula/bullet-train-down/",
-                                "title": "Bullet Train Down",
-                                "description": "En su carrera inaugural, el tren bala más rápido del mundo está equipado con una bomba que explot...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/PYFPP9VBSWoRjyYdf4tXFEazZ3eUIfKo3f3JePaX.webp"
-                            },
-                            {
-                                "url": "/pelicula/el-vestido-de-compromiso/",
-                                "title": "El vestido de compromiso",
-                                "description": "Cuando Claudia consigue llevar el vestido de dama de honor que ha hecho que todas sus amigas se case...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/Uy5HFMvO1vQxAHF1k1FED1d2QNDzb2pVrltWYPAPa.webp"
-                            },
-                            {
-                                "url": "/pelicula/proyecto-fantasma/",
-                                "title": "Proyecto Fantasma",
-                                "description": "Tres jóvenes programadores se topan con una tecnología abandonada destinada a detectar presencia s...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/2rShSZE2FYHsmxM8haWRkJttFty7FJMx1uF.webp"
-                            },
-                            {
-                                "url": "/pelicula/la-carrera-de-las-chicas-de-appleton/",
-                                "title": "La carrera de las chicas de Appleton",
-                                "description": "Penny vuelve a su hogar para el Appleton Show, destacado por su célebre carrera de papas, solo para...",
-                                "thumbnail_url": "https://tmdbcdn2.online/p/v2/w0/oTWJX16LK57j0S5.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -516,10 +516,10 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/alienoid-parte-1/",
-                    "title": "Alienoid Parte 1",
-                    "description": "‎Los gurús de finales de la dinastía Goryeo intentan obtener una espada legendaria y sagrada, y los humanos en 2022 persiguen a un prisionero alienígena que está encerrado en el cuerpo de un humano. Las dos partes se cruzan cuando se abre un portal de viajes en el tiempo.‎",
-                    "genre": "Acción, Aventura, C. Ficción, Comedia",
+                    "url": "/pelicula/road-house-de-profesion-duro/",
+                    "title": "Road House. De profesión: duro",
+                    "description": "Dalton es un exluchador de la UFC que acepta un trabajo como portero en un bar de carretera de los Cayos de Florida, sólo para descubrir que este paraíso no es todo lo que parece... Remake de la película de 1989 'Road House' sobre un portero de un bar con Patrick Swayze.",
+                    "genre": "Acción, Suspense",
                     "initialized": true
                 },
                 "passed": true
@@ -527,7 +527,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/alienoid-parte-1/",
+                        "url": "/pelicula/road-house-de-profesion-duro/",
                         "name": "Pelicula",
                         "episode_number": 1.0
                     }
@@ -535,7 +535,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar IlZcwhXCBZ = \"\"; DrVQhkA.forEach(function Oym(value) { IlZcwhXCBZ += String.fromCharCode(parseInt(atob(value).replace(",
+                "error": "java.lang.IllegalArgumentException: Unexpected char 0x0a at 0 in authority value: \n\t\tvar DMWQSgLtI = \"\"; qLNDhRn.forEach(function Oym(value) { DMWQSgLtI += String.fromCharCode(parseInt(atob(value).replace(",
                 "passed": false
             }
         }
