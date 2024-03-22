@@ -306,14 +306,8 @@
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://vd350.mycdn.me/?expires=1711153796512&srcIp=20.75.95.202&pr=10&srcAg=GECKO&ms=45.136.22.73&type=4&sig=WUfIPgpyhBs&ct=14&urls=185.226.53.23&clientType=0&zs=43&id=5999931296287",
-                        "quality": "Okru:144p",
-                        "videoUrl": "https://vd350.mycdn.me/?expires=1711153796512&srcIp=20.75.95.202&pr=10&srcAg=GECKO&ms=45.136.22.73&type=4&sig=WUfIPgpyhBs&ct=14&urls=185.226.53.23&clientType=0&zs=43&id=5999931296287"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

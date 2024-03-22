@@ -227,6 +227,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/x-men-97",
+                                "title": "X-Men '97",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
+                            },
+                            {
                                 "url": "/serie/online/the-equalizer",
                                 "title": "Sem Misericórdia",
                                 "status": 1,
@@ -285,12 +291,6 @@
                                 "title": "Constelação",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22634.webp"
-                            },
-                            {
-                                "url": "/serie/online/x-men-97",
-                                "title": "X-Men '97",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
                             },
                             {
                                 "url": "/serie/online/xogum-a-gloriosa-saga-do-japao",
@@ -598,8 +598,49 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=dngvhJWQdnpcz2AoMpmCxQ&e=1711109643&_t=1711091771",
+                        "quality": "MixDrop(LEG)",
+                        "videoUrl": "https://s-delivery49.mxcontent.net/v/0cf8aa2e954633b79f465adb3fc0bccd.mp4?s=dngvhJWQdnpcz2AoMpmCxQ&e=1711109643&_t=1711091771",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        },
+                        "subtitleTracks": [
+                            {
+                                "url": "https://subs.warezcdn.net/131260-PTB.srt",
+                                "lang": "sub"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=Fa9h62OvZgutYIe9w7s37Q&e=1711109645&_t=1711090015",
+                        "quality": "MixDrop(DUB)",
+                        "videoUrl": "https://s-delivery25.mxcontent.net/v/0fe4c6bef2434470d6dcc889dfee6af5.mp4?s=Fa9h62OvZgutYIe9w7s37Q&e=1711109645&_t=1711090015",
+                        "headers": {
+                            "Referer": "https://mixdrop.co/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo56.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "quality": "WarezCDN - LEG",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo56.cloud.mail.ru/weblink/view/czy7/xERWFkQTL",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    },
+                    {
+                        "url": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo58.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "quality": "WarezCDN - DUB",
+                        "videoUrl": "https://workerproxy.warezcdn.workers.dev/?url=https://cloclo58.cloud.mail.ru/weblink/view/zvGh/zzYUQxV3v",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://vizertv.in/"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
