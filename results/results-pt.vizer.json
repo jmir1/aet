@@ -227,6 +227,30 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/the-equalizer",
+                                "title": "Sem Misericórdia",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19218.webp"
+                            },
+                            {
+                                "url": "/serie/online/o-herdeiro-impossivel",
+                                "title": "O Herdeiro Impossível",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22644.webp"
+                            },
+                            {
+                                "url": "/serie/online/palm-royale",
+                                "title": "Palm Royale",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22658.webp"
+                            },
+                            {
+                                "url": "/serie/online/halo",
+                                "title": "Halo",
+                                "status": 2,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19609.webp"
+                            },
+                            {
                                 "url": "/serie/online/9-1-1",
                                 "title": "9-1-1",
                                 "status": 1,
@@ -321,30 +345,6 @@
                                 "title": "The Walking Dead: The Ones Who Live",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22642.webp"
-                            },
-                            {
-                                "url": "/serie/online/as-aventuras-inventadas-de-dick-turpin",
-                                "title": "As Aventuras Inventadas de Dick Turpin",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22646.webp"
-                            },
-                            {
-                                "url": "/serie/online/one-piece",
-                                "title": "One Piece",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19081.webp"
-                            },
-                            {
-                                "url": "/serie/online/bandidos",
-                                "title": "Bandidos",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22651.webp"
-                            },
-                            {
-                                "url": "/serie/online/young-sheldon",
-                                "title": "Jovem Sheldon",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5640.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
