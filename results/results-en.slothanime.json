@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/atashinchi-movie",
+                                "title": "Atashin'chi Movie",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png"
+                            },
+                            {
                                 "url": "/anime/kangetsu-ittou-akuryou-kiri",
                                 "title": "Kangetsu Ittou: Akuryou Kiri",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11882.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/color-cycling",
                                 "title": "Color Cycling",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11872.png"
-                            },
-                            {
-                                "url": "/anime/guitar",
-                                "title": "Guitar",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11871.png"
                             }
                         ],
                         "hasNextPage": true
@@ -76,6 +76,41 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "/anime/snack-basue",
+                                "title": "Snack Basue",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11732.png"
+                            },
+                            {
+                                "url": "/anime/odekake-kozame",
+                                "title": "Odekake Kozame",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11358.png"
+                            },
+                            {
+                                "url": "/anime/xi-xing-ji-kuang-wang",
+                                "title": "Xi Xing Ji: Kuang Wang",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11828.png"
+                            },
+                            {
+                                "url": "/anime/the-demon-prince-of-momochi-house",
+                                "title": "The Demon Prince of Momochi House",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11691.png"
+                            },
+                            {
+                                "url": "/anime/atashinchi-movie",
+                                "title": "Atashin'chi Movie",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png"
+                            },
+                            {
+                                "url": "/anime/the-wrong-way-to-use-healing-magic",
+                                "title": "The Wrong Way to Use Healing Magic",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11684.png"
+                            },
+                            {
+                                "url": "/anime/sasaki-and-peeps",
+                                "title": "Sasaki and Peeps",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11675.png"
+                            },
                             {
                                 "url": "/anime/the-great-ruler",
                                 "title": "The Great Ruler",
@@ -100,41 +135,6 @@
                                 "url": "/anime/the-success-of-empyrean-xuan-emperor-5th-season",
                                 "title": "The Success Of Empyrean Xuan Emperor 5th Season",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11593.png"
-                            },
-                            {
-                                "url": "/anime/ling-jian-zun-4",
-                                "title": "Ling Jian Zun 4",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11115.png"
-                            },
-                            {
-                                "url": "/anime/wu-shang-shen-di-2",
-                                "title": "Wu Shang Shen Di 2",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11193.png"
-                            },
-                            {
-                                "url": "/anime/ninjala",
-                                "title": "Ninjala",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11109.png"
-                            },
-                            {
-                                "url": "/anime/lady-georgie",
-                                "title": "Lady Georgie",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10303.png"
-                            },
-                            {
-                                "url": "/anime/throne-of-seal-2nd-season",
-                                "title": "Throne of Seal 2nd Season",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11073.png"
-                            },
-                            {
-                                "url": "/anime/dubu-xiaoyao",
-                                "title": "Dubu Xiaoyao",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11157.png"
-                            },
-                            {
-                                "url": "/anime/dr-slump-aralechan",
-                                "title": "Dr. Slump: Arale-chan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11032.png"
                             }
                         ],
                         "hasNextPage": true
@@ -244,34 +244,30 @@
             },
             "details": {
                 "result": {
-                    "url": "/anime/kangetsu-ittou-akuryou-kiri",
-                    "title": "Kangetsu Ittou: Akuryou Kiri",
-                    "author": "Magic Bus",
-                    "genre": "Action, Martial Arts",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11882.png",
+                    "url": "/anime/atashinchi-movie",
+                    "title": "Atashin'chi Movie",
+                    "author": "Toei Animation",
+                    "description": "In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.",
+                    "genre": "Comedy, Super Power",
+                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/player/kangetsu-ittou-akuryou-kiri/144784",
-                        "name": "Episode 1"
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/144784?vrf=duXRdHBfR8%2BnzJW8dxIv1w%3D%3D",
+                        "url": "https://slothanime.com/player-url/?vrf=pk5nNAOR8pHaLCbn9xFDQw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/144784?vrf=duXRdHBfR8%2BnzJW8dxIv1w%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/?vrf=pk5nNAOR8pHaLCbn9xFDQw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/kangetsu-ittou-akuryou-kiri/144784"
+                            "Referer": "https://slothanime.com"
                         }
                     }
                 ],

@@ -205,16 +205,16 @@
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/18593.webp"
                             },
                             {
-                                "url": "/serie/online/cobra-kai",
-                                "title": "Cobra Kai",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5491.webp"
-                            },
-                            {
                                 "url": "/serie/online/the-office-seriado",
                                 "title": "Vida de Escritório",
                                 "status": 2,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/4388.webp"
+                            },
+                            {
+                                "url": "/serie/online/cobra-kai",
+                                "title": "Cobra Kai",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/5491.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.NullPointerException",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
