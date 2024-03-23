@@ -317,6 +317,16 @@
                     {
                         "animes": [
                             {
+                                "url": "8114-final-fantasy",
+                                "title": "Final Fantasy",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/da4b2b8f-06a8-4924-8a0c-711ae90bed67.webp"
+                            },
+                            {
+                                "url": "8113-the-man-la-talpa",
+                                "title": "The Man - La talpa",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/baf64bff-df44-45d5-ba34-7bdebf7c0049.webp"
+                            },
+                            {
                                 "url": "8112-little-voice",
                                 "title": "Little Voice",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/3ba86076-b6fe-44aa-b5cb-e8d123e64217.webp"
@@ -605,16 +615,6 @@
                                 "url": "8042-the-dresden-files",
                                 "title": "The Dresden Files",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/3d414b8f-b5ed-4fe2-b303-99763abd1518.webp"
-                            },
-                            {
-                                "url": "8041-mack-and-rita",
-                                "title": "Mack & Rita",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/cdcf06a8-5d30-4517-860c-379b8c091dfb.webp"
-                            },
-                            {
-                                "url": "8040-hightown",
-                                "title": "Hightown",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/12be3359-e789-4866-adb1-182693c9bb0a.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
                 "passed": false
             }
         }
