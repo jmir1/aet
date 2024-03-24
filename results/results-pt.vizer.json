@@ -489,16 +489,16 @@
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19742.webp"
                             },
                             {
-                                "url": "/serie/online/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
-                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19932.webp"
-                            },
-                            {
                                 "url": "/serie/online/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
                                 "title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
                                 "status": 2,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/20354.webp"
+                            },
+                            {
+                                "url": "/serie/online/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19932.webp"
                             },
                             {
                                 "url": "/serie/online/musaigen-no-phantom-world",
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
+                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
                 "passed": false
             }
         }
