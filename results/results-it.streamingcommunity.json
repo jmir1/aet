@@ -192,6 +192,11 @@
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/5929e577-e2c7-4f80-ae2b-057b07d1a6c6.webp"
                             },
                             {
+                                "url": "8116-gloria",
+                                "title": "Gloria",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/0ce5760c-4cbb-4945-a1bd-57b1f3db5352.webp"
+                            },
+                            {
                                 "url": "7774-giannis-il-viaggio-meraviglioso",
                                 "title": "Giannis - Il viaggio meraviglioso",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/a26f5339-377b-4621-9e88-c9d2af0d588e.webp"
@@ -300,11 +305,6 @@
                                 "url": "7682-upgraded",
                                 "title": "Upgraded",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/e4beadb8-6e33-41ae-a5ab-808fdc229ec0.webp"
-                            },
-                            {
-                                "url": "7622-tutti-tranne-te",
-                                "title": "Tutti tranne te",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/d40cc81c-8939-4dc3-830e-4b84b9ba78d9.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -316,6 +316,26 @@
                 "result": [
                     {
                         "animes": [
+                            {
+                                "url": "8118-la-tata",
+                                "title": "La tata",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/25067c0a-be11-48ce-8d42-f7e957b3a9c0.webp"
+                            },
+                            {
+                                "url": "8117-il-danno",
+                                "title": "Il danno",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/300f06ce-996a-4b2f-b147-56dc0e615788.webp"
+                            },
+                            {
+                                "url": "8116-gloria",
+                                "title": "Gloria",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/0ce5760c-4cbb-4945-a1bd-57b1f3db5352.webp"
+                            },
+                            {
+                                "url": "8115-la-collezione-maledetta",
+                                "title": "La collezione maledetta",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/7f0f4ed4-63c8-4865-987c-512d72e99771.webp"
+                            },
                             {
                                 "url": "8114-final-fantasy",
                                 "title": "Final Fantasy",
@@ -595,26 +615,6 @@
                                 "url": "8047-earthsounds-i-suoni-del-pianeta",
                                 "title": "Earthsounds: i suoni del pianeta",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/03f8c9ae-eba7-4bb1-ba2f-62274fce1e45.webp"
-                            },
-                            {
-                                "url": "8045-strange-planet-uno-strano-mondo",
-                                "title": "Strange Planet - Uno strano mondo",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/c59e062c-ec5e-45c3-a274-f766a29ea25d.webp"
-                            },
-                            {
-                                "url": "8044-me-contro-te-il-film-vacanze-in-transilvania",
-                                "title": "Me contro Te: Il film - Vacanze in Transilvania",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/5e3c0525-e3e5-4ad6-9e99-c794cddacf80.webp"
-                            },
-                            {
-                                "url": "8043-allarme-rosso",
-                                "title": "Allarme rosso",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/cdbcda26-981e-476a-91aa-0052c0c35a60.webp"
-                            },
-                            {
-                                "url": "8042-the-dresden-files",
-                                "title": "The Dresden Files",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/3d414b8f-b5ed-4fe2-b303-99763abd1518.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.io.IOException: eu.kanade.tachiyomi.network.interceptor.CFClearance$CloudflareBypassException",
+                "error": "java.lang.IllegalStateException: Failed to load iframe",
                 "passed": false
             }
         }
