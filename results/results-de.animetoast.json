@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/one-piece/",
+                                "title": "One Piece",
+                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/vcop-370x208.jpg"
+                            },
+                            {
                                 "url": "/kingdom-5th-season-ger-sub/",
                                 "title": "Kingdom 5th Season Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v58855-370x208.jpg"
@@ -180,11 +185,6 @@
                                 "url": "/gekai-elise-ger-sub/",
                                 "title": "Gekai Elise Ger Sub",
                                 "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v61101-370x208.jpg"
-                            },
-                            {
-                                "url": "/jaku-chara-tomozaki-kun-2nd-stage-ger-sub/",
-                                "title": "Jaku-Chara Tomozaki-kun 2nd Stage Ger Sub",
-                                "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/v64718-370x208.jpg"
                             },
                             {
                                 "url": "/sousou-no-frieren-ger-dub/",
@@ -439,13 +439,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/kingdom-5th-season-ger-sub/",
-                    "title": "Kingdom 5th Season Ger Sub",
-                    "description": "Die unerbittlichen Kämpfe werden mit der 5. Staffel von Kingdom fortgesetzt.",
-                    "genre": "Action, Historical, Military, Seinen",
+                    "url": "/one-piece/",
+                    "title": "One Piece",
+                    "description": "Wir schreiben das große Zeitalter der Piraten. Mit dem Tod des einstigen Piratenkönigs Gol D. Roger begann die Suche nach dem begehrten One Piece, dem größten Schatz der Welt. Diesen hatte Roger noch kurz vor seiner Hinrichtung versteckt. Seitdem ist die Grandline bevölkert von fiesen und miesen Gestalten, die nach Gold, Reichtum und Macht gieren. Nur einer ist irgendwie anders. Einst aß er von der Gum-Gum-Frucht, jetzt lässt er mit gummimäßigen Kräften und mordsmäßigem Appetit jeden Feind erzittern – hier kommt Ruffy, der künftige König der Piraten!",
+                    "genre": "Abenteuer, Action, Comedy, Drama, Fantasy, Martial-Art, Mystery, Shounen, Superpower, Violence",
                     "status": 1,
                     "status_name": "ONGOING",
-                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2024/01/58855.jpg",
+                    "thumbnail_url": "https://www.animetoast.cc/wp-content/uploads/2018/02/op.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -453,31 +453,21 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/kingdom-5th-season-ger-sub/?link=10",
-                        "name": "Ep. 11",
-                        "episode_number": 11.0
+                        "url": "/16455-2/?link=180",
+                        "name": "Ep. 181",
+                        "episode_number": 181.0
                     },
                     {
-                        "url": "/kingdom-5th-season-ger-sub/?link=9",
-                        "name": "Ep. 10",
-                        "episode_number": 10.0
+                        "url": "/16455-2/?link=179",
+                        "name": "Ep. 180",
+                        "episode_number": 180.0
                     }
                 ],
                 "passed": true
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://www6.mp4upload.com:183/d/sgxynvpzz3b4quuovcqrimciloxrex73avbcbhrpwpbxnszdkixkocpkwnansr43kvt2kkbb/video.mp4",
-                        "quality": "Mp4Upload - 720p",
-                        "videoUrl": "https://www6.mp4upload.com:183/d/sgxynvpzz3b4quuovcqrimciloxrex73avbcbhrpwpbxnszdkixkocpkwnansr43kvt2kkbb/video.mp4",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "referer": "https://mp4upload.com/"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }
