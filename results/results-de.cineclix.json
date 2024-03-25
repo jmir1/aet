@@ -27,6 +27,36 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/6lzgetyAEL6rKzeac7r9X7lRVkA.jpg"
                             },
                             {
+                                "url": "/api/v1/titles/12956?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Die sieben Samurai",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/vEk23l7c008nBfeBtJOiUfjL4dw.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12955?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Cinema Paradiso",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/pVJAStFPfdLD25DEhv410PZumOM.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12954?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "GoodFellas",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9HJ5o6PYEa03UwnJhQ2thO8CFPW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12953?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Forrest Gump",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/zUWRCzac72YuO9k5kEWSe0aGbs7.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12952?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Dilwale Dulhania Le Jayenge - Wer zuerst kommt, kriegt die Braut",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/2CAL2433ZeIihfX1Hb2139CX0pW.jpg"
+                            },
+                            {
+                                "url": "/api/v1/titles/12951?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
+                                "title": "Chihiros Reise ins Zauberland",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/original/wWNLsGvKqhi6cNWul0uvhqbQ4kl.jpg"
+                            },
+                            {
                                 "url": "/api/v1/titles/12766?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Dune: Part Two",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/iw0O0unCWvHmBB1QlRWVpnKhtJ3.jpg"
@@ -225,36 +255,6 @@
                                 "url": "/api/v1/titles/7065?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
                                 "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/original/wms1bzZA6RYAumrq8tysdcRQ0GP.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/6411?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Violet Evergarden: Der Film",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/9VOr2k8cjfnK17hnuF6hLZBvgv6.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/6396?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Josie, der Tiger und die Fische",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/kqtqxLkkSPUvVBOZDQiWBOyhkcY.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/4536?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Spiel mir das Lied vom Tod",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/BwLUQDesx6GW6FtUrQGUPQtzcg.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/4245?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Der Junge, der Maulwurf, der Fuchs und das Pferd",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/5A1LKSg4rAai26QZjkgp7xzXpSD.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/4071?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Top Gun: Maverick",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/4wsyujRuefCKMkpxGBUxskPxmp3.jpg"
-                            },
-                            {
-                                "url": "/api/v1/titles/3411?load=images,genres,productionCountries,keywords,videos,primaryVideo,seasons,compactCredits",
-                                "title": "Given - The Movie",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/original/ygPexnfuIox9QfHxqXSHgGnjeXd.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -396,17 +396,17 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsmlxfif3zvztukva/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfscf4zwqbgomdu57q/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 360p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfsmlxfif3zvztukva/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etayqfscf4zwqbgomdu57q/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsmlxfifzhq3vq5ka/index-v1-a1.m3u8",
+                        "url": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvscf4zwqcy33pcmha/index-v1-a1.m3u8",
                         "quality": "SuperVideo - 400p",
-                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvsmlxfifzhq3vq5ka/index-v1-a1.m3u8",
+                        "videoUrl": "https://hfs261.serversicuro.cc/hls/dnzpec4q3hg4a3gyvarh72dyqq4lw64uvtthn2etarxvscf4zwqcy33pcmha/index-v1-a1.m3u8",
                         "headers": {
                             "Accept": "*/*"
                         }
