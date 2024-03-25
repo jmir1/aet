@@ -317,6 +317,11 @@
                     {
                         "animes": [
                             {
+                                "url": "8124-scandal",
+                                "title": "Scandal",
+                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/eb7deaac-e5af-4bad-bae6-c4c5ec7d7ee3.webp"
+                            },
+                            {
                                 "url": "8123-imaginary",
                                 "title": "Imaginary",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/8f84bd3f-2c6d-4d11-ad90-e1dc64733792.webp"
@@ -610,11 +615,6 @@
                                 "url": "8054-hellraiser-vi-hellseeker",
                                 "title": "Hellraiser VI: Hellseeker",
                                 "thumbnail_url": "https://cdn.streamingcommunity.report/images/2bac6fa9-ee93-41a4-9936-58c8f7b86bec.webp"
-                            },
-                            {
-                                "url": "8053-frida-viva-la-vida",
-                                "title": "Frida - Viva la vida",
-                                "thumbnail_url": "https://cdn.streamingcommunity.report/images/1b2e76fc-e072-4e59-83ca-ff915d018055.webp"
                             }
                         ],
                         "hasNextPage": true
@@ -957,7 +957,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalStateException: Failed to load iframe",
+                "error": "java.io.IOException: com.microsoft.playwright.PlaywrightException: Error {\n  message='connect ECONNREFUSED 139.45.197.245:443\n  name='Error\n  stack='Error: connect ECONNREFUSED 139.45.197.245:443\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)\n}\nCall log:\n- → GET https://putchumt.com/tag.min.js\n-   user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0\n-   accept: */*\n-   accept-encoding: gzip, deflate, br\n-   host: putchumt.com\n-   accept-language: en-US,en;q=0.5\n-   referer: https://vixcloud.co/\n-   sec-fetch-dest: script\n-   sec-fetch-mode: no-cors\n-   sec-fetch-site: cross-site\n-   connection: keep-alive\n",
                 "passed": false
             }
         }
