@@ -243,16 +243,8 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/anime/atashinchi-movie",
-                    "title": "Atashin'chi Movie",
-                    "author": "Toei Animation",
-                    "description": "In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.",
-                    "genre": "Comedy, Super Power",
-                    "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.lang.NullPointerException",
+                "passed": false
             },
             "episodes": {
                 "result": [
@@ -266,9 +258,9 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/144834?vrf=8ihN9uYZ9WdcJGgniYe3Kw%3D%3D",
+                        "url": "https://slothanime.com/player-url/144834?vrf=yCrz52Lrsl%2Bw9poopvjrqw%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/144834?vrf=8ihN9uYZ9WdcJGgniYe3Kw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/144834?vrf=yCrz52Lrsl%2Bw9poopvjrqw%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",

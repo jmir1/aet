@@ -186,12 +186,51 @@
                 "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/fullmetal-alchemist-brotherhood/64",
+                        "name": "64 :الحلقة",
+                        "episode_number": 64.0
+                    },
+                    {
+                        "url": "/watch/fullmetal-alchemist-brotherhood/63",
+                        "name": "63 :الحلقة",
+                        "episode_number": 63.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1711498340&token=4-zt4pxhdhDmnHrUAJxC2Q",
+                        "quality": "Blkom - 720p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/720p.mp4?expires=1711498340&token=4-zt4pxhdhDmnHrUAJxC2Q",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1711498340&token=-GGr4f1f8lievCFLg5R5nw",
+                        "quality": "Blkom - 480p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/480p.mp4?expires=1711498340&token=-GGr4f1f8lievCFLg5R5nw",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    },
+                    {
+                        "url": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1711498340&token=7nlxHjAWLZCKTT7T_Wn5WA",
+                        "quality": "Blkom - 360p",
+                        "videoUrl": "https://cdn1.vid4up.xyz/videos/006/642890252b2da/360p.mp4?expires=1711498340&token=7nlxHjAWLZCKTT7T_Wn5WA",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "referer": "https://animeblkom.net"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
