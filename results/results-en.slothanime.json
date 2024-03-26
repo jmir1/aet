@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/anime/0sen-hayato",
+                                "title": "0-sen Hayato",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11884.png"
+                            },
+                            {
                                 "url": "/anime/atashinchi-movie",
                                 "title": "Atashin'chi Movie",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11883.png"
@@ -60,11 +65,6 @@
                                 "url": "/anime/ms-chanda",
                                 "title": "M.S. Chanda",
                                 "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11873.png"
-                            },
-                            {
-                                "url": "/anime/color-cycling",
-                                "title": "Color Cycling",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11872.png"
                             }
                         ],
                         "hasNextPage": true
@@ -73,74 +73,8 @@
                 "passed": true
             },
             "latest": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/superkid-1983",
-                                "title": "Superkid (1983)",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/9044.png"
-                            },
-                            {
-                                "url": "/anime/otokogi",
-                                "title": "Otokogi",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10418.png"
-                            },
-                            {
-                                "url": "/anime/microid-s",
-                                "title": "Microid S",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/4022.png"
-                            },
-                            {
-                                "url": "/anime/pauls-miracle-strategy-plan",
-                                "title": "Paul's Miracle Strategy Plan",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/10831.png"
-                            },
-                            {
-                                "url": "/anime/yokohama-meibutsu-otoko-katayamagumi",
-                                "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/2978.png"
-                            },
-                            {
-                                "url": "/anime/yugioh-go-rush",
-                                "title": "Yu☆Gi☆Oh! Go Rush!!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11169.png"
-                            },
-                            {
-                                "url": "/anime/the-foolish-angel-dances-with-the-devil",
-                                "title": "The Foolish Angel Dances with the Devil",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11713.png"
-                            },
-                            {
-                                "url": "/anime/hokkaido-gals-are-super-adorable",
-                                "title": "Hokkaido Gals Are Super Adorable!",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11712.png"
-                            },
-                            {
-                                "url": "/anime/tis-time-for-torture-princess",
-                                "title": "'Tis Time for \"Torture,\" Princess",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11711.png"
-                            },
-                            {
-                                "url": "/anime/run-for-money-the-great-mission",
-                                "title": "Run For Money : The Great Mission",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11152.png"
-                            },
-                            {
-                                "url": "/anime/losing-money-to-be-a-tycoon",
-                                "title": "Losing Money to Be a Tycoon",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11765.png"
-                            },
-                            {
-                                "url": "/anime/jingju-cats-3",
-                                "title": "Jing-Ju Cats 3",
-                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11840.png"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "search": {
                 "result": [
@@ -249,7 +183,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/player/atashinchi-movie/144834",
+                        "url": "/player/0sen-hayato/145150",
                         "name": "Episode 1"
                     }
                 ],
@@ -258,13 +192,13 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/144834?vrf=yCrz52Lrsl%2Bw9poopvjrqw%3D%3D",
+                        "url": "https://slothanime.com/player-url/145150?vrf=gV2gkU7OhGNGw1jK4THuZA%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/144834?vrf=yCrz52Lrsl%2Bw9poopvjrqw%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/145150?vrf=gV2gkU7OhGNGw1jK4THuZA%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com/player/atashinchi-movie/144834"
+                            "Referer": "https://slothanime.com/player/0sen-hayato/145150"
                         }
                     }
                 ],
