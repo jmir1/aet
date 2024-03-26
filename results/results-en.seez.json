@@ -97,14 +97,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//4eWeXswkAUIvdVWFvPrUFu2TxuI.jpg"
                             },
                             {
-                                "url": "{\"id\":1072790,\"media_type\":\"movie\"}",
-                                "title": "Anyone But You",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//5qHoazZiaLe7oFBok7XlUhg96f2.jpg"
-                            },
-                            {
                                 "url": "{\"id\":787699,\"media_type\":\"movie\"}",
                                 "title": "Wonka",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w300//qhb1qOilapbapxWQn9jtRCMwXJF.jpg"
+                            },
+                            {
+                                "url": "{\"id\":1081620,\"media_type\":\"movie\"}",
+                                "title": "The Weapon",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w300//slQYCDzCMM8SBh9Xa3aPeM2fekA.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -227,7 +227,7 @@
             "details": {
                 "result": {
                     "url": "{\"id\":1011985,\"media_type\":\"movie\"}",
-                    "author": "DreamWorks Animation, Universal Pictures, Pearl Studio",
+                    "author": "DreamWorks Animation",
                     "description": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.\n\nRelease date: 2024-03-02\nLanguages: English (English)\n",
                     "genre": "Action, Adventure, Animation, Comedy, Family",
                     "status": 2,
@@ -248,7 +248,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "kotlinx.serialization.json.internal.JsonDecodingException: Unexpected JSON token at offset 0: Expected start of the object '{', but had '<' instead at path: $\nJSON input: <!DOCTYPE html>\n<!--[if lt IE .....",
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
                 "passed": false
             }
         }

@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/movies/o-filho-do-homem",
+                                "title": "O Filho do Homem",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/4DAEOy4jYb1Qh8fg2RHcVyvkDhE.jpg"
+                            },
+                            {
                                 "url": "/movies/the-adventures-of-maid-marian",
                                 "title": "Las aventuras de Lady Marian",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/oPXzCV01ysDmnmpJOkiVqaZQ5QR.jpg"
@@ -125,11 +130,6 @@
                                 "url": "/movies/stuart-little",
                                 "title": "Stuart Little",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/wFcrKqCdQRQxZCkBILhX949lXo2.jpg"
-                            },
-                            {
-                                "url": "/movies/the-gunman-el-objetivo",
-                                "title": "The Gunman: El objetivo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/f6ubu3WuGzNy1l0Jin7WlB0YPPZ.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -382,14 +382,14 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/mFoxoluhrUYHJNIfE1j1ZikdLeo.jpg"
                             },
                             {
-                                "url": "/series/carol-y-el-fin-del-mundo",
-                                "title": "Carol y el fin del mundo",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
-                            },
-                            {
                                 "url": "/movies/la-guerra-de-los-mundos-destruccion-total",
                                 "title": "La Guerra de los mundos: Destrucción total",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/jkkyb7uayYSKfjYGjLtRL8o0nmK.jpg"
+                            },
+                            {
+                                "url": "/series/carol-y-el-fin-del-mundo",
+                                "title": "Carol y el fin del mundo",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/2W1TVZJUVLnCOiyoI7omAzFaU3S.jpg"
                             },
                             {
                                 "url": "/series/brave-new-world",
@@ -404,14 +404,14 @@
             },
             "details": {
                 "result": {
-                    "url": "/movies/the-adventures-of-maid-marian",
-                    "title": "Las aventuras de Lady Marian",
-                    "artist": "Sophie-Louise Craig",
-                    "description": "Después de tres años de esconderse en un remoto priorato, Marian recibe la noticia de que el rey Ricardo Corazón de León ha muerto. Su amado Robin Hood regresa de la guerra. Al salir de su santuario, se apresura a encontrarse con él, pero descubren que no todo es lo que parece.",
-                    "genre": "Aventura, Acción",
+                    "url": "/movies/o-filho-do-homem",
+                    "title": "O Filho do Homem",
+                    "artist": "Allan Ralph",
+                    "description": "It is the life depiction and experiences of Jesus/Yeshua from birth to his ascension to the Father.",
+                    "genre": "Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/original/oPXzCV01ysDmnmpJOkiVqaZQ5QR.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/original/4DAEOy4jYb1Qh8fg2RHcVyvkDhE.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -419,7 +419,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/movies/the-adventures-of-maid-marian",
+                        "url": "/movies/o-filho-do-homem",
                         "name": "Película",
                         "episode_number": 1.0
                     }
@@ -429,39 +429,50 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://delivery-node-wbkfh31bomnlippf.voe-network.net/engine/hls2/01/10994/3osx3zquorwl_,n,.urlset/index-v1-a1.m3u8?t=ea7jlTzZcsRuiCiQYqNfjyDoE5_zbwIHLzAwtTjALmQ&s=1711413285&e=14400&f=54972144&node=delivery-node-wbkfh31bomnlippf.voe-network.net&i=4.227&sp=2500&asn=8075",
+                        "url": "https://delivery-node-bnepu613xxdnwxyr.voe-network.net/engine/hls2/01/10994/sdml4usxc1lu_,n,.urlset/index-v1-a1.m3u8?t=nBBx2nKRbYLwFD5ggfpyCR5ffCEZpxgptGrMc7IClsc&s=1711433625&e=14400&f=54972649&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=20.172&sp=2500&asn=8075",
                         "quality": "[LAT]Voe: 720p",
-                        "videoUrl": "https://delivery-node-wbkfh31bomnlippf.voe-network.net/engine/hls2/01/10994/3osx3zquorwl_,n,.urlset/index-v1-a1.m3u8?t=ea7jlTzZcsRuiCiQYqNfjyDoE5_zbwIHLzAwtTjALmQ&s=1711413285&e=14400&f=54972144&node=delivery-node-wbkfh31bomnlippf.voe-network.net&i=4.227&sp=2500&asn=8075",
+                        "videoUrl": "https://delivery-node-bnepu613xxdnwxyr.voe-network.net/engine/hls2/01/10994/sdml4usxc1lu_,n,.urlset/index-v1-a1.m3u8?t=nBBx2nKRbYLwFD5ggfpyCR5ffCEZpxgptGrMc7IClsc&s=1711433625&e=14400&f=54972649&node=delivery-node-bnepu613xxdnwxyr.voe-network.net&i=20.172&sp=2500&asn=8075",
                         "headers": {
                             "Accept": "*/*"
                         }
                     },
                     {
-                        "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03412/5e9d1sw1pvv1_,n,o,.urlset/index-f2-v1-a1.m3u8?t=xt_xoRKXI5Hzt1mqZwP8WXZAicxpa3c9QwU0KomIBB4&s=1711413283&e=129600&f=17063404&srv=de4ok9tsdfgq&i=0.4&sp=500&p1=de4ok9tsdfgq&p2=de4ok9tsdfgq&asn=8075",
-                        "quality": "[LAT] StreamWish:816p",
-                        "videoUrl": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03412/5e9d1sw1pvv1_,n,o,.urlset/index-f2-v1-a1.m3u8?t=xt_xoRKXI5Hzt1mqZwP8WXZAicxpa3c9QwU0KomIBB4&s=1711413283&e=129600&f=17063404&srv=de4ok9tsdfgq&i=0.4&sp=500&p1=de4ok9tsdfgq&p2=de4ok9tsdfgq&asn=8075",
+                        "url": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03412/md4mxiz4ux4x_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=2ClvKe8tN8Fc6BE9O42dLW5kdEcnqlle2lx1AN_yDKU&s=1711433628&e=129600&f=17064357&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "quality": "[LAT] StreamWish:1080p",
+                        "videoUrl": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03412/md4mxiz4ux4x_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=2ClvKe8tN8Fc6BE9O42dLW5kdEcnqlle2lx1AN_yDKU&s=1711433628&e=129600&f=17064357&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/5e9d1sw1pvv1"
+                            "Referer": "https://streamwish.to/e/md4mxiz4ux4x"
                         }
                     },
                     {
-                        "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03412/5e9d1sw1pvv1_,n,o,.urlset/index-f1-v1-a1.m3u8?t=xt_xoRKXI5Hzt1mqZwP8WXZAicxpa3c9QwU0KomIBB4&s=1711413283&e=129600&f=17063404&srv=de4ok9tsdfgq&i=0.4&sp=500&p1=de4ok9tsdfgq&p2=de4ok9tsdfgq&asn=8075",
+                        "url": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03412/md4mxiz4ux4x_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=2ClvKe8tN8Fc6BE9O42dLW5kdEcnqlle2lx1AN_yDKU&s=1711433628&e=129600&f=17064357&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03412/md4mxiz4ux4x_,n,h,x,.urlset/index-f2-v1-a1.m3u8?t=2ClvKe8tN8Fc6BE9O42dLW5kdEcnqlle2lx1AN_yDKU&s=1711433628&e=129600&f=17064357&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://streamwish.to",
+                            "Referer": "https://streamwish.to/e/md4mxiz4ux4x"
+                        }
+                    },
+                    {
+                        "url": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03412/md4mxiz4ux4x_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=2ClvKe8tN8Fc6BE9O42dLW5kdEcnqlle2lx1AN_yDKU&s=1711433628&e=129600&f=17064357&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
                         "quality": "[LAT] StreamWish:480p",
-                        "videoUrl": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03412/5e9d1sw1pvv1_,n,o,.urlset/index-f1-v1-a1.m3u8?t=xt_xoRKXI5Hzt1mqZwP8WXZAicxpa3c9QwU0KomIBB4&s=1711413283&e=129600&f=17063404&srv=de4ok9tsdfgq&i=0.4&sp=500&p1=de4ok9tsdfgq&p2=de4ok9tsdfgq&asn=8075",
+                        "videoUrl": "https://atkwogsk5.sw-cdnstreamwish.com/hls2/01/03412/md4mxiz4ux4x_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=2ClvKe8tN8Fc6BE9O42dLW5kdEcnqlle2lx1AN_yDKU&s=1711433628&e=129600&f=17064357&srv=fzvnl4vq4qxow&i=0.4&sp=500&p1=fzvnl4vq4qxow&p2=fzvnl4vq4qxow&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://streamwish.to",
-                            "Referer": "https://streamwish.to/e/5e9d1sw1pvv1"
+                            "Referer": "https://streamwish.to/e/md4mxiz4ux4x"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=dRAMKrKWopi94Y&expires=1711483283&ip=Gy5QDREnDS9X&token=q0XBuJyP4Mmh",
+                        "url": "https://streamtape.com/get_video?id=JvX919L1j8CjpBB&expires=1711503626&ip=FROsD0ETKxSHDN&token=HRhveNQmWj86",
                         "quality": "[LAT] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=dRAMKrKWopi94Y&expires=1711483283&ip=Gy5QDREnDS9X&token=q0XBuJyP4Mmh"
+                        "videoUrl": "https://streamtape.com/get_video?id=JvX919L1j8CjpBB&expires=1711503626&ip=FROsD0ETKxSHDN&token=HRhveNQmWj86"
                     }
                 ],
                 "passed": true
