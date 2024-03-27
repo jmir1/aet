@@ -7,6 +7,18 @@
                     {
                         "animes": [
                             {
+                                "url": "/population-11/",
+                                "title": "Population 11",
+                                "description": "Cuando un hombre desaparece de un pequeño pueblo del interior, su hijo, del que se ha distanciado, se ve obligado a buscarlo entre el variopinto grupo de habitantes. ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fWflDooljzn9Uug78G65lskLwuX.jpg"
+                            },
+                            {
+                                "url": "/marea-de-pasiones/",
+                                "title": "Marea de pasiones",
+                                "description": "Luisa y Marcelo han dejado a un lado las diferencias que los separa para privilegiar el amor que se tienen desde la adolescencia. Alejandro Grajales, padre de Luisa, no ve con buenos ojos la relación de su hija con Marcelo, pues el joven siempre ha sido opositor a la devastación ecológica que ha sufrido la […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/4vBK8NbuBeraUDoiFnK0B2P4V9P.jpg"
+                            },
+                            {
                                 "url": "/un-nuevo-amanecer/",
                                 "title": "Un Nuevo Amanecer",
                                 "description": "Candela, reconocida actriz y humorista, se ha convertido en una adicta. No sabe muy bien cómo (o eso dice ella), pero esas dosis de alcohol y drogas a las que no daba demasiada importancia se han acabado desmadrando. “Tranquilos, yo controlo” eran las palabras que últimamente más repetía en su círculo personal y laboral, pero […] ",
@@ -55,22 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/zrh49PveIxJbUM7Ark4KMbYvprj.jpg"
                             },
                             {
-                                "url": "/such-brave-girls/",
-                                "title": "Such Brave Girls",
-                                "description": "Una comedia familiar desmelenada e irreverente que sigue la vida de dos hermanas, Josie y Billy, que viven con su madre soltera y transitan por la vida con poco juicio y cargadas de un peculiar sentido del humor sobre sus propias vidas y su salud mental. Sin saber muy bien cómo, acabarán relacionándose con personas […] ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/7g60yren32dIyR0ZsMFPXWn3vGt.jpg"
-                            },
-                            {
-                                "url": "/bribones-en-el-corazon-de-la-aventura/",
-                                "title": "Bribones: En el corazón de la aventura",
-                                "description": "Un grupo de élite se adentra en los rincones más recónditos de la Tierra para investigar el pasado, las leyendas y las huellas. El programa aúna arqueología, historia y aventura. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwzYhOwczc3V4kYP5a0NcOjE6hm.jpg"
-                            },
-                            {
-                                "url": "/todo-lo-que-amas/",
-                                "title": "Todo lo que amas",
+                                "url": "/the-disappearance/",
+                                "title": "The Disappearance",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6542iGoF6VHJcVGWyQxImmb3aTF.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/3sohkhCEkIboAuJf8SH4H3HRmsU.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/solo-asesinatos-en-el-edificio/",
-                                "title": "Solo Asesinatos en el Edificio",
+                                "url": "/keeping-faith/",
+                                "title": "Keeping Faith",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fOEiX00L6uw4GSYKD0JrxRr7Zrc.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/e9WqXqREohJXs8MEakN8YLYdI65.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,22 +156,69 @@
             },
             "details": {
                 "result": {
-                    "url": "/un-nuevo-amanecer/",
-                    "title": "Un Nuevo Amanecer",
-                    "description": "Candela, reconocida actriz y humorista, se ha convertido en una adicta. No sabe muy bien cómo (o eso dice ella), pero esas dosis de alcohol y drogas a las que no daba demasiada importancia se han acabado desmadrando. “Tranquilos, yo controlo” eran las palabras que últimamente más repetía en su círculo personal y laboral, pero no controla nada de nada. Ni su vida personal (separada y con una hija que pasa más tiempo con su padre y su abuela que con ella), ni profesional, que cada vez es más desastrosa.",
-                    "genre": "Comedia",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qy733ANy2VoWBeLJS7EEvcKhQaV.jpg",
+                    "url": "/population-11/",
+                    "title": "Population 11",
+                    "description": "Cuando un hombre desaparece de un pequeño pueblo del interior, su hijo, del que se ha distanciado, se ve obligado a buscarlo entre el variopinto grupo de habitantes.",
+                    "genre": "Comedia, Crimen",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/fWflDooljzn9Uug78G65lskLwuX.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/episode/population-11-temporada-1-capitulo-4/",
+                        "name": "T01 - E04 - Episodio 4",
+                        "date_upload": 1710374400000,
+                        "episode_number": 4.0
+                    },
+                    {
+                        "url": "/episode/population-11-temporada-1-capitulo-3/",
+                        "name": "T01 - E03 - Episodio 3",
+                        "date_upload": 1710374400000,
+                        "episode_number": 3.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=5JNtUvUyrEtHAm8QDsd_IaRRH5McPK3Y_1Tj3QsveEE&s=1711519755&e=43200&f=325375&i=0.0&sp=0",
+                        "quality": "Fastream:720p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=5JNtUvUyrEtHAm8QDsd_IaRRH5McPK3Y_1Tj3QsveEE&s=1711519755&e=43200&f=325375&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5JNtUvUyrEtHAm8QDsd_IaRRH5McPK3Y_1Tj3QsveEE&s=1711519755&e=43200&f=325375&i=0.0&sp=0",
+                        "quality": "Fastream:480p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=5JNtUvUyrEtHAm8QDsd_IaRRH5McPK3Y_1Tj3QsveEE&s=1711519755&e=43200&f=325375&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    },
+                    {
+                        "url": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=5JNtUvUyrEtHAm8QDsd_IaRRH5McPK3Y_1Tj3QsveEE&s=1711519755&e=43200&f=325375&i=0.0&sp=0",
+                        "quality": "Fastream:360p",
+                        "videoUrl": "https://s30.fastream.to/hls2/04/00065/wj0boj3qmpdd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=5JNtUvUyrEtHAm8QDsd_IaRRH5McPK3Y_1Tj3QsveEE&s=1711519755&e=43200&f=325375&i=0.0&sp=0",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Referer": "https://fastream.to/",
+                            "Origin": "https://fastream.to",
+                            "Accept": "*/*"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }
