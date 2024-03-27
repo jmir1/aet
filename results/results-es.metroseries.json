@@ -7,6 +7,12 @@
                     {
                         "animes": [
                             {
+                                "url": "/un-nuevo-amanecer/",
+                                "title": "Un Nuevo Amanecer",
+                                "description": "Candela, reconocida actriz y humorista, se ha convertido en una adicta. No sabe muy bien cómo (o eso dice ella), pero esas dosis de alcohol y drogas a las que no daba demasiada importancia se han acabado desmadrando. “Tranquilos, yo controlo” eran las palabras que últimamente más repetía en su círculo personal y laboral, pero […] ",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/qy733ANy2VoWBeLJS7EEvcKhQaV.jpg"
+                            },
+                            {
                                 "url": "/mujeres-desesperadas/",
                                 "title": "Mujeres desesperadas",
                                 "description": "Esposas desesperadas | Desperate Housewives La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono […] ",
@@ -61,16 +67,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/kwzYhOwczc3V4kYP5a0NcOjE6hm.jpg"
                             },
                             {
-                                "url": "/x-men-97/",
-                                "title": "X-Men '97",
-                                "description": "Un grupo de mutantes utiliza sus asombrosos dones para proteger a un mundo que los odia y los teme. ",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/oudLzoZ9vqcH7BQAOAeHeC7bcjT.jpg"
-                            },
-                            {
-                                "url": "/make-up-stars/",
-                                "title": "Make Up Stars",
+                                "url": "/todo-lo-que-amas/",
+                                "title": "Todo lo que amas",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/zfG9xVH5gcDiHR0IFxwtExrfPWZ.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/6542iGoF6VHJcVGWyQxImmb3aTF.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -143,10 +143,10 @@
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w500/Ardc2EHeouKkeLpq9qTshRSQYfF.jpg"
                             },
                             {
-                                "url": "/ousama-ranking/",
-                                "title": "Ousama Ranking",
+                                "url": "/solo-asesinatos-en-el-edificio/",
+                                "title": "Solo Asesinatos en el Edificio",
                                 "description": "",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/35fJYd6M6yuts9OfRJXdL00wfdU.jpg"
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w500/fOEiX00L6uw4GSYKD0JrxRr7Zrc.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -156,135 +156,22 @@
             },
             "details": {
                 "result": {
-                    "url": "/mujeres-desesperadas/",
-                    "title": "Mujeres desesperadas",
-                    "description": "Esposas desesperadas | Desperate Housewives La serie se desarrolla en Wisteria Lane, zona residencial situada en la imaginaria ciudad de Fairview, Eagle State. Trata de las vidas de cinco amas de casa, a través de sus vidas domésticas a la vez que se revelan varios misterios acerca de sus maridos, amigos y vecinos. El tono y estilo de la serie combina elementos de drama, comedia, misterio, telenovelas y sátira. Los personajes han sido criticados por grupos religiosos por carencia moral.",
-                    "genre": "Comedia, Drama, Misterio",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qRKr6HuROaBuyMzeBOn69gAjJXU.jpg",
+                    "url": "/un-nuevo-amanecer/",
+                    "title": "Un Nuevo Amanecer",
+                    "description": "Candela, reconocida actriz y humorista, se ha convertido en una adicta. No sabe muy bien cómo (o eso dice ella), pero esas dosis de alcohol y drogas a las que no daba demasiada importancia se han acabado desmadrando. “Tranquilos, yo controlo” eran las palabras que últimamente más repetía en su círculo personal y laboral, pero no controla nada de nada. Ni su vida personal (separada y con una hija que pasa más tiempo con su padre y su abuela que con ella), ni profesional, que cada vez es más desastrosa.",
+                    "genre": "Comedia",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/qy733ANy2VoWBeLJS7EEvcKhQaV.jpg",
                     "initialized": true
                 },
                 "passed": true
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/episode/mujeres-desesperadas-temporada-6-capitulo-23/",
-                        "name": "T06 - E23 - Supongo que esto es un adiós",
-                        "date_upload": 1273968000000,
-                        "episode_number": 23.0
-                    },
-                    {
-                        "url": "/episode/mujeres-desesperadas-temporada-6-capitulo-22/",
-                        "name": "T06 - E22 - La balada de Cabina",
-                        "date_upload": 1273363200000,
-                        "episode_number": 22.0
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
+                "passed": false
             },
             "videos": {
-                "result": [
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00064/hrvoh06coziu_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lHKschRhbY-W51xfOC5anirqz2Zjh5ZI9T2BmHP_Ft4&s=1711476593&e=43200&f=324486&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00064/hrvoh06coziu_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=lHKschRhbY-W51xfOC5anirqz2Zjh5ZI9T2BmHP_Ft4&s=1711476593&e=43200&f=324486&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/03/00065/lyptxls520nd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=afOJVNfnZuCi4OJj7lg_SJjoG3tvTfpnszAlngd8wMY&s=1711476570&e=43200&f=325089&i=0.0&sp=0",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s32.fastream.to/hls2/03/00065/lyptxls520nd_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=afOJVNfnZuCi4OJj7lg_SJjoG3tvTfpnszAlngd8wMY&s=1711476570&e=43200&f=325089&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/04/00065/wgue563sux32_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XXfFR0OJZVJoj44RvXA0QqUp-7KR_M1YNytC7A7FNJE&s=1711476567&e=43200&f=325005&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "quality": "Fastream:720p",
-                        "videoUrl": "https://s36.fastream.to/hls2/04/00065/wgue563sux32_,l,n,h,.urlset/index-f3-v1-a1.m3u8?t=XXfFR0OJZVJoj44RvXA0QqUp-7KR_M1YNytC7A7FNJE&s=1711476567&e=43200&f=325005&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00064/hrvoh06coziu_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lHKschRhbY-W51xfOC5anirqz2Zjh5ZI9T2BmHP_Ft4&s=1711476593&e=43200&f=324486&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00064/hrvoh06coziu_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=lHKschRhbY-W51xfOC5anirqz2Zjh5ZI9T2BmHP_Ft4&s=1711476593&e=43200&f=324486&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/03/00065/lyptxls520nd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=afOJVNfnZuCi4OJj7lg_SJjoG3tvTfpnszAlngd8wMY&s=1711476570&e=43200&f=325089&i=0.0&sp=0",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s32.fastream.to/hls2/03/00065/lyptxls520nd_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=afOJVNfnZuCi4OJj7lg_SJjoG3tvTfpnszAlngd8wMY&s=1711476570&e=43200&f=325089&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/04/00065/wgue563sux32_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XXfFR0OJZVJoj44RvXA0QqUp-7KR_M1YNytC7A7FNJE&s=1711476567&e=43200&f=325005&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "quality": "Fastream:480p",
-                        "videoUrl": "https://s36.fastream.to/hls2/04/00065/wgue563sux32_,l,n,h,.urlset/index-f2-v1-a1.m3u8?t=XXfFR0OJZVJoj44RvXA0QqUp-7KR_M1YNytC7A7FNJE&s=1711476567&e=43200&f=325005&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s30.fastream.to/hls2/03/00064/hrvoh06coziu_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lHKschRhbY-W51xfOC5anirqz2Zjh5ZI9T2BmHP_Ft4&s=1711476593&e=43200&f=324486&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s30.fastream.to/hls2/03/00064/hrvoh06coziu_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=lHKschRhbY-W51xfOC5anirqz2Zjh5ZI9T2BmHP_Ft4&s=1711476593&e=43200&f=324486&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s32.fastream.to/hls2/03/00065/lyptxls520nd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=afOJVNfnZuCi4OJj7lg_SJjoG3tvTfpnszAlngd8wMY&s=1711476570&e=43200&f=325089&i=0.0&sp=0",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s32.fastream.to/hls2/03/00065/lyptxls520nd_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=afOJVNfnZuCi4OJj7lg_SJjoG3tvTfpnszAlngd8wMY&s=1711476570&e=43200&f=325089&i=0.0&sp=0",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    },
-                    {
-                        "url": "https://s36.fastream.to/hls2/04/00065/wgue563sux32_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XXfFR0OJZVJoj44RvXA0QqUp-7KR_M1YNytC7A7FNJE&s=1711476567&e=43200&f=325005&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "quality": "Fastream:360p",
-                        "videoUrl": "https://s36.fastream.to/hls2/04/00065/wgue563sux32_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=XXfFR0OJZVJoj44RvXA0QqUp-7KR_M1YNytC7A7FNJE&s=1711476567&e=43200&f=325005&srv=s32&i=0.0&sp=0&p1=s32&p2=s32",
-                        "headers": {
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
-                            "Referer": "https://fastream.to/",
-                            "Origin": "https://fastream.to",
-                            "Accept": "*/*"
-                        }
-                    }
-                ],
-                "passed": true
+                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "passed": false
             }
         }
     }

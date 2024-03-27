@@ -7,6 +7,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/mano-de-hierro",
+                                "title": "Mano de hierro (2024)",
+                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/agiiwJX73nVI5OKxEw0b6gq1uU5.jpg"
+                            },
+                            {
                                 "url": "/serie/coppola-el-representante",
                                 "title": "Coppola, el representante (2024)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg"
@@ -120,11 +125,6 @@
                                 "url": "/serie/pacto-de-silencio",
                                 "title": "Pacto de silencio (2023)",
                                 "thumbnail_url": "https://image.tmdb.org/t/p/w200/uGd554FjRZePfToMthpK1VqvGZ3.jpg"
-                            },
-                            {
-                                "url": "/serie/supersex",
-                                "title": "Supersex (2024)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w200/tWqgxcaaMWFbneUcepBrEpq3jQh.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -264,13 +264,13 @@
             },
             "details": {
                 "result": {
-                    "url": "/serie/coppola-el-representante",
-                    "title": "Coppola, el representante (2024)",
-                    "description": "Sigue la increíble y polémica vida de Guillermo Coppola, el legendario representante del futbolista Diego Armando Maradona..",
-                    "genre": "Drama",
+                    "url": "/serie/mano-de-hierro",
+                    "title": "Mano de hierro (2024)",
+                    "description": "Joaquín Manchado gobierna con puño de hierro su emporio de la droga desde el puerto de Barcelona, hasta que un nuevo envío da un vuelco a su negocio y su familia..",
+                    "genre": "Crimen, Drama",
                     "status": 2,
                     "status_name": "COMPLETED",
-                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg",
+                    "thumbnail_url": "https://image.tmdb.org/t/p/w500/agiiwJX73nVI5OKxEw0b6gq1uU5.jpg",
                     "initialized": true
                 },
                 "passed": true
@@ -278,14 +278,14 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/serie/coppola-el-representante/temporada/1/capitulo/6",
-                        "name": "T1 - E6: Episodio 6",
-                        "episode_number": 6.0
+                        "url": "/serie/mano-de-hierro/temporada/1/capitulo/8",
+                        "name": "T1 - E8: Episodio 8",
+                        "episode_number": 8.0
                     },
                     {
-                        "url": "/serie/coppola-el-representante/temporada/1/capitulo/5",
-                        "name": "T1 - E5: Episodio 5",
-                        "episode_number": 5.0
+                        "url": "/serie/mano-de-hierro/temporada/1/capitulo/7",
+                        "name": "T1 - E7: Episodio 7",
+                        "episode_number": 7.0
                     }
                 ],
                 "passed": true
@@ -300,290 +300,23 @@
         "name": "PelisPlusTo (ES)",
         "results": {
             "popular": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/pelicula/good-boy",
-                                "title": "Good Boy (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-archies",
-                                "title": "Los Archies (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wNBxKUcTONyVCqbEqWWGUYS1J7D.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mavka-guardiana-del-bosque",
-                                "title": "Mavka: Guardiana del bosque (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7y2MqycqOzK8V8axtRLF6BERWoG.jpg"
-                            },
-                            {
-                                "url": "/pelicula/en-el-desierto",
-                                "title": "En el desierto (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/45pDkZ986FayuGEkXz5paF6X6BO.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-navidad-del-pequeno-batman",
-                                "title": "La Navidad Del Pequeño Batman (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/55EctBjIeTsCK6QGtja9cddKL78.jpg"
-                            },
-                            {
-                                "url": "/pelicula/una-navidad-en-montana",
-                                "title": "Una Navidad en Montana (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/21Qx9f1cTA7p0uQewbMo4Jj1Hvm.jpg"
-                            },
-                            {
-                                "url": "/pelicula/spiderman-loto",
-                                "title": "SpiderMan: Loto (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1oYaW3Rd6A6d1jH7jTo5n55vkt.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dejar-el-mundo-atras",
-                                "title": "Dejar el mundo atrás (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mZoRTMQa2l5uWBpf6l3wQJHmrFE.jpg"
-                            },
-                            {
-                                "url": "/pelicula/silber-y-el-libro-de-los-suenos",
-                                "title": "Silber y el libro de los sueños (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yD6A6BFYl8crNfZ3vs6LzxD8c1g.jpg"
-                            },
-                            {
-                                "url": "/pelicula/huida-sangrienta",
-                                "title": "Huida sangrienta (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/w6fll4kwxhzG0iRdPRjFpuG8GmN.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-primera-navidad-del-mundo",
-                                "title": "La Primera Navidad Del Mundo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mr-monks-last-case-a-monk-movie",
-                                "title": "Mr. Monk's Last Case: A Monk Movie (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/gj74sUGsPMg5qDQooh8GTs4MvbP.jpg"
-                            },
-                            {
-                                "url": "/pelicula/tu-navidad-o-la-mia-2",
-                                "title": "Tu navidad o la mia? 2 (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/j0n68v05DPaCcjl0AnEQmTQB154.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cuando-pienso-en-la-navidad",
-                                "title": "Cuando Pienso En La Navidad (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/f0cAUnKL971eR1Lxd1PXEgQCsZb.jpg"
-                            },
-                            {
-                                "url": "/pelicula/sin-senal",
-                                "title": "Sin señal (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/g1g6hCYtuRuf9ZJISDmCKjXffSs.jpg"
-                            },
-                            {
-                                "url": "/pelicula/hard-days",
-                                "title": "Hard Days (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/3e10WFtHezbCZ74nu35ZDCLQn7J.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-navidad-esta-servida",
-                                "title": "La Navidad está servida (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jMIMfLwCRGO7tRVgdBlEUoZEd6k.jpg"
-                            },
-                            {
-                                "url": "/pelicula/this-is-christmas",
-                                "title": "This Is Christmas (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/tTJ6JcZEpQRuY7OYSEzHew2ibmx.jpg"
-                            },
-                            {
-                                "url": "/pelicula/when-christmas-was-young",
-                                "title": "When Christmas Was Young (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ajSr5wmMxxnol6QTOhsrnhgTYb5.jpg"
-                            },
-                            {
-                                "url": "/pelicula/must-love-christmas",
-                                "title": "Must Love Christmas (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/j2yAC24xNIHMCxnoVY6YeKOoJcC.jpg"
-                            },
-                            {
-                                "url": "/pelicula/cena-en-america",
-                                "title": "Cena en América (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/eqOKO63FZeKbjZ0wj9GARa2oumb.jpg"
-                            },
-                            {
-                                "url": "/pelicula/noche-de-horror",
-                                "title": "Noche de Horror (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1tSN0rsFxnCNEqymr9qGcHNekIQ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-asesinos-de-la-luna",
-                                "title": "Los asesinos de la luna (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aZXHjmhSSGUshLEdgsNCTH9z7Ix.jpg"
-                            },
-                            {
-                                "url": "/pelicula/vhs85",
-                                "title": "V/H/S/85 (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg"
-                            }
-                        ],
-                        "hasNextPage": true
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "search": {
-                "result": [
-                    {
-                        "animes": [
-                            {
-                                "url": "/anime/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
-                                "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/wCL3MkW9QNnBKpeFC9O3i0mpiIb.jpg"
-                            },
-                            {
-                                "url": "/serie/la-ii-guerra-mundial-desde-el-frente",
-                                "title": "La II Guerra Mundial: Desde el frente (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/zPtVWfcHFn7Mtr1Ezz8zQH8VZTJ.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dejar-el-mundo-atras",
-                                "title": "Dejar el mundo atrás (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/mZoRTMQa2l5uWBpf6l3wQJHmrFE.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-primera-navidad-del-mundo",
-                                "title": "La Primera Navidad Del Mundo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg"
-                            },
-                            {
-                                "url": "/serie/asesinato-en-el-fin-del-mundo",
-                                "title": "Asesinato en el fin del mundo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/7r8ry34Yp6u6goespHnjRzMCOhy.jpg"
-                            },
-                            {
-                                "url": "/anime/gyakuten-sekai-no-denchi-shoujo",
-                                "title": "Gyakuten Sekai no Denchi Shoujo (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vhAjlkMNe5bEafBNOYe6xO6un7t.jpg"
-                            },
-                            {
-                                "url": "/anime/re-zero-empezar-de-cero-en-un-mundo-diferente",
-                                "title": "Re: Zero - Empezar de cero en un mundo diferente (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg"
-                            },
-                            {
-                                "url": "/pelicula/la-maravillosa-historia-de-henry-sugar",
-                                "title": "La maravillosa historia de Henry Sugar (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/5oeLyShu9JK7C8U57xF00zuTovf.jpg"
-                            },
-                            {
-                                "url": "/serie/el-continental-del-mundo-de-john-wick",
-                                "title": "El Continental: Del Mundo de John Wick (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/eZo0YvpdhoiuyWBsUwOsNMUtA0Q.jpg"
-                            },
-                            {
-                                "url": "/pelicula/justice-league-warworld",
-                                "title": "Justice League: Warworld (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/9tx4cD3cuHhrdqLwFw8TTbfSKH2.jpg"
-                            },
-                            {
-                                "url": "/pelicula/el-mejor-del-mundo",
-                                "title": "El mejor del mundo (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/giJ6X8za9OeYccavGPvg7Vbeuoq.jpg"
-                            },
-                            {
-                                "url": "/pelicula/big-george-foreman",
-                                "title": "Big George Foreman (2023)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/ue2W0lfk6DVCQCQc1d2k64xz1xh.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-buscamundos",
-                                "title": "Los Buscamundos (2021)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/kqLhRxIjBbWG83PLcQWUGd1gNF3.jpg"
-                            },
-                            {
-                                "url": "/pelicula/los-reyes-del-mundo",
-                                "title": "Los reyes del mundo (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/yk2zKkkSfq3ZbO6UOFBWLXfeIgN.jpg"
-                            },
-                            {
-                                "url": "/pelicula/mundo-extrano",
-                                "title": "Mundo extraño (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/cAZ95yy7rLnGgaIyqCvPSnsomDU.jpg"
-                            },
-                            {
-                                "url": "/pelicula/dream-big-engineering-our-world",
-                                "title": "Dream Big: Engineering Our World (2017)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/AagYTxcO4CSa4tvDUdfYVZkMIvD.jpg"
-                            },
-                            {
-                                "url": "/serie/mexico-campeon-del-mundo",
-                                "title": "México campeón del mundo (2022)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/1eRXWOWROGlsKdEBEHpftwAe3Cn.jpg"
-                            },
-                            {
-                                "url": "/pelicula/junto-a-los-dioses-los-dos-mundos",
-                                "title": "Junto a los Dioses: Los dos mundos (2017)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/hEuIC6M7PnBewZo91DrRr3RIXYx.jpg"
-                            },
-                            {
-                                "url": "/serie/westworld",
-                                "title": "Westworld (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/vRAFOKQ2JxOagiJZaGQxmqTY1yl.jpg"
-                            },
-                            {
-                                "url": "/serie/the-walking-dead-world-beyond",
-                                "title": "The Walking Dead: World Beyond (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg"
-                            },
-                            {
-                                "url": "/serie/jurassic-world-campamento-cretacico",
-                                "title": "Jurassic World: Campamento Cretácico (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/2R5fUhsu2DEk2RAGcNsU5w5XLEU.jpg"
-                            },
-                            {
-                                "url": "/serie/cosmos-mundos-posibles",
-                                "title": "Cosmos: Mundos posibles (2020)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/uzJF1szUKdl90lzBYcleaOmPMaH.jpg"
-                            },
-                            {
-                                "url": "/serie/battlestar-galactica",
-                                "title": "Battlestar Galactica (1978)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/27jl4H9PauenZlmVBbOO1pr1lGf.jpg"
-                            },
-                            {
-                                "url": "/serie/w-entre-2-mundos",
-                                "title": "W entre 2 Mundos (2016)",
-                                "thumbnail_url": "https://image.tmdb.org/t/p/w342/jtBo40RgHzihmYYzzqkPOXyux8.jpg"
-                            }
-                        ],
-                        "hasNextPage": false
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "details": {
-                "result": {
-                    "url": "/pelicula/good-boy",
-                    "title": "Good Boy (2022)",
-                    "artist": "Gard Fartein Løkke Goli",
-                    "description": "Christian conoce a Sigrid a través de una aplicación de citas. Congenian rápidamente, pero solo hay un problema: Christian vive con Frank, un hombre que se disfraza y actúa constantemente como un perro.",
-                    "genre": "Suspense, Terror",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/pelicula/good-boy",
-                        "name": "PELÍCULA",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Timeout!",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 522",
                 "passed": false
             }
         }
@@ -596,104 +329,104 @@
                     {
                         "animes": [
                             {
-                                "url": "/pelicula/demonic-la-casa-de-la-muerte/",
-                                "title": "Demonic: La Casa de la Muerte",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/demonic-la-casa-de-la-muerte.jpg"
+                                "url": "/pelicula/inframundo-2-la-evolucion/",
+                                "title": "Inframundo: La Evolución",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/inframundo-2-la-evolucion.jpg"
                             },
                             {
-                                "url": "/pelicula/fitting-in/",
-                                "title": "Fitting In",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/fitting-in.jpg"
+                                "url": "/pelicula/ruby-la-chica-de-mis-suenos/",
+                                "title": "Ruby, La chica de mis sueños",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ruby-la-chica-de-mis-suenos.jpg"
                             },
                             {
-                                "url": "/pelicula/injustice-dioses-entre-nosotros/",
-                                "title": "Injustice: Dioses entre nosotros",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/injustice-dioses-entre-nosotros.jpg"
+                                "url": "/pelicula/un-dia-para-sobrevivir/",
+                                "title": "Un día para sobrevivir",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/un-dia-para-sobrevivir.jpg"
                             },
                             {
-                                "url": "/pelicula/30-dias-de-noche/",
-                                "title": "30 Días de Noche: Días Oscuros",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/30-dias-de-noche.jpg"
+                                "url": "/pelicula/invicto-2-el-ultimo-hombre-en-pie/",
+                                "title": "Invicto 2: El último hombre en pie",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/invicto-2-el-ultimo-hombre-en-pie.jpg"
                             },
                             {
-                                "url": "/pelicula/carrera-contra-el-tiempo/",
-                                "title": "Carrera contra el tiempo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/carrera-contra-el-tiempo.jpg"
+                                "url": "/pelicula/la-momia-la-tumba-del-emperador-dragon/",
+                                "title": "La momia: La tumba del emperador dragón",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-momia-la-tumba-del-emperador-dragon.jpg"
                             },
                             {
-                                "url": "/pelicula/007-operacion-skyfall/",
-                                "title": "007: Operación Skyfall",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/007-operacion-skyfall.jpg"
+                                "url": "/pelicula/invicto-contraataque/",
+                                "title": "Invicto: Contraataque",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/invicto-contraataque.jpg"
                             },
                             {
-                                "url": "/pelicula/american-pie-presenta-el-libro-del-amor/",
-                                "title": "American Pie presenta: El libro del amor",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-pie-presenta-el-libro-del-amor.jpg"
+                                "url": "/pelicula/ong-bak/",
+                                "title": "Ong Bak",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/ong-bak.jpg"
                             },
                             {
-                                "url": "/pelicula/el-juego-del-miedo-2/",
-                                "title": "El juego del miedo 2",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-juego-del-miedo-2.jpg"
+                                "url": "/pelicula/que-paso-ayer-parte-ii/",
+                                "title": "¿Qué Pasó Ayer? Parte II",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/que-paso-ayer-parte-ii.jpg"
                             },
                             {
-                                "url": "/pelicula/american-pie-presenta-campamento-de-bandas/",
-                                "title": "American Pie presenta: Campamento de bandas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-pie-presenta-campamento-de-bandas.jpg"
+                                "url": "/pelicula/dead-rising-watchtower/",
+                                "title": "Dead Rising - Watchtower",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/dead-rising-watchtower.jpg"
                             },
                             {
-                                "url": "/pelicula/el-juego-del-miedo-5/",
-                                "title": "El juego del miedo 5",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-juego-del-miedo-5.jpg"
+                                "url": "/pelicula/el-vengador-38321/",
+                                "title": "Priest - El vengador",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-vengador-38321.jpg"
                             },
                             {
-                                "url": "/pelicula/american-pie-presenta-la-milla-al-desnudo/",
-                                "title": "American Pie presenta: La milla al desnudo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/american-pie-presenta-la-milla-al-desnudo.jpg"
+                                "url": "/pelicula/results/",
+                                "title": "Results",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/results.jpg"
                             },
                             {
-                                "url": "/pelicula/el-juego-del-miedo/",
-                                "title": "El juego del miedo",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-juego-del-miedo.jpg"
+                                "url": "/pelicula/hitman/",
+                                "title": "Hitman",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/hitman.jpg"
                             },
                             {
-                                "url": "/pelicula/el-abuelo-sinverguenza/",
-                                "title": "El abuelo sinvergüenza",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-abuelo-sinverguenza.jpg"
+                                "url": "/pelicula/bajo-el-mismo-cielo/",
+                                "title": "Bajo el mismo cielo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/bajo-el-mismo-cielo.jpg"
                             },
                             {
-                                "url": "/pelicula/el-juego-del-miedo-6/",
-                                "title": "El juego del miedo 6",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-juego-del-miedo-6.jpg"
+                                "url": "/pelicula/sin-escape-192141/",
+                                "title": "Sin Escape",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/sin-escape-192141.jpg"
                             },
                             {
-                                "url": "/pelicula/machete-mata/",
-                                "title": "Machete Mata",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/machete-mata.jpg"
+                                "url": "/pelicula/2-16353/",
+                                "title": "Ong Bak 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/2-16353.jpg"
                             },
                             {
-                                "url": "/pelicula/el-juego-del-miedo-3/",
-                                "title": "El juego del miedo 3",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/el-juego-del-miedo-3.jpg"
+                                "url": "/pelicula/the-gunman-el-objetivo/",
+                                "title": "The Gunman: El objetivo",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/the-gunman-el-objetivo.jpg"
                             },
                             {
-                                "url": "/pelicula/los-casagrande-la-pelicula/",
-                                "title": "Los Casagrande: La película",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/los-casagrande-la-pelicula.jpg"
+                                "url": "/pelicula/tropa-de-elite-2/",
+                                "title": "Tropa de Élite 2",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/tropa-de-elite-2.jpg"
                             },
                             {
-                                "url": "/pelicula/las-cicladas-escapada-de-amigas/",
-                                "title": "Las Cícladas. Escapada de amigas",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/las-cicladas-escapada-de-amigas.jpg"
+                                "url": "/pelicula/la-vida-en-una-cancion/",
+                                "title": "La Vida En Una Canción",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-vida-en-una-cancion.jpg"
                             },
                             {
-                                "url": "/pelicula/la-petite/",
-                                "title": "La Petite",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-petite.jpg"
+                                "url": "/pelicula/gunfight-at-cold-cross/",
+                                "title": "Gunfight at Cold Cross",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/gunfight-at-cold-cross.jpg"
                             },
                             {
-                                "url": "/pelicula/shirley-798612/",
-                                "title": "Shirley",
-                                "thumbnail_url": "https://www.pelisplushd.ph/poster/shirley-798612.jpg"
+                                "url": "/pelicula/la-abeja-maya/",
+                                "title": "La abeja Maya",
+                                "thumbnail_url": "https://www.pelisplushd.ph/poster/la-abeja-maya.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -863,11 +596,11 @@
             },
             "details": {
                 "result": {
-                    "url": "/pelicula/demonic-la-casa-de-la-muerte/",
-                    "title": "Demonic: La Casa de la Muerte",
+                    "url": "/pelicula/inframundo-2-la-evolucion/",
+                    "title": "Inframundo: La Evolución",
                     "artist": "",
                     "description": "",
-                    "genre": "Suspenso, Terror",
+                    "genre": "Suspenso",
                     "status": 2,
                     "status_name": "COMPLETED",
                     "initialized": true
@@ -877,7 +610,7 @@
             "episodes": {
                 "result": [
                     {
-                        "url": "/pelicula/demonic-la-casa-de-la-muerte/",
+                        "url": "/pelicula/inframundo-2-la-evolucion/",
                         "name": "PELÍCULA",
                         "episode_number": 1.0
                     }
@@ -887,31 +620,53 @@
             "videos": {
                 "result": [
                     {
-                        "url": "https://r7spjivm14.sw-cdnstreamwish.com/hls2/01/03107/n5ff7ugb91fl_,n,h,.urlset/index-f2-v1-a1.m3u8?t=X5yq1oTJlT8hWW7AJ0RK56BIvLTyrZtkDAcymYHNEFg&s=1711476775&e=129600&f=15539290&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03411/lw1524uw5vvc_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Wm8bxIC2qZVa5ULiqJW3QYGQ7ZZkA5QWomtUZJr13wY&s=1711499489&e=129600&f=17057042&srv=jfa6yt3wm5qp&i=0.4&sp=500&p1=jfa6yt3wm5qp&p2=jfa6yt3wm5qp&asn=8075",
+                        "quality": "[LAT] StreamWish:720p",
+                        "videoUrl": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03411/lw1524uw5vvc_,n,h,.urlset/index-f2-v1-a1.m3u8?t=Wm8bxIC2qZVa5ULiqJW3QYGQ7ZZkA5QWomtUZJr13wY&s=1711499489&e=129600&f=17057042&srv=jfa6yt3wm5qp&i=0.4&sp=500&p1=jfa6yt3wm5qp&p2=jfa6yt3wm5qp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/lw1524uw5vvc"
+                        }
+                    },
+                    {
+                        "url": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03411/lw1524uw5vvc_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Wm8bxIC2qZVa5ULiqJW3QYGQ7ZZkA5QWomtUZJr13wY&s=1711499489&e=129600&f=17057042&srv=jfa6yt3wm5qp&i=0.4&sp=500&p1=jfa6yt3wm5qp&p2=jfa6yt3wm5qp&asn=8075",
+                        "quality": "[LAT] StreamWish:480p",
+                        "videoUrl": "https://txyf6n0lv9.sw-cdnstreamwish.com/hls2/01/03411/lw1524uw5vvc_,n,h,.urlset/index-f1-v1-a1.m3u8?t=Wm8bxIC2qZVa5ULiqJW3QYGQ7ZZkA5QWomtUZJr13wY&s=1711499489&e=129600&f=17057042&srv=jfa6yt3wm5qp&i=0.4&sp=500&p1=jfa6yt3wm5qp&p2=jfa6yt3wm5qp&asn=8075",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://wishembed.pro",
+                            "Referer": "https://wishembed.pro/e/lw1524uw5vvc"
+                        }
+                    },
+                    {
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03100/g4ujsyyjzjdv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fAfiuDhpvEXLi6KnHIGoQYjwI9JrY6YxQD9ihVdXoIs&s=1711499490&e=129600&f=15503379&srv=yhx57ki7aa0b1&i=0.4&sp=500&p1=yhx57ki7aa0b1&p2=yhx57ki7aa0b1&asn=8075",
                         "quality": "[CAST] StreamWish:720p",
-                        "videoUrl": "https://r7spjivm14.sw-cdnstreamwish.com/hls2/01/03107/n5ff7ugb91fl_,n,h,.urlset/index-f2-v1-a1.m3u8?t=X5yq1oTJlT8hWW7AJ0RK56BIvLTyrZtkDAcymYHNEFg&s=1711476775&e=129600&f=15539290&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03100/g4ujsyyjzjdv_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fAfiuDhpvEXLi6KnHIGoQYjwI9JrY6YxQD9ihVdXoIs&s=1711499490&e=129600&f=15503379&srv=yhx57ki7aa0b1&i=0.4&sp=500&p1=yhx57ki7aa0b1&p2=yhx57ki7aa0b1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/n5ff7ugb91fl"
+                            "Referer": "https://wishembed.pro/e/g4ujsyyjzjdv"
                         }
                     },
                     {
-                        "url": "https://r7spjivm14.sw-cdnstreamwish.com/hls2/01/03107/n5ff7ugb91fl_,n,h,.urlset/index-f1-v1-a1.m3u8?t=X5yq1oTJlT8hWW7AJ0RK56BIvLTyrZtkDAcymYHNEFg&s=1711476775&e=129600&f=15539290&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "url": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03100/g4ujsyyjzjdv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fAfiuDhpvEXLi6KnHIGoQYjwI9JrY6YxQD9ihVdXoIs&s=1711499490&e=129600&f=15503379&srv=yhx57ki7aa0b1&i=0.4&sp=500&p1=yhx57ki7aa0b1&p2=yhx57ki7aa0b1&asn=8075",
                         "quality": "[CAST] StreamWish:480p",
-                        "videoUrl": "https://r7spjivm14.sw-cdnstreamwish.com/hls2/01/03107/n5ff7ugb91fl_,n,h,.urlset/index-f1-v1-a1.m3u8?t=X5yq1oTJlT8hWW7AJ0RK56BIvLTyrZtkDAcymYHNEFg&s=1711476775&e=129600&f=15539290&srv=cizz2w6hmadb&i=0.4&sp=500&p1=cizz2w6hmadb&p2=cizz2w6hmadb&asn=8075",
+                        "videoUrl": "https://lfujiproqx2.sw-cdnstreamwish.com/hls2/01/03100/g4ujsyyjzjdv_,n,h,.urlset/index-f1-v1-a1.m3u8?t=fAfiuDhpvEXLi6KnHIGoQYjwI9JrY6YxQD9ihVdXoIs&s=1711499490&e=129600&f=15503379&srv=yhx57ki7aa0b1&i=0.4&sp=500&p1=yhx57ki7aa0b1&p2=yhx57ki7aa0b1&asn=8075",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "*/*",
                             "Origin": "https://wishembed.pro",
-                            "Referer": "https://wishembed.pro/e/n5ff7ugb91fl"
+                            "Referer": "https://wishembed.pro/e/g4ujsyyjzjdv"
                         }
                     },
                     {
-                        "url": "https://streamtape.com/get_video?id=r8YR84M81efbP2d&expires=1711546777&ip=G0WsDRSOKxSHDN&token=bb_ere6XITeJ",
+                        "url": "https://streamtape.com/get_video?id=OA4QDzBj02HZd6b&expires=1711569491&ip=FROsEHMnDS9X&token=vk1zsrjaykbt",
                         "quality": "[CAST] StreamTape",
-                        "videoUrl": "https://streamtape.com/get_video?id=r8YR84M81efbP2d&expires=1711546777&ip=G0WsDRSOKxSHDN&token=bb_ere6XITeJ"
+                        "videoUrl": "https://streamtape.com/get_video?id=OA4QDzBj02HZd6b&expires=1711569491&ip=FROsEHMnDS9X&token=vk1zsrjaykbt"
                     }
                 ],
                 "passed": true
