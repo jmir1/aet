@@ -437,8 +437,31 @@
                 "passed": true
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://rocketa-ofpersa.vmeas.cloud/hls/xqx2j5xfirokjiqbtfgspjqtutipd7vs2esrpv2qx32aj7gtl6ck5fyi4qbq/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 720p",
+                        "videoUrl": "https://rocketa-ofpersa.vmeas.cloud/hls/xqx2j5xfirokjiqbtfgspjqtutipd7vs2esrpv2qx32aj7gtl6ck5fyi4qbq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-ogu2sowh4dya.html"
+                        }
+                    },
+                    {
+                        "url": "https://user-content-nld-328-vid.moly.cloud/hls/xqx2oxumprokjiqbtg4cp6i5vo2bdwmysdyo6qifcvp5lrp7asz3yvw75fpq/index-v1-a1.m3u8",
+                        "quality": "Vidmoly - 544p",
+                        "videoUrl": "https://user-content-nld-328-vid.moly.cloud/hls/xqx2oxumprokjiqbtg4cp6i5vo2bdwmysdyo6qifcvp5lrp7asz3yvw75fpq/index-v1-a1.m3u8",
+                        "headers": {
+                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
+                            "Accept": "*/*",
+                            "Origin": "https://vidmoly.to",
+                            "Referer": "https://vidmoly.to/embed-0izdvm56c09w.html"
+                        }
+                    }
+                ],
+                "passed": true
             }
         }
     }

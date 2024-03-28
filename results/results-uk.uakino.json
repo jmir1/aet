@@ -117,6 +117,11 @@
                     {
                         "animes": [
                             {
+                                "url": "/animeukr/anime-series/19808-metaleva-ruzh-1-sezon.html",
+                                "title": "Металева Руж",
+                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/13/d79f73f0815b5a8229468c4e3df9de.jpg"
+                            },
+                            {
                                 "url": "/animeukr/anime-series/20422-cherepogoloviy-prodavec-knig-honda-1-sezon.html",
                                 "title": "Черепоголовий продавець книг Хонда",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/57/95db9a83eb30a4ed0b8d78698ac31e.jpg"
@@ -310,11 +315,6 @@
                                 "url": "/animeukr/anime-series/19020-beybleyd-x-1-sezon.html",
                                 "title": "Бейблейд X",
                                 "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/1a/863664fe6650c8d3d54b4176a1ae3d.jpg"
-                            },
-                            {
-                                "url": "/animeukr/anime-solo/20788-velikiy-shahray-razblyuto.html",
-                                "title": "Великий шахрай: Разблюто",
-                                "thumbnail_url": "https://uakino.club/uploads/mini/mainpics/eb/d3e8a896bda547f310f53cac969853.jpg"
                             }
                         ],
                         "hasNextPage": true
@@ -406,8 +406,14 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "https://jk19ocmje0yql3tj.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8",
+                        "quality": "480p",
+                        "videoUrl": "https://jk19ocmje0yql3tj.ashdi.vip/content/stream/new/naruto_20022007/naruto_220__going_on_a_journey_20699/hls/480/index.m3u8"
+                    }
+                ],
+                "passed": true
             }
         }
     }
