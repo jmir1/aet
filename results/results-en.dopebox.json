@@ -473,31 +473,15 @@
                 "passed": true
             },
             "details": {
-                "result": {
-                    "url": "/movie/watch-rest-in-peace-online-hd-107542",
-                    "title": "Rest in Peace",
-                    "author": "Kenya Films, Benteveo, Benteveo Producciones",
-                    "description": " Cornered by debt, a family man decides to disappear. Can you forget a whole life? Is it possible to start from scratch and never look back? After many years, a chance discovery tests the temptation of wanting to know what life is like for his family — but nothing is as he expected.",
-                    "genre": "Thriller, Drama",
-                    "status": 2,
-                    "status_name": "COMPLETED",
-                    "thumbnail_url": "https://img.dopebox.to/xxrz/250x400/243/17/80/17809ef133bbb8ad8d18b91863e780f6/17809ef133bbb8ad8d18b91863e780f6.jpg",
-                    "initialized": true
-                },
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "episodes": {
-                "result": [
-                    {
-                        "url": "/ajax/movie/episodes/107542",
-                        "name": "Rest in Peace",
-                        "episode_number": 1.0
-                    }
-                ],
-                "passed": true
+                "error": "java.net.SocketTimeoutException: timeout",
+                "passed": false
             },
             "videos": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty video list",
+                "error": "java.net.SocketTimeoutException: timeout",
                 "passed": false
             }
         }

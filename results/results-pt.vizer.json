@@ -227,6 +227,42 @@
                     {
                         "animes": [
                             {
+                                "url": "/serie/online/x-men-97",
+                                "title": "X-Men '97",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
+                            },
+                            {
+                                "url": "/serie/online/constelacao",
+                                "title": "Constelação",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22634.webp"
+                            },
+                            {
+                                "url": "/serie/online/star-wars-the-bad-batch",
+                                "title": "Star Wars: The Bad Batch",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19343.webp"
+                            },
+                            {
+                                "url": "/serie/online/the-new-look",
+                                "title": "The New Look",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22632.webp"
+                            },
+                            {
+                                "url": "/serie/online/palm-royale",
+                                "title": "Palm Royale",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22658.webp"
+                            },
+                            {
+                                "url": "/serie/online/o-herdeiro-impossivel",
+                                "title": "O Herdeiro Impossível",
+                                "status": 1,
+                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22644.webp"
+                            },
+                            {
                                 "url": "/serie/online/o-regime",
                                 "title": "O Regime",
                                 "status": 1,
@@ -309,42 +345,6 @@
                                 "title": "As Aventuras Inventadas de Dick Turpin",
                                 "status": 1,
                                 "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22646.webp"
-                            },
-                            {
-                                "url": "/serie/online/tokyo-vice",
-                                "title": "Tokyo Vice",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19660.webp"
-                            },
-                            {
-                                "url": "/serie/online/ltimo-ato",
-                                "title": "Último Ato",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22655.webp"
-                            },
-                            {
-                                "url": "/serie/online/as-garotas-do-nibus-jornalistas-de-campanha",
-                                "title": "As Garotas do Ônibus: Jornalistas de Campanha",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22652.webp"
-                            },
-                            {
-                                "url": "/serie/online/x-men-97",
-                                "title": "X-Men '97",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22659.webp"
-                            },
-                            {
-                                "url": "/serie/online/the-equalizer",
-                                "title": "Sem Misericórdia",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/19218.webp"
-                            },
-                            {
-                                "url": "/serie/online/o-herdeiro-impossivel",
-                                "title": "O Herdeiro Impossível",
-                                "status": 1,
-                                "thumbnail_url": "https://vizertv.in/content/series/posterPt/342/22644.webp"
                             }
                         ],
                         "hasNextPage": false
@@ -598,7 +598,7 @@
                 "passed": true
             },
             "videos": {
-                "error": "java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no scheme was found for ",
+                "error": "eu.kanade.tachiyomi.network.HttpException: HTTP error 429",
                 "passed": false
             }
         }
