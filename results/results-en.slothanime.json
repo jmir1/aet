@@ -73,8 +73,74 @@
                 "passed": true
             },
             "latest": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/anime/my-senior-brother-is-too-steady-2",
+                                "title": "My Senior Brother Is Too Steady 2",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11782.png"
+                            },
+                            {
+                                "url": "/anime/akumakun",
+                                "title": "Akuma-kun",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11228.png"
+                            },
+                            {
+                                "url": "/anime/gods-games-we-play",
+                                "title": "Gods' Games We Play",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11885.png"
+                            },
+                            {
+                                "url": "/anime/metallic-rouge",
+                                "title": "Metallic Rouge",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11727.png"
+                            },
+                            {
+                                "url": "/anime/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard",
+                                "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11716.png"
+                            },
+                            {
+                                "url": "/anime/gushing-over-magical-girls",
+                                "title": "Gushing Over Magical Girls",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11665.png"
+                            },
+                            {
+                                "url": "/anime/classroom-of-the-elite-season-3",
+                                "title": "Classroom of the Elite Season 3",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11667.png"
+                            },
+                            {
+                                "url": "/anime/doctor-elise-the-royal-lady-with-the-lamp",
+                                "title": "Doctor Elise: The Royal Lady with the Lamp",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11718.png"
+                            },
+                            {
+                                "url": "/anime/dubu-wangu-2nd-season",
+                                "title": "Dubu Wangu 2nd Season",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11791.png"
+                            },
+                            {
+                                "url": "/anime/swallowed-star-4",
+                                "title": "Swallowed Star 4",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11475.png"
+                            },
+                            {
+                                "url": "/anime/bottomtier-character-tomozaki-2nd-stage",
+                                "title": "Bottom-Tier Character Tomozaki 2nd Stage",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11668.png"
+                            },
+                            {
+                                "url": "/anime/the-secrets-of-star-divine-arts",
+                                "title": "The Secrets of Star Divine Arts",
+                                "thumbnail_url": "https://sacdn.xyz/storage/thumbnails/11759.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "search": {
                 "result": [
@@ -181,19 +247,24 @@
                 "passed": false
             },
             "episodes": {
-                "error": "anitester.tester.FailedTestException: java.lang.Exception: Empty episode list",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/player/gods-games-we-play/145228",
+                        "name": "Episode 1"
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "result": [
                     {
-                        "url": "https://slothanime.com/player-url/?vrf=6VKOzve04cVVChHfgsvaXQ%3D%3D",
+                        "url": "https://slothanime.com/player-url/145228?vrf=NnUZQ%2Fx6v6gJAUeDOJQhFQ%3D%3D",
                         "quality": "Video",
-                        "videoUrl": "https://slothanime.com/player-url/?vrf=6VKOzve04cVVChHfgsvaXQ%3D%3D",
+                        "videoUrl": "https://slothanime.com/player-url/145228?vrf=NnUZQ%2Fx6v6gJAUeDOJQhFQ%3D%3D",
                         "headers": {
                             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0",
                             "Accept": "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-                            "Referer": "https://slothanime.com"
+                            "Referer": "https://slothanime.com/player/gods-games-we-play/145228"
                         }
                     }
                 ],

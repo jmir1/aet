@@ -73,16 +73,96 @@
                 "passed": true
             },
             "search": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "animes": [
+                            {
+                                "url": "/watch/ninjascope-magic-world-of-ninjas.html",
+                                "title": "Ninjascope: Magic World of Ninjas",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/ninjascope-magic-world-of-ninjas-thumb.png"
+                            },
+                            {
+                                "url": "/watch/super-sentai-world.html",
+                                "title": "Super Sentai World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/super-sentai-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-grease.html",
+                                "title": "Build NEW WORLD: Kamen Rider Grease",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-grease-thumb.png"
+                            },
+                            {
+                                "url": "/watch/build-new-world-kamen-rider-cross-z.html",
+                                "title": "Build NEW WORLD: Kamen Rider Cross-Z",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/build-new-world-kamen-rider-cross-z-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-kiva-king-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Kiva: King of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-kiva-king-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world.html",
+                                "title": "Kamen Rider Backwards-Kiva Queen of the Castle in the Demon World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-backwards-kiva-queen-of-the-castle-in-the-demon-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-world-j-zo.html",
+                                "title": "Kamen Rider World ( J & ZO )",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-world-j-zo-thumb.png"
+                            },
+                            {
+                                "url": "/watch/kamen-rider-black-rx-run-all-over-the-world.html",
+                                "title": "Kamen Rider Black RX – Run All Over The World",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/kamen-rider-black-rx-run-all-over-the-world-thumb.png"
+                            },
+                            {
+                                "url": "/watch/daitetsujin-17-movie-2.html",
+                                "title": "Daitetsujin 17 Movie 2",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/daitetsujin-17-movie-2-thumb.png"
+                            },
+                            {
+                                "url": "/watch/daitetsujin-17-movie-1.html",
+                                "title": "Daitetsujin 17 Movie 1",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/daitetsujin-17-movie-1-thumb.png"
+                            },
+                            {
+                                "url": "/watch/watari-the-conqueror.html",
+                                "title": "Watari the Conqueror",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/watari-the-conqueror-thumb.png"
+                            },
+                            {
+                                "url": "/watch/sh15uya-shibuya-fifteen.html",
+                                "title": "Sh15uya – Shibuya Fifteen",
+                                "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/sh15uya-shibuya-fifteen-thumb.png"
+                            }
+                        ],
+                        "hasNextPage": true
+                    }
+                ],
+                "passed": true
             },
             "details": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": {
+                    "url": "/watch/yongary-monster-from-the-deep.html",
+                    "title": "Yongary, Monster from the Deep",
+                    "author": "Year 1967",
+                    "description": "Yongary, Monster from the Deep is a 1967 giant monster film directed by Ki-duk Kim. It was released theatrically in South Korea on August 13th, 1967 under the title Taekoesu Yonggary.",
+                    "genre": "Godzilla, Movie",
+                    "thumbnail_url": "https://tokuzilla.net/wp-content/uploads/thumb/yongary-monster-from-the-deep-thumb.png",
+                    "initialized": true
+                },
+                "passed": true
             },
             "episodes": {
-                "error": "java.net.SocketTimeoutException: timeout",
-                "passed": false
+                "result": [
+                    {
+                        "url": "/watch/yongary-monster-from-the-deep.html",
+                        "name": "Movie",
+                        "episode_number": 1.0
+                    }
+                ],
+                "passed": true
             },
             "videos": {
                 "error": "java.lang.NullPointerException",
